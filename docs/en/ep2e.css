@@ -1,0 +1,152 @@
+/* alignment stuff */
+.indent {
+  margin-left: 24px;
+}
+.centered {
+  text-align: center;
+}
+.left-aligned {
+  text-align: left;
+}
+.right-aligned {
+  text-align: right;
+}
+
+/* blockquote stuff */
+blockquote {
+  padding: 16px;
+}
+blockquote > :first-child {
+  margin-top: 0;
+}
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* blockquote table */
+.table > :is(p, h2, h3, h4) {
+  text-align: center;
+  background: var(--table-header-bg);
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 3px;
+}
+
+/* blockquote framed-table */
+.framed-table {
+  padding: 8px 16px 0 16px;
+  border: 3px solid var(--fg);
+  background-color: transparent;
+}
+.framed-table > table {
+  width: calc(100% + 32px);
+  margin-left: -16px;
+}
+
+/* basic table */
+table {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+table td,
+table thead th {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+table :is(tr, td, th) {
+  border: 0 !important;
+}
+table tr > :first-child {
+  padding-left: 15px;
+}
+table tr > :last-child {
+  padding-right: 15px;
+}
+
+/* table layout markers */
+.fixed table {
+  table-layout: fixed;
+}
+.tl1 tr > :nth-child(1),
+.tl2 tr > :nth-child(2),
+.tl3 tr > :nth-child(3),
+.tl4 tr > :nth-child(4),
+.tl5 tr > :nth-child(5),
+.tl6 tr > :nth-child(6),
+.tl7 tr > :nth-child(7),
+.tl8 tr > :nth-child(8),
+.tl9 tr > :nth-child(9) {
+  text-align: left;
+}
+.tr1 tr > :nth-child(1),
+.tr2 tr > :nth-child(2),
+.tr3 tr > :nth-child(3),
+.tr4 tr > :nth-child(4),
+.tr5 tr > :nth-child(5),
+.tr6 tr > :nth-child(6),
+.tr7 tr > :nth-child(7),
+.tr8 tr > :nth-child(8),
+.tr9 tr > :nth-child(9) {
+  text-align: right;
+}
+.tc1 tr > :nth-child(1),
+.tc2 tr > :nth-child(2),
+.tc3 tr > :nth-child(3),
+.tc4 tr > :nth-child(4),
+.tc5 tr > :nth-child(5),
+.tc6 tr > :nth-child(6),
+.tc7 tr > :nth-child(7),
+.tc8 tr > :nth-child(8),
+.tc9 tr > :nth-child(9) {
+  text-align: center;
+}
+
+/* title formatting */
+h1 {
+  text-transform: uppercase;
+}
+:is(h2, h3, h4) {
+  margin-bottom: 0;
+}
+:is(h2, h3, h4) + *,
+:is(h2, h3, h4) + * > :first-child {
+  margin-top: 0 !important;
+}
+
+/* column support */
+.two-columns {
+  column-count: 2;
+}
+.two-columns > :first-child {
+  margin-top: 0;
+}
+.two-columns > :last-child {
+  margin-bottom: 0;
+}
+
+/* eclipse phase aptitude superscripts */
+.ep-stats sup {
+  padding-left: 0.2em;
+  text-decoration: underline dotted;
+}
+
+/* stat-list */
+.stat-list ul,
+ul.stat-list {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-left: 0;
+  list-style-type: none;
+}
+.stat-list li,
+ul.stat-list li {
+  text-indent: -24px;
+  padding-left: 24px;
+}
+
+/* no spacing inside tables */
+td * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}

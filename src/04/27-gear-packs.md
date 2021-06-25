@@ -1,0 +1,259 @@
+# Gear Packs
+
+Every character receives two gear packs during character creation. The first of these is according to your type of campaign: Firewall, criminal, or gatecrashing. The second is based on the profession chosen in Step 2.
+
+The gear provided in these packs is optional. If there is another piece of gear you want your character to have — whether from another gear pack or from listings in the [Gear chapter](../16/00-gear.md) — then simply swap it out with gear from your packs of an equivalent GP value.
+
+These gear packs can also be used as an easy way to assign gear for new missions during gameplay ([Acquiring Gear](../16/02-acquiring-gear.md)).
+
+All starting gear includes the physical gear item and the digital blueprint for nanofabrication.
+
+**Free Muse:** Every character starts with a [muse ALI](../13/07-ais-and-muses.md#muses) for free.
+
+**Infomorphs:** The gear packs are built with embodied characters in mind. If you have chosen an infomorph, some of it may not work with your concept. In this case, you can either adopt the optional infomorph gear pack or switch out the gear you can’t use for meshware, apps, services, bots, etc. of an equivalent GP.
+
+## Campaign Packs
+
+### Firewall Agent/Criminal
+
+| GEAR                  | Comp/<wbr>GP | Description                                                                     |
+| :-------------------- | :----------: | :------------------------------------------------------------------------------ |
+| Anonymizer            |    Min/1     | Masks your mesh ID.                                                             |
+| Armor Vest (Light)\*  |    Min/1     | AV 4/10. Concealable.                                                           |
+| Fake Ego ID           |   Maj/R/3    | Forged ID and back history, with its own rep scores.                            |
+| Medium Pistol Firearm |   Min/R/1    | DV 2d10, SA/BF/FA, Ammo 15 + 1, Range 30.                                       |
+| Smart Clothing\*      |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary. |
+| TacNet App            |    Mod/2     | Share tactical data in real-time.                                               |
+| VPN App               |    Min/1     | Creates virtual private network.                                                |
+
+<blockquote class="indent">
+
+#### \* Synthmorph Alternative
+
+| GEAR             | Comp/<wbr>GP | Description         |
+| :--------------- | :----------: | :------------------ |
+| Anti-Glare       |    Min/1     | No glare modifiers. |
+| Industrial Armor |    Min/1     | AV +6/+4.           |
+
+</blockquote>
+
+### Gatecrashing
+
+| GEAR                  | Comp/<wbr>GP | Description                                                               |
+| :-------------------- | :----------: | :------------------------------------------------------------------------ |
+| Autocook\*            |    Min/1     | Fab food and drink only.                                                  |
+| Electronic Rope       |    Min/1     | Controllable rope.                                                        |
+| Healing Spray\*       |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                  |
+| Medium Pistol Firearm |   Min/R/1    | DV 2d10, SA/BF/FA, Ammo 15 + 1, Range 30.                                 |
+| Portable SolArchive   |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh. |
+| Standard Vacsuit\*    |    Maj/3     | As smart clothes, protects from vacuum, 48 hours air, AV 8/6.             |
+| TacNet App            |    Mod/2     | Share tactical data in real-time.                                         |
+
+<blockquote class="indent">
+
+#### \* Synthmorph Alternative
+
+| GEAR             | Comp/<wbr>GP | Description                                                     |
+| :--------------- | :----------: | :-------------------------------------------------------------- |
+| Anti-Glare       |    Min/1     | No glare modifiers.                                             |
+| Industrial Armor |    Min/1     | AV +6/+4.                                                       |
+| Medichines       |    Maj/3     | Ignore 1 wound, heal faster, drug/toxin effect/duration halved. |
+
+</blockquote>
+
+### Optional Pack: Infomorph
+
+| GEAR              | Comp/<wbr>GP | Description                                                                      |
+| :---------------- | :----------: | :------------------------------------------------------------------------------- |
+| Drone Rig         |    Mod/2     | Ignore the −10 modifier when jamming.                                            |
+| Enhanced Security |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
+| Exploit App       |   Mod/R/2    | Hacking library tool.                                                            |
+| Private Server    |    Min/1     | Private server, self-administrated.                                              |
+| Gnat              |    Min/1     | Surveillance rotorcraft. Small size.                                             |
+| Guardian Angel    |    Mod/2     | Personal defense rotorcraft. Small size.                                         |
+
+## Profession Packs
+
+### Academic
+
+| GEAR                  | Comp/<wbr>GP | Description                                                                              |
+| :-------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| Creepy Bot            |    Min/1     | Worn companion bot. Small size.                                                          |
+| Holographic Projector |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
+| Microcar              |    Mod/2     | One-person two-wheeler.                                                                  |
+| Multi-Tasking         |    Mod/2     | Focus on 2 things at once. +1 Insight.                                                   |
+| Neem (5 doses)        |    Min/1     | +20&nbsp;COG Check for recall of memories learned while on Neem.                         |
+| Portable SolArchive   |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh.                |
+| Servitor Bot          |    Min/1     | Common helper/cook/janitor bots.                                                         |
+| Simulspace            |    Min/1     | Access to a VR space.                                                                    |
+
+### Covert Operative
+
+| GEAR                   | Comp/<wbr>GP | Description                                                                              |
+| :--------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| Chameleon Cloak        |    Mod/2     | Camouflage, +10 Infiltrate, +30 stationary.                                              |
+| Cleaner Swarm          |    Min/1     | Cleans, eliminates forensic evidence.                                                    |
+| Covert Operations Tool |   Maj/R/3    | Bypasses locks, cuts/repairs holes, Hardware: Electronics 60 vs. electronic locks, more. |
+| Microbug               |    Min/1     | Micro-sized camera/audio recorder.                                                       |
+| Skinflex\*             |    Mod/2     | Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests.                  |
+| Spy Nanoswarm          |    Min/1     | Surveillance, Perceive 60.                                                               |
+
+<blockquote class="indent">
+
+#### \* Synthmorph Alternative
+
+| GEAR           | Comp/<wbr>GP | Description                                                 |
+| :------------- | :----------: | :---------------------------------------------------------- |
+| Synthetic Mask |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests. |
+
+</blockquote>
+
+### Enforcer
+
+| GEAR                | Comp/<wbr>GP | Description                                                               |
+| :------------------ | :----------: | :------------------------------------------------------------------------ |
+| Aggro (5 doses)     |    Min/1     | +20 Provoke to intimidate/taunt, −20 other social tests.                  |
+| Claws               |    Min/1     | DV 2d6, concealable.                                                      |
+| Flex Cutter         |    Min/1     | Flexible blade, DV 1d10 + 3, concealable.                                 |
+| Grin (5 doses)      |    Min/1     | Ignore 1 wound.                                                           |
+| Muscle Augmentation |    Maj/3     | Muscles enhanced with myofibers. +1d6&nbsp;DV melee, +10&nbsp;SOM Checks. |
+| Shock Glove         |    Min/1     | DV 1d6, Shock, Touch-Only.                                                |
+| Shredder            |   Mod/R/2    | Flechette gun, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, Two-Handed.     |
+
+### Explorer
+
+| GEAR              | Comp/<wbr>GP | Description                                                                            |
+| :---------------- | :----------: | :------------------------------------------------------------------------------------- |
+| Breadcrumb System |    Min/1     | Leaves mote trail for meshing/positioning.                                             |
+| Direction Sense   |    Min/1     | Innate sense of direction and distance.                                                |
+| Enhanced Vision   |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
+| Mission Recorder  |    Min/1     | Backs up all mission data.                                                             |
+| Pressure Tent     |    Mod/2     | Self-erecting shelter for 4, built-in breather.                                        |
+| Saucer            |    Min/1     | Spinning disc recon drone. Small size.                                                 |
+| Scout Missile     |    Mod/2     | Maps 5&nbsp;km radius or 10&nbsp;km in one direction in 20 minutes, Perceive 60.       |
+
+### Face/Dealer
+
+| GEAR             | Comp/<wbr>GP | Description                                                                                     |
+| :--------------- | :----------: | :---------------------------------------------------------------------------------------------- |
+| Enhanced Hearing |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                                  |
+| Guardian Angel   |    Mod/2     | Personal defense rotorcraft. Small size.                                                        |
+| Medium Fabber    |    Mod/2     | Fab small items.                                                                                |
+| Nanodetector     |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60. |
+| Neuromodulation  |    Mod/2     | Control over neurotransmitters and emotions. +1 Moxie.                                          |
+| Smart Hawk       |    Min/1     | Used for surveillance.                                                                          |
+| Stiff (5 doses)  |    Min/1     | +10&nbsp;SAV/WIL Checks vs. Persuade/Provoke, Enhanced Behavior: Stubborn (Level 2).            |
+
+### Genehacker
+
+| GEAR               | Comp/<wbr>GP | Description                                                     |
+| :----------------- | :----------: | :-------------------------------------------------------------- |
+| Archive            |    Min/1     | +10 Research Tests related to one Know skill.                   |
+| Dino Pet           |    Min/1     | Genehacked dinosaur pets.                                       |
+| Fokus (5 doses)    |    Min/1     | Enhanced Behavior: Obsessive (2), reduce timeframes 25%.        |
+| Medichines         |    Maj/3     | Ignore 1 wound, heal faster, drug/toxin effect/duration halved. |
+| Pusher Swarm       |   Min/R/1    | + drug/toxin Exposes biomorphs to drug/toxin.                   |
+| Specimen Container |    Min/1     | Holds samples in stasis conditions.                             |
+| Tools (Kit)        |    Min/1     | Portable, applies to specific skill.                            |
+| Twitch (5 doses)   |   Min/R/1    | −20 actions, SOM Check vs. incapacitation.                      |
+
+### Hacker
+
+| GEAR          | Comp/<wbr>GP | Description                               |
+| :------------ | :----------: | :---------------------------------------- |
+| Exploit App   |   Mod/R/2    | Hacking library tool.                     |
+| Gray Box      |    Min/1     | Establishes a wireless mesh link.         |
+| Radio Booster |    Min/1     | Extends radio ranges, 25/250km range.     |
+| Sniffer App   |    Mod/2     | Collect/view traffic between two systems. |
+| Spoofer App   |   Mod/R/2    | Fake transmissions and mesh IDs.          |
+| Tracker App   |    Mod/2     | Trace connections.                        |
+
+### Investigator
+
+| GEAR               | Comp/<wbr>GP | Description                                                                        |
+| :----------------- | :----------: | :--------------------------------------------------------------------------------- |
+| Biometric Matcher  |    Min/1     | Match biometric patterns.                                                          |
+| Brainprint Scanner |    Min/1     | Scans brainprint in 5 minutes.                                                     |
+| Cuffband           |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6.                       |
+| Klar (5 doses)     |    Min/1     | +10 Perceive, no distraction modifiers.                                            |
+| Microbug           |    Min/1     | Micro-sized camera/audio recorder.                                                 |
+| Oracles            |    Mod/2     | Negate distraction modifiers.                                                      |
+| Scout Nanoswarm    |    Min/1     | Maps area, collects forensic evidence, Know: Chemistry 60, Medicine: Forensics 60. |
+| Speck              |    Min/1     | Insectoid spy bots. Very small size.                                               |
+| Spy Nanoswarm      |    Min/1     | Surveillance, Perceive 60.                                                         |
+
+### Medic
+
+| GEAR           | Comp/<wbr>GP | Description                                                                   |
+| :------------- | :----------: | :---------------------------------------------------------------------------- |
+| Docbot         |    Maj/3     | Medical bot.                                                                  |
+| Healing Spray  |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                      |
+| Healing Vat    |    Maj/3     | Heal/cure biomorphs, customize/augment morph.                                 |
+| Meds (5 doses) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
+| Med Scanner    |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
+
+### Mindhacker
+
+| GEAR              | Comp/<wbr>GP | Description                                |
+| :---------------- | :----------: | :----------------------------------------- |
+| Comfurt (5 doses) |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.       |
+| Eelware           |    Min/1     | DV 1d6, shock effect, touch-only.          |
+| Ego Bridge        |    Mod/2     | Upload from/download to biological brains. |
+| Multi-Tasking     |    Mod/2     | Focus on 2 things at once. +1 Insight.     |
+| Private Server    |    Mod/2     | Private server, managed by others.         |
+| Psychosurgery App |    Mod/2     | Edit minds.                                |
+
+### Scavenger
+
+| GEAR                   | Comp/<wbr>GP | Description                                                                                     |
+| :--------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
+| Breadcrumb System      |    Min/1     | Leaves mote trail for meshing/positioning.                                                      |
+| Diamond Axe            |    Min/1     | DV 2d10 + 3, armor-piercing, reach, two-handed.                                                 |
+| Disassembly Tools      |    Mod/2     | Heavy and smart tools for taking things apart.                                                  |
+| Guardian Swarm         |    Mod/2     | Disables other swarms; both swarms take DV 5 per turn.                                          |
+| Nanodetector           |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60. |
+| Orbital Hash (5 doses) |    Min/1     | Ignore 1 trauma, −10 Know Tests/memory-related COG Checks.                                      |
+| Robomule               |    Mod/2     | Gear-hauling bot.                                                                               |
+
+### Scientist
+
+| GEAR               | Comp/<wbr>GP | Description                                                                            |
+| :----------------- | :----------: | :------------------------------------------------------------------------------------- |
+| Enhanced Vision    |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
+| Mind Amp           |    Maj/3     | Accelerates mind. +2 Insight.                                                          |
+| Mission Recorder   |    Min/1     | Backs up all mission data.                                                             |
+| Pocket Lab         |    Mod/2     | Analyze gases, liquids, materials, Know: Chemistry 60.                                 |
+| Servitor           |    Min/1     | Common helper/cook/janitor bots.                                                       |
+| Specimen Container |    Min/1     | Holds samples in stasis conditions.                                                    |
+
+### Soldier
+
+| GEAR                  | Comp/<wbr>GP | Description                                                                            |
+| :-------------------- | :----------: | :------------------------------------------------------------------------------------- |
+| Assault Rifle Railgun |   Mod/R/2    | DV 2d10 + 2, SA/BF/FA, Ammo 90 + 1, Range 150, Armor-Piercing, Long, Two-Handed.       |
+| Enhanced Vision       |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
+| Grin (5 doses)        |    Min/1     | Ignore 1 wound.                                                                        |
+| Meds (5 doses)\*      |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                         |
+| Neurachem             |    Maj/3     | Enhanced synapses and neurotransmitters. +2 Vigor.                                     |
+
+<blockquote class="indent">
+
+#### \* Synthmorph Alternative
+
+| GEAR        | Comp/<wbr>GP | Description                                                 |
+| :---------- | :----------: | :---------------------------------------------------------- |
+| Fixer Swarm |    Mod/2     | Repairs 1d10 damage per hour or 1 wound per day for 4 days. |
+
+</blockquote>
+
+### Techie
+
+| GEAR             | Comp/<wbr>GP | Description                                              |
+| :--------------- | :----------: | :------------------------------------------------------- |
+| Automech         |    Mod/2     | Repair bot.                                              |
+| Electrical Sense |    Min/1     | Sense electrical fields within 5&nbsp;m.                 |
+| Fixer Swarm      |    Mod/2     | Repairs DV 1d10 per hour or 1 wound per day for 5 days.  |
+| Fokus (5 doses)  |    Min/1     | Enhanced Behavior: Obsessive (2), reduce timeframes 25%. |
+| Medium Fabber    |    Mod/2     | Fab small items.                                         |
+| Tools (Kit)      |    Min/1     | Portable, applies to specific skill.                     |
+| Utilitool        |    Min/1     | All-purpose smart-material tool.                         |

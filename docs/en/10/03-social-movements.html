@@ -1,0 +1,372 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Social Movements - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="The roleplaying game of transhuman survival">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infamy</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Starting Out</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> What is Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Core Concepts</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Themes</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Core Campaigns</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Character Archetypes</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Setting Overview</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Game Mechanics</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> How to Play</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Types of Tests</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Actions &amp; Time</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Initiative &amp; Order of Actions</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Pools</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Making Characters</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Character Stats</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Character Creation Overview</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Character Creation Advice</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Step 1: Background</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Step 2: Carrer</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Step 3: Interest</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Step 4: Faction</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Step 5: Aptitude Template</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Step 6: Total Skills</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Step 7: Languages</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Step 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Step 9: Reputation</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Step 10: Customization</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Step 11: Derived Stats</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Step 12: Starting Morph &amp; Gear</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Step 13: Motivations</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Final Touches</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Skills</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Active Skill List</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Know Skills</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morphs</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Common Biomorphs</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Pod Biomorphs</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Uplift Biomorphs</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Synthmorphs</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorphs</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Gear Packs</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traits</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Character Creation Example</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Sample Characters</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> How It Came to Be</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Slouching Towards Singularity</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Timeline</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Accelerated Future</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../07/01-beyond-death.html"><strong aria-hidden="true">7.1.</strong> Beyond Death</a></li><li class="chapter-item "><a href="../07/02-new-life.html"><strong aria-hidden="true">7.2.</strong> New Life</a></li><li class="chapter-item "><a href="../07/03-information-society.html"><strong aria-hidden="true">7.3.</strong> Information Society</a></li><li class="chapter-item "><a href="../07/04-mind-hacking.html"><strong aria-hidden="true">7.4.</strong> Mind Hacking</a></li><li class="chapter-item "><a href="../07/05-space-and-other-worlds.html"><strong aria-hidden="true">7.5.</strong> Space &amp; Other Worlds</a></li><li class="chapter-item "><a href="../07/06-habitats.html"><strong aria-hidden="true">7.6.</strong> Habitats</a></li><li class="chapter-item "><a href="../07/07-nanofabrication.html"><strong aria-hidden="true">7.7.</strong> Nanofabrication</a></li></ol></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Transhuman Culture</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../08/01-fear-and-paranoia.html"><strong aria-hidden="true">8.1.</strong> Fear and Paranoia</a></li><li class="chapter-item "><a href="../08/02-public-and-private-life.html"><strong aria-hidden="true">8.2.</strong> Public and Private Life</a></li><li class="chapter-item "><a href="../08/03-earth-s-legacy.html"><strong aria-hidden="true">8.3.</strong> Earth's Legacy</a></li><li class="chapter-item "><a href="../08/04-culture-and-clades.html"><strong aria-hidden="true">8.4.</strong> Culture &amp; Clades</a></li><li class="chapter-item "><a href="../08/05-transhuman-sexuality.html"><strong aria-hidden="true">8.5.</strong> Transhuman Sexuality</a></li><li class="chapter-item "><a href="../08/06-family-and-children.html"><strong aria-hidden="true">8.6.</strong> Family and Children</a></li><li class="chapter-item "><a href="../08/07-media-and-entertainment.html"><strong aria-hidden="true">8.7.</strong> Media &amp; Entertainment</a></li></ol></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> The New Political Economy</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../09/01-the-system-split.html"><strong aria-hidden="true">9.1.</strong> The System Split</a></li><li class="chapter-item "><a href="../09/02-market-economies.html"><strong aria-hidden="true">9.2.</strong> Market Economies</a></li><li class="chapter-item "><a href="../09/03-the-new-economy.html"><strong aria-hidden="true">9.3.</strong> The New Economy</a></li><li class="chapter-item "><a href="../09/04-keeping-the-peace.html"><strong aria-hidden="true">9.4.</strong> Keeping the Peace</a></li><li class="chapter-item "><a href="../09/05-crime.html"><strong aria-hidden="true">9.5.</strong> Crime</a></li></ol></li><li class="chapter-item expanded "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Factions</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../10/01-inner-system-polities.html"><strong aria-hidden="true">10.1.</strong> Inner System Polities</a></li><li class="chapter-item "><a href="../10/02-outer-system-polities.html"><strong aria-hidden="true">10.2.</strong> Outer System Polities</a></li><li class="chapter-item expanded "><a href="../10/03-social-movements.html" class="active"><strong aria-hidden="true">10.3.</strong> Social Movements</a></li><li class="chapter-item "><a href="../10/04-hypercorporations.html"><strong aria-hidden="true">10.4.</strong> Hypercorporations</a></li><li class="chapter-item "><a href="../10/05-religious-groups.html"><strong aria-hidden="true">10.5.</strong> Religious Groups</a></li><li class="chapter-item "><a href="../10/06-criminal-groups.html"><strong aria-hidden="true">10.6.</strong> Criminal Groups</a></li><li class="chapter-item "><a href="../10/07-firewall.html"><strong aria-hidden="true">10.7.</strong> Firewall</a></li></ol></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> System Gazetteer</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../11/01-sol-and-mercury.html"><strong aria-hidden="true">11.1.</strong> Sol and Mercury</a></li><li class="chapter-item "><a href="../11/02-venus.html"><strong aria-hidden="true">11.2.</strong> Venus</a></li><li class="chapter-item "><a href="../11/03-earth-and-earth-orbit.html"><strong aria-hidden="true">11.3.</strong> Earth and Earth Orbit</a></li><li class="chapter-item "><a href="../11/04-luna.html"><strong aria-hidden="true">11.4.</strong> Luna</a></li><li class="chapter-item "><a href="../11/05-mars.html"><strong aria-hidden="true">11.5.</strong> Mars</a></li><li class="chapter-item "><a href="../11/06-the-main-belt.html"><strong aria-hidden="true">11.6.</strong> The Main Belt</a></li><li class="chapter-item "><a href="../11/07-jupiter.html"><strong aria-hidden="true">11.7.</strong> Jupiter</a></li><li class="chapter-item "><a href="../11/08-saturn.html"><strong aria-hidden="true">11.8.</strong> Saturn</a></li><li class="chapter-item "><a href="../11/09-uranus-and-neptune.html"><strong aria-hidden="true">11.9.</strong> Uranus and Neptune</a></li><li class="chapter-item "><a href="../11/10-the-system-fringe.html"><strong aria-hidden="true">11.10.</strong> The System Fringe</a></li><li class="chapter-item "><a href="../11/11-quarantine-zones.html"><strong aria-hidden="true">11.11.</strong> Quarantine Zones</a></li><li class="chapter-item "><a href="../11/12-the-pandora-gates.html"><strong aria-hidden="true">11.12.</strong> The Pandora Gates</a></li><li class="chapter-item "><a href="../11/13-extrasolar-systems.html"><strong aria-hidden="true">11.13.</strong> Extrasolar Systems</a></li></ol></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Action &amp; Combat</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolving Combat</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Melee Combat</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Improvised Weapons</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Ranged Combat</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Beam Weapons</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Spray Weapons</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Thrown Weapons</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Weapon Systems</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Kinetic Weapons</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Seeker Weapons &amp; Grenades</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armor</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Weapon/Gear Traits</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Weapon Accessories</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Armor Mods</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Special Attacks</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Physical Health</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Healing &amp; Repair</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Mental Health</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Mental Healing &amp; Psychosurgery</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Disorders</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Other Action Factors</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Social Actions</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Stressful Situations</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movement</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Vehicle Movement</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objects &amp; Structures</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Future Materials</a></li><li class="chapter-item "><a href="../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Environmental Factors</a></li><li class="chapter-item "><a href="../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Hostile Environments</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Downtime Actions</a></li></ol></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> The Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Everyware</a></li><li class="chapter-item "><a href="../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Mesh Topology</a></li><li class="chapter-item "><a href="../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Common Mesh Uses</a></li><li class="chapter-item "><a href="../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Devices, Apps, &amp; Links</a></li><li class="chapter-item "><a href="../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Authentication &amp; Encryption</a></li><li class="chapter-item "><a href="../13/06-mesh-actions.html"><strong aria-hidden="true">13.6.</strong> Mesh Actions</a></li><li class="chapter-item "><a href="../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> AIs &amp; Muses</a></li><li class="chapter-item "><a href="../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorphs</a></li><li class="chapter-item "><a href="../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Online Research</a></li><li class="chapter-item "><a href="../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Tracking</a></li><li class="chapter-item "><a href="../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hacking</a></li><li class="chapter-item "><a href="../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Countermeasures</a></li><li class="chapter-item "><a href="../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> System Subversion</a></li><li class="chapter-item "><a href="../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Mesh Combat</a></li><li class="chapter-item "><a href="../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Hardware Damage</a></li><li class="chapter-item "><a href="../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Glitches</a></li><li class="chapter-item "><a href="../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Mindware Hacking</a></li><li class="chapter-item "><a href="../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Virtual Reality</a></li><li class="chapter-item "><a href="../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Surveillance Hacking</a></li></ol></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../14/01-psi-overview.html"><strong aria-hidden="true">14.1.</strong> Psi Overview</a></li><li class="chapter-item "><a href="../14/02-watts-macleod-sub-strains.html"><strong aria-hidden="true">14.2.</strong> Watts-MacLeod Sub-Strains</a></li><li class="chapter-item "><a href="../14/03-roleplaying-asyncs.html"><strong aria-hidden="true">14.3.</strong> Roleplaying Asyncs</a></li><li class="chapter-item "><a href="../14/04-using-psi.html"><strong aria-hidden="true">14.4.</strong> Using Psi</a></li><li class="chapter-item "><a href="../14/05-influence-effects.html"><strong aria-hidden="true">14.5.</strong> Influence Effects</a></li><li class="chapter-item "><a href="../14/06-psi-sleight-summaries.html"><strong aria-hidden="true">14.6.</strong> Psi Sleight Summaries</a></li></ol></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Transhuman Tech</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../15/01-backups-and-uploading.html"><strong aria-hidden="true">15.1.</strong> Backups &amp; Uploading</a></li><li class="chapter-item "><a href="../15/02-resleeving.html"><strong aria-hidden="true">15.2.</strong> Resleeving</a></li><li class="chapter-item "><a href="../15/03-acquiring-morphs.html"><strong aria-hidden="true">15.3.</strong> Acquiring Morphs</a></li><li class="chapter-item "><a href="../15/04-forking-and-merging.html"><strong aria-hidden="true">15.4.</strong> Forking &amp; Merging</a></li><li class="chapter-item "><a href="../15/05-psychosurgery.html"><strong aria-hidden="true">15.5.</strong> Psychosurgery</a></li><li class="chapter-item "><a href="../15/06-psychosurgery-procedures.html"><strong aria-hidden="true">15.6.</strong> Psychosurgery Procedures</a></li><li class="chapter-item "><a href="../15/07-identity-systems.html"><strong aria-hidden="true">15.7.</strong> Identity Systems</a></li><li class="chapter-item "><a href="../15/08-habitat-access.html"><strong aria-hidden="true">15.8.</strong> Habitat Access</a></li><li class="chapter-item "><a href="../15/09-space-travel.html"><strong aria-hidden="true">15.9.</strong> Space Travel</a></li><li class="chapter-item "><a href="../15/10-space-combat.html"><strong aria-hidden="true">15.10.</strong> Space Combat</a></li><li class="chapter-item "><a href="../15/11-ship-and-habitat-hacking.html"><strong aria-hidden="true">15.11.</strong> Ship &amp; Habitat Hacking</a></li><li class="chapter-item "><a href="../15/12-reputation.html"><strong aria-hidden="true">15.12.</strong> Reputation</a></li><li class="chapter-item "><a href="../15/13-networking.html"><strong aria-hidden="true">15.13.</strong> Networking</a></li></ol></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Gear</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../16/01-gear-rules.html"><strong aria-hidden="true">16.1.</strong> Gear Rules</a></li><li class="chapter-item "><a href="../16/02-acquiring-gear.html"><strong aria-hidden="true">16.2.</strong> Acquiring Gear</a></li><li class="chapter-item "><a href="../16/03-nanofabrication.html"><strong aria-hidden="true">16.3.</strong> Nanofabrication</a></li><li class="chapter-item "><a href="../16/04-services.html"><strong aria-hidden="true">16.4.</strong> Services</a></li><li class="chapter-item "><a href="../16/05-common-tech-and-ware.html"><strong aria-hidden="true">16.5.</strong> Common Tech &amp; Ware</a></li><li class="chapter-item "><a href="../16/06-sensory-augmentations.html"><strong aria-hidden="true">16.6.</strong> Sensory Augmentations</a></li><li class="chapter-item "><a href="../16/07-senses-and-sensors.html"><strong aria-hidden="true">16.7.</strong> Senses and Sensors</a></li><li class="chapter-item "><a href="../16/08-mental-augmentations.html"><strong aria-hidden="true">16.8.</strong> Mental Augmentations</a></li><li class="chapter-item "><a href="../16/09-social-augmentations.html"><strong aria-hidden="true">16.9.</strong> Social Augmentations</a></li><li class="chapter-item "><a href="../16/10-combat-augmentations.html"><strong aria-hidden="true">16.10.</strong> Combat Augmentations</a></li><li class="chapter-item "><a href="../16/11-physical-augmentations.html"><strong aria-hidden="true">16.11.</strong> Physical Augmentations</a></li><li class="chapter-item "><a href="../16/12-meshware.html"><strong aria-hidden="true">16.12.</strong> Meshware</a></li><li class="chapter-item "><a href="../16/13-apps-and-alis.html"><strong aria-hidden="true">16.13.</strong> Apps &amp; ALIs</a></li><li class="chapter-item "><a href="../16/14-creatures.html"><strong aria-hidden="true">16.14.</strong> Creatures</a></li><li class="chapter-item "><a href="../16/15-chemicals-drugs-and-toxins.html"><strong aria-hidden="true">16.15.</strong> Chemicals, Drugs, &amp; Toxins</a></li><li class="chapter-item "><a href="../16/16-comms-and-mesh-gear.html"><strong aria-hidden="true">16.16.</strong> Comms &amp; Mesh Gear</a></li><li class="chapter-item "><a href="../16/17-espionage-and-security-tech.html"><strong aria-hidden="true">16.17.</strong> Espionage &amp; Security Tech</a></li><li class="chapter-item "><a href="../16/18-mission-gear.html"><strong aria-hidden="true">16.18.</strong> Mission Gear</a></li><li class="chapter-item "><a href="../16/19-nanotech.html"><strong aria-hidden="true">16.19.</strong> Nanotech</a></li><li class="chapter-item "><a href="../16/20-nanoswarms-and-microswarms.html"><strong aria-hidden="true">16.20.</strong> Nanoswarms &amp; Microswarms</a></li><li class="chapter-item "><a href="../16/21-robots.html"><strong aria-hidden="true">16.21.</strong> Robots</a></li><li class="chapter-item "><a href="../16/22-vehicles.html"><strong aria-hidden="true">16.22.</strong> Vehicles</a></li></ol></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Running The Game</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../17/01-ad-astra.html"><strong aria-hidden="true">17.1.</strong> Ad Astra</a></li><li class="chapter-item "><a href="../17/02-scenarios-and-campaigns.html"><strong aria-hidden="true">17.2.</strong> Scenarios &amp; Campaigns</a></li><li class="chapter-item "><a href="../17/03-bringing-it-to-life.html"><strong aria-hidden="true">17.3.</strong> Bringing It To Life</a></li><li class="chapter-item "><a href="../17/04-know-skills-and-science.html"><strong aria-hidden="true">17.4.</strong> Know Skills &amp; Science</a></li><li class="chapter-item "><a href="../17/05-super-empowered-characters.html"><strong aria-hidden="true">17.5.</strong> Super-Empowered Characters</a></li><li class="chapter-item "><a href="../17/06-gamemaster-tips.html"><strong aria-hidden="true">17.6.</strong> Gamemaster Tips</a></li><li class="chapter-item "><a href="../17/07-transhuman-themes.html"><strong aria-hidden="true">17.7.</strong> Transhuman Themes</a></li><li class="chapter-item "><a href="../17/08-rez-and-rep-rewards.html"><strong aria-hidden="true">17.8.</strong> Rez &amp; Rep Rewards</a></li></ol></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Threats &amp; X-Risks</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../18/01-x-risks.html"><strong aria-hidden="true">18.1.</strong> X-Risks</a></li><li class="chapter-item "><a href="../18/02-secret-histories.html"><strong aria-hidden="true">18.2.</strong> Secret Histories</a></li><li class="chapter-item "><a href="../18/03-security-systems.html"><strong aria-hidden="true">18.3.</strong> Security Systems</a></li><li class="chapter-item "><a href="../18/04-traps.html"><strong aria-hidden="true">18.4.</strong> Traps</a></li><li class="chapter-item "><a href="../18/05-npc-and-threat-rules.html"><strong aria-hidden="true">18.5.</strong> NPC &amp; Threat Rules</a></li><li class="chapter-item "><a href="../18/06-the-eti.html"><strong aria-hidden="true">18.6.</strong> The ETI</a></li><li class="chapter-item "><a href="../18/07-the-iktomi.html"><strong aria-hidden="true">18.7.</strong> The Iktomi</a></li><li class="chapter-item "><a href="../18/08-exhumans.html"><strong aria-hidden="true">18.8.</strong> Exhumans</a></li><li class="chapter-item "><a href="../18/09-the-exsurgent-virus.html"><strong aria-hidden="true">18.9.</strong> The Exsurgent Virus</a></li><li class="chapter-item "><a href="../18/10-exsurgent-infection.html"><strong aria-hidden="true">18.10.</strong> Exsurgent Infection</a></li><li class="chapter-item "><a href="../18/11-exsurgent-characters.html"><strong aria-hidden="true">18.11.</strong> Exsurgent Characters</a></li><li class="chapter-item "><a href="../18/12-exsurgent-psi.html"><strong aria-hidden="true">18.12.</strong> Exsurgent Psi</a></li><li class="chapter-item "><a href="../18/13-exsurgent-strains.html"><strong aria-hidden="true">18.13.</strong> Exsurgent Strains</a></li><li class="chapter-item "><a href="../18/14-exsurgent-types.html"><strong aria-hidden="true">18.14.</strong> Exsurgent Types</a></li><li class="chapter-item "><a href="../18/15-factors.html"><strong aria-hidden="true">18.15.</strong> Factors</a></li><li class="chapter-item "><a href="../18/16-firewall.html"><strong aria-hidden="true">18.16.</strong> Firewall</a></li><li class="chapter-item "><a href="../18/17-the-prometheans.html"><strong aria-hidden="true">18.17.</strong> The Prometheans</a></li><li class="chapter-item "><a href="../18/18-project-ozma.html"><strong aria-hidden="true">18.18.</strong> Project Ozma</a></li><li class="chapter-item "><a href="../18/19-other-intel-services.html"><strong aria-hidden="true">18.19.</strong> Other Intel Services</a></li><li class="chapter-item "><a href="../18/20-the-pandora-gates.html"><strong aria-hidden="true">18.20.</strong> The Pandora Gates</a></li><li class="chapter-item "><a href="../18/21-the-titans-legacy.html"><strong aria-hidden="true">18.21.</strong> The TITANs' Legacy</a></li><li class="chapter-item "><a href="../18/22-titan-machines-and-minions.html"><strong aria-hidden="true">18.22.</strong> TITAN Machines &amp; Minions</a></li></ol></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Appendices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossary</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> References</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Index</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Complete List of Mesh Actions</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Complete List of Morphs</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Rules Primer</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../license.html">License &amp; Credits</a></li><li class="chapter-item affix "><a href="../buy-the-book.html">Buy the book!</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="social-movements"><a class="header" href="#social-movements">Social Movements</a></h1>
+<blockquote>
+<p><strong>Source:</strong> <em>Towards the Comprehension of Transhuman Society</em></p>
+</blockquote>
+<p>The Fall reshaped transhumanity. In times of near-apocalypse, everything is re-evaluated. Faith is questioned, political ideologies disintegrate, social groups realign. While some pre-existing social movements simply blinked and moved on, most were transformed just as new ones arose, espousing new answers and new ideas.</p>
+<h2 id="argonauts"><a class="header" href="#argonauts">Argonauts</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Open Source, Scientific Responsibility</li>
+<li><strong>Main Habitats:</strong> Markov (Kuiper Belt), Mitre (Lunar Orbit)</li>
+</ul>
+</div>
+<p>The Argonauts (officially The Argonaut Council for Responsible Science) are the organizational descendants of a group of scientists who broke away from the pre-Fall advisory group JASON, which consulted for the United States government about scientific and technological progress, responsibility, and danger. Today the Argonauts work with every major political and economic power throughout the Solar System (except for the Jovian Republic, where they’re banned). They famously advocate neutrality and openly avoid taking sides in conflicts, though the Jovians and some hypercorps accuse them of favoritism and factionalism.</p>
+<h3 id="responsible-and-transparent-science"><a class="header" href="#responsible-and-transparent-science">Responsible and Transparent Science</a></h3>
+<p>Argonaut policies advocate for complete social scientific responsibility and hold scientists to professional standards, especially as technology becomes more enabling and potent. They believe that profit, political, and military gain should not dictate what technologies one pursues; rather, whatever benefits transhumanity most should be our priority. Additionally, government and corporate intervention in scientific research must be minimized or avoided and science not limited on ideological grounds.</p>
+<p>Argonauts also argue that it is in transhumanity’s best interest to provide open access to scientific findings and so advocate and support open-source information, libraries, and projects; particularly tools and building blocks for emerging technologies that improve quality of life for everyone. Argonauts often, by design, require governments and hypercorps to open source their discoveries in lieu of traditional monetary payment.</p>
+<h3 id="inside-the-argonauts"><a class="header" href="#inside-the-argonauts">Inside the Argonauts</a></h3>
+<p>The Argonauts structured their organization like a pre-Fall academic institution, with a Chancellor, President, and Provost (collectively “the Chancellory”) elected by a Senate of members. Two political blocs rule the Senate: precautionists and proactionists. The precautionists take a conservative stance towards research, avoiding anything that could endanger transhumanity; the proactionists believe “the best defense is a good offense.”</p>
+<p>The Argonauts maintain the Institute for the Study of Emergent Trends (ISET) to coordinate projects, archive results, and collect data. According to rumors, ISET also acts as their clandestine intelligence agency, running a heavyweight forecasting project. It is allegedly protected by an in-house security force called the Medeans.</p>
+<blockquote>
+<h2 id="argonaut-research-projects"><a class="header" href="#argonaut-research-projects">Argonaut Research Projects</a></h2>
+<p>There are literally thousands of Argonaut research ventures ongoing across the Solar System; this overview intends only to give a representative flavor of the kinds of work Argonauts do.</p>
+<ul>
+<li><strong>3LIZA</strong> is an open-source tool for developing and teaching ALIs/muses.</li>
+<li>The Argonauts consult for hypercorps researching <strong>antimatter containment fields</strong> to miniaturize and improve antimatter drives.</li>
+<li>The <strong>Exoplanet Directory and Gate Address Registry (EDGAR)</strong> records gate addresses and data on exoplanets reachable through those gates.</li>
+<li>A secret <strong>Factor Genome Project</strong> was shut down when a rogue group of Argonauts attempted to clone a Factor and the Factors found out.</li>
+<li><em><strong>The Frozen Dreams</strong></em> is a comet chaser found adrift 48 AU out, its entire crew missing. The Argonauts have laid claim to and control the ship, trying to discern what happened.</li>
+<li><strong>HabOps</strong> is an open-source habitat control and logistics software suite. It faces mounting pressure from hypercorps that consider it a threat to their own prioprietary systems.</li>
+<li>The <strong>Kisilev Open-Source Uplift Genetic Library</strong> on Ceres helps uplifts take control of their own future development.</li>
+<li>The Argonauts maintain a massive open-source directory of nanofabrication blueprints called <strong>PrintLib</strong>. Its main repository is on Markov, but mirrors exist across the system. They are consistently blocked and attacked to preserve hypercorp intellectual properties.</li>
+<li><strong>Thorne</strong> is a massive, high-capacity radio telescope and transmitter at 850 AU. It is popular for vanitycasting, where people cast forks of themselves to the stars in the hopes aliens will receive them.</li>
+<li>Various <strong>Threat Reduction Filters</strong> are widely used and regulary updated, helping habitats and security systems identify known threats (including exsurgent infection, hostile nano, etc) when scanning mesh traffic, incoming ships, and morphs passing through checkpoints.</li>
+</ul>
+</blockquote>
+<h2 id="barsoomians"><a class="header" href="#barsoomians">Barsoomians</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Indenture Liberation, Martian Independence, Terraforming Control</li>
+<li><strong>Main Habitats:</strong> Ashoka (Mars)</li>
+</ul>
+</div>
+<p>Barsoom is an ancient Earth term for Mars, derived from popular fiction. The term is used to describe a movement of natives (and converts) who want a free and self-governing Mars, though they don’t refer to themselves as such; it’s simply <em>the movement</em> or people who are “down with B.”</p>
+<p>There’s no single platform among the Barsoomians, but the uniting issue is local control, whether it’s a remote hab governing itself or all of Mars free of hypercorp interference. The other grievances that bring the movement together (“the Complaints”) include:</p>
+<ul>
+<li>Ending indentured servitude.</li>
+<li>Ending the planned obsolescence of morphs.</li>
+<li>Improved planning of orbital bombardments, flooding, and landscapealtering terraforming (especially when settlements are affected).</li>
+<li>Ending the abuse of eminent domain and forced relocation of Martians.</li>
+</ul>
+<p>The movement employs a variety of tactics, from the political to the violent, to achieve its goals. Recently, the movement has enjoyed some political gains in the Tharsis League, Mars’s local governing body. The League and its Council are nominally puppets of the Consortium, but in the last few years, Barsoomians have made some major inroads. Others in the movement — cells, without any apparent central authority — have waged a war of property destruction and outright terrorism against Consortium hypercorps and the Tharsis Terraforming Office (TTO).</p>
+<p>Some of Mars’s famed Rangers certainly appear sympathetic to the movement, which puts them in a difficult position. Martian nomads (the original Barsoomians, as they’ll remind you) are also down with B, whether they're a terraformer clan or a reclusive sufi sect. A subset of techno-anarchist nomads that call themselves <em>makers</em> developed many of the technologies Martians still use, like extended-use breathers. They have strong ties to the Autonomist Alliance, who openly funnel support.</p>
+<h2 id="bioconservatives"><a class="header" href="#bioconservatives">Bioconservatives</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Bioconservatism, The Natural Order, Primitivism</li>
+<li><strong>Main Habitats:</strong> Liberty (Ganymede), Vo Nguyen (Earth Orbit)</li>
+</ul>
+</div>
+<p>Pre-Fall, transhumanity viewed bioconservativism as a backwards, laughable ideology — the domain of religious extremists and fringe groups unable to cope with the future. Bioconservatives were numerous and had strong support, however, prompting backlashes and attacks against augmented transhumans. Biocon terrorist groups were quite active before the Fall, launching attacks against hypercorp labs and even a failed attempt to bring down the space elevator.</p>
+<p>Most bioconservatives on Earth perished during the Fall, unable to egocast off the planet. But the destruction of Earth catalyzed its adherents into a far stronger force. With transhumanity seemingly complicit in the destruction of Earth, their arguments were validated.</p>
+<p>Bioconservativism suddenly didn’t seem like such a crazy idea.</p>
+<p>Bioconservatives oppose many transhuman technologies, including uploading, resleeving, nanofabrication, genetic modification, cloning, cognitive modifications, artificial intelligence, uplifting, and forking. These are largely seen as unnatural, against God’s will, or simply too uncontrolled and dangerous. Most view the rest of transhumanity as soulless copies and see the Fall as a sure sign that transhumanity is not prepared for the technology it created.</p>
+<p>The Jovian Republic was founded on bioconservative principles, and many of the technologies that the rest of transhumanity enjoys are outlawed there. The Republic views this as a safeguard; only this kind of oversight, they argue, will save transhumanity from another Fall.</p>
+<p>The Vo Nguyen station in Earth orbit, a major reclaimer base, is also strictly bioconservative; reclaimers view this as a benefit, as they have no modified morphs for the exsurgent virus to attack.</p>
+<p>Most bioconservatives are content to pursue their ideology peacefully, though perhaps from the safety of a well-equipped bunker. The truth, they believe, will ultimately prove them right. However, a number of bioconservative extremists continue terrorist attacks throughout the system, allegedly with Jovian support.</p>
+<h3 id="neo-primitivists"><a class="header" href="#neo-primitivists">Neo-Primitivists</a></h3>
+<p>Neo-primitivists are a collection of both far-right and far-left biocons that advocates returning to humanity’s most basic state: hunter-gatherer tribes with no technology whatsoever. Neo-primitivism has been blamed for sabotage and terrorist attacks on Vo Nguyen, disrupting reclaimer projects involving nanotech and geoengineering efforts using gene-altered organisms.</p>
+<h2 id="brinkers"><a class="header" href="#brinkers">Brinkers</a></h2>
+<div class="stat-list">
+<p><strong>Memes:</strong> Experimentation, Isolationism, Religion</p>
+</div>
+<p>It takes guts and willpower to choose self-imposed exile on a tiny hab dozens of AU from the sun. We’ve come to call these people brinkers and isolates: those who live life on the literal fringes of transhumanity.</p>
+<p>Brinker habs come in all flavors: individul hermits, single families, extended group units, social experiments, societies based on gender (or lack thereof), political extremists, religious groups, cults, pleasure houses, and always-on gaming. You can find brinker groups anywhere: among the different Trojan asteroid groupings, on the tiny moons of the gas giants, around Saturn's rings, and even out in Mars’s dunes and Venus’s clouds. You can find them floating in the sun’s corona, in the far extremes of the Kuiper Belt and Oort Cloud, riding comets, or hidden away on frontier exoplanets.</p>
+<h3 id="it-takes-all-kinds"><a class="header" href="#it-takes-all-kinds">It Takes All Kinds</a></h3>
+<p>Near-Earth brinkers tend towards bioconservativism or religious worship. These groups prefer to be left alone and often use outdated technology; a cottage industry has sprung up to service their antiquated equipment. Elysian Fields is hab where no one is allowed to leave; people travel there to live out a natural lifespan and die.</p>
+<p>Cultural brinkers run the gamut of artists, experimenters, and eccentrics. You can live as a pet cat, enjoy a recreation of 17th-century Scotland (complete with modern sexual fetishes), or live a life of endless monastic prayer. Examples include Winter, where all morphs are genderless; Habitat on the Rock, with its wonderful collection of Earth artifacts and curiosities; and Qo’noS, the invitation-only Star Trek environment.</p>
+<p>Scientists create or find brinker habitats so they can pursue clandestine research. Some may be hypercorp-funded, others are the work of exiles. Others are misguided attempts to establish new societies. Alpha Plus is an attempt to create a perfectly ordered society via psychsourgery, so that everyone is sculpted for their role.</p>
+<p>Religion and cult worship comprise the last major group of brinkers. Religious groups tend to be monastic or ascetic. Cults can be harmless or criminal, depending on how fanatical they are and how odd their beliefs might be. The monastery on Saturn's moon Kiviuq requires attendants to meditate in vacuum and listen to the voices of the stars as received via a neutrino telescope array.</p>
+<p>Perhaps the most numerous brinkers are survivalists, who stockpile weapons and supplies and hide in fear of another Fall or some other system-wide cataclysm. These brinkers are typically untrusting of visitors and hostile to outsiders.</p>
+<p>Despite their self-imposed isolation, brinkers do sometimes engage with others, especially to trade for resources and supplies. They sometimes clash with each other over mining claims, bad deals, and roamntic entanglements. A &quot;brinker war&quot; between a clan of Malaysian sikhs and Canadian survivalists is ongoing in the Neptunian Trojans thanks to a territorial dispute.</p>
+<h2 id="exhumans"><a class="header" href="#exhumans">Exhumans</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Posthumanism, Singularity Seeking, Social Darwinism</li>
+</ul>
+</div>
+<p>What lies beyond transhumanity? For exhumans, it’s the discarding of humanist ideals altogether, the pursuit of extreme self-modification using experimental technologies to where you are no longer recognizably transhuman. Exhumans seek not only posthuman transcendence, but superiority. They have moved beyond morality; nothing is off the table if it means the survival and dominance. Transhumans are widely regarded as worthless inferior beings; we are prey or slaves to be exploited.</p>
+<h3 id="moving-beyond"><a class="header" href="#moving-beyond">Moving Beyond</a></h3>
+<p>The goals of individual exhumans and groups differ, but they are known to sometimes work together. A few of the larger exhuman tendencies can be identified:</p>
+<ul>
+<li><strong>Predators</strong> are proof that, despite all of transhumanity’s advances, we’re still locked into our absurd primate dominance dynamics. Predators seek to hone themselves into apex predators, the ultimate fighting machine capable of defeating any challenger. These are the exhumans that most actively prey on transhuman ships and habs.</li>
+<li><strong>The Sublime</strong> seek to amplify their intelligence to god-like levels. Some are wary of machine intelligence, however, and the vulnerability to hacking. They’ve developed both morphs with massively augmented brains and minds built on networked and boosted cyberbrains. Some pursue xenobiology research, believing they’ve reached the functional limit of what a transhuman brain can achieve.</li>
+<li><strong>Adaptives</strong> develop morphs that can handle the most extreme of environments — surviving whatever the universe can throw their way. Most favor machines.</li>
+<li><strong>Parasites</strong> adapt themselves to survive hidden among transhumanity, preparing for the TITANs' return, when they hope to adapt to the TITANs as their new host.</li>
+<li><strong>Soul Eaters</strong> pursue apotheosis by cutting out the useful elements of other minds and merging it into their own.</li>
+</ul>
+<p><em>Singularity seekers</em> who pursue and study the TITANs and their technology are often associated with exhumans. They view the TITANs as gods that can be captured, studied, and emulated. However, most seekers do not enhance themselves or buy into exhuman dominance beliefs, so as a rule exhumans will mock, exclude, and/or take advantage of them.</p>
+<blockquote>
+<h2 id="exhumans-of-note"><a class="header" href="#exhumans-of-note">Exhumans of Note</a></h2>
+<blockquote>
+<p><strong>Posted by:</strong> Factorum, Firewall Crow</p>
+</blockquote>
+<p>Exhumans are nothing to fuck around with. Sentinels should exercise every available precaution. These are some of the most dangerous exhumans and groups we have on our radar.</p>
+<ul>
+<li><strong>Abandoned Weakness:</strong> A pre-Fall warlord and predator wanted for war crimes, terrorist attacks, and dealing in WMDs and TITAN technology.</li>
+<li><strong>Dr. Yu Ping Dalton:</strong> Exiled after authorities connected her to a plague outbreak on Luna, Dr. Dalton leads research projects on the exoplanet Fortean, developing neogenetic cryptids.</li>
+<li><strong>Ex-Hominids:</strong> Composed of various ape uplifts, this group seeks to destroy transhumanity and implement an apex hominid empire.</li>
+<li><strong>Dr. Jacobi Chelikov:</strong> A former Argonaut scientist on Titan, Dr. Chelikov fled to the outer system when it was discovered he was performing illegal experiments on transhumans using TITAN technology. He is wanted for selling bio-engineered plagues to biocon terrorist groups.</li>
+<li><strong>One Step Beyond:</strong> A cell of sublime exhumans wanted for stealing an antimatter reactor on Mercury.</li>
+<li><strong>Silent Mercy:</strong> Silent Mercy founded the soul-eater faction and is wanted for unethical ego-merging experimentation. He has multiple alpha forks pursuing his projects around the system and a private habitat somewhere rimward with sophisticated backup and resleeving facilities.</li>
+</ul>
+</blockquote>
+<h2 id="mercurials"><a class="header" href="#mercurials">Mercurials</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Anti-Anthropocentrism, Autonomy, AGI/Uplift Liberation</li>
+<li><strong>Main Habitats:</strong> Glitch (Neptune), Mahogany (Neptune)</li>
+</ul>
+</div>
+<p>The term “mercurial” is widely used to refer to infolife and uplifts, the non-human portions of transhumanity. The name has been adopted, however, by uplifts and AGIs who aren’t simply looking for equal rights, assimilation, or transhuman conformity — who instead want full self-determination and autonomy. Mercurials are considered the radical fringe of the sapient movement that champions equal rights, but they are growing in numbers and influence.</p>
+<h3 id="anti-assimilation"><a class="header" href="#anti-assimilation">Anti-Assimilation</a></h3>
+<p>Mercurials define themselves by their rejection of anthropocentrism. They seek to replace dominant human-conceived culture and behaviors with their own. To this end, mercurials seek to be cultural pioneers, crafting new customs, fashions, art, morphs, and even languages that are not tainted by human influence. They also seek to put AGIs and uplifts firmly in control of their own development, uplift, and identity. Mercurials tie their struggles to related social-justice causes, such as the fight to free indentures.</p>
+<p>Mercurials are sometimes derided as separatists or anti-human extremists, though this is mostly incorrect. In fairness, mercurials often have little tolerance for human criticisms and attempts to police or control them. They see no need to apologize for wanting to be themselves.</p>
+<h3 id="groups-and-leaders"><a class="header" href="#groups-and-leaders">Groups and Leaders</a></h3>
+<p>The mercurial movement is composed of many small groups, few of which can claim a leading role. Their movement is not always unified or in agreement. Some AGIs decry society's focus on physical embodiment, while many uplift mercurials see their biology as core to their identity. As AGI/uplift culture is a blank slate, there are also conflicts beween cultural innovators over direction and vision.</p>
+<p>Militant mercurials take a more radical view on social struggle. The Sapient Liberation Front is a cell-based direct-action group intent on economic disruption. They have hacked, sabotaged, and even bombed labs, offices, codehouses, and universities involved in uplift research and the trade in AGI/uplift indentures.</p>
+<p>Mother Octopus (her actual name is a series of skin tones unpronounceable to anyone but other neo-octopi) is a mercurial leader who lives in Atlantica. She argues passionately that transhumanity has failed to guide itself to a prosperous future and therefore humans have no ethical authority to regulate the lives of other sapients.</p>
+<h2 id="reclaimers"><a class="header" href="#reclaimers">Reclaimers</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Reclaiming Earth</li>
+<li><strong>Main Habitats:</strong> Remembrance and Vo Nguyen (Earth orbit)</li>
+</ul>
+</div>
+<p>Taking Earth back from the TITANs is a pipe dream for most, but the reclaimers have made it their life’s mission. Largely centered around Earth and the LLA, the reclaimer movement has sympathizers throughout the Solar System. The Roman Catholic Church is a major sponsor of reclaimer activities and has funded several missions to recover artifacts from the ruins of the Vatican and other holy places.</p>
+<h3 id="the-earth-reclamation-project"><a class="header" href="#the-earth-reclamation-project">The Earth Reclamation Project</a></h3>
+<p>Led by Milder Ripon, the Earth Reclamation Project (ERP) funnels funds to lobbyists influence the LLA and Consortium to support the movement. Opposition to the ERP is fierce: the project is incredibly expensive, it’s opposed to the Consortium dogma that Mars is transhumanity’s new home, and there’s a very real risk of danger — possibly even &quot;re-activating&quot; the TITANs. Rumors that the reclaimers have established a permanent base on Earth as a beachhead and research outpost remain unconfirmed. Admitting nothing, the ERP argues that such a base would be a critical beacon of hope for any transhumans luckless enough to still be trapped down there.</p>
+<p>On a positive note, the reclaimer movement has dumped a massive amount of effort into creating habitat “arks” throughout the system (and on extrasolar worlds). These vault-arks contain genetic material for every species on record, libraries of books, galleries of digitized art, and other artifacts of transhuman culture. Others are literal ecological conservatories and wildlife zoos, preserving Earth's biodiversity in an artificial environment.</p>
+<h2 id="sapients"><a class="header" href="#sapients">Sapients</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Assimilation, Uplift Rights</li>
+<li><strong>Main Habitats:</strong> Aphrodite Prime (Venus), Respect (Jovian Trojans)</li>
+</ul>
+</div>
+<p>Referred to as “the silent majority,” sapients are uplifts, AGIs, and transhuman allies who promote equal rights for uplifts and infolife. Sapients hold an assimilationist point of view, pushing for acceptance of uplifts and infolife as simply another facet in transhumanity’s jewel — just people, nothing more. The sapient movement opposes special legal status, breeding restrictions, and other forms of institutionalized discrimination. They have made significant inroads by lobbying politicians and working with hypercorps for sponsorships, media representation, and employment.</p>
+<p>The Sapient Union, based out of Venus, is the public front of many sapient efforts for equal rights. Brian Ngavi, the neo-chimpanzee executive vice president of Somatek’s uplift program, is a tireless speaker, appearing all over the Solar System to argue for educational programs, vocational training, and other opportunities. He strongly encourages other uplifts to work and participate in hypercorp uplift programs. It is only through participation, he argues, that uplifts will find acceptance.</p>
+<h2 id="socialites"><a class="header" href="#socialites">Socialites</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Creative Expression, Hedonism, Immortality</li>
+<li><strong>Main Habitats:</strong> Elysium (Mars), Octavia (Venus)</li>
+</ul>
+</div>
+<p>Fifty years ago, the inclusion of socialites as a separate sociological group would have been a laughable topic for an undergraduate paper. Now, entire courses at TAU are devoted to studying transhumanity’s obsession with its neo-royalty.</p>
+<p>Socialites comprise a wide swath of transhumanity; they’re any transhuman who inspires repeated media interest. This includes the adventurous idle rich, the glitterati on Mars and Venus, extreme sports stars surfing Saturn’s rings, X-casters giving people access to their most intimate experiences, professional XP actors, and metacelebrities. Unlike historical royalty, the confluence of the mesh, XP technology, and always-on meme-driven culture allows a nobody to become a somebody instantly — and sometimes they even manage to stay there as they continue to feed their fans what they want.</p>
+<p>XP realism and constant updates create personal connections, even over the vast distances transhumanity has spread. A lonely prospector in the Kuiper Belt can get up-to-the-minute news on his favorite Martian starlet. An urchin in a New Shanghai slum can live every heart-pounding moment of her favorite cliff diver’s runs on Titania. For people confined to small communities, or those confined to lives destined to end in poverty and pain, this gives them a simulacrum of personal attachment.</p>
+<p>Many of the idle rich come from families whose fortunes predated the fall by decades if not centuries. These socialites are naturally connected to the oligarchs. They also face a terrifying truth that people have not had to deal with since the middle ages: they may not inherit their parents’ fortunes. This stark reality drives them to take up lives that are adventurous, hedonistic, and reckless. From racing yachts to cloud-diving in Neptune’s icy depths, no adventure is too outlandish for these socialites or their millions of fans.</p>
+<h2 id="the-ultimates"><a class="header" href="#the-ultimates">The Ultimates</a></h2>
+<div class="stat-list">
+<ul>
+<li><strong>Memes:</strong> Asceticism, Fascism, Meritocracy</li>
+<li><strong>Main Habitats:</strong> Aspis (Main Belt), Xiphos (Uranus)</li>
+</ul>
+</div>
+<p>The Ultimates owe their origins to Manu Bhattacharya, a mercenary on the Indian subcontinent whose personal philosophy was a strange mix of confucianism, free-market capitalism, and objectivism. Bhattacharya’s private army, Ultimate Security, thrived in the pre-Fall turmoil; their involvement made or broke governments and causes. Bhattacharya was a strong proponent of transhuman technologies, encouraging his troops to mod themselves. As his successes and legend grew, Bhattacharya cultivated a cult-like following in his employees, who praised him as a guru-mentor.</p>
+<p>Just prior to the Fall, Ultimate Security fell under international investigation for war crimes and human rights violations. Bhattacharya relocated his headquarters to a station called Struggle, which allowed him to avoid Earth-based authorities and gave the Ultimates a community to call their own. After the Fall, though Struggle was lost to the TITANs, Ultimate mercenaries found themselves in high demand. They achieved system-wide notoriety when Go-nin hired them to overrun exhuman forces on Eris and seize control of the Discord Gate.</p>
+<p>Ultimate communities are highly stratified and built around personal achievement. They take literally the Confucian belief of strength from the bottom up: strong individuals make strong communities, and strong communities make strong states. However, their members increasingly buy into Bhattacharya's myth-making and cult of personality, strict meritocratic beliefs, and derision of lesser transhumans as &quot;genetrash.&quot; Ultimate mercs increasingly show their willingness to cross ethical lines and engage in war crimes.</p>
+<blockquote>
+<h2 id="shugyōsha"><a class="header" href="#shugyōsha">Shugyōsha</a></h2>
+<blockquote>
+<p><strong>Source:</strong> The Ultimate Ronin</p>
+</blockquote>
+<p>In AF 4, a high-ranking Ultimate known as Yasuke, disillusioned with the Ultimates’ drift towards fascism and disdain for the rest of transhumanity, broke from the faction and embarked on <em>musha shugyō</em>, the samurai warrior’s pilgrimage. He wandered the Solar System for the next three years, fighting duels, working mercenary contracts, creating art, and formalizing his neo-bushido philosophy. In time, he attracted followers, in part due to his willingness to train uplifts and AGIs at his isolated dojo in the caldera of Olympus Mons on Mars. Although a tiny faction, the <em>shugyōsha</em> have a formidable reputation as warriors and protectors of working-class Martians — and the undying enmity of the Ultimates, who consider Yasuke a traitor.</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../10/02-outer-system-polities.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../10/04-hypercorporations.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../10/02-outer-system-polities.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../10/04-hypercorporations.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

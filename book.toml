@@ -1,0 +1,27 @@
+[book]
+authors = ["Posthuman Studios", "Luiz Borges Gomide"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Eclipse Phase 2e"
+description = "The roleplaying game of transhuman survival"
+
+[build]
+build-dir = "docs/en"
+create-missing = false
+
+[output.html]
+additional-css = ["ep2e.css"]
+no-section-label = false
+git-repository-url = "https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/src"
+site-url = "/en/"
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+enable = true
+use-boolean-and = true
