@@ -230,4 +230,4 @@
 ---
 
 [Buy the book!](buy-the-book.md)
-[License](license.md)
+[License & Credits](license.md)
