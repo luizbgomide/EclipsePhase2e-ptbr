@@ -5,9 +5,8 @@ const path = require("path");
 const { stringify } = require("querystring");
 const readline = require('readline');
 
+const summaryFile = "SUMMARY.md";
 
-// div and blockquotes messes up with crowdin format
-// wbr forces crowdin to rebuild the MD tables as HTML tables
 const tocMarker = "<!-- TOC PLACEHOLDER -->";
 
 function readDirectory(dir) {
@@ -27,9 +26,9 @@ function processFile(file) {
     contents = fs.readFileSync(file, 'utf8');
     let index = contents.indexOf(tocMarker);
     if (index == -1) return;
-    let result = contents.substring(0,index+tocMarker.length) + '\n';
+    let result = contents.substring(0, index + tocMarker.length) + '\n';
     fs.writeFileSync(file, result);
-    process.stdout.write(file+'\n');
+    process.stdout.write("Removing from: " + file + '\n');
 }
 
 if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: false })?.isDirectory()) {
@@ -40,7 +39,13 @@ var sourceDir = path.resolve(process.argv[2]);
 
 removeTOC();
 
+
 function removeTOC() {
     readDirectory(sourceDir);
-    console.log(`\n\nProcess complete.\nAll TOC were removed.`);
+    let summaryPath = path.join(sourceDir, summaryFile);
+    fs.rmSync(summaryPath, { force: true });
+    
+    process.stdout.write("Deleting: " + summaryPath + '\n');
+    
+        console.log(`\nProcess complete.\nAll TOC were removed.`);
 }
