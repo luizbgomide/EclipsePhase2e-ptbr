@@ -1,0 +1,338 @@
+# Glossary
+
+Here's a list of terms we use throughout Eclipse Phase.
+
+<!-- CLEANED div class="stat-list" -->
+
+- **Account:** What you use to log on to a system. Determines your access privileges.
+- **Account Shell:** The software interface that represents your presence on the system.
+- **Aerostat:** A habitat designed to float like a balloon on a planet with a dense atmosphere.
+- **AF:** After the Fall (used for reference dating).
+- **Agent:** An infomorph optimized for infosec roles.
+- **AGI:** Artificial General Intelligence. An AI that has cognitive faculties and capability to learn that is equivalent to a human.
+- **AI:** Artificial Intelligence. A sentient software mind that emulates human cognition. Usually used to refer to ALIs.
+- **ALI:** Artificial Limited Intelligence. AIs that do not possess the full range of human cognitive abilities. ALIs have a specialized focus and are incapable of learning outside of that focus.
+- **Alpha Fork:** A full duplicate of an ego.
+- **Amphibs:** An extinct sapient alien species that once thrived on the exoplanet Droplet.
+- **Anarchists:** A faction that opposes power and hierarchy and embraces self-organized individual and collective action.
+- **App:** Software that performs a specific function for a user.
+- **Arachnoid:** A spider-like robotic synthmorph.
+- **Argonauts:** A union of technoprogressive scientists that promote responsible and ethical use of technology.
+- **AR:** Augmented Reality. Information from the mesh that is overlaid on your real-world senses. AR data is usually visual but can also be audio, tactile, olfactory, kinesthetic, emotional, or other senses.
+- **Artifex:** A nano-engineer.
+- **Artificial:** Martian slang for embodied artificial life.
+- **Async:** A person with psi abilities resulting from the WattsMacLeod strain of the exsurgent virus.
+- **ATI:** The Aerial Terraforming Initiative for Venus.
+- **AU:** Astronomical Unit. The distance between the Earth and Sol (the sun), equal to 8.3 light minutes or ~150 million kilometers.
+- **Autocook:** A specialized fabber for making food and drinks.
+- **Autonomists:** The outer-system alliance of anarchists, Extropians, scum, and Titanians.
+- **Backup:** A stored copy of an ego, an inactive digitized mind.
+- **Backups:** The Firewall faction that preps caches, bunkers, and resources in case of another extinction event.
+- **Barsoomians:** A movement supporting Martian independence from hypercorp control, allied with the autonomists.
+- **Basilisk Hack:** Sensory input designed to trigger glitches and faults in the brain, leading to seizures and worse effects.
+- **Bathyscaphe:** An underwater habitat.
+- **Beehive:** A microgravity habitat made from a tunneled-out asteroid or moon.
+- **Belters:** Denizens of the Main Belt.
+- **Beta Fork:** A partial copy of an ego.
+- **BF:** Before the Fall (used for reference dating).
+- **Bioconservatives:** An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.
+- **Biomorph:** A biological body, including both modified and unmodified humans, uplifts, and pods. AKA skin.
+- **Bioware:** Biological enhancements for biomorphs.
+- **Blueprint:** The digital design file used to nanofabricate.
+- **Body Bank:** A service for backups, resleeving, and acquiring or storing morphs. AKA dollhouse, morgue.
+- **Bot:** Robot. An ALI-piloted synthetic shell.
+- **Bouncer:** A biomorph optimized for microgravity.
+- **Bracewell Probe:** A self-replicating probe designed to propagate to every star system in the galaxy.
+- **Brainprint:** The ID based on your brainwave patterns.
+- **Brinkers:** Exiles who live on the fringe of the system. AKA isolates.
+- **Bubble:** A habitat made from a hollowed-out asteroid or moon, spun for gravity. AKA sphere.
+- **Case:** A cheap, common, mass-produced synthmorph.
+- **CBEAT:** The Council for Bio-Ethics and Advanced Technology, setting tech policy in the Jovian Republic.
+- **Cell:** A clandestine group of Firewall sentinels.
+- **Chimeric:** Transgenic, containing genetic traits from other species.
+- **Circumjovian:** Orbiting Jupiter.
+- **Circumlunar:** Orbiting the Moon.
+- **Circumsolar:** Orbiting the Sun.
+- **Cislunar:** Between the Earth and the Moon.
+- **Clade:** A species or group of organisms with common features. Used to refer to transhuman cultural groups and subspecies.
+- **Clanking Masses:** The underclass of cheap synthmorphs.
+- **The Cloud:** Other devices on the mesh that offer software services.
+- **Cluster:** A micrograv habitat of interconnected modules.
+- **CME:** Coronal mass ejection; a solar flare.
+- **Codeline:** The code "family" from which an AGI is derived.
+- **The Complaints:** The list of grievances shared by the Barsoomians.
+- **Conservatives:** The Firewall faction opposed to using AGIs, asyncs, and alien/TITAN technology.
+- **Cornucopia Machine:** A general-purpose nanofabricator.
+- **Cortical Stack:** An implant that records your up-to-date ego.
+- **Crow:** A proxy that focuses on research and scientific analysis.
+- **Crypt:** A digital cache hidden within the mesh.
+- **Cthonian Planet:** A hot Jupiter/Neptune whos atmosphere has been stripped away, leaving a terrestrial core.
+- **Cyberbrain:** An artificial brain, housing an ego run in a software mind-state. Used in synthmorphs, pods, and some biomorphs.
+- **Cyberware:** Artificial augmentations for biomorphs.
+- **Cycler:** A ship that travels between habitats using the ITN.
+- **Cylinder:** A hollow can-shaped habitat spun for gravity.
+- **Darkcast:** A black-market farcasting and egocasting service.
+- **Dead Zone:** An area lacking surveillance coverage.
+- **Deadheading:** Placing your ego into inactive storage for a later scheduled revival.
+- **Delta-V:** The thrust needed to get from one place to another.
+- **Device:** A specific piece of hardware.
+- **Digimorph:** The most basic, default type of infomorph.
+- **Doll House:** A high-end, bespoke morph provider.
+- **Domain Rules:** The rules that govern the physics and operation of a virtual-reality simulspace.
+- **Dome:** Temporary or permanent pressurized surface habitat.
+- **Drone:** A robot controlled through teleoperation (rather than AI).
+- **Dwarf Planet:** Between asteroids and planets, dwarfs are rounded by gravity but have not cleared their orbits of asteroids/debris.
+- **Ecto:** A mobile device for accessing the mesh and AR.
+- **Ego:** The part of you that switches from body to body.
+- **Ego Bridge:** A device for scanning and copying a biological brain for backup, resleeving, or psychosurgery.
+- **Ego ID:** The ID code tied to your ego, imprinted in uploads.
+- **Ego Hunter:** A bounty hunter that tracks down resleeved egos.
+- **Egocast:** Term for transmitting an ego to a remote location.
+- **Entoptics:** Augmented reality that you “see” in your mind's eye.
+- **Eraser:** Heavily armed proxies that are called ito contain threats beyond the capabilities of a normal sentinel cell.
+- **ERP:** The reclaimer's Earth Reclamation Project.
+- **ETI:** Extraterrestial Intelligence. A god-like post-singularity alien/machine super-intelligence theorized to be responsible for the pandora gates and/or exsurgent virus.
+- **Europan:** A denizen of Jupiter's moon Europa.
+- **Exalt:** A genetically enhanced human morph.
+- **Exodus:** The evacuation of Earth during the Fall.
+- **Exoplanet:** A planet in another star system.
+- **Exsurgent:** Someone infected by the exsurgent virus and likely transformed into an alien creature.
+- **Exsurgent Virus:** A multi-vector virus spread during the Fall that transforms victims and subverts their minds.
+- **Extrasolar:** Outside the Solar System.
+- **The Eye:** Firewall’s internal social and data-sharing network.
+- **Face:** A negotiator or networker.
+- **Factors:** A species of evolved slime molds, the only living sapient aliens transumanity has encountered so far.
+- **The Fall:** The war with the TITANs that devastated Earth and nearly made transhumanity extinct.
+- **Farcast:** Intrasolar communication using classical communication technologies (radio, laser, etc.) and quantum teleportation.
+- **Farhauler:** Long-distance space shipper.
+- **Feedstock:** The raw matter used to nanofabricate.
+- **The Fence:** The interdiction cordon of killsats around Earth.
+- **Fetch:** A beta fork or agent of an ASI like a TITAN.
+- **Filter:** A proxy that handles social engineering, media manipulation, and cover-ups.
+- **Firewall:** The secret cross-faction conspiracy that works to protect transhumanity from x-risks.
+- **Firewall:** The software that defends a system from intrusion.
+- **Fisher Hab:** A cylinder variant using independent modules.
+- **Fixer:** Someone who works deals to acquire goods or intel.
+- **Flat:** A baseline human, not genefixed or modified.
+- **Flatlander:** Someone born or living on a planet/moon with gravity.
+- **Flexbot:** A shape-changing synthmorph capable of joining with other flexbots in a modular fashion to create larger shapes.
+- **Fork:** A copy of an ego.
+- **Forknapping:** Kidnapping a backup or fork.
+- **Fractal:** A "bush robot" TITAN machine with fractal appendages and advanced nanofab capabilities.
+- **The Fringe:** The remote and unpopulated areas of the Solar System.
+- **FTL:** Faster-Than-Light.
+- **Fury:** A transhuman combat biomorph.
+- **Futura:** A biomorph designed for the Lost Generation.
+- **Galatea:** A high-end synthmorph optimized for social interactions.
+- **Gamma Fork:** An incomplete/corrupted copy of an ego. AKA vapor.
+- **Gate:** One of the pandora gate wormholes that allow travel to other parts of the galaxy.
+- **Gatecrasher:** An explorer who traverses a pandora gate.
+- **Genehacker:** Someone who manipulates genetic code to create genetic modifications or even new life.
+- **GEO:** Geosynchronous orbit, 35,786&nbsp;km altitude over the equator.
+- **Ghost:** A transhuman combat biomorph optimized for stealth.
+- **Ghostrider:** An infomorph carried in a special implant.
+- **Glanding:** Using ware to modify your emotional state.
+- **Glitterati:** Socialites, hyperelites, and media icons.
+- **Greeks:** Trojan asteroids at the L4 point. See also _Trojans_.
+- **Guanxi:** The criminal social network.
+- **Habtech:** A habitat technician.
+- **Hamilton Cylinder:** A living, growing, nanoswarm-constructed cylinder hab with biological components.
+- **Hardware:** Enhancements for synthmorphs.
+- **Headhunter:** A TITAN machine that collects heads for uploading.
+- **Hibernoid:** A biomorph modified for hibernation and extended wakefulness.
+- **Hidden Concern:** A neo-octopus crime cartel based on Ceres.
+- **Hive:** A specialized nanofabber that maintains a nanoswarm.
+- **Host:** Personal mesh devices. May run a single infomorph.
+- **Hot Jupiter/Neptune:** A gas giant or ice giant whose orbit has migrated closer to its star, giving it a higher temperature.
+- **Hypercorp Council:** The top hypercorporations that control the Planetary Consortium.
+- **Hyperelite:** The rich and wealthy.
+- **Ice Dwarf:** A type of distant dwarf planet composed of ice.
+- **Ice Giant:** A planet composed of elements heavier than hydrogen/helium, usually in the outer part of a star system.
+- **Iceteroid:** An asteroid made of ice rather than rock or metals.
+- **ID Crew:** The Intelligent Design Crew, a cartel specializing in electronic crimes.
+- **Ikon:** An infomorph optimized for media and socialites.
+- **Iktomi:** An extinct alien species of arthropods whose relics have been found beyond the pandora gates.
+- **Indenture:** A workers who has contracted their labor to a hypercorp or other authority, usually in exchange for a morph.
+- **IndEx:** The Indenture Exchange for trading indenture contracts.
+- **Infolife:** Programmed egos such as artificial general intelligences.
+- **Infomorph:** A digitized ego run in a virtual mind-state.
+- **Infosec:** Information security; hacking and defense against it.
+- **Infugee:** A refugee that survived the Fall as a bodiless infomorph.
+- **ISET:** The Institude for the Study of Emergent Trends. The Argonauts' clandestine intelligence and forecasting service.
+- **Isolates:** Exiles on the fringes of the system. AKA brinkers.
+- **ITN:** The interplanetary transport network; using gravity to move between planets using minimal fuel.
+- **Jamming:** Teleoperating a bot via an immersive AR overlay and "becoming" the drone.
+- **JSFI:** Jovian Space Force Intelligence.
+- **The Junkyard:** The layer of junk and debris in low Earth orbit.
+- **Junta:** The military regime that dictates the Jovian Republic.
+- **KBO:** Kuiper Belt object.
+- **Kuiper Belt:** A region extending from Neptune’s orbit to about 55&nbsp;AU, lightly populated with asteroids, comets, and dwarf planets.
+- **Lack:** The loss of time and/or memories when resleeving.
+- **Lagrange Point:** One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized. Lagrange points are stable and ideal locations for habitats.
+- **LEO:** Low Earth Orbit, 150–2,000&nbsp;km altitude.
+- **Lifelog:** A sensorium recording of one’s entire life experience.
+- **LLA:** The Lunar-Lagrange Alliance, the conservative polity of habitats on Luna and in Earth orbit.
+- **Lost Generation:** A group of children raised using forced-growth morphs and time-contracted VR. The results were disastrous: many died or went insane, and the rest were stigmatized.
+- **Main Belt:** A ring of asteroids orbiting between Mars and Jupiter.
+- **Makers:** A techno-savvy faction of Barsoomian anarchist nomads.
+- **MARG:** A massively multiplayer augmented-reality game.
+- **Mavericks:** The Firewall faction that doesn't give a fuck.
+- **Medeans:** The Argonauts' secret paramilitary group.
+- **Meme:** A viral idea. A unit of information transmitted socially that self-replicates and mutates in a manner analagous to genes.
+- **Menton:** A biomorph optimized for mental and cognitive ability.
+- **Mercurials:** The non-human sapient elements transhumanity, including AGIs and uplifts. Also refers to a movement that demands self-determination for AGIs/uplifts.
+- **Mesh:** The omnipresent decentralized wireless data network. Also used as a verb (to mesh) and adjective (meshed or unmeshed).
+- **Mesh ID:** The unique signature attached to one’s mesh activity.
+- **Meshware:** Apps for cyberbrains and infomorphs.
+- **Metacelebrity:** A celebrity identity shared by multiple actors.
+- **Microgravity:** Zero g or near-weightless environments.
+- **Mindhacker:** A psychosurgeon.
+- **Minifac:** An industrial-scale nanofabber.
+- **Mist:** Obtrusive AR ads and data that clutter your entoptics.
+- **Morgue:** A black-market body bank.
+- **Morph:** A physical body. AKA sleeve, shell, suit, jacket, form.
+- **Morphological Freedom:** The autonomy to modify and enhance your own body.
+- **Mote:** Smaller devices, peripherals, and sensors. May run only a single dedicated ALI.
+- **The Movement:** The Barsoomian movement to free Mars.
+- **Muse:** An ALI personal assistant.
+- **Mutualist:** An Extropian sub-faction favoring cooperatives.
+- **Nanobot:** A nano-scale machine, usually deployed as a swarm.
+- **Nano-Ecology:** A pro-tech ecological movement.
+- **Nanofabber:** A device that manufactures items from the molecular level with an appropriate blueprint. AKA compiler, cornucopia machine, fabber, forge, maker, printer, replicator.
+- **Nanoswarm:** A mass of nanobots that act in concert.
+- **Nanotat ID:** The ID nano-encoded on your morph's index finger.
+- **Nanoware:** Nanosystems implanted within a morph.
+- **Narcoalgorithm:** An app that mimics the effects of a drug for an infomorph or cyberbrain.
+- **Neo-Avians:** Uplifted ravens, crows, and gray parrots.
+- **Neogenesis:** The creation of new life forms via genetic manipulation and biotechnology.
+- **Neo-Hominids:** Uplifted bonobos, chimpanzees, gorillas, and orangutans.
+- **Neo-Neanderthal:** Uplifted neanderthals.
+- **Neotenics:** Biomorphs modified to retain a child-like form.
+- **Neurodiversity:** The acceptance of atypical neurologies.
+- **Night Cartel:** A progressive criminal cartel evolved from several old-Earth ethnic mafias.
+- **Nine Lives:** A cartel of forknappers and soul traders.
+- **Novacrab:** A pod created from genetically engineered spider crabs.
+- **Nuestro Shell:** A shell hab using symmetrical radiating spars and rings for stability.
+- **Oligarchs:** The powerful immortal rich.
+- **Olympian:** A biomorph enhanced for fitness and athleticism.
+- **O’Neill Cylinder:** A soda-can shaped habitat, spun for gravity.
+- **Oort Cloud:** An area about one light year from the sun, mostly populated by comets.
+- **Operator:** An infomorph optimized for piloting drones.
+- **Oversight:** The Planetary Consortium agency that polices financial matters and protects the Consortium from external threats.
+- **Ozma:** An extra-governmental inner-system cabal.
+- **PAN:** Personal Area Network. The network of personal electronics slaved to your ecto or mesh inserts.
+- **Pandora Gates:** The wormhole gateways discovered after the disappearance of the TITANs.
+- **Pax Familae:** The criminal cartel composed of one person, Claudia Ambelina, and her clones and forks.
+- **Plurality:** The Titanian cyberdemocracy.
+- **Pods:** Mass-produced biomorphs with cybernetic brains, originally used as bio robots. From “pod people.” AKA skinjobs, replicants.
+- **Polykatoikia:** A cylinder-hab variant using dependent modules.
+- **Posthuman:** Someone modified so extensively as to no longer be recognizably human (a step beyond transhuman).
+- **Pragmatists:** The Firewall faction that believes in doing whatever is necessary to stop x-risks.
+- **Privileges:** The rules defining what an account can do on a system.
+- **Processor Locus:** Orbital server habitats for infomorphs.
+- **Prometheans:** A group of friendly ASIs that helped combat the TITANs and support Firewall.
+- **Proxies:** Members of the Firewall internal structure.
+- **Psi:** Parapsychological powers acquired from infection by the Watts-MacLeod strain of the exsurgent virus.
+- **Psi-Chi:** Psi sleights that enhance the mind.
+- **Psi-Gamma:** Psi sleights that affect the minds/physiologies of others.
+- **Puppet:** Someone mindhacked and controlled by another.
+- **Pychosurgery:** The selective and surgical alteration of a mind.
+- **QE Comms:** Quantum-entangled FTL communications.
+- **Reagan Cylinder:** Crude cylinder habs made from hollowed asteroids in the Jovian Republic. AKA sarcophagus hab.
+- **Reaper:** A warbot synthmorph.
+- **Reclaimers:** A faction that seeks to retake the Earth.
+- **Red Market:** The trade of anti-social and coercive activities in autonomist space.
+- **Redneck:** A rural Martian, often a Barsoomian. AKA Reds.
+- **Register:** A proxy that handles logistics and finances.
+- **Re-instantiated:** To be resleeved. Also refers to resleeved infugees.
+- **Remade:** A biomorph intended as a human upgrade, human 2.0.
+- **Resleeving:** Downloading into a new morph. AKA remorphing.
+- **Rimward:** The outer half of the Solar System, from the Main Belt to the Oort Cloud.
+- **Ringers:** Denizens of Saturn's rings.
+- **Ripping:** Destroying surveillance systems to create dead zones.
+- **Root Account:** The one account on a system that may not have its admin privileges revoked.
+- **Router:** A proxy that coordinates a server’s operations.
+- **Ruster:** A biomorphs optimized for life on Mars.
+- **Sapients:** Uplifts and infolife that seek equal rights and assimilation into transhuman society.
+- **Savant:** A synthmorph optimized for intelligence.
+- **Scan:** To locate and identify wireless devices.
+- **Scanner:** A proxy that collects and analyzes data for signs of x-risks.
+- **Scorcher:** An offensive app that targets infomorphs/cyberbrains.
+- **Scratch Space:** A temporary secret cache of gear.
+- **Scum:** An autonomist faction of hedonistic nomads.
+- **Security Council:** The military regime that runs the Jovian Republic. AKA Junta.
+- **Seed AI:** An AI that is capable of recursive self-improvement, allowing it to rapidly reach god-like levels of intelligence.
+- **Sentinels:** On-call agents of Firewall.
+- **Server:** A working group of proxies and the cells they coordinate.
+- **Server:** Large multi-user devices. May run multiple infomorphs.
+- **Service:** An app run on a remote cloud device rather than locally.
+- **Shanzhai:** The copying/counterfeiting of goods.
+- **Shaper:** A pod morph optimized for changing its appearance.
+- **Shell:** A synthetic form; used for bots, vehicles, and synthmorphs.
+- **Shell:** A cluster habitat with a protective outer layer or framework of rings and spars. AKA Nuestro shell.
+- **Sifters:** Denizens of Mercury.
+- **Simulmorph:** The avatar you use in a VR simulspace.
+- **Simulspace:** Full-immersion virtual reality environments.
+- **Singularity:** A point of rapid, exponential, and recursive technological progress, beyond which the future is impossible to predict.
+- **Singularity Seeker:** A person infatuated with ASIs like the TITANs or becoming posthuman themselves.
+- **Skimmers:** Denizens of the ice giants.
+- **Skin:** A biological physical morph. AKA biomorph, meat, flesh.
+- **Skinning:** Changing your perceived environment via AR.
+- **Skipjacking:** The art of moving unseen by surveillance systems.
+- **Sleight:** A psi power.
+- **Slitheroid:** A snake-like synthmorph.
+- **Smart Animal:** A partially uplifted animal.
+- **Sniff:** To intercept wireless mesh traffic.
+- **Solarians:** Denizens of the sun's corona.
+- **Souk:** Covered bazaars and market areas between Martian domes.
+- **Spare:** A portable morph to be sleeved in an emergency.
+- **Sphere/Spheroid:** A bubble-shaped habitat spun for gravity, usually made from hollowed-out asteroids. AKA bubble.
+- **Splicers:** Humans modified to eliminate genetic diseases and other unwanted traits. AKA genefixed, tweaks.
+- **Steel Morph:** A high-end synthmorph with enhanced physical capabilities.
+- **Structuralists:** The Firewall faction that seeks more formal organization and to go public.
+- **Sunward:** The inner system, from Sol to Mars.
+- **Super-Earth:** A terrestrial planet much larger than Earth with a higher surface gravity.
+- **Swarm:** A mass of nano- or microbots acting in concert.
+- **Swarm:** A flotilla of ships, sometimes interlinked or towing habs.
+- **Swarmanoid:** A synthmorph composed of a swarm of microbots.
+- **Sylphs:** Biomorphs enhanced for charisma and beauty.
+- **Synthmorph:** Robotic shells sleeved by transhuman egos.
+- **Synths:** A common humanoid synthmorph model.
+- **System:** Any hardware device, network, or software service.
+- **TAU:** Titan Autonomous University.
+- **Taxi:** A morph that carries an infomorph on its person.
+- **Technical:** Martian slang for crazy or haywire.
+- **Teleoperation:** Remote control.
+- **Tenmai Shell:** A hab with the outer shell of a cylinder or sphere but a hollow micrograv space inside.
+- **Tharsis League:** The government of Mars.
+- **Tin Can:** A small, cheap, pressurized habitat module.
+- **Titanian:** Someone from Titan, a moon of Saturn.
+- **TITANs:** Total Information Tactical Awareness Network. ASIs that attacked transhumanity and brought about the Fall.
+- **Torus:** A ring-shaped habitat, spun for gravity.
+- **TQZ:** The TITAN Quarantine Zone on Mars.
+- **Transgenic:** Containing genetic traits from other species.
+- **Transhuman:** An extensively modified human.
+- **Trojans:** Asteroids/moons that share the same orbit as a larger planet or moon, but follow about 60 degrees ahead or behind at the L4 (Greeks) and L5 (Trojans) Lagrange points. Trojans normally refers to the asteroids at Jupiter’s Lagrange points, but Mars, Saturn, Neptune, and other bodies also have Trojans. See also _Greeks_.
+- **Uplift:** An animal species genetically enhanced to sapience.
+- **Vacworker:** A laborer who works in vacuum.
+- **Vapor:** A failed mind emulation or crippled fork/infomorph.
+- **Vector:** A proxy that handles hacking, comms, and online security.
+- **VPNs:** Virtual Private Networks. Networks that operate within the mesh, usually encrypted for privacy/security.
+- **VR:** Virtual Reality. Imposing an artificially constructed hyper-real reality over one’s physical senses.
+- **Ware:** Implants and enhancements, including bioware, cyberware, hardware, meshware, and nanoware.
+- **Wastewalkers:** Mutated exusrgent cyborg soldiers.
+- **Watts-MacLeod:** An exsurgent virus strain that does not transform/subvert the victim, but gives them async psi abilities.
+- **Whippers:** Barrel-like exsurgents with a mass of tentacles.
+- **Wild Artificial:** A feral autonomous robot.
+- **WMD:** Weapon of mass destruction.
+- **Worm:** An exsurgent async.
+- **X-Caster:** Someone who transmits/sells XP livefeeds and recordings of their experiences.
+- **Xenomorph:** An alien life form.
+- **Xer:** As in “X-er” — someone addicted or obsessed with XP. Sometime also used to refer to people making XP.
+- **XP:** Experience Playback. Experiencing someone else’s sensory input (real-time or recorded). AKA sim, simsense, playback.
+- **X-Risk**: Existential Risk. Something that threatens the very existence of transhumanity.
+- **Zero-Day:** A previously unknown exploit against which computer systems are not yet defended. AKA 0-day.
+- **Zeroes:** People without mesh access. Common with indentures.
+- **Zone Stalker:** A collector of artifacts from quarantine zones.
+
+<!-- CLEANED /div -->

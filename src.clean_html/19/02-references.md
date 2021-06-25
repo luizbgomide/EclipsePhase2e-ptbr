@@ -1,0 +1,340 @@
+# References
+
+Eclipse Phase took inspiration from many sources that deserve recognition and credit. Gamemasters may find these useful for ideas for adventures and campaigns.
+
+## Fiction
+
+- K. C. Alexander
+  - _Necrotech_
+- Neal Asher
+  - _Gridlinked_
+  - _Skinner_
+- Ian Banks
+  - _Consider Phlebas_
+  - _Excession_
+  - _The Hydrogen Sonata_
+  - _Inversions_
+  - _Look to Windward_
+  - _Matter_
+  - _The Player of Games_
+  - _The State of the Art_
+  - _Surface Detail_
+  - _The Use of Weapons_
+- Greg Bear
+  - _Moving Mars_
+  - _Queen of Angels_
+  - _Slant_
+- David Brin
+  - _Earth_
+  - _Kiln People_
+  - _Startide Rising_
+  - _Sundiver_
+  - _The Uplift War_
+- James S. A. Corey
+  - _Abaddon's Gate_
+  - _Caliban's War_
+  - _Leviathan Wakes_
+- Paul Di Filippo
+  - _Ribofunk_
+- Cory Doctorow
+  - _Down and Out in the Magic Kingdom_
+  - _Eastern Standard Tribe_
+  - _Walkaway_
+- Greg Egan
+  - _Axiomatic_
+  - _Diaspora_
+  - _Distress_
+  - _Permutation City_
+  - _Quarantine_
+- Warren Ellis
+  - _Crooked Little Vein_
+- Kathleen Ann Goonan
+  - _Crescent City Rhapsody_
+  - _Light Music_
+  - _Mississippi Blues_
+  - _Queen City Jazz_
+- Peter Hamilton
+  - The “Commonwealth Saga”
+    - _Pandora’s Star_
+    - _Judas Unleashed_
+  - The “Greg Mandel Trilogy”
+    - _Mindstar Rising_
+    - _A Quantum Murder_
+    - _The Nano Flower_
+- James Hogan
+  - _Voyage from Yesteryear_
+- Nancy Kress
+  - _Beggars in Spain_
+- Ursula LeGuin
+  - _The Dispossessed_
+  - _The Left Hand of Darkness_
+- Ken MacLeod
+  - The “Fall Revolution” series
+    - _The Star Fraction_
+    - _The Stone Canal_
+    - _The Cassini Division_
+    - _The Sky Road_
+  - _Newton’s Wake_
+- Richard Morgan
+  - The “Takeshi Kovacs” series
+    - _Altered Carbon_
+    - _Broken Angels_
+    - _Woken Furies_
+  - _Thirteen_
+- Linda Nagata
+  - _The Bohr Maker_
+  - _Deception Well_
+  - _Limit of Vision_
+  - _Tech Heaven_
+  - _Vast_
+- Ramez Naam
+  - _Apex_
+  - _Crux_
+  - _Nexus_
+- Annalee Newitz
+  - _Autonomous_
+- Ada Palmer
+  - _Seven Surrenders_
+  - _The Will to Battle_
+  - _Too Like the Lightning_
+- Frederick Pohl
+  - _Gateway_
+- Alastair Reynolds
+  - _Absolution Gap_
+  - _Chasm City_
+  - _Diamond Dogs, Turquoise Days_
+  - _Elysium Fire_
+  - _Galactic North_
+  - _The Prefect_
+  - _Pushing Ice_
+  - _Redemption Ark_
+  - _Revelation Space_
+- Douglas Richards
+  - _Infinity Born_
+- Kim Stanley Robinson
+  - _2312_
+  - The “Mars Trilogy”
+    - _Red Mars_
+    - _Blue Mars_
+    - _Green Mars_
+  - _The Martians_
+  - _Red Moon_
+- Karl Schroeder
+  - _Ventus_
+- Dan Simmons
+  - _Endymion_
+  - _Fall of Endymion_
+  - _Fall of Hyperion_
+  - _Hyperion_
+  - _Llium_
+  - _Olympos_
+- Neal Stephenson
+  - _Diamond Age_
+  - _Seveneves_
+- Bruce Sterling
+  - _Caryatids_
+  - _Crystal Express_
+  - _Holy Fire_
+  - _Schismatrix Plus_
+- Charles Stross
+  - _Accelerando_
+  - _Glasshouse_
+  - _Halting State_
+  - _Iron Sunrise_
+  - _Neptune's Brood_
+  - _Rule 34_
+  - _Saturn's Children_
+  - _Singularity Sky_
+  - _Toast_
+- Daniel Suarez
+  - _Daemon_
+  - _Freedom_
+  - _Influx_
+- Karen Traviss
+  - _City of Pearl_
+- Vernor Vinge
+  - _Across Realtime_
+  - _The Children of the Sky_
+  - _A Deepness in the Sky_
+  - _A Fire Upon The Deep_
+  - _Rainbow’s End_
+  - _True Names and Other Dangers_
+- Elisabeth Vonarburg
+  - _Slow Engines of Time_
+- Peter Watts
+  - _Blindsight_
+  - _Echopraxia_
+  - “Rifters’ Trilogy”
+    - _Starfish_
+    - _Maelstrom_
+    - _Behemoth (ß-Max + Seppuku)_
+- Scott Westerfeld
+  - _The Risen Empire_
+  - _The Killing of Worlds_
+- Walter Jon Williams
+  - _Aristoi_
+  - _Angel Station_
+  - _Implied Spaces_
+  - _Voice of the Whirlwind_
+- David Zindell
+  - _The Broken God_
+  - _Neverness_
+  - _War in Heaven_
+  - _The Wild_
+
+## Comics and Graphic Novels
+
+- Jamie Delano
+  - _Narcopolis_
+- Warren Ellis
+  - _Doktor Sleepless_
+  - _Doom 2099_
+  - _Global Frequency_
+  - _Ministry of Space_
+  - _Ocean_
+  - _Transmetropolitan_
+- Jonathan Hickman
+  - _Transhuman_
+- Grant Morrison
+  - _The Filth_
+  - _The Invisibles_
+- Masamune Shirow
+  - _Ghost in the Shell_
+  - _Ghost in the Shell 1.5: Human-Error_
+- Processor
+  - _Ghost in the Shell 2: Man/Machine Interface_
+- Adam Warren
+  - _Iron Man: Hypervelocity_
+- Makoto Yukimura
+  - _Planetes_
+
+## Non-Fiction
+
+- Ronald Bailey
+  - _Liberation Biology_
+- Susan Blackmore
+  - _The Meme Machine_
+- Murray Bookchin
+  - _Post-Scarcity Anarchism_
+- Cynthia Brezeal
+  - _Designing Sociable Robots_
+- Nick Bostrom
+  - _Superintelligence_
+- David Brin
+  - _The Transparent Society_
+- Richard Brodie
+  - _Virus of the Mind: The New Science of the Meme_
+- James Brook and Ian Boal (eds)
+  - _Resisting the Virtual Life_
+- Rodney Brooks
+  - _Flesh and Machines: How Robots Will Change Us_
+  - _Cambrian Intelligence: The Early History of the New AI_
+- Critical Art Ensemble
+  - _Digital Resistance_
+  - _Electronic Civil Disobedience_
+  - _The Electronic Disturbance_
+  - _Flesh Machine_
+  - _The Molecular Invasion_
+  - _The Marching Plague_
+- Richard Dawkins
+  - _The Selfish Gene_
+- K. Eric Drexler
+  - _Engines of Creation: The Coming Era of Nanotechnology_
+- Freeman Dyson
+  - _Disturbing the Universe_
+  - _Imagined Worlds_
+- Ann Finkbeiner
+  - _The Jasons_
+  - _Imaginary Weapons_
+- Joel Garreau
+  - _Radical Evolution_
+- Peter Gelderloos
+  - _Anarchy Works_
+- Adam Greenfield
+  - _Everyware: The Dawning Age of Ubiquitous Computing_
+- Robin Hanson
+  - _The Age of Em_
+- James Hughes
+  - _Citizen Cyborg_
+- Peter Kropotkin
+  - _The Conquest of Bread_
+  - _Mutual Aid_
+  - _Science and Anarchism_
+- Ray Kurzweil
+  - _The Singularity is Near_
+- Howard Rheingold
+  - _Smart Mobs: The Next Social Revolution_
+- John Robb
+  - _Brave New War_
+- Clay Shirky
+  - _Here Comes Everybody_
+- Bruce Sterling
+  - _Shaping Things_
+  - _Tomorrow Now: Envisioning the Next Fifty Years_
+- Gregory Stock
+  - _Redesigning Humans: Our Inevitable Genetic Future_
+- Kelly and Zach Weinersmith
+  - _Soonish_
+- Charles Wohlforth and Amanda R. Hendrix
+  - _Beyond Earth_
+- Simon Young
+  - _Designer Evolution: A Transhumanist Manifesto_
+
+## Roleplaying Games
+
+- _Blue Planet_
+- _Burning Empires_
+- _Call of Cthulhu_
+- _Cybergeneration_
+- _Dawning Star_
+- _Delta Green_
+- _Fate_
+- _FreeMarket_
+- _Gamma World_
+- _GURPS: Transhuman Space_
+- _Morrow Project_
+- _Numenera_
+- _Paranoia_
+- _Shadowrun_
+- _Shock: Social Science Fiction_
+- _Traveller_
+
+## Movies & Television
+
+- _AI_
+- _Alien series_
+- _Altered Carbon_
+- _Alita: Battle Angel_
+- _Andromeda_
+- _Babylon 5_ and _Crusade_
+- _Big O_
+- _Black Mirror_
+- _Blade Runner_ and _Blade Runner 2049_
+- _Chappie_
+- _Cowboy Bebop_
+- _District 9_
+- _Dollhouse_
+- _Dreamcatcher_
+- _Elysium_
+- _Ergo Proxy_
+- _Ex Machina_
+- _The Expanse_
+- _Firefly_ and _Serenity_
+- _Gattaca_
+- _Ghost in the Shell (everything)_
+- _Gravity_
+- _Hardcore Henry_
+- _The Island_
+- _Jekyll_
+- _Limitless_
+- _Love, Death, and Robots_
+- _The Martian_
+- _Moon_
+- _Pandorum_
+- _Planetes_
+- _Sleep Dealer_
+- _Solaris_
+- _Stargate_ and _Stargate: Atlantis_
+- _Sunshine_
+- _Upgrade_
+- _Uzumaki_
