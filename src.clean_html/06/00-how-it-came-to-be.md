@@ -1,5 +1,7 @@
 # How It Came to Be
 
+<!-- TOC PLACEHOLDER -->
+
 - [Slouching Towards Singularity](../06/01-slouching-towards-singularity.md)
   - [Before the Fall](../06/01-slouching-towards-singularity.md#before-the-fall)
     - [Climate Crises](../06/01-slouching-towards-singularity.md#climate-crises)

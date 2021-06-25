@@ -1,5 +1,7 @@
 # Transhuman Culture
 
+<!-- TOC PLACEHOLDER -->
+
 - [Fear and Paranoia](../08/01-fear-and-paranoia.md)
   - [Life After the Fall](../08/01-fear-and-paranoia.md#life-after-the-fall)
   - [Can We Trust Our Tech?](../08/01-fear-and-paranoia.md#can-we-trust-our-tech)

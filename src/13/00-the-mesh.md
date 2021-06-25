@@ -1,5 +1,7 @@
 # The Mesh
 
+<!-- TOC PLACEHOLDER -->
+
 - [Everyware](../13/01-everyware.md)
   - [Getting Online](../13/01-everyware.md#getting-online)
   - [Your Online Presence](../13/01-everyware.md#your-online-presence)

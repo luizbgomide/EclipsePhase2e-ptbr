@@ -1,5 +1,7 @@
 # Gear
 
+<!-- TOC PLACEHOLDER -->
+
 - [Gear Rules](../16/01-gear-rules.md)
   - [Gear Rules](../16/01-gear-rules.md#gear-rules)
   - [Gear Design](../16/01-gear-rules.md#gear-design)

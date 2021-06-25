@@ -1,5 +1,7 @@
 # System Gazetteer
 
+<!-- TOC PLACEHOLDER -->
+
 - [Sol and Mercury](../11/01-sol-and-mercury.md)
   - [Sol](../11/01-sol-and-mercury.md#sol)
     - [Solarians](../11/01-sol-and-mercury.md#solarians)

@@ -1,5 +1,7 @@
 # Transhuman Tech
 
+<!-- TOC PLACEHOLDER -->
+
 - [Backups & Uploading](../15/01-backups-and-uploading.md)
   - [Cortical Stacks](../15/01-backups-and-uploading.md#cortical-stacks)
     - [Popping a Stack](../15/01-backups-and-uploading.md#popping-a-stack)

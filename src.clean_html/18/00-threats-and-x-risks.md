@@ -1,5 +1,7 @@
 # Threats & X-Risks
 
+<!-- TOC PLACEHOLDER -->
+
 - [X-Risks](../18/01-x-risks.md)
   - [Alien Conflict](../18/01-x-risks.md#alien-conflict)
   - [Astronomical Events](../18/01-x-risks.md#astronomical-events)

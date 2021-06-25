@@ -1,5 +1,7 @@
 # The New Political Economy
 
+<!-- TOC PLACEHOLDER -->
+
 - [The System Split](../09/01-the-system-split.md)
   - [The Inner System](../09/01-the-system-split.md#the-inner-system)
   - [The Outer System](../09/01-the-system-split.md#the-outer-system)

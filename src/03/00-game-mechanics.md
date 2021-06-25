@@ -1,5 +1,7 @@
 # Game Mechanics
 
+<!-- TOC PLACEHOLDER -->
+
 - [How to Play](../03/01-how-to-play.md)
   - [Dice Basics](../03/01-how-to-play.md#dice-basics)
   - [When to Roll the Dice](../03/01-how-to-play.md#when-to-roll-the-dice)

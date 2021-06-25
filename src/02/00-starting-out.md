@@ -1,5 +1,7 @@
 # Starting Out
 
+<!-- TOC PLACEHOLDER -->
+
 - [What is Eclipse Phase?](../02/01-what-is-ep.md)
   - [New to Roleplaying?](../02/01-what-is-ep.md#new-to-roleplaying)
   - [Starting Players](../02/01-what-is-ep.md#starting-players)

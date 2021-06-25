@@ -1,5 +1,7 @@
 # Accelerated Future
 
+<!-- TOC PLACEHOLDER -->
+
 - [Beyond Death](../07/01-beyond-death.md)
   - [The New Normal](../07/01-beyond-death.md#the-new-normal)
     - [Death Remains Familiar](../07/01-beyond-death.md#death-remains-familiar)

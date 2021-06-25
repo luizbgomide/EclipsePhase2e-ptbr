@@ -1,5 +1,7 @@
 # Factions
 
+<!-- TOC PLACEHOLDER -->
+
 - [Inner System Polities](../10/01-inner-system-polities.md)
   - [The Lunar-Lagrange Alliance (LLA)](../10/01-inner-system-polities.md#the-lunar-lagrange-alliance-lla)
     - [The Alliance Council](../10/01-inner-system-polities.md#the-alliance-council)

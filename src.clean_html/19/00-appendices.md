@@ -1,5 +1,7 @@
 # Appendices
 
+<!-- TOC PLACEHOLDER -->
+
 - [Glossary](../19/01-glossary.md)
 - [References](../19/02-references.md)
   - [Fiction](../19/02-references.md#fiction)

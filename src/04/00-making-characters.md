@@ -1,5 +1,7 @@
 # Making Characters
 
+<!-- TOC PLACEHOLDER -->
+
 - [Character Stats](../04/01-character-stats.md)
   - [Ego vs. Morph](../04/01-character-stats.md#ego-vs-morph)
   - [Aptitudes](../04/01-character-stats.md#aptitudes)

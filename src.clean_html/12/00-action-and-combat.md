@@ -1,5 +1,7 @@
 # Action & Combat
 
+<!-- TOC PLACEHOLDER -->
+
 - [Resolving Combat](../12/01-resolving-combat.md)
   - [Step 1: Declare Attack](../12/01-resolving-combat.md#step-1-declare-attack)
   - [Step 2: Declare Defense](../12/01-resolving-combat.md#step-2-declare-defense)

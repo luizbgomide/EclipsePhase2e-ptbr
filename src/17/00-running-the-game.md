@@ -1,5 +1,7 @@
 # Running the Game
 
+<!-- TOC PLACEHOLDER -->
+
 - [Ad Astra](../17/01-ad-astra.md)
   - [The Elevator Pitch](../17/01-ad-astra.md#the-elevator-pitch)
   - [The First Session](../17/01-ad-astra.md#the-first-session)
