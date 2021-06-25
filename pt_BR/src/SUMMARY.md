@@ -11,3 +11,5 @@
 
 ---
 
+[Compre o livro!](buy-the-book.md)
+[Licença & Créditos](license.md)
