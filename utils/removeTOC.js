@@ -27,7 +27,7 @@ function processFile(file) {
     contents = fs.readFileSync(file, 'utf8');
     let index = contents.indexOf(tocMarker);
     if (index == -1) return;
-    let result = contents.substring(0,index+tocMarker.length+'\n');
+    let result = contents.substring(0,index+tocMarker.length) + '\n';
     fs.writeFileSync(file, result);
     process.stdout.write(file+'\n');
 }
