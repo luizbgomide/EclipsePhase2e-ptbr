@@ -21,7 +21,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **AR:** Augmented Reality. Information from the mesh that is overlaid on your real-world senses. AR data is usually visual but can also be audio, tactile, olfactory, kinesthetic, emotional, or other senses.
 - **Artifex:** A nano-engineer.
 - **Artificial:** Martian slang for embodied artificial life.
-- **Async:** A person with psi abilities resulting from the WattsMacLeod strain of the exsurgent virus.
+- **Async:** A person with psi abilities resulting from the Watts-MacLeod strain of the exsurgent virus.
 - **ATI:** The Aerial Terraforming Initiative for Venus.
 - **AU:** Astronomical Unit. The distance between the Earth and Sol (the sun), equal to 8.3 light minutes or ~150 million kilometers.
 - **Autocook:** A specialized fabber for making food and drinks.

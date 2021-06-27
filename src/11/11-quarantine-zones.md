@@ -62,7 +62,7 @@ The Consortium also jams radio and microwave signals to prevent communication wi
 
 ### Zone Stalkers
 
-There are always loners in a desert: hermits, nomads, and others who want to be left alone. Smugglers can be found in safer areas and, if approached cautiously, may be helpful. Zone stalkers search the ruins and old TITAN facilities to retrieve artifacts to sell. There are also isolated communities that prefer to remain in the Zone, such as the Yazidis, a religious sect of Kurds infected with a mostly benign strain of Watts-MacLeod. They aren’t hostile, are willing to barter, and will offer visions of their own story of the Fall to friendly guests. The vision may also leave their guest infected with the WattsMacLeod virus as a parting gift.
+There are always loners in a desert: hermits, nomads, and others who want to be left alone. Smugglers can be found in safer areas and, if approached cautiously, may be helpful. Zone stalkers search the ruins and old TITAN facilities to retrieve artifacts to sell. There are also isolated communities that prefer to remain in the Zone, such as the Yazidis, a religious sect of Kurds infected with a mostly benign strain of Watts-MacLeod. They aren’t hostile, are willing to barter, and will offer visions of their own story of the Fall to friendly guests. The vision may also leave their guest infected with the Watts-MacLeod virus as a parting gift.
 
 ## Other Locations
 
