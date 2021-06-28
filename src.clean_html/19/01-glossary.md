@@ -89,7 +89,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Ego Hunter:** A bounty hunter that tracks down resleeved egos.
 - **Egocast:** Term for transmitting an ego to a remote location.
 - **Entoptics:** Augmented reality that you “see” in your mind's eye.
-- **Eraser:** Heavily armed proxies that are called ito contain threats beyond the capabilities of a normal sentinel cell.
+- **Eraser:** Heavily armed proxies that are called to contain threats beyond the capabilities of a normal sentinel cell.
 - **ERP:** The reclaimer's Earth Reclamation Project.
 - **ETI:** Extraterrestial Intelligence. A god-like post-singularity alien/machine super-intelligence theorized to be responsible for the pandora gates and/or exsurgent virus.
 - **Europan:** A denizen of Jupiter's moon Europa.
