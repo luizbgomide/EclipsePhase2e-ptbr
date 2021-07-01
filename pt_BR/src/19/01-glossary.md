@@ -6,7 +6,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 
 - **Conta:** O que você usa para logar em um sistema. Determina seus privilégios de acesso.
 - **Console de Conta:** A interface de software que representa sua presença no sistema.
-- **Aerostato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
+- **Aeróstato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
 - **DQ:** Depois da Queda (usado para datação referencial).
 - **Agente:** Um informorfo otimizado para funções de infoseg.
 - **IGA:** Inteligência Geral Artificial. Uma IA que possui faculdades cognitivas e capacidade de aprendizado equivalentes a de um humano.
