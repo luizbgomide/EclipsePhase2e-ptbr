@@ -8,6 +8,8 @@
 - [Como Aconteceu](06/00-how-it-came-to-be.md)
 - [Futuro Acelerado](07/00-accelerated-future.md)
 - [Cultura Transumana](08/00-transhuman-culture.md)
+- [Apêndices](19/00-appendices.md)
+  - [Glossário](19/01-glossary.md)
 
 ---
 
