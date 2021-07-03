@@ -1,0 +1,3 @@
+# Equipamento
+
+<!-- TOC PLACEHOLDER -->

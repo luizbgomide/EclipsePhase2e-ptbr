@@ -42,7 +42,7 @@ O olhar inteligente do neo-corvo se virou para Tierslay, marcado por um desgosto
 
 Tierslay acenou com a cabeça, mas não respondeu.
 
-O neo-corvo voou novamente para o céu noturno e Taernen caminhou em direção à entrada brilhante do cassino. Um homem esguio com trajes requintados e uma nanotat de nove círculos estampada na lateral da cabeça raspada passou pela entrada do cassino para cumprimentar Taernen com um abraço forte e caloroso. Logo depois, um produ de segurança do resort chegou na mesa de Tierslay educadamente pedindo para ela deixar o local agora que seu responsável pela área da piscina havia saído.
+O neo-corvo voou novamente para o céu noturno e Taernen caminhou em direção à entrada brilhante do cassino. Um homem esguio com trajes requintados e uma nanotat de nove círculos estampada na lateral da cabeça raspada passou pela entrada do cassino para cumprimentar Taernen com um abraço forte e caloroso. Logo depois, um prod de segurança do resort chegou na mesa de Tierslay educadamente pedindo para ela deixar o local agora que seu responsável pela área da piscina havia saído.
 
 ---
 
@@ -122,7 +122,7 @@ Ela já não estava na oficina do Ukku, isso estava claro. Ela prestou atenção
 
 O pânico tomou conta. _O procedimento. Alguma coisa deu muito errado. Eu fiquei louca. Oh Deus. Ou pior. Eu sou um cadáver. Atormentado por tantos pecados. Quando foi minha última confissão?_
 
-A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava controlando seus pensamentos.
+A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava hackeando seus pensamentos.
 
 Seu corpo parecia estranho, meio rígido. As sensações de temperatura, do tecido contra a pele, pareciam erradas. Ela não conseguia sentir a pele ou os músculos se esticando. Ela controlava seus membros, mas as amarras seguravam-na firmemente.
 
@@ -220,7 +220,7 @@ O frio a envolveu. “Que?”
 
 Tierslay olhou para suas mãos, um lugar familiar para fixar seus olhos quando ficava perturbada numa conversa com seu irmão mais velho. A visão dos dedos de metal a perturbava ainda mais. “O que aconteceu ao meu verdadeiro eu, então?”
 
-Taernen sorriu, incapaz de resistir a uma chance para cavar fundo e distorcer velhas brincadeiras de irmãos. “Provavelmente, sua carne foi assada, queimada até ossos. E os ossos? Provavelmente numa pilha com bilhões de outros. Mas quem se importa? A coisa que faz você ser _você_, a coisa que realmente importa…” Taernen bateu seu dedo ossudo na cabeça dela, “…__isso__ escapou. Graças a mim.”
+Taernen sorriu, incapaz de resistir a uma chance para cavar fundo e distorcer velhas brincadeiras de irmãos. “Provavelmente, sua carne foi assada, queimada até ossos. E os ossos? Provavelmente numa pilha com bilhões de outros. Mas quem se importa? A coisa que faz você ser _você_, a coisa que realmente importa…” Taernen bateu seu dedo ossudo na cabeça dela, “…_isso_ escapou. Graças a mim.”
 
 “Oh, Deus…”
 
@@ -404,7 +404,7 @@ Elis respondeu com um sorriso conspiratório e um aceno enquanto Bixbee voava so
 
 Ukku estava na pista de dança da _Danger Noodle_ por quatro horas direto, cotovelos pontudos chacoalhando, pernas quase desabando, forçando os outros a desviarem. Claramente, Ukku estava chapado além da conta, rolando no último narco de Tierslay, junto com a maioria do clube. Tierslay, Elis, Pivo e Berk assistiam o sinte do bar, Bixbee do seu poleiro habitual acima da cabine do DJ, esperando Tierslay começar a pegadinha.
 
-Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno pela acesso oculto no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
+Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da porta dos fundos no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
 
 “Hum, isso foi desapontador.” Elis deu um tapinha no braço de Tierslay. “O _idiota_ é mesmo tapado. O negócio é voltar a beber até o turista parar de poluir nossa preciosa pista de dança.”
 
@@ -448,7 +448,7 @@ Ela entornou a bebida e deslizou o copo vazio pelo balcão, seu trajeto se curvo
 
 “Bem, isso é um alívio”, disse Pivo.
 
-Nesse momento, Bixbee pairou perto demais da cabine do Taernen. Taernen virou-se para o olhar curioso de Bixbee, olhando direto através da RA com fendas cinzas leitosas. Seu rosto se inclinou para fora das sombras e para o brilho azul das gotas de neon caindo de cima. Linhas de costura no crânio. Soquetes de tomada de acesso na nuca. Um biomorfo produ vagabundo, saído da pilha de pechinchas.
+Nesse momento, Bixbee pairou perto demais da cabine do Taernen. Taernen virou-se para o olhar curioso de Bixbee, olhando direto através da RA com fendas cinzas leitosas. Seu rosto se inclinou para fora das sombras e para o brilho azul das gotas de neon caindo de cima. Linhas de costura no crânio. Soquete de acesso na nuca. Um biomorfo prod vagabundo, saído da pilha de pechinchas.
 
 “Ei, babaca. Dá licença? Você está invadindo nosso espaço.” Taernen levantou-se e deu um passo agressivo em direção a Bixbee. Ukku saiu da cabine e flanqueou a libélula. Bixbee congelou. Taernen se irritou e foi pra cima. “Eu disse pra sumir, merdinha voadora.”
 
@@ -502,7 +502,7 @@ Tierslay respirou fundo. Seu coração estava acelerado. “Precisa de mim pra q
 
 “Qual é a carga?”
 
-“Morfos produs, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de hardware, como bots. Lixo barato, mas mesmo aqui com a escória, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
+“Morfos prods, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de hardware, como bots. Lixo barato, mas mesmo aqui com a escória, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
 
 “É isso?” Tierslay sabia que o favor não era só isso, mas perguntou mesmo assim. Seu irmão nunca começava com o grande pedido. Sempre havia outra coisa.
 
@@ -532,7 +532,7 @@ Taernen não disse nada, apenas se inclinou e sorriu.
 
 ### Revelações :: Cargueiro _No Turning Back_:: 14 de Agosto, DQ 9
 
-Ukku passou a serra circular em volta do crânio do produ, suspirando de prazer. Ele tirou a parte de cima da cabeça, revelando o cibercérebro. Puxando-o para fora, ele o desmontou, revelando um compartimento secreto. De dentro dele, ele extraiu um estranho dispositivo cúbico — com uns dez centímetros de tamanho. Ukku entregou o cubo a Tierslay como se o menor chacoalhar o destruísse em mil pedaços. Quando o cubo tocou sua pele metálica, um frio doloroso irradiou por sua mão. Ela achou o dispositivo difícil de focalizar, seus traços e contornos eram estranhamento difusos.
+Ukku passou a serra circular em volta do crânio do prod, suspirando de prazer. Ele tirou a parte de cima da cabeça, revelando o cibercérebro. Puxando-o para fora, ele o desmontou, revelando um compartimento secreto. De dentro dele, ele extraiu um estranho dispositivo cúbico — com uns dez centímetros de tamanho. Ukku entregou o cubo a Tierslay como se o menor chacoalhar o destruísse em mil pedaços. Quando o cubo tocou sua pele metálica, um frio doloroso irradiou por sua mão. Ela achou o dispositivo difícil de focalizar, seus traços e contornos eram estranhamento difusos.
 
 “A lâmina de Ukku observa atenta. Cada movimento. Não esqueça.”
 
@@ -540,7 +540,7 @@ Taernen sorriu. “Relaxa, Ukku. Tierslay vai se comportar. Certo, Tier?”
 
 “Certo, Taer.” Tierslay, por um segundo, considerou tacar o cubo na parede, só para ver a cara dele. Mas ela estava intrigada.
 
-Ukku voltou-se para o morfo produ com a cabeça vazia. Uma dúzia de outros como este flutuavam dentro de tanques de nutrientes, amarrados aos montes no depósito de carga, todos presos nas paredes. Ukku voltou a cortar a carne, desta vez manobrando um bisturi numa espiral estreita no peito do produ, onde normalmente teria um mamilo. Tierslay conseguia ouvi-lo rindo baixinho para si mesmo.
+Ukku voltou-se para o morfo prod com a cabeça vazia. Uma dúzia de outros como este flutuavam dentro de tanques de nutrientes, amarrados aos montes no depósito de carga, todos presos nas paredes. Ukku voltou a cortar a carne, desta vez manobrando um bisturi numa espiral estreita no peito do prod, onde normalmente teria um mamilo. Tierslay conseguia ouvi-lo rindo baixinho para si mesmo.
 
 “Vai lá, Tier. Quanto mais cedo soubermos o que temos aqui, mais cedo dizemos adios, e você pode voltar para sua vidinha feliz”, disse Taernen.
 
@@ -560,21 +560,21 @@ Taernen continuou falando, sem perceber nada. “É tecnologia de TITAN, Tier. T
 
 Ukku parou de esculpir carne e flutuou na direção de Tierslay, girando a lâmina. “Oh. Parece para Ukku que é hora de fatiar, ovelhinha.”
 
-Um metro antes de Ukku chegar a Tierslay, buracos surgiram na cabeça de globo ocular de Ukku, seguido pelo estalo sônico do disparo eletromagnético. Conforme os pedaços da esfera estilhaçada de Ukku voavam, Taernen se jogou atrás de cobertura. Tierslay permaneceu imóvel, presa no lugar. Em seu campo de visão, Berk chegou na área com precisão militar, deslizando entre dois tanques de produs, com um fuzil assalto nas mãos. Pivo e Elis vinham logo atrás, com armas apontadas para a cabeça de Tierslay.
+Um metro antes de Ukku chegar a Tierslay, buracos surgiram na cabeça de globo ocular de Ukku, seguido pelo estalo sônico do disparo eletromagnético. Conforme os pedaços da esfera estilhaçada de Ukku voavam, Taernen se jogou atrás de cobertura. Tierslay permaneceu imóvel, presa no lugar. Em seu campo de visão, Berk chegou na área com precisão militar, deslizando entre dois tanques de prods, com um fuzil assalto nas mãos. Pivo e Elis vinham logo atrás, com armas apontadas para a cabeça de Tierslay.
 
 A presença que fora Monte se expandiu, agigantando-se, preenchendo cada cantinho do seu espaço digital. A entidade se estendeu sondando tudo, querendo estabelecer ligações com cada dispositivo na área. O terror tomou conta, quando Tierslay percebeu que ela havia se tornado um condutor daquela coisa que a controlava através do cubo.
 
 “Solta o cubo, Tier, e se afasta. A gente não quer acabar com você, mas vamos se for preciso. Há muito em jogo. Seu irmão já é terrível o bastante, o que está segurando é muito pior.” Elis disse.
 
-Sons gorgolejantes interromperam a tensão. Elis percebeu que os sons vinham dos tanques de produs e tentou entender o que aconteceu. O gel nutritivo estava vazando rápido, descobrindo os incubados.
+Sons gorgolejantes interromperam a tensão. Elis percebeu que os sons vinham dos tanques de prods e tentou entender o que aconteceu. O gel nutritivo estava vazando rápido, descobrindo os incubados.
 
 “Tenho que admitir, mana!” Taernen gritou, com clara satisfação na voz rouca. “Eu sabia que ia conseguir! Você trouxe estes putos da Firewall direto pra mim. Detona eles, ToXxot!”
 
-De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a camuflagem. “Os produs!” ele gritou. “Ele está ativando os produs!”
+De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a camuflagem. “Os prods!” ele gritou. “Ele está ativando os prods!”
 
-Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos produs saíram nus se seus tanques de suspensão, bestas ferozes famintas por carne. O caos tomou conta do depósito de carga. Armas disparavam em todas as direções. Corpos tombavam em queda livre em meio de glóbulos de sangue e gel nutritivo. Gritos competiam com urros e rosnados. Taernen vangloriou-se e riu, sua armadilha funcionou.
+Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos prods saíram nus se seus tanques de suspensão, bestas ferozes famintas por carne. O caos tomou conta do depósito de carga. Armas disparavam em todas as direções. Corpos tombavam em queda livre em meio de glóbulos de sangue e gel nutritivo. Gritos competiam com urros e rosnados. Taernen vangloriou-se e riu, sua armadilha funcionou.
 
-Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — o acesso secreto que Tierslay colocou em cada instância de seus narcoalgoritmos.
+Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a porta dos fundos que Tierslay colocou em cada instância de seus narcoalgoritmos.
 
 Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou de sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
 
@@ -584,7 +584,7 @@ Um funil se formou no centro círculo, um redemoinho curvando e desfiando o espa
 
 Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum portal de pandora!”
 
-Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas violados da malha de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelos acessos secretos nos narcos, invadindo cada cérebro cibernético na sala.
+Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas violados da malha de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas portas dos fundos nos narcos, invadindo cada cérebro cibernético na sala.
 
 O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos... mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
@@ -610,7 +610,7 @@ Quando ela olhou para cima, Monte estava olhando para baixo, para ela, de forma 
 
 Imóveis.
 
-Tierslay estava de volta no porão de carga. Cascas flutuantes ao redor, esburacadas, suas mentes se foram, seus egos tomados. Forçados a fazer upload. Ela tentou localizar o irmão, mas não conseguiu identificá-lo entre a carnificina e os outros produs.
+Tierslay estava de volta no porão de carga. Cascas flutuantes ao redor, esburacadas, suas mentes se foram, seus egos tomados. Forçados a fazer upload. Ela tentou localizar o irmão, mas não conseguiu identificá-lo entre a carnificina e os outros prods.
 
 A presença ciclópica — Monte — se foi. O sinal emanando do através do portal parou. Ela sabia que ele, isso, estava lá. Do outro lado.
 

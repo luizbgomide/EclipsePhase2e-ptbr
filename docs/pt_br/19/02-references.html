@@ -1,0 +1,778 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Referências - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamento</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item expanded "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item expanded "><a href="../19/02-references.html" class="active"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_br/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="referências"><a class="header" href="#referências">Referências</a></h1>
+<p>Eclipse Phase se inspirou em muitas fontes que merecem reconhecimento e crédito. Mestres de jogo achar elas úteis como fontes de ideias para aventuras e campanhas.</p>
+<h2 id="ficção"><a class="header" href="#ficção">Ficção</a></h2>
+<ul>
+<li>K. C. Alexander
+<ul>
+<li><em>Necrotech</em></li>
+</ul>
+</li>
+<li>Neal Asher
+<ul>
+<li><em>Gridlinked</em></li>
+<li><em>Skinner</em></li>
+</ul>
+</li>
+<li>Ian Banks
+<ul>
+<li><em>Consider Phlebas</em></li>
+<li><em>Excession</em></li>
+<li><em>The Hydrogen Sonata</em></li>
+<li><em>Inversions</em></li>
+<li><em>Look to Windward</em></li>
+<li><em>Matter</em></li>
+<li><em>The Player of Games</em></li>
+<li><em>The State of the Art</em></li>
+<li><em>Surface Detail</em></li>
+<li><em>The Use of Weapons</em></li>
+</ul>
+</li>
+<li>Greg Bear
+<ul>
+<li><em>Moving Mars</em></li>
+<li><em>Queen of Angels</em></li>
+<li><em>Slant</em></li>
+</ul>
+</li>
+<li>David Brin
+<ul>
+<li><em>Earth</em></li>
+<li><em>Kiln People</em></li>
+<li><em>Startide Rising</em></li>
+<li><em>Sundiver</em></li>
+<li><em>The Uplift War</em></li>
+</ul>
+</li>
+<li>James S. A. Corey
+<ul>
+<li><em>Abaddon's Gate</em></li>
+<li><em>Caliban's War</em></li>
+<li><em>Leviathan Wakes</em></li>
+</ul>
+</li>
+<li>Paul Di Filippo
+<ul>
+<li><em>Ribofunk</em></li>
+</ul>
+</li>
+<li>Cory Doctorow
+<ul>
+<li><em>Down and Out in the Magic Kingdom</em></li>
+<li><em>Eastern Standard Tribe</em></li>
+<li><em>Walkaway</em></li>
+</ul>
+</li>
+<li>Greg Egan
+<ul>
+<li><em>Axiomatic</em></li>
+<li><em>Diaspora</em></li>
+<li><em>Distress</em></li>
+<li><em>Permutation City</em></li>
+<li><em>Quarantine</em></li>
+</ul>
+</li>
+<li>Warren Ellis
+<ul>
+<li><em>Crooked Little Vein</em></li>
+</ul>
+</li>
+<li>Kathleen Ann Goonan
+<ul>
+<li><em>Crescent City Rhapsody</em></li>
+<li><em>Light Music</em></li>
+<li><em>Mississippi Blues</em></li>
+<li><em>Queen City Jazz</em></li>
+</ul>
+</li>
+<li>Peter Hamilton
+<ul>
+<li>The “Commonwealth Saga”
+<ul>
+<li><em>Pandora’s Star</em></li>
+<li><em>Judas Unleashed</em></li>
+</ul>
+</li>
+<li>The “Greg Mandel Trilogy”
+<ul>
+<li><em>Mindstar Rising</em></li>
+<li><em>A Quantum Murder</em></li>
+<li><em>The Nano Flower</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>James Hogan
+<ul>
+<li><em>Voyage from Yesteryear</em></li>
+</ul>
+</li>
+<li>Nancy Kress
+<ul>
+<li><em>Beggars in Spain</em></li>
+</ul>
+</li>
+<li>Ursula LeGuin
+<ul>
+<li><em>The Dispossessed</em></li>
+<li><em>The Left Hand of Darkness</em></li>
+</ul>
+</li>
+<li>Ken MacLeod
+<ul>
+<li>The “Fall Revolution” series
+<ul>
+<li><em>The Star Fraction</em></li>
+<li><em>The Stone Canal</em></li>
+<li><em>The Cassini Division</em></li>
+<li><em>The Sky Road</em></li>
+</ul>
+</li>
+<li><em>Newton’s Wake</em></li>
+</ul>
+</li>
+<li>Richard Morgan
+<ul>
+<li>The “Takeshi Kovacs” series
+<ul>
+<li><em>Altered Carbon</em></li>
+<li><em>Broken Angels</em></li>
+<li><em>Woken Furies</em></li>
+</ul>
+</li>
+<li><em>Thirteen</em></li>
+</ul>
+</li>
+<li>Linda Nagata
+<ul>
+<li><em>The Bohr Maker</em></li>
+<li><em>Deception Well</em></li>
+<li><em>Limit of Vision</em></li>
+<li><em>Tech Heaven</em></li>
+<li><em>Vast</em></li>
+</ul>
+</li>
+<li>Ramez Naam
+<ul>
+<li><em>Apex</em></li>
+<li><em>Crux</em></li>
+<li><em>Nexus</em></li>
+</ul>
+</li>
+<li>Annalee Newitz
+<ul>
+<li><em>Autonomous</em></li>
+</ul>
+</li>
+<li>Ada Palmer
+<ul>
+<li><em>Seven Surrenders</em></li>
+<li><em>The Will to Battle</em></li>
+<li><em>Too Like the Lightning</em></li>
+</ul>
+</li>
+<li>Frederick Pohl
+<ul>
+<li><em>Gateway</em></li>
+</ul>
+</li>
+<li>Alastair Reynolds
+<ul>
+<li><em>Absolution Gap</em></li>
+<li><em>Chasm City</em></li>
+<li><em>Diamond Dogs, Turquoise Days</em></li>
+<li><em>Elysium Fire</em></li>
+<li><em>Galactic North</em></li>
+<li><em>The Prefect</em></li>
+<li><em>Pushing Ice</em></li>
+<li><em>Redemption Ark</em></li>
+<li><em>Revelation Space</em></li>
+</ul>
+</li>
+<li>Douglas Richards
+<ul>
+<li><em>Infinity Born</em></li>
+</ul>
+</li>
+<li>Kim Stanley Robinson
+<ul>
+<li><em>2312</em></li>
+<li>The “Mars Trilogy”
+<ul>
+<li><em>Red Mars</em></li>
+<li><em>Blue Mars</em></li>
+<li><em>Green Mars</em></li>
+</ul>
+</li>
+<li><em>The Martians</em></li>
+<li><em>Red Moon</em></li>
+</ul>
+</li>
+<li>Karl Schroeder
+<ul>
+<li><em>Ventus</em></li>
+</ul>
+</li>
+<li>Dan Simmons
+<ul>
+<li><em>Endymion</em></li>
+<li><em>Fall of Endymion</em></li>
+<li><em>Fall of Hyperion</em></li>
+<li><em>Hyperion</em></li>
+<li><em>Llium</em></li>
+<li><em>Olympos</em></li>
+</ul>
+</li>
+<li>Neal Stephenson
+<ul>
+<li><em>Diamond Age</em></li>
+<li><em>Seveneves</em></li>
+</ul>
+</li>
+<li>Bruce Sterling
+<ul>
+<li><em>Caryatids</em></li>
+<li><em>Crystal Express</em></li>
+<li><em>Holy Fire</em></li>
+<li><em>Schismatrix Plus</em></li>
+</ul>
+</li>
+<li>Charles Stross
+<ul>
+<li><em>Accelerando</em></li>
+<li><em>Glasshouse</em></li>
+<li><em>Halting State</em></li>
+<li><em>Iron Sunrise</em></li>
+<li><em>Neptune's Brood</em></li>
+<li><em>Rule 34</em></li>
+<li><em>Saturn's Children</em></li>
+<li><em>Singularity Sky</em></li>
+<li><em>Toast</em></li>
+</ul>
+</li>
+<li>Daniel Suarez
+<ul>
+<li><em>Daemon</em></li>
+<li><em>Freedom</em></li>
+<li><em>Influx</em></li>
+</ul>
+</li>
+<li>Karen Traviss
+<ul>
+<li><em>City of Pearl</em></li>
+</ul>
+</li>
+<li>Vernor Vinge
+<ul>
+<li><em>Across Realtime</em></li>
+<li><em>The Children of the Sky</em></li>
+<li><em>A Deepness in the Sky</em></li>
+<li><em>A Fire Upon The Deep</em></li>
+<li><em>Rainbow’s End</em></li>
+<li><em>True Names and Other Dangers</em></li>
+</ul>
+</li>
+<li>Elisabeth Vonarburg
+<ul>
+<li><em>Slow Engines of Time</em></li>
+</ul>
+</li>
+<li>Peter Watts
+<ul>
+<li><em>Blindsight</em></li>
+<li><em>Echopraxia</em></li>
+<li>“Rifters’ Trilogy”
+<ul>
+<li><em>Starfish</em></li>
+<li><em>Maelstrom</em></li>
+<li><em>Behemoth (ß-Max + Seppuku)</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Scott Westerfeld
+<ul>
+<li><em>The Risen Empire</em></li>
+<li><em>The Killing of Worlds</em></li>
+</ul>
+</li>
+<li>Walter Jon Williams
+<ul>
+<li><em>Aristoi</em></li>
+<li><em>Angel Station</em></li>
+<li><em>Implied Spaces</em></li>
+<li><em>Voice of the Whirlwind</em></li>
+</ul>
+</li>
+<li>David Zindell
+<ul>
+<li><em>The Broken God</em></li>
+<li><em>Neverness</em></li>
+<li><em>War in Heaven</em></li>
+<li><em>The Wild</em></li>
+</ul>
+</li>
+</ul>
+<h2 id="quadrinhos-e-graphics-novels"><a class="header" href="#quadrinhos-e-graphics-novels">Quadrinhos e Graphics Novels</a></h2>
+<ul>
+<li>Jamie Delano
+<ul>
+<li><em>Narcopolis</em></li>
+</ul>
+</li>
+<li>Warren Ellis
+<ul>
+<li><em>Doktor Sleepless</em></li>
+<li><em>Doom 2099</em></li>
+<li><em>Global Frequency</em></li>
+<li><em>Ministry of Space</em></li>
+<li><em>Ocean</em></li>
+<li><em>Transmetropolitan</em></li>
+</ul>
+</li>
+<li>Jonathan Hickman
+<ul>
+<li><em>Transhuman</em></li>
+</ul>
+</li>
+<li>Grant Morrison
+<ul>
+<li><em>The Filth</em></li>
+<li><em>The Invisibles</em></li>
+</ul>
+</li>
+<li>Masamune Shirow
+<ul>
+<li><em>Ghost in the Shell</em></li>
+<li><em>Ghost in the Shell 1.5: Human-Error</em></li>
+</ul>
+</li>
+<li>Processor
+<ul>
+<li><em>Ghost in the Shell 2: Man/Machine Interface</em></li>
+</ul>
+</li>
+<li>Adam Warren
+<ul>
+<li><em>Iron Man: Hypervelocity</em></li>
+</ul>
+</li>
+<li>Makoto Yukimura
+<ul>
+<li><em>Planetes</em></li>
+</ul>
+</li>
+</ul>
+<h2 id="não-ficção"><a class="header" href="#não-ficção">Não Ficção</a></h2>
+<ul>
+<li>Ronald Bailey
+<ul>
+<li><em>Liberation Biology</em></li>
+</ul>
+</li>
+<li>Susan Blackmore
+<ul>
+<li><em>The Meme Machine</em></li>
+</ul>
+</li>
+<li>Murray Bookchin
+<ul>
+<li><em>Post-Scarcity Anarchism</em></li>
+</ul>
+</li>
+<li>Cynthia Brezeal
+<ul>
+<li><em>Designing Sociable Robots</em></li>
+</ul>
+</li>
+<li>Nick Bostrom
+<ul>
+<li><em>Superintelligence</em></li>
+</ul>
+</li>
+<li>David Brin
+<ul>
+<li><em>The Transparent Society</em></li>
+</ul>
+</li>
+<li>Richard Brodie
+<ul>
+<li><em>Virus of the Mind: The New Science of the Meme</em></li>
+</ul>
+</li>
+<li>James Brook and Ian Boal (eds)
+<ul>
+<li><em>Resisting the Virtual Life</em></li>
+</ul>
+</li>
+<li>Rodney Brooks
+<ul>
+<li><em>Flesh and Machines: How Robots Will Change Us</em></li>
+<li><em>Cambrian Intelligence: The Early History of the New AI</em></li>
+</ul>
+</li>
+<li>Critical Art Ensemble
+<ul>
+<li><em>Digital Resistance</em></li>
+<li><em>Electronic Civil Disobedience</em></li>
+<li><em>The Electronic Disturbance</em></li>
+<li><em>Flesh Machine</em></li>
+<li><em>The Molecular Invasion</em></li>
+<li><em>The Marching Plague</em></li>
+</ul>
+</li>
+<li>Richard Dawkins
+<ul>
+<li><em>The Selfish Gene</em></li>
+</ul>
+</li>
+<li>K. K. Eric Drexler
+<ul>
+<li><em>Engines of Creation: The Coming Era of Nanotechnology</em></li>
+</ul>
+</li>
+<li>Freeman Dyson
+<ul>
+<li><em>Disturbing the Universe</em></li>
+<li><em>Imagined Worlds</em></li>
+</ul>
+</li>
+<li>Ann Finkbeiner
+<ul>
+<li><em>The Jasons</em></li>
+<li><em>Imaginary Weapons</em></li>
+</ul>
+</li>
+<li>Joel Garreau
+<ul>
+<li><em>Radical Evolution</em></li>
+</ul>
+</li>
+<li>Peter Gelderloos
+<ul>
+<li><em>Anarchy Works</em></li>
+</ul>
+</li>
+<li>Adam Greenfield
+<ul>
+<li><em>Everyware: The Dawning Age of Ubiquitous Computing</em></li>
+</ul>
+</li>
+<li>Robin Hanson
+<ul>
+<li><em>The Age of Em</em></li>
+</ul>
+</li>
+<li>James Hughes
+<ul>
+<li><em>Citizen Cyborg</em></li>
+</ul>
+</li>
+<li>Peter Kropotkin
+<ul>
+<li><em>The Conquest of Bread</em></li>
+<li><em>Mutual Aid</em></li>
+<li><em>Science and Anarchism</em></li>
+</ul>
+</li>
+<li>Ray Kurzweil
+<ul>
+<li><em>The Singularity is Near</em></li>
+</ul>
+</li>
+<li>Howard Rheingold
+<ul>
+<li><em>Smart Mobs: The Next Social Revolution</em></li>
+</ul>
+</li>
+<li>John Robb
+<ul>
+<li><em>Brave New War</em></li>
+</ul>
+</li>
+<li>Clay Shirky
+<ul>
+<li><em>Here Comes Everybody</em></li>
+</ul>
+</li>
+<li>Bruce Sterling
+<ul>
+<li><em>Shaping Things</em></li>
+<li><em>Tomorrow Now: Envisioning the Next Fifty Years</em></li>
+</ul>
+</li>
+<li>Gregory Stock
+<ul>
+<li><em>Redesigning Humans: Our Inevitable Genetic Future</em></li>
+</ul>
+</li>
+<li>Kelly and Zach Weinersmith
+<ul>
+<li><em>Soonish</em></li>
+</ul>
+</li>
+<li>Charles Wohlforth and Amanda R. Hendrix
+<ul>
+<li><em>Beyond Earth</em></li>
+</ul>
+</li>
+<li>Simon Young
+<ul>
+<li><em>Designer Evolution: A Transhumanist Manifesto</em></li>
+</ul>
+</li>
+</ul>
+<h2 id="jogos-de-rpg"><a class="header" href="#jogos-de-rpg">Jogos de RPG</a></h2>
+<ul>
+<li><em>Blue Planet</em></li>
+<li><em>Burning Empires</em></li>
+<li><em>Call of Cthulhu</em></li>
+<li><em>Cybergeneration</em></li>
+<li><em>Dawning Star</em></li>
+<li><em>Delta Green</em></li>
+<li><em>Fate</em></li>
+<li><em>FreeMarket</em></li>
+<li><em>Gamma World</em></li>
+<li><em>GURPS: Transhuman Space</em></li>
+<li><em>Morrow Project</em></li>
+<li><em>Numenera</em></li>
+<li><em>Paranoia</em></li>
+<li><em>Shadowrun</em></li>
+<li><em>Shock: Social Science Fiction</em></li>
+<li><em>Traveller</em></li>
+</ul>
+<h2 id="filmes--televisão"><a class="header" href="#filmes--televisão">Filmes &amp; Televisão</a></h2>
+<ul>
+<li><em>AI</em></li>
+<li><em>Alien series</em></li>
+<li><em>Altered Carbon</em></li>
+<li><em>Alita: Battle Angel</em></li>
+<li><em>Andromeda</em></li>
+<li><em>Babylon 5</em> and <em>Crusade</em></li>
+<li><em>Big O</em></li>
+<li><em>Black Mirror</em></li>
+<li><em>Blade Runner</em> and <em>Blade Runner 2049</em></li>
+<li><em>Chappie</em></li>
+<li><em>Cowboy Bebop</em></li>
+<li><em>District 9</em></li>
+<li><em>Dollhouse</em></li>
+<li><em>Dreamcatcher</em></li>
+<li><em>Elysium</em></li>
+<li><em>Ergo Proxy</em></li>
+<li><em>Ex Machina</em></li>
+<li><em>The Expanse</em></li>
+<li><em>Firefly</em> and <em>Serenity</em></li>
+<li><em>Gattaca</em></li>
+<li><em>Ghost in the Shell (everything)</em></li>
+<li><em>Gravity</em></li>
+<li><em>Hardcore Henry</em></li>
+<li><em>The Island</em></li>
+<li><em>Jekyll</em></li>
+<li><em>Limitless</em></li>
+<li><em>Love, Death, and Robots</em></li>
+<li><em>The Martian</em></li>
+<li><em>Moon</em></li>
+<li><em>Pandorum</em></li>
+<li><em>Planetes</em></li>
+<li><em>Sleep Dealer</em></li>
+<li><em>Solaris</em></li>
+<li><em>Stargate</em> and <em>Stargate: Atlantis</em></li>
+<li><em>Sunshine</em></li>
+<li><em>Upgrade</em></li>
+<li><em>Uzumaki</em></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../19/01-glossary.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../19/03-index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../19/01-glossary.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../19/03-index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

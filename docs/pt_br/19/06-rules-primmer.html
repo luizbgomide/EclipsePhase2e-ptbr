@@ -1,0 +1,401 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Regras Básicas - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamento</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item expanded "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item expanded "><a href="../19/06-rules-primmer.html" class="active"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_br/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="regras-básicas"><a class="header" href="#regras-básicas">Regras Básicas</a></h1>
+<blockquote>
+<h2 id="ego-vs-morfo"><a class="header" href="#ego-vs-morfo">Ego vs. Morfo</a></h2>
+<p>Suas capacidades estão divididas entre o seu <em>ego</em> (sua mente, perícias e memórias que viajam com você de corpo a corpo) e o seu <em>morfo</em> (o corpo que você atualmente habita).</p>
+</blockquote>
+<blockquote class="framed-table">
+<h2 id="fazendo-testes"><a class="header" href="#fazendo-testes">Fazendo Testes</a></h2>
+<h3 id="rolagem-d100-0-99"><a class="header" href="#rolagem-d100-0-99">Rolagem d100 (0-99)</a></h3>
+<ul>
+<li>O número alvo é determinado pela perícia apropriada, verificação de aptidão ou nível de rep.</li>
+<li>A dificuldade é representada por <em>modificadores</em> deste número alvo, atribuídos pelo MJ.</li>
+<li>Seu objetivo é rolar igual ou menos que o número alvo modificado, mas o mais alto possível.</li>
+<li>Uma rolagem igual ou menor que o número alvo é um sucesso. Se a rolagem de sucesso for 33 ou mais, é um <em>sucesso maior</em>. Se ela for 66 ou mais, são dois sucessos maiores.</li>
+<li>Se a sua rolagem exceder o número alvo, ela é um falha. Se a rolagem falhada for menor que 66, ela é uma <em>falha maior</em>. Se ela for menor que 33, ela conta como duas falhas maiores.</li>
+<li>Duplas (00, 11, etc.) equivalem a um <em>sucesso</em> ou <em>falha crítica</em>.</li>
+<li>00 é sempre um sucesso crítico. 99 é sempre uma falha crítica.</li>
+<li>Se você não tiver a perícia apropriada, você pode <em>recorrer</em> à aptidão vinculada da perícia, mas sucessos críticos são ignorados.</li>
+<li>Se você falhar, você pode tentar novamente (a menos que o MJ não permita), com um modificador −10 cumulativo.</li>
+</ul>
+</blockquote>
+<h2 id="testes-opostos"><a class="header" href="#testes-opostos">Testes Opostos</a></h2>
+<ul>
+<li>Se você estiver agindo em oposição a outro personagem, ambos fazem um teste, rolando d100 contra perícia +/− modificadores.</li>
+<li>Quem tiver sucesso <em>e</em> rolar mais alto vence.</li>
+</ul>
+<h2 id="modificadores"><a class="header" href="#modificadores">Modificadores</a></h2>
+<ul>
+<li>Os modificadores sempre afetam o número alvo (perícia), e não a rolagem.</li>
+<li>Os modificadores (positivos ou negativos) vêm em 3 níveis de severidade:</li>
+<li>Menor (+/−10)</li>
+<li>Moderado (+/−20)</li>
+<li>Maior (+/−30)</li>
+<li>Os máximo de modificadores que podem ser aplicados é +/−60.</li>
+</ul>
+<h2 id="especializações"><a class="header" href="#especializações">Especializações</a></h2>
+<ul>
+<li>As especializações somam +10 ao utilizar uma perícia para aquela área de concentração. Cada perícia pode ter apenas uma especialização.</li>
+</ul>
+<h2 id="resultados-maiores"><a class="header" href="#resultados-maiores">Resultados Maiores</a></h2>
+<p>Para um resultado maior, escolha um dos seguintes. Para dois resultados maiores, escolha dois ou um duas vezes para efeitos duplicados:</p>
+<ul>
+<li>Qualidade: O trabalho é mais preciso (sucesso) ou mais desleixado (falha). Isso pode afetar os testes subsequentes em +/−10.</li>
+<li>Quantidade: O teste consome menos (sucesso) ou mais (falha) materiais ou produz menos ou mais resultados.</li>
+<li>Detalhamento: Você obtém informações que são muito mais aprofundadas/diversificadas (sucesso) ou falsas (falha).</li>
+<li>Tempo (apenas ações de tarefa): A ação leva um tempo menor (sucesso) ou maior (falha), por +/−25%.</li>
+<li>Discrição: A ação é menos (sucesso) ou mais (falha) evidente ou atrai menos ou mais atenção (+/−10 conforme apropriado).</li>
+<li>Dano: Sucessos infligem mais (+1d6) dano (falhas erram).</li>
+</ul>
+<h2 id="resultados-críticos"><a class="header" href="#resultados-críticos">Resultados Críticos</a></h2>
+<p>Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos &quot;Uau!&quot; em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:</p>
+<ul>
+<li>Dobrar o dano que você inflinge com um ataque.</li>
+<li>Obter um modificador +/−20 para o próximo teste que você fizer.</li>
+<li>Fazer uma ação extra (sucesso crítico) ou perder a sua próxima ação (falha crítica).</li>
+<li>Quebrar uma arma/ferramenta (falha crítica).</li>
+</ul>
+<h2 id="trabalho-em-equipe"><a class="header" href="#trabalho-em-equipe">Trabalho em Equipe</a></h2>
+<ul>
+<li>Um personagem é escolhido como o ator primário; ele faz o teste.</li>
+<li>Cada personagem ajudante adicona um modificador +10 (máx. + 30).</li>
+<li>Para testes de perícias de Saber, Técnicas ou Veiculares, os personagens auxiliares devem possuir a perícia em 40+ para fornecer um bônus de trabalho em equipe.</li>
+</ul>
+<h2 id="turnos-de-ação"><a class="header" href="#turnos-de-ação">Turnos de Ação</a></h2>
+<p>Os turnos de ação têm cerca de 3 segundos de duração.</p>
+<ul>
+<li>Em cada turno de ação você pode fazer um dos seguintes:
+<ul>
+<li>1 ação complexa e 1 ação rápida</li>
+<li>1 ação de tarefa e 1 ação rápida</li>
+<li>3 ações rápidas</li>
+</ul>
+</li>
+<li>Você também pode fazer ações automáticas ilimitadas.</li>
+</ul>
+<h2 id="ações-da-tarefa"><a class="header" href="#ações-da-tarefa">Ações da Tarefa</a></h2>
+<ul>
+<li>As ações da tarefa são ações que demoram mais de 1 turno de ação para serem concluídas.</li>
+<li>As ações da tarefa listam um prazo (desde 2 turnos até 2 anos).</li>
+<li>Os prazos podem ser ajustados por resultados maiores.</li>
+<li>Você pode usar mais tempo, aplicando um modificador +10 para um aumento de 25% no prazo.</li>
+<li>Você pode apressar o trabalho, reduzindo o prazo em 25% mas aplicando um modificador −20.</li>
+<li>Se falhar, você gasta 25% do prazo, +25% por falha maior, antes de perceber que falhou.</li>
+</ul>
+<h2 id="iniciativa"><a class="header" href="#iniciativa">Iniciativa</a></h2>
+<ul>
+<li>A ordem em que você age é determinada rodando 1d6 e adicionando seu atributo Iniciativa.</li>
+<li>O resultado mais alto age primeiro; os outros seguem em ordem decrescente.</li>
+<li>Em iniciativas iguais, vocês agem simultaneamente, ou determinam a ordem por REF ou rolagem de desempate.</li>
+<li>Você pode <em>adiar</em> e agir mais tarde na ordem de Iniciativa; a contagem em que você agir torna-se a sua Iniciativa nos turnos subsequentes.</li>
+</ul>
+<blockquote>
+<h2 id="usando-rep"><a class="header" href="#usando-rep">Usando Rep</a></h2>
+<p>Use seus níveis de rep para perseguir favores, tais como adquirir bens, serviços ou informações.</p>
+<p>Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa rede social específica.</p>
+<ul>
+<li>Faça um Teste de Rep, usando seu nível de rep como número alvo.</li>
+<li>O tipo de favor que você está pedindo modifica o número alvo: Menor (+10), Moderado (+0) ou Maior (−30).</li>
+<li>Você pode pegar um modificador negativo em um Teste de Rep para manter o seu pedido em segredo e escondido dos outros. O mesmo modificador se aplica a qualquer pessoa fazendo um Teste de Rep para descobrir o que você está querendo.</li>
+<li>Os favores têm limites na frequência que podem ser usados: Menor (3 por semana), Moderado (1 por semana), Major (1 por arco de história).</li>
+<li>Você pode queimar rep (abaixar permanentemente seu nível de rep) para favores adicionais (a um custo de 5 para Menor, 10 para Moderado, 20 para Maior) ou para obter um modificador em um Teste de Rep (igual aos pontos queimados × 2).</li>
+</ul>
+<div class="stat-list">
+<ul>
+<li><strong>@-rep:</strong> The Circle-A List — autonomistas, anarquistas, titanianos, escória, extropianos.</li>
+<li><strong>c-rep:</strong> CivicNet — Consórcio Planetário, Constelação Estrela d'Alva, Aliança Lunar-Lagrange, República Joviana, outras hipercorps &amp; capitalistas.</li>
+<li><strong>f-rep:</strong> Fame &amp; rede da mídia — socialites, artistas, metacelebidades, jornalistas, glitterati.</li>
+<li><strong>g-rep:</strong> Guanxi — tríades, cartéis, gangues e outros grupos criminosos.</li>
+<li><strong>i-rep:</strong> The Eye — Rede interna secreta da Firewall.</li>
+<li><strong>r-rep:</strong> Research Network Affiliates — argonautas, cientistas, tecnologistas, pesquisadores.</li>
+<li><strong>x-rep:</strong> ExploreNet — desbravadores, colonizadores de exoplanetas.</li>
+</ul>
+</div>
+</blockquote>
+<h2 id="usando-paradas"><a class="header" href="#usando-paradas">Usando Paradas</a></h2>
+<p>Seu personagem possui um número de paradas que definem suas capacidades transumanas. A maioria das paradas derivam do seu morfo, mas alguns pontos de Flex vêm do seu ego.</p>
+<ul>
+<li>Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.</li>
+<li>Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.</li>
+<li>Salvo indicação em contrário, apenas 1 ponto da parada pode ser gasto por teste.</li>
+</ul>
+<blockquote class="indent">
+<ul>
+<li><strong>Antes da Rolagem:</strong> Ignorar todos os modificadores do teste.</li>
+<li><strong>Antes da Rolagem:</strong> Adicionar +20 ao número alvo do teste.</li>
+<li><strong>Depois da Rolagem:</strong> Inverter uma rolagem d100. Por exemplo, 83 torna-se 38.</li>
+<li><strong>Depois da Rolagem:</strong> Aumentar um sucesso para um sucesso maior (ou um para dois).</li>
+<li><strong>Depois da Rolagem:</strong> Diminuir uma falha crítica para uma falha normal.</li>
+<li><strong>Contínuo (Apenas Inspiração/Manha/Vigor):</strong> Receber +5 (1 ponto) ou +10 (2 pontos) em todos os testes de perícias vinculadas a uma aptidão por 24 horas ou até sua próxima recarga.</li>
+</ul>
+</blockquote>
+<h2 id="inspiração"><a class="header" href="#inspiração">Inspiração</a></h2>
+<p>A parada de Inspiração está vinculada às capacidades mentais: Cognição, Intuição e suas perícias vinculadas.</p>
+<blockquote class="indent">
+<ul>
+<li><strong>Tomar a Iniciativa:</strong> Agir primeiro em um turno de ação se você estiver fazendo apenas ações mentais ou da mesh e nenhum movimento físico.</li>
+<li><strong>Ação Extra:</strong> Fazer uma ação complexa mental ou da mesh extra (ou 2 ações rápidas) em um turno de ação.</li>
+<li><strong>Adquirir uma Pista:</strong> Ganhar uma dica ou pista através de investigação, pesquisa ou análise dos fatos disponíveis, sem precisar fazer um teste.</li>
+</ul>
+</blockquote>
+<h2 id="manha"><a class="header" href="#manha">Manha</a></h2>
+<p>A parada de Manha está vinculada às interações sociais: Sagacidade, Vontade e suas perícias vinculadas. Também pode ser usada em Testes de Rep e Infecção.</p>
+<blockquote class="indent">
+<ul>
+<li><strong>Ignorar Trauma:</strong> Ignorar os efeitos de 1 trauma durante 24 horas.</li>
+<li><strong>Renovar Rep:</strong> Restaurar favores de rep na rede a um custo de 1 ponto para um favor Menor e 2 pontos para um favor Moderado. Favores maiores não podem ser renovados desta forma.</li>
+<li><strong>Adquirir uma Pista:</strong> Ganhar uma dica ou pista coletando informações através de interações sociais, sem precisar fazer um teste.</li>
+<li><strong>Controlar Sua Infecção:</strong> Evitar fazer um Teste de Infeção quando usar um truque psi (apenas assincros).</li>
+<li><strong>Negar uma Gafe:</strong> Ignorar uma gafe social de um jogador que o personagem não faria.</li>
+</ul>
+</blockquote>
+<h2 id="vigor"><a class="header" href="#vigor">Vigor</a></h2>
+<p>A parada de Vigor está vinculada aos esforços físicos: Reflexos, Somática e suas perícias vinculadas.</p>
+<blockquote class="indent">
+<ul>
+<li><strong>Tomar a Iniciativa:</strong> Agir primeiro em um turno de ação.</li>
+<li><strong>Ação Extra:</strong> Fazer uma ação complexa física extra (ou 2 ações rápidas) em um turno de ação.</li>
+<li><strong>Ignorar Ferimento:</strong> Ignorar os efeitos de 1 ferimento durante 24 horas.</li>
+</ul>
+</blockquote>
+<h2 id="flex"><a class="header" href="#flex">Flex</a></h2>
+<p>Flex é uma parada curinga. Ela pode ser usada para afetar rolagens de dados de qualquer teste e para controle narrativo.</p>
+<blockquote class="indent">
+<ul>
+<li><strong>Introduzir PNJ:</strong> Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc.</li>
+<li><strong>Introduzir um Item:</strong> Um item previamente despercebido é adicionado à cena. A presença dele deve ser plausível. O item não pode ser ofensivo (nenhuma arma) e deve ser de Complexidade Menor (nem Raro e nem Restrito). Pode ser uma ferramenta útil, um equipamento necessário, ou até mesmo uma pista.</li>
+<li><strong>Definir o Ambiente:</strong> Você pode introduzir um fator ambiental à cena. A presença dele deve ser plausível. Ele deverá fornecer um novo detalhe que não altere drasticamente a cena. Exemplos incluem esconderijos, coberturas, distrações, abrigos ou elementos exploráveis, como uma escada ou janela.</li>
+<li><strong>Definir uma Relação:</strong> Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta conexão deve ser mais distante ou menor do que íntima ou séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga, mas pequena.</li>
+</ul>
+</blockquote>
+<h2 id="recarregando-paradas"><a class="header" href="#recarregando-paradas">Recarregando Paradas</a></h2>
+<p>Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos.</p>
+<ul>
+<li><strong>Recarga Curta (2/dia):</strong> Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los.</li>
+<li><strong>Recarga Longa (1/dia):</strong> Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.</li>
+</ul>
+<blockquote class="framed-table">
+<h2 id="combate"><a class="header" href="#combate">Combate</a></h2>
+<p><strong>O combate é um teste oposto.</strong></p>
+<ul>
+<li>O atacante rola a perícia de ataque +/− modificadores.</li>
+<li>Luta: O defensor rola a perícia Evasão ou Luta +/− modificadores.</li>
+<li>Distância: O defensor rola (perícia Evasão ÷ 2) +/− modificadores.</li>
+<li>Se o atacante tiver sucesso e rolar mais alto que o defensor, o ataque acerta. Role o dano.</li>
+<li>Acertos maiores infligem +1d6 VD.</li>
+<li>Acertos críticos dobram o VD.</li>
+<li>O dano da arma é reduzido pela armadura energética ou cinética do alvo, conforme apropriado.</li>
+<li>Se o dano igualar ou exceder o Limiar de Ferimento do alvo, um ferimento é causado. Se o dano igualar ou exceder o Limiar de Ferimento do alvo múltiplas vezes, vários ferimentos são infligidos.</li>
+<li>Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Morte, ele está morto/destruído.</li>
+</ul>
+</blockquote>
+<blockquote class="framed-table">
+<h2 id="hackeamento"><a class="header" href="#hackeamento">Hackeamento</a></h2>
+<p><strong>Testes de Hackeamento são testes opostos, sua perícia Infoseg vs. a Firewall do alvo.</strong></p>
+<ul>
+<li>Quando for hackear um alvo, há dois métodos que você pode utilizar:
+<ul>
+<li><strong>Ataques de Força Bruta</strong> são rápidos e barulhentos. Eles exigem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem <em>privilégios de usuário</em> no sistema, mas também <em>status descoberto</em> (o sistema está ciente de sua invasão).</li>
+<li><strong>Invasões Sutis</strong> são discretas, mas levam tempo. São ações de tarefa com prazo de 1 hora. Se você tiver sucesso, você tem <em>privilégios de usuário</em> no sistema e <em>status dissimulado</em> (o sistema está alheio à sua presença).</li>
+</ul>
+</li>
+<li>Cada sucesso maior no Teste de Hackeamento aumenta seus privilégios em um passo (de usuário para segurança para administrador).</li>
+<li>Um sucesso crítico no Teste de Hackeamento aumenta o seu status um passo (de descoberto para dissimulado para oculto).</li>
+<li>Quando invadir, você não precisa fazer testes para ações que seus privilégios permitem. Para outras ações, você deve ter sucesso em Testes de Hackeamento adicionais.</li>
+</ul>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../19/05-complete-list-of-morphs.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../buy-the-book.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../19/05-complete-list-of-morphs.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../buy-the-book.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
