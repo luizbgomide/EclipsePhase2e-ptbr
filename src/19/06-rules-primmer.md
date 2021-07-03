@@ -75,9 +75,9 @@ Criticals (“crits”) have more impact than superior results. They represent �
 Action Turns are roughly 3 seconds in length.
 
 - In each action turn you may undertake one of the following:
-- 1 complex action and 1 quick action
-- 1 task action and 1 quick action
-- 3 quick actions
+  - 1 complex action and 1 quick action
+  - 1 task action and 1 quick action
+  - 3 quick actions
 - You may also take unlimited automatic actions.
 
 ## Task Actions
