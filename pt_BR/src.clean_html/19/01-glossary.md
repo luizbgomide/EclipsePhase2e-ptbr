@@ -9,7 +9,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Aeróstato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
 - **DQ:** Depois da Queda (usado para datação referencial).
 - **Agente:** Um informorfo otimizado para funções de infoseg.
-- **IGA:** Inteligência Geral Artificial. Uma IA que possui faculdades cognitivas e capacidade de aprendizado equivalentes à de um humano.
+- **IGA:** Inteligência Geral Artificial. Uma IA que possui faculdades cognitivas e capacidade de aprendizado equivalentes a de um humano.
 - **IA:** Inteligência Artificial. Uma mente de software senciente que emula cognição humana. Geralmente usado para referir-se a ILAs.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
 - **Forque Alfa:** Uma duplicata completa de um ego.
