@@ -93,7 +93,7 @@ Action Turns are roughly 3 seconds in length.
 
 - The order in which you act is determined by rolling 1d6 and adding your Initiative stat.
 - The highest result goes first; others follow in descending order.
-- On tied initiatives, you go simultaneously or use REF or a roll-offto determine order.
+- On tied initiatives, you go simultaneously or use REF or a roll-off to determine order.
 - You may _delay_ and act later in Initiative order; the count on which you act becomes your Initiative in subsequent turns.
 
 <blockquote>
@@ -138,7 +138,7 @@ Your character has a number of pools that define their transhuman capabilities. 
 - **After Roll:** Flip-flop a d100 roll. For example, 83 becomes 38.
 - **After Roll:** Upgrade a success to a superior success (or one to two).
 - **After Roll:** Downgrade a critical failure to a regular failure.
-- **Ongoing (Insight/Moxie/Vigor Only):** Receive +5 (1 point) or +10 (2 points) to all skill tests linked to one aptitude for 24 hours or until your next recharge
+- **Ongoing (Insight/Moxie/Vigor Only):** Receive +5 (1 point) or +10 (2 points) to all skill tests linked to one aptitude for 24 hours or until your next recharge.
 
 </blockquote>
 
@@ -210,13 +210,11 @@ You recover the points you have spent from pools by taking a recharge action to 
 - Melee: Defender rolls Fray or Melee skill +/− modifiers.
 - Ranged: Defender rolls (Fray skill ÷ 2) +/− modifiers.
 - If attacker succeeds and rolls higher than the defender, the attack hits. Roll damage.
-- Superior hits inflict +1d6&nbsp;DV
+- Superior hits inflict +1d6&nbsp;DV.
 - Critical hits double the DV.
 - The weapon’s damage is reduced by the target’s energy or kinetic armor, as appropriate.
 - If the damage equals or exceeds the target’s Wound Threshold, a wound is scored. If the damage equals or exceeds the target’s Wound Threshold by multiple factors, multiple wounds are inflicted.
-- If total damage reaches Durability, the target is incapacitated.
-
-If it reaches Death Rating, they are killed/destroyed.
+- If total damage reaches Durability, the target is incapacitated. If it reaches Death Rating, they are killed/destroyed.
 
 </blockquote>
 
