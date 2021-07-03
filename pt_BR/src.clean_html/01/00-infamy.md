@@ -122,7 +122,7 @@ Ela já não estava na oficina do Ukku, isso estava claro. Ela prestou atenção
 
 O pânico tomou conta. _O procedimento. Alguma coisa deu muito errado. Eu fiquei louca. Oh Deus. Ou pior. Eu sou um cadáver. Atormentado por tantos pecados. Quando foi minha última confissão?_
 
-A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava controlando seus pensamentos.
+A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava hackeando seus pensamentos.
 
 Seu corpo parecia estranho, meio rígido. As sensações de temperatura, do tecido contra a pele, pareciam erradas. Ela não conseguia sentir a pele ou os músculos se esticando. Ela controlava seus membros, mas as amarras seguravam-na firmemente.
 
@@ -404,7 +404,7 @@ Elis respondeu com um sorriso conspiratório e um aceno enquanto Bixbee voava so
 
 Ukku estava na pista de dança da _Danger Noodle_ por quatro horas direto, cotovelos pontudos chacoalhando, pernas quase desabando, forçando os outros a desviarem. Claramente, Ukku estava chapado além da conta, rolando no último narco de Tierslay, junto com a maioria do clube. Tierslay, Elis, Pivo e Berk assistiam o sinte do bar, Bixbee do seu poleiro habitual acima da cabine do DJ, esperando Tierslay começar a pegadinha.
 
-Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno pela acesso oculto no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
+Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da porta dos fundos no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
 
 “Hum, isso foi desapontador.” Elis deu um tapinha no braço de Tierslay. “O _idiota_ é mesmo tapado. O negócio é voltar a beber até o turista parar de poluir nossa preciosa pista de dança.”
 
@@ -448,7 +448,7 @@ Ela entornou a bebida e deslizou o copo vazio pelo balcão, seu trajeto se curvo
 
 “Bem, isso é um alívio”, disse Pivo.
 
-Nesse momento, Bixbee pairou perto demais da cabine do Taernen. Taernen virou-se para o olhar curioso de Bixbee, olhando direto através da RA com fendas cinzas leitosas. Seu rosto se inclinou para fora das sombras e para o brilho azul das gotas de neon caindo de cima. Linhas de costura no crânio. Soquetes de tomada de acesso na nuca. Um biomorfo produ vagabundo, saído da pilha de pechinchas.
+Nesse momento, Bixbee pairou perto demais da cabine do Taernen. Taernen virou-se para o olhar curioso de Bixbee, olhando direto através da RA com fendas cinzas leitosas. Seu rosto se inclinou para fora das sombras e para o brilho azul das gotas de neon caindo de cima. Linhas de costura no crânio. Soquete de acesso na nuca. Um biomorfo produ vagabundo, saído da pilha de pechinchas.
 
 “Ei, babaca. Dá licença? Você está invadindo nosso espaço.” Taernen levantou-se e deu um passo agressivo em direção a Bixbee. Ukku saiu da cabine e flanqueou a libélula. Bixbee congelou. Taernen se irritou e foi pra cima. “Eu disse pra sumir, merdinha voadora.”
 
@@ -574,7 +574,7 @@ De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a c
 
 Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos produs saíram nus se seus tanques de suspensão, bestas ferozes famintas por carne. O caos tomou conta do depósito de carga. Armas disparavam em todas as direções. Corpos tombavam em queda livre em meio de glóbulos de sangue e gel nutritivo. Gritos competiam com urros e rosnados. Taernen vangloriou-se e riu, sua armadilha funcionou.
 
-Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — o acesso secreto que Tierslay colocou em cada instância de seus narcoalgoritmos.
+Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a porta dos fundos que Tierslay colocou em cada instância de seus narcoalgoritmos.
 
 Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou de sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
 
@@ -584,7 +584,7 @@ Um funil se formou no centro círculo, um redemoinho curvando e desfiando o espa
 
 Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum portal de pandora!”
 
-Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas violados da malha de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelos acessos secretos nos narcos, invadindo cada cérebro cibernético na sala.
+Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas violados da malha de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas portas dos fundos nos narcos, invadindo cada cérebro cibernético na sala.
 
 O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos... mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
