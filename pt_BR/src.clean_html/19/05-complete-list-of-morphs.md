@@ -112,9 +112,9 @@
 ---
 
 <table class="stat-list centered tl1">
-<thead><tr><th>BIOMORFOS PRODUS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>BIOMORFOS PRODS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
-<tr><td>Produ Básico<td>1&nbsp;PM<td>80<td>6<td>30<td>45<td>0<td>0<td>1<td>0</tr>
+<tr><td>Prod Básico<td>1&nbsp;PM<td>80<td>6<td>30<td>45<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -122,7 +122,7 @@
 - **Traços de Morfo:** Obsolescência Programada
 
 <!-- CLEANED /div --></tr>
-<tr><td>Produ de Trabalho<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>0<td>2<td>1</tr>
+<tr><td>Prod de Trabalho<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -138,14 +138,14 @@
 - **Notas:** Ataque com Garras (VD 2d10)
 
 <!-- CLEANED /div --></tr>
-<tr><td>Produ de Prazer<td>4&nbsp;PM<td>70<td>6<td>30<td>45<td>0<td>3<td>0<td>0</tr>
+<tr><td>Prod de Prazer<td>4&nbsp;PM<td>70<td>6<td>30<td>45<td>0<td>3<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Soquete de Acesso, Biomods, Metabolismo Limpo, Pilha Cortical, cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Mnemônicos, Luva de Fantoche, Alteração de Odor, Mudança Sexual
 
 <!-- CLEANED /div --></tr>
-<tr><td>Produ de Segurança<td>5&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
+<tr><td>Prod de Segurança<td>5&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
