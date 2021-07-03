@@ -34,7 +34,7 @@ Modifiers are assigned in multiples of ten, ranging from +10 to +30 and −10 to
 
 In addition to the test’s inherent challenge level, various situational aspects may also influence the test, such as high-quality gear, poor environmental conditions, or the health of the character. These factors are also represented as modifiers based on their level of severity, as noted on the Modifiers table.
 
-GMs assign modifiers as appropriate to the situation. If multiple circumstances affect a test, we strongly suggest the GM assess the situation as a whole and apply a single modifier based on the overall net effect, rather than taking the time to itemize individual modifiers. No set of multiple modifiers should impact a test by more than +/− 60.
+GMs assign modifiers as appropriate to the situation. If multiple circumstances affect a test, we strongly suggest the GM assess the situation as a whole and apply a single modifier based on the overall net effect, rather than taking the time to itemize individual modifiers. No set of multiple modifiers should impact a test by more than +/−60.
 
 <blockquote class="table">
 
@@ -58,11 +58,11 @@ Sometimes you will rock your test with flair, sometimes you will fumble it with 
 
 For each superior result, choose one of the following. For two superior results, you may choose two of the following or one twice for double the effect:
 
-- **Quality:** The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/− 10.
+- **Quality:** The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/−10.
 - **Quantity:** The test consumes fewer (success) or more (failure) materials or produces fewer or more results.
 - **Detail:** You acquire information that is much more in-depth or nuanced (success) or false (failure).
-- **Time (task actions only):** The action takes a shorter (success) or longer (failure) amount of time, by +/− 25%.
-- **Covertness:** The action is less (success) or more (failure) obvious or draws less or more attention (+/− 10 as appropriate).
+- **Time (task actions only):** The action takes a shorter (success) or longer (failure) amount of time, by +/−25%.
+- **Covertness:** The action is less (success) or more (failure) obvious or draws less or more attention (+/−10 as appropriate).
 - **Damage:** Successes inflict more (+1d6) damage (failures miss).
 
 Use superior results for extra style and oomph factor when making tests. Superior results may not apply to every dice roll; a binary success/failure is often enough to move the story forward. This is especially true for tests that fail — the consequences may be severe enough without needing to know how badly the character screwed up. GMs make the final call on when/how to apply superior results.
@@ -74,7 +74,7 @@ When you roll doubles on a test — 00, 11, 22, etc. — you score a _critical_ 
 Criticals have more impact than superior results. They represent “Wow!” moments where you stun onlookers with your proficiency or ineptness. They provide extra bonus effects/penalties, as determined by the GM. Here are some examples:
 
 - Double the damage you inflict with an attack.
-- Gain a +/− 20 modifier to the next test you make.
+- Gain a +/−20 modifier to the next test you make.
 - Take an extra action (critical success) or lose your next action (critical failure).
 - Break a weapon/tool (critical failure).
 

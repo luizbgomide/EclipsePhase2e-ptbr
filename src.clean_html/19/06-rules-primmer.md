@@ -28,7 +28,7 @@ Your capabilities are divided between your _ego_ (your mind, skills, and memorie
 
 ## Opposed Tests
 
-- If you are acting in opposition to another character, you both make a test, rolling d100 against skill +/- modifiers.
+- If you are acting in opposition to another character, you both make a test, rolling d100 against skill +/− modifiers.
 - Whomever succeeds _and_ rolls highest wins.
 
 ## Modifiers
@@ -38,7 +38,7 @@ Your capabilities are divided between your _ego_ (your mind, skills, and memorie
 - Minor (+/−10)
 - Moderate (+/−20)
 - Major (+/−30)
-- The maximum modifiers that can be applied are +/- 60.
+- The maximum modifiers that can be applied are +/−60.
 
 ## Specializations
 
@@ -48,11 +48,11 @@ Your capabilities are divided between your _ego_ (your mind, skills, and memorie
 
 For one superior result, choose one of the following. For two superior results, choose two or one twice for double effects:
 
-- Quality: The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/− 10.
+- Quality: The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/−10.
 - Quantity: The test consumes fewer (success) or more (failure) materials or produces fewer or more results.
 - Detail: You acquire information that is much more in-depth/nuanced (success) or false (failure).
-- Time (task actions only): The action takes a shorter (success) or longer (failure) amount of time, by +/− 25%.
-- Covertness: The action is less (success) or more (failure) obvious or draws less or more attention (+/− 10 as appropriate).
+- Time (task actions only): The action takes a shorter (success) or longer (failure) amount of time, by +/−25%.
+- Covertness: The action is less (success) or more (failure) obvious or draws less or more attention (+/−10 as appropriate).
 - Damage: Successes inflict more (+1d6) damage (failures miss).
 
 ## Critical Results
@@ -60,7 +60,7 @@ For one superior result, choose one of the following. For two superior results, 
 Criticals (“crits”) have more impact than superior results. They represent “Wow!” moments where you stun onlookers with incredible proficiency or ineptness. They provide extra effects/penalties, as determined by the GM. Here are some examples:
 
 - Double the damage you inflict with an attack.
-- Gain a +/− 20 modifier to the next test you make.
+- Gain a +/−20 modifier to the next test you make.
 - Take an extra action (critical success) or lose your next action (critical failure).
 - Break a weapon/tool (critical failure).
 
@@ -206,9 +206,9 @@ You recover the points you have spent from pools by taking a recharge action to 
 
 **Combat is an opposed test.**
 
-- Attacker rolls attack skill +/- modifiers.
-- Melee: Defender rolls Fray or Melee skill +/- modifiers.
-- Ranged: Defender rolls (Fray skill ÷ 2) +/- modifiers.
+- Attacker rolls attack skill +/− modifiers.
+- Melee: Defender rolls Fray or Melee skill +/− modifiers.
+- Ranged: Defender rolls (Fray skill ÷ 2) +/− modifiers.
 - If attacker succeeds and rolls higher than the defender, the attack hits. Roll damage.
 - Superior hits inflict +1d6&nbsp;DV
 - Critical hits double the DV.

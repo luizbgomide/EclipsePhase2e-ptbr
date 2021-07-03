@@ -12,9 +12,9 @@ Not every problem can be solved with words or wits. Whether you employ fists, kn
 
 Combat is an opposed test.
 
-- Attacker rolls attack skill +/- modifiers.
-- **Melee:** Defender rolls Fray or Melee skill +/- modifiers.
-- **Ranged:** Defender rolls (Fray skill ÷ 2) +/- modifiers.
+- Attacker rolls attack skill +/− modifiers.
+- **Melee:** Defender rolls Fray or Melee skill +/− modifiers.
+- **Ranged:** Defender rolls (Fray skill ÷ 2) +/− modifiers.
 - If attacker succeeds and rolls higher than the defender, the attack hits. Roll damage.
 - Superior hits inflict +1d6&nbsp;DV
 - Critical hits double the DV.
