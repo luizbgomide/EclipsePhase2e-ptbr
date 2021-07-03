@@ -33,7 +33,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
 - **Ver Apps:** Ver quais apps estão disponíveis e/ou sendo executados.
 - **Ver Perfil:** Ver o perfil público na rede social e os níveis de rep de alguém dentro do alcance.
-- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Conhecimento.
+- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Saber.
 - **Ver Status do Sistema:** Determinar a integridade do sistema, processos em andamento, alertas de segurança, etc.
 
 <!-- CLEANED /div -->
