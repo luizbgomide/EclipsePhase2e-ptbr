@@ -36,7 +36,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Forque Beta:** Uma cópia parcial de um ego.
 - **AQ:** Antes da Queda (usado para datação referencial).
 - **Bioconservadores:** Um movimento anti-tecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
-- **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e produs. Também chamado de pele.
+- **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
 - **Projeto:** O arquivo do desenho digital usado para nanofabricação.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
@@ -67,7 +67,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Corvo:** Um procurador que se concentra em pesquisa e na análise científica.
 - **Cripta:** Um depósito digital escondido dentro da mesh.
 - **Planeta Ctoniano:** Um Júpiter/Netuno quente cuja atmosfera foi removida, deixando um núcleo terrestre.
-- **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental de software. Usado em sintemorfos, produs e alguns biomorfos.
+- **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental de software. Usado em sintemorfos, prods e alguns biomorfos.
 - **Cyberware:** Ampliações artificiais para biomorfos.
 - **Circulante:** Uma nave que viaja entre habitats usando a RTI.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
@@ -211,7 +211,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Neurodiversidade:** A aceitação de neurologias atípicas.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e comerciantes de almas.
-- **Novacrab:** Um produ feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacrab:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **Casco Nuestro:** Um hab de casco que utiliza raios e aros simétricos para ter estabilidade.
 - **Oligarcas:** Os poderosos ricos imortais.
 - **Olimpiano:** Um biomorfo aprimorado para aptidão física e atletismo.
@@ -224,7 +224,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Portões de Pandora:** Os passagens buraco de minhoca descobertos após o desaparecimento das TITANs.
 - **Pax Familae:** O cartel criminoso composto por uma pessoa, Claudia Ambelina, e seus clones e forques.
 - **Pluralidade:** A ciberdemocracia titaniana.
-- **Produs:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
+- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
 - **Polykatoikia:** Uma variante de hab cilíndrico que usa módulos dependentes.
 - **Pós-humano:** Alguém modificado de forma tão extensiva a ponto de não ser mais reconhecido como humano (um passo além do transumano).
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos-x.
@@ -267,7 +267,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Servidor:** Grandes dispositivos multiusuários. Pode executar múltiplos infomorfos.
 - **Serviço:** Um app executado em um dispositivo remoto na nuvem em vez de localmente.
 - **Shanzhai:** A cópia/falsificação de mercadorias.
-- **Mutável:** Um morfo produ otimizado para alterar sua aparência.
+- **Mutável:** Um morfo prod otimizado para alterar sua aparência.
 - **Carcaça:** Uma forma sintética; usado para bots, veículos e sintemorfos.
 - **Casco:** Um habitat aglomerado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
 - **Garimpeiros:** Habitantes de Mercúrio.
@@ -326,11 +326,11 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **ADM:** Arma de Destruição em Massa.
 - **Verme:** Um assíncro exsurgente.
-- **X-Peiro:** Alguém que transmite/vende XP ao vivo ou gravações de suas experiências.
+- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações de suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
-- **X-Pado:** Alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
+- **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
-- **Risco-X**: Risco Existencial. Algo que ameaça a própria existência da transumanidade.
+- **Risco X**: Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Dia-Zero:** Uma brecha previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Zeros:** Pessoas sem acesso à mesh. Comum nos contratados.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
