@@ -348,7 +348,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Colmeia de Enxame Engenheiro, Colmeia de Enxame Reparador
-- **Ajustes de Forma Comuns:** Visão Aprimorada, Ferramentas de Desmontagem, Dedos Fractais, Visão Nanoscópica, Kit de Ferramentas, Emissor de Raios T, Utilimod
+- **Ajustes de Forma Comuns:** Visão Aprimorada, Ferramentas de Desmontagem, Dedos Fractais, Visão Nanoscópica, Kit de Ferramentas, Emissor de Raios T, Utiliferramenta
 
 <!-- CLEANED /div --></tr>
 <tr><td>Módulo Guerreiro<td>3&nbsp;PM<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
@@ -369,7 +369,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
-- **Ajustes de Forma Comuns:** Senso Elétrico, Visão Aprimorada, Conexão Laser, Nanodetector, Pele Conectada, Utilimod
+- **Ajustes de Forma Comuns:** Senso Elétrico, Visão Aprimorada, Conexão Laser, Nanodetector, Pele Conectada, Utiliferramenta
 
 <!-- CLEANED /div --></tr>
 </table>

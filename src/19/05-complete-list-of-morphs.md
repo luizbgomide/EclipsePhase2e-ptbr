@@ -348,7 +348,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Ware:** Engineer Swarm Hive, Fixer Swarm Hive
-- **Common Shape Adjustments:** Enhanced Vision, Disassembly Tools, Fractal Digits, Nanoscopic Vision, Tool Kit, T-Ray Emitter, and Utilimod
+- **Common Shape Adjustments:** Enhanced Vision, Disassembly Tools, Fractal Digits, Nanoscopic Vision, Tool Kit, T-Ray Emitter, and Utilitool
 
 </div></tr>
 <tr><td>Fighter Module<td>3&nbsp;MP<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>

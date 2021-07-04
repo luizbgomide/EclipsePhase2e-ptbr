@@ -353,7 +353,7 @@ Crafters are engineer modules, specialized in construction and fabrication.
 ---
 
 - **Ware:** Engineer Swarm Hive, Fixer Swarm Hive
-- **Common Shape Adjustments:** Enhanced Vision, Disassembly Tools, Fractal Digits, Nanoscopic Vision, Tool Kit, T-Ray Emitter, and Utilimod
+- **Common Shape Adjustments:** Enhanced Vision, Disassembly Tools, Fractal Digits, Nanoscopic Vision, Tool Kit, T-Ray Emitter, and Utilitool
 
 </blockquote>
 
