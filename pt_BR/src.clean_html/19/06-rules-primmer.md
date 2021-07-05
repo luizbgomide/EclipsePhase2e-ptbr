@@ -226,9 +226,9 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 
 - Quando for hackear um alvo, há dois métodos que você pode utilizar:
   - **Ataques de Força Bruta** são rápidos e barulhentos. Eles exigem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema, mas também _status descoberto_ (o sistema está ciente de sua invasão).
-  - **Invasões Sutis** são discretas, mas levam tempo. São ações de tarefa com prazo de 1 hora. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema e _status dissimulado_ (o sistema está alheio à sua presença).
+  - **Invasões Sutis** são discretas, mas levam tempo. São ações de tarefa com prazo de 1 hora. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema e _status anônimo_ (o sistema está alheio à sua presença).
 - Cada sucesso maior no Teste de Hackeamento aumenta seus privilégios em um passo (de usuário para segurança para administrador).
-- Um sucesso crítico no Teste de Hackeamento aumenta o seu status um passo (de descoberto para dissimulado para oculto).
+- Um sucesso crítico no Teste de Hackeamento aumenta o seu status um passo (de descoberto para anônimo para oculto).
 - Quando invadir, você não precisa fazer testes para ações que seus privilégios permitem. Para outras ações, você deve ter sucesso em Testes de Hackeamento adicionais.
 
 <!-- CLEANED /blockquote -->
