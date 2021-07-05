@@ -2,6 +2,9 @@
 
 - [Infâmia](01/00-infamy.md)
 - [Começando](02/00-starting-out.md)
+  - [O que é Eclipse Phase?](02/01-what-is-ep.md)
+  - [Conceitos Principais](02/02-core-concepts.md)
+  - [Temas](02/03-themes.md)
 - [Mecânicas do Jogo](03/00-game-mechanics.md)
 - [Criando Personagens](04/00-making-characters.md)
 - [Personagem Prontos](05/00-sample-characters.md)

@@ -129,7 +129,7 @@
 - **Ware:** Soquete de Acesso, Biomods, Pilha Cortical, cibercérebro, Insertos da Mesh, Mnemônicos, Luva de Fantoche
 
 </div></tr>
-<tr><td>Novacaranguejo<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
+<tr><td>Novacrab<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
