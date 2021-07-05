@@ -107,7 +107,7 @@ Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalha
 
 - **Prender Ego:** Proibir o ego/infomorfo de se mover ou sair.
 - **Controlar Ware:** Como acima.
-- **Copiar Ego:** Fazer um forque alfa ([Forqueando](../15/04-forking-and-merging.md)).
+- **Copiar Ego:** Fazer um forque alfa ([Forqueamento](../15/04-forking-and-merging.md)).
 - **Deletar Ego:** Apagar a mente.
 - **Congelar Morfo (Cibercérebro):** Paralizar o morfo.
 - **Hackear a Mente:** Praticar psicocirurgia no ego ([Psicocirurgia](../15/05-psychosurgery.md)).

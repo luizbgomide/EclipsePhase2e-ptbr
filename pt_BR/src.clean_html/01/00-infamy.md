@@ -372,7 +372,7 @@ Quatro meses e nenhuma palavra do Taernen. Será que ele morreu? Será que a aba
 
 O medo tomou conta de Tierslay enquanto os seus últimos momentos na Terra brotavam da escuridão profundamente reprimida e consumiam seus pensamentos. Globos oculares. Fliperamas. Plástico.
 
-O pedido do morfo seguia informando que o Ukku estaria farcastando para o enxame em uma semana, para umas longas e proveitosas férias no sistema exterior, e Ukku ficou sabendo que Bateaux era a melhor oficina de sintemorfo de lá. “Ukku trabalha só com o melhor”, Elis leu com desdém. “Que acha? Devemos aceitar esta honra sublime?”
+O pedido do morfo seguia informando que o Ukku seria longiprojetado para o enxame em uma semana, para umas longas e proveitosas férias no sistema exterior, e Ukku ficou sabendo que Bateaux era a melhor oficina de sintemorfo de lá. “Ukku trabalha só com o melhor”, Elis leu com desdém. “Que acha? Devemos aceitar esta honra sublime?”
 
 Tierslay fez o seu melhor para fingir desinteresse, mesmo com o asco se espalhando dentro dela. “Não sei, Elis. Parece uma dor de cabeça.”
 
