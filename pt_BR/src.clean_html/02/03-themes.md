@@ -1,0 +1,49 @@
+# Temas
+
+Em uma sessão, os personagens do jogador (PJs) podem explorar as ruínas da Terra, lutando contra as antigas máquinas TITAN para encontrar uma relíquia do passado. Em outra, eles repelem os caçadores ex-humanos até que o portão de pandora se abra para que eles consigam escapar. Ao redor da mesa, durante esses momentos, os jogadores mergulham nos detalhes. Mas os detalhes só parecem mais impactantes porque são parte integrante do cenário e dos grandes temas que ele engloba. Mesmo quando não são o foco, o cenário e as aventuras de Eclipse Phase vão explorar vários temas recorrentes. MJs devem usá-los para definir o tom de seus jogos.
+
+## Pós-Apocalipse
+
+A transumanidade sobrevive na sombra da Queda, quando os TITANs arrasaram a Terra e os surtos exsurgentes metamorfosearam civis em monstros biológicos retorcidos. 95% da população foi exterminada em poucos anos. Para cada pessoa que escapou via ônibus espacial, dez mil se enfileiravam em instalações de upload em massa, esperando suas mentes serem digitalizadas e transmitidas para servidores orbitais. Bilhões foram consumidos pelas máquinas de guerra e pragas. As estações acolheram refugiados até que suporte vital se esgotar. Uns poucos nunca saíram da Terra, mas ainda sobrevivem entre os ossos da civilização, caçados pelas máquinas. Não importa onde as pessoas descansem a cabeça no Sistema Solar, elas podem olhar para trás para seus mundo natal carbonizado e os anéis de estações devastadas e corpos congelados.
+
+Mas assim como um incêndio florestal abre caminho para um novo crescimento, a transumanidade está destinada a reconstruir a sociedade, buscando novas formas de viver que não seriam possíveis sob o olhar do controle central da Terra. Marte e Lua são centro comerciais; Saturno abriga colônias culturais e científicas. Nos redutos exteriores, habitats independentes incubam novas experiências transumanas. Enquanto alguns anseiam pela velha Terra para aliviar seus traumas, outros buscam as estrelas.
+
+## Sobrevivência
+
+A Queda acabou, mas o caminho da transumanidade ainda está repleto de perigos. As TITANs saíram por vontade própria, mas suas máquinas de morte ainda espreitam o Sistema Solar. A pestilência exsurgente jaz dormente em crateras escuras, esperando para florescer em mutações e morte. Os Factors, os únicos aliados da transumanidade, são predadores de emboscada, contentes a encher seus escolhidos de presentes enquanto preparam suas teias ocultas.
+
+Se as ameaças externas não matarem a transumanidade, as internas poderão. As principais facções estão presas numa guerra fria, à espera de um momento de vulnerabilidade para jogar o sistema numa guerra. A hipercorps liberam produtos para controlar ou matar concorrentes, pensando em nada mais além dos lucros do próximo trimestre. Os ambiciosos exploradores se esquivam das quarentenas para vender relíquias TITAN e artefatos alienígenas ameaçadores no mercado negro. Até mesmo a vida diária normal está repleta de perigo. Um único parafuso vagando em velocidade orbital pode abrir um buraco num habitat, lançando sua preciosa atmosfera no espaço.
+
+A extinção paira sobre a transumanidade; nós estamos a um passo de sumir da existência. As novas tecnologias trazem novas ameaças. Além disso, os xenoarqueologistas visitaram milhares de mundos alienígenas, todos mortos. As civilizações que prosperaram há muito tempo colheram seus próprios cataclismas. Os números mostram que, em breve a transumanidade também será apenas artefatos mortos, esperando para serem catalogados pela próxima iteração da inteligência viajante espacial.
+
+## Horror
+
+Coisas estranhas prosperam na periferia da luz da transumanidade. Em habitats isolados, _ex-humanos_ experimentam em si mesmos, acelerando sua própria evolução para serem predadores perfeitos. Em becos escuros, refugiados injetam-se com drogas do mercado negro, sem saber que esporos exsurgente agora florescem dentro deles. Conforme os exploradores escavam velhas tocas de TITAN, eles descobrem sobreviventes, unidos cirurgicamente como insetos humanos lamuriantes. Até mesmo uma escotilha com defeito e um momento de distração podem partir uma pessoa ao meio vendo suas pernas flutuado soltas no espaço. A morte era uma fuga misericordiosa. Agora as memórias perfuram psique como um gotejamento torturante. As pessoas descartam seus corpos velhos e despedaçados, devolvendo-os à reciclagem para serem revendidos no modelo do ano que vem — mas eles carregam seus traumas para sempre. Os aventureiros, principalmente, acumulam terrores até não restar mais nada a fazer, além de encontrar um lugar calmo para se aposentar e lutar com os seus demónios.
+
+## Infecção
+
+Em biologia, uma "fase de eclipse" (_eclipse phase_) é o período após uma célula ser infectada, mas antes do vírus aparecer dentro da célula e começar a dominá-la. Nesta fase, a infecção é invisível, mas irreversível. O vírus exsurgente sobreviveu uma década devido à sua adaptabilidade, às vezes distorcendo o corpo, às vezes ancorando a mente. Nada parece suficiente para pará-lo. Ele só espera, até que tenha uma oportunidade de mutar e reconstruir a vítima em algo terrível e novo. Alguns sobrevivem anos com sua infecção, como uma Maria Tifoide assintomática. Alguns desafortunados manifestam poderes psíquicos como resultado de mácula exsurgente; um dom de poder terrível com um custo desconhecido. Ainda não está claro se o vírus foi criado pelas TITANs ou simplesmente disperso por elas, se foi um erro de evolução alienígena ou se está reconstruindo os transumanos por uma causa maior. Qualquer pessoa que entre em contacto com o vírus é considerada infectada e perseguida pelo resto dos seus dias.
+
+## Conspiração
+
+Um assassino assume o rosto do alvo. Uma organização entrega ajuda humanitária a um habitat remoto, sem saber que um membro da tripulação está contrabandeando máquinas TITAN para o mercado negro. Uma hipercorp contamina o suprimento de ar com um patógeno psicoativo projetado para subjugar comportamentos rebeldes. O novo mundo é um mundo de desinformação e traição. O Consórcio, a República Joviana e a Aliança Autonomista estão presos numa guerra fria, marcada pela propaganda e espionagem. Até a Firewall é uma organização composta por células isoladas que só se comunicam através de canais anônimos sob a orientação de patrocinadores desconhecidos. A taxa de mudança, de alienígenas a picos no mercado, é tão rápida que mapas do cenário político estão obsoletos antes de serem publicados. As alianças são formadas pela necessidade até que uma mensagem de um habitat distante ou de uma nave desaparecida transforme as partes em inimigos ressentidos.
+
+Por ser impossível provar identidades ou motivações, a confiança é uma mercadoria rara. Os virtuosos escondem seus objetivos por trás de máscaras, e excluem conhecimentos de seus próprios cérebros se isso puder revelá-los. Os sentinelas da Firewall podem se perguntar se a pessoa ao seu lado é o colega de uma centena de missões ou se esse é o morfo vazio dele encapado por uma inteligência alienígena. Neste mundo, o fogo amigo é uma táctica válida. Afinal, um amigo morto pode ser reencapado. Mas confie em um inimigo e você pode deixar de existir para sempre.
+
+## Ciência
+
+A ciência causou a Queda que quase eliminou a transumanidade. Ela também foi a cura que permitiu que alguns sobrevivessem e o único caminho para as estrelas. Os PJs usam tecnologias que os tornam sobre-humanos, capazes de destruir habitats ou até mesmo planetas. Mas a tecnologia avançada de seus inimigos se aproxima da onipotência. Os PJs devem usar as ferramentas que têm e improvisar para criar as que não têm.
+
+A ciência sempre tem um custo, seja o risco de ser mal-utilizada ou a perda do que nos torna aquilo que somos. Em um mundo onde a maioria das pessoas são versões digitalizadas e reencapadas de seus antigos eus, que têm a opção de se modificar além do reconhecimento e viver em ambientes inimaginados por nossos antepassados, manter um senso de identidade e humanidade pode se revelar um desafio que a ciência por si só não pode resolver.
+
+## Política
+
+Eclipse Phase explora um universo como ele poderia ser: transumanos através da galáxia, com diferentes origens e desafios. O resultado é uma gama de sistemas políticos, desde democracias representativas até bandos de cultistas, desde regimes totalitários até colônias de versões forqueadas e mescladas de uma única personalidade original. Muitos são familiares, outros fantásticos, alguns obscenos. Os personagens devem aprender os costumes locais, mas também podem fazer uma pausa para apreciar a diversidade da experiência transumana.
+
+A tecnologia disponível em Eclipse Phase tem impacto direto na política. A imensa idade e a riqueza dos oligarcas possibilita que eles influenciem a vida de milhões. A nanofabricação acessível prejudica o capitalismo da escassez. Os elevados e IGAs demandam um status de igualdade pessoal. O forqueamento desafia a legitimidade do voto em democracias. A capacidade de hackear mentes e vigiar tudo abre o caminho para o totalitarismo.
+
+## Mudança
+
+A evolução da sociedade transumana é rápida. A confluência das tecnologias emergentes cria inevitáveis turbulências sociais. As normas são apagadas tão rapidamente como são formadas. Ideias antes consideradas ultrajantes ou utópicas pairam tentadoramente próximas. Instituições antes pensadas como eternas e inescapáveis, como o direito divino dos reis, agora exibe rachaduras em suas fundações ou mudam de um dia para o outro em algo incrivelmente inesperado.
+
+A própria transumanidade está se transformando. Como será daqui dois anos é incerto, muito menos em vinte. O mapa político do Sistema Solar poderia se realinhar, outro risco X poderia dispersar a transumanidade para as estrelas, ou a espécie poderia avançar para um estágio pós-biológico, deixando apenas os bioconservadores para trás. A única certeza é que o futuro é incerto.
