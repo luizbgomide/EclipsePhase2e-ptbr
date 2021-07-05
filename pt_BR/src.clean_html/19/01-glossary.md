@@ -71,7 +71,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cyberware:** Ampliações artificiais para biomorfos.
 - **Circulante:** Uma nave que viaja entre habitats usando a RTI.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
-- **Darkcast:** Um serviço de farcast e egocast do mercado negro.
+- **Furtiprojeção:** Um serviço de longiprojeção e egoprojeção do mercado negro.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
 - **Desligamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
@@ -103,7 +103,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Malandro:** Um negociador ou socializador.
 - **Factors:** Uma espécie de fungo gelatinoso evoluído, os únicos alienígenas sapientes vivos que a transumanidade encontrou até agora.
 - **A Queda:** A guerra com as TITANs que devastaram a Terra e quase extinguiram a transumanidade.
-- **Farcast:** Comunicação intrassolar usando tecnologias clássicas de comunicação (rádio, laser, etc.) e teletransporte quântico.
+- **Longiprojeção:** Comunicação intrassolar usando tecnologias clássicas de comunicação (rádio, laser, etc.) e teletransporte quântico.
 - **Longicargueiro:** Transportador espacial de longa distância.
 - **Insumo:** A matéria-prima usada para nanofabricação.
 - **A Cerca:** O cordão de isolamento de satélites da morte ao redor da Terra.
