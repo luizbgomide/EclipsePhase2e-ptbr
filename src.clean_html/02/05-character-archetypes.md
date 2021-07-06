@@ -112,7 +112,7 @@ The techie specializes in using, repairing, and abusing technology, either hardw
 
 <!-- CLEANED /blockquote -->
 
-**Scavengers:** The team has minutes to act before people die. Without power or parts, the engineer quits in disgust. This is where the scavenger thrives. The scavenger pulls through the bones of the habitat to form something new. They can slap together a COscrubber from old batteries and cooking supplies. They can scrap the crashed shuttle to rebuild the synthmorph. Once the team sets out, the scavenger has the eye for every diamond of valuable technology buried in the debris, and when they return home, the scavenger knows where to flip that trash to pull in a tidy profit.
+**Scavengers:** The team has minutes to act before people die. Without power or parts, the engineer quits in disgust. This is where the scavenger thrives. The scavenger pulls through the bones of the habitat to form something new. They can slap together a CO<sub>2</sub> scrubber from old batteries and cooking supplies. They can scrap the crashed shuttle to rebuild the synthmorph. Once the team sets out, the scavenger has the eye for every diamond of valuable technology buried in the debris, and when they return home, the scavenger knows where to flip that trash to pull in a tidy profit.
 
 <!-- CLEANED blockquote class="indent" -->
 
