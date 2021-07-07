@@ -4,7 +4,7 @@ Eclipse Phase é um mundo hostil aos desavisados e um paraíso para os espertos.
 
 ## Transumanismo
 
-A humanidade está ultrapassada. As pessoas não são mais definidas por suas limitações. Os transumanos se adaptam à corona escaldante do sol, onde as naves viram plasma. Eles prosperam nos escuros desertos congelados do Cinturão de Kuiper em isolamento total. Enquanto humanos sofrem com envelhecimento e doenças, e estão confinados a poucos ambientes, os transhumanos perseguem a longevidade e a adaptação.
+A humanidade está ultrapassada. As pessoas não são mais definidas por suas limitações. Os transumanos se adaptam à corona escaldante do sol, onde as naves viram plasma. Eles prosperam nos escuros desertos congelados do Cinturão de Kuiper em isolamento total. Enquanto humanos sofrem com envelhecimento e doenças, e estão confinados a poucos ambientes, os transumanos perseguem a longevidade e a adaptação.
 
 No século 21, o transumanismo era um movimento focado na aprimoração humana. Em Eclipse Phase, a transumanidade é como as pessoas reconstroem a galáxia. Você pode interpretar uma vid-celebridade ampliada ou um inseto robótico, e nenhum deles se destacaria em um ambiente público. Você também pode escolher não ter corpo e existir como uma entidade puramente digital. Muitos habitantes de Eclipse Phase têm autonomia corporal absoluta, dentro dos limites da sua criatividade e dos seus recursos. Por causa da facilidade do aprimoramento corporal radical, o personagem mediano de Eclipse Phase tem uma força e inteligência comparáveis aos humanos mais excepcionais da história.
 
@@ -12,7 +12,7 @@ A transumanidade também incorpora aqueles que não são _homo sapiens_. IAs e a
 
 ## IAs e Elevados
 
-A hipercorp genética Somatek notoriamente triou lotes de dez mil filhotes de polvos semissapientes através de um crivo rigoroso de testes de inteligência. Os fracassos foram imediatamente destruídos. Os restantes se tornaram material genético para a próxima geração. Uma década depois, seu "produto" final foi lançado — um polvo tão consiente quanto qualquer transumano; um elevado. Somatek e empresas ela criaram e mataram milhões. Esta é a história de quase todas as espécies elevadas. Eles são totalmente sapientes, mas seu DNA é registrado, protegido contra cópia e marcas de hipercorps. A história deles é uma eugenia calculada.
+A hipercorp genética Somatek notoriamente triou lotes de dez mil filhotes de polvos semissapientes através de um crivo rigoroso de testes de inteligência. Os fracassos foram imediatamente destruídos. Os restantes se tornaram material genético para a próxima geração. Uma década depois, seu "produto" final foi lançado — um polvo tão consciente quanto qualquer transumano; um elevado. Somatek e empresas ela criaram e mataram milhões. Esta é a história de quase todas as espécies elevadas. Eles são totalmente sapientes, mas seu DNA é registrado, protegido contra cópia e marcas de hipercorps. A história deles é uma eugenia calculada.
 
 As inteligências gerais artificiais (IGAs) são inteligências digitais criativas e plenamente autoconscientes. Ao contrário das inteligências limitadas artificiais (ILAs), que possuem uma interface quase humana na frente de um programa limitado de funções específicas, as IGAs são sapientes e equivalentes a outras mentes transumanas. As IGAs, tal como os elevados, são produtos de equipes de desenvolvimento e pesquisa humana. Algumas são frutos de pesquisas acadêmicas, outras vieram de centros de estudos militares, enquanto que a maioria foi desenvolvida por estúdios privados para seus próprios fins.
 
@@ -44,7 +44,7 @@ Quase todo objeto é sem fio e computadorizado. Cada um desses dispositivos se l
 
 ## Conversas na Mesa
 
-Assume-se que todos os personagens estejam conectados na mesh. Isso permite que eles falem um com o outro, comparilhem vídeos em primeira pessoa, dados do sensores e outras informações mesmo quando estão separados. Mas tenha cuidado! Os inimigos experientes em infoseg podem monitorar essas conversas ou até mesmo alterar mensagens entre personagens.
+Assume-se que todos os personagens estejam conectados na mesh. Isso permite que eles falem um com o outro, compartilhem vídeos em primeira pessoa, dados do sensores e outras informações mesmo quando estão separados. Mas tenha cuidado! Os inimigos experientes em infoseg podem monitorar essas conversas ou até mesmo alterar mensagens entre personagens.
 
 </blockquote>
 
@@ -56,7 +56,7 @@ A nanotecnologia não está isenta de riscos. Ela encolhe o campo da guerra ao m
 
 ## Riscos X
 
-Os riscos existenciais são ameaças e vulnerabilidades com o potencial de exterminar ou prejudicar permanentemente a transumanidade. A Firewall trabalha para identificar e eliminar riscos X a qualquer custo, e muitos regimes têm suas próprias organizações para combatê-los — ou tentar dominá-los. Os riscos X mais perigosos são as IAs TITAN que atormentaram a Terra e os vírus exsurgentes que continuam a infectar a transumanidade. Apesar dos horrores que tem enfrentado, a transumanidade continua na sua perseguição frenética por conhecimento e lucro, cegos aos riscos que poderiam estar escondidos nos descobrimentos da arte, da ciência e do espaço.
+Os riscos existenciais são ameaças e vulnerabilidades com o potencial de exterminar ou prejudicar permanentemente a transumanidade. A Firewall trabalha para identificar e eliminar riscos X a qualquer custo, e muitas entidades têm suas próprias organizações para combatê-los — ou tentar dominá-los. Os riscos X mais perigosos são as IAs TITAN que atormentaram a Terra e os vírus exsurgentes que continuam a infectar a transumanidade. Apesar dos horrores que tem enfrentado, a transumanidade continua na sua perseguição frenética por conhecimento e lucro, cegos aos riscos que poderiam estar escondidos nos descobrimentos da arte, da ciência e do espaço.
 
 ## Exploração Alienígena
 
@@ -64,4 +64,4 @@ Exploradores descobriram enigmáticos portões capazes de teletransportar desbra
 
 ## Facções
 
-As sociedades são tão diversas quanto os próprios transumanos; utopias tecnossocialistas e citadelas fascistas, postos de fronteira e naves de festivais itinerantes. À medida que as pessoas fugiam da Terra, qualquer um com uma nave ou a reivindicação de um asteroide poderia construir um habitat, e com ele uma nova forma de fazer as coisas. Os velhos governos aprenderam a incorporar refugiados para reforçar as estruturas de poder existentes. Para sobreviver, as sociedades aprenderam a fornecer apoio mútuo e formaram facções com habitats de ideias parecidas. As facções dominantes são a Aliança Autonomista, composta por vários regimes ligados por seu desejo de empoderamento individual, e o Consórcio Planetário, um estado corporativo que surgiu das cinzas da Terra e ainda controla a maior parte do sistema interior. A República Joviana, um estado policial biochauvinista, detém a maior parte do aparato militar do velho mundo e atua para retornar aos modos de vida pré-Queda. Enquanto isso, hipercorporações ultracompetitivas, especializadas e superconectadas liberam tecnologias não testadas e destroem governos contanto que isso mantenha o ciclo de lucros girando.
+As sociedades são tão diversas quanto os próprios transumanos; utopias tecnossocialistas e citadelas fascistas, postos de fronteira e naves de festivais itinerantes. À medida que as pessoas fugiam da Terra, qualquer um com uma nave ou a reivindicação de um asteroide poderia construir um habitat, e com ele uma nova forma de fazer as coisas. Os velhos governos aprenderam a incorporar refugiados para reforçar as estruturas de poder existentes. Para sobreviver, as sociedades aprenderam a fornecer apoio mútuo e formaram facções com habitats de ideias parecidas. As facções dominantes são a Aliança Autonomista, composta por várias entidades unidas por seu desejo de empoderamento individual, e o Consórcio Planetário, um estado corporativo que surgiu das cinzas da Terra e ainda controla a maior parte do sistema interior. A República Joviana, um estado policial biochauvinista, detém a maior parte do aparato militar do velho mundo e atua para retornar aos modos de vida pré-Queda. Enquanto isso, hipercorporações ultracompetitivas, especializadas e superconectadas liberam tecnologias não testadas e destroem governos contanto que isso mantenha o ciclo de lucros girando.
