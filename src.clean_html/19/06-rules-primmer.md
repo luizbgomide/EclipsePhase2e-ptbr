@@ -48,12 +48,12 @@ Your capabilities are divided between your _ego_ (your mind, skills, and memorie
 
 For one superior result, choose one of the following. For two superior results, choose two or one twice for double effects:
 
-- Quality: The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/−10.
-- Quantity: The test consumes fewer (success) or more (failure) materials or produces fewer or more results.
-- Detail: You acquire information that is much more in-depth/nuanced (success) or false (failure).
-- Time (task actions only): The action takes a shorter (success) or longer (failure) amount of time, by +/−25%.
-- Covertness: The action is less (success) or more (failure) obvious or draws less or more attention (+/−10 as appropriate).
-- Damage: Successes inflict more (+1d6) damage (failures miss).
+- **Quality:** The work is more exact (success) or more sloppy (failure). This may affect subsequent tests by +/−10.
+- **Quantity:** The test consumes fewer (success) or more (failure) materials or produces fewer or more results.
+- **Detail:** You acquire information that is much more in-depth/nuanced (success) or false (failure).
+- **Time (task actions only):** The action takes a shorter (success) or longer (failure) amount of time, by +/−25%.
+- **Covertness:** The action is less (success) or more (failure) obvious or draws less or more attention (+/−10 as appropriate).
+- **Damage:** Successes inflict more (+1d6) damage (failures miss).
 
 ## Critical Results
 
