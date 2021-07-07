@@ -48,16 +48,16 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 
 Para um resultado maior, escolha um dos seguintes. Para dois resultados maiores, escolha dois ou um duas vezes para efeitos duplicados:
 
-- Qualidade: O trabalho é mais preciso (sucesso) ou mais desleixado (falha). Isso pode afetar os testes subsequentes em +/−10.
-- Quantidade: O teste consome menos (sucesso) ou mais (falha) materiais ou produz menos ou mais resultados.
-- Detalhamento: Você obtém informações que são muito mais aprofundadas/diversificadas (sucesso) ou falsas (falha).
-- Tempo (apenas ações de tarefa): A ação leva um tempo menor (sucesso) ou maior (falha), por +/−25%.
-- Discrição: A ação é menos (sucesso) ou mais (falha) evidente ou atrai menos ou mais atenção (+/−10 conforme apropriado).
-- Dano: Sucessos infligem mais (+1d6) dano (falhas erram).
+- **Qualidade:** O trabalho é mais preciso (sucesso) ou mais desleixado (falha). Isso pode afetar os testes subsequentes em +/−10.
+- **Quantidade:** O teste consome menos (sucesso) ou mais (falha) materiais ou produz menos ou mais resultados.
+- **Detalhamento:** Você obtém informações que são muito mais aprofundadas/diversificadas (sucesso) ou falsas (falha).
+- **Tempo (apenas ações de tarefa):** A ação leva um tempo menor (sucesso) ou maior (falha), por +/−25%.
+- **Discrição:** A ação é menos (sucesso) ou mais (falha) evidente, ou atrai menos ou mais atenção (+/−10 conforme apropriado).
+- **Dano:** Sucessos infligem mais (+1d6) dano (falhas erram).
 
 ## Resultados Críticos
 
-Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos "Uau!" em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
+Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
 
 - Dobrar o dano que você inflinge com um ataque.
 - Obter um modificador +/−20 para o próximo teste que você fizer.
@@ -129,7 +129,7 @@ Seu personagem possui um número de paradas que definem suas capacidades transum
 
 - Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.
 - Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
-- Salvo indicação em contrário, apenas 1 ponto da parada pode ser gasto por teste.
+- Salvo indicação em contrário, apenas 1 ponte de parada pode ser gasto por teste.
 
 <!-- CLEANED blockquote class="indent" -->
 
@@ -164,7 +164,7 @@ A parada de Manha está vinculada às interações sociais: Sagacidade, Vontade 
 - **Renovar Rep:** Restaurar favores de rep na rede a um custo de 1 ponto para um favor Menor e 2 pontos para um favor Moderado. Favores maiores não podem ser renovados desta forma.
 - **Adquirir uma Pista:** Ganhar uma dica ou pista coletando informações através de interações sociais, sem precisar fazer um teste.
 - **Controlar Sua Infecção:** Evitar fazer um Teste de Infeção quando usar um truque psi (apenas assincros).
-- **Negar uma Gafe:** Ignorar uma gafe social de um jogador que o personagem não faria.
+- **Negar uma Gafe:** Ignorar uma gafe social de um jogador, que o personagem não faria.
 
 <!-- CLEANED /blockquote -->
 
@@ -189,7 +189,7 @@ Flex é uma parada curinga. Ela pode ser usada para afetar rolagens de dados de 
 - **Introduzir PNJ:** Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc.
 - **Introduzir um Item:** Um item previamente despercebido é adicionado à cena. A presença dele deve ser plausível. O item não pode ser ofensivo (nenhuma arma) e deve ser de Complexidade Menor (nem Raro e nem Restrito). Pode ser uma ferramenta útil, um equipamento necessário, ou até mesmo uma pista.
 - **Definir o Ambiente:** Você pode introduzir um fator ambiental à cena. A presença dele deve ser plausível. Ele deverá fornecer um novo detalhe que não altere drasticamente a cena. Exemplos incluem esconderijos, coberturas, distrações, abrigos ou elementos exploráveis, como uma escada ou janela.
-- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta conexão deve ser mais distante ou menor do que íntima ou séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga, mas pequena.
+- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta conexão deve ser mais distante ou menor do que íntima ou séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga mas pequena.
 
 <!-- CLEANED /blockquote -->
 
