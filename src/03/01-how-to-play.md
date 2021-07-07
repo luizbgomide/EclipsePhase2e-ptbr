@@ -40,15 +40,15 @@ GMs assign modifiers as appropriate to the situation. If multiple circumstances 
 
 ### Modifiers
 
-| Difficulty    |     Situational     | Factor Modifier |
-| :------------ | :-----------------: | :-------------: |
-| Very Easy     |     Major Bonus     |       +30       |
-| Easy          |  Moderate Benefit   |       +20       |
-| Slightly Easy |     Minor Boost     |       +10       |
-| Average       |                     |      +/−0       |
-| Slightly Hard |   Minor Hindrance   |       −10       |
-| Hard          | Moderate Impediment |       −20       |
-| Very Hard     |   Major Drawback    |       −30       |
+| Difficulty    | Situational Factor  | Modifier |
+| :------------ | :-----------------: | :------: |
+| Very Easy     |     Major Bonus     |   +30    |
+| Easy          |  Moderate Benefit   |   +20    |
+| Slightly Easy |     Minor Boost     |   +10    |
+| Average       |                     |   +/−0   |
+| Slightly Hard |   Minor Hindrance   |   −10    |
+| Hard          | Moderate Impediment |   −20    |
+| Very Hard     |   Major Drawback    |   −30    |
 
 </blockquote>
 
