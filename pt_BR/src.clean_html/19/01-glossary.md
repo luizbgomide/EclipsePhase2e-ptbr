@@ -44,7 +44,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ricochete:** Um biomorfo otimizado para microgravidade.
 - **Sonda Bracewell:** Uma sonda autorreplicante projetada para se propagar para cada sistema estelar da galáxia.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
-- **Marginais:** Exilados que vivem na margem do sistema. Também chamados de isolados.
+- **Marginais:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
 - **Estojo:** Um sintemorfo, barato e comum produzido em massa.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
@@ -87,7 +87,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ponte Ego:** Um dispositivo para escanear e copiar um cérebro biológico para backup, reencape ou psicocirurgia.
 - **Ego ID:** O código de identificação vinculado ao seu ego, impresso nos uploads.
 - **Caçador de Ego:** Um caçador de recompensas que rastreia egos reencapados.
-- **Egocast:** Termo para a transmissão de um ego para um local remoto.
+- **Egoprojeção:** Termo para a transmissão de um ego para um local remoto.
 - **Entóptica:** Realidade aumentada que você "vê" na sua mente.
 - **Eliminador:** Procuradores fortemente armados chamados para conter ameaças além das capacidades de uma célula sentinela normal.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
@@ -107,7 +107,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Longicargueiro:** Transportador espacial de longa distância.
 - **Insumo:** A matéria-prima usada para nanofabricação.
 - **A Cerca:** O cordão de isolamento de satélites da morte ao redor da Terra.
-- **Dublê:** Um forque beta ou agente de uma SIA como um TITAN.
+- **Vulto:** Um forque beta ou agente de uma SIA como um TITAN.
 - **Filtro:** Um procurador que lida com engenharia social, manipulação de mídia e encobrimentos.
 - **Firewall:** A conspiração secreta entre facções que trabalha para proteger a transumanidade dos riscos X.
 - **Firewall:** O software que defende um sistema de invasões.
@@ -119,7 +119,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Forque:** Uma cópia de um ego.
 - **Forquestro:** Sequestrar um backup ou forque.
 - **Fractal:** Uma máquina TITAN tipo "robô-arbusto" com apêndices fractais e capacidades avançadas de nanofab.
-- **A Margem:** As áreas remotas e não povoadas do Sistema Solar.
+- **A Periferia:** As áreas remotas e não povoadas do Sistema Solar.
 - **FTL:** Mais rápido que a luz (_Faster-Than-Light_).
 - **Fúria:** Um biomorfo de combate transumano.
 - **Futura:** Um biomorfo projetado para a Geração Perdida.
@@ -138,7 +138,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hab-Tec:** Um técnico de habitat.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Hardware:** Aprimoramentos para sintemorfos.
-- **Caçador de Cabeças:** Uma máquina TITAN que coleta cabeças para fazer upload.
+- **Caça-Cabeça:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
 - **Colmeia:** Um nanofabro especializado que mantém um nanoenxame.
@@ -153,14 +153,14 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **Contratado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
-- **IndEx:** A bolsa de contratos (_Indenture Exchange_) onde são feitas trocas de contratos de trabalho.
+- **IndEx:** O balcão de contratados (_Indenture Exchange_) onde são feitas trocas de contratos de trabalho.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
 - **Infugiado:** Um refugiado que sobreviveu à Queda como um infomorfo sem corpo.
 - **IETE:** O Instituto para o Estudo das Tendências Emergentes. O serviço clandestino de inteligência e previsão dos Argonautas.
-- **Isolados:** Os exilados nas margens do sistema. Também chamado de marginais.
-- **RTI:** A Rede de Transporte Interplanetar; utilizando a gravidade para se mover entre os planetas usando o mínimo de combustível.
+- **Isolados:** Os exilados nas periferias do sistema. Também chamado de marginais.
+- **RTI:** A Rede de Transporte Interplanetário; utilizando a gravidade para se mover entre os planetas usando o mínimo de combustível.
 - **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se "tornando" o drone.
 - **IFEJ:** Inteligência da Força Espacial Joviana.
 - **O Ferro-Velho:** A camada de sucata e detritos na órbita baixa da Terra.
@@ -229,7 +229,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Pós-humano:** Alguém modificado de forma tão extensiva a ponto de não ser mais reconhecido como humano (um passo além do transumano).
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos X.
 - **Privilégios:** As regras definindo o que uma conta pode fazer em um sistema.
-- **Processador Locus:** Habitats de servidor orbital para infomorfos.
+- **Locus Processador:** Habitats de servidores orbitais para infomorfos.
 - **Prometeanas:** Um grupo de SAIs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
 - **Procuradores:** Membros da estrutura interna da Firewall.
 - **Psi:** Poderes parapsicológicos adquiridos da infecção pela cepa Watts-MacLeod do vírus exsurgente.
@@ -269,7 +269,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Shanzhai:** A cópia/falsificação de mercadorias.
 - **Mutável:** Um morfo prod otimizado para alterar sua aparência.
 - **Carcaça:** Uma forma sintética; usado para bots, veículos e sintemorfos.
-- **Casco:** Um habitat aglomerado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
+- **Casco:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
 - **Garimpeiros:** Habitantes de Mercúrio.
 - **Simulmorfo:** O avatar que você usa em um simulespaço de RV.
 - **Simulespaço:** Ambientes de realidade virtual com imersão completa.
@@ -321,11 +321,11 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.
 - **Ware:** Implantes e aprimoramentos, incluindo bioware, cyberware, hardware, meshware e nanoware.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
-- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela habilidades psi de assíncros.
+- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela habilidades psi de assincros.
 - **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **ADM:** Arma de Destruição em Massa.
-- **Verme:** Um assíncro exsurgente.
+- **Verme:** Um assincro exsurgente.
 - **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações de suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
