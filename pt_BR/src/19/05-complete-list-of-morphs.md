@@ -37,7 +37,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Tolerância ao Frio, Pilha Cortical, Respiração Aprimorada, Insertos da Mesh, Senso de Radiação
+- **Ware:** Biomods, Tolerância ao Frio, Pilha Cortical, Respiração Aprimorada, Insertos da Mesh, Sentido Radioativo
 
 </div></tr>
 <tr><td>Ricochete<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
@@ -129,7 +129,7 @@
 - **Ware:** Soquete de Acesso, Biomods, Pilha Cortical, cibercérebro, Insertos da Mesh, Mnemônicos, Luva de Fantoche
 
 </div></tr>
-<tr><td>Novacrab<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
+<tr><td>Novacaranguejo<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -170,7 +170,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 2/8, Asas 8/40
-- **Ware:** Biomods, Garras, Pilha Cortical, Senso de Direção, Visão Aprimorada, Insertos da Mesh, Pés Preênseis, Asas
+- **Ware:** Biomods, Garras, Pilha Cortical, Sentido Direcional, Visão Aprimorada, Insertos da Mesh, Pés Preênseis, Asas
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Bioquímica Não Humana (Nível 2)
 - **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho pequeno](. /12/21-other-action-factors.md#small-size)
 
@@ -369,7 +369,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Ware:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
-- **Ajustes de Forma Comuns:** Senso Elétrico, Visão Aprimorada, Conexão Laser, Nanodetector, Pele Conectada, Utiliferramenta
+- **Ajustes de Forma Comuns:** Sentido Elétrico, Visão Aprimorada, Conexão Laser, Nanodetector, Pele Conectada, Utiliferramenta
 
 </div></tr>
 </table>
@@ -403,7 +403,7 @@
 <tr><td>Operador<td>2&nbsp;PM<td>100<td>7<td>35<td>70<td>3<td>0<td>0<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Ware:** Arreio de Drone, Mnemônicos, Oráculos
+- **Ware:** Acoplagem Drone, Mnemônicos, Oráculos
 - **Traços de Morfo:** Velocidade Digital, Morfologia Exótica (Nível 3)
 
 </div></tr>
