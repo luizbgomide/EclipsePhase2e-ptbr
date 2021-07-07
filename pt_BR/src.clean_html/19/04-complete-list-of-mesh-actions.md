@@ -33,7 +33,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
 - **Ver Apps:** Ver quais apps estão disponíveis e/ou sendo executados.
 - **Ver Perfil:** Ver o perfil público na rede social e os níveis de rep de alguém dentro do alcance.
-- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Saber.
+- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Conhecimento.
 - **Ver Status do Sistema:** Determinar a integridade do sistema, processos em andamento, alertas de segurança, etc.
 
 <!-- CLEANED /div -->
@@ -97,7 +97,7 @@ Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalha
 - **Suprimir Processo:** Impedir que um processo específico seja reiniciado.
 - **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 - **Grampear RA:** Monitorar os fluxos de RA do alvo.
-- **GrampearSentidos:** Grampear o sensório do alvo.
+- **Grampear Sentidos:** Grampear o sensório do alvo.
 
 <!-- CLEANED /div -->
 
@@ -109,10 +109,10 @@ Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalha
 - **Controlar Ware:** Como acima.
 - **Copiar Ego:** Fazer um forque alfa ([Forqueamento](../15/04-forking-and-merging.md)).
 - **Deletar Ego:** Apagar a mente.
-- **Congelar Morfo (Cibercérebro):** Paralizar o morfo.
+- **Congelar Morfo (Cibercérebro):** Paralisar o morfo.
 - **Hackear a Mente:** Praticar psicocirurgia no ego ([Psicocirurgia](../15/05-psychosurgery.md)).
 - **Modificar Meshware (Cibercérebro):** Adicionar, remover ou alterar meshware.
-- **Modificar Entrada Sensorial (Cyberbrain):** Bloquear, editar ou injetar entrada sensorial.
+- **Modificar Entrada Sensorial (Cibercérebro):** Bloquear, editar ou injetar entrada sensorial.
 - **Manipular Fantoche (Cibercérebro):** Operar remotamente o morfo ([Operações Remotas](../16/21-robots.md#remote-operations)).
 - **Afligir Ego:** Atacar o ego com um app aflitivo.
 - **Desligar:** Desativar a mente.
@@ -142,10 +142,10 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente.
 - **Alterar Regras de Domínio:** Ajustar as configurações do sistema dentro de certos parâmetros; pode exigir um Teste de Programação.
 - **Controlar PNJs:** Ditar quais respostas os PNJs darão a determinadas ações ou controlá-los diretamente.
-- **Bisbilhotar:** Vigiar virtualmente outros usuários.
+- **Espionar:** Vigiar virtualmente outros usuários.
 - **Gerar Itens:** Criar itens virtuais independentemente da raridade.
 - **Modificar Simulmorfo:** Modificar as estatísticas de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
-- **Ativar Privacidade:** Impedir que suas comunicações cara-a-cara sejam bisbilhotadas.
+- **Ativar Privacidade:** Impedir que suas comunicações cara a cara sejam espionadas.
 - **Iniciar/Parar Simulespaço:** Carregar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 - **Encerrar Sessão:** Encerrar forçadamente uma sessão de usuário.
@@ -175,7 +175,7 @@ Se essas regras à primeira vista parecem intimidantes, tenha em mente que as re
 
 ## Hackeamento Consolidado
 
-Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo-a-passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um período de tempo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o período de tempo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
+Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um período de tempo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o período de tempo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
 
 | Resultado do Teste de Infoseg | Resultado do Hackeamento                                                   |
 |:----------------------------- |:-------------------------------------------------------------------------- |

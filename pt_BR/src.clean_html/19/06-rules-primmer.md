@@ -67,8 +67,8 @@ Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles 
 ## Trabalho em Equipe
 
 - Um personagem é escolhido como o ator primário; ele faz o teste.
-- Cada personagem ajudante adicona um modificador +10 (máx. + 30).
-- Para testes de perícias de Saber, Técnicas ou Veiculares, os personagens auxiliares devem possuir a perícia em 40+ para fornecer um bônus de trabalho em equipe.
+- Cada personagem ajudante adiciona um modificador +10 (máx. + 30).
+- Para testes de perícias de Conhecimento, Técnicas ou Veiculares, os personagens auxiliares devem possuir a perícia em 40+ para fornecer um bônus de trabalho em equipe.
 
 ## Turnos de Ação
 

@@ -150,7 +150,7 @@ O quarto era acolhedor, bambu ornamental suavemente iluminado por um brilho que 
 
 “Onde estou?”
 
-A pergunta era para Badal, mas a voz interior respondeu a Tierslay. \[Estamos na flotilha da escória conhecida como _Vá a Marte_.\] Um mapa 3D em realidade aumentada apareceu na lateral do seu campo de visão, mostrando uma série de objetos de tamanhos diferente agrupados, a maioria alongados, e alguns ligados entre si. Naves.
+A pergunta era para Badal, mas a voz interior respondeu a Tierslay. \[Estamos na flotilha da escória conhecida como _Vá a Marte_.\] Um mapa 3D em realidade aumentada apareceu na lateral do seu campo de visão, mostrando uma série de objetos de diferentes tamanhos agrupados, a maioria alongados, e alguns ligados entre si. Naves.
 
 O Badal percebeu a confusão dela. _Vá a Marte_ é um coletivo nômade anarquista de naves e habitats interligados, atualmente à deriva logo depois do Cinturão Principal, no lado de Júpiter.”
 
@@ -328,9 +328,9 @@ Elis interrompeu Tierslay e sorriu. “Ah, estou bem familiarizada com o Fizzee6
 
 “Não me interprete mal. Eu adorei Fizzee. É sublime. Só vi algumas oportunidades de ampliá-lo nas coisas que gostei.”
 
-“Tá bom, sabe-tudo. Chega de conversa. Me deixa provar”, Elis piscou para Tierslay. “Esta é uma biocapa, mas o cérebro é hardware. Me ajuda a verificar o código nos cibercérebros que eu instalo.” As pupilas de Elis dilataram-se em discos azul-real, lágrimas encheram seus olhos e depois escorreram por suas bochechas. Alguns segundos dentro do abraço de Zyzzee66 foi o bastante para Elis perceber o talento na sua frente. Ela matou o processo e tomou um momento para se recompor. “Impressionante. Não perfeito, claro — você precisa checar os limiares de pseudo-dopamina, uma viagem inicial assim pode criar vertigem — mas não tão ruim para alguém uma década atrasada nos desenvolvimentos da programação.”
+“Tá bom, sabe-tudo. Chega de conversa. Me deixa provar”, Elis piscou para Tierslay. “Esta é uma biocapa, mas o cérebro é hardware. Me ajuda a verificar o código nos cibercérebros que eu instalo.” As pupilas de Elis dilataram-se em discos azul-real, lágrimas encheram seus olhos e depois escorreram por suas bochechas. Alguns segundos dentro do abraço de Zyzzee66 foi o bastante para Elis perceber o talento na sua frente. Ela matou o processo e tomou um momento para se recompor. “Impressionante. Não perfeito, claro — você precisa checar os limiares de pseudodopamina, uma viagem inicial assim pode criar vertigem — mas não tão ruim para alguém uma década atrasada nos desenvolvimentos da programação.”
 
-Ela olhou bem para Tierslay e então aumentou a rep dela. “Bem-vinda à família Bateaux, minha gloriosa narco-hacker.”
+Ela olhou bem para Tierslay e então aumentou a rep dela. “Bem-vinda à família Bateaux, minha gloriosa narcohacker.”
 
 ---
 
