@@ -157,7 +157,7 @@ You’ve spent your fair share of time in ships and smaller habitats.
 |                                                                                                 |     |
 | :---------------------------------------------------------------------------------------------- | --: |
 | Free Fall                                                                                       |  40 |
-| Hardware: Choose One<p class="indent">_Common Fields: Electronics, Industrial, Robotics_</p>    |  40 |
+| Hardware: (Choose One)<p class="indent">_Common Fields: Electronics, Industrial, Robotics_</p>  |  40 |
 | Interface                                                                                       |  20 |
 | Know: (Choose One)<p class="indent">_Common Fields: Astronomy, Flight Crew Ops, Gas Mining_</p> |  40 |
 
