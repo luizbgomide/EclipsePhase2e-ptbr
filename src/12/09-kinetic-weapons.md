@@ -12,7 +12,7 @@ Kinetic weapons fire hard-impact projectiles at high velocities to damage the ta
 | Assault Rifle   |     2d10 + 2 \[13\]      |   SA/BF/FA   |    45 + 1    |     100      |   Mod/R/2    | Long, Two-Handed         |
 | Battle Rifle    |     2d10 + 4 \[15\]      |   SA/BF/FA   |    30 + 1    |     200      |   Mod/R/2    | Long, Two-Handed         |
 | Machine Gun     |     3d10 + 2 \[19\]      |    BF/FA     |    50 + 1    |     500      |   Maj/R/3    | Fixed, Long              |
-| Sniper Rifle    |     3d10 + 10 \[26\]     |      SA      |    9 + 1     |     500      |   Maj/R/3    | Fixed, Long              |
+| Sniper Rifle    |     3d10 + 10 \[27\]     |      SA      |    9 + 1     |     500      |   Maj/R/3    | Fixed, Long              |
 | Polygun Pistol  |        As Pistol         |  As Pistol   |  As Pistol   |  As Pistol   |   Mod/R/2    | As Pistol                |
 | Polygun Rifle   |       As Rifle/SMG       | As Rifle/SMG | As Rifle/SMG | As Rifle/SMG |   Maj/R/3    | As Rifle/SMG             |
 | Railguns        |         As Above         |   As Above   |      x2      |     x1.5     |   As Above   | As Above, Armor-Piercing |

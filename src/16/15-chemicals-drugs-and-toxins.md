@@ -69,7 +69,7 @@ Just a few of the chemicals with interesting uses in Eclipse Phase:
 | :-------------- | :----------: | :-------------------------------------------------------------------------------------- |
 | Atropine        |    Min/1     | Antidote against nerve agents.                                                          |
 | DMSO            |    Min/1     | Carries other chemicals through the skin.                                               |
-| Liquid Thermite |   Mod/R/2    | Gel that burns, inflicting DV 3d10 + 10 \[26\] per turn for 3 turns.                    |
+| Liquid Thermite |   Mod/R/2    | Gel that burns, inflicting DV 3d10 + 10 \[27\] per turn for 3 turns.                    |
 | NotWater        |    Min/1     | Liquid fire retardant that does not get things wet.                                     |
 | Scrapper’s Gel  |    Min/1     | Gel that burns, inflicting DV 2d10 + 5 \[16\] per turn for 3 turns.                     |
 | Slip            |    Min/1     | Frictionless liquid. REF Check to walk across, SOM Check to hold on to, −30 to grapple. |

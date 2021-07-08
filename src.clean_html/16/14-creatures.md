@@ -76,7 +76,7 @@ Smart animals are partially uplifted and bio-engineered. These have rudimentary 
 <tr><th>SMART ANIMALS<th>Comp/<!-- CLEANED wbr -->GP<th>COG<th>INT<th>REF<th>SAV<th>SOM<th>WIL<th>INIT<th>TP<th>AV<th>WT/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->DR<th>TT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->IR</tr>
 </thead>
 
-<tr><td>Guard Dog<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>70</sup><td>10&nbsp;<sup>30</sup><td>20&nbsp;<sup>70</sup><td>10&nbsp;<sup>30</sup><td>10<td>1<td>4/5<td>6/30/45<td>4/20/40</tr>
+<tr><td>Guard Dog<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>10<td>1<td>4/5<td>6/30/45<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** 4/20 Walker
