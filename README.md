@@ -13,10 +13,10 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
 ## Progresso
 
 - [x] Organização dos arquivos (100%)
-- [ ] Tradução dos Capítulos (9%)
+- [ ] Tradução dos Capítulos (10%)
   - [x] Infâmia
   - [x] Começando
-  - [ ] Mecânicas do Jogo
+  - [x] Mecânicas do Jogo
   - [ ] Criando Personagens
   - [ ] Personagem Prontos
   - [ ] Como Aconteceu
