@@ -5,11 +5,11 @@ Nanotechnology is widespread throughout the Solar System, with the exception of 
 | NANOTECH GEAR | Comp/<wbr>GP | Description                                                                                                             |
 | :------------ | :----------: | :---------------------------------------------------------------------------------------------------------------------- |
 | Ego Bridge    |    Mod/2     | Upload from/download to biological brains.                                                                              |
-| Healing Spray |    Min/1     | Heals 1d10 \[5\] damage an hour for 12 hours for biomorphs. Single use.                                                 |
+| Healing Spray |    Min/1     | Heals 1d10 \[6\] damage an hour for 12 hours for biomorphs. Single use.                                                 |
 | Healing Vat   |    Maj/3     | Heal/cure biomorphs, customize/augment morph.                                                                           |
 | Med Scanner   |    Min/1     | Scans health, diagnosis with Medicine: Forensics/<wbr>Paramedic/<wbr>Veterinary at 60, detect nanobots as nanodetector. |
 | Nanodetector  |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60.                         |
-| Repair Spray  |    Min/1     | Heals 1d10 \[5\] damage an hour for 12 hours for synthmorphs. Single use.                                               |
+| Repair Spray  |    Min/1     | Heals 1d10 \[6\] damage an hour for 12 hours for synthmorphs. Single use.                                               |
 
 **Ego Bridge:** Ego bridges are devices used for uploading from and downloading to biological brains ([Backups & Uploading](../15/01-backups-and-uploading.md)). The bridge’s cranial sensors unfold around your head when in use, imaging and scanning your brain. Needles in the neck rest deploy nanobots that either measure your mind and neural connections (uploading) or physically re-map them (downloading).
 
