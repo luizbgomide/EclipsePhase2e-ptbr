@@ -2,7 +2,7 @@
 
 Now that your character is mostly fleshed out, you must choose 3 motivations. Motivations are personal aspirations your character pursues. Most of these are long-term and rooted in the character’s ideological beliefs, personal drive, or backstory. Motivations will help your character earn extra [Rez Points](../17/08-rez-and-rep-rewards.md#rez-points) and cope with [mental stress and trauma](../12/18-mental-health.md).
 
-Motivations are listed on your character sheet as a single term or short phrase, along with a + or − symbol to denote whether they support the cause or oppose it. For example, “+Fame” would indicate that your character seeks to become a famous media personality, whereas “-Reclaim Earth” means that your character opposes the goal of reclaiming Earth.
+Motivations are listed on your character sheet as a single term or short phrase, along with a + or − symbol to denote whether they support the cause or oppose it. For example, “+Fame” would indicate that your character seeks to become a famous media personality, whereas “−Reclaim Earth” means that your character opposes the goal of reclaiming Earth.
 
 Your first motivation is based on your faction choice, as determined in [Step 4](../04/07-step-4-faction.md). Note this on your sheet as “+\[Faction\] Interests.” Your other two motivations are based on your character’s personal interests; see the Example Motivations sidebar for ideas.
 
