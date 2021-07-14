@@ -56,7 +56,7 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 
 ### Exalt
 
-Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on everevolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.
+Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on ever-evolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 

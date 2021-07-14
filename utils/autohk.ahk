@@ -10,4 +10,16 @@ Send ^f
 Send %page%
 Send {Enter}
 Send {Esc}
+return
 
+^!s::
+Clipboard := "" ; Must be blank for detection to work.
+Send ^c
+ClipWait 2
+if ErrorLevel
+    return
+Clipboard := StrReplace(Clipboard, ", ", "`n")
+Sort Clipboard
+Clipboard := StrReplace(Clipboard, "`n", ", ")
+Send ^v
+return

@@ -146,16 +146,16 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Genehacker
 
-| GEAR               | Comp/<wbr>GP | Description                                                     |
-| :----------------- | :----------: | :-------------------------------------------------------------- |
-| Archive            |    Min/1     | +10 Research Tests related to one Know skill.                   |
-| Dino Pet           |    Min/1     | Genehacked dinosaur pets.                                       |
-| Fokus (5 doses)    |    Min/1     | Enhanced Behavior: Obsessive (2), reduce timeframes 25%.        |
-| Medichines         |    Maj/3     | Ignore 1 wound, heal faster, drug/toxin effect/duration halved. |
-| Pusher Swarm       |   Min/R/1    | + drug/toxin Exposes biomorphs to drug/toxin.                   |
-| Specimen Container |    Min/1     | Holds samples in stasis conditions.                             |
-| Tools (Kit)        |    Min/1     | Portable, applies to specific skill.                            |
-| Twitch (5 doses)   |   Min/R/1    | −20 actions, SOM Check vs. incapacitation.                      |
+| GEAR               |     Comp/<wbr>GP     | Description                                                     |
+| :----------------- | :------------------: | :-------------------------------------------------------------- |
+| Archive            |        Min/1         | +10 Research Tests related to one Know skill.                   |
+| Dino Pet           |        Min/1         | Genehacked dinosaur pets.                                       |
+| Fokus (5 doses)    |        Min/1         | Enhanced Behavior: Obsessive (2), reduce timeframes 25%.        |
+| Medichines         |        Maj/3         | Ignore 1 wound, heal faster, drug/toxin effect/duration halved. |
+| Pusher Swarm       | Min/R/1 + drug/toxin | Exposes biomorphs to drug/toxin.                                |
+| Specimen Container |        Min/1         | Holds samples in stasis conditions.                             |
+| Tools (Kit)        |        Min/1         | Portable, applies to specific skill.                            |
+| Twitch (5 doses)   |       Min/R/1        | −20 actions, SOM Check vs. incapacitation.                      |
 
 ### Hacker
 
