@@ -19,7 +19,7 @@ Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Ch
 ### Firewall: Operações em Solavia
 
 - **Dante** :: Hacker Genético Venusiano
-- **Hex** :: Atravessador Assincro Lunar
+- **Hex** :: Atravessadora Assincro Lunar
 - **Qi** :: Hack-Ativista Barsoomiano
 - **Sava** :: Freelancer de Operações Especiais
 
