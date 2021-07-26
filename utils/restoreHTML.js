@@ -21,9 +21,14 @@ function readDirectory(dir) {
 }
 
 function processFile(file) {
-    contents = fs.readFileSync(file, 'utf8');
-    let result = contents.replace(tagsRE, replace)
     let target = path.join(outputDir, path.relative(sourceDir, file));
+    if (path.extname(file) != ".md") {
+        fs.copyFileSync(file, target)
+        process.stdout.write("-");
+        return;
+    }
+    let contents = fs.readFileSync(file, 'utf8');
+    let result = contents.replace(tagsRE, replace)
     fs.mkdirSync(path.dirname(target), { recursive: true });
     fs.writeFileSync(target, result);
     process.stdout.write(".");

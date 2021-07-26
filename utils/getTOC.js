@@ -43,6 +43,9 @@ function processFile(file) {
     if (!/^\d\d\-/.test(filename)) {
         return "";
     }
+    if (path.extname(file) != ".md") {
+        return "";
+    }
     contents = fs.readFileSync(path.resolve(file), 'utf8');
     // remove blockquote headers
     contents = contents.replace(blockquoteRE, '');

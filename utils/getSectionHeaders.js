@@ -28,6 +28,9 @@ function processFile(file) {
     var specials = /[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~’]/g
     let result = '';
     // just process files start with ##-
+    if (path.extname(file) != ".md") {
+        return "";
+    }
     let filename = path.basename(file);
     if (!/^\d\d\-/.test(filename)) {
         return "";

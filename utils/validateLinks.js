@@ -21,6 +21,9 @@ function readDirectory(dir) {
 }
 
 function processFile(file) {
+    if (path.extname(file) != ".md") {
+        return "";
+    }
     contents = fs.readFileSync(path.resolve(file), 'utf8');
     let links = contents.matchAll(linkRE);
     for (const l of links) {

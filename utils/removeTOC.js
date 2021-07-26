@@ -23,6 +23,9 @@ function readDirectory(dir) {
 
 function processFile(file) {
     if (!path.basename(file).startsWith("00-")) return;
+    if (path.extname(file) != ".md") {
+        return "";
+    }
     contents = fs.readFileSync(file, 'utf8');
     let index = contents.indexOf(tocMarker);
     if (index == -1) return;

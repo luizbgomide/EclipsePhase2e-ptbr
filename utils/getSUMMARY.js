@@ -22,9 +22,12 @@ function readDirectory(dir) {
 function processFile(file) {
     let filename = path.basename(file);
     if (filename == summaryFile) return "";
+    let relative_path = path.posix.relative(sourceDir, file);
+    if (path.extname(file) != ".md") {
+        return "";
+    }
     let contents = fs.readFileSync(path.resolve(file), 'utf8');
     let title = contents.match(/^\# (.+)$/m);
-    let relative_path = path.posix.relative(sourceDir, file);
     if (filename.startsWith("00-")) {
         return `- [${title[1]}](${relative_path})\n`;
     }

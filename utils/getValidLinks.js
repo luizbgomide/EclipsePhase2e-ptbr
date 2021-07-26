@@ -26,13 +26,16 @@ function processFile(file) {
     var whitespace = /\s/g
     var specials = /[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~’]/g
     let result = '';
+    let relative_path = path.posix.relative(fakeOrigin, file);
+    if (path.extname(file) != ".md") {
+        return `${relative_path}\n`;
+    }
     contents = fs.readFileSync(path.resolve(file), 'utf8');
     // contents = contents.replace(blockquoteRE, '');
     let headers = contents.matchAll(headerRE);
     for (const h of headers) {
         let level = h[1].length;
         let slug = h[2].toLowerCase().trim().replace(specials, '').replace(whitespace, '-');
-        let relative_path = path.posix.relative(fakeOrigin, file);
         if (level == 1) {
             // if (file.startsWith("00-")) {
             //     result += `- [${h[2]}](${relative_path})\n`;
