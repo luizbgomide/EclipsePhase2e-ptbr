@@ -1,6 +1,6 @@
 # Arquétipos de Personagem
 
-Os personagens são definidos por suas perícias e sua reputação. O grupo como um todo precisa de uma amplo leque de perícias para superar os desafios colocados contra eles. Estes podem incluir coletar recursos, conquistar aliados, pesquisar, infiltrar (ou proteger) sistemas da mesh, reparar ou improvisar uma ferramenta crítica, combater, e aplicar o que aprenderam para chegar a uma solução. As perícias que o grupo deve possuir podem ser mais ou menos agrupadas como combate, social, técnico e conhecimento. Estes grupos estabelecem os quatro grande arquétipos de Eclipse Phase — o combatente, o malandro, o técnico (ou hacker) e o cientista (ou artista). Em grupos menores, os PJs podem querer preencher múltiplos arquétipos enquanto minimizam a sobreposição. Em grupos maiores, os personagens se beneficiam mais da especialização. Os jogadores devem se coordenar para evitar especialidades que se sobreponham demais, mas especialidades diferentes na mesma área podem criar multiplicadores de força.
+Os personagens são definidos por suas perícias e sua reputação. O grupo como um todo precisa de uma amplo leque de perícias para superar os desafios colocados contra eles. Estes podem incluir coletar recursos, conquistar aliados, pesquisar, infiltrar (ou proteger) sistemas da mesh, reparar ou improvisar uma ferramenta crítica, combater, e aplicar o que aprenderam para chegar a uma solução. As competências que o grupo deve possuir podem ser mais ou menos agrupadas como combate, social, técnico e conhecimento. Estes grupos estabelecem os quatro grandes arquétipos de Eclipse Phase — o combatente, o malandro, o técnico (ou hacker) e o cientista (ou artista). Em grupos menores, os PJs podem querer preencher múltiplos arquétipos enquanto minimizam a sobreposição. Em grupos maiores, os personagens se beneficiam mais da especialização. Os jogadores devem se coordenar para evitar especialidades que se sobreponham demais, mas especialidades diferentes na mesma área podem criar multiplicadores de força.
 
 Cada um dos arquétipos abaixo lista pacotes de perícia de [Carreiras](../04/05-step-2-carrer.md) e [Interesses](../04/06-step-3-interest.md) sugeridos para serem escolhidos durante a criação de personagem.
 
@@ -48,7 +48,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Malandro, **Interesse:** Artista/Ícone ou Influenciador
+**Carreira:** Malandro, **Interesse:** Artista/Ícone ou Socializador
 
 <!-- CLEANED /blockquote -->
 
@@ -56,7 +56,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Agente Infiltrado ou Malandro, **Interesse:** Influenciador ou Ladino
+**Carreira:** Agente Infiltrado ou Malandro, **Interesse:** Socializador ou Ladino
 
 <!-- CLEANED /blockquote -->
 
@@ -68,7 +68,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED /blockquote -->
 
-**Hackers Mentais:** Através da perícia em psicocirurgia ou truques psíquicos, o personagem remove as camadas da mente do alvo, para deixá-la vazia ou reconstruí-la como bem entender. Os hackers mentais são úteis em qualquer equipe investigativa por sua habilidade de isolar segredos, mas também em equipes de alto estresse por sua perícia em resolver os traumas de seus aliados.
+**Hackers Mentais:** Através da perícia em psicocirurgia ou truques psíquicos, o personagem remove as camadas da mente do alvo, para deixá-la vazia ou reconstruí-la como bem entender. Os hackers mentais são úteis em qualquer equipe investigativa por sua habilidade de isolar segredos, mas também em equipes de alto estresse por sua perícia em resolver os traumas dos seus aliados.
 
 <!-- CLEANED blockquote class="indent" -->
 
@@ -80,7 +80,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Hacker ou Investigador, **Interesse:** Influenciador ou Ladino
+**Carreira:** Hacker ou Investigador, **Interesse:** Socializador ou Ladino
 
 <!-- CLEANED /blockquote -->
 
@@ -88,7 +88,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hardware ou software. O técnico é o herói quando o suporte vital está acabando ou a IA ficou hostil. Durante o combate, o técnico pode desligar as ferramentas do inimigo ou fornecer observadores para os personagens de combate. Os personagens técnicos mais comuns são:
 
-**Hackers:** Os hackers são críticos por sua capacidade de obter dados durante uma investigação. Gravações de câmeras, lifelogs esquecidos e manifestos de cargas ilegais em depósitos abandonados, todos contém sujeiras esperando para serem escadavas. O hacker também se mantém ocupado arrumando a bagunça do seu próprio grupo, apagando registros em câmeras e pegadas digitais. Em combate hackers são letais. Contanto que sua equipe arranje algum tempo, os hackers podem ejetar os pentes das armas, travar a mira automática dos sistemas de segurança, abrir escotilhas atrás dos inimigos, ou até mesmo desativar sintemorfos ofensivos.
+**Hackers:** Os hackers são críticos por sua capacidade de obter dados durante uma investigação. Gravações de câmeras, lifelogs esquecidos e manifestos de cargas ilegais em depósitos abandonados, todos contém sujeiras esperando para serem escavadas. O hacker também se mantém ocupado arrumando a bagunça do seu próprio grupo, apagando registros em câmeras e pegadas digitais. Em combate hackers são letais. Contanto que sua equipe arranje algum tempo, os hackers podem ejetar os pentes das armas, travar a mira automática dos sistemas de segurança, abrir escotilhas atrás dos inimigos, ou até mesmo desativar sintemorfos ofensivos.
 
 <!-- CLEANED blockquote class="indent" -->
 
@@ -116,13 +116,13 @@ O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hard
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Sucateiro, **Interesse:** Artista/Ícone ou Influenciador
+**Carreira:** Sucateiro, **Interesse:** Artista/Ícone ou Socializador
 
 <!-- CLEANED /blockquote -->
 
 ## Conhecimento
 
-Perícias de conhecimento são as específicas de uma missão. Desbravadores precisão que o xenoarqueólogo analise os artefatos recuperados. O químico é recrutado para identificar a nova droga nas ruas. As funções mais comuns incluem:
+As perícias de Saber são as mais específicas em uma missão. Desbravadores precisão que o xenoarqueólogo analise os artefatos recuperados. O químico é recrutado para identificar a nova droga nas ruas. As funções mais comuns incluem:
 
 **Hackers Genéticos:** Hackers genéticos criam animais, morfos e bactérias personalizadas. Os hackers genéticos geralmente podem fazer a função de um médico, mas eles também são essenciais na compreensão do cadáver alienígena, da biopraga e da besta exsurgente. Quando têm tempo e um laboratório, eles podem até mesmo curar qualquer doença que estiver atacando o habitat (ou, no grupo apropriado, criar sua própria ameaça mais devastadora para liberar).
 

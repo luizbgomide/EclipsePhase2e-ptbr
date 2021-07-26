@@ -38,7 +38,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Bioconservadores:** Um movimento anti-tecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
-- **Projeto:** O arquivo do desenho digital usado para nanofabricação.
+- **Modelo:** O arquivo do projeto digital usado para nanofabricação.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
 - **Bot:** Robô. Um casco sintético pilotado por ILA.
 - **Ricochete:** Um biomorfo otimizado para microgravidade.
@@ -75,7 +75,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
 - **Desligamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
-- **Dispositivo:** Uma peça específica de hardware.
+- **Dispositivo:** Um aparelho específico.
 - **Digimorfo:** O tipo padrão mais básico de infomorfo.
 - **Casa de Bonecas:** Um fornecedor de alto padrão de morfos sob medida.
 - **Regras de Domínio:** As regras que regem a física e o funcionamento de um simulespaço de realidade virtual.
@@ -101,7 +101,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Extrassolar:** Fora do Sistema Solar.
 - **The Eye:** A rede social e de compartilhamento de dados interna da Firewall.
 - **Malandro:** Um negociador ou socializador.
-- **Factors:** Uma espécie de fungo gelatinoso evoluído, os únicos alienígenas sapientes vivos que a transumanidade encontrou até agora.
+- **Factores:** Uma espécie de fungo gelatinoso evoluído, os únicos alienígenas sapientes vivos que a transumanidade encontrou até agora.
 - **A Queda:** A guerra com as TITANs que devastaram a Terra e quase extinguiram a transumanidade.
 - **Longiprojeção:** Comunicação intrassolar usando tecnologias clássicas de comunicação (rádio, laser, etc.) e teletransporte quântico.
 - **Longicargueiro:** Transportador espacial de longa distância.
@@ -143,7 +143,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
 - **Colmeia:** Um nanofabro especializado que mantém um nanoenxame.
 - **Host:** Dispositivos pessoais da mesh. Pode executar um único infomorfo.
-- **Júpiter/Netuno Quente:** Um gigante gasoso ou de gelo cuja órbita migrou para perto de sua estrela, aumentando sua temperatura.
+- **Júpiter/Netuno Quente:** Um gigante gasoso ou de gelo cuja órbita migrou para perto da sua estrela, aumentando sua temperatura.
 - **Conselho de Hipercorps:** As maiores hipercorporações que controlam o Consórcio Planetário.
 - **Hiperelite:** Os ricos e abastados.
 - **Anão Gelado:** Um tipo de planeta anão distante composto de gelo.
@@ -211,7 +211,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Neurodiversidade:** A aceitação de neurologias atípicas.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
-- **Novacaranguejo:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacrab:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **Casco Nuestro:** Um hab de casco que utiliza raios e aros simétricos para ter estabilidade.
 - **Oligarcas:** Os poderosos ricos imortais.
 - **Olimpiano:** Um biomorfo aprimorado para aptidão física e atletismo.
@@ -267,7 +267,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Servidor:** Grandes dispositivos multiusuários. Pode executar múltiplos infomorfos.
 - **Serviço:** Um app executado em um dispositivo remoto na nuvem em vez de localmente.
 - **Shanzhai:** A cópia/falsificação de mercadorias.
-- **Mutável:** Um morfo prod otimizado para alterar sua aparência.
+- **Moldável:** Um morfo prod otimizado para alterar sua aparência.
 - **Carcaça:** Uma forma sintética; usado para bots, veículos e sintemorfos.
 - **Casco:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
 - **Garimpeiros:** Habitantes de Mercúrio.
@@ -281,7 +281,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Tecnofurtividade:** A arte de se mover invisível aos sistemas de vigilância.
 - **Truque:** Um poder psi.
 - **Serpentoide:** Um sintemorfo tipo cobra.
-- **Animal Esperto:** Um animal parcialmente elevado.
+- **Animal Inteligente:** Um animal parcialmente elevado.
 - **Farejar:** Interceptar o tráfego sem fio da mesh.
 - **Solarianos:** Habitantes da corona solar.
 - **Souk:** Bazares cobertos e áreas de mercado entre domos marcianos.
@@ -314,19 +314,19 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Transumano:** Um humano extensivamente modificado.
 - **Troianos:** Asteroides/luas que compartilham a mesma órbita de um planeta ou lua maior, mas seguem cerca de 60 graus à frente ou atrás nos pontos de Lagrange L4 (Gregos) e L5 (Troianos). Troianos normalmente se referem aos asteroides nos pontos de Lagrange de Júpiter, mas Marte, Saturno, Netuno e outros corpos também têm troianos. Veja também _Gregos_.
 - **Elevado:** Uma espécie de animal geneticamente aprimorada até a sapiência.
-- **Vac-Operário:** Um trabalhador que trabalha no vácuo.
+- **Peão de Vácuo:** Um operário que trabalha no vácuo.
 - **Vapor:** Uma emulação de mente falhada ou um forque/informorfo danificado.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
-- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
+- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente encriptadas por privacidade/segurança.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.
 - **Ware:** Implantes e aprimoramentos, incluindo bioware, cyberware, hardware, meshware e nanoware.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
-- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela habilidades psi de assincros.
+- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
 - **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **ADM:** Arma de Destruição em Massa.
 - **Verme:** Um assincro exsurgente.
-- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações de suas experiências.
+- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.

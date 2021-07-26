@@ -1,6 +1,6 @@
 # Lista Completa de Ações da Mesh
 
-Todas as ações são ações complexas a menos que acompanhadas por um \[R\] para ações rápidas e \[T\] para ações de tarefas. Se você não tiver privilégios de acesso que permitam a ação, ela requer um Teste de Hackeamento.
+Todas as ações são ações complexas a menos que acompanhadas por um \[R\] para ações rápidas e \[T\] para ações de tarefa. Se você não tiver privilégios de acesso que permitam a ação, ela requer um Teste de Hackeamento.
 
 ## Ações Universais
 
@@ -9,9 +9,9 @@ Ações normalmente disponíveis para todos os usuários.
 <!-- CLEANED div class="stat-list" -->
 
 - **Acessar Outro Sistema:** Autenticar e logar. Cria um console de conta.
-- **Aplicar Tag:** Marque uma pessoa, lugar ou coisa física com uma e-tag de RA.
+- **Aplicar Etiqueta:** Marque uma pessoa, lugar ou coisa física com uma etiqueta entóptica de RA.
 - **Comunicar:** Conversar por email, texto, voz ou vídeo com outros online.
-- **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
+- **Encriptar/Desencriptar:** Encriptar ou desencriptar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 - **Filtrar Névoa de RA:** Remover a "névoa" importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
 - **Emitir Comando:** Dar um único comando para um dispositivo escravo, ILA ou bot teleoperado (ou grupo).
@@ -22,10 +22,10 @@ Ações normalmente disponíveis para todos os usuários.
 - **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Escanear Sinais Sem Fio:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
-- **Proteger Software:** Proteger ativamente software em [combate na mesh](../13/14-mesh-combat.md).
+- **Proteger Software:** Proteger ativamente um software num [combate na mesh](../13/14-mesh-combat.md).
 - **Camuflar Sinais Sem Fio:** Ocultar sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu informorfo para outro sistema.
-- **Interromper Software:** Eliminar um processo de software menor.
+- **Interromper Software:** Matar o processo de um software menor.
 - **Alternar Tema de RA:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
 - **Ativar Modo Privativo:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
 - **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
@@ -33,7 +33,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
 - **Ver Apps:** Ver quais apps estão disponíveis e/ou sendo executados.
 - **Ver Perfil:** Ver o perfil público na rede social e os níveis de rep de alguém dentro do alcance.
-- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Conhecimento.
+- **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Saber.
 - **Ver Status do Sistema:** Determinar a integridade do sistema, processos em andamento, alertas de segurança, etc.
 
 <!-- CLEANED /div -->
@@ -79,11 +79,11 @@ Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalha
 
 <!-- CLEANED div class="stat-list" -->
 
-- **(T) Quebrar Criptografia:** Descriptografar um arquivo criptografado ([Criptoanálise](../13/05-authentication-and-encryption.md#codebreaking)).
+- **(T) Quebrar Criptografia:** Desencriptar um arquivo encriptado ([Criptoanálise](../13/05-authentication-and-encryption.md#codebreaking)).
 - **Controlar Ware:** Manipular um ware do alvo.
 - **Desativar Mecanismos de Segurança:** Anular controles de segurança e alarmes.
 - **Editar Fluxo de RA:** Bloquear ou alterar a entrada de RA.
-- **Eliminar Rastros:** Editar logs e remover rastros de seus hacks.
+- **Eliminar Rastros:** Editar logs e remover rastros dos seus hacks.
 - **Forçar Reautenticação:** Quando farejar, quebre um link para capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 - **Ocultar Arquivo ou Processo:** Esconder um arquivo/processo dos outros (oposto com Teste de Pesquisa com −30).
 - **Debilitar os Sentidos:** Distrair com sobrecarga de RA. Teste de Interface, modificador −10.

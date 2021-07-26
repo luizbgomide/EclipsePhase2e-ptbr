@@ -19,9 +19,9 @@ Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Ch
 ### Firewall: Operações em Solavia
 
 - **Dante** :: Hacker Genético Venusiano
-- **Hex** :: Atravessador Assincro Lunar
+- **Hex** :: Atravessadora Assincro Lunar
 - **Qi** :: Hack-Ativista Barsoomiano
-- **Sava** :: Freelance de Operações Especiais
+- **Sava** :: Freelancer de Operações Especiais
 
 <!-- CLEANED /blockquote -->
 
@@ -29,7 +29,7 @@ Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Ch
 
 ### Firewall: Operações em Raiavia
 
-- **Chi** :: Hacker Mental & Influenciador
+- **Chi** :: Hacker Mental & Socializador
 - **Killjoy** :: Quebra-Galho Anarquista
 - **Njál** :: Hacker Titaniano
 - **Zahiri** :: Especialista em Segurança Marginal
@@ -55,17 +55,17 @@ A equipe de _Operações de Desbravamento_ é Astika, Jinx, Shrike e Whisper. Um
 
 <!-- CLEANED /blockquote -->
 
-## Campanha Criminosa
+## Campanha Criminal
 
 Às vezes, a atração da aventura precisa de um pouco de incentivo financeiro. Esta campanha gira em torno de um bando de criminosos, independentes ou associados a um cartel maior, focado na acumulação de créditos e poder. Algumas vezes isso exige discrição, para manter os ativos secretos e a operação protegida. Outras vezes, isso significa tirar um habitat da órbita e vê-lo queimar na queda. A equipe está focada na eficiência em obter lucros.
 
-O cenário criminoso mudou drasticamente desde a Queda. Biohackers controlam genes terminais que forçam pessoas a pagarem taxas de assinatura para evitar a falência de seus corpos. Forquestradores roubam backups de investidores para extraírem senhas de acesso. Espreitadores das zonas vendem tecnologias de guerra TITAN ou amostras de contágios exsurgentes voláteis por um bom lucro. Tríades competem com o Night Cartel em disputas de território para vender suas novas experiências projetadas radicais. Em muitos lugares, os sindicatos fornecem os únicos serviços sociais disponíveis. As tríades, especificamente, contrabandeiam equipamentos médicos para clínicas clandestinas e fornecem milícias para lutar contra ameaças externas. Os PJs criminosos podem se ver lutando por um governo popular contra a força do Consórcio assim como surrupiando resíduos alienígenas caríssimos de colecionadores ricaços.
+O cenário criminoso mudou drasticamente desde a Queda. Biohackers controlam genes terminais que forçam pessoas a pagarem taxas de assinatura para evitar a falência dos seus corpos. Forquestradores roubam backups de investidores para extraírem senhas de acesso. Espreitadores das zonas vendem tecnologias de guerra TITAN ou amostras de contágios exsurgentes voláteis por um bom lucro. Tríades competem com o Night Cartel em disputas de território para vender suas novas experiências projetadas radicais. Em muitos lugares, os sindicatos fornecem os únicos serviços sociais disponíveis. As tríades, especificamente, contrabandeiam equipamentos médicos para clínicas clandestinas e fornecem milícias para lutar contra ameaças externas. Os PJs criminosos podem se ver lutando por um governo popular contra a força do Consórcio assim como surrupiando resíduos alienígenas caríssimos de colecionadores ricaços.
 
-Os personagens de _Operações Criminosas Guanxi_, uma equipe criada no submundo, são Amaru Timoti, Berk, Elis e Pivo.
+Os personagens de _Operações Criminais Guanxi_, uma equipe criada no submundo, são Amaru Timoti, Berk, Elis e Pivo.
 
 <!-- CLEANED blockquote -->
 
-### Operações Criminosas Guanxi
+### Operações Criminais Guanxi
 
 - **Amaru Timoti** :: Atravessador do Nine Lives
 - **Berk** :: Infovida Capanga & Encarnador de Drone
