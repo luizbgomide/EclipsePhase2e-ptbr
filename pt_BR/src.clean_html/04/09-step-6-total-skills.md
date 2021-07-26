@@ -24,7 +24,7 @@ As descrições completas das perícias estão em [Perícias](../04/18-skills.md
 
 **Enganação (SAG):** Mentira, blefe, golpismo, enrolação, imitação, atuação e outras tentativas de dissimular ou esconder a verdade com palavras e gestos.
 
-**Perícia Exótica (Área):** Uma categoria genérica para perícias menos comuns, como treinamento de animais, contorcionismo, disfarce, música, prestidigitação ou arremesso de facas.
+**Perícia Exótica (Área):** Uma categoria genérica para perícias menos comuns, como trato animal, contorcionismo, disfarce, música, prestidigitação ou arremesso de facas.
 
 **Evasão (REF):** A habilidade de sair do caminho do perigo.
 
