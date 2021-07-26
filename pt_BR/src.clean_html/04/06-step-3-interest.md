@@ -6,16 +6,16 @@ Seu interesse proporciona a você um pacote de perícias, assim como o seu antec
 
 Este será o seu último pacote de perícias, embora você possa adquirir perícias extras ou ajustar as que você já adquiriu em passos posteriores.
 
-## Treinador de Animais
+## Tratador de Animais
 
 Você aprendeu a criar, treinar e cuidar de animais, especialmente animais inteligentes, parcialmente elevados.
 
-|                                    |    |
-|:---------------------------------- | --:|
-| Perícia Exótica: Manejo de Animais | 40 |
-| Medicina: Veterinária              | 40 |
-| Provocação                         | 20 |
-| Saber: Animais Inteligentes        | 40 |
+|                               |    |
+|:----------------------------- | --:|
+| Perícia Exótica: Trato Animal | 40 |
+| Medicina: Veterinária         | 40 |
+| Provocação                    | 20 |
+| Saber: Animais Inteligentes   | 40 |
 
 ## Artista/Ícone
 
@@ -194,16 +194,16 @@ Se você preferir determinar o seu interesse aleatoriamente, role 1d10:
 |   1–5   | Role no Grupo 1 |
 |  6–10   | Role no Grupo 2 |
 
-| Rolagem |       Grupo 1        |      Grupo 2       |
-|:-------:|:--------------------:|:------------------:|
-|    1    | Treinador de Animais |    Socializador    |
-|    2    |    Artista/Ícone     |     Paramédico     |
-|    3    |       Assincro       |       Piloto       |
-|    4    |      Comandante      |       Ladino       |
-|    5    |      Combatente      |     Hedonista      |
-|    6    |    Perito Forense    |    Espaçonauta     |
-|    7    |       Faz-Tudo       |     Estudante      |
-|    8    |      Encarnador      | Sobrevivencialista |
-|  9–10   |       Rerrolar       |      Rerrolar      |
+| Rolagem |       Grupo 1       |      Grupo 2       |
+|:-------:|:-------------------:|:------------------:|
+|    1    | Tratador de Animais |    Socializador    |
+|    2    |    Artista/Ícone    |     Paramédico     |
+|    3    |      Assincro       |       Piloto       |
+|    4    |     Comandante      |       Ladino       |
+|    5    |     Combatente      |     Hedonista      |
+|    6    |   Perito Forense    |    Espaçonauta     |
+|    7    |      Faz-Tudo       |     Estudante      |
+|    8    |     Encarnador      | Sobrevivencialista |
+|  9–10   |      Rerrolar       |      Rerrolar      |
 
 <!-- CLEANED /blockquote -->
