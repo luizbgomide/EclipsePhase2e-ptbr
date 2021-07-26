@@ -50,7 +50,7 @@ Assume-se que todos os personagens estejam conectados na mesh. Isso permite que 
 
 ## Nanotecnologia
 
-Com a nanotecnologia, você pode fabricar quase qualquer produto sob demanda. A nanotecnologia resultou em novos materiais e mercadorias, desde roupas à prova de manchas até robôs de tamanho molecular. Os habitats isolados mineram minerais e outros insumos de matéria-prima para converter em bens de consumo de luxo e eletrônicos complexos. A escassez existe, mas por causa dos detentores de direitos autorais e governos usando força armada para defender a velha ordem econômica. Os habitats que aceitam a economia pós-escassez são mais propensos a verem o capitalismo como ineficiente e abusivo.
+Com a nanotecnologia, você pode fabricar quase qualquer produto sob demanda. A nanotecnologia resultou em novos materiais e mercadorias, desde roupas à prova de manchas até robôs de tamanho molecular. Os habitats isolados mineram minerais e outros insumos de matéria-prima para converter em bens de consumo de luxo e eletrônicos complexos. A escassez existe, mas por causa dos detentores de copyright e governos usando força armada para defender a velha ordem econômica. Os habitats que aceitam a economia pós-escassez são mais propensos a verem o capitalismo como ineficiente e abusivo.
 
 A nanotecnologia não está isenta de riscos. Ela encolhe o campo da guerra ao microscópio. Nuvens invisíveis de robôs podem grampear salas, sabotar máquinas ou desmontar pessoas. Enquanto isso, habitats que permitem uma liberdade da escassez lidam com seus cidadãos fabricando armas ou conduzindo experimentos mortais. Habitats inteiros foram destruídos por colocar confiança demais em pessoas criativas.
 
@@ -60,7 +60,7 @@ Os riscos existenciais são ameaças e vulnerabilidades com o potencial de exter
 
 ## Exploração Alienígena
 
-Exploradores descobriram enigmáticos portões capazes de teletransportar desbravadores através da galáxia. Esses são os portões de pandora, cheios de emoção e terror para os desbravadores que os utilizam. Conforme a transumanidade mapeava as fronteiras da Via Láctea, ela descobriu restos de civilizações alienígenas. Os grandes cemitérios mostraram que atingir a era especial é fácil, mas sobrevivê-la é raro. A exceção à extinção é uma raça mercante chamada de Factors, cujas naves visitam o Sistema Solar para vender xenoartefatos a preços exorbitantes. Os Factors se recusaram a compartilhar o segredo de sua própria sobrevivência, deixando a transumanidade para aprender sozinha.
+Exploradores descobriram enigmáticos portões capazes de teletransportar desbravadores através da galáxia. Esses são os portões de pandora, cheios de emoção e terror para os desbravadores que os utilizam. Conforme a transumanidade mapeava as fronteiras da Via Láctea, ela descobriu restos de civilizações alienígenas. Os grandes cemitérios mostraram que atingir a era especial é fácil, mas sobrevivê-la é raro. A exceção à extinção é uma raça mercante chamada de Factores, cujas naves visitam o Sistema Solar para vender xenoartefatos a preços exorbitantes. Os Factores se recusaram a compartilhar o segredo da sua própria sobrevivência, deixando a transumanidade para aprender sozinha.
 
 ## Facções
 
