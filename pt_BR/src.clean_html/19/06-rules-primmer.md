@@ -21,7 +21,7 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 - Se a sua rolagem exceder o número alvo, ela é um falha. Se a rolagem falhada for menor que 66, ela é uma _falha maior_. Se ela for menor que 33, ela conta como duas falhas maiores.
 - Duplas (00, 11, etc.) equivalem a um _sucesso_ ou _falha crítica_.
 - 00 é sempre um sucesso crítico. 99 é sempre uma falha crítica.
-- Se você não tiver a perícia apropriada, você pode _recorrer_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
+- Se você não tiver a perícia apropriada, você pode _apelar_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
 - Se você falhar, você pode tentar novamente (a menos que o MJ não permita), com um modificador −10 cumulativo.
 
 <!-- CLEANED /blockquote -->
@@ -68,7 +68,7 @@ Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles 
 
 - Um personagem é escolhido como o ator primário; ele faz o teste.
 - Cada personagem ajudante adiciona um modificador +10 (máx. + 30).
-- Para testes de perícias de Conhecimento, Técnicas ou Veiculares, os personagens auxiliares devem possuir a perícia em 40+ para fornecer um bônus de trabalho em equipe.
+- Para testes de perícias de Saber, Técnicas ou Veiculares, os personagens auxiliares devem possuir a perícia em 40+ para fornecer um bônus de trabalho em equipe.
 
 ## Turnos de Ação
 
@@ -116,7 +116,7 @@ Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa red
 - **c-rep:** CivicNet — Consórcio Planetário, Constelação Estrela d'Alva, Aliança Lunar-Lagrange, República Joviana, outras hipercorps & capitalistas.
 - **f-rep:** Fame & rede da mídia — socialites, artistas, metacelebidades, jornalistas, glitterati.
 - **g-rep:** Guanxi — tríades, cartéis, gangues e outros grupos criminosos.
-- **i-rep:** The Eye — Rede interna secreta da Firewall.
+- **i-rep:** The Eye — rede interna secreta da Firewall.
 - **r-rep:** Research Network Affiliates — argonautas, cientistas, tecnologistas, pesquisadores.
 - **x-rep:** ExploreNet — desbravadores, colonizadores de exoplanetas.
 
@@ -225,7 +225,7 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 **Testes de Hackeamento são testes opostos, sua perícia Infoseg vs. a Firewall do alvo.**
 
 - Quando for hackear um alvo, há dois métodos que você pode utilizar:
-  - **Ataques de Força Bruta** são rápidos e barulhentos. Eles exigem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema, mas também _status descoberto_ (o sistema está ciente de sua invasão).
+  - **Ataques de Força Bruta** são rápidos e barulhentos. Eles exigem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema, mas também _status descoberto_ (o sistema está ciente da sua invasão).
   - **Invasões Sutis** são discretas, mas levam tempo. São ações de tarefa com prazo de 1 hora. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema e _status anônimo_ (o sistema está alheio à sua presença).
 - Cada sucesso maior no Teste de Hackeamento aumenta seus privilégios em um passo (de usuário para segurança para administrador).
 - Um sucesso crítico no Teste de Hackeamento aumenta o seu status um passo (de descoberto para anônimo para oculto).
