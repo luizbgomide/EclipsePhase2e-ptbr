@@ -12,7 +12,7 @@ Tierslay queria acreditar em seu irmão. Ela ansiava por um pingo de esperança.
 
 Já em Los Angeles, Taernen deu a ela o suficiente para sobreviver por algumas semanas. Depois disso, ela lutou por sustento fora dos muros do enclave, entre milhões de outros refugiados que eram mantidos na linha por drones armados que enchiam os céus. Não fosse por sua criatividade programando e pelos hacks ilegais que exigiam sua habilidade, ela teria morrido de fome.
 
-Taernen vivia além das concertinas, entre os privilegiados, entre aqueles que trocaram de corpo e diziam ter derrotado a morte. Sua lábia e suas conexões questionáveis lhe garantiram um estilo de vida que poucos com sua criação aprovariam, e menos ainda teriam acesso — as ampliações, a pilha cortical, os backups frequentes. A infância deles foi mergulhada em fanatismo católico e uma adesão rígida ao bioconservadorismo, doutrinados pela pregação incessante de sua mãe, “Seu corpo é um presente precioso de Deus. Poluí-lo com bugigangas criadas pelo homem é um pecado imperdoável.” Com Tierslay a doutrina pegou, firmemente enraizada na sua visão de mundo. Taernen a ignorou de cara no início da adolescência, o que o jogou para fora do casebre da família. Um ano depois, a mãe deles foi atingida por uma bala perdida no caminho de volta do mercado, outra estatística da violência de gangues. Tierslay tinha nove anos. Ela segurava a mão da mãe quando aconteceu.
+Taernen vivia além das concertinas, entre os privilegiados, entre aqueles que trocaram de corpo e diziam ter derrotado a morte. Sua lábia e suas conexões questionáveis lhe garantiram um estilo de vida que poucos com sua criação aprovariam, e menos ainda teriam acesso — as ampliações, a pilha cortical, os backups frequentes. A infância deles foi mergulhada em fanatismo católico e uma adesão rígida ao bioconservadorismo, doutrinados pela pregação incessante da sua mãe, “Seu corpo é um presente precioso de Deus. Poluí-lo com bugigangas criadas pelo homem é um pecado imperdoável.” Com Tierslay a doutrina pegou, firmemente enraizada na sua visão de mundo. Taernen a ignorou de cara no início da adolescência, o que o jogou para fora do casebre da família. Um ano depois, a mãe deles foi atingida por uma bala perdida no caminho de volta do mercado, outra estatística da violência de gangues. Tierslay tinha nove anos. Ela segurava a mão da mãe quando aconteceu.
 
 Taernen continuou com a ideia. “A Terra é uma perda de tempo, Tierslay. Todas as corps com influência, visão ou ambição já fugiram. Pra Marte, pra Lua, porra, até pra Vênus. Estes são os lugares onde gente como nós pode viver de verdade. E quando eu for, eu não vou voltar. Você vai ficar onde? Mendigando nas ruas com aquele patife do Monte porque você está atolada na tradição?”
 
@@ -90,7 +90,7 @@ Tierslay pensou em apenas correr. Teria sido a coisa mais inteligente a fazer. E
 
 ### Só por Garantia :: Na Quebrada :: 13 de Junho, AQ 0
 
-Tierslay chegou no endereço que Taernen lhe tinha dado pouco antes do pôr-do-sol, uma caixa de concreto sem janelas numa das zonas neutras guetizadas entre enclaves. Armazéns invadidos e vilas de barracas se espalhavam por quilômetros em todas as direções sobre o asfalto ardente. Tierslay estava familiarizada com o miasma incapacitante do ciclo da pobreza — esse fantasma estava sempre rondando. Apesar dela relutar em admitir, durante anos isso foi desgastando sua fé. Como tanta miséria e morte poderiam ser um plano divino? O rosto de uma criança olhou para ela através de uma abertura da barraca, como seu próprio passado a vendo através dela, outro sinal para atender ao chamado de seu irmão para escapar.
+Tierslay chegou no endereço que Taernen lhe tinha dado pouco antes do pôr-do-sol, uma caixa de concreto sem janelas numa das zonas neutras guetizadas entre enclaves. Armazéns invadidos e vilas de barracas se espalhavam por quilômetros em todas as direções sobre o asfalto ardente. Tierslay estava familiarizada com o miasma incapacitante do ciclo da pobreza — esse fantasma estava sempre rondando. Apesar dela relutar em admitir, durante anos isso foi desgastando sua fé. Como tanta miséria e morte poderiam ser um plano divino? O rosto de uma criança olhou para ela através de uma abertura da barraca, como seu próprio passado a vendo através dela, outro sinal para atender ao chamado do seu irmão para escapar.
 
 Um sinal pintado acima da única porta do edifício mostrava um mago maníaco com chapéu pontiagudo eletrizando as palavras _Pinball Museum_. Tierslay bateu. Após uma longa espera, o suficiente para se questionar por que concordou com a oferta de Taernen, uma oferta que mudaria totalmente a forma como via o universo e o seu lugar nele. Então a porta se abriu revelando uma figura esbelta num macacão roxo escuro colado ao corpo. A cabeça inteira do sintemorfo era um globo ocular detalhado e injetado com uma íris amarela no centro.
 
@@ -102,7 +102,7 @@ A cabeça de olho gigante finalmente se mexeu, inclinando ligeiramente. “Eu so
 
 Ukku conduziu Tierslay através de um labirinto de máquinas coloridas do século 20 com luzes piscando, estalos e cliques analógicos, e promessas de bolas grátis. Apesar do nervosismo pelo procedimento iminente, estas engenhocas simples de outra época a fizeram sorrir. Ela já havia visto fliperamas em filmes antigos, mas nunca pessoalmente, e a presença de tantas juntas num só lugar, literalmente centenas, era como desenterrar uma tumba desconhecida cheia de tesouros.
 
-No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, este com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de varredura se desdobrou como pétalas em torno de sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
+No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, este com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de varredura se desdobrou como pétalas em torno da sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
 
 “Isso está acontecendo tão rápido”, disse Tierslay. “Não sei o que você está fazendo. Nem sei quem vou me tornar.”
 
@@ -126,7 +126,7 @@ A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponí
 
 Seu corpo parecia estranho, meio rígido. As sensações de temperatura, do tecido contra a pele, pareciam erradas. Ela não conseguia sentir a pele ou os músculos se esticando. Ela controlava seus membros, mas as amarras seguravam-na firmemente.
 
-Tierslay tentou prestar atenção em sua respiração, na movimentação de seu peito, na sensação de ar suave e frio através de suas narinas, mas não havia nada lá. Os processos pareciam não mais existir. _Grite por ajuda_, ela pensou, mas ela não conseguia sentir seus lábios ou suas cordas vocais. Toda a biologia de sua cabeça e seu rosto não estavam lá. Não dormentes, mas inexistentes.
+Tierslay tentou prestar atenção em sua respiração, na movimentação do seu peito, na sensação de ar suave e frio através das suas narinas, mas não havia nada lá. Os processos pareciam não mais existir. _Grite por ajuda_, ela pensou, mas ela não conseguia sentir seus lábios ou suas cordas vocais. Toda a biologia da sua cabeça e seu rosto não estavam lá. Não dormentes, mas inexistentes.
 
 A voz desconhecida retornou, agradável. \[Um grito é desnecessário, Tierslay. Alertei o técnico que o seu upload está completo e a plena consciência foi restaurada. Ele estará aqui em instantes para ajudá-la. Então podemos começar a nos familiarizar com este modelo de estojo específico.\]
 
@@ -136,7 +136,7 @@ Um homem flutuou no campo de visão limitado de Tierslay. A pele dele era branca
 
 A voz interrompeu. \[Não há necessidade de ter medo, Tierslay. Você está segura aqui. A instalação de Badal tem @-rep acima de 95% da flotilha. De acordo com as resenhas, ela é a melhor escolha para aqueles buscando uma experiência de reencape tranquila. Você deveria se apresentar.\]
 
-Apesar de suas desconfianças, pela primeira vez, Tierslay decidiu ouvir a voz. “Meu nome é Tierslay.”
+Apesar das suas desconfianças, pela primeira vez, Tierslay decidiu ouvir a voz. “Meu nome é Tierslay.”
 
 “Eu sei. Vamos tirar estas amarras. Deixar você solta.” As amarras se afrouxaram e retraíram. Tierslay se viu flutuando livremente, sem saber que lado era para cima. Seus braços balançaram conforme ela começou a girar.
 
@@ -190,11 +190,11 @@ Tierslay tinha ouvido falar de musas. Elas eram comuns entre os privilegiados. E
 
 “O homem que negociou o seu upload e seu morfo. Uma rep péssima, mas bastante persuasivo. Ainda não sei porque aceitei com o acordo”, Badal encolheu os ombros. “Ele está à sua espera fora das instalações.” Uma trilha virtual surgiu, marcando o caminho.
 
-Quando Tierslay se puxou através do portal ladeado de bambu que levava para fora da serenidade fechada do Retorno Zentrópico, a transição a sobrecarregou. Em todas as direções, multidões de pessoas encapadas em corpos exóticos flutuando e se misturando. Risos, gritos e música a engoliram, temperadas com os aromas de comida e coisas estranhas. Estruturas, arranjos de equipamento, e coisas que ela não sabia identificar agarradas a todas as superfícies. Ela não sabia dizer se era uma festa, uma exposição de arte ou outra coisa. Não havia para cima, nem para baixo, só a agitação da vida em todas as direções. Convites e propostas coloridos surgiram em sua visão antes de sua musa filtrá-los.
+Quando Tierslay se puxou através do portal ladeado de bambu que levava para fora da serenidade fechada do Retorno Zentrópico, a transição a sobrecarregou. Em todas as direções, multidões de pessoas encapadas em corpos exóticos flutuando e se misturando. Risos, gritos e música a engoliram, temperadas com os aromas de comida e coisas estranhas. Estruturas, arranjos de equipamento, e coisas que ela não sabia identificar agarradas a todas as superfícies. Ela não sabia dizer se era uma festa, uma exposição de arte ou outra coisa. Não havia para cima, nem para baixo, só a agitação da vida em todas as direções. Convites e propostas coloridos surgiram em sua visão antes da sua musa filtrá-los.
 
 \[Bem-vindo ao Setor Echo Blue\], disse a voz. \[Isso já foi parte de um habitat de luxo na órbita da Terra com gravidade por rotação, mas agora a flotilha o reboca em zero-g. Várias facções da escória a utilizam como mercado ao ar livre/ponto social.\]
 
-Tierslay agarrou-se ao trilho brilhante como uma corda salva-vidas, seguindo-o através do caos até seu benfeitor, um homem magricela com mechas dispersas de longos cabelos pretos. O nome dela pairou acima da cabeça do homem em RA, piscando fortemente. Tierslay foi se enfiando através do fluxo de pessoas e se aproximou do homem, desconfiada, mas também sem saber o que mais fazer. A parte inferior de seu rosto estava ondulada e brilhante com escarificação desenhadas, e seus olhos eram discos pretos vazios. Em sua cabeça, ela o imaginou com uma capa, como um Drácula Espacial Retrô.
+Tierslay agarrou-se ao trilho brilhante como uma corda salva-vidas, seguindo-o através do caos até seu benfeitor, um homem magricela com mechas dispersas de longos cabelos pretos. O nome dela pairou acima da cabeça do homem em RA, piscando fortemente. Tierslay foi se enfiando através do fluxo de pessoas e se aproximou do homem, desconfiada, mas também sem saber o que mais fazer. A parte inferior do seu rosto estava ondulada e brilhante com escarificação desenhadas, e seus olhos eram discos pretos vazios. Em sua cabeça, ela o imaginou com uma capa, como um Drácula Espacial Retrô.
 
 O seu sorriso já tinha as presas. “Ei, maninha. Há quanto tempo.”
 
@@ -266,7 +266,7 @@ O polvo olhou para cima contorcendo os braços com frustração. “Já viu um d
 
 “Um. Programação complicada, mas consegui quebrar. Mas isso foi há muito tempo.” _Semana passada_, ela pensou.
 
-“Eu conheço um colecionador em Ceres, sempre ansioso para comprar modelos vintage pré-Queda, mas não consigo fazer essa coisa funcionar. Você acha que pode dar uma olhadinha? Ah, me chamo Pivo”, disse o neo-polvo, enrolando um de seus braços na mão de Tierslay. Ela se surpreendeu por não ter se afastado.
+“Eu conheço um colecionador em Ceres, sempre ansioso para comprar modelos vintage pré-Queda, mas não consigo fazer essa coisa funcionar. Você acha que pode dar uma olhadinha? Ah, me chamo Pivo”, disse o neo-polvo, enrolando um dos seus braços na mão de Tierslay. Ela se surpreendeu por não ter se afastado.
 
 Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo deu um toque, o que elevou a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
 
@@ -294,13 +294,13 @@ A risada rouca de Berk estava em sintonia perfeita com a música extravagante. �
 
 “Fizzee66?”
 
-“O melhor e mais recente narcótico. Programado por um convidado. Está vendo aquele grupo ali, dançando no Drip?” Berk estendeu um de seus braços superiores para indicar um grupo de sintemorfos perto de onde a pista de dança se curvava para cima e fora da vista, atrás de um chuvisco azul neon. Seus corpos se contorciam em êxtase, indo direto de pontes para giros de cabeça, girando de bananeiras lentamente caindo em espacates. “Eles estão rodando fizzee66 faz dois dias seguidos. Você deveria tentar. Prometo que ele não vai desapontar.”
+“O melhor e mais recente narcótico. Programado por um convidado. Está vendo aquele grupo ali, dançando no Drip?” Berk estendeu um dos seus braços superiores para indicar um grupo de sintemorfos perto de onde a pista de dança se curvava para cima e fora da vista, atrás de um chuvisco azul neon. Seus corpos se contorciam em êxtase, indo direto de pontes para giros de cabeça, girando de bananeiras lentamente caindo em espacates. “Eles estão rodando fizzee66 faz dois dias seguidos. Você deveria tentar. Prometo que ele não vai desapontar.”
 
 “Não tenho dinheiro.”
 
 A cara do oni sorriu. “Nem eu. Esta é uma economia de oferta, Tierslay. O dinheiro é para oligarcas e serviçais.” Após uma reverência, Berk virou-se e saiu para outra conversa.
 
-A musa de Tierslay avisou-a que o executável estava limpo e o que uma pesquisa rápida na malha revelou sobre o arquivo. Diziam que os efeitos do narcoalgoritmo eram muito agradáveis. _Estou gostando desse negócio de musa_, ela pensou e sua musa respondeu com uma suave tremulação de alegria nas bordas de sua visão. _Foda-se, vamos rodar isso._
+A musa de Tierslay avisou-a que o executável estava limpo e o que uma pesquisa rápida na malha revelou sobre o arquivo. Diziam que os efeitos do narcoalgoritmo eram muito agradáveis. _Estou gostando desse negócio de musa_, ela pensou e sua musa respondeu com uma suave tremulação de alegria nas bordas da sua visão. _Foda-se, vamos rodar isso._
 
 Um formigamento percorreu o corpo sintético de Tierslay, começando pela cabeça e passando agradavelmente por todo os sistemas, e então dos pés voltando para cima. A sensação imitava arrepios surgindo na pele e então se esvaindo num calor prazeroso, ampliado mil vezes. Cada viagem extática por seu corpo começava com as pancadas graves intercaladas do som da batida. Conexão completa com o ritmo. Tierslay deslizou para o Drip, até o grupo que Berk apontou antes, e se juntou a diversão deles pelos próximos dois dias, nunca parando de se mexer, Fizzee66 fazendo sua mágica o tempo todo.
 
@@ -340,7 +340,7 @@ No nono dia, Tierslay chegou em seu quarto no Tall Red.
 
 Ela flutuou até a vidraça uns metros além da sua porta e olhou para a área central do Tall Red, para os quatro pilares enormes revestidos de veludo vermelho ondulante, a característica que dava o nome ao distrito. Corpos se agitavam, abaixo, acima, lentos ou apressados, alguns sintéticos, alguns de carne, formas que ela nunca havia visto ou poderia ter imaginado. _Este lugar está vivo_, pensou ela. Sem sol escaldante e implacável, sem asfalto ardente, sem patifarias para sobreviver. O desespero parecia magicamente não existir. De alguma forma, ela tinha escapado do inferno. Os anarquistas que ela conheceu na Terra eram revolucionários apáticos e sem deus. Até vir para cá, ela nunca tinha entendido o objetivo da luta deles. Agora estava começando a fazer sentido.
 
-Doutrinação bateu e Tierslay começou a fazer o sinal da cruz por gratidão, mas ela parou em “em nome do” quando seus dedos metálicos tocaram em sua testa metálica. Ela olhou para o seu reflexo, apenas um fantasma no vidro. Os detalhes de seu rosto estranho se turvavam sobre a atividade ao fundo do outro lado. Ela podia sentir a musa silenciosa absorvendo seu desejo, e a característica da sua visão mudou. Tudo além do vidro se escureceu e o reflexo de Tierslay se polarizou em foco. Pela primeira vez, ela viu seu rosto. Olhos vazios, feitos sem expressão. Sem curvas do nariz, apenas metal liso escovado. Sua boca era uma malha oval fina, imóvel; sem sorrisos, beicinhos, lambidas ou beijinhos. Era apenas um emissor de ondas sonoras. Num profundo segundo, uma vida de crença se dissipou no nada, sua alma esmagou-se na não existência. Agora ela era Tierslay, o ser artificial, formado pelas ambições dos transumanos, e não pelas mãos de qualquer deus. A revelação fez ela rir. _Vida. Que confusão fodida e esplendorosa._
+Doutrinação bateu e Tierslay começou a fazer o sinal da cruz por gratidão, mas ela parou em “em nome do” quando seus dedos metálicos tocaram em sua testa metálica. Ela olhou para o seu reflexo, apenas um fantasma no vidro. Os detalhes do seu rosto estranho se turvavam sobre a atividade ao fundo do outro lado. Ela podia sentir a musa silenciosa absorvendo seu desejo, e a característica da sua visão mudou. Tudo além do vidro se escureceu e o reflexo de Tierslay se polarizou em foco. Pela primeira vez, ela viu seu rosto. Olhos vazios, feitos sem expressão. Sem curvas do nariz, apenas metal liso escovado. Sua boca era uma malha oval fina, imóvel; sem sorrisos, beicinhos, lambidas ou beijinhos. Era apenas um emissor de ondas sonoras. Num profundo segundo, uma vida de crença se dissipou no nada, sua alma esmagou-se na não existência. Agora ela era Tierslay, o ser artificial, formado pelas ambições dos transumanos, e não pelas mãos de qualquer deus. A revelação fez ela rir. _Vida. Que confusão fodida e esplendorosa._
 
 Uma libélula do tamanho de um gato gordo passou por Tierslay e desceu pela passagem estreita apenas para voltar de ré alguns momentos depois. Ela pairava atrás dela, asas metálicas brilhantes e iridescentes zumbindo.
 
@@ -348,7 +348,7 @@ Uma libélula do tamanho de um gato gordo passou por Tierslay e desceu pela pass
 
 Zum. Foi-se Bixbee.
 
-Tierslay cruzou a entrada de seu novo lar. Ela pairou até a única mobília de seu quarto simples, uma estrutura como casulo para segurá-la no lugar. O programa do quarto falou, perguntando o que ela desejava experimentar. “Chuva”, disse ela, e o ambiente mudou, o quarto se escureceu enquanto nuvens de RA pingavam água imaginária para o outro lado do quarto. Ela suspirou, diminuiu sua visão para a meditativa, e se concentrou no som da água caindo. Tierslay buscou sua musa, ativou sua voz e perguntou: _Como você deseja ser chamada?_
+Tierslay cruzou a entrada do seu novo lar. Ela pairou até a única mobília do seu quarto simples, uma estrutura como casulo para segurá-la no lugar. O software do quarto falou, perguntando o que ela desejava experimentar. “Chuva”, disse ela, e o ambiente mudou, o quarto se escureceu enquanto nuvens de RA pingavam água imaginária para o outro lado do quarto. Ela suspirou, diminuiu sua visão para a meditativa, e se concentrou no som da água caindo. Tierslay buscou sua musa, ativou sua voz e perguntou: _Como você deseja ser chamada?_
 
 \[Essa decisão é sua, Tierslay. Como você prefere?\]
 
@@ -420,7 +420,7 @@ Apressado, Ukku saiu da pista de dança e correu para uma cabine na seção Drip
 
 Elis deu um toque em Bixbee e ele desatou a zunir, transbordando alegria, como sempre. “Tierslay! Esse seu algo novo, deixa os pensamentos fofinhos igual marshmallows que não consigo parar de lamber. Vai inundar o Tall Red. Uau! Você é uma lenda —”
 
-Elis interrompeu Bixbee, com um tom dominante e desconhecido de Tierslay. O tom de um superior, não um amigo. “Calma aí, Bix. Hora de trabalhar.” Bixbee colocou o último narco de Tierslay em suspensão e o farfalhar de suas asas diminuiu para uma velocidade razoável. “Qual é o problema, Elis?”
+Elis interrompeu Bixbee, com um tom dominante e desconhecido de Tierslay. O tom de um superior, não um amigo. “Calma aí, Bix. Hora de trabalhar.” Bixbee colocou o último narco de Tierslay em suspensão e o farfalhar das suas asas diminuiu para uma velocidade razoável. “Qual é o problema, Elis?”
 
 “Há uma cabine no canto de trás do Drip. O Globo Ocular tá lá, conversando com alguém. Eu vou acessar seus dados sensoriais enquanto você pega pra mim um visual do estranho. Na manha e escondido.”
 
@@ -478,7 +478,7 @@ Quando Tierslay chegou na cabine, Taernen segurava Bixbee na mesa pelas asas e U
 
 “Já passaram meses, Taernen. Eu tinha descartado você. Onde você esteve?”
 
-“Por aí. Fazendo o que eu faço. Fiz algumas aquisições. Evitei alguns problemas inesperados. Mas agora estou aqui. Para começar uma vida nova. Assim como você. Não é pra isso que serve este lugar?” O Taernen deu um sorriso falso. Os olhos vazios de seu morfo não entregavam nada.
+“Por aí. Fazendo o que eu faço. Fiz algumas aquisições. Evitei alguns problemas inesperados. Mas agora estou aqui. Para começar uma vida nova. Assim como você. Não é pra isso que serve este lugar?” O Taernen deu um sorriso falso. Os olhos vazios do seu morfo não entregavam nada.
 
 “Acho que é uma maneira de ver as coisas. Não tive escolha.”
 
@@ -574,9 +574,9 @@ De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a c
 
 Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos prods saíram nus se seus tanques de suspensão, bestas ferozes famintas por carne. O caos tomou conta do depósito de carga. Armas disparavam em todas as direções. Corpos tombavam em queda livre em meio de glóbulos de sangue e gel nutritivo. Gritos competiam com urros e rosnados. Taernen vangloriou-se e riu, sua armadilha funcionou.
 
-Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a porta dos fundos que Tierslay colocou em cada instância de seus narcoalgoritmos.
+Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a porta dos fundos que Tierslay colocou em cada instância dos seus narcoalgoritmos.
 
-Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou de sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
+Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou da sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
 
 Um redemoinho de devastação abriu espaço em torno círculo negro entrelaçado conforme ele começava a vibrar com força e violência. O chiado logo se tornou um ensurdecedor zumbido que levava cada tímpano no porão de carga à beira do colapso. Mãos nos ouvidos, pessoas encolhidas, armas flutuando soltas.
 
