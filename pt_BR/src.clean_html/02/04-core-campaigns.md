@@ -20,7 +20,7 @@ Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Ch
 
 - **Dante** :: Hacker Genético Venusiano
 - **Hex** :: Atravessadora Assincro Lunar
-- **Qi** :: Hack-Ativista Barsoomiano
+- **Qi** :: Hack-Ativista Barsoomiana
 - **Sava** :: Freelancer de Operações Especiais
 
 <!-- CLEANED /blockquote -->
@@ -49,8 +49,8 @@ A equipe de _Operações de Desbravamento_ é Astika, Jinx, Shrike e Whisper. Um
 ### Operações de Desbravamento
 
 - **Astika** :: Engenheiro de Sobrevivência & Xenoarqueólogo
-- **Jinx** :: Elevado Especialista em Reconhecimento
-- **Shrike** :: Segurança Mercenário & Operador de Drone
+- **Jinx** :: Elevada Especialista em Reconhecimento
+- **Shrike** :: Mercenária de Segurança & Operadora de Drone
 - **Whisper** :: Cientista-Explorador Assincro
 
 <!-- CLEANED /blockquote -->
@@ -68,7 +68,7 @@ Os personagens de _Operações Criminais Guanxi_, uma equipe criada no submundo,
 ### Operações Criminais Guanxi
 
 - **Amaru Timoti** :: Atravessador do Nine Lives
-- **Berk** :: Infovida Capanga & Encarnador de Drone
+- **Berk** :: Infovida Capanga & Encarnadora de Drone
 - **Elis** :: Técnica da Escória
 - **Pivo** :: Elevado Sucateiro
 
