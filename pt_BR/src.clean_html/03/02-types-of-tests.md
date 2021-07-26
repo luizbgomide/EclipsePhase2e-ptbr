@@ -19,7 +19,7 @@ Os testes opostos são usados quando você se opõe diretamente a um PNJ ou outr
 Quando fizer um teste oposto, os dois lados fazem um teste conforme descrito acima. Os modificadores são aplicados para o lado que tiver uma vantagem (uma negociação em que uma das partes tem informações privilegiadas) ou para ambos os lados se igualmente afetados (dois corredores que competem em uma superfície escorregadia).
 
 - Se um oponente tiver sucesso e o outro falhar, o que teve sucesso vence a disputa.
-- Se ambos os lados rolarem abaixo de seus números alvo, quem rolou mais alto vence e tem sucesso. O outro ou falha ou tem sucesso mas perde.
+- Se ambos os lados rolarem abaixo dos seus números alvo, quem rolou mais alto vence e tem sucesso. O outro ou falha ou tem sucesso mas perde.
 - Se ambos os lados empatarem ou falharem, ou os oponentes permanecem num impasse, ou a rolagem ou perícia mais alta vence e tem sucesso (escolha do MJ).
 
 Sucessos críticos vencem rolagens mais altas em testes opostos. Se ambos os lados tiverem sucesso, mas o que rolou menos tiver um crítico, ele teve uma reviravolta tirando uma vitória das garras da derrota. Se ambos os oponentes rolarem sucessos críticos, a rolagem mais alta (ou perícia se empatarem) vence com um crítico, o perdedor falha ou tem sucesso mas perde.
