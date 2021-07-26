@@ -1,17 +1,17 @@
 # Paradas
 
-Seu personagem adquire pontos em várias paradas durante a criação de personagem e ao encapar um morfo. Essas paradas refletem as capacidades transumandas do seu personagem: inteligência ampliada, proeza física aprimorada, carisma elevado. Elas reforçam seus talento inerente e permitem que você enfrente desafios, supere obstáculos e realize feitos impressionantes.
+Seu personagem adquire pontos em várias paradas durante a criação de personagem e ao encapar um morfo. Essas paradas refletem as capacidades transumanas do seu personagem: inteligência ampliada, proeza física aprimorada, carisma elevado. Elas reforçam seus talento inerente e permitem que você enfrente desafios, supere obstáculos e realize feitos impressionantes.
 
 Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus para o seu personagem.
 
-- A parada de _Inspiração_ está vinculada às capacidades mentais: Cognição, Intuição e suas perícias vinculadas.
-- A parada de _Manha_ está vinculada às interações sociais: Sagacidade, Vontade e suas perícias vinculadas. Também pode ser usada em Testes de Rep e Infecção.
-- A parada de _Vigor_ está vinculada aos esforços físicos: Reflexos, Somática e suas perícias vinculadas.
+- _Inspiração_ é uma parada vinculada às capacidades mentais: Cognição, Intuição e suas perícias vinculadas.
+- _Manha_ é uma parada vinculada às interações sociais: Sagacidade, Vontade e suas perícias vinculadas. Também pode ser usada em Testes de Rep e Infecção.
+- _Vigor_ é uma parada vinculada aos esforços físicos: Reflexos, Somática e suas perícias vinculadas.
 - _Flex_ é uma parada curinga. Ela pode ser usada para afetar rolagens de dados de qualquer teste e para controle narrativo.
 
 ## Usando Paradas
 
-Você pode gastar pontos de suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
+Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
 
 - **Antes da Rolagem:** Ignorar todos os modificadores do teste.
 - **Antes da Rolagem:** Adicionar +20 ao número alvo do teste.
@@ -72,7 +72,7 @@ Alguns efeitos, como drogas e truques psi, fornecem bônus temporários em parad
 
 <blockquote>
 
-Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem ware de neuroquim, graças ao seu pacote de equipamento de soldado, que dá a ele +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem Flex 1 do ego.
+Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem ware de neuroquim, graças ao seu pacote de equipamentos de soldado, que dá a ele +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem Flex 1 do ego.
 
 Enquanto se aproxima de um ninho de ex-humanos em um asteroide remoto, Zahiri gasta 1 de Inspiração para obter +20 de bônus na rolagem de Percepção. Infelizmente ele falha em dois Testes de Queda Livre enquanto atravessa várias fendas no asteroide, obtendo um 71 e um 85 contra sua Queda Livre 60. Em ambos os casos, ele gastou um ponto de Vigor para inverter a rolagem, obtendo um 17 e um 58 respectivamente, tendo sucesso em seus testes. Uma vez lá dentro, ele faz uma recarga curta, rola 1d6 e obtêm um 6, recuperando todos os 3 pontos que gastou.
 

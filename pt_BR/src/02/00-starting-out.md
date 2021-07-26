@@ -30,7 +30,7 @@
 - [Campanhas Principais](../02/04-core-campaigns.md)
   - [Campanha da Firewall](../02/04-core-campaigns.md#campanha-da-firewall)
   - [Campanha de Desbravamento](../02/04-core-campaigns.md#campanha-de-desbravamento)
-  - [Campanha Criminosa](../02/04-core-campaigns.md#campanha-criminosa)
+  - [Campanha Criminal](../02/04-core-campaigns.md#campanha-criminal)
 - [Arquétipos de Personagem](../02/05-character-archetypes.md)
   - [Combate](../02/05-character-archetypes.md#combate)
   - [Social](../02/05-character-archetypes.md#social)

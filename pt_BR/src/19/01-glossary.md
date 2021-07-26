@@ -18,7 +18,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Anarquistas:** Uma facção que se opõe ao poder e à hierarquia e adotam ações individuais e coletivas auto-organizadas.
 - **Anelinos:** Habitantes dos anéis de Saturno.
 - **Anfíbes:** Uma espécie alienígena sapiente extinta que outrora habitava o exoplaneta Gota.
-- **Animal Esperto:** Um animal parcialmente elevado.
+- **Animal Inteligente:** Um animal parcialmente elevado.
 - **App:** Software que executa uma função específica para um usuário.
 - **AQ:** Antes da Queda (usado para datação referencial).
 - **Aracnoide:** Um sintemorfo robótico tipo aranha.
@@ -89,7 +89,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
 - **Dia-Zero:** Uma brecha previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Digimorfo:** O tipo padrão mais básico de infomorfo.
-- **Dispositivo:** Uma peça específica de hardware.
+- **Dispositivo:** Um aparelho específico.
 - **Domo:** Habitat pressurizado de superfície temporário ou permanente.
 - **DQ:** Depois da Queda (usado para datação referencial).
 - **Drone:** Um robô controlado através de teleoperação (em vez de IA).
@@ -120,7 +120,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Exoplaneta:** Um planeta em outro sistema estelar.
 - **Exsurgente:** Alguém infectado pelo vírus exsurgente e provavelmente transformado em uma criatura alienígena.
 - **Extrassolar:** Fora do Sistema Solar.
-- **Factors:** Uma espécie de fungo gelatinoso evoluído, os únicos alienígenas sapientes vivos que a transumanidade encontrou até agora.
+- **Factores:** Uma espécie de fungo gelatinoso evoluído, os únicos alienígenas sapientes vivos que a transumanidade encontrou até agora.
 - **Fantasma:** Um biomorfo de combate transumano otimizado para furtividade.
 - **Fantoche:** Alguém com a mente hackeada e controlado por outro.
 - **Farejar:** Interceptar o tráfego sem fio da mesh.
@@ -181,7 +181,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.
 - **JRAM:** Um jogo de realidade aumentada multijogador massivo.
 - **Junta:** O regime militar que dirige a República Joviana.
-- **Júpiter/Netuno Quente:** Um gigante gasoso ou de gelo cuja órbita migrou para perto de sua estrela, aumentando sua temperatura.
+- **Júpiter/Netuno Quente:** Um gigante gasoso ou de gelo cuja órbita migrou para perto da sua estrela, aumentando sua temperatura.
 - **Lapso:** A perda de tempo e/ou memórias no reencape.
 - **LEO:** Órbita terrestre baixa (_Low Earth Orbit_), 150-2.000&nbsp;km de altitude.
 - **Liberdade Morfológica:** A autonomia para modificar e aprimorar o seu próprio corpo.
@@ -206,11 +206,12 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
 - **Microgravidade:** Zero-g ou ambientes quase sem peso.
 - **Minifat:** Um nanofabro em escala industrial.
+- **Modelo:** O arquivo do projeto digital usado para nanofabricação.
+- **Moldável:** Um morfo prod otimizado para alterar sua aparência.
 - **Morfo de Aço:** Um sintemorfo de alto padrão com capacidades físicas aprimoradas.
 - **Morfo:** Um corpo físico. Também chamado de capa, carcaça, traje, jaqueta, forma.
 - **Mundano:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Musa:** Uma ILA como assistente pessoal.
-- **Mutável:** Um morfo prod otimizado para alterar sua aparência.
 - **Mutualista:** Uma subfacção extropiana que apoia cooperativas.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
@@ -229,7 +230,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Névoa:** Dados e anúncios importunos de RA que atrapalham sua entóptica.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
-- **Novacaranguejo:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacrab:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **Nuvem de Oort:** Uma área a cerca de um ano-luz do sol, povoada predominantemente por cometas.
 - **O Ferro-Velho:** A camada de sucata e detritos na órbita baixa da Terra.
 - **O Movimento:** O movimento barsoomiano para libertar Marte.
@@ -242,6 +243,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Partição Temporária:** Um depósito temporário secreto de equipamentos.
 - **Pax Familae:** O cartel criminoso composto por uma pessoa, Claudia Ambelina, e seus clones e forques.
 - **Pé-Vermelho:** Um marciano rural, geralmente um barsoomiano. Também chamado de vermelho.
+- **Peão de Vácuo:** Um operário que trabalha no vácuo.
 - **Pele:** Um morfo físico biológico. Também chamado de biomorfo, carne, corpo.
 - **Pilha Cortical:** Um implante que grava seu ego atualizado.
 - **Planeta Anão:** Entre asteroides e planetas, os anões são arredondados pela gravidade, mas não limparam suas órbitas de asteroides/detritos.
@@ -257,7 +259,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Privilégios:** As regras definindo o que uma conta pode fazer em um sistema.
 - **Procuradores:** Membros da estrutura interna da Firewall.
 - **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
-- **Projeto:** O arquivo do desenho digital usado para nanofabricação.
 - **Prometeanas:** Um grupo de SAIs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
 - **Psi-Gama:** Truques psi que afetam as mentes/fisiologias dos outros.
@@ -318,16 +319,15 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Truque:** Um poder psi.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.
 - **UAT:** Universidade Autônoma de Titã.
-- **Vac-Operário:** Um trabalhador que trabalha no vácuo.
 - **Vapor:** Uma emulação de mente falhada ou um forque/informorfo danificado.
 - **Verme:** Um assincro exsurgente.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **Vírus Exsurgente:** Um vírus multivetor espalhado durante a Queda que transforma as vítimas e subverte suas mentes.
-- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
+- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente encriptadas por privacidade/segurança.
 - **Vulto:** Um forque beta ou agente de uma SIA como um TITAN.
 - **Ware:** Implantes e aprimoramentos, incluindo bioware, cyberware, hardware, meshware e nanoware.
-- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela habilidades psi de assincros.
-- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações de suas experiências.
+- **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
+- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
 - **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.

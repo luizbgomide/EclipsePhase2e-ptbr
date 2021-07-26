@@ -1,6 +1,6 @@
 # Como Jogar
 
-Eclipse Phase é jogado como uma contação de histórias colaborativa que ocorre nas imaginações dos jogadores. O mestre do jogo (MJ) detalha o ambiente, representa os PNJs, julga as regras e prepara a cena para a aventura. Os jogadores assumem o papel de seus personagens e descrevem suas ações. Cada personagem é definido por um conjunto de características — perícias, traços, etc. — listados em sua ficha de personagem. Quando os personagens encontram dificuldades ou se envolvem em conflitos com PNJs, dados são utilizados para determinar o resultado.
+Eclipse Phase é jogado como uma contação de histórias colaborativa que ocorre nas imaginações dos jogadores. O mestre do jogo (MJ) detalha o ambiente, representa os PNJs, julga as regras e prepara a cena para a aventura. Os jogadores assumem o papel dos seus personagens e descrevem suas ações. Cada personagem é definido por um conjunto de características — perícias, traços, etc. — listados em sua ficha de personagem. Quando os personagens encontram dificuldades ou se envolvem em conflitos com PNJs, dados são utilizados para determinar o resultado.
 
 ## O Básico dos Dados
 
@@ -24,7 +24,7 @@ Apesar de você precisar rolar igual ou menos que o número alvo, você também 
 
 Os jogadores rolam os dados ao fazer testes para seus personagens; os MJs rolam para os PNJs. Às vezes, o MJ faz testes para PJs em segredo, para não alertar os jogadores para algo que os seus personagens não saberiam, como se eles veem ou não uma pista. É recomendável que MJs tenham uma cópia das fichas de personagem dos PJs a mão.
 
-Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentanto acalmar uma multidão — como uma única entidade. Neste caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](../03/01-how-to-play.md#teamwork).
+Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentando acalmar uma multidão — como uma única entidade. Neste caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](../03/01-how-to-play.md#teamwork).
 
 ## Dificuldade e Modificadores
 
@@ -32,7 +32,7 @@ Consertar um defeito comum em seu robô favorito não é tão difícil quanto re
 
 Modificadores são designados em múltiplos de dez, indo de +10 à +30 e −10 à −30, conforme indicado na tabela de Modificadores.
 
-Além do nível de desafio inerente ao teste, vários aspectos situacionais podem também influenciar o teste, como equipamentos de alta qualidade, condições ambientais ruims ou a saúde do personagem. Esses fatores também são representados como modificadores baseados em seu nível de severidade, conforme indicado na tabela Modificadores.
+Além do nível de desafio inerente ao teste, vários aspectos situacionais podem também influenciar o teste, como equipamentos de alta qualidade, condições ambientais ruins ou a saúde do personagem. Esses fatores também são representados como modificadores baseados em seu nível de severidade, conforme indicado na tabela Modificadores.
 
 Os MJs atribuem modificadores conforme for apropriado à situação. Se múltiplas circunstâncias afetam um teste, sugerimos enfaticamente que o MJ avalie a situação como um todo e aplique um único modificador com base no efeito total, em vez de perder tempo listando modificadores individuais. Nenhum conjunto de modificadores pode impactar um teste por mais que +/−60.
 
@@ -80,15 +80,15 @@ Os críticos têm mais impacto do que resultados maiores. Eles representam os mo
 
 Você é encorajado a inventar resultados críticos criativos conforme for apropriado para a situação. Se um crítico também um resultado maior, apenas o crítico se aplica.
 
-## Recorrendo
+## Apelação
 
-Se você não tiver a perícia necessária para fazer o teste, você pode usar os talentos inatos do personagem e _recorrer_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
+Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _apelar_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
 
-Não há nenhum modificador por recorrer num teste de perícia, mas sucessos críticos são ignorados.
+Não há nenhum modificador por apelar num teste de perícia, mas sucessos críticos são ignorados.
 
-Em alguns casos, o MJ pode permitir que você recorra à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Hardware poderia recorrer à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
+Em alguns casos, o MJ pode permitir que você apele à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia apelar à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
 
-O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível recorrer neles.
+O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível apelar neles.
 
 ## Trabalho em Equipe
 
@@ -96,4 +96,4 @@ Vários personagens podem cooperar em um teste, como empurrar para abrir uma por
 
 Apenas o personagem fazendo o teste pode usar [paradas](../03/05-pools.md) para afetar o teste.
 
-Para testes envolvendo [perícias](../04/18-skills.md) de Conhecimento, Técnicas ou Veiculares, os personagens ajudantes devem possuir a perícia testada em 40 ou mais para fornecer um bônus de trabalho em equipe.
+Para testes envolvendo [perícias](../04/18-skills.md) de Saber, Técnicas ou Veiculares, os personagens ajudantes devem possuir a perícia testada em 40 ou mais para fornecer um bônus de trabalho em equipe.

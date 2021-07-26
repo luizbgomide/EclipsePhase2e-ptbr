@@ -10,7 +10,7 @@
   - [Dificuldade e Modificadores](../03/01-how-to-play.md#dificuldade-e-modificadores)
   - [Resultados Maiores: Regra 33/66](../03/01-how-to-play.md#resultados-maiores-regra-3366)
   - [Críticos](../03/01-how-to-play.md#críticos)
-  - [Recorrendo](../03/01-how-to-play.md#recorrendo)
+  - [Apelação](../03/01-how-to-play.md#apelação)
   - [Trabalho em Equipe](../03/01-how-to-play.md#trabalho-em-equipe)
 - [Tipos de Testes](../03/02-types-of-tests.md)
   - [Testes de Sucesso](../03/02-types-of-tests.md#testes-de-sucesso)
