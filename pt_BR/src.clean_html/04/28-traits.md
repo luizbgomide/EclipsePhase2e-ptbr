@@ -19,7 +19,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Perspicácia](../04/28-traits.md#acumen)                            |  1/2/3   | +5 por nível em Verificações de COG.                                                                                                                                                                                        |
 | [Adaptabilidade](../04/28-traits.md#adaptability)                   |   2/4    | Reencape facilitado. +10 por nível em Testes de Integração e de Estresse de Reencape.                                                                                                                                       |
 | [Aliados](../04/28-traits.md#allies)                                |    4     | Um grupo apoia você. Um favor moderado gratuito por sessão.                                                                                                                                                                 |
-| [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Manejo de Animais e testes semelhantes.                                                                                                                                                             |
+| [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Trato Animal e testes semelhantes.                                                                                                                                                                  |
 | [Bom Senso](../04/28-traits.md#common-sense)                        |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                              |
 | [Compostura](../04/28-traits.md#composure)                          |    2     | +5 em LUC, +1 em Limiar de Trauma, +10 em Grau de Insanidade.                                                                                                                                                               |
 | [Contato](../04/28-traits.md#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                       |
@@ -44,7 +44,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Recursos](../04/28-traits.md#resources)                            | 2/4/6/8  | Riqueza para adquirir equipamentos. Veja o texto.                                                                                                                                                                           |
 | [Consciência Situacional](../04/28-traits.md#situational-awareness) |    1     | Sem modificadores de distração.                                                                                                                                                                                             |
 | [Visualização Espacial](../04/28-traits.md#spatial-visualization)   |    2     | +10 em Testes de Saber e Técnicos envolvendo visualização 3D.                                                                                                                                                               |
-| [Intrépído](../04/28-traits.md#stalwart)                            |  1/2/3   | +10 por nível em Verificações de VON vs. medo.                                                                                                                                                                              |
+| [Bravura](../04/28-traits.md#stalwart)                              |  1/2/3   | +10 por nível em Verificações de VON vs. medo.                                                                                                                                                                              |
 | [Facilidade com Números](../04/28-traits.md#superior-numeracy)      |   2/4    | +10 por nível em Testes de Saber e Técnicos envolvendo matemática.                                                                                                                                                          |
 | [Zoosemiótica](../04/28-traits.md#zoosemiotics)                     |    1     | Sem modificadores ao usar psi em animais não ou parcialmente sapientes.                                                                                                                                                     |
 
@@ -102,7 +102,7 @@ Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como 
 
 **Traço de ▲ Ego • Custo de PP: 1**
 
-Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Manejo de Animais e outros testes de perícia para influenciar ou interagir com animais.
+Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Trato Animal e outros testes de perícia para influenciar ou interagir com animais.
 
 ### Bom Senso
 
@@ -162,7 +162,7 @@ Você se conecta instintivamente com os outros. Aplique +5 por nível em Verific
 
 **Traço de ▲ Ego • Custo de PP: 2**
 
-Você recebeu treinamento avançado em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Este traço não aumenta a perícia, ele apenas aumenta o máximo.
+Você recebeu treinamento extensivo em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Este traço não aumenta a perícia, ele apenas aumenta o máximo.
 
 ### Alto Desempenho
 
@@ -320,7 +320,7 @@ O morfo tem perícias latentes armazenadas em sua memória muscular ou como dado
 
 Você tem uma aptidão para conceitualizar dimensões, distâncias, volumes e formas. Você recebe um modificador +10 em testes de qualquer perícia de Saber ou Técnica envolvendo visualização 3D.
 
-### Intrépído
+### Bravura
 
 **Traço de ▲ Ego • Custo de PP: 1/2/3**
 
