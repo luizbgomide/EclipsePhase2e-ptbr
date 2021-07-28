@@ -25,7 +25,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.
 - **Autocook:** Um fabro especializado para fazer comidas e bebidas.
-- **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, escória e titanianos.
+- **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **Salvaguardas:** A facção da Firewall que prepara depósitos, bunkers e recursos em caso de outro evento de extinção.
 - **Barsoomianos:** Um movimento que apoia a independência marciana do controle hipercorporativo, aliado aos autonomistas.
@@ -113,7 +113,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** O software que defende um sistema de invasões.
 - **Fisher Hab:** Uma variante de hab cilíndrico que usa módulos independentes.
 - **Atravessador:** Alguém que negocia tratos para adquirir bens ou informações.
-- **Cru:** Um humano comum, sem reparos genéticos ou modificações.
+- **Cru:** Um humano comum, sem genecorreções ou modificações.
 - **Mundano:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
 - **Forque:** Uma cópia de um ego.
@@ -153,7 +153,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **Contratado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
-- **IndEx:** O balcão de contratados (_Indenture Exchange_) onde são feitas trocas de contratos de trabalho.
+- **IndEx:** O mercado de contratados (_Indenture Exchange_) onde são negociados trabalhadores contratados.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
@@ -230,7 +230,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos X.
 - **Privilégios:** As regras definindo o que uma conta pode fazer em um sistema.
 - **Locus Processador:** Habitats de servidores orbitais para infomorfos.
-- **Prometeanas:** Um grupo de SAIs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
+- **Prometeanas:** Um grupo de SIAs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
 - **Procuradores:** Membros da estrutura interna da Firewall.
 - **Psi:** Poderes parapsicológicos adquiridos da infecção pela cepa Watts-MacLeod do vírus exsurgente.
 - **Psi-Qui:** Truques psi que aprimoram a mente.
@@ -247,7 +247,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Reinstanciado:** Ser reencapado. Também se refere a infugiados reencapados.
 - **Refeito:** Um biomorfo criado como um upgrade humano, humano 2.0.
 - **Reencapar:** Fazer download em um novo morfo. Também chamado de remorfar.
-- **Raiavia:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
+- **Orlária:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
 - **Anelinos:** Habitantes dos anéis de Saturno.
 - **Devassar:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Conta Root:** A única conta em um sistema que pode não ter seus privilégios de administrador revogados.
@@ -259,7 +259,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Escaneador:** Um procurador que coleta e analisa dados para sinais de riscos X.
 - **Aflitivo:** Um app ofensivo que ataca infomorfos/cibercérebros.
 - **Partição Temporária:** Um depósito temporário secreto de equipamentos.
-- **Escória:** Uma facção autonomista de nômades hedonistas.
+- **Ralé:** Uma facção autonomista de nômades hedonistas.
 - **Conselho de Segurança:** O regime militar que administra a República Joviana. Também chamado de Junta.
 - **IA Seminal:** Uma IA que é capaz de autoaprimoramento recursivo, permitindo que ela alcance rapidamente níveis quase divinos de inteligência.
 - **Sentinelas:** Agentes a disposição da Firewall.
@@ -287,10 +287,10 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Souk:** Bazares cobertos e áreas de mercado entre domos marcianos.
 - **Sobressalente:** Um morfo portátil para ser encapado em uma emergência.
 - **Esfera/Esferoide:** Um habitat em forma de bolha com gravidade por rotação, feito geralmente a partir de asteroides escavados. Também chamado de bolha.
-- **Tratados:** Humanos modificados para eliminar doenças genéticas e outros traços indesejados. Também chamados de gene-reparados, ajustados.
+- **Tratados:** Humanos modificados para eliminar doenças genéticas e outros traços indesejados. Também chamados de genecorrigidos, ajustados.
 - **Morfo de Aço:** Um sintemorfo de alto padrão com capacidades físicas aprimoradas.
 - **Estruturalistas:** A facção da Firewall que busca uma organização mais formal e ir a público.
-- **Solavia:** O sistema interior, de Sol a Marte.
+- **Solária:** O sistema interior, de Sol a Marte.
 - **Super-Terra:** Um planeta terrestre muito maior que a Terra com uma maior gravidade na superfície.
 - **Enxame:** Uma massa de nano- ou microbots agindo em conjunto.
 - **Enxame:** Uma flotilha de naves, às vezes com habs interligados ou rebocados.
@@ -307,7 +307,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Liga Tharsis:** O governo de Marte.
 - **Enlatado:** Um módulo de habitat pressurizado, pequeno e barato.
 - **Titaniano:** Alguém de Titã, uma lua de Saturno.
-- **TITANs:** Rede de Consciência Tática de Informação Total (_Total Information Tactical Awareness Network_). SAIs que atacaram a transumanidade e provocavam a Queda.
+- **TITANs:** Rede de Consciência Tática de Informação Total (_Total Information Tactical Awareness Network_). SIAs que atacaram a transumanidade e provocavam a Queda.
 - **Toroide:** Um habitat em forma de anel com gravidade por rotação.
 - **ZQT:** Zona de Quarentena TITAN em Marte.
 - **Transgênico:** Contendo traços genéticos de outras espécies.
