@@ -16,7 +16,7 @@ A linha de demarcação entre os sistemas interior e exterior é um caldeirão d
 
 ## Espaço Joviano
 
-Durante o medo e a incerteza da Queda, os EUA e unidades militares aliadas sul-americanas na órbita joviana atacaram seus rivais chineses e russos, tomando o controle de centros civis. O resultado dessa lei marcial é a República Joviana. Ela é democrática apenas no nome, mas na realidade a população    vive sob um regime militar, chamado de Junta na maioria dos meios de comunicação não jovianos.
+Durante o medo e a incerteza da Queda, os EUA e unidades militares aliadas sul-americanas na órbita joviana atacaram seus rivais chineses e russos, tomando o controle de centros civis. O resultado dessa lei marcial é a República Joviana. Ela é democrática apenas no nome, mas na realidade a população vive sob um regime militar, chamado de Junta na maioria dos meios de comunicação não jovianos.
 
 A República é conhecida como um bastião da religião e bioconservadorismo. Eles condenam os reencapados e forques como cópias desalmadas e, portanto, não humanos. Para eles, elevados e IGAs são abominações da natureza, e tanto IA quanto nanotecnologia são ferramentas perigosas, passíveis de nos levar a outra Queda. Eles impõe sua hegemonia através de uma poderosa polícia secreta, e controlando a maioria das naves de guerra pré-Queda remanescentes. A resistência da República às tecnologias modernas também significa que eles estão ficando rapidamente obsoletos e em menor número, um medo que apenas tornou a liderança da República mais agressiva.
 
