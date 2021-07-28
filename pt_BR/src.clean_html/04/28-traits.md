@@ -384,7 +384,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
 | [Inexperiência no Mundo Real](../04/28-traits.md#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
 | [Comportamento Restrito](../04/28-traits.md#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
-| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basilisco.                          |
+| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basiliscos.                         |
 | [Timidez](../04/28-traits.md#timidity)                               |  1/2/3   | −5 por nível em Verificações de VON.                                                             |
 | [Vertigem de RV](../04/28-traits.md#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Verificação de SOM ou incapacitado.               |
 
@@ -545,7 +545,7 @@ Este traço só está disponível para biomorfos. Este morfo rejeita implantes q
 
 **Traço de ▲ Ego • Bônus de PP: 1**
 
-O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
+O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
 
 ### Indiferença
 
@@ -705,7 +705,7 @@ Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 **Traço de ▲ Ego • Bônus de PP: 1/2**
 
-O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basilisco.
+O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basiliscos.
 
 ### Alergia Grave
 
