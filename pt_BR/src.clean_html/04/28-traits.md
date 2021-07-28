@@ -545,7 +545,7 @@ Este traço só está disponível para biomorfos. Este morfo rejeita implantes q
 
 **Traço de ▲ Ego • Bônus de PP: 1**
 
-O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
+O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
 
 ### Indiferença
 
