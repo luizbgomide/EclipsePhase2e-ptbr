@@ -70,7 +70,7 @@
 - O conflito rapidamente sai fora de controle. O uso de armas nucleares, biológicas, químicas, digitais e nanotecnológicas são relatados por todos os lados.
 - Os Argonautas reúnem vários grupos de riscos X e IA para compartilhar recursos e ajudar na guerra contra a ameaça TITAN.
 - As TITANs se envolvem em massivos uploads forçados de mentes humanas.
-- Os primeiros relatos de infecções exsurgentes, transformações exsurgentes e hacks basilisco abalam a transumanidade.
+- Os primeiros relatos de infecções exsurgentes, transformações exsurgentes e hacks basiliscos abalam a transumanidade.
 - Países inteiros caem por TITANs, seus fantoches e exsurgentes. Ataques coordenados decapitam efetivamente a liderança de grandes governos, corporações e forças militares.
 - Face às grandes perdas, as Nações Unidas em exílio apelam para uma evacuação em massa da Terra. Os habitats fora da Terra são inundados de refugiados e infugiados.
 - Os ataques TITAN se expandem para outras partes do Sistema Solar, mais fortemente na Lua e em Marte. Muitos habitats caem.
