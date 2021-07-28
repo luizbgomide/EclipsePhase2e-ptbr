@@ -56,7 +56,7 @@ As áreas de Interesses incluem conhecimento especializado em qualquer tópico q
 
 Use áreas de Interesses sempre que precisar se lembrar ou usar conhecimento relacionado a esse assunto específico.
 
-- **Exemplos de Áreas:** Blogs de Reivindicadores, Celebridades, Cervejas Marcianas, Colônias em Exoplanetas, Conspirações, Economia das Tríades, Ex-Humanos, Facções Transumanas, Factores, Habitats Lunares, Jogatina, Jogos de Estratégia, Jogos RV, Modelos de Espaçonaves, Morfos, Políticas de Hipercorp, Submundo de XP, Tecnologia TITAN, Traficantes da Escória
+- **Exemplos de Áreas:** Blogs de Reivindicadores, Celebridades, Cervejas Marcianas, Colônias em Exoplanetas, Conspirações, Economia das Tríades, Ex-Humanos, Facções Transumanas, Factores, Habitats Lunares, Jogatina, Jogos de Estratégia, Jogos RV, Modelos de Espaçonaves, Morfos, Políticas de Hipercorp, Submundo de XP, Tecnologia TITAN, Traficantes da Ralé
 - **Especializações:** Conforme apropriado para a área
 
 <!-- CLEANED /div -->
@@ -86,13 +86,13 @@ Por exemplo, um grupo de jogadores novatos em Eclipse Phase poderiam não entend
 
 De forma similar, um grupo de personagens procurando invadir uma instalação poderia usar Saber: Segurança para avaliar suas defesas, Saber: Arquitetura para identificar pontos cegos de entrada, Saber: Esportes para planejar a infiltração em um momento quando os guardas provavelmente estarão distraídos, Saber: Tríades para identificar o grupo criminoso local que pode conseguir equipamentos de invasão, e Saber: Administração para ajudar a identificar um executivo do alto escalão que teria os códigos de segurança necessários. Quando usadas apropriadamente, essas perícias podem ser tão benéficas quanto as perícias Ativas utilizadas para invadir, ou até mais, pois o plano tem mais chances de sucesso por causa da preparação.
 
-Finalmente, perícias de Saber ajudam a dar vida e personalidade para o cenário. Embora Saber: Cervejas Marcianas possa não parecer tão útil, um personagem empreendedor poderia usar esse conhecimento para puxar papo com uma fonte potencial em um bar, para convencer uma célula barsoomiana desconfiada que ele não é um espião estrangeiro, ou simplesmente divertir os outros na mesa com anedotas de como certos ex-humanos tem um estranho fedor de Olympus Stout ou os perigos de consumir Pilsener Red Lager demais em zero-g.
+Finalmente, perícias de Saber ajudam a dar vida e personalidade para o cenário. Embora Saber: Cervejas Marcianas possa não parecer tão útil, um personagem empreendedor poderia usar esse conhecimento para puxar papo com uma fonte potencial em um bar, para convencer uma célula barsoomiana desconfiada que ele não é um espião estrangeiro, ou simplesmente divertir os outros na mesa com anedotas de como certos ex-humanos tem um estranho fedor de Cerveja Maltada Olimpo ou os perigos de consumir Lager Vermelha Pilsen demais em zero-g.
 
 <!-- CLEANED blockquote -->
 
 ## O Conhecimento Por Trás das Perícias Ativas
 
-Assume-se que você esteja familiarizado com os conhecimentos básicos de cada uma das suas perícias Ativas. Por exemplo, se você é habilidoso em Tiro, você provavelmente sabe bastante sobre tipos e modelos, fabricantes e possivelmente até sua história. Da mesma forma, sua perícia Aparelhagem: Robótica significa que você sabe muito sobre sintemorfos e bots, quem os fabrica, etc. No entanto, esse conhecimento associativo não é tão profundo quanto o de alguém que estudou ou treinou nesta área. Um personagem com graduações equivalentes em Saber: Fabricantes de Armas ou Saber: Design de Robôs terá um conhecimento mais aprofundado e especializado. Para representar isso, os MJs deve aplicar um modificador negativo de −10 a −30 quando usar perícias Ativas no lugar de perícias de Saber, dependendo da situação e da profundidade do conhecimentos necessário.
+Assume-se que você esteja familiarizado com os conhecimentos básicos de cada uma das suas perícias Ativas. Por exemplo, se você é habilidoso em Tiro, você provavelmente sabe bastante sobre tipos e modelos, fabricantes e possivelmente até sua história. Da mesma forma, sua perícia Aparelhagem: Robótica significa que você sabe muito sobre sintemorfos e bots, quem os fabrica, etc. No entanto, esse conhecimento associativo não é tão profundo quanto o de alguém que estudou ou treinou nesta área. No entanto, esse conhecimento associativo não é tão profundo quanto o de alguém que estudou ou treinou nesta área. Um personagem com graduações equivalentes em Saber: Fabricantes de Armas ou Saber: Design de Robôs terá um conhecimento mais aprofundado e especializado. Para representar isso, os MJs deve aplicar um modificador negativo de −10 a −30 quando usar perícias Ativas no lugar de perícias de Saber, dependendo da situação e da profundidade do conhecimentos necessário.
 
 <!-- CLEANED /blockquote -->
 

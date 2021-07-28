@@ -52,7 +52,7 @@ Sua parada física também pode ser usada para um dos seguintes efeitos:
 
 Sua parada curinga também pode ser usada para controle narrativo:
 
-- **Introduzir PNJ:** Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc. O MJ determina os outros detalhes.
+- **Introduzir PNJ:** Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc. O MJ determina os outros detalhes. O MJ determina os outros detalhes.
 - **Introduzir um Item:** Um item previamente despercebido é adicionado à cena. A presença dele deve ser plausível. O item não pode ser ofensivo (nenhuma arma) e deve ser de Complexidade Menor (nem Raro e nem Restrito). Pode ser uma ferramenta útil, um equipamento necessário, ou até mesmo uma pista. O MJ determina sua localização na cena e a natureza de quaisquer pistas.
 - **Definir o Ambiente:** Você pode introduzir um fator ambiental à cena. A presença dele deve ser plausível. Ele deverá fornecer um novo detalhe que não altere drasticamente a cena. Exemplos incluem esconderijos, coberturas, distrações, abrigos ou elementos exploráveis, como uma escada ou janela.
 - **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta deve ser uma conexão distante/menor em vez de um ligação íntima/séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga mas pequena. Você pode definir os aspectos básicos, mas o MJ determina os detalhes e a atitude do PNJ em relação ao seu personagem.
@@ -64,7 +64,7 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 - **Recarga Curta (2/dia):** Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los. Alguns equipamentos ou truques psi podem fornecer pontos de recarga extras.
 - **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
 
-Enquanto recarrega, você pode apenas fazer apenas atividades leves e não cansativas: comer, navegar na mesh, conversar, recarregar armas, vigiar, etc. Os prazos de recarga não podem ser encurtados ou interrompidos; se forem, o tempo usado é perdido.
+Enquanto recarrega, você pode apenas fazer apenas atividades leves e não cansativas: comer, navegar na mesh, conversar, recarregar armas, vigiar, etc. Os prazos de recarga não podem ser encurtados ou interrompidos; se forem, o tempo usado é perdido. Os prazos de recarga não podem ser encurtados ou interrompidos; se forem, o tempo usado é perdido.
 
 ## Paradas Temporárias
 

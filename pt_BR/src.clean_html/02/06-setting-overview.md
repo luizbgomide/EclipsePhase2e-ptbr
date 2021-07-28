@@ -16,7 +16,7 @@ A linha de demarcação entre os sistemas interior e exterior é um caldeirão d
 
 ## Espaço Joviano
 
-Durante o medo e a incerteza da Queda, os EUA e unidades militares aliadas sul-americanas na órbita joviana atacaram seus rivais chineses e russos, tomando o controle de centros civis. O resultado dessa lei marcial é a República Joviana. Ela é democrática apenas no nome, mas na realidade a população	vive sob um regime militar, chamado de Junta na maioria dos meios de comunicação não jovianos.
+Durante o medo e a incerteza da Queda, os EUA e unidades militares aliadas sul-americanas na órbita joviana atacaram seus rivais chineses e russos, tomando o controle de centros civis. O resultado dessa lei marcial é a República Joviana. Ela é democrática apenas no nome, mas na realidade a população    vive sob um regime militar, chamado de Junta na maioria dos meios de comunicação não jovianos.
 
 A República é conhecida como um bastião da religião e bioconservadorismo. Eles condenam os reencapados e forques como cópias desalmadas e, portanto, não humanos. Para eles, elevados e IGAs são abominações da natureza, e tanto IA quanto nanotecnologia são ferramentas perigosas, passíveis de nos levar a outra Queda. Eles impõe sua hegemonia através de uma poderosa polícia secreta, e controlando a maioria das naves de guerra pré-Queda remanescentes. A resistência da República às tecnologias modernas também significa que eles estão ficando rapidamente obsoletos e em menor número, um medo que apenas tornou a liderança da República mais agressiva.
 
@@ -26,7 +26,7 @@ A República é conhecida como um bastião da religião e bioconservadorismo. El
 
 As luas de Saturno proporcionam a região mais densa e diversa, abrigando várias instalações de pesquisa, colônias independentes e as metrópoles em domos de Titã. Elas são a facção mais bem estabelecida da Aliança Autonomista, com os maiores serviços de inteligência e militares.
 
-Outros habitats por todo o sistema exterior operam como comunas anarquistas, estados corporativos privados, instalações de pesquisas hierárquicas ou estruturas mais inusitadas. As mais conhecidas são os enxames nômades da escória, circulando pelo sistema para trazer sua arte experimental e mercados negros e vermelhos para todos. Mesmo isolados, a maioria dos habitats participa como membros da Aliança Autonomista para compartilhar informações, colaborar em assuntos de interesse comum, e prestar ajuda e defesa mútuas. Estes habitats desfrutam da sua independência, o que também pode dificultar sua capacidade de cooperação. Como um todo, sua melhor defesa é seu isolamento. No entanto, historicamente, quando surge uma ameaça comum, como o breve conflito em Locus, eles são capazes de mobilizar uma defesa com marinhas, mísseis, hackers e conexões com forças rebeldes em meio aos seus inimigos.
+Outros habitats por todo o sistema exterior operam como comunas anarquistas, estados corporativos privados, instalações de pesquisas hierárquicas ou estruturas mais inusitadas. As mais conhecidas são os enxames nômades da ralé, circulando pelo sistema para trazer sua arte experimental e mercados negros e vermelhos para todos. Mesmo isolados, a maioria dos habitats participa como membros da Aliança Autonomista para compartilhar informações, colaborar em assuntos de interesse comum, e prestar ajuda e defesa mútuas. Estes habitats desfrutam da sua independência, o que também pode dificultar sua capacidade de cooperação. Como um todo, sua melhor defesa é seu isolamento. No entanto, historicamente, quando surge uma ameaça comum, como o breve conflito em Locus, eles são capazes de mobilizar uma defesa com marinhas, mísseis, hackers e conexões com forças rebeldes em meio aos seus inimigos.
 
 ## A Periferia
 
@@ -54,7 +54,7 @@ Os transumanos conquistam a segurança dos perigos do espaço com esses tipos co
 - **Cascos** são habitats agrupados com uma camada externa de proteção ou uma estrutura coberta de aros e raios.
 - **Esferas** são bolhas ocas, geralmente asteroides escavados com interiores terraformados, com gravidade baixa por rotação.
 - **Subsuperficiais** são simplesmente estruturas construídas no subsolo, geralmente em luas ou planetas com pouca atmosfera; o solo acima protege da radiação solar.
-- **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela escória.
+- **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela ralé.
 - **Enlatados** são pequenos módulos apertados, em geral não mais do que um casco pressurizado e suporte vital. Eles são baratos e comuns, especialmente entre os marginais.
 - **Toroides** tem forma de anel e gravidade por rotação, às vezes com múltiplos toroides rotacionando em direções opostas, às vezes ligados a estruturas de microgravidade.
 

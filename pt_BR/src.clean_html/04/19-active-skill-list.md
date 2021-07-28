@@ -57,9 +57,9 @@ Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, pular 
 
 Enganação é apresentar falsidades de forma crível. Ela se aplica a qualquer tentativa de deturpar ou esconder a verdade com palavras e gestos. Isso não inclui esconder-se (Infiltração) ou disfarces físicos (Perícia Exótica: Disfarce).
 
-Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém, ou escapar de uma situação usando enrolação. O alvo da sua enganação se opõe com a perícia Cinésica.
+Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém, ou escapar de uma situação usando a lábia. O alvo da sua enganação se opõe com a perícia Cinésica.
 
-- **Especializações:** Atuação, Blefe, Enrolação, Golpismo, Imitação
+- **Especializações:** Atuação, Blefe, Golpismo, Imitação, Lábia
 
 <!-- CLEANED /div -->
 
@@ -73,7 +73,7 @@ Esta é uma categoria genérica para perícias menos comuns. Isso inclui profici
 
 Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
 
-- **Exemplos de Áreas:** Arco (REF), Arremesso de Facas (REF), Chicote (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Manejo de Animais (SAG), Prestidigitação (REF)
+- **Exemplos de Áreas:** Arco (REF), Arremesso de Facas (REF), Chicote (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Prestidigitação (REF), Trato Animal (SAG)
 - **Especializações:** Conforme apropriado para a área
 
 <!-- CLEANED /div -->

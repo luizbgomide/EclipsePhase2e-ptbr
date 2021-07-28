@@ -116,7 +116,7 @@ Traços são qualidades inerentes, características ou falhas que ajudam a defin
 
 Seu personagem tem nível de reputação em diferentes redes sociais. Essa rep vai ajudá-lo a conseguir favores, reunir informações e adquirir equipamentos necessários. Os níveis de rep são usados como número alvo em Testes de Rep. Há sete redes de rep para escolher:
 
-- **@-rep:** The Circle-A List para autonomistas, anarquistas, titanianos, escória e extropianos.
+- **@-rep:** The Circle-A List para autonomistas, anarquistas, titanianos, ralé e extropianos.
 - **c-rep:** CivicNet, usada pelo Consórcio Planetário, Constelação Estrela d'Alva, Aliança Lunar-Lagrange, República Joviana, outras hipercorps e capitalistas.
 - **f-rep:** Fame, a rede da mídia usada por metacelebridades, jornalistas, socialites, artistas e glitterati.
 - **g-rep:** Guanxi, a rede das tríades, cartéis, gangues e outros grupos criminosos.

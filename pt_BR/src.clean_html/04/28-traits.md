@@ -19,7 +19,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Perspicácia](../04/28-traits.md#acumen)                            |  1/2/3   | +5 por nível em Verificações de COG.                                                                                                                                                                                        |
 | [Adaptabilidade](../04/28-traits.md#adaptability)                   |   2/4    | Reencape facilitado. +10 por nível em Testes de Integração e de Estresse de Reencape.                                                                                                                                       |
 | [Aliados](../04/28-traits.md#allies)                                |    4     | Um grupo apoia você. Um favor moderado gratuito por sessão.                                                                                                                                                                 |
-| [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Manejo de Animais e testes semelhantes.                                                                                                                                                             |
+| [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Trato Animal e testes semelhantes.                                                                                                                                                                  |
 | [Bom Senso](../04/28-traits.md#common-sense)                        |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                              |
 | [Compostura](../04/28-traits.md#composure)                          |    2     | +5 em LUC, +1 em Limiar de Trauma, +10 em Grau de Insanidade.                                                                                                                                                               |
 | [Contato](../04/28-traits.md#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                       |
@@ -102,7 +102,7 @@ Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como 
 
 **Traço de ▲ Ego • Custo de PP: 1**
 
-Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Manejo de Animais e outros testes de perícia para influenciar ou interagir com animais.
+Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Trato Animal e outros testes de perícia para influenciar ou interagir com animais.
 
 ### Bom Senso
 
@@ -162,7 +162,7 @@ Você se conecta instintivamente com os outros. Aplique +5 por nível em Verific
 
 **Traço de ▲ Ego • Custo de PP: 2**
 
-Você recebeu treinamento avançado em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Este traço não aumenta a perícia, ele apenas aumenta o máximo.
+Você recebeu treinamento extensivo em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Este traço não aumenta a perícia, ele apenas aumenta o máximo.
 
 ### Alto Desempenho
 
@@ -384,7 +384,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
 | [Inexperiência no Mundo Real](../04/28-traits.md#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
 | [Comportamento Restrito](../04/28-traits.md#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
-| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basilisco.                          |
+| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basiliscos.                         |
 | [Timidez](../04/28-traits.md#timidity)                               |  1/2/3   | −5 por nível em Verificações de VON.                                                             |
 | [Vertigem de RV](../04/28-traits.md#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Verificação de SOM ou incapacitado.               |
 
@@ -533,7 +533,7 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Este traço só está disponível para crus. O morfo não foi reparado geneticamente e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilidade −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilidade −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Este traço só está disponível para crus. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilidade −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilidade −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
@@ -545,7 +545,7 @@ Este traço só está disponível para biomorfos. Este morfo rejeita implantes q
 
 **Traço de ▲ Ego • Bônus de PP: 1**
 
-O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
+O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
 
 ### Indiferença
 
@@ -653,7 +653,7 @@ Você não é lá muito esperto. Aplique um modificador −5 por nível em Verif
 
 **Traço de ▼ Morfo • Bônus de PM: 1**
 
-O morfo é projetado de tal forma que necessita de serviços de terapia genética ou manutenção proprietária para seu desempenho não se degradar. Trate isso como um serviço de Complexidade Moderada necessário a cada mês. Para cada mês sem o serviço, reduza as paradas do morfo em 1 (o MJ escolhe qual parada). Se as paradas forem reduzidas a 0, o morfo recebe 1 ferimento por mês que pode não ser reparado ou curado. Estes se manifestam como uma dores nas juntas, degradação neural, tumores e outros males. Quando 4 ferimentos forem acumulados, o morfo estará incapacitado. Uma terapia genética ou sessão de manutenção de um provedor de serviços licenciado da hipercorp (ou um pirata do mercado negro) vai restaurar o morfo à funcionalidade total.
+O morfo é projetado de tal forma que necessita de serviços de geneterapia ou manutenção proprietária para seu desempenho não se degradar. Trate isso como um serviço de Complexidade Moderada necessário a cada mês. Para cada mês sem o serviço, reduza as paradas do morfo em 1 (o MJ escolhe qual parada). Se as paradas forem reduzidas a 0, o morfo recebe 1 ferimento por mês que pode não ser reparado ou curado. Estes se manifestam como uma dores nas juntas, degradação neural, tumores e outros males. Quando 4 ferimentos forem acumulados, o morfo estará incapacitado. Uma geneterapia ou sessão de manutenção de um provedor de serviços licenciado da hipercorp (ou um pirata do mercado negro) vai restaurar o morfo à funcionalidade total.
 
 ### Baixa Coordenação
 
@@ -705,7 +705,7 @@ Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 **Traço de ▲ Ego • Bônus de PP: 1/2**
 
-O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basilisco.
+O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basiliscos.
 
 ### Alergia Grave
 

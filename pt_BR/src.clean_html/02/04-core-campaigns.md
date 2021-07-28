@@ -10,13 +10,13 @@ O foco principal de Eclipse Phase é o bando de agentes clandestinos enfrentando
 
 Todos os personagens prontos e suas equipes são agentes da _Firewall_. No entanto, duas equipes são pensadas primariamente para campanhas da Firewall, uma para cada região, interior e exterior, do Sistema Solar.
 
-A equipe _Operações em Solavia_ inclui Dante, Hex, Qi e Sava. Com as botas sujas de poeira marciana, essa equipe é experiente em ambientes planetários, governos autoritários, hipercorps e destruições ocasionais. No sistema interior, as missões incluem máquinas TITAN abandonadas, maquinações corporativas e intriga política. Os grandes poderes são o Consórcio Planetário, a Constelação Estrela d'Alva reivindicando Vênus, a conservadora Aliança Lunar-Lagrange, as hipercorps, e os oligarcas tecendo suas teias nos bastidores. Os conflitos entre os poderes são comuns. A confiança é difícil de conquistar quando cada organização está repleta de fantoches e mafiosos. Uma mente atenta e uma boa dose de paranoia são cruciais para a permanecer vivo.
+A equipe _Operações em Solária_ inclui Dante, Hex, Qi e Sava. Com as botas sujas de poeira marciana, essa equipe é experiente em ambientes planetários, governos autoritários, hipercorps e destruições ocasionais. No sistema interior, as missões incluem máquinas TITAN abandonadas, maquinações corporativas e intriga política. Os grandes poderes são o Consórcio Planetário, a Constelação Estrela d'Alva reivindicando Vênus, a conservadora Aliança Lunar-Lagrange, as hipercorps, e os oligarcas tecendo suas teias nos bastidores. Os conflitos entre os poderes são comuns. A confiança é difícil de conquistar quando cada organização está repleta de fantoches e mafiosos. Uma mente atenta e uma boa dose de paranoia são cruciais para a permanecer vivo.
 
-Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Chi, Killjoy, Njál e Zahiri. Aqui fora os habitats geralmente são menores e isolados. Desaparecer na multidão pode ser impossível e reforços estão a meses de distância. Os PJs devem conseguir operar em qualquer fronteira selvagem ou estação de pesquisa onde o perigo tenha se instalado. Longe das grandes potências, as regras são mais flexíveis, mas habitantes locais desconfiados são rápidos em jogar estranhos no espaço. Os personagens provavelmente se verão presos numa situação bem mais complexa do estavam esperando, e serão forçados a improvisar para sobreviver. As principais facções incluem os titanianos, jovianos, anarquistas, ultimistas e marginais. As missões no sistema exterior se concentram em conter infecções, enfrentar pós-humanos monstruosos, investigar experimentos bizarros, e atrasar a guerra com os jovianos.
+Protegendo a grande escuridão está a equipe de _Operações em Orlária_ com Chi, Killjoy, Njál e Zahiri. Aqui fora os habitats geralmente são menores e isolados. Desaparecer na multidão pode ser impossível e reforços estão a meses de distância. Os PJs devem conseguir operar em qualquer fronteira selvagem ou estação de pesquisa onde o perigo tenha se instalado. Longe das grandes potências, as regras são mais flexíveis, mas habitantes locais desconfiados são rápidos em jogar estranhos no espaço. Os personagens provavelmente se verão presos numa situação bem mais complexa do estavam esperando, e serão forçados a improvisar para sobreviver. As principais facções incluem os titanianos, jovianos, anarquistas, ultimistas e marginais. As missões no sistema exterior se concentram em conter infecções, enfrentar pós-humanos monstruosos, investigar experimentos bizarros, e atrasar a guerra com os jovianos.
 
 <!-- CLEANED blockquote -->
 
-### Firewall: Operações em Solavia
+### Firewall: Operações em Solária
 
 - **Dante** :: Hacker Genético Venusiano
 - **Hex** :: Atravessadora Assincro Lunar
@@ -27,7 +27,7 @@ Protegendo a grande escuridão está a equipe de _Operações em Raiavia_ com Ch
 
 <!-- CLEANED blockquote -->
 
-### Firewall: Operações em Raiavia
+### Firewall: Operações em Orlária
 
 - **Chi** :: Hacker Mental & Socializador
 - **Killjoy** :: Quebra-Galho Anarquista
@@ -49,8 +49,8 @@ A equipe de _Operações de Desbravamento_ é Astika, Jinx, Shrike e Whisper. Um
 ### Operações de Desbravamento
 
 - **Astika** :: Engenheiro de Sobrevivência & Xenoarqueólogo
-- **Jinx** :: Elevado Especialista em Reconhecimento
-- **Shrike** :: Segurança Mercenário & Operador de Drone
+- **Jinx** :: Elevada Especialista em Reconhecimento
+- **Shrike** :: Mercenária de Segurança & Operadora de Drone
 - **Whisper** :: Cientista-Explorador Assincro
 
 <!-- CLEANED /blockquote -->
@@ -68,8 +68,8 @@ Os personagens de _Operações Criminais Guanxi_, uma equipe criada no submundo,
 ### Operações Criminais Guanxi
 
 - **Amaru Timoti** :: Atravessador do Nine Lives
-- **Berk** :: Infovida Capanga & Encarnador de Drone
-- **Elis** :: Técnica da Escória
+- **Berk** :: Infovida Capanga & Encarnadora de Drone
+- **Elis** :: Técnica da Ralé
 - **Pivo** :: Elevado Sucateiro
 
 <!-- CLEANED /blockquote -->
