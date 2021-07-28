@@ -152,7 +152,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Mascote Dino           |                 Men/1                 | Dinossauro de estimação geneticamente hackeado.                                   |
 | Fokus (5 doses)        |                 Men/1                 | Comportamento Acentuado: Obsessivo (2), reduz prazos em 25%.                      |
 | Medicadores            |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas. |
-| Enxame Dopante         |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
+| Enxame Inoculador      |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
 | Recipiente de Espécime |                 Men/1                 | Mantém amostas em condições de estase.                                            |
 | Ferramentas (Kit)      |                 Men/1                 | Portátil, aplicável a perícia específica.                                         |
 | Twitch (5 doses)       |                Men/R/1                | –20 em ações, Verificação de SOM vs. incapacitação.                               |

@@ -31,7 +31,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Asteroide Gelado:** Um asteroide feito de gelo em vez de rocha ou metais.
 - **Atravessador:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Autocook:** Um fabro especializado para fazer comidas e bebidas.
-- **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, escória e titanianos.
+- **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
 - **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
@@ -80,7 +80,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Contratado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
 - **Corvo:** Um procurador que se concentra em pesquisa e na análise científica.
 - **Cripta:** Um depósito digital escondido dentro da mesh.
-- **Cru:** Um humano comum, sem reparos genéticos ou modificações.
+- **Cru:** Um humano comum, sem genecorreções ou modificações.
 - **Cyberware:** Ampliações artificiais para biomorfos.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
 - **Desbravador:** Um explorador que atravessa um portão de pandora.
@@ -108,7 +108,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Enxamenoide:** Um sintemorfo composto de um enxame de microbots.
 - **Escaneador:** Um procurador que coleta e analisa dados para sinais de riscos X.
 - **Escanear:** Localizar e identificar dispositivos sem fio.
-- **Escória:** Uma facção autonomista de nômades hedonistas.
 - **Escumadores:** Habitantes dos gigantes gelados.
 - **Esfera/Esferoide:** Um habitat em forma de bolha com gravidade por rotação, feito geralmente a partir de asteroides escavados. Também chamado de bolha.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
@@ -171,7 +170,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
-- **IndEx:** O balcão de contratados (_Indenture Exchange_) onde são feitas trocas de contratos de trabalho.
+- **IndEx:** O mercado de contratados (_Indenture Exchange_) onde são negociados trabalhadores contratados.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
@@ -238,6 +237,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Oligarcas:** Os poderosos ricos imortais.
 - **Olimpiano:** Um biomorfo aprimorado para aptidão física e atletismo.
 - **Operador:** Um infomorfo otimizado para pilotar drones.
+- **Orlária:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
 - **Ozma:** Uma cabala extragovernamental do sistema interior.
 - **PAN:** Rede de área pessoal (_Personal Area Network_). A rede de eletrônicos pessoais escravos do seu ecto ou dos seus insertos da mesh.
 - **Partição Temporária:** Um depósito temporário secreto de equipamentos.
@@ -259,7 +259,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Privilégios:** As regras definindo o que uma conta pode fazer em um sistema.
 - **Procuradores:** Membros da estrutura interna da Firewall.
 - **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
-- **Prometeanas:** Um grupo de SAIs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
+- **Prometeanas:** Um grupo de SIAs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
 - **Psi-Gama:** Truques psi que afetam as mentes/fisiologias dos outros.
 - **Psi-Qui:** Truques psi que aprimoram a mente.
@@ -267,7 +267,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Psicocirurgia:** A alteração seletiva e cirúrgica de uma mente.
 - **Quimérico:** Transgênico, contendo traços genéticos de outras espécies.
 - **RA:** Reação Aumentada. Informações da mesh que são sobrepostas aos seus sentidos do mundo real. Dados de RA são geralmente visuais, mas também podem ser auditivos, táteis, olfativos, cinestésicos, emocionais ou outros sentidos.
-- **Raiavia:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
+- **Ralé:** Uma facção autonomista de nômades hedonistas.
 - **Rebeldes:** A facção da Firewall que está pouco se fodendo.
 - **Reencapar:** Fazer download em um novo morfo. Também chamado de remorfar.
 - **Refeito:** Um biomorfo criado como um upgrade humano, humano 2.0.
@@ -297,8 +297,8 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Sintes:** Um modelo comum de sintemorfo humanoide.
 - **Sistema:** Qualquer dispositivo de hardware, rede ou serviço de software.
 - **Sobressalente:** Um morfo portátil para ser encapado em uma emergência.
+- **Solária:** O sistema interior, de Sol a Marte.
 - **Solarianos:** Habitantes da corona solar.
-- **Solavia:** O sistema interior, de Sol a Marte.
 - **Sonda Bracewell:** Uma sonda autorreplicante projetada para se propagar para cada sistema estelar da galáxia.
 - **Souk:** Bazares cobertos e áreas de mercado entre domos marcianos.
 - **Super-Terra:** Um planeta terrestre muito maior que a Terra com uma maior gravidade na superfície.
@@ -310,11 +310,11 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Tematização:** Alterar o seu ambiente percebido via RA.
 - **The Eye:** A rede social e de compartilhamento de dados interna da Firewall.
 - **Titaniano:** Alguém de Titã, uma lua de Saturno.
-- **TITANs:** Rede de Consciência Tática de Informação Total (_Total Information Tactical Awareness Network_). SAIs que atacaram a transumanidade e provocavam a Queda.
+- **TITANs:** Rede de Consciência Tática de Informação Total (_Total Information Tactical Awareness Network_). SIAs que atacaram a transumanidade e provocavam a Queda.
 - **Toroide:** Um habitat em forma de anel com gravidade por rotação.
 - **Transgênico:** Contendo traços genéticos de outras espécies.
 - **Transumano:** Um humano extensivamente modificado.
-- **Tratados:** Humanos modificados para eliminar doenças genéticas e outros traços indesejados. Também chamados de gene-reparados, ajustados.
+- **Tratados:** Humanos modificados para eliminar doenças genéticas e outros traços indesejados. Também chamados de genecorrigidos, ajustados.
 - **Troianos:** Asteroides/luas que compartilham a mesma órbita de um planeta ou lua maior, mas seguem cerca de 60 graus à frente ou atrás nos pontos de Lagrange L4 (Gregos) e L5 (Troianos). Troianos normalmente se referem aos asteroides nos pontos de Lagrange de Júpiter, mas Marte, Saturno, Netuno e outros corpos também têm troianos. Veja também _Gregos_.
 - **Truque:** Um poder psi.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.

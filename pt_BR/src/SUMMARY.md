@@ -46,6 +46,8 @@
   - [Exemplo de Criação de Personagem](04/29-character-creation-example.md)
 - [Personagem Prontos](05/00-sample-characters.md)
 - [Como Aconteceu](06/00-how-it-came-to-be.md)
+  - [Vagueando Rumo a Singularidade](06/01-slouching-towards-singularity.md)
+  - [Cronologia](06/02-timeline.md)
 - [Futuro Acelerado](07/00-accelerated-future.md)
 - [Cultura Transumana](08/00-transhuman-culture.md)
 - [A Nova Economia Política](09/00-the-new-political-economy.md)

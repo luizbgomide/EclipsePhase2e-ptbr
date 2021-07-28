@@ -45,7 +45,7 @@
   - [Soldado](../04/05-step-2-carrer.md#soldado)
   - [Técnico](../04/05-step-2-carrer.md#técnico)
 - [Passo 3: Interesse](../04/06-step-3-interest.md)
-  - [Treinador de Animais](../04/06-step-3-interest.md#treinador-de-animais)
+  - [Tratador de Animais](../04/06-step-3-interest.md#tratador-de-animais)
   - [Artista/Ícone](../04/06-step-3-interest.md#artistaícone)
   - [Assincro](../04/06-step-3-interest.md#assincro)
   - [Comandante](../04/06-step-3-interest.md#comandante)

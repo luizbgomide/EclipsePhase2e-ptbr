@@ -150,7 +150,7 @@ O quarto era acolhedor, bambu ornamental suavemente iluminado por um brilho que 
 
 “Onde estou?”
 
-A pergunta era para Badal, mas a voz interior respondeu a Tierslay. \[Estamos na flotilha da escória conhecida como _Vá a Marte_.\] Um mapa 3D em realidade aumentada apareceu na lateral do seu campo de visão, mostrando uma série de objetos de diferentes tamanhos agrupados, a maioria alongados, e alguns ligados entre si. Naves.
+A pergunta era para Badal, mas a voz interior respondeu a Tierslay. \[Estamos na flotilha da ralé conhecida como _Vá a Marte_.\] Um mapa 3D em realidade aumentada apareceu na lateral do seu campo de visão, mostrando uma série de objetos de diferentes tamanhos agrupados, a maioria alongados, e alguns ligados entre si. Naves.
 
 O Badal percebeu a confusão dela. _Vá a Marte_ é um coletivo nômade anarquista de naves e habitats interligados, atualmente à deriva logo depois do Cinturão Principal, no lado de Júpiter.”
 
@@ -192,7 +192,7 @@ Tierslay tinha ouvido falar de musas. Elas eram comuns entre os privilegiados. E
 
 Quando Tierslay se puxou através do portal ladeado de bambu que levava para fora da serenidade fechada do Retorno Zentrópico, a transição a sobrecarregou. Em todas as direções, multidões de pessoas encapadas em corpos exóticos flutuando e se misturando. Risos, gritos e música a engoliram, temperadas com os aromas de comida e coisas estranhas. Estruturas, arranjos de equipamento, e coisas que ela não sabia identificar agarradas a todas as superfícies. Ela não sabia dizer se era uma festa, uma exposição de arte ou outra coisa. Não havia para cima, nem para baixo, só a agitação da vida em todas as direções. Convites e propostas coloridos surgiram em sua visão antes da sua musa filtrá-los.
 
-\[Bem-vindo ao Setor Echo Blue\], disse a voz. \[Isso já foi parte de um habitat de luxo na órbita da Terra com gravidade por rotação, mas agora a flotilha o reboca em zero-g. Várias facções da escória a utilizam como mercado ao ar livre/ponto social.\]
+\[Bem-vindo ao Setor Echo Blue\], disse a voz. \[Isso já foi parte de um habitat de luxo na órbita da Terra com gravidade por rotação, mas agora a flotilha o reboca em zero-g. Várias facções da ralé a utilizam como mercado ao ar livre/ponto social.\]
 
 Tierslay agarrou-se ao trilho brilhante como uma corda salva-vidas, seguindo-o através do caos até seu benfeitor, um homem magricela com mechas dispersas de longos cabelos pretos. O nome dela pairou acima da cabeça do homem em RA, piscando fortemente. Tierslay foi se enfiando através do fluxo de pessoas e se aproximou do homem, desconfiada, mas também sem saber o que mais fazer. A parte inferior do seu rosto estava ondulada e brilhante com escarificação desenhadas, e seus olhos eram discos pretos vazios. Em sua cabeça, ela o imaginou com uma capa, como um Drácula Espacial Retrô.
 
@@ -232,7 +232,7 @@ Taernen sorriu, incapaz de resistir a uma chance para cavar fundo e distorcer ve
 
 “Só quero ser eu outra vez.”
 
-“Acha que estou feliz nesta merda emprestada em que estou? Estou chocado que nenhum dos braços tenha caído. Veja. Podemos criar algo parecido com o você original, se é isso que você quer, assim que eu tiver alguns recursos e estivermos de volta em Marte, onde eu tenho alguma influência. Aqui? Com estes babacas da escória? Eu valho tanto quanto uma bosta ressecada de cachorro chutada na velha sarjeta de São Paulo. Mas a boa notícia é que tenho um plano. Podemos contornar esta treta da rep e manter este trato na mesa. E é aqui que você entra.” Taernen entrelaçou suas mãos ossudas, apertando os dedos finos. “Preciso que se recomponha e se adapte. Rápido. Não posso ficar por aqui muito mais tempo. Tenho uma transmissão agendada de volta a Marte em uma hora.”
+“Acha que estou feliz nesta merda emprestada em que estou? Estou chocado que nenhum dos braços tenha caído. Veja. Podemos criar algo parecido com o você original, se é isso que você quer, assim que eu tiver alguns recursos e estivermos de volta em Marte, onde eu tenho alguma influência. Aqui? Com estes babacas da ralé? Eu valho tanto quanto uma bosta ressecada de cachorro chutada na velha sarjeta de São Paulo. Mas a boa notícia é que tenho um plano. Podemos contornar esta treta da rep e manter este trato na mesa. E é aqui que você entra.” Taernen entrelaçou suas mãos ossudas, apertando os dedos finos. “Preciso que se recomponha e se adapte. Rápido. Não posso ficar por aqui muito mais tempo. Tenho uma transmissão agendada de volta a Marte em uma hora.”
 
 “Vai me deixar aqui?”
 
@@ -502,7 +502,7 @@ Tierslay respirou fundo. Seu coração estava acelerado. “Precisa de mim pra q
 
 “Qual é a carga?”
 
-“Morfos prods, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de hardware, como bots. Lixo barato, mas mesmo aqui com a escória, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
+“Morfos prods, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de hardware, como bots. Lixo barato, mas mesmo aqui com a ralé, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
 
 “É isso?” Tierslay sabia que o favor não era só isso, mas perguntou mesmo assim. Seu irmão nunca começava com o grande pedido. Sempre havia outra coisa.
 

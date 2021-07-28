@@ -112,7 +112,7 @@ Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa red
 
 <div class="stat-list">
 
-- **@-rep:** The Circle-A List — autonomistas, anarquistas, titanianos, escória, extropianos.
+- **@-rep:** The Circle-A List — autonomistas, anarquistas, titanianos, ralé, extropianos.
 - **c-rep:** CivicNet — Consórcio Planetário, Constelação Estrela d'Alva, Aliança Lunar-Lagrange, República Joviana, outras hipercorps & capitalistas.
 - **f-rep:** Fame & rede da mídia — socialites, artistas, metacelebidades, jornalistas, glitterati.
 - **g-rep:** Guanxi — tríades, cartéis, gangues e outros grupos criminosos.
