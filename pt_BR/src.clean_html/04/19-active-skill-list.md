@@ -57,9 +57,9 @@ Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, pular 
 
 Enganação é apresentar falsidades de forma crível. Ela se aplica a qualquer tentativa de deturpar ou esconder a verdade com palavras e gestos. Isso não inclui esconder-se (Infiltração) ou disfarces físicos (Perícia Exótica: Disfarce).
 
-Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém, ou escapar de uma situação usando enrolação. O alvo da sua enganação se opõe com a perícia Cinésica.
+Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém, ou escapar de uma situação usando a lábia. O alvo da sua enganação se opõe com a perícia Cinésica.
 
-- **Especializações:** Atuação, Blefe, Enrolação, Golpismo, Imitação
+- **Especializações:** Atuação, Blefe, Golpismo, Imitação, Lábia
 
 <!-- CLEANED /div -->
 
