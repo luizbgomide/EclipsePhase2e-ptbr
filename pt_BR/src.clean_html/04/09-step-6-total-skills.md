@@ -22,7 +22,7 @@ As descrições completas das perícias estão em [Perícias](../04/18-skills.md
 
 **Atletismo (SOM):** Atividade física em gravidade com um morfo humanoide, elevado ou biomimético, incluindo escalada, corrida, natação, ginástica, arremessos e voo alado.
 
-**Enganação (SAG):** Mentira, blefe, golpismo, enrolação, imitação, atuação e outras tentativas de dissimular ou esconder a verdade com palavras e gestos.
+**Enganação (SAG):** Mentira, blefe, golpismo, lábia, imitação, atuação e outras tentativas de dissimular ou esconder a verdade com palavras e gestos.
 
 **Perícia Exótica (Área):** Uma categoria genérica para perícias menos comuns, como trato animal, contorcionismo, disfarce, música, prestidigitação ou arremesso de facas.
 
