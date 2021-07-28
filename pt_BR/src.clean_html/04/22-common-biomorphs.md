@@ -34,7 +34,7 @@ Crus são humanos padrão não modificados, nascidos com todos os defeitos natur
 
 ### Tratado
 
-Tratados são humanos geneticamente reparados. O seu genoma foi limpo de doenças hereditárias e otimizado para a aparência e saúde, mas não foi melhorado além disso. Os tratados formam a maioria da transumanidade.
+Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças hereditárias e otimizado para a aparência e saúde, mas não foi melhorado além disso. Os tratados formam a maioria da transumanidade.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
