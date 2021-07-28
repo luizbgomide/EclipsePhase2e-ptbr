@@ -384,7 +384,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
 | [Inexperiência no Mundo Real](../04/28-traits.md#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
 | [Comportamento Restrito](../04/28-traits.md#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
-| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basiliscos.                         |
+| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Verificações de INT para resistir aos hacks basilisco.                          |
 | [Timidez](../04/28-traits.md#timidity)                               |  1/2/3   | −5 por nível em Verificações de VON.                                                             |
 | [Vertigem de RV](../04/28-traits.md#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Verificação de SOM ou incapacitado.               |
 
@@ -705,7 +705,7 @@ Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 **Traço de ▲ Ego • Bônus de PP: 1/2**
 
-O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basiliscos.
+O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Verificações de INT para resistir aos hacks basilisco.
 
 ### Alergia Grave
 
