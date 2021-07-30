@@ -17,9 +17,9 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
   - [x] Infâmia
   - [x] Começando
   - [x] Mecânicas do Jogo
-  - [ ] Criando Personagens
+  - [x] Criando Personagens
   - [ ] Personagem Prontos
-  - [ ] Como Aconteceu
+  - [x] Como Aconteceu
   - [ ] Futuro Acelerado
   - [ ] Cultura Transumana
   - [ ] A Nova Economia Política
