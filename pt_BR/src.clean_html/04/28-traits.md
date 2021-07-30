@@ -443,7 +443,7 @@ Você deve se entregar ao vício com uma frequência regular de acordo com o ní
 
 O vício é desencadeado da mesma forma que [transtornos](../12/20-disorders.md). Os gatilhos incluem a presença do foco do vício, medo, frustração, impotência e violência.
 
-Cada vício assume formas diferentes, dependendo do personagem e da fonte. O vício de longo prazo pode resultar em danos físicos ou mentais (modificadores de debilidade ou reduções em Verificações de SOM ou VON) e pode causar tolerância, exigindo dosagens mais altas. A critério do MJ, você pode precisar fazer Verificações de VON para evitar elevar o nível do vício. A abstinência também pode infligir efeitos adicionais, como oscilações de humor, comportamento compulsivo ou mal-estar físico.
+Cada vício assume formas diferentes, dependendo do personagem e da fonte. O vício de longo prazo pode resultar em danos físicos ou mentais (modificadores de debilitação ou reduções em Verificações de SOM ou VON) e pode causar tolerância, exigindo dosagens mais altas. A critério do MJ, você pode precisar fazer Verificações de VON para evitar elevar o nível do vício. A abstinência também pode infligir efeitos adicionais, como oscilações de humor, comportamento compulsivo ou mal-estar físico.
 
 Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura exige uma Verificação de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Verificações de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
 
@@ -533,7 +533,7 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Este traço só está disponível para crus. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilidade −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilidade −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Este traço só está disponível para crus. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
@@ -603,7 +603,7 @@ Adaptar-se a novos morfos é bastante desafiador para você. Aplique um modifica
 
 **Traço de ▲ Ego • Bônus de PP: 2**
 
-Você sofreu algum tipo de dano neurológico que ainda não pode ser curado. O distúrbio faz parte do seu ego e permanece mesmo ao reencapar. Esse dano pode ter sido herdado, resultado de um morfo ou implante mal projetado, ou causado por um nanovírus durante a Queda. Trabalhe com o seu MJ para definir um distúrbio específico apropriado ao seu jogo. O MJ pode infligir modificadores de debilidade (geralmente −10) conforme for apropriado, de acordo com o distúrbio. Algumas possibilidades são:
+Você sofreu algum tipo de dano neurológico que ainda não pode ser curado. O distúrbio faz parte do seu ego e permanece mesmo ao reencapar. Esse dano pode ter sido herdado, resultado de um morfo ou implante mal projetado, ou causado por um nanovírus durante a Queda. Trabalhe com o seu MJ para definir um distúrbio específico apropriado ao seu jogo. O MJ pode infligir modificadores de debilitação (geralmente −10) conforme for apropriado, de acordo com o distúrbio. Algumas possibilidades são:
 
 **Amúsica:** Você tem uma incapacidade de fazer ou entender música. Falhe automaticamente testes de perícias relacionados à música.
 
@@ -711,7 +711,7 @@ O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abus
 
 **Traço de ▼ Morfo • Bônus de PM: 2/4**
 
-Esse traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilidade −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Verificação de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que o atendimento médico na forma de um Teste de Medicina: Paramedicina bem sucedido for aplicado).
+Esse traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilitação −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Verificação de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que o atendimento médico na forma de um Teste de Medicina: Paramedicina bem sucedido for aplicado).
 
 ### Defeito Pericial
 
@@ -747,4 +747,4 @@ Este traço só está disponível para biomorfos. O sistema imune do morfo é fa
 
 **Traço de ▼ Morfo • Bônus de PM: 2**
 
-Este traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilidade −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Verificação de SOM ou passar 1 hora incapacitado com náuseas.
+Este traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Verificação de SOM ou passar 1 hora incapacitado com náuseas.
