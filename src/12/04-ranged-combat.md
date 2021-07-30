@@ -48,7 +48,7 @@ Ranged weapons have one or more firing modes that determines their rate of fire:
 | Semi-Auto                                          | Standard DV                                           |
 | Burst Fire                                         |                                                       |
 | <div class="indent">» Single Target</div>          | +10 to hit or +1d10&nbsp;DV                           |
-| <div class="indent">» Two Adjacent</div>           | Targets Standard DV to both                           |
+| <div class="indent">» Two Adjacent Targets</div>   | Standard DV to both                                   |
 | Full Auto                                          |                                                       |
 | <div class="indent">» Single Target</div>          | +30 to hit or +2d10&nbsp;DV                           |
 | <div class="indent">» Three Adjacent Targets</div> | Standard DV to all three                              |
