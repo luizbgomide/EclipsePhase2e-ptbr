@@ -10,13 +10,13 @@ Damage points are reduced by rest, medical care, and/or repair ([Healing & Repai
 
 ### Damage Value
 
-Weapons and other attacks inflict a number of damage points equal to their Damage Value (DV). Most DVs are presented as a variable amount, in the form of a die roll; for example: 3d10. In this case, you roll three ten-sided dice and add the results (counting 0 as 10). Sometimes the DV will be presented as a dice roll plus modifier; for example: 2d10 + 5. In this case you roll two ten-sided dice, add them together, and then add 5 to get the result. Superior results, ammunition types, firing modes, and other factors may increase an attackfs DV.
+Weapons and other attacks inflict a number of damage points equal to their Damage Value (DV). Most DVs are presented as a variable amount, in the form of a die roll; for example: 3d10. In this case, you roll three ten-sided dice and add the results (counting 0 as 10). Sometimes the DV will be presented as a dice roll plus modifier; for example: 2d10 + 5. In this case you roll two ten-sided dice, add them together, and then add 5 to get the result. Superior results, ammunition types, firing modes, and other factors may increase an attack’s DV.
 
 For simplicity, a static amount is also noted in parentheses after the variable amount. If you prefer to skip the dice rolling, you can just apply the static amount (usually close to the mean average) instead. For example, if the damage were noted 2d10 + 5 \[16\], you could simply apply 16 damage points instead of rolling dice.
 
 ## Durability
 
-Your physical health is measured by your morphfs Durability stat. For biomorphs, this represents the point at which accumulated injuries overwhelm and incapacitate you. Once your total damage points equal or exceed your Durability, you immediately collapse from exhaustion and physical abuse. You gain the [unconscious condition](../12/21-other-action-factors.md#conditions) and cannot be revived until your damage points are reduced below your Durability, either from medical care or natural healing.
+Your physical health is measured by your morph’s Durability stat. For biomorphs, this represents the point at which accumulated injuries overwhelm and incapacitate you. Once your total damage points equal or exceed your Durability, you immediately collapse from exhaustion and physical abuse. You gain the [unconscious condition](../12/21-other-action-factors.md#conditions) and cannot be revived until your damage points are reduced below your Durability, either from medical care or natural healing.
 
 For synthmorphs, Durability represents structural integrity. You become physically disabled when accumulated damage points reach your Durability and your software mind-state crashes.
 
@@ -26,11 +26,11 @@ Even if you are unconscious/disabled, your mesh inserts may still function ([Dam
 
 Wounds represent grievous injuries: bad cuts and hemorrhaging, fractures and breaks, mangled limbs, broken systems, and other serious damage that impairs your ability to function and may lead to death or long-term impairment.
 
-Any time your character sustains damage, compare the amount inflicted from a single source (after it has been reduced by armor) to your Wound Threshold. Wound Threshold equals your morphfs Durability € 5. If the modified DV equals or exceeds your Wound Threshold, you have suffered a wound. If the inflicted damage is double your Wound Threshold, you suffer 2 wounds; if triple your Wound Threshold, you suffer 3 wounds; and so on.
+Any time your character sustains damage, compare the amount inflicted from a single source (after it has been reduced by armor) to your Wound Threshold. Wound Threshold equals your morph’s Durability ÷ 5. If the modified DV equals or exceeds your Wound Threshold, you have suffered a wound. If the inflicted damage is double your Wound Threshold, you suffer 2 wounds; if triple your Wound Threshold, you suffer 3 wounds; and so on.
 
 Wounds are cumulative and must be marked on your character sheet.
 
-Note that these rules handle damage and wounds as an abstract concept. For drama and realism, GMs may wish to describe wounds in more detailed and grisly terms: a broken ankle, a smashed servo, internal bleeding, a lost ear, and so on. The nature of such descriptive injuries can help the GM assign other effects. For example, a crushed hand may mean you canft pick up a gun, excessive blood loss may leave a trail for your enemies to follow, or a cut eye might inflict an additional visual perception modifier. Likewise, such details may impact how you heal or are treated.
+Note that these rules handle damage and wounds as an abstract concept. For drama and realism, GMs may wish to describe wounds in more detailed and grisly terms: a broken ankle, a smashed servo, internal bleeding, a lost ear, and so on. The nature of such descriptive injuries can help the GM assign other effects. For example, a crushed hand may mean you can’t pick up a gun, excessive blood loss may leave a trail for your enemies to follow, or a cut eye might inflict an additional visual perception modifier. Likewise, such details may impact how you heal or are treated.
 
 ## Wound Effects
 
@@ -48,7 +48,7 @@ Biomorph characters who have suffered a wound and taken damage equal to or excee
 
 ## Death Rating
 
-An unhealthy accumulation of damage points will threaten your characterfs life. If the damage reaches your Death Rating, your body dies (biomorphs) or is destroyed beyond repair (synthmorphs).
+An unhealthy accumulation of damage points will threaten your character’s life. If the damage reaches your Death Rating, your body dies (biomorphs) or is destroyed beyond repair (synthmorphs).
 
 Death Rating is based on Durability × 1.5 for biomorphs and Durability × 2 for synthmorphs.
 
