@@ -67,7 +67,9 @@ You will sometimes rely on your aptitudes to make tests rather than learned skil
 - **Reflexes (REF) Check:** Catch a thrown object, balance, avoid blinding glare, or stop yourself from falling.
 - **Savvy (SAV) Check:** Evaluate a social situation, express empathy, follow etiquette, or resist social manipulation.
 - **Somatics (SOM) Check:** Exercise brute strength, endure hardships, or break free from grapples.
-- **Willpower (WIL) Check:** Keep your composure, steel your resolve, or resist fear or emotional manipulation. Aptitude checks are a derived stat, based on your aptitude × 3.
+- **Willpower (WIL) Check:** Keep your composure, steel your resolve, or resist fear or emotional manipulation.
+
+Aptitude checks are a derived stat, based on your aptitude × 3.
 
 ## Skills
 
