@@ -34,9 +34,9 @@ Note that these rules handle damage and wounds as an abstract concept. For drama
 
 ## Wound Effects
 
-Each wound applies a cumulative 10 modifier to actions and 1 to Initiative. A character with 3 wounds, for example, suffers 30 to all actions and 3 to Initiative.
+Each wound applies a cumulative −10 modifier to actions and −1 to Initiative. A character with 3 wounds, for example, suffers −30 to all actions and −3 to Initiative.
 
-Some traits, ware, drugs, psi sleights, and pools allow you to ignore wound modifiers. These effects are cumulative, though a maximum of 3 wounds worth of modifiers can be negated (.30 to actions and 3 to Initiative).
+Some traits, ware, drugs, psi sleights, and pools allow you to ignore wound modifiers. These effects are cumulative, though a maximum of 3 wounds worth of modifiers can be negated (−30 to actions and −3 to Initiative).
 
 **Knockdown:** Any time you receive a wound, make an immediate SOM Check. Wound modifiers apply. If you fail, you are [knocked prone](../12/21-other-action-factors.md#conditions) and must expend a quick action to stand up/reorient. Shells (bots and vehicles) moving at speed must make an Athletics or Pilot Test to avoid crashing.
 
