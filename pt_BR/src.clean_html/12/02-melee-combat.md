@@ -9,21 +9,21 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
 | Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Alcance                                               |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
-| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Perfura Armadura, Alcance, Duas Mãos                  |
-| Enguiônicos             |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Ocultável, Choque, Apenas Toque                       |
+| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Alcance, Duas Mãos, Perfura-Armadura                  |
+| Enguiônicos             |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
-| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Perfura Armadura, Alcance                             |
-| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Perfura Armadura, Frágil                              |
-| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Perfura Armadura, Alcance (+20), Duas Mãos            |
-| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Perfura Armadura, Ocultável                           |
-| Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Alcance, Choque, Apenas Toque                         |
-| Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Apenas Toque                                  |
+| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Alcance, Perfura-Armadura                             |
+| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Frágil, Perfura-Armadura                              |
+| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Alcance (+20), Duas Mãos, Perfura-Armadura            |
+| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Ocultável, Perfura-Armadura                           |
+| Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Alcance, Choque, Toque Simples                        |
+| Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
 | Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
-| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Perfura Armadura/+2d10&nbsp;VD quando serrando        |
+| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Perfura-Armadura/+2d10&nbsp;VD quando serrando        |
 | Faca-Vespa              |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
 
 <!-- CLEANED div class="indent" -->
@@ -40,7 +40,7 @@ Armamentos implantados podem ser combinados com enguiônicos para produzir choqu
 
 **Enguiônicos:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (hardware) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias padrão ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria padrão).
 
-**Espeto de Pistão:** Este espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e estruturas sintéticas. A maioria é projetada para uso repetido, embora um modelo alternativo de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
+**Espeto de Pistão:** Este espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
 
 **Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por oríficos ocultos.
 
@@ -72,7 +72,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Vibrolâmina:** Estas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito quando apunhalar ou cortar, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
 
-**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para que ele ele estoure a cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
+**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para que ele ele estoure a cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
 ## Regras de Luta
 
@@ -90,30 +90,30 @@ Um personagem que faz um movimento total e ataque de luta no mesmo turno de aç�
 
 Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Alcance. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora neste caso você possa optar não causar).
 
-Se você tiver sucesso em seu ataque com um sucesso maior, você subjuga seu oponente (ele adquire a condição agarrado). Um oponente agarrado está temporariamente preso e sua Taxa de Movimento é 0. Ele pode se comunicar, usar perícias mentais/psi e fazer ações da mesh, mas ele não pode fazer qualquer ação física além de tentar se libertar. (A critério do MJ, ele pode fazer ações físicas pequenas e contidas, como pegar algo no bolso ou nas proximidades, mas isso pode exigir uma Verificação de SOM ou outro teste).
+Se você tiver sucesso em seu ataque com um sucesso maior, você subjuga seu oponente (ele adquire a condição agarrado). Um oponente agarrado está temporariamente preso e sua Taxa de Movimento é 0. Ele pode se comunicar, usar perícias mentais/psi e fazer ações da mesh, mas ele não pode fazer qualquer ação física além de tentar se libertar. (A critério do MJ, ele pode fazer ações físicas pequenas e contidas, como pegar algo no bolso ou nas proximidades, mas isso pode exigir uma Prova de SOM ou outro teste).
 
-Para se libertar, um personagem agarrado deve fazer uma ação complexa e ter sucesso em um Teste de Luta ou Verificação de SOM oposta pela Luta ou Verificação do SOM do agarrador. Se o personagem se libertar e conseguir um sucesso maior, ele pode escolher agarrar o outro personagem.
+Para se libertar, um personagem agarrado deve fazer uma ação complexa e ter sucesso em um Teste de Luta ou Prova de SOM oposta pela Luta ou Prova de SOM do agarrador. Se o personagem se libertar e conseguir um sucesso maior, ele pode escolher agarrar o outro personagem.
 
 Em um agarramento, ambos os personagens tem −30 para se opor a qualquer ataque feito contra eles por outros fora do agarramento.
 
 Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer uma ação complexa para manter o agarramento. Como parte dessa ação, ele pode escolher fazer um dos seguintes:
 
-- **Estrangulamento:** Vítimas biomorfos devem fazer uma Verificação de SOM ou cair inconscientes, pois seu fluxo de sangue ou ar está restringido.
+- **Estrangulamento:** Vítimas biomorfos devem fazer uma Prova de SOM ou cair inconscientes, pois seu fluxo de sangue ou ar está restringido.
 - **Dano:** A vítima agarrada sofre dano desarmado, sem defesa.
-- **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Verificação de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
+- **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Prova de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
 - **Movimento:** O agarrador pode mover-se com o oponente subjugado à metade da sua Taxa de Movimento.
 
 ## Múltiplos Alvos
 
-Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar dentro de um metro de outro oponente atacado. Estes ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
+Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Estes ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
 
 ## Alcance
 
 Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de alcance sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Alcance +10, até o máximo de +30.
 
-## Ataques de Apenas Toque
+## Ataques de Toque Simples
 
-Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los, e por isso são mais fáceis. Isso pode ser aplicável quando você está tentando colocar um adesivo dérmico de droga, cutucar com um bastão de atordoamento ou fazer contato pele com pele para usar um truque psi. Em situações assim, aplique um modificador +20 ao seu ataque de luta. Ataques de luta de choque feitos um bônus de apenas toque não causam VD. (Se você também quiser infligir VD com o ataque, você deve fazer o ataque sem o modificador +20.)
+Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los, e por isso são mais fáceis. Isso pode ser aplicável quando você está tentando colocar um adesivo dérmico de droga, cutucar com um bastão de atordoamento ou fazer contato pele com pele para usar um truque psi. Em situações assim, aplique um modificador +20 ao seu ataque de luta. Ataques de choque em luta feitos um bônus de toque simples não causam VD. (Se você também quiser infligir VD com o ataque, você deve fazer o ataque sem o modificador +20.)
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -134,6 +134,6 @@ Estes modificadores se aplicam a ataques de combate próximo.
 | <!-- CLEANED div class="indent" -->» Desvantagem de 2+ Membros<!-- CLEANED /div --> |                 −20                 |
 | Múltiplos Alvos                                                                                         |         −20 por alvo extra          |
 | Alcance                                                                                                 |             +10 ou mais             |
-| Apenas Toque                                                                                            |            +20, sem dano            |
+| Toque Simples                                                                                           |            +20, sem dano            |
 
 <!-- CLEANED /blockquote -->
