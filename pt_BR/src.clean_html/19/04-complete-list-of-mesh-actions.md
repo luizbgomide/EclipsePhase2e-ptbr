@@ -144,7 +144,7 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Controlar PNJs:** Ditar quais respostas os PNJs darão a determinadas ações ou controlá-los diretamente.
 - **Espionar:** Vigiar virtualmente outros usuários.
 - **Gerar Itens:** Criar itens virtuais independentemente da raridade.
-- **Modificar Simulmorfo:** Modificar as estatísticas de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
+- **Modificar Simulmorfo:** Modificar os atributos de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
 - **Ativar Privacidade:** Impedir que suas comunicações cara a cara sejam espionadas.
 - **Iniciar/Parar Simulespaço:** Carregar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
