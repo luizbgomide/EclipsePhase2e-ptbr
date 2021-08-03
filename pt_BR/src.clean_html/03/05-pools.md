@@ -11,7 +11,7 @@ Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pod
 
 ## Usando Paradas
 
-Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
+Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
 
 - **Antes da Rolagem:** Ignorar todos os modificadores do teste.
 - **Antes da Rolagem:** Adicionar +20 ao número alvo do teste.
