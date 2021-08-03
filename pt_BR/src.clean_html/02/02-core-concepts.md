@@ -44,7 +44,7 @@ Quase todo objeto é sem fio e computadorizado. Cada um desses dispositivos se l
 
 ## Conversas na Mesa
 
-Assume-se que todos os personagens estejam conectados na mesh. Isso permite que eles falem um com o outro, compartilhem vídeos em primeira pessoa, dados do sensores e outras informações mesmo quando estão separados. Mas tenha cuidado! Os inimigos experientes em infoseg podem monitorar essas conversas ou até mesmo alterar mensagens entre personagens.
+Assume-se que todos os personagens estejam conectados a mesh. Isso permite que eles falem um com o outro, compartilhem vídeos em primeira pessoa, dados do sensores e outras informações mesmo quando estão separados. Mas tenha cuidado! Os inimigos experientes em infoseg podem monitorar essas conversas ou até mesmo alterar mensagens entre personagens.
 
 <!-- CLEANED /blockquote -->
 
