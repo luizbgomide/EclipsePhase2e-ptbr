@@ -14,7 +14,7 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 
 ### Rolagem d100 (0-99)
 
-- O número alvo é determinado pela perícia apropriada, verificação de aptidão ou nível de rep.
+- O número alvo é determinado pela perícia apropriada, prova de aptidão ou nível de rep.
 - A dificuldade é representada por _modificadores_ deste número alvo, atribuídos pelo MJ.
 - Seu objetivo é rolar igual ou menos que o número alvo modificado, mas o mais alto possível.
 - Uma rolagem igual ou menor que o número alvo é um sucesso. Se a rolagem de sucesso for 33 ou mais, é um _sucesso maior_. Se ela for 66 ou mais, são dois sucessos maiores.
@@ -128,7 +128,7 @@ Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa red
 Seu personagem possui um número de paradas que definem suas capacidades transumanas. A maioria das paradas derivam do seu morfo, mas alguns pontos de Flex vêm do seu ego.
 
 - Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.
-- Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
+- Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
 - Salvo indicação em contrário, apenas 1 ponte de parada pode ser gasto por teste.
 
 <!-- CLEANED blockquote class="indent" -->
