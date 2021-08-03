@@ -38,17 +38,17 @@ Most synthmorphs and objects do not heal on their own and must be repaired. Some
 | :------------------ | :--------------------------------------------------: | :-----------------------: |
 | Medicine: Paramedic | 1 wound, 1d10 \[6\] damage +1d6 per superior success | 10 minutes + 10 per wound |
 
-| Recovery                        | Damage Healing Rate  | Wound Healing Rate | Effect Duration |
-| :------------------------------ | :------------------: | :----------------: | :-------------: |
-| Morph without Biomods           |  1d10 \[6\] per day  |     1 per week     |        —        |
-| Morph with Biomods              |  1d10 \[6\] per 12   | hours 1 per 3 days |        —        |
-| Medichines                      | 1d10 \[6\] per hour  |     1 per day      |        —        |
-| Meds                            | 1d10 \[6\] per hour  |     1 per day      |      1 day      |
-| Fixers                          | 1d10 \[6\] per hour  |     1 per day      |     5 days      |
-| Healing Spray/<wbr>Repair Spray | 1d10 \[6\] per hour  |         —          |    12 hours     |
-| Healing Vat/<wbr>Nanofabber     | 2d10 \[11\] per hour |   1 per 2 hours    |        —        |
-| Poor Conditions                 |          x2          |         x2         |        —        |
-| Harsh Conditions                |          x3          |         x3         |        —        |
+| Recovery                        |   Damage Healing Rate   | Wound Healing Rate | Effect Duration |
+| :------------------------------ | :---------------------: | :----------------: | :-------------: |
+| Morph without Biomods           |   1d10 \[6\] per day    |     1 per week     |        —        |
+| Morph with Biomods              | 1d10 \[6\] per 12 hours |    1 per 3 days    |        —        |
+| Medichines                      |   1d10 \[6\] per hour   |     1 per day      |        —        |
+| Meds                            |   1d10 \[6\] per hour   |     1 per day      |      1 day      |
+| Fixers                          |   1d10 \[6\] per hour   |     1 per day      |     5 days      |
+| Healing Spray/<wbr>Repair Spray |   1d10 \[6\] per hour   |         —          |    12 hours     |
+| Healing Vat/<wbr>Nanofabber     |  2d10 \[11\] per hour   |   1 per 2 hours    |        —        |
+| Poor Conditions                 |           x2            |         x2         |        —        |
+| Harsh Conditions                |           x3            |         x3         |        —        |
 
 | Physical Repair          |                Timeframe                |
 | :----------------------- | :-------------------------------------: |
