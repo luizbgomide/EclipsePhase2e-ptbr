@@ -16,7 +16,7 @@ Role os dados quando os resultados podem influenciar a trama ou ter outras conse
 
 ## Fazendo Testes
 
-Quando o MJ pede um teste, role dados de porcentagem e compare o resultado com o número alvo. O número alvo é baseado na perícia, verificação de aptidão ou nível de rep na rede do personagem. Se o resultado for igual ou menor que o número alvo, o teste tem sucesso. Se o resultado for maior, o teste falha.
+Quando o MJ pede um teste, role dados de porcentagem e compare o resultado com o número alvo. O número alvo é baseado na perícia, prova de aptidão ou nível de rep na rede do personagem. Se o resultado for igual ou menor que o número alvo, o teste tem sucesso. Se o resultado for maior, o teste falha.
 
 Apesar de você precisar rolar igual ou menos que o número alvo, você também precisa rolar o mais alto possível para conseguir um [sucesso maior](../03/01-how-to-play.md#superior-results-3366-rule) ou para derrotar o seu oponente em [testes opostos](../03/02-types-of-tests.md#opposed-tests).
 
