@@ -130,7 +130,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hacker Genético:** Alguém que manipula código genético para criar modificações genéticas ou até mesmo uma nova vida.
 - **GEO:** órbita geossíncrona, 35.786&nbsp;km de altitude acima do equador.
 - **Fantasma:** Um biomorfo de combate transumano otimizado para furtividade.
-- **Carona:** Um infomorfo carregado em um implante especial.
+- **Carona Virtual:** Um infomorfo carregado em um implante especial.
 - **Glandular:** Usar ware para modificar o seu estado emocional.
 - **Glitterati:** Socialites, hiperelites e ícones da mídia.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
@@ -181,7 +181,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Meme:** Uma ideia viral. Uma unidade de informação transmitida socialmente que se autorreplica e sofre mutação de maneira análoga aos genes.
 - **Menton:** Um biomorfo otimizado para habilidades mentais e cognitivas.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
-- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (meshar) ou adjetivo (meshado ou desmeshado).
+- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (fazer mesh) ou adjetivo (em mesh ou sem mesh).
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
 - **Meshware:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
