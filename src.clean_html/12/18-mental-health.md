@@ -53,9 +53,7 @@ The impact of multiple traumas at once can trigger an overpowering physiological
 - **3–4 Flight:** You must flee from the source of the trauma until you reach safety (such as a good hiding spot) or exhaust yourself. If you cannot escape the threat or hide, you fight instead.
 - **5–6 Detachment:** You enter a catatonic state or simply give in. You do not resist attacks against you or respond to stimuli, you check out from reality. This lasts for an hour or as long as the GM decides. If the GM allows it, others can attempt to snap you out of it with a Provoke Test at −30.
 
-Each of these responses may be accompanied by additional symptoms:
-
-anxiety, confusion, indecisiveness, fixation, nausea, tremors, echolalia, and so on. Players are encouraged to roleplay their reactions. Additionally, any time you suffer an acute stress response, you will have difficulty remembering the details later (–30 to COG Checks to recall details), though mnemonics or similar memory augmentations may circumvent this. You will also, however, need to make a WIL Check in order to even attempt to access these memories; most survivors bury these experiences and avoid reliving them.
+Each of these responses may be accompanied by additional symptoms: anxiety, confusion, indecisiveness, fixation, nausea, tremors, echolalia, and so on. Players are encouraged to roleplay their reactions. Additionally, any time you suffer an acute stress response, you will have difficulty remembering the details later (–30 to COG Checks to recall details), though mnemonics or similar memory augmentations may circumvent this. You will also, however, need to make a WIL Check in order to even attempt to access these memories; most survivors bury these experiences and avoid reliving them.
 
 ## Insanity Rating
 
