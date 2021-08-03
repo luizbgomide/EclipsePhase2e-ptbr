@@ -15,7 +15,7 @@ As suas aptidões, perícias, e alguns atributos e traços derivados pertencem a
 <!-- CLEANED div class="two-columns" -->
 
 - Aptidões
-- Verificações de Aptidão
+- Provas de Aptidão
 - Perícias
 - Iniciativa
 - Lucidez
@@ -58,16 +58,16 @@ Há 6 graduações de aptidão:
 - **Somática (SOM)** é o quão bem você pode explorar as capacidades físicas do seu morfo, incluindo força, resistência, e posicionamento e movimento contínuos.
 - **Vontade (VON)** é o seu autocontrole, fortitude mental e força da personalidade.
 
-### Verificações de Aptidão
+### Provas de Aptidão
 
 Às vezes, você vai usar suas aptidões para fazer testes em vez de perícias aprendidas. As verificações de aptidão normalmente só entram em jogo em situações onde nenhuma perícia é aplicável, mas o talento bruto sim. Alguns exemplos:
 
-- **Verificação de Cognição (COG):** Relembrar uma memória, memorizar um número ou resistir à manipulação mental.
-- **Verificação de Intuição (INT):** Avaliar uma situação, ver através de uma ilusão ou perceber intenções alienígenas.
-- **Verificação de Reflexos (REF):** Pegar um objeto atirado, equilibrar-se, evitar clarões cegantes ou impedir que você caia.
-- **Verificação de Sagacidade (SAG):** Avaliar uma situação social, demonstrar empatia, seguir etiqueta ou resistir à manipulação social.
-- **Verificação de Somática (SOM):** Usar força bruta, suportar privações ou escapar de agarramentos.
-- **Verificação de Vontade (VON):** Manter sua compostura, firmar sua determinação, ou resistir ao medo ou a manipulação emocional. As verificações de aptidão são atributos derivados, baseado na sua aptidão × 3.
+- **Prova de Cognição (COG):** Relembrar uma memória, memorizar um número ou resistir à manipulação mental.
+- **Prova de Intuição (INT):** Avaliar uma situação, ver através de uma ilusão ou perceber intenções alienígenas.
+- **Prova de Reflexos (REF):** Pegar um objeto atirado, equilibrar-se, evitar clarões cegantes ou impedir que você caia.
+- **Prova de Sagacidade (SAG):** Avaliar uma situação social, demonstrar empatia, seguir etiqueta ou resistir à manipulação social.
+- **Prova de Somática (SOM):** Usar força bruta, suportar privações ou escapar de agarramentos.
+- **Prova de Vontade (VON):** Manter sua compostura, firmar sua determinação, ou resistir ao medo ou a manipulação emocional. As verificações de aptidão são atributos derivados, baseado na sua aptidão × 3.
 
 ## Perícias
 
@@ -98,7 +98,7 @@ Vários dos seus atributos são derivados de outros atributos ou aspectos do seu
 | Atributo                            | Fórmula                                                         |
 |:----------------------------------- |:--------------------------------------------------------------- |
 | Iniciativa                          | (REF + INT) ÷ 5                                                 |
-| Verificações de Aptidão             | Aptidão × 3                                                     |
+| Provas de Aptidão                   | Aptidão × 3                                                     |
 | Limiar de Ferimento                 | DUR ÷ 5                                                         |
 | Grau de Morte                       | DUR x 1,5 (biomorfos)<br>DUR x 2 (sintemorfos/infomorfos) |
 | Limiar de Trauma                    | LUC ÷ 5                                                         |
