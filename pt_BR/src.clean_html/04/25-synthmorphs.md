@@ -52,7 +52,7 @@ Os estojos são carcaças robóticas produzidas em massa, um opção acessível 
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Falhas Inerentes, Morfologia Exótica (Nível 1)
-- **Notas:** Estrutura Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Armadura 6/4)
 
 <!-- CLEANED /blockquote -->
 
@@ -76,7 +76,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pele Conectada, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Estrutura Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /blockquote -->
 
@@ -100,7 +100,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Ware:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Estrutura Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /blockquote -->
 
@@ -148,7 +148,7 @@ Os sintes são ainda mais humanoides que os estojos e de melhor qualidade. Eles 
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Estrutura Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Armadura 6/4)
 
 <!-- CLEANED /blockquote -->
 
@@ -172,7 +172,7 @@ Desenvolvidos por hackers de hardware marginais, os savants possuem aprimorament
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Estrutura Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Armadura 6/4)
 
 <!-- CLEANED /blockquote -->
 
@@ -196,7 +196,7 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Estrutura Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Armadura 6/4)
 
 <!-- CLEANED /blockquote -->
 
@@ -220,7 +220,7 @@ As carcaças serpentoides tem a forma de um torso humanoide com braços retráte
 - **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
 - **Ware:** Cibercérebro, Insertos da Mesh, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 2)
-- **Notas:** Estrutura Média (Armadura 8/6)
+- **Notas:** Armação Média (Armadura 8/6)
 
 <!-- CLEANED /blockquote -->
 
@@ -244,7 +244,7 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Estrutura Média (Armadura 8/6)
+- **Notas:** Armação Média (Armadura 8/6)
 
 <!-- CLEANED /blockquote -->
 
@@ -268,7 +268,7 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 - **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/20, Rodas 8/40, Salto 4/12
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Estrutura Média (Armadura 8/6)
+- **Notas:** Armação Média (Armadura 8/6)
 
 <!-- CLEANED /blockquote -->
 
@@ -292,7 +292,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 - **Taxa de Movimento:** Empuxo Vetorial 8/40, Iônico 8/40, Marcha 4/20, Salto 4/20
 - **Ware:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Estrutura Pesada (Armadura 12/10)
+- **Notas:** Armação Pesada (Armadura 12/10)
 
 <!-- CLEANED /blockquote -->
 
@@ -309,7 +309,7 @@ Cada flexbot é considerada uma única entidade para fins de regras, não import
 - Escolha um módulo para conter o ego — este módulo controla os outros.
 - (Des)conectar um módulo é uma ação complexa e requer um [Teste de Integração](../15/02-resleeving.md#integration-test). Os módulos não conectados fisicamente são tratados como em [operação remota](../16/21-robots.md#remote-operations).
 - Quando os módulos são combinados, use suas paradas combinadas.
-- Os módulos devem estar todos usando o mesmo sistema de mobilidade ou a Taxa de Movimento é reduzida pela metade.
+- Os módulos devem estar todos usando o mesmo sistema de mobilidade ou a Taxa de Movimento é reduzida à metade.
 - Um flexbot com 3–4 módulos é de tamanho médio; 5–9 grande; 10 ou mais muito grande.
 - O Valor de Armadura de um flexbot é igual à média dos VAs de seus módulos.
 - A DUR de um flexbot é igual a DUR combinada de seus módulos.
@@ -331,7 +331,7 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 - **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/12
 - **Ware:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Estrutura Leve (Armadura 6/4), Tamanho pequeno
+- **Notas:** Armação Leve (Armadura 6/4), Tamanho pequeno
 
 <!-- CLEANED /blockquote -->
 
@@ -397,7 +397,7 @@ Os ladinos são otimizados para furtividade e atividades ocultas.
 ---
 
 - **Ware:** Absorção de Radar, Pele Camaleão
-- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscantes, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
+- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 <!-- CLEANED /blockquote -->
 
