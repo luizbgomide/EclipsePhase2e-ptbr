@@ -11,7 +11,7 @@
   - [A Queda](../06/01-slouching-towards-singularity.md#a-queda)
     - [As TITANs](../06/01-slouching-towards-singularity.md#as-titans)
     - [Queima Lenta](../06/01-slouching-towards-singularity.md#queima-lenta)
-    - [Querra Quente](../06/01-slouching-towards-singularity.md#querra-quente)
+    - [Guerra Quente](../06/01-slouching-towards-singularity.md#guerra-quente)
     - [Combate Extendido](../06/01-slouching-towards-singularity.md#combate-extendido)
     - [Êxodo](../06/01-slouching-towards-singularity.md#êxodo)
   - [Depois da Queda](../06/01-slouching-towards-singularity.md#depois-da-queda)

@@ -59,7 +59,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 - Religião
 - Vingança
 - Descoberta Científica
-- Autoconfiança
+- Autossuficiencia
 - Maestria em Perícia
 - Socialismo
 - Estabilidade

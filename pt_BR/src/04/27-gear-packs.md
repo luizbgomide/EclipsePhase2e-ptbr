@@ -6,7 +6,7 @@ Os equipamentos fornecidos nestes pacotes são opcionais. Se houver outro equipa
 
 Esses pacotes de equipamentos também podem ser usados como uma forma fácil de atribuir equipamentos para novas missões durante o jogo ([Adquirindo Equipamentos](../16/02-acquiring-gear.md)).
 
-Todos equipamentos iniciais incluem o item físico do equipamento e o modelo digital para nanofabricação.
+Todos equipamentos iniciais incluem o item físico do equipamento e a matriz digital para nanofabricação.
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#muses) de graça.
 
@@ -21,7 +21,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Anonimizador                  |                 Men/1                 | Mascara a sua mesh ID.                                                                       |
 | Colete de Proteção (Leve)\* |                 Men/1                 | VA 4/10. Ocultável.                                                                          |
 | Ego ID Falsa                  |                Mai/R/3                | ID e histórico falsificados, com seus próprios níveis de rep.                                |
-| Arma de Fogo Pistola Média    |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Distância 30.                                             |
+| Pistola Média (Arma de Fogo)  |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                               |
 | Vestuário Inteligente\*     |                 Men/1                 | Pode alterar as cores, texturas e modelo. +10 em Infiltração, +30 se coberto e estacionário. |
 | App de TacNet                 |                 Mod/2                 | Compartilhamento de dados táticos em tempo real.                                             |
 | App de VPN                    |                 Men/1                 | Cria uma rede privada virtual.                                                               |
@@ -39,15 +39,15 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 ### Desbravamento
 
-| EQUIPAMENTOS               | Comp/<wbr>PE | Descrição                                                                               |
-|:-------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
-| Autocook\*               |                 Men/1                 | Fabrica apenas comida e bebida.                                                         |
-| Corda Eletrônica           |                 Men/1                 | Corda controlável.                                                                      |
-| Spray de Cura\*          |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                                  |
-| Arma de Fogo Pistola Média |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Distância 30.                                        |
-| SolArchive Portátil        |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
-| Traje de Vácuo Padrão\*  |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6.                   |
-| App de TacNet              |                 Mod/2                 | Compartilhamento de dados táticos em tempo real.                                        |
+| EQUIPAMENTOS                 | Comp/<wbr>PE | Descrição                                                                               |
+|:---------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
+| Autocook\*                 |                 Men/1                 | Fabrica apenas comida e bebida.                                                         |
+| Corda Eletrônica             |                 Men/1                 | Corda controlável.                                                                      |
+| Spray Curativo\*           |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                                  |
+| Pistola Média (Arma de Fogo) |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                          |
+| SolArchive Portátil          |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
+| Traje de Vácuo Padrão\*    |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6.                   |
+| App de TacNet                |                 Mod/2                 | Compartilhamento de dados táticos em tempo real.                                        |
 
 <blockquote class="indent">
 
@@ -82,7 +82,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Projetor Holográfico |                 Men/1                 | Projeta imagens/vídeos 3D, HD, ultrarrealistas. +20 em Percepção para notar que é falso a 20&nbsp;m. |
 | Microcarro           |                 Mod/2                 | Veículo de duas rodas para uma pessoa.                                                               |
 | Multitarefa          |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                           |
-| Neem (5 doses)       |                 Men/1                 | +20 em Verificações de COG para se lembrar de coisas aprendidas sob efeito de Neem.                  |
+| Neem (5 doses)       |                 Men/1                 | +20 em Provas de COG para se lembrar de coisas aprendidas sob efeito de Neem.                        |
 | SolArchive Portátil  |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh.              |
 | Bot Servente         |                 Men/1                 | Bot comum de ajudante/cozinheiro/zelador.                                                            |
 | Simulespaço          |                 Men/1                 | Acesso a um espaço de RV.                                                                            |
@@ -110,21 +110,21 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 ### Capanga
 
-| EQUIPAMENTOS       | Comp/<wbr>PE | Descrição                                                                             |
-|:------------------ |:-------------------------------------:|:------------------------------------------------------------------------------------- |
-| Aggro (5 doses)    |                 Men/1                 | +20 em Provocação para intimidar/zombar, −20 em outros testes sociais.                |
-| Garras             |                 Men/1                 | VD 2d6, ocultável.                                                                    |
-| Corta-Flex         |                 Men/1                 | Lâmina flexível, VD 1d10 + 3, ocultável.                                              |
-| Grin (5 doses)     |                 Men/1                 | Ignore 1 ferimento.                                                                   |
-| Ampliação Muscular |                 Mai/3                 | Músculos aprimorados como miofibras. +1d6&nbsp;VD luta, +10 em Verificações de SOM.   |
-| Luva de Choque     |                 Men/1                 | VD 1d6, Choque, Toque-Simples.                                                        |
-| Retalhador         |                Mod/R/2                | Disparador de flechettes, VD 2d10 + 6 SA/DR/TA, Munição 100, Distância 25, Duas-Mãos. |
+| EQUIPAMENTOS       | Comp/<wbr>PE | Descrição                                                                           |
+|:------------------ |:-------------------------------------:|:----------------------------------------------------------------------------------- |
+| Aggro (5 doses)    |                 Men/1                 | +20 em Provocação para intimidar/zombar, −20 em outros testes sociais.              |
+| Garras             |                 Men/1                 | VD 2d6, ocultável.                                                                  |
+| Cortador Flex      |                 Men/1                 | Lâmina flexível, VD 1d10 + 3, ocultável.                                            |
+| Grin (5 doses)     |                 Men/1                 | Ignore 1 ferimento.                                                                 |
+| Ampliação Muscular |                 Mai/3                 | Músculos aprimorados como miofibras. +1d6&nbsp;VD luta, +10 em Provas de SOM.       |
+| Luva de Choque     |                 Men/1                 | VD 1d6, Choque, Toque Simples.                                                      |
+| Retalhador         |                Mod/R/2                | Disparador de flechettes, VD 2d10 + 6 SA/DR/TA, Munição 100, Alcance 25, Duas Mãos. |
 
 ### Explorador
 
 | EQUIPAMENTOS        | Comp/<wbr>PE | Descrição                                                                                          |
 |:------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| Sistema de Migalhas |                 Men/1                 | Deixa um rastro de ciscos para meshar/posicionamento.                                              |
+| Sistema de Migalhas |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                               |
 | Sentido Direcional  |                 Men/1                 | Sentido inato de direção e distância.                                                              |
 | Visão Aprimorada    |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 | Gravador de Missão  |                 Men/1                 | Grava todos os dados da missão.                                                                    |
@@ -142,7 +142,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Nanodetector       |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobot 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
 | Neuromodulação     |                 Mod/2                 | Controle sobre seus neurotransmissores e emoções. + 1 em Manha.                                            |
 | Gavião Inteligente |                 Men/1                 | Usado para vigilância.                                                                                     |
-| Stiff (5 doses)    |                 Men/1                 | +10 em Verificações de SAG/VON vs. Persuasão/Provocação, Comportamento Acentuado: Teimosia (Nível 2).      |
+| Stiff (5 doses)    |                 Men/1                 | +10 em Provas de SAG/VON vs. Persuasão/Provocação, Comportamento Acentuado: Teimosia (Nível 2).            |
 
 ### Hacker Genético
 
@@ -155,7 +155,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Enxame Inoculador      |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
 | Recipiente de Espécime |                 Men/1                 | Mantém amostas em condições de estase.                                            |
 | Ferramentas (Kit)      |                 Men/1                 | Portátil, aplicável a perícia específica.                                         |
-| Twitch (5 doses)       |                Men/R/1                | –20 em ações, Verificação de SOM vs. incapacitação.                               |
+| Twitch (5 doses)       |                Men/R/1                | –20 em ações, Prova de SOM vs. incapacitação.                                     |
 
 ### Hacker
 
@@ -163,7 +163,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 |:--------------------- |:-------------------------------------:|:---------------------------------------------------- |
 | App de Brechas        |                Mod/R/2                | Ferramenta de bibliotecas de hackeamento.            |
 | Caixa Cinza           |                 Men/1                 | Estabelece uma ligação mesh sem fio.                 |
-| Amplificador de Rádio |                 Men/1                 | Extende alcance de rádio, 25/250&nbsp;km de alcance. |
+| Amplificador de Rádio |                 Men/1                 | Estende alcance de rádio, 25/250&nbsp;km de alcance. |
 | App Farejador         |                 Mod/2                 | Coleta/monitora o tráfego entre dois sistemas.       |
 | App Mascarador        |                Mod/R/2                | Falsifica transmissões e mesh IDs.                   |
 | App Rastreador        |                 Mod/2                 | Rastreia conexões.                                   |
@@ -184,20 +184,20 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 ### Médico
 
-| EQUIPAMENTOS   | Comp/<wbr>PE | Descrição                                                                       |
-|:-------------- |:-------------------------------------:|:------------------------------------------------------------------------------- |
-| Medibot        |                 Mai/3                 | Bot médico.                                                                     |
-| Spray de Cura  |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                          |
-| Tanque de Cura |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                               |
-| Meds (5 doses) |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                |
-| Escaner Médico |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots como nanodetector. |
+| EQUIPAMENTOS     | Comp/<wbr>PE | Descrição                                                                       |
+|:---------------- |:-------------------------------------:|:------------------------------------------------------------------------------- |
+| Medibot          |                 Mai/3                 | Bot médico.                                                                     |
+| Spray Curativo   |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                          |
+| Tanque de Cura   |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                               |
+| Xarope (5 doses) |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                |
+| Escaner Médico   |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots como nanodetector. |
 
 ### Hacker Mental
 
 | EQUIPAMENTOS         | Comp/<wbr>PE | Descrição                                                  |
 |:-------------------- |:-------------------------------------:|:---------------------------------------------------------- |
 | Comfurt (5 doses)    |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
-| Enguiônicos          |                 Men/1                 | VD 1d6, efeito de choque, toque-simples.                   |
+| Enguiônicos          |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
 | Ponte Ego            |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | Multitarefa          |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | Servidor Privado     |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
@@ -207,12 +207,12 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 | EQUIPAMENTOS               | Comp/<wbr>PE | Descrição                                                                                                  |
 |:-------------------------- |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------- |
-| Sistema de Migalhas        |                 Men/1                 | Deixa um rastro de ciscos para meshar/posicionamento.                                                      |
-| Machado Diamantado         |                 Men/1                 | VD 2d10 + 3, perfura-armadura, alcance, duas-mãos.                                                         |
+| Sistema de Migalhas        |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                                       |
+| Machado Diamantado         |                 Men/1                 | VD 2d10 + 3, Perfura-Armadura, Alcance, Duas Mãos.                                                         |
 | Ferramentas de Desmontagem |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                                  |
 | Enxame Guardião            |                 Mod/2                 | Desativa outros enxames; ambos os enxames recebem VD 5 por turno.                                          |
 | Nanodetector               |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobot 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
-| Orbital Hash (5 doses)     |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Verificações de COG relacionados com memória.                      |
+| Orbital Hash (5 doses)     |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.                            |
 | Mula-Robô                  |                 Mod/2                 | Bot para carga de equipamento.                                                                             |
 
 ### Cientista
@@ -228,13 +228,13 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 ### Soldado
 
-| EQUIPAMENTOS             | Comp/<wbr>PE | Descrição                                                                                          |
-|:------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| Railgun Fuzil de Assalto |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Distância 150, Perfura-Armadura, Longa, Duas-Mãos.          |
-| Visão Aprimorada         |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
-| Grin (5 doses)           |                 Men/1                 | Ignore 1 ferimento.                                                                                |
-| Meds (5 doses)\*       |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                                   |
-| Neuroquim                |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                            |
+| EQUIPAMENTOS               | Comp/<wbr>PE | Descrição                                                                                          |
+|:-------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
+| Fuzil de Assalto (Railgun) |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Alcance 150, Perfura-Armadura, Longa, Duas Mãos.            |
+| Visão Aprimorada           |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
+| Grin (5 doses)             |                 Men/1                 | Ignore 1 ferimento.                                                                                |
+| Xarope (5 doses)\*       |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                                   |
+| Neuroquim                  |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                            |
 
 <blockquote class="indent">
 

@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ambientes Hostis - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações &amp; Tempo</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa &amp; Ordem das Ações</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo &amp; Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item expanded "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores &amp; Granadas</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armaduras</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Armaduras</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura &amp; Reparo</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental &amp; Psicocirurgia</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos &amp; Estruturas</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item expanded "><a href="../12/29-hostile-environments.html" class="active"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ambientes-hostis"><a class="header" href="#ambientes-hostis">Ambientes Hostis</a></h1>
+<p>O Sistema Solar pode ser amigável à vida em larga escala, mas se você está encalhado no poço gravitacional de Júpiter durante uma tempestade magnética, tentando respirar sem um respirador em Marte, ou flutuando pelo vácuo sem um traje de vácuo, ele não parece tão amigável.</p>
+<h2 id="contaminação-atmosférica"><a class="header" href="#contaminação-atmosférica">Contaminação Atmosférica</a></h2>
+<p>Os habitats as vezes ficam doentes. Os efeitos de um habitat sofrendo por desequilíbrio ecológico ou patógenos fora de controle podem variar de uma atmosfera de habitat levemente alergênica até septicemia ambiental desenfreada. Os biomorfos sem equipamento de respiração ou filtragem em um ambiente contaminado podem sofrer penalidades de −10 (contaminação leve) a −30 (atmosfera altamente séptica). Dependendo da contaminação, outros efeitos podem ser aplicáveis, de acordo com o MJ.</p>
+<h2 id="atmosfera-perigosa"><a class="header" href="#atmosfera-perigosa">Atmosfera Perigosa</a></h2>
+<p>Na maioria das atmosferas não respiráveis (tais como em Marte e muito exoplanetas), o principal risco para os transumanos sem um aparato ou modificações respiratórias é a falta de oxigênio (<a href="../12/28-environmental-factors.html#asphyxiation">Asfixia</a>). Em pressões atmosféricas mais baixas, os biomorfos precisam de mais oxigênio; em pressões mais altas, eles precisam de menos. Um concentração inadequada de oxigênio pode não asfixiar de imediato, mas causará dificuldades respiratórias e debilitação (−10 a −30 em todas as ações) ao longo do tempo. Concentrações mais altas levarão à toxicidade do oxigênio com o tempo, causando problemas de visão e desorientação (debilitação, −10 a −30), e finalmente convulsões, danos físicos e morte. Os incêndios se espalham rapidamente em ambientes ricos em oxigênio e as explosões infligem mais dano.</p>
+<p>Observe que muitos gases atmosféricos não causam problemas à respiração — argônio, hélio, neônio, nitrogênio — exceto em altas pressões. Metano também é respirável, embora seja altamente inflamável e reaja explosivamente com oxidantes e halogênios.</p>
+<p><strong>Atmosfera de Alta Pressão:</strong> Quase todos os gases que podem ser respirados, exceto que neônio e hélio que tornam-se narcóticos em altas pressões. A exposição ao longo de várias horas levará à debilitação (−10 a −30), alucinações, perda de memória, ansiedade, tontura, raciocínio prejudicado, e, por fim, danos físicos, inconsciência e morte.</p>
+<p><strong>Atmosfera Tóxica:</strong> Netuno, Titã, Urano e Vênus todos possuem atmosferas tóxicas. Atmosferas semelhantes podem ser encontradas em alguns exoplanetas, ou podem ser intencionalmente criadas como uma medida de segurança dentro de um habitat ou estrutura. Um personagem que não conheça a toxicidade atmosférica e não prenda a respiração imediatamente (Prova de REF) sofre VD 2d10 por turno de ação.</p>
+<p><strong>Atmosfera Corrosiva:</strong> Como em alguns exoplanetas, a atmosfera de Vênus também é corrosiva. Tais atmosferas são imediatamente perigosas: VD 1d10 por turno de ação, independentemente de você prender a respiração ou não. Aumente o VD para atmosferas com concentrações mais altas. A armadura só se aplica se estiver selada ambientalmente (e até que seja consumida). As atmosferas corrosivas danificarão veículos e equipamentos não equipados com blindagem anticorrosiva, infligindo 1 a 5 VD por minuto, dependendo da concentração.</p>
+<h2 id="calor-e-frio-extremos"><a class="header" href="#calor-e-frio-extremos">Calor e Frio Extremos</a></h2>
+<p>Os ambientes planetários vão desde o extremamente quente (Vênus, o lado diurno de Mercúrio) até o extremamente frio (Netuno, Titã, Urano). Ambos matarão um biomorfo desprotegido e não modificado dentro de minutos, ou até segundos. As carcaças sintéticas se saem melhor, especialmente no frio, mas até elas sucumbirão aos fornos ardentes dos planetas internos sem escudos de calor resistentes e sistemas de arrefecimento.</p>
+<h2 id="pressão-extrema"><a class="header" href="#pressão-extrema">Pressão Extrema</a></h2>
+<p>Da mesma forma, as pressões atmosféricas de Júpiter, Saturno, Urano, Netuno e Vênus rapidamente tornam-se esmagadoramente mortíferas em qualquer ponto além dos níveis superiores. Apenas sintemorfos e veículos com adaptações especiais de pressão podem ter esperança de sobreviver a tais profundezas.</p>
+<h2 id="zonas-de-transição-de-gravidade"><a class="header" href="#zonas-de-transição-de-gravidade">Zonas de Transição de Gravidade</a></h2>
+<p>O uso generalizado de gravidade simulada em habitats espaciais significa que você encontrará muitas vezes lugares onde a direção para baixo muda de repente. Na maioria dos habitats rotativos, o design padrão inclui uma zona axial em que uma espaçonave pode acoplar em microgravidade e uma zona de transição cuidadosamente projetada e demarcada (geralmente um elevador) onde pessoas e cargas chegando e saindo do espaçoporto axial podem se orientar para o &quot;baixo&quot; local e estar em pé no lugar certo quando a gravidade tiver efeito. As transições de gravidade em habitats rotativos são quase sempre graduais mas podem ser muito perigosas se você encontrar com elas no lugar ou no momento errados.</p>
+<p>Se você for lançado à deriva na zona de microgravidade no eixo de um hábitat espacial rotativo, você vai flutuar lentamente para fora, e vai acabar sendo levemente empurrado na direção de rotação pelos ventos. Você continuará à deriva em queda livre até entrar em contato com o solo, uma construção ou alguma outra estrutura. Devido à velocidade de rotação, esta colisão será bastante devastadora e provável mortal. O impacto vai acelerá-lo na direção de rotação, provavelmente fazendo com que seu corpo bata e rebata várias mais vezes antes de se igualar à velocidade de rotação e se assentar. Quanto tempo esse processo de deriva levaria varia de acordo com o tamanho do habitat, mas poderia facilmente levar dez minutos ou mais, menos se você tivesse recebido um bom empurrão para fora do eixo.</p>
+<h2 id="radiação"><a class="header" href="#radiação">Radiação</a></h2>
+<p>A radiação ionizante é um dos perigos mais prevalentes no Sistema Solar e um problema difícil para a transumanidade derrotar. A radiação danifica o material genético, adoece, e mata ao ionizar os químicos envolvidos na divisão celular. Os efeitos variam de náuseas e fadiga a falência múltipla de órgãos e morte. A radiação também danifica as redes neurais biológicas, levando a uploads e backups defeituosos. A radiação pode ser combatida por blindagens melhores e mais grossas e nanomedicina que rapidamente reverte a ionização, mas mesmo essas coisas não conseguem deter a enorme magnitude produzida por alguns corpos celestes.</p>
+<p>O envenenamento radioativo é um caso complicado. As fontes de radiação incluem o Cinturão de Van Allen da Terra, os cinturões de radiação de Júpiter, a magnetosfera de Saturno, os raios cósmicos, as erupções solares, os materiais de fissão, as explosões de antimatéria ou fusão desprotegidas, as explosões nucleares, entre outros. Os efeitos variam drasticamente dependendo da força da fonte, o tempo de exposição, e o nível de blindagem disponível. Duas opções de efeitos sobre biomorfos são:</p>
+<ul>
+<li><strong>Dosagem Leve:</strong> Dentro de 1d6 horas, receba VD 2d10 + 5 (sem defesa). Após 1 semana, sofra um modificador de debilitação −10 por 2d6 dias.</li>
+<li><strong>Dosagem Pesada:</strong> Dentro de 1d6 minutos, receba VD 2d10 + 10 (sem defesa) e VE 1d6; esse dano e estresse não podem ser curados. Sofra um modificador de debilitação −30 e receba um VD 2d6 adicional por dia (sem defesa ou cura) até morrer.</li>
+</ul>
+<p>Os MJs devem ajustar isso como desejarem. Os sintomas de envenenamento radioativo incluem náuseas, vômitos, fadiga, perda de cabelo, esterilidade e sangramento descontrolado. Os sintemorfos não são tão vulneráveis quanto os biomorfos, mas até eles podem ser danificados e desativados por doses severas de radiação (eles recebem apenas o dano inicial).</p>
+<h2 id="perigos-de-superfície"><a class="header" href="#perigos-de-superfície">Perigos de Superfície</a></h2>
+<p>Além do vácuo, as superfícies de asteroides, cometas e alguns satélites podem ser traiçoeiramente perigosas. Muitos asteroides não são mais do que pilhas de escombros soltos mantidos juntos pela gravidade, muitas vezes com grandes cavernas internas. Um pressão significativa nessa superfície, como pode acontecer com um pouso, poderia facilmente fazer com que ela entre em colapso, enterrando o módulo em uma cratera de poeira. Os cometas são parecidos, adicionando gelo à mistura que se vaporiza durante a aproximação com o sol e congela à medida que se afastam. Isso cria estruturas com bolsões vazios e superfícies finas que podem ser facilmente quebradas. Até mesmo as superfícies de asteroides maiores podem ser esburacadas com áreas de poeira assentada, visualmente idêntica ao terreno ao redor, que um viajante desavisado poderia afundar. Fissuras, buracos e superfícies acidentadas são comuns, dificultando uma viagem rápida.</p>
+<p>Você pode detectar buracos potencialmente perigosos e poços sob a superfície com radar, embora isso possa exigir um Teste de Percepção ou Interface. Um viajante na superfície que tenta contornar esses perigos pode precisar fazer um Teste de Queda Livre ou Pilotagem. Alguém em perigo de cair para dentro pode fazer uma Prova de REF para se agarrar. Enquanto a microgravidade diminui o perigo de impactos, exploradores desafortunados ainda podem ser enterrados, presos e cegados pela poeira e pelos detritos.</p>
+<p>Em muitos corpos celestes, a poeira de regolito na superfície tem dezenas de centímetros de espessura. As próprias partículas são carregadas pelo vento solar e levitam antes de se assentarem novamente. Uma grande atividade na superfície pode facilmente levantar nuvens de poeira obstruem a visão e cobre tudo. Essas partículas de regolito são ásperas, abrasivos e magnéticas. Elas grudam em trajes de vácuo, entopem equipamentos, cobrem as chapas frontais e janelas, e arranham lentes. A poeira é bastante perigosa se respirada (causado de 1d6 a 2d10 VD, dependendo da exposição).</p>
+<h2 id="debaixo-dÁgua"><a class="header" href="#debaixo-dÁgua">Debaixo d'Água</a></h2>
+<p>Em geral, qualquer perícia física realizada debaixo d'água sofre uma penalidade −20 devido à resistência do meio. As perícias que dependem de equipamentos não adaptados para uso subaquático podem ser mais difíceis ou impossíveis de usar. A menos que você possua um sistema de mobilidade subaquática, a sua taxa de movimento é reduzida (<a href="../12/24-movement.html">Movimento</a>). Se você não tiver a capacidade de respirar debaixo d'água, siga as regras de <a href="../12/28-environmental-factors.html#asphyxiation">asfixia</a>. Observe que personagens afogados não se recuperam imediatamente se forem resgatados da água; eles continuarão a se asfixiarem até que o tratamento médico seja aplicado para remover a água dos seus pulmões.</p>
+<h2 id="vácuo"><a class="header" href="#vácuo">Vácuo</a></h2>
+<p>Os biomorfos sem <a href="../16/11-physical-augmentations.html">vedação de vácuo</a> podem passar um minuto no vácuo do espaço sem efeitos nocivos, contanto que você se encolha em uma bola, esvazie o ar dos seus pulmões, e mantenha os olhos fechados (algo que crianças em habitats espaciais aprendem bem cedo). Ao contrário das representações populares na mídia pré-Queda, um personagem exposto ao vácuo total não sofre uma descompressão explosiva, seus fluidos internos também não fervem (além de líquidos relativamente expostos, como saliva na língua). Em vez disso, o perigo principal para personagens em atividades extraveiculares sem um traje de vácuo é asfixia devido a falta de oxigênio e as complicações associadas, tais como edemas nos pulmões.</p>
+<p>Após um minuto no espaço, você começa a sofrer <a href="../12/28-environmental-factors.html#asphyxiation">asfixia</a>. Os danos são dobrados se você segurar ar em seus pulmões ou não estiver enrolado em uma posição de sobrevivência no vácuo. Além disso, personagens presos no espaço sem proteção térmica adequada sofrem de um modificador −10 em todas as ações e 2 VD por minuto.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../12/28-environmental-factors.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../12/30-downtime-actions.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../12/28-environmental-factors.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../12/30-downtime-actions.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

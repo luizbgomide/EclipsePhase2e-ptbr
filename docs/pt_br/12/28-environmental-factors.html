@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Fatores Ambientais - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações &amp; Tempo</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa &amp; Ordem das Ações</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo &amp; Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item expanded "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores &amp; Granadas</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armaduras</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Armaduras</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura &amp; Reparo</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental &amp; Psicocirurgia</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos &amp; Estruturas</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item expanded "><a href="../12/28-environmental-factors.html" class="active"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="fatores-ambientais"><a class="header" href="#fatores-ambientais">Fatores Ambientais</a></h1>
+<p>Os transumanos se adaptaram a muitos ambientes, mas há muitos riscos que devem ser considerados.</p>
+<h2 id="asfixia"><a class="header" href="#asfixia">Asfixia</a></h2>
+<p>O transumano médio pode segurar a respiração por dois minutos antes de apagar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Morte e morra ou consiga respirar de novo. Este dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.</p>
+<p>A asfixia é um processo terrível, que frequentemente leva ao pânico. Os personagens sofrendo asfixia devem fazer uma Prova de VON a cada 30 segundos. Se você falhar, você sofre VD 1d6 e não pode realizar qualquer ação efetiva para se salvar neste turno de ação; você pode fazer uma Prova de VON adicional a cada turno para recuperar o juízo. No entanto, mesmo se tiver sucesso você deve fazer uma Prova de VON para realizar qualquer outra ação não relacionada diretamente com se salvar (atacar alguém segurando você embaixo d'água está isento dessa regra).</p>
+<h2 id="descompressão"><a class="header" href="#descompressão">Descompressão</a></h2>
+<p>Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer <a href="../12/28-environmental-factors.html#asphyxiation">asfixia</a>.</p>
+<p>A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço (<a href="../12/29-hostile-environments.html#vacuum">Vácuo</a>). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).</p>
+<h2 id="queda"><a class="header" href="#queda">Queda</a></h2>
+<p>Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de Queda para determinar o resultado. Armadura cinética pode mitigar esse dano com metade do seu valor. O MJ pode reduzir esse dano se alguma coisa ajudar a suavizar a queda (galhos, superfície macia), a seu critério. Dobre as categorias de distância em baixa gravidade; reduza à metade em alta gravidade.</p>
+<blockquote class="table">
+<h3 id="dano-de-queda"><a class="header" href="#dano-de-queda">Dano de Queda</a></h3>
+<table><thead><tr><th align="left">Distância Caída</th><th align="center">Valor de Dano</th></tr></thead><tbody>
+<tr><td align="left">1–2 metros</td><td align="center">1d10</td></tr>
+<tr><td align="left">3–5 metros</td><td align="center">2d10</td></tr>
+<tr><td align="left">6–8 metros</td><td align="center">3d10</td></tr>
+<tr><td align="left">Mais de 8 metros</td><td align="center">+1 por metro</td></tr>
+</tbody></table>
+</blockquote>
+<h2 id="fogo"><a class="header" href="#fogo">Fogo</a></h2>
+<p>Objetos que entrarem em contato com calor extremo ou chamas podem pegar fogo, a critério do MJ. Tenha em mente a inflamabilidade do material e a intensidade do calor/chamas. Itens ou personagens queimando sofrem VD 1d6 a cada turno de ação. Armadura energética os protege contra esse dano, embora ela também possa pegar fogo, reduzindo seu valor pelo dano infligido. Dependendo das condições ambientais, incêndios provavelmente vão crescer se não forem controlados. A cada 5 turnos de ação, aumente o VD infligido (primeiro para 1d10, depois 2d10, depois 3d10 e então em incrementos de +5). Condições adversas (como chuva) ou os esforços para apagar o incêndio vão reduzir o VD em conformidade.</p>
+<p>Observe que o fogo não queima no vácuo. Em microgravidade, o fogo queima em uma esfera e cresce mais lentamente, pois os gases em expansão afastam o oxigênio (aumente o VD a cada 10 turnos de ação). Não houver circulação de ar, alguns incêndios em microgravidade podem se extinguir sozinhos.</p>
+<h2 id="gravidade"><a class="header" href="#gravidade">Gravidade</a></h2>
+<p>A maioria dos personagens em Eclipse Phase tem experiência considerável manobrando em baixa gravidade ou microgravidade e pode realizar ações normais sem penalidades. Até mesmo personagens que cresceram em corpos planetários ou habitats rotativos tem algum familiaridade, graças aos treinamentos na infância em cenários educacionais em simulespaços. O inverso também se aplica; personagens que cresceram em queda livre provavelmente tiveram experiências em poços gravitacionais ou simulações deles.</p>
+<p>A critério do MJ, os personagens que passaram longos períodos se aclimatados com uma faixa de gravidade podem ter dificuldades em lidar com mudanças de gravidade, pelo menos até eles se aclimatarem; aplique um modificador −10 em perícias físicas e sociais. A penalidade física resulta das dificuldades simples em manobrar. A penalidade social se aplica porque é difícil parecer impressionante, intimidador ou sedutor quando você ainda não descobriu como arrumar suas roupas para que elas não fiquem flutuando na sua cara. Aumente a penalidade para −20 em situações envolvendo combate ou manipulação fina. A aclimatação geralmente leva cerca de 3 dias.</p>
+<p>Qualquer biomorfo com <a href="../16/05-common-tech-and-ware.html#standard-augmentations">biomods</a> está imune aos efeitos nocivos à saúde da exposição de longo prazo à microgravidade.</p>
+<h3 id="microgravidade"><a class="header" href="#microgravidade">Microgravidade</a></h3>
+<p>A microgravidade inclui tanto zero-g quanto gravidades que são ligeiramente maiores mas desprezíveis. Essas condições são encontradas no espaço, em asteroides e algumas luas, e em (partes de) espaçonaves e habitats que não são rotacionados para ter gravidade simulada. Os objetos em microgravidade efetivamente não tem peso, mas tamanho e massa ainda são fatores.</p>
+<p>As coisas se comportam diferentemente em microgravidade:</p>
+<ul>
+<li>Objetos não ancorados ficam a deriva seguindo a direção que eles estavam se movendo. Os objetos flutuantes vão acabar se assentando na direção da parte mais densa do habitat ou da espaçonave.</li>
+<li>Os itens arremessados ou empurrados vão viajar em linha reta até que batam em alguma coisa.</li>
+<li>A fumaça não sobe em fluxos. Em vez disso, ela forma um halo quase esférico ao redor da sua fonte.</li>
+<li>Os líquidos se espalham em nuvens ou gotas se liberados no ar. A tensão superficial pode conter alguns líquidos em grandes bolas flutuantes dependendo de como eles foram dispersos. As bebidas vem em sacos ou garrafas selados. Os alimentos são consumidos de forma que molhos e partes líquidas não escapem. O sangue vai para <em>toda parte</em>.</li>
+</ul>
+<p>O movimento e as manobras em microgravidade são feitos usando a <a href="../04/19-active-skill-list.html#free-fall">perícia Queda Livre</a> para a maioria dos morfos; outros podem voar usando Atletismo, Pilotagem: Aérea ou Pilotagem: Espacial, dependendo de como eles se movem. A maioria das atividades cotidianas em queda livre não exige um teste. No entanto, o MJ pode pedir um Teste de Queda Livre para manobras complicadas, voar grandes distâncias, mudanças bruscas de direção ou velocidade, ou quando engajado em combate de luta. Uma rolagem falhada significa que você calculou mal e acabou em uma posição diferente da pretendida. Uma falha maior ou crítica significa que você errou feio, batendo em um parede ou rodopiando pelo espaço.</p>
+<p>A maioria dos habitats em microgravidade estão equipados com laços elásticos para se agarrar, bolsos de malha para manter objetos presos, e esteiras rolantes com alças para as mãos em vias de grande movimentação. Sapatos magnéticos ou com velcro são comumente usados para caminhar, em vez de escalar ou voar. No entanto, os ambientes em zero-g são projetados para fazer uso máximo do espaço, aproveitando-se da ausência de tetos e pisos. Como os objetos não tem peso, os personagens podem mover até mesmo objetos enormes com facilidade.</p>
+<p><strong>Velocidade de Escape:</strong> Não é difícil atingir velocidade de escape em pequenos asteroides ou corpos semelhantes — algo para se ter em mente quando com objetos arremessados e armas de projéteis. Em alguns casos, os personagens que se movam rápido depois e saltem podem alcançar eles mesmo a velocidade de escape, mas estas situações ficam a cargo do MJ.</p>
+<h3 id="baixa-gravidade"><a class="header" href="#baixa-gravidade">Baixa Gravidade</a></h3>
+<p>A baixa gravidade inclui qualquer coisa entre 0,5 g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe (<a href="../12/24-movement.html">Movimento</a>) e objetos arremessados e projéteis tenham um alcance mais longo (<a href="../12/04-ranged-combat.html#range">Alcance</a>).</p>
+<h3 id="alta-gravidade"><a class="header" href="#alta-gravidade">Alta Gravidade</a></h3>
+<p>A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+ g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2 g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas (<a href="../12/24-movement.html">Movimento</a>) e até mesmo sintemorfos podem se sentir forçados.</p>
+<h2 id="clima"><a class="header" href="#clima">Clima</a></h2>
+<p>Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../12/27-future-materials.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../12/29-hostile-environments.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../12/27-future-materials.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../12/29-hostile-environments.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

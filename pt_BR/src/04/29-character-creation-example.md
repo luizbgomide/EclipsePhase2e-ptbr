@@ -14,7 +14,7 @@ No Passo 5, escolhemos um modelo de aptidão e pegamos Sobrevivente. No entanto,
 
 Agora é hora de somar nossas perícias e aptidões no Passo 6. Somando a aptidão a cada perícia vinculada, nós temos as perícias totais: Enganação 140 (SAG), Infiltração 35 (REF), Cinésica 90 (SAG), Percepção 60 (INT), Persuasão 80 (SAG), Psi 110 (VON), Saber: Mercados Negros 55 (COG), Saber: Drogas 45 (COG), Saber: Lunar/Orbital 45 (COG), Saber: Hacks Mentais 45 (COG), Saber: Psicologia 75 (COG), e Saber: Contrabando 75 (COG). Lembre-se que Percepção tem uma base de INT × 2.
 
-Nós sabemos que o máximo que você pode ter em uma perícia é 80, então nós precisaremos fazer alguns ajustes e reatribuir os pontos além desse valor. Nós reduzimos Enganação, Cinésica, e Psi todos para 80, que nos dá 100 pontos extras para gastar como quisermos. Nós decidimos dar à personagem Atletismo 20, para que ela possa lidar com algumas atividades físicas. Nós também adicionamos Evasão 20 e Tiro 30, para que ele possa se cuidar num combate. E nós adicionamos Provocação 30 para cobrir a perícia social que estávamos faltando. Somando as aptidões a essas perícias, nós temos Atletismo 30 (SOM), Evasão 50 (REF), Tiro 45 (REF) e Provocação 50 (SAG). Lembre-se que Evasão é baseada em REF × 2.
+Nós sabemos que o máximo que você pode ter em uma perícia é 80, então nós precisaremos fazer alguns ajustes e reatribuir os pontos além desse valor. Nós reduzimos Enganação, Cinésica, e Psi todos para 80, que nos dá 100 pontos extras para gastar como quisermos. Nós decidimos dar à personagem Atletismo 20, para que ela possa lidar com algumas atividades físicas. Nós também adicionamos Evasão 20 e Tiro 30, para que ele possa se cuidar em um combate. E nós adicionamos Provocação 30 para cobrir a perícia social que estávamos faltando. Somando as aptidões a essas perícias, nós temos Atletismo 30 (SOM), Evasão 50 (REF), Tiro 45 (REF) e Provocação 50 (SAG). Lembre-se que Evasão é baseada em REF × 2.
 
 Nossa lista de perícias agora é: Atletismo 30, Enganação 80, Evasão 50, Tiro 45, Infiltração 35, Cinésica 80, Percepção 60, Persuasão 80, Provocação 50, Psi 80, Saber: Mercados Negros 55, Saber: Drogas 45, Saber: Lunar/Orbital 45, Saber: Hacks Mentais 45, Saber: Psicologia 75, e Saber: Contrabando 75.
 
@@ -34,7 +34,7 @@ Em seguida nós avançamos para os atributos derivados, Passo 11. Olhando as fó
 
 **Iniciativa:** REF 15 + INT 10 = 25; 25 ÷ 5 = **5**
 
-**Verificações de aptidão são aptidão × 3, ou:**<br> Verificação de COG **45** • Verificação de INT **30** • Verificação de REF **45**<br> Verificação de SAG **60** • Verificação de SOM **30** • Verificação de VON **60**
+**Provas de aptidão são aptidão × 3, ou:**<br> Prova de COG **45** • Prova de INT **30** • Prova de REF **45**<br> Prova de SAG **60** • Prova de SOM **30** • Prova de VON **60**
 
 **Lucidez:** VON 20 × 2 = **40**
 
@@ -56,6 +56,6 @@ Passo 13 é escolher as motivações. Nós decidimos que a personagem provavelme
 
 Nossa personagem está quase pronta, mas nós temos alguns detalhes finais para encerrar. Primeiro, nós escolhemos um nome para nossa musa: Espelho Meu. Em segundo lugar, analisamos os nossos traços e nos certificamo de que tudo está designado. O nosso inimigo é a Cognite (perfeita para nosso antecedente Perdido), e escolhemos curiosidade para nosso Comportamento Acentuado.
 
-Já que criamos um assincro, nós devemos escolher qual subcepa do vírus Watts-MacLeod nos afeta. Escolhemos o Estranho, porque é bem sinistro e legal. Esta cepa nos dá o traço Transtorno Mental (escolhemos paramnésia) e um truque gratuito (escolhemos Olhar do Basilisco). Nós também pegamos os outros truques que compramos com PP: Controle Comportamental, Curto Circuito, Memória Nebulosa, Subliminal e Vislumbre de Pensamentos.
+Já que criamos um assincro, nós devemos escolher qual subcepa do vírus Watts-MacLeod nos afeta. Escolhemos o Estranho, porque é bem sinistro e legal. Esta cepa nos dá o traço Transtorno Mental (escolhemos paramnésia) e um truque gratuito (escolhemos Olhar do Basilisco). Nós também pegamos os outros truques que compramos com PP: Controle Comportamental, Curto-Circuito, Memória Nebulosa, Subliminal e Vislumbre de Pensamentos.
 
 Olhando para a versão final da Hex, temos uma personagem social sólido com algumas habilidades psíquicas estilosas e uma rep decente! Você pode vê-la em [Personagens Prontos](../05/00-sample-characters.md).

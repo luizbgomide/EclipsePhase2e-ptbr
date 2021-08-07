@@ -41,16 +41,13 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
-- **Bot:** Robô. Um casco sintético pilotado por ILA.
+- **Bot:** Robô. Uma carcaça sintética pilotada por ILA.
 - **Buscadores da Singularidade:** Uma pessoa obcecada com SIAs como as TITANs ou em se tornar pós-humano.
 - **Caça-Cabeça:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Caçador de Ego:** Um caçador de recompensas que rastreia egos reencapados.
 - **Carcaça:** Uma forma sintética; usado para bots, veículos e sintemorfos.
-- **Carona:** Um infomorfo carregado em um implante especial.
+- **Carona Virtual:** Um infomorfo carregado em um implante especial.
 - **Casa de Bonecas:** Um fornecedor de alto padrão de morfos sob medida.
-- **Casco Nuestro:** Um hab de casco que utiliza raios e aros simétricos para ter estabilidade.
-- **Casco Tenmai:** Um hab com o casco externo de um cilindro ou uma esfera, mas um espaço oco de microgravidade dentro.
-- **Casco:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
 - **Ceifeiro:** Um sintemorfo tipo robô de guerra.
 - **Célula:** Um grupo clandestino de sentinelas da Firewall.
@@ -103,6 +100,9 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se "tornando" o drone.
 - **Enlatado:** Um módulo de habitat pressurizado, pequeno e barato.
 - **Entóptica:** Realidade aumentada que você "vê" na sua mente.
+- **Envoltório Nuestro:** Um hab de envoltório que utiliza raios e aros simétricos para ter estabilidade.
+- **Envoltório Tenmai:** Um hab com o envoltório externo de um cilindro ou uma esfera, mas um espaço oco de microgravidade dentro.
+- **Envoltório:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de envoltório Nuestro.
 - **Enxame:** Uma flotilha de naves, às vezes com habs interligados ou rebocados.
 - **Enxame:** Uma massa de nano- ou microbots agindo em conjunto.
 - **Enxamenoide:** Um sintemorfo composto de um enxame de microbots.
@@ -151,7 +151,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
 - **Hab-Tec:** Um técnico de habitat.
-- **Hack Basilisco:** Entrada sensorial projetada para ativar falhas e erros no cérebro, levando a convulsões e efeitos piores.
+- **Hack Basilisco:** Entrada sensorial projetada para ativar anomalias e erros no cérebro, levando a convulsões e efeitos piores.
 - **Hacker Genético:** Alguém que manipula código genético para criar modificações genéticas ou até mesmo uma nova vida.
 - **Hacker Mental:** Um psicocirugião.
 - **Hardware:** Aprimoramentos para sintemorfos.
@@ -194,18 +194,18 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Máquina Cornucópia:** Um nanofabricador de uso geral.
 - **Marginais:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Massas Clangorante:** A classe baixa de sintemorfos baratos.
+- **Matriz:** O arquivo do projeto digital usado para nanofabricação.
 - **Medeianos:** O grupo paramilitar secreto dos Argonautas.
 - **Meme:** Uma ideia viral. Uma unidade de informação transmitida socialmente que se autorreplica e sofre mutação de maneira análoga aos genes.
 - **Menton:** Um biomorfo otimizado para habilidades mentais e cognitivas.
 - **Mercado Vermelho:** O comércio de atividades antissociais e coercitivas no espaço autonomista.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
-- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (meshar) ou adjetivo (meshado ou desmeshado).
+- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (fazer mesh) ou adjetivo (em mesh ou sem mesh).
 - **Meshware:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
 - **Microgravidade:** Zero-g ou ambientes quase sem peso.
 - **Minifat:** Um nanofabro em escala industrial.
-- **Modelo:** O arquivo do projeto digital usado para nanofabricação.
 - **Moldável:** Um morfo prod otimizado para alterar sua aparência.
 - **Morfo de Aço:** Um sintemorfo de alto padrão com capacidades físicas aprimoradas.
 - **Morfo:** Um corpo físico. Também chamado de capa, carcaça, traje, jaqueta, forma.
@@ -215,7 +215,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
-- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com um modelo apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
 - **Nanoware:** Nanossistemas implantados dentro de um morfo.
 - **Narcoalgoritmo:** Um app que imita os efeitos de uma droga para um infomorfo ou cérebro cibernético.

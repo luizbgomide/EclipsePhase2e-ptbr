@@ -11,7 +11,7 @@ Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pod
 
 ## Usando Paradas
 
-Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
+Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha uma das opções a seguir. Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usada em _quaisquer_ testes. Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
 
 - **Antes da Rolagem:** Ignorar todos os modificadores do teste.
 - **Antes da Rolagem:** Adicionar +20 ao número alvo do teste.
@@ -20,7 +20,7 @@ Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha
 - **Depois da Rolagem:** Diminuir uma falha crítica para uma falha normal.
 - **Contínuo (Apenas Inspiração/Manha/Vigor):** Receber +5 (1 ponto) ou +10 (2 pontos) em todos os testes de perícias vinculadas a uma aptidão por 24 horas ou até sua próxima [recarga](../03/05-pools.md#recharging-pools).
 
-Vários aprimoramentos (ware, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos em qualquer parada.
+Vários aprimoramentos (wares, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos em qualquer parada.
 
 ## Inspiração
 
@@ -59,7 +59,7 @@ Sua parada curinga também pode ser usada para controle narrativo:
 
 ## Recarregando Paradas
 
-Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos. Há dois tipos de ações de recarga: _recarga curta_ e _recarga longa_.
+Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos. Há dois tipos de ação de recarga: _recarga curta_ e _recarga longa_.
 
 - **Recarga Curta (2/dia):** Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los. Alguns equipamentos ou truques psi podem fornecer pontos de recarga extras.
 - **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.

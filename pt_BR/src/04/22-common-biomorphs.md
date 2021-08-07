@@ -1,6 +1,6 @@
 # Biomorfos Comuns
 
-Biomorfos são capas totalmente biológicas (muitas vezes modificados geneticamente e equipados com implantes), nascidos naturalmente ou de um exoútero, e crescidos à idade adulta naturalmente ou a uma taxa um pouco acelerada.
+Biomorfos são capas totalmente biológicas (muitas vezes modificados geneticamente e equipados com implantes), nascidos naturalmente ou de um exoútero, e crescidos à idade adulta naturalmente ou em um ritmo um pouco acelerado.
 
 <blockquote>
 
