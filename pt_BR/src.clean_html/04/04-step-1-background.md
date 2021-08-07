@@ -20,7 +20,7 @@ Você era um colono original da órbita da Terra, Lua, Marte, ou um posto menor 
 
 ## Enclavo
 
-Na Terra, você vivia uma vida de estabilidade precária, mas protegida, num enclave defendido.
+Na Terra, você vivia uma vida de estabilidade precária, mas protegida, em um enclave defendido.
 
 |                                               |    |
 |:--------------------------------------------- | --:|
@@ -63,7 +63,7 @@ Você vivia no um por cento do topo, com abundância de riqueza e recursos.
 
 ## Contratado
 
-Com nada a perder, você vendeu a si mesmo num contrato de trabalho para as hipercorps fora da Terra.
+Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hipercorps fora da Terra.
 
 |                                                      |    |
 |:---------------------------------------------------- | --:|
