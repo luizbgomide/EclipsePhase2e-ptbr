@@ -6,7 +6,7 @@ A maioria das armas de distância são construídas de híbridos cerâmicos resi
 
 ## Regras de Combate de Distância
 
-As seguintes regras se aplicam a todos os tipos de ataques de distância.
+As seguintes regras se aplicam a todos os tipos de ataque de distância.
 
 ### Pontaria
 
