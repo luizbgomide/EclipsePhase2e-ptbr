@@ -316,7 +316,7 @@ Cada flexbot é considerada uma única entidade para fins de regras, não import
 - O Limiar de Ferimento é igual a DUR ÷ 5 e o Grau de Morte igual a DUR × 2.
 - Os danos são aplicados uniformemente entre os módulos. Se um módulo desconectado tiver dano superior ao seu Limiar de Ferimento, um ferimento pode ser atribuído a ele. Módulos distintos podem ser mirados com ataques precisos.
 - Os robôs de tamanhos variados podem ser integrados como módulos. Bots pequenos contam como módulos completos. Trate 5 bots muito pequenos como 1 módulo; apenas aplique um bônus de parada (igual a parada de um bot) se houver pelo menos cinco do mesmo tipo. Um bot médio conta como 3 módulos, um bot grande como 5 módulos, e um bot muito grande como 10 módulos. Use a média de seus VAs (levando em conta as contagens de bots como múltiplos módulos) e combine a DUR como descrito acima.
-- Bônus de alguns outros traços e ware só se aplicam se cada módulo no flexbot os tiver (ex.: pele camaleão); use o bom senso.
+- Bônus de alguns outros traços e wares só se aplicam se cada módulo no flexbot os tiver (ex.: pele camaleão); use o bom senso.
 
 <!-- CLEANED /blockquote -->
 
