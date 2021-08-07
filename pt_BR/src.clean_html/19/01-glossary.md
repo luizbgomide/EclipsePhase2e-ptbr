@@ -29,7 +29,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **Salvaguardas:** A facção da Firewall que prepara depósitos, bunkers e recursos em caso de outro evento de extinção.
 - **Barsoomianos:** Um movimento que apoia a independência marciana do controle hipercorporativo, aliado aos autonomistas.
-- **Hack Basilisco:** Entrada sensorial projetada para ativar falhas e erros no cérebro, levando a convulsões e efeitos piores.
+- **Hack Basilisco:** Entrada sensorial projetada para ativar anomalias e erros no cérebro, levando a convulsões e efeitos piores.
 - **Batiscafo:** Um habitat subaquático.
 - **Formigueiro:** Um habitat de microgravidade feito a partir de um asteroide ou lua escavado em túneis.
 - **Cinturinos:** Habitantes do Cinturão Principal.
@@ -38,9 +38,9 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Bioconservadores:** Um movimento anti-tecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
-- **Modelo:** O arquivo do projeto digital usado para nanofabricação.
+- **Matriz:** O arquivo do projeto digital usado para nanofabricação.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
-- **Bot:** Robô. Um casco sintético pilotado por ILA.
+- **Bot:** Robô. Uma carcaça sintética pilotada por ILA.
 - **Ricochete:** Um biomorfo otimizado para microgravidade.
 - **Sonda Bracewell:** Uma sonda autorreplicante projetada para se propagar para cada sistema estelar da galáxia.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
@@ -198,7 +198,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Mutualista:** Uma subfacção extropiana que apoia cooperativas.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
-- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com um modelo apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
 - **Nanoware:** Nanossistemas implantados dentro de um morfo.
@@ -212,7 +212,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
 - **Novacrab:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
-- **Casco Nuestro:** Um hab de casco que utiliza raios e aros simétricos para ter estabilidade.
+- **Envoltório Nuestro:** Um hab de envoltório que utiliza raios e aros simétricos para ter estabilidade.
 - **Oligarcas:** Os poderosos ricos imortais.
 - **Olimpiano:** Um biomorfo aprimorado para aptidão física e atletismo.
 - **Cilindro O'Neill:** Um habitat em forma de lata com gravidade por rotação.
@@ -269,7 +269,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Shanzhai:** A cópia/falsificação de mercadorias.
 - **Moldável:** Um morfo prod otimizado para alterar sua aparência.
 - **Carcaça:** Uma forma sintética; usado para bots, veículos e sintemorfos.
-- **Casco:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de casco Nuestro.
+- **Envoltório:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de envoltório Nuestro.
 - **Garimpeiros:** Habitantes de Mercúrio.
 - **Simulmorfo:** O avatar que você usa em um simulespaço de RV.
 - **Simulespaço:** Ambientes de realidade virtual com imersão completa.
@@ -303,7 +303,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Táxi:** Um morfo que carrega um infomorfo consigo.
 - **Tecnicizado:** Gíria marciana para doido ou descontrolado.
 - **Teleoperação:** Controle remoto.
-- **Casco Tenmai:** Um hab com o casco externo de um cilindro ou uma esfera, mas um espaço oco de microgravidade dentro.
+- **Envoltório Tenmai:** Um hab com o envoltório externo de um cilindro ou uma esfera, mas um espaço oco de microgravidade dentro.
 - **Liga Tharsis:** O governo de Marte.
 - **Enlatado:** Um módulo de habitat pressurizado, pequeno e barato.
 - **Titaniano:** Alguém de Titã, uma lua de Saturno.
