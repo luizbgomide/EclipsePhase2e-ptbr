@@ -40,9 +40,9 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 - **Tipo:** Ativa, Física
 - **Aptidão Vinculada:** Somática
 
-Atletismo engloba vários tipos de atividades físicas em ambientes com gravidade. Ele se aplica especificamente a manobras em morfos que são humanoides, elevados ou que utilizam movimentos biomiméticos (serpentear, voo alado, etc.), sejam encapados ou operados remotamente.
+Atletismo engloba vários tipos de atividades físicas em ambientes com gravidade. Ele se aplica especificamente a manobras em morfos que são humanoides, elevados ou que utilizam movimentos biomiméticos (serpenteio, voo alado, etc.), sejam encapados ou operados remotamente.
 
-Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, pular uma fenda, subir numa mesa, dar um salto mortal ou fazer uma manobra com um morfo alado. Algumas ações estão detalhadas em [Movimento](../12/24-movement.md).
+Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, saltar uma fenda, subir numa mesa, dar um salto mortal ou fazer uma manobra com um morfo alado. Algumas ações estão detalhadas em [Movimento](../12/24-movement.md).
 
 - **Especializações:** Acrobacia, Arremesso, Corrida, Escalada, Nado, Parkour, Salto, Voo
 
@@ -287,9 +287,9 @@ Use Pilotagem para fazer uma curva fechada com um carro, evadir de uma persegui�
 - **Tipo:** Ativa, Técnica
 - **Aptidão Vinculada:** Cognição
 
-Programação é sobre escrever e modificar códigos de softwares.
+Programação é sobre escrever e modificar códigos de software.
 
-Use Programação para escrever um script, analisar como um programa funciona, projetar um modelo para nanofabricação, quebrar uma proteção de copyright, consertar uma brecha de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
+Use Programação para escrever um script, analisar como um programa funciona, projetar uma matriz para nanofabricação, quebrar uma proteção de copyright, consertar uma brecha de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
 
 - **Especializações:** IAs, Infomorfos, Malware, Nanofabricação, Pirataria, RV
 
@@ -306,7 +306,7 @@ Provocação é o seu talento em manipulação emocional.
 
 Use Provocação para zombar de um oponente, intimidar uma testemunha, agitar uma turba, amedrontar alguém a se render, ameaçar um prisioneiro para dar informações ou seduzir um amante em potencial. Oponentes resistem a Provocação com uma Prova de VON.
 
-- **Especializações:** Acalmar, Agitar, Inspirar, Interrogar, Intimidar, Seduzir, Zombar
+- **Especializações:** Acalmar, Inspirar, Interrogar, Intimidar, Perturbar, Seduzir, Zombar
 
 <!-- CLEANED /div -->
 
