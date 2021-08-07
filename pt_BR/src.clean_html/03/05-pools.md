@@ -59,7 +59,7 @@ Sua parada curinga também pode ser usada para controle narrativo:
 
 ## Recarregando Paradas
 
-Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos. Há dois tipos de ações de recarga: _recarga curta_ e _recarga longa_.
+Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos. Há dois tipos de ação de recarga: _recarga curta_ e _recarga longa_.
 
 - **Recarga Curta (2/dia):** Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los. Alguns equipamentos ou truques psi podem fornecer pontos de recarga extras.
 - **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
