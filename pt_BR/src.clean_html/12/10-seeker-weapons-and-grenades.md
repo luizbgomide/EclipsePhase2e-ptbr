@@ -78,7 +78,7 @@ Estas regras se aplicam a granadas, mísseis buscadores e armas similares.
 
 Quando estiver engajado em operações ofensivas, o raio de explosão das granadas e buscadores pode ser diminuído, para que os atacantes não sejam pegos na área de efeito. Para armas de área de efeito uniforme, apenas declare um raio de explosão menor que o listado. Para áreas de efeito centrado, aumente a redução de VD por metro, até o máximo de −20/metro. Esses ajustes exigem uma ação rápida e podem ser feitos remotamente.
 
-### Pulando em Granadas
+### Saltando em Granadas
 
 Você pode se sacrificar pela equipe e se jogar em cima de uma granada para proteger os outros. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF para cair na granada e cobri-la com seu morfo. Você sofre um VD 1d10 extra quando a granda detona, mas o dano da granada é reduzido por seu Valor de Armadura + 10 quando aplicado aos outros dentro do raio de explosão.
 
