@@ -16,7 +16,7 @@ Carcaças não precisa se preocupar com trivialidades como respirar, comer, defe
 
 ### Filtro de Dor
 
-Sintemorfos por filtrar os receptores de dor, para eles não serem prejudicados por ferimentos ou dano físico. Isso permite que eles ignorem o modificador −10 de 1 ferimento ([Efeitos de Ferimentos](../12/16-physical-health.md#wound-effects)), mas eles sofrem −30 em qualquer Teste de Percepção baseado em tato e não vão nem notar se forem feridos a menos que tenham sucesso em um Teste de Percepção (modificado).
+Sintemorfos por filtrar os receptores de dor, para eles não serem prejudicados por ferimentos ou dano físico. Isso permite que eles ignorem o modificador −10 de 1 ferimento ([Efeitos de Ferimento](../12/16-physical-health.md#wound-effects)), mas eles sofrem −30 em qualquer Teste de Percepção baseado em tato e não vão nem notar se forem feridos a menos que tenham sucesso em um Teste de Percepção (modificado).
 
 ### Imunidade a Choques
 
@@ -121,7 +121,7 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 
 ---
 
-- **Taxa de Movimento:** Marcha 2/8, Rotor 4/20, Salto 4/12
+- **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
@@ -265,7 +265,7 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 
 ---
 
-- **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/20, Rodas 8/40, Salto 4/12
+- **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Média (Armadura 8/6)
@@ -289,7 +289,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 ---
 
-- **Taxa de Movimento:** Empuxo Vetorial 8/40, Iônico 8/40, Marcha 4/20, Salto 4/20
+- **Taxa de Movimento:** Empuxo Vetorial 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
 - **Ware:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Pesada (Armadura 12/10)
