@@ -24,7 +24,7 @@ Ações automáticas estão sempre "ligadas", são reflexivas ou não exigem esf
 
 As ações rápidas tomam uma fração de segundo ou exigem tão pouco esforço cognitivo que você pode fazê-las enquanto faz outra coisa.
 
-**Exemplos:** Abrir uma porta, ativar ou desativar um dispositivo, esconder-se atrás de cobertura, ficar de pé, gesticular, pegar alguma coisa, percepção detalhada, pontaria rápida, pular, sacar uma arma, tomar uma droga, transmitir informações complexas.
+**Exemplos:** Abrir uma porta, ativar ou desativar um dispositivo, esconder-se atrás de cobertura, gesticular, levantar-se, pegar alguma coisa, percepção detalhada, pontaria rápida, sacar uma arma, saltar, tomar uma droga, transmitir informações complexas.
 
 ## Ações Complexas
 
