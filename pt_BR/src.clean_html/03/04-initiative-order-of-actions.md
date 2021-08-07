@@ -2,7 +2,7 @@
 
 O timing em um turno de ação pode ser crítico — ele pode significar a vida ou a morte para um personagem que precisa conseguir cobertura antes do oponente sacar e disparar sua arma. A ordem das ações dos vários personagens dentro de um turno é determinada pela _Iniciativa_.
 
-Seu atributo de Iniciativa é igual a (Intuição + Reflexos) ÷ 5. Este valor pode ser modificado por ware, drogas, psi ou ferimentos.
+Seu atributo de Iniciativa é igual a (Intuição + Reflexos) ÷ 5. Este valor pode ser modificado por wares, drogas, psi ou ferimentos.
 
 ## Ordem de Iniciativa
 
