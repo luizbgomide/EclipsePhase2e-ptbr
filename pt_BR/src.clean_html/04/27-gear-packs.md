@@ -6,7 +6,7 @@ Os equipamentos fornecidos nestes pacotes são opcionais. Se houver outro equipa
 
 Esses pacotes de equipamentos também podem ser usados como uma forma fácil de atribuir equipamentos para novas missões durante o jogo ([Adquirindo Equipamentos](../16/02-acquiring-gear.md)).
 
-Todos equipamentos iniciais incluem o item físico do equipamento e o modelo digital para nanofabricação.
+Todos equipamentos iniciais incluem o item físico do equipamento e a matriz digital para nanofabricação.
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#muses) de graça.
 
@@ -43,7 +43,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 |:---------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
 | Autocook\*                 |                 Men/1                 | Fabrica apenas comida e bebida.                                                         |
 | Corda Eletrônica             |                 Men/1                 | Corda controlável.                                                                      |
-| Spray de Cura\*            |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                                  |
+| Spray Curativo\*           |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                                  |
 | Pistola Média (Arma de Fogo) |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                          |
 | SolArchive Portátil          |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
 | Traje de Vácuo Padrão\*    |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6.                   |
@@ -184,13 +184,13 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 
 ### Médico
 
-| EQUIPAMENTOS   | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                       |
-|:-------------- |:-------------------------------------:|:------------------------------------------------------------------------------- |
-| Medibot        |                 Mai/3                 | Bot médico.                                                                     |
-| Spray de Cura  |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                          |
-| Tanque de Cura |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                               |
-| Meds (5 doses) |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                |
-| Escaner Médico |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots como nanodetector. |
+| EQUIPAMENTOS     | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                       |
+|:---------------- |:-------------------------------------:|:------------------------------------------------------------------------------- |
+| Medibot          |                 Mai/3                 | Bot médico.                                                                     |
+| Spray Curativo   |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                          |
+| Tanque de Cura   |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                               |
+| Xarope (5 doses) |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                |
+| Escaner Médico   |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots como nanodetector. |
 
 ### Hacker Mental
 
@@ -233,7 +233,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o modelo dig
 | Fuzil de Assalto (Railgun) |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Alcance 150, Perfura-Armadura, Longa, Duas Mãos.            |
 | Visão Aprimorada           |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 | Grin (5 doses)             |                 Men/1                 | Ignore 1 ferimento.                                                                                |
-| Meds (5 doses)\*         |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                                   |
+| Xarope (5 doses)\*       |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                                   |
 | Neuroquim                  |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                            |
 
 <!-- CLEANED blockquote class="indent" -->
