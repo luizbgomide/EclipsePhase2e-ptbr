@@ -62,7 +62,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Espada de Monofilamento:** Embora sejam arcaicas, espadas às vezes são usadas como uma afirmação de estilo ou mostra de agressividade. Os gumes quase monomoleculare são autoafiáveis e podem cortar através de metal ou membros.
 
-**Garrote de Monofio:** Essa arma de assassinos é feita de um perigoso fio quase monomolecular enrolado num carretel com duas alças. Uma alça segura o carretel enquanto a outra estende o fio para que ele possa ser enrolado em torno do alvo (geralmente o pescoço ou membros) e corta através dele quando puxado. No entanto, a resistência a tração do monofilamento é baixa; ele se parte com uma falha maior. A arma é usada com a Perícia Exótica: Garrote de Monofio.
+**Garrote de Monofio:** Essa arma de assassinos é feita de um perigoso fio quase monomolecular enrolado em um carretel com duas alças. Uma alça segura o carretel enquanto a outra estende o fio para que ele possa ser enrolado em torno do alvo (geralmente o pescoço ou membros) e corta através dele quando puxado. No entanto, a resistência a tração do monofilamento é baixa; ele se parte com uma falha maior. A arma é usada com a Perícia Exótica: Garrote de Monofio.
 
 **Lança de Pistão:** Uma versão de lança do ware espeto de pistão.
 
@@ -82,11 +82,11 @@ Estas regras se aplicam especificamente em combate próximo.
 
 Ataques agressivos vão com tudo, independentemente das consequências. Você pode escolher +10 para acertar ou +1d10&nbsp;VD quando for agressivo, mas você também sofre −10 em Testes de Evasão até a sua próxima ação.
 
-### Investida
+### Investidas
 
 Um personagem que faz um movimento total e ataque de luta no mesmo turno de ação está em _investida_. O atacante recebe um modificador −10 pela investida em vez dos −20 padrão por movimento total e inflige +1d6&nbsp;VD.
 
-### Agarramento
+### Agarramentos
 
 Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Alcance. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora neste caso você possa optar não causar).
 
@@ -123,7 +123,7 @@ Estes modificadores se aplicam a ataques de combate próximo.
 
 | Situação                                                                                                |            Modificadores            |
 |:------------------------------------------------------------------------------------------------------- |:-----------------------------------:|
-| Agressivo                                                                                               | +10 ou +1d10&nbsp;VD, −10 em Evasão |
+| Ataque Agressivo                                                                                        | +10 ou +1d10&nbsp;VD, −10 em Evasão |
 | Investida                                                                                               |          −10, +1d6&nbsp;VD          |
 | Arma Extra (Ataque)                                                                                     |            +1d6&nbsp;VD             |
 | Arma Extra (Defesa)                                                                                     |                 +10                 |
