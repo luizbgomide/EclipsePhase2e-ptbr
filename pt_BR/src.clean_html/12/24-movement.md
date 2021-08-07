@@ -46,7 +46,7 @@ Se você está prostrado, você pode se levantar com uma ação rápida e fazer 
 
 **\[Complexa\]**
 
-Escalar, nadar, rastejar, ou se mover de alguma outra forma que não seja o método típico de movimentação do seu morfo, usa uma ação complexa e se move por uma distância igual ao seu movimento base. Alguns ware, como almofadas aderentes quando escalar, podem aumentar isso para o seu movimento completo. Repare que alguns tipos de movimento são simplesmente impossíveis para certos morfos, dependendo do seu design; por exemplo, a maioria dos morfos humanos voam tão bem quanto tijolos.
+Escalar, nadar, rastejar, ou se mover de alguma outra forma que não seja o método típico de movimentação do seu morfo, usa uma ação complexa e se move por uma distância igual ao seu movimento base. Alguns wares, como almofadas aderentes quando escalar, podem aumentar isso para o seu movimento completo. Repare que alguns tipos de movimento são simplesmente impossíveis para certos morfos, dependendo do seu design; por exemplo, a maioria dos morfos humanos voam tão bem quanto tijolos.
 
 ### Movimento Difícil
 
