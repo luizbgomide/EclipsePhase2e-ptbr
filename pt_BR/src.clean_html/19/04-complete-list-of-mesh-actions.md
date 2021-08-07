@@ -22,7 +22,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Escanear Sinais Sem Fio:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
-- **Proteger Software:** Proteger ativamente um software num [combate na mesh](../13/14-mesh-combat.md).
+- **Proteger Software:** Proteger ativamente um software em um [combate na mesh](../13/14-mesh-combat.md).
 - **Camuflar Sinais Sem Fio:** Ocultar sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu informorfo para outro sistema.
 - **Interromper Software:** Matar o processo de um software menor.
