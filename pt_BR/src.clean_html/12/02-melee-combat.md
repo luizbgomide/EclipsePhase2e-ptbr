@@ -2,7 +2,7 @@
 
 Em uma era de armamentos à distância incapacitantes e letais, alguém equipado para combate próximo geralmente está em desvantagem. Ainda assim, até mesmo combatentes experientes receiam ficar ao alcance de certos sintemorfos ou biomorfos bastante ampliados.
 
-Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e ware de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
+Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e wares de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
 
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
