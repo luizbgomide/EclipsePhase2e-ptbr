@@ -20,7 +20,7 @@ Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha
 - **Depois da Rolagem:** Diminuir uma falha crítica para uma falha normal.
 - **Contínuo (Apenas Inspiração/Manha/Vigor):** Receber +5 (1 ponto) ou +10 (2 pontos) em todos os testes de perícias vinculadas a uma aptidão por 24 horas ou até sua próxima [recarga](../03/05-pools.md#recharging-pools).
 
-Vários aprimoramentos (ware, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos em qualquer parada.
+Vários aprimoramentos (wares, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos em qualquer parada.
 
 ## Inspiração
 
