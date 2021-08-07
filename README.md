@@ -25,7 +25,7 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
   - [ ] A Nova Economia Política
   - [ ] Facções
   - [ ] Catálogo do Sistema
-  - [ ] Ação & Combate
+  - [x] Ação & Combate
   - [ ] A Mesh
   - [ ] Psi
   - [ ] Tecnologia Transumana
