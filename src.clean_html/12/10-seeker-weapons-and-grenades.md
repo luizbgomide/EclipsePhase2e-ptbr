@@ -103,5 +103,3 @@ Modern grenades, seekers, and similar explosives do not necessarily detonate the
 ### Throwing Back a Grenade
 
 You can reach a grenade before it detonates and throw it back or away in a safe direction. You must be within movement range of the grenade’s location, take a complex action, and succeed in a REF Check at −20 to catch the rolling, sliding grenade. If successful, you can throw the grenade in a direction of your choice with the same action (treat as a standard throwing attack at −20). If you fail, however, you may find yourself at ground zero when it detonates.
-
----
