@@ -255,7 +255,7 @@
 <tr><td>Enxamenoide<td>3&nbsp;PM<td>60<td>—<td>50<td>100<td>2<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Marcha 2/8, Rotor 4/20, Salto 4/12
+- **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
@@ -309,7 +309,7 @@
 <tr><td>Aracnoide<td>6&nbsp;PM<td>40<td>11<td>55<td>110<td>1<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/20, Rodas 8/40, Salto 4/12
+- **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Puppet Sock, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Média (Armadura 8/6)
@@ -318,7 +318,7 @@
 <tr><td>Ceifeiro<td>12&nbsp;PM<td>10<td>12<td>60<td>120<td>1<td>0<td>6<td>1</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial 8/40, Iônico 8/40, Marcha 4/20, Salto 4/20
+- **Taxa de Movimento:** Empuxo Vetorial 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
 - **Ware:** Antirreflexo, Cibercérebro, Emissor de Raios T,, Insertos da Mesh, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Pesada (Armadura 12/10)
