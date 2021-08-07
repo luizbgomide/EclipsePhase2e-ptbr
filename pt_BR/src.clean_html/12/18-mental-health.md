@@ -39,7 +39,7 @@ Se seu personagem receber um número de pontos de estresse de uma vez que iguala
 
 Cada trauma aplica um modificador −10 para todas as ações do personagem e −1 para Iniciativa cumulativo. Por exemplo, um personagem com 2 traumas sofre −20 para todas as ações e −2 para Iniciativa. Esses modificadores também são cumulativos com modificadores de ferimentos.
 
-Alguns traços, ware, drogas, truques psi e paradas permitem que você ignore modificadores de trauma. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 traumas possa ser negado (−30 para ações e −3 para Iniciativa).
+Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de trauma. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 traumas possa ser negado (−30 para ações e −3 para Iniciativa).
 
 **Desorientação:** Sempre que você sofrer um trauma, faça imediatamente uma Prova de VON (modificadores se aplicam). Se você falhar, você está temporariamente atordoado e desorientado pelo que vivenciou. Você deve usar uma ação complexa para recuperar o juízo. Além disso, se você tem um transtorno desencadeado por esse tipo de estresse, ele é ativado pelo trauma.
 
