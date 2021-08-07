@@ -21,7 +21,7 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 - Se a sua rolagem exceder o número alvo, ela é um falha. Se a rolagem falhada for menor que 66, ela é uma _falha maior_. Se ela for menor que 33, ela conta como duas falhas maiores.
 - Duplas (00, 11, etc.) equivalem a um _sucesso_ ou _falha crítica_.
 - 00 é sempre um sucesso crítico. 99 é sempre uma falha crítica.
-- Se você não tiver a perícia apropriada, você pode _apelar_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
+- Se você não tiver a perícia apropriada, você pode _recorrer_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
 - Se você falhar, você pode tentar novamente (a menos que o MJ não permita), com um modificador −10 cumulativo.
 
 <!-- CLEANED /blockquote -->
