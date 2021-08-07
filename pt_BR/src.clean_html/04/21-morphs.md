@@ -7,7 +7,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 - **Taxa de Movimento:** O sistema de mobilidade usado e a distância coberta ([Movimento](../12/24-movement.md)).
 - **Ware:** Bioware, cyberware, hardware, meshware e/ou nanoware que o morfo está equipado ([Equipamentos](../16/05-common-tech-and-ware.md)).
 - **Traços de Morfo:** Traços que cada morfo deste tipo possui ([Traços](../04/28-traits.md)).
-- **Extras Comuns:** Traços ou ware frequentes mas que não são padrão para o tipo de morfo. Esses não estão incluídos no custo em PM e devem ser adquiridos separadamente.
+- **Extras Comuns:** Traços ou wares frequentes mas que não são padrão para o tipo de morfo. Esses não estão incluídos no custo em PM e devem ser adquiridos separadamente.
 
 <!-- CLEANED /div -->
 
