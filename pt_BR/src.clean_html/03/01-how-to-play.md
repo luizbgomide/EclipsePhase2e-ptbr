@@ -80,15 +80,15 @@ Os críticos têm mais impacto do que resultados maiores. Eles representam os mo
 
 Você é encorajado a inventar resultados críticos criativos conforme for apropriado para a situação. Se um crítico também um resultado maior, apenas o crítico se aplica.
 
-## Apelação
+## Recorrendo
 
-Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _apelar_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
+Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _recorrer_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
 
-Não há nenhum modificador por apelar num teste de perícia, mas sucessos críticos são ignorados.
+Não há nenhum modificador por recorrer em um teste de perícia, mas sucessos críticos são ignorados.
 
-Em alguns casos, o MJ pode permitir que você apele à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia apelar à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
+Em alguns casos, o MJ pode permitir que você recorra à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia recorrer à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
 
-O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível apelar neles.
+O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível recorrer neles.
 
 ## Trabalho em Equipe
 
