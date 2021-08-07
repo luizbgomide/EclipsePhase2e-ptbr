@@ -48,7 +48,7 @@ Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros memb
 
 ### Derrubar
 
-Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para ficar de pé. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
+Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
 
 ### Redirecionar
 
