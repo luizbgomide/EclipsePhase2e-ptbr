@@ -16,7 +16,7 @@ Role os dados quando os resultados podem influenciar a trama ou ter outras conse
 
 ## Fazendo Testes
 
-Quando o MJ pede um teste, role dados de porcentagem e compare o resultado com o número alvo. O número alvo é baseado na perícia, verificação de aptidão ou nível de rep na rede do personagem. Se o resultado for igual ou menor que o número alvo, o teste tem sucesso. Se o resultado for maior, o teste falha.
+Quando o MJ pede um teste, role dados de porcentagem e compare o resultado com o número alvo. O número alvo é baseado na perícia, prova de aptidão ou nível de rep na rede do personagem. Se o resultado for igual ou menor que o número alvo, o teste tem sucesso. Se o resultado for maior, o teste falha.
 
 Apesar de você precisar rolar igual ou menos que o número alvo, você também precisa rolar o mais alto possível para conseguir um [sucesso maior](../03/01-how-to-play.md#superior-results-3366-rule) ou para derrotar o seu oponente em [testes opostos](../03/02-types-of-tests.md#opposed-tests).
 
@@ -80,15 +80,15 @@ Os críticos têm mais impacto do que resultados maiores. Eles representam os mo
 
 Você é encorajado a inventar resultados críticos criativos conforme for apropriado para a situação. Se um crítico também um resultado maior, apenas o crítico se aplica.
 
-## Apelação
+## Recorrendo
 
-Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _apelar_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
+Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _recorrer_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
 
-Não há nenhum modificador por apelar num teste de perícia, mas sucessos críticos são ignorados.
+Não há nenhum modificador por recorrer em um teste de perícia, mas sucessos críticos são ignorados.
 
-Em alguns casos, o MJ pode permitir que você apele à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia apelar à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
+Em alguns casos, o MJ pode permitir que você recorra à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia recorrer à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
 
-O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível apelar neles.
+O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível recorrer neles.
 
 ## Trabalho em Equipe
 

@@ -10,7 +10,7 @@ Pontos atribuídos às perícias Ativas e de Saber não são intercambiáveis. S
 
 - **Tipo:** Saber, Área
 
-Perícias de Saber representam conhecimento acumulado em uma área de trabalho, estudo ou interesse. Perícias de Saber são mais ou menos agrupadas em quatro tipos: acadêmicas, artes, interesses e treinamento profissional.
+Perícias de Saber representam conhecimento acumulado em uma área de trabalho, estudo ou interesse. Perícias de Saber são mais ou menos agrupadas em quatro tipos: acadêmicas, artes, interesses e treinamentos profissionais.
 
 <!-- CLEANED /div -->
 
@@ -22,7 +22,7 @@ Perícias de Saber representam conhecimento acumulado em uma área de trabalho, 
 
 As áreas Acadêmicas abrangem todas as disciplinas de conhecimento científico e estudo avançado. Elas incluem ciências teóricas e aplicadas, ciências sociais, transumanidades e tecnologia.
 
-Use Acadêmicas para recorer à sua educação. Por exemplo, Saber: Química pode ser usada para identificar uma determinada substância, entender uma reação química incomum, ou determinar quais elementos são necessários para nanofabricar algo que necessite de materiais exóticos. O MJ pode escolher não permitir a apelação em alguns Testes de Saber, pois apenas alguém que foi instruído no assunto poderia utilizá-lo.
+Use Acadêmicas para recorer à sua educação. Por exemplo, Saber: Química pode ser usada para identificar uma determinada substância, entender uma reação química incomum, ou determinar quais elementos são necessários para nanofabricar algo que necessite de materiais exóticos. O MJ pode escolher não permitir que se recorra em alguns Testes de Saber, pois apenas alguém que foi instruído no assunto poderia utilizá-lo.
 
 - **Exemplos de Áreas:** Arqueologia, Astrobiologia, Astrofísica, Astronomia, Astrossociologia, Biologia, Botânica, Ciência da Computação, Ciência Política, Criptografia, Direito, Economia, Engenharia, Física, Genética, Geologia, História, Linguística, Matemática, Memética, Nanotecnologia, Psicologia, Química, Sociologia, Xenoarqueologia, Xenolinguística, Zoologia
 - **Especializações:** Conforme apropriado para a área
@@ -61,7 +61,7 @@ Use áreas de Interesses sempre que precisar se lembrar ou usar conhecimento rel
 
 <!-- CLEANED /div -->
 
-### Treinamento Profissional
+### Treinamentos Profissionais
 
 <!-- CLEANED div class="stat-list" -->
 

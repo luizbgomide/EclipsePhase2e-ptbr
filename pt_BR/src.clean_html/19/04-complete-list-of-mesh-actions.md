@@ -22,7 +22,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Escanear Sinais Sem Fio:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
-- **Proteger Software:** Proteger ativamente um software num [combate na mesh](../13/14-mesh-combat.md).
+- **Proteger Software:** Proteger ativamente um software em um [combate na mesh](../13/14-mesh-combat.md).
 - **Camuflar Sinais Sem Fio:** Ocultar sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu informorfo para outro sistema.
 - **Interromper Software:** Matar o processo de um software menor.
@@ -144,7 +144,7 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Controlar PNJs:** Ditar quais respostas os PNJs darão a determinadas ações ou controlá-los diretamente.
 - **Espionar:** Vigiar virtualmente outros usuários.
 - **Gerar Itens:** Criar itens virtuais independentemente da raridade.
-- **Modificar Simulmorfo:** Modificar as estatísticas de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
+- **Modificar Simulmorfo:** Modificar os atributos de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
 - **Ativar Privacidade:** Impedir que suas comunicações cara a cara sejam espionadas.
 - **Iniciar/Parar Simulespaço:** Carregar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.

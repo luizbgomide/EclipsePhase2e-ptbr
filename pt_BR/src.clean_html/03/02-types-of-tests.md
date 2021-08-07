@@ -1,6 +1,6 @@
-# Tipos de Testes
+# Tipos de Teste
 
-Há dois tipos de testes no Eclipse Phase: de sucesso e opostos.
+Há dois tipos de teste em Eclipse Phase: de sucesso e opostos.
 
 ## Testes de Sucesso
 
@@ -20,6 +20,6 @@ Quando fizer um teste oposto, os dois lados fazem um teste conforme descrito aci
 
 - Se um oponente tiver sucesso e o outro falhar, o que teve sucesso vence a disputa.
 - Se ambos os lados rolarem abaixo dos seus números alvo, quem rolou mais alto vence e tem sucesso. O outro ou falha ou tem sucesso mas perde.
-- Se ambos os lados empatarem ou falharem, ou os oponentes permanecem num impasse, ou a rolagem ou perícia mais alta vence e tem sucesso (escolha do MJ).
+- Se ambos os lados empatarem ou falharem, ou os oponentes permanecem em um impasse, ou a rolagem ou perícia mais alta vence e tem sucesso (escolha do MJ).
 
 Sucessos críticos vencem rolagens mais altas em testes opostos. Se ambos os lados tiverem sucesso, mas o que rolou menos tiver um crítico, ele teve uma reviravolta tirando uma vitória das garras da derrota. Se ambos os oponentes rolarem sucessos críticos, a rolagem mais alta (ou perícia se empatarem) vence com um crítico, o perdedor falha ou tem sucesso mas perde.

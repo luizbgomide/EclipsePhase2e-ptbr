@@ -14,14 +14,14 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 
 ### Rolagem d100 (0-99)
 
-- O número alvo é determinado pela perícia apropriada, verificação de aptidão ou nível de rep.
+- O número alvo é determinado pela perícia apropriada, prova de aptidão ou nível de rep.
 - A dificuldade é representada por _modificadores_ deste número alvo, atribuídos pelo MJ.
 - Seu objetivo é rolar igual ou menos que o número alvo modificado, mas o mais alto possível.
 - Uma rolagem igual ou menor que o número alvo é um sucesso. Se a rolagem de sucesso for 33 ou mais, é um _sucesso maior_. Se ela for 66 ou mais, são dois sucessos maiores.
 - Se a sua rolagem exceder o número alvo, ela é um falha. Se a rolagem falhada for menor que 66, ela é uma _falha maior_. Se ela for menor que 33, ela conta como duas falhas maiores.
 - Duplas (00, 11, etc.) equivalem a um _sucesso_ ou _falha crítica_.
 - 00 é sempre um sucesso crítico. 99 é sempre uma falha crítica.
-- Se você não tiver a perícia apropriada, você pode _apelar_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
+- Se você não tiver a perícia apropriada, você pode _recorrer_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
 - Se você falhar, você pode tentar novamente (a menos que o MJ não permita), com um modificador −10 cumulativo.
 
 <!-- CLEANED /blockquote -->
@@ -128,7 +128,7 @@ Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa red
 Seu personagem possui um número de paradas que definem suas capacidades transumanas. A maioria das paradas derivam do seu morfo, mas alguns pontos de Flex vêm do seu ego.
 
 - Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.
-- Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou verificação de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
+- Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
 - Salvo indicação em contrário, apenas 1 ponte de parada pode ser gasto por teste.
 
 <!-- CLEANED blockquote class="indent" -->

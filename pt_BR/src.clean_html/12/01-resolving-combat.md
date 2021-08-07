@@ -36,7 +36,7 @@ A defesa é uma ação automática. A menos que esteja [surpreso](../12/21-other
 
 **Defesa de Distância:** Ataques de distância ou de área de efeito são muito mais difíceis de se esquivar; o defensor usa a perícia Evasão ÷ 2.
 
-**Defesa de Psi:** Truques Psi são resistidos com uma Verificação de VON.
+**Defesa de Psi:** Truques Psi são resistidos com uma Prova de VON.
 
 **Defesa Total:** Personagens que declararam que estão usando [defesa total](../12/21-other-action-factors.md#full-defense) podem se defender como acima com um modificador +30.
 
@@ -48,7 +48,7 @@ Aplique qualquer modificador situacional, de ferimento/trauma, ou outros necess�
 
 ### Modificadores de Combate
 
-Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataques.
+Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataque.
 
 | Situação                                                                                   |         Modificadores         |
 |:------------------------------------------------------------------------------------------ |:-----------------------------:|
@@ -60,7 +60,7 @@ Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores
 | Alvo muito pequeno (rato ou inseto)                                                        |              −30              |
 | Alvo pequeno (tamanho de criança)                                                          |              −10              |
 | Alvo grande (tamanho de carro)                                                             |              +10              |
-| Alvo muito grande (lateral de um celeiro)                                                  |              +30              |
+| Alvo muito grande (tamanho de um celeiro)                                                  |              +30              |
 | Visibilidade ruim (menor: clarão, fumaça leve, luz fraca)                                  |              −10              |
 | Visibilidade ruim (maior: fumaça pesada, escuro)                                           |              −20              |
 | [Ataque às cegas](../12/15-special-attacks.md#blind-attacks)                               | −30 ou 50% de chance de errar |
@@ -95,7 +95,7 @@ Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](
 
 Se o defensor estiver usando armadura, ela vai protegê-lo. Determine qual parte do Valor de Armadura (VA) do defensor é aplicável — armadura energética ou armadura cinética ([Armadura](../12/11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a armadura foi efetiva e o ataque não conseguiu ferir o alvo.
 
-Observe que ataques que perfuram armadura reduzem o VA pela metade.
+Observe que ataques que perfuram armadura reduzem o VA à metade.
 
 ## Passo 8: Aplicar o Dano
 
@@ -113,15 +113,15 @@ Jinx está numa enrascada, em um túnel com um ex-humano se aproximando e pensan
 
 Jinx declara sua intenção de atirar no ex-humano com uma rajada de 3 balas da sua pistola. O MJ declara que o ex-humano vai usar Evasão para esquivar.
 
-Jinx tem 70 na perícia Tiro. O ex-humano está a Curta distância (10 metros), então o modificador de distância é +0. Sem outros modificadores, seu alvo é 70. Ela rola um 96, uma falha, mas gasta um ponto de Flex para inverter isso para um 69 — o que vai contar como dois sucessos maiores.
+Jinx tem 70 na perícia Tiro. O ex-humano está Perto (10 metros), então o modificador de alcance é +0. Sem outros modificadores, seu alvo é 70. Ela rola um 96, uma falha, mas gasta um ponto de Flex para inverter isso para um 69 — o que vai contar como dois sucessos maiores.
 
-O ex-humano tem 60 de Evasão, mas contra um ataque de distância isso é reduzido pela metade.
+O ex-humano tem 60 de Evasão, mas contra um ataque de distância isso é reduzido à metade.
 
 O MJ rola contra o alvo de 30. Ele consegue um 07, o que seria um sucesso, mas Jinx rolou 69 que é mais alto. Jinx acerta!
 
 A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](../12/04-ranged-combat.md#firing-modes) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
 
-O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimentos](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Verificação de SOM ou ser derrubado. Ele rola um 09 contra a Verificação de SOM de 75, então o ex-humano permanece de pé.
+O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
 Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um um [ataque de luta com investida](../12/02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 

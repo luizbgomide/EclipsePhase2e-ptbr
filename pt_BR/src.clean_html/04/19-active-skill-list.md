@@ -40,9 +40,9 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 - **Tipo:** Ativa, Física
 - **Aptidão Vinculada:** Somática
 
-Atletismo engloba vários tipos de atividades físicas em ambientes com gravidade. Ele se aplica especificamente a manobras em morfos que são humanoides, elevados ou que utilizam movimentos biomiméticos (serpentear, voo alado, etc.), sejam encapados ou operados remotamente.
+Atletismo engloba vários tipos de atividades físicas em ambientes com gravidade. Ele se aplica especificamente a manobras em morfos que são humanoides, elevados ou que utilizam movimentos biomiméticos (serpenteio, voo alado, etc.), sejam encapados ou operados remotamente.
 
-Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, pular uma fenda, subir numa mesa, dar um salto mortal ou fazer uma manobra com um morfo alado. Algumas ações estão detalhadas em [Movimento](../12/24-movement.md).
+Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, saltar uma fenda, subir numa mesa, dar um salto mortal ou fazer uma manobra com um morfo alado. Algumas ações estão detalhadas em [Movimento](../12/24-movement.md).
 
 - **Especializações:** Acrobacia, Arremesso, Corrida, Escalada, Nado, Parkour, Salto, Voo
 
@@ -134,7 +134,7 @@ Aparelhagem lida com o design, construção, reparo e alteração de diferentes 
 
 Use Aparelhagem para consertar um sistema de suporte vital, melhorar um robô, hackear uma fechadura eletrônica, ou montar um veículo funcional usando peças sobressalentes. A maioria dos Testes de Aparelhagem são ações de tarefa.
 
-- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamento (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutico (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
+- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutico (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
 - **Especializações:** Conforme apropriado para a área
 
 <!-- CLEANED /div -->
@@ -258,7 +258,7 @@ _Percepção básica_ é uma ação automática, com um modificador de distraç�
 
 Persuasão é a habilidade de convencer os outros a fazer o que você quer, através de palavras e gestos, e lógica e razão. É a arte da manipulação social sutil. Não inclui intimidação, coerção, sedução ou outra manipulação emocional (use Provocação).
 
-Use Persuasão para conduzir uma barganha, convencer alguém relutante, negociar uma trégua, motivar seus pares a agirem, ou trazer alguém para o seu lado. Persuasão é oposta pela Verificação de SAG do oponente.
+Use Persuasão para conduzir uma barganha, convencer alguém relutante, negociar uma trégua, motivar seus pares a agirem, ou trazer alguém para o seu lado. Persuasão é oposta pela Prova de SAG do oponente.
 
 - **Especializações:** Diplomacia, Negociação, Motivação
 
@@ -287,9 +287,9 @@ Use Pilotagem para fazer uma curva fechada com um carro, evadir de uma persegui�
 - **Tipo:** Ativa, Técnica
 - **Aptidão Vinculada:** Cognição
 
-Programação é sobre escrever e modificar códigos de softwares.
+Programação é sobre escrever e modificar códigos de software.
 
-Use Programação para escrever um script, analisar como um programa funciona, projetar um modelo para nanofabricação, quebrar uma proteção de copyright, consertar uma brecha de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
+Use Programação para escrever um script, analisar como um programa funciona, projetar uma matriz para nanofabricação, quebrar uma proteção de copyright, consertar uma brecha de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
 
 - **Especializações:** IAs, Infomorfos, Malware, Nanofabricação, Pirataria, RV
 
@@ -304,9 +304,9 @@ Use Programação para escrever um script, analisar como um programa funciona, p
 
 Provocação é o seu talento em manipulação emocional.
 
-Use Provocação para zombar de um oponente, intimidar uma testemunha, agitar uma turba, amedrontar alguém a se render, ameaçar um prisioneiro para dar informações ou seduzir um amante em potencial. Oponentes resistem a Provocação com uma Verificação de VON.
+Use Provocação para zombar de um oponente, intimidar uma testemunha, agitar uma turba, amedrontar alguém a se render, ameaçar um prisioneiro para dar informações ou seduzir um amante em potencial. Oponentes resistem a Provocação com uma Prova de VON.
 
-- **Especializações:** Acalmar, Agitar, Inspirar, Interrogar, Intimidar, Seduzir, Zombar
+- **Especializações:** Acalmar, Inspirar, Interrogar, Intimidar, Perturbar, Seduzir, Zombar
 
 <!-- CLEANED /div -->
 
@@ -319,7 +319,7 @@ Use Provocação para zombar de um oponente, intimidar uma testemunha, agitar um
 
 Psi é o uso de habilidades psíquicas (truques) para detectar, manipular ou prejudicar outras pessoas.
 
-Use Psi para atacar pessoas com [truques psi-gama](../14/06-psi-sleight-summaries.md#psi-gamma-sleights). Psi é resistido com uma Verificação de VON.
+Use Psi para atacar pessoas com [truques psi-gama](../14/06-psi-sleight-summaries.md#psi-gamma-sleights). Psi é resistido com uma Prova de VON.
 
 Você deve possuir o traço [Psi](../04/28-traits.md#psi) para usar essa perícia.
 

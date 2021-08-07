@@ -6,7 +6,7 @@ Apesar de conceitualmente as perícias serem construídas sobre os valores de ap
 
 **Gastando PP:** Pontos de aptidão extra custam 1&nbsp;PP cada. Se você vai aumentar uma aptidão, nós recomendamos fazê-lo agora, antes de você calcular suas perícias no Passo 6.
 
-### Ativo
+### Prático
 
 Você está mais confortável com a fisicalidade do que falar ou pensar.
 
@@ -40,7 +40,7 @@ Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápi
 
 | Modelo       | COG | INT | REF | SAG | SOM | VON |
 |:------------ |:---:|:---:|:---:|:---:|:---:|:---:|
-| Ativo        | 10  | 15  | 20  | 10  | 20  | 15  |
+| Prático      | 10  | 15  | 20  | 10  | 20  | 15  |
 | Extrovertido | 10  | 20  | 15  | 20  | 15  | 10  |
 | Facilitador  | 15  | 15  | 10  | 20  | 10  | 20  |
 | Generalista  | 15  | 15  | 15  | 15  | 15  | 15  |

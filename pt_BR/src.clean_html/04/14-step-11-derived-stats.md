@@ -3,7 +3,7 @@
 Você está quase lá! Agora alguns dos seus atributos precisam ser calculados e adicionadas à sua ficha de personagem:
 
 - **Iniciativa:** (REF + INT) ÷ 5.
-- **Verificações de Aptidão:** Cada aptidão tem uma verificação (Verificação de Cognição, Verificação de Intuição, etc.) igual à aptidão × 3.
+- **Provas de Aptidão:** Cada aptidão tem uma prova (Prova de Cognição, Prova de Intuição, etc.) igual à aptidão × 3.
 - **Lucidez:** VON × 2.
 - **Limiar de Trauma:** LUC ÷ 5.
 - **Grau de Insanidade:** LUC × 2.
