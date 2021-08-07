@@ -48,7 +48,7 @@ Aplique qualquer modificador situacional, de ferimento/trauma, ou outros necess�
 
 ### Modificadores de Combate
 
-Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataques.
+Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataque.
 
 | Situação                                                                                   |         Modificadores         |
 |:------------------------------------------------------------------------------------------ |:-----------------------------:|
@@ -60,7 +60,7 @@ Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores
 | Alvo muito pequeno (rato ou inseto)                                                        |              −30              |
 | Alvo pequeno (tamanho de criança)                                                          |              −10              |
 | Alvo grande (tamanho de carro)                                                             |              +10              |
-| Alvo muito grande (lateral de um celeiro)                                                  |              +30              |
+| Alvo muito grande (tamanho de um celeiro)                                                  |              +30              |
 | Visibilidade ruim (menor: clarão, fumaça leve, luz fraca)                                  |              −10              |
 | Visibilidade ruim (maior: fumaça pesada, escuro)                                           |              −20              |
 | [Ataque às cegas](../12/15-special-attacks.md#blind-attacks)                               | −30 ou 50% de chance de errar |
@@ -121,7 +121,7 @@ O MJ rola contra o alvo de 30. Ele consegue um 07, o que seria um sucesso, mas J
 
 A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](../12/04-ranged-combat.md#firing-modes) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
 
-O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimentos](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
+O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
 Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um um [ataque de luta com investida](../12/02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 
