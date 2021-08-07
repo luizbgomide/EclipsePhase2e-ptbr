@@ -268,7 +268,7 @@ O polvo olhou para cima contorcendo os braços com frustração. “Já viu um d
 
 “Eu conheço um colecionador em Ceres, sempre ansioso para comprar modelos vintage pré-Queda, mas não consigo fazer essa coisa funcionar. Você acha que pode dar uma olhadinha? Ah, me chamo Pivo”, disse o neo-polvo, enrolando um dos seus braços na mão de Tierslay. Ela se surpreendeu por não ter se afastado.
 
-Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo deu um toque, o que elevou a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
+Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo lhe deu um grato elevando a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
 
 Ela respondeu ao olhar questionador, “Estou aqui faz pouco tempo.” _Que eufemismo ridículo._
 
@@ -300,7 +300,7 @@ A risada rouca de Berk estava em sintonia perfeita com a música extravagante. �
 
 A cara do oni sorriu. “Nem eu. Esta é uma economia de oferta, Tierslay. O dinheiro é para oligarcas e serviçais.” Após uma reverência, Berk virou-se e saiu para outra conversa.
 
-A musa de Tierslay avisou-a que o executável estava limpo e o que uma pesquisa rápida na malha revelou sobre o arquivo. Diziam que os efeitos do narcoalgoritmo eram muito agradáveis. _Estou gostando desse negócio de musa_, ela pensou e sua musa respondeu com uma suave tremulação de alegria nas bordas da sua visão. _Foda-se, vamos rodar isso._
+A musa de Tierslay avisou-a que o executável estava limpo e o que uma pesquisa rápida na mesh revelou sobre o arquivo. Diziam que os efeitos do narcoalgoritmo eram muito agradáveis. _Estou gostando desse negócio de musa_, ela pensou e sua musa respondeu com uma suave tremulação de alegria nas bordas da sua visão. _Foda-se, vamos rodar isso._
 
 Um formigamento percorreu o corpo sintético de Tierslay, começando pela cabeça e passando agradavelmente por todo os sistemas, e então dos pés voltando para cima. A sensação imitava arrepios surgindo na pele e então se esvaindo num calor prazeroso, ampliado mil vezes. Cada viagem extática por seu corpo começava com as pancadas graves intercaladas do som da batida. Conexão completa com o ritmo. Tierslay deslizou para o Drip, até o grupo que Berk apontou antes, e se juntou a diversão deles pelos próximos dois dias, nunca parando de se mexer, Fizzee66 fazendo sua mágica o tempo todo.
 
@@ -418,7 +418,7 @@ Apressado, Ukku saiu da pista de dança e correu para uma cabine na seção Drip
 
 “Não estou gostando.”
 
-Elis deu um toque em Bixbee e ele desatou a zunir, transbordando alegria, como sempre. “Tierslay! Esse seu algo novo, deixa os pensamentos fofinhos igual marshmallows que não consigo parar de lamber. Vai inundar o Tall Red. Uau! Você é uma lenda —”
+Elis deu um grato a Bixbee e ele desatou a zunir, transbordando alegria, como sempre. “Tierslay! Esse seu algo novo, deixa os pensamentos fofinhos igual marshmallows que não consigo parar de lamber. Vai inundar o Tall Red. Uau! Você é uma lenda —”
 
 Elis interrompeu Bixbee, com um tom dominante e desconhecido de Tierslay. O tom de um superior, não um amigo. “Calma aí, Bix. Hora de trabalhar.” Bixbee colocou o último narco de Tierslay em suspensão e o farfalhar das suas asas diminuiu para uma velocidade razoável. “Qual é o problema, Elis?”
 
@@ -546,7 +546,7 @@ Ukku voltou-se para o morfo prod com a cabeça vazia. Uma dúzia de outros como 
 
 Tierslay tentou novamente focalizar no cubo. Parecia ser composto por um único fio entrelaçado, alguma substância vítrea e negra torcida em sua forma perfeita. Mesmo na microgravidade, ele parecia denso. Ela nunca segurou nada assim. _Isto é alienígena? Alguma coisa de TITAN?_
 
-Ela procurou uma conexão de malha. Sem resposta. “A gente tentou as coisas comuns, Tier”, disse Taernen. “Isso não responde. Faz sua mágica. Descubra o que isso pode fazer.”
+Ela procurou uma conexão da mesh. Sem resposta. “A gente tentou as coisas comuns, Tier”, disse Taernen. “Isso não responde. Faz sua mágica. Descubra o que isso pode fazer.”
 
 Ela fez vários exames com suas ferramentas. Sem portas, sem formas de acesso. Nada. Ela nem sabia se isso tinha energia.
 
@@ -584,7 +584,7 @@ Um funil se formou no centro círculo, um redemoinho curvando e desfiando o espa
 
 Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum portal de pandora!”
 
-Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas violados da malha de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas portas dos fundos nos narcos, invadindo cada cérebro cibernético na sala.
+Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas portas dos fundos nos narcos, invadindo cada cérebro cibernético na sala.
 
 O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos... mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
