@@ -16,7 +16,7 @@ Alguns ataques, drogas, e truques psi infligem condições temporárias específ
 - **Incapacitado:** Você não pode fazer ações até se recuperar. Isso inclui ações mentais e Testes de Evasão; você não pode se defender contra ataques.
 - **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para este turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
 - **Atordoado:** Você perdeu completamente o fôlego. Você sofre −30 em todas as ações físicas e −10 em ações mentais.
-- **Inconsciente:** Você perdeu a consciência (ou seu estado mental de software travou) e está indefeso. Você pode ser acordado/reiniciado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
+- **Inconsciente:** Você perdeu a consciência (ou seu estado mental de software travou) e está indefeso. Você pode ser acordado/reinicializado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
 
 ## Defesa Total
 
@@ -53,7 +53,7 @@ Não existem morfos deste tamanho; não há espaço para um (ciber) cérebro (a 
 Morfos, criaturas, carcaças e equipamentos pequenos variam entre o tamanho de um gato e uma criança humana:
 
 - Eles são difíceis de acertar e encontrar (−10).
-- Estes tem uma vantagem de Alcance contra alvos muito pequenos.
+- Eles têm uma vantagem de Extensão contra alvos muito pequenos.
 - Eles infligem metade do dano em luta.
 - Eles sofrem −20 quando usam equipamentos de tamanho médio ou armas de duas mãos não modificadas para o seu tamanho.
 - Eles sofrem −10 em Provas de SOM baseadas em força.
@@ -63,7 +63,7 @@ Morfos, criaturas, carcaças e equipamentos pequenos variam entre o tamanho de u
 Morfos, criaturas, carcaças e equipamentos grandes são maiores que transumanos normais, variando entre o tamanho de um carro pequeno e uma neo-orca. Eles geralmente tem problemas em encontrar equipamentos feitos para seu tamanho e podem ter dificuldade em navegar por habitats apertados:
 
 - Eles são fáceis de acertar e encontrar (+10).
-- Eles tem vantagem de Alcance contra alvos de tamanho médio; dobre isso contra tamanhos pequenos e triplique contra tamanhos muito pequenos.
+- Eles têm vantagem de Extensão contra alvos de tamanho médio; dobre isso contra tamanhos pequenos e triplique contra tamanhos muito pequenos.
 - Eles infligem +1d10&nbsp;VD em luta e podem usar armas de duas mãos com uma mão.
 - Eles sofrem −20 quando usam equipamentos pequenos ou muito pequenos não integrados e não modificados para o seu tamanho, a não ser que possuam manipuladores finos.
 - Eles recebem +10 em Provas de SOM baseadas em força.
@@ -74,7 +74,7 @@ Morfos, criaturas, carcaças e equipamentos grandes são maiores que transumanos
 Morfos, criaturas e carcarças muito grandes são maiores que muitos veículos, variando entre o tamanho de uma limusine e um celeiro. Muito poucos equipamentos são feitos para o seu tamanho e eles não cabem dentro da maioria dos habitats.
 
 - Eles são mais fáceis de acertar e encontrar (+30).
-- Eles tem vantagem de Alcance contra alvos de tamanho grande; dobre isso contra tamanhos médios e triplique contra tamanhos pequenos e muito pequenos.
+- Eles têm vantagem de Extensão contra alvos de tamanho grande; dobre isso contra tamanhos médios e triplique contra tamanhos pequenos e muito pequenos.
 - Eles infligem +2d10&nbsp;VD em luta e podem usar armas de duas mãos com uma mão.
 - Eles sofrem −20 quando usam equipamentos grandes não modificados para o seu tamanho, e não podem usar equipamentos pequenos não integrados, a não seri que possuam manipuladores finos.
 - Eles recebem +30 em Provas de SOM baseadas em força.
@@ -84,7 +84,7 @@ Morfos, criaturas e carcarças muito grandes são maiores que muitos veículos, 
 
 Você podem levar a melhor contra um oponente se esgueirando até ele, aguardando na espreita, ou atirando de uma posição difícil de ser vista à distância. Sempre que você tentar surpreender, faça um teste oposto entre sua perícia Infiltração e a Percepção do alvo. A não ser que o alvo esteja alerta para surpresas, ele sofre o típico modificador −20 por estar distraído. Aplique outros modificadores apropriados a posição, distância, visibilidade, cobertura, etc. do atacante. Para grupos de PNJs, use a perícia mais alta entre os personagens.
 
-Se o alvo perder, ele está surpreso pelo ataque e não podem reagir ou se defender contra ele. Cada emboscador bem sucedido recebe uma ação de iniciativa gratuita; ele não pode gastar Vigor para ter ações adicionais. Assim que os atacantes tenham feito suas ações, role Iniciativa normalmente.
+Se o alvo perder, ele está surpreso pelo ataque e não podem reagir ou se defender contra ele. Cada emboscador bem-sucedido recebe uma ação de iniciativa gratuita; ele não pode gastar Vigor para ter ações adicionais. Assim que os atacantes tenham feito suas ações, role Iniciativa normalmente.
 
 Se o alvo vencer, ele está alerta de algo por uma fração de segundo antes de ser emboscado, dando a ele uma chance de reagir. Neste caso, role a Iniciativa normalmente, mas o personagem emboscado sofre um modificador −3 no Teste de Iniciativa. O personagem emboscado ainda pode agir e se defender normalmente.
 
