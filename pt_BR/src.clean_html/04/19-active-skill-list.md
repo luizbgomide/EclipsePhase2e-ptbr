@@ -163,9 +163,9 @@ Use Infiltração para esgueirar-se por um guarda, esconder-se de um grupo de bu
 
 Infoseg é uma abreviação de "segurança da informação". Ele incorpora o treinamento em técnicas de invasão e contrainvasão eletrônicas, assim como o uso de ferramentas de criptografia.
 
-Use a Infoseg para hackear sistemas eletrônicos e da mesh, subvertê-los, e protegê-los. Também use-a para encriptar e desencriptar comunicações e arquivos. A maioria dos Testes de Infoseg são ações de tarefa. Veja [A Mesh](../13/00-the-mesh.md), para obter detalhes adicionais sobre sistemas da mesh e aplicações da perícia Infoseg.
+Use a Infoseg para hackear sistemas eletrônicos e da mesh, subvertê-los, e protegê-los. Também use-a para criptografar e descriptografar comunicações e arquivos. A maioria dos Testes de Infoseg são ações de tarefa. Veja [A Mesh](../13/00-the-mesh.md), para obter detalhes adicionais sobre sistemas da mesh e aplicações da perícia Infoseg.
 
-- **Especializações:** Desencriptação, Farejamento, Hack Cerebral, Hack de Força-Bruta, Hack de RV, Mascaramento, Segurança, Sondagem, Subversão
+- **Especializações:** Descriptografia, Farejamento, Hack Cerebral, Hack de Força-Bruta, Hack de RV, Mascaramento, Segurança, Sondagem, Subversão
 
 <!-- CLEANED /div -->
 
@@ -241,7 +241,7 @@ Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra
 
 Percepção é a consciência e o uso dos seus sentidos físicos.
 
-Use Percepção para avistar um intruso, encontrar uma pista, localizar uma armadilha, revistar uma sala ou vasculhar por algo útil. Você começa com uma Percepção base de INT × 2. Percepção é oposta pela perícia Infiltração.
+Use Percepção para avistar um invasor, encontrar uma pista, localizar uma armadilha, revistar uma sala ou vasculhar por algo útil. Você começa com uma Percepção base de INT × 2. Percepção é oposta pela perícia Infiltração.
 
 _Percepção básica_ é uma ação automática, com um modificador de distração −20, já que sua atenção está em outro lugar. _Percepção detalhada_, sem modificadores, é uma ação rápida. _Investigação minuciosa_ é uma ação de tarefa.
 
@@ -289,7 +289,7 @@ Use Pilotagem para fazer uma curva fechada com um carro, evadir de uma persegui�
 
 Programação é sobre escrever e modificar códigos de software.
 
-Use Programação para escrever um script, analisar como um programa funciona, projetar uma matriz para nanofabricação, quebrar uma proteção de copyright, consertar uma brecha de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
+Use Programação para escrever um script, analisar como um programa funciona, projetar uma matriz para nanofabricação, quebrar uma proteção de copyright, consertar uma vulnerabilidade de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
 
 - **Especializações:** IAs, Infomorfos, Malware, Nanofabricação, Pirataria, RV
 
@@ -336,7 +336,7 @@ Você deve possuir o traço [Psi](../04/28-traits.md#psi) para usar essa períci
 
 Pesquisa é o seu google-fu, sua perícia de encontrar, analisar e entender informações online. Ela inclui saber onde procurar, otimizar suas consultas, separar a ficção da verdade e processar quantidades massivas de dados.
 
-Use Pesquisa para encontrar uma resposta na mesh, rastrear pessoas online, acessar a mesh profunda, buscar em bancos de dados, examinar arquivos e minerar despejos de dados.
+Use Pesquisa para encontrar uma resposta na mesh, rastrear pessoas online, acessar a mesh profunda, buscar em bases de dados, examinar arquivos e minerar despejos de dados.
 
 - **Especializações:** Arquivos Científicos, Arquivos de Notícias, Blogs, Mesh Profunda, Rastreamento, Redes Sociais, Serviços da Nuvem
 
