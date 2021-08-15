@@ -6,7 +6,7 @@ Transtornos são aflições psicológicas duradouras que tipicamente requerem se
 
 **Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente suas ações e o que você pode e não pode fazer, conforme a afliação. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem sucedido.
+**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente suas ações e o que você pode e não pode fazer, conforme a afliação. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
 
 ### Transtorno de Comportamento Alienígena
 
@@ -86,7 +86,7 @@ Você sofre uma condição neurológica como cegueira, surdez, incapacidade de f
 
 Depressão clínica é caracterizada por sentimentos intensos de desesperança e inutilidade. Você sente como se nada que você faça tenha importância e que ninguém se importa de qualquer maneira. É difícil ser motivado; até mesmo atos simples como comer e tomar banho parecem monumentais.
 
-**Efeito:** Faça uma Prova de VON para fazer qualquer tipo de ação; aplique um modificador −30 ao teste no caso de ações de tarefa ou outras atividades contínuas.
+**Efeito:** Faça uma Prova de VON para fazer qualquer tipo de ação; aplique um modificador −30 ao teste no caso de ações de tarefa ou outras atividades sustentadas.
 
 ### Transtorno Dissociativo de Personalidade
 
