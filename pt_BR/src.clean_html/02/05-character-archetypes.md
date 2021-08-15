@@ -24,7 +24,7 @@ Até mesmo o grupo mais astuto eventualmente precisa recorrer à força bruta. A
 
 <!-- CLEANED /blockquote -->
 
-**Caçadores de Ego, Policiais e Milícias:** Este personagem sabe navegar na selva da microgravidade para localizar o seu alvo. Eles tem uma boa ênfase em redes sociais e perícias investigativas. Seu combate costuma ser focado e discreto, mas seu treinamento depende de reforços quando enfrentam um inimigo mais forte. Uma boa adição quando o grupo não está visando um banho de sangue.
+**Caçadores de Ego, Policiais e Milícias:** Este personagem sabe navegar na selva da microgravidade para localizar o seu alvo. Eles têm uma boa ênfase em redes sociais e perícias investigativas. Seu combate costuma ser focado e discreto, mas seu treinamento depende de reforços quando enfrentam um inimigo mais forte. Uma boa adição quando o grupo não está visando um banho de sangue.
 
 <!-- CLEANED blockquote class="indent" -->
 
@@ -88,7 +88,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hardware ou software. O técnico é o herói quando o suporte vital está acabando ou a IA ficou hostil. Durante o combate, o técnico pode desligar as ferramentas do inimigo ou fornecer observadores para os personagens de combate. Os personagens técnicos mais comuns são:
 
-**Hackers:** Os hackers são críticos por sua capacidade de obter dados durante uma investigação. Gravações de câmeras, lifelogs esquecidos e manifestos de cargas ilegais em depósitos abandonados, todos contém sujeiras esperando para serem escavadas. O hacker também se mantém ocupado arrumando a bagunça do seu próprio grupo, apagando registros em câmeras e pegadas digitais. Em combate hackers são letais. Contanto que sua equipe arranje algum tempo, os hackers podem ejetar os pentes das armas, travar a mira automática dos sistemas de segurança, abrir escotilhas atrás dos inimigos, ou até mesmo desativar sintemorfos ofensivos.
+**Hackers:** Os hackers são críticos por sua capacidade de obter dados durante uma investigação. Gravações de câmeras, lifelogs esquecidos e manifestos de cargas ilegais em depósitos abandonados, todos contém sujeiras esperando para serem escavadas. O hacker também se mantém ocupado arrumando a bagunça do seu próprio grupo, apagando logs de câmeras e pegadas digitais. Em combate hackers são letais. Contanto que sua equipe arranje algum tempo, os hackers podem ejetar os pentes das armas, travar a mira automática dos sistemas de segurança, abrir câmaras de ar atrás de inimigos, ou até mesmo desativar sintemorfos ofensivos.
 
 <!-- CLEANED blockquote class="indent" -->
 
