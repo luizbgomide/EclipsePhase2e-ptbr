@@ -74,7 +74,7 @@ Monte envolveu Tierslay em seus braços com um assovio de alegria. “Dividimos 
 
 Monte arrumou para Tierslay um barraco improvisado na esquina feito com lona desfiada azul e paletes de construção quebrados. O lugar criava um pouco de sombra na tarde, dando um descanso do sol forte para o cérebro poder se concentrar. Tierslay tinha vinte minutos para hackear o EEL 3 antes do comprador chegar.
 
-Ela voou na programação. Como ela imaginava, foi complicado. As travas proprietárias de cibercérebros Go-nin eram notoriamente difíceis de quebrar. O mercado para cérebros de bot hackeados sem os códigos padrões de fábrica estava explodindo, ainda que, nos dois lados dos muros, então Tierslay gastou muito do seu tempo fazendo engenharia reversa das restrições de copyright e apps de controle de acesso de qualquer peça de bot que ela colocasse as mãos. Distorcer a saída ou rodar um esquema de depuração sofisticado estavam fora de questão. Não havia tempo. Sua única esperança era encontrar uma brecha em uma das poucas vulnerabilidades ocultas que ela tinha descoberto nos modelos de Go-nin antigos. Depois de quinze minutos, ela achou — era uma controladora que ela podia enganar para fornecer as chaves de encriptação necessárias. O suor pingou em seus olhos enquanto ela usava a brecha e o software de segurança era quebrado. Acesso root garantido. O cérebro de bot agora obedecia suas ordens. _Talento sempre dá um jeito, Go-nin. E com tempo de sobra._
+Ela voou na programação. Como ela imaginava, foi complicado. As travas proprietárias de cibercérebros Go-nin eram notoriamente difíceis de quebrar. O mercado para cérebros de bot hackeados sem os códigos padrões de fábrica estava explodindo, ainda que, nos dois lados dos muros, então Tierslay gastou muito do seu tempo fazendo engenharia reversa das restrições de copyright e apps de controle de acesso de qualquer peça de bot que ela colocasse as mãos. Distorcer a saída ou rodar um esquema de depuração sofisticado estavam fora de questão. Não havia tempo. Sua única esperança era encontrar e violar uma das poucas vulnerabilidades ocultas que ela tinha descoberto nos modelos de Go-nin antigos. Depois de quinze minutos, ela achou — era uma controladora que ela podia enganar para fornecer as chaves de criptografia necessárias. O suor pingou em seus olhos enquanto ela rodava rodava a violação e o software de segurança era quebrado. Acesso root garantido. O cérebro de bot agora obedecia suas ordens. _Talento sempre dá um jeito, Go-nin. E com tempo de sobra._
 
 Mas depois, tiros.
 
@@ -102,7 +102,7 @@ A cabeça de olho gigante finalmente se mexeu, inclinando ligeiramente. “Eu so
 
 Ukku conduziu Tierslay através de um labirinto de máquinas coloridas do século 20 com luzes piscando, estalos e cliques analógicos, e promessas de bolas grátis. Apesar do nervosismo pelo procedimento iminente, estas engenhocas simples de outra época a fizeram sorrir. Ela já havia visto fliperamas em filmes antigos, mas nunca pessoalmente, e a presença de tantas juntas num só lugar, literalmente centenas, era como desenterrar uma tumba desconhecida cheia de tesouros.
 
-No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, este com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de varredura se desdobrou como pétalas em torno da sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
+No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, este com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de escaneamento se desdobrou como pétalas em torno da sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
 
 “Isso está acontecendo tão rápido”, disse Tierslay. “Não sei o que você está fazendo. Nem sei quem vou me tornar.”
 
@@ -176,7 +176,7 @@ Tierslay tinha ouvido falar de musas. Elas eram comuns entre os privilegiados. E
 
 “Agradeça a Rikita.”
 
-“Eu tenho outros clientes para atender, mas eu preparei um conjunto de vídeos introdutórios curtos para aclimatá-la. Veja-os quando preferir. Também recomendo o simulador zero-g.” Vários links apareceram em sua tela entóptica. “Por favor, não tenha pressa. Quando você se sentir bem, a saída é à esquerda e no final do corredor.” Com um aceno de despedida, Badal projetou-se para uma das paredes de pergaminho e deslizou-a.
+“Eu tenho outros clientes para atender, mas eu preparei um conjunto de vídeos introdutórios curtos para aclimatá-la. Veja-os quando preferir. Também recomendo o simulador zero-g.” Vários itens apareceram em sua tela entóptica. “Por favor, não tenha pressa. Quando você se sentir bem, a saída é à esquerda e no final do corredor.” Com um aceno de despedida, Badal projetou-se para uma das paredes de pergaminho e deslizou-a.
 
 “Espere!”
 
@@ -268,7 +268,7 @@ O polvo olhou para cima contorcendo os braços com frustração. “Já viu um d
 
 “Eu conheço um colecionador em Ceres, sempre ansioso para comprar modelos vintage pré-Queda, mas não consigo fazer essa coisa funcionar. Você acha que pode dar uma olhadinha? Ah, me chamo Pivo”, disse o neo-polvo, enrolando um dos seus braços na mão de Tierslay. Ela se surpreendeu por não ter se afastado.
 
-Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo lhe deu um grato elevando a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
+Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo lhe deu um grato, elevando a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
 
 Ela respondeu ao olhar questionador, “Estou aqui faz pouco tempo.” _Que eufemismo ridículo._
 
@@ -404,7 +404,7 @@ Elis respondeu com um sorriso conspiratório e um aceno enquanto Bixbee voava so
 
 Ukku estava na pista de dança da _Danger Noodle_ por quatro horas direto, cotovelos pontudos chacoalhando, pernas quase desabando, forçando os outros a desviarem. Claramente, Ukku estava chapado além da conta, rolando no último narco de Tierslay, junto com a maioria do clube. Tierslay, Elis, Pivo e Berk assistiam o sinte do bar, Bixbee do seu poleiro habitual acima da cabine do DJ, esperando Tierslay começar a pegadinha.
 
-Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da porta dos fundos no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
+Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da brecha no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
 
 “Hum, isso foi desapontador.” Elis deu um tapinha no braço de Tierslay. “O _idiota_ é mesmo tapado. O negócio é voltar a beber até o turista parar de poluir nossa preciosa pista de dança.”
 
@@ -418,7 +418,7 @@ Apressado, Ukku saiu da pista de dança e correu para uma cabine na seção Drip
 
 “Não estou gostando.”
 
-Elis deu um grato a Bixbee e ele desatou a zunir, transbordando alegria, como sempre. “Tierslay! Esse seu algo novo, deixa os pensamentos fofinhos igual marshmallows que não consigo parar de lamber. Vai inundar o Tall Red. Uau! Você é uma lenda —”
+Elis chamou Bixbee e ele desatou a zunir, transbordando alegria, como sempre. “Tierslay! Esse seu algo novo, deixa os pensamentos fofinhos igual marshmallows que não consigo parar de lamber. Vai inundar o Tall Red. Uau! Você é uma lenda —”
 
 Elis interrompeu Bixbee, com um tom dominante e desconhecido de Tierslay. O tom de um superior, não um amigo. “Calma aí, Bix. Hora de trabalhar.” Bixbee colocou o último narco de Tierslay em suspensão e o farfalhar das suas asas diminuiu para uma velocidade razoável. “Qual é o problema, Elis?”
 
@@ -552,9 +552,9 @@ Ela fez vários exames com suas ferramentas. Sem portas, sem formas de acesso. N
 
 “Nenhuma entrada óbvia. Nenhuma mostra de programação. Odeio falar isto pra você, Taer. À primeira vista, você não tem nada mais do que uma bugiganga inútil.”
 
-Quando ela falou, uma janela de RA apareceu em sua visão. Seu nanodetector tinha encontrado alguma coisa. Ácaros. Nanobots. Mais janelas apareceram. Sua firewall disparou alertas — algo estava acessando sua rede pessoal. Mas ainda não havia nenhum sinal de rádio. Ela olhou para o cubo na sua mão. _Oh deus… os nanobots. Eles estão fazendo uma ligação física…_
+Quando ela falou, uma janela de RA apareceu em sua visão. Seu nanodetector tinha encontrado alguma coisa. Ácaros. Nanobots. Mais janelas apareceram. Seu firewall disparou alertas — algo estava acessando sua rede pessoal. Mas ainda não havia nenhum sinal de rádio. Ela olhou para o cubo na sua mão. _Oh deus… os nanobots. Eles estão fazendo uma ligação física…_
 
-Tierslay tentou soltar o cubo, mas não conseguiu. Todas as funções físicas cessaram. Paralisia. Estase. Ela entrou em pânico enquanto sentia _alguma coisa_ sondado sua mente, explorando cada circuito, cada sinapse eletrônica. Monte balbuciou incompreensivelmente. Avisos espalharam-se por sua visão, sinais de brechas sendo executadas uma atrás da outra. \[Integridade do sistema de musa comprometida. Assinaturas de código não autorizadas detectadas.\] Monte estava sendo reescrito e ela não podia fazer nada.
+Tierslay tentou soltar o cubo, mas não conseguiu. Todas as funções físicas cessaram. Paralisia. Estase. Ela entrou em pânico enquanto sentia _alguma coisa_ sondado sua mente, explorando cada circuito, cada sinapse eletrônica. Monte balbuciou incompreensivelmente. Avisos espalharam-se por sua visão, sinais de múltiplas violações sendo executadas. \[Integridade do sistema de musa comprometida. Assinaturas de código não autorizadas detectadas.\] Monte estava sendo reescrito e ela não podia fazer nada.
 
 Taernen continuou falando, sem perceber nada. “É tecnologia de TITAN, Tier. Tem que ser. Equipamento avançado de IA. Eu não teria aqueles babacas atrás de mim se não fosse. Ei, que merda você está fazendo? Tier? Para de ficar zoando! Ei! Tô falando com você!”
 
@@ -574,7 +574,7 @@ De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a c
 
 Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos prods saíram nus se seus tanques de suspensão, bestas ferozes famintas por carne. O caos tomou conta do depósito de carga. Armas disparavam em todas as direções. Corpos tombavam em queda livre em meio de glóbulos de sangue e gel nutritivo. Gritos competiam com urros e rosnados. Taernen vangloriou-se e riu, sua armadilha funcionou.
 
-Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando brechas, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a porta dos fundos que Tierslay colocou em cada instância dos seus narcoalgoritmos.
+Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando vulnerabilidades, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a brecha que Tierslay colocou em cada instância dos seus narcoalgoritmos.
 
 Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou da sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
 
@@ -584,7 +584,7 @@ Um funil se formou no centro círculo, um redemoinho curvando e desfiando o espa
 
 Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum portal de pandora!”
 
-Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas portas dos fundos nos narcos, invadindo cada cérebro cibernético na sala.
+Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas brechas nos narcos, invadindo cada cérebro cibernético na sala.
 
 O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos... mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
@@ -632,6 +632,6 @@ Ela hesitou, ainda incerta se deveria entrar no redemoinho para o desconhecido s
 
 Tierslay agarrou as bordas da estrutura e empurrou-se, pulando no buraco de minhoca, certa que um dia ela retornaria para dar o troco em todos que a ferraram.
 
-Os fios da estrutura se desenrolaram e formaram o pequeno cubo negro novamente. Pivo observava, quase desmaiando, conforme o dispositivo flutuou em meio às cascas vazias por um momento, antes de tomar a forma de uma libélula miniatura. O dispositivo acionou a abertura da escotilha que levava ao resto da nave, e desapareceu.
+Os fios da estrutura se desenrolaram e formaram o pequeno cubo negro novamente. Pivo observava, quase desmaiando, conforme o dispositivo flutuou em meio às cascas vazias por um momento, antes de tomar a forma de uma libélula miniatura. O dispositivo zuniu pela câmara de ar aberta que levava ao resto da nave, e desapareceu.
 
 ---
