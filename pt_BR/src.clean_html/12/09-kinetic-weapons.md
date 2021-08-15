@@ -82,19 +82,19 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Mordente:** Balas mordentes se fragmentam em proporção oposta a dureza do alvo atingido. Para alvos duros (sintemorfos), elas se fragmentam muito pouco, abrindo um grande buraco. Para alvos macios (biomorfos), elas se fragmentam e desviam em múltiplas direções dentro do corpo.
 
-**Grampeada:** Cartuchos grampeados são equipadas com uma microescuta e nanobots de sensores médicos. Elas tentam coletar informações sobre a localização (através de rastreamento padrão na mesh), saúde (consultando os medicadores do alvo) e arredores (geralmente dificultado por estar dentro do corpo) do alvo. Elas transmitirão relatórios de forma pré-programada através da mesh ou de uma faixa de frequência pré-escolhida continuamente ou em intervalos pré-definidos.
+**Grampeada:** Cartuchos grampeados são equipadas com uma microescuta e nanobots de sensores médicos. Elas tentam coletar informações sobre a localização (através de rastreamento na mesh padrão), saúde (consultando os medicadores do alvo) e arredores (geralmente dificultado por estar dentro do corpo) do alvo. Elas transmitirão relatórios de forma pré-programada através da mesh ou de uma faixa de frequência pré-escolhida continuamente ou em intervalos pré-definidos.
 
 **Cápsula:** Munição de cápsula carrega uma dose de uma droga, toxina ou carga de nanobot (adquirida separadamente) que é liberada dentro do alvo depois do cartucho penetrar.
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano extra em sintemorfos ou objetos.
 
-**Guiada:** Essa bala identifica um alvo marcado por smartlink e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
+**Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
 
 **Interferente:** Munição interferente gruda no alvo e pulsa sinais eletromagnéticos de interferência, bloqueando a comunição sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
-**Proximidade:** Essa bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado por smartlink e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
+**Proximidade:** Essa bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
 
 **Perfura-Armadura Reativa (PAR):** Esse é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
 
