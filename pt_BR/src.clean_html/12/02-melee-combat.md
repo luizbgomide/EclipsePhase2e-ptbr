@@ -7,18 +7,18 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
 | Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
-| Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Alcance                                               |
+| Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
-| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Alcance, Duas Mãos, Perfura-Armadura                  |
+| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Duas Mãos, Extensão, Perfura-Armadura                 |
 | Enguiônicos             |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
-| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Alcance, Perfura-Armadura                             |
+| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Extensão, Perfura-Armadura                            |
 | Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Frágil, Perfura-Armadura                              |
-| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Alcance (+20), Duas Mãos, Perfura-Armadura            |
+| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Duas Mãos, Extensão (+20), Perfura-Armadura           |
 | Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Ocultável, Perfura-Armadura                           |
-| Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Alcance, Choque, Toque Simples                        |
+| Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Choque, Extensão, Toque Simples                       |
 | Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
 | Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
@@ -88,7 +88,7 @@ Um personagem que faz um movimento total e ataque de luta no mesmo turno de aç�
 
 ### Agarramentos
 
-Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Alcance. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora neste caso você possa optar não causar).
+Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Extensão. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora neste caso você possa optar não causar).
 
 Se você tiver sucesso em seu ataque com um sucesso maior, você subjuga seu oponente (ele adquire a condição agarrado). Um oponente agarrado está temporariamente preso e sua Taxa de Movimento é 0. Ele pode se comunicar, usar perícias mentais/psi e fazer ações da mesh, mas ele não pode fazer qualquer ação física além de tentar se libertar. (A critério do MJ, ele pode fazer ações físicas pequenas e contidas, como pegar algo no bolso ou nas proximidades, mas isso pode exigir uma Prova de SOM ou outro teste).
 
@@ -107,9 +107,9 @@ Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer
 
 Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Estes ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
 
-## Alcance
+## Extensão
 
-Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de alcance sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Alcance +10, até o máximo de +30.
+Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
 
 ## Ataques de Toque Simples
 
@@ -133,7 +133,7 @@ Estes modificadores se aplicam a ataques de combate próximo.
 | <!-- CLEANED div class="indent" -->» Vantagem de 2+ Membros<!-- CLEANED /div -->    |                 +20                 |
 | <!-- CLEANED div class="indent" -->» Desvantagem de 2+ Membros<!-- CLEANED /div --> |                 −20                 |
 | Múltiplos Alvos                                                                                         |         −20 por alvo extra          |
-| Alcance                                                                                                 |             +10 ou mais             |
+| Extensão                                                                                                |             +10 ou mais             |
 | Toque Simples                                                                                           |            +20, sem dano            |
 
 <!-- CLEANED /blockquote -->
