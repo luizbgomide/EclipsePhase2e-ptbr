@@ -54,7 +54,7 @@ Só porque você adquiriu os dados não significa que você os entenda. Você po
 | <!-- CLEANED div class="indent" -->» Informação Difundida<!-- CLEANED /div -->                          |   prazo ÷ 2   |
 | <!-- CLEANED div class="indent" -->» Enterrado em Outros detalhes<!-- CLEANED /div -->                     |   prazo × 2   |
 | <!-- CLEANED div class="indent" -->» Dados Obscuros ou Incomuns<!-- CLEANED /div -->                         |   −10 a −30   |
-| <!-- CLEANED div class="indent" -->» Dados Privados ou Proprietários<!-- CLEANED /div -->                     |   −30 ou NA   |
+| <!-- CLEANED div class="indent" -->» Dados Privados ou Proprietários<!-- CLEANED /div -->                     |  −30 ou N/A   |
 | Análise/Comparação de Conjuntos de Dados                                                                                                 |               |
 | <!-- CLEANED div class="indent" -->» Conjunto de Dados Pequenos (um estudo/amostra científica)<!-- CLEANED /div --> |   prazo ÷ 2   |
 | <!-- CLEANED div class="indent" -->» Conjunto de Dados Medianos (vários estudos/amostras)<!-- CLEANED /div -->      |       —       |
