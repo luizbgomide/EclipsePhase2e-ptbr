@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ações da Mesh - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações &amp; Tempo</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa &amp; Ordem das Ações</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo &amp; Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores &amp; Granadas</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armaduras</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Armaduras</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura &amp; Reparo</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental &amp; Psicocirurgia</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos &amp; Estruturas</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item expanded "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Ubíquo-ware</a></li><li class="chapter-item "><a href="../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Topologia da Mesh</a></li><li class="chapter-item "><a href="../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Usos Comuns da Mesh</a></li><li class="chapter-item "><a href="../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Dispositivos, Apps, &amp; Ligações</a></li><li class="chapter-item "><a href="../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Autenticação &amp; Criptografia</a></li><li class="chapter-item expanded "><a href="../13/06-mesh-actions.html" class="active"><strong aria-hidden="true">13.6.</strong> Ações da Mesh</a></li><li class="chapter-item "><a href="../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> IAs &amp; Musas</a></li><li class="chapter-item "><a href="../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Pesquisa Online</a></li><li class="chapter-item "><a href="../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Rastreamento</a></li><li class="chapter-item "><a href="../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hackeamento</a></li><li class="chapter-item "><a href="../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Contramedidas</a></li><li class="chapter-item "><a href="../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> Subversão de Sistema</a></li><li class="chapter-item "><a href="../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Combate na Mesh</a></li><li class="chapter-item "><a href="../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Dano em Harware</a></li><li class="chapter-item "><a href="../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Defeitos</a></li><li class="chapter-item "><a href="../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Hackeamento de Ware Mental</a></li><li class="chapter-item "><a href="../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Realidade Virtual</a></li><li class="chapter-item "><a href="../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Hackeamento de Vigilância</a></li></ol></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ações-da-mesh"><a class="header" href="#ações-da-mesh">Ações da Mesh</a></h1>
+<p>Sua ações online são bastante influenciadas pelo sistema específico que você está acessando. A lista a seguir não é completa, mas deve dar a você e ao seu MJ uma base para lidar com tarefas online.</p>
+<p>Tenha em mente que suas ações são limitadas por seus <a href="../13/05-authentication-and-encryption.html#accounts--access-privileges">privilégios de acesso</a> atuais. Se você deseja fazer algo que seus privilégios não permitem — acessar um arquivo em um diretório restrito, editar um log, manipular um dispositivo de segurança — então você precisa hackear o sistema. Ações que especificamente exigem hackeamento são detalhadas em <a href="../13/11-hacking.html">Hackeamento</a> e <a href="../13/13-system-subversion.html">Subversão</a>.</p>
+<p>A menos que indicado de outra forma, essas ações usam uma ação complexa, mas não exigem um teste de perícia, assumindo que você tenha os privilégios de acesso.</p>
+<h2 id="ações-universais"><a class="header" href="#ações-universais">Ações Universais</a></h2>
+<p>Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros eletrônicos.</p>
+<p>Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de seguraça ou de administrador.</p>
+<ul>
+<li><strong>Acesso Outro Sistema:</strong> Você pode <a href="../13/05-authentication-and-encryption.html#authentication-methods">autenticar</a> e acessar uma conta em outro sistema. Isso cria um <a href="../13/05-authentication-and-encryption.html#accounts--access-privileges">console de conta</a>, representando sua presença nesse sistema.</li>
+<li><strong>Aplicar Tag:</strong> Você pode marcar uma pessoa, local ou coisa física com uma e-tag visível em RA (<a href="../13/03-common-mesh-uses.html#tagging">Tags</a>).</li>
+<li><strong>Comunicar:</strong> Você pode conversar por e-mail, texto, voz ou vídeo com outros online, contanto que tenha a mesh ID deles.</li>
+<li><strong>Criptografar/Descriptografar:</strong> Você pode proteger um arquivo contra bisbilhoteiros ou acessá-lo com a autorização adequada (<a href="../13/05-authentication-and-encryption.html#encryption">Criptografia</a>).</li>
+<li><strong>Filtrar Névoa de RA:</strong> Você pode tentar remover o spam e outros da &quot;névoa&quot; importuna de RA (<a href="../13/03-common-mesh-uses.html#ar-mist-and-filters">Névoa de RA e Filtros</a>).</li>
+<li><strong>Identificar Atacante:</strong> Você pode tentar identificar alguém tentanto travar você em combate na mesh (<a href="../13/14-mesh-combat.html#mesh-attacks-and-defense">Consciência de Ataques</a>).</li>
+<li><strong>Emitir Comando:</strong> Você pode comandar qualquer dispositivo escravo, ILA ou bot teleoperado com apenas uma ação rápida. Cada comando conta separadamente, embora você possa emitir o mesmo comando para vários dispositivos/bots de uma vez.</li>
+<li><strong>Deslogar:</strong> Sair de um sistema.</li>
+<li><strong>Modificar Arquivos:</strong> Você pode visualizar, alterar, fazer upload, download e excluir os arquivos que você tem privilégio de acesso. Os arquivos excluídos ainda podem ser recuperados com um Teste de Interface por 1 semana, embora você também possa optar por eliminar (excluir permanentemente) um arquivo para que nenhuma recuperação seja possível; no entanto, backups arquivados também podem existir.</li>
+<li><strong>Operar Dispositivo:</strong> A maioria dos dispositivos possui hardware embutido e funções eletrônicas que você pode controlar diretamente. Ligar o seu veículo, carregar uma matriz de autocozedor, aumentar o aquecimento, desligar os sprinklers, abrir a porta, definir um temporizador, disparar um sistema de armas, ajustar configurações, etc. Ao critério do MJ, algumas funções pode exigir testes de perícia.</li>
+<li><strong>Executar Script:</strong> Iniciar um script pré-programado (<a href="../13/06-mesh-actions.html#scripting">Scripts</a>).</li>
+<li><strong>Escanear Sinais Sem Fio:</strong> É uma ação rápida procurar dispositivos sem fio e seus mesh IDs dentro do alcance. É preciso uma ação complexa para localizar um <a href="../13/04-devices-apps-and-links.html#stealthed-signals">dispositivo camuflado</a>.</li>
+<li><strong>Pesquisar:</strong> Você pode pesquisar em um sistema que está acessando ou em toda a mesh (<a href="../13/09-online-research.html">Pesquisa Online</a>).</li>
+<li><strong>Proteger Software:</strong> Você pode proteger ativamente um software que é alvejado em um <a href="../13/14-mesh-combat.html">combate na mesh</a>.</li>
+<li><strong>Camuflar Sinais Sem Fio:</strong> Você pode tentar ocultar sua atividade sem fio (<a href="../13/04-devices-apps-and-links.html#stealthed-signals">Sinais Camuflados</a>).</li>
+<li><strong>Trocar Dispositivo Habitado:</strong> Se você for um infomorfo, você pode transferir seu estado mental virtual para outro sistema (<a href="../13/08-infomorphs.html">Infomorfos</a>) ou distribui-lo entre vários sistemas (<a href="../13/08-infomorphs.html#distributed-infomorphs">Infomorfos Distribuídos</a>).</li>
+<li><strong>Encerrar Software:</strong> Você pode matar um processo de software menor o qual você tem privilégio e interrompê-lo. Se o software pertence a outro usuário ou tem importância para história, trate isso como um ataque em <a href="../13/14-mesh-combat.html">combate na mesh</a>.</li>
+<li><strong>Alternar Tema de RA:</strong> Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor (<a href="../13/03-common-mesh-uses.html#skinning">Tematização</a>).</li>
+<li><strong>Ativar Modo Privativo:</strong> Você pode definir o seu perfil público como privado ou público (<a href="../13/01-everyware.html#privacy-mode">Modo Privativo</a>) com uma ação rápida. Você também pode ativar a opção de permitir que a polícia/segurança anule suas configurações de privacidade.</li>
+<li><strong>Ativar Simulespaço:</strong> Você pode entrar ou sair de um ambiente de simulespaço (<a href="../13/18-virtual-reality.html">Realidade Virtual</a>).</li>
+<li><strong>Usar Apps:</strong> A maioria dos dispositivos possui apps apropriados para sua finalidade. Geralmente estão incluídos processadores de texto, estúdios de design gráfico, estações de trabalho de áudio e vídeo, e jogos. Os sistemas dedicados podem ter apps para controles do sistema de habitat e estações de armas. O uso desses apps pode exigir um Teste de Interface ou de outra perícia.</li>
+<li><strong>Usar Serviço:</strong> Você pode usar softwares disponíveis como serviços na nuvem. Isso geralmente requer ter uma assinatura do serviço, embora alguns sejam gratuitos.</li>
+<li><strong>Ver Apps:</strong> Você pode ver quais apps estão disponíveis no dispositivo e quais estão sendo executados com apenas uma ação rápida. Alguns apps podem só estar disponíveis para contas específicas, de acordo com os privilégios desse sistema.</li>
+<li><strong>Ver Perfil:</strong> Você pode ver o perfil público da rede social e níveis de rep de qualquer pessoa dentro do alcance físico (ou dentro do alcance dos sensores que você está acessando), a não ser que estejam em <a href="../13/01-everyware.html#privacy-mode">modo privativo</a>.</li>
+<li><strong>Ver Fluxos de Sensores:</strong> Muitos dispositivos incluem sensores miniaturizados. Esses podem ser vistos ou transmitidos diretamente para sua realidade aumentada. Use Testes de Percepção para a maioria dos sensores; outros podem exigir Testes de Saber (por exemplo: os resultados de um farejador químico são analisados com Saber: Química). Os sensores utilizados para fins de segurança geralmente são limitados às contas com privilégios de segurança ou de administrador.</li>
+<li><strong>Ver Status do Sistema:</strong> Obter um relatório da &quot;saúde&quot; e integridade do sistema, o status de suas funções incorporadas, o progresso dos processos em andamento, alertas de segurança/status de invasão e assim por diante.</li>
+</ul>
+<h2 id="ações-de-segurança"><a class="header" href="#ações-de-segurança">Ações de Segurança</a></h2>
+<p>Ações reservadas para contas com privilégios de segurança ou de administrador.</p>
+<ul>
+<li><strong>Adquirir Mesh ID:</strong> Você pode adquirir a mesh ID de qualquer um acessando o sistema.</li>
+<li><strong>Ativar Contramedidas:</strong> Você pode iniciar <a href="../13/12-countermeasures.html">contramedidas</a> ativas contra um invasor, tais como barrá-lo, rastreá-lo ou fazer uma reinicialização.</li>
+<li><strong>Atacar:</strong> Você pode tentar travar um software, incluindo consoles de conta, apps, firewalls, infomorfos, sistemas operacionais e serviços (<a href="../13/14-mesh-combat.html">Combate na Mesh</a>).</li>
+<li><strong>Evitar Bloqueio de Sinal:</strong> Você pode tentar superar temporariamente um bloqueio de sinal vencendo um Teste Oposto de Interface contra quem está bloqueando (<a href="../13/13-system-subversion.html#jam-signals">Bloquear Sinais</a>). Se tiver sucesso, você consegue fazer uma transmissão curta (3 segundos, +3 por sucesso maior).</li>
+<li><strong>Localizar Invasor:</strong> Se você suspeitar que um hacker invadiu seu sistema, você pode tentar identificá-lo (<a href="../13/12-countermeasures.html#locate-intruder">Localizar Invasor</a>).</li>
+<li><strong>Barrar:</strong> Você pode bloquear uma mesh ID específica de acessar o sistema. Se essa mesh ID está atualmente acessando o sistema, seu console de conta deve ser travado em combate na mesh primeiro.</li>
+<li><strong>Monitorar Atividade:</strong> Você pode espiar as atividades de um app ou as ações de outro usuário específico em tempo real. Se o usuário estiver hackeando o sistema, isso pode exigir vencer um Teste Oposto de Infoseg para apurar o que ele está fazendo. Os hackers às vezes usam isso para monitorar o firewall ou o defensor do sistema.</li>
+<li><strong>Escanear Infomorfo:</strong> Você pode analisar um infomorfo com um Teste de Interface bem-sucedido. Isso lhe dirá qual o tipo de infomorfo, o seu perfil público (se não for privado), sua mesh ID, e se é ou não uma ILA ou um forque. Uma análise mais aprofundada exige um Teste de Interface e um prazo de 10 minutos, mas revelará seu <a href="../15/07-identity-systems.html#digital-code">ID de código digital</a> e qualquer aplicativo embutido ou meshware. Se o infomorfo tem meshware de véu digital, este é um teste oposto contra a Programação 80 do véu.</li>
+<li><strong>Rastrear:</strong> Você pode rastrear um usuário até a sua localização física (ou pelo menos o sistema de onde ele se origina); veja <a href="../13/10-tracking.html#physical-tracking">Rastreamento Físico</a>.</li>
+<li><strong>Disparar Alerta:</strong> Você pode colocar o sistema em alerta passivo ou ativo.</li>
+<li><strong>Ver Logs:</strong> Acessar os logs do sistema. Isso vai dizer quando os usuários acessaram o sistema, quais apps eles usaram, quais arquivos eles visualizaram ou modificaram, quais sistemas vinculados eles acessaram, seus mesh IDs, quais outros dispositivos estavam ao alcance sem fio em quais horários, e históricos forenses semelhantes. Os logs mais antigos (mais de um mês) frequentemente são backupeados em um serviço da nuvem e apagados. Buscar por uma informação específica pode exigir um Teste de Pesquisa.</li>
+<li><strong>Ver Usuários:</strong> Você pode ver quais outros usuários estão acessando atualmente o sistema, quais aplicativos eles estão usando e seus mesh IDs. Invasores com status oculto não serão mostrados.</li>
+</ul>
+<h2 id="ações-de-administrador"><a class="header" href="#ações-de-administrador">Ações de Administrador</a></h2>
+<p>Apenas contas de administrador estão autorizadas a realizar essas ações.</p>
+<ul>
+<li><strong>Desativar Sensores ou Funções de Dispositivo:</strong> Você pode desligar sensores ou outras funções físicas. Isso pode impedir que alguém com acesso físico ao dispositivo o utilize.</li>
+<li><strong>Modificar Contas:</strong> Você pode adicionar novas contas e remover antigas. Não é possível remover contas que estão sendo acessadas no momento — o usuário deve deslogar completamente primeiro (ou ter seu console de conta travado em combate na mesh). Todo dispositivo tem uma conta de administrador root que não pode ser removida (sem eliminar o sistema).</li>
+<li><strong>Modificar Privilégios:</strong> Você pode adicionar ou remover privilégios específicos, como permitir o acesso a determinados diretórios, arquivos, sensores ou apps. Você também pode rebaixar contas de segurança para privilégios de usuários ou elevar contas de usuário para contas de segurança e contas de segurança para contas de administrador. Você pode remover ou rebaixar privilégios de administrador de outras contas, entretanto todo dispositivo tem uma conta de administrador root que não pode ser modificada (em ware, isso geralmente significa a pessoa em que eles estão instalados).</li>
+<li><strong>Modificar Software:</strong> Você pode instalar, remover e atualizar apps.</li>
+<li><strong>Eliminar Sistema:</strong> Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).</li>
+</ul>
+<h2 id="scripts"><a class="header" href="#scripts">Scripts</a></h2>
+<p>Um script é um programa simples — um lote de instruções — que você pode embutir em um sistema para ser executado em um horário agendado posterior ou na ocorrência de um determinado evento, sem a sua presença. Quando ativado, o script vai realizar uma série de ações pré-definidas, em ordem. Scripts são comumente usados por hackers para subverter um sistema enquanto estão ocupados em outros lugares, mas eles também podem ser usados em seus próprios sistemas (embora geralmente seja mais fácil dizer às ILAs o que fazer).</p>
+<p>Scripts podem ser programados em tempo real ou pré-programados. Ao compor o script, você deve detalhar quais ações o script vai fazer, em que ordem e em que momentos (ou eventos de ativação). O script não pode conter mais etapas/tarefas do que sua perícia Programação ÷ 10. Para programar um script, você deve ter sucesso em um Teste de Programação com um prazo de 1 hora por etapa. Os sucessos maiores fornecem 1 ponto de parada de Inspiração que o script pode usar para fazer testes.</p>
+<p>Para carregar um script em um sistema, você deve ter os privilégios de acesso necessários ou deve ter sucesso em um <a href="../13/11-hacking.html#hacking-tests">Teste de Hackeamento</a>. Se for bem-sucedido, o script é carregado no sistema e será executado como programado. Uma vez que o script é ativado, ele executa a sequência de ações pré-programadas. O script é considerado como tendo os mesmos privilégios de acesso que a conta que o executa. As perícias de Infoseg, Interface e Pesquisa do programador são utilizadas para quaisquer testes exigidos por essas ações, mas apenas a própria parada de Inspiração do script pode ser usada.</p>
+<p>Scripts podem ser descobertos em <a href="../13/12-countermeasures.html#security-audits">auditorias de segurança</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../13/05-authentication-and-encryption.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../13/07-ais-and-muses.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../13/05-authentication-and-encryption.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../13/07-ais-and-muses.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
