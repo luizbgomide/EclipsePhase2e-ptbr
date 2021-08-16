@@ -8,7 +8,7 @@ Though it is often wisest to act as if you are under surveillance all of the tim
 
 Spotting sensors requires a Perceive Test. Given their small to minute sizes, apply a modifier between −10 and −30 as appropriate. If looking in an area with multiple sensors, roll once and apply no modifiers; use superior successes to ascertain how well you find the smaller ones. Nanoswarms cannot be detected except with a [nanodetector](../16/19-nanotech.md).
 
-Certain gear and implants can also be used to detect sensors, including electrical [sense ware](../16/07-senses-and-sensors.md), [spy swarm](../16/20-nanoswarms-and-microswarms.md#swarms), and [dazzlers](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
+Certain gear and implants can also be used to detect sensors, including [electrical sense ware](../16/07-senses-and-sensors.md), [spy swarm](../16/20-nanoswarms-and-microswarms.md#swarms), and [dazzlers](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
 
 **Concealed Sensors:** Sensors are sometimes actively camouflaged. Apply a −30 modifier to Perceive Tests to spot them.
 
