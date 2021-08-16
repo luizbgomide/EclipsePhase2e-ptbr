@@ -146,7 +146,7 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Gerar Itens:** Criar itens virtuais independentemente da raridade.
 - **Modificar Simulmorfo:** Modificar os atributos de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
 - **Ativar Privacidade:** Impedir que suas comunicações cara a cara sejam espionadas.
-- **Iniciar/Parar Simulespaço:** Carregar um novo simulespaço ou fechar um existente.
+- **Iniciar/Parar Simulespaço:** Iniciar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 - **Encerrar Sessão:** Encerrar forçadamente uma sessão de usuário.
 - **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
