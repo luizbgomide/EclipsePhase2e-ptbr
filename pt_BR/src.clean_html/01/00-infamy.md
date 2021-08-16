@@ -208,7 +208,7 @@ O seu sorriso já tinha as presas. “Ei, maninha. Há quanto tempo.”
 
 “Como chego a casa?”
 
-“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocook todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não esta porcaria de impressora úmida.”
+“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocozedor todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não esta porcaria de impressora úmida.”
 
 “Esta não é a minha casa, Taernen. Este não é o meu corpo. Nem sequer estou convencida de que eu ainda sou _eu_. Num segundo, estou cagando de medo com a sua aberração do globo ocular. No seguinte, estou aqui, a meio bilhão de quilômetros da Terra…”
 
