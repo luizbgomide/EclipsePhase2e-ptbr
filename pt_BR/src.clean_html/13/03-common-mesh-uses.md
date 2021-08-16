@@ -50,7 +50,7 @@ Os JRAMs funcionam como VPNs. Assim como as redes sociais, eles tratam seus clie
 
 ## Serviços de Localização/Mapeamento
 
-Você pode quase sempre determinar sua localização em um mundo habitado ou em um habitat, medindo os sinais de satélites GPS em órbita ou nodos próximos da mesh. Encontrar seu caminho é fácil com dicas de RA como trilhas ou setas visuais ou orientações por áudio. Os serviços de localização podem informar onde encontrar o autocook local mais próximo, dar as avaliações de cafeterias próximas, e dizer quem na área combina com seu perfil de encontros, interesses pessoais, ou está procurando um partida de jogo.
+Você pode quase sempre determinar sua localização em um mundo habitado ou em um habitat, medindo os sinais de satélites GPS em órbita ou nodos próximos da mesh. Encontrar seu caminho é fácil com dicas de RA como trilhas ou setas visuais ou orientações por áudio. Os serviços de localização podem informar onde encontrar o autocozedor local mais próximo, dar as avaliações de cafeterias próximas, e dizer quem na área combina com seu perfil de encontros, interesses pessoais, ou está procurando um partida de jogo.
 
 Um efeito colateral dos serviços de localização é que seus movimentos são logados por cada nodo próximo da mesh devido às conexões automáticas e sua atividade física pode ser correlacionada com sua atividade online e mesh ID ([Rastreamento](../13/10-tracking.md)). Esse recurso é considerado é uma vantagem para pais cuidando de seus filhos, empresas monitorando seus empregados, e amigos procurando outros amigos, mas pode ser um problema para aqueles querendo discrição.
 
@@ -74,7 +74,7 @@ Na mesh, você tem acesso a vastas — quase avassaladoras — quantidades de in
 
 ## Fluxos de Sensores e Covigilância
 
-Os fluxos dos sensores públicos estão disponíveis para qualquer um na mesh — todos são observados por todos. Esses sensores fornecem cobertura em tempo real da maioria das áreas públicas dentro de um habitat, mas eles estão sujeitos a vandalismo e sabotagem. Muitas redes privadas também estão disponíveis, algumas delas são acessíveis por um taxa ou se você conhecer as pessoas certas. Os sensores e covigilância são cobertos em detalhes em [Hackeamento da Vigilância](../13/19-surveillance-hacking.md).
+Os fluxos dos sensores públicos estão disponíveis para qualquer um na mesh — todos são observados por todos. Esses sensores fornecem cobertura em tempo real da maioria das áreas públicas dentro de um habitat, mas eles estão sujeitos a vandalismo e sabotagem. Muitas redes privadas também estão disponíveis, algumas delas são acessíveis por um taxa ou se você conhecer as pessoas certas. Os sensores e covigilância são cobertos em detalhes em [Hackeamento de Vigilância](../13/19-surveillance-hacking.md).
 
 ## Redes Sociais
 
