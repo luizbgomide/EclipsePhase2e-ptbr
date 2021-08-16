@@ -24,7 +24,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Assincro:** Uma pessoa com habilidades psi resultantes da cepa Watts-MacLeod do vírus exsurgente.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.
-- **Autocook:** Um fabro especializado para fazer comidas e bebidas.
+- **Autocozedor:** Um fabro especializado para fazer comidas e bebidas.
 - **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **Salvaguardas:** A facção da Firewall que prepara depósitos, bunkers e recursos em caso de outro evento de extinção.
