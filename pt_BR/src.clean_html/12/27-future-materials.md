@@ -14,7 +14,7 @@ Um resumo rápido sobre materiais futuristas comuns:
 
 **Espuma Metálica:** A espuma metálica é criada adicionando agentes espumantes a metais líquidos, resultando em estruturas metálicas extremamente leves — leves o suficiente para flutuar na água. Elas são ideais em próteses, construção de habitats, cidades flutuantes, e para enrijecer ou reforçar estruturas sem adicionar massa.
 
-**Metamateriais:** Devido a sua estrutura, os metamateriais interagem com ondas eletromagnéticas ou som de formas incomuns, tais como tendo um índice refrativo negativo. Os metamateriais são usados em antenas, sensores e óptica, projetos absorventes de som ou radar, capas de invisibilidade, superlentes, e projetores holográficos ultrarrealistas.
+**Metamateriais:** Devido a sua estrutura, os metamateriais interagem com ondas eletromagnéticas ou som de formas incomuns, tais como tendo um índice refrativo negativo. Os metamateriais são usados em antenas, sensores e óptica, projetos absorventes de som ou radar, mantos de invisibilidade, superlentes, e projetores holográficos ultrarrealistas.
 
 **Metais Refratários:** Estas ligas metálicas tem pontos de fusão extremamente altos, tornando-as ideais para sistemas de motores de alta temperatura, veículos de entrada atmosférica, habitats e bots venusianos, veículos hipersônicos.
 
