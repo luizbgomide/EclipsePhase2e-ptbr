@@ -26,7 +26,7 @@ In a similar manner, [dazzlers](../12/10-seeker-weapons-and-grenades.md#seeker-m
 
 ## Hacking Sensors
 
-Selective sensor hacking can be quite useful, particularly in situations where coverage is minimal. This also gives you many options: sensors, blocking them from transmitting data, erasing recordings, looping the feed, or injecting fake sensor data.
+Selective sensor hacking can be quite useful, particularly in situations where coverage is minimal. This also gives you many options: deactivating sensors, blocking them from transmitting data, erasing recordings, looping the feed, or injecting fake sensor data.
 
 **Mass Hacking:** In areas with heavy sensor coverage, hacking all of the sensors is more challenging. Luckily, motes tend to be less secure. Treat this as a single [consolidated hacking](../13/11-hacking.md#consolidated-hacking) task action against all of the sensors in one area as a group. The GM can apply additional modifiers for the number of sensors (−10 for every group of 5).
 
