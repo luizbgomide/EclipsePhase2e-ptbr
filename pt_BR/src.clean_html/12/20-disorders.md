@@ -2,7 +2,7 @@
 
 Transtornos são aflições psicológicas duradouras que tipicamente requerem semanas ou meses de psicoterapia e/ou psicocirurgia para remediar. Eles representam as melhores tentativas de uma psique danificada se adaptar e lidar com a angústia mental e emocional. Os transtornos não estão sempre "ativos" — eles permanecem dormentes até que sejam desencadeados por certas condições. Enquanto é certamente possível funcionar "normalmente" com um transtorno, ele representa uma deficiência severa na capacidade da pessoa manter relacionamentos saudáveis e ter sucesso em seu trabalho/ocupação.
 
-**Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou pelo acúmulo de estresse igualar ou exceder sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
+**Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou acumulando estresse que iguala ou excede sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
 
 **Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
 
