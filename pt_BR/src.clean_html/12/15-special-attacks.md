@@ -52,7 +52,7 @@ Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um op
 
 ### Redirecionar
 
-Um ataque preciso pode ser usado para empurrar seu oponente em uma direção específica. Um oponente redirecionado é puxado, empurrado, desviado ou movido 2 metros na direção de sua escolha. Um oponente que é redirecionado para fora de teto ou de uma escotilha, para o trânsito, ou para alguma direção igualmente perigosa pode fazer uma Prova de REF com −30 para se agarrar a tempo, embora ele ainda estará pendurado em um posição precária se tiver sucesso. Um sucesso maior adicional pode dobrar o modificador ou infligir dano de forma normal.
+Um ataque preciso pode ser usado para empurrar seu oponente em uma direção específica. Um oponente redirecionado é puxado, empurrado, desviado ou movido 2 metros na direção de sua escolha. Um oponente que é redirecionado para fora do teto ou de uma câmara de ar, para o trânsito, ou para alguma direção igualmente perigosa pode fazer uma Prova de REF com −30 para se agarrar a tempo, embora ele ainda estará pendurado em um posição precária se tiver sucesso. Um sucesso maior adicional pode dobrar o modificador ou infligir dano de forma normal.
 
 ### Alvo Específico
 
@@ -79,7 +79,7 @@ Perícias como Saber: Engenharia podem servir como perícias complementares ao T
 
 ### Desarmando Explosivos
 
-A maioria dos explosivos pode ser desarmada com um teste bem sucedido de Aparelhagem: Demolições, modificado pela dificuldade apropriada. Se o personagem instalando/fabricando o explosivo intencionalmente tornou-o mais difícil de desarmar, em vez disso trate como um teste oposto.
+A maioria dos explosivos pode ser desarmada com um teste bem-sucedido de Aparelhagem: Demolições, modificado pela dificuldade apropriada. Se o personagem instalando/fabricando o explosivo intencionalmente tornou-o mais difícil de desarmar, em vez disso trate como um teste oposto.
 
 ### Fabricando Explosivos
 

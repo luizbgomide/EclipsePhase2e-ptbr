@@ -2,7 +2,7 @@
 
 Ataques de combate de distância caem em cinco categorias: armas de feixe, armas cinéticas, armas de buscadores, armas de spray e sistemas de armas. Cada um é descrito a seguir.
 
-A maioria das armas de distância são construídas de híbridos cerâmicos resistentes mas leves e metais refratários. Elas são projetados para uso ambidestro e equipadas com [sistemas de segurança, smartlinks](../12/13-weapon-accessories.md) e ILAs auxiliares que automaticamente fazem mesh com o usuário para disparos assistidos, reconhecimento de alvos e comunicação de redes táticas.
+A maioria das armas de distância são construídas de híbridos cerâmicos resistentes mas leves e metais refratários. Elas são projetados para uso ambidestro e equipadas com [sistemas de segurança, ligações inteligentes](../12/13-weapon-accessories.md) e ILAs auxiliares que automaticamente fazem mesh com o usuário para disparos assistidos, reconhecimento de alvos e comunicação de redes táticas.
 
 ## Regras de Combate de Distância
 
@@ -24,7 +24,7 @@ Desconsiderando o recarregamento, assume-se que você carrega munição padrão 
 
 Com a ajuda de um observador, você pode alvejar um inimigo que você não pode ver usando tiro indireto. Ataques indiretos são feitos principalmente com buscadores, granadas e outros projéteis que não seguem uma trajetória linear direta até o alvo. Você deve estar em mesh com um personagem, bot, rede tática ou sistema de sensor que tem visão do alvo e que transmite a você os dados de mira. Ataques indiretos sofrem um modificador −20.
 
-[Mísseis buscadores](../12/10-seeker-weapons-and-grenades.md) podem localizar um alvo que está "pintado" com energia refletida de uma [mira laser](../12/13-weapon-accessories.md) ou sistema de designação de alvo similar. Um "ataque" deve ser primeiro para pintar o alvo com a mira laser usando a perícia Tiro. Se for bem sucedido, a aquisição do alvo nega o modificador −20 de tiro indireto para o teste de ataque do lançador de buscador. O alvo deve permanecer na mira do observador (exigindo uma ação complexa a cada turno) até que o buscador acerte.
+[Mísseis buscadores](../12/10-seeker-weapons-and-grenades.md) podem localizar um alvo que está "pintado" com energia refletida de uma [mira laser](../12/13-weapon-accessories.md) ou sistema de designação de alvo similar. Um "ataque" deve ser primeiro para pintar o alvo com a mira laser usando a perícia Tiro. Se for bem-sucedido, a aquisição do alvo nega o modificador −20 de tiro indireto para o teste de ataque do lançador de buscador. O alvo deve permanecer na mira do observador (exigindo uma ação complexa a cada turno) até que o buscador acerte.
 
 ### Modos de Disparo
 
@@ -85,7 +85,7 @@ Estes modificadores se aplicam a ataques de combate de distância.
 | Pontaria (Ação Complexa)                                                                                          |                                                  +30                                                  |
 | Atacante Atrás/Saindo de Cobertura                                                                                |                                                  −10                                                  |
 | Atacante em Luta                                                                                                  |                                        −10 (−30 armas longas)                                         |
-| Atacante não usa Smartlink ou Mira Laser                                                                          |                                                  −10                                                  |
+| Atacante não usa Ligação Inteligente ou Mira Laser                                                                |                                                  −10                                                  |
 | Atacante Disparando Múltiplas Armas Juntas                                                                        |                                   −20 cumulativo (após a primeira)                                    |
 | Defensor Atrás de Cobertura Menor                                                                                 |                                                  −10                                                  |
 | Defensor Atrás de Cobertura Moderada                                                                              |                                                  −20                                                  |

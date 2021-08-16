@@ -9,7 +9,7 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 - **Fixa:** Armas fixas são projetadas para serem disparadas de uma posição prostrada ou apoiada, tal como montada em um bipé ou ponto de fixação. Se forem carregadas, aplique um modificador −20 para ataques e considere que elas possuem o traço Duas Mãos.
 - **Frágil:** Este item é quebrado ou inutilizado se você rolar uma falha maior.
 - **Derrubada:** Este golpe pode derrubar até mesmo oponentes sem ferimentos. O alvo deve fazer uma Prova de SOM ou cair prostrado.
-- **Sem Smartlink:** Essa arma não está equipada com a assistência de mira via smartlink. −10 em testes de ataque.
+- **Sem Ligação Inteligente:** Essa arma não está equipada com a assistência de mira por ligação inteligente. −10 em testes de ataque.
 - **Longa:** Armas compridas são desajeitadas em combate próximo (−30 para disparar quando estiver em luta) e não recebem o modificador +10 quando disparadas no alcance à Queima-Roupa.
 - **Não Perto:** Esta arma não pode ser disparada em alcance à Queima-Roupa ou Perto. Armas de buscadores tem recursos de segurança incorporados que impedem que eles sejam disparados em alcances que possam ferir o usuário. Anular esses recursos exige um Teste de Aparelhagem ou Infoseg.
 - **Não Queima-Roupa:** Esta arma não pode ser disparada em alcance à Queima-Roupa.

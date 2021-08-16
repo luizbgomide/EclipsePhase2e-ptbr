@@ -277,7 +277,7 @@ Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para
 - **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
-- **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuroquim](../16/10-combat-augmentations.md)
+- **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuraquim](../16/10-combat-augmentations.md)
 
 <!-- CLEANED /blockquote -->
 

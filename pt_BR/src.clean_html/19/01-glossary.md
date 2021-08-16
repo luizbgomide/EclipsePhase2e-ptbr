@@ -24,7 +24,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Assincro:** Uma pessoa com habilidades psi resultantes da cepa Watts-MacLeod do vírus exsurgente.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.
-- **Autocook:** Um fabro especializado para fazer comidas e bebidas.
+- **Autocozedor:** Um fabro especializado para fazer comidas e bebidas.
 - **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **Salvaguardas:** A facção da Firewall que prepara depósitos, bunkers e recursos em caso de outro evento de extinção.
@@ -88,7 +88,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ego ID:** O código de identificação vinculado ao seu ego, impresso nos uploads.
 - **Caçador de Ego:** Um caçador de recompensas que rastreia egos reencapados.
 - **Egoprojeção:** Termo para a transmissão de um ego para um local remoto.
-- **Entóptica:** Realidade aumentada que você "vê" na sua mente.
+- **Entóptica:** Realidade aumentada que você "vê" em seu olho da mente.
 - **Eliminador:** Procuradores fortemente armados chamados para conter ameaças além das capacidades de uma célula sentinela normal.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
 - **IET:** Inteligência Extraterrestre. Uma superinteligência alienígena/artificial pós-singularidade e quase divina teorizada como a responsável pelos portões de pandora e/ou o vírus exsurgente.
@@ -142,7 +142,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
 - **Colmeia:** Um nanofabro especializado que mantém um nanoenxame.
-- **Host:** Dispositivos pessoais da mesh. Pode executar um único infomorfo.
+- **Terminal:** Dispositivos pessoais da mesh. Pode executar um único infomorfo.
 - **Júpiter/Netuno Quente:** Um gigante gasoso ou de gelo cuja órbita migrou para perto da sua estrela, aumentando sua temperatura.
 - **Conselho de Hipercorps:** As maiores hipercorporações que controlam o Consórcio Planetário.
 - **Hiperelite:** Os ricos e abastados.
@@ -181,7 +181,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Meme:** Uma ideia viral. Uma unidade de informação transmitida socialmente que se autorreplica e sofre mutação de maneira análoga aos genes.
 - **Menton:** Um biomorfo otimizado para habilidades mentais e cognitivas.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
-- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (fazer mesh) ou adjetivo (em mesh ou sem mesh).
+- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (formar mesh) ou adjetivo (em mesh ou sem mesh).
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
 - **Meshware:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
@@ -198,7 +198,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Mutualista:** Uma subfacção extropiana que apoia cooperativas.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
-- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriada. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
 - **Nanoware:** Nanossistemas implantados dentro de um morfo.
@@ -317,7 +317,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Peão de Vácuo:** Um operário que trabalha no vácuo.
 - **Vapor:** Uma emulação de mente falhada ou um forque/informorfo danificado.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
-- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente encriptadas por privacidade/segurança.
+- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.
 - **Ware:** Implantes e aprimoramentos, incluindo bioware, cyberware, hardware, meshware e nanoware.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
@@ -326,12 +326,12 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **ADM:** Arma de Destruição em Massa.
 - **Verme:** Um assincro exsurgente.
-- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
+- **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
-- **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
+- **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
 - **Risco X**: Risco Existencial. Algo que ameaça a própria existência da transumanidade.
-- **Dia-Zero:** Uma brecha previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
+- **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Zeros:** Pessoas sem acesso à mesh. Comum nos contratados.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
 

@@ -36,8 +36,8 @@ Alterar o projeto ou função de um objeto segue as mesmas regras básicas de co
 
 | Objeto/<!-- CLEANED wbr -->Estrutura/<!-- CLEANED wbr -->Material | Armadura (E/C) | Grau de Destruição | Limiar de Ferimento |
 |:------------------------------------------------------------------------------------- |:--------------:|:------------------:|:-------------------:|
-| Escotilha de Passagem (Padrão, 2 pessoas)                                             |     25/15      |        150         |         15          |
-| Escotilha de Passagem (Serviço, 10 pessoas)                                           |     25/20      |        300         |         30          |
+| Porta de Câmara de Ar (Padrão, 2 pessoas)                                             |     25/15      |        150         |         15          |
+| Porta de Câmara de Ar (Serviço, 10 pessoas)                                           |     25/20      |        300         |         30          |
 | Painel Eletrônico                                                                     |      6/4       |         80         |          8          |
 | Pilha Cortical                                                                        |     20/20      |         40         |                     |
 | Domo, Inflado (Trama de Aranha, 3 × 3&nbsp;m²)                                        |     10/20      |         60         |          6          |
