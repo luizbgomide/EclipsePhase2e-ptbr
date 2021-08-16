@@ -74,7 +74,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pele Conectada, Pilha Cortical (opcional), Soquete de Acesso
+- **Ware:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Luva de Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
 
@@ -419,6 +419,6 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 ---
 
 - **Ware:** Amplificador de Rádio, App Farejador, App Rastreador
-- **Ajustes de Forma Comuns:** Conexão Laser, Nanodetector, Pele Conectada, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
+- **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 </blockquote>

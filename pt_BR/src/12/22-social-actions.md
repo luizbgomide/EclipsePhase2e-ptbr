@@ -8,7 +8,7 @@ Assim como a perícia Provocação pode ser usada para [ataques sociais](../12/2
 
 Quase todas as perícias sociais são tratadas como testes opostos, conforme indicado nas descrições das perícias. Há vários outros fatores que podem fornecer modificadores para esses testes:
 
-**Atitude do PNJ:** A atitude do PNJ em relação ao personagem deve ser tratada em uma escala que vai de apoiadora passando por indiferente até hostil, cada uma aplicando um modificador aos testes de perícias sociais, conforme indicado na tabela Modificadores Sociais. Os PJs podem usar Enganação, Persuasão ou Provocação especificamente para mudar essas atitudes; um teste bem sucedido aumenta ou diminui a atitude em um grau, mais um por sucesso maior. Testes sociais falhados vão piorar a atitude de um PNJ em passo, mais um por falha maior. Observe que a atitude não tem efeito em Testes de Cinésica.
+**Atitude do PNJ:** A atitude do PNJ em relação ao personagem deve ser tratada em uma escala que vai de apoiadora passando por indiferente até hostil, cada uma aplicando um modificador aos testes de perícias sociais, conforme indicado na tabela Modificadores Sociais. Os PJs podem usar Enganação, Persuasão ou Provocação especificamente para mudar essas atitudes; um teste bem-sucedido aumenta ou diminui a atitude em um grau, mais um por sucesso maior. Testes sociais falhados vão piorar a atitude de um PNJ em passo, mais um por falha maior. Observe que a atitude não tem efeito em Testes de Cinésica.
 
 **Pedido:** A natureza do pedido e suas repercussões para o PNJ — ou para alguém que ele se importa — devem ser levadas em conta. PNJs antagonistas ou hostis não vão ajudar voluntariamente; eles podem ser manipulados para ter uma atitude melhor primeiro ou simplesmente intimidados. PNJs cooperativos e apoiadores vão cumprir pedidos simples/benéficos sem precisar de um teste.
 
@@ -24,7 +24,7 @@ Embora as ideias culturais progressistas continuem ganhando terreno, a transuman
 
 ### Usando Motivações
 
-Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com quem você está lidando. Com uma longa conversa em um Teste de Persuasão bem sucedido (oposto por Prova de SAG), você pode ser capaz de determinar uma das motivações do PNJ (a critério do MJ). Se você puder usar esse conhecimento como arma contra o PNJ, seja com um apelo ou insulto aos interesses dele, o MJ pode aplicar um modificador aos seu teste de perícia social. Da mesma forma, você pode sem saber tocar nas motivações de um PNJ quando lidar com ele, adquirindo assim um modificador dependendo se você apoia/incentiva ou se opõe aos interesses dele.
+Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com quem você está lidando. Com uma longa conversa em um Teste de Persuasão bem-sucedido (oposto por Prova de SAG), você pode ser capaz de determinar uma das motivações do PNJ (a critério do MJ). Se você puder usar esse conhecimento como arma contra o PNJ, seja com um apelo ou insulto aos interesses dele, o MJ pode aplicar um modificador aos seu teste de perícia social. Da mesma forma, você pode sem saber tocar nas motivações de um PNJ quando lidar com ele, adquirindo assim um modificador dependendo se você apoia/incentiva ou se opõe aos interesses dele.
 
 <blockquote class="table">
 
@@ -53,7 +53,7 @@ Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com qu
 
 ## Ataques Sociais
 
-A perícia Provocação podem ser usada de várias formas ofensivas durante cenas de ação. Os seguintes exemplos mostram o que você fazer com um teste oposto bem sucedido, confrontando sua perícia Provocação contra a Prova de VON deles. Como sempre, o MJ determina quais modificadores se aplicam e os resultados finais destas provocações.
+A perícia Provocação podem ser usada de várias formas ofensivas durante cenas de ação. Os seguintes exemplos mostram o que você fazer com um teste oposto bem-sucedido, confrontando sua perícia Provocação contra a Prova de VON deles. Como sempre, o MJ determina quais modificadores se aplicam e os resultados finais destas provocações.
 
 - **Acalmar:** Você temporariamente acalma um oponente para interromper as hostilidades.
 - **Perturbar:** Você deixa o oponente desconcertado ou atrapalhado; ele sofre −10 em sua próxima ação. Aumente isso por −10 adicional por sucesso maior.

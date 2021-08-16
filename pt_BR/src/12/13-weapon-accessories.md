@@ -13,7 +13,7 @@ Os seguintes acessórios estão disponíveis para armas.
 | Sistema de Segurança                                         |                 Men/1                 | A arma requer autorização biométrica para ser usada.                                |
 | Segurança Eletrificada                                       |                 Mod/2                 | Como o sistema de segurança, VD 1d6 e efeito de choque em usuários não autorizados. |
 | Silenciador/<wbr>Supressor de Ruído |                 Men/1                 | −30 em Percepção para localizar pelo som.                                           |
-| Smartlink                                                    |                 Mod/2                 | Mira assistida, controle aprimorado da arma.                                        |
+| Ligação Inteligente                                          |                 Mod/2                 | Mira assistida, controle aprimorado da arma.                                        |
 | Pente Inteligente                                            |                 Men/1                 | Seleciona a munição de cada tiro, reduza a capacidade de munição em −50%.           |
 
 **Deslizante de Braço:** Este suporte deslizante pode segurar um arma de uma mão sob sua manga, levando a arma para sua mão com um sinal eletrônico ou sequência específica de movimentos do braço. Você pode sacar a arma e atacar com uma única ação complexa.
@@ -26,7 +26,7 @@ Os seguintes acessórios estão disponíveis para armas.
 
 **Quebra-Chamas:** Este dispositivo esconde o clarão do disparo de armas de fogo, aplicando um modificador −30 em Testes de Percepção para localizar uma arma por seu clarão.
 
-**Mira Laser:** Este laser sob o cano emite um feixe que coloca um ponto vermelho brilhante no alvo para auxiliar na mira (negando o modificador −10 por não usar smartlink ou mira laser). A mira laser também pode ser usada para pintar um alvo para munições inteligente ou buscadores guiados por laser. Lasers infravermelhos e ultravioletas também estão disponíveis, para que o ponto só seja visível para personagens com visão aprimorada.
+**Mira Laser:** Este laser sob o cano emite um feixe que coloca um ponto vermelho brilhante no alvo para auxiliar na mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). A mira laser também pode ser usada para pintar um alvo para munições inteligente ou buscadores guiados por laser. Lasers infravermelhos e ultravioletas também estão disponíveis, para que o ponto só seja visível para personagens com visão aprimorada.
 
 **Sistema de Segurança:** Este recurso é automaticamente incluído na maioria das armas. Um sensor biométrico (impressão palmar ou de voz) ou de ego ID está embutido na arma, desativando-a se qualquer pessoa além do usuário autorizado tentar dispará-la.
 
@@ -34,6 +34,6 @@ Os seguintes acessórios estão disponíveis para armas.
 
 **Silenciador/Supressor de Ruído:** Este acessório montado no cano reduz o som do disparo de uma arma de fogo (ele não pode ser usado em railguns). Aplique um modificador −30 em Testes de Percepção baseados em audição para localizar o disparo da arma.
 
-**Smartlink:** Os smartlinks estão incluídos automaticamente na maioria das armas. Ele conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar smartlink ou mira laser). Os smartlinks também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. Os smartlinks também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](../12/09-kinetic-weapons.md#smart-ammo) ou programar [condições de acionamento](../12/10-seeker-weapons-and-grenades.md#trigger-conditions) de buscadores.
+**Ligação Inteligente:** Uma ligação Inteligente está inclusa automaticamente na maioria das armas. Ela conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). As ligações inteligentes também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. As ligações inteligentes também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](../12/09-kinetic-weapons.md#smart-ammo) ou programar [condições de acionamento](../12/10-seeker-weapons-and-grenades.md#trigger-conditions) de buscadores.
 
 **Pente Inteligente:** Um pente inteligente permite que você escolha qual cartucho de munição será disparado a cada tiro. No entanto, este sistema deixa menos espaço para balas, então reduza a capacidade de munição da arma à metade (arredonde para cima). Pentes inteligentes podem ser combinados com pentes extendidos, neste caso a capacidade de munição é normal.

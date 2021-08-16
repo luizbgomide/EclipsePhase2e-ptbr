@@ -146,7 +146,7 @@ Você busca entender como funciona o universo — ou pelo menos certos elementos
 
 |                                                      |    |
 |:---------------------------------------------------- | --:|
-| Aparelhagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Eletrônicos, Robótica_</p> | 40 |
+| Aparelhagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Eletrônica, Robótica_</p> | 40 |
 | Programação                                          | 30 |
 | Pesquisa                                             | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Astrobiologia, Física, Memética_</p>       | 60 |

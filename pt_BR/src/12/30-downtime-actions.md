@@ -24,7 +24,7 @@ Você não pode gastar todo o seu tempo salvando o Sistema Solar. Você pode ter
 
 A melhor forma de cultivar seus níveis de rep é contribuir positivamente para a vida dos outros. Isso pode tomar a forma de voluntariar seu tempo para empreendimentos coletivos (@-rep), ajudar seus amigos (c-rep), criar novas artes (f-rep), trabalhar nas ruas (g-rep), rastrear pistas (i-rep), conduzir pesquisas úteis (r-rep), ou treinar novos desbravadores (x-rep). Trabalhe com o MJ para determinar um teste de perícia apropriado: o sucesso lhe dá 1 ponto de rep nessa rede, +1 por sucesso maior.
 
-Alternativamente, você pode evitar esse teste e apenas gastar Pontos de Rez. Cada PR te fornece 5 pontos de rep.
+Alternativamente, você pode evitar esse teste e apenas gastar Pontos de Rez. Cada PR lhe fornece 5 pontos de rep.
 
 ## Modificar-se
 

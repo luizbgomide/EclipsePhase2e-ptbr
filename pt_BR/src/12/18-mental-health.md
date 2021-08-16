@@ -33,7 +33,7 @@ Alguns Valores de Estresse listam dois números. O primeiro número antes da bar
 
 O trauma mental é mais grave que pontos de estresse. Traumas representam choque mentais graves, uma incapacidade de lidar com o que está ocorrendo, o efeito atordoante de mudanças de paradigma, insegurança paralisante, e outras disfunções cognitivas graves. Os traumas prejudicam o funcionamento do seu personagem e podem resultar em respostas de estresse temporárias ou transtornos permanentes.
 
-Se seu personagem receber um número de pontos de estresse de uma vez que igualar o exceder seu Limiar de Trauma, ele sofreu um trauma. Se os pontos de estresse infligidos forem o dobro ou triplo do Limiar de Trauma, ele sofre 2 ou 3 traumas, respectivamente, e assim por diante. Traumas são cumulativos e devem ser marcados em sua ficha de personagem.
+Se seu personagem receber um número de pontos de estresse de uma vez que igualar ou exceder seu Limiar de Trauma, ele sofreu um trauma. Se os pontos de estresse infligidos forem o dobro ou triplo do Limiar de Trauma, ele sofre 2 ou 3 traumas, respectivamente, e assim por diante. Traumas são cumulativos e devem ser marcados em sua ficha de personagem.
 
 ## Efeitos de Trauma
 

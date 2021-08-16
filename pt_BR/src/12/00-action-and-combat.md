@@ -20,7 +20,7 @@
     - [Investidas](../12/02-melee-combat.md#investidas)
     - [Agarramentos](../12/02-melee-combat.md#agarramentos)
   - [Múltiplos Alvos](../12/02-melee-combat.md#múltiplos-alvos)
-  - [Alcance](../12/02-melee-combat.md#alcance)
+  - [Extensão](../12/02-melee-combat.md#extensão)
   - [Ataques de Toque Simples](../12/02-melee-combat.md#ataques-de-toque-simples)
 - [Armas Improvisadas](../12/03-improvised-weapons.md)
 - [Combate de Distância](../12/04-ranged-combat.md)

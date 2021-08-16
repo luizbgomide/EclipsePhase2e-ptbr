@@ -44,7 +44,7 @@ Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore m
 
 ## Sangramento
 
-Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Receba +30 se spray de cura, xarope ou medicadores estão curando você. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem sucedido, você para de acumular dano por sangramento.
+Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Receba +30 se spray de cura, xarope ou medicadores estão curando você. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
 
 ## Grau de Morte
 

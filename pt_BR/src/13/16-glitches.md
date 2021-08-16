@@ -1,0 +1,19 @@
+# Defeitos
+
+Os defeitos representam erros e anomalias que podem afetar softwares e dispositivos. Os defeitos ocorrem devido a sistemas sobrecarregados, dano em hardware ou ferimentos infligidos em combate na mesh.
+
+Quando um defeito for infligido, role 1d6, consulte a Tabela de Defeitos e aplique o resultado.
+
+<blockquote class="table">
+
+### Tabela de Defeitos
+
+| Rolagem 1d6 | Defeitos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1–2     | **Perda de Conectividade:** Todas as ligações de comunicação com sistemas remotos caem. Se você está acessando um sistema remoto, você é deslogado. Se o alvo afetado for um cibercérebro, seu morfo cai ou congela.                                                                                                                                                                                                                                                                                       |
+|      3      | **Erro de Codificação:** Se você é um invasor infiltrado ou oculto, você se torna descoberto. Se sua mesh ID foi anonimizada, sua ID real é vazada e logada. Se você for um usuário/software legítimo, agora o sistema identifica você como um invasor descoberto e executará contramedidas apropriadas. Um firewall ou sistema operacional afetado por esse defeito vai considerar que o sistema inteiro está comprometido e iniciar uma reinicialização.                                                 |
+|      4      | **Perda de Memória:** Egos dentro de infomorfos/cibercérebros perdem acesso a certas memórias. O MJ escolhe um conjunto de memórias ou uma perícia — essas memórias ou perícia estão indisponíveis até você reinicializar. Apps ou sistemas operacionais alvejados esquecem dados importantes, ficando potencialmente inutilizáveis em certas circunstâncias. Consoles de conta alvejados devem fazer uma ação para reautenticar, talvez exigindo um Teste de Hackeamento se eles não tiverem credenciais. |
+|      5      | **Suspensão de Processo:** Um de seus apps ou outro software conectado (determinado pelo MJ) congela e para de funcionar até que seja reiniciado (levando 1d6 turnos de ação). Esse poderia ser até outro processo no sistema o qual você interagiu recentemente (talvez impedindo certas ações). Para cibercérebros, isso pode significar perder acesso a uma parte da funcionalidade do seu morfo, como um membro, um sentido ou outro ware.                                                             |
+|      6      | **Sobrecarga:** Um processo em mal funcionamento consome vorazmente os recursos do sistema. Você não pode usar paradas para ações da mesh por 1d6 turnos de ação. Apps atingidos por esse defeito só podem funcionar em turnos de ação alternados. Sistemas operacionais sobrecarregados podem desconectar usuários aleatoriamente.                                                                                                                                                                        |
+
+</blockquote>

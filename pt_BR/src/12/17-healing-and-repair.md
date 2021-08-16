@@ -8,7 +8,7 @@ Graças aos biomods, a maioria dos biomorfos se cura naturalmente em um ritmo ac
 
 ### Primeiros Socorros
 
-Use Medicina: Paramedicina para aplicar cuidados médicos em um personagem ferido. Isso é uma ação de tarefa com um prazo de 10 minutos mais 10 minutos por ferimento e requer um kit de ferramentas médicas. Se for bem sucedido, remova 1 ferimento e 1d10 pontos de dano, +1d6 por superior maior. Esse teste deve ser feito dentro de 24 horas da lesão, e qualquer conjunto específico de lesões só pode ser tratado uma vez (então se você tiver mais de um ferimento, apenas um pode ser curado). No entanto, se mais tarde o personagem sofrer mais lesões, esse novo dano pode ser tratado separadamente. Cuidados médicos desse tipo não são eficazes contra lesões já tratadas com primeiros socorros, medicadores, xaropes, sprays curativos, ou tanques de cura. Uma falha crítica inflige VD 1d10.
+Use Medicina: Paramedicina para aplicar cuidados médicos em um personagem ferido. Isso é uma ação de tarefa com um prazo de 10 minutos mais 10 minutos por ferimento e requer um kit de ferramentas médicas. Se for bem-sucedido, remova 1 ferimento e 1d10 pontos de dano, +1d6 por superior maior. Esse teste deve ser feito dentro de 24 horas da lesão, e qualquer conjunto específico de lesões só pode ser tratado uma vez (então se você tiver mais de um ferimento, apenas um pode ser curado). No entanto, se mais tarde o personagem sofrer mais lesões, esse novo dano pode ser tratado separadamente. Cuidados médicos desse tipo não são eficazes contra lesões já tratadas com primeiros socorros, medicadores, xaropes, sprays curativos, ou tanques de cura. Uma falha crítica inflige VD 1d10.
 
 ### Recuperação
 

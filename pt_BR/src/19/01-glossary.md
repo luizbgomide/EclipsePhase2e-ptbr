@@ -30,7 +30,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Assincro:** Uma pessoa com habilidades psi resultantes da cepa Watts-MacLeod do vírus exsurgente.
 - **Asteroide Gelado:** Um asteroide feito de gelo em vez de rocha ou metais.
 - **Atravessador:** Alguém que negocia tratos para adquirir bens ou informações.
-- **Autocook:** Um fabro especializado para fazer comidas e bebidas.
+- **Autocozedor:** Um fabro especializado para fazer comidas e bebidas.
 - **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
 - **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
@@ -84,7 +84,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Desligamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Devassar:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
-- **Dia-Zero:** Uma brecha previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
+- **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Digimorfo:** O tipo padrão mais básico de infomorfo.
 - **Dispositivo:** Um aparelho específico.
 - **Domo:** Habitat pressurizado de superfície temporário ou permanente.
@@ -99,7 +99,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **EMC:** Ejeção de massa coronal; uma erupção solar.
 - **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se "tornando" o drone.
 - **Enlatado:** Um módulo de habitat pressurizado, pequeno e barato.
-- **Entóptica:** Realidade aumentada que você "vê" na sua mente.
+- **Entóptica:** Realidade aumentada que você "vê" em seu olho da mente.
 - **Envoltório Nuestro:** Um hab de envoltório que utiliza raios e aros simétricos para ter estabilidade.
 - **Envoltório Tenmai:** Um hab com o envoltório externo de um cilindro ou uma esfera, mas um espaço oco de microgravidade dentro.
 - **Envoltório:** Um habitat agrupado com uma camada externa de proteção ou uma estrutura de aros e raios. Também chamado de envoltório Nuestro.
@@ -158,7 +158,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
 - **Hiperelite:** Os ricos e abastados.
-- **Host:** Dispositivos pessoais da mesh. Pode executar um único infomorfo.
 - **IA Seminal:** Uma IA que é capaz de autoaprimoramento recursivo, permitindo que ela alcance rapidamente níveis quase divinos de inteligência.
 - **IA:** Inteligência Artificial. Uma mente de software senciente que emula cognição humana. Geralmente usado para referir-se a ILAs.
 - **ID Crew:** _Intelligent Design Crew_, um cartel especializado em crimes eletrônicos.
@@ -201,7 +200,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Mercado Vermelho:** O comércio de atividades antissociais e coercitivas no espaço autonomista.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
-- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (fazer mesh) ou adjetivo (em mesh ou sem mesh).
+- **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (formar mesh) ou adjetivo (em mesh ou sem mesh).
 - **Meshware:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
 - **Microgravidade:** Zero-g ou ambientes quase sem peso.
@@ -215,7 +214,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
-- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriada. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
 - **Nanoware:** Nanossistemas implantados dentro de um morfo.
 - **Narcoalgoritmo:** Um app que imita os efeitos de uma droga para um infomorfo ou cérebro cibernético.
@@ -308,6 +307,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Tecnofurtividade:** A arte de se mover invisível aos sistemas de vigilância.
 - **Teleoperação:** Controle remoto.
 - **Tematização:** Alterar o seu ambiente percebido via RA.
+- **Terminal:** Dispositivos pessoais da mesh. Pode executar um único infomorfo.
 - **The Eye:** A rede social e de compartilhamento de dados interna da Firewall.
 - **Titaniano:** Alguém de Titã, uma lua de Saturno.
 - **TITANs:** Rede de Consciência Tática de Informação Total (_Total Information Tactical Awareness Network_). SIAs que atacaram a transumanidade e provocavam a Queda.
@@ -323,14 +323,14 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Verme:** Um assincro exsurgente.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **Vírus Exsurgente:** Um vírus multivetor espalhado durante a Queda que transforma as vítimas e subverte suas mentes.
-- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente encriptadas por privacidade/segurança.
+- **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
 - **Vulto:** Um forque beta ou agente de uma SIA como um TITAN.
 - **Ware:** Implantes e aprimoramentos, incluindo bioware, cyberware, hardware, meshware e nanoware.
 - **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
-- **X-Pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
+- **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
+- **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
-- **Xzeiro:** Falado "X-zeiro" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **Zeros:** Pessoas sem acesso à mesh. Comum nos contratados.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
 - **ZQT:** Zona de Quarentena TITAN em Marte.

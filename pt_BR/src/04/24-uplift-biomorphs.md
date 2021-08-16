@@ -141,6 +141,6 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Flexibilidade (Nível 1), Morfologia Exótica (Nível 1)
-- **Notas:** Alcance (+10)
+- **Notas:** Extensão (+10)
 
 </blockquote>

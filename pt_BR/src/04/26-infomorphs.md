@@ -50,7 +50,7 @@ Projetado para artistas online, ícones de mídia e socializadores, este infomor
 
 ### Agente
 
-Popular com especialistas em segurança de rede, testadores de intrusão e hackers, este infomorfo é otimizado para funções de infoseg.
+Popular com especialistas em segurança de rede, testadores de invasão e hackers, este infomorfo é otimizado para funções de infoseg.
 
 <blockquote class="indent stat-list">
 

@@ -84,11 +84,11 @@ Você pode se sacrificar pela equipe e se jogar em cima de uma granada para prot
 
 ### Camada Aderente
 
-Granadas e alguns buscadores tem um revestimento adesivo especial que adere a quase qualquer superfície quando ativado. Munições aderentes que atinjam seu alvo não tem desvio. Elas podem até serem aderidas a um oponente com um ataque de luta bem sucedido para serem detonadas mais tarde.
+Granadas e alguns buscadores tem um revestimento adesivo especial que adere a quase qualquer superfície quando ativado. Munições aderentes que atinjam seu alvo não tem desvio. Elas podem até serem aderidas a um oponente com um ataque de luta bem-sucedido para serem detonadas mais tarde.
 
 ### Condições de Acionamento
 
-Granadas modernas, buscadores e explosivos similares não detonam necessariamente no instante que são arremessados ou atingem o alvo. O usuário pode configurar a opção de acionamento quando lançar a arma e pode alterá-la através de um link sem fio. Ataques perdidos ou ataques que não explodem no trajeto ou quando sofrem impacto estão sujeitos ao [desvio](../12/15-special-attacks.md#scatter).
+Granadas modernas, buscadores e explosivos similares não detonam necessariamente no instante que são arremessados ou atingem o alvo. O usuário pode configurar a opção de acionamento quando lançar a arma e pode alterá-la através de uma ligação sem fio. Ataques perdidos ou ataques que não explodem no trajeto ou quando sofrem impacto estão sujeitos ao [desvio](../12/15-special-attacks.md#scatter).
 
 **Explosão Aérea:** Explosão aérea quer dizer que o dispositivo explode no ar assim que ele viaja uma distância programada no lançamento. Resolva estes ataques imediatamente quando são disparados. A critério do MJ, esses ataques ignoram modificadores de cobertura. Observe que munições de explosão aérea são programadas com medidas de segurança que impedem a detonação se elas não viajarem uma distância preventiva mínima do lançador, embora isso possa ser hackeado ou anulado com Aparelhagem: Demolições.
 
@@ -96,12 +96,10 @@ Granadas modernas, buscadores e explosivos similares não detonam necessariament
 
 **Proximidade:** O explosivo usa sensores eletromagnéticos simples (Percepção 30) para detectar movimento e alvos (biológicos, sintéticos, ou ambos) dentro de um raio de alcance pré-definido de 3 metros e detonam imediatamente. Há um atraso de 3 turnos entre iniciar o acionamento por proximidade e sua ativação.
 
-**Sinal:** A munição é preparada para ser detonada quando receber um sinal de comando através de um link sem fio. O dispositivo simplesmente aguarda até que receba o sinal apropriado (que deve incluir uma chave criptografada atribuída ao explosivo quando ele foi preparado), detonando imediatamente quando isso ocorre.
+**Sinal:** A munição é preparada para ser detonada quando receber um sinal de comando através de uma ligação sem fio. O dispositivo simplesmente aguarda até que receba o sinal apropriado (que deve incluir uma chave criptografada atribuída ao explosivo quando ele foi preparado), detonando imediatamente quando isso ocorre.
 
 **Temporizador:** O dispositivo tem um temporizador permitindo que o usuário ajuste exatamente quando ele detona. Isso pode ser desde 1 segundo até dias, meses ou até mesmo anos depois, efetivamente tornando o dispositivo uma bomba, mas aumentando também a probabilidade de ele ser descoberto e neutralizado. Explosivos temporizados detonam no final do turno. O período mínimo para detonação é 1 turno de ação, o que significa que o vai detonar no final do próximo turno.
 
 ### Arremessando de Volta uma Granada
 
 Você pode pegar uma granada antes que ela detone e arremessá-la de volta ou para uma direção segura. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF com −20 para apanhar a granada rolando pelo chão. Se tiver sucesso, você pode arremessar a granada na direção que escolher com a mesma ação (trate como um ataque de arremesso padrão com −20). No entanto, se você falhar você poderá estar no ponto central quando ela detonar.
-
----
