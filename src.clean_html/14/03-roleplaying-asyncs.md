@@ -59,7 +59,7 @@ The percentage of the transhuman population believed to have contracted the Watt
 
 **Scanner:** Friends! Hold up a nanosec. Before we stir up this firestorm again, can we deal with the current situation first? That seems more urgent, and then we can push the Great Undying Async Debate to the side channels and handle it in our precious free time.
 
-**Filter:** Fair enough. We have an issue in Noctis-Qianjiao. The NQPD just discovered a clutch of two dozen networked cyberbrains amid a bunch of unspecified jury-rigged mesh-server gear. They’re not quite sure what to make of it yet, but they’ve called in some TITAN specialists and Oversight to help them figure it out. You’ll want to take a look at the location. <u>\<Attached Files\></u>
+**Filter:** Fair enough. We have an issue in Noctis-Qianjiao. The NQPD just discovered a clutch of two dozen networked cyberbrains amid a bunch of unspecified jury-rigged mesh-server gear. They’re not quite sure what to make of it yet, but they’ve called in some TITAN specialists and Oversight to help them figure it out. You’ll want to take a look at the location. <u>&lt;Attached Files&gt;</u>
 
 **Register:** Oh sweet Ganesh. That’s our safehouse, isn’t it?
 
