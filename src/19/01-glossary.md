@@ -330,7 +330,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Xenomorph:** An alien life form.
 - **Xer:** As in “X-er” — someone addicted or obsessed with XP. Sometime also used to refer to people making XP.
 - **XP:** Experience Playback. Experiencing someone else’s sensory input (real-time or recorded). AKA sim, simsense, playback.
-- **X-Risk**: Existential Risk. Something that threatens the very existence of transhumanity.
+- **X-Risk:** Existential Risk. Something that threatens the very existence of transhumanity.
 - **Zero-Day:** A previously unknown exploit against which computer systems are not yet defended. AKA 0-day.
 - **Zeroes:** People without mesh access. Common with indentures.
 - **Zone Stalker:** A collector of artifacts from quarantine zones.

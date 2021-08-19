@@ -39,7 +39,7 @@ Lockbots are robot guardians physically emplaced to protect portals. A lockbotâ€
 
 ### Lockbot
 
-- **Complexity/GP**: Maj/3
+- **Complexity/GP:** Maj/3
 
 ---
 

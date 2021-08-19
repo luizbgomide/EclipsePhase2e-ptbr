@@ -89,7 +89,7 @@ Roll 1d6 and consult your sub-strain’s [influence effects](../14/05-influence-
 
 Influence effects kick in immediately as the sleight is activated.
 
-**Physical Damage**: You suffer DV 1d6 in the form of fatigue, headaches, and hemorrhaging.
+**Physical Damage:** You suffer DV 1d6 in the form of fatigue, headaches, and hemorrhaging.
 
 **Enhanced/Restricted Behavior:** For a temporary period of 1d6 minutes, you acquire an Enhanced or Restricted Behavior trait. This trait should directly impact your roleplaying. The level of the trait depends on your current Infection Rating: under 33 (Level 1), 33+ (Level 2), 66+ (Level 3).
 
@@ -106,7 +106,7 @@ Choose one of the following effects for your pushed sleight:
 - **Increased Range:** Range doubles; Point-Blank extends to 4 meters, Close extends to 20 meters. This effect is cumulative with the range increase against other asyncs (Point-Blank becomes 6, Close 30).
 - **Increased Effect:** Any modifiers provided by the sleight are doubled. For example, +10 becomes +20; +1 pool becomes +2; and so on.
 - **Increased Power:** The sleight is resisted by WIL Check ÷ 2.
-- Increased Penetration: Psi Shield armor is reduced by half.
+- **Increased Penetration:** Psi Shield armor is reduced by half.
 - **Increased Duration:** Double the sleight’s Duration (temporary sleights only).
 - **Extra Target:** You may affect one extra target with the sleight, with the same action, as long as each of them can be targeted via the rules above. You only roll once, with each of the defending characters making their opposed tests against that roll.
 

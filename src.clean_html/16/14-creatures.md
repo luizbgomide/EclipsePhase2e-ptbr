@@ -63,9 +63,9 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 **Pollinator Swarm:** Interbred and gene-modified bee and wasp variations pollinate habitat gardens. They also produce honey, hunt other insects, trim leaves, and collect debris. Though non-aggressive, some have been modified for use as assassin or guardians. They follow [swarm rules](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
-**Space Roach**: Grown to the size of a small dog, these insects are often biosculpted for bright colors and patterns. They are favored as pets and useful for minor janitorial duties.
+**Space Roach:** Grown to the size of a small dog, these insects are often biosculpted for bright colors and patterns. They are favored as pets and useful for minor janitorial duties.
 
-**Squidling**: These small-sized squid are adapted for air breathing and maneuvering in micrograv with natural air jets. They are favored as pets and snacks by neo-octopi.
+**Squidling:** These small-sized squid are adapted for air breathing and maneuvering in micrograv with natural air jets. They are favored as pets and snacks by neo-octopi.
 
 ## Smart Animals
 

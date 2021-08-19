@@ -55,7 +55,7 @@ The percentage of the transhuman population believed to have contracted the Watt
 
 **Crow:** Oh ffs, there’s no infection risk. We’ve been over this a thousand times. The virus altered them, that’s it. It did not turn them. They are not infectious. They are not—
 
-**Filter**: You don’t know tha—
+**Filter:** You don’t know tha—
 
 **Scanner:** Friends! Hold up a nanosec. Before we stir up this firestorm again, can we deal with the current situation first? That seems more urgent, and then we can push the Great Undying Async Debate to the side channels and handle it in our precious free time.
 
@@ -85,7 +85,7 @@ The percentage of the transhuman population believed to have contracted the Watt
 
 **Crow:** I knew. I’ve been helping Jun-Seo find treatment for the issue since we first identified it. Calling them an exsurgent is a bit extre—
 
-**Filter**: It’s rather fucking _extreme_ to let a hostile alien entity seize control of one of our operatives, don’t you think? This entire server could be in danger.
+**Filter:** It’s rather fucking _extreme_ to let a hostile alien entity seize control of one of our operatives, don’t you think? This entire server could be in danger.
 
 **Router:** The risks are known and accepted. All of Firewall has had this debate, multiple times. Having asyncs on our side has been mission critical on more occasions than we can count. Like any technology, it sometimes bites us in the ass. We have measures in place to mitigate the problem.
 
