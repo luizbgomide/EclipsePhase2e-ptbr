@@ -683,7 +683,7 @@ Os truques psi são bastante eficazes contra sua estrutura cerebral. Aplique um 
 
 **Traço de ▲ Ego • Bônus de PP: 2**
 
-Você ou tem um experiência pessoal muito limitada com o mundo real (físico) ou passou tanto tempo em RV que sua vivência na vida real está prejudicada. Você não compreende muitas propriedades físicas, dicas sociais e outros fatores que a maioria das pessoas acham corriqueiros. Essa falta de um senso comum pode levá-lo a entender errado como um dispositivo funciona ou mal-interpretar a linguagem corporal de alguém.
+Você ou tem um experiência pessoal muito limitada com o mundo real (físico) ou passou tanto tempo em RV que sua vivência na vida real está prejudicada. Você não compreende muitas propriedades físicas, sinais sociais e outros fatores que a maioria das pessoas acham corriqueiros. Essa falta de um senso comum pode levá-lo a entender errado como um dispositivo funciona ou mal-interpretar a linguagem corporal de alguém.
 
 Uma vez por sessão de jogo, o MJ pode intencionalmente enganá-lo ao fornecer uma descrição sobre alguma coisa ou interação social. Essa falsidade representa o seu mal-entendido da situação e deve ser interpretada de acordo, mesmo quando o jogador está ciente do erro do personagem.
 
