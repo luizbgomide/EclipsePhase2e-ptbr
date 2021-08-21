@@ -88,7 +88,7 @@ Observe que o mascaramento só permite que você falsifique sinais de um sistema
 
 ## Criptografia
 
-Existem dois tipos de criptografia comumente usadas no Eclipse Phase: chave pública e quântica.
+Existem dois tipos de criptografia comumente usadas em Eclipse Phase: chave pública e quântica.
 
 ### Criptografia de Chave Pública
 
