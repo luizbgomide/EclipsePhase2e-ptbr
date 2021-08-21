@@ -35,7 +35,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cinturinos:** Habitantes do Cinturão Principal.
 - **Forque Beta:** Uma cópia parcial de um ego.
 - **AQ:** Antes da Queda (usado para datação referencial).
-- **Bioconservadores:** Um movimento anti-tecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
+- **Bioconservadores:** Um movimento antitecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
 - **Matriz:** O arquivo do projeto digital usado para nanofabricação.
@@ -330,7 +330,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
-- **Risco X**: Risco Existencial. Algo que ameaça a própria existência da transumanidade.
+- **Risco X:** Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Zeros:** Pessoas sem acesso à mesh. Comum nos contratados.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
