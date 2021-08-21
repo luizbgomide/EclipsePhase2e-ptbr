@@ -26,8 +26,8 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
   - [ ] Facções
   - [ ] Catálogo do Sistema
   - [x] Ação & Combate
-  - [ ] A Mesh
-  - [ ] Psi
+  - [x] A Mesh
+  - [x] Psi
   - [ ] Tecnologia Transumana
   - [ ] Equipamento
   - [ ] Conduzindo o Jogo

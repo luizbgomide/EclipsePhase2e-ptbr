@@ -43,7 +43,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 |:-------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
 | [Autocozedor](../16/19-nanotech.md#specialized-nanofabricators)\*  |                 Men/1                 | Fabrica apenas comida e bebida.                                                         |
 | [Corda Eletrônica](../16/18-mission-gear.md#survival-tools)          |                 Men/1                 | Corda controlável.                                                                      |
-| [Spray Curativo](../16/19-nanotech.md)\*                           |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                                  |
+| [Spray Curativo](../16/19-nanotech.md)\*                           |                 Men/1                 | Cura 1d10 de dano por hora por 12 horas.                                                |
 | [Pistola Média (Arma de Fogo)](../12/09-kinetic-weapons.md#firearms) |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                          |
 | [SolArchive Portátil](../16/18-mission-gear.md#science-tools)        |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
 | [Traje de Vácuo Padrão](../16/18-mission-gear.md#vacsuits)\*       |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6.                   |
@@ -132,7 +132,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | [Disco](../16/21-robots.md#reconsurveillance-bots)                    |                 Men/1                 | Drone de reconhecimento em forma de disco giratório. Tamanho pequeno.                              |
 | [Míssil Batedor](../16/18-mission-gear.md#exploration-tools)          |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60.              |
 
-### Malandro/Traficante
+### Malandro
 
 | EQUIPAMENTOS                                                           | Comp/<wbr>PE | Descrição                                                                                                  |
 |:---------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------- |
@@ -150,7 +150,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 |:------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------- |
 | [Arquivo](../16/04-services.md#mesh-services)                             |                 Men/1                 | +10 em Testes de Pesquisa relacionados a uma perícia de Saber.                    |
 | [Dino-Mascote](../16/14-creatures.md#genetically-modified-organisms)      |                 Men/1                 | Dinossauro de estimação geneticamente hackeado.                                   |
-| [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessivo (2), reduz prazos em 25%.                      |
+| [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessão (2), reduz prazos em 25%.                       |
 | [Medicadores](../16/10-combat-augmentations.md)                           |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas. |
 | [Enxame Inoculador](../16/20-nanoswarms-and-microswarms.md#swarms)        |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
 | [Recipiente de Espécime](../16/18-mission-gear.md#science-tools)          |                 Men/1                 | Mantém amostas em condições de estase.                                            |
@@ -187,9 +187,9 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | EQUIPAMENTOS                                                         | Comp/<wbr>PE | Descrição                                                                       |
 |:-------------------------------------------------------------------- |:-------------------------------------:|:------------------------------------------------------------------------------- |
 | [Medibot](../16/21-robots.md#medical-bots)                           |                 Mai/3                 | Bot médico.                                                                     |
-| [Spray Curativo](../16/19-nanotech.md)                               |                 Men/1                 | Cura 1d10 danos por hora por 12 horas.                                          |
+| [Spray Curativo](../16/19-nanotech.md)                               |                 Men/1                 | Cura 1d10 de dano por hora por 12 horas.                                        |
 | [Tanque de Cura](../16/19-nanotech.md)                               |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                               |
-| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                |
+| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |                 Mod/2                 | Cura 1d10 de dano por hora ou 1 ferimento por dia.                              |
 | [Escaneador Médico](../16/19-nanotech.md)                            |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots como nanodetector. |
 
 ### Hacker Mental
@@ -233,27 +233,27 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | [Fuzil de Assalto (Railgun)](../12/09-kinetic-weapons.md#railguns)       |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Alcance 150, Perfura-Armadura, Longa, Duas Mãos.            |
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                    |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 | [Grin (5 doses)](../16/15-chemicals-drugs-and-toxins.md#combat-drugs)    |                 Men/1                 | Ignore 1 ferimento.                                                                                |
-| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs)\* |                 Mod/2                 | Cura 1d10 danos por hora ou 1 ferimento por dia.                                                   |
+| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs)\* |                 Mod/2                 | Cura 1d10 de dano por hora ou 1 ferimento por dia.                                                 |
 | [Neuraquim](../16/10-combat-augmentations.md)                            |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                            |
 
 <blockquote class="indent">
 
 #### \* Alternativa para Sintemorfo
 
-| EQUIPAMENTOS                                                      | Comp/<wbr>PE | Descrição                                                     |
-|:----------------------------------------------------------------- |:-------------------------------------:|:------------------------------------------------------------- |
-| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms) |                 Mod/2                 | Repara 1d10 danos por hora ou 1 ferimento por dia por 4 dias. |
+| EQUIPAMENTOS                                                      | Comp/<wbr>PE | Descrição                                                       |
+|:----------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
+| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms) |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 4 dias. |
 
 </blockquote>
 
 ### Técnico
 
-| EQUIPAMENTOS                                                              | Comp/<wbr>PE | Descrição                                                     |
-|:------------------------------------------------------------------------- |:-------------------------------------:|:------------------------------------------------------------- |
-| [Automecânico](../16/21-robots.md#utility-bots)                           |                 Mod/2                 | Bot reparador.                                                |
-| [Sentido Elétrico](../16/06-sensory-augmentations.md)                     |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                    |
-| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms)         |                 Mod/2                 | Repara 1d10 danos por hora ou 1 ferimento por dia por 5 dias. |
-| [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessivo (2), reduz prazos em 25%.  |
-| [Fabro Médio](../16/19-nanotech.md#nanofabricators)                       |                 Mod/2                 | Fabrica itens pequenos.                                       |
-| [Ferramentas (Kit)](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Portátil, aplicável a perícia específica.                     |
-| [Utiliferramenta](../16/05-common-tech-and-ware.md#everyday-technology)   |                 Men/1                 | Ferramenta de uso geral de materiais inteligentes.            |
+| EQUIPAMENTOS                                                              | Comp/<wbr>PE | Descrição                                                       |
+|:------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
+| [Automecânico](../16/21-robots.md#utility-bots)                           |                 Mod/2                 | Bot reparador.                                                  |
+| [Sentido Elétrico](../16/06-sensory-augmentations.md)                     |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                      |
+| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms)         |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 5 dias. |
+| [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessão (2), reduz prazos em 25%.     |
+| [Fabro Médio](../16/19-nanotech.md#nanofabricators)                       |                 Mod/2                 | Fabrica itens pequenos.                                         |
+| [Ferramentas (Kit)](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Portátil, aplicável a perícia específica.                       |
+| [Utiliferramenta](../16/05-common-tech-and-ware.md#everyday-technology)   |                 Men/1                 | Ferramenta de uso geral de materiais inteligentes.              |

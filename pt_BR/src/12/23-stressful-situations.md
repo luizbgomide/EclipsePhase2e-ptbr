@@ -1,6 +1,6 @@
 # Situações Estressantes
 
-O universo da Eclipse Phase está repleto de experiências que vão abalar a sua sanidade. Algumas são mundanas e humanas, como violência extrema, isolamento prolongado ou desamparo. Outras são menos comuns, mas bem mais aterrorizantes: encontros com espécies alienígenas, infecção pelo vírus exsurgente ou confrontos com uma ameaça de extinção.
+O universo de Eclipse Phase está repleto de experiências que vão abalar a sua sanidade. Algumas são mundanas e humanas, como violência extrema, isolamento prolongado ou desamparo. Outras são menos comuns, mas bem mais aterrorizantes: encontros com espécies alienígenas, infecção pelo vírus exsurgente ou confrontos com uma ameaça de extinção.
 
 ## Testes de Estresse de Vontade
 

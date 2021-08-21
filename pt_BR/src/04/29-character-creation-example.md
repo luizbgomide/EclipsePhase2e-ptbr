@@ -56,6 +56,6 @@ Passo 13 é escolher as motivações. Nós decidimos que a personagem provavelme
 
 Nossa personagem está quase pronta, mas nós temos alguns detalhes finais para encerrar. Primeiro, nós escolhemos um nome para nossa musa: Espelho Meu. Em segundo lugar, analisamos os nossos traços e nos certificamo de que tudo está designado. O nosso inimigo é a Cognite (perfeita para nosso antecedente Perdido), e escolhemos curiosidade para nosso Comportamento Acentuado.
 
-Já que criamos um assincro, nós devemos escolher qual subcepa do vírus Watts-MacLeod nos afeta. Escolhemos o Estranho, porque é bem sinistro e legal. Esta cepa nos dá o traço Transtorno Mental (escolhemos paramnésia) e um truque gratuito (escolhemos Olhar do Basilisco). Nós também pegamos os outros truques que compramos com PP: Controle Comportamental, Curto-Circuito, Memória Nebulosa, Subliminal e Vislumbre de Pensamentos.
+Já que criamos um assincro, nós devemos escolher qual subcepa do vírus Watts-MacLeod nos afeta. Escolhemos o Estranho, porque é bem sinistro e legal. Esta cepa nos dá o traço Transtorno Mental (escolhemos paramnésia) e um truque gratuito (escolhemos Olhar do Basilisco). Nós também pegamos os outros truques que compramos com PP: Controle Comportamental, Curto-Circuito, Memória Nebulosa, Sugestão e Vislumbre de Pensamentos.
 
 Olhando para a versão final da Hex, temos uma personagem social sólido com algumas habilidades psíquicas estilosas e uma rep decente! Você pode vê-la em [Personagens Prontos](../05/00-sample-characters.md).

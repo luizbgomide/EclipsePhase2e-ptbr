@@ -190,7 +190,7 @@
     - [Agente Infiltrado](../04/27-gear-packs.md#agente-infiltrado)
     - [Capanga](../04/27-gear-packs.md#capanga)
     - [Explorador](../04/27-gear-packs.md#explorador)
-    - [Malandro/Traficante](../04/27-gear-packs.md#malandrotraficante)
+    - [Malandro](../04/27-gear-packs.md#malandro)
     - [Hacker Genético](../04/27-gear-packs.md#hacker-genético)
     - [Hacker](../04/27-gear-packs.md#hacker)
     - [Investigador](../04/27-gear-packs.md#investigador)

@@ -37,7 +37,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
 - **Barsoomianos:** Um movimento que apoia a independência marciana do controle hipercorporativo, aliado aos autonomistas.
 - **Batiscafo:** Um habitat subaquático.
-- **Bioconservadores:** Um movimento anti-tecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
+- **Bioconservadores:** Um movimento antitecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
@@ -275,7 +275,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Reinstanciado:** Ser reencapado. Também se refere a infugiados reencapados.
 - **Reivindicadores:** Uma facção que busca retomar a Terra.
 - **Ricochete:** Um biomorfo otimizado para microgravidade.
-- **Risco X**: Risco Existencial. Algo que ameaça a própria existência da transumanidade.
+- **Risco X:** Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Roteador:** Um procurador que coordena as operações de um servidor.
 - **RTI:** A Rede de Transporte Interplanetário; utilizando a gravidade para se mover entre os planetas usando o mínimo de combustível.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.

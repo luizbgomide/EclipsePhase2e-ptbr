@@ -86,13 +86,13 @@ Se um sistema está em alerta passivo, o defensor do sistema pode tentar localiz
 
 Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
 
-| Resultado do Teste de Infoseg | Resultado do Hackeamento                                                   |
-|:----------------------------- |:-------------------------------------------------------------------------- |
-| Falha Crítica                 | Hack falha, hacker rastreado.                                              |
-| Falha Maior                   | Hack falha.                                                                |
-| Falha                         | Hacker alcança apenas o primeiro objetivo.                                 |
-| Sucesso                       | Hacker alcança todos os objetivos.                                         |
-| Sucesso Maior                 | Hacker alcança todos os objetivos em 25% menos tempo por sucesso superior. |
-| Sucesso Crítico               | Hacker alcança todos os objetivos, instala brecha no sistema.              |
+| Resultado do Teste de Infoseg | Resultado do Hackeamento                                                |
+|:----------------------------- |:----------------------------------------------------------------------- |
+| Falha Crítica                 | Hack falha, hacker rastreado.                                           |
+| Falha Maior                   | Hack falha.                                                             |
+| Falha                         | Hacker alcança apenas o primeiro objetivo.                              |
+| Sucesso                       | Hacker alcança todos os objetivos.                                      |
+| Sucesso Maior                 | Hacker alcança todos os objetivos em 25% menos tempo por sucesso maior. |
+| Sucesso Crítico               | Hacker alcança todos os objetivos, instala brecha no sistema.           |
 
 </blockquote>
