@@ -328,7 +328,7 @@ This is an offensive version of the Control Behavior sleight. You manipulate the
 
 **Action:** Complex • **Duration:** Instant • **Infection Mod:** 4
 
-You trigger a rush of neurochemical energy in the target. They may expend their next complex action collecting themselves; this counts as a short [recharge action](../03/05-pools.md#recharging-pools), without needing to expend the full 10 minutes. Note that this sleight does not provide an extra recharge, it simply shortens the time frame.
+You trigger a rush of neurochemical energy in the target. They may expend their next complex action collecting themselves; this counts as a [short recharge action](../03/05-pools.md#recharging-pools), without needing to expend the full 10 minutes. Note that this sleight does not provide an extra recharge, it simply shortens the time frame.
 
 ### Mimic
 
