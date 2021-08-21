@@ -32,7 +32,7 @@ Sua infecção é a sombra ao seu lado, o cântico sussurante de seus desejos in
 
 **Traço Negativo (Escolha Um):** Transtorno Mental (Transtorno Dissociativo de Personalidade, Paramnésia ou Paranoia)
 
-**Truque Gratuito (Escolha Um):** Cinésica Superior, Olhar do Basilisco ou Subliminal
+**Truque Gratuito (Escolha Um):** Cinésica Superior, Olhar do Basilisco ou Sugestão
 
 ## A Xenomorfa
 
