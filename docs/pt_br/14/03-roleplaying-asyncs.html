@@ -1,0 +1,255 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Interpretando Assincros - Eclipse Phase 2e</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+                <link rel="stylesheet" href="../ep2e.css">
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações &amp; Tempo</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa &amp; Ordem das Ações</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo &amp; Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores &amp; Granadas</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armaduras</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Armaduras</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura &amp; Reparo</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental &amp; Psicocirurgia</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos &amp; Estruturas</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Ubíquo-ware</a></li><li class="chapter-item "><a href="../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Topologia da Mesh</a></li><li class="chapter-item "><a href="../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Usos Comuns da Mesh</a></li><li class="chapter-item "><a href="../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Dispositivos, Apps, &amp; Ligações</a></li><li class="chapter-item "><a href="../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Autenticação &amp; Criptografia</a></li><li class="chapter-item "><a href="../13/06-mesh-actions.html"><strong aria-hidden="true">13.6.</strong> Ações da Mesh</a></li><li class="chapter-item "><a href="../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> IAs &amp; Musas</a></li><li class="chapter-item "><a href="../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Pesquisa Online</a></li><li class="chapter-item "><a href="../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Rastreamento</a></li><li class="chapter-item "><a href="../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hackeamento</a></li><li class="chapter-item "><a href="../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Contramedidas</a></li><li class="chapter-item "><a href="../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> Subversão de Sistema</a></li><li class="chapter-item "><a href="../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Combate na Mesh</a></li><li class="chapter-item "><a href="../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Dano em Harware</a></li><li class="chapter-item "><a href="../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Defeitos</a></li><li class="chapter-item "><a href="../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Hackeamento de Ware Mental</a></li><li class="chapter-item "><a href="../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Realidade Virtual</a></li><li class="chapter-item "><a href="../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Hackeamento de Vigilância</a></li></ol></li><li class="chapter-item expanded "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../14/01-psi-overview.html"><strong aria-hidden="true">14.1.</strong> Resumo do Psi</a></li><li class="chapter-item "><a href="../14/02-watts-macleod-sub-strains.html"><strong aria-hidden="true">14.2.</strong> Subcepas Watts-MacLeod</a></li><li class="chapter-item expanded "><a href="../14/03-roleplaying-asyncs.html" class="active"><strong aria-hidden="true">14.3.</strong> Interpretando Assincros</a></li><li class="chapter-item "><a href="../14/04-using-psi.html"><strong aria-hidden="true">14.4.</strong> Usando Psi</a></li><li class="chapter-item "><a href="../14/05-influence-effects.html"><strong aria-hidden="true">14.5.</strong> Efeitos de Influência</a></li><li class="chapter-item "><a href="../14/06-psi-sleight-summaries.html"><strong aria-hidden="true">14.6.</strong> Sumários de Truques Psi</a></li></ol></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a></li><li class="chapter-item "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                                                                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                                                
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="interpretando-assincros"><a class="header" href="#interpretando-assincros">Interpretando Assincros</a></h1>
+<p>Como um assincro, você deve ter em mente a origem das suas habilidades:</p>
+<p>A cepa Watts-MacLeod da infecção. Você pode ou não estar ciente dessa fonte, mas sem dúvida você sabe que você passou por algum tipo de transformação e que possui talentos que ninguém mais tem. Se não tiver ciência da infecção, você provavelmente aprendeu a manter suas habilidades em segredo, com receio de ser ridicularizado, atacado ou levado para algum programa de testes secretos. Aprender a verdade sobre a sua natureza poderia até ser o ponto de partida de uma campanha e/ou sua introdução à Firewall. No entanto, se você sabe a verdade, você deve conviver com o fato de ser vítima de uma nanopraga provavelmente espalhada pelas TITANs, que pode ou não levar a complicações, efeitos colaterais ou outras revelações inesperadas no seu futuro.</p>
+<p>Você deve se esforçar para explorar a natureza da sua infecção e como seu personagem a percebe. Os assincro são pessoas profundamente alteradas. O aspecto invasivo e alienígena de suas habilidades não deve ser ignorado por você. Por exemplo, você pode ver os seus talentos psi como uma espécie de entidade parasitária, vivendo dos seus truques, ou você pode sentir que ao usar esses poderes você se coloca em contato com algum tipo de substrato fundamental do universo que é estranho e aterrorizante. Como alternativa, você poderia sentir como se sua personalidade tivesse se fundido com algo diferente, algo que não é você. É provável que cada assincro veja a sua situação de forma diferente, e nenhuma delas é agradável.</p>
+<p>Um aspecto fundamental para interpretar um assincro é tratar a infecção como uma entidade distinta, ainda que dormente ou suprimida. Ela é uma presença constante sob a consciência do seu assincro. Ela pode ter suas próprias aspirações únicas, mas elas devem permanecer misteriosas. Embora muitas das compulsões comportamentais e desejos motivacionais impliquem em um nível de sociopatia ou destrutividade, pense nela com não tendo uma bússola moral. O exovírus não tem nenhum dos pontos de referência que a transumanidade tem. Ele não é mau, apenas indiferente, insensível e <em>alienígena</em>.</p>
+<blockquote>
+<h2 id="psi"><a class="header" href="#psi">Psi</a></h2>
+<p><strong>Fonte:</strong> Stellar Intelligence (Resumo Atualizado)</p>
+<p>O termo &quot;psi&quot;, cunhado pelo biólogo Bertold P. Wiesner, era originalmente um termo abrangente usado para descrever fenômenos paranormais, incluindo as habilidades ditas &quot;psíquicas&quot;, tais como telepatia e percepção extrassensorial. Embora o termo tenha sido usado extensivamente na área da parapsicologia e da cultura pop no séculos 20 e início de 21, o estudo de psi foi em grande parte considerado uma pseudociência com metodologias falhas e gradualmente perdeu financiamento e apoio.</p>
+<p>No entanto, durante a Queda, repetidos rumores e relatos de capacidades não explicadas chamaram a atenção de cientistas, líderes militares e buscadores da singularidade. Vários vírus biológicos e nanovírus foram lançados sobre a transumanidade, avançando pelas populações e se transformando conforme se espalhavam. Alguns infligiram apenas pequenas alterações e debilitações biológicas ou mentais, mas muitos foram terríveis e mortais. No entanto, as variantes mais temidas, foram aquelas rotuladas de <em>vírus exsurgente</em> — uma praga transformativa que muda suas vítimas e as subverte a sua vontade. Observou-se que o vírus exsurgente modificava radicalmente os padrões neurais e estado mental do indivíduo, afetando o arranjo sináptico e até modulando as correntes sinápticas. Em alguns casos, os cérebros infectados até desenvolveram novos módulos anatômicos. Com algumas cepas, essas mudanças alteram e ampliam as capacidades cognitivas da vítima. Com outras, elas também fornecem a capacidade de sentir e afetar as mentes dos outros a uma curta distância. Ambas foram apelidadas de &quot;psi&quot;, pois os fatores causais continuam a nos mistificar.</p>
+<h3 id="uma-nova-exsurgência"><a class="header" href="#uma-nova-exsurgência">Uma Nova Exsurgência</a></h3>
+<p>Contudo, o vírus exsurgente é excepcionalmente mutável e adaptativo, e os dois pesquisadores argonautas que o estavam estudando fizeram uma descoberta interessante. Encontraram uma cepa variante que dava ao indivíduo habilidades mentais excepcionais, sem envolver os excessivos processos transformativos das outras cepas. Embora a infecção ainda tenha outros inconvenientes, muitas agências começaram a considerar essa cepa como &quot;segura&quot; no sentido que ela não torna o indivíduo infeccioso aos outros, o indivíduo não é transmogrifado em uma monstruosidade alienígena, e sua personalidade geral permanece intacta. Intrigados com a possibilidade que essas investigações pudessem levar a uma forma de anular os efeitos das outras cepas exsurgentes, vários grupos começaram a experimentar com a cepa com a cooperação de cobaias voluntárias. É sabido que algumas hipercorps e autoridades de habitats também fizeram experimentos com essas cepas em vítimas involuntárias.</p>
+<p>Rotulada como a cepa Watts-MacLeod em homenagem aos pesquisadores que a isolaram, outros estudos fizeram descobertas sobre os efeitos que o vírus tinha em cérebros transumanos. Uma análise cuidadosa de indivíduos infectados descobriu que suas sinapses alteradas geravam uma padrão modulado de ondas cerebrais que é extremamente difícil de ser detectado. Essas ondas cerebrais assíncronas agora são geralmente chamadas de &quot;ondas psi&quot;, encaixando-se nas designações de letras gregas para as outras ondas cerebrais (alfa, beta, delta, gama, teta). Da mesma forma, indivíduos afetados são conhecidos como &quot;assincros&quot;.</p>
+<h3 id="análise-do-psi"><a class="header" href="#análise-do-psi">Análise do Psi</a></h3>
+<p>A exploração dos fatores causais explícitos por trás das ondas psi permanece empacada. A neuroimagem e mapeamento cerebral possibilitaram aos cientistas localizar as estruturas no cérebro, a atividade neural, e as perturbações no campo bioelétrico do cérebro que estão associadas com os processos psi, mas as tentativas de duplicar essas características em cérebros não infectados resultaram em fracassos ou coisas piores. Os pesquisadores propuseram várias teorias imaginativas: processos mentais com a capacidade de alterar estados quânticos, interações subconscientes com dimensões da realidade que nós não conseguimos perceber, módulos cerebrais com capacidades hipercomputacionais avançadas, ou até mesmo processos sinápticos distribuídos que manipulam algum substrato da realidade ainda não identificado. Pelo menos um argonauta postulou a ideia de que os assincros podem provar a Hipótese da Simulação, com suas habilidades funcionando como códigos de trapaça em um universo simulado. No entanto, evidências e explicações sólidas permanecem, frustrantemente, inconclusivas. Vários becos sem saída levaram cientistas a postularem que as mecânicas subjacentes ao psi são simplesmente estranhas e distantes demais da compreensão das ciências físicas pela transumanidade — talvez reforçando as teorias de que o vírus exsurgente seja de fato de origem alienígena. É claro que só podemos especular de acordo com as pesquisas conhecidas — é bem possível que alguns grupos tenham feito novos avanços, mas que estejam guardando as informações para si.</p>
+<p>Geralmente entende-se que o ínicio e o uso dos talentos psi ocorrem em um nível subconsciente, o que significa que o assincro não está ciente dos processos fundamentais que desencadeiam os efeitos. No entanto, a prática e o treino permitem que o assincro se concentre em ativar habilidades psi específicas. Esses são chamados &quot;truques&quot;: algoritmos mnemônicos ou cognitivos que permitem que o ego manifeste uma função psi específica. Alguns pesquisadores organizaram os truques em duas categorias. Os truques &quot;psi-chi&quot; são melhorias mentais e novas funções cognitivas. Eles impactam em grande parte as percepções, processos metabólicos, habilidades de processamento informacional e autocontrole do assincro. Uma vez que um assincro aprende a ativar essa capacidade, ele permanece sempre ativa, como um novo sentido ou função corporal. Alguns assincros só têm habilidades psi-qui. Uma segunda categoria de truques &quot;psi-gama&quot; envolve a capacidade de impactar as funções neurais biológicas nos outros. Embora o alcance desses truques seja limitado (com as taxas de sucesso caindo drasticamente após ~10 metros), as capacidades são mais diversas. Alguns truques específicos conseguem ler pensamentos, afetar memórias, infligir neuroretroalimentação danosa ou dor, modificar sentidos, e influenciar funções cognitivas e fisiológicas. Pesquisas indicam que assincro são capazes de detectar e influenciar outros assincros em distâncias mais longas. Os truques também se mostraram eficazes em animais, embora quanto mais baixo o nível de senciência, mais difícil é afetá-los. Assincros capazes de truques psi-qui e psi-gama mostraram a capacidade de, às vezes, &quot;forçar&quot; seus truques para terem efeitos maiores.</p>
+<h3 id="conhecimento-pÚblico"><a class="header" href="#conhecimento-pÚblico">CONHECIMENTO PÚBLICO</a></h3>
+<p>Embora incidentes com habilidades psíquicas sejam às vezes relatados na mídia comum, vivenciados em x-pagens transmitidas ao vivo, e sensacionalizados em vídeos e jogos populares, eles geralmente são tratados como o resultado de histeria, falta de compreensão tecnológica ou fakes descarados. Embora a maioria das autoridades esteja ciente da validade desses relatos, elas frequentemente se esforçam em esconder esses assuntos e manter tudo sob sigilo, para não desencadear uma pânico generalizado. Entre os autonomistas e outras comunidades abertas, o conhecimento do psi é mais difundido, mas os detalhes são vagos e os relatórios são recebidos com ceticismo.</p>
+<p>A porcentagem da população transumana que se acredita ter sido infectada pelo vírus Watts-MacLeod permanece estatisticamente insignificante — menos de 0,001% da população. Isso, no entanto, ainda pode indicar que há dezenas ou até centenas de milhares de assincros espalhados entre a transumanidade. Considerando a falta generalizada de informação ou aceitação de suas capacidades, muitos assincros podem nem mesmo saber que estão afetados, nunca tendo expressado suas habilidades ou compreendido o que eles são. Essa situação é agravada pelo fato que a cepa Watts-MacLeod permanece difícil de ser detectada, com poucos assincros (&lt;3%) sendo corretamente identificados (embora haja alguma evidência de que os infectados recentemente sejam mais propensos a serem detectados). As tentativas de identificar assincros através do escaneamento dos padrões de ondas cerebrais psi não se mostraram confiáveis. No entanto, os assincros têm um maior desvio padrão em termos de quão frequentemente seus padrões de ID por impressão cerebral são alterados e precisam ser atualizados. Um grande número dos assincros identificados foi recrutado por várias agências, &quot;desaparecido&quot; para estudo, ou simplesmente eliminado como uma ameaça potencial. Sabe-se que várias entidades, hipercorps e habitats analisam ID e dados médicos privados por sinais da infecção Watts-MacLeod.</p>
+</blockquote>
+<blockquote>
+<h2 id="perigos-ocultos"><a class="header" href="#perigos-ocultos">Perigos Ocultos</a></h2>
+<p><strong># Iniciar EyeChat #</strong><br> <strong># Membros Ativos: 7 #</strong></p>
+<p><strong>Roteador:</strong> Por que estamos sendo convocados para outro chat? Nós terminamos os resumos das ops na semana passada e nosso próximo registro está agendado para segunda-feira.</p>
+<p><strong>Filtro:</strong> Eu chamei esta sessão especial. Temos um problema com Jun-Seo que exige mais cuidado e discussão. E acho que é hora de revisitarmos nossa política sobre assincros.</p>
+<p><strong>Corvo:</strong> Ah, não essa merda de novo.</p>
+<p><strong>Filtro:</strong> Talvez você ache que a discussão de um risco de infecção dentro dos nossos próprios grupos não vale o nosso tempo. Que a gente não deveria ver problema em deixar nossos inimigos nos corromperem por dentro.</p>
+<p><strong>Corvo:</strong> Ah pqp, não tem risco de infecção. A gente já falou disso mil vezes. O vírus os alterou, só isso. Ele não os transformou. Eles não são infecciosos. Eles não são…</p>
+<p><strong>Filtro:</strong> Você não sabe…</p>
+<p><strong>Escaneador:</strong> Amigos! Espera um nanoseg. Antes da gente remexer esse vespeiro de novo, podemos lidar com a situação atual primeiro? Isso parece mais urgente, e aí a gente pode levar o Grande Debate Eterno dos Assincros para os canais secundários e tratá-lo no nosso precioso tempo livre.</p>
+<p><strong>Filtro:</strong> Justo. Nós temos um problema em Noctis-Qianjiao. A delegacia de NQ acabou de descobrir uma gambiarra com duas dúzias de cibercérebros conectados no meio de um monte de equipamentos de servidores mesh improvisados. Eles ainda não sabem o que pensar sobre isso, mas eles chamaram uns especialistas em TITAN e a Supervisão para ajudá-los a descobrir. Vocês vão querer dar uma olhada no local. <u>&lt;Arquivos Anexados&gt;</u></p>
+<p><strong>Registrador:</strong> Ah minha Ganesha. Esse é nosso esconderijo, não é?</p>
+<p><strong>Filtro:</strong> De fato. É o esconderijo terciário para a nossa equipe ativa em Noctis nos últimos seis meses. [Vetor2], diga a eles o que você me disse.</p>
+<p><strong>Vetor2:</strong> Certo. Ok, galera, eu vasculhei os logs de segurança do esconderijo (ou pelo menos os que nós tínhamos backup, os logs de hoje estão com os meganhas). A gente não mexeu nele desde que o preparamos e demos os códigos para os sentinelas. Eu não encontrei nenhum sinal de invasão ou violações de segurança. Mas há um monte de visitas logadas de um dos sentinelas, em vários horários aleatórios. Adivinha qual deles.</p>
+<p><strong>Roteador:</strong> Caramba.</p>
+<p><strong>Filtro:</strong> Enquanto o [Vetor2] e eu estamos fazendo o máximo possível para limpar isso, vamos precisar de uma ajuda. A polícia tem os logs também e logo vai estar procurando Jun-Seo. O disfarce da equipe inteira pode estar comprometido. E não temos certeza do que levou a polícia até o esconderijo — algo que precisamos investigar.</p>
+<p><strong>Vetor1:</strong> Vou checar.</p>
+<p><strong>Filtro:</strong> E, claro, há o problema do Jun-Seo. Precisamos neutralizá-lo e avisar a equipe.</p>
+<p><strong>Roteador:</strong> Jun-Seo não é uma ameaça. Já sabíamos que havia o potencial para isso. A equipe relatou que em várias ocasiões que o morfo de Jun-Seo estava ativo enquanto o próprio Jun-Seo estava &quot;fora&quot;. Dormindo.</p>
+<p><strong>Filtro:</strong> Você já sabia que o vírus estava tomando conta do corpo dele? E deixou essa ameaça junto com a equipe? Que tipo de merda a gente está fazendo aqui?</p>
+<p><strong>Roteador:</strong> Calma aí cara. A equipe estava ciente e sabia dos riscos. Eles tomavam precauções extras para monitorar o Jun. E esse tipo de sonambulismo é uma ocorrência conhecida mas rara com alguns assincros.</p>
+<p><strong>Filtro:</strong> Você está me zuando? Nós tínhamos uma exsurgente ativo na nossa equipe e você não se deu ao trabalho de contar para a gente?</p>
+<p><strong>Corvo:</strong> Eu sabia. Eu tenho ajudado o Jun-Seo a encontrar tratamento para o problema desde que identificamos pela primeira vez. Chamá-lo de exsurgente é um pouco extrem…</p>
+<p><strong>Filtro:</strong> Porra, o que é <em>extremo</em> é deixar uma entidade alienígena hostil tomar o controle de de nossos agentes, você não acha? O servidor inteiro pode estar em perigo.</p>
+<p><strong>Roteador:</strong> Os riscos são conhecidos e aceitos. A Firewall inteira teve esse debate, várias vezes. Ter assincros do nosso lado foi crítico para as missões em mais ocasiões do que podemos contar. Como qualquer tecnologia, isso nos ferra às vezes. Temos medidas em vigor para mitigar o problema.</p>
+<p><strong>Escaneador:</strong> Na verdade, eu compartilho das preocupações do [Filtro] e gostaria de mais detalhes sobre tudo isso. Temos 5 equipes ativas com assincros, então é relevante. Isso é tipo a Voz que eu já vi a Hex mencionando? Ou estamos falando de uma subversão completa do ego, tipo um exsurgente ou fantoche TITAN?</p>
+<p><strong>Corvo:</strong> A alteração de cada assincro é diferente. Alguns deles sentem uma presença ou falam com vozes na cabeça. Alguns alucinam. Muitos são dominados por desejos estranhos. Suas personalidades mudam às vezes, como oscilações de humor. Mas na maioria, esses efeitos são de baixo nível e gerenciáveis. Eles estão no controle. No entanto, há uma correlação entre o uso intenso de truques psi e efeitos mais significativos. Bioretroalimentação letal. Trauma emocional. Alguns assincros relataram que eles se autossabotam impulsivamente. Uma pequena amostragem relatou episódios de tempo perdido, acordando em locais diferentes de onde foram dormir ou com ferramentas em suas mãos. Isso pode ser parecido com o sonambulismo, ou pode ser algo mais. Nós ainda estamos investigando.</p>
+<p><strong>Filtro:</strong> Duas. Dúzias. De cibercérebros. Conectados. Em uma outra parte da cidade. Isso é um belo passeio sonambulo.</p>
+<p><strong>Roteador:</strong> Entenda, nós compartilhamos suas preocupações. Isso é obviamente anormal. Estamos trabalhando nisso. Mas é prematuro igualar todos os assincros com agentes exsurgentes adormecidos ou fantoches de mente hackeada. Não temos nenhuma razão para tratar Jun-Seo como um agente inimigo neste momento.</p>
+<p><strong>Filtro:</strong> Se suspeitarmos que algum membro dessa equipe tenha infecção exsurgente, esse coletivo inteiro estaria gritando para matá-lo queimado. Eu não sei se você ficou mole demais, se está iludido, ou se você também já está comprometido.</p>
+<p><strong>Vetor1:</strong> Ei, camarada[Filtro]. Você ainda está repassando algumas das suas ops de interpretação de eventos para aquela fábrica de trolls da Experia?</p>
+<p><strong>Filtro:</strong> O que uma coisa tem a ver com a outra?</p>
+<p><strong>Vetor1:</strong> Bem já que estamos jogando acusações sobre estarmos comprometidos, eu fiquei imaginando o quanto de informações você troca com eles por fora da fatura. A gente sabe que não tem chance dos Oaxaca-Maartens ficarem quietos com o tipo de negócio que a gente leva pra eles. Se eles sentem o cheiro de boas informações, eles vão atrás.</p>
+<p><strong>Filtro:</strong> Como se atreve, porra.</p>
+<p><strong>Escaneador:</strong> Amigos, amigos, vamos parar com isso. Não precisamos agarrar nas gargantas uns dos outros. Temos um problema sério para resolver.</p>
+<p><strong>Registrador:</strong> Tenho uma pergunta que pode impactar o assunto em questão.</p>
+<p><strong>Roteador:</strong> Sim?</p>
+<p><strong>Registrador:</strong> De quem eram os cibercérebros que o Jun-Seo reuniu?</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../14/02-watts-macleod-sub-strains.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../14/04-using-psi.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../14/02-watts-macleod-sub-strains.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../14/04-using-psi.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
