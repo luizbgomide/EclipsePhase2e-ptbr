@@ -73,4 +73,4 @@ Softwares (exceto consoles de contas) ainda podem ser atacados depois de serem t
 
 ## Reparo de Dano da Mesh
 
-Danos e ferimentos em apps não podem ser reparados; o app deve ser reinicializado para remover erros. Infomorfos, cibercérebros, consoles de contas e sistemas operacionais possuem configurações de redundância embutidas que corrigirão processos quebrados e erros ao longo do tempo. Estes softwares vão reparar 1d10 dano ou 1 ferimento por minuto; todo dano deve ser corrigido primeiro.
+Danos e ferimentos em apps não podem ser reparados; o app deve ser reinicializado para remover erros. Infomorfos, cibercérebros, consoles de contas e sistemas operacionais possuem configurações de redundância embutidas que corrigirão processos quebrados e erros ao longo do tempo. Estes softwares vão reparar 1d10 de dano ou 1 ferimento por minuto; todo dano deve ser corrigido primeiro.

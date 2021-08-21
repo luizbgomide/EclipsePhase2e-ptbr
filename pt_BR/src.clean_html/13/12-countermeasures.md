@@ -38,7 +38,7 @@ Os defensores do sistema têm privilégios de segurança, ou até de administrad
 
 ### Defesa Ativa
 
-Como uma ação complexa, um defensor do sistema pode assumir o controle das defesas do firewall de um sistema por um turno de ação. Enquanto estiver envolvido na defesa ativa, use a perícia Infoseg do defensor no lugar da graduação do Firewall para Testes de Hackeamento. O defensor pode usar paradas nesses testes. Apenas um defensor pode se engajar na defesa ativa por vez.
+Como uma ação complexa, um defensor do sistema pode assumir o controle das defesas do firewall de um sistema por um turno de ação. Enquanto estiver envolvido na defesa ativa, use a perícia Infoseg do defensor no lugar da graduação do Firewall em Testes de Hackeamento. O defensor pode usar paradas nesses testes. Apenas um defensor pode se engajar na defesa ativa por vez.
 
 ## Alertas de Segurança
 

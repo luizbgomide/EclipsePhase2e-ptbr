@@ -52,7 +52,7 @@ As brechas são entradas para um sistema que contornam a autenticação normal e
 
 A maioria das brechas são instaladas substituindo um app existente com uma cópia modificada para incorporar uma vulnerabilidade que permite acesso remoto instantâneo ao sistema. O truque está em fazer o aplicativo copiado parecer com o original não modificado, para que ele não seja detectado durante as auditorias de segurança.
 
-Para instalar uma brecha, você deve ter acesso ao sistema, fazer uma ação complexa e vencer um Teste de Hackeamento. Aplique um modificador −20 se você quiser que a brecha forneça privilégios de acesso de segurança, −30 para privilégios de administrador. Se você tiver sucesso, a brecha está instalada — você pode usá-la para acessar o sistema sem fazer um teste até que ela seja removida; você automaticamente adquire status infiltrado. Cada sucesso superior aplica um modificador −10 nas tentativas de descobrir a brecha posteriormente ([Auditorias de Segurança](../13/12-countermeasures.md#security-audits)). Com um sucesso crítico, a brecha fornece status oculto.
+Para instalar uma brecha, você deve ter acesso ao sistema, fazer uma ação complexa e vencer um Teste de Hackeamento. Aplique um modificador −20 se você quiser que a brecha forneça privilégios de acesso de segurança, −30 para privilégios de administrador. Se você tiver sucesso, a brecha está instalada — você pode usá-la para acessar o sistema sem fazer um teste até que ela seja removida; você automaticamente adquire status infiltrado. Cada sucesso maior aplica um modificador −10 nas tentativas de descobrir a brecha posteriormente ([Auditorias de Segurança](../13/12-countermeasures.md#security-audits)). Com um sucesso crítico, a brecha fornece status oculto.
 
 ## Instalar Restrição
 
