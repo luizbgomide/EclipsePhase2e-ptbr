@@ -42,7 +42,7 @@ The GM-provided Morph Points are an abstraction, representing backup insurance a
 
 If your PC has multiple morphs (such as flexbots or extras used for morphs, backups, or drones) and one dies, you only get an amount of MP for replacement equivalent to that one particular morph, less 1.
 
-Resources, rep favors, and negative traits can be used to boost theMP available for resleeving, as noted above.
+Resources, rep favors, and negative traits can be used to boost the MP available for resleeving, as noted above.
 
 ## Modifying Morphs
 
