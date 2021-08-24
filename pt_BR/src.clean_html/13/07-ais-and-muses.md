@@ -8,7 +8,7 @@ As inteligências limitadas artificiais são projetadas como "ajudantes" para di
 
 A maioria das ILAs são executadas em bots, veículos e outros dispositivos para auxiliar transumanos ou operar a máquina em si. Os exemplos de ILAs estão listados em [ILAs e Musas](../16/13-apps-and-alis.md#alis-and-muses).
 
-Na maioria das sociedades, as ILAs são consideradas coisas ou bens em vez de pessoas e não recebem direitos especiais. Elas também podem ser banidas de determinadas funções ou atividades. Algumas poucas entidades tratam-nas como pessoas com direitos e proteções civis limitados ou completos.
+Na maioria das sociedades, as ILAs são consideradas coisas ou bens em vez de pessoas e não recebem direitos especiais. Elas também podem ser banidas de determinadas funções ou atividades. Alguns poucos governos tratam-nas como pessoas com direitos e proteções civis limitados ou completos.
 
 ### Personalidade
 
