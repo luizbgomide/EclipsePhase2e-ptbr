@@ -81,7 +81,7 @@ Morphs can be made, but this requires one or more task action skill tests each w
 
 Sava has been hired to investigate a string of disappearances at a hypercorp's private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and opts to save their rep favors for now.
 
-Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Sava a +20 bonus.Rolling against a target number of 60, Sava gets an 83: no luck.The corp didn't need combat models on the station.
+Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Sava a +20 bonus. Rolling against a target number of 60, Sava gets an 83: no luck. The corp didn't need combat models on the station.
 
 Sava tries again for a ghost morph: same Availability, same bonus from the GM. They get a 17 this time: the morph is in stock.
 

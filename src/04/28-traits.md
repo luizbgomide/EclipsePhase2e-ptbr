@@ -711,7 +711,7 @@ Your brain’s operating system is vulnerable to exploits. Apply a −10 modifie
 
 **▼ Morph Trait • MP Bonus: 2/4**
 
-This trait is only available to biomorphs.The morph’s biochemistry suffers a severe allergic reaction (anaphylaxis) when it comes into contact (touched, inhaled, or ingested) with a specific allergen. At Level 1, the allergen may be uncommon (certain drugs, insect stings). At Level 2, it must be common (dust, dander, plant pollen, certain foods, nanoswarms, latex). Work with your GM to select an allergen that fits the game. If exposed to the allergen, you break into hives, have difficulty to breathing (−30 impairment modifier while exposed plus 10 minutes afterward), and must make a SOM Check or go into anaphylactic shock (incapacitation, will die of respiratory failure in 2d10 minutes unless medical care in the form of a successful Medicine: Paramedic Test is applied).
+This trait is only available to biomorphs. The morph’s biochemistry suffers a severe allergic reaction (anaphylaxis) when it comes into contact (touched, inhaled, or ingested) with a specific allergen. At Level 1, the allergen may be uncommon (certain drugs, insect stings). At Level 2, it must be common (dust, dander, plant pollen, certain foods, nanoswarms, latex). Work with your GM to select an allergen that fits the game. If exposed to the allergen, you break into hives, have difficulty to breathing (−30 impairment modifier while exposed plus 10 minutes afterward), and must make a SOM Check or go into anaphylactic shock (incapacitation, will die of respiratory failure in 2d10 minutes unless medical care in the form of a successful Medicine: Paramedic Test is applied).
 
 ### Skill Glitch
 
