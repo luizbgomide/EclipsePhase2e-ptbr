@@ -253,7 +253,7 @@ Você instila o alvo determinação e empoderamento renovados. Ele recebe +1 na 
 
 **Ação:** Complexa • **Duração:** Minutos • **Mod de Infecção:** 6
 
-Você interrompe temporariamente a capacidade do alvo de formar memórias de longo prazo. O alvo manterá memórias de curto prazo durante a duração (VON ÷ 5 minutos), mas logo (após 1d6 + 4 turnos de ação) esquecerá qualquer coisa que tenha ocorrido enquanto este truque estava em vigor.
+Você interrompe temporariamente a capacidade do alvo de formar memórias de longo prazo. O alvo retém memórias de curto prazo durante a duração (VON ÷ 5 minutos), mas logo (após 1d6 + 4 turnos de ação) esquece qualquer coisa que ocorre enquanto este truque está em vigor.
 
 ### Varredura Profunda
 
