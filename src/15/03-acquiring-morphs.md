@@ -52,13 +52,12 @@ The timeframe for morph modding is the same for acquiring gear: 2 hours for Mino
 
 <blockquote class="table">
 
-### Making a Morph
+### Modifying a Morph
 
-| Morph Type | Skills                       | Gear Needed                                   | Timeframe       |
-| :--------- | :--------------------------- | :-------------------------------------------- | :-------------- |
-| Synthmorph | Hardware: Robotics + Program | Medium Fabber                                 | (MP + 1) weeks  |
-| Pod        | Medicine: Biotech + Program  | Specialized Fabber, Tools Shop or Healing Vat | (MP + 1) months |
-| Biomorph   | Medicine: Biotech            | Exowomb                                       | (MP + 6) months |
+| Morph Type                | Skill              | Gear Needed               |
+| :------------------------ | :----------------- | :------------------------ |
+| Biomorph (including pods) | Medicine: Biotech  | Tools Shop or Healing Vat |
+| Synthmorph                | Hardware: Robotics | Tools Shop                |
 
 </blockquote>
 
@@ -89,16 +88,5 @@ Sava tries again for a ghost morph: same Availability, same bonus from the GM. T
 Sava wants neurachem with this morph, which is Major complexity ware — an extra cost of 3&nbsp;MP. Sava only has 2&nbsp;MP to spare (the original 8&nbsp;MP minus the morph's cost of 6&nbsp;MP), so they opt to take a Negative trait with an MP Bonus of 1. The GM has an idea for this, and gives the ghost morph the Memory Artifact trait.
 
 A week later, Sava is killed in a trap. The hypercorp's security team recovers their stack and resleeves them, but this time the GM only gives Sava 7&nbsp;MP to work with. Sava really wants that neurachem again, so they are prepared to spend a rep favor this time to boost their MP. First, however, Sava rolls again to see if a fury morph is available this time. The target number is the same (60), and they roll a 29! It looks like the hypercorp noted Sava's earlier request and got a fury morph to the station in anticipation of this need. Sava needs 9&nbsp;MP total, so they take the 7&nbsp;MP they have and spend a Moderate i-rep favor to get 2 more. Sava tells Firewall they believe there are exsurgents on the station, and the group pulls some strings to get them what they need.
-
-</blockquote>
-
-<blockquote class="table">
-
-### Modifying a Morph
-
-| Morph Type                | Skill              | Gear Needed               |
-| :------------------------ | :----------------- | :------------------------ |
-| Biomorph (including pods) | Medicine: Biotech  | Tools Shop or Healing Vat |
-| Synthmorph                | Hardware: Robotics | Tools Shop                |
 
 </blockquote>
