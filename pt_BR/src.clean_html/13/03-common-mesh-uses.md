@@ -22,11 +22,11 @@ Já que a realidade pode ser sobreposta com entópticos hiper-reais, você pode 
 
 ## Backup, Foqueamento, Egoprojeção
 
-A maioria das pessoas faz backups e cria forques em bancos de corpos confiáveis. A santidade dos egos é muito valorizada, então a segurança da mesh tende a ser de primeira linha. Até mesmo os bancos de corpos e furtiprojetores do mercado negro tem reputações a zelar. Se você tem um cibercérebro ou acesso a uma ponte ego, você pode fazer backups e forques a qualquer momento, mas depende da sua própria segurança. Backups/forques/egos inativos são simplesmente grandes arquivos que podem ser armazenados em qualquer dispositivo. No entanto, infomorfos ativados só podem ser executados em terminais ou servidores ([Infomorfos](../13/08-infomorphs.md)).
+A maioria das pessoas faz backups e cria forques em bancos de corpos confiáveis. A santidade dos egos é muito valorizada, então a segurança da mesh tende a ser de primeira linha. Até mesmo os bancos de corpos e furtiprojetores do mercado negro tem reputações a zelar. Se você tem um cibercérebro ou acesso a uma ponte de ego, você pode fazer backups e forques a qualquer momento, mas depende da sua própria segurança. Backups/forques/egos inativos são simplesmente grandes arquivos que podem ser armazenados em qualquer dispositivo. No entanto, infomorfos ativados só podem ser executados em terminais ou servidores ([Infomorfos](../13/08-infomorphs.md)).
 
 ## Transações Bancárias
 
-A moeda física é uma coisa do passado. As entidades que ainda usam dinheiro implementam vários tipos de criptomoedas baseadas em blockchain. As transações são eletrônicas, fortemente criptografadas e arquivadas em um registro público. Isso significa que pagamentos e transferências estão vinculados a uma mesh ID e podem ser rastreados, mas muitos usam contas ou intermediações anônimas para esconder seus rastros. As moedas eletrônicas são armazenadas em uma carteira criptografada no seu dispositivo pessoal ou confiadas à segurança de um serviço online.
+A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro implementam vários tipos de criptomoedas baseadas em blockchain. As transações são eletrônicas, fortemente criptografadas e arquivadas em um registro público. Isso significa que pagamentos e transferências estão vinculados a uma mesh ID e podem ser rastreados, mas muitos usam contas ou intermediações anônimas para esconder seus rastros. As moedas eletrônicas são armazenadas em uma carteira criptografada no seu dispositivo pessoal ou confiadas à segurança de um serviço online.
 
 ## Comunicações
 
@@ -66,7 +66,7 @@ Ferramentas de colaboração online, redes remotas e assistentes de ILA signific
 
 ## Psicocirurgia
 
-Por razões de segurança, os psicocirugiões preferem trabalhar em forques que depois são mesclados com o ego alfa. A maioria das psicocirugias é feita presencialmente em clínicas dedicadas. Para fins de privacidade e segurança, os psicocirurgiões mantêm os infomorfos de seus clientes em servidores desconectados com pontes ego cabeadas. Algumas clínicas virtuais oferecem serviços em redes privadas altamente seguras.
+Por razões de segurança, os psicocirugiões preferem trabalhar em forques que depois são mesclados com o ego alfa. A maioria das psicocirugias é feita presencialmente em clínicas dedicadas. Para fins de privacidade e segurança, os psicocirurgiões mantêm os infomorfos de seus clientes em servidores desconectados com pontes de ego cabeadas. Algumas clínicas virtuais oferecem serviços em redes privadas altamente seguras.
 
 ## Pesquisa
 
