@@ -22,7 +22,7 @@ Some people prefer to use forks of themselves or loved ones rather than a muse. 
 
 The process for making a fork varies according to the type:
 
-New forks must make Integration and [Resleeving Stress Tests](../15/02-resleeving.md#resleeving-stress-test) when they are created, though GMs should waive this for forks that are inconsequential to the story or plot.
+New forks must make [Integration and Resleeving Stress Tests](../15/02-resleeving.md#resleeving-tests) when they are created, though GMs should waive this for forks that are inconsequential to the story or plot.
 
 Forks are instanced as [digimorphs](../04/26-infomorphs.md#digimorph), unless another type of infomorph is available. They can also be sleeved into physical morphs.
 
