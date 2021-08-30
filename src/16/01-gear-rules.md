@@ -12,10 +12,10 @@ The procedures of minifacturing and nanofabrication allow individual items to be
 
 Each gear item in Eclipse Phase lists a complexity rating:
 
-- Minor \[Min\]: Common, simple items that are accessible and easy to nanofabricate. Most are readily available online or at physical stores/community dispensaries.
-- Moderate \[Mod\]: Less common items that take effort to track down and more intricate items that require longer to nanofabricate.
-- Major \[Maj\]: Uncommon, expensive, and hard-to-find items or complex gear that takes substantial time to manufacture.
-- Rare \[Rare\]: Unique, unusual, or highly valuable items may not be available or may require an extra expenditure of Rep/Resources or the acquisition of certain unusual feedstock for nanofab purposes.
+- **Minor \[Min\]:** Common, simple items that are accessible and easy to nanofabricate. Most are readily available online or at physical stores/community dispensaries.
+- **Moderate \[Mod\]:** Less common items that take effort to track down and more intricate items that require longer to nanofabricate.
+- **Major \[Maj\]:** Uncommon, expensive, and hard-to-find items or complex gear that takes substantial time to manufacture.
+- **Rare \[Rare\]:** Unique, unusual, or highly valuable items may not be available or may require an extra expenditure of Rep/Resources or the acquisition of certain unusual feedstock for nanofab purposes.
 
 Each gear item uses the same complexity rating, whether it is purchased, acquired from contacts, or nanofabricated. GMs can alter the complexity depending on the source if they choose.
 
