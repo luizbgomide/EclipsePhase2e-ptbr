@@ -76,9 +76,9 @@ When using rep or Resources to acquire gear, you choose between a physical item 
 
 When acquiring software or similar digital-only goods, the 1-minute timeframe also applies.
 
-### Multiple Gear
+### Multiple Gear Items at Once
 
-Items at Once If PCs seek to get their hands on multiple items at once, simply combine the timeframes. If using rep for multiple items, make a single Rep Test (modified as per the highest level favor) but mark off all of the favors used. Note that if you are nanofabricating multiple items and have access to multiple fabbers, you can reduce the timeframe accordingly.
+If PCs seek to get their hands on multiple items at once, simply combine the timeframes. If using rep for multiple items, make a single Rep Test (modified as per the highest level favor) but mark off all of the favors used. Note that if you are nanofabricating multiple items and have access to multiple fabbers, you can reduce the timeframe accordingly.
 
 ### Impeding Factors
 
