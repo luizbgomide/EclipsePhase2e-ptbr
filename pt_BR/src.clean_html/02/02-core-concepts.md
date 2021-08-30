@@ -34,7 +34,7 @@ Os morfos são temporários; sua mente é o que define quem você é. Seu _ego_ 
 
 Várias cópias do seu ego (chamados _forques_) podem operar de forma simultânea e independente, cada forque é efetivamente sua própria pessoa. Os forques podem ser transferidos eletronicamente através do Sistema Solar à velocidade da luz; fazendo upload em uma instalação de Marte para ser reencapado em Ceres e estar de volta antes do jantar. Os forques também podem ser armazenados passivamente para uso posterior, trazidos online apenas se certos critérios forem atendidos.
 
-Você também tem a oportunidade de manipular diretamente o seu ego. Com _psicocirurgia_, você pode alterar seus traços comportamentais, remover memórias para amenizar traumas anteriores, adequar forques para cumprir funções especializadas, e mesclar forques de volta à sua persona primária.
+Você também tem a oportunidade de manipular diretamente o seu ego. Com _psicocirurgia_, você pode alterar seus traços comportamentais, remover memórias para amenizar traumas anteriores, desbastar forques para cumprir funções especializadas, e mesclar forques de volta à sua persona primária.
 
 ## A Mesh
 
