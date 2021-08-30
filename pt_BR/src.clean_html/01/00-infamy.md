@@ -208,7 +208,7 @@ O seu sorriso já tinha as presas. “Ei, maninha. Há quanto tempo.”
 
 “Como chego a casa?”
 
-“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocozedor todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não esta porcaria de impressora úmida.”
+“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocozedor todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não esta porcaria de impressora líquida.”
 
 “Esta não é a minha casa, Taernen. Este não é o meu corpo. Nem sequer estou convencida de que eu ainda sou _eu_. Num segundo, estou cagando de medo com a sua aberração do globo ocular. No seguinte, estou aqui, a meio bilhão de quilômetros da Terra…”
 
@@ -268,7 +268,7 @@ O polvo olhou para cima contorcendo os braços com frustração. “Já viu um d
 
 “Eu conheço um colecionador em Ceres, sempre ansioso para comprar modelos vintage pré-Queda, mas não consigo fazer essa coisa funcionar. Você acha que pode dar uma olhadinha? Ah, me chamo Pivo”, disse o neo-polvo, enrolando um dos seus braços na mão de Tierslay. Ela se surpreendeu por não ter se afastado.
 
-Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo lhe deu um grato, elevando a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
+Tierslay trabalhou no bot cerca de uma hora para deixar ele rodando como novo. Foi um alívio mergulhar no código, um território familiar em meio a um mar de incerteza. Impressionado, Pivo lhe deu um toque, elevando a reputação dela. O polvo assobiou pelo sifão enquanto via sua rep baixa, seu histórico vazio.
 
 Ela respondeu ao olhar questionador, “Estou aqui faz pouco tempo.” _Que eufemismo ridículo._
 
@@ -404,7 +404,7 @@ Elis respondeu com um sorriso conspiratório e um aceno enquanto Bixbee voava so
 
 Ukku estava na pista de dança da _Danger Noodle_ por quatro horas direto, cotovelos pontudos chacoalhando, pernas quase desabando, forçando os outros a desviarem. Claramente, Ukku estava chapado além da conta, rolando no último narco de Tierslay, junto com a maioria do clube. Tierslay, Elis, Pivo e Berk assistiam o sinte do bar, Bixbee do seu poleiro habitual acima da cabine do DJ, esperando Tierslay começar a pegadinha.
 
-Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da brecha no narco de Ukku. Antes, quando Monte mostrou para ela a imagem da darknet que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
+Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da brecha no narco de Ukku. Antes, quando Monte mostrou para ela a imagem macabra que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
 
 “Hum, isso foi desapontador.” Elis deu um tapinha no braço de Tierslay. “O _idiota_ é mesmo tapado. O negócio é voltar a beber até o turista parar de poluir nossa preciosa pista de dança.”
 
@@ -522,7 +522,7 @@ Tierslay respirou fundo. Seu coração estava acelerado. “Precisa de mim pra q
 
 “Você conhece a minha regra.”
 
-“Foda-se a tua regra!” Taernen cuspiu as palavras como se fossem veneno, mas voltou à sua calma calculada logo em seguida. Ele encolheu os ombros. “As pessoas se machucam. Vidas são perdidas. E daí? Os babacas teriam feito o mesmo comigo. Eles ainda estão atrás de mim e não vão desistir até eu despachar isso e sumir na alta classe. Este é o bilhete de saída. Não vou te pedir mais nada, mana, te prometo. Você vai fazer isso pra mim. Entendeu?”
+“Foda-se a tua regra!” Taernen cuspiu as palavras como se fossem veneno, mas voltou à sua calma calculada logo em seguida. Ele encolheu os ombros. “As pessoas se machucam. Vidas são perdidas. E daí? Os babacas teriam feito o mesmo comigo. Eles ainda estão atrás de mim e não vão desistir até eu repassar isso e sumir na alta classe. Este é o bilhete de saída. Não vou te pedir mais nada, mana, te prometo. Você vai fazer isso pra mim. Entendeu?”
 
 Ela se forçou a olhar nos olhos dele. “Ok, Taernen. Mas é isto. A última vez. Depois disto, acabamos. Estamos quites.”
 

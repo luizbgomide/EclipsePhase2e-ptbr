@@ -130,7 +130,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | [Gravador de Missão](../16/16-comms-and-mesh-gear.md#communications)  |                 Men/1                 | Grava todos os dados da missão.                                                                    |
 | [Tenda Pressurizada](../16/18-mission-gear.md#survival-tools)         |                 Mod/2                 | Abrigo automontante para 4, respirador embutido.                                                   |
 | [Disco](../16/21-robots.md#reconsurveillance-bots)                    |                 Men/1                 | Drone de reconhecimento em forma de disco giratório. Tamanho pequeno.                              |
-| [Míssil Batedor](../16/18-mission-gear.md#exploration-tools)          |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60.              |
+| [Míssil Mapeador](../16/18-mission-gear.md#exploration-tools)         |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60.              |
 
 ### Malandro
 
@@ -178,7 +178,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | [Klar (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs)    |                 Men/1                 | +10 em Percepção, sem modificadores por distração.                                        |
 | [Microescuta](../16/17-espionage-and-security-tech.md)                      |                 Men/1                 | Microgravador de audio/vídeo.                                                             |
 | [Oráculos](../16/06-sensory-augmentations.md)                               |                 Mod/2                 | Nega modificadores por distração.                                                         |
-| [Nanoenxame Batedor](../16/20-nanoswarms-and-microswarms.md#swarms)         |                 Men/1                 | Mapeia área, coleta evidências forenses, Saber: Química 60, Medicina: Ciência Forense 60. |
+| [Nanoenxame Mapeador](../16/20-nanoswarms-and-microswarms.md#swarms)        |                 Men/1                 | Mapeia área, coleta evidências forenses, Saber: Química 60, Medicina: Ciência Forense 60. |
 | [Pontinho](../16/21-robots.md#reconsurveillance-bots)                       |                 Men/1                 | Bots espiões insectoides. Tamanho muito pequeno.                                          |
 | [Nanoenxame Espião](../16/20-nanoswarms-and-microswarms.md#swarms)          |                 Men/1                 | Vigilância, Percepção 60.                                                                 |
 
@@ -198,7 +198,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 |:------------------------------------------------------------------------ |:-------------------------------------:|:---------------------------------------------------------- |
 | [Comfurt (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
 | [Enguiônicos](../12/02-melee-combat.md#melee-ware)                       |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
-| [Ponte Ego](../16/19-nanotech.md)                                        |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
+| [Ponte de Ego](../16/19-nanotech.md)                                     |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | [Multitarefa](../16/08-mental-augmentations.md)                          |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | [Servidor Privado](../16/04-services.md#mesh-services)                   |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
 | [App de Psicocirurgia](../16/13-apps-and-alis.md#apps)                   |                 Mod/2                 | Edita mentes.                                              |
@@ -210,7 +210,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e a matriz dig
 | [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications)               |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                                       |
 | [Machado Diamantado](../12/02-melee-combat.md#melee-weapons)                        |                 Men/1                 | VD 2d10 + 3, Duas Mãos, Extensão, Perfura-Armadura.                                                        |
 | [Ferramentas de Desmontagem](../16/18-mission-gear.md#salvage-tools)                |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                                  |
-| [Enxame Guardião](../16/20-nanoswarms-and-microswarms.md#swarms)                    |                 Mod/2                 | Desativa outros enxames; ambos os enxames recebem VD 5 por turno.                                          |
+| [Enxame Guardião](../16/20-nanoswarms-and-microswarms.md#swarms)                    |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 5 por turno.                                           |
 | [Nanodetector](../16/19-nanotech.md)                                                |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobot 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
 | [Orbital Hash (5 doses)](../16/15-chemicals-drugs-and-toxins.md#recreational-drugs) |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.                            |
 | [Mula-Robô](../16/21-robots.md#utility-bots)                                        |                 Mod/2                 | Bot para carga de equipamento.                                                                             |

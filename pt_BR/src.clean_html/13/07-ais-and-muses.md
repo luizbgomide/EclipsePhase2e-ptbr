@@ -8,7 +8,7 @@ As inteligências limitadas artificiais são projetadas como "ajudantes" para di
 
 A maioria das ILAs são executadas em bots, veículos e outros dispositivos para auxiliar transumanos ou operar a máquina em si. Os exemplos de ILAs estão listados em [ILAs e Musas](../16/13-apps-and-alis.md#alis-and-muses).
 
-Na maioria das sociedades, as ILAs são consideradas coisas ou bens em vez de pessoas e não recebem direitos especiais. Elas também podem ser banidas de determinadas funções ou atividades. Algumas poucas entidades tratam-nas como pessoas com direitos e proteções civis limitados ou completos.
+Na maioria das sociedades, as ILAs são consideradas coisas ou bens em vez de pessoas e não recebem direitos especiais. Elas também podem ser banidas de determinadas funções ou atividades. Alguns poucos governos tratam-nas como pessoas com direitos e proteções civis limitados ou completos.
 
 ### Personalidade
 
@@ -72,7 +72,7 @@ Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 - Teleoperar e comandar robôs e ILAs.
 - Iniciar contramedidas contra invasores.
 - Monitorar seus níveis de rep e alertar você sobre alterações drásticas.
-- Dar automaticamente gratos e xingos na rep de outras pessoas por você.
+- Dar automaticamente toques e baques na rep de outras pessoas por você.
 - Passar o áudio por um serviço de tradução de idiomas online em tempo real.
 - Colocar você em modo privativo e proativamente camuflar seu sinal sem fio.
 - Rastrear pessoas por você.

@@ -73,7 +73,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
 - **Furtiprojeção:** Um serviço de longiprojeção e egoprojeção do mercado negro.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
-- **Desligamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
+- **Sepultamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
 - **Dispositivo:** Um aparelho específico.
 - **Digimorfo:** O tipo padrão mais básico de infomorfo.
@@ -84,7 +84,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Planeta Anão:** Entre asteroides e planetas, os anões são arredondados pela gravidade, mas não limparam suas órbitas de asteroides/detritos.
 - **Ecto:** Um dispositivo móvel para acessar a mesh e RA.
 - **Ego:** A parte de você que muda de corpo para corpo.
-- **Ponte Ego:** Um dispositivo para escanear e copiar um cérebro biológico para backup, reencape ou psicocirurgia.
+- **Ponte de Ego:** Um dispositivo para escanear e copiar um cérebro biológico para backup, reencape ou psicocirurgia.
 - **Ego ID:** O código de identificação vinculado ao seu ego, impresso nos uploads.
 - **Caçador de Ego:** Um caçador de recompensas que rastreia egos reencapados.
 - **Egoprojeção:** Termo para a transmissão de um ego para um local remoto.
@@ -171,7 +171,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ponto de Lagrange:** Uma das cinco áreas relacionadas a um pequeno corpo planetário orbitando um corpo maior, na qual as forças gravitacionais desses dois corpos são neutralizadas. Os pontos de Lagrange são locais estáveis e ideais para habitats.
 - **LEO:** Órbita terrestre baixa (_Low Earth Orbit_), 150-2.000&nbsp;km de altitude.
 - **Lifelog:** Uma gravação do sensório de toda experiência de vida de alguém.
-- **ALL:** A Aliança Lunar-Lagrange, o regime conservador de habitats na Lua e na órbita da Terra.
+- **ALL:** A Aliança Lunar-Lagrange, o governo conservador dos habitats na Lua e na órbita da Terra.
 - **Geração Perdida:** Um grupo de crianças criadas utilizando morfos de crescimento forçado e RV de tempo contraído. Os resultados foram desastrosos: muitos morreram ou ficaram loucos, e os demais foram estigmatizados.
 - **Cinturão Principal:** Um anel de asteroides orbitando entre Marte e Júpiter.
 - **Feitores:** Uma facção de nômades anarquistas barsoomianos ligada em tecnologia.

@@ -48,7 +48,7 @@ Como um ser digital, você também pode se copiar. Isso leva um turno de ação 
 
 Infomorfos adquiridos de estúdios de código comerciais (ou seja, a maioria dos agentes, ikons e operadores) possuem restrições digitais embutidas que impedem que você rode mais de uma cópia desse morfo por vez. Em vez disso, a cópia é instanciada em um digimorfo padrão. Esta restrição de cópia pode ser crackeada da mesma maneira que as matrizes digitais ([Crackeando Matrizes](../16/03-nanofabrication.md#cracking-blueprints)). Casas de código oferecem recompensas por relatos de pessoas usando códigos crackeados de infomorfo.
 
-Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Algumas entidades exigem que infomorfos sejam codificados com [meshware](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legamente exigido.
+Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshware](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legamente exigido.
 
 ## Exclusão
 

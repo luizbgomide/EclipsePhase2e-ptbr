@@ -37,7 +37,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 
 Cada tipo de armadura tem um Valor de Armadura (VA) com duas graduações — energética e cinética — representando a proteção que ela oferece contra o tipo respectivo de ataque. Essas estão listadas no formato de "armadura energética/armadura cinética". Por exemplo, um item com armadura listada de "5/10" fornece 5 pontos de armadura contra ataques energéticos e 10 pontos de armadura contra ataques cinéticos.
 
-_Armadura energética_ protege contra armas de feixe (laser, microondas, feixes de partículas, etc.), plasma, fogo, e explosivos de alta energia. Uma armadura que protege contra estes danos é feita de materiais que refletem ou dispersam tais energias, dissipam e transferem o calor, ou sofrem ablação.
+_Armadura energética_ protege contra armas de feixe (laser, micro-ondas, feixes de partículas, etc.), plasma, fogo, e explosivos de alta energia. Uma armadura que protege contra estes danos é feita de materiais que refletem ou dispersam tais energias, dissipam e transferem o calor, ou sofrem ablação.
 
 _Armadura cinética_ protege contra a transferência danosa de energia quando um objeto em movimento (um punho, faca, bastão ou bala, por exemplo) impacta com outro objeto (o alvo). A maioria dos ataques de luta e armas de fogo infligem danos cinéticos, assim como uma rocha rolando, um pêndulo balançando ou fragmentos lançados por explosões. Armaduras cinéticas incluem placas resistentes ao impacto, líquidos e géis dilatantes que endurecem com o impacto, e fibras balísticas e à prova de corte.
 
