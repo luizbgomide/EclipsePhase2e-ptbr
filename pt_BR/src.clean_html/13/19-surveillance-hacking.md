@@ -20,7 +20,7 @@ Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidad
 
 ## Bloqueando Sinais Ativamente
 
-Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via microondas não são afetados (embora ligações via microondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
+Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via micro-ondas não são afetados (embora ligações via micro-ondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
 
 De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) podem ser usados para cegar câmeras temporariamente.
 
