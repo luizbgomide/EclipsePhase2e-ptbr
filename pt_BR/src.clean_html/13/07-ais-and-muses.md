@@ -72,7 +72,7 @@ Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 - Teleoperar e comandar robôs e ILAs.
 - Iniciar contramedidas contra invasores.
 - Monitorar seus níveis de rep e alertar você sobre alterações drásticas.
-- Dar automaticamente gratos e xingos na rep de outras pessoas por você.
+- Dar automaticamente toques e baques na rep de outras pessoas por você.
 - Passar o áudio por um serviço de tradução de idiomas online em tempo real.
 - Colocar você em modo privativo e proativamente camuflar seu sinal sem fio.
 - Rastrear pessoas por você.
