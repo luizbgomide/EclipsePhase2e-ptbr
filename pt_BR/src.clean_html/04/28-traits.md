@@ -280,7 +280,7 @@ Você é firme e inabalável. Receba +5 por nível em Provas de VON.
 
 **Traço de ▲ Ego • Custo de PP: 2/4/6/8**
 
-Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e entidades jovianas e extropianas. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço quando [adquirir morfos](../15/03-acquiring-morphs.md) e [equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
+Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e governos jovianos e extropianos. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço quando [adquirir morfos](../15/03-acquiring-morphs.md) e [equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
 
 No Nível 1, você pode gastar até 2&nbsp;PE por semana em itens de complexidade de Menor, dado o prazo adequado.
 
@@ -711,7 +711,7 @@ O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abus
 
 **Traço de ▼ Morfo • Bônus de PM: 2/4**
 
-Esse traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilitação −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Prova de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que receba cuidados médicos na forma de um Teste de Medicina: Paramedicina bem-sucedido).
+Este traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se for exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilitação −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Prova de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que receba cuidados médicos na forma de um Teste de Medicina: Paramedicina bem-sucedido).
 
 ### Defeito Pericial
 
