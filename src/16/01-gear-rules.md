@@ -21,7 +21,7 @@ Each gear item uses the same complexity rating, whether it is purchased, acquire
 
 Additionally, some gear items are classified as Restricted.
 
-- Restricted \[R\]: Restricted gear is illegal in many inner system/transitional economy habitats and possibly disfavored by the local community in outer system habs. To acquire this gear, you need to find a way to circumvent various legality and supply issues.
+- **Restricted \[R\]:** Restricted gear is illegal in many inner system/transitional economy habitats and possibly disfavored by the local community in outer system habs. To acquire this gear, you need to find a way to circumvent various legality and supply issues.
 
 ## Gear Modifiers
 
