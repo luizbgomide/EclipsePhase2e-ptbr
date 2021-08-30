@@ -10,7 +10,7 @@ Fora os cientistas excêntricos que mantêm cérebros em tanques, quase todos os
 
 Indiscutivelmente a peça mais importante de tecnologia já inventada pela transumanidade, os implantes de pilha cortical, previsivelmente, não recebem o devido valor. Fisicamente, as pilhas corticais são módulos de memória de nanodiamante com o tamanho de uma bituca de cigarro. Elas são difíceis de destruir, projetadas para serem recuperadas até mesmo do cadáver mais destroçado ou sinte mais detonado. Na maioria dos morfos, elas são implantadas perto do tronco cerebral, na região da nuca. Para torná-las mais fáceis de localizar, nos sintemorfos com cabeças elas ficam lá também.
 
-Uma pilha cortical está ligada a uma rede de laços neurais de nanobots por todo o cérebro (biomorfos) ou ao cibercérebro (prods e sintemorfos). Ela faz backup do seu ego a cada segundo, ou 86.400 vezes por dia da Terra. Baseado na quantidade de dados de um cérebro transumano, isso não é coisa fácil. Adicione bilhões de conexões entre neurônios, e isso é ainda mais impressionante. Quase todos no Sistema Solar têm uma, com exceção de crianças muito jovens e crus que vivem em governos bioconservadores.
+Uma pilha cortical está ligada a uma rede de laço neural de nanobots por todo o cérebro (biomorfos) ou ao cibercérebro (prods e sintemorfos). Ela faz backup do seu ego a cada segundo, ou 86.400 vezes por dia da Terra. Baseado na quantidade de dados de um cérebro transumano, isso não é coisa fácil. Adicione bilhões de conexões entre neurônios, e isso é ainda mais impressionante. Quase todos no Sistema Solar têm uma, com exceção de crianças muito jovens e crus que vivem em governos bioconservadores.
 
 Além de conter um backup do seu ego, sua pilha cortical faz backup de tudo dos seus insertos da mesh: sua musa, lifelog, qualquer software ou matriz que você possuir, e todos os outros dados que você tenha. Isso ocupa um espaço minúsculo em comparação ao próprio ego.
 
@@ -32,12 +32,12 @@ Uploads podem ser uma _transferência_ ou um _forque_. Uma transferência elimin
 
 ### Velocidades de Upload
 
-| Tipo de Upload                                          |      Tempo      |
-|:------------------------------------------------------- |:---------------:|
-| Transferência de ego de um cérebro biológico            |   1 hora\*    |
-| Forque de ego dos laços neurais de um cérebro biológico | 1 turno de ação |
-| Transferência/forque de um cibercérebro                 | 1 turno de ação |
-| Forque de uma pilha cortical extraída                   | 1 turno de ação |
+| Tipo de Upload                                       |      Tempo      |
+|:---------------------------------------------------- |:---------------:|
+| Transferência de ego de um cérebro biológico         |   1 hora\*    |
+| Forque de ego do laço neural de um cérebro biológico | 1 turno de ação |
+| Transferência/forque de um cibercérebro              | 1 turno de ação |
+| Forque de uma pilha cortical extraída                | 1 turno de ação |
 
 \* Potencialmente mais se for longiprojeção, dado o atraso da distância.
 
@@ -47,7 +47,7 @@ Uploads podem ser uma _transferência_ ou um _forque_. Uma transferência elimin
 
 Como o upload é feito depende da mídia e da intenção. Se o ego está sendo transferido de um cérebro biológico, o processo requer um dispositivo do tamanho de um pequeno forno chamado ponte de ego. Em uso, a matriz de sensores da ponte de ego se abre desenrolando como uma flor, revelando um gabinete com um apoio de pescoço. O apoio de pescoço aplica milhões de nanobots no cérebro e no sistema nervoso central. As pétalas são repletas de sensores que mapeiam o cérebro, dependendo em parte dos dados dos nanobots obtidos enquanto vasculham as células e conexões. Durante o reencape, os nanobots agem como pequenas impressoras líquidas no morfo de destino, conectando células nervosas e ajustando níveis químicos para replicar os dados da rede neural do original. O ego permanece acordado durante o procedimento, permitindo uma transição lenta e tranquila da consciência do morfo antigo para o novo. Quando a transferência é concluída, os nanobots cortam as conexões da rede neural do morfo original, efetivamente "zerando" o cérebro para o próximo ocupante.
 
-Se o ego está sendo forqueado de um cérebro biológico, o ego é simplesmente copiado da rede de laços neurais da pilha cortical. Da mesma forma, um ego transferido ou forqueado de um cibercérebro ou infomorfo é um simples upload. Pilhas corticais recuperadas funcionam da mesma forma. Esses egos copiados podem ser salvos como backups inativos ou instanciados e executados como infomorfos.
+Se o ego está sendo forqueado de um cérebro biológico, o ego é simplesmente copiado da rede de laço neural da pilha cortical. Da mesma forma, um ego transferido ou forqueado de um cibercérebro ou infomorfo é um simples upload. Pilhas corticais recuperadas funcionam da mesma forma. Esses egos copiados podem ser salvos como backups inativos ou instanciados e executados como infomorfos.
 
 Em circunstâncias normais, nenhum teste é necessário para fazer upload de um ego.
 
