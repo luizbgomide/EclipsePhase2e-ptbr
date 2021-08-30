@@ -13,7 +13,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Aflitivo:** Um app ofensivo que ataca infomorfos/cibercérebros.
 - **Agente:** Um informorfo otimizado para funções de infoseg.
 - **Aglomerado:** Um habitat de microgravidade feito de módulos interligados.
-- **ALL:** A Aliança Lunar-Lagrange, o regime conservador de habitats na Lua e na órbita da Terra.
+- **ALL:** A Aliança Lunar-Lagrange, o governo conservador dos habitats na Lua e na órbita da Terra.
 - **Anão Gelado:** Um tipo de planeta anão distante composto de gelo.
 - **Anarquistas:** Uma facção que se opõe ao poder e à hierarquia e adotam ações individuais e coletivas auto-organizadas.
 - **Anelinos:** Habitantes dos anéis de Saturno.
@@ -81,7 +81,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cyberware:** Ampliações artificiais para biomorfos.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
 - **Desbravador:** Um explorador que atravessa um portão de pandora.
-- **Desligamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Devassar:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
@@ -249,7 +248,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Planeta Ctoniano:** Um Júpiter/Netuno quente cuja atmosfera foi removida, deixando um núcleo terrestre.
 - **Pluralidade:** A ciberdemocracia titaniana.
 - **Polykatoikia:** Uma variante de hab cilíndrico que usa módulos dependentes.
-- **Ponte Ego:** Um dispositivo para escanear e copiar um cérebro biológico para backup, reencape ou psicocirurgia.
+- **Ponte de Ego:** Um dispositivo para escanear e copiar um cérebro biológico para backup, reencape ou psicocirurgia.
 - **Ponto de Lagrange:** Uma das cinco áreas relacionadas a um pequeno corpo planetário orbitando um corpo maior, na qual as forças gravitacionais desses dois corpos são neutralizadas. Os pontos de Lagrange são locais estáveis e ideais para habitats.
 - **Portão:** Um dos buracos de minhoca dos portões de pandora que permitem viajar para outras partes da galáxia.
 - **Portões de Pandora:** As passagens de buraco de minhoca descobertos após o desaparecimento das TITANs.
@@ -283,6 +282,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Sapientes:** Elevados e infovidas que buscam direitos iguais e assimilação na sociedade transumana.
 - **Savant:** Um sintemorfo otimizado para inteligência.
 - **Sentinelas:** Agentes a disposição da Firewall.
+- **Sepultamento:** Colocar seu ego em armazenamento inativo com agendamento para ser revivido mais tarde.
 - **Serpentoide:** Um sintemorfo tipo cobra.
 - **Serviço:** Um app executado em um dispositivo remoto na nuvem em vez de localmente.
 - **Servidor:** Grandes dispositivos multiusuários. Pode executar múltiplos infomorfos.

@@ -90,7 +90,7 @@ O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma cone
 
 **S:** Sem chance. Não tá sabendo? Você é persona non grata por essas partes. Seu trabalhinho pro BG meio que te ferrou.
 
-**H:** Tá falando do trabalho que você arrumou para mim? O que eu tô tentando passar pro você, otário? Nem vem falar que não vai me ajudar a descarregar essa merda! Eu tô andando com uma dúzia de forques de ego ilegais aqui!
+**H:** Tá falando do trabalho que você arrumou para mim? O que eu tô tentando passar pro você, otário? Nem vem falar que não vai me ajudar a repassar essa merda! Eu tô andando com uma dúzia de forques de ego ilegais aqui!
 
 **S:** Você vai deixar eu acabar de falar, porra? Não dá pra te encontrar. Eu nunca vi o BG mais puto. Ele não quer ser associado com você ou esse trabalho de jeito nenhum, então pegar o forques pra ele não vai rolar. Vai olhar tua g-rep, Lulu, você está sendo detonada.
 
