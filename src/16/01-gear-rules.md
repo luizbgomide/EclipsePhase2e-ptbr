@@ -1,7 +1,5 @@
 # Gear Rules
 
-## Gear Rules
-
 In the technological future, having the right gear is a necessity.
 
 ## Gear Design
