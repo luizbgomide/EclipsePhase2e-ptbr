@@ -94,9 +94,7 @@ The mission Gear Point system is ideal for episodic styles of play and PCs who e
 
 ### When and where?
 
-While this system makes gear acquisition an abstract process, it can still be incorporated into the story. It may also be important to know exactly how, when, and where you get your hands on your new toys. If you egocast to a new hab, you might have an agent waiting for you at the body bank, or you may have to wait a few days for a meeting with a local fixer to pick up the goods. Firewall may have given you the details on a secret scratch-space cache, but it's located in a part of the habitat now run by a gang that hates outsiders. Or maybe your patron expects a show of
-
-loyalty before they follow through, or perhaps the local anarchists don't trust you enough to share all their resources right away. Maybe a rival group knows you are coming, and decides to ambush you before you're equipped or breaks into your supply cache. While GMs and players can decide on the logistical elements together, this is also a good opportunity for roleplaying, introducing new NPCs, or throwing in some surprises.
+While this system makes gear acquisition an abstract process, it can still be incorporated into the story. It may also be important to know exactly how, when, and where you get your hands on your new toys. If you egocast to a new hab, you might have an agent waiting for you at the body bank, or you may have to wait a few days for a meeting with a local fixer to pick up the goods. Firewall may have given you the details on a secret scratch-space cache, but it's located in a part of the habitat now run by a gang that hates outsiders. Or maybe your patron expects a show of loyalty before they follow through, or perhaps the local anarchists don't trust you enough to share all their resources right away. Maybe a rival group knows you are coming, and decides to ambush you before you're equipped or breaks into your supply cache. While GMs and players can decide on the logistical elements together, this is also a good opportunity for roleplaying, introducing new NPCs, or throwing in some surprises.
 
 ### Blueprint Libraries
 
