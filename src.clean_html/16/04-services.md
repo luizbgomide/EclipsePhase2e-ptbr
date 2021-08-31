@@ -44,7 +44,7 @@ These services are available on some habitats.
 | License                   |   Mod/R/2    | License to perform a restricted activity.                           |
 | Morph Storage             |    Min/1     | Store an unused morph for 1 week.                                   |
 | Privacy Suite             |    Min/1     | Use of a surveillance-free room for 1 hour.                         |
-| Professional Service      |              | Mod+/2+ Help from a skilled professional.                           |
+| Professional Service      |   Mod+/2+    | Help from a skilled professional.                                   |
 | Psychosurgery             |    Min/1     | Psychosurgical therapy for 1 hour.                                  |
 | Recovery Bond             |    Maj/3     | An agent will seek to recover your stack via safe/legal means.      |
 | Recovery Bond (Hazardous) |    Rare/—    | A team will seek to retrieve your stack despite threats/legalities. |
