@@ -40,7 +40,7 @@ Both of these tests together constitute a single task action. The timeframe is t
 
 ### Cracking Blueprints
 
-The digital restrictions that prevent singleand multi-use blueprints from being shared can be defeated, given enough time. This requires a Program Test task action with a timeframe of 6 months (or 3 days in a time-accelerated VR). If you succeed, the blueprint can be re-used and copied freely.
+The digital restrictions that prevent single- and multi-use blueprints from being shared can be defeated, given enough time. This requires a Program Test task action with a timeframe of 6 months (or 3 days in a time-accelerated VR). If you succeed, the blueprint can be re-used and copied freely.
 
 ## Printing Tests
 
