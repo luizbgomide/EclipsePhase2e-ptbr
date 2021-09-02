@@ -56,7 +56,7 @@ A bulkhead door is simply half an airlock. Bulkheads are installed in strategic 
 
 Hulls vary in composition and properties, from the composite alloy hulls of cylinders to the thick silicate rock walls of beehives. Superstructure varies as well; cylinders, spheres, and toruses have sturdy metal trusswork underlying and supporting the hull material, although older designs might also have massive crossbeams running across the interior axis. Beehives and asteroid bubbles, on the other hand, rely entirely on their thick rock walls for superstructure. Tin-can habs are typically small enough that the hull is self-supporting, requiring little or no interior bracing, though they can be bolstered with insulation or radiation shielding.
 
-Armor and DR for hulls are detailed on [Future Materials](../12/27-future-materials.md). Many hulls are “selfhealing,” meaning they are either equipped with pockets of liquid sealant that automatically fill and harden punctures or fixer swarms to repair damage over time. Serious breaches and “dumb hulls” must be repaired with metal sheets and welders.
+Armor and DR for hulls are detailed on [Objects & Structures](../12/26-objects-and-structures.md). Many hulls are “selfhealing,” meaning they are either equipped with pockets of liquid sealant that automatically fill and harden punctures or fixer swarms to repair damage over time. Serious breaches and “dumb hulls” must be repaired with metal sheets and welders.
 
 Hull breaches in low-pressure environments have the same effect as blowing an airlock.
 
