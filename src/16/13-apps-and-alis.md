@@ -91,11 +91,13 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 
 ## Tactical Networks
 
-Tacnets allow a group and their muses/gear to share real-time tactical situational and sensory data over encrypted mesh channels. They are used by sports teams, security/military units, gamers, and anyone else that needs to coordinate actions. Tacnets provide the following functions:
+Tacnets allow a group and their muses/gear to share real-time tactical situational and sensory data over encrypted mesh channels. They are used by sports teams, security/military units, gamers, and anyone else that needs to coordinate actions.
 
 | TACNETS | Comp/<wbr>GP | Description                       |
 | :------ | :----------: | :-------------------------------- |
 | TacNet  |    Mod/2     | Share tactical data in real-time. |
+
+Tacnets provide the following functions:
 
 - **Maps:** Tacnets present maps from a bird’s eye, three-dimensional interactive, or first-person entoptic view, tagging notable features and marking distances. They can also plot maps based on sensory input, positioning systems, and other data.
 - **Positioning:** Tacnets indicate the position of known people, bots, vehicles, and other features according to sensory input or their calculated trajectories. Friend-or-foe tags highlight allies and opponents, noting their lines of sight and fields of fire and alerting the user to areas of potential cover or danger.
