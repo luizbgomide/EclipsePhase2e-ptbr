@@ -21,7 +21,7 @@ The following augmentations have specific applications for combat and dangerous 
 | Poison Glands          |     B     |   Min/R/1 + Toxin   | Produces one type of poison.                                                         |
 | Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  |
 | Reflex Boosters        |    CH     |        Maj/3        | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                  |
-| Respirocytes           |     N     |        Mod/2        | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +3&nbsp;DR. |
+| Respirocytes           |     N     |        Mod/2        | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR. |
 | Smart Actuators        |     H     |        Mod/2        | Faster/stronger robotics. +1 Vigor.                                                  |
 | Stress Control         |    BM     |        Mod/2        | Manages stress levels. +10&nbsp;WIL Checks vs. stress, +1 Trauma Threshold.          |
 | Structural Enhancement |     H     |        Maj/3        | Tougher frame. +2&nbsp;WT, +10&nbsp;DUR, +20&nbsp;DR.                                |
@@ -65,7 +65,7 @@ Medichines for synthmorphs and bots consist of nanobots that monitor and repair 
 
 **Reflex Boosters:** The morph’s spinal column and nervous system is rewired with superconducting materials, boosting transmission speed. This raises your Initiative by 3 and your REF Check by 10.
 
-**Respirocytes:** These nanobots act as highly efficient artificial red blood cells, with increased capabilities for transferring oxygen and carbon dioxide. This increases your ability to hold your breath to 4 hours and your Durability by 5, Wound Threshold by 1, and Death Rating by 3. Respirocytes offer no benefit to synthmorphs.
+**Respirocytes:** These nanobots act as highly efficient artificial red blood cells, with increased capabilities for transferring oxygen and carbon dioxide. This increases your ability to hold your breath to 4 hours and your Durability by 5, Wound Threshold by 1, and Death Rating by 8. Respirocytes offer no benefit to synthmorphs.
 
 **Smart Actuators:** Your shell makes use of smart materials and advanced actuator designs for increased speed and strength. +1 Vigor pool.
 
