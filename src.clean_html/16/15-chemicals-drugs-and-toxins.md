@@ -115,7 +115,7 @@ Combat drugs are an easy way of evening the odds in a fight.
 | COMBAT DRUGS |  Type   | Application |  Duration  | Addiction Mod/<!-- CLEANED wbr -->Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                                            |
 | :----------- | :-----: | :---------: | :--------: | :---------------------: | :----------: | :----------------------------------------------------------------------------------------------------- |
 | Aggro        | Biochem |     Any     | 15 minutes |      +10/Physical       |    Min/1     | +20 Provoke to intimidate/taunt, −20 other social tests.                                               |
-| Brutalitea   | Biochem |     Any     |  8 hours   |      −10/Physical       |    Min/1     | +5&nbsp;DUR, +1&nbsp;WT, +3&nbsp;DR.                                                                   |
+| Brutalitea   | Biochem |     Any     |  8 hours   |      −10/Physical       |    Min/1     | +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR.                                                                   |
 | Grin         | Biochem |     Any     |  3 hours   |      −10/Physical       |    Min/1     | Ignore 1 wound.                                                                                        |
 | Kick         | Biochem |     Any     |  8 hours   |      −10/Physical       |    Mod/2     | +1 Vigor.                                                                                              |
 | MRDR         | Biochem |     Any     |   1 hour   |      −20/Physical       |   Maj/R/3    | +2 Vigor, ignore 1 wound, Enhanced Behavior: Aggression (2), −20 social tests, WIL Check vs jumpiness. |
@@ -288,7 +288,7 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 | TOXINS          |  Type   |  Application   |    Duration    | Comp/<!-- CLEANED wbr -->GP | Description                                                           |
 | :-------------- | :-----: | :------------: | :------------: | :----------: | :-------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/1 hour |   Maj/R/3    | DV 2d10 +3 for 3 turns, SOM Check or immobilized for 1 hour.          |
+| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<!-- CLEANED wbr -->1 hour |   Maj/R/3    | DV 2d10 +3 for 3 turns, SOM Check or immobilized for 1 hour.          |
 | CR Gas          | Biochem |     D, Inh     |   20 minutes   |   Min/R/1    | DV 1d6, −30 Perceive, −20 all other actions.                          |
 | Flight          | Biochem |      Inh       |     1 hour     |   Min/R/1    | SV 1d10, −30 resist intimidation/fear effects.                        |
 | Nervex          | Biochem | D, Inh, Inj, O |       —        |   Maj/R/3    | −20 actions, SOM Check vs. incapacitation, death.                     |
