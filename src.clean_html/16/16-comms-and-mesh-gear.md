@@ -59,9 +59,9 @@ Neutrino particles pass through solid matter with ease and are impossible to blo
 
 Quantum farcasters are special computers designed to protect a communications channel with unbreakable encryption. To function, two or more quantum farcaster computers must first be entangled together (on a quantum level) in the same physical location. The farcasters are then separated, at which point they may continue to exchange encrypted data via quantum teleportation. This data exchange requires a standard communications link (i.e., fiberoptic, radio, laser/microwave, or neutrino), and so is limited by the speed of light, but it is a high bandwidth form of communication. The quantum encryption used by these entangled farcasters is unbreakable, and any attempted interception is immediately detected and neutralized. A quantum farcaster cannot be used to securely communicate with any farcasters other than the ones it is entangled with.
 
-| QUANTUM FARCASTERS          | Comp/<!-- CLEANED wbr -->GP | Description                                              |
-| :-------------------------- | :----------: | :------------------------------------------------------- |
-| Miniature Radio Farcaster M |     od/2     | Radio with encryption that cannot be broken/intercepted. |
+| QUANTUM FARCASTERS        | Comp/<!-- CLEANED wbr -->GP | Description                                              |
+| :------------------------ | :----------: | :------------------------------------------------------- |
+| Miniature Radio Farcaster |    Mod/2     | Radio with encryption that cannot be broken/intercepted. |
 
 **Miniature Radio Farcaster:** Miniature farcasters communicate with each other using standard radio transceivers. As noted above, they can only securely communicate with the other farcasters with which they are entangled. Most miniature farcasters are very small and worn as jewelry or fitted into clothing or other equipment. Because the entanglement process requires special equipment, these radio farcasters cannot be nanofabricated.
 
