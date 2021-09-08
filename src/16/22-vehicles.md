@@ -124,7 +124,7 @@ Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuit
 
 <table class="centered stat-list tl1">
 <thead><tr><th>HARDSUITS<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
- <tr><td>Battlesuit<td>Rare/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>8/32 Walker, 8/40ThrustVector<td>L</tr>
+ <tr><td>Battlesuit<td>Rare/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>8/32 Walker, 8/40 Thrust Vector<td>L</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notes:** +1d10 melee damage, double jump distance
