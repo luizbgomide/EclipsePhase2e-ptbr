@@ -201,7 +201,7 @@ Within the Solar System, nautical craft are used for the methane seas of Titan a
 
 These one-person movement aids are primarily used in space or undersea. Use with Pilot: Nautical or Pilot: Space as appropriate and repair with Hardware: Nautical or Hardware: Aerospace.
 
-| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass | Vigor | Flex | Armor | DUR | WT  | DR  |      Movement      | Size |
+| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass | Vigor | Flex | Armor | WT  | DUR | DR  |      Movement      | Size |
 | :------------- | :----------: | :--: | :---: | :--: | :---: | :-: | :-: | :-: | :----------------: | :--: |
 | Rocket Pack    |    Mod/2     |  1   |   0   |  0   |  6/4  |  6  | 30  | 60  | 8/40 Thrust Vector |  S   |
 | Sled           |    Min/1     |  2   |   0   |  0   |  6/4  |  8  | 40  | 80  | 8/40 Thrust Vector |  S   |
