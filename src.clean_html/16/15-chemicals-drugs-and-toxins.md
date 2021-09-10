@@ -124,7 +124,7 @@ Combat drugs are an easy way of evening the odds in a fight.
 
 **Aggro:** This drug stimulates a massive burst of aggression pheromones. This provides a +20 modifier when using Provoke to intimidate or taunt ([Social Attacks](../12/22-social-actions.md#social-attacks)), but a −20 modifier to all other social skill tests. These modifiers are only effective when dealing with biomorphs of the same species who can smell you.
 
-**Brutalitea:** Often served as a delicious tea, this combat drug heightens endurance and injury tolerance. Increase your Durability by 5, Wound Threshold by 1, and Death Rating by 3 for 3 hours.
+**Brutalitea:** Often served as a delicious tea, this combat drug heightens endurance and injury tolerance. Increase your Durability by 5, Wound Threshold by 1, and Death Rating by 8 for 3 hours.
 
 **Grin:** Grin is an effective opiate and pain suppressant. You ignore the modifiers from 1 wound (cumulative with other pain negation mods, to a maximum of 3 wounds).
 
