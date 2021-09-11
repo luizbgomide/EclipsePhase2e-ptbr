@@ -278,9 +278,7 @@ These social lubricants modify your interactions with others.
 
 **Stiff:** Frequently taken as a chewy breath mint, this drug stiffens your confidence and resolve. You receive a +10 modifier on SAV/WIL Checks against Persuade and Provoke. You also acquire the Enhanced Behavior: Stubborn (Level 2) trait.
 
-**Tongzhi:** Named after the dated Mandarin term for “comrade,” tongzhi encourages cooperation and supportive behavior, while minimizing competitive attitudes. It was a popular drug with many hypercorps before the Fall and mandatory for their workforces. This drug provides +10 Kinesics, as well as +10 Persuade when working towards common interests. You gain the Enhanced Behavior:
-
-Cooperative (Level 2) trait.
+**Tongzhi:** Named after the dated Mandarin term for “comrade,” tongzhi encourages cooperation and supportive behavior, while minimizing competitive attitudes. It was a popular drug with many hypercorps before the Fall and mandatory for their workforces. This drug provides +10 Kinesics, as well as +10 Persuade when working towards common interests. You gain the Enhanced Behavior: Cooperative (Level 2) trait.
 
 ## Toxins
 
