@@ -48,7 +48,7 @@ These bots are useful for security, defense, and combat applications.
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** 8/40 Thrust Vector
-- **Ware:** Enhanced Vision, Heavy Combat Armor, Radar Absorbent, Structural Reinforcement, Weapon Mounts (2 Static, 2 Articulated/Concealed)
+- **Ware:** Enhanced Vision, Heavy Combat Armor, Radar Absorbent, Structural Enhancement, Weapon Mounts (2 Static, 2 Articulated/Concealed)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Sentry<td>Rare/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
