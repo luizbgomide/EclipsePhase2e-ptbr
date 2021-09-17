@@ -210,7 +210,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Breadcrumb System](../16/16-comms-and-mesh-gear.md#communications)                 |    Min/1     | Leaves mote trail for meshing/positioning.                                                      |
 | [Diamond Axe](../12/02-melee-combat.md#melee-weapons)                               |    Min/1     | DV 2d10 + 3, armor-piercing, reach, two-handed.                                                 |
 | [Disassembly Tools](../16/18-mission-gear.md#salvage-tools)                         |    Mod/2     | Heavy and smart tools for taking things apart.                                                  |
-| [Guardian Swarm](../16/20-nanoswarms-and-microswarms.md#swarms)                     |    Mod/2     | Disables other swarms; both swarms take DV 5 per turn.                                          |
+| [Guardian Swarm](../16/20-nanoswarms-and-microswarms.md#swarms)                     |    Mod/2     | Disables other swarms; both swarms take DV 6 per turn.                                          |
 | [Nanodetector](../16/19-nanotech.md)                                                |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60. |
 | [Orbital Hash (5 doses)](../16/15-chemicals-drugs-and-toxins.md#recreational-drugs) |    Min/1     | Ignore 1 trauma, −10 Know Tests/memory-related COG Checks.                                      |
 | [Robomule](../16/21-robots.md#utility-bots)                                         |    Mod/2     | Gear-hauling bot.                                                                               |

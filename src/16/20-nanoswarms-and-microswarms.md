@@ -67,7 +67,7 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | Engineer Swarm     |        Min/1         | Constructs/shapes environment.                                                     |
 | Fixer Swarm        |        Mod/2         | Repairs 1d10 damage per hour or 1 wound per day.                                   |
 | Gardener Swarm     |        Min/1         | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
-| Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 5 per turn.                             |
+| Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 6 per turn.                             |
 | Protean Swarm      |      As Object       | Nanofabricates a specific, pre-programmed item.                                    |
 | Pusher Swarm       | Min/R/1 + drug/toxin | Exposes biomorphs to drug/toxin.                                                   |
 | Saboteur Swarm     |       Mod/R/2        | Sabotages electronics/machinery; 50% chance of wound every WT turns.               |
