@@ -8,7 +8,7 @@ Sua infecção possui uma curiosidade e um senso de inteligência distintos. Voc
 
 **Traço Negativo (Escolha Um):** Transtorno Mental (Transtorno Bipolar, Insônia ou Paramnésia)
 
-**Truque Gratuito (Escolha Um):** Criatividade Ampliada, Grok ou Implante de Perícia
+**Truque Gratuito (Escolha Um):** Criatividade Ampliada, Engenho ou Implante de Perícia
 
 ## A Besta
 
