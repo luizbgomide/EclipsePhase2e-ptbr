@@ -7,7 +7,7 @@ Os seguintes acessórios estão disponíveis para armas.
 | Deslizante de Braço                                          |                 Men/1                 | Saque e ataque com uma única ação complexa.                                         |
 | Pente Estendido                                              |                 Men/1                 | Aumenta a capacidade de munição em +50%.                                            |
 | Giro-Suporte                                                 |                 Mod/2                 | Nega modificadores de movimento.                                                    |
-| Mira por Imagem                                              |                 Men/1                 | Como visores, pode mirar de trás de cobertura.                                      |
+| Mira por Imagem                                              |                 Men/1                 | Funciona como um visor, pode mirar de trás de cobertura.                            |
 | Quebra-Chamas                                                |                 Men/1                 | −30 em Percepção para localizar pelo clarão.                                        |
 | Mira Laser                                                   |                 Men/1                 | Mira assistida.                                                                     |
 | Sistema de Segurança                                         |                 Men/1                 | A arma requer autorização biométrica para ser usada.                                |
@@ -22,7 +22,7 @@ Os seguintes acessórios estão disponíveis para armas.
 
 **Giro-Suporte:** Este arnês possui um suporte giro-estabilizado para arma que mantém a arma estável. Negando todos os modificadores de movimento.
 
-**Mira por Imagem:** A mira por imagem é fixada no topo da arma e age como [visores](../16/05-common-tech-and-ware.md#everyday-technology). Essa mira também podem ser virada como um periscópio, permitindo que você aponte a arma e mire de lado sem sair da cobertura.
+**Mira por Imagem:** A mira por imagem é fixada no topo da arma e age como um [visor](../16/05-common-tech-and-ware.md#everyday-technology). Essa mira também podem ser virada como um periscópio, permitindo que você aponte a arma e mire de lado sem sair da cobertura.
 
 **Quebra-Chamas:** Este dispositivo esconde o clarão do disparo de armas de fogo, aplicando um modificador −30 em Testes de Percepção para localizar uma arma por seu clarão.
 
