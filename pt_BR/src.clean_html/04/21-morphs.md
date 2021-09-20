@@ -1,6 +1,6 @@
 # Morfos
 
-Os morfos listados aqui representam uma fração das capas e carcaças disponíveis aos personagens. Você deve comprar pelo menos um morfo durante a [criação de personagem](../04/01-character-stats.md). Durante o jogo, você pode precisar adquirir um novo morfo quando forquear, egoprojetar ou reencapar ([Adquirindo Morfos](../15/03-acquiring-morphs.md)) — ou quando o que você tem é destruído.
+Os morfos listados aqui representam uma fração das capas e carcaças disponíveis aos personagens. Você deve comprar pelo menos um morfo durante a [criação de personagem](../04/01-character-stats.md). Durante o jogo, você pode precisar adquirir um novo morfo quando forquear, egoprojetar ou reencapar ([Aquisição de Morfos](../15/03-acquiring-morphs.md)) — ou quando o que você tem é destruído.
 
 <!-- CLEANED div class="stat-list" -->
 
@@ -41,7 +41,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Neo-Polvo](../04/24-uplift-biomorphs.md#neo-octopus)                                                           | Elevado    | 3&nbsp;PM  |
 | [Neo-Orangutango](../04/24-uplift-biomorphs.md#neo-orangutan)                                                   | Elevado    | 3&nbsp;PM  |
 | [Neotênico](../04/22-common-biomorphs.md#neotenic)                                                              | Biomorfo   | 2&nbsp;PM  |
-| [Novacrab](../04/23-pod-biomorphs.md#novacrab)                                                                  | Prod       | 4&nbsp;PM  |
+| [Novacancridae](../04/23-pod-biomorphs.md#novacrab)                                                             | Prod       | 4&nbsp;PM  |
 | [Olímpico](../04/22-common-biomorphs.md#olympian)                                                               | Biomorfo   | 4&nbsp;PM  |
 | [Operador](../04/26-infomorphs.md#operator)                                                                     | Infomorfo  | 2&nbsp;PM  |
 | [Prod de Prazer](../04/23-pod-biomorphs.md#pleasure-pod)                                                        | Prod       | 4&nbsp;PM  |

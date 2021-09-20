@@ -46,11 +46,11 @@ Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore m
 
 Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Receba +30 se spray de cura, xarope ou medicadores estão curando você. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
 
-## Grau de Morte
+## Grau de Destruição
 
-Um grande acúmulo de pontos de dano ameaçará a vida do personagem. Se o dano atingir seu Grau de Morte, seu corpo morre (biomorfos) ou é destruído sem chance de reparo (sintemorfos).
+Um grande acúmulo de pontos de dano ameaçará a vida do personagem. Se o dano atingir seu Grau de Destruição, seu corpo morre (biomorfos) ou é destruído sem chance de reparo (sintemorfos).
 
-O Grau de Morte é baseado na Durabilidade × 1,5 para biomorfos e Durabilidade × 2 para sintemorfos.
+O Grau de Destruição é baseado na Durabilidade × 1,5 para biomorfos e Durabilidade × 2 para sintemorfos.
 
 ## Morte
 

@@ -22,11 +22,11 @@ Algumas circunstâncias exigem cuidados críticos: cirurgia, regeneração de me
 
 **Regeneração:** Transumanos com biomods vão regenerar partes perdidas com o tempo. Uma orelha ou dedo vai levar uma semana, um braço ou perna um mês inteiro. Tanque de cura aceleram muito esse processo para algo em torno de 4 horas (orelha/dedo) e 2 dias (membro inteiro), e pode até mesmo restaurar um corpo inteiro a partir de apenas uma cabeça (1 mês).
 
-**Revivificação:** Biomorfos recentemente falecidos podem ser colocados em estase médica com um kit médico e uma ação de tarefa Medicina: Paramedicina (10 minutos). Um médico especialista equipado pode reviver a pessoa contanto que ela seja tratada dentro de 24 horas após a morte ou a remoção da estase. Isso requer um kit médico e um ação de tarefa Medicina: Paramedicina com prazo de 1 hora, +1 por ferimento. Personagens revividos são curados até 1 ponto abaixo de seu Grau de Morte. Um tanque de cura também fará o trabalho, com um prazo de 1 dia.
+**Revivificação:** Biomorfos recentemente falecidos podem ser colocados em estase médica com um kit médico e uma ação de tarefa Medicina: Paramedicina (10 minutos). Um médico especialista equipado pode reviver a pessoa contanto que ela seja tratada dentro de 24 horas após a morte ou a remoção da estase. Isso requer um kit médico e um ação de tarefa Medicina: Paramedicina com prazo de 1 hora, +1 por ferimento. Personagens revividos são curados até 1 ponto abaixo de seu Grau de Destruição. Um tanque de cura também fará o trabalho, com um prazo de 1 dia.
 
 ## Reparo de Sintemorfos/Objetos
 
-A maioria dos sintemorfos e objetos não se curam sozinhos e devem ser reparados. Alguns estão equipados com sistemas de autorreparação que funcionam da mesma forma que [medicadores](../16/10-combat-augmentations.md). [Enxames reparadores](../16/20-nanoswarms-and-microswarms.md#swarms) podem reparar danos e ferimentos da mesma forma que xarope. Sintemorfos e objetos também podem ser reparados em uma máquina de nanofabricação com as matrizes apropriadas; trate isso como um tanque de cura. Sintemorfos só podem se beneficiar de uma fonte de reparo por vez; use a taxa mais rápida aplicável.
+A maioria dos sintemorfos e objetos não se curam sozinhos e devem ser reparados. Alguns estão equipados com sistemas de autorreparação que funcionam da mesma forma que [medicadores](../16/10-combat-augmentations.md). [Enxames reparadores](../16/20-nanoswarms-and-microswarms.md#swarms) podem reparar danos e ferimentos da mesma forma que xarope. Sintemorfos e objetos também podem ser reparados em uma máquina de nanofabricação com os diagramas apropriados; trate isso como um tanque de cura. Sintemorfos só podem se beneficiar de uma fonte de reparo por vez; use a taxa mais rápida aplicável.
 
 **Reparo Físico:** Reparar manualmente um sintemorfo ou objeto requer um Teste de Aparelhagem usando a área apropriada ao item (Aparelhagem: Robótica para sintemorfos e bots, Aparelhagem: Aeroespacial para aeronaves, etc.) e um kit de ferramentas. O reparo é uma ação de tarefa com prazo de 1 hora por 5 pontos de dano sendo restaurados, mais 8 horas por ferimento. Uma vez concluído, ele está totalmente reparado. Aplique os modificadores apropriados baseado nas condições e ferramentas disponíveis.
 
@@ -34,9 +34,9 @@ A maioria dos sintemorfos e objetos não se curam sozinhos e devem ser reparados
 
 ### Cura/Reparo
 
-| Primeiros Socorros     |                      Dano Curado                      |             Prazo             |
-|:---------------------- |:-----------------------------------------------------:|:-----------------------------:|
-| Medicina: Paramedicina | 1 ferimento, 1d10 \[6\] dano +1d6 por sucesso maior | 10 minutos + 10 por ferimento |
+| Primeiros Socorros     |                       Dano Curado                        |             Prazo             |
+|:---------------------- |:--------------------------------------------------------:|:-----------------------------:|
+| Medicina: Paramedicina | 1 ferimento, 1d10 \[6\] de dano +1d6 por sucesso maior | 10 minutos + 10 por ferimento |
 
 | Recuperação                                                  |   Taxa de Cura de Dano    | Taxa de Cura de Ferimento | Duração do Efeito |
 |:------------------------------------------------------------ |:-------------------------:|:-------------------------:|:-----------------:|

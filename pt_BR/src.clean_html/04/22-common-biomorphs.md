@@ -12,7 +12,7 @@ Biomorfos são capas totalmente biológicas (muitas vezes modificados geneticame
 
 ### Cru
 
-Crus são humanos padrão não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os crus são cada vez mais raros fora enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
+Crus são humanos padrão não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os crus são cada vez mais raros fora dos enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -22,7 +22,7 @@ Crus são humanos padrão não modificados, nascidos com todos os defeitos natur
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 0, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -44,7 +44,7 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 0, **Manha** 0, **Vigor** 0, **Flex** 1
 
 ---
@@ -66,7 +66,7 @@ Exaltos são os modelos de "humanos aprimorados" comuns e não especializados. E
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 1, **Vigor** 1, **Flex** 0
 
 ---
@@ -88,7 +88,7 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 2, **Manha** 1, **Vigor** 1, **Flex** 0
 
 ---
@@ -96,7 +96,7 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /blockquote -->
 
@@ -112,13 +112,13 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 0, **Manha** 1, **Vigor** 1, **Flex** 1
 
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radioativo, Tolerância ao Frio
+- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 - **Extras Comuns:** Muitos têm o traço de [Obsolescência Programada](../04/28-traits.md#planned-obsolescence)
 
 <!-- CLEANED /blockquote -->
@@ -135,7 +135,7 @@ Os ricochetes são geneticamente adaptados para microgravidade. Suas pernas são
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 0, **Vigor** 1, **Flex** 2
 
 ---
@@ -158,7 +158,7 @@ Os morfos futura foram feitos especialmente para a "Geração Perdida" de crian�
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 2, **Manha** 4, **Vigor** 1, **Flex** 0
 
 ---
@@ -180,7 +180,7 @@ Hibernoides são humanos transgênicos modificados com padrões de sono e proces
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 1, **Vigor** 0, **Flex** 2
 
 ---
@@ -202,7 +202,7 @@ Mentons são geneticamente modificados para aumentar suas habilidades cognitivas
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 3, **Manha** 1, **Vigor** 1, **Flex** 1
 
 ---
@@ -224,7 +224,7 @@ Olímpicos são melhorias humanas com capacidades atléticas aprimoradas, como r
 
 ---
 
-- **LF:** 8 • **DUR:** 40 • **GM:** 60
+- **LF:** 8 • **DUR:** 40 • **GD:** 60
 - **Inspiração** 1, **Manha** 1, **Vigor** 3, **Flex** 1
 
 ---
@@ -246,7 +246,7 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 1, **Manha** 3, **Vigor** 1, **Flex** 1
 
 ---
@@ -269,7 +269,7 @@ Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para
 
 ---
 
-- **LF:** 10 • **DUR:** 50 • **GM:** 75
+- **LF:** 10 • **DUR:** 50 • **GD:** 75
 - **Inspiração** 1, **Manha** 1, **Vigor** 4, **Flex** 2
 
 ---
@@ -293,7 +293,7 @@ Fantasmas são projetados parcialmente para aplicações de combate, mas seu foc
 
 ---
 
-- **LF:** 9 • **DUR:** 45 • **GM:** 68
+- **LF:** 9 • **DUR:** 45 • **GD:** 68
 - **Inspiração** 2, **Manha** 1, **Vigor** 3, **Flex** 2
 
 ---
@@ -319,7 +319,7 @@ Eles se parecem com humanos, mas são diferentes de formas muito perceptíveis e
 
 ---
 
-- **LF:** 9 • **DUR:** 45 • **GM:** 68
+- **LF:** 9 • **DUR:** 45 • **GD:** 68
 - **Inspiração** 2, **Manha** 2, **Vigor** 2, **Flex** 2
 
 ---

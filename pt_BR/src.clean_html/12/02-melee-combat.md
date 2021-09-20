@@ -38,7 +38,7 @@ Armamentos implantados podem ser combinados com enguiônicos para produzir choqu
 
 **Garras:** O morfo possui garras retráteis como as de gato. Essas garras não interferem na destreza manual e são afiadas. Elas são legais na maioria dos habitats e consideradas tanto ferramentas quanto armas. Um conjunto de garras em cada mão conta como uma única arma.
 
-**Enguiônicos:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (hardware) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias padrão ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria padrão).
+**Enguiônicos:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (hardware) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
 **Espeto de Pistão:** Este espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
 

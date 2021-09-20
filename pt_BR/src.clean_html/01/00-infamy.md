@@ -404,7 +404,7 @@ Elis respondeu com um sorriso conspiratório e um aceno enquanto Bixbee voava so
 
 Ukku estava na pista de dança da _Danger Noodle_ por quatro horas direto, cotovelos pontudos chacoalhando, pernas quase desabando, forçando os outros a desviarem. Claramente, Ukku estava chapado além da conta, rolando no último narco de Tierslay, junto com a maioria do clube. Tierslay, Elis, Pivo e Berk assistiam o sinte do bar, Bixbee do seu poleiro habitual acima da cabine do DJ, esperando Tierslay começar a pegadinha.
 
-Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da brecha no narco de Ukku. Antes, quando Monte mostrou para ela a imagem macabra que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
+Sob o comando de Tierslay, Monte jogou um lampejo de terror noturno através da brecha no narco de Ukku. Antes, quando Monte mostrou para ela a imagem medonha que ele planejava usar (a carnificina flutuante que sobrou de uma infame chacina da Geração Perdida), Tierslay quase vomitou, mas Ukku simplesmente parou num segundo de contemplação, e então voltou a “dançar.”
 
 “Hum, isso foi desapontador.” Elis deu um tapinha no braço de Tierslay. “O _idiota_ é mesmo tapado. O negócio é voltar a beber até o turista parar de poluir nossa preciosa pista de dança.”
 
@@ -586,7 +586,7 @@ Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum p
 
 Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas brechas nos narcos, invadindo cada cérebro cibernético na sala.
 
-O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos... mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
+O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos… mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
 Os combatentes atordoados do porão recuperaram seu equilíbrio por alguns segundos, apenas tempo suficiente para alcançar em vão as armas à deriva, antes da presença atacar. As mentes individuais foram esmagadas à submissão, seus morfos paralisados.
 

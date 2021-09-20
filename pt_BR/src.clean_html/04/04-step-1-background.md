@@ -1,6 +1,6 @@
 # Passo 1: Antecedente
 
-Qual é a origem do seu personagem? Você nasceu em uma favela na Terra antes da Queda ou foi criado em um enclave protegido? Você foi um dos primeiros colono espaciais ou um trabalhador contratado?
+Qual é a origem do seu personagem? Você nasceu em uma favela na Terra antes da Queda ou foi criado em um enclave protegido? Você foi um dos primeiros colono espaciais ou um trabalhador arrendado?
 
 Cada antecedente fornece a você um pacote de perícias ativas e de conhecimento. Anote-as na sua ficha de personagem. Não perca muito tempo na sua escolha — você terá a oportunidade de adquirir outras perícias e trocar algumas perícias em passos posteriores. Para perícias de área, uma seleção breve de áreas comuns é listada, mas você pode escolher a que quiser ([Perícias](../04/18-skills.md)). Como alternativa, deixe a área não atribuída agora e decida durante a partida.
 
@@ -61,7 +61,7 @@ Você vivia no um por cento do topo, com abundância de riqueza e recursos.
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Belas Artes, Mercado Financeiro, Política das Hipercorps_</p> | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Ciência Política, Direito, Economia_</p> | 30 |
 
-## Contratado
+## Arrendado
 
 Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hipercorps fora da Terra.
 
@@ -159,6 +159,6 @@ Se você preferir determinar o seu antecedente aleatoriamente, role 1d10:
 |    2    |   Enclavo   |    7    |   Isolado    |
 |    3    | Freelancer  |    8    |   Perdido    |
 |    4    | Hiperelite  |    9    | Classe Baixa |
-|    5    | Contratado  |   10    |   Elevado    |
+|    5    |  Arrendado  |   10    |   Elevado    |
 
 <!-- CLEANED /blockquote -->

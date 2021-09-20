@@ -80,4 +80,4 @@ Administradores e usuários com códigos de trapaça têm mais opções. As segu
 - **Encerrar Sessão:** Você pode forçar o encerramento da sessão de um usuário, enviando-o de volta para a sala branca.
 - **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
 - **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou contratados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.
+- **Ativar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou arrendados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.

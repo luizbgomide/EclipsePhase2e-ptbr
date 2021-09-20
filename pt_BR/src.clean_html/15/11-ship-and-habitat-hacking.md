@@ -14,7 +14,7 @@ A maioria das câmaras de ar são de um dos três tamanhos:
 
 As portas de câmaras de ar levam um turno de ação para abrir e fechar e 3 turnos de ação ou mais para preencherem ou evacuarem o ar.
 
-A Armadura e o GM de câmaras de ar podem ser encontrados em [Materiais Futuros](../12/27-future-materials.md).
+A Armadura e o GD de câmaras de ar podem ser encontrados em [Materiais Futuros](../12/27-future-materials.md).
 
 ### Recursos de Segurança de Câmaras de Ar
 
@@ -42,7 +42,7 @@ As câmaras de ar podem ser hackeadas para pularem o tempo de ciclagem. Geralmen
 
 Quando uma câmara de ar é estourada para fora, toda a atmosfera interna é ventilada para o espaço em metade do tempo que levaria para a câmara ciclar. Em uma câmara de ar pequena, isso tem pouco efeito além de possivelmente fazer pequenos objetos soltos sairem voando. Em câmaras de ar padrão ou grandes, isso cria uma forte rajada de vento. Se estiver até 25 metros (50 para câmaras de ar grandes), você deve fazer uma Prova de REF para agarrar-se em alguma coisa ou ser jogado na direção da porta externa. Você precisa continuar a fazer esse teste a cada turno até que a atmosfera seja drenada. Se você falhar, você é jogado na direção da câmara de ar e para fora a uma taxa de 20 metros por turno (40 para câmaras de ar grandes). Outros que estiverem perto do seu caminho podem tentar agarrar e segurar você com uma Prova de SOM. Se o habitat estiver cheio de água ou outro líquido em vez de uma atmosfera gasosa, esses testes sofrem um modificador −30. Se você tiver um aviso prévio para se segurar, adicione +10. Se ambas as portas forem abertas, a atmosfera continuará a ser ventilada com força até que a pressão do ar dentro da nave ou habitat (ou a seção local, se estiver selada) caia para níveis mínimos.
 
-A descompressão lança objetos que não estão presos para fora de uma câmara de ar. Esses objetos e detritos podem atigir você pelo caminho, inflingindo entre VD 1d10 até 4d10 (a critério do MJ). Objetos grandes resistem serem arremessados baseados em seu peso e inércia (a critério do MJ). As câmaras de ar abertas podem ficar totalmente ou parcialmente bloqueadas se um grande objeto (como uma mesa ou veículo) for sugado contra elas.
+A descompressão lança objetos que não estão presos para fora de uma câmara de ar. Esses objetos e detritos podem atigir você pelo caminho, infligindo entre VD 1d10 até 4d10 (a critério do MJ). Objetos grandes resistem serem arremessados baseados em seu peso e inércia (a critério do MJ). As câmaras de ar abertas podem ficar totalmente ou parcialmente bloqueadas se um grande objeto (como uma mesa ou veículo) for sugado contra elas.
 
 ### Câmaras de Ar em Ambientes de Alta Pressão
 
@@ -54,9 +54,9 @@ Uma porta de passagem é simplesmente metade de uma câmara de ar. As passagens 
 
 ## Cascos e Superestrutura
 
-Os cascos variam em composição e propriedas, desde cascos de ligas compostas dos cilindros até as espessas paredes de rochas silicatadas dos formigueiros. As superestruturas também variam; cilindros, esferas e toroides possuem treliças metálicas resistentes nas fundações e sustentando o material do casco, embora projetos antigos também tenham enormes vigamentos transversais ao longo do eixo inteiror. Formigueiros e bolhas de asteroide, por outro lado, dependem inteiramente em suas grossas paredes de rocha como superestrutura. Os habs enlatados são geralmente pequenos o bastante para o casco ser autoportante, exigindo pouco ou nenhum suporte interno, embora eles possam ser reforçados com isolamento ou blindagem de radiação.
+Os cascos variam em composição e propriedades, desde cascos de ligas compostas dos cilindros até as espessas paredes de rochas silicatadas dos formigueiros. As superestruturas também variam; cilindros, esferas e toroides possuem treliças metálicas resistentes nas fundações e sustentando o material do casco, embora projetos antigos também tenham enormes vigamentos transversais ao longo do eixo inteiror. Formigueiros e bolhas de asteroide, por outro lado, dependem inteiramente em suas grossas paredes de rocha como superestrutura. Os habs enlatados são geralmente pequenos o bastante para o casco ser autoportante, exigindo pouco ou nenhum suporte interno, embora eles possam ser reforçados com isolamento ou blindagem de radiação.
 
-A Armadura e o GM dos cascos são detalhados em [Materiais Futuros](../12/27-future-materials.md). Muitos cascos são "autorreparáveis", o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e "cascos burros" devem ser reparados com chapas de metal e soldagem.
+Armadura e GD para cascos estão detalhados em [Objetos & Estruturas](../12/26-objects-and-structures.md). Muitos cascos são "autorreparáveis", o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e "cascos burros" devem ser reparados com chapas de metal e soldagem.
 
 Rompimentos no cascos em ambientes de baixa pressão têm o mesmo efeito que estourar uma câmara de ar.
 
@@ -88,6 +88,6 @@ Devido à ameaça representada por um colapso, os sistemas de reatores são semp
 
 Iniciar um desligamento de emergência seguro de um reator usa um Teste de Interface e uma ação complexa. O processo de desligamento real leva 2 turnos de ação. Um desligamento seguro mais gradual (para manutenções e similares) leva 6–12 horas.
 
-Danificar as paredes de um reator é perigoso. Se uma arma disparar próximo de um reator e falhar com uma falha maior, o ataque atingiu e provavelmente danificou a parede do reator. A contenção do reator possui Armadura 50/50, GM 200 e um Limiar de Ferimento de 20, e são [autorreparáveis](../15/11-ship-and-habitat-hacking.md#hulls-and-superstructure). Se a parede receber dano suficiente para exceder seu GM ou sofrer um ferimento, um jato superaquecido de plasma escapa da contenção magnética e queima todos em até 10 metros que falhem em um Teste de Evasão (VD 6d10 + 10 \[43\], perfura-armadura, resistido com armadura energética). Toda a área também é inundada com intensa radiação, o que geralmente é letal para biomorfos.
+Danificar as paredes de um reator é perigoso. Se uma arma disparar próximo de um reator e falhar com uma falha maior, o ataque atingiu e provavelmente danificou a parede do reator. A contenção do reator possui Armadura 50/50, GD 200 e um Limiar de Ferimento de 20, e são [autorreparáveis](../15/11-ship-and-habitat-hacking.md#hulls-and-superstructure). Se a parede receber dano suficiente para exceder seu GD ou sofrer um ferimento, um jato superaquecido de plasma escapa da contenção magnética e queima todos em até 10 metros que falhem em um Teste de Evasão (VD 6d10 + 10 \[43\], perfura-armadura, resistido com armadura energética). Toda a área também é inundada com intensa radiação, o que geralmente é letal para biomorfos.
 
 Os rompimentos de plasma são catastroficamente ruins. Como os reatores usam fusão controlada, eles nunca vão explodir como uma arma nuclear, mas o plasma superaquecido vai derreter quase tudo ao seu redor. Os reatores de habitat geralmente incorporam sistemas de vapor pressurizados e turbinas; danos a esses sistemas, por um rompimento de plasma ou outro método, podem criar uma explosão devastadora.

@@ -24,7 +24,7 @@ Os ambientes planetários vão desde o extremamente quente (Vênus, o lado diurn
 
 ## Pressão Extrema
 
-Da mesma forma, as pressões atmosféricas de Júpiter, Saturno, Urano, Netuno e Vênus rapidamente tornam-se esmagadoramente mortíferas em qualquer ponto além dos níveis superiores. Apenas sintemorfos e veículos com adaptações especiais de pressão podem ter esperança de sobreviver a tais profundezas.
+Da mesma forma, as pressões atmosféricas de Júpiter, Saturno, Urano, Netuno e Vênus rapidamente tornam-se esmagadoramente mortíferas em qualquer ponto além dos níveis superiores. Apenas sintemorfos e veículos com adaptações de pressão especiais podem ter esperança de sobreviver a tais profundezas.
 
 ## Zonas de Transição de Gravidade
 

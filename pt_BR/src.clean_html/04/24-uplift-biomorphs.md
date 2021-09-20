@@ -16,7 +16,7 @@ Os neo-aves incluem corvos, gralhas e papagaios-cinzentos elevados a níveis hum
 
 ---
 
-- **LF:** 5 • **DUR:** 25 • **GM:** 38
+- **LF:** 5 • **DUR:** 25 • **GD:** 38
 - **Inspiração** 2, **Manha** 1, **Vigor** 0, **Flex** 0
 
 ---
@@ -24,7 +24,7 @@ Os neo-aves incluem corvos, gralhas e papagaios-cinzentos elevados a níveis hum
 - **Taxa de Movimento:** Asas 8/40, Marcha 2/8
 - **Ware:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /blockquote -->
 
@@ -40,7 +40,7 @@ Como outros neo-hominídeos, morfos de bonobo e chimpanzé elevados apresentam i
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 0, **Manha** 2, **Vigor** 1, **Flex** 0
 
 ---
@@ -63,7 +63,7 @@ Este morfo é derivado de DNA neandertal fossilizado, elevado e aprimorado à eq
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 0, **Manha** 1, **Vigor** 2, **Flex** 1
 
 ---
@@ -86,7 +86,7 @@ Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como out
 
 ---
 
-- **LF:** 9 • **DUR:** 45 • **GM:** 68
+- **LF:** 9 • **DUR:** 45 • **GD:** 68
 - **Inspiração** 0, **Manha** 0, **Vigor** 3, **Flex** 1
 
 ---
@@ -109,7 +109,7 @@ Coloquialmente chamados de "octomorfos", essas capas de polvos elevados são bas
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 1, **Manha** 1, **Vigor** 1, **Flex** 2
 
 ---
@@ -133,7 +133,7 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 1, **Vigor** 2, **Flex** 0
 
 ---
