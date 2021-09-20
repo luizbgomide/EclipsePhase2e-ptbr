@@ -38,7 +38,7 @@
 - Espaçonaves movidas por fusão entram em uso.
 - A colonização e a terraformação de Marte continuam.
 - O Cinturão e Titã são colonizados. Estações são estabelecidas por todo o sistema.
-- As massas famintas são recrutadas para servidão contratual em projetos espaciais das hipercorps.
+- As massas famintas são recrutadas para a servidão por arrendamento em projetos espaciais das hipercorps.
 - Os primeiros uploads destrutivos são realizados, emulando mentes digitalmente.
 - Os primeiros golfinhos e chimpanzés são elevados à sapiência, gerando controvérsia.
 
