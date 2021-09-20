@@ -12,7 +12,7 @@ Indiscutivelmente a peça mais importante de tecnologia já inventada pela trans
 
 Uma pilha cortical está ligada a uma rede de laço neural de nanobots por todo o cérebro (biomorfos) ou ao cibercérebro (prods e sintemorfos). Ela faz backup do seu ego a cada segundo, ou 86.400 vezes por dia da Terra. Baseado na quantidade de dados de um cérebro transumano, isso não é coisa fácil. Adicione bilhões de conexões entre neurônios, e isso é ainda mais impressionante. Quase todos no Sistema Solar têm uma, com exceção de crianças muito jovens e crus que vivem em governos bioconservadores.
 
-Além de conter um backup do seu ego, sua pilha cortical faz backup de tudo dos seus insertos da mesh: sua musa, lifelog, qualquer software ou matriz que você possuir, e todos os outros dados que você tenha. Isso ocupa um espaço minúsculo em comparação ao próprio ego.
+Além de conter um backup do seu ego, sua pilha cortical faz backup de tudo dos seus insertos da mesh: sua musa, lifelog, quaisquer softwares ou diagramas que você possuir, e todos os outros dados que você tenha. Isso ocupa um espaço minúsculo em comparação ao próprio ego.
 
 ### Empremendo uma Pilha
 
@@ -74,10 +74,10 @@ Todos os serviços de backup fornecem o seguinte:
 - Uma tentativa de recuperar sua pilha/ego através dos canais apropriados.
 - No caso de morte verificada, reinstanciar você como um infomorfo a partir sua pilha (se recuperada) ou de um backup arquivado (se não) para discutir opções.
 - Fazer o mesmo para o caso de você estar desaparecido por um período pré-determinado (geralmente 6 meses, mas variável). A maioria das pessoas configura suas musas para enviar sinais periodicamente.
-- Reencapar você em um morfo de PM equivalente, dependendo da disponibilidade. No caso de repetidas mortes em um curto período de tempo, esse valor de PM será reduzido a cada morte subsequente ([Adquirindo Morfos](../15/03-acquiring-morphs.md)).
+- Reencapar você em um morfo de PM equivalente, dependendo da disponibilidade. No caso de repetidas mortes em um curto período de tempo, esse valor de PM será reduzido a cada morte subsequente ([Aquisição de Morfos](../15/03-acquiring-morphs.md)).
 
 Para pessoas com recursos, serviços adicionais podem ser oferecidos, incluindo opções recuperação de pilha em condições perigosas ou armazenamento protegido ([Serviços](../16/04-services.md)).
 
 ### Personagens Sem Seguro
 
-Se você tiver o traço [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance), você não tem um plano de contingência em vigor. Você deve tentar morrer em território titaniano ou anarquista, pois eles provavelmente vão trazê-lo de volta. Em espaço de hipercorp, personagens sem seguro podem receber ofertas de trabalho contratado ou ficarem armazenados até que alguém os reivindique. Em outros lugares, a sua pilha pode simplesmente ser destruída ou vendida no mercado negro. Sem um plano, a morte pode ser o fim do seu personagem.
+Se você tiver o traço [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance), você não tem um plano de contingência em vigor. Você deve tentar morrer em território titaniano ou anarquista, pois eles provavelmente vão trazê-lo de volta. Em espaço de hipercorp, personagens sem seguro podem receber ofertas de um contrato de arrendamento ou ficarem armazenados até que alguém os reivindique. Em outros lugares, a sua pilha pode simplesmente ser destruída ou vendida no mercado negro. Sem um plano, a morte pode ser o fim do seu personagem.

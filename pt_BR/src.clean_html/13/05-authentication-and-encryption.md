@@ -70,7 +70,7 @@ Sistemas CQ dependem de uma senha entregue em canal de entrelaçamento quântico
 
 Como hackear ou quebrar a criptografia podem ser desafiadores ou levar tempo, às vezes é mais fácil contornar os sistemas de autenticação.
 
-### Adquirindo Credenciais
+### Aquisição de Credenciais
 
 Se você puder de alguma forma adquirir a senha, chave de acesso, biometria, ou dispositivo de entrelaçamento quântico usado para autenticar uma conta, você pode fazer login como um usuário legítimo, sem precisar de testes. Esses podem exigir meios criativos para serem adquiridos: roubo, chantagem, suborno, engenharia social, forquestro, ou métodos desagradáveis como tortura.
 
@@ -82,7 +82,7 @@ Não tendo as credenciais reais, você pode tentar falsificá-las. Sistemas biom
 
 Você pode tentar disfarçar a sua conexão como se ela viesse de um usuário ou sistema legítimo. Se tiver sucesso, o sistema de destino é enganado pela farsa e trata seus comandos e outros tráfegos como legítimos.
 
-Para mascarar sinais, você precisa primeiro monitorar com sucesso uma conexão ativa entre os dois sistemas usando um app farejador ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Armado com esses dados, você pode usá-los para mascarar seus próprios sinais com um app mascarador. Isso exige uma ação complexa e um [Teste de Hackeamento](../13/11-hacking.md#hacking-tests) entre você o sistema alvo (o que está _recebendo_ os sinais). Se os sistemas estão se comunicando via VPN, esse teste sofre um modificador −30. Se você vencer, suas comunicações são tratadas como se viessem do sistema legítimo. Se o firewall perder a disputa mas também tiver sucesso, ele está ciente que há discrepâncias com a transmissão (o que não é tão incomum). Ele pode investigar mais; isso exige outro Teste de Hackeamento (o mascarador sofre −30 contra um VPN); se o defensor vencer, ele detecta evidências que as comunicações recebidas estão sendo adulteradas e pode responder de acordo ([Contramedidas](../13/12-countermeasures.md)).
+Para mascarar sinais, você precisa primeiro monitorar com sucesso uma conexão ativa entre os dois sistemas usando um app de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Armado com esses dados, você pode usá-los para mascarar seus próprios sinais com um app de mascaramento. Isso exige uma ação complexa e um [Teste de Hackeamento](../13/11-hacking.md#hacking-tests) entre você o sistema alvo (o que está _recebendo_ os sinais). Se os sistemas estão se comunicando via VPN, esse teste sofre um modificador −30. Se você vencer, suas comunicações são tratadas como se viessem do sistema legítimo. Se o firewall perder a disputa mas também tiver sucesso, ele está ciente que há discrepâncias com a transmissão (o que não é tão incomum). Ele pode investigar mais; isso exige outro Teste de Hackeamento (o mascarador sofre −30 contra um VPN); se o defensor vencer, ele detecta evidências que as comunicações recebidas estão sendo adulteradas e pode responder de acordo ([Contramedidas](../13/12-countermeasures.md)).
 
 Observe que o mascaramento só permite que você falsifique sinais de um sistema para outro. Para falsificar sinais no outro sentido, você deve ter sucesso em um [Teste de Hackeamento](../13/11-hacking.md#hacking-tests) contra o outro sistema também. Um ataque de intermediário contra os dois sistemas pode ser desafiador, mas bastante devastador.
 
@@ -92,7 +92,7 @@ Existem dois tipos de criptografia comumente usadas em Eclipse Phase: chave púb
 
 ### Criptografia de Chave Pública
 
-Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Criptoanálise Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps farejadores exploram falhas na implementação do protocolo que lhes permite capturar, contonar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
+Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Criptoanálise Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps de farejamento exploram falhas na implementação do protocolo que lhes permite capturar, contonar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
 
 ### Criptografia de Chave Quântica
 

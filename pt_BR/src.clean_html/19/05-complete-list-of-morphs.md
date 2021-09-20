@@ -1,7 +1,7 @@
 # Lista Completa de Morfos
 
 <table class="stat-list centered tl1">
-<thead><tr><th>BIOMORFOS COMUNS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>BIOMORFOS COMUNS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Cru<td>0&nbsp;PM<td>30<td>6<td>30<td>45<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
@@ -30,14 +30,14 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Ferroso<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radioativo, Tolerância ao Frio
+- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 
 <!-- CLEANED /div --></tr>
 <tr><td>Ricochete<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
@@ -112,7 +112,7 @@
 ---
 
 <table class="stat-list centered tl1">
-<thead><tr><th>BIOMORFOS PRODS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>BIOMORFOS PRODS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Prod Básico<td>1&nbsp;PM<td>80<td>6<td>30<td>45<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
@@ -129,7 +129,7 @@
 - **Ware:** Biomods, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 
 <!-- CLEANED /div --></tr>
-<tr><td>Novacrab<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
+<tr><td>Novacancridae<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -164,7 +164,7 @@
 ---
 
 <table class="stat-list centered tl1">
-<thead><tr><th>BIOMORFOS ELEVADOS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>BIOMORFOS ELEVADOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Neo-Ave<td>0&nbsp;PM<td>50<td>5<td>25<td>38<td>2<td>1<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
@@ -172,7 +172,7 @@
 - **Taxa de Movimento:** Asas 8/40, Marcha 2/8
 - **Ware:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Neo-Bonobo/<!-- CLEANED wbr -->Neo-Chimpanzé<td>1&nbsp;PM<td>50<td>6<td>30<td>45<td>0<td>2<td>1<td>0</tr>
@@ -223,7 +223,7 @@
 ---
 
 <table class="stat-list centered tl1">
-<thead><tr><th>SINTEMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>SINTEMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Estojo<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
@@ -240,7 +240,7 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Luva de Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Libélula<td>1&nbsp;PM<td>70<td>5<td>25<td>50<td>1<td>0<td>1<td>0</tr>
@@ -249,7 +249,7 @@
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Ware:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Enxamenoide<td>3&nbsp;PM<td>60<td>—<td>50<td>100<td>2<td>0<td>0<td>0</tr>
@@ -336,13 +336,13 @@
 - **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/12
 - **Ware:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), Tamanho pequeno
+- **Notas:** Armação Leve (Armadura 6/4), Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 </table>
 
 <table class="stat-list centered tl1">
-<thead><tr><th>MÓDULOS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>MÓDULOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Módulo Construtor<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
@@ -355,7 +355,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Armadura de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
+- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
 
 <!-- CLEANED /div --></tr>
 <tr><td>Módulo Ladino<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
@@ -368,7 +368,7 @@
 <tr><td>Módulo Feiticeiro<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
-- **Ware:** Amplificador de Rádio, App Farejador, App Rastreador
+- **Ware:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
@@ -377,7 +377,7 @@
 ---
 
 <table class="stat-list centered tl1">
-<thead><tr><th>INFOMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GM<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+<thead><tr><th>INFOMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
 <tr><td>Digimorfo<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->

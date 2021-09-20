@@ -64,7 +64,7 @@ Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas 
 
 ## Demolições
 
-Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermita](../16/18-mission-gear.md#salvage-tools) ou [granadas](../12/10-seeker-weapons-and-grenades.md).
+Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermite](../16/18-mission-gear.md#salvage-tools) ou [granadas](../12/10-seeker-weapons-and-grenades.md).
 
 ### Instalando Explosivos
 

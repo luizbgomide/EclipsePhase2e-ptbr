@@ -18,7 +18,7 @@ Os truques psi-chi afetam apenas o assincro. Os truques psi-gama podem ser usado
 
 Você não ter como alvo: sintemorfos, bots e veículos, com truques psi, pois eles não possuem sistemas biológicos. Prods e biomorfos com cibercérebros são menos suscetíveis; assincros sofrem um modificador −30 contra eles. Repare que infomorfos nunca podem ser alvo de truques psi, pois o psi não é eficaz dentro da mesh ou de simulespaços.
 
-Você deve ter linha de visão com o alvo ou estar ciente da presença dele em relação a você (por exemplo, usando o truque sentido de ego ou visualizando-o através de uma tacnet). Paredes com um total de Armadura/GM combinado de 100 ou mais bloquearão truques psi. Os modificadores de combate de distância para cobertura e alvos escondidos se aplicam aos Testes de Psi.
+Você deve ter linha de visão com o alvo ou estar ciente da presença dele em relação a você (por exemplo, usando o truque sentido de ego ou visualizando-o através de uma tacnet). Paredes com um total de Armadura/GD combinado de 100 ou mais bloquearão truques psi. Os modificadores de combate de distância para cobertura e alvos escondidos se aplicam aos Testes de Psi.
 
 **Animais e Formas de Vida Menos Complexas:** Psi funciona contra qualquer criatura viva com um cérebro e/ou sistema nervoso. Contra animais parcialmente sapientes e parcialmente elevados, ele sofre um modificador −20. Contra animais não sapientes, sofre um modificador −30. Ele não tem efeito sobre ou contra formas de vida menos complexas como plantas, algas, bactérias, etc.
 

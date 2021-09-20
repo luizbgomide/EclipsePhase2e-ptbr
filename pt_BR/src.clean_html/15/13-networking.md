@@ -66,7 +66,7 @@ Embora seja fácil lidar com favores de rep como uma rolagem rápida de dados, o
 
 ### Adquirir/Repassar Produtos
 
-As redes sociais são uma boa forma de encontrar itens que você não pode comprar legalmente ou fazer em casa. Nas áreas autonomistas do sistema exterior, elas são a forma de obter acesso aos recursos comunitários do habitat. Siga as regras em [Adquirindo Equipamentos](../16/02-acquiring-gear.md) quando usar sua rep dessa forma.
+As redes sociais são uma boa forma de encontrar itens que você não pode comprar legalmente ou fazer em casa. Nas áreas autonomistas do sistema exterior, elas são a forma de obter acesso aos recursos comunitários do habitat. Siga as regras em [Aquisição de Equipamentos](../16/02-acquiring-gear.md) quando usar sua rep dessa forma.
 
 Às vezes você pode estar procurando se livrar de equipamentos ou coisas valiosas. Nesse caso, um Teste de Rep pode ser feito para trocar produtos por um favor equivalente, ou um favor um nível abaixo, no futuro. Os MJs devem usar seu critério nisso, tendo em mente que no sistema interior baseado no lucro, o valor de troca geralmente é menor do que o custo real. Por exemplo, repassar um equipamento de complexidade Moderada pode lhe fornecer um favor Menor extra. No entanto, no sistema exterior as trocas são mais equivalentes. Como alternativa, contribuir com equipamentos para os recursos comunitários do habitat geral pode proporcionar um pequeno aumento no nível de rep.
 

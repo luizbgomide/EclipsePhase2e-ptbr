@@ -32,7 +32,7 @@ As ILAs não podem recorrer; se elas não possuem uma perícia, elas não podem 
 
 As ILAs não recebem paradas, a menos que sejam fornecidas pelo morfo, bot, veículo ou outro dispositivo que estão operando.
 
-Por projeto, as ILAs são incapazes de se autoaperfeiçoar. Para adquirir ou melhorar uma perícia, elas devem ser reprogramadas ou usar peritrônicos. Elas não ganham Pontos de Rez.
+Por projeto, as ILAs são incapazes de se autoaperfeiçoar. Para adquirir ou melhorar uma perícia, elas devem ser reprogramadas ou usar um carregador pericial. Elas não ganham Pontos de Rez.
 
 Para todas as outras regras, as ILAs são tratadas como [infomorfos](../13/08-infomorphs.md).
 

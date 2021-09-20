@@ -38,7 +38,7 @@ As suas aptidões, perícias, e alguns atributos e traços derivados pertencem a
 - Paradas
 - Durabilidade
 - Limiar de Ferimento
-- Grau de Morte
+- Grau de Destruição
 - Traços de Morfo
 
 <!-- CLEANED /div -->
@@ -63,7 +63,7 @@ Há 6 graduações de aptidão:
 Às vezes, você vai usar suas aptidões para fazer testes em vez de perícias aprendidas. As verificações de aptidão normalmente só entram em jogo em situações onde nenhuma perícia é aplicável, mas o talento bruto sim. Alguns exemplos:
 
 - **Prova de Cognição (COG):** Relembrar uma memória, memorizar um número ou resistir à manipulação mental.
-- **Prova de Intuição (INT):** Avaliar uma situação, ver através de uma ilusão ou perceber intenções alienígenas.
+- **Prova de Intuição (INT):** Avaliar uma situação, ver através de uma ilusão ou entender intenções alienígenas.
 - **Prova de Reflexos (REF):** Pegar um objeto atirado, equilibrar-se, evitar clarões cegantes ou impedir que você caia.
 - **Prova de Sagacidade (SAG):** Avaliar uma situação social, demonstrar empatia, seguir etiqueta ou resistir à manipulação social.
 - **Prova de Somática (SOM):** Usar força bruta, suportar privações ou escapar de agarramentos.
@@ -77,7 +77,7 @@ As perícias representam habilidades aprendidas e aperfeiçoadas através de edu
 
 ## Morfo
 
-Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Este pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](../04/21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Adquirindo Morfos](../15/03-acquiring-morphs.md).
+Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Este pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](../04/21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Aquisição de Morfos](../15/03-acquiring-morphs.md).
 
 ## Atributos Derivados
 
@@ -86,7 +86,7 @@ Vários dos seus atributos são derivados de outros atributos ou aspectos do seu
 - **Iniciativa (INIT):** Iniciativa determina a ordem em que as pessoas agem durante os turnos de ação. [Iniciativa & Ordem das Ações](../03/04-initiative-order-of-actions.md).
 - **Limiar de Ferimento (LF):** A quantidade de danos que você pode aguentar antes de receber um ferimento. [Saúde Física](../12/16-physical-health.md).
 - **Durabilidade (DUR):** A saúde do seu personagem, determinada pelo seu morfo. [Saúde Física](../12/16-physical-health.md).
-- **Grau de Morte (GM):** A quantidade de danos que é preciso para matar você, determinada pelo morfo. [Saúde Física](../12/16-physical-health.md).
+- **Grau de Destruição (GD):** A quantidade de dano que é preciso para matar você, determinada pelo morfo. [Saúde Física](../12/16-physical-health.md).
 - **Limiar de Trauma (LT):** A quantidade de estresse que você pode aguentar antes de receber um trauma. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
 - **Lucidez (LUC):** A saúde mental do seu personagem, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
 - **Grau de Insanidade (GI):** A quantidade de estresse o deixará insano, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
@@ -102,7 +102,7 @@ Vários dos seus atributos são derivados de outros atributos ou aspectos do seu
 | Iniciativa                          | (REF + INT) ÷ 5                                                 |
 | Provas de Aptidão                   | Aptidão × 3                                                     |
 | Limiar de Ferimento                 | DUR ÷ 5                                                         |
-| Grau de Morte                       | DUR x 1,5 (biomorfos)<br>DUR x 2 (sintemorfos/infomorfos) |
+| Grau de Destruição                  | DUR x 1,5 (biomorfos)<br>DUR x 2 (sintemorfos/infomorfos) |
 | Limiar de Trauma                    | LUC ÷ 5                                                         |
 | Lucidez                             | VON × 2                                                         |
 | Grau de Insanidade                  | LUC × 2                                                         |
@@ -128,7 +128,7 @@ Seu personagem tem nível de reputação em diferentes redes sociais. Essa rep v
 
 ## Equipamentos
 
-Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, armaduras, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](../04/27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Adquirindo Equipamentos](../16/02-acquiring-gear.md).
+Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, armaduras, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](../04/27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
 
 ## Motivações
 
