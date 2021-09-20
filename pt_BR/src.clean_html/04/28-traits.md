@@ -42,7 +42,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Rapidez](../04/28-traits.md#quickness)                             |  1/2/3   | +5 por nível em Provas de REF.                                                                                                                                                                                       |
 | [Determinação](../04/28-traits.md#resolve)                          |  1/2/3   | +5 por nível em Provas de VON.                                                                                                                                                                                       |
 | [Recursos](../04/28-traits.md#resources)                            | 2/4/6/8  | Riqueza para adquirir equipamentos. Veja o texto.                                                                                                                                                                    |
-| [Consciência Situacional](../04/28-traits.md#situational-awareness) |    1     | Sem modificadores de distração.                                                                                                                                                                                      |
+| [Consciência Situacional](../04/28-traits.md#situational-awareness) |    1     | Nega modificadores de distração.                                                                                                                                                                                     |
 | [Visualização Espacial](../04/28-traits.md#spatial-visualization)   |    2     | +10 em Testes de Saber e Técnicos envolvendo visualização 3D.                                                                                                                                                        |
 | [Intrépído](../04/28-traits.md#stalwart)                            |  1/2/3   | +10 por nível em Provas de VON vs. medo.                                                                                                                                                                             |
 | [Facilidade com Números](../04/28-traits.md#superior-numeracy)      |   2/4    | +10 por nível em Testes de Saber e Técnicos envolvendo matemática.                                                                                                                                                   |
@@ -74,7 +74,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Determinação](../04/28-traits.md#resolve)                              |  1/2/3   | +5 por nível em Provas de VON.                                                        |
 | [Resíduo Pericial](../04/28-traits.md#skill-artifact)                   |   1/2    | +10 por nível em uma perícia escolhida pelo MJ.                                       |
 | [Aparência Marcante](../04/28-traits.md#striking-looks)                 |   1/2    | +10 em Testes de Persuasão e Provocação quando a aparência importar.                  |
-| [Resistência](../04/28-traits.md#toughness)                             |   2/4    | +5 em DUR, também impacta LF e GM, veja o texto.                                      |
+| [Resistência](../04/28-traits.md#toughness)                             |   2/4    | +5 em DUR, também impacta LF e GD, veja o texto.                                      |
 
 <!-- CLEANED /blockquote -->
 
@@ -280,7 +280,7 @@ Você é firme e inabalável. Receba +5 por nível em Provas de VON.
 
 **Traço de ▲ Ego • Custo de PP: 2/4/6/8**
 
-Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e governos jovianos e extropianos. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço quando [adquirir morfos](../15/03-acquiring-morphs.md) e [equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
+Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e governos jovianos e extropianos. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço para [aquisição de morfos](../15/03-acquiring-morphs.md) e [de equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
 
 No Nível 1, você pode gastar até 2&nbsp;PE por semana em itens de complexidade de Menor, dado o prazo adequado.
 
@@ -290,7 +290,7 @@ No Nível 3, você pode gastar até 5&nbsp;PE por semana em itens de qualquer co
 
 O Nível 4 é o mesmo que o Nível 3, exceto que você também tem a capacidade de ter até mesmo itens Raros e Restritos disponíveis (a critério do mestre de jogo).
 
-Na maioria dos casos, adquirir equipamentos é simplesmente uma questão de usar o seu traço Recursos e aguardar o tempo adequado, assumindo que o item desejado está disponível ([Adquirindo Equipamentos Durante Missões](../16/02-acquiring-gear.md#acquiring-gear-during-missions)). No entanto, a critério do MJ, o uso de Recursos pode exigir um Teste de Persuasão apropriado (para convencer outra parte a vender o item) ou talvez um Teste de Pesquisa (para encontrar uma fonte).
+Na maioria dos casos, adquirir equipamentos é simplesmente uma questão de usar o seu traço Recursos e aguardar o tempo adequado, assumindo que o item desejado está disponível ([Aquisição de Equipamentos Durante Missões](../16/02-acquiring-gear.md#acquiring-gear-during-missions)). No entanto, a critério do MJ, o uso de Recursos pode exigir um Teste de Persuasão apropriado (para convencer outra parte a vender o item) ou talvez um Teste de Pesquisa (para encontrar uma fonte).
 
 Os Níveis 3 e 4 desse traço implicam uma quantidade de recursos que torna você rico. Para refletir isso, você pode usar 2 dos seus PE semanais em conjunto com um ponto de Flex para controle narrativo para dizer que você tem um item de equipamento Moderado ao seu dispor em sua casa/veículo/pertences pessoais. Você precisa ter acesso aos seus pertences pessoais e (como em todos os usos de Flex para controle narrativo) o item deve ser plausível.
 
@@ -342,7 +342,7 @@ Você é muito bom com números. Aplique um modificador +10 por nível em Testes
 
 **Traço de ▼ Morfo • Custo de PM: 2/4**
 
-Esta morfo aguenta mais abuso físico do que outros de seu tipo. Para cada nível, aumente a Durabilidade em 5. Isso também aumentará o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Morte (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
+Esta morfo aguenta mais abuso físico do que outros de seu tipo. Para cada nível, aumente a Durabilidade em 5. Isso também aumentará o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
 
 ### Zoosemiótica
 
@@ -402,7 +402,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
 | [Morfologia Exótica](../04/28-traits.md#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
 | [Fraqueza](../04/28-traits.md#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
-| [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GM, veja o texto.                                                                                |
+| [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
 | [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas crus.                                                           |
 | [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
 | [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
@@ -527,7 +527,7 @@ Ou o seu morfo é fraco ou você não é hábil em usar a força dele. Aplique u
 
 **Traço de ▼ Morfo • Bônus de PM: 2/4**
 
-O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade em 5 por nível. Isso também reduzirá o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Morte (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
+O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade em 5 por nível. Isso também reduzirá o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
 
 ### Defeito Genético
 
