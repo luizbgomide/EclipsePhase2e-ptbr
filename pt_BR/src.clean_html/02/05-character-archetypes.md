@@ -104,7 +104,7 @@ O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hard
 
 <!-- CLEANED /blockquote -->
 
-**Encarnadores de Bot:** O encarnador gerencia um grupo de drones de combate sofisticados, bots descartáveis e nanomáquinas. Quando usados em conjunto, o encarnador tem o domínio do campo de batalha. Ligados na rede tática do grupo, os bots do encarnador vasculham o mapa. Atiradores atormentam o inimigo. Drones espiões colocam grampos transmissores em redes desconectadas. Bots blindados vão em missões suicidas para que a equipe possa escapar. O encarnador de bot é sozinho praticamente um esquadrão completo de combate.
+**Encarnadores de Bot:** O encarnador gerencia um grupo de drones de combate sofisticados, bots descartáveis e nanomáquinas. Quando usados em conjunto, o encarnador tem o domínio do campo de batalha. Ligados na rede tática do grupo, os bots do encarnador esquadrinham o mapa. Atiradores atormentam o inimigo. Drones espiões colocam grampos transmissores em redes desconectadas. Bots blindados vão em missões suicidas para que a equipe possa escapar. O encarnador de bot é sozinho praticamente um esquadrão completo de combate.
 
 <!-- CLEANED blockquote class="indent" -->
 
