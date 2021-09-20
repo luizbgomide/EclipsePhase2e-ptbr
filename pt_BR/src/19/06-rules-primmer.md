@@ -59,7 +59,7 @@ Para um resultado maior, escolha um dos seguintes. Para dois resultados maiores,
 
 Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
 
-- Dobrar o dano que você inflinge com um ataque.
+- Dobrar o dano que você inflige com um ataque.
 - Obter um modificador +/−20 para o próximo teste que você fizer.
 - Fazer uma ação extra (sucesso crítico) ou perder a sua próxima ação (falha crítica).
 - Quebrar uma arma/ferramenta (falha crítica).
@@ -214,7 +214,7 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 - Acertos críticos dobram o VD.
 - O dano da arma é reduzido pela armadura energética ou cinética do alvo, conforme apropriado.
 - Se o dano igualar ou exceder o Limiar de Ferimento do alvo, um ferimento é causado. Se o dano igualar ou exceder o Limiar de Ferimento do alvo múltiplas vezes, vários ferimentos são infligidos.
-- Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Morte, ele está morto/destruído.
+- Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Destruição, ele está morto/destruído.
 
 </blockquote>
 

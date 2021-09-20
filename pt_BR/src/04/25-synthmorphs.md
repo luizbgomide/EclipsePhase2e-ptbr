@@ -44,7 +44,7 @@ Os estojos são carcaças robóticas produzidas em massa, um opção acessível 
 
 ---
 
-- **LF:** 5 • **DUR:** 25 • **GM:** 50
+- **LF:** 5 • **DUR:** 25 • **GD:** 50
 - **Inspiração** 0, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -68,7 +68,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 
 ---
 
-- **LF:** 3 • **DUR:** 15 • **GM:** 30
+- **LF:** 3 • **DUR:** 15 • **GD:** 30
 - **Inspiração** 0, **Manha** 1, **Vigor** 0, **Flex** 0
 
 ---
@@ -76,7 +76,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 - **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Luva de Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </blockquote>
 
@@ -92,7 +92,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 
 ---
 
-- **LF:** 5 • **DUR:** 25 • **GM:** 50
+- **LF:** 5 • **DUR:** 25 • **GD:** 50
 - **Inspiração** 1, **Manha** 0, **Vigor** 1, **Flex** 0
 
 ---
@@ -100,13 +100,13 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Ware:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </blockquote>
 
 ### Enxamenoide
 
-Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada "inseto" individual é capaz de rastejar, rolar, saltar vários metros, ou movimento áereo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se "fundir" em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e são capazes de interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
+Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada "inseto" individual é capaz de rastejar, rolar, pular vários metros, ou movimento áereo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se "fundir" em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e são capazes de interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
 <blockquote class="indent stat-list">
 
@@ -116,7 +116,7 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 
 ---
 
-- **LF:** — • **DUR:** 50 • **GM:** 100
+- **LF:** — • **DUR:** 50 • **GD:** 100
 - **Inspiração** 2, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -140,7 +140,7 @@ Os sintes são ainda mais humanoides que os estojos e de melhor qualidade. Eles 
 
 ---
 
-- **LF:** 8 • **DUR:** 40 • **GM:** 80
+- **LF:** 8 • **DUR:** 40 • **GD:** 80
 - **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 1
 
 ---
@@ -164,7 +164,7 @@ Desenvolvidos por hackers de hardware marginais, os savants possuem aprimorament
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 70
+- **LF:** 7 • **DUR:** 35 • **GD:** 70
 - **Inspiração** 3, **Manha** 0, **Vigor** 1, **Flex** 1
 
 ---
@@ -188,7 +188,7 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 
 ---
 
-- **LF:** 8 • **DUR:** 40 • **GM:** 80
+- **LF:** 8 • **DUR:** 40 • **GD:** 80
 - **Inspiração** 1, **Manha** 2, **Vigor** 1, **Flex** 1
 
 ---
@@ -212,7 +212,7 @@ As carcaças serpentoides tem a forma de um torso humanoide com braços retráte
 
 ---
 
-- **LF:** 9 • **DUR:** 45 • **GM:** 90
+- **LF:** 9 • **DUR:** 45 • **GD:** 90
 - **Inspiração** 0, **Manha** 1, **Vigor** 3, **Flex** 0
 
 ---
@@ -236,7 +236,7 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 
 ---
 
-- **LF:** 8 • **DUR:** 40 • **GM:** 80
+- **LF:** 8 • **DUR:** 40 • **GD:** 80
 - **Inspiração** 0, **Manha** 1, **Vigor** 3, **Flex** 1
 
 ---
@@ -250,7 +250,7 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 
 ### Aracnoide
 
-As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros e outros artrópodes. Três ou quatro conjuntos de membros pneumáticos são capazes de girar em torno de seu tronco de de um metro, e um conjunto adicional de braços manipuladores perto da cabeça possibilita a manipulação fina e o uso de ferramentas. Aracnoides se movem usando marcha, saltos, estendendo minirrodas omnidirecionais para movimento deslizante, ou retraindo seus membros e manobrando com propulsores de ar vetoriais em microgravidade.
+As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros e outros artrópodes. Três ou quatro conjuntos de membros pneumáticos são capazes de girar em torno de seu tronco de de um metro, e um conjunto adicional de braços manipuladores perto da cabeça possibilita a manipulação fina e o uso de ferramentas. Aracnoides se movem usando marcha, pulos, estendendo minirrodas omnidirecionais para movimento deslizante, ou retraindo seus membros e manobrando com propulsores de ar vetoriais em microgravidade.
 
 <blockquote class="indent stat-list">
 
@@ -260,7 +260,7 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 
 ---
 
-- **LF:** 11 • **DUR:** 55 • **GM:** 110
+- **LF:** 11 • **DUR:** 55 • **GD:** 110
 - **Inspiração** 1, **Manha** 0, **Vigor** 3, **Flex** 0
 
 ---
@@ -284,7 +284,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 ---
 
-- **LF:** 12 • **DUR:** 60 • **GM:** 120
+- **LF:** 12 • **DUR:** 60 • **GD:** 120
 - **Inspiração** 1, **Manha** 0, **Vigor** 6, **Flex** 1
 
 ---
@@ -313,7 +313,7 @@ Cada flexbot é considerada uma única entidade para fins de regras, não import
 - Um flexbot com 3–4 módulos é de tamanho médio; 5–9 grande; 10 ou mais muito grande.
 - O Valor de Armadura de um flexbot é igual à média dos VAs de seus módulos.
 - A DUR de um flexbot é igual a DUR combinada de seus módulos.
-- O Limiar de Ferimento é igual a DUR ÷ 5 e o Grau de Morte igual a DUR × 2.
+- O Limiar de Ferimento é igual a DUR ÷ 5 e o Grau de Destruição igual a DUR × 2.
 - Os danos são aplicados uniformemente entre os módulos. Se um módulo desconectado tiver dano superior ao seu Limiar de Ferimento, um ferimento pode ser atribuído a ele. Módulos distintos podem ser mirados com ataques precisos.
 - Os robôs de tamanhos variados podem ser integrados como módulos. Bots pequenos contam como módulos completos. Trate 5 bots muito pequenos como 1 módulo; apenas aplique um bônus de parada (igual a parada de um bot) se houver pelo menos cinco do mesmo tipo. Um bot médio conta como 3 módulos, um bot grande como 5 módulos, e um bot muito grande como 10 módulos. Use a média de seus VAs (levando em conta as contagens de bots como múltiplos módulos) e combine a DUR como descrito acima.
 - Bônus de alguns outros traços e wares só se aplicam se cada módulo no flexbot os tiver (ex.: pele camaleão); use o bom senso.
@@ -331,7 +331,7 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 - **Taxa de Movimento:** Empuxo Vetorial 8/40, Marcha 4/12
 - **Ware:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), Tamanho pequeno
+- **Notas:** Armação Leve (Armadura 6/4), Tamanho Pequeno
 
 </blockquote>
 
@@ -347,7 +347,7 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 ---
 
-- **LF:** 4 • **DUR:** 20 • **GM:** 40
+- **LF:** 4 • **DUR:** 20 • **GD:** 40
 - **Inspiração** 1, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -369,13 +369,13 @@ Estes módulos são feitos para o combate.
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 60
+- **LF:** 6 • **DUR:** 30 • **GD:** 60
 - **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
 
 ---
 
 - **Ware:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Armadura de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, armas de distância
+- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, armas de distância
 
 </blockquote>
 
@@ -391,7 +391,7 @@ Os ladinos são otimizados para furtividade e atividades ocultas.
 
 ---
 
-- **LF:** 4 • **DUR:** 20 • **GM:** 40
+- **LF:** 4 • **DUR:** 20 • **GD:** 40
 - **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
 
 ---
@@ -413,12 +413,12 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 
 ---
 
-- **LF:** 4 • **DUR:** 20 • **GM:** 40
+- **LF:** 4 • **DUR:** 20 • **GD:** 40
 - **Inspiração** 1, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
 
-- **Ware:** Amplificador de Rádio, App Farejador, App Rastreador
+- **Ware:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 </blockquote>

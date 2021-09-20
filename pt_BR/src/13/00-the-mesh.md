@@ -65,7 +65,7 @@
     - [Chave de Acesso](../13/05-authentication-and-encryption.md#chave-de-acesso)
     - [Chave Quântica](../13/05-authentication-and-encryption.md#chave-quântica)
   - [Burlando a Autenticação](../13/05-authentication-and-encryption.md#burlando-a-autenticação)
-    - [Adquirindo Credenciais](../13/05-authentication-and-encryption.md#adquirindo-credenciais)
+    - [Aquisição de Credenciais](../13/05-authentication-and-encryption.md#aquisição-de-credenciais)
     - [Forjando a Autenticação](../13/05-authentication-and-encryption.md#forjando-a-autenticação)
     - [Mascaramento](../13/05-authentication-and-encryption.md#mascaramento)
   - [Criptografia](../13/05-authentication-and-encryption.md#criptografia)

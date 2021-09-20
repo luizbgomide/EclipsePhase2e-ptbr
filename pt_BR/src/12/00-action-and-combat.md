@@ -95,7 +95,7 @@
   - [Ferimentos](../12/16-physical-health.md#ferimentos)
   - [Efeitos de Ferimento](../12/16-physical-health.md#efeitos-de-ferimento)
   - [Sangramento](../12/16-physical-health.md#sangramento)
-  - [Grau de Morte](../12/16-physical-health.md#grau-de-morte)
+  - [Grau de Destruição](../12/16-physical-health.md#grau-de-destruição)
   - [Morte](../12/16-physical-health.md#morte)
 - [Cura & Reparo](../12/17-healing-and-repair.md)
   - [Cura de Biomorfos](../12/17-healing-and-repair.md#cura-de-biomorfos)

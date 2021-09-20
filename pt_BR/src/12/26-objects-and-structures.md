@@ -20,7 +20,7 @@ Ataques feitos através de um item ou estrutura em um alvo do outro lado sofrem 
 
 Criar um item do zero é tratado como uma ação de tarefa com um prazo determinado pelo MJ. O prazo deve ser definido de acordo com a complexidade do objeto e pode variar de uma hora (construir um conjunto de prateleiras) a dias (montar um robô com peças sobresselentes) ou até meses (construir uma casa). Vários fatores podem aplicar modificadores ao teste, como o uso de projetos/manuais entópticos (+10) ou condições ruins de trabalho (−10 a −30). As ferramentas também são um fator, podendo tornar o trabalho mais fácil (ferramentas melhores +10 a +30), mais difícil (ferramentas ruins ou inadequadas, −10 a −30) ou impossível (falta das ferramentas necessárias).
 
-Para as regras de nanofabricação de objetos, veja [Adquirindo Equipamentos](../16/02-acquiring-gear.md).
+Para as regras de nanofabricação de objetos, veja [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
 
 ## Reparando Objetos
 

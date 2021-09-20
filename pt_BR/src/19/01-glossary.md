@@ -23,6 +23,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **AQ:** Antes da Queda (usado para datação referencial).
 - **Aracnoide:** Um sintemorfo robótico tipo aranha.
 - **Argonautas:** Uma união de cientistas tecnoprogressistas que promovem o uso ético e responsável da tecnologia.
+- **Arrendado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
 - **Artifex:** Um nanoengenheiro.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **Artificial:** Gíria marciana para uma vida artificial incorporada.
@@ -37,6 +38,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
 - **Barsoomianos:** Um movimento que apoia a independência marciana do controle hipercorporativo, aliado aos autonomistas.
 - **Batiscafo:** Um habitat subaquático.
+- **BazAr:** O Bazar de Arrendamentos onde se negociam contratos de arrendados.
 - **Bioconservadores:** Um movimento antitecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
 - **Bioware:** Aprimoramentos biológicos para biomorfos.
@@ -49,7 +51,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Carona Virtual:** Um infomorfo carregado em um implante especial.
 - **Casa de Bonecas:** Um fornecedor de alto padrão de morfos sob medida.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
-- **Ceifeiro:** Um sintemorfo tipo robô de guerra.
+- **Ceifeiro:** Um sintemorfo tipo bot de guerra.
 - **Célula:** Um grupo clandestino de sentinelas da Firewall.
 - **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental de software. Usado em sintemorfos, prods e alguns biomorfos.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
@@ -74,7 +76,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Console de Conta:** A interface de software que representa sua presença no sistema.
 - **Conta Root:** A única conta em um sistema que pode não ter seus privilégios de administrador revogados.
 - **Conta:** O que você usa para logar em um sistema. Determina seus privilégios de acesso.
-- **Contratado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
 - **Corvo:** Um procurador que se concentra em pesquisa e na análise científica.
 - **Cripta:** Um depósito digital escondido dentro da mesh.
 - **Cru:** Um humano comum, sem genecorreções ou modificações.
@@ -84,6 +85,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Devassar:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
+- **Diagrama:** O arquivo do projeto digital usado para nanofabricação.
 - **Digimorfo:** O tipo padrão mais básico de infomorfo.
 - **Dispositivo:** Um aparelho específico.
 - **Domo:** Habitat pressurizado de superfície temporário ou permanente.
@@ -145,7 +147,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **GEO:** órbita geossíncrona, 35.786&nbsp;km de altitude acima do equador.
 - **Geração Perdida:** Um grupo de crianças criadas utilizando morfos de crescimento forçado e RV de tempo contraído. Os resultados foram desastrosos: muitos morreram ou ficaram loucos, e os demais foram estigmatizados.
 - **Gigante Gelado:** Um planeta composto de elementos mais pesados que hidrogênio/hélio, geralmente na parte exterior de um sistema estelar.
-- **Glandular:** Usar ware para modificar o seu estado emocional.
+- **Glandulizar:** Usar ware para modificar o seu estado emocional.
 - **Glitterati:** Socialites, hiperelites e ícones da mídia.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
@@ -168,7 +170,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
-- **IndEx:** O mercado de contratados (_Indenture Exchange_) onde são negociados trabalhadores contratados.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
@@ -192,7 +193,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Máquina Cornucópia:** Um nanofabricador de uso geral.
 - **Marginais:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Massas Clangorante:** A classe baixa de sintemorfos baratos.
-- **Matriz:** O arquivo do projeto digital usado para nanofabricação.
 - **Medeianos:** O grupo paramilitar secreto dos Argonautas.
 - **Meme:** Uma ideia viral. Uma unidade de informação transmitida socialmente que se autorreplica e sofre mutação de maneira análoga aos genes.
 - **Menton:** Um biomorfo otimizado para habilidades mentais e cognitivas.
@@ -213,7 +213,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Nanobot:** Uma máquina em tamanho nano, geralmente utilizado como um enxame.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
-- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com uma matriz apropriada. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com um diagrama apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
 - **Nanoware:** Nanossistemas implantados dentro de um morfo.
 - **Narcoalgoritmo:** Um app que imita os efeitos de uma droga para um infomorfo ou cérebro cibernético.
@@ -227,7 +227,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Névoa:** Dados e anúncios importunos de RA que atrapalham sua entóptica.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
-- **Novacrab:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacancridae:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **Nuvem de Oort:** Uma área a cerca de um ano-luz do sol, povoada predominantemente por cometas.
 - **O Ferro-Velho:** A camada de sucata e detritos na órbita baixa da Terra.
 - **O Movimento:** O movimento barsoomiano para libertar Marte.
@@ -330,8 +330,8 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **Xenomorfo:** Uma forma de vida alienígena.
-- **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, simsensorial, projeção.
-- **Zeros:** Pessoas sem acesso à mesh. Comum nos contratados.
+- **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, sim-sensorial, projeção.
+- **Zeros:** Pessoas sem acesso à mesh. Comum com arrendados.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
 - **ZQT:** Zona de Quarentena TITAN em Marte.
 

@@ -27,7 +27,7 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | [Ecoempatia](../14/06-psi-sleight-summaries.md#eco-empathy)                        | Pode usar Prova de COG para entender plantas alienígenas e análogos de fungos.       |
 | [Criatividade Ampliada](../14/06-psi-sleight-summaries.md#enhanced-creativity)     | +10 em Testes de Saber ou Técnicos envolvendo criatividade ou pensar fora da caixa.  |
 | [Memória Ampliada](../14/06-psi-sleight-summaries.md#enhanced-memory)              | Recuperação de memória perfeita.                                                     |
-| [Grok](../14/06-psi-sleight-summaries.md#grok)                                     | Pode usar Prova de COG para entender como usar objetos/dispositivos estranhos.       |
+| [Engenho](../14/06-psi-sleight-summaries.md#grok)                                  | Pode usar Prova de COG para entender como usar objetos/dispositivos estranhos.       |
 | [Consciência Elevada](../14/06-psi-sleight-summaries.md#heightened-awareness)      | Sentir área/ameaças. +10 em Testes de Percepção.                                     |
 | [Alto Limiar à Dor](../14/06-psi-sleight-summaries.md#high-pain-threshold)         | Ignorar modificadores de 1 ferimento.                                                |
 | [Centelha Interior](../14/06-psi-sleight-summaries.md#inner-spark)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
@@ -67,7 +67,7 @@ Você tem uma memória perfeita. Ao contrário dos transumanos com hipertimesia,
 
 Você pode forçar esse truque para recordar memórias a partir de um ponto de vista em terceira pessoa, permitindo que você faça Testes de Percepção para notar detalhes que você possa não ter visto antes.
 
-### Grok
+### Engenho
 
 Você entende intuitivamente como usar um objeto, veículo ou dispositivo estranho, não importando quão alienígena, avançado ou bizarro ele seja. Você pode fazer uma Prova de COG para determinar como ativá-lo e usá-lo, simplesmente olhando para ele e manuseando-o. Esse truque não fornece nenhum entendimento dos princípios ou tecnologias envolvidas — você simplesmente sabe como fazê-lo funcionar. Esse truque só é eficaz com dispositivos estranhos, ele não fornece nenhum bônus para usar dispositivos que você está familiarizado.
 
@@ -217,7 +217,7 @@ Você bloqueia os receptores de dor do alvo. Por VON ÷ 5 minutos, o alvo pode i
 
 **Ação:** Complexa • **Duração:** Turnos de Ação • **Mod de Infecção:** 4
 
-Você curto-circuita e desativa temporariamente um dos córtex sensoriais do alvo (sua escolha). Por VON ÷ 5 turnos de ação, o alvo perde esse tipo de entrada sensorial. Os sentidos que podem ser negados incluem visão, audição, tato, olfato, paladar, fome, equilíbrio, direção, propriocepção, reconhecimento facial, e sentidos ampliados como sentido elétrico e sentido radioativo. Qualquer ação que dependa do sentido prejudicado exige um teste com modificador −30 no mínimo.
+Você curto-circuita e desativa temporariamente um dos córtex sensoriais do alvo (sua escolha). Por VON ÷ 5 turnos de ação, o alvo perde esse tipo de entrada sensorial. Os sentidos que podem ser negados incluem visão, audição, tato, olfato, paladar, fome, equilíbrio, direção, propriocepção, reconhecimento facial, e sentidos ampliados como sentido elétrico e sentido radiológico. Qualquer ação que dependa do sentido prejudicado exige um teste com modificador −30 no mínimo.
 
 ### Bloqueio da Perícia
 

@@ -1,6 +1,6 @@
 # Biomorfos Prods
 
-Prods (um coloquialismo derivado de "pessoas produzidas") foram originalmente projetados como androides biológicos. Suas partes são cultivadas em tanques separadamente usando processos de crescimento acelerado e montadas com vários sistemas cibernéticos de "emendas"; esse processo produz um corpo funcional em uma fração do tempo necessário para clonar um biomorfo comum. Cibercérebros substituem sua massa cinzenta não desenvolvida. As primeiras gerações de prods foram operadas por ILAs e usadas principalmente nas indústrias de serviços onde uma estética biológica era preferida a robôs, nas indústrias de trabalhos perigosos, e para o trabalho sexual. Eles eram visualmente distintos dos humanos normais pelos padrões de emendas estilizadas em sua pele, uma designação que ainda continua comum. Em consequência da Queda e da subsequente demanda por mais biomorfos, os prods hoje são comumente encapados por transumanos, especialmente os contratados, mas eles frequentemente ainda sofrem um estigma classista. Prods não possuem funções reprodutivas e geralmente são assexuados. Os prods não humanos são cada vez mais comuns.
+Prods (um coloquialismo derivado de "pessoas produzidas") foram originalmente projetados como androides biológicos. Suas partes são cultivadas em tanques separadamente usando processos de crescimento acelerado e montadas com vários sistemas cibernéticos de "emendas"; esse processo produz um corpo funcional em uma fração do tempo necessário para clonar um biomorfo comum. Cibercérebros substituem sua massa cinzenta não desenvolvida. As primeiras gerações de prods foram operadas por ILAs e usadas principalmente nas indústrias de serviços onde uma estética biológica era preferida a robôs, nas indústrias de trabalhos perigosos, e para o trabalho sexual. Eles eram visualmente distintos dos humanos normais pelos padrões de emendas estilizadas em sua pele, uma designação que ainda continua comum. Em consequência da Queda e da subsequente demanda por mais biomorfos, os prods hoje são comumente encapados por transumanos, especialmente os arrendados, mas eles frequentemente ainda sofrem um estigma classista. Prods não possuem funções reprodutivas e geralmente são assexuados. Os prods não humanos são cada vez mais comuns.
 
 </blockquote>
 
@@ -16,7 +16,7 @@ Estes modelos originais de uso geral são projetados para manter o comprador/usu
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
 
 ---
@@ -39,7 +39,7 @@ Bastante utilizados em trabalhos braçais que envolvam a interação com outros 
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 0, **Manha** 0, **Vigor** 2, **Flex** 1
 
 ---
@@ -49,19 +49,19 @@ Bastante utilizados em trabalhos braçais que envolvam a interação com outros 
 
 </blockquote>
 
-### Novacrab
+### Novacancridae
 
-Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-aranha e cultivados para um tamanho maior (humano), os novacrabs são ideais para ambientes de trabalho perigosos, assim como funções de peão de vácuo, policial ou guarda-costas. Eles conseguem escalar, lidam bem com a microgravidade e podem suportar uma ampla gama de pressões atmosféricas (e mudanças súbitas de pressão), desde o vácuo até o mar profundo. Eles são equipados com dez patas de 2 metros, grandes garras, armaduras quitinosa, olhos compostos (com resolução de imagem equivalente à humana), guelras, dedos manipuladores hábeis em seu quinto par de membros, e cordas vocais transgênicas.
+Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-aranha e cultivados para um tamanho maior (humano), os novacancridae são ideais para ambientes de trabalho perigosos, assim como funções de peão de vácuo, policial ou guarda-costas. Eles conseguem escalar, lidam bem com a microgravidade e podem suportar uma ampla gama de pressões atmosféricas (e mudanças súbitas de pressão), desde o vácuo até o mar profundo. Eles são equipados com dez patas de 2 metros, grandes garras, armaduras quitinosa, olhos compostos (com resolução de imagem equivalente à humana), guelras, dedos manipuladores hábeis em seu quinto par de membros, e cordas vocais transgênicas.
 
 <blockquote class="indent stat-list">
 
-### Novacrab
+### Novacancridae
 
 - **Custo:** 4&nbsp;PM • **Disp:** 50
 
 ---
 
-- **LF:** 9 • **DUR:** 45 • **GM:** 68
+- **LF:** 9 • **DUR:** 45 • **GD:** 68
 - **Inspiração** 0, **Manha** 0, **Vigor** 3, **Flex** 0
 
 ---
@@ -85,7 +85,7 @@ Os prods de prazer são imitações de humanos para fins de entretenimento ínti
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 45
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
 - **Inspiração** 0, **Manha** 3, **Vigor** 0, **Flex** 0
 
 ---
@@ -108,7 +108,7 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 0, **Vigor** 2, **Flex** 1
 
 ---
@@ -131,7 +131,7 @@ Os moldáveis são projetados para infiltração e disfarce. Eles não tem as li
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 53
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
 - **Inspiração** 1, **Manha** 2, **Vigor** 0, **Flex** 0
 
 ---

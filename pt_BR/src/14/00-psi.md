@@ -36,7 +36,7 @@
     - [Ecoempatia](../14/06-psi-sleight-summaries.md#ecoempatia)
     - [Criatividade Ampliada](../14/06-psi-sleight-summaries.md#criatividade-ampliada)
     - [Memória Ampliada](../14/06-psi-sleight-summaries.md#memória-ampliada)
-    - [Grok](../14/06-psi-sleight-summaries.md#grok)
+    - [Engenho](../14/06-psi-sleight-summaries.md#engenho)
     - [Consciência Elevada](../14/06-psi-sleight-summaries.md#consciência-elevada)
     - [Alto Limiar à Dor](../14/06-psi-sleight-summaries.md#alto-limiar-à-dor)
     - [Centelha Interior](../14/06-psi-sleight-summaries.md#centelha-interior)

@@ -22,7 +22,7 @@
     - [Teste de Integração](../15/02-resleeving.md#teste-de-integração)
     - [Teste de Estresse de Reencape](../15/02-resleeving.md#teste-de-estresse-de-reencape)
   - [Reencape e Paradas](../15/02-resleeving.md#reencape-e-paradas)
-- [Adquirindo Morfos](../15/03-acquiring-morphs.md)
+- [Aquisição de Morfos](../15/03-acquiring-morphs.md)
   - [Determinando Pontos de Morfo](../15/03-acquiring-morphs.md#determinando-pontos-de-morfo)
   - [Aumentando Seu PM](../15/03-acquiring-morphs.md#aumentando-seu-pm)
   - [Gastando Pontos de Morfo](../15/03-acquiring-morphs.md#gastando-pontos-de-morfo)

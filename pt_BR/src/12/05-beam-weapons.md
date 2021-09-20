@@ -2,7 +2,7 @@
 
 A maioria das armas de energia coerente são utilizadas para fins menos letais, projetadas para debilitar em vez de matar. Elas são usadas com a perícia Tiro e resistidas por armaduras energéticas.
 
-Todas as armas de feixe são equipadas uma bateria padrão e uma [bateria nuclear](../16/05-common-tech-and-ware.md#everyday-technology). A bateria padrão alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria padrão completamente em 4 horas. Baterias padrão podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
+Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear](../16/05-common-tech-and-ware.md#everyday-technology). A bateria comum alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria comum completamente em 4 horas. Baterias comuns podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
 
 | ARMAS DE FEIXE                   | Tipo de Ware | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<wbr>PE | Notas                                                         |
 |:-------------------------------- |:------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |

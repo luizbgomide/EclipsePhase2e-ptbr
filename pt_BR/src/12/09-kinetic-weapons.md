@@ -41,7 +41,7 @@ Armas de fogo químicas modernas usam munições inteligentes sem estojo que sã
 
 As railguns deslizam e aceleram um projétil de tungstênio condutivo e não explosivo por trilhos eletromagnéticos até velocidades extremamente altas (Mach 6+) criando um devastador ataque penetrante. A energia cinética do projétil excede a de uma bala explosiva de maior massa, e cria ondas de choque e calor no impacto que despedaçam e incineram o alvo, ou partes dele. Embora railguns sejam mais potentes do que armas de fogo, elas não pode usar munição inteligente ou especializada já que o projétil deve ser condutivo e capaz de sobreviver tanto à aceleração quanto ao calor gerado devido ao atrito. A nanofabricação permite que railguns sejam produzidas nas escala de armas pessoais, e baterias portáteis de alta capacidade fornecem energia para seus disparos. A operação da railgun não produz nenhum clarão e é silenciosa, exceto pelo ruído supersônico do projétil.
 
-As railguns estão disponíveis nos mesmo modelos que as armas de fogo. Elas são equipadas com baterias padrão e nucleares, assim como as armas de feixe, com capacidade para 200 tiros.
+As railguns estão disponíveis nos mesmo modelos que as armas de fogo. Elas são equipadas com baterias comuns e nucleares, assim como as armas de feixe, com capacidade para 200 tiros.
 
 ## Munições Cinéticas
 
@@ -64,7 +64,7 @@ O modificador do Valor de Dano da munição é adicionado ao VD base da arma.
 | PAR                |              —               |                     Mod/R/2                     | Perfura-Armadura                  |
 | Railgun            |              —               |                     Men/R/1                     |                                   |
 | Inteligente        |         Igual o tipo         |                     Mod/R/2                     |                                   |
-| Líquida            |           Sem dano           |                      Men/1                      |                                   |
+| Aspersora          |           Sem dano           |                      Men/1                      |                                   |
 | Padrão             |              —               |                     Men/R/1                     |                                   |
 | Chocante           |              ÷2              |                      Men/1                      | Choque                            |
 
@@ -86,11 +86,11 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Cápsula:** Munição de cápsula carrega uma dose de uma droga, toxina ou carga de nanobot (adquirida separadamente) que é liberada dentro do alvo depois do cartucho penetrar.
 
-**Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano extra em sintemorfos ou objetos.
+**Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
 
 **Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
 
-**Interferente:** Munição interferente gruda no alvo e pulsa sinais eletromagnéticos de interferência, bloqueando a comunição sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
+**Interferente:** Munição interferente gruda no alvo e pulsa sinais eletromagnéticos de interferência, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
@@ -100,6 +100,6 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Padrão:** Esse projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
 
-**Líquida:** Cartuchos líquidos carregam uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos líquidos normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
+**Aspersora:** Cartuchos aspersores contêm uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos aspersores normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
 
 **Chocante:** Cartuchos chocantes são balas de borracha ou gel que aplicam um choque no alvo com uma carga piezoelétrica.

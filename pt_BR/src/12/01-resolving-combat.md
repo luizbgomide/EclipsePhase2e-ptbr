@@ -20,7 +20,7 @@ O combate é um teste oposto.
 - Acertos críticos dobram o VD.
 - O dano da arma é reduzido pela armadura energética ou cinética do alvo, conforme apropriado.
 - Se o dano igualar ou exceder o Limiar de Ferimento do alvo, um ferimento é causado. Se o dano igualar ou exceder o Limiar de Ferimento do alvo múltiplas vezes, vários ferimentos são infligidos.
-- Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Morte, ele está morto/destruído.
+- Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Destruição, ele está morto/destruído.
 
 </blockquote>
 
@@ -99,9 +99,9 @@ Observe que ataques que perfuram armadura reduzem o VA à metade.
 
 ## Passo 8: Aplicar o Dano
 
-O dano inflingido que exceder a armadura é aplicado ao defensor.
+O dano infligido que exceder a armadura é aplicado ao defensor.
 
-Registre esse total na ficha de personagem. Se o dano acumulado igualar o exceder a Durabilidade do defensor, ele está incapacitado e pode morrer ([Saúde Física](../12/16-physical-health.md)). Se ele igualar ou exceder seu Grau de Morte, ele está morto/destruído.
+Registre esse total na ficha de personagem. Se o dano acumulado igualar o exceder a Durabilidade do defensor, ele está incapacitado e pode morrer ([Saúde Física](../12/16-physical-health.md)). Se ele igualar ou exceder seu Grau de Destruição, ele está morto/destruído.
 
 ## Passo 9: Determinar os Ferimentos
 

@@ -1,4 +1,4 @@
-# Adquirindo Morfos
+# Aquisição de Morfos
 
 Em algum momento durante o jogo, seu personagem vai precisar reencapar. Talvez seu grupo vá egoprojetar para um novo habitat, seu PJ morrerá, ou você simplesmente desejará um novo visual.
 
@@ -48,7 +48,7 @@ Recursos, favores de rep, e traços negativos podem ser usados para aumentar os 
 
 Você pode personalizar um morfo que você já adquiriu. Isso requer as perícias, ferramentas e tempo apropriados. Biomorfos devem ser modificados em uma clínica (oficina de Medicina: Biotecnologia) ou tanque de cura; sintemorfos exigem uma oficina de Aparelhagem: Robótica. Se você não possuir as perícias e equipamentos, você deve adquirir serviço profissional (que inclui os equipamentos) usando rep ou o traço Recursos. O ware em si deve ser adquirido separadamente, pelas regras normais de aquisição de equipamentos. Se o ware for restrito, você vai precisar de serviços do mercado negro, o que pode exigir mais custo ou esforço para encontrar. Essa é uma boa oportunidade para interpretar redes de rep e contatos. Oficinas ilegais dependem da sua reputação tanto quanto serviços legítimos, mas também há uma chance maior de elas não serem confiáveis ou de você entrar em uma enrascada. Por outro lado, elas também podem conseguir encontrar aprimoramentos de ponta ou experimentais — embora eles possam não funcionar exatamente como anunciado.
 
-O prazo para modificar um morfo é o mesmo para adquirir equipamentos: 2 horas para itens de complexidade Menor, 8 horas para Moderada, e 24 para Maior.
+O prazo para modificar um morfo é o mesmo para aquisição de equipamentos: 2 horas para itens de complexidade Menor, 8 horas para Moderada, e 24 para Maior.
 
 <blockquote class="table">
 
@@ -63,7 +63,7 @@ O prazo para modificar um morfo é o mesmo para adquirir equipamentos: 2 horas p
 
 ## Fazendo Morfos
 
-Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação de tarefa, cada uma com um prazo significativamente longo, assim como acesso às matrizes/genética do morfo, um nanofabricador adequado e/ou exoútero, e uma instalação médica. Esse prazo não pode ser reduzido com RV de tempo acelerado. Se você não tiver matrizes/genética, ou se desejar projetar um do zero, os prazos serão consideravelmente maiores (determinado pelo MJ, mas facilmente 5–10 vezes mais).
+Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação de tarefa, cada uma com um prazo significativamente longo, assim como acesso às diagramas/genética do morfo, um nanofabricador adequado e/ou exoútero, e uma instalação médica. Esse prazo não pode ser reduzido com RV de tempo acelerado. Se você não tiver diagramas/genética, ou se desejar projetar um do zero, os prazos serão consideravelmente maiores (determinado pelo MJ, mas facilmente 5–10 vezes mais).
 
 <blockquote class="table">
 

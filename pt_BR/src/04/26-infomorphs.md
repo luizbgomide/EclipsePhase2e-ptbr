@@ -16,7 +16,7 @@ Digimorfos são emulações mentais básicas, embora sejam personalizáveis e am
 
 ---
 
-- **LF:** 5 • **DUR:** 25 • **GM:** 50
+- **LF:** 5 • **DUR:** 25 • **GD:** 50
 - **Inspiração** 0, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -38,7 +38,7 @@ Projetado para artistas online, ícones de mídia e socializadores, este infomor
 
 ---
 
-- **LF:** 6 • **DUR:** 30 • **GM:** 60
+- **LF:** 6 • **DUR:** 30 • **GD:** 60
 - **Inspiração** 1, **Manha** 3, **Vigor** 0, **Flex** 0
 
 ---
@@ -60,7 +60,7 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 
 ---
 
-- **LF:** 8 • **DUR:** 40 • **GM:** 80
+- **LF:** 8 • **DUR:** 40 • **GD:** 80
 - **Inspiração** 4, **Manha** 0, **Vigor** 0, **Flex** 0
 
 ---
@@ -82,7 +82,7 @@ Este infomorfo é ideal para profissões que envolvem operação remota de drone
 
 ---
 
-- **LF:** 7 • **DUR:** 35 • **GM:** 70
+- **LF:** 7 • **DUR:** 35 • **GD:** 70
 - **Inspiração** 3, **Manha** 0, **Vigor** 0, **Flex** 1
 
 ---

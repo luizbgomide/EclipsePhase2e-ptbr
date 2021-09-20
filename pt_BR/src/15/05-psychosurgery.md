@@ -1,6 +1,6 @@
 # Psicocirurgia
 
-A psicocirurgia é a alteração cirúrgica e seletiva da mente transumana. É uma campo separado da modificação genética neural (que altera o código genético), implantação de ware neural (adicionar insertos cibernéticos ou biotecnológicos no cérebro ou sistema nervoso), ou hackeamento cerebral (ataques de software em cérebros computacionais, insertos neurais e infomorfos), embora às vezes eles sejam combinados.
+A psicocirurgia é a alteração cirúrgica e seletiva da mente transumana. É uma campo separado da modificação genética neural (que altera o código genético), implantação de ware neural (adicionar insertos cibernéticos ou biotecnológicos no cérebro ou sistema nervoso), ou hack cerebral (ataques de software em cérebros computacionais, insertos neurais e infomorfos), embora às vezes eles sejam combinados.
 
 Psicocirurgia é realizada em uma estado mental digital. É feito upload de uma emulação em tempo real, backup ou forque do indivíduo e executado em um simulespaço. O indivíduo não precisa ser voluntário, e nesses casos, suas permissões de RV são restritas. Vários ambientes de simulespaço para psicocirurgia estão disponíveis, cada um personalizado para objetivos psicocirúrgicos específicos e programados com uma seleção minuciosa de opções de tratamento psicoterápico.
 
@@ -26,7 +26,7 @@ A psicocirurgia é conduzida com um Teste de Medicina: Psicocirurgia. Esta é um
 
 Se você tiver sucesso, a psicocirurgia é efetiva e permanente. A alteração se torna uma parte duradora do ego do indivíduo e é copiada com uploads, forqueamentos, reencapes, etc. Se você falhar, a tentativa não funciona. Com um sucesso crítico, nenhum estresse é infligido. Com um falha crítica, você inflige danos permanentes no indivíduo na forma de Dano Neural, Transtorno Mental, ou outro traço negativo de ego (a critério do MJ).
 
-Cada procedimento de psicocirurgia lista um Valor de Estresse (VE) que é inflingido no indivíduo. O valor antes da barra é infligido se o procedimento falha; o valor depois da barra é infligido se o teste é bem-sucedido. Falhas maiores infligem VE 1d6 extra cada.
+Cada procedimento de psicocirurgia lista um Valor de Estresse (VE) que é infligido no indivíduo. O valor antes da barra é infligido se o procedimento falha; o valor depois da barra é infligido se o teste é bem-sucedido. Falhas maiores infligem VE 1d6 extra cada.
 
 <blockquote class="table">
 

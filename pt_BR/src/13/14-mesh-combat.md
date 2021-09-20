@@ -44,7 +44,7 @@ Se o software acumular dano que iguala ou excede sua Durabilidade ele imediatame
 
 Infomorfos, cibercérebros, serviços e sistemas operacionais [reinicializam](../13/12-countermeasures.md#rebootshutdown) automaticamente, o que leva 1d6 turnos de ação. A reinicialização elimina todos os danos e ferimentos acumulados na mesh.
 
-Softwares (exceto consoles de contas) ainda podem ser atacados depois de serem travados. Isso representa tentativas de danificar irremediavelmente o código para que ele não possa mais ser executado. Se o software acumular dano que iguala ou excede seu Grau de Morte, ele é permanentemente corrompido. Apps e serviços devem ser reinstalados. Os cibercérebros e dispositivos devem ser reparados ou substituídos. Infomorfos e egos dentro de cibercérebros estão efetivamente mortos. Danos e ferimentos infligidos em softwares travados são aplicados quando eles reinicializam.
+Softwares (exceto consoles de contas) ainda podem ser atacados depois de serem travados. Isso representa tentativas de danificar irremediavelmente o código para que ele não possa mais ser executado. Se o software acumular dano que iguala ou excede seu Grau de Destruição, ele é permanentemente corrompido. Apps e serviços devem ser reinstalados. Os cibercérebros e dispositivos devem ser reparados ou substituídos. Infomorfos e egos dentro de cibercérebros estão efetivamente mortos. Danos e ferimentos infligidos em softwares travados são aplicados quando eles reinicializam.
 
 **Infomorfos Distribuídos:** Infomorfos que são distribuídos devem dividir uniformemente sua Durabilidade entre os dispositivos. O Limiar de Ferimento permanece inalterado, mas um ferimento é infligido se a sua presença distribuída em qualquer dispositivo (ou o próprio dispositivo) for travada.
 
@@ -52,22 +52,22 @@ Softwares (exceto consoles de contas) ainda podem ser atacados depois de serem t
 
 ### Durabilidade na Mesh
 
-| Software                                                                                      | Limiar de Ferimento | Durabilidade | Grau de Morte |
-|:--------------------------------------------------------------------------------------------- |:-------------------:|:------------:|:-------------:|
-| Console de Conta                                                                              |          3          |      15      |      N/A      |
-| ILA                                                                                           |          4          |      20      |      40       |
-| App                                                                                           |          2          |      10      |      20       |
-| <div class="indent">» App de Firewall</div> |          6          |      30      |      60       |
-| Cibercérebro                                                                                  |          7          |      35      |      70       |
-| Infomorfo                                                                                     |                     |              |               |
-| <div class="indent">» Digimorfo</div>    |          5          |      25      |      50       |
-| <div class="indent">» Agente</div>        |          8          |      40      |      80       |
-| <div class="indent">» Ikon</div>         |          6          |      30      |      60       |
-| <div class="indent">» Operador</div>     |          7          |      35      |      70       |
-| Sistema Operacional                                                                           |                     |              |               |
-| <div class="indent">» Cisco</div>         |          4          |      20      |      40       |
-| <div class="indent">» Terminal</div>         |          8          |      40      |      80       |
-| <div class="indent">» Servidor</div>       |         12          |      60      |      120      |
+| Software                                                                                      | Limiar de Ferimento | Durabilidade | Grau de Destruição |
+|:--------------------------------------------------------------------------------------------- |:-------------------:|:------------:|:------------------:|
+| Console de Conta                                                                              |          3          |      15      |        N/A         |
+| ILA                                                                                           |          4          |      20      |         40         |
+| App                                                                                           |          2          |      10      |         20         |
+| <div class="indent">» App de Firewall</div> |          6          |      30      |         60         |
+| Cibercérebro                                                                                  |          7          |      35      |         70         |
+| Infomorfo                                                                                     |                     |              |                    |
+| <div class="indent">» Digimorfo</div>    |          5          |      25      |         50         |
+| <div class="indent">» Agente</div>        |          8          |      40      |         80         |
+| <div class="indent">» Ikon</div>         |          6          |      30      |         60         |
+| <div class="indent">» Operador</div>     |          7          |      35      |         70         |
+| Sistema Operacional                                                                           |                     |              |                    |
+| <div class="indent">» Cisco</div>         |          4          |      20      |         40         |
+| <div class="indent">» Terminal</div>         |          8          |      40      |         80         |
+| <div class="indent">» Servidor</div>       |         12          |      60      |        120         |
 
 </blockquote>
 

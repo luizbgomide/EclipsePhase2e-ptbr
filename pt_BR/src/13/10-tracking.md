@@ -1,6 +1,6 @@
 # Rastreamento
 
-Toda vez que você interage com outros sistemas na mesh, você deixa rastros da sua presença. Logins são registrados, o acesso é logado e a maioria dos dispositivos até mantém um registro de todos os outros dispositivos que estiveram dentro do alcance de rádio. No mínimo o seu mesh ID será registrado, e possivelmente outros dados também: tipo de dispositivo, duração da conexão, apps usados, RA percebida, tempo, localização física e possivelmente os mesh IDs de outros sistemas que você estava conectado. Além disso, apps e serviços — especialmente os comerciais — mantêm um histórico de uso e frequentemente logam sorrateiramente outros dados sobre você, o que é depois transmitido aos seus fornecedores e vendido a redes de publicidade e outros corretores de dados. Isso pode incluir listas de amigos, apps instalados, histórico de navegação, dados pessoais, formulários salvos e uma "impressão digital" do seu dispositivo que pode ser usada para rastreá-lo online mesmo se você alterar seu mesh ID.
+Toda vez que você interage com outros sistemas na mesh, você deixa rastros da sua presença. Logins são registrados, o acesso é logado e a maioria dos dispositivos até mantém um registro de todos os outros dispositivos que estiveram dentro do alcance de rádio. No mínimo o seu mesh ID será registrado, e possivelmente outros dados também: tipo de dispositivo, duração da conexão, apps usados, RA percebida, tempo, localização física e possivelmente os mesh IDs de outros sistemas que você estava conectado. Além disso, apps e serviços — especialmente os comerciais — mantêm um histórico de uso e frequentemente logam sorrateiramente outros dados sobre você, o que é depois transmitido aos seus fornecedores e vendido a redes de publicidade e outros bancos de registros. Isso pode incluir listas de amigos, apps instalados, histórico de navegação, dados pessoais, formulários salvos e uma "impressão digital" do seu dispositivo que pode ser usada para rastreá-lo online mesmo se você alterar seu mesh ID.
 
 ## Rastreamento Físico
 
@@ -16,7 +16,7 @@ Se o alvo estiver no [modo privativo](../13/01-everyware.md#privacy-mode), apliq
 
 ### Rastreando por Biometria
 
-A prevalência de ciscos sensores, fluxos de XP e apps de reconhecimento biométrico possibilitam rastrear as pessoas por seu rosto, morfo, modo de andar, voz, roupas, equipamentos, assinaturas térmicas, cheiro e outras características físicas. No entanto, a enorme quantidade de sensores e pessoas pode tornar isso desafiador e disparar tanto falsos-positivos como falsos-negativos. O sucesso de buscas desse tipo é deixado ao gosto do MJ, mas um Teste de Percepção (se estiver observando) ou Pesquisa (se usar um app comparador biométrico) também pode ser exigido, modificado apropriadamente pelo tamanho da área vigiada, como indicado na tabela de Pesquisas Biométricas.
+A prevalência de ciscos sensores, fluxos de XP e apps de reconhecimento biométrico possibilitam rastrear as pessoas por seu rosto, morfo, modo de andar, voz, roupas, equipamentos, assinaturas térmicas, cheiro e outras características físicas. No entanto, a enorme quantidade de sensores e pessoas pode tornar isso desafiador e disparar tanto falsos-positivos como falsos-negativos. O sucesso de buscas desse tipo é deixado ao gosto do MJ, mas um Teste de Percepção (se estiver observando) ou Pesquisa (se usar um app de comparação biométrico) também pode ser exigido, modificado apropriadamente pelo tamanho da área vigiada, como indicado na tabela de Pesquisas Biométricas.
 
 Se o alvo estiver ativamente evitando a detecção de sensores, esse Teste de Pesquisa é oposto pela perícia Infiltração do alvo (ou Perícia Exótica: Disfarce).
 
@@ -45,7 +45,7 @@ Ao mesmo tempo em que ver a presença pública de alguém na mesh é relativamen
 
 A maioria das pessoas posta uma vasta quantidade de informações sobre si mesmo online. Perfis de rede social, posts de fóruns, registros de lifelog, coleções de mídias pessoais, projeções XP, portfólios de trabalho, índices de residentes de habitat e mais estão prontamente acessíveis com um Teste de Pesquisa. As pessoas preocupadas com privacidade geralmente tem uma presença online similar, exceto que usam pseudônimos e/ou são visíveis apenas para amigos e contatos selecionados. Dados de perfis privados ainda podem ser pesquisados, mas isso requer o uso de contas de identidades falsas ou de intermediação, e serviços de coleta de dados (aplique um modificador −30 de dados privados). Como alternativa, favores de rep também podem funcionar, especialmente se o alvo é um amigo de um amigo.
 
-A maioria das hipercorps e governos tem acesso a vastas bases de dados compiladas por empresas de publicidade e de informações privadas. Esses podem fornecer dados abrangentes como hábitos de compras e de viagens, pessoas conhecidos e muito mais. O acesso a esses dados é frequentemente intermediado através de serviços do mercado negro.
+A maioria das hipercorps e governos tem acesso a vastas bases de dados compiladas por empresas de publicidade e de informações privadas. Esses podem fornecer dados abrangentes como hábitos de compras e de viagens, pessoas conhecidos e muito mais. O acesso a esses dados é frequentemente obtido usando serviços do mercado negro.
 
 ### Rastreando Atividade em Andamento na Mesh
 
@@ -55,7 +55,7 @@ Rastrear as atividades de alguém em um único sistema é muito mais fácil, exi
 
 ### Monitoramento Ativo
 
-De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isso pode ser feito remotamente e requer apenas mesh ID dela e um app farejador ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
+De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isso pode ser feito remotamente e requer apenas mesh ID dela e um app de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
 
 ## Contramedidas de Rastreamento
 

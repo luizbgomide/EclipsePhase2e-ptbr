@@ -29,7 +29,7 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
   - [x] A Mesh
   - [x] Psi
   - [x] Tecnologia Transumana
-  - [ ] Equipamento
+  - [x] Equipamento
   - [ ] Conduzindo o Jogo
   - [ ] Ameaças & Riscos X
   - [x] Apêndices
