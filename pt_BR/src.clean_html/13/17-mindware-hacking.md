@@ -20,9 +20,9 @@ Todas as ações abaixo requerem vencer um Teste de Hackeamento.
 
 ### Prender Ego
 
-Como um invasor, a primeira ação que você pode querer realizar será a de instalar um app de caixa-forte. Esse malware aprisiona o ego/infomorfo dentro do cibercérebro/dispositivo, impedindo que ele se transfira para um novo sistema. O malware caixa-forte também remove do ego/infomorfo seus controles de administrador root, efetivamente tirando-o das contramedidas e outras ações defensivas. As únicas ações da mesh que um mente em uma caixa-forte pode fazer depende inteiramente das permissões, se houver, que você deu.
+Como um invasor, a primeira ação que você pode querer fazer, será a de instalar um app de caixa-forte. Esse malware aprisiona o ego/infomorfo dentro do cibercérebro/dispositivo, impedindo que ele se transfira para um novo sistema. O malware caixa-forte também remove do ego/infomorfo seus controles de administrador root, efetivamente removendo-o das contramedidas e outras ações defensivas. As únicas ações da mesh que uma mente em uma caixa-forte pode fazer depende inteiramente das permissões, se houver, que você deu.
 
-Egos presos dentro de uma caixa-forte são bastante vulneráveis. Eles podem, por exemplo, estar sujeitos a uploads, simulespaços, forques ou psicocirurgias forçados. Egos presos por períodos prolongados podem sofrer estresse de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
+Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, por exemplo, estar sujeitos a uploads, simulespaços, forques ou psicocirurgias forçados. Egos presos por períodos prolongados podem sofrer estresse de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
 
 ### Controlar Ware (Cibercérebro)
 
