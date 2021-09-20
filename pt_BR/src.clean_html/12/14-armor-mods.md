@@ -5,7 +5,7 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 | MODS DE ARMADURAS                              | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                              |
 |:---------------------------------------------- |:----------:|:--------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------ |
 | Ablativo                                       |     +4     |    +0    |                 Men/1                 | 5 usos. Colmeia restaura 1 uso por hora.                                                               |
-| Camaleão                                       |     +0     |    +0    |                 Men/1                 | +30 em Infiltração quando estacionário ou se movendo menos que 2&nbsp;m/turno.                         |
+| Camaleão                                       |     +0     |    +0    |                 Men/1                 | +30 em Infiltração quando estiver parado ou se movendo menos que 2&nbsp;m/turno.                       |
 | Antichamas                                     |     +2     |    +0    |                 Men/1                 | +10/+0 vs. fogo/calor.                                                                                 |
 | Imunogênico                                    |     +0     |    +0    |                 Men/1                 | Nega químicos/drogas/toxinas dérmicos.                                                                 |
 | Anti-Impactos                                  |     +0     |    +3    |                 Men/1                 |                                                                                                        |
@@ -19,11 +19,11 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 
 **Ablativo:** Este revestimento absorve o calor e energia de feixes e explosões, vaporizando e expelindo gases quentes com segurança. As áreas ablativas aumentam o Valor de Armadura em +4/+0, mas cada golpe reduz o valor da armadura ablativa em 1 (uma colmeia especializada repara isso à taxa de 1 ponto por hora).
 
-**Camaleão:** Quando ativado, esse mod de revestimento combina com o fundo, fornecendo +30 em Testes de Infiltração contra detecção visual quando estacionário ou se movendo menos que 2 metros/turno. A camada também absorve calor e funciona contra infravermelho por 1 hora antes de precisar ser resfriada (demorando mais uma hora).
+**Camaleão:** Quando ativado, esse mod de revestimento combina com o fundo, fornecendo +30 em Testes de Infiltração contra detecção visual quando estiver parado ou se movendo menos que 2 metros/turno. A camada também absorve calor e funciona contra infravermelho por 1 hora antes de precisar ser resfriada (demorando mais uma hora).
 
 **Antichamas:** Camadas resistentes ao calor capazes de suportar temperaturas extremamente altas aumentam o Valor de Armadura por +2/+0 e fornecem 8 pontos de armadura adicionais especificamente contra calor ou fogo, mesmo quando você estiver no fogo/queimando e a armadura for ignorada.
 
-**Imunogênico:** O mod imunogênico neutraliza agentes tóxicos e nanotoxinas que entrarem em contato com você. Isso fornece imunidade a drogas, toxinas e nanotoxinas aplicadas dermicamente, como adesivos dérmicos ou granadas líquidas. Ele não tem efeito em drogas inaladas, orais, ou injetadas (incluindo armas revestidas).
+**Imunogênico:** O mod imunogênico neutraliza agentes tóxicos e nanotoxinas que entrarem em contato com você. Isso fornece imunidade a drogas, toxinas e nanotoxinas aplicadas dermicamente, como por adesivos dérmicos ou granadas aspersoras. Ele não tem efeito em drogas inaladas, orais, ou injetadas (incluindo armas revestidas).
 
 **Anti-Impactos:** Este revestimento age com um fluido dilatante que endurece com o impacto, distribuindo a energia cinética. Aumente o Valor de Armadura por +0/+3.
 
