@@ -28,9 +28,9 @@ Trate vários personagens fazendo a mesma atividade — como revistar uma sala e
 
 ## Dificuldade e Modificadores
 
-Consertar um defeito comum em seu robô favorito não é tão difícil quanto reparar uma anomalia desconhecida em um modelo estranho. Estes graus de dificuldade são representados por _modificadores_ — ajustes que aumentam ou diminuem o número alvo. Um teste fácil fornece um modificador positivo, aumentando o número alvo. Um teste difícil inflinge um modificador negativo.
+Consertar um defeito comum em seu robô favorito não é tão difícil quanto reparar uma anomalia desconhecida em um modelo estranho. Estes graus de dificuldade são representados por _modificadores_ — ajustes que aumentam ou diminuem o número alvo. Um teste fácil fornece um modificador positivo, aumentando o número alvo. Um teste difícil inflige um modificador negativo.
 
-Modificadores são designados em múltiplos de dez, indo de +10 à +30 e −10 à −30, conforme indicado na tabela de Modificadores.
+Modificadores são designados em múltiplos de dez, indo de +10 a +30 e −10 a −30, conforme indicado na tabela de Modificadores.
 
 Além do nível de desafio inerente ao teste, vários aspectos situacionais podem também influenciar o teste, como equipamentos de alta qualidade, condições ambientais ruins ou a saúde do personagem. Esses fatores também são representados como modificadores baseados em seu nível de severidade, conforme indicado na tabela Modificadores.
 
@@ -73,7 +73,7 @@ Quando você rolar duplas em um teste — 00, 11, 22, etc. — você conseguiu u
 
 Os críticos têm mais impacto do que resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam bônus/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
 
-- Dobrar o dano que você inflinge com um ataque.
+- Dobrar o dano que você inflige com um ataque.
 - Obter um modificador +/−20 para o próximo teste que você fizer.
 - Fazer uma ação extra (sucesso crítico) ou perder a sua próxima ação (falha crítica).
 - Quebrar uma arma/ferramenta (falha crítica).
