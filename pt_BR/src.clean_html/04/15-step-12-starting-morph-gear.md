@@ -12,7 +12,7 @@ Enquanto pode ser tentador gastar todos os seus PM para pegar o melhor morfo dis
 
 Você pode comprar mais de um morfo, se quiser ter um reserva à disposição ou se planejar fazer muitos forques. Neste caso, você não pode comprar traços negativos para _nenhum_ dos seus morfos. Além disso, o primeiro morfo que você comprar deve ter um custo de 1 ou mais (não contando traços), e quaisquer morfos comprados depois do primeiro com um custo de 0&nbsp;PM custam 1&nbsp;MP em vez disso.
 
-Seu morfo fornecerá vários atributos: paradas, Limiar de Ferimento, Durabilidade e Grau de Morte. Anote-as na sua ficha de personagem. Também anote quaisquer implantes ou traços que ele tenha.
+Seu morfo fornecerá vários atributos: paradas, Limiar de Ferimento, Durabilidade e Grau de Destruição. Anote-as na sua ficha de personagem. Também anote quaisquer implantes ou traços que ele tenha.
 
 ## Traços de Morfo
 
@@ -26,4 +26,4 @@ Equipamentos de complexidade Menor custam 1&nbsp;PM, Moderado 2&nbsp;PM, e Maior
 
 ## Pontos de Flex
 
-Pontos de Morfo que você não gastou em traços de morfo ou equipamentos são convertidos para pontos de Flex, numa razão de 2:1 (2&nbsp;PM = 1 Flex), até o máximo de 3. Esses pontos de Flex são temporários, eles serão resetados no seu próximo reencape ([Adquirindo Morfos](../15/03-acquiring-morphs.md)).
+Pontos de Morfo que você não gastou em traços de morfo ou equipamentos são convertidos para pontos de Flex, numa razão de 2:1 (2&nbsp;PM = 1 Flex), até o máximo de 3. Esses pontos de Flex são temporários, eles serão resetados no seu próximo reencape ([Aquisição de Morfos](../15/03-acquiring-morphs.md)).
