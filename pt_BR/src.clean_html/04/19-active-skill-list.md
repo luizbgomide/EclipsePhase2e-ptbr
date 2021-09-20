@@ -134,7 +134,7 @@ Aparelhagem lida com o design, construção, reparo e alteração de diferentes 
 
 Use Aparelhagem para consertar um sistema de suporte vital, melhorar um robô, hackear uma fechadura eletrônica, ou montar um veículo funcional usando peças sobressalentes. A maioria dos Testes de Aparelhagem são ações de tarefa.
 
-- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutico (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
+- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutica (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
 - **Especializações:** Conforme apropriado para a área
 
 <!-- CLEANED /div -->
@@ -289,7 +289,7 @@ Use Pilotagem para fazer uma curva fechada com um carro, evadir de uma persegui�
 
 Programação é sobre escrever e modificar códigos de software.
 
-Use Programação para escrever um script, analisar como um programa funciona, projetar uma matriz para nanofabricação, quebrar uma proteção de copyright, consertar uma vulnerabilidade de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
+Use Programação para escrever um script, analisar como um programa funciona, projetar um diagrama para nanofabricação, quebrar uma proteção de copyright, consertar uma vulnerabilidade de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
 
 - **Especializações:** IAs, Infomorfos, Malware, Nanofabricação, Pirataria, RV
 
