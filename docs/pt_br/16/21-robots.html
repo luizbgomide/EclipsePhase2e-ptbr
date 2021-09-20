@@ -1,0 +1,390 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Robôs - Eclipse Phase 2e</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../ep2e.css">
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações &amp; Tempo</a></li><li class="chapter-item "><a href="../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa &amp; Ordem das Ações</a></li><li class="chapter-item "><a href="../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../04/05-step-2-carrer.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo &amp; Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação &amp; Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores &amp; Granadas</a></li><li class="chapter-item "><a href="../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Armaduras</a></li><li class="chapter-item "><a href="../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Armaduras</a></li><li class="chapter-item "><a href="../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura &amp; Reparo</a></li><li class="chapter-item "><a href="../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental &amp; Psicocirurgia</a></li><li class="chapter-item "><a href="../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos &amp; Estruturas</a></li><li class="chapter-item "><a href="../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Ubíquo-ware</a></li><li class="chapter-item "><a href="../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Topologia da Mesh</a></li><li class="chapter-item "><a href="../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Usos Comuns da Mesh</a></li><li class="chapter-item "><a href="../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Dispositivos, Apps, &amp; Ligações</a></li><li class="chapter-item "><a href="../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Autenticação &amp; Criptografia</a></li><li class="chapter-item "><a href="../13/06-mesh-actions.html"><strong aria-hidden="true">13.6.</strong> Ações da Mesh</a></li><li class="chapter-item "><a href="../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> IAs &amp; Musas</a></li><li class="chapter-item "><a href="../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Pesquisa Online</a></li><li class="chapter-item "><a href="../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Rastreamento</a></li><li class="chapter-item "><a href="../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hackeamento</a></li><li class="chapter-item "><a href="../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Contramedidas</a></li><li class="chapter-item "><a href="../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> Subversão de Sistema</a></li><li class="chapter-item "><a href="../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Combate na Mesh</a></li><li class="chapter-item "><a href="../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Dano em Harware</a></li><li class="chapter-item "><a href="../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Defeitos</a></li><li class="chapter-item "><a href="../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Hackeamento de Ware Mental</a></li><li class="chapter-item "><a href="../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Realidade Virtual</a></li><li class="chapter-item "><a href="../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Hackeamento de Vigilância</a></li></ol></li><li class="chapter-item "><a href="../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../14/01-psi-overview.html"><strong aria-hidden="true">14.1.</strong> Resumo do Psi</a></li><li class="chapter-item "><a href="../14/02-watts-macleod-sub-strains.html"><strong aria-hidden="true">14.2.</strong> Subcepas Watts-MacLeod</a></li><li class="chapter-item "><a href="../14/03-roleplaying-asyncs.html"><strong aria-hidden="true">14.3.</strong> Interpretando Assincros</a></li><li class="chapter-item "><a href="../14/04-using-psi.html"><strong aria-hidden="true">14.4.</strong> Usando Psi</a></li><li class="chapter-item "><a href="../14/05-influence-effects.html"><strong aria-hidden="true">14.5.</strong> Efeitos de Influência</a></li><li class="chapter-item "><a href="../14/06-psi-sleight-summaries.html"><strong aria-hidden="true">14.6.</strong> Sumários de Truques Psi</a></li></ol></li><li class="chapter-item "><a href="../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../15/01-backups-and-uploading.html"><strong aria-hidden="true">15.1.</strong> Backups &amp; Uploads</a></li><li class="chapter-item "><a href="../15/02-resleeving.html"><strong aria-hidden="true">15.2.</strong> Reencape</a></li><li class="chapter-item "><a href="../15/03-acquiring-morphs.html"><strong aria-hidden="true">15.3.</strong> Aquisição de Morfos</a></li><li class="chapter-item "><a href="../15/04-forking-and-merging.html"><strong aria-hidden="true">15.4.</strong> Forqueamento &amp; Mesclagem</a></li><li class="chapter-item "><a href="../15/05-psychosurgery.html"><strong aria-hidden="true">15.5.</strong> Psicocirurgia</a></li><li class="chapter-item "><a href="../15/06-psychosurgery-procedures.html"><strong aria-hidden="true">15.6.</strong> Procedimentos de Psicocirurgia</a></li><li class="chapter-item "><a href="../15/07-identity-systems.html"><strong aria-hidden="true">15.7.</strong> Sistemas de Identificação</a></li><li class="chapter-item "><a href="../15/08-habitat-access.html"><strong aria-hidden="true">15.8.</strong> Acesso a Habitats</a></li><li class="chapter-item "><a href="../15/09-space-travel.html"><strong aria-hidden="true">15.9.</strong> Viagem Espacial</a></li><li class="chapter-item "><a href="../15/10-space-combat.html"><strong aria-hidden="true">15.10.</strong> Combate Espacial</a></li><li class="chapter-item "><a href="../15/11-ship-and-habitat-hacking.html"><strong aria-hidden="true">15.11.</strong> Hackeamento de Naves &amp; Habitats</a></li><li class="chapter-item "><a href="../15/12-reputation.html"><strong aria-hidden="true">15.12.</strong> Reputação</a></li><li class="chapter-item "><a href="../15/13-networking.html"><strong aria-hidden="true">15.13.</strong> Socialização</a></li></ol></li><li class="chapter-item expanded "><a href="../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../16/01-gear-rules.html"><strong aria-hidden="true">16.1.</strong> Regras de Equipamentos</a></li><li class="chapter-item "><a href="../16/02-acquiring-gear.html"><strong aria-hidden="true">16.2.</strong> Aquisição de Equipamentos</a></li><li class="chapter-item "><a href="../16/03-nanofabrication.html"><strong aria-hidden="true">16.3.</strong> Nanofabricação</a></li><li class="chapter-item "><a href="../16/04-services.html"><strong aria-hidden="true">16.4.</strong> Serviços</a></li><li class="chapter-item "><a href="../16/05-common-tech-and-ware.html"><strong aria-hidden="true">16.5.</strong> Tecnologias &amp; Wares Comuns</a></li><li class="chapter-item "><a href="../16/06-sensory-augmentations.html"><strong aria-hidden="true">16.6.</strong> Ampliações Sensoriais</a></li><li class="chapter-item "><a href="../16/07-senses-and-sensors.html"><strong aria-hidden="true">16.7.</strong> Sentidos e Sensores</a></li><li class="chapter-item "><a href="../16/08-mental-augmentations.html"><strong aria-hidden="true">16.8.</strong> Ampliações Mentais</a></li><li class="chapter-item "><a href="../16/09-social-augmentations.html"><strong aria-hidden="true">16.9.</strong> Ampliações Sociais</a></li><li class="chapter-item "><a href="../16/10-combat-augmentations.html"><strong aria-hidden="true">16.10.</strong> Ampliações de Combate</a></li><li class="chapter-item "><a href="../16/11-physical-augmentations.html"><strong aria-hidden="true">16.11.</strong> Ampliações Físicas</a></li><li class="chapter-item "><a href="../16/12-meshware.html"><strong aria-hidden="true">16.12.</strong> Meshware</a></li><li class="chapter-item "><a href="../16/13-apps-and-alis.html"><strong aria-hidden="true">16.13.</strong> Apps &amp; ILAs</a></li><li class="chapter-item "><a href="../16/14-creatures.html"><strong aria-hidden="true">16.14.</strong> Criaturas</a></li><li class="chapter-item "><a href="../16/15-chemicals-drugs-and-toxins.html"><strong aria-hidden="true">16.15.</strong> Químicos, Drogas &amp; Toxinas</a></li><li class="chapter-item "><a href="../16/16-comms-and-mesh-gear.html"><strong aria-hidden="true">16.16.</strong> Equipamentos de Comunicação &amp; Mesh</a></li><li class="chapter-item "><a href="../16/17-espionage-and-security-tech.html"><strong aria-hidden="true">16.17.</strong> Tecnologias de Espionagem &amp; Segurança</a></li><li class="chapter-item "><a href="../16/18-mission-gear.html"><strong aria-hidden="true">16.18.</strong> Equipamentos de Missão</a></li><li class="chapter-item "><a href="../16/19-nanotech.html"><strong aria-hidden="true">16.19.</strong> Nanotecnologia</a></li><li class="chapter-item "><a href="../16/20-nanoswarms-and-microswarms.html"><strong aria-hidden="true">16.20.</strong> Nanoenxames &amp; Microenxames</a></li><li class="chapter-item expanded "><a href="../16/21-robots.html" class="active"><strong aria-hidden="true">16.21.</strong> Robôs</a></li><li class="chapter-item "><a href="../16/22-vehicles.html"><strong aria-hidden="true">16.22.</strong> Veículos</a></li></ol></li><li class="chapter-item "><a href="../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a></li><li class="chapter-item "><a href="../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças &amp; Riscos X</a></li><li class="chapter-item "><a href="../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="spacer"></li></ol></li><li class="chapter-item "><a href="../buy-the-book.html">Compre o livro!</a></li><li class="chapter-item affix "><a href="../license.html">Licença &amp; Créditos</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="robôs"><a class="header" href="#robôs">Robôs</a></h1>
+<p>Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um estojo é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser <a href="../16/21-robots.html#remote-operations">operados remotamente</a>. No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um <a href="../16/05-common-tech-and-ware.html#standard-augmentations">sistema de cibercérebro</a>.</p>
+<p>A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de &quot;rosto&quot; abstrato para interagir, de modo a não serem &quot;máquinas&quot; demais.</p>
+<h2 id="ware-de-robôs"><a class="header" href="#ware-de-robôs">Ware de Robôs</a></h2>
+<p>Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam <a href="../16/22-vehicles.html#vehicle-hardware">hardware de veículos</a>.</p>
+<table><thead><tr><th align="left">TODOS OS ROBÔS</th></tr></thead><tbody>
+<tr><td align="left">A menos que indicado o contrário, todos os robôs estão equipados com os seguintes hardwares, além daqueles listados em suas descrições específicas:</td></tr>
+<tr><td align="left"><ul class="stat-list indent"><li><strong>Ware:</strong> ILA de Bot, Insertos da Mesh, Lidar, Luva de Fantoche, Soquete de Acesso, Visão 360-Graus</ul></td></tr>
+</tbody></table>
+<h2 id="operação-remota"><a class="header" href="#operação-remota">Operação Remota</a></h2>
+<p>Qualquer carcaça ou biomorfo com uma luva de fantoche (incluída na maioria dos cibercérebros) pode ser controlada remotamente, seja por um personagem ou uma IA. Isso requer uma ligação de comunicação entre o teleoperador e o drone. O <em>teleoperador</em> controla o <em>drone</em> através da interface entóptica e recebe entrada sensorial e outros dados através dos insertos da mesh do drone.</p>
+<p>Você pode controlar um drone em <em>modo autônomo</em> ou diretamente por <em>encarnação</em>.</p>
+<h3 id="modo-autônomo"><a class="header" href="#modo-autônomo">Modo Autônomo</a></h3>
+<p>As carcaças de bots e veículos estão equipadas com <a href="../16/13-apps-and-alis.html#alis-and-muses">ILA de Bot/Veículo</a>. Em modo autônomo, a IA do drone opera por conta própria, embora ela também siga comandos dados verbalmente ou através de uma ligação de comunicação ou painel de controle entóptico por uma entidade autorizada. Emitir um comando de uma frase é uma ação rápida mental; comandos podem ser emitidos para vários drones de uma só vez. Comandos mais complexos podem demorar mais, ou podem ser preparados com antecedência com um Teste de Programação. Talvez a IA precise passar em uma Prova de COG para entender comandos particularmente confusos ou incompletos.</p>
+<p>Drones autônomos usam sua própria Iniciativa, perícias e paradas.</p>
+<h3 id="encarnação"><a class="header" href="#encarnação">Encarnação</a></h3>
+<p>Você encarna um drone imergindo em uma sobreposição de RA do corpo e sensório do drone, incluindo propriocepção — você essencialmente se torna o drone. Engajar ou desengajar do modo encarnação é uma ação rápida. Enquanto imerso, você sofre um modificador −30 em Testes de Percepção e ações físicas envolvendo seu próprio morfo. A encarnação se parece muito com um reencape, e você deve fazer um <a href="../15/02-resleeving.html#integration-test">Teste de Integração</a> para aclimatar a forma do drone.</p>
+<p>Trate a encarnação da mesma forma como se tivesse encapado o drone; use as paradas do drone em vez das do seu morfo. No entanto, como a encarnação é um pouco inferior ao encape real, você sofre um modificador −10 em todas as ações (a não ser que esteja equipado com <a href="../16/08-mental-augmentations.html">acoplagem drone</a>).</p>
+<h2 id="bots-de-combate"><a class="header" href="#bots-de-combate">Bots de Combate</a></h2>
+<p>Estes bots são úteis para aplicações de segurança, defesa e combate.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS DE COMBATE<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Anjo da Guarda<td>Mod/2<td>0&nbsp;(1)<td>1<td>16/12<td>5<td>25<td>50<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/32 Rotor</li>
+<li><strong>Ware:</strong> Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Parisfera<td>Raro/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>G</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/40 Empuxo Vetorial</li>
+<li><strong>Ware:</strong> Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Sentinela<td>Raro/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Esteira</li>
+<li><strong>Ware:</strong> Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Drone Escudo<td>Men/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Esteira</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Anjo da Guarda:</strong> Similares a mosquitos, os anjos da guarda são drones maiores com rotores e usados para fins defensivos. Eles pairam ao redor dos seus encargos, mantendo um olhar atento para protegê-los de ameaças.</p>
+<p><strong>Parisfera:</strong> Tendo o nome do herói troiano Páris, que matou Aquiles com uma flecha, esta espaçonave tipo orbe não é muito mais do que uma cápsula de armas construída ao redor de um foguete. Sem ter um piloto, estes drones de combate podem realizar manobras de alto-g.</p>
+<p><strong>Sentinela:</strong> Muitas variedades de bots sentinelas existem, mas modelos comuns manobram usando quatro esteiras inteligentes multidirecionais. Usados em todo Sistema Solar para fins de policiamento e segurança, eles estão repletos de armaduras e armas.</p>
+<p><strong>Drone Escudo:</strong> Estes drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VA +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).</p>
+<h2 id="bots-de-exploração"><a class="header" href="#bots-de-exploração">Bots de Exploração</a></h2>
+<p>Projetados para desbravamento, estes bots também são úteis em outras funções.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS DE EXPLORAÇÃO<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Exploranauta<td>Mai/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Esteira, 8/40 Empuxo Vetorial</li>
+<li><strong>Ware:</strong> Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Gelatinibot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Movement Rate:</strong> 4/12 Marcha, 8/40 Rolagem</li>
+<li><strong>Ware:</strong> Ajuste de Forma, Membros Retráteis</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Exploranauta:</strong> Estes bots de tamanho pequeno viajam em esteiras inteligentes ou com jatos de empuxo vetorial. Eles estão repletos de sensores e são usados para desbravamento e operações similares de exploração. Um par de braços manipuladores são usados para recolher amostras.</p>
+<p><strong>Gelatinibot:</strong> Estes pequenos bots amorfos são macios, com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.</p>
+<h2 id="bots-médicos"><a class="header" href="#bots-médicos">Bots Médicos</a></h2>
+<p>Estes bots são verdadeiros salva-vidas.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS MÉDICOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Medibot<td>Mai/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/40 Empuxo/Rodas</li>
+<li><strong>Ware:</strong> Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica</li>
+</ul>
+</div></tr>
+<tr><td>Resgatador<td>Mai/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>G</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/40 Rodas, 8/32 Rotor</li>
+<li><strong>Ware:</strong> Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Medibot:</strong> Estes robôs médicos com rodas são projetados para cuidar e transportar pessoas feridas e doentes. Eles carregam um fabro para suprimentos médicos e farmacêuticos, equipamentos médicos diversos, um recipiente seguro para carregar cabeças, e 4–8 braços articulados para conduzir cirurgias remotas. Eles são geralmente carregados com spray curativo e xarope (adquiridos separadamente).</p>
+<p><strong>Resgatador:</strong> Projetado como um carro voador menor com um par de braços manipuladores, este bot cuida de operações de busca e resgate. Ele rastreia sobreviventes e os resgata de perigos, carregando os feridos para a segurança. Ele pode conter um transumano de tamanho médio.</p>
+<h2 id="bots-pessoais"><a class="header" href="#bots-pessoais">Bots Pessoais</a></h2>
+<p>Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habitats transumanos.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS PESSOAIS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Bichinho<td>Men/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>MP</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Pulo/Marcha</li>
+<li><strong>Ware:</strong> Almofadas Aderentes, Pele Camaleão</li>
+</ul>
+</div></tr>
+<tr><td>Manipulador<td>Mai/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Marcha</li>
+<li><strong>Ware:</strong> Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod</li>
+</ul>
+</div></tr>
+<tr><td>Servente<td>Men/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/20 Marcha</li>
+</ul>
+</div></tr>
+<tr><td>Aracnomão<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Marcha</li>
+<li><strong>Ware:</strong> Almofadas Aderentes, Garras, Sistema Magnético</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Bichinho:</strong> Os bichinhos vêm em uma variedade eclética de formatos, desde esquilos-robôs até insectoides ou criaturas mecânicas bizarras e artísticas. Os bichinhos foram originalmente projetados como mascotes robóticos, mas são bastante usados como um lacaio doméstico de uso geral, como um servente mais adorado. Muitas pessoas carregam o bichinho consigo, soltando-o para cuidar de pequenas tarefas para elas e deixando-o escalar seu corpo para cima e para baixo.</p>
+<p><strong>Manipulador:</strong> Este bot assume a forma de um membro extra e uma cinta de suporte, armação de sustentação, arnês, ou braçadeira para vesti-lo. O manipulador pode ficar em mesh e ser tratado como uma extensão do seu corpo ou destacado para operação autônoma ou controle remoto. Embora projetos de braços humanos sejam comuns, uma variedade de projetos de membros estão disponíveis, desde garras até tentáculos. Trate como <a href="../16/11-physical-augmentations.html">cibermembro extra</a> quando vestido.</p>
+<p><strong>Servente:</strong> Os serventes são os robôs mais comuns, atuando como cozinheiros, zeladores, ajudantes genéricos, carregadores e assistentes pessoais. Cada casa tem pelo menos um. Eles têm uma variedade de formatos e tamanhos não humanoides, embora a maioria seja de tamanho médio, com 4–8 membros em média.</p>
+<p><strong>Aracnomão:</strong> Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas &quot;pernas&quot; são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.</p>
+<h2 id="bots-de-reconhecimentovigilância"><a class="header" href="#bots-de-reconhecimentovigilância">Bots de Reconhecimento/Vigilância</a></h2>
+<p>Os circuitos fechados de vigilância continuam sendo um dos usos principais dos robôs.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS DE RECONHECIMENTO/<wbr>VIGILÂNCIA<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Aeróstato<td>Mod/2<td>0<td>0<td>6/4<td>4<td>20<td>40<td>G</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/32 Microleve</li>
+<li><strong>Ware:</strong> Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Mosquito<td>Men/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/32 Rotor</li>
+<li><strong>Ware:</strong> Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Disco<td>Men/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>P</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/40 Iônico</li>
+<li><strong>Ware:</strong> Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Pontinho<td>Men/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>MP</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/12 Pulo, 8/32 Asas</li>
+<li><strong>Ware:</strong> Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada</li>
+</ul>
+</div></tr>
+<tr><td>Zéfiro<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/32 Asas</li>
+<li><strong>Ware:</strong> Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Aeróstato:</strong> Aeróstatos são balões, usando gases de flutuação para elevação em atmosferas e manobrando com turbofans. Sua discrição e longevidade os tornam ideais para vigilância, pesquisa ou mineração de gás em alta altitude.</p>
+<p><strong>Mosquito:</strong> Os mosquitos são pequenos drones de câmera/vigilância com rotores. Muitas pessoas usam mosquitos para lifelogs pessoais, enquanto socialites e a mídia os usam para capturar o glamour e últimas novidades.</p>
+<p><strong>Disco:</strong> Estes drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um <a href="../12/24-movement.html#ionic">motor iônico</a>. Os discos são excelentes como vigias e monitores de circuitos de vigilância.</p>
+<p><strong>Pontinho:</strong> Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca das frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um &quot;pontinho na parede&quot;. Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.</p>
+<p><strong>Zéfiro:</strong> Os zéfiros são aviões furtivos de tamanho médio mas leves, geralmente lançados através de um arremesso e usados para reconhecimento de longa distância ou ataques de mísseis.</p>
+<h2 id="bots-utilitários"><a class="header" href="#bots-utilitários">Bots Utilitários</a></h2>
+<p>Estes bots ajudam a fazer as coisas.</p>
+<table class="centered stat-list tl1">
+<thead><tr><th>ROBÔS UTILITÁRIOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<tr><td>Automecânico<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/40 Empuxo/Rodas</li>
+<li><strong>Ware:</strong> Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod</li>
+</ul>
+</div></tr>
+<tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 8/32 Submerso</li>
+<li><strong>Ware:</strong> Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod</li>
+</ul>
+</div></tr>
+<tr><td>Anão<td>Mai/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>G</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/20 Marcha</li>
+<li><strong>Ware:</strong> Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar</li>
+</ul>
+</div></tr>
+<tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
+<tr><td colspan="9"><div class="indent">
+<ul>
+<li><strong>Taxa de Movimento:</strong> 4/20 Marcha, 8/40 Empuxo Vetorial</li>
+<li><strong>Ware:</strong> Autocozedor</li>
+</ul>
+</div></tr>
+</table>
+<p><strong>Automecânico:</strong> Os automecânicos são drones de reparo de uso geral, encontrados em praticamente todos os lugares. Cada um é especializado em um tipo específico de trabalho de reparo e está equipado com as ferramentas e perícias de ILA apropriadas, seja para reparo eletrônico, de sistemas de habitats ou de espaçonaves. Os automecânicos padrões são cubos com rodas com 4–8 membros retráteis e articulados, embora eles também sejam equipados com motores de empuxo vetorial para trabalho em zero-g.</p>
+<p><strong>Barracuda:</strong> Este drone utilitário submarino é usado para funções de exploração, serviço e reparo. Ele tem o formato de um submarino em miniatura com um par de braços retráteis.</p>
+<p><strong>Anão:</strong> Estes grandes bots industriais são chamados não só pelo seu uso primário — mineração, escavação, túneis e construção — mas porque as IAs padrões equipadas neles tinham a tendência programada de assobiar felizmente enquanto trabalhavam. Os anões são andadores quadrúpedes, equipados com enormes ferramentas modulares industriais como brocas de perfuração, pás, macacos hidráulicos, britadeiras, braços carregadores, jatos de ácido e assim por diante.</p>
+<p><strong>Mula-Robô:</strong> Estes drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../16/20-nanoswarms-and-microswarms.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../16/22-vehicles.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../16/20-nanoswarms-and-microswarms.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../16/22-vehicles.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
