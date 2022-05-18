@@ -142,7 +142,7 @@ Pharma-foods that boost the consumer’s health and physical state.
 
 | HEALTH DRUGS     |  Type   | Application | Duration | Addiction Mod/<wbr>Type | Comp/<wbr>GP | Description                             |
 | :--------------- | :-----: | :---------: | :------: | :---------------------: | :----------: | :-------------------------------------- |
-| Bananas Furiosas | Biochem |     Any     |  1 day   |            —            |    Min/1     | Reduces severity of radiation exposure. |
+| Bananas Furiosas | Biochem |     Any     | 8 hours  |            —            |    Min/1     | Reduces severity of radiation exposure. |
 | Comfurt          | Biochem |     Any     | 12 hours |       −10/Mental        |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.    |
 
 **Bananas Furiosas:** This drug reverses the effects of ionizing radiation on your body's cells. It most commonly comes in bunches of bright orange-red bananas. Belters prefer the drug in cigarette form, for the irony. Bananas allow you to halve the damage and ignore impairment modifiers from radiation poisoning for 8 hours.
@@ -153,15 +153,15 @@ Pharma-foods that boost the consumer’s health and physical state.
 
 Nanodrugs are temporary nanobot infestations that apply a specific effect. They can make fundamental changes to a body’s biochemistry and mental state. GMs should consider including nanodrugs that temporarily apply certain traits, such as Direction Sense, Psi Chameleon, Psi Defense, Situational Awareness, or Superior Numeracy — experiment with different possibilities and effects!
 
-| NANODRUGS | Type | Application | Duration  | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                                              |
-| :-------- | :--: | :---------: | :-------: | :------------------: | :----------: | :----------------------------------------------------------------------- |
-| Freeq     | Nano |   Inj, O    |  8 hours  |          —           |    Min/1     | Use Perceive to detect near-field electromagnetic emissions.             |
-| Gravy     | Nano |   Inj, O    |   1 day   |          —           |    Min/1     | Reduce penalties for high-gravity acclimation by 20.                     |
-| Meds      | Nano |   Inj, O    |   1 day   |          —           |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                           |
-| Persona   | Nano |   Inj, O    |  8 hours  |          —           |    Min/1     | Acquire Enhanced Behavior (2) trait.                                     |
-| Retcon    | Nano |   Inj, O    | Permanent |          —           |   Mod/R/2    | Erases last 48 hours of memories.                                        |
-| Schizo    | Nano |   Inj, O    |  3 hours  |          —           |   Min/R/1    | Mental Disorder: Schizophrenia, Enhanced Behavior: Violent (2), SV 1d10. |
-| Xsense    | Nano |   Inj, O    |   1 day   |          —           |    Min/1     | Acquire new sense or other organ function.                               |
+| NANODRUGS | Type  | Application | Duration  | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                                              |
+| :-------- | :---: | :---------: | :-------: | :------------------: | :----------: | :----------------------------------------------------------------------- |
+| Freeq     | Nano  |   Inj, O    |  8 hours  |          —           |    Min/1     | Use Perceive to detect near-field electromagnetic emissions.             |
+| Gravy     | Nano  |   Inj, O    |   1 day   |          —           |    Min/1     | Reduce penalties for high-gravity acclimation by 20.                     |
+| Meds      | Nano  |   Inj, O    |   1 day   |          —           |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                           |
+| Persona   | Nano  |   Inj, O    |  8 hours  |          —           |    Min/1     | Acquire Enhanced Behavior (2) trait.                                     |
+| Retcon    | Nano  |   Inj, O    | Permanent |          —           |   Mod/R/2    | Erases last 48 hours of memories.                                        |
+| Schizo    | Nano  |   Inj, O    |  3 hours  |          —           |   Min/R/1    | Mental Disorder: Schizophrenia, Enhanced Behavior: Violent (2), SV 1d10. |
+| Xsense    | Nano  |   Inj, O    |   1 day   |          —           |    Min/1     | Acquire new sense or other organ function.                               |
 
 **Freeq:** Originally called frequency, this drug was designed as a tool for scientific visualization. It releases nanobots into your bloodstream that settle in the epidermis, where they act as sensors for electromagnetic radiation. This sensory input is then injected into your visual and tactile sensoria as a sequence of novel stimuli, typically a light show or weird tactile sensations. Aside from its recreational uses, freeq is good at picking up on localized field radiation, allowing you to spot motes, sensors, and hidden electronics with a Perceive Test, depending on their range and signal strength (GM discretion).
 
@@ -205,11 +205,11 @@ Petals sometimes contain easter eggs and rewards, called “sweets” by petal u
 
 On the negative side, some petal trips go bad, inflicting SV 1d10 or worse. Some petals are also loaded with malware that invades your mesh inserts and exploits your data and accounts while you are high. Firewall has even heard accounts of petals carrying strains of the exsurgent virus.
 
-| PETALS            | Type | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                    |
-| :---------------- | :--: | :---------: | :------: | :------------------: | :----------: | :--------------------------------------------- |
-| Inquisitive Green | Nano |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, green becomes sapient. |
-| Soul Stave        | Nano |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, find magic item forks. |
-| The Creeps        | Nano |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, phantom limb mystery.  |
+| PETALS            | Type  | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                    |
+| :---------------- | :---: | :---------: | :------: | :------------------: | :----------: | :--------------------------------------------- |
+| Inquisitive Green | Nano  |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, green becomes sapient. |
+| Soul Stave        | Nano  |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, find magic item forks. |
+| The Creeps        | Nano  |   Inj, O    | 12 hours |          —           |   Min/R/1    | Narrative hallucinogen, phantom limb mystery.  |
 
 **Inquisitive Green:** Things of a certain color (often green, but not always) take on a life of their own. The color itself has achieved sapience and seeks to learn of the universe. It enlists your aid, at first. Other trippers meet and work with other colors. Eventually, it learns to spread its color to other things, taking control. Other colors conspire against it. Do you choose sides or find a way for the colors to cooperate and live in harmony? Then, the White comes. All colors fear the White.
 
@@ -286,9 +286,9 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 | TOXINS          |  Type   |  Application   |      Duration       | Comp/<wbr>GP | Description                                                           |
 | :-------------- | :-----: | :------------: | :-----------------: | :----------: | :-------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<wbr>1 hour |   Maj/R/3    | DV 2d10 +3 for 3 turns, SOM Check or immobilized for 1 hour.          |
-| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6, −30 Perceive, −20 all other actions.                          |
-| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10, −30 resist intimidation/fear effects.                        |
+| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<wbr>1 hour |   Maj/R/3    | DV 2d10 + 10 \[21\] for 3 turns, SOM Check or immobilized for 1 hour.          |
+| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6 \[4\], −30 Perceive, −20 all other actions.                          |
+| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10 \[6\], −30 resist intimidation/fear effects.                        |
 | Nervex          | Biochem | D, Inh, Inj, O |          —          |   Maj/R/3    | −20 actions, SOM Check vs. incapacitation, death.                     |
 | Oxytocin-A      | Biochem |    Inh, Inj    |       2 hours       |   Min/R/1    | Trusting, −30&nbsp;WIL Checks/Kinesics Tests where trust is a factor. |
 | Twitch          | Biochem | D, Inh, Inj, O |     10 minutes      |   Min/R/1    | −20 actions, SOM Check vs. incapacitation.                            |
@@ -313,12 +313,12 @@ You can create an antidote for most toxins with: a sample, a medical shop, and a
 
 These temporary nanobot infestations damage or impair.
 
-| NANOTOXINS | Type | Application | Duration | Comp/<wbr>GP | Description                                        |
-| :--------- | :--: | :---------: | :------: | :----------: | :------------------------------------------------- |
-| Disruptor  | Nano |   Inj, O    | 8 hours  |   Maj/R/3    | Cumulative −5 to actions per hour; incapacitation. |
-| Necrosis   | Nano |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 per turn.                                   |
-| Neuropath  | Nano |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs incapacitation.   |
-| Nutcracker | Nano |   Inj, O    | 6 hours  |   Maj/R/3    | Destroys cortical stack.                           |
+| NANOTOXINS | Type  | Application | Duration | Comp/<wbr>GP | Description                                        |
+| :--------- | :---: | :---------: | :------: | :----------: | :------------------------------------------------- |
+| Disruptor  | Nano  |   Inj, O    | 8 hours  |   Maj/R/3    | Cumulative −5 to actions per hour; incapacitation. |
+| Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                                   |
+| Neuropath  | Nano  |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs incapacitation.   |
+| Nutcracker | Nano  |   Inj, O    | 6 hours  |   Maj/R/3    | Destroys cortical stack.                           |
 
 **Disruptor:** This nanotoxin attacks the myelin sheath on nerves, disrupting nerve impulses and inflicting symptoms of multiple sclerosis (impaired vision, muscle strength, and coordination). Every hour, you suffer a cumulative −5 modifier to all actions. If the total modifier meets or exceeds your Durability, you are paralyzed and catatonic (incapacitated). These modifiers can only be reduced with regenerative time in a healing vat (1 hour per −5).
 

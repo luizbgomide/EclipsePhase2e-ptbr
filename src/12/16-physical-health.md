@@ -34,7 +34,7 @@ Note that these rules handle damage and wounds as an abstract concept. For drama
 
 ## Wound Effects
 
-Each wound applies a cumulative −10 modifier to actions and −1 to Initiative. A character with 3 wounds, for example, suffers −30 to all actions and −3 to Initiative.
+Each wound applies a cumulative −10 modifier to all tests and −1 to Initiative. A character with 3 wounds, for example, suffers −30 to all actions and −3 to Initiative.
 
 Some traits, ware, drugs, psi sleights, and pools allow you to ignore wound modifiers. These effects are cumulative, though a maximum of 3 wounds worth of modifiers can be negated (−30 to actions and −3 to Initiative).
 
@@ -44,7 +44,7 @@ Some traits, ware, drugs, psi sleights, and pools allow you to ignore wound modi
 
 ## Bleeding Out
 
-Biomorph characters who have suffered a wound and taken damage equal to or exceeding their Durability are in danger of bleeding to death. Make a SOM Check to self-stabilize; wound modifiers apply. Apply a +30 if healing spray, meds, or medichines are healing you. If you fail, you incur 1 additional damage point per wound per action turn until you receive medical care or die. Others can attempt to stabilize you with a Medicine: Paramedic Test; the same modifiers apply. If successful, you no longer accumulate damage from bleeding out.
+Biomorph characters who have suffered a wound and taken damage equal to or exceeding their Durability are in danger of bleeding to death. Make a SOM Check to self-stabilize; wound modifiers apply. Apply a +30 if healing spray or meds are applied. Medichines automatically stabilize you and put you in stasis. If you fail, you incur 1 additional damage point per wound per action turn until you receive medical care or die. Others can attempt to stabilize you with a Medicine: Paramedic Test; the same modifiers apply. If successful, you no longer accumulate damage from bleeding out.
 
 ## Death Rating
 

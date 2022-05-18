@@ -35,8 +35,8 @@ Despite their advanced age, some Iktomi ruins are guarded by still-functioning g
 
 ---
 
-- **Initiative:** 6, **Fray:** 50, **AV:** 28/18, offensive armor, self-healing
-- **WT:** 14, **DUR:** 70, **DR:** 140
+- **Initiative:** 6 • **Fray:** 50 • **AV:** 28/18, offensive armor, self-healing
+- **WT:** 14 • **DUR:** 70 • **DR:** 140
 - **Threat Pool:** 4
 
 ---

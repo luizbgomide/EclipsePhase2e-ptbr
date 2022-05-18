@@ -5,10 +5,10 @@ This technology has many applications for Firewall agents.
 | ESPIONAGE GEAR         | Comp/<wbr>GP | Description                                                                                  |
 | :--------------------- | :----------: | :------------------------------------------------------------------------------------------- |
 | Brainprint Scanner     |    Min/1     | Scans brainprint in 5 minutes.                                                               |
-| Bugzapper Strips       |    Mod/2     | Portal EMP field, DV 3d10 to nanoswarms/microswarms.                                         |
+| Bugzapper Strips       |    Mod/2     | Portal EMP field, DV 3d10 \[17\] to nanoswarms/microswarms.                                         |
 | Chameleon Cloak        |    Mod/2     | Camouflage, +10 Infiltrate, +30 stationary.                                                  |
 | Covert Operations Tool |   Maj/R/3    | Bypasses locks, cuts/repairs holes, Hardware: Electronics 60 vs. electronic locks, more.     |
-| Cuffband               |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6.                                 |
+| Cuffband               |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6 \[4\].                                 |
 | Dazzler                |    Mod/2     | Blinds cameras within 200&nbsp;m, REF Check or −30 Perceive for synthmorphs, bots, vehicles. |
 | Disabler               |   Mod/R/2    | Disables morphs with cyberbrain when plugged into access jacks.                              |
 | Fiber Eye              |    Min/1     | Flexible fiberoptic with camera and viewer.                                                  |

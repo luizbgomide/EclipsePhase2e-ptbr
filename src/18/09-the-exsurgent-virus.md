@@ -61,8 +61,8 @@ The digital exsurgent virus adopts common avatar appearances.
 
 ---
 
-- **Initiative:** 10, **Fray:** 70, **AV:** 5 (mesh armor)
-- **WT:** 12, **DUR:** 60, **DR:** 120
+- **Initiative:** 10 • **Fray:** 70 • **AV:** 5 (mesh armor)
+- **WT:** 12 • **DUR:** 60 • **DR:** 120
 - **Threat Pool:** 4
 
 ---

@@ -202,7 +202,7 @@
 <tr><td>Neo-Octopus<td>3&nbsp;MP<td>35<td>6<td>30<td>45<td>1<td>1<td>1<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Movement Rate:** Swim 4/20, Thrust Vector 4/12, Walker 2/8
+- **Movement Rate:** Swim 4/20, Thrust Vector (Gas Jet) 4/12, Walker 2/8
 - **Ware:** 360-Degree Vision, Biomods, Chameleon Skin, Cortical Stack, Gills, Mesh Inserts, Polarization Vision
 - **Morph Traits:** Exotic Morphology (Level 3), Limberness (Level 2), Non-Human Biochemistry (Level 2)
 - **Notes:** 8 prehensile arms, Beak Attack (DV 1d10), Ink Attack (use Athletics, blinding, 5-meter uniform area-effect in water and micrograv)
@@ -309,7 +309,7 @@
 <tr><td>Arachnoid<td>6&nbsp;MP<td>40<td>11<td>55<td>110<td>1<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Movement Rate:** Hopper 4/12, Thrust Vector 8/40, Walker 4/20, Wheeled 8/40
+- **Movement Rate:** Hopper 4/12, Thrust Vector (Gas Jet) 8/40, Walker 4/20, Wheeled 8/40
 - **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Lidar, Magnetic System, Mesh Inserts, Mnemonics, Pneumatics, Puppet Sock, Retracting Limbs
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Medium Frame (Armor 8/6)
@@ -318,7 +318,7 @@
 <tr><td>Reaper<td>12&nbsp;MP<td>10<td>12<td>60<td>120<td>1<td>0<td>6<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Movement Rate:** Hopper 4/20, Ionic 8/40, Thrust Vector 8/40, Walker 4/20
+- **Movement Rate:** Hopper 4/20, Ionic 8/40, Thrust Vector (Gas Jet) 8/40, Walker 4/20
 - **Ware:** 360-Degree Vision, Access Jacks, Anti-Glare, Cortical Stack, Cyberbrain, Enhanced Vision, Magnetic System, Mesh Inserts, Mnemonics, Pneumatics, Puppet Sock, Radar, Retracting Limbs, T-Ray Emitter, Weapon Mount (Articulated, 4)
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Heavy Frame (Armor 12/10)
@@ -333,7 +333,7 @@
 <tr><td>All flexbots have the following stats, plus the stats for their module type:</tr>
 <tr><td><div class="indent">
 
-- **Movement Rate:** Thrust Vector 8/40, Walker 4/12
+- **Movement Rate:** Thrust Vector (Gas Jet) 8/40, Walker 4/12
 - **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Lidar, Mesh Inserts, Mnemonics, Modular Design, Puppet Sock, Shape Adjusting
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Light Frame (Armor 6/4), Small size

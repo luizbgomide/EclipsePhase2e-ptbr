@@ -37,7 +37,7 @@ If your character receives a number of stress points at once that equals or exce
 
 ## Trauma Effects
 
-Each trauma applies a cumulative −10 modifier to all of the character’s actions and −1 to Initiative. A character with 2 traumas, for example, suffers −20 to all actions and −2 Initiative. These modifiers are also cumulative with wound modifiers.
+Each trauma applies a cumulative −10 modifier to all of the character’s tests and −1 to Initiative. A character with 2 traumas, for example, suffers −20 to all actions and −2 Initiative. These modifiers are also cumulative with wound modifiers.
 
 Some traits, ware, drugs, psi sleights, and pools allow you to ignore trauma modifiers. These effects are cumulative, though a maximum of 3 trauma worth of modifiers can be negated (−30 to actions and −3 to Initiative).
 

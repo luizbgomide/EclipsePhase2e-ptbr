@@ -69,7 +69,7 @@ Raising the value of an aptitude also raises the value of all linked skills by a
 
 To improve an existing skill or learn a new one, you must actively practice it, study, and/or seek instruction. Each RP spent gives you 5 skill points to allocate. New skills are raised up from the linked aptitude rating.
 
-Once you have achieved a level of expertise in a skill (60+), you reach a plateau where improvement progresses more slowly and even consistent practice and study have diminished returns. You cannot spend more than 1 skill point on skills that are 60 or over per downtime week.
+Once you have achieved a level of expertise in a skill (60+), you reach a plateau where improvement progresses more slowly and even consistent practice and study have diminished returns. You cannot spend more than 1 skill point on skills that are 60 or over per downtime week. No skill may be raised over 100 (and even then, 99 is still a critical failure).
 
 ### Increase Flex
 

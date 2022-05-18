@@ -31,8 +31,8 @@ In their mad-science search for the perfect life form/ultimate killing machine, 
 
 ---
 
-- **Initiative:** 4, **Fray:** 30, **AV:** 0/0
-- **WT:** 5, **DUR:** 25, **DR:** 38, ignore 1 wound effect
+- **Initiative:** 4 • **Fray:** 30 • **AV:** 0/0
+- **WT:** 5 • **DUR:** 25 • **DR:** 38, ignore 1 wound effect
 - **Threat Pool:** 1
 
 ---
@@ -80,8 +80,8 @@ Neurodes take excessive measures to amplify their intelligence, adopting the phy
 
 ---
 
-- **Initiative:** 8, **Fray:** 40, **AV:** 6/7 Carapace (26/25 with Hardsuit)
-- **WT:** 8, **DUR:** 40, **DR:** 60, ignore 1 wound effect
+- **Initiative:** 8 • **Fray:** 40 • **AV:** 6/7 Carapace (26/25 with Hardsuit)
+- **WT:** 8 • **DUR:** 40 • **DR:** 60, ignore 1 wound effect
 - **Insight:** 8, **Moxie:** 3, **Vigor:** 0, **Flex:** 2
 
 ---
@@ -132,8 +132,8 @@ Predators aim to become the ultimate warriors, to reach the apex of the hunter-p
 
 ---
 
-- **Initiative:** 10, **Fray:** 70, **AV:** 12/14
-- **WT:** 13, **DUR:** 70, **DR:** 95, ignore 3 wound effects
+- **Initiative:** 10 • **Fray:** 70 • **AV:** 12/14
+- **WT:** 13 • **DUR:** 70 • **DR:** 95, ignore 3 wound effects
 - **Threat Pool:** 6
 
 ---

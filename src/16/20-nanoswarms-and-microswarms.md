@@ -63,9 +63,9 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | SWARMS             |     Comp/<wbr>GP     | Description                                                                        |
 | :----------------- | :------------------: | :--------------------------------------------------------------------------------- |
 | Cleaner Swarm      |        Min/1         | Cleans, eliminates forensic evidence.                                              |
-| Disassembler Swarm |       Mod/R/2        | Deconstructs, DV 1d6 per turn, eats armor.                                         |
+| Disassembler Swarm |       Mod/R/2        | Deconstructs, DV 1d6 \[4\] per turn, eats armor.                                         |
 | Engineer Swarm     |        Min/1         | Constructs/shapes environment.                                                     |
-| Fixer Swarm        |        Mod/2         | Repairs 1d10 damage per hour or 1 wound per day.                                   |
+| Fixer Swarm        |        Mod/2         | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                                   |
 | Gardener Swarm     |        Min/1         | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
 | Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 6 per turn.                             |
 | Protean Swarm      |      As Object       | Nanofabricates a specific, pre-programmed item.                                    |

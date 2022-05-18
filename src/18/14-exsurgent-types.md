@@ -27,8 +27,8 @@ Creepers are autonomous femtobot swarms; a level of technology far beyond transh
 
 ---
 
-- **Initiative:** 8, **Fray:** 40, **AV:** 0/0
-- **WT:** —, **DUR:** 100, **DR:** 200
+- **Initiative:** 8 • **Fray:** 40 • **AV:** 0/0
+- **WT:** — • **DUR:** 100 • **DR:** 200
 - **Insight** 8, **Moxie** 0, **Vigor** 5, **Flex** 3
 
 ---
@@ -87,8 +87,8 @@ Deployed by the TITANS as drones and servants, these malformed, albino humanoids
 
 ---
 
-- **Initiative:** 8, **Fray:** 55, **AV:** 8/8
-- **WT:** 11, **DUR:** 60, **DR:** 90
+- **Initiative:** 8 • **Fray:** 55 • **AV:** 8/8
+- **WT:** 11 • **DUR:** 60 • **DR:** 90
 - **Threat Pool:** 5
 
 ---
@@ -139,8 +139,8 @@ Jellies take the form of massive, slimy, mucus-filled bubbles. Their soft, amorp
 
 ---
 
-- **Initiative:** 7, **Fray:** 25, **AV:** 12/12
-- **WT:** 14, **DUR:** 70, **DR:** 105
+- **Initiative:** 7 • **Fray:** 30 • **AV:** 12/12
+- **WT:** 14 • **DUR:** 70 • **DR:** 105
 - **Threat Pool:** 3
 
 ---
@@ -239,7 +239,7 @@ The shifter xenomorph nanoplague converts synthmorph and robot frames into a liq
 
 ---
 
-- **Initiative:** 10 • **Fray:** 50 • **AV:** 13/13
+- **Initiative:** 10 • **Fray:** 60 • **AV:** 13/13
 - **WT:** 12 • **DUR:** 60 • **DR:** 120
 - **Threat Pool:** 5
 
@@ -463,8 +463,8 @@ These creatures have barrel-shaped torsos. From the bottom, they skitter around 
 
 ---
 
-- **Initiative:** 10, **Fray:** 50, **AV:** 10/5 (skin)
-- **WT:** 7, **DUR:** 35, **DR:** 53
+- **Initiative:** 10 • **Fray:** 60 • **AV:** 10/5 (skin)
+- **WT:** 7 • **DUR:** 35 • **DR:** 53
 - **Threat Pool:** 2
 
 ---
@@ -518,8 +518,8 @@ Named for their habit of worming their way into people’s minds, worms retain t
 
 ---
 
-- **Initiative:** 7, **Fray:** 50, **AV:** 4/10 Light Armor Vest
-- **WT:** 7, **DUR:** 35, **DR:** 53 (or as morph)
+- **Initiative:** 7 • **Fray:** 50 • **AV:** 4/10 Light Armor Vest
+- **WT:** 7 • **DUR:** 35 • **DR:** 53 (or as morph)
 - **Threat Pool:** 3
 
 ---

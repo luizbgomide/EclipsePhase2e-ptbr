@@ -11,7 +11,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 | Cyberlimb Plus         |     C     |    Maj/3     | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                     |
 | Enhanced Respiration   |     B     |    Min/1     | Breathe wider range of atmospheres, hold breath longer.                                                  |
 | Fractal Digits         |    CH     |    Min/1     | +10 Hardware Tests involving ultra-fine manipulation.                                                    |
-| Gas-Jet System         |    CH     |    Mod/2     | +10 Free Fall.                                                                                           |
+| Gas-Jet System         |    CH     |    Mod/2     | Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).                         |
 | Gills                  |     B     |    Min/1     | Breathe both air and water.                                                                              |
 | Grip Pads              |    BCH    |    Min/1     | +30 climbing Athletics Tests.                                                                            |
 | Hibernation            |     B     |    Min/1     | Reduce metabolism, need only 5% normal amount of food, water, and air.                                   |
@@ -31,7 +31,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 | Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C.                                                                   |
 | Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                     |
 | Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |
-| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities.                                                              |
+| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).          |
 
 **Circadian Regulation:** Your morph only requires 2 hours of sleep to maintain health and function at peak mental capacity. You dream constantly while asleep and can both fall asleep and wake up almost instantly. You can also easily shift to a 2-day cycle, awake for 44 hours then sleeping for 4, with no ill effects. You need only 2 hours for a long recharge of your pools ([Recharging Pools](../03/05-pools.md#recharging-pools)).
 
@@ -47,7 +47,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Fractal Digits:** Your morph has “bush robot” digits that are capable of splitting into smaller digits, and those smaller digits into micro digits, and so on down to the nanometer scale. These fingers can operate independently, allowing for ultra-fine manipulation. When coupled with nanoscopic vision, this even allows you to manipulate individual nanobots. Apply a +10 modifier to Hardware Tests where micro- or nano-manipulation is an important factor. The cybernetic version of this mod can only be applied to cyberlimbs.
 
-**Gas-Jet System:** Nozzles in your chest, back, and limbs allow you to maneuver in micrograv with vectored bursts of gas. +10 to Free Fall Tests.
+**Gas-Jet System:** Maneuver in microgravity with embedded nozzles. Gain the Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).
 
 **Gills:** The morph’s lung tissue is adapted to function as gills, allowing you to breathe both air and water, as long as the water is not toxic or too stagnant. Water you breathe in through the gills is expelled through slits just underneath your lowest pair of ribs that seal when you are not underwater.
 

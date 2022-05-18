@@ -63,17 +63,17 @@ The timeframe for morph modding is the same for acquiring gear: 2 hours for Mino
 
 ## Making Morphs
 
-Morphs can be made, but this requires one or more task action skill tests each with a significantly long timeframe, as well as access to the morph’s blueprints/genetics, a proper nanofabricator and/or exowomb, and a medical facility. This timeframe cannot be reduced with time-accelerated VR. If you do not have blueprints/genetics, or you wish to design one from scratch, the timeframes will be considerably longer (GM determination, but easily 5–10 times longer).
+Morphs can be made, but this requires one or more task action skill tests each with a significantly long timeframe, as well as access to the morph’s blueprints/genetics, a proper nanofabricator and/or exowomb, and a medical facility. This timeframe cannot be reduced with time-accelerated VR. Since much of this process is automated fabrication/growth, only about 25% of the timeframe requires your complete attention (GM discretion). If you do not have blueprints/genetics, or you wish to design one from scratch, the timeframes will be considerably longer, with at least 50% of this timeframe requiring full attention (GM determination, but easily 5–10 times longer).
 
 <blockquote class="table">
 
 ### Making a Morph
 
-| Morph Type | Skills                       | Gear Needed                                   | Timeframe       |
-| :--------- | :--------------------------- | :-------------------------------------------- | :-------------- |
-| Synthmorph | Hardware: Robotics + Program | Medium Fabber                                 | (MP + 1) weeks  |
-| Pod        | Medicine: Biotech + Program  | Specialized Fabber, Tools Shop or Healing Vat | (MP + 1) months |
-| Biomorph   | Medicine: Biotech            | Exowomb                                       | (MP + 6) months |
+| Morph Type | Skills and Timeframes                                            | Gear Needed                                   |
+| :--------- | :--------------------------------------------------------------- | :-------------------------------------------- |
+| Biomorph   | Medicine: Biotech ([MP + 6] months)                              | Exowomb                                       |
+| Pod        | Medicine: Biotech ([MP + 1] months),<br>Program ([MP + 1) weeks) | Specialized Fabber, Tools Shop or Healing Vat |
+| Synthmorph | Hardware: Robotics ([MP + 1) weeks),<br>Program ([MP + 1) weeks) | Medium Fabber                                 |
 
 </blockquote>
 

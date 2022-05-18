@@ -73,11 +73,11 @@ Each bit of data transmitted between QE comms uses up one qubit. Once all of the
 
 Because the entanglement process requires special equipment, QE comms gear cannot be nanofabricated.
 
-| QE COMMS GEAR       | Comp/<wbr>GP | Description                                                   |
-| :------------------ | :----------: | :------------------------------------------------------------ |
-| QE Comm             |    Min/1     | Small FTL communication device, requires qubits.              |
-| Emergency Reservoir |    Mod/2     | Micro qubit reservoir pair, 1 minute video/1 hour voice.      |
-| Qubit Reservoir     |    Maj/3     | Medium qubit reservoir pair, 10 hours video, 100 hours voice. |
+| QE COMMS GEAR       | Comp/<wbr>GP | Description                                                         |
+| :------------------ | :----------: | :------------------------------------------------------------------ |
+| QE Comm             |    Min/1     | Small FTL communication device, requires qubits.                    |
+| Emergency Reservoir |    Mod/2     | Very small-sized qubit reservoir pair, 1 minute video/1 hour voice. |
+| Qubit Reservoir     |    Maj/3     | Small-sized qubit reservoir pair, 10 hours video, 100 hours voice.  |
 
 **QE Comm:** This is a small, handheld FTL communications device. It must be equipped with a qubit reservoir to enable quantum-entangled communications.
 

@@ -11,7 +11,7 @@ Each pool is linked to a different group of aptitudes and skills and may be used
 
 ## Using Pools
 
-You may spend points from your pools to affect the tests you make; choose one of the following options. Each pool may only be used for tests that use their linked skills or aptitudes (i.e., a Vigor point can be used on a skill test or aptitude check linked to REF or SOM). Flex may be used on _any_ tests. Unless otherwise noted, only 1 pool point may be spent per test.
+You may spend points from your pools to affect the tests you make; choose one of the following options. Each pool may only be used for tests that use their linked skills or aptitudes (i.e., a Vigor point can be used on a skill test or aptitude check linked to REF or SOM). Flex may be used on _any_ tests.
 
 - **Before Roll:** Ignore all modifiers to the test.
 - **Before Roll:** Add +20 to the test’s target number.
@@ -19,6 +19,8 @@ You may spend points from your pools to affect the tests you make; choose one of
 - **After Roll:** Upgrade a success to a superior success (or one to two).
 - **After Roll:** Downgrade a critical failure to a regular failure.
 - **Ongoing (Insight/Moxie/Vigor Only):** Receive +5 (1 point) or +10 (2 points) to all skill tests linked to one aptitude for 24 hours or until your next [recharge](../03/05-pools.md#recharging-pools).
+
+Unless otherwise noted, only 1 pool point may be spent per test. Pool spent for an ongoing effect (the last bullet point above) counts as affecting a test.
 
 Various enhancements (ware, drugs, sleights, etc.) provide bonuses to your pools. These are cumulative, up to a maximum bonus of +5 points to any single pool.
 

@@ -324,13 +324,13 @@ You have a knack for conceptualizing dimensions, distances, volumes, and shapes.
 
 **▲ Ego Trait • CP Cost: 1/2/3**
 
-You laugh at fear. Apply a +10 modifier per level to WIL Checks and other tests that involve resisting fear.
+You laugh at fear. Apply a +10 modifier per level to WIL Checks and other tests that involve resisting fear, such as Provoke Tests for intimidation, psi sleights such as Nightmare, and some Stress Tests (GM Discretion; typically the unknown but sometimes helplessness or violence).
 
 ### Striking Looks
 
 **▼ Morph Trait • MP Cost: 1/2**
 
-Sculpted good looks are cheap and commonplace, but this morph possesses a physical look that can only be described as striking, fascinating, and unusual — even the gorgeous and chiseled glitterati take notice. Apply a +10 modifier to Persuade and Provoke tests where your allure may have an impact. Level 1 of this trait only applies to uplifts and synthmorphs; Level 2 is for humanoid biomorphs.
+Sculpted good looks are cheap and commonplace, but this morph possesses a physical look that can only be described as striking, fascinating, and unusual — even the gorgeous and chiseled glitterati take notice. Apply a +10 modifier to Persuade and Provoke tests where your allure may have an impact. Synthmorphs and uplift morphs may only have this trait at Level 1.
 
 ### Superior Numeracy
 
@@ -362,7 +362,7 @@ Negative traits provide a CP or MP bonus and impair you.
 | :------------------------------------------------------------ | :------: | :---------------------------------------------------------------------------- |
 | [Addiction](../04/28-traits.md#addiction)                     |  1/2/4   | −10 per level if no regular fix; see text for additional effects.             |
 | [Bad Luck](../04/28-traits.md#bad-luck)                       |    6     | May not use pools to flip-flop dice rolls.                                    |
-| [Blacklisted Rep](../04/28-traits.md#blacklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
+| [Blocklisted Rep](../04/28-traits.md#blocklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
 | [Black Mark](../04/28-traits.md#black-mark)                   |  1/2/3   | −10 modifier per level to interactions with one faction.                      |
 | [Combat Paralysis](../04/28-traits.md#combat-paralysis)       |    4     | WIL Check to act in each action turn of combat.                               |
 | [Edited Memories](../04/28-traits.md#edited-memories)         |    1     | You have lost some memories, deliberately or not.                             |
@@ -461,11 +461,11 @@ This trait may only be applied to flat and splicer morphs. The morph is physical
 
 The universe seems to punish you with startling frequency. You may not use pools to flip-flop dice rolls.
 
-### Blacklisted Rep
+### Blocklisted Rep
 
 **▲ Ego Trait • CP Bonus: 1/4**
 
-You are blacklisted in certain circles, whether you did something to deserve it or not. You are barred from having a Rep score higher than 0 in one particular reputation network. For rep nets outside your faction, this counts as Level 1. For the rep net central to your faction, this counts as Level 2. People within that network will refuse to help you out of fear of reprisals and ruining their own reputation. This trait may be taken more than once for different rep nets.
+You are blocklisted in certain circles, whether you did something to deserve it or not. You are barred from having a Rep score higher than 0 in one particular reputation network. For rep nets outside your faction, this counts as Level 1. For the rep net central to your faction, this counts as Level 2. People within that network will refuse to help you out of fear of reprisals and ruining their own reputation. This trait may be taken more than once for different rep nets.
 
 ### Black Mark
 
@@ -557,7 +557,7 @@ Your social awareness is often lacking. You suffer −5 per level to SAV Checks.
 
 **▼ Morph Trait • MP Bonus: 1/2**
 
-Your morph is vulnerable to exsurgent infection. Apply a −10 modifier per level to SOM Checks made to resist biological exsurgent virus infection.
+Your morph is vulnerable to exsurgent infection. Apply a −10 modifier per level to SOM Checks made to resist biological exsurgent virus infection. This trait is only available for biomorphs.
 
 ### Inherent Flaws
 

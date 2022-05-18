@@ -247,7 +247,7 @@
     - [Addiction](../04/28-traits.md#addiction)
     - [Age](../04/28-traits.md#age)
     - [Bad Luck](../04/28-traits.md#bad-luck)
-    - [Blacklisted Rep](../04/28-traits.md#blacklisted-rep)
+    - [Blocklisted Rep](../04/28-traits.md#blocklisted-rep)
     - [Black Mark](../04/28-traits.md#black-mark)
     - [Combat Paralysis](../04/28-traits.md#combat-paralysis)
     - [Dominant Limb](../04/28-traits.md#dominant-limb)
