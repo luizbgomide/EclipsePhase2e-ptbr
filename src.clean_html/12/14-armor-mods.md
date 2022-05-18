@@ -5,7 +5,7 @@ Armor modifications add extra materials or coatings that either enhance resistan
 | ARMOR MODS          | Energy | Kinetic | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :------------------ | :----: | :-----: | :----------: | :--------------------------------------------------------------------------------------- |
 | Ablative            |   +4   |   +0    |    Min/1     | 5 uses. Hive restores 1 use per hour.                                                    |
-| Chameleon           |   +0   |   +0    |    Min/1     | +30 Infiltration when stationary or moving less than 2&nbsp;m/turn.                      |
+| Chameleon           |   +0   |   +0    |    Min/1     | +30 Infiltrate when stationary or moving less than 2&nbsp;m/turn.                        |
 | Fireproof           |   +2   |   +0    |    Min/1     | +10/+0 vs. fire/heat.                                                                    |
 | Immunogenic         |   +0   |   +0    |    Min/1     | Negates dermal chem/drugs/toxins.                                                        |
 | Impact              |   +0   |   +3    |    Min/1     |                                                                                          |

@@ -60,7 +60,7 @@ Movement and maneuvering in microgravity is handled using the [Free Fall skill](
 
 Most microgravity habitats are equipped with elastic loops to grab onto, mesh pockets to keep objects from floating all over, and moving beltways with hand loops for major thoroughfares. Magnetic or velcro shoes are commonly used to walk around, rather than climbing or flying. Zero-g environments are designed to make maximum use of space, however, taking advantage of the lack of ceilings and floors. Because objects are weightless, characters can move even massive objects around easily.
 
-**Terminal Velocity:** It is not difficult to reach escape velocity on small asteroids and similar bodies — something to keep in mind with thrown objects and projectile weapons. In some cases, characters who move fast enough and jump can reach escape velocity themselves, though these situations are left up to the GM.
+**Escape Velocity:** It is not difficult to reach escape velocity on small asteroids and similar bodies — something to keep in mind with thrown objects and projectile weapons. In some cases, characters who move fast enough and jump can reach escape velocity themselves, though these situations are left up to the GM.
 
 ### Low Gravity
 

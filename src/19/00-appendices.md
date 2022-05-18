@@ -35,3 +35,4 @@
   - [Vigor](../19/06-rules-primmer.md#vigor)
   - [Flex](../19/06-rules-primmer.md#flex)
   - [Recharging Pools](../19/06-rules-primmer.md#recharging-pools)
+- [Character Sheet](../19/07-character-sheet.md)

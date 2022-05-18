@@ -82,7 +82,7 @@ Very large morphs/creatures/shells are bigger than many vehicles, ranging from l
 
 ## Surprise
 
-You can get the drop on an opponent by sneaking up on them, lying in wait, or sniping from a hard-to-perceive position in the distance. Any time you attempt to surprise, make an opposed test between your Infiltration skill and the target’s Perceive. Unless the target is alert for surprises, they incur the typical −20 modifier for being distracted. Apply other modifiers appropriate to the attacker’s position, distance, visibility, cover, etc. For groups of NPCs, use the highest skill among the characters.
+You can get the drop on an opponent by sneaking up on them, lying in wait, or sniping from a hard-to-perceive position in the distance. Any time you attempt to surprise, make an opposed test between your Infiltrate skill and the target’s Perceive. Unless the target is alert for surprises, they incur the typical −20 modifier for being distracted. Apply other modifiers appropriate to the attacker’s position, distance, visibility, cover, etc. For groups of NPCs, use the highest skill among the characters.
 
 If the target loses, they are surprised by the attack and cannot react to or defend against it. Each successful ambusher receives one free initiative action; they cannot spend Vigor for additional actions. Once the attackers have taken their actions, roll Initiative as normal.
 

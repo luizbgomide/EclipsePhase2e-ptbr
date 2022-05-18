@@ -226,6 +226,7 @@
   - [Complete List of Mesh Actions](19/04-complete-list-of-mesh-actions.md)
   - [Complete List of Morphs](19/05-complete-list-of-morphs.md)
   - [Rules Primer](19/06-rules-primmer.md)
+  - [Character Sheet](19/07-character-sheet.md)
 
 ---
 

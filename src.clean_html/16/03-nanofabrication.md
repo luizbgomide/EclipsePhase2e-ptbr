@@ -14,7 +14,7 @@ In order to print something on a nanofabricator, you need a blueprint. Most have
 
 ### Getting Blueprints
 
-Nanofab blueprints come in three forms: single use, multi use, and open source.
+Nanofab blueprints come in four forms: single use, limited use, multi use, and open source:
 
 **Single-Use Blueprints:** Most single-use blueprints are accessed via a digital distribution platforms which use digital rights management (DRM) to protect copyright. This means you can access the file to print it once, but it cannot be copied or printed again. If you need a file you can print without mesh access, some single-use blueprints are available as downloadable digital files that block efforts to copy them and erase themselves after use. The inner-system hypercorps and capitalist economies use these methods to control scarcity and keep you dependent.
 

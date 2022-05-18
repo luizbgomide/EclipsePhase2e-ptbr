@@ -31,20 +31,20 @@ Each seeker missile can function as either [accushot or homing ammunition](../12
 
 **_BASELINE STATS ARE FOR MICROMISSILES AND MINIGRENADES._**
 
-| SEEKER/<!-- CLEANED wbr -->GRENADE TYPE                   | Area-Effect Type (Radius) |     Damage Value \[Average\]      | Armor Used | Comp/<!-- CLEANED wbr -->GP (per 5) | Notes                       |
-| :----------------------------------------- | :-----------------------: | :-------------------------------: | :--------: | :------------------: | :-------------------------- |
-| Dazzler                                    |    Uniform (50&nbsp;m)    |                 —                 |     —      |       Mod/R/2        | Blinding                    |
-| EMP                                        |    Uniform (50&nbsp;m)    | 2d10 + 5 \[16\] (nanoswarms only) |     —      |       Maj/R/3        | Disables radios             |
-| Gas/Smoke                                  |    Uniform (20&nbsp;m)    |                 —                 |     —      |        Min/1         |                             |
-| HEAP                                       |             —             |         3d10 + 12 \[29\]          |     K      |       Maj/R/3        | Armor-Piercing, Knockdown   |
-| Plasmaburst                                |  Centered (−2&nbsp;DV/m)  |         3d10 + 10 \[27\]          |     E      |       Maj/R/3        | Armor-Piercing              |
-| Splash                                     |    Uniform (10&nbsp;m)    |                 —                 |     —      |      As payload      |                             |
-| Stun                                       |    Uniform (10&nbsp;m)    |           1d6 + 2 \[5\]           |     K      |        Mod/2         | Blinding, Knockdown, Shock  |
-| <!-- CLEANED div class="indent" -->» Overload<!-- CLEANED /div -->       |    Uniform (10&nbsp;m)    |                 —                 |     —      |                      | Blinding, Pain              |
-| Tactical Multipurpose (TMP)                |                           |                                   |            |       Mod/R/2        |
-| <!-- CLEANED div class="indent" -->» Frag<!-- CLEANED /div -->           |  Centered (−2&nbsp;DV/m)  |          3d10 + 6 \[23\]          |     K      |                      | Knockdown (5 meter radius)  |
-| <!-- CLEANED div class="indent" -->» High-Explosive<!-- CLEANED /div --> |  Centered (−2&nbsp;DV/m)  |         3d10 + 10 \[27\]          |     E      |                      | Knockdown (10 meter radius) |
-| Thermobaric                                |    Uniform (10&nbsp;m)    |          2d10 + 6 \[16\]          |     E      |       Maj/R/3        | Armor-Piercing, Knockdown   |
+| SEEKER/<!-- CLEANED wbr -->GRENADE TYPE                   | Area-Effect Type (Radius) |   Damage Value \[Average\]    | Armor Used | Comp/<!-- CLEANED wbr -->GP (per 5) | Notes                       |
+| :----------------------------------------- | :-----------------------: | :---------------------------: | :--------: | :------------------: | :-------------------------- |
+| Dazzler                                    |    Uniform (50&nbsp;m)    |               —               |     —      |       Mod/R/2        | Blinding                    |
+| EMP                                        |    Uniform (50&nbsp;m)    | 3d10 \[17\] (nanoswarms only) |     —      |       Maj/R/3        | Disables radios             |
+| Gas/Smoke                                  |    Uniform (20&nbsp;m)    |               —               |     —      |        Min/1         |                             |
+| HEAP                                       |             —             |       3d10 + 12 \[29\]        |     K      |       Maj/R/3        | Armor-Piercing, Knockdown   |
+| Plasmaburst                                |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |       Maj/R/3        | Armor-Piercing              |
+| Splash                                     |    Uniform (10&nbsp;m)    |               —               |     —      |      As payload      |                             |
+| Stun                                       |    Uniform (10&nbsp;m)    |         1d6 + 2 \[5\]         |     K      |        Mod/2         | Blinding, Knockdown, Shock  |
+| <!-- CLEANED div class="indent" -->» Overload<!-- CLEANED /div -->       |    Uniform (10&nbsp;m)    |               —               |     —      |                      | Blinding, Pain              |
+| Tactical Multipurpose (TMP)                |                           |                               |            |       Mod/R/2        |
+| <!-- CLEANED div class="indent" -->» Frag<!-- CLEANED /div -->           |  Centered (−2&nbsp;DV/m)  |        3d10 + 6 \[23\]        |     K      |                      | Knockdown (5 meter radius)  |
+| <!-- CLEANED div class="indent" -->» High-Explosive<!-- CLEANED /div --> |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |                      | Knockdown (10 meter radius) |
+| Thermobaric                                |    Uniform (10&nbsp;m)    |        2d10 + 6 \[17\]        |     E      |       Maj/R/3        | Armor-Piercing, Knockdown   |
 
 | SIZE             | Area-Effect Type (Radius) | Damage Value \[Average\] | Armor Used | Comp/<!-- CLEANED wbr -->GP | Notes    |
 | :--------------- | :-----------------------: | :----------------------: | :--------: | :----------: | :------- |
@@ -54,7 +54,7 @@ Each seeker missile can function as either [accushot or homing ammunition](../12
 
 **Dazzler:** Dazzlers are spinning laser devices, designed to blind targets and defeat surveillance. Anyone within line of sight in the radius of effect (50 meters) who is not equipped with anti-glare mods must succeed in a REF Check or be [blinded](../12/21-other-action-factors.md#conditions) for 1 action turn, +1 per superior failure. A critical failure results in permanent blindness (until repaired/healed). Any visual light/infrared cameras are overloaded for the dazzler’s duration. Unless set to a timed deactivation, dazzlers continue to blind for 1 hour or until wirelessly turned off or physically destroyed (DUR 10, AV 5/10).
 
-**EMP:** EMP munitions fire off a strong electromagnetic pulse when they “detonate.” Since most electronics in Eclipse Phase are built with optical technology, and power supplies and sensitive microcircuits are shielded and surge-protected, this has no major damaging effect. Antennas, however, are vulnerable, especially finer wires like those used with mesh inserts, as are nanobots and microbots. Every radio within the blast radius (50 meters) is disabled until repaired with an appropriate Hardware or Medicine: Biotech Test or a fixer nanoswarm. Every nanoswarm within range suffers DV 2d10 + 5.
+**EMP:** EMP munitions fire off a strong electromagnetic pulse when they “detonate.” Since most electronics in Eclipse Phase are built with optical technology, and power supplies and sensitive microcircuits are shielded and surge-protected, this has no major damaging effect. Antennas, however, are vulnerable, especially finer wires like those used with mesh inserts, as are nanobots and microbots. Every radio within the blast radius (50 meters) is disabled until repaired with an appropriate Hardware or Medicine: Biotech Test or a fixer nanoswarm. Every nanoswarm within range suffers DV 3d10 and −10 to actions until repaired.
 
 **Gas/Smoke:** Gas/smoke munitions rapidly spew out a dense cloud with a 10-meter radius. Smoke impedes sight (−20) with thick fumes of a chosen color and is heated to obfuscate heat signatures moving through the smoke as cover. Smoke clouds remain for 3 minutes, though they may drift or dissipate more quickly depending upon environmental conditions (wind, rain, etc.). Gas munitions deliver a dose to anyone within the cloud, but they dissipate after 3 action turns.
 

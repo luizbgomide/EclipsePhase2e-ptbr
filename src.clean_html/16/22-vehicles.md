@@ -35,8 +35,8 @@ On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habi
 
 <table class="centered stat-list tl1">
 <thead><tr><th>AIRCRAFT<th>Comp/<!-- CLEANED wbr -->GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead> 
-<tr><td>Flying Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Wheeled/<!-- CLEANED wbr -->Thrust Vector<td>L</tr>
-<tr><td>Microlight<td>Mod/2<td>1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>8/32 Microlight<td>L</tr>
+<tr><td>Flying Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Thrust Vector (Rocket)/<!-- CLEANED wbr -->Wheeled 8/40<td>L</tr>
+<tr><td>Microlight<td>Mod/2<td>1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>Microlight 8/32<td>L</tr>
 <tr><td>Portable Plane<td>Maj/3<td>2<td>0<td>0<td>6/4<td>10<td>50<td>100<td>—<td>L</tr>
 <tr><td>Small Jet<td>Rare/—<td>6<td>2<td>0<td>12/10<td>40<td>200<td>400<td>—<td>VL</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
@@ -44,7 +44,7 @@ On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habi
 - **Ware:** Autocook, Emergency Beacon
 
 <!-- CLEANED /div --></tr>
-<tr><td>Utility Helicopter<td>Rare/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/32 Rotor<td>VL</tr>
+<tr><td>Utility Helicopter<td>Rare/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rotor 8/32<td>VL</tr>
 </table>
 
 **Flying Car:** This methane-powered car is equipped with turbo fans that fold out from the body for vectored-thrust flight on Mars and worlds with similar gravities.
@@ -63,20 +63,20 @@ Exoskeletons are worn powered mechatronic frames that enhance your physical capa
 
 <table class="centered stat-list tl1">
 <thead><tr><th>EXOSKELETONS<th>Comp/<!-- CLEANED wbr -->GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
- <tr><td>Atlas Loader<td>Rare/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>4/20 Walker<td>VL</tr>
+ <tr><td>Atlas Loader<td>Rare/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>Walker 4/20<td>VL</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +2 Vigor, +2d10 melee, armor-piercing
 
 <!-- CLEANED /div --></tr>
-<tr><td>Exowalker<td>Maj/3<td>1<td>+1<td>0<td>+0/+2<td>4<td>20<td>40<td>8/32 Walker<td>M</tr>
+<tr><td>Exowalker<td>Maj/3<td>1<td>+1<td>0<td>+0/+2<td>4<td>20<td>40<td>Walker 8/32<td>M</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +1 Vigor, +1d6 melee, double jump distance
 
 <!-- CLEANED /div --></tr>
-<tr><td>Transporter<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>8/40 Thrust Vector<td>L</tr>
-<tr><td>Trike<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>8/40 Wheeled<td>L</tr>
+<tr><td>Transporter<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Thrust Vector (Rocket) 8/40<td>L</tr>
+<tr><td>Trike<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Wheeled 8/40<td>L</tr>
 </table>
 
 **Atlas Loader:** This common example of a heavy-use industrial exoskeleton is large (just over 3 meters tall) and designed for handling heavy/large objects. Though open frame, the wearer is partially protected by a meshed cage. Atlas’s provide a +2 bonus to Vigor pool and increase melee damage by +2d10. Melee damage also becomes armor-piercing.
@@ -93,12 +93,12 @@ While trains and bicycles remain the most common form of ground transportation i
 
 <table class="centered stat-list tl1">
 <thead><tr><th>GROUNDCRAFT<th>Comp/<!-- CLEANED wbr -->GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
- <tr><td>Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Wheeled<td>L</tr>
-<tr><td>Cargo Hauler<td>Rare/—<td>3<td>2<td>0<td>12/10<td>50<td>250<td>500<td>8/40 Wheeled<td>VL</tr>
-<tr><td>Cycle<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>8/40 Wheeled<td>M</tr>
-<tr><td>Ground Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Wheeled<td>L</tr>
-<tr><td>Microcar<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>8/40 Wheeled<td>L</tr>
-<tr><td>Rover<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>8/40 Wheeled<td>VL</tr>
+ <tr><td>Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Wheeled 8/40<td>L</tr>
+<tr><td>Cargo Hauler<td>Rare/—<td>3<td>2<td>0<td>12/10<td>50<td>250<td>500<td>Wheeled 8/40<td>VL</tr>
+<tr><td>Cycle<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>Wheeled 8/40<td>M</tr>
+<tr><td>Ground Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Wheeled 8/40<td>L</tr>
+<tr><td>Microcar<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>Wheeled 8/40<td>L</tr>
+<tr><td>Rover<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Wheeled 8/40<td>VL</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Autocook, Large Fabber, Pocket Lab
@@ -124,28 +124,28 @@ Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuit
 
 <table class="centered stat-list tl1">
 <thead><tr><th>HARDSUITS<th>Comp/<!-- CLEANED wbr -->GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
- <tr><td>Battlesuit<td>Rare/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>8/32 Walker, 8/40 Thrust Vector<td>L</tr>
+ <tr><td>Battlesuit<td>Rare/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>Walker 8/32, Thrust Vector (Rocket) 8/40<td>L</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +1d10 melee damage, double jump distance
 - **Ware:** Autocook, Breather, Fixer Hive, Life Support (1 week), Pressure Adaptation, Radio Booster, Specs, Utilimod, Weapon Mounts (2 Articulated/Concealed, 2 Static/Concealed)
 
 <!-- CLEANED /div --></tr>
-<tr><td>Envirosuit<td>Maj/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>4/20 Walker, 8/32 Submarine<td>M</tr>
+<tr><td>Envirosuit<td>Maj/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>Walker 4/20, Submarine 8/32<td>M</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +1d6 melee damage
 - **Ware:** Autocook, Breather, Cryogenic Protection, Emergency Beacon, Life Support (1 week), Pressure Adaptation, Radio Booster, Specs, Thermogenic Protection, Utilimod
 
 <!-- CLEANED /div --></tr>
-<tr><td>High-Dive Suit<td>Maj/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>4/20 Walker, 8/40 Thrust Vector<td>M</tr>
+<tr><td>High-Dive Suit<td>Maj/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>M</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +1d6 melee damage
 - **Ware:** Life Support (1 week), Radar Absorbent, Radio Booster, Specs, Thermogenic Protection
 
 <!-- CLEANED /div --></tr>
-<tr><td>Standard Hardsuit<td>Rare/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>4/20 Walker, 8/40 Thrust Vector<td>L</tr>
+<tr><td>Standard Hardsuit<td>Rare/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>L</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Notes:** +1d10 melee damage
@@ -168,13 +168,14 @@ These vehicles defy classification as they are designed to handle multiple envir
 
 <table class="centered stat-list tl1">
 <thead><tr><th>HYBRIDS<th>Comp/<!-- CLEANED wbr -->GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
- <tr><td>GEV<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>8/40 Wheeled/<!-- CLEANED wbr -->Thrust Vector, 4/20 Walker, 8/32 Submarine<td>VL</tr>
+ <tr><td>GEV<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Submarine 8/32, Thrust Vector (Rocket) 8/40,
+Walker 4/20, Wheeled 8/40<td>VL</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Autocook, Chem Sniffer, Enhanced Hearing, Enhanced Vision, Large Fabber, Life Support (1 month), Healing Vat, Pressure Adaptation, Portable Sensor (Telescope)
 
 <!-- CLEANED /div --></tr>
-<tr><td>Rocket Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>8/40 Wheeled<td>L</tr>
+<tr><td>Rocket Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Wheeled 8/40<td>L</tr>
 </table>
 
 **General Exploration Vehicle (GEV):** A GEV is a boxy exploration vehicle designed to handle almost any environment. Favored for gatecrashing, they feature a smart-matter chassis that can shift between wheels and legs for rough terrain in 1d6 minutes. It can handle vacuum, surface water, and underwater, and carries a small metallic-hydrogen drive and attitude jets for maneuvering in space. It is shielded against radiation, features an extendable airlock, and carries extended life support functions.
@@ -201,11 +202,11 @@ Within the Solar System, nautical craft are used for the methane seas of Titan a
 
 These one-person movement aids are primarily used in space or undersea. Use with Pilot: Nautical or Pilot: Space as appropriate and repair with Hardware: Nautical or Hardware: Aerospace.
 
-| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass | Vigor | Flex | Armor | WT  | DUR | DR  |      Movement      | Size |
-| :------------- | :----------: | :--: | :---: | :--: | :---: | :-: | :-: | :-: | :----------------: | :--: |
-| Rocket Pack    |    Mod/2     |  1   |   0   |  0   |  6/4  |  6  | 30  | 60  | 8/40 Thrust Vector |  S   |
-| Sled           |    Min/1     |  2   |   0   |  0   |  6/4  |  8  | 40  | 80  | 8/40 Thrust Vector |  S   |
-| Thruster Pack  |    Min/1     |  1   |   0   |  0   |  6/4  |  6  | 30  | 60  | 8/40 Thrust Vector |  S   |
+| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |          Movement           | Size  |
+| :------------- | :----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :-------------------------: | :---: |
+| Rocket Pack    |    Mod/2     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40 |   S   |
+| Sled           |    Min/1     |   2   |   0   |   0   |  6/4  |   8   |  40   |  80   | Thrust Vector (Rocket) 8/40 |   S   |
+| Thruster Pack  |    Min/1     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40 |   S   |
 
 **Rocket Pack:** This is a miniature metallic hydrogen rocket that you strap to your back, with two rocket exhausts extending out to either side, away from your body or legs. To prevent burns, a biomorph must be wearing a heat resistant garment such as a vacsuit. Also, to prevent harm, the thrust must be kept sufficiently low that it can only take off on Mars or moons with even lower gravity. A rocket pack can keep you airborne for up to 15 minutes in Mars gravity, or 30 minutes on Luna, Titan, and smaller moons and asteroids. It can be used to reach orbit and land again on Luna, Titan, and other similarly small bodies like the Jovian moons.
 
@@ -221,17 +222,17 @@ Spacecraft are flown with Pilot: Space skill and repaired with Hardware: Aerospa
 
 Spacecraft have few stats in Eclipse Phase, as they are primarily handled as setting rather than vehicles. Note also that no stats are given for spacecraft weaponry. It is highly recommended that space combat be handled as a plot device rather than a combat scene, given the extreme lethality and danger involved. If you must know the DV of a spacecraft weapon, treat it as a standard weapon with a DV multiplier of x3 for small craft (fighters and shuttles), x5 for medium craft, and x10 for larger craft.
 
-| SPACECRAFT      | Comp/<!-- CLEANED wbr -->GP |  Pass  | Vigor | Flex | Armor | WT  |  DUR  |  DR   |        Movement         |
-| :-------------- | :----------: | :----: | :---: | :--: | :---: | :-: | :---: | :---: | :---------------------: |
-| Bulk Carrier    |    Rare/—    |   5+   |   0   |  0   | 40/30 | 150 |  750  | 1,500 |         Fusion          |
-| Courier         |    Rare/—    |   13   |   0   |  0   | 30/20 | 100 |  500  | 1,000 |       Anti-matter       |
-| Corvette        |    Rare/—    | 20–30  |   0   |  0   | 50/40 | 150 |  750  | 1,500 | Fusion/<!-- CLEANED wbr -->Anti-matter |
-| Destroyer       |    Rare/—    |   90   |   0   |  0   | 50/40 | 400 | 2,000 | 4,000 | Fusion/<!-- CLEANED wbr -->Anti-matter |
-| Fighter         |    Rare/—    |  0/1   |   3   |  2   | 30/20 | 50  |  250  |  500  |         Fusion          |
-| Scum Barge      |    Rare/—    | 5k–25k |   0   |  0   | 40/30 | 300 | 1,500 | 3,000 |   Plasma/<!-- CLEANED wbr -->Fusion    |
-| Shuttle (Large) |    Rare/—    | 20–300 |   0   |  0   | 20/15 | 80  |  400  |  800  |    Metallic-Hydrogen    |
-| Shuttle (Small) |    Rare/—    |  5–20  |   0   |  0   | 20/15 | 80  |  400  |  800  |    Metallic-Hydrogen    |
-| Transport       |    Rare/—    |  100+  |   0   |  0   | 40/30 | 150 |  750  | 1,500 |         Fusion          |
+| SPACECRAFT      | Comp/<!-- CLEANED wbr -->GP |  Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |        Movement         |
+| :-------------- | :----------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---------------------: |
+| Bulk Carrier    |    Rare/—    |   5+   |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
+| Courier         |    Rare/—    |   13   |   0   |   0   | 30/20 |  100  |  500  | 1,000 |       Anti-matter       |
+| Corvette        |    Rare/—    | 20–30  |   0   |   0   | 50/40 |  150  |  750  | 1,500 | Fusion/<!-- CLEANED wbr -->Anti-matter |
+| Destroyer       |    Rare/—    |   90   |   0   |   0   | 50/40 |  400  | 2,000 | 4,000 | Fusion/<!-- CLEANED wbr -->Anti-matter |
+| Fighter         |    Rare/—    |  0/1   |   3   |   2   | 30/20 |  50   |  250  |  500  |         Fusion          |
+| Scum Barge      |    Rare/—    | 5k–25k |   0   |   0   | 40/30 |  300  | 1,500 | 3,000 |   Plasma/<!-- CLEANED wbr -->Fusion    |
+| Shuttle (Large) |    Rare/—    | 20–300 |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
+| Shuttle (Small) |    Rare/—    |  5–20  |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
+| Transport       |    Rare/—    |  100+  |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
 
 **Bulk Carrier:** This vessel is long and thin, with fusion rockets at one end and the cockpit and crew quarters at the other. Freight modules carrying cargo are grappled all along the spine. A pair of airlocked freight elevators move inside the spine. Carriers haul refined ores, ice, and similar large, useful, but low priority cargo at relatively low velocities. They also offer an inexpensive, reliable, and slow method for passengers to travel from one habitat to another and are not infrequently used by individuals who wish to disappear for a while. Bulk carriers lack rotating habitation rings, and are primary crewed by hibernoids, bouncers, and synthmorphs.
 

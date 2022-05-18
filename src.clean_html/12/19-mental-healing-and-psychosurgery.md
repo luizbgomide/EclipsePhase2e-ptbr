@@ -8,7 +8,7 @@ The skill Medicine: Psychosurgery is used to treat characters suffering mental s
 
 Psychosurgery is handled as a task action. Any stress must be eased before traumas can be addressed, and traumas must be healed before disorders can be treated. Because psychosurgery is an intensive and emotionally exhaustive process, it is performed in periods of no more than 1 hour per day — any more than that tends to create its own stress, which defeats the purpose. Accelerated-time [simulspaces](../13/18-virtual-reality.md#accessing-simulspaces) are used, but each hour of psychotherapy past the first requires a full subjective day in the VR.
 
-Successful psychosurgery heals 1d6 \[4\] stress with a timeframe of 1 hour. The timeframe for healing traumas is 8 hours, 40 for disorders; both split across 1-hour periods. Each trauma and disorder applies a −10 modifier to the test.
+Successful psychosurgery heals 1d6 \[4\] stress with a timeframe of 1 hour. The timeframe for healing traumas is 8 hours, 40 for disorders; both split across 1-hour periods. Each trauma and disorder applies a −10 modifier to the test. At the GM’s discretion, a critical failure inflicts a Mental Disorder or other negative ego trait ([Using Psychosurgery](../15/05-psychosurgery.md#using-psychosurgery)).
 
 Even when treated, the scars from mental suffering remain. According to some opinions, disorders are never truly eradicated, they are just eased into submission … where they linger beneath the surface, waiting for new traumas to come along.
 

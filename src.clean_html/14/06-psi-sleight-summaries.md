@@ -29,7 +29,7 @@ All psi-chi sleights are automatic actions and have:<br>
 | [Enhanced Creativity](../14/06-psi-sleight-summaries.md#enhanced-creativity)   | +10 to Know or Technical Tests involving creativity or thinking outside the box. |
 | [Enhanced Memory](../14/06-psi-sleight-summaries.md#enhanced-memory)           | Perfect memory recall.                                                           |
 | [Grok](../14/06-psi-sleight-summaries.md#grok)                                 | May use COG Check to understand how to use unfamiliar object/device.             |
-| [Heightened Awareness](../14/06-psi-sleight-summaries.md#heightened-awareness) | Sense area/threats. +10 Perceive Tests.                                          |
+| [Heightened Awareness](../14/06-psi-sleight-summaries.md#heightened-awareness) | Sense area/threats. +10 Perceive Tests, no distraction mods.                     |
 | [High Pain Threshold](../14/06-psi-sleight-summaries.md#high-pain-threshold)   | Ignore modifiers from 1 wound.                                                   |
 | [Inner Spark](../14/06-psi-sleight-summaries.md#inner-spark)                   | Recover +1 pool points during short recharges.                                   |
 | [Pattern Recognition](../14/06-psi-sleight-summaries.md#pattern-recognition)   | Detect patterns. +10 to appropriate Infosec, Perceive, or Research Tests.        |
@@ -74,7 +74,7 @@ You intuitively understand how to use an unfamiliar object, vehicle, or device, 
 
 ### Heightened Awareness
 
-Your situational awareness is boosted, providing an instinctive sense about an area and any potential threats nearby. +10 to Perceive Tests.
+Your situational awareness is boosted, providing an instinctive sense about an area and any potential threats nearby. +10 to Perceive Tests and ignore distraction modifiers.
 
 ### High Pain Threshold
 
@@ -169,7 +169,7 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 | [Mimic](../14/06-psi-sleight-summaries.md#mimic)                             |  Quick  |   Instant    |       4       | Snapshot of target’s mannerisms; +10 Deceive skills to impersonate target, +10 per superior success.                                              |
 | [Mindlink](../14/06-psi-sleight-summaries.md#mindlink)                       |  Quick  |  Sustained   |       2       | Telepathy.                                                                                                                                        |
 | [Neural Hardening](../14/06-psi-sleight-summaries.md#neural-hardening)       | Complex |   Minutes    |       4       | The target receives a +10 modifier to resist basilisk hacks.                                                                                      |
-| [Nightmare](../14/06-psi-sleight-summaries.md#nightmare)                     | Complex |   Instant    |       6       | Target takes SV 2d10, +1d6 per superior success, reduced by psi armor.                                                                            |
+| [Nightmare](../14/06-psi-sleight-summaries.md#nightmare)                     | Complex |   Instant    |       6       | Target takes SV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |
 | [Pain](../14/06-psi-sleight-summaries.md#pain)                               | Complex |   Instant    |       6       | Target inflicted with pain (like an agonizer), must flee at full movement on their next action.                                                   |
 | [Psi Shield](../14/06-psi-sleight-summaries.md#psi-shield)                   | Complex |  Sustained   |       4       | Mental armor increased by +1d6 (cumulative with Psi Armor sleight).                                                                               |
 | [Psychic Stab](../14/06-psi-sleight-summaries.md#psychic-stab)               | Complex |   Instant    |       6       | Target takes DV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |

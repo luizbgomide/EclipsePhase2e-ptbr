@@ -3,7 +3,6 @@
 <!-- TOC PLACEHOLDER -->
 
 - [Gear Rules](../16/01-gear-rules.md)
-  - [Gear Rules](../16/01-gear-rules.md#gear-rules)
   - [Gear Design](../16/01-gear-rules.md#gear-design)
   - [Gear Complexity](../16/01-gear-rules.md#gear-complexity)
   - [Gear Modifiers](../16/01-gear-rules.md#gear-modifiers)
@@ -20,7 +19,7 @@
   - [Acquiring Gear During Missions](../16/02-acquiring-gear.md#acquiring-gear-during-missions)
     - [Acquisition Timeframe](../16/02-acquiring-gear.md#acquisition-timeframe)
     - [Physical vs. Blueprints](../16/02-acquiring-gear.md#physical-vs-blueprints)
-    - [Multiple Gear](../16/02-acquiring-gear.md#multiple-gear)
+    - [Multiple Gear Items at Once](../16/02-acquiring-gear.md#multiple-gear-items-at-once)
     - [Impeding Factors](../16/02-acquiring-gear.md#impeding-factors)
   - [Other Gear Considerations](../16/02-acquiring-gear.md#other-gear-considerations)
     - [Ongoing Locations/Campaigns](../16/02-acquiring-gear.md#ongoing-locationscampaigns)

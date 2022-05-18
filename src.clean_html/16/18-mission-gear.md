@@ -22,10 +22,10 @@ Gatecrashers and other explorers rely on these.
 
 This technology is often employed by gatecrashers, space scavengers, and Firewall teams during missions.
 
-| SALVAGE TOOLS        |        Comp/<!-- CLEANED wbr -->GP        | Description                                                               |
-| :------------------- | :------------------------: | :------------------------------------------------------------------------ |
-| Disassembly Tools    |           Mod/2            | Heavy and smart tools for taking things apart.                            |
-| Superthermite Charge | Maj/R/3<br>(per 5 charges) | Nanometal explosive. DV 6d10 + 10, set/shaped with Hardware: Demolitions. |
+| SALVAGE TOOLS         |        Comp/<!-- CLEANED wbr -->GP        | Description                                                                      |
+| :-------------------- | :------------------------: | :------------------------------------------------------------------------------- |
+| Disassembly Tools     |           Mod/2            | Heavy and smart tools for taking things apart.                                   |
+| Superthermite Charges | Maj/R/3<br>(per 5 charges) | Nanometal explosive. DV 6d10 + 10 \[43\], set/shaped with Hardware: Demolitions. |
 
 **Disassembly Tools:** This collection of tools is useful for salvage ops, breaking down wrecks, or dissembling anything from a habitat room to a vehicle or synthmorph. They include plasma torches, laser cutters, pneumatic jaws, and smart-material tools like spanners and wrenches that can be adapted to a wide array of connections and fittings. Together, these tools are medium sized, usually ported by robomule.
 
@@ -89,12 +89,12 @@ In a breathable atmosphere, modern vacsuits are loose smartfabric garments that 
 
 Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier materials. Donning one is a REF Check task action with a timeframe of 1 minute (20 action turns). Quick-release functions allow them to be removed in 3 action turns.
 
-Unless specifically noted, assume characters have newer models; older dumb-fabric designs are typically kept around as backups in older habitats and ships.
+Unless specifically noted, assume characters have newer models that function the same as [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology); older dumb-fabric designs are typically kept around as backups in older habitats and ships.
 
-| VACSUITS         | Comp/<!-- CLEANED wbr -->GP | Description                                                   |
-| :--------------- | :----------: | :------------------------------------------------------------ |
-| Light Vacsuit    |    Mod/2     | As smart clothes, protects from vacuum, 8 hours air, AV 5/2.  |
-| Standard Vacsuit |    Maj/3     | As smart clothes, protects from vacuum, 48 hours air, AV 8/6. |
+| VACSUITS         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                                            |
+| :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------------- |
+| Light Vacsuit    |    Mod/2     | As [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 8 hours air, AV 5/2.  |
+| Standard Vacsuit |    Maj/3     | As [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 48 hours air, AV 8/6. |
 
 **Light Vacsuit:** Both smart-fabric and legacy light vacsuit models are ideal for less harsh environments such as Mars, the Venusian clouds, or exoplanets with moderate but unbreathable atmospheres. Their rebreathers provide 8 hours of air. All models include a headlight, an ecto, and atmospheric sensors. They protect you from temperatures from −75 to 100&nbsp;°C. These vacuum suits also provide an Armor Value of 5/2 and instantly self-seal breaches unless more than 20 points of damage are inflicted at once.
 

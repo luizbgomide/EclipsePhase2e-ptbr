@@ -47,7 +47,7 @@ When you are hit in combat, subtract your AV from the damage applied. Use the AV
 
 ## Layering Armor
 
-You can wear multiple layers of armor, adding the ratings together, but it is cumbersome. Apply a −20 modifier to all physical actions for each additional armor layer worn. If the total of either AV rating exceeds your SOM, apply an additional −20 modifier and reduce your Movement Rate by half, as you are overburdened. If the AV exceeds your Durability, you are too encumbered to move.
+You can wear multiple layers of armor, adding the ratings together, but it is cumbersome. Apply a −20 modifier to all physical actions for each additional armor layer worn. If the total of either AV rating (when layering) exceeds your SOM, apply an additional −20 modifier and reduce your Movement Rate by half, as you are overburdened. If the AV exceeds your Durability, you are too encumbered to move.
 
 The armor inherent to a synthmorph’s or other shell’s frame counts as the first item towards layering. Shells are not designed to wear armor; any armor layered upon them may need to be specially designed to fit their form (perhaps requiring a nanofab Program Test or increasing the Complexity by one step).
 

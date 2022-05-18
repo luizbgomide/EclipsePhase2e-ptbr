@@ -114,7 +114,7 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 ---
 
-- **Movement Rate:** Swim 4/20, Thrust Vector 4/12, Walker 2/8
+- **Movement Rate:** Swim 4/20, Thrust Vector (Gas Jet) 4/12, Walker 2/8
 - **Ware:** 360-Degree Vision, Biomods, Chameleon Skin, Cortical Stack, Gills, Mesh Inserts, Polarization Vision
 - **Morph Traits:** Exotic Morphology (Level 3), Limberness (Level 2), Non-Human Biochemistry (Level 2)
 - **Notes:** 8 prehensile arms, Beak Attack (DV 1d10), Ink Attack (use Athletics, blinding, 5-meter uniform area-effect in water and micrograv)

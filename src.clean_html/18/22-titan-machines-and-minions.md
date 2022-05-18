@@ -27,8 +27,8 @@ Fetches are the software agents of the TITANs. Each is a fork of a TITAN ASI, th
 
 ---
 
-- **Initiative:** 10, **Fray:** 60, **AV:** 10 (mesh armor)
-- **WT:** 20, **DUR:** 100, **DR:** 200
+- **Initiative:** 10 • **Fray:** 60 • **AV:** 10 (mesh armor)
+- **WT:** 20 • **DUR:** 100 • **DR:** 200
 - **Insight:** 10, **Moxie:** 5, **Vigor:** 1, **Flex:** 5
 
 ---
@@ -37,7 +37,7 @@ Fetches are the software agents of the TITANs. Each is a fork of a TITAN ASI, th
 
 ---
 
-- **Perceive:** 50 (60)
+- **Perceive:** 60 (70)
 
 ---
 
@@ -82,20 +82,20 @@ Fractals are “bush robots:” conglomerations of jointed, metallic, fractal br
 
 ---
 
-- **Initiative:** 10, **Fray:** 40, **AV:** 0/0 to 15/15
-- **WT:** 10, **DUR:** 50, **DR:** 100
+- **Initiative:** 10 • **Fray:** 40 • **AV:** 0/0 to 15/15
+- **WT:** 10 • **DUR:** 50 • **DR:** 100
 - **Insight:** 3, **Moxie:** 0, **Vigor:** 3, **Flex:** 5
 
 ---
 
 - **Bush Blades:** 60, DV 2d10 + 5, armor-piercing
-- **Disassembly:** 70, DV 1d10, touch attack, armor protects but AV is reduced
-- **Shredder:** 55, DV 2d10 + 6, SA/BF/FA, Ammo unlimited, Range 25, cone area effect
+- **Disassembly:** 80, DV 1d10, touch attack, armor protects but AV is reduced
+- **Shredder:** 50, DV 2d10 + 6, SA/BF/FA, Ammo unlimited, Range 25, cone area effect
 
 ---
 
-- **Perceive:** 50, 60 vision
-- **Move:** Roller (Fast 8/32), Thrust Vector (Slow, 4/12), may create others
+- **Perceive:** 60, 70 vision
+- **Move:** Roller (Fast 8/32), Thrust Vector (Gas Jet, Slow 4/12), may create others
 
 ---
 
@@ -141,8 +141,8 @@ These insectoid machines are designed to grasp onto a victim’s skull, saw thro
 
 ---
 
-- **Initiative:** 8, **Fray:** 70, **AV:** 8/8
-- **WT:** 9, **DUR:** 45, **DR:** 90
+- **Initiative:** 8 • **Fray:** 70 • **AV:** 8/8
+- **WT:** 9 • **DUR:** 45 • **DR:** 90
 - **Threat Pool:** 3
 
 ---
@@ -203,7 +203,7 @@ Puppets are transhumans whose minds were subverted by the TITANs. They are disti
 
 ---
 
-- **Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, on next action puppet will make a called shot (−10) on target’s access jacks to plug in a [disabler](../16/17-espionage-and-security-tech.md) or direct fiberoptic link to initiate a mindware hack
+- **Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, on next action puppet can use its action to maintain the grapple to also either plug in a [disabler](../16/17-espionage-and-security-tech.md) or a direct fiberoptic link to initiate a mindware hack
 - **Mindware Hack:** 60 ([Mindware Hacking](../13/17-mindware-hacking.md))
 - **Shock Baton:** 40, DV 1d10, reach, shock
 
@@ -326,7 +326,7 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 - **Stomp:** 50, DV 5d10, reach (+20)
 - **Tentacles:** 50, DV 3d10, reach (+20)
 - **Tentacle Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), reach (+20), requires superior success, grappled victims get no defense to subsequent attacks
-- **Torch:** 60, DV 4d10, SS, Ammo 100, cone area effect, fixed
+- **Torch:** 60, DV 4d10, SS, Range 25, Ammo 100, cone area effect, fixed
 
 ---
 

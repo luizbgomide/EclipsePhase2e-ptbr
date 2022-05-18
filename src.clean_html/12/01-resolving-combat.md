@@ -53,7 +53,7 @@ These modifiers apply to all types of attacks.
 
 | Situation                                                                                  |       Modifiers        |
 | :----------------------------------------------------------------------------------------- | :--------------------: |
-| Attacker Running                                                                           |          −20           |
+| Attacker takes a [full move](../12/24-movement.md#full-move)                               |          −20           |
 | Superior position                                                                          |          +20           |
 | Wounded/traumatized                                                                        |  −10 per wound/trauma  |
 | [Called shot](../12/15-special-attacks.md#called-shots) (superior success needed)          |          −10           |

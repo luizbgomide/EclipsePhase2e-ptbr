@@ -136,7 +136,7 @@ Swimmers use fins, limbs, or waterjets to propel themselves through water or sim
 
 **\[Pilot: Air • Very Fast 8/40\]**
 
-These shells use either turbofans or turbojets to create atmospheric lift, often with a set of wings. The engines can be maneuvered to point and generate thrust in different directions for vertical takeoffs/landings and better maneuverability in zero g. Turbojets (but not turbofans) will work in vacuum if equipped with an air supply. Rocket systems that use chemical reactions to eject reaction mass for thrust also fall in this category (use Pilot: Space).
+Thrust vector has 3 subtypes. _Turbojet_ (and turbofan) engines push you forward and create lift in atmosphere with a set of wings. They can also be pointed to generate thrust in different directions for vertical takeoffs/landings and better maneuverability in zero g. Turbojets (but not turbofans) work in vacuum if equipped with an air supply. _Gas Jets_ are used in micrograv, ejecting gas in one direction to push you in the opposite direction (use Free Fall, 4/12 bio or 8/40 synth). Similarly, _Rockets_ eject heated reaction mass for thrust (use Pilot: Space, 8/40).
 
 ### Tracked
 

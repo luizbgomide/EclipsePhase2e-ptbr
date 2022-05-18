@@ -12,7 +12,7 @@ Synthmorphs — as well as bots, vehicles, and similar shells — share the foll
 
 ### Lack of Biological Functions
 
-Shells need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life. They are also immune to toxins and pathogens. Synthmorphs are powered by nuclear and standard batteries, and sometimes solar power; for game purposes, power is not an issue for them.
+Shells need not be bothered with trivialities like breathing, eating, defecating, aging, or any similar critical aspects of biological life. They do not need to sleep, but a few hours rest is common (and necessary to recharge pools). They are also immune to toxins and pathogens. Synthmorphs are powered by nuclear and standard batteries, and sometimes solar power; for game purposes, power is not an issue for them.
 
 ### Pain Filter
 
@@ -265,7 +265,7 @@ Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other
 
 ---
 
-- **Movement Rate:** Hopper 4/12, Thrust Vector 8/40, Walker 4/20, Wheeled 8/40
+- **Movement Rate:** Hopper 4/12, Thrust Vector (Gas Jet) 8/40, Walker 4/20, Wheeled 8/40
 - **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Lidar, Magnetic System, Mesh Inserts, Mnemonics, Pneumatics, Puppet Sock, Retracting Limbs
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Medium Frame (Armor 8/6)
@@ -289,7 +289,7 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 
 ---
 
-- **Movement Rate:** Hopper 4/20, Ionic 8/40, Thrust Vector 8/40, Walker 4/20
+- **Movement Rate:** Hopper 4/20, Ionic 8/40, Thrust Vector (Gas Jet) 8/40, Walker 4/20
 - **Ware:** 360-Degree Vision, Access Jacks, Anti-Glare, Cortical Stack, Cyberbrain, Enhanced Vision, Magnetic System, Mesh Inserts, Mnemonics, Pneumatics, Puppet Sock, Radar, Retracting Limbs, T-Ray Emitter, Weapon Mount (Articulated, 4)
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Heavy Frame (Armor 12/10)
@@ -328,7 +328,7 @@ All flexbots have the following stats, plus the stats for their module type:
 
 ### All Flexbots
 
-- **Movement Rate:** Thrust Vector 8/40, Walker 4/12
+- **Movement Rate:** Thrust Vector (Gas Jet) 8/40, Walker 4/12
 - **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Lidar, Mesh Inserts, Mnemonics, Modular Design, Puppet Sock, Shape Adjusting
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Light Frame (Armor 6/4), Small size
