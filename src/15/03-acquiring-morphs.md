@@ -69,11 +69,11 @@ Morphs can be made, but this requires one or more task action skill tests each w
 
 ### Making a Morph
 
-| Morph Type | Skills and Timeframes                                              | Gear Needed                                   |
-| :--------- | :----------------------------------------------------------------- | :-------------------------------------------- |
-| Biomorph   | Medicine: Biotech ([MP + 6] months)                                | Exowomb                                       |
-| Pod        | Medicine: Biotech ([MP + 1] months), <wbr>Program ([MP + 1) weeks) | Specialized Fabber, Tools Shop or Healing Vat |
-| Synthmorph | Hardware: Robotics ([MP + 1) weeks), <wbr>Program ([MP + 1) weeks) | Medium Fabber                                 |
+| Morph Type | Skills and Timeframes                                                  | Gear Needed                                   |
+| :--------- | :--------------------------------------------------------------------- | :-------------------------------------------- |
+| Biomorph   | Medicine: Biotech (\[MP + 6\] months)                                  | Exowomb                                       |
+| Pod        | Medicine: Biotech (\[MP + 1\] months), <wbr>Program (\[MP + 1\] weeks) | Specialized Fabber, Tools Shop or Healing Vat |
+| Synthmorph | Hardware: Robotics (\[MP + 1\] weeks), <wbr>Program (\[MP + 1\] weeks) | Medium Fabber                                 |
 
 </blockquote>
 
