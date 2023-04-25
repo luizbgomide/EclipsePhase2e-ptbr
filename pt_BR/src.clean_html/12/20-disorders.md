@@ -108,7 +108,7 @@ Você entra em um estado de fuga em que demonstra pouca atenção para estímulo
 
 **Gatilhos:** Desamparo, foco do impulso, o desconhecido, violência
 
-Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar este comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados. Você sente uma ansiedade crescente quando impedido de realizar este comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
+Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar este comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
 
 **Efeito:** Você deve fazer uma Prova de VON para não fazer a atividade impulsiva. Se impedido de fazer a atividade por muito tempo, você sofre modificadores entre −10 e −30.
 
