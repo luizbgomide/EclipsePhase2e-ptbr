@@ -37,7 +37,7 @@ Se seu personagem receber um número de pontos de estresse de uma vez que iguala
 
 ## Efeitos de Trauma
 
-Cada trauma aplica um modificador −10 para todas as ações do personagem e −1 para Iniciativa cumulativo. Por exemplo, um personagem com 2 traumas sofre −20 para todas as ações e −2 para Iniciativa. Esses modificadores também são cumulativos com modificadores de ferimentos.
+Cada trauma aplica um modificador −10 em todos os testes do personagem e −1 para Iniciativa cumulativos. Por exemplo, um personagem com 2 traumas sofre −20 para todas as ações e −2 para Iniciativa. Esses modificadores também são cumulativos com modificadores de ferimentos.
 
 Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de trauma. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 traumas possa ser negado (−30 para ações e −3 para Iniciativa).
 
