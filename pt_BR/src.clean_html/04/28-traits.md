@@ -104,7 +104,7 @@ Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como 
 
 Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Trato Animal e outros testes de perícia para influenciar ou interagir com animais.
 
-### Aparência Genérica
+### Bom Senso
 
 **Traço de ▲ Ego • Custo de PP: 2**
 
@@ -324,13 +324,13 @@ Você tem uma aptidão para conceitualizar dimensões, distâncias, volumes e fo
 
 **Traço de ▲ Ego • Custo de PP: 1/2/3**
 
-Você ri do medo. Aplique um modificador +10 por nível em Provas de VON e outros testes que envolvam resistir ao medo.
+Você ri do medo. Aplique um modificador +10 por nível em Provas de VON e outros testes envolvendo resistir ao medo, como Testes de Provocação para intimidação, truques psi como Pesadelo, e alguns Testes de Estresse (a critério do MJ; geralmente o desconhecido, mas, às vezes, desamparo ou violência).
 
 ### Aparência Marcante
 
 **Traço de ▼ Morfo • Custo de PM: 1/2**
 
-Uma boa aparência esculpida é barata e comum, mas esse morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
+Uma boa aparência esculpida é barata e comum, mas esse morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. Sintemorfos e morfos elevados só podem ter esse traço no Nível 1.
 
 ### Facilidade com Números
 
@@ -362,7 +362,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 |:-------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------ |
 | [Vício](../04/28-traits.md#addiction)                                |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais.                   |
 | [Má Sorte](../04/28-traits.md#bad-luck)                              |    6     | Não pode usar paradas para inverter rolagens de dados.                                           |
-| [Banimento de Rep](../04/28-traits.md#blocklisted-rep)               |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
+| [Rep Bloqueada](../04/28-traits.md#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
 | [Mácula](../04/28-traits.md#black-mark)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
 | [Paralisia de Combate](../04/28-traits.md#combat-paralysis)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
 | [Memórias Editadas](../04/28-traits.md#edited-memories)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
@@ -377,8 +377,8 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | [Transtorno Mórfico](../04/28-traits.md#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
 | [Dano Neural](../04/28-traits.md#neural-damage)                      |    2     | Você tem algum tipo de dano neural incurável; veja o texto.                                      |
 | [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
-| [Letalidade](../04/28-traits.md#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
-| [Hiperlinguística](../04/28-traits.md#obtuseness)                    |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
+| [Desatenção](../04/28-traits.md#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
+| [Estupidez](../04/28-traits.md#obtuseness)                           |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
 | [Baixa Coordenação](../04/28-traits.md#poor-coordination)            |  1/2/3   | −5 por nível em Provas de REF.                                                                   |
 | [Maus Instintos](../04/28-traits.md#poor-instincts)                  |  1/2/3   | −5 por nível em Provas de INT.                                                                   |
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
@@ -397,21 +397,21 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | Traço                                                               | Bônus PM | Efeito                                                                                                                          |
 |:------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
 | [Vício](../04/28-traits.md#addiction)                               |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais. Apenas biomorfos.                                |
-| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas crus e tratados.                                                                                   |
+| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas toscos e tratados.                                                                                 |
 | [Membro Dominante](../04/28-traits.md#dominant-limb)                |    1     | −20 em testes feitos com membros não dominantes.                                                                                |
 | [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
 | [Morfologia Exótica](../04/28-traits.md#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
 | [Fraqueza](../04/28-traits.md#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
 | [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
-| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas crus.                                                           |
+| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas toscos.                                                         |
 | [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
 | [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
 | [Risco de Infecção](../04/28-traits.md#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
-| [Defeito Pericial](../04/28-traits.md#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
+| [Falhas Inerentes](../04/28-traits.md#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
 | [Baixa Tolerância à Dor](../04/28-traits.md#low-pain-tolerance)     |    4     | Modificador −10 adicional por ferimento.                                                                                        |
 | [Resíduo Memorial](../04/28-traits.md#memory-artifact)              |    1     | Recordar lembranças de outro ego uma vez por sessão; Prova de COG ou VE 1d6.                                                    |
 | [Bioquímica Não Humana](../04/28-traits.md#non-human-biochemistry)  |   2/4    | −10 em Testes de Medicina, −20 se não mamífero. Apenas biomorfos.                                                               |
-| [Desatenção](../04/28-traits.md#obtuseness)                         |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
+| [Estupidez](../04/28-traits.md#obtuseness)                          |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
 | [Obsolescência Programada](../04/28-traits.md#planned-obsolescence) |    1     | Perda de parada/ferimento cumulativos por mês sem manutenção.                                                                   |
 | [Baixa Coordenação](../04/28-traits.md#poor-coordination)           |  1/2/3   | −5 por nível em Provas de REF.                                                                                                  |
 | [Maus Instintos](../04/28-traits.md#poor-instincts)                 |  1/2/3   | −5 por nível em Provas de INT.                                                                                                  |
@@ -453,7 +453,7 @@ Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanec
 
 **Traço de ▼ Morfo • Bônus de PM: 4**
 
-Este traço só pode ser aplicado em morfos crus e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
+Este traço só pode ser aplicado em morfos toscos e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
 
 ### Má Sorte
 
@@ -461,11 +461,11 @@ Este traço só pode ser aplicado em morfos crus e tratados. O morfo está fisic
 
 O universo parece puni-lo com uma frequência surpreendente. Você não pode usar paradas para inverter rolagens de dados.
 
-### Banimento de Rep
+### Rep Bloqueada
 
 **Traço de ▲ Ego • Bônus de PP: 1/4**
 
-Você está banido de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Este traço pode ser escolhido mais de uma vez para redes de rep diferentes.
+Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Este traço pode ser escolhido mais de uma vez para redes de rep diferentes.
 
 ### Mácula
 
@@ -533,7 +533,7 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Este traço só está disponível para crus. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Este traço só está disponível para toscos. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
@@ -545,7 +545,7 @@ Este traço só está disponível para biomorfos. Este morfo rejeita implantes q
 
 **Traço de ▲ Ego • Bônus de PP: 1**
 
-O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
+O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
 
 ### Indiferença
 
@@ -559,7 +559,7 @@ Sua consciência social geralmente é falha. Você sofre −5 por nível em Prov
 
 Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Este traço só está disponível para biomorfos.
 
-### Defeito Pericial
+### Falhas Inerentes
 
 **Traço de ▼ Morfo • Bônus de PM: 2**
 
@@ -637,13 +637,13 @@ Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem 
 
 Este traço só está disponível para biomorfos. Este morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
-### Letalidade
+### Desatenção
 
 **Traço de ▲ Ego • Bônus de PP: 2**
 
 Você ignora eventos ao seu redor ou qualquer outra coisa que não seja o foco da sua atenção. Sofra um modificador −10 em Testes de Percepção contra surpresa e aumente seu modificador de distração para −30.
 
-### Desatenção
+### Estupidez
 
 **Traço de ▲ Ego ou ▼ Morfo • Bônus de PP/PM: 1/2/3**
 
