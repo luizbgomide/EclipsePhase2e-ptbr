@@ -30,21 +30,21 @@ Sempre que seu personagem sofrer dano, compare a quantia infligida de uma única
 
 Ferimentos são cumulativos e devem ser marcados em sua ficha de personagem.
 
-Observe que essas regras lidam com dano e ferimentos de forma abstrata. Para ter drama e realismo, os MJs podem preferir descrever os ferimentos de formas mais detalhadas e terríveis: um tornozelo quebrado, um servomotor esmagado, sangramento interno, uma orelha perdida, e assim pode diante. A tipo dessas lesões descritivas podem ajudar o MJ a atribuir outros efeitos. Da mesma forma, esses detalhes podem impactar como você é curado ou tratado. Por exemplo, uma mão esmagada pode significar que você não pode mais pegar sua arma, perda de sangue excessiva pode deixar uma rastro para os inimigos seguirem, um olho cortado pode infligir um modificador adicional de percepção visual.
+Observe que essas regras lidam com dano e ferimentos de forma abstrata. Para ter drama e realismo, os MJs podem preferir descrever os ferimentos de formas mais detalhadas e terríveis: um tornozelo quebrado, um servomotor esmagado, sangramento interno, uma orelha perdida, e assim pode diante. A tipo dessas lesões descritivas podem ajudar o MJ a atribuir outros efeitos. Por exemplo, uma mão esmagada pode significar que você não pode mais pegar sua arma, perda de sangue excessiva pode deixar uma rastro para os inimigos seguirem, um olho cortado pode infligir um modificador adicional de percepção visual. Da mesma forma, esses detalhes podem impactar como você é curado ou tratado.
 
 ## Efeitos de Ferimento
 
-Cada ferimento aplica um modificador −10 para as ações e −1 para Iniciativa cumulativo. Por exemplo, um personagem com 3 ferimentos sofre −30 em todas as ações e −3 na Iniciativa.
+Cada ferimento aplica um modificador −10 em todos os testes e −1 para Iniciativa cumulativos. Por exemplo, um personagem com 3 ferimentos sofre −30 em todas as ações e −3 na Iniciativa.
 
 Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de ferimento. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 ferimentos possa ser negado (−30 para ações e −3 para Iniciativa).
 
-**Derrubada:** Sempre que você receber um ferimento, faça imediatamente uma Prova de SOM. Os modificadores de ferimentos se aplicam. Os modificadores de ferimentos se aplicam. Se você falhar, você [cai prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar/reorientar. Carcaças (bots e veículos) se movendo com velocidade devem fazer um Teste de Atletismo ou Pilotagem para evitar bater.
+**Derrubada:** Sempre que você receber um ferimento, faça imediatamente uma Prova de SOM. Os modificadores de ferimentos se aplicam. Se você falhar, você [cai prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar/reorientar. Carcaças (bots e veículos) se movendo com velocidade devem fazer um Teste de Atletismo ou Pilotagem para evitar bater.
 
 **Inconsciência:** Se você receber 2 ou mais ferimentos de uma vez (do mesmo ataque), você automaticamente cai prostrado e deve fazer uma Prova de SOM; os modificadores de ferimento se aplicam. Se você falhar, você fica [inconsciente](../12/21-other-action-factors.md#conditions) até que seja acordado ou curado. Sintemorfos e personagens com cibercérebros ficam offline de forma parecida. Carcaças se movendo com velocidade que recebam 2 ou mais ferimentos de uma vez [batem](../12/25-vehicle-movement.md#crashes) automaticamente.
 
 ## Sangramento
 
-Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Receba +30 se spray de cura, xarope ou medicadores estão curando você. Medicadores automaticamente estabilizam você e o colocam em estase. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
+Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Aplique +30 se spray curativo ou xarope for aplicado. Medicadores automaticamente estabilizam você e o colocam em estase. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
 
 ## Grau de Destruição
 
