@@ -83,7 +83,7 @@ Seu morfo é a sua forma atual biológica, sintética ou digital do seu personag
 
 Vários dos seus atributos são derivados de outros atributos ou aspectos do seu personagem. Eles incluem:
 
-- **Iniciativa (INIT):** Iniciativa determina a ordem em que as pessoas agem durante os turnos de ação. [Iniciativa & Ordem das Ações](../03/04-initiative-order-of-actions.md).
+- **Iniciativa (INIC):** Iniciativa determina a ordem em que as pessoas agem durante os turnos de ação. [Iniciativa & Ordem das Ações](../03/04-initiative-order-of-actions.md).
 - **Limiar de Ferimento (LF):** A quantidade de danos que você pode aguentar antes de receber um ferimento. [Saúde Física](../12/16-physical-health.md).
 - **Durabilidade (DUR):** A saúde do seu personagem, determinada pelo seu morfo. [Saúde Física](../12/16-physical-health.md).
 - **Grau de Destruição (GD):** A quantidade de dano que é preciso para matar você, determinada pelo morfo. [Saúde Física](../12/16-physical-health.md).
