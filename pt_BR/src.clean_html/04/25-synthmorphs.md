@@ -12,7 +12,7 @@ Sintemorfos — assim como bots, veículos e carcaças similares — compartilha
 
 ### Ausência de Funções Biológicas
 
-Carcaças não precisa se preocupar com trivialidades como respirar, comer, defecar, envelhecer ou qualquer aspecto menor, mas crucial, da vida biológica. Eles também são imunes a toxinas e patógenos. Sintemorfos são alimentados por baterias comuns e nucleares, e ocasionalmente energia solar; para fins de jogo, energia não é um problema para eles.
+Carcaças não precisa se preocupar com trivialidades como respirar, comer, defecar, envelhecer ou qualquer aspecto menor, mas crucial, da vida biológica. Elas não precisam dormir, mas algumas horas de descanso são comuns (e necessárias para recarregar as paradas). Eles também são imunes a toxinas e patógenos. Sintemorfos são alimentados por baterias comuns e nucleares, e ocasionalmente energia solar; para fins de jogo, energia não é um problema para eles.
 
 ### Filtro de Dor
 
