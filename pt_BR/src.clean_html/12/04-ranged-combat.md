@@ -46,7 +46,7 @@ Armas de distância tem um ou mais modos de disparo que determinam sua cadência
 |:--------------------------------------------------------------------------------------------------- |:------------------------------------------------------- |
 | Tiro Único                                                                                          | VD padrão                                               |
 | Semiautomático                                                                                      | VD padrão                                               |
-| Disparo em Rajada                                                                                   |                                                         |
+| Fogo de Supressão                                                                                   |                                                         |
 | <!-- CLEANED div class="indent" -->» Alvo Único<!-- CLEANED /div -->          | +10 para acertar ou +1d10&nbsp;VD                       |
 | <!-- CLEANED div class="indent" -->» Dois Alvos Adjacentes<!-- CLEANED /div -->   | VD padrão para ambos                                    |
 | Totalmente Automático                                                                               |                                                         |
