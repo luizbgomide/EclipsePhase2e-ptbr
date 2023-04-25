@@ -16,11 +16,11 @@ Para acessar qualquer dispositivo ou serviço na mesh, você precisa de uma cont
 
 ### Contas Públicas
 
-As contas públicas fornecem acesso a qualquer pessoa na mesh. Eles não exigem nenhum tipo de autenticação ou processo de login — seu mesh ID é suficiente. As contas públicas deixam você navegar na mesh em sites, fóruns, arquivos públicos, bases de dados abertas, redes sociais, etc. As contas públicas geralmente têm a capacidade de visualizar e fazer download de dados públicos e, às vezes, escrever (comentários de fórum, por exemplo), mas não muito mais.
+As contas públicas fornecem acesso a qualquer pessoa na mesh. Eles não exigem nenhum tipo de autenticação ou processo de login — seu mesh ID é suficiente. As contas públicas deixam você navegar na mesh em sites, fóruns, arquivos públicos, bases de dados abertas, redes sociais, etc. As contas públicas deixam você navegar na mesh em sites, fóruns, arquivos públicos, bases de dados abertas, redes sociais, etc. As contas públicas geralmente têm a capacidade de visualizar e fazer download de dados públicos e, às vezes, escrever (comentários de fórum, por exemplo), mas não muito mais.
 
 ### Contas de Usuário
 
-As contas de usuário exigem alguma forma de [autenticação](../13/05-authentication-and-encryption.md#authentication-methods) para acessar o dispositivo/serviço. Essas contas são fornecidas a pessoas que utilizam regularmente o sistema: funcionários, clientes, etc. A maioria dos usuários tem permissão para usar os recursos padrão do sistema, assim como visualizar, fazer download, fazer upload, e alterar dados próprios ou compartilhados. Elas não têm permissão para criar novas contas, acessar logs, alterar recursos de segurança ou fazer qualquer coisa que possa impactar as funções do sistema.
+As contas de usuário exigem alguma forma de [autenticação](../13/05-authentication-and-encryption.md#authentication-methods) para acessar o dispositivo/serviço. Essas contas são fornecidas a pessoas que utilizam regularmente o sistema: funcionários, clientes, etc. Essas contas são fornecidas a pessoas que utilizam regularmente o sistema: funcionários, clientes, etc. A maioria dos usuários tem permissão para usar os recursos padrão do sistema, assim como visualizar, fazer download, fazer upload, e alterar dados próprios ou compartilhados. Elas não têm permissão para criar novas contas, acessar logs, alterar recursos de segurança ou fazer qualquer coisa que possa impactar as funções do sistema.
 
 ### Contas de Segurança
 
