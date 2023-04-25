@@ -25,7 +25,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Digimorfo](../04/26-infomorphs.md#digimorph)                                                                   | Infomorfo  | 0&nbsp;PM  |
 | [Libélula](../04/25-synthmorphs.md#dragonfly)                                                                   | Sintemorfo | 1&nbsp;PM  |
 | [Exalto](../04/22-common-biomorphs.md#exalt)                                                                    | Biomorfo   | 2&nbsp;PM  |
-| [Cru](../04/22-common-biomorphs.md#flat)                                                                        | Biomorfo   | 0&nbsp;PM  |
+| [Tosco](../04/22-common-biomorphs.md#flat)                                                                      | Biomorfo   | 0&nbsp;PM  |
 | [Flexbot](../04/25-synthmorphs.md#flexbot)                                                                      | Sintemorfo |  Variável  |
 | [Fúria](../04/22-common-biomorphs.md#fury)                                                                      | Biomorfo   | 6&nbsp;PM  |
 | [Futura](../04/22-common-biomorphs.md#futura)                                                                   | Biomorfo   | 4&nbsp;PM  |
@@ -50,9 +50,9 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Ferroso](../04/22-common-biomorphs.md#ruster)                                                                  | Biomorfo   | 3&nbsp;PM  |
 | [Savant](../04/25-synthmorphs.md#savant)                                                                        | Sintemorfo | 4&nbsp;PM  |
 | [Prod de Segurança](../04/23-pod-biomorphs.md#security-pod)                                                     | Prod       | 5&nbsp;PM  |
-| [Moldável](../04/23-pod-biomorphs.md#shaper)                                                                    | Prod       | 5&nbsp;PM  |
+| [Ceifeiro](../04/23-pod-biomorphs.md#shaper)                                                                    | Prod       | 5&nbsp;PM  |
 | [Serpentoide](../04/25-synthmorphs.md#slitheroid)                                                               | Sintemorfo | 5&nbsp;PM  |
-| [Sobressalente](../04/25-synthmorphs.md#spare)                                                                  | Sintemorfo | 0&nbsp;PM  |
+| [Ricochete](../04/25-synthmorphs.md#spare)                                                                      | Sintemorfo | 0&nbsp;PM  |
 | [Tratado](../04/22-common-biomorphs.md#splicer)                                                                 | Biomorfo   | 1&nbsp;PM  |
 | [Morfo de Aço](../04/25-synthmorphs.md#steel-morph)                                                             | Sintemorfo | 5&nbsp;PM  |
 | [Enxamenoide](../04/25-synthmorphs.md#swarmanoid)                                                               | Sintemorfo | 3&nbsp;PM  |
