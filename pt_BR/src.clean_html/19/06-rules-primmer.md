@@ -160,8 +160,8 @@ A parada de Manha está vinculada às interações sociais: Sagacidade, Vontade 
 
 <!-- CLEANED blockquote class="indent" -->
 
-- **Ignorar Trauma:** Ignorar os efeitos de 1 trauma durante 24 horas.
-- **Renovar Rep:** Restaurar favores de rep na rede a um custo de 1 ponto para um favor Menor e 2 pontos para um favor Moderado. Favores maiores não podem ser renovados desta forma.
+- **Ignorar Trauma:** Ignorar os efeitos de 1 trauma por 24 horas.
+- **Renovar Rep:** Restaurar favores de rep na rede a um custo de 1 ponto para um favor Menor e 2 pontos para um favor Moderado. Favores Maiores não podem ser renovados desta forma.
 - **Adquirir uma Pista:** Ganhar uma dica ou pista coletando informações através de interações sociais, sem precisar fazer um teste.
 - **Controlar Sua Infecção:** Evitar fazer um Teste de Infeção quando usar um truque psi (apenas assincros).
 - **Negar uma Gafe:** Ignorar uma gafe social de um jogador, que o personagem não faria.
@@ -176,7 +176,7 @@ A parada de Vigor está vinculada aos esforços físicos: Reflexos, Somática e 
 
 - **Tomar a Iniciativa:** Agir primeiro em um turno de ação.
 - **Ação Extra:** Fazer uma ação complexa física extra (ou 2 ações rápidas) em um turno de ação.
-- **Ignorar Ferimento:** Ignorar os efeitos de 1 ferimento durante 24 horas.
+- **Ignorar Ferimento:** Ignorar os efeitos de 1 ferimento por 24 horas.
 
 <!-- CLEANED /blockquote -->
 
