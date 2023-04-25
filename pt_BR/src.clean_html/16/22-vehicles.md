@@ -4,7 +4,7 @@ Em Eclipse Phase, a maioria dos veículos é pilotada por ILA. Você simplesment
 
 ## Ware de Veículos
 
-Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots: visão padrão, audição, tato, propriocepção, equilíbrio, etc. Eles também são equipados com um conjunto padrão de wares necessários, listados abaixo, além daqueles listados com suas descrições específicas. Você também pode modificar um veículo com ware adicional, assim como um sintemorfo.
+Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots: visão padrão, audição, tato, propriocepção, equilíbrio, etc. Eles também são equipados com um conjunto padrão de wares necessários, listados abaixo, além daqueles listados com suas descrições específicas. Eles também são equipados com um conjunto padrão de wares necessários, listados abaixo, além daqueles listados com suas descrições específicas. Você também pode modificar um veículo com ware adicional, assim como um sintemorfo.
 
 | TODOS OS VEÍCULOS                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,10 +120,10 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 
 ## Trajes Rígidos
 
-Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada. Como trajes de vácuo padrões, eles possuem vedação ambiental, protegendo-o do vácuo, radiação e temperaturas de −175 até 140&nbsp;°C. Eles também selam automaticamente furos que inflijam menos de 30 pontos de dano. Os trajes rígidos são usados em ambientes extremos e condições perigosas, deste a atmosfera superior de um gigante gasoso até a superfície infernal repleta de ácido de Vênus. Os trajes rígidos são equipados para serem vestidos por dias, se necessário. Os ocupantes só podem vestir armadura com um Valor de Armadura (energética ou cinética) de 4 ou menos dentro do traje rígido; essa armadura vestida é cumulativa sem penalidades de camadas.
+Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada. Como trajes de vácuo padrões, eles possuem vedação ambiental, protegendo-o do vácuo, radiação e temperaturas de −175 até 140&nbsp;°C. Eles também selam automaticamente furos que inflijam menos de 30 pontos de dano. Eles também selam automaticamente furos que inflijam menos de 30 pontos de dano. Os trajes rígidos são usados em ambientes extremos e condições perigosas, deste a atmosfera superior de um gigante gasoso até a superfície infernal repleta de ácido de Vênus. Os trajes rígidos são equipados para serem vestidos por dias, se necessário. Os ocupantes só podem vestir armadura com um Valor de Armadura (energética ou cinética) de 4 ou menos dentro do traje rígido; essa armadura vestida é cumulativa sem penalidades de camadas.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>TRAJES RÍGIDOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>VEÍCULOS TERRESTRES<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
  <tr><td>Traje de Batalha<td>Raro/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>8/32 Marcha, 8/40 Empuxo Vetorial<td>G</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
