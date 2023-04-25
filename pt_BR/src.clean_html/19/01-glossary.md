@@ -113,7 +113,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** O software que defende um sistema de invasões.
 - **Fisher Hab:** Uma variante de hab cilíndrico que usa módulos independentes.
 - **Atravessador:** Alguém que negocia tratos para adquirir bens ou informações.
-- **Cru:** Um humano comum, sem genecorreções ou modificações.
+- **Tosco:** Um humano comum, sem genecorreções ou modificações.
 - **Mundano:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
 - **Forque:** Uma cópia de um ego.
