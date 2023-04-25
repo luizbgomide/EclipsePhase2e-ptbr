@@ -69,7 +69,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Segurança Aprimorada](../16/12-meshware.md)           |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo mas sem parada de Inspiração e com −3 em INIC. |
 | [App de Violação](../16/13-apps-and-alis.md#apps)      |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.                                                        |
 | [Servidor Privado](../16/04-services.md#mesh-services) |                 Men/1                 | Servidor privado, autoadministrado.                                                               |
-| [Garras](../16/21-robots.md#reconsurveillance-bots)    |                 Men/1                 | Drone de vigilância. Tamanho pequeno.                                                             |
+| [Mosquito](../16/21-robots.md#reconsurveillance-bots)  |                 Men/1                 | Drone de vigilância. Tamanho pequeno.                                                             |
 | [Anjo da Guarda](../16/21-robots.md#combat-bots)       |                 Mod/2                 | Drone de defesa pessoal. Tamanho pequeno.                                                         |
 
 ## Pacotes de Profissão
@@ -129,7 +129,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                 |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 | [Gravador de Missão](../16/16-comms-and-mesh-gear.md#communications)  |                 Men/1                 | Grava todos os dados da missão.                                                                    |
 | [Tenda Pressurizada](../16/18-mission-gear.md#survival-tools)         |                 Mod/2                 | Abrigo automontante para 4, respirador embutido.                                                   |
-| [Retalhador](../16/21-robots.md#reconsurveillance-bots)               |                 Men/1                 | Drone de reconhecimento em forma de disco giratório. Tamanho pequeno.                              |
+| [Disco](../16/21-robots.md#reconsurveillance-bots)                    |                 Men/1                 | Drone de reconhecimento em forma de disco giratório. Tamanho pequeno.                              |
 | [Míssil Esquadrinhador](../16/18-mission-gear.md#exploration-tools)   |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60.              |
 
 ### Malandro
@@ -152,7 +152,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Dino-Mascote](../16/14-creatures.md#genetically-modified-organisms)      |                 Men/1                 | Dinossauro de estimação geneticamente hackeado.                                   |
 | [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessão (2), reduz prazos em 25%.                       |
 | [Medicadores](../16/10-combat-augmentations.md)                           |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas. |
-| [Mosquito](../16/20-nanoswarms-and-microswarms.md#swarms)                 |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
+| [Enxame Inoculador](../16/20-nanoswarms-and-microswarms.md#swarms)        |        Men/R/1 + droga/toxina         | Expõe biomorfos à droga/toxina.                                                   |
 | [Recipiente de Espécime](../16/18-mission-gear.md#science-tools)          |                 Men/1                 | Mantém amostras em condições de estase.                                           |
 | [Ferramentas (Kit)](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Portátil, aplicável à perícia específica.                                         |
 | [Espástico (5 doses)](../16/15-chemicals-drugs-and-toxins.md#toxins)      |                Men/R/1                | –20 em ações, Prova de SOM vs. incapacitação.                                     |
@@ -240,9 +240,9 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 #### \* Alternativa para Sintemorfo
 
-| EQUIPAMENTOS                                                           | Comp/<!-- CLEANED wbr -->PE | Descrição                                                       |
-|:---------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
-| [Míssil Esquadrinhador](../16/20-nanoswarms-and-microswarms.md#swarms) |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 4 dias. |
+| EQUIPAMENTOS                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                       |
+|:----------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
+| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms) |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 4 dias. |
 
 <!-- CLEANED /blockquote -->
 
@@ -252,7 +252,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 |:------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
 | [Automecânico](../16/21-robots.md#utility-bots)                           |                 Mod/2                 | Bot reparador.                                                  |
 | [Sentido Elétrico](../16/06-sensory-augmentations.md)                     |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                      |
-| [Simulespaço](../16/20-nanoswarms-and-microswarms.md#swarms)              |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 5 dias. |
+| [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms)         |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 5 dias. |
 | [Fokus (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |                 Men/1                 | Comportamento Acentuado: Obsessão (2), reduz prazos em 25%.     |
 | [Fabro Médio](../16/19-nanotech.md#nanofabricators)                       |                 Mod/2                 | Fabrica itens pequenos.                                         |
 | [Ferramentas (Kit)](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Portátil, aplicável à perícia específica.                       |
