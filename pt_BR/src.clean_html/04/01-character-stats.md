@@ -60,7 +60,7 @@ Há 6 graduações de aptidão:
 
 ### Provas de Aptidão
 
-Às vezes, você vai usar suas aptidões para fazer testes em vez de perícias aprendidas. As verificações de aptidão normalmente só entram em jogo em situações onde nenhuma perícia é aplicável, mas o talento bruto sim. Alguns exemplos:
+Às vezes, você vai usar suas aptidões para fazer testes em vez de perícias aprendidas. As verificações de aptidão normalmente só entram em jogo em situações onde nenhuma perícia é aplicável, mas talento puro é. Alguns exemplos:
 
 - **Prova de Cognição (COG):** Relembrar uma memória, memorizar um número ou resistir à manipulação mental.
 - **Prova de Intuição (INT):** Avaliar uma situação, ver através de uma ilusão ou entender intenções alienígenas.
