@@ -87,7 +87,7 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 - **Ware:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
-<tr><td>Gelatinibot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
+<tr><td>Amoebot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** 4/12 Marcha, 8/40 Rolagem
@@ -264,4 +264,4 @@ Estes bots ajudam a fazer as coisas.
 
 **Anão:** Estes grandes bots industriais são chamados não só pelo seu uso primário — mineração, escavação, túneis e construção — mas porque as IAs padrões equipadas neles tinham a tendência programada de assobiar felizmente enquanto trabalhavam. Os anões são andadores quadrúpedes, equipados com enormes ferramentas modulares industriais como brocas de perfuração, pás, macacos hidráulicos, britadeiras, braços carregadores, jatos de ácido e assim por diante.
 
-**Mula-Robô:** Estes drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
+**Mula-Robô:** Estes drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
