@@ -54,7 +54,7 @@ Enquanto oculto, você recebe um modificador +10 em quaisquer esforços para [su
 
 Com status infiltrado, sua presença no sistema parece legítima e você não atrai nenhuma atenção especial. Só uma verificação abrangente revelará anormalidades. O sistema está ciente de você, mas não o considera uma ameaça.
 
-### Descoberto
+### Infiltrado
 
 Se você tiver status descoberto, o sistema está ciente que a sua presença é uma invasão. Estar descoberto aciona automaticamente um [alerta ativo](../13/12-countermeasures.md#active-alert).
 
