@@ -2,7 +2,7 @@
 
 O desejo transumano de aprimorar o corpo e a mente combina perfeitamente com a história do abuso de substâncias recreativas da nossa espécie. Drogas de todos os tipos — químicas, nano, ou eletrônicas — não são apenas populares, mas de uso generalizado. Os avanços em biotecnologia eliminaram muitos dos efeitos colaterais, mas os corpos transumanos são ambientes complicados, então eles continuam sendo um fator, especialmente com o uso a longo prazo.
 
-As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
+As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
 
 Observe que algumas drogas podem ter efeitos diferentes em morfos com o traço Bioquímica Não Humana (a critério do MJ).
 
@@ -224,7 +224,7 @@ Pesquisando a cepa Watts-MacLeod resultou em várias descobertas excepcionais co
 | DROGAS PSI   |    Tipo    | Aplicação | Duração | Mod/<!-- CLEANED wbr -->Tipo de Vício | Comp/<!-- CLEANED wbr -->PE | Descrição                                                  |
 |:------------ |:----------:|:---------:|:-------:|:-----------------------------------------------:|:-------------------------------------:|:---------------------------------------------------------- |
 | Inibidor     | Bioquímica | Qualquer  | 6 horas |                   +20/Mental                    |                 Mai/3                 | −30 em Psi, −20 em Provas de VON ou perde habilidades psi. |
-| Psi-Abertura | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-chi específico. VE 1d6.            |
+| Psi-Abertura | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-qui específico. VE 1d6.            |
 | Psicador     | Bioquímica | Qualquer  | 8 horas |                   −10/Mental                    |                Mai/R/3                | +10 na perícia Psi.                                        |
 | Psi-Coice    | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-gama específico. VE 1d10 + 2.      |
 
@@ -286,9 +286,9 @@ As propriedades tóxicas de substâncias biológicas e químicas podem ser usada
 
 | TOXINAS         |    Tipo    |   Aplicação    |                    Duração                    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
 |:--------------- |:----------:|:--------------:|:---------------------------------------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Bioquímica |   D, Inj, O    | 3 turnos/<!-- CLEANED wbr -->1 hora |                Mai/R/3                | VD 2d10 + 3 por 3 turnos, Prova de SOM ou imobilizado por 1 hora.                 |
-| Gás CR          | Bioquímica |     D, Ina     |                  20 minutos                   |                Men/R/1                | VD 1d6, −30 em Percepção, −20 em todas as outras ações.                           |
-| Temoral         | Bioquímica |      Ina       |                    1 hora                     |                Men/R/1                | VD 1d10, −30 para resistir a intimidação/efeitos de medo.                         |
+| BTX<sup>2</sup> | Bioquímica |   D, Inj, O    | 3 turnos/<!-- CLEANED wbr -->1 hora |                Mai/R/3                | VD 2d10 + 10 \[21\] por 3 turnos, Prova de SOM ou imobilizado por 1 hora.       |
+| Gás CR          | Bioquímica |     D, Ina     |                  20 minutos                   |                Men/R/1                | VD 1d6 \[4\], −30 em Percepção, −20 em todas as outras ações.                   |
+| Temoral         | Bioquímica |      Ina       |                    1 hora                     |                Men/R/1                | VE 1d10 \[6\], −30 para resistir a intimidação/efeitos de medo.                 |
 | Nervex          | Bioquímica | D, Ina, Inj, O |                       —                       |                Mai/R/3                | −20 em ações, Prova de SOM vs. incapacitação, morte.                              |
 | Oxitocina-A     | Bioquímica |    Ina, Inj    |                    2 horas                    |                Men/R/1                | Confiante, −30 em Provas de VON/Testes de Cinésica em que confiança for um fator. |
 | Espástico       | Bioquímica | D, Ina, Inj, O |                  10 minutos                   |                Men/R/1                | –20 em ações, Prova de SOM vs. incapacitação.                                     |
@@ -316,7 +316,7 @@ Estas infestações temporárias de nanobots causam danos ou debilitação.
 | NANOTOXINAS  | Tipo | Aplicação | Duração  | Comp/<!-- CLEANED wbr -->PE | Descrição                                             |
 |:------------ |:----:|:---------:|:--------:|:-------------------------------------:|:----------------------------------------------------- |
 | Disrupção    | Nano |  Inj, O   | 8 horas  |                Mai/R/3                | −5 cumulativo em ações por hora; incapacitação.       |
-| Necrose      | Nano |  Inj, O   | 1 minuto |                Mod/R/2                | VD 1d6 por turno.                                     |
+| Necrose      | Nano |  Inj, O   | 1 minuto |                Mod/R/2                | VD 1d6 \[4\] por turno.                             |
 | Neuropatia   | Nano | D, Inj, O | 8 horas  |                Mod/R/2                | Agonia, −30 em ações, Prova de VON vs. incapacitação. |
 | Quebra-Nozes | Nano |  Inj, O   | 6 horas  |                Mai/R/3                | Destrói a pilha cortical.                             |
 
