@@ -73,11 +73,11 @@ Cada bit de dado transmitido entre os comunicadores EQ usam um qubit. Quando tod
 
 Como o processo de entrelaçamento requer um equipamento especial, equipamentos de comunicação EQ não podem ser nanofabricados.
 
-| EQUIPAMENTOS DE COMUNICAÇÃO EQ | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                  |
-|:------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------- |
-| Comunicador EQ                 |                 Men/1                 | Pequeno dispositivo de comunicação FTL, exige qubits.                      |
-| Reservatório de Emergência     |                 Mod/2                 | Par de microreservatórios de qubits, 1 minuto de vídeo/1 hora de voz.      |
-| Reservatório de Qubits         |                 Mai/3                 | Par médio de reservatórios de qubits, 10 horas de vídeo, 100 horas de voz. |
+| EQUIPAMENTOS DE COMUNICAÇÃO EQ | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                       |
+|:------------------------------ |:-------------------------------------:|:------------------------------------------------------------------------------- |
+| Comunicador EQ                 |                 Men/1                 | Pequeno dispositivo de comunicação FTL, exige qubits.                           |
+| Reservatório de Emergência     |                 Mod/2                 | Par de reservatórios muito pequenos de qubits, 1 minuto de vídeo/1 hora de voz. |
+| Reservatório de Qubits         |                 Mai/3                 | Par de reservatórios pequenos de qubits, 10 horas de vídeo, 100 horas de voz.   |
 
 **Comunicador EQ:** Este é um pequeno dispositivo de mão de comunicações FTL. Ele deve estar equipado com um reservatório de qubits para permitir comunicações de entrelaçamento quântico.
 
