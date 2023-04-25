@@ -5,7 +5,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 | TIPO DE ARMADURA                                           | Tipo de Ware | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Notas                        |
 |:---------------------------------------------------------- |:------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
 | Vestuário Reforçado                                        |      —       |     +1     |    +3    |                 Men/1                 | Ocultável                    |
-| Casaco Reforçado                                           |      —       |     3      |    6     |                 Men/1                 |                              |
+| Armaduras em Camadas                                       |      —       |     3      |    6     |                 Men/1                 |                              |
 | Colete de Proteção (Pesado)                                |      —       |     6      |    12    |                 Mod/2                 |                              |
 | Colete de Proteção (Leve)                                  |      —       |     4      |    10    |                 Men/1                 | Ocultável                    |
 | Carregador Atlas                                           |      —       |    +10     |   +12    |                 Raro                  |                              |
@@ -16,7 +16,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 | Armadura de Combate                                        |      —       |     12     |    16    |                Mai/R/3                |                              |
 | Traje de Segurança (Ativo)                                 |      —       |     3      |    8     |                 Men/1                 |                              |
 | Traje de Segurança (Inativo)                               |      —       |     3      |    2     |                                       | Ocultável                    |
-| Armadura Dérmica                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
+| Escudo Antimotim                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
 | Traje Ambiental                                            |      —       |     25     |    16    |                 Mai/3                 |                              |
 | Armação de Exoandador                                      |      —       |     +0     |    +2    |                 Mai/3                 |                              |
 | Traje Rígido                                               |      —       |     20     |    18    |                 Raro                  |                              |
@@ -45,9 +45,9 @@ _Armadura cinética_ protege contra a transferência danosa de energia quando um
 
 Quando você é atingido em combate, subtraia seu VA do dano aplicado. Use a graduação de VA apropriada ao tipo de ataque. Ataques perfurantes de armadura reduzem seu VA à metade.
 
-## Armaduras em Camadas
+## Armadura Dérmica
 
-Você pode vestiar várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o total de alguma graduação de VA exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover.
+Você pode vestiar várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover. Se o total de alguma graduação de VA exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado.
 
 A armadura inerente a um sintemorfo ou outra armação de carcaça conta como o primeiro item das camadas. Carcaças não são projetadas para vestir armaduras; qualquer armadura usada sobre elas deve ser projetada especialmente para se adequar à sua forma (talvez exigindo um Teste de Programação de nanofab ou aumentando a Complexidade em um grau).
 
