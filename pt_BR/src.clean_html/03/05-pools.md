@@ -22,7 +22,7 @@ Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha
 
 Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste. A parada gasta para um efeito contínuo (o último item da lista acima) é contada como afetando um teste.
 
-Vários aprimoramentos (wares, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos em qualquer parada.
+Vários aprimoramentos (wares, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos por qualquer parada individual.
 
 ## Inspiração
 
@@ -64,7 +64,7 @@ Sua parada curinga também pode ser usada para controle narrativo:
 Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos. Há dois tipos de ação de recarga: _recarga curta_ e _recarga longa_.
 
 - **Recarga Curta (2/dia):** Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los. Alguns equipamentos ou truques psi podem fornecer pontos de recarga extras.
-- **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
+- **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para toscos e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
 
 Enquanto recarrega, você pode apenas fazer apenas atividades leves e não cansativas: comer, navegar na mesh, conversar, recarregar armas, vigiar, etc. Os prazos de recarga não podem ser encurtados ou interrompidos; se forem, o tempo usado é perdido.
 
