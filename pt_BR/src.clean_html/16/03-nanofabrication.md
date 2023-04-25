@@ -14,7 +14,7 @@ Para poder imprimir alguma coisa em um nanofabricador, você precisa de um diagr
 
 ### Obtendo Diagramas
 
-As diagramas de nanofabricação existem em três formatos: uso único, uso múltiplo e código aberto.
+Os diagramas de nanofabricação existem em quatro formatos: uso único, uso limitado, uso múltiplo e código aberto:
 
 **Diagramas de Uso Único:** A maioria das diagramas de uso único são acessadas através de plataformas de distribuição digital que utilizam gestão de direitos digitais (DRM) para proteger o copyright. Isso significa que você pode acessar o arquivo para imprimi-lo uma vez, mas ele não pode ser copiado ou impresso novamente. Se você precisar de um arquivo para imprimir sem ter acesso à mesh, alguns diagramas de uso único estão disponíveis como arquivos de digitais para download que bloqueiam as tentativas de copiá-los e se apagam depois do uso. As hipercorps e economias capitalistas do sistema interior usam esses métodos para controlar a escassez e manter você dependente.
 
@@ -26,7 +26,7 @@ Diagramas de uso único são adquiridas com PE, rep, ou traço Recursos, usando 
 
 **Diagramas de Código Aberto:** Em regiões autonomistas e muitas outras áreas, alguns diagramas estão disponíveis gratuitamente em bibliotecas de código aberto. Estas diagramas são reutilizáveis, podem ser copiadas, e não exigem a autenticação da sua ID para ser usada. Um Teste de Pesquisa (usando os Modificadores de Rep da [tabela Testes de Rep](../15/13-networking.md#rep-tests)) ou um favor (@-rep, i-rep, r-rep, x-rep) igual a complexidade do item mais um grau vai lhe fornecer um diagrama de código aberto, até mesmo para coisas como armas e drogas.
 
-A desvantagem é que diagramas de código aberto às vezes são menos confiáveis, mais experimentais, ou carregam malwares escondidos. Cada diagrama de código aberto adquirido por Pesquisa (não por rep) tem 20% de chance de não ser confiável: um modificador −10 a −30, erros inesperados, malwares perigosos, etc. Essas diagramas também são ilegais em certos governos do sistema interior (muitas são projetos proprietários crackeados) e podem não funcionar em fabros do sistema interior. Essas diagramas também são ilegais em certos governos do sistema interior (muitas são projetos proprietários crackeados) e podem não funcionar em fabros do sistema interior.
+A desvantagem é que diagramas de código aberto às vezes são menos confiáveis, mais experimentais, ou carregam malwares escondidos. Cada diagrama de código aberto adquirido por Pesquisa (não por rep) tem 20% de chance de não ser confiável: um modificador −10 a −30, erros inesperados, malwares perigosos, etc. Essas diagramas também são ilegais em certos governos do sistema interior (muitas são projetos proprietários crackeados) e podem não funcionar em fabros do sistema interior.
 
 ### Itens Restritos
 
@@ -34,7 +34,7 @@ As diagramas para itens Restritos não podem ser compradas legalmente usando Rec
 
 ### Projetando Diagramas
 
-Se você não tiver um diagrama, você pode criar um. Isso exige dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
+Se você não tiver um diagrama, você pode criar um. Isso exige dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
 
 Os dois testes juntos constituem uma única ação de tarefa. O prazo é o mesmo da [aquisição de equipamentos](../16/02-acquiring-gear.md), mas em meses em vez de horas (2 meses para Menor, 8 meses para Moderada, 24 meses para Maior). No entanto, a maioria dos programadores usam forques e simulespaços de tempo acelerado para apressar o processo, então uma semana subjetiva de programação pode ser feita em aproximadamente uma hora de tempo real. Apenas resultados maiores do Teste de Programação reduzem o prazo.
 
