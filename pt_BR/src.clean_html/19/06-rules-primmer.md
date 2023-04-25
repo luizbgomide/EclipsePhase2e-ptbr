@@ -100,14 +100,14 @@ Os turnos de ação têm cerca de 3 segundos de duração.
 
 ## Usando Rep
 
-Use seus níveis de rep para perseguir favores, tais como adquirir bens, serviços ou informações.
+Use seus níveis de rep para conseguir favores, tais como adquirir bens, serviços ou informações.
 
 Cada nível de rep se aplica apenas às pessoas/facções afiliadas com essa rede social específica.
 
 - Faça um Teste de Rep, usando seu nível de rep como número alvo.
 - O tipo de favor que você está pedindo modifica o número alvo: Menor (+10), Moderado (+0) ou Maior (−30).
 - Você pode pegar um modificador negativo em um Teste de Rep para manter o seu pedido em segredo e escondido dos outros. O mesmo modificador se aplica a qualquer pessoa fazendo um Teste de Rep para descobrir o que você está querendo.
-- Os favores têm limites na frequência que podem ser usados: Menor (3 por semana), Moderado (1 por semana), Major (1 por arco de história).
+- Os favores têm limites na frequência que podem ser usados: Menor (3 por semana), Moderado (1 por semana), Maior (1 por arco de história).
 - Você pode queimar rep (abaixar permanentemente seu nível de rep) para favores adicionais (a um custo de 5 para Menor, 10 para Moderado, 20 para Maior) ou para obter um modificador em um Teste de Rep (igual aos pontos queimados × 2).
 
 <!-- CLEANED div class="stat-list" -->
@@ -198,7 +198,7 @@ Flex é uma parada curinga. Ela pode ser usada para afetar rolagens de dados de 
 Você recupera os pontos que gastou das paradas fazendo uma ação de recarga para descansar e recalibrar. Você não pode aumentar uma parada além do seu valor original; pontos não utilizados são perdidos.
 
 - **Recarga Curta (2/dia):** Recargas curtas são uma ação de tarefa com um prazo de 10 minutos. Você pode fazer duas recargas curtas por período de 24 horas. Cada recarga curta restaura 1d6 pontos de parada; você decide onde alocá-los.
-- **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para crus e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
+- **Recarga Longa (1/dia):** Uma recarga longa é uma ação de tarefa com um prazo de 4 horas (8 para toscos e outros biomorfos sem biomods). Você só pode se beneficiar de uma recarga longa por período de 24 horas. Uma recarga longa restaura completamente suas paradas até seus valores totais.
 
 <!-- CLEANED blockquote class="framed-table" -->
 
