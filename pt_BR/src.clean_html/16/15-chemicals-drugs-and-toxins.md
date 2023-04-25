@@ -2,7 +2,7 @@
 
 O desejo transumano de aprimorar o corpo e a mente combina perfeitamente com a história do abuso de substâncias recreativas da nossa espécie. Drogas de todos os tipos — químicas, nano, ou eletrônicas — não são apenas populares, mas de uso generalizado. Os avanços em biotecnologia eliminaram muitos dos efeitos colaterais, mas os corpos transumanos são ambientes complicados, então eles continuam sendo um fator, especialmente com o uso a longo prazo.
 
-As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
+As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
 
 Observe que algumas drogas podem ter efeitos diferentes em morfos com o traço Bioquímica Não Humana (a critério do MJ).
 
@@ -142,7 +142,7 @@ Alimentos farmacêuticos que melhoram a saúde e estado físico do consumidor.
 
 | DROGAS DE SAÚDE  |    Tipo    | Aplicação | Duração  | Mod/<!-- CLEANED wbr -->Tipo de Vício | Comp/<!-- CLEANED wbr -->PE | Descrição                                   |
 |:---------------- |:----------:|:---------:|:--------:|:-----------------------------------------------:|:-------------------------------------:|:------------------------------------------- |
-| Bananas Furiosas | Bioquímica | Qualquer  |  1 dia   |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
+| Bananas Furiosas | Bioquímica | Qualquer  | 8 horas  |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
 | Confurte         | Bioquímica | Qualquer  | 12 horas |                   −10/Mental                    |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.              |
 
 **Bananas Furiosas:** Esta droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cinturianos preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
