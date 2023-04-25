@@ -11,7 +11,7 @@ Esses softwares podem ser executados em qualquer dispositivo computadorizado.
 | Ilusão de RA          |                 Mod/2                 | Cria ilusões entópticas realistas.               |
 | Comparação Biométrica |                 Men/1                 | Compara padrões biométricos.                     |
 | Criptografia          |                 Men/1                 | Criptografa/descriptografa arquivos e mensagens. |
-| Farejamento           |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.       |
+| Violação              |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.       |
 | Firewall              |                 Men/1                 | Protege dispositivos de invasões.                |
 | Caixa-Forte           |                Mod/R/2                | Aprisiona infomorfos.                            |
 | Psicocirurgia         |                 Mod/2                 | Edita mentes.                                    |
@@ -74,12 +74,12 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 
 Os aflitivos são apps de neurorretroalimentação danosa usados contra infomorfos e cibercérebros.
 
-| AFLITIVOS    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
-|:------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| Pandemônio   |                Mod/R/2                | Entradas aterrorizantes, VE 1d10 +1d6 por sucesso maior.                                           |
-| Cauterização |                Mod/R/2                | Neurorretroalimentação destrutiva, VD 1d10 + 5, +1d6 por sucesso maior.                            |
-| Pesadelo     |                Mod/R/2                | Desencadeia ansiedade/pânico, Prova de VON ou VE 1d6 e resposta de estresse agudo por 1d6 minutos. |
-| Espasmo      |                Mod/R/2                | Dor excruciante, Prova de VON ou incapacitado por 1 turno de ação, atordoado por 3 minutos.        |
+| AFLITIVOS    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                  |
+|:------------ |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------- |
+| Pandemônio   |                Mod/R/2                | Entradas aterrorizantes, VE 1d10 \[6\], +1d6 por sucesso maior.                                          |
+| Cauterização |                Mod/R/2                | Neurorretroalimentação destrutiva, VD 1d10 + 5 \[11\], +1d6 por sucesso maior.                           |
+| Pesadelo     |                Mod/R/2                | Desencadeia ansiedade/pânico, Prova de VON ou VE 1d6 \[4\] e resposta de estresse agudo por 1d6 minutos. |
+| Espasmo      |                Mod/R/2                | Dor excruciante, Prova de VON ou incapacitado por 1 turno de ação, atordoado por 3 minutos.                |
 
 **Pandemônio:** O pandemônio ataca o ego com entradas mentais traumáticas, infligindo estresse mental. As vítimas estão sobrecarregadas com faixas emocionais e sensoriais horríveis, monstruosas e enlouquecedoras. Cada ataque inflige VE 1d10, +1d6 por sucesso maior.
 
@@ -101,7 +101,7 @@ As tacnets fornecem as seguintes funções:
 
 - **Mapas:** As tacnets apresentam mapas de um ponto de vista superior, tridimensional e interativo, ou visão entóptica em primeira pessoa, marcando pontos notáveis e anotando distâncias. Elas também podem plotar mapas baseados em entradas sensoriais, sistemas de posicionamento e outros dados.
 - **Posicionamento:** As tacnets indicam a posição de pessoas, bots, veículos e outros recursos conhecidos de acordo com a entrada sensorial ou suas trajetórias calculadas. Tags de amigo ou inimigo destacam aliados e oponentes, anotando suas linhas de visão e seus campos de fogo, e alertando o usuário de áreas de cobertura ou perigo potencial.
-- **Entrada Sensorial:** As tacnets compartilham todas as entradas sensoriais disponíveis pelos membros e dispositivos vinculados. Isso inclui dados de sensores físicos, sensores portáteis, câmeras de armas com ligação inteligente, fluxos XP, etc. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário.
+- **Entrada Sensorial:** As tacnets compartilham todas as entradas sensoriais disponíveis pelos membros e dispositivos vinculados. Isso inclui dados de sensores físicos, sensores portáteis, câmeras de armas com ligação inteligente, fluxos XP, etc. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário.
 - **Gerenciamento de Comunicações:** As tacnets mantém uma VPN criptografada entre usuários. Elas monitoram ativamente por quedas de sinal e tentativas de hackear/farejar/bloquear sinais. Trate como um defensor do sistema com Infoseg 40 e Interface 40.
 - **Ligação Inteligente/Dados de Armas:** As tacnets monitoram o status de armas, acessórios, e outros equipamentos, trazendo dano, falhas, contagem de munições, e outros problemas à atenção do usuário.
 - **Dados Médicos:** As tacnets monitoram a saúde dos seus usuários através dos medicadores, implantes e outros sensores. Os usuários podem requisitar relatórios de saúde dos seus aliados.
