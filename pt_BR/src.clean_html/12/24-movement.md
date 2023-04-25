@@ -4,7 +4,7 @@ O movimento em Eclipse Phase é tratado como outros tipos de ação. Quanto mais
 
 ## Taxa de Movimento
 
-Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsinado, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
+Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsinado, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
 
 ## Ações de Movimento
 
@@ -136,7 +136,7 @@ Os nadadores usam barbatanas, membros ou jatos d'água para se impulsionarem pel
 
 **\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Esses motores podem ser manobrados para apontar e gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) também funcionarão no vácuo se equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
+Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Eles também podem ser direcionados para gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) funcionam no vácuo se forem equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
 
 ### Esteira
 
