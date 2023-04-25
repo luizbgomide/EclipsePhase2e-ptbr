@@ -43,7 +43,7 @@ Os MJs atribuem modificadores conforme for apropriado à situação. Se múltipl
 | Dificuldade          |  Fator Situacional   | Modificador |
 |:-------------------- |:--------------------:|:-----------:|
 | Muito Fácil          |     Bônus Maior      |     +30     |
-| Fácil                |  Benefício Moderado  |     +20     |
+| Fácil                |  Desvantagem Maior   |     +20     |
 | Ligeiramente Fácil   |     Bônus Menor      |     +10     |
 | Mediano              |                      |    +/−0     |
 | Ligeiramente Difícil |   Obstáculo Menor    |     −10     |
