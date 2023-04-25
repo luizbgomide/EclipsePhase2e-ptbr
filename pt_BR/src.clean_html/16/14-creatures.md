@@ -10,16 +10,16 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>OGMs<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>OGMs<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Dino-Mascote<td>Men/1<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha ou 8/32 Asas
+- **Taxa de Movimento:** Marcha 4/12 ou Asas 8/32
 - **Ware:** Armadura Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 40, Evasão 30, Infiltração 30, Luta 40, Percepção 30, Provocação 30 (Intimidação 40)
-- **Notas:** Mordida/Chifre/Cauda VD 1d6, Tamanho Pequeno
+- **Notas:** Mordida/Chifre/Cauda VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
@@ -73,7 +73,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>ANIMAIS INTELIGENTES<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>ANIMAIS INTELIGENTES<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Cão de Guarda<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>10<td>1<td>4/5<td>6/30/45<td>4/20/40</tr>
@@ -148,8 +148,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** 4/20 Marcha
-- **Ware:** Almofadas Aderentes, Armadura Dérmica, Biomods, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
-- **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
+- **Ware:** Almofadas Aderentes, Armadura Dérmica, Biomods, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros. - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
 
 <!-- CLEANED /div --></tr>
@@ -178,7 +177,7 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>XENOFAUNA<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>XENOFAUNA<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Duende Palhaço<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>7<td>1<td>—<td>4/20/30<td>2/10/20</tr>
