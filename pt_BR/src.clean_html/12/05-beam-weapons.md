@@ -15,7 +15,7 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 | Lançador de Feixes de Partículas |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
 | Atordoador                       |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
 
-## Ware de Armas de Feixo
+## Ware de Armas de Feixe
 
 **Laser de Mão:** O morfo tem uma arma laser implantada em seu antebraço, com um guia de onda flexível chegando até uma lente localizada entre os dois primeiros nós da mão dominante do morfo. As baterias do laser são implantadas e não são trocadas facilmente em biomorfos.
 
