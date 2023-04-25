@@ -2,32 +2,32 @@
 
 As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Ware de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Armaduras](../12/14-armor-mods.md)).
 
-| AMPLIAÇÕES DE COMBATE    | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
-|:------------------------ |:------------:|:-------------------------------------:|:--------------------------------------------------------------------------------------- |
-| Surto Adrenal            |      B       |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                       |
-| Glândulas de Droga       |      B       |            Men/R/1 + Droga            | Produz um tipo de droga.                                                                |
-| Eficiência Energética    |     BHM      |                 Mai/3                 | Uma recarga curta extra por dia.                                                        |
-| Esqueleto Endurecido     |      CH      |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                  |
-| Imunizantes              |      N       |                 Mod/2                 | Teste de Medicina: Farmacologia 60 para imunidade futura a droga, toxina ou doença.     |
-| Medicadores              |      NH      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.       |
-| Ampliação Muscular       |     BCH      |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;VD luta, +10 em Provas de SOM.            |
-| Nanófagos                |      N       |                 Mod/2                 | Prova de SOM nega nanodrogas/toxinas, falha reduz efeito à metade.                      |
-| Nanobomba                |      N       |           Men/1 + Nanodroga           | Colmeia de nanobots, produz um tipo de nanodroga.                                       |
-| Glândulas de Nanotoxina  |      N       |         Men/R/1 + Nanotoxina          | Colmeia de nanobots, produz um tipo de nanotoxina.                                      |
-| Neuraquim                |      BH      |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                 |
-| Novacardium              |      B       |                 Mod/2                 | Coração e sistema circulatório aprimorados. +1 em Vigor.                                |
-| Regulador de Dor         |      B       |                 Mod/2                 | Ameniza a sensação de dor. Ignore 1 efeito de ferimento.                                |
-| Pneumáticos              |      H       |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;VD em luta.                               |
-| Glândulas de Veneno      |      B       |           Men/R/1 + Toxina            | Produz um tipo de veneno.                                                               |
-| Absorção de Radar        |      H       |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                |
-| Amplificador de Reflexos |      CH      |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIT, +10 em Provas de REF.            |
-| Respirócitos             |      N       |                 Mod/2                 | Células vermelhas artificiais, fornecem 4 horas de ar, +5 em DUR, +1 em LF, +8 em GD.   |
-| Atuadores Inteligentes   |      H       |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                              |
-| Controle de Estresse     |      BM      |                 Mod/2                 | Gerencia níveis de estresse. +10 em Provas de VON vs. estresse, +1 em Limiar de Trauma. |
-| Aprimoramento Estrutural |      H       |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                     |
-| Membro Telescópico       |      CH      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                      |
-| Filtros de Toxina        |      B       |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.        |
-| Suporte de Arma          |      CH      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                 |
+| AMPLIAÇÕES DE COMBATE    | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                 |
+|:------------------------ |:------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------- |
+| Surto Adrenal            |      B       |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                         |
+| Glândulas de Droga       |      B       |            Men/R/1 + Droga            | Produz um tipo de droga.                                                                  |
+| Eficiência Energética    |     BHM      |                 Mai/3                 | Uma recarga curta extra por dia.                                                          |
+| Esqueleto Endurecido     |      CH      |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                    |
+| Imunizantes              |      N       |                 Mod/2                 | Teste de Medicina: Farmacologia 60 para imunidade futura a droga, toxina ou doença.       |
+| Medicadores              |      NH      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.         |
+| Ampliação Muscular       |     BCH      |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;\[4\]&nbsp;VD luta, +10 em Provas de SOM. |
+| Nanófagos                |      N       |                 Mod/2                 | Prova de SOM nega nanodrogas/toxinas, falha reduz efeito à metade.                        |
+| Nanobomba                |      N       |           Men/1 + Nanodroga           | Colmeia de nanobots, produz um tipo de nanodroga.                                         |
+| Glândulas de Nanotoxina  |      N       |         Men/R/1 + Nanotoxina          | Colmeia de nanobots, produz um tipo de nanotoxina.                                        |
+| Neuraquim                |      BH      |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                   |
+| Novacardium              |      B       |                 Mod/2                 | Coração e sistema circulatório aprimorados. +1 em Vigor.                                  |
+| Regulador de Dor         |      B       |                 Mod/2                 | Ameniza a sensação de dor. Ignore 1 efeito de ferimento.                                  |
+| Pneumáticos              |      H       |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;\[4\]&nbsp;VD luta.                       |
+| Glândulas de Veneno      |      B       |           Men/R/1 + Toxina            | Produz um tipo de veneno.                                                                 |
+| Absorção de Radar        |      H       |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                  |
+| Amplificador de Reflexos |      CH      |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIC, +10 em Provas de REF.              |
+| Respirócitos             |      N       |                 Mod/2                 | Células vermelhas artificiais, fornecem 4 horas de ar, +5 em DUR, +1 em LF, +8 em GD.     |
+| Atuadores Inteligentes   |      H       |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                                |
+| Controle de Estresse     |      BM      |                 Mod/2                 | Gerencia níveis de estresse. +10 em Provas de VON vs. estresse, +1 em Limiar de Trauma.   |
+| Aprimoramento Estrutural |      H       |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                       |
+| Membro Telescópico       |      CH      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
+| Filtros de Toxina        |      B       |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.          |
+| Suporte de Arma          |      CH      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
 
 **Surto Adrenal:** Este aprimoramento glandular sobrecarrega sua resposta adrenal às situações que provocam estresse, dor ou emoções fortes (medo, raiva, luxúria, ódio). Quando ativado (mentalmente ou por estresse/emoções), o surto concentrado de norepinefrina acelera a frequência cardíaca, a circulação do sangue, e queima carboidratos. Você recebe +1 em sua parada de Vigor e ignora os modificadores de 1 ferimento. O uso extensivo desse mod sem interrupções pode levar à fadiga adrenal (modificador de debilitação −20 em todas as ações; a critério do MJ).
 
