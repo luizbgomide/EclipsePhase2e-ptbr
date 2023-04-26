@@ -63,9 +63,9 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 | ENXAMES               | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                 |
 |:--------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------- |
 | Enxame Faxineiro      |                 Men/1                 | Limpa, eliminando evidências forenses.                                                    |
-| Enxame Desmantelador  |                Mod/R/2                | Desconstrói, VD 1d6 por turno, consome armadura.                                          |
+| Enxame Desmantelador  |                Mod/R/2                | Desconstrói, VD 1d6 \[4\] por turno, consome armadura.                                  |
 | Enxame Engenheiro     |                 Men/1                 | Contrói/molda o ambiente.                                                                 |
-| Enxame Reparador      |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia.                                      |
+| Enxame Reparador      |                 Mod/2                 | Repara 1d10 \[6\] de dano por hora ou 1 ferimento por dia.                              |
 | Enxame Jardineiro     |                 Men/1                 | Mantém flora, desfolha, mata ervas daninhas, poliniza, etc.                               |
 | Enxame Guardião       |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 6 por turno.                          |
 | Enxame Transformador  |             Igual Objeto              | Nanofabrica um item específico pré-programado.                                            |

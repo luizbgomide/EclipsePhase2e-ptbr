@@ -7,7 +7,7 @@ Meshware se refere a apps complementares que aprimoram as capacidades de um info
 | Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                 |
 | Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                          |
 | Travacópia           |                 Men/1                 | Impede cópia/forque, −30 em Infoseg para copiar.                                                  |
-| Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo mas sem parada de Inspiração e com −3 em INIT. |
+| Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo mas sem parada de Inspiração e com −3 em INIC. |
 | Véu Digital          |                Men/R/1                | Oculta apps, opõe-se a Interface com Programação 80.                                              |
 | Tolerância a Erros   |                 Mod/2                 | VA 5 vs. ataques da mesh.                                                                         |
 | Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                             |

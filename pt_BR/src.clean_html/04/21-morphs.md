@@ -25,7 +25,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Digimorfo](../04/26-infomorphs.md#digimorph)                                                                   | Infomorfo  | 0&nbsp;PM  |
 | [Libélula](../04/25-synthmorphs.md#dragonfly)                                                                   | Sintemorfo | 1&nbsp;PM  |
 | [Exalto](../04/22-common-biomorphs.md#exalt)                                                                    | Biomorfo   | 2&nbsp;PM  |
-| [Cru](../04/22-common-biomorphs.md#flat)                                                                        | Biomorfo   | 0&nbsp;PM  |
+| [Tosco](../04/22-common-biomorphs.md#flat)                                                                      | Biomorfo   | 0&nbsp;PM  |
 | [Flexbot](../04/25-synthmorphs.md#flexbot)                                                                      | Sintemorfo |  Variável  |
 | [Fúria](../04/22-common-biomorphs.md#fury)                                                                      | Biomorfo   | 6&nbsp;PM  |
 | [Futura](../04/22-common-biomorphs.md#futura)                                                                   | Biomorfo   | 4&nbsp;PM  |

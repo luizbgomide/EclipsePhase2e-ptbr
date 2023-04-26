@@ -44,9 +44,9 @@ Os MJs atribuem modificadores conforme for apropriado à situação. Se múltipl
 |:-------------------- |:--------------------:|:-----------:|
 | Muito Fácil          |     Bônus Maior      |     +30     |
 | Fácil                |  Benefício Moderado  |     +20     |
-| Ligeiramente Fácil   |     Bônus Menor      |     +10     |
+| Ligeiramente Fácil   |    Auxílio Menor     |     +10     |
 | Mediano              |                      |    +/−0     |
-| Ligeiramente Difícil |   Obstáculo Menor    |     −10     |
+| Ligeiramente Difícil |   Empecilho Menor    |     −10     |
 | Difícil              | Impedimento Moderado |     −20     |
 | Muito Difícil        |  Desvantagem Maior   |     −30     |
 

@@ -63,17 +63,17 @@ O prazo para modificar um morfo é o mesmo para aquisição de equipamentos: 2 h
 
 ## Fazendo Morfos
 
-Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação de tarefa, cada uma com um prazo significativamente longo, assim como acesso às diagramas/genética do morfo, um nanofabricador adequado e/ou exoútero, e uma instalação médica. Esse prazo não pode ser reduzido com RV de tempo acelerado. Se você não tiver diagramas/genética, ou se desejar projetar um do zero, os prazos serão consideravelmente maiores (determinado pelo MJ, mas facilmente 5–10 vezes mais).
+Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação de tarefa, cada uma com um prazo significativamente longo, assim como acesso às diagramas/genética do morfo, um nanofabricador adequado e/ou exoútero, e uma instalação médica. Esse prazo não pode ser reduzido com RV de tempo acelerado. Visto que grande parte desse processo é fabricação/crescimento automatizado, apenas cerca de 25% do prazo requer sua atenção total (a critério do MJ). Se você não tiver diagramas/genéticas, ou se desejar projetar um do zero, os prazos serão consideravelmente mais longos, com pelo menos 50% deste prazo exigindo total atenção (a critério do MJ, mas facilmente 5–10 vezes mais longo).
 
 <!-- CLEANED blockquote class="table" -->
 
 ### Fazendo um Morfo
 
-| Tipo de Morfo | Perícias                              | Equipamentos Necessários                                      | Prazo            |
-|:------------- |:------------------------------------- |:------------------------------------------------------------- |:---------------- |
-| Sintemorfo    | Aparelhagem: Robótica + Programação   | Fabro Médio                                                   | (PM + 1) semanas |
-| Prod          | Medicina: Biotecnologia + Programação | Fabro Especializado, Oficina de Ferramentas ou Tanque de Cura | (PM + 1) meses   |
-| Biomorfo      | Medicina: Biotecnologia               | Exoútero                                                      | (PM + 6) meses   |
+| Tipo de Morfo | Perícias e Prazos                                                                                              | Equipamentos Necessários                                      |
+|:------------- |:-------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------- |
+| Biomorfo      | Medicina: Biotecnologia (\[MP + 6\] meses)                                                                   | Exoútero                                                      |
+| Prod          | Medicina: Biotecnologia (\[MP + 1\] meses), <!-- CLEANED wbr -->Programação (\[MP + 1\] semanas) | Fabro Especializado, Oficina de Ferramentas ou Tanque de Cura |
+| Sintemorfo    | Aparelhagem: Robótica (\[MP + 1\] semanas), <!-- CLEANED wbr -->Programação (\[MP + 1\] semanas) | Fabro Médio                                                   |
 
 <!-- CLEANED /blockquote -->
 

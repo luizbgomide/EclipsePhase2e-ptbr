@@ -14,7 +14,7 @@ Para poder imprimir alguma coisa em um nanofabricador, você precisa de um diagr
 
 ### Obtendo Diagramas
 
-As diagramas de nanofabricação existem em três formatos: uso único, uso múltiplo e código aberto.
+Os diagramas de nanofabricação existem em quatro formatos: uso único, uso limitado, uso múltiplo e código aberto:
 
 **Diagramas de Uso Único:** A maioria das diagramas de uso único são acessadas através de plataformas de distribuição digital que utilizam gestão de direitos digitais (DRM) para proteger o copyright. Isso significa que você pode acessar o arquivo para imprimi-lo uma vez, mas ele não pode ser copiado ou impresso novamente. Se você precisar de um arquivo para imprimir sem ter acesso à mesh, alguns diagramas de uso único estão disponíveis como arquivos de digitais para download que bloqueiam as tentativas de copiá-los e se apagam depois do uso. As hipercorps e economias capitalistas do sistema interior usam esses métodos para controlar a escassez e manter você dependente.
 

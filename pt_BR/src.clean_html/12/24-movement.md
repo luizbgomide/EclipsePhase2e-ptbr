@@ -136,7 +136,7 @@ Os nadadores usam barbatanas, membros ou jatos d'água para se impulsionarem pel
 
 **\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Essas carcaças usam turbofans ou turbojatos para criar sustentação atmosférica, geralmente com um conjunto de asas. Esses motores podem ser manobrados para apontar e gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) também funcionarão no vácuo se equipados com um suprimento de ar. Sistemas de foguetes que usam reações químicas para ejetar massa de reação para ter empuxo também entram nessa categoria (use Pilotagem: Espacial).
+Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Eles também podem ser direcionados para gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) funcionam no vácuo se forem equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
 
 ### Esteira
 

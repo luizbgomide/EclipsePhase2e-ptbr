@@ -22,10 +22,10 @@ Desbravadores e exploradores dependem muito destes itens.
 
 Essas tecnologias são frequentemente usadas por desbravadores, sucateiros espaciais e equipes da Firewall durante missões.
 
-| FERRAMENTAS DE RECUPERAÇÃO | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                           |
-|:-------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------- |
-| Ferramentas de Desmontagem |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                           |
-| Cargas de Supertermite     |    Mai/R/3<br>(por 5 cargas)    | Explosivo nanometálico. VD 6d10 + 10, aplicado/moldado com Aparelhagem: Demolições. |
+| FERRAMENTAS DE RECUPERAÇÃO | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                    |
+|:-------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------- |
+| Ferramentas de Desmontagem |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                    |
+| Cargas de Supertermite     |    Mai/R/3<br>(por 5 cargas)    | Explosivo nanometálico. VD 6d10 + 10 \[43\], aplicado/moldado com Aparelhagem: Demolições. |
 
 **Ferramentas de Desmontagem:** Esta coleção de ferramentas é útil para operações de recuperação, desmanche de destroços, ou desmontar qualquer coisa, desde uma sala de habitat até um veículo ou sintemorfo. Elas incluem tochas de plasma, cortadores laser, mandíbulas pneumáticas, e ferramentas de materiais inteligentes como chaves de boca e ajustáveis que podem ser adaptadas a uma grande variedade de conexões e encaixes. Juntas, essas ferramentas são de tamanho médio, geralmente carregadas por uma mula-robô.
 
@@ -89,12 +89,12 @@ Em um atmosfera respirável, os trajes de vácuo modernos são vestimentas folga
 
 Os modelos de trajes de vácuo antigos não possuem os tecidos inteligentes e são feitos de materiais mais rígidos e volumosos. Vestir um deles é uma ação de tarefa de Prova de REF com um prazo de 1 minuto (20 turnos de ação). As funções de liberação rápida permitem que eles sejam removidos em 3 turnos de ação.
 
-A menos que seja indicado, assume-se que os personagens possuem modelos mais recentes; os projetos antigos de tecidos simples são tipicamente mantidos como reservas em habitats e naves antigas.
+A menos que esteja indicado, assuma que os personagens têm modelos mais recentes que funcionam da mesma forma que [Vestuário Inteligente](../16/05-common-tech-and-ware.md#everyday-technology); os velhos modelos de tecido comum normalmente são guardados como reserva em habitats e naves antigos.
 
-| TRAJES DE VÁCUO       | Comp/<!-- CLEANED wbr -->PE | Descrição                                                             |
-|:--------------------- |:-------------------------------------:|:--------------------------------------------------------------------- |
-| Traje de Vácuo Leve   |                 Mod/2                 | Como vestuário inteligente, protege do vácuo, 8 horas de ar, VA 5/2.  |
-| Traje de Vácuo Padrão |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6. |
+| TRAJES DE VÁCUO       | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                           |
+|:--------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------- |
+| Traje de Vácuo Leve   |                 Mod/2                 | Como [Vestuário Inteligente](../16/05-common-tech-and-ware.md#everyday-technology), protege contra o vácuo, 8 horas de ar, VA 5/2.  |
+| Traje de Vácuo Padrão |                 Mai/3                 | Como [Vestuário Inteligente](../16/05-common-tech-and-ware.md#everyday-technology), protege contra o vácuo, 48 horas de ar, VA 8/6. |
 
 **Traje de Vácuo Leve:** Os modelos traje de vácuo de tecido inteligente ou os antigos são ideais para ambientes menos severos como Marte, nuvens venusianas, ou exoplanetas com atmosferas moderadas mas irrespiráveis. Os seus recirculadores fornecem 8 horas de ar. Todos os modelos incluem uma lanterna de cabeça, um ecto, e sensores atmosféricos. Eles protegem você de temperaturas entre −75 e 100&nbsp;°C. Estes trajes de vácuo também fornecem um Valor de Armadura de 5/2 e automaticamente selam vazamentos de forma instantânea, a não ser que mais do que 20 pontos de dano tenham sido infligidos de uma vez.
 

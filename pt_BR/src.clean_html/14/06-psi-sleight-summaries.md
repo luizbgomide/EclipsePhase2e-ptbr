@@ -28,7 +28,7 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | [Criatividade Ampliada](../14/06-psi-sleight-summaries.md#enhanced-creativity)     | +10 em Testes de Saber ou Técnicos envolvendo criatividade ou pensar fora da caixa.  |
 | [Memória Ampliada](../14/06-psi-sleight-summaries.md#enhanced-memory)              | Recuperação de memória perfeita.                                                     |
 | [Engenho](../14/06-psi-sleight-summaries.md#grok)                                  | Pode usar Prova de COG para entender como usar objetos/dispositivos estranhos.       |
-| [Consciência Elevada](../14/06-psi-sleight-summaries.md#heightened-awareness)      | Sentir área/ameaças. +10 em Testes de Percepção.                                     |
+| [Consciência Elevada](../14/06-psi-sleight-summaries.md#heightened-awareness)      | Sentir área/ameaças. +10 em Testes de Percepção, nega modificadores de distração.    |
 | [Alto Limiar à Dor](../14/06-psi-sleight-summaries.md#high-pain-threshold)         | Ignorar modificadores de 1 ferimento.                                                |
 | [Centelha Interior](../14/06-psi-sleight-summaries.md#inner-spark)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
 | [Reconhecimento de Padrões](../14/06-psi-sleight-summaries.md#pattern-recognition) | Detectar padrões. +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados.       |
@@ -73,7 +73,7 @@ Você entende intuitivamente como usar um objeto, veículo ou dispositivo estran
 
 ### Consciência Elevada
 
-A sua consciência situacional é aumentada, proporcionando um sentido instintivo sobre uma área e quaisquer ameaças potenciais nas proximidades. +10 em Testes de Percepção.
+A sua consciência situacional é aumentada, proporcionando um sentido instintivo sobre uma área e quaisquer ameaças potenciais nas proximidades. +10 em Testes de Percepção e ignora modificadores de distração.
 
 ### Alto Limiar à Dor
 

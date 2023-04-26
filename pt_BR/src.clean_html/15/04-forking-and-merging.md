@@ -9,7 +9,7 @@ No entanto, o forqueamento cria algumas questões sociais e legais complicadas. 
 Há três classificações de forques: alfa, beta e gama:
 
 - **Forques Alfa:** Um forque alfa é uma cópia exata do ego original.
-- **Forques Beta:** Forques beta são cópias parciais. Eles são intencionalmente limitados para não serem considerados iguais ao originador, ou para não terem todas as suas memórias, por razões legais, sociais e de segurança. Os forques beta têm a maioria das perícias do ego original, embora às vezes reduzidas. Suas memórias também são drasticamente truncadas, geralmente adaptadas à tarefa que eles devem executar. Muitas pessoas mantêm forques beta pré-criados à disposição para serem ativados quando necessário, deletando-os em seguida.
+- **Forques Beta:** Forques beta são cópias parciais. Eles são intencionalmente limitados para não serem considerados iguais ao originador, ou para não terem todas as suas memórias, por razões legais, sociais e de segurança. Os forques beta têm a maioria das perícias do ego original, embora às vezes reduzidas. Suas memórias também são drasticamente truncadas, geralmente adaptadas à tarefa que eles devem executar. Muitas pessoas mantêm forques beta pré-criados à disposição para serem ativados quando necessário, e apagando-os em seguida.
 - **Forques Gama:** Mais comumente chamados de _vapor_, os forques gama são cópias extremamente incompletas, corrompidas ou altamente danificadas. Os vapores não são criados intencionalmente, em vez disso, eles são o resultados de uploads falhados, backups embaralhados, longiprojeções incompletas ou com interferência, ou infomorfos/forques que de alguma forma foram danificados ou ficaram insanos.
 
 ## Forques e Sociedade

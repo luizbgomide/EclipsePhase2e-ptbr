@@ -40,28 +40,28 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td>Anjo da Guarda<td>Mod/2<td>0&nbsp;(1)<td>1<td>16/12<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Rotor
+- **Taxa de Movimento:** Rotor 8/32
 - **Ware:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Parisfera<td>Raro/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/40 Empuxo Vetorial
+- **Taxa de Movimento:** Empuxo Vetorial (Foguete) 8/40
 - **Ware:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Sentinela<td>Raro/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Esteira
+- **Taxa de Movimento:** Esteira 4/12
 - **Ware:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Drone Escudo<td>Men/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Esteira
+- **Taxa de Movimento:** Esteira 4/12
 
 <!-- CLEANED /div --></tr>
 </table>
@@ -83,14 +83,14 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 <tr><td>Exploranauta<td>Mai/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Esteira, 8/40 Empuxo Vetorial
+- **Taxa de Movimento:** Esteira 4/12, Empuxo Vetorial (Jato de Gás) 8/40
 - **Ware:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
-<tr><td>Gelatinibot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
+<tr><td>Amoebot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Movement Rate:** 4/12 Marcha, 8/40 Rolagem
+- **Taxa de Movimento:** Marcha 4/12, Rolagem 8/40
 - **Ware:** Ajuste de Forma, Membros Retráteis
 
 <!-- CLEANED /div --></tr>
@@ -98,7 +98,7 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 
 **Exploranauta:** Estes bots de tamanho pequeno viajam em esteiras inteligentes ou com jatos de empuxo vetorial. Eles estão repletos de sensores e são usados para desbravamento e operações similares de exploração. Um par de braços manipuladores são usados para recolher amostras.
 
-**Gelatinibot:** Estes pequenos bots amorfos são macios, com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.
+**Amoebot:** Estes pequenos bots amorfos são macios com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.
 
 ## Bots Médicos
 
@@ -109,14 +109,14 @@ Estes bots são verdadeiros salva-vidas.
 <tr><td>Medibot<td>Mai/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/40 Empuxo/Rodas
+- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás)/Rodas 8/40
 - **Ware:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
 
 <!-- CLEANED /div --></tr>
 <tr><td>Resgatador<td>Mai/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/40 Rodas, 8/32 Rotor
+- **Taxa de Movimento:** Rodas 8/40, Rotor 8/32
 - **Ware:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
@@ -135,27 +135,27 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td>Bichinho<td>Men/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>MP</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Pulo/Marcha
+- **Taxa de Movimento:** Marcha/Pulo 4/12
 - **Ware:** Almofadas Aderentes, Pele Camaleão
 
 <!-- CLEANED /div --></tr>
 <tr><td>Manipulador<td>Mai/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
 
 <!-- CLEANED /div --></tr>
 <tr><td>Servente<td>Men/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 
 <!-- CLEANED /div --></tr>
 <tr><td>Aracnomão<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Garras, Sistema Magnético
 
 <!-- CLEANED /div --></tr>
@@ -178,35 +178,35 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td>Aeróstato<td>Mod/2<td>0<td>0<td>6/4<td>4<td>20<td>40<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Microleve
+- **Taxa de Movimento:** Microleve 8/32
 - **Ware:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Mosquito<td>Men/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Rotor
+- **Taxa de Movimento:** Rotor 8/32
 - **Ware:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Disco<td>Men/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/40 Iônico
+- **Taxa de Movimento:** Iônico 8/40
 - **Ware:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Pontinho<td>Men/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>MP</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Pulo, 8/32 Asas
+- **Taxa de Movimento:** Asas 8/32, Pulo 4/12
 - **Ware:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 <tr><td>Zéfiro<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Asas
+- **Taxa de Movimento:** Asas 8/32
 - **Ware:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
@@ -231,28 +231,28 @@ Estes bots ajudam a fazer as coisas.
 <tr><td>Automecânico<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/40 Empuxo/Rodas
+- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás)/Rodas 8/40
 - **Ware:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
 
 <!-- CLEANED /div --></tr>
 <tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Submerso
+- **Taxa de Movimento:** Submerso 8/32
 - **Ware:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
 
 <!-- CLEANED /div --></tr>
 <tr><td>Anão<td>Mai/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
 
 <!-- CLEANED /div --></tr>
 <tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha, 8/40 Empuxo Vetorial
+- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 8/40, Marcha 4/20
 - **Ware:** Autocozedor
 
 <!-- CLEANED /div --></tr>

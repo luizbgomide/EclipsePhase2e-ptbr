@@ -54,7 +54,7 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 | ILA de Bot/Veículo |                 Mod/2                 | Aparelhagem: \[área apropriada\] 20 (bot/veículo específico 30), Evasão 30, Infoseg 20, Interface 30, Percepção 40, Pesquisa 20, Pilotagem: \[área apropriada\] 60 (bot/veículo específico 70), Saber: Especificações de \[bot/veículo\] 80, Tiro 30             |
 | ILA de Dispositivo |                 Mod/2                 | Aparelhagem: Eletrônica 20 (dispositivo específico 30), Infoseg 20, Interface 30 (dispositivo específico 40), Percepção 20, Pesquisa 20, Programação 30 (dispositivo específico 40), Saber: Especificações de \[dispositivo\] 80, Saber: Uso de \[dispositivo\] 80 |
 | ILA Kaos           |                Mai/R/3                | Aparelhagem: Eletrônica 40, Infoseg 60, Interface 40, Percepção 30, Pesquisa 30, Programação 40, Saber: Sistemas de Segurança 80, Tiro 40                                                                                                                              |
-| Musa               |                 Mod/2                 | Aparelhagem: Eletrônica 30, Infoseg 30, Interface 60, Medicina: Psicocirurgia 30, Percepção 30, Pesquisa 30, Programação 30, Saber: Contabilidade 60, Saber: Psicologia 60, mais uma outra perícia de Saber com 40.                                                    |
+| Musa               |                 Mod/2                 | Aparelhagem: Eletrônica 30, Infoseg 30, Interface 60, Medicina: Psicocirurgia 30, Percepção 30, Pesquisa 30, Programação 30, Saber: Contabilidade 60, Saber: Psicologia 60, mais uma outra perícia de Saber com 40. Nota: Musas têm INT 15 e 10 em outras aptidões.    |
 | ILA de Segurança   |                 Mod/2                 | Aparelhagem: Eletrônica 30, Infoseg 60, Interface 40, Percepção 30, Pesquisa 20, Programação 30, Saber: Sistemas de Segurança 80, Tiro 30                                                                                                                              |
 | ILA de Sentinela   |                Mai/R/3                | Aparelhagem: \[área apropriada\] 30, Cinésica 40, Evasão 30, Interface 30, Percepção 40, Pilotagem: \[área apropriada\] 40, Provocação 30, Saber: Especificações de \[bot/veículo\] 80, Saber: Operações de Segurança 80, Tiro 60                                |
 
@@ -74,12 +74,12 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 
 Os aflitivos são apps de neurorretroalimentação danosa usados contra infomorfos e cibercérebros.
 
-| AFLITIVOS    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
-|:------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| Pandemônio   |                Mod/R/2                | Entradas aterrorizantes, VE 1d10 +1d6 por sucesso maior.                                           |
-| Cauterização |                Mod/R/2                | Neurorretroalimentação destrutiva, VD 1d10 + 5, +1d6 por sucesso maior.                            |
-| Pesadelo     |                Mod/R/2                | Desencadeia ansiedade/pânico, Prova de VON ou VE 1d6 e resposta de estresse agudo por 1d6 minutos. |
-| Espasmo      |                Mod/R/2                | Dor excruciante, Prova de VON ou incapacitado por 1 turno de ação, atordoado por 3 minutos.        |
+| AFLITIVOS    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                  |
+|:------------ |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------- |
+| Pandemônio   |                Mod/R/2                | Entradas aterrorizantes, VE 1d10 \[6\], +1d6 por sucesso maior.                                          |
+| Cauterização |                Mod/R/2                | Neurorretroalimentação destrutiva, VD 1d10 + 5 \[11\], +1d6 por sucesso maior.                           |
+| Pesadelo     |                Mod/R/2                | Desencadeia ansiedade/pânico, Prova de VON ou VE 1d6 \[4\] e resposta de estresse agudo por 1d6 minutos. |
+| Espasmo      |                Mod/R/2                | Dor excruciante, Prova de VON ou incapacitado por 1 turno de ação, atordoado por 3 minutos.                |
 
 **Pandemônio:** O pandemônio ataca o ego com entradas mentais traumáticas, infligindo estresse mental. As vítimas estão sobrecarregadas com faixas emocionais e sensoriais horríveis, monstruosas e enlouquecedoras. Cada ataque inflige VE 1d10, +1d6 por sucesso maior.
 

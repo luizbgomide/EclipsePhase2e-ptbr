@@ -5,10 +5,10 @@ Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 | EQUIPAMENTOS DE ESPIONAGEM             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                             |
 |:-------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------- |
 | Escaneador de Impressão Cerebral       |                 Men/1                 | Escaneia uma impressão cerebral em 5 minutos.                                                         |
-| Tiras Fritadoras                       |                 Mod/2                 | Campo de PEM para passagem, VD 3d10 em nanoenxames/microenxames.                                      |
+| Tiras Fritadoras                       |                 Mod/2                 | Campo de PEM para passagem, VD 3d10 \[17\] em nanoenxames/microenxames.                             |
 | Manto Camaleão                         |                 Mod/2                 | Camuflagem, +10 em Infiltração, +30 se estiver parado.                                                |
 | Ferramenta de Operações de Infiltração |                Mai/R/3                | Burla fechaduras, abre/fecha buracos, Aparelhagem: Eletrônica 60 vs. fechaduras eletrônicas e outros. |
-| Braçadeira                             |                 Men/1                 | Algemas eletrônicas, operação remota, ataque de choque VD 1d6.                                        |
+| Braçadeira                             |                 Men/1                 | Algemas eletrônicas, operação remota, ataque de choque VD 1d6 \[4\].                                |
 | Ofuscante                              |                 Mod/2                 | Cega câmeras a até 200&nbsp;m, Prova de REF ou −30 em Percepção para sintemorfos, bots, veículos.     |
 | Desativador                            |                Mod/R/2                | Desativa morfos com cibercérebro quando plugado no soquete de acesso.                                 |
 | Olho de Fibra                          |                 Men/1                 | Fibra óptica flexível com câmera e visualizador.                                                      |

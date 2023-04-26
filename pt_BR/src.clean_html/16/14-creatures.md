@@ -10,35 +10,35 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>OGMs<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>OGMs<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Dino-Mascote<td>Men/1<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha ou 8/32 Asas
+- **Taxa de Movimento:** Marcha 4/12 ou Asas 8/32
 - **Ware:** Armadura Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 40, Evasão 30, Infiltração 30, Luta 40, Percepção 30, Provocação 30 (Intimidação 40)
-- **Notas:** Mordida/Chifre/Cauda VD 1d6, Tamanho Pequeno
+- **Notas:** Mordida/Chifre/Cauda VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Casaco de Pele<td>Men/1<td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1<td>0<td>—<td>3/15/23<td>—</tr>
 
-<tr><td>Enxame Polinizador<td>Men/1<td>1&nbsp;<sup>3</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>7<td>1<td>—<td>—/20/75<td>6/30/60</tr>
+<tr><td>Enxame Polinizador<td>Men/1<td>1&nbsp;<sup>3</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>7<td>1<td>—<td>—/25/50<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Asas
+- **Taxa de Movimento:** Asas 8/32
 - **Ware:** Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 50, Luta 40, Percepção 30
-- **Notas:** Picada de enxame VD 1d10 (ignora armadura não selada)
+- **Notas:** Picada de enxame VD 1d10 \[6\] (ignora armadura não selada)
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Barata Espacial<td>Men/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5<td>0<td>—<td>1/5/8<td>2/10/20</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes
 - **Perícias:** Atletismo 30, Evasão 30, Infiltração 50, Percepção 20, Queda Livre 30
 - **Notas:** Tamanho Pequeno
@@ -48,10 +48,10 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td>Lulinha<td>Men/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Empuxo Vetorial
+- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 4/20
 - **Ware:** Olfato Aprimorado
 - **Perícias:** Atletismo 30, Evasão 40, Infiltração 30, Infiltração 30, Percepção 20, Queda Livre 30
-- **Notes:** Mordida VD 1d6, Tamanho Pequeno
+- **Notes:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
@@ -73,13 +73,13 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>ANIMAIS INTELIGENTES<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>ANIMAIS INTELIGENTES<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Cão de Guarda<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>10<td>1<td>4/5<td>6/30/45<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Ampliação Muscular, Amplificador de Reflexos, Armadura Dérmica, Audição Aprimorada, Cibercortéx, Garras, Insertos da Mesh, Luva de Fantoche, Olfato Aprimorado, Visão Aprimorada
 - **Perícias:** Atletismo 30, Evasão 40, Luta 50, Percepção 40, Provocação 30 (Intimidação 40)
 
@@ -88,7 +88,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td>Babuíno Policial<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>6<td>2<td>2/3<td>6/30/45<td>2/10/20</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Biotrama, Filtros de Toxina, Novacardium, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Perícias:** Atletismo 50, Evasão 40, Luta 50, Percepção 40, Provocação 40 (Intimidação 50)
 - **Traços:** Comportamento Acentuado: Obediência (Nível 2)
@@ -98,46 +98,46 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td>Farejador Ferroso<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Audição Aprimorada, Biotrama, Filtros de Toxina, Olfato Aprimorado, Respiração Aprimorada, Tolerância ao Frio
-- **Skills:** Atletismo 30, Evasão 40, Luta 40, Percepção 50, Provocação 30 (Intimidação 40)
+- **Perícias:** Atletismo 30, Evasão 40, Luta 40, Percepção 50, Provocação 30 (Intimidação 40)
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Gavião Inteligente<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>0<td>—<td>3/15/23<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Asas
+- **Taxa de Movimento:** Asas 8/32
 - **Ware:** Audição Aprimorada, Garras, Visão Aprimorada
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 30, Infiltração 40, Percepção 50
-- **Notas:** Bico/Garras VD 1d6, Tamanho Pequeno
+- **Notas:** Bico/Garras VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Macaco Inteligente<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>6<td>0<td>—<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Cauda Preênsil, Pés Preênseis
 - **Perícias:** Atletismo 60, Evasão 40, Infiltração 40, Luta 30, Percepção 40, Perícia Exótica: Prestidigitação 50
-- **Notas:** Mordida VD 1d6, Tamanho Pequeno
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Guaxinim Inteligente<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Audição Aprimorada, Olfato Aprimorado
 - **Perícias:** Atletismo 40, Evasão 40, Infiltração 50, Luta 30, Percepção 40
-- **Notas:** Mordida VD 1d6, Tamanho Pequeno
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Rato Inteligente<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>6<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/12 Marcha
+- **Taxa de Movimento:** Marcha 4/12
 - **Ware:** Almofadas Aderentes, Cauda Preênsil, Olfato Aprimorado
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Percepção 40
 - **Notas:** Tamanho Muito Pequeno
@@ -147,7 +147,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td>Gato de Enxame<td>Men/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>4/5<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Almofadas Aderentes, Armadura Dérmica, Biomods, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
@@ -178,26 +178,26 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>XENOFAUNA<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIT<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
+<tr><th>XENOFAUNA<th>Comp/<!-- CLEANED wbr -->PE<th>COG<th>INT<th>REF<th>SAG<th>SOM<th>VON<th>INIC<th>PA<th>VA<th>LF/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->GD<th>LT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->GI</tr>
 </thead>
 
 <tr><td>Duende Palhaço<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>7<td>1<td>—<td>4/20/30<td>2/10/20</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 8/32 Asas, 4/12 Marcha
+- **Taxa de Movimento:** Asas 8/32, Marcha 4/12
 - **Ware:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 30, Percepção 40
-- **Notas:** Mordida VD 1d6, Tamanho Pequeno, Imune ao veneno da anêmona terreste
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno, Imune ao veneno da anêmona terreste
 
 <!-- CLEANED /div --></tr>
 
 <tr><td>Hexassalamandra<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** 4/20 Marcha
+- **Taxa de Movimento:** Marcha 4/20
 - **Ware:** Biotrama, Guelras, Pele Camaleão, Proteção Criogênica
 - **Perícias:** Atletismo 50, Evasão 30, Infiltração 30, Luta 30, Percepção 60
-- **Notas:** Mordida DV 1d10
+- **Notas:** Mordida DV 1d10 \[6\]
 
 <!-- CLEANED /div --></tr>
 
