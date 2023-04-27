@@ -445,7 +445,7 @@ O vício é desencadeado da mesma forma que [transtornos](../12/20-disorders.md)
 
 Cada vício assume formas diferentes, dependendo do personagem e da fonte. O vício de longo prazo pode resultar em danos físicos ou mentais (modificadores de debilitação ou reduções em Provas de SOM ou VON) e pode causar tolerância, exigindo dosagens mais altas. A critério do MJ, você pode precisar fazer Provas de VON para evitar elevar o nível do vício. A abstinência também pode infligir efeitos adicionais, como oscilações de humor, comportamento compulsivo ou mal-estar físico.
 
-Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura exige uma Prova de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Provas de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
+Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura requer uma Prova de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Provas de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
 
 Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanecem com seu ego/forque; vícios físicos permanecem com o morfo. Este traço pode ser escolhido mais de uma vez para vícios diferentes. A versão de morfo desse traço só se aplica a biomorfos.
 
@@ -505,7 +505,7 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 1:** Você é incentivado a seguir o comportamento e o associa com sentimentos positivos; emoções são ampliadas.
 
-**Nível 2:** Você é motivado a fazer o comportamento específico; emoções são exageradas. Conter-se exige uma Prova de VON.
+**Nível 2:** Você é motivado a fazer o comportamento específico; emoções são exageradas. Conter-se requer uma Prova de VON.
 
 **Nível 3:** O comportamento é forçado; emoções são compulsórias e contínuas. Se a conduta ou a emoção forem reprimidas, sofra VE 1d6.
 
@@ -695,7 +695,7 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 1:** Você é compelido a evitar o comportamento e o associa com sentimentos negativos; emoções são limitadas.
 
-**Nível 2:** Você está impedido de fazer o comportamento especificado; emoções são suprimidas. Fazê-lo exige uma Prova de VON.
+**Nível 2:** Você está impedido de fazer o comportamento especificado; emoções são suprimidas. Fazê-lo requer uma Prova de VON.
 
 **Nível 3:** Você é incapaz de tentar o comportamento; emoções são erradicadas. Se forçado a desempenhar a conduta ou a experimentar a emoção, sofra VE 1d6.
 
