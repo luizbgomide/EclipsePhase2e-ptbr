@@ -16,7 +16,7 @@ Você também pode gastar uma ação complexa inteira para fixar sua pontarira e
 
 ### Munição e Recarregamento
 
-Cada arma lista uma capacidade de munição que indica quantos tiros a arma contém. Quando essa munição se esgota, um novo suprimento deve ser carregado. Mantenha o registro dos tiros que você disparar. O recarregamento exige uma ação complexa, quer você esteja encaixando um novo pente de balas ou uma bateria cheia para um laser. As armas listadas com uma Munição de x + 1 indicam que você pode carregar uma bala extra na câmara.
+Cada arma lista uma capacidade de munição que indica quantos tiros a arma contém. Quando essa munição se esgota, um novo suprimento deve ser carregado. Mantenha o registro dos tiros que você disparar. O recarregamento requer uma ação complexa, quer você esteja encaixando um novo pente de balas ou uma bateria cheia para um laser. As armas listadas com uma Munição de x + 1 indicam que você pode carregar uma bala extra na câmara.
 
 Desconsiderando o recarregamento, assume-se que você carrega munição padrão ou baterias suficientes e não vai ficar sem. No entanto, você deve manter um registro de munição inteligente ou especializada, mísseis buscadores e munições maiores. Da mesma forma, em locais remotos ou situações onde você está isolado de recursos, o MJ pode fazer você registrar a munição que você usar.
 
