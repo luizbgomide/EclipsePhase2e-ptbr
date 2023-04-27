@@ -6,7 +6,7 @@ A vigilância é um dos usos primários da mesh. Saber como fazer suas coisas se
 
 Embora muitas vezes seja mais sensato agir como se você estivesse sob vigilância o tempo todo, às vezes você pode querer saber onde estão as câmeras. Muitos sensores transmitem ativamente a sua presença, e mesmo que não o façam, sua localização pode ser triangulada através de suas emissões de rádio. Se estiverem em modo camuflado, eles podem ser encontrados com um teste de Interface com −30.
 
-Encontrar sensores exige um Teste de Percepção. Dado seus tamanhos, de pequenos a minúsculos, aplique um modificador entre −10 e −30, conforme for apropriado. Se procurar em uma área com vários sensores, role uma vez e não aplique modificadores; use sucessos maiores para verificar se você encontra os menores. Nanoenxames não podem ser detectados, exceto com um [nanodetector](../16/19-nanotech.md).
+Encontrar sensores requer um Teste de Percepção. Dado seus tamanhos, de pequenos a minúsculos, aplique um modificador entre −10 e −30, conforme for apropriado. Se procurar em uma área com vários sensores, role uma vez e não aplique modificadores; use sucessos maiores para verificar se você encontra os menores. Nanoenxames não podem ser detectados, exceto com um [nanodetector](../16/19-nanotech.md).
 
 Certos equipamentos e implantes também podem ser usados para detectar sensores, incluindo [ware de sentido elétrico](../16/07-senses-and-sensors.md), [enxame espião](../16/20-nanoswarms-and-microswarms.md#swarms), e [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
 
