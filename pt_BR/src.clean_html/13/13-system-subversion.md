@@ -56,19 +56,19 @@ Para instalar uma brecha, você deve ter acesso ao sistema, fazer uma ação com
 
 ## Instalar Restrição
 
-Para impedir contramedidas, você pode ativar um processo que vai preventivamente restringir um app, comando ou ação específicos neste sistema. Por exemplo, você poderia instalar uma restrição para evitar que um desligamento seja iniciado, impedir que um app seja carregado ou evitar que uma função do dispositivo seja ativada. Criar uma restrição exige uma ação complexa e um Teste de Hackeamento; a ação específica que ela restringe deve ser especificada. Se bem-sucedido, qualquer tentativa de conduzir essa ação automaticamente falha. Para desfazer uma restrição, primeiro ela deve ser localizada (exigindo um Teste de Pesquisa) e então excluída (uma ação complexa). A reinicialização do sistema também remove todas as restrições.
+Para impedir contramedidas, você pode ativar um processo que vai preventivamente restringir um app, comando ou ação específicos neste sistema. Por exemplo, você poderia instalar uma restrição para evitar que um desligamento seja iniciado, impedir que um app seja carregado ou evitar que uma função do dispositivo seja ativada. Criar uma restrição requer uma ação complexa e um Teste de Hackeamento; a ação específica que ela restringe deve ser especificada. Se bem-sucedido, qualquer tentativa de conduzir essa ação automaticamente falha. Para desfazer uma restrição, primeiro ela deve ser localizada (exigindo um Teste de Pesquisa) e então excluída (uma ação complexa). A reinicialização do sistema também remove todas as restrições.
 
 As restrições não são onipotentes; os MJs devem usar seu bom senso para definir suas limitações e capacidades.
 
 ## Bloquear Sinais
 
-Você pode transmitir sinais de rádio que interferem deliberadamente com outros sinais de rádio para interromper as comunicações. Você pode escolher bloquear seletivamente um ou mais dispositivos específicos, ou bloquear universalmente todos os sinais de rádio. O bloqueio exige uma ação complexa e um Teste de Interface para ser iniciado. Se bem-sucedido, os dispositivos afetados dentro do alcance têm suas comunicações de rádio interrompidas — eles são cortados da mesh e não podem usar comunicação sem fio até que o bloqueio termine ou eles se movam para fora do alcance. Os dispositivos cabeados não são afetados.
+Você pode transmitir sinais de rádio que interferem deliberadamente com outros sinais de rádio para interromper as comunicações. Você pode escolher bloquear seletivamente um ou mais dispositivos específicos, ou bloquear universalmente todos os sinais de rádio. O bloqueio requer uma ação complexa e um Teste de Interface para ser iniciado. Se bem-sucedido, os dispositivos afetados dentro do alcance têm suas comunicações de rádio interrompidas — eles são cortados da mesh e não podem usar comunicação sem fio até que o bloqueio termine ou eles se movam para fora do alcance. Os dispositivos cabeados não são afetados.
 
 O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](../13/06-mesh-actions.md#security-actions)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
 
 ## Repetir Fluxo de Sensor
 
-Um método comum de compromenter os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo exige uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
+Um método comum de compromenter os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo requer uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
 
 ## Modificar TacNet
 
