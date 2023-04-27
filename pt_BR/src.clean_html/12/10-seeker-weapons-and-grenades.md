@@ -76,7 +76,7 @@ Estas regras se aplicam a granadas, mísseis buscadores e armas similares.
 
 ### Ajustando o Raio de Explosão
 
-Quando estiver engajado em operações ofensivas, o raio de explosão das granadas e buscadores pode ser diminuído, para que os atacantes não sejam pegos na área de efeito. Para armas de área de efeito uniforme, apenas declare um raio de explosão menor que o listado. Para áreas de efeito centrado, aumente a redução de VD por metro, até o máximo de −20/metro. Esses ajustes exigem uma ação rápida e podem ser feitos remotamente.
+Quando estiver engajado em operações ofensivas, o raio de explosão das granadas e buscadores pode ser diminuído, para que os atacantes não sejam pegos na área de efeito. Para armas de área de efeito uniforme, apenas declare um raio de explosão menor que o listado. Para áreas de efeito centrado, aumente a redução de VD por metro, até o máximo de −20/metro. Esses ajustes requererem uma ação rápida e podem ser feitos remotamente.
 
 ### Saltando em Granadas
 
