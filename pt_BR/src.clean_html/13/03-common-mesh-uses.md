@@ -90,7 +90,7 @@ Se você for hackeado, suas contas das redes sociais podem estar em risco. Seu p
 
 As tags entópticas são uma forma para as pessoas "marcarem" uma pessoa, lugar ou objeto físico com dados virtuais. Essas e-tags são armazenadas em redes locais ao item marcado e se movem com o item quando ele muda de local. As e-tags são visíveis em RA e podem conter praticamente qualquer tipo de dado, embora anotações curtas e imagens sejam os mais comuns. Frequentemente, as e-tags estão vinculadas a redes sociais específicas, ou círculos dentro dessas redes, para que as pessoas possam deixar observações, avaliações, recordações, mídias e outras coisas similares para amigos e colegas.
 
-Encontrar tags escondidos em uma área exige um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](../13/05-authentication-and-encryption.md#encryption).
+Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](../13/05-authentication-and-encryption.md#encryption).
 
 ## Realidade Virtual (RV)
 

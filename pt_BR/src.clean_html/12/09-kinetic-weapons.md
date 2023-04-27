@@ -33,7 +33,7 @@ Armas de fogo químicas modernas usam munições inteligentes sem estojo que sã
 
 **Fuzil de Precisão:** Fuzis de precisão são otimizados para alcance, precisão, penetração e poder de parada.
 
-**Pistola Polygun:** As polyguns são armas modulares que mudam de formato, podendo alternar entre as formas de pistola de bolso, média, pesada e pistola-metralhadora. Cada forma exige munição diferente. Trocar a forma leva 3 turnos de ação.
+**Pistola Polygun:** As polyguns são armas modulares que mudam de formato, podendo alternar entre as formas de pistola de bolso, média, pesada e pistola-metralhadora. Cada forma requer munição separada. Trocar a forma leva 3 turnos de ação.
 
 **Fuzil Polygun:** Essa carabina funciona como a pistola polygun, exceto que ela pode alternar entre SM, fuzil de assalto e fuzil de precisão conforme for necessário.
 

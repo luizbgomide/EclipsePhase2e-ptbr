@@ -4,7 +4,7 @@ As [regras de Taxa de Movimento](../12/24-movement.md#movement-rate) se aplicam 
 
 ## Controle
 
-Manter o controle ao mover-se em velocidade de veículo exige uma ação rápida a cada turno de ação. Você pode escolher não usar essa ação e ainda manter a velocidade ou o embalo, mas você não pode fazer Testes de Evasão nesse turno e sofre um modificador −30 em qualquer Teste de Atletismo, Queda Livre ou Pilotagem que forem feitos nesse turno.
+Manter o controle ao mover-se em velocidade de veículo requer uma ação rápida a cada turno de ação. Você pode escolher não usar essa ação e ainda manter a velocidade ou o embalo, mas você não pode fazer Testes de Evasão nesse turno e sofre um modificador −30 em qualquer Teste de Atletismo, Queda Livre ou Pilotagem que forem feitos nesse turno.
 
 ## Perseguições
 

@@ -26,7 +26,7 @@ O movimento total é semelhantes a correr ou se mover com esforço e velocidade.
 
 **\[Complexa\]**
 
-Uma disparada é dar o máximo para se mover o mais longe possível. Ela exige uma ação complexa e uma rolagem de Atletismo, Queda Livre ou Pilotagem, conforme o caso. Se tiver sucesso, aumente sua taxa de movimento total pelo seu movimento base. Por exemplo, se a Taxa de Movimento do seu morfo é 4/20, sua disparada é de 24 metros. Aumente isso por um movimento base adicional por cada sucesso maior. Se você falhar, você gasta uma ação complexa e usa apenas um movimento total. A disparada aplica o mesmo modificador −20 como o movimento total.
+Uma disparada é dar o máximo para se mover o mais longe possível. Ela requer uma ação complexa e uma rolagem de Atletismo, Queda Livre ou Pilotagem, conforme o caso. Se tiver sucesso, aumente sua taxa de movimento total pelo seu movimento base. Por exemplo, se a Taxa de Movimento do seu morfo é 4/20, sua disparada é de 24 metros. Aumente isso por um movimento base adicional por cada sucesso maior. Se você falhar, você gasta uma ação complexa e usa apenas um movimento total. A disparada aplica o mesmo modificador −20 como o movimento total.
 
 ### Salto
 
