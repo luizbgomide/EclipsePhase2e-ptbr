@@ -2,9 +2,9 @@
 
 Sua ações online são bastante influenciadas pelo sistema específico que você está acessando. A lista a seguir não é completa, mas deve dar a você e ao seu MJ uma base para lidar com tarefas online.
 
-Tenha em mente que suas ações são limitadas por seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) atuais. Se você deseja fazer algo que seus privilégios não permitem — acessar um arquivo em um diretório restrito, editar um log, manipular um dispositivo de segurança — então você precisa hackear o sistema. Ações que especificamente exigem hackeamento são detalhadas em [Hackeamento](../13/11-hacking.md) e [Subversão](../13/13-system-subversion.md).
+Tenha em mente que suas ações são limitadas por seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) atuais. Se você deseja fazer algo que seus privilégios não permitem — acessar um arquivo em um diretório restrito, editar um log, manipular um dispositivo de segurança — então você precisa hackear o sistema. Ações que exigem especificamente hackeamento são detalhadas em [Hackeamento](../13/11-hacking.md) e [Subversão](../13/13-system-subversion.md).
 
-A menos que indicado de outra forma, essas ações usam uma ação complexa, mas não exigem um teste de perícia, assumindo que você tenha os privilégios de acesso.
+A menos que indicado de outra forma, essas ações usam uma ação complexa, mas não requerem um teste de perícia, assumindo que você tenha os privilégios de acesso.
 
 ## Ações Universais
 
