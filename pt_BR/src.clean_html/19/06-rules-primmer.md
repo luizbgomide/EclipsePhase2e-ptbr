@@ -225,7 +225,7 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 **Testes de Hackeamento são testes opostos, sua perícia Infoseg vs. o Firewall do alvo.**
 
 - Quando for hackear um alvo, há dois métodos que você pode utilizar:
-  - **Ataques de Força Bruta** são rápidos e barulhentos. Eles exigem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema, mas também _status descoberto_ (o sistema está ciente da sua invasão).
+  - **Ataques de Força Bruta** são rápidos e barulhentos. Eles requerem uma ação complexa e impõe um modificador −30 aos seus Testes de Hackeamento. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema, mas também _status descoberto_ (o sistema está ciente da sua invasão).
   - **Invasões Sutis** são discretas, mas levam tempo. São ações de tarefa com prazo de 1 hora. Se você tiver sucesso, você tem _privilégios de usuário_ no sistema e _status infiltrado_ (o sistema está alheio à sua presença).
 - Cada sucesso maior no Teste de Hackeamento aumenta seus privilégios em um passo (de usuário para segurança para administrador).
 - Um sucesso crítico no Teste de Hackeamento aumenta o seu status um passo (de descoberto para infiltrado para oculto).
