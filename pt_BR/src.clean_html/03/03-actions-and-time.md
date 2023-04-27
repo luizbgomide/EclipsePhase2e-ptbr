@@ -44,9 +44,9 @@ Se falhar em uma ação de tarefa, você gasta 25% do prazo, +25% por falha maio
 
 ## Aumentando o Tempo
 
-Você pode usar mais tempo em um teste, ganhando um bônus pelo trabalho metódico e cuidadoso. Para cada minuto que você usar para completar uma ação de tarefa que normalmente exige apenas uma ação rápida ou complexa, aplique um modificador +10, até um máximo de +60. A critério do MJ, você pode ter sucesso automaticamente quando o número alvo exceder 100.
+Você pode usar mais tempo em um teste, ganhando um bônus pelo trabalho metódico e cuidadoso. Para cada minuto que você usar para completar uma ação de tarefa que normalmente requer apenas uma ação rápida ou complexa, aplique um modificador +10, até um máximo de +60. A critério do MJ, você pode ter sucesso automaticamente quando o número alvo exceder 100.
 
-Para testes de ação de tarefa que já exigem tempo para ser concluído, o prazo deve ser aumentado em 25% para cada +10 de bônus.
+Para testes de ação de tarefa que já exigem tempo para serem concluídos, o prazo deve ser aumentado em 25% para cada +10 de bônus.
 
 ## Apressando o Trabalho
 
