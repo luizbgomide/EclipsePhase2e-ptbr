@@ -75,7 +75,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 
 ## Ações de Hackeamento
 
-Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalhada em [Subversão de Sistema](../13/13-system-subversion.md).
+Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detalhada em [Subversão de Sistema](../13/13-system-subversion.md).
 
 <!-- CLEANED div class="stat-list" -->
 
