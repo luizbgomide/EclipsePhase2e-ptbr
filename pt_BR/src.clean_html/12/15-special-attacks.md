@@ -93,7 +93,7 @@ Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapa
 
 Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
 
-Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano exige um ataque de luta normal.
+Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano requer um ataque de luta normal.
 
 ## Armas de Duas Mãos
 
@@ -117,4 +117,4 @@ Quando se defender contra ataques de luta com múltiplas armas/membros, você re
 
 Você pode empunhar uma pistola em cada mão em combate de distância, ou armas maiores se você tiver mais membros (por exemplo, um octomorfo com oito membros poderia segurar 4 fuzis de assalto). Estas armas podem ser disparadas todas de uma vez contra o mesmo alvo, usando uma única ação complexa. Trate cada arma como um ataque separado, com um modificador de ataque múltiplo −20 cumulativo para cada ataque depois do primeiro (ex.: nenhum modificador no primeiro ataque, −20 no segundo, −40 no terceiro, etc.).
 
-Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque exige uma ação complexa separada.
+Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque requer uma ação complexa separada.
