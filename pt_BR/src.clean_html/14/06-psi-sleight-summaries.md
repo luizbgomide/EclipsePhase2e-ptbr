@@ -217,7 +217,7 @@ Você bloqueia os receptores de dor do alvo. Por VON ÷ 5 minutos, o alvo pode i
 
 **Ação:** Complexa • **Duração:** Turnos de Ação • **Mod de Infecção:** 4
 
-Você curto-circuita e desativa temporariamente um dos córtex sensoriais do alvo (sua escolha). Por VON ÷ 5 turnos de ação, o alvo perde esse tipo de entrada sensorial. Os sentidos que podem ser negados incluem visão, audição, tato, olfato, paladar, fome, equilíbrio, direção, propriocepção, reconhecimento facial, e sentidos ampliados como sentido elétrico e sentido radiológico. Qualquer ação que dependa do sentido prejudicado exige um teste com modificador −30 no mínimo.
+Você curto-circuita e desativa temporariamente um dos córtex sensoriais do alvo (sua escolha). Por VON ÷ 5 turnos de ação, o alvo perde esse tipo de entrada sensorial. Os sentidos que podem ser negados incluem visão, audição, tato, olfato, paladar, fome, equilíbrio, direção, propriocepção, reconhecimento facial, e sentidos ampliados como sentido elétrico e sentido radiológico. Qualquer ação que dependa do sentido prejudicado requer um teste com modificador −30 no mínimo.
 
 ### Bloqueio da Perícia
 
