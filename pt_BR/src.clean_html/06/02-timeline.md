@@ -103,7 +103,7 @@
 - A Firewall conquista sua primeira vitória pós-Queda ao derrotar o Culto do Destruidor, um grupo que tentava espalhar a influência exsurgente na Lua.
 - O sistema SAPIENT ID é estabelecido e endossado pela ALL e pelo CP, mas falha em conseguir uma popularidade generalizada.
 - Um revolta de 3 dias ocorre após uma batida policial no clube Jungle Gym em Marte, levando à formação do movimento mercurial.
-- As forças de segurança Go-nin tomam o portão de pandora em Éris dos anarquistas e marginais que o descobriram.
+- As forças de segurança Go-nin tomam o portão de pandora em Éris dos anarquistas e eremitas que o descobriram.
 - Expedições são enviadas aos mundos extrassolares através dos portões de pandora. Muitas colônias são estabelecidas em exoplanetas. Restos de algumas civilizações alienígenas são descobertos.
 - O primeiro contato com os alienígenas conhecidos como Factores abala o sistema. Afirmando agir como embaixadores de outras civilizações alienígenas, eles fornecem pouca informação sobre a vida fora do Sistema Solar e alertam os transumanos para se afastarem de IAs seminais e portões de pandora.
 - Uma tentativa de criar uma geração de crianças usando clones crescidos aceleradamente e RV de tempo contraído falha miseravelmente quando a maioria morre ou fica insana. Chamada de Geração Perdida, os sobreviventes são vistos com repugnância e pena.
