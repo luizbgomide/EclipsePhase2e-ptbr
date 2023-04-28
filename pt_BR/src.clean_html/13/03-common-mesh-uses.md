@@ -32,7 +32,7 @@ A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro imp
 
 Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
-Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de autonomistas e marginais.
+Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de eremitas e autonomistas.
 
 ## Experiência Projetada (XP)
 

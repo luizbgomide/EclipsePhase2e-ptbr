@@ -32,7 +32,7 @@ As condições locais podem afetar esse Teste de Disponibilidade. Um banco de co
 
 Você pode gastar favores de rep para aumentar a Disponibilidade de um morfo. Um favor menor aplica um modificador +10, um moderado +20 e um maior +30. O nível de rep em questão deve ser aplicável à situação, e você deve ter sucesso em um Teste de Rep.
 
-O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat marginal na borda do Sistema Solar pode ter apenas estojos e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrosos. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
+O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat eremita na borda do Sistema Solar pode ter apenas estojos e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrosos. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
 
 Se você adquirir ware com Pontos de Morfo ou Pontos de Equipamento ao mesmo tempo que adquire um morfo, o ware já vem instalado no morfo.
 

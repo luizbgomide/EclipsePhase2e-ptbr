@@ -154,7 +154,7 @@ Os sintes são ainda mais humanoides que os estojos e de melhor qualidade. Eles 
 
 ### Savant
 
-Desenvolvidos por hackers de hardware marginais, os savants possuem aprimoramentos de estado neural que os tornam atrativos para engenheiros, cientistas e intelectuais.
+Desenvolvidos por hackers de hardware eremitas, os savants possuem aprimoramentos de estado neural que os tornam atrativos para engenheiros, cientistas e intelectuais.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 

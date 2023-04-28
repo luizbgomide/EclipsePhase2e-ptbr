@@ -98,7 +98,7 @@ Assume-se que você esteja familiarizado com os conhecimentos básicos de cada u
 
 ## Perícias Complementares
 
-Em certos casos, perícias de Saber pode auxiliar testes de perícias Ativas com um modificador de bônus de perícia complementar. Isso só deve se aplicar nas situações em que a perícia de Saber fornece informações que normalmente não são cobertas pelas perícia Ativa. Por exemplo, Saber: Cultos Religiosos poderia ser aplicada como perícia complementar quando usar Persuasão em um líder religioso marginal, mas Saber: Engenharia não é complementar em um Teste de Aparelhagem: Industrial para consertar parte de um habitat, porque a perícia Aparelhagem já engloba esse conhecimento de engenharia.
+Em certos casos, perícias de Saber pode auxiliar testes de perícias Ativas com um modificador de bônus de perícia complementar. Isso só deve se aplicar nas situações em que a perícia de Saber fornece informações que normalmente não são cobertas pelas perícia Ativa. Por exemplo, Saber: Cultos Religiosos poderia ser aplicada como perícia complementar quando usar Persuasão em grupo eremita religioso, mas Saber: Engenharia não é complementar em um Teste de Aparelhagem: Industrial para consertar parte de um habitat, porque a perícia Aparelhagem já engloba esse conhecimento de engenharia.
 
 O bônus de perícia complementar é baseado em sua graduação, conforme anotado na tabela de Bônus de Perícia Complementar.
 

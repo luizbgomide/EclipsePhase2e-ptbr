@@ -30,7 +30,7 @@ Outros habitats por todo o sistema exterior operam como comunas anarquistas, est
 
 ## A Periferia
 
-A periferia engloba todas a áreas menos viajadas dos Sistema Solar, desde as ocasionais famílias em asteroides e estações isoladas do sistema interior até o Cinturão de Kuiper e as órbitas excêntricas de vários objetos do sistema exterior. Estes são os lares dos marginais, ultimistas e facções extremas demais até mesmo para a Aliança Autonomista. Aqui tanto as hipercorps quanto os cartéis criminosos desenvolvem projetos secretos. Ex-humanos também espreitam na periferia, extirpando qualquer coisa vista como fraqueza, seja sua própria carne ou sua empatia. Eles caçam nas regiões afastadas, capturando e consumindo qualquer nave transumana tola o bastante para se aproximar.
+A periferia engloba todas a áreas menos viajadas dos Sistema Solar, desde as ocasionais famílias em asteroides e estações isoladas do sistema interior até o Cinturão de Kuiper e as órbitas excêntricas de vários objetos do sistema exterior. Estes são os lares dos eremitas, ultimistas e facções extremas demais até mesmo para a Aliança Autonomista. Aqui tanto as hipercorps quanto os cartéis criminosos desenvolvem projetos secretos. Ex-humanos também espreitam na periferia, extirpando qualquer coisa vista como fraqueza, seja sua própria carne ou sua empatia. Eles caçam nas regiões afastadas, capturando e consumindo qualquer nave transumana tola o bastante para se aproximar.
 
 ## Exoplanetas
 
@@ -55,7 +55,7 @@ Os transumanos conquistam a segurança dos perigos do espaço com esses tipos co
 - **Esferas** são bolhas ocas, geralmente asteroides escavados com interiores terraformados, com baixa gravidade por rotação.
 - **Subsuperficiais** são simplesmente estruturas construídas no subsolo, geralmente em luas ou planetas com pouca atmosfera; o solo acima protege da radiação solar.
 - **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela ralé.
-- **Enlatados** são pequenos módulos apertados, em geral não mais do que um envoltório pressurizado e suporte vital. Eles são baratos e comuns, especialmente entre os marginais.
+- **Enlatados** são pequenos módulos apertados, em geral não mais do que um envoltório pressurizado e suporte vital. Eles são baratos e comuns, especialmente entre os eremitas.
 - **Toroides** tem forma de anel e gravidade por rotação, às vezes com múltiplos toroides rotacionando em direções opostas, às vezes ligados a estruturas de microgravidade.
 
 <!-- CLEANED /blockquote -->

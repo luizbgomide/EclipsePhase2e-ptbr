@@ -44,7 +44,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ricochete:** Um biomorfo otimizado para microgravidade.
 - **Sonda Bracewell:** Uma sonda autorreplicante projetada para se propagar para cada sistema estelar da galáxia.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
-- **Marginais:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
+- **Eremitas:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
 - **Estojo:** Um sintemorfo, barato e comum produzido em massa.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
@@ -159,7 +159,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
 - **Infugiado:** Um refugiado que sobreviveu à Queda como um infomorfo sem corpo.
 - **IETE:** O Instituto para o Estudo das Tendências Emergentes. O serviço clandestino de inteligência e previsão dos Argonautas.
-- **Isolados:** Os exilados nas periferias do sistema. Também chamado de marginais.
+- **Isolados:** Os exilados nas periferias do sistema. Também chamado de eremitas.
 - **RTI:** A Rede de Transporte Interplanetário; utilizando a gravidade para se mover entre os planetas usando o mínimo de combustível.
 - **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se "tornando" o drone.
 - **IFEJ:** Inteligência da Força Espacial Joviana.
