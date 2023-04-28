@@ -16,7 +16,7 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Barsoomiano:** Você quer ver Marte livre do controle hipercorporativo.
 
-**Marginal:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
+**Eremita:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
 
 **Criminoso:** Você está associado ao submundo, seja parte de um grande cartel, gangue menor, ou como operador independente.
 
