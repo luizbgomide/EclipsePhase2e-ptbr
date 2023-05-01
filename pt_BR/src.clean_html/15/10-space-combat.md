@@ -32,7 +32,7 @@ Uma razão pelo qual nós desencorajamos o combate espacial como o foco principa
 
 ### Hackeamento
 
-As naves fecham as comunicações durante as disputas para evitar detecção e hackeamento, dependendo de comunicações EQ, se necessário. Isso torna os hackers ineficazes contra naves inimigas. Dito isso, às vezes é possível [mascarar](../13/05-authentication-and-encryption.md#spoofing) um sinal para uma nave inimiga, especialmente se houver várias naves ou se elas usam muitos enxames. O hackeamento também pode desempenhar um papel se uma nave for hackeada antecipadamente ou se um invasor a bordo abrir um canal de comunicação. Enxames e drones enviados pelas naves também estão vulneráveis ao hackeamento direto e sinais mascarados.
+As naves fecham as comunicações durante as disputas para evitar detecção e hackeamento, dependendo de comunicação EQ, se necessário. Isso torna os hackers ineficazes contra naves inimigas. Dito isso, às vezes é possível [mascarar](../13/05-authentication-and-encryption.md#spoofing) um sinal para uma nave inimiga, especialmente se houver várias naves ou se elas usam muitos enxames. O hackeamento também pode desempenhar um papel se uma nave for hackeada antecipadamente ou se um invasor a bordo abrir um canal de comunicação. Enxames e drones enviados pelas naves também estão vulneráveis ao hackeamento direto e sinais mascarados.
 
 ### Manobragem
 
