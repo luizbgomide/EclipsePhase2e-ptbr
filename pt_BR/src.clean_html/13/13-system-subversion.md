@@ -30,9 +30,9 @@ Para atrapalhar [auditorias de segurança](../13/12-countermeasures.md#security-
 
 Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a se autenticar novamente para você poder capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Isso requer vencer um Teste de Hackeamento contra o firewall fazendo autenticação.
 
-## Ocultar Arquivo ou Processo
+## Esconder Arquivo ou Processo
 
-É possível ofuscar a presença de um arquivo, elemento de código ou até mesmo um app, script ou outro processo de software ativo. Isso usa uma ação complexa e um Teste de Infoseg; anote o resultado. Qualquer um que tente encontrar esse arquivo ou processo posteriormente deve vencer o seu resultado com um Teste Oposto de Pesquisa com −30.
+É possível ocultar a presença de um arquivo, elemento de código ou até mesmo um app, script ou outro processo de software ativo. Isso usa uma ação complexa e um Teste de Infoseg; anote o resultado. Qualquer um que tente encontrar esse arquivo ou processo posteriormente deve vencer o seu resultado com um Teste Oposto de Pesquisa com −30.
 
 ## Debilitar os Sentidos
 
