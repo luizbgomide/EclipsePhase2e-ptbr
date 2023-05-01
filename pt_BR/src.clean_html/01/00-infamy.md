@@ -128,7 +128,7 @@ Seu corpo parecia estranho, meio rígido. As sensações de temperatura, do teci
 
 Tierslay tentou prestar atenção em sua respiração, na movimentação do seu peito, na sensação de ar suave e frio através das suas narinas, mas não havia nada lá. Os processos pareciam não mais existir. _Grite por ajuda_, ela pensou, mas ela não conseguia sentir seus lábios ou suas cordas vocais. Toda a biologia da sua cabeça e seu rosto não estavam lá. Não dormentes, mas inexistentes.
 
-A voz desconhecida retornou, agradável. \[Um grito é desnecessário, Tierslay. Alertei o técnico que o seu upload está completo e a plena consciência foi restaurada. Ele estará aqui em instantes para ajudá-la. Então podemos começar a nos familiarizar com este modelo de estojo específico.\]
+A voz desconhecida retornou, agradável. \[Um grito é desnecessário, Tierslay. Alertei o técnico que o seu upload está completo e a plena consciência foi restaurada. Ele estará aqui em instantes para ajudá-la. Então podemos começar a nos familiarizar com este modelo de chapeado específico.\]
 
 _Vai se foder, diabo. Com ou sem boca, vou berrar até não poder mais._ A palavra “Ajuda!” soou de algum lugar na parte de baixo do rosto de Tierslay, criada por uma voz que era feminina e rouca, mas artificial e definitivamente não era a dela. Seu pânico aumentou mil vezes e ela enunciou a palavra uma segunda vez, alongada e com um aumento de volume.
 
@@ -228,7 +228,7 @@ Taernen sorriu, incapaz de resistir a uma chance para cavar fundo e distorcer ve
 
 “Não quero mais entrar nos seus negócios, Taernen. Nem sequer sei quem sou, como a vida ainda funciona, e aqui está você falando de negócios…”
 
-“Tier, Tier, olhe para mim.” Tierslay virou sua visão para os desconhecidos olhos negros e vazios de Taernen, sem saber se o olhar dele estava encontrando sabe-se lá a formato que seus olhos tomaram nesta forma metálica estranha. Pelo que ela sabia, a cara dela não era mais do que uma chapa plana de aço com dois pontos e uma linha. “Você está pirando. Eu entendo. Isto é muito para absorver.”
+“Tier, Tier, olhe para mim.” Tierslay virou sua visão para os desconhecidos olhos negros e vazios de Taernen, sem saber se o olhar dele estava encontrando com o formato que seus olhos tomaram nesta forma metálica estranha. Pelo que ela sabia, a cara dela não era mais que uma chapa lisa de aço com dois pontos e uma linha. “Você está pirando. Eu entendo. Isto é muito para absorver.”
 
 “Só quero ser eu outra vez.”
 

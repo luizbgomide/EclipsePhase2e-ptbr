@@ -35,7 +35,7 @@ Armas de fogo químicas modernas usam munições inteligentes sem estojo que sã
 
 **Pistola Polygun:** As polyguns são armas modulares que mudam de formato, podendo alternar entre as formas de pistola de bolso, média, pesada e pistola-metralhadora. Cada forma requer munição separada. Trocar a forma leva 3 turnos de ação.
 
-**Fuzil Polygun:** Essa carabina funciona como a pistola polygun, exceto que ela pode alternar entre SM, fuzil de assalto e fuzil de precisão conforme for necessário.
+**Fuzil Polygun:** Esta carabina funciona como a pistola polygun, exceto que ela pode alternar entre SM, fuzil de assalto e fuzil de precisão conforme for necessário.
 
 ## Railguns
 
@@ -78,7 +78,7 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Tirocerto:** Balas tirocerto mudam de formato durante o voo para se manterem fixas no curso, contrariando os efeitos de vento, arrasto e gravidade sobre a distância. Ataques feitos com Tirocerto ignoram todos os modificadores de alcance.
 
-**Perfura-Armadura:** Essa munição de carboneto de tungstênio penetra eficientemente em armaduras.
+**Perfura-Armadura:** Esta munição de carboneto de tungstênio penetra eficientemente em armaduras.
 
 **Mordente:** Balas mordentes se fragmentam em proporção oposta a dureza do alvo atingido. Para alvos duros (sintemorfos), elas se fragmentam muito pouco, abrindo um grande buraco. Para alvos macios (biomorfos), elas se fragmentam e desviam em múltiplas direções dentro do corpo.
 
@@ -88,17 +88,17 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
 
-**Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
+**Guiada:** Esta bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
 
 **Interferente:** Munição interferente gruda no alvo e pulsa sinais eletromagnéticos de interferência, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
-**Proximidade:** Essa bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
+**Proximidade:** Esta bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
 
-**Perfura-Armadura Reativa (PAR):** Esse é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
+**Perfura-Armadura Reativa (PAR):** Este é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
 
-**Padrão:** Esse projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
+**Padrão:** Este projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
 
 **Aspersora:** Cartuchos aspersores contêm uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos aspersores normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
 

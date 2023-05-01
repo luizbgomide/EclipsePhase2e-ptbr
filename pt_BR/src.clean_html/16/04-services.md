@@ -1,6 +1,6 @@
 # Serviços
 
-Crédito ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
+Crédito e ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
 
 ## Serviços da Mesh
 

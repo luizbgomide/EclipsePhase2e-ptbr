@@ -32,13 +32,13 @@ Carcaças sintéticas são feitas para durar — um fato refletido em sua maior 
 
 <!-- CLEANED /blockquote -->
 
-### Estojo
+### Chapeado
 
-Os estojos são carcaças robóticas produzidas em massa, um opção acessível de reencape para os pobres, apesar da notória baixa qualidade. Eles estão disponíveis em muitas variedades para atender ao gosto do cliente. A maioria dos morfos estojos são antropomórficos, com uma estrutura corporal fina e um pouco mais baixo que a média humana.
+Os chapeados são carcaças robóticas produzidas em massa, um opção acessível de reencape para os pobres, apesar da notória baixa qualidade. Eles estão disponíveis em muitas variedades para atender ao gosto do cliente. A maioria dos morfos chapeados são antropomórficos, com uma estrutura corporal fina e um pouco mais baixo que a média humana.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-### Estojo
+### Chapeado
 
 - **Custo:** 0&nbsp;PM • **Disp:** 100
 
@@ -130,7 +130,7 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 
 ### Sinte
 
-Os sintes são ainda mais humanoides que os estojos e de melhor qualidade. Eles são bastante usados em tarefas de trabalho intensivo em ambientes inadequados para biomorfos, ou para pessoas que precisam de um corpo rápido e barato ou apenas um corpo provisório. A maioria dos designs são antropomórficos, embora várias alternativas existam, incluindo alguns baseados em fisiologia de elevados.
+Os sintes são ainda mais humanoides que os chapeados e de melhor qualidade. Eles são bastante usados em tarefas de trabalho intensivo em ambientes inadequados para biomorfos, ou para pessoas que precisam de um corpo rápido e barato ou apenas um corpo provisório. A maioria dos designs são antropomórficos, embora várias alternativas existam, incluindo alguns baseados em fisiologia de elevados.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 

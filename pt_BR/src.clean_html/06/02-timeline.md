@@ -31,7 +31,7 @@
 ## AQ 40–20
 
 - Ajudantes pessoais de ILA (musas) tornam-se comuns.
-- Adoção em massa de experiência projetada e tecnologias de simulespaço em RV com imersão completa.
+- Adoção em massa de experiência pré-gravada e tecnologias de simulespaço em RV com imersão completa.
 - As redes de reputação têm um ressurgimento, auxiliadas por redes neurais que combatem maus elementos.
 - A violência e a desestabilização desgraçam a Terra; alguns conflitos se espalham pelo espaço.
 - Cientistas do JASON se separam dos governos e das hipercorps, formam o Conselho Argonauta para Ciência Responsável.

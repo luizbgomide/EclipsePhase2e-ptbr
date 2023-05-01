@@ -17,7 +17,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12 ou Asas 8/32
-- **Ware:** Armadura Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
+- **Ware:** Blindagem Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 40, Evasão 30, Infiltração 30, Luta 40, Percepção 30, Provocação 30 (Intimidação 40)
 - **Notas:** Mordida/Chifre/Cauda VD 1d6 \[4\], Tamanho Pequeno
 
@@ -80,7 +80,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Ampliação Muscular, Amplificador de Reflexos, Armadura Dérmica, Audição Aprimorada, Cibercortéx, Garras, Insertos da Mesh, Luva de Fantoche, Olfato Aprimorado, Visão Aprimorada
+- **Ware:** Ampliação Muscular, Amplificador de Reflexos, Audição Aprimorada, Blindagem Dérmica, Cibercortéx, Garras, Insertos da Mesh, Luva de Fantoche, Olfato Aprimorado, Visão Aprimorada
 - **Perícias:** Atletismo 30, Evasão 40, Luta 50, Percepção 40, Provocação 30 (Intimidação 40)
 
 <!-- CLEANED /div --></tr>
@@ -148,7 +148,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Almofadas Aderentes, Armadura Dérmica, Biomods, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
+- **Ware:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
 

@@ -15,7 +15,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 | Guelras                |      B       |                 Men/1                 | Respire tanto ar quanto água.                                                                                            |
 | Almofadas Aderentes    |     BCH      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
 | Hibernação             |      B       |                 Min/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
-| Compartimento Oculto   |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para ocultar itens.                                                  |
+| Compartimento Oculto   |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
 | Sistema Magnético      |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
 | Sistema de Mobilidade  |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#movement-types) especificado adicional.                                         |
 | Projeto Modular        |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#flexbot-rules). |

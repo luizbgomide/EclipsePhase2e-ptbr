@@ -21,11 +21,11 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Aracnoide](../04/25-synthmorphs.md#arachnoid)                                                                  | Sintemorfo | 6&nbsp;PM  |
 | [Prod Básico](../04/23-pod-biomorphs.md#basic-pod)                                                              | Prod       | 1&nbsp;PM  |
 | [Ricochete](../04/22-common-biomorphs.md#bouncer)                                                               | Biomorfo   | 4&nbsp;PM  |
-| [Estojo](../04/25-synthmorphs.md#case)                                                                          | Sintemorfo | 0&nbsp;PM  |
+| [Chapeado](../04/25-synthmorphs.md#case)                                                                        | Sintemorfo | 0&nbsp;PM  |
 | [Digimorfo](../04/26-infomorphs.md#digimorph)                                                                   | Infomorfo  | 0&nbsp;PM  |
 | [Libélula](../04/25-synthmorphs.md#dragonfly)                                                                   | Sintemorfo | 1&nbsp;PM  |
 | [Exalto](../04/22-common-biomorphs.md#exalt)                                                                    | Biomorfo   | 2&nbsp;PM  |
-| [Tosco](../04/22-common-biomorphs.md#flat)                                                                      | Biomorfo   | 0&nbsp;PM  |
+| [Clássico](../04/22-common-biomorphs.md#flat)                                                                   | Biomorfo   | 0&nbsp;PM  |
 | [Flexbot](../04/25-synthmorphs.md#flexbot)                                                                      | Sintemorfo |  Variável  |
 | [Fúria](../04/22-common-biomorphs.md#fury)                                                                      | Biomorfo   | 6&nbsp;PM  |
 | [Futura](../04/22-common-biomorphs.md#futura)                                                                   | Biomorfo   | 4&nbsp;PM  |

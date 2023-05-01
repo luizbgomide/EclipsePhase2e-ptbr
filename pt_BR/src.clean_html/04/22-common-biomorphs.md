@@ -10,13 +10,13 @@ Biomorfos são capas totalmente biológicas (muitas vezes modificados geneticame
 
 <!-- CLEANED /blockquote -->
 
-### Tosco
+### Clássico
 
-Toscos são humanos simples não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os toscos são cada vez mais raros fora dos enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
+Clássicos são humanos simples não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os clássicos são cada vez mais raros fora dos enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-### Tosco
+### Clássico
 
 - **Custo:** 0&nbsp;PM • **Disp:** 30
 

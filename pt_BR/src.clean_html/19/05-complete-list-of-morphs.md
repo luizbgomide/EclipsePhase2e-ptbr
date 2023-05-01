@@ -3,7 +3,7 @@
 <table class="stat-list centered tl1">
 <thead><tr><th>BIOMORFOS COMUNS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
-<tr><td>Tosco<td>0&nbsp;PM<td>30<td>6<td>30<td>45<td>0<td>0<td>0<td>0</tr>
+<tr><td>Clássico<td>0&nbsp;PM<td>30<td>6<td>30<td>45<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -133,7 +133,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Armadura de Carapaça (+6/+7), Biomods, Cibercérebro, Guelras, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
+- **Ware:** Biomods, Blindagem de Carapaça (+6/+7), Cibercérebro, Guelras, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** Ataque com Garras (VD 2d10)
 
@@ -225,7 +225,7 @@
 <table class="stat-list centered tl1">
 <thead><tr><th>SINTEMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
-<tr><td>Estojo<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
+<tr><td>Chapeado<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12

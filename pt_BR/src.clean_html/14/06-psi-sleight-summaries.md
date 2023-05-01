@@ -36,7 +36,7 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | [Armadura Psi](../14/06-psi-sleight-summaries.md#psi-armor)                        | Armadura mental igual a VON ÷ 3.                                                     |
 | [Qualia](../14/06-psi-sleight-summaries.md#qualia)                                 | Discernimento aumentado. +1 na parada de Inspiração.                                 |
 | [Cálculo Savant](../14/06-psi-sleight-summaries.md#savant-calculation)             | Pode usar Prova de COG para responder questões matemáticas complexas.                |
-| [Embaralhamento](../14/06-psi-sleight-summaries.md#scramble)                       | Ocultar-se do truque sentido de ego; modificador −30.                                |
+| [Embaralhamento](../14/06-psi-sleight-summaries.md#scramble)                       | Esconder-se do truque sentido de ego; modificador −30.                               |
 | [Autocontrole](../14/06-psi-sleight-summaries.md#self-control)                     | +10 em Provas de VON.                                                                |
 | [Astúcia Social](../14/06-psi-sleight-summaries.md#social-cunning)                 | Mais manipulativo. +10 em Testes de Persuasão e Provocação.                          |
 | [Controle Somático](../14/06-psi-sleight-summaries.md#somatic-control)             | Melhor controle fisiológico. +1 na parada de Vigor.                                  |

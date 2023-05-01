@@ -46,7 +46,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
 - **Eremitas:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
-- **Estojo:** Um sintemorfo, barato e comum produzido em massa.
+- **Chapeado:** Um sintemorfo, barato e comum produzido em massa.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
 - **Célula:** Um grupo clandestino de sentinelas da Firewall.
 - **Quimérico:** Transgênico, contendo traços genéticos de outras espécies.
@@ -113,7 +113,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** O software que defende um sistema de invasões.
 - **Fisher Hab:** Uma variante de hab cilíndrico que usa módulos independentes.
 - **Atravessador:** Alguém que negocia tratos para adquirir bens ou informações.
-- **Tosco:** Um humano comum, sem genecorreções ou modificações.
+- **Clássico:** Um humano comum, sem genecorreções ou modificações.
 - **Mundano:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
 - **Forque:** Uma cópia de um ego.
@@ -224,7 +224,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Portões de Pandora:** As passagens de buraco de minhoca descobertos após o desaparecimento das TITANs.
 - **Pax Familae:** O cartel criminoso composto por uma pessoa, Claudia Ambelina, e seus clones e forques.
 - **Pluralidade:** A ciberdemocracia titaniana.
-- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
+- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. Vem de "pessoas produzidas". Também chamados de peles artificiais, replicantes.
 - **Polykatoikia:** Uma variante de hab cilíndrico que usa módulos dependentes.
 - **Pós-humano:** Alguém modificado de forma tão extensiva a ponto de não ser mais reconhecido como humano (um passo além do transumano).
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos X.
@@ -329,7 +329,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
 - **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
-- **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, sim-sensorial, projeção.
+- **XP:** Experiência Pré-gravada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravação). Também chamado de sim, sim-sensorial, pré-gravação.
 - **Risco X:** Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
 - **Zeros:** Pessoas sem acesso à mesh. Comum com arrendados.
