@@ -397,13 +397,13 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | Traço                                                               | Bônus PM | Efeito                                                                                                                          |
 |:------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
 | [Vício](../04/28-traits.md#addiction)                               |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais. Apenas biomorfos.                                |
-| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas toscos e tratados.                                                                                 |
+| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas clássicos e tratados.                                                                              |
 | [Membro Dominante](../04/28-traits.md#dominant-limb)                |    1     | −20 em testes feitos com membros não dominantes.                                                                                |
 | [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
 | [Morfologia Exótica](../04/28-traits.md#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
 | [Fraqueza](../04/28-traits.md#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
 | [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
-| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas toscos.                                                         |
+| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas clássicos.                                                      |
 | [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
 | [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
 | [Risco de Infecção](../04/28-traits.md#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
@@ -453,7 +453,7 @@ Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanec
 
 **Traço de ▼ Morfo • Bônus de PM: 4**
 
-Este traço só pode ser aplicado em morfos toscos e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
+Este traço só pode ser aplicado em morfos clássicos e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
 
 ### Má Sorte
 
@@ -533,7 +533,7 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Este traço só está disponível para toscos. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Este traço só está disponível para clássicos. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
