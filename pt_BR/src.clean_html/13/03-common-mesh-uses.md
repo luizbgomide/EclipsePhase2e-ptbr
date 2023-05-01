@@ -34,7 +34,7 @@ Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas d
 
 Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de eremitas e autonomistas.
 
-## Experiência Projetada (XP)
+## Experiência Pré-gravada (XP)
 
 Cada morfo com insertos da mesh tem a capacidade de transmitir ou gravar suas experiências na forma de XP. Compartilhar com amigos, redes sociais ou com o público em geral é bastante popular. Pequenos clipes são comuns, mas alguns x-padores postam um lifelog contínuo para assinantes.
 
