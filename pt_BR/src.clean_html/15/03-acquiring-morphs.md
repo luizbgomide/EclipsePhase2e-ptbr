@@ -26,13 +26,13 @@ Os Pontos de Morfo são gastos como descrito no [Passo 12 de Criando Personagens
 
 ### Disponibilidade de Morfos
 
-Nem todos os morfos estão prontamente disponíveis. Alguns modelos (tratados, exaltos, estojos, sintes, prods) são comuns e acessíveis; outros são mais difíceis de conseguir. Para ver se um morfo está disponível, faça um Teste de Disponibilidade, rolando d100 com graduação de Disponibilidade do morfo como número alvo. Se tiver sucesso, o morfo está disponível. Caso contrário, pegue outro morfo e tente de novo.
+Nem todos os morfos estão prontamente disponíveis. Alguns modelos (tratados, exaltos, chapeados, sintes, prods) são comuns e acessíveis; outros são mais difíceis de conseguir. Para ver se um morfo está disponível, faça um Teste de Disponibilidade, rolando d100 com graduação de Disponibilidade do morfo como número alvo. Se tiver sucesso, o morfo está disponível. Caso contrário, pegue outro morfo e tente de novo.
 
 As condições locais podem afetar esse Teste de Disponibilidade. Um banco de corpos bem estocado em uma área populosa, como Valles New-Shanghai pode aplicar um modificador +30. Um hab netuniano pequeno e remoto pode ter um suprimento bem mais limitado: aplique um modificador −30.
 
 Você pode gastar favores de rep para aumentar a Disponibilidade de um morfo. Um favor menor aplica um modificador +10, um moderado +20 e um maior +30. O nível de rep em questão deve ser aplicável à situação, e você deve ter sucesso em um Teste de Rep.
 
-O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat eremita na borda do Sistema Solar pode ter apenas estojos e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrosos. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
+O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat eremita na borda do Sistema Solar pode ter apenas chapeados e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrosos. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
 
 Se você adquirir ware com Pontos de Morfo ou Pontos de Equipamento ao mesmo tempo que adquire um morfo, o ware já vem instalado no morfo.
 
