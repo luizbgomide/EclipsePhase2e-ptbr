@@ -1,6 +1,6 @@
 # Traços
 
-A maioria dos traços proporcionam modificadores em determinadas situações. Os traços de Ego são comprados durante a criação do personagem (ou possivelmente com pontos de Rez) e ficam com o personagem. Os traços de morfo aplicam-se apenas ao morfo em questão e impactam os PM disponíveis ao reencapar.
+A maioria dos traços fornecem modificadores em determinadas situações. Os traços de Ego são comprados durante a criação do personagem (ou possivelmente com pontos de Rez) e ficam com o personagem. Os traços de morfo aplicam-se apenas ao morfo em questão e impactam os PM disponíveis ao reencapar.
 
 Alguns traços tem custos múltiplos, representando diferentes níveis. Um traço com Custo de PP de 1/2/3 custa 1&nbsp;PP no Nível 1, 2&nbsp;PP no Nível 2 e 3&nbsp;PP no Nível 3.
 
@@ -352,7 +352,7 @@ Esse traço só está disponível para personagens com o traço Psi. Você não 
 
 ## Traços Negativos
 
-Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
+Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 
 <!-- CLEANED blockquote class="framed-table" -->
 
