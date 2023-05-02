@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -148,141 +150,156 @@
 <p>This will be your final skills package, though you might purchase extra skills or tweak the ones you’ve already acquired in later steps.</p>
 <h2 id="animal-handler"><a class="header" href="#animal-handler">Animal Handler</a></h2>
 <p>You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Exotic Skill: Animal Handling</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Medicine: Veterinary</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Provoke</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Know: Smart Animals</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="artisticon"><a class="header" href="#artisticon">Artist/Icon</a></h2>
 <p>You are a musician, performer, celebrity, or other type of creative or public figure.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Provoke</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Dance, Music, Sculpture</em></p></td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="async"><a class="header" href="#async">Async</a></h2>
 <p>You are infected with the <a href="../14/02-watts-macleod-sub-strains.html">Watts-MacLeod strain</a> of the exsurgent virus, which gives you a number of unique mental talents and disadvantages. You must purchase the Psi trait in Step 10.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Perceive</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Psi</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="commander"><a class="header" href="#commander">Commander</a></h2>
 <p>You are accustomed to leadership roles as an executive, officer, elected official, or autonomist organizer.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Provoke</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: Administration</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="fighter"><a class="header" href="#fighter">Fighter</a></h2>
 <p>You’ve picked up some self-defense and offensive capabilities along the way.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Melee</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: Security Ops</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="forensics-specialist"><a class="header" href="#forensics-specialist">Forensics Specialist</a></h2>
 <p>You’ve trained to analyze crime scenes and perform autopsies.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Medicine: Forensics</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Perceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Know: Physiology</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="jack-of-all-trades"><a class="header" href="#jack-of-all-trades">Jack-of-all-Trades</a></h2>
 <p>You’ve seen and done a little bit of everything.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">25</td></tr>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">25</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">25</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">25</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="jammer"><a class="header" href="#jammer">Jammer</a></h2>
 <p>You’re a drone operator, with a talent for manipulating machines.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: Robotics</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Pilot: (Choose One)</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: Bot Models</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="networker"><a class="header" href="#networker">Networker</a></h2>
 <p>You know how to engage and connect with people.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Provoke</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: Rep Nets</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="paramedic"><a class="header" href="#paramedic">Paramedic</a></h2>
 <p>You have picked up some first aid training.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Medicine: Paramedic</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: Emergency Services</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="pilot"><a class="header" href="#pilot">Pilot</a></h2>
 <p>You prefer to do the driving yourself, no matter how skilled the AI is.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: (Choose One)</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Pilot: (Choose One)</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Pilot: (Choose One)</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: Flight Crew Ops</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="rogue"><a class="header" href="#rogue">Rogue</a></h2>
 <p>You are as shifty as you need to be.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Infiltrate</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="slacker"><a class="header" href="#slacker">Slacker</a></h2>
 <p>You prefer to enjoy the good things in life.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="spacer"><a class="header" href="#spacer">Spacer</a></h2>
 <p>You’ve spent your fair share of time in ships and smaller habitats.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Free Fall</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Electronics, Industrial, Robotics</em></p></td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Astronomy, Flight Crew Ops, Gas Mining</em></p></td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="student"><a class="header" href="#student">Student</a></h2>
 <p>You are in the process of learning.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
+</div>
 <h2 id="survivalist"><a class="header" href="#survivalist">Survivalist</a></h2>
 <p>The Fall reinforced the notion that you need to be prepared.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Medicine: Paramedic</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Survival</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 </tbody></table>
-<blockquote class="table">
+</div><blockquote class="table">
 <h3 id="random-interest"><a class="header" href="#random-interest">Random Interest</a></h3>
 <p>If you’d rather determine your interest randomly, roll 1d10:</p>
-<table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Result</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Result</th></tr></thead><tbody>
 <tr><td style="text-align: center">1–5</td><td style="text-align: center">Roll on Group 1</td></tr>
 <tr><td style="text-align: center">6–10</td><td style="text-align: center">Roll on Group 2</td></tr>
 </tbody></table>
-<table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Group 1</th><th style="text-align: center">Group 2</th></tr></thead><tbody>
+</div><div class="table-wrapper"><table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Group 1</th><th style="text-align: center">Group 2</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: center">Animal Handler</td><td style="text-align: center">Networker</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: center">Artist/Icon</td><td style="text-align: center">Paramedic</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: center">Async</td><td style="text-align: center">Pilot</td></tr>
@@ -293,7 +310,7 @@
 <tr><td style="text-align: center">8</td><td style="text-align: center">Jammer</td><td style="text-align: center">Survivalist</td></tr>
 <tr><td style="text-align: center">9–10</td><td style="text-align: center">Re-roll</td><td style="text-align: center">Re-roll</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -327,21 +344,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

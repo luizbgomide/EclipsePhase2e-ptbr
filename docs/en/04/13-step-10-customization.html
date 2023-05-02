@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -173,13 +175,13 @@
 <p>Skill specializations cost 1 CP. They give a +10 bonus to that skill when that specialization applies. (This specialization bonus does not count towards the skill maximum of 80.)</p>
 <blockquote class="table">
 <h3 id="customization-costs"><a class="header" href="#customization-costs">Customization Costs</a></h3>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: center"></th><th style="text-align: center"></th><th style="text-align: left"></th><th style="text-align: center"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: center"></th><th style="text-align: center"></th><th style="text-align: left"></th><th style="text-align: center"></th></tr></thead><tbody>
 <tr><td style="text-align: left">5 Rep points</td><td style="text-align: center">1 CP</td><td style="text-align: center"></td><td style="text-align: left">1 Language</td><td style="text-align: center">1 CP</td></tr>
 <tr><td style="text-align: left">5 Skill points</td><td style="text-align: center">1 CP</td><td style="text-align: center"></td><td style="text-align: left">1 Aptitude point</td><td style="text-align: center">1 CP</td></tr>
 <tr><td style="text-align: left">1 Specialization</td><td style="text-align: center">1 CP</td><td style="text-align: center"></td><td style="text-align: left">1 Flex point</td><td style="text-align: center">2 CP</td></tr>
 <tr><td style="text-align: left">1 Psi sleight</td><td style="text-align: center">1 CP</td><td style="text-align: center"></td><td style="text-align: left">Ego Traits</td><td style="text-align: center">Variable</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -213,21 +215,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

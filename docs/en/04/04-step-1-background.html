@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -147,7 +149,7 @@
 <p>Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own (<a href="../04/18-skills.html">Skills</a>). Alternatively, leave the field unassigned for now and decide on it during game play.</p>
 <h2 id="colonist"><a class="header" href="#colonist">Colonist</a></h2>
 <p>You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Free Fall</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Aerospace, Electronics, Industrial</em></p></td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
@@ -156,9 +158,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Administration, Flight Crew Ops, Hab Ops</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Botany, Chemistry, Engineering, Physics</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="enclaver"><a class="header" href="#enclaver">Enclaver</a></h2>
 <p>On Earth, you lived a life of precarious but protected stability in a defended enclave.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Athletics</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">30</td></tr>
@@ -168,9 +171,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Celebrity Gossip, Pop Culture, Sports</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Economics, Education, Psychology</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="freelancer"><a class="header" href="#freelancer">Freelancer</a></h2>
 <p>You were a cog in the wheels of hypercapitalism, taking whatever gigs came your way.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">40</td></tr>
@@ -179,9 +183,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Accounting, Data Processing, Freelancing</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Craft Beers, Martian Techno, Sports</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="hyperelite"><a class="header" href="#hyperelite">Hyperelite</a></h2>
 <p>You lived in the top percent, with abundant wealth and resources.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Athletics</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">50</td></tr>
@@ -190,9 +195,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Fine Art, Hypercorp Politics, Stock Market</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Economics, Law, Political Science</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="indenture"><a class="header" href="#indenture">Indenture</a></h2>
 <p>With nothing to lose, you sold yourself into a work contract for the off-world hypercorps.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Fray or Melee</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Free Fall</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Groundcraft, Industrial, Robotics</em></p></td><td style="text-align: right">50</td></tr>
@@ -201,9 +207,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Asteroid Mining, Habitat Ops, Terraforming</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Gambling, XP Dealers</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="infolife"><a class="header" href="#infolife">Infolife</a></h2>
 <p>You are an AGI, a digital consciousness born of software code.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">50</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">50</td></tr>
@@ -211,9 +218,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Accounting, Administration, System Administration</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Computer Science, Cryptography, Psychometrics</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="isolate"><a class="header" href="#isolate">Isolate</a></h2>
 <p>You eked out a self-exiled existence in a remote habitat or ship on the fringes of occupied space.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Free Fall</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Aerospace, Electronics, Robotics</em></p></td><td style="text-align: right">40</td></tr>
@@ -223,9 +231,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Flight Crew Ops, Gas Mining, Habitat Ops</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Bioconservativism, Conspiracies, Religion</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="lost"><a class="header" href="#lost">Lost</a></h2>
 <p>You are a legacy of the doomed Lost Generation, undergoing an accelerated-growth childhood that left most others sociopathic or insane. You must purchase the Psi trait in Step 10.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Infiltrate</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">40</td></tr>
@@ -234,9 +243,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Biology, Psychology, Sociology</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Privacy, Serial Killers, Mind Hacks</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="underclass"><a class="header" href="#underclass">Underclass</a></h2>
 <p>You are a veteran of the slums, favelas, ghettoes, and flooded cities of Earth. You used whatever means necessary to get by.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Guns or Melee</td><td style="text-align: right">40</td></tr>
@@ -246,9 +256,10 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Drugs, Triads</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Con Artistry, Police Ops, Smuggling</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="uplift"><a class="header" href="#uplift">Uplift</a></h2>
 <p>You are an uplift: the latest generation of bonobo, cetacean, chimpanzee, corvid, gorilla, neanderthal, octopus, orangutan, or parrot raised to human levels of intelligence.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Athletics</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">30</td></tr>
@@ -258,17 +269,17 @@
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Uplift Culture, Uplift Rights</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Genetics, Sociology, Zoology</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
-<blockquote class="table">
+</div><blockquote class="table">
 <h3 id="random-background"><a class="header" href="#random-background">Random Background</a></h3>
 <p>If you’d rather determine your background randomly, roll 1d10:</p>
-<table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Background</th><th style="text-align: center">Roll</th><th style="text-align: center">Background</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Background</th><th style="text-align: center">Roll</th><th style="text-align: center">Background</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: center">Colonist</td><td style="text-align: center">6</td><td style="text-align: center">Infolife</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: center">Enclaver</td><td style="text-align: center">7</td><td style="text-align: center">Isolate</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: center">Freelancer</td><td style="text-align: center">8</td><td style="text-align: center">Lost</td></tr>
 <tr><td style="text-align: center">4</td><td style="text-align: center">Hyperelite</td><td style="text-align: center">9</td><td style="text-align: center">Underclass</td></tr>
 <tr><td style="text-align: center">5</td><td style="text-align: center">Indenture</td><td style="text-align: center">10</td><td style="text-align: center">Uplift</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -302,21 +313,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

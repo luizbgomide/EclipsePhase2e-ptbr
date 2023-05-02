@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -173,21 +175,21 @@
 <p>The timeframe for morph modding is the same for acquiring gear: 2 hours for Minor complexity items, 8 hours for Moderate, and 24 for Major.</p>
 <blockquote class="table">
 <h3 id="modifying-a-morph"><a class="header" href="#modifying-a-morph">Modifying a Morph</a></h3>
-<table><thead><tr><th style="text-align: left">Morph Type</th><th style="text-align: left">Skill</th><th style="text-align: left">Gear Needed</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Morph Type</th><th style="text-align: left">Skill</th><th style="text-align: left">Gear Needed</th></tr></thead><tbody>
 <tr><td style="text-align: left">Biomorph (including pods)</td><td style="text-align: left">Medicine: Biotech</td><td style="text-align: left">Tools Shop or Healing Vat</td></tr>
 <tr><td style="text-align: left">Synthmorph</td><td style="text-align: left">Hardware: Robotics</td><td style="text-align: left">Tools Shop</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="making-morphs"><a class="header" href="#making-morphs">Making Morphs</a></h2>
 <p>Morphs can be made, but this requires one or more task action skill tests each with a significantly long timeframe, as well as access to the morph’s blueprints/genetics, a proper nanofabricator and/or exowomb, and a medical facility. This timeframe cannot be reduced with time-accelerated VR. Since much of this process is automated fabrication/growth, only about 25% of the timeframe requires your complete attention (GM discretion). If you do not have blueprints/genetics, or you wish to design one from scratch, the timeframes will be considerably longer, with at least 50% of this timeframe requiring full attention (GM determination, but easily 5–10 times longer).</p>
 <blockquote class="table">
 <h3 id="making-a-morph"><a class="header" href="#making-a-morph">Making a Morph</a></h3>
-<table><thead><tr><th style="text-align: left">Morph Type</th><th style="text-align: left">Skills and Timeframes</th><th style="text-align: left">Gear Needed</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Morph Type</th><th style="text-align: left">Skills and Timeframes</th><th style="text-align: left">Gear Needed</th></tr></thead><tbody>
 <tr><td style="text-align: left">Biomorph</td><td style="text-align: left">Medicine: Biotech ([MP + 6] months)</td><td style="text-align: left">Exowomb</td></tr>
-<tr><td style="text-align: left">Pod</td><td style="text-align: left">Medicine: Biotech ([MP + 1] months), <wbr>Program ([MP + 1) weeks)</td><td style="text-align: left">Specialized Fabber, Tools Shop or Healing Vat</td></tr>
-<tr><td style="text-align: left">Synthmorph</td><td style="text-align: left">Hardware: Robotics ([MP + 1) weeks), <wbr>Program ([MP + 1) weeks)</td><td style="text-align: left">Medium Fabber</td></tr>
+<tr><td style="text-align: left">Pod</td><td style="text-align: left">Medicine: Biotech ([MP + 1] months), <wbr>Program ([MP + 1] weeks)</td><td style="text-align: left">Specialized Fabber, Tools Shop or Healing Vat</td></tr>
+<tr><td style="text-align: left">Synthmorph</td><td style="text-align: left">Hardware: Robotics ([MP + 1] weeks), <wbr>Program ([MP + 1] weeks)</td><td style="text-align: left">Medium Fabber</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <blockquote>
 <p>Sava has been hired to investigate a string of disappearances at a hypercorp's private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and opts to save their rep favors for now.</p>
 <p>Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Sava a +20 bonus. Rolling against a target number of 60, Sava gets an 83: no luck. The corp didn't need combat models on the station.</p>
@@ -228,21 +230,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

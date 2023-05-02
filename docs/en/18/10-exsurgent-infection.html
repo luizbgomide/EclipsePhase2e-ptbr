@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -148,24 +150,24 @@
 <p>Every sample of the exsurgent virus has its own Infection Rating. This measures its potency and ability to overcome countermeasures and natural defenses, as denoted on the Infection Ratings table. Many strains are adaptive and can improve their own ratings over time.</p>
 <blockquote class="table">
 <h3 id="infection-ratings"><a class="header" href="#infection-ratings">Infection Ratings</a></h3>
-<table><thead><tr><th style="text-align: center">Rating</th><th style="text-align: center">Contagion Level</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">Rating</th><th style="text-align: center">Contagion Level</th></tr></thead><tbody>
 <tr><td style="text-align: center">30–40</td><td style="text-align: center">Weak or outdated</td></tr>
 <tr><td style="text-align: center">50–60</td><td style="text-align: center">Moderate</td></tr>
 <tr><td style="text-align: center">70–80</td><td style="text-align: center">Strong or cutting-edge</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="infection-test"><a class="header" href="#infection-test">Infection Test</a></h2>
 <p>Whenever you are exposed to the exsurgent virus, you must make an opposed test against the Infection Rating. The stat you roll to resist depends on the type of infection. If the exovirus wins the opposed test, you are infected. The exact results depend on the type of infection and specific strain.</p>
 <p>If you beat the virus, you have resisted exposure — for now. Repeated exposure beyond the cooldown period may require a new Infection Test, depending on the exovirus type.</p>
 <blockquote class="table">
 <h3 id="infection-test-1"><a class="header" href="#infection-test-1">Infection Test</a></h3>
-<table><thead><tr><th style="text-align: center">Type</th><th style="text-align: center">Infection Rating Opposed By</th><th style="text-align: center">Cooldown</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">Type</th><th style="text-align: center">Infection Rating Opposed By</th><th style="text-align: center">Cooldown</th></tr></thead><tbody>
 <tr><td style="text-align: center">Basilisk Hack</td><td style="text-align: center">INT</td><td style="text-align: center">Check 1 action turn–1 hour</td></tr>
 <tr><td style="text-align: center">Biological Pathogen</td><td style="text-align: center">SOM</td><td style="text-align: center">Check 1 day</td></tr>
 <tr><td style="text-align: center">Digital Virus</td><td style="text-align: center">Firewall</td><td style="text-align: center">1 action turn</td></tr>
 <tr><td style="text-align: center">Nanoplague</td><td style="text-align: center">No test, infection automatic</td><td style="text-align: center">—</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="basilisk-hacks"><a class="header" href="#basilisk-hacks">Basilisk Hacks</a></h2>
 <p>Each type of basilisk hack functions differently.</p>
 <h3 id="blocking-basilisks"><a class="header" href="#blocking-basilisks">Blocking Basilisks</a></h3>
@@ -174,7 +176,7 @@
 <p>These basilisks do not infect you, they crash your brain. You suffer SV 1d10 and one of the effects from the Incapacitators table (GM picks or rolls 1d10) for a duration of 1d6 action turns, +1d6 per superior success.</p>
 <blockquote class="table">
 <h3 id="incapacitators-1"><a class="header" href="#incapacitators-1">Incapacitators</a></h3>
-<table><thead><tr><th style="text-align: center">1D10 Roll</th><th style="text-align: left">Type</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">1D10 Roll</th><th style="text-align: left">Type</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left">Cataplexy</td><td style="text-align: left">You lose control of your body and collapse. You are <a href="../12/21-other-action-factors.html#conditions">immobilized</a>.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left">Catatonic Stupor</td><td style="text-align: left">Your brain checks out and is non-responsive. Though conscious, you are mentally “not there” — the basilisk has crashed your brain functions. You are <a href="../12/21-other-action-factors.html#conditions">incapacitated</a>.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left">Disorientation</td><td style="text-align: left">You gain the <a href="../12/21-other-action-factors.html#conditions">dazed condition</a>.</td></tr>
@@ -185,7 +187,7 @@
 <tr><td style="text-align: center">9</td><td style="text-align: left">Nausea/<wbr>Vertigo</td><td style="text-align: left">You are overcome with head-spinning dizziness and a desire to vomit. You suffer an impaired (−30) modifier.</td></tr>
 <tr><td style="text-align: center">10</td><td style="text-align: left">Sensory Glitch</td><td style="text-align: left">Your brain glitches and you lose access to one or more senses. Roll 1d6; on a 1–3, you gain the <a href="../12/21-other-action-factors.html#conditions">blinded condition</a>, on a 4–6 you gain the <a href="../12/21-other-action-factors.html#conditions">deafened condition</a>. Alternatively the GM may choose other senses to be affected.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="reprogrammers"><a class="header" href="#reprogrammers">Reprogrammers</a></h3>
 <p>Sensory reprogramming attacks incapacitate you for a longer period (use the timeframe for the specific strain’s infection period, reduced by superior successes) with the intent of barraging your mind with uninterrupted sensory input. If you are exposed to the basilisk for the duration without interruption, at the end you suffer SV 1d10 and are infected with that strain of the exsurgent virus.</p>
 <p>If you are somehow removed from exposure to the basilisk before the duration completes, the reprogramming immediately fails. You suffer SV 1d10 +1 per minute of exposure, and are <a href="../12/21-other-action-factors.html#conditions">stunned</a> for 1d6 action turns.</p>
@@ -247,21 +249,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

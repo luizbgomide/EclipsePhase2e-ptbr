@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -148,25 +150,27 @@
 <p>Your career also determines your starting <a href="../04/27-gear-packs.html">gear packs</a>.</p>
 <h2 id="academic"><a class="header" href="#academic">Academic</a></h2>
 <p>You devote your efforts to the pursuit of knowledge.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One) <p class="indent"><em>Common Fields: Administration, Instruction, Lab Ops</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="covert-operative"><a class="header" href="#covert-operative">Covert Operative</a></h2>
 <p>You are a spy, infiltrator, thief, or undercover agent, skilled at accessing places you don’t belong.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Infiltrate</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One) <p class="indent"><em>Common Fields: Security Ops, Smuggling, Spycraft</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Current Events, Politics</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="enforcer"><a class="header" href="#enforcer">Enforcer</a></h2>
 <p>You’re a thug, whether you’re wielding force for a hypercorp, cartel, habitat overseer, or autonomist militia.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Melee</td><td style="text-align: right">50</td></tr>
@@ -174,9 +178,10 @@
 <tr><td style="text-align: left">Know: (Choose One) <p class="indent"><em>Common Fields: Bodyguarding, Racketeering, Security Ops</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One) <p class="indent"><em>Common Fields: Cartel Politics, Gambling, Night Clubs</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="explorer"><a class="header" href="#explorer">Explorer</a></h2>
 <p>You’ve walked on alien worlds and seen things with your own eyes that others wouldn’t believe.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Athletics</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Medicine: Paramedic</td><td style="text-align: right">20</td></tr>
 <tr><td style="text-align: left">Pilot: (Choose One) <p class="indent"><em>Common Fields: Air, Ground, Nautical, Space</em></p></td><td style="text-align: right">20</td></tr>
@@ -184,104 +189,114 @@
 <tr><td style="text-align: left">Know: (Choose One) <p class="indent"><em>Common Fields: First-Contact Ops, Gatecrashing, Surveying</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Astrobiology, Geology, Xenoarcheology</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="face"><a class="header" href="#face">Face</a></h2>
 <p>You excel at convincing others, even when it’s not in their best interest.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Deceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Persuade</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Fencing, Police Ops, Smuggling</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Drugs, Underground XP</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="genehacker"><a class="header" href="#genehacker">Genehacker</a></h2>
 <p>DNA is your artistic medium, proteins your weapon of choice.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Medicine: Biotech</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Medicine: Pharmacology</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Biology, Genetics, Physiology</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Lab Ops, Medical Services, Morph Design</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="hacker"><a class="header" href="#hacker">Hacker</a></h2>
 <p>Software heeds your beck and call, whether you seek to exploit systems or protect them.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Computer Science, Cryptography, Mathematics</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Data Processing, Network Engineering, System Administration</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="investigator"><a class="header" href="#investigator">Investigator</a></h2>
 <p>Few details escape your scrutiny, whether you are a journalist, private investigator, detective, or insurance claims investigator.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Perceive</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Ego Hunting, Investigation, Journalism</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Current Events, Cartels</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="medic"><a class="header" href="#medic">Medic</a></h2>
 <p>You have a background in medicine and experience as a physician, surgeon, paramedic, body bank tech, or other type of medical specialist.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Kinesics</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Medicine: Paramedic</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Medicine: Biotech</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Biology, Genetics, Psychology</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Body Bank Ops, Emergency Services, Surgical Ops</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="mindhacker"><a class="header" href="#mindhacker">Mindhacker</a></h2>
 <p>You meld and shape minds and memories. You might be a therapist, memeticist, or psychosurgeon pushing the bounds of cognition.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Medicine: Pharmacology</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Medicine: Psychosurgery</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Cognitive Science, Memetics, Psychology</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Body Bank Ops, Medical Services, Social Services</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="scavenger"><a class="header" href="#scavenger">Scavenger</a></h2>
 <p>You scrounge through wrecks and ruins of the Fall, seeking value in the destruction.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Electronics, Industrial, Robotics</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Hardware: Demolitions</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Pilot: (Choose One)<p class="indent"><em>Common Fields: Air, Ground, Nautical, Space</em></p></td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Flight Crew Ops, Scavenging, Smuggling</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Black Markets, Spacecraft, TITAN Machines</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="scientist"><a class="header" href="#scientist">Scientist</a></h2>
 <p>You seek to understand how the universe works — or at least certain elements of it.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Electronics, Robotics</em></p></td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Research</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Astrobiology, Memetics, Physics</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Field Science, Investigation, Lab Ops</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="soldier"><a class="header" href="#soldier">Soldier</a></h2>
 <p>You serve a habitat polity, hypercorp, or mercenary outfit.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Fray</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Guns</td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Melee</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Bodyguarding, Military Ops, Security Ops</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Conflict Zones, Gambling, Mercenary Groups</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
+</div>
 <h2 id="techie"><a class="header" href="#techie">Techie</a></h2>
 <p>You make and fix things. You might be a roboticist, habitat tech, or artifex nano-engineer.</p>
-<table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: (Choose One)<p class="indent"><em>Common Fields: Electronics, Industrial, Robotics</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Infosec</td><td style="text-align: right">40</td></tr>
 <tr><td style="text-align: left">Program</td><td style="text-align: right">30</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Construction, Habitat Ops, Mining, Nanofacturing</em></p></td><td style="text-align: right">60</td></tr>
 <tr><td style="text-align: left">Know: (Choose One)<p class="indent"><em>Common Fields: Computer Science, Engineering, Nanotechnology</em></p></td><td style="text-align: right">30</td></tr>
 </tbody></table>
-<blockquote class="table">
+</div><blockquote class="table">
 <h3 id="random-career"><a class="header" href="#random-career">Random Career</a></h3>
 <p>If you’d rather determine your career randomly, roll 1d10:</p>
-<table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Result</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Result</th></tr></thead><tbody>
 <tr><td style="text-align: center">1–5</td><td style="text-align: center">Roll on Group 1</td></tr>
 <tr><td style="text-align: center">6–10</td><td style="text-align: center">Roll on Group 2</td></tr>
 </tbody></table>
-<table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Group 1</th><th style="text-align: center">Group 2</th></tr></thead><tbody>
+</div><div class="table-wrapper"><table><thead><tr><th style="text-align: center">Roll</th><th style="text-align: center">Group 1</th><th style="text-align: center">Group 2</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: center">Academic</td><td style="text-align: center">Investigator</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: center">Covert Operative</td><td style="text-align: center">Medic</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: center">Enforcer</td><td style="text-align: center">Mindhacker</td></tr>
@@ -291,7 +306,7 @@
 <tr><td style="text-align: center">7</td><td style="text-align: center">Hacker</td><td style="text-align: center">Techie</td></tr>
 <tr><td style="text-align: center">8–10</td><td style="text-align: center">Re-roll</td><td style="text-align: center">Re-roll</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -325,21 +340,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

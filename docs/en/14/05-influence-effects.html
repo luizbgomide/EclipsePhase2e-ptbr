@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -147,7 +149,7 @@
 <p>In this vein, the influence effects provided for each sub-strain should be considered customizable. Perhaps you envision an async that is so traumatized and confused by the haunter sub-strain that one of their influence effects is to fly into an uncontrollable rage, lashing out at whatever is around them, even their allies and loved ones. Or perhaps you ascribe a motivation of focused self-interest to the stranger and so devise an influence effect that compels your async to act in completely selfish and narcissistic ways, no matter the detriment to others. Maybe your idea for the xenomorph is that it stems from a hive-mind perspective, and so the async might fail to understand the concept of the individual or lash out at behavior divergent from perceived collective goals. Use the effects as listed for guidelines, while also considering options such as temporary <a href="../12/20-disorders.html">disorders</a>, <a href="../04/28-traits.html#enhanced-behavior">enhanced behaviors</a>, <a href="../04/28-traits.html#restricted-behavior">restricted behaviors</a>, or even negative traits such as <a href="../04/28-traits.html#neural-damage">Neural Damage</a>.</p>
 <blockquote class="table">
 <h3 id="architect-sub-strain"><a class="header" href="#architect-sub-strain">Architect Sub-Strain</a></h3>
-<table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left"><strong>Physical Damage.</strong> Take DV 1d6.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left"><strong>Enhanced Behavior: Arrogance.</strong> You have it all figured out. You are convinced that you are incontrovertibly right, that your plan is the best plan, and that you know exactly what is going on. You sneer at anyone who thinks otherwise.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Restricted Behavior: Relaxation.</strong> There is no time to rest, you have too many things to do!</td></tr>
@@ -155,6 +157,7 @@
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Motivation: +Expose Inner Workings.</strong> You become hyperfocused on the most interesting person, thing, or mystery in your immediate vicinity. This might be an unusual morph, a high-tech device, an unsolved puzzle, or something you have never experienced before. If nothing stands out, you fixate on the nearest person or thing that is newest to you. You are compelled to learn all about the subject by tinkering with it, testing it, taking it apart, and examining it piece by piece.</td></tr>
 <tr><td style="text-align: center">6+</td><td style="text-align: left"><strong>Motivation: +Create.</strong> You are obsessed with an elusive idea for a new creation. This may be a sculpture, a robot, a neogenetic life form, or something <em>weird</em>. The nature of the design relies on your skills and available resources. It might also require components or resources that are unusual (blood, bones) or hard to find (uranium, antimatter). The idea itself may not be fully formed or realized in your head — you may not understand even after you finish it. If you are unlikely to complete the design before the compulsion ends, you will be inclined to secretly store it and pick up the project again the next time you are compelled.</td></tr>
 </tbody></table>
+</div>
 <hr />
 <div class="stat-list">
 <ul>
@@ -165,7 +168,7 @@
 </blockquote>
 <blockquote class="table">
 <h3 id="beast-sub-strain"><a class="header" href="#beast-sub-strain">Beast Sub-Strain</a></h3>
-<table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left"><strong>Physical Damage.</strong> Take DV 1d6.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left"><strong>Enhanced Behavior: Aggression.</strong> You are unnecessarily hostile. You respond to any challenge, threat, or provocation with intimidation or violence.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Restricted Behavior: Remorse.</strong> You are oblivious or ambivalent to the negative repercussions of your actions on others.</td></tr>
@@ -173,6 +176,7 @@
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Motivation: +No Quarter.</strong> You refuse to flee or surrender, even if the odds are overwhelming. You also refuse to spare your enemies or show mercy.</td></tr>
 <tr><td style="text-align: center">6+</td><td style="text-align: left"><strong>Frenzy:</strong> Within the next 24 hours, you frenzy if blood is spilled near you. For 1d6 minutes, you receive +10 on melee attacks, inflict +1d6 DV melee damage, and ignore the effects of one wound (cumulative with other pain editors, up to a maximum of 3 wound effects). However, you must make a WIL Check to use a ranged weapon against a target in melee range or to restrain yourself from attacking anyone brandishing a weapon or otherwise hostile.</td></tr>
 </tbody></table>
+</div>
 <hr />
 <div class="stat-list">
 <ul>
@@ -184,7 +188,7 @@
 </blockquote>
 <blockquote class="table">
 <h3 id="haunter-sub-strain"><a class="header" href="#haunter-sub-strain">Haunter Sub-Strain</a></h3>
-<table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left"><strong>Physical Damage.</strong> Take DV 1d6.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left"><strong>Enhanced Behavior: Avoidance.</strong> You acquire an intolerance for a specific type of sensory input: smells, sounds, light, darkness, etc. You will go to great lengths to avoid it.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Enhanced Behavior: Mistrust.</strong> You are convinced that nothing is as it seems. The signs of conspiracy, of falsehood, of <em>wrongness</em> are everywhere. Your allies may be compromised without their knowledge. Everything is suspect.</td></tr>
@@ -192,6 +196,7 @@
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Motivation: +Isolation.</strong> You are disgusted by the presence of others and called by the desire to embrace the void. You will seek to isolate yourself from others and meditate with the silent voices in the dark. You may even go so far as to barricade yourself in, hide where you cannot be found, or take a spacewalk to commune with the dark universe.</td></tr>
 <tr><td style="text-align: center">6+</td><td style="text-align: left"><strong>Hallucination:</strong> Within the next 24 hours, you experience a full-sensory hallucination. The GM describes a scene to you as if were real, and you respond accordingly. The hallucination may be as subtle as seeing something crawling under an NPC’s skin to as immersive as suddenly finding yourself in an alien environment, but it lasts no more than a few minutes. If you have cause to disbelieve the illusion, you may make an INT Check to spot the falsehood; even if successful, however, the hallucination will still play out. Some hallucinations may just provide unnerving or horrifying experiences, a sign that the universe is unraveling around you. Others may provide obfuscated insights, reveal hidden connections, or hint at things to come.</td></tr>
 </tbody></table>
+</div>
 <hr />
 <div class="stat-list">
 <ul>
@@ -203,7 +208,7 @@
 </blockquote>
 <blockquote class="table">
 <h3 id="stranger-sub-strain"><a class="header" href="#stranger-sub-strain">Stranger Sub-Strain</a></h3>
-<table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left"><strong>Physical Damage.</strong> Take DV 1d6.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left"><strong>Enhanced Behavior: Deceit.</strong> Truth becomes uninteresting, you lie just to get the thrill of manipulating others, no matter the consequences. You avoid blatant mis-truths, but take pleasure in misleading others, even with trivial details. The rush when seeding doubt and uncertainty, even if it casts aspersions on others, is intoxicating.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Enhanced Behavior: Self-Sabotage.</strong> You are your own worst enemy. You choose the worst options for yourself and always take the wrong path.</td></tr>
@@ -211,6 +216,7 @@
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Motivation: +Manipulation.</strong> You get a thrill at steering people into actions and behaviors that fit your plans.</td></tr>
 <tr><td style="text-align: center">6+</td><td style="text-align: left"><strong>Motivation: +Test Limits.</strong> You like to see how far you can get things to go. You might bypass an opportunity to quickly resolve a conflict, ignore fast solutions in order to drag an emergency out, or intentionally spread misinformation that you know will aggravate tensions between already near-hostile parties. You will press buttons, fan the flames, exploit vulnerabilities, reveal horrible truths, push boundaries, and stir things up, even if it puts you and your comrades at risk.</td></tr>
 </tbody></table>
+</div>
 <hr />
 <div class="stat-list">
 <ul>
@@ -222,7 +228,7 @@
 </blockquote>
 <blockquote class="table">
 <h3 id="xenomorph-sub-strain"><a class="header" href="#xenomorph-sub-strain">Xenomorph Sub-Strain</a></h3>
-<table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">D6 Roll</th><th style="text-align: left">Influence Effect</th></tr></thead><tbody>
 <tr><td style="text-align: center">1</td><td style="text-align: left"><strong>Physical Damage.</strong> Take DV 1d6.</td></tr>
 <tr><td style="text-align: center">2</td><td style="text-align: left"><strong>Enhanced Behavior: Non-verbal Communication.</strong> Words become less important. You prefer conveying intent by posture, expressions, threat displays, and similar physical emotive cues.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Enhanced Behavior: Cliquishness.</strong> You are rude, mistrustful, and hostile to outsiders, but supportive to your pack.</td></tr>
@@ -230,6 +236,7 @@
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Motivation: +Control Territory.</strong> You must free an area you control from outside threats. You may be inclined to stock provisions, set traps, and otherwise protect your space from intruders.</td></tr>
 <tr><td style="text-align: center">6+</td><td style="text-align: left"><strong>Motivation: +Express True Form.</strong> You are no longer satisfied to dwell in inferior physical forms. You will go to great lengths to modify yourself, whether sophisticated or crude.</td></tr>
 </tbody></table>
+</div>
 <hr />
 <div class="stat-list">
 <ul>
@@ -271,21 +278,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

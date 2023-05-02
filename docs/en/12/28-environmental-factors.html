@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -154,13 +156,13 @@
 <p>If gravity pulls you towards an unwelcome collision, use the Falling Damage table to determine the result. Kinetic armor mitigates this damage at half its value. GMs may also reduce this damage if anything helped to break the fall (branches, soft surface) at their discretion. Double the distance categories for low gravity; halve them for high gravity.</p>
 <blockquote class="table">
 <h3 id="falling-damage"><a class="header" href="#falling-damage">Falling Damage</a></h3>
-<table><thead><tr><th style="text-align: left">Distance Fallen</th><th style="text-align: center">Damage Value</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Distance Fallen</th><th style="text-align: center">Damage Value</th></tr></thead><tbody>
 <tr><td style="text-align: left">1–2 meters</td><td style="text-align: center">1d10</td></tr>
 <tr><td style="text-align: left">3–5 meters</td><td style="text-align: center">2d10</td></tr>
 <tr><td style="text-align: left">6–8 meters</td><td style="text-align: center">3d10</td></tr>
 <tr><td style="text-align: left">Over 8 meters</td><td style="text-align: center">+1 per meter</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="fire"><a class="header" href="#fire">Fire</a></h2>
 <p>Objects that come into contact with extreme heat or flames may catch fire at the GM’s discretion, keeping in mind both the flammability of the material and the strength of the heat/flames. Burning items or characters suffer DV 1d6 each action turn. Energy armor protects against this damage, though it too may catch fire, reducing its value by the damage inflicted. Depending on environmental conditions, fires are likely to grow larger unless somehow abated. Every 5 action turns, increase the DV inflicted (first to 1d10, then 2d10, then 3d10, then by increments of +5). Adverse conditions (such as rain) or efforts to extinguish the blaze will reduce the DV accordingly.</p>
 <p>Note that fire does not burn in vacuum. In microgravity, fire burns in a sphere and grows more slowly, as expanding gases push away the oxygen (increase the DV every 10 action turns). If there is a lack of air circulation, some microgravity fires may extinguish themselves.</p>
@@ -219,21 +221,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

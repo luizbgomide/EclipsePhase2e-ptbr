@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -147,14 +149,14 @@
 <p>Each time a glitch is inflicted, roll 1d6, consult the Glitch Table, and apply the result.</p>
 <blockquote class="table">
 <h3 id="glitch-table"><a class="header" href="#glitch-table">Glitch Table</a></h3>
-<table><thead><tr><th style="text-align: center">1D6 Roll</th><th style="text-align: left">Glitches</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">1D6 Roll</th><th style="text-align: left">Glitches</th></tr></thead><tbody>
 <tr><td style="text-align: center">1–2</td><td style="text-align: left"><strong>Lost Connectivity:</strong> All communication links to remote systems are dropped. If you are accessing a remote system, you are logged out. If the affected target is a cyberbrain, its morph collapses or freezes up.</td></tr>
 <tr><td style="text-align: center">3</td><td style="text-align: left"><strong>Encoding Error:</strong> If you are a covert or hidden intruder, you become spotted. If your mesh ID was anonymized, your real ID is leaked and logged. If you are a legitimate user/software, the system now identifies you as a spotted intruder and will enact appropriate countermeasures. A firewall or operating system inflicted with this glitch will consider the entire system to be compromised and initiate a reboot.</td></tr>
 <tr><td style="text-align: center">4</td><td style="text-align: left"><strong>Memory Loss:</strong> Egos within infomorphs/cyberbrains lose access to certain memories. The GM selects one set of memories or one skill — these memories or skill are unavailable until you reboot. Targeted apps and operating systems forget important data, potentially becoming unusable in certain circumstances. Targeted account shells must take an action to re-authenticate, perhaps requiring a Hacking Test if they lack credentials.</td></tr>
 <tr><td style="text-align: center">5</td><td style="text-align: left"><strong>Hung Process:</strong> One of your apps or other connected software (determined by the GM) freezes up and stops functioning until it is restarted (taking 1d6 action turns). This could even be another process on the system you have recently interacted with (perhaps preventing certain actions). For cyberbrains, this may mean losing access to a part of your morph’s functionality, such as a limb, a sense, or other ware.</td></tr>
 <tr><td style="text-align: center">6</td><td style="text-align: left"><strong>Overload:</strong> A malfunctioning process voraciously consumes system resources. You are unable to use pool for mesh-related actions for 1d6 action turns. Apps struck by this glitch can only function every other action turn. Overloaded operating systems may randomly disconnect users.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -188,21 +190,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

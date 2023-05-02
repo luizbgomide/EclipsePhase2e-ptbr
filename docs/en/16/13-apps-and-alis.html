@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -146,7 +148,7 @@
 <p>Software is not a tangible good, so it cannot be nanofabricated.</p>
 <h2 id="apps"><a class="header" href="#apps">Apps</a></h2>
 <p>This software can be run on any computerized device.</p>
-<table><thead><tr><th style="text-align: left">APPS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">APPS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left">AR Illusion</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Create realistic entoptic illusions.</td></tr>
 <tr><td style="text-align: left">Biometric Matcher</td><td style="text-align: center">Min/1</td><td style="text-align: left">Match biometric patterns.</td></tr>
 <tr><td style="text-align: left">Crypto</td><td style="text-align: center">Min/1</td><td style="text-align: left">Encrypt/decrypt files and messages.</td></tr>
@@ -160,6 +162,7 @@
 <tr><td style="text-align: left">VPN</td><td style="text-align: center">Min/1</td><td style="text-align: left">Creates virtual private network.</td></tr>
 <tr><td style="text-align: left">XP</td><td style="text-align: center">Min+/1+</td><td style="text-align: left">Clips of others’ recorded sensorium</td></tr>
 </tbody></table>
+</div>
 <p><strong>AR Illusion:</strong> A media library and editing suite you can use to create realistic entoptic illusions.</p>
 <p><strong>Biometric Matcher:</strong> This app takes any biometric pattern — face, gait, morph, voice, etc. — and runs a pattern-matching search (<a href="../13/10-tracking.html#tracking-by-biometrics">Tracking by Biometrics</a>).</p>
 <p><strong>Crypto:</strong> This app generates key pairs, encrypts messages using public keys, and decrypts with secret keys (<a href="../13/05-authentication-and-encryption.html#encryption">Encryption</a>).</p>
@@ -174,7 +177,7 @@
 <p><strong>XP:</strong> Clips of someone else’s experiences. Depending on the content, some XP (porn, snuff, crime, etc.) is restricted in certain jurisdictions. XP clips are frequently modified so that their emotive tracks are more intense, giving the viewer a greater thrill.</p>
 <h2 id="alis-and-muses"><a class="header" href="#alis-and-muses">ALIs and Muses</a></h2>
 <p>Everyone has a muse, and every device has a built-in ALI (<a href="../13/07-ais-and-muses.html">AIs &amp; Muses</a>). All ALI infomorphs have Wound Threshold 4, Durability 20, and Death Rating 40 for mesh combat.</p>
-<table><thead><tr><th style="text-align: left">ALIs &amp; MUSES</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Skills</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">ALIs &amp; MUSES</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Skills</th></tr></thead><tbody>
 <tr><td style="text-align: left">Bot/Vehicle ALI</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Fray 30, Guns 30, Hardware: [appropriate field] 20 (specific bot/vehicle 30), Infosec 20, Interface 30, Know: [bot/vehicle] Specs 80, Perceive 40, Pilot: [appropriate field] 60 (specific bot/vehicle 70), Research 20</td></tr>
 <tr><td style="text-align: left">Device ALI</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Hardware: Electronics 20 (specific device 30), Infosec 20, Interface 30 (specific device 40), Know: [device] Specs 80, Know: [device] Usage 80, Perceive 20, Program 30 (specific device 40), Research 20</td></tr>
 <tr><td style="text-align: left">Kaos ALI</td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Guns 40, Hardware: Electronics 40, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 40, Research 30</td></tr>
@@ -182,6 +185,7 @@
 <tr><td style="text-align: left">Security ALI</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Guns 30, Hardware: Electronics 30, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 30, Research 20</td></tr>
 <tr><td style="text-align: left">Sentry ALI</td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Fray 30, Guns 60, Hardware: [appropriate field] 30, Interface 30, Kinesics 40, Know: [bot/vehicle] Specs 80, Know: Security Ops 80, Perceive 40, Pilot: [appropriate field] 40, Provoke 30</td></tr>
 </tbody></table>
+</div>
 <p><strong>Bot/Vehicle ALI:</strong> These AIs can pilot and control the bot/vehicle they are designed for without transhuman assistance.</p>
 <p><strong>Device ALI:</strong> These resident ALIs help transhumans operate a particular device or do it for them. They are included in most non-ware gear items.</p>
 <p><strong>Kaos ALI:</strong> KALIs are used by hackers and covert ops teams to create distractions and sabotage systems.</p>
@@ -190,21 +194,23 @@
 <p><strong>Sentry ALI:</strong> Combat ALIs for physical security.</p>
 <h2 id="scorchers"><a class="header" href="#scorchers">Scorchers</a></h2>
 <p>Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrains.</p>
-<table><thead><tr><th style="text-align: left">SCORCHERS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">SCORCHERS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left">Bedlam</td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Horrifying inputs, SV 1d10 [6], +1d6 per superior success.</td></tr>
 <tr><td style="text-align: left">Cauterizer</td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Destructive neurofeedback, DV 1d10 + 5 [11], +1d6 per superior success.</td></tr>
 <tr><td style="text-align: left">Nightmare</td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Trigger anxiety/panic, WIL Check or SV 1d6 [4] and acute stress response for 1d6 minutes.</td></tr>
 <tr><td style="text-align: left">Spasm</td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.</td></tr>
 </tbody></table>
+</div>
 <p><strong>Bedlam:</strong> Bedlam assaults the ego with traumatic mental input, inflicting mental stress. Victims are overwhelmed with horrific, monstrous, sanity-ripping sensory and emotional tracks. Each attack inflicts SV 1d10, +1d6 per superior success.</p>
 <p><strong>Cauterizer:</strong> This scorch app rips into the ego with destructive neurofeedback routines. Against a cyberbrained ego, the cauterizer inflicts DV 1d10 + 5, +1d6 per superior success, to the target's morph (this is physical damage, not mesh damage). Against an infomorph, the cauterizer inflicts a DV 3d10 mesh attack of digitized neurological damage.</p>
 <p><strong>Nightmare:</strong> Nightmares trigger anxiety and panic attacks within the victim by stimulating the neural circuitry representing the amygdala and hippocampus. The target ego must make a WIL Check. If they succeed, they are shaken, suffering a −10 impairment modifier to all actions until the end of the next action turn. If they fail, they suffer SV 1d6 and suffer an <a href="../12/18-mental-health.html#acute-stress-responses">acute stress response</a> lasting for 1d6 minutes, +1 per superior failure.</p>
 <p><strong>Spasm:</strong> Spasm scorchers incapacitate the ego with excruciating pain. Affected targets must immediately make a WIL Check. If they fail, they fall down and are incapacitated for 1 action turn (+2 turns per superior failure) and stunned for 3 minutes. Success means they are stunned for 3 action turns. Due to the nature of the delivery, pain tolerance of any sort has no effect.</p>
 <h2 id="tactical-networks"><a class="header" href="#tactical-networks">Tactical Networks</a></h2>
 <p>Tacnets allow a group and their muses/gear to share real-time tactical situational and sensory data over encrypted mesh channels. They are used by sports teams, security/military units, gamers, and anyone else that needs to coordinate actions.</p>
-<table><thead><tr><th style="text-align: left">TACNETS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">TACNETS</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left">TacNet</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Share tactical data in real-time.</td></tr>
 </tbody></table>
+</div>
 <p>Tacnets provide the following functions:</p>
 <ul>
 <li><strong>Maps:</strong> Tacnets present maps from a bird’s eye, three-dimensional interactive, or first-person entoptic view, tagging notable features and marking distances. They can also plot maps based on sensory input, positioning systems, and other data.</li>
@@ -251,21 +257,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

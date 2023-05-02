@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -144,7 +146,7 @@
                     <main>
                         <h1 id="spray-weapons"><a class="header" href="#spray-weapons">Spray Weapons</a></h1>
 <p>Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once (<a href="../12/15-special-attacks.html#area-effect-attacks">Area Effect</a>). They are fired using Guns skill.</p>
-<table><thead><tr><th style="text-align: left">SPRAY WEAPONS</th><th style="text-align: center">Area Effect</th><th style="text-align: center">Damage Value [Average]</th><th style="text-align: center">Firing Modes</th><th style="text-align: center">Ammo</th><th style="text-align: center">Range</th><th style="text-align: center">Armor Used</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Notes</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">SPRAY WEAPONS</th><th style="text-align: center">Area Effect</th><th style="text-align: center">Damage Value [Average]</th><th style="text-align: center">Firing Modes</th><th style="text-align: center">Ammo</th><th style="text-align: center">Range</th><th style="text-align: center">Armor Used</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Notes</th></tr></thead><tbody>
 <tr><td style="text-align: left">Buzzer</td><td style="text-align: center">Cone</td><td style="text-align: center">As swarm</td><td style="text-align: center">SS</td><td style="text-align: center">3</td><td style="text-align: center">15</td><td style="text-align: center">As swarm</td><td style="text-align: center">As specialized hive</td><td style="text-align: left">Long, Two-Handed</td></tr>
 <tr><td style="text-align: left">Freezer</td><td style="text-align: center">Cone</td><td style="text-align: center">—</td><td style="text-align: center">SS</td><td style="text-align: center">20</td><td style="text-align: center">15</td><td style="text-align: center">—</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Entangling, Long, Two-Handed</td></tr>
 <tr><td style="text-align: left">Plasma Rifle</td><td style="text-align: center">Cone</td><td style="text-align: center">4d10 + 10 [32]</td><td style="text-align: center">SA</td><td style="text-align: center">6</td><td style="text-align: center">25</td><td style="text-align: center">E</td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Armor-Piercing, Long, Two-Handed</td></tr>
@@ -154,6 +156,7 @@
 <tr><td style="text-align: left">Torch</td><td style="text-align: center">Cone</td><td style="text-align: center">3d10 [17]</td><td style="text-align: center">SS</td><td style="text-align: center">20</td><td style="text-align: center">15</td><td style="text-align: center">E</td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Long, Two-Handed</td></tr>
 <tr><td style="text-align: left">Vortex Ring Gun</td><td style="text-align: center">Cone</td><td style="text-align: center">1d6 [4]</td><td style="text-align: center">SA</td><td style="text-align: center">20</td><td style="text-align: center">15</td><td style="text-align: center">E</td><td style="text-align: center">Min/1</td><td style="text-align: left">Knockdown, Long, Stun, Two-Handed</td></tr>
 </tbody></table>
+</div>
 <p><strong>Ammunition:</strong> With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the <a href="../12/04-ranged-combat.html#ammunition-and-reloading">ammunition and reloading rules</a>.</p>
 <p><strong>Buzzer:</strong> Buzzers are used to deploy a particular type of nanoswarm, either at a target or over an area. They carry a limited number of swarms, but contain a <a href="../16/19-nanotech.html#hives">specialized hive</a> that can construct new swarms.</p>
 <p><strong>Freezer:</strong> Freezers spew out a fast-hardening foam that immediately hardens. They are primarily used as a non-lethal method of immobilizing or securing a target. Struck characters must immediately make a REF Check or become trapped; treat as the <a href="../12/21-other-action-factors.html#conditions">grappled condition</a>. Breaking free requires a SOM Check by the trapped target (at −30) or an outside helper. The attacker's superior successes can be used to apply a cumulative −10 modifier to these checks. Additional shots can be used to apply more layers to a trapped target (each requiring a SOM Check to break free). The foam allows characters to breathe even if their mouth and nose are covered, but it may impede sight. Freezer foam can be spiked with contact toxins or drugs to additionally incapacitate the target. It can also be used to construct temporary barricades or cover (creating moderate cover for 1 person per shot). Hardened foam has an Armor of 5/10 and Durability of 20. It slowly breaks down and degrades over a 12-hour period.</p>
@@ -196,21 +199,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

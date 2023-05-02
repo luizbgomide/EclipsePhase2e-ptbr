@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -163,7 +165,7 @@
 <p>As you complete scenarios and gather experience during gameplay, you accumulate <a href="../17/08-rez-and-rep-rewards.html#rez-points">Rez Points</a>. You can spend your downtime training and use these Rez Points to improve your character’s stats. You cannot spend more than 1 RP on improvement per downtime week.</p>
 <blockquote class="table">
 <h3 id="spending-rez-points"><a class="header" href="#spending-rez-points">Spending Rez Points</a></h3>
-<table><thead><tr><th style="text-align: left">Improvement</th><th style="text-align: center">RP Cost</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Improvement</th><th style="text-align: center">RP Cost</th></tr></thead><tbody>
 <tr><td style="text-align: left">5 Rep points</td><td style="text-align: center">1 RP</td></tr>
 <tr><td style="text-align: left">5 Skill points</td><td style="text-align: center">1 RP</td></tr>
 <tr><td style="text-align: left">1 Specialization</td><td style="text-align: center">1 RP</td></tr>
@@ -173,7 +175,7 @@
 <tr><td style="text-align: left">1 Flex point</td><td style="text-align: center">2 RP</td></tr>
 <tr><td style="text-align: left">Ego Traits</td><td style="text-align: center">RP = CP Cost/Bonus</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="gain-a-positive-ego-trait"><a class="header" href="#gain-a-positive-ego-trait">Gain a Positive Ego Trait</a></h3>
 <p>You may spend RP to purchase a positive ego trait of an equivalent CP Cost. You can also upgrade existing traits to higher levels. The GM must approve this transaction. New traits should only be acquired as a consequence of the storyline and unfolding events in the game. For example, a character that discovered a cache of wealth might be allowed to buy the Resources trait. Note that you must pay RP for any positive ego traits you gain, whether or not you wanted them. If you have no unspent RP available, you must pay out immediately from any future RP you earn until the debt is paid off.</p>
 <p>Note that you do not gain RP from any positive ego traits you lose as a consequence of your actions, nor any negative ego traits you acquire during gameplay — you are simply saddled with the new flaw.</p>
@@ -235,21 +237,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

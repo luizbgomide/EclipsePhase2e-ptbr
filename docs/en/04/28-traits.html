@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -150,7 +152,7 @@
 <p>Positive traits have a CP or MP Cost and provide bonuses.</p>
 <blockquote class="framed-table">
 <h3 id="positive-ego-traits"><a class="header" href="#positive-ego-traits">Positive Ego Traits</a></h3>
-<table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">CP Cost</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">CP Cost</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#acumen">Acumen</a></td><td style="text-align: center">1/2/3</td><td style="text-align: left">+5 per level to COG Checks.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#adaptability">Adaptability</a></td><td style="text-align: center">2/4</td><td style="text-align: left">Easier resleeving. +10 per level to Integration and Resleeving Stress Tests.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#allies">Allies</a></td><td style="text-align: center">4</td><td style="text-align: left">A group supports you. Free moderate favor per session.</td></tr>
@@ -183,10 +185,10 @@
 <tr><td style="text-align: left"><a href="../04/28-traits.html#superior-numeracy">Superior Numeracy</a></td><td style="text-align: center">2/4</td><td style="text-align: left">+10 per level to Know and Technical Tests involving math.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#zoosemiotics">Zoosemiotics</a></td><td style="text-align: center">1</td><td style="text-align: left">No modifier using psi on non- or partly-sapient animals.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <blockquote class="framed-table">
 <h3 id="positive-morph-traits"><a class="header" href="#positive-morph-traits">Positive Morph Traits</a></h3>
-<table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">MP Cost</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">MP Cost</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#acumen">Acumen</a></td><td style="text-align: center">1/2/3</td><td style="text-align: left">+5 per level to COG Checks.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#digital-speed">Digital Speed</a></td><td style="text-align: center">1</td><td style="text-align: left">Mesh task timeframes reduced 25%. Infomorphs only.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#empathy">Empathy</a></td><td style="text-align: center">1/2/3</td><td style="text-align: left">+5 per level to SAV Checks.</td></tr>
@@ -207,7 +209,7 @@
 <tr><td style="text-align: left"><a href="../04/28-traits.html#striking-looks">Striking Looks</a></td><td style="text-align: center">1/2</td><td style="text-align: left">+10 on Persuade and Provoke Tests where looks matter.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#toughness">Toughness</a></td><td style="text-align: center">2/4</td><td style="text-align: left">+5 DUR, also impacts WT and DR, see text.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="acumen"><a class="header" href="#acumen">Acumen</a></h3>
 <p><strong>▲ Ego or ▼ Morph Trait • CP/MP Cost: 1/2/3</strong></p>
 <p>You have a keen intellect. Add +5 per level to your COG Checks.</p>
@@ -348,7 +350,7 @@
 <p>Negative traits provide a CP or MP bonus and impair you.</p>
 <blockquote class="framed-table">
 <h3 id="negative-ego-traits"><a class="header" href="#negative-ego-traits">Negative Ego Traits</a></h3>
-<table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">CP Bonus</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">CP Bonus</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#addiction">Addiction</a></td><td style="text-align: center">1/2/4</td><td style="text-align: left">−10 per level if no regular fix; see text for additional effects.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#bad-luck">Bad Luck</a></td><td style="text-align: center">6</td><td style="text-align: left">May not use pools to flip-flop dice rolls.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#blocklisted-rep">Blocklisted Rep</a></td><td style="text-align: center">1/4</td><td style="text-align: left">Cannot have rep score in one rep net (higher value if own faction’s rep net).</td></tr>
@@ -377,10 +379,10 @@
 <tr><td style="text-align: left"><a href="../04/28-traits.html#timidity">Timidity</a></td><td style="text-align: center">1/2/3</td><td style="text-align: left">−5 per level to WIL Checks.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#vr-vertigo">VR Vertigo</a></td><td style="text-align: center">2</td><td style="text-align: left">−30 modifier using XP/VR; −10 using AR. SOM Check or incapacitated.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <blockquote class="framed-table">
 <h3 id="negative-morph-traits"><a class="header" href="#negative-morph-traits">Negative Morph Traits</a></h3>
-<table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">MP Bonus</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Trait</th><th style="text-align: center">MP Bonus</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#addiction">Addiction</a></td><td style="text-align: center">1/2/4</td><td style="text-align: left">−10 per level if no regular fix; see text for additional effects. Biomorphs only.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#age">Age</a></td><td style="text-align: center">4</td><td style="text-align: left">−10 to physical actions. Flats and splicers only.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#dominant-limb">Dominant Limb</a></td><td style="text-align: center">1</td><td style="text-align: left">−20 to tests made with non-dominant limbs.</td></tr>
@@ -410,7 +412,7 @@
 <tr><td style="text-align: left"><a href="../04/28-traits.html#weak-immune-system">Weak Immune System</a></td><td style="text-align: center">1/2</td><td style="text-align: left">−10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.</td></tr>
 <tr><td style="text-align: left"><a href="../04/28-traits.html#zero-g-nausea">Zero-G Nausea</a></td><td style="text-align: center">2</td><td style="text-align: left">−10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="addiction"><a class="header" href="#addiction">Addiction</a></h3>
 <p><strong>▲ Ego or ▼ Morph Trait • CP/MP Bonus: 1/2/4</strong></p>
 <p>You have a pathological reliance on a <a href="../16/15-chemicals-drugs-and-toxins.html#addiction-and-abuse">drug</a>, stimulus (e.g., XP, VR), or activity (e.g., mesh use, dying) to a degree that impacts your physical or mental health. Addiction comes in two forms: mental (affecting the ego) and physical (affecting the biomorph). Work with your GM to choose an addiction that is appropriate for your game.</p>
@@ -605,21 +607,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -146,19 +148,21 @@
 <p>In Eclipse Phase, most vehicles are piloted by ALI. You simply get in the vehicle and tell it where to go. Manual piloting is for emergencies, control freaks, and people who don’t like machines. Like robots, vehicles can be remotely operated. They are not equipped for sleeving into, however, unless you add a cyberbrain system.</p>
 <h2 id="vehicle-ware"><a class="header" href="#vehicle-ware">Vehicle Ware</a></h2>
 <p>All vehicles include the same sensory systems used in morphs and bots: standard vision, hearing, touch, proprioception, balance, etc. They are also all equipped with a standard set of necessary ware, listed below, in addition to that listed with their specific description. You may also modify a vehicle with extra ware, just like a synthmorph.</p>
-<table><thead><tr><th style="text-align: left">ALL VEHICLES</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">ALL VEHICLES</th></tr></thead><tbody>
 <tr><td style="text-align: left">Unless otherwise noted, all vehicles are equipped with the following hardware, in addition to that listed with their specific description:</td></tr>
 <tr><td style="text-align: left"><ul class="stat-list indent"><li><strong>Ware:</strong> Access Jacks, Mesh Inserts, Puppet Sock, Radar</ul></td></tr>
 <tr><td style="text-align: left">Additionally, vehicles with closed compartments are sealed/pressurized and have either a Breather (undersea or atmosphere with carbon dioxide) or Life Support (48 hours).</td></tr>
 <tr><td style="text-align: left">Vehicles designed for Mercury have Thermogenic Protection, Venusian vehicles have Pressure Adaptation and Thermogenic Protection, and Titanian vehicles have Cryogenic Protection.</td></tr>
 </tbody></table>
+</div>
 <h3 id="vehicle-hardware"><a class="header" href="#vehicle-hardware">Vehicle Hardware</a></h3>
 <p>A few enhancements are designed specifically for vehicles, though some robots also use them:</p>
-<table><thead><tr><th style="text-align: left">VEHICLE HARDWARE</th><th style="text-align: center">Comp/<wbr>GP</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">VEHICLE HARDWARE</th><th style="text-align: center">Comp/<wbr>GP</th></tr></thead><tbody>
 <tr><td style="text-align: left">Improved Handling</td><td style="text-align: center">Mod/2</td></tr>
 <tr><td style="text-align: left">Life Support</td><td style="text-align: center">Min+/1+</td></tr>
 <tr><td style="text-align: left">Ram Plate</td><td style="text-align: center">Mod/R/2</td></tr>
 </tbody></table>
+</div>
 <p><strong>Improved Handling:</strong> This vehicle is more maneuverable and responsive to controls. Apply a +10 modifier to Pilot Tests.</p>
 <p><strong>Life Support:</strong> The vehicle has a pressurized and heated/cooled compartment with air capable of supporting one or more biomorphs comfortably for a listed period. Such vehicles have airtight environmental seals, but usually do not have full double airlocks. The listed life support timeframe is according to the vehicle’s medium-sized passenger capacity; adjust as appropriate for more/less or small/large passengers. Most life support systems are designed to last 48 hours, extended periods require extra tanks.</p>
 <p><strong>Ram Plate:</strong> A heavy metal plate affixed to the front, for ramming other vehicles. Increase the DV inflicted on the other vehicle by +2d10 (<a href="../12/25-vehicle-movement.html#collisions">Collisions</a>).</p>
@@ -293,11 +297,12 @@ Walker 4/20, Wheeled 8/40<td>VL</tr>
 <p><strong>Mini-Sub:</strong> This submersible is for small groups and cargo.</p>
 <h2 id="personal-transport-devices"><a class="header" href="#personal-transport-devices">Personal Transport Devices</a></h2>
 <p>These one-person movement aids are primarily used in space or undersea. Use with Pilot: Nautical or Pilot: Space as appropriate and repair with Hardware: Nautical or Hardware: Aerospace.</p>
-<table><thead><tr><th style="text-align: left">PERS TRANSPORT</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: center">Pass</th><th style="text-align: center">Vigor</th><th style="text-align: center">Flex</th><th style="text-align: center">Armor</th><th style="text-align: center">WT</th><th style="text-align: center">DUR</th><th style="text-align: center">DR</th><th style="text-align: center">Movement</th><th style="text-align: center">Size</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">PERS TRANSPORT</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: center">Pass</th><th style="text-align: center">Vigor</th><th style="text-align: center">Flex</th><th style="text-align: center">Armor</th><th style="text-align: center">WT</th><th style="text-align: center">DUR</th><th style="text-align: center">DR</th><th style="text-align: center">Movement</th><th style="text-align: center">Size</th></tr></thead><tbody>
 <tr><td style="text-align: left">Rocket Pack</td><td style="text-align: center">Mod/2</td><td style="text-align: center">1</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">6/4</td><td style="text-align: center">6</td><td style="text-align: center">30</td><td style="text-align: center">60</td><td style="text-align: center">Thrust Vector (Rocket) 8/40</td><td style="text-align: center">S</td></tr>
 <tr><td style="text-align: left">Sled</td><td style="text-align: center">Min/1</td><td style="text-align: center">2</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">6/4</td><td style="text-align: center">8</td><td style="text-align: center">40</td><td style="text-align: center">80</td><td style="text-align: center">Thrust Vector (Rocket) 8/40</td><td style="text-align: center">S</td></tr>
 <tr><td style="text-align: left">Thruster Pack</td><td style="text-align: center">Min/1</td><td style="text-align: center">1</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">6/4</td><td style="text-align: center">6</td><td style="text-align: center">30</td><td style="text-align: center">60</td><td style="text-align: center">Thrust Vector (Rocket) 8/40</td><td style="text-align: center">S</td></tr>
 </tbody></table>
+</div>
 <p><strong>Rocket Pack:</strong> This is a miniature metallic hydrogen rocket that you strap to your back, with two rocket exhausts extending out to either side, away from your body or legs. To prevent burns, a biomorph must be wearing a heat resistant garment such as a vacsuit. Also, to prevent harm, the thrust must be kept sufficiently low that it can only take off on Mars or moons with even lower gravity. A rocket pack can keep you airborne for up to 15 minutes in Mars gravity, or 30 minutes on Luna, Titan, and smaller moons and asteroids. It can be used to reach orbit and land again on Luna, Titan, and other similarly small bodies like the Jovian moons.</p>
 <p><strong>Sled:</strong> This small sled uses air impellers or nitrogen thrusters to maneuver in microgravity or vacuum, or propellers to move undersea. It is used to carry gear attached with numerous straps and clips. It can also pull along 2 medium-sized morphs.</p>
 <p><strong>Thruster Pack:</strong> Worn for micrograv operations or EVA in vacuum, this thruster pack uses vectored thrust nozzles to maneuver.</p>
@@ -305,7 +310,7 @@ Walker 4/20, Wheeled 8/40<td>VL</tr>
 <p>Though egocasting and nanofabrication have reduced the need, spacecraft continue to play an important role in transporting goods and people around the Solar System. Both in terms of materials and propulsion, spacecraft in the post-Fall era are far superior to the primitive vessels used in the 20th and early 21st centuries, but they are still based on the same principles.</p>
 <p>Spacecraft are flown with Pilot: Space skill and repaired with Hardware: Aerospace.</p>
 <p>Spacecraft have few stats in Eclipse Phase, as they are primarily handled as setting rather than vehicles. Note also that no stats are given for spacecraft weaponry. It is highly recommended that space combat be handled as a plot device rather than a combat scene, given the extreme lethality and danger involved. If you must know the DV of a spacecraft weapon, treat it as a standard weapon with a DV multiplier of x3 for small craft (fighters and shuttles), x5 for medium craft, and x10 for larger craft.</p>
-<table><thead><tr><th style="text-align: left">SPACECRAFT</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: center">Pass</th><th style="text-align: center">Vigor</th><th style="text-align: center">Flex</th><th style="text-align: center">Armor</th><th style="text-align: center">WT</th><th style="text-align: center">DUR</th><th style="text-align: center">DR</th><th style="text-align: center">Movement</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">SPACECRAFT</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: center">Pass</th><th style="text-align: center">Vigor</th><th style="text-align: center">Flex</th><th style="text-align: center">Armor</th><th style="text-align: center">WT</th><th style="text-align: center">DUR</th><th style="text-align: center">DR</th><th style="text-align: center">Movement</th></tr></thead><tbody>
 <tr><td style="text-align: left">Bulk Carrier</td><td style="text-align: center">Rare/—</td><td style="text-align: center">5+</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">40/30</td><td style="text-align: center">150</td><td style="text-align: center">750</td><td style="text-align: center">1,500</td><td style="text-align: center">Fusion</td></tr>
 <tr><td style="text-align: left">Courier</td><td style="text-align: center">Rare/—</td><td style="text-align: center">13</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">30/20</td><td style="text-align: center">100</td><td style="text-align: center">500</td><td style="text-align: center">1,000</td><td style="text-align: center">Anti-matter</td></tr>
 <tr><td style="text-align: left">Corvette</td><td style="text-align: center">Rare/—</td><td style="text-align: center">20–30</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">50/40</td><td style="text-align: center">150</td><td style="text-align: center">750</td><td style="text-align: center">1,500</td><td style="text-align: center">Fusion/<wbr>Anti-matter</td></tr>
@@ -316,6 +321,7 @@ Walker 4/20, Wheeled 8/40<td>VL</tr>
 <tr><td style="text-align: left">Shuttle (Small)</td><td style="text-align: center">Rare/—</td><td style="text-align: center">5–20</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">20/15</td><td style="text-align: center">80</td><td style="text-align: center">400</td><td style="text-align: center">800</td><td style="text-align: center">Metallic-Hydrogen</td></tr>
 <tr><td style="text-align: left">Transport</td><td style="text-align: center">Rare/—</td><td style="text-align: center">100+</td><td style="text-align: center">0</td><td style="text-align: center">0</td><td style="text-align: center">40/30</td><td style="text-align: center">150</td><td style="text-align: center">750</td><td style="text-align: center">1,500</td><td style="text-align: center">Fusion</td></tr>
 </tbody></table>
+</div>
 <p><strong>Bulk Carrier:</strong> This vessel is long and thin, with fusion rockets at one end and the cockpit and crew quarters at the other. Freight modules carrying cargo are grappled all along the spine. A pair of airlocked freight elevators move inside the spine. Carriers haul refined ores, ice, and similar large, useful, but low priority cargo at relatively low velocities. They also offer an inexpensive, reliable, and slow method for passengers to travel from one habitat to another and are not infrequently used by individuals who wish to disappear for a while. Bulk carriers lack rotating habitation rings, and are primary crewed by hibernoids, bouncers, and synthmorphs.</p>
 <p><strong>Courier:</strong> With their anti-matter drives, these fast couriers can cross the Solar System in a matter of days or weeks. They are reserved for high value and critical cargo.</p>
 <p><strong>Corvette:</strong> Corvettes are light warships and fast-attack craft. They primarily rely on fusion drives but also carry anti-matter for highspeed propulsion and devastating warheads. They are armed with railguns, lasers, drones, and missile systems.</p>
@@ -357,21 +363,22 @@ Walker 4/20, Wheeled 8/40<td>VL</tr>
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

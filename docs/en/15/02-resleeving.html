@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -168,14 +170,14 @@
 <p>The Resleeving Stress Test incorporates all of the mentally challenging aspects of downloading into a new body into a single test: alienation, continuity, remembering death, and lack. Like other <a href="../12/23-stressful-situations.html">stress tests</a>, make a WIL Check and apply modifiers as appropriate. The Stress Value is based on the most stressful aspect of resleeving. If this is standard alienation, continuity loss, and/or lack, the SV is 1d6. If you remember your death, or if you suffer a particularly long period of lack (over 3 months), the SV is 1d10/1. GMs should feel free to adjust these Stress Values as they see appropriate.</p>
 <blockquote class="table">
 <h3 id="resleeving-tests-1"><a class="header" href="#resleeving-tests-1">Resleeving Tests</a></h3>
-<table><thead><tr><th style="text-align: left"><strong>Integration Test:</strong></th><th style="text-align: right">SOM Check</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"><strong>Integration Test:</strong></th><th style="text-align: right">SOM Check</th></tr></thead><tbody>
 <tr><td style="text-align: left"><div class="indent">» Failure:</div></td><td style="text-align: right">−10 to all actions for 1 day, +1 day per superior failure.</td></tr>
 </tbody></table>
-<table><thead><tr><th style="text-align: left"><strong>Resleeving Stress Test:</strong></th><th style="text-align: right">WIL Check</th></tr></thead><tbody>
+</div><div class="table-wrapper"><table><thead><tr><th style="text-align: left"><strong>Resleeving Stress Test:</strong></th><th style="text-align: right">WIL Check</th></tr></thead><tbody>
 <tr><td style="text-align: left"><div class="indent">» Standard alienation/continuity loss/lack:</div></td><td style="text-align: right">SV 1d6</td></tr>
 <tr><td style="text-align: left"><div class="indent">» Remember your death/lengthy lack (3+ months):</div></td><td style="text-align: right">SV 1d10/1</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="resleeving-and-pools"><a class="header" href="#resleeving-and-pools">Resleeving and Pools</a></h2>
 <p>When you sleeve into a new morph, you gain immediate access to the new morph’s pools. However, any pool points you spent in the previous morph are temporarily deducted until you take a recharge action.</p>
 <blockquote>
@@ -216,21 +218,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

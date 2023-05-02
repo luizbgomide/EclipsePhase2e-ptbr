@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -160,13 +162,13 @@
 <p><strong>Ware:</strong> Note that cyberware, bioware, nanoware, etc., can be bought with either Morph Points or Gear Points.</p>
 <blockquote class="table">
 <h3 id="gear-point-value"><a class="header" href="#gear-point-value">Gear Point Value</a></h3>
-<table><thead><tr><th style="text-align: left">Gear Complexity</th><th style="text-align: center">Gear Point Cost</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Gear Complexity</th><th style="text-align: center">Gear Point Cost</th></tr></thead><tbody>
 <tr><td style="text-align: left">Minor</td><td style="text-align: center">1</td></tr>
 <tr><td style="text-align: left">Moderate</td><td style="text-align: center">2</td></tr>
 <tr><td style="text-align: left">Major</td><td style="text-align: center">3</td></tr>
 <tr><td style="text-align: left">Rare</td><td style="text-align: center">5+</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="increasing-gp"><a class="header" href="#increasing-gp">Increasing GP</a></h3>
 <p>There are two ways to increase your available GP:</p>
 <ul>
@@ -184,14 +186,14 @@
 <p>If the test (if any) is successful, you acquire/purchase/make the gear once the appropriate timeframe passes:</p>
 <blockquote class="table">
 <h3 id="acquisition-time"><a class="header" href="#acquisition-time">Acquisition Time</a></h3>
-<table><thead><tr><th style="text-align: left">Complexity</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Complexity</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
 <tr><td style="text-align: left">(Digital Only)</td><td style="text-align: center">1 minute</td></tr>
 <tr><td style="text-align: left">Minor</td><td style="text-align: center">2 hours</td></tr>
 <tr><td style="text-align: left">Moderate</td><td style="text-align: center">8 hours</td></tr>
 <tr><td style="text-align: left">Major</td><td style="text-align: center">24 hours</td></tr>
 <tr><td style="text-align: left">Rare/Restricted</td><td style="text-align: center">GM Choice</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="physical-vs-blueprints"><a class="header" href="#physical-vs-blueprints">Physical vs. Blueprints</a></h3>
 <p>When using rep or Resources to acquire gear, you choose between a physical item or a single-use blueprint accessed via a digital distribution platform (<a href="../16/03-nanofabrication.html#getting-blueprints">Getting Blueprints</a>). Single-use blueprints have a much quicker timeframe (1 minute). If the GM allows it, you may acquire a limited-use blueprint instead of single-use. Multi-use blueprints are also available, but are harder to get; increase the complexity by one step (i.e., Minor becomes Moderate). For simplicity, multi-use blueprints are assumed to come with one physical copy of the item.</p>
 <p>When acquiring software or similar digital-only goods, the 1-minute timeframe also applies.</p>
@@ -252,21 +254,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

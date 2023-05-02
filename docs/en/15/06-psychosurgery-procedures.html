@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -144,7 +146,7 @@
                     <main>
                         <h1 id="psychosurgery-procedures"><a class="header" href="#psychosurgery-procedures">Psychosurgery Procedures</a></h1>
 <p>The following alterations can be accomplished with psychosurgery. At the GM’s discretion, other mind-editing procedures can be attempted, using these as a guideline.</p>
-<table><thead><tr><th style="text-align: left">PSYCHOSURGERY PROCEDURE</th><th style="text-align: center">Timeframe</th><th style="text-align: center">SV</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">PSYCHOSURGERY PROCEDURE</th><th style="text-align: center">Timeframe</th><th style="text-align: center">SV</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left">Awareness Block</td><td style="text-align: center">1 week</td><td style="text-align: center">1d6</td><td style="text-align: left">Unaware of specified activity/behavior/thing.</td></tr>
 <tr><td style="text-align: left">Behavioral Masking</td><td style="text-align: center">1 week</td><td style="text-align: center">1d6/1</td><td style="text-align: left">−30 identification-based Kinesics Tests.</td></tr>
 <tr><td style="text-align: left">Deep Learning</td><td style="text-align: center">1 week</td><td style="text-align: center">1/—</td><td style="text-align: left">Can spend 2 RP per week to increase skills.</td></tr>
@@ -161,6 +163,7 @@
 <tr><td style="text-align: left">Skill Suppression</td><td style="text-align: center">(Skill ÷ 10) days</td><td style="text-align: center">(Skill ÷ 10) SV/—</td><td style="text-align: left">Removes skill.</td></tr>
 <tr><td style="text-align: left">Tasping</td><td style="text-align: center">1 hour+</td><td style="text-align: center">—</td><td style="text-align: left">Pure pleasure; may become addicted.</td></tr>
 </tbody></table>
+</div>
 <h2 id="awareness-block"><a class="header" href="#awareness-block">Awareness Block</a></h2>
 <p>This technique is used to block your awareness of specific actions, skills, memories, or even the environment around you. This differs from memory editing or skill suppression in that nothing is removed from your mind; you are simply prevented from accessing this knowledge. For example, you can be blocked from ever being aware of the color red, from remembering how to use a gun, or to automatically tune out anything to do with a specific hypercorp.</p>
 <p>When used to block out your own actions or behaviors, you are completely unaware of the blocked activity — even while you are doing it. If the action/behavior is pointed out, you will be inacapable of recognizing it or addressing it (attempts to force you to will instigate a Stress Test of SV 1d6/1).</p>
@@ -187,14 +190,14 @@
 <p>The process of merging also integrates any stress, traumas, and ego traits acquired by the fork back into the original ego.</p>
 <blockquote class="table">
 <h3 id="merging-1"><a class="header" href="#merging-1">Merging</a></h3>
-<table><thead><tr><th style="text-align: left">Divergence Period</th><th style="text-align: center">Modifier</th><th style="text-align: center">SV (failure/success)</th><th style="text-align: center">Base Memory Loss</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Divergence Period</th><th style="text-align: center">Modifier</th><th style="text-align: center">SV (failure/success)</th><th style="text-align: center">Base Memory Loss</th></tr></thead><tbody>
 <tr><td style="text-align: left">Up to 48 hours</td><td style="text-align: center">—</td><td style="text-align: center">1d6/—</td><td style="text-align: center">Solid merge, no memory loss.</td></tr>
 <tr><td style="text-align: left">48 hours to 1 week</td><td style="text-align: center">−10</td><td style="text-align: center">1d6/half</td><td style="text-align: center">Solid merge, no memory loss.</td></tr>
 <tr><td style="text-align: left">1 week to 1 month</td><td style="text-align: center">−20</td><td style="text-align: center">1d10/1d6</td><td style="text-align: center">Minor memory loss.</td></tr>
 <tr><td style="text-align: left">1 month to 6 months</td><td style="text-align: center">−30</td><td style="text-align: center">2d10/2d6</td><td style="text-align: center">Moderate memory loss.</td></tr>
 <tr><td style="text-align: left">6 months+</td><td style="text-align: center">−30</td><td style="text-align: center">3d10/3d6</td><td style="text-align: center">Major memory loss.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="neural-pruning"><a class="header" href="#neural-pruning">Neural Pruning</a></h2>
 <p>Neural pruning is the process of creating a <a href="../15/04-forking-and-merging.html#beta-forks">beta fork</a> from an alpha fork. Make a note of what skills and memories you want to decrease, eliminate, or keep. If you succeed, the fork is created as desired. If you fail, the beta fork acquires one of the following penalties, plus one per superior failure. Some of these penalties can be combined for a cumulative effect:</p>
 <ul>
@@ -253,21 +256,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

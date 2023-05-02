@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -151,7 +153,7 @@
 <p><strong>Infomorphs:</strong> The gear packs are built with embodied characters in mind. If you have chosen an infomorph, some of it may not work with your concept. In this case, you can either adopt the optional infomorph gear pack or switch out the gear you can’t use for meshware, apps, services, bots, etc. of an equivalent GP.</p>
 <h2 id="campaign-packs"><a class="header" href="#campaign-packs">Campaign Packs</a></h2>
 <h3 id="firewall-agentcriminal"><a class="header" href="#firewall-agentcriminal">Firewall Agent/Criminal</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/04-services.html#mesh-services">Anonymizer</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Masks your mesh ID.</td></tr>
 <tr><td style="text-align: left"><a href="../12/11-armor.html#armor-gear">Armor Vest (Light)</a>*</td><td style="text-align: center">Min/1</td><td style="text-align: left">AV 4/10. Concealable.</td></tr>
 <tr><td style="text-align: left"><a href="../16/04-services.html#physical-services">Fake Ego ID</a></td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Forged ID and back history, with its own rep scores.</td></tr>
@@ -160,15 +162,15 @@
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#tactical-networks">TacNet App</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Share tactical data in real-time.</td></tr>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">VPN App</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Creates virtual private network.</td></tr>
 </tbody></table>
-<blockquote class="indent">
+</div><blockquote class="indent">
 <h4 id="-synthmorph-alternative"><a class="header" href="#-synthmorph-alternative">* Synthmorph Alternative</a></h4>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Anti-Glare</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">No glare modifiers.</td></tr>
 <tr><td style="text-align: left"><a href="../12/11-armor.html#armor-ware">Industrial Armor</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">AV +6/+4.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="gatecrashing"><a class="header" href="#gatecrashing">Gatecrashing</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html#specialized-nanofabricators">Autocook</a>*</td><td style="text-align: center">Min/1</td><td style="text-align: left">Fab food and drink only.</td></tr>
 <tr><td style="text-align: left"><a href="../16/18-mission-gear.html#survival-tools">Electronic Rope</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Controllable rope.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html">Healing Spray</a>*</td><td style="text-align: center">Min/1</td><td style="text-align: left">Heals 1d10 damage per hour for 12 hours.</td></tr>
@@ -177,16 +179,16 @@
 <tr><td style="text-align: left"><a href="../16/18-mission-gear.html#vacsuits">Standard Vacsuit</a>*</td><td style="text-align: center">Maj/3</td><td style="text-align: left">As smart clothes, protects from vacuum, 48 hours air, AV 8/6.</td></tr>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#tactical-networks">TacNet App</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Share tactical data in real-time.</td></tr>
 </tbody></table>
-<blockquote class="indent">
+</div><blockquote class="indent">
 <h4 id="-synthmorph-alternative-1"><a class="header" href="#-synthmorph-alternative-1">* Synthmorph Alternative</a></h4>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Anti-Glare</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">No glare modifiers.</td></tr>
 <tr><td style="text-align: left"><a href="../12/11-armor.html#armor-ware">Industrial Armor</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">AV +6/+4.</td></tr>
 <tr><td style="text-align: left"><a href="../16/10-combat-augmentations.html">Medichines</a></td><td style="text-align: center">Maj/3</td><td style="text-align: left">Ignore 1 wound, heal faster, drug/toxin effect/duration halved.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="optional-pack-infomorph"><a class="header" href="#optional-pack-infomorph">Optional Pack: Infomorph</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/08-mental-augmentations.html">Drone Rig</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Ignore the −10 modifier when jamming.</td></tr>
 <tr><td style="text-align: left"><a href="../16/12-meshware.html">Enhanced Security</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">−10 Infosec to hack, −30 in defensive mode but no Insight pool and −3 INIT.</td></tr>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Exploit App</a></td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Hacking library tool.</td></tr>
@@ -194,9 +196,10 @@
 <tr><td style="text-align: left"><a href="../16/21-robots.html#reconsurveillance-bots">Gnat</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Surveillance rotorcraft. Small size.</td></tr>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#combat-bots">Guardian Angel</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Personal defense rotorcraft. Small size.</td></tr>
 </tbody></table>
+</div>
 <h2 id="profession-packs"><a class="header" href="#profession-packs">Profession Packs</a></h2>
 <h3 id="academic"><a class="header" href="#academic">Academic</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#personal-bots">Creepy Bot</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Worn companion bot. Small size.</td></tr>
 <tr><td style="text-align: left"><a href="../16/05-common-tech-and-ware.html#everyday-technology">Holographic Projector</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20 m.</td></tr>
 <tr><td style="text-align: left"><a href="../16/22-vehicles.html#groundcraft">Microcar</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">One-person two-wheeler.</td></tr>
@@ -206,8 +209,9 @@
 <tr><td style="text-align: left"><a href="../16/21-robots.html#personal-bots">Servitor Bot</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Common helper/cook/janitor bots.</td></tr>
 <tr><td style="text-align: left"><a href="../16/04-services.html#mesh-services">Simulspace</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Access to a VR space.</td></tr>
 </tbody></table>
+</div>
 <h3 id="covert-operative"><a class="header" href="#covert-operative">Covert Operative</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/17-espionage-and-security-tech.html">Chameleon Cloak</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Camouflage, +10 Infiltrate, +30 stationary.</td></tr>
 <tr><td style="text-align: left"><a href="../16/20-nanoswarms-and-microswarms.html#swarms">Cleaner Swarm</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Cleans, eliminates forensic evidence.</td></tr>
 <tr><td style="text-align: left"><a href="../16/17-espionage-and-security-tech.html">Covert Operations Tool</a></td><td style="text-align: center">Maj/R/3</td><td style="text-align: left">Bypasses locks, cuts/repairs holes, Hardware: Electronics 60 vs. electronic locks, more.</td></tr>
@@ -215,14 +219,14 @@
 <tr><td style="text-align: left"><a href="../16/09-social-augmentations.html">Skinflex</a>*</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests.</td></tr>
 <tr><td style="text-align: left"><a href="../16/20-nanoswarms-and-microswarms.html#swarms">Spy Nanoswarm</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Surveillance, Perceive 60.</td></tr>
 </tbody></table>
-<blockquote class="indent">
+</div><blockquote class="indent">
 <h4 id="-synthmorph-alternative-2"><a class="header" href="#-synthmorph-alternative-2">* Synthmorph Alternative</a></h4>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/09-social-augmentations.html">Synthetic Mask</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Faux skin for synthmorph. +30 disguise-based Deceive Tests.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="enforcer"><a class="header" href="#enforcer">Enforcer</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#combat-drugs">Aggro (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">+20 Provoke to intimidate/taunt, −20 other social tests.</td></tr>
 <tr><td style="text-align: left"><a href="../12/02-melee-combat.html#melee-ware">Claws</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">DV 2d6, concealable.</td></tr>
 <tr><td style="text-align: left"><a href="../12/02-melee-combat.html#melee-weapons">Flex Cutter</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Flexible blade, DV 1d10 + 3, concealable.</td></tr>
@@ -231,8 +235,9 @@
 <tr><td style="text-align: left"><a href="../12/02-melee-combat.html#melee-weapons">Shock Glove</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">DV 1d6, Shock, Touch-Only.</td></tr>
 <tr><td style="text-align: left"><a href="../12/06-spray-weapons.html">Shredder</a></td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Flechette gun, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, Two-Handed.</td></tr>
 </tbody></table>
+</div>
 <h3 id="explorer"><a class="header" href="#explorer">Explorer</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/16-comms-and-mesh-gear.html#communications">Breadcrumb System</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Leaves mote trail for meshing/positioning.</td></tr>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Direction Sense</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Innate sense of direction and distance.</td></tr>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Enhanced Vision</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests.</td></tr>
@@ -241,8 +246,9 @@
 <tr><td style="text-align: left"><a href="../16/21-robots.html#reconsurveillance-bots">Saucer</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Spinning disc recon drone. Small size.</td></tr>
 <tr><td style="text-align: left"><a href="../16/18-mission-gear.html#exploration-tools">Scout Missile</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Maps 5 km radius or 10 km in one direction in 20 minutes, Perceive 60.</td></tr>
 </tbody></table>
+</div>
 <h3 id="facedealer"><a class="header" href="#facedealer">Face/Dealer</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Enhanced Hearing</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Hear higher and lower frequencies. +10 hearing-based Perceive.</td></tr>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#combat-bots">Guardian Angel</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Personal defense rotorcraft. Small size.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html#nanofabricators">Medium Fabber</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Fab small items.</td></tr>
@@ -251,8 +257,9 @@
 <tr><td style="text-align: left"><a href="../16/14-creatures.html#smart-animals">Smart Hawk</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Used for surveillance.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#social-drugs">Stiff (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">+10 SAV/WIL Checks vs. Persuade/Provoke, Enhanced Behavior: Stubborn (Level 2).</td></tr>
 </tbody></table>
+</div>
 <h3 id="genehacker"><a class="header" href="#genehacker">Genehacker</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/04-services.html#mesh-services">Archive</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">+10 Research Tests related to one Know skill.</td></tr>
 <tr><td style="text-align: left"><a href="../16/14-creatures.html#genetically-modified-organisms">Dino Pet</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Genehacked dinosaur pets.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#cognitive-drugs">Fokus (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Enhanced Behavior: Obsessive (2), reduce timeframes 25%.</td></tr>
@@ -262,8 +269,9 @@
 <tr><td style="text-align: left"><a href="../16/05-common-tech-and-ware.html#everyday-technology">Tools (Kit)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Portable, applies to specific skill.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#toxins">Twitch (5 doses)</a></td><td style="text-align: center">Min/R/1</td><td style="text-align: left">−20 actions, SOM Check vs. incapacitation.</td></tr>
 </tbody></table>
+</div>
 <h3 id="hacker"><a class="header" href="#hacker">Hacker</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Exploit App</a></td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Hacking library tool.</td></tr>
 <tr><td style="text-align: left"><a href="../16/17-espionage-and-security-tech.html">Gray Box</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Establishes a wireless mesh link.</td></tr>
 <tr><td style="text-align: left"><a href="../16/16-comms-and-mesh-gear.html#communications">Radio Booster</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Extends radio ranges, 25/250km range.</td></tr>
@@ -271,8 +279,9 @@
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Spoofer App</a></td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">Fake transmissions and mesh IDs.</td></tr>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Tracker App</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Trace connections.</td></tr>
 </tbody></table>
+</div>
 <h3 id="investigator"><a class="header" href="#investigator">Investigator</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Biometric Matcher</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Match biometric patterns.</td></tr>
 <tr><td style="text-align: left"><a href="../16/17-espionage-and-security-tech.html">Brainprint Scanner</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Scans brainprint in 5 minutes.</td></tr>
 <tr><td style="text-align: left"><a href="../16/17-espionage-and-security-tech.html">Cuffband</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Electronic handcuffs, remote operation, shock attack DV 1d6.</td></tr>
@@ -283,16 +292,18 @@
 <tr><td style="text-align: left"><a href="../16/21-robots.html#reconsurveillance-bots">Speck</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Insectoid spy bots. Very small size.</td></tr>
 <tr><td style="text-align: left"><a href="../16/20-nanoswarms-and-microswarms.html#swarms">Spy Nanoswarm</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Surveillance, Perceive 60.</td></tr>
 </tbody></table>
+</div>
 <h3 id="medic"><a class="header" href="#medic">Medic</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#medical-bots">Docbot</a></td><td style="text-align: center">Maj/3</td><td style="text-align: left">Medical bot.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html">Healing Spray</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Heals 1d10 damage per hour for 12 hours.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html">Healing Vat</a></td><td style="text-align: center">Maj/3</td><td style="text-align: left">Heal/cure biomorphs, customize/augment morph.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#nanodrugs">Meds (5 doses)</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Heals 1d10 damage per hour or 1 wound per day.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html">Med Scanner</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector.</td></tr>
 </tbody></table>
+</div>
 <h3 id="mindhacker"><a class="header" href="#mindhacker">Mindhacker</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#health-drugs">Comfurt (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">+5 LUC, +1 TT, +5 IR.</td></tr>
 <tr><td style="text-align: left"><a href="../12/02-melee-combat.html#melee-ware">Eelware</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">DV 1d6, shock effect, touch-only.</td></tr>
 <tr><td style="text-align: left"><a href="../16/19-nanotech.html">Ego Bridge</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Upload from/download to biological brains.</td></tr>
@@ -300,8 +311,9 @@
 <tr><td style="text-align: left"><a href="../16/04-services.html#mesh-services">Private Server</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Private server, managed by others.</td></tr>
 <tr><td style="text-align: left"><a href="../16/13-apps-and-alis.html#apps">Psychosurgery App</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Edit minds.</td></tr>
 </tbody></table>
+</div>
 <h3 id="scavenger"><a class="header" href="#scavenger">Scavenger</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/16-comms-and-mesh-gear.html#communications">Breadcrumb System</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Leaves mote trail for meshing/positioning.</td></tr>
 <tr><td style="text-align: left"><a href="../12/02-melee-combat.html#melee-weapons">Diamond Axe</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">DV 2d10 + 3, armor-piercing, reach, two-handed.</td></tr>
 <tr><td style="text-align: left"><a href="../16/18-mission-gear.html#salvage-tools">Disassembly Tools</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Heavy and smart tools for taking things apart.</td></tr>
@@ -310,8 +322,9 @@
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#recreational-drugs">Orbital Hash (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Ignore 1 trauma, −10 Know Tests/memory-related COG Checks.</td></tr>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#utility-bots">Robomule</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Gear-hauling bot.</td></tr>
 </tbody></table>
+</div>
 <h3 id="scientist"><a class="header" href="#scientist">Scientist</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Enhanced Vision</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests.</td></tr>
 <tr><td style="text-align: left"><a href="../16/08-mental-augmentations.html">Mind Amp</a></td><td style="text-align: center">Maj/3</td><td style="text-align: left">Accelerates mind. +2 Insight.</td></tr>
 <tr><td style="text-align: left"><a href="../16/16-comms-and-mesh-gear.html#communications">Mission Recorder</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Backs up all mission data.</td></tr>
@@ -319,22 +332,23 @@
 <tr><td style="text-align: left"><a href="../16/21-robots.html#personal-bots">Servitor</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Common helper/cook/janitor bots.</td></tr>
 <tr><td style="text-align: left"><a href="../16/18-mission-gear.html#science-tools">Specimen Container</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Holds samples in stasis conditions.</td></tr>
 </tbody></table>
+</div>
 <h3 id="soldier"><a class="header" href="#soldier">Soldier</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../12/09-kinetic-weapons.html#railguns">Assault Rifle Railgun</a></td><td style="text-align: center">Mod/R/2</td><td style="text-align: left">DV 2d10 + 2, SA/BF/FA, Ammo 90 + 1, Range 150, Armor-Piercing, Long, Two-Handed.</td></tr>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Enhanced Vision</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#combat-drugs">Grin (5 doses)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Ignore 1 wound.</td></tr>
 <tr><td style="text-align: left"><a href="../16/15-chemicals-drugs-and-toxins.html#nanodrugs">Meds (5 doses)</a>*</td><td style="text-align: center">Mod/2</td><td style="text-align: left">Heals 1d10 damage per hour or 1 wound per day.</td></tr>
 <tr><td style="text-align: left"><a href="../16/10-combat-augmentations.html">Neurachem</a></td><td style="text-align: center">Maj/3</td><td style="text-align: left">Enhanced synapses and neurotransmitters. +2 Vigor.</td></tr>
 </tbody></table>
-<blockquote class="indent">
+</div><blockquote class="indent">
 <h4 id="-synthmorph-alternative-3"><a class="header" href="#-synthmorph-alternative-3">* Synthmorph Alternative</a></h4>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/20-nanoswarms-and-microswarms.html#swarms">Fixer Swarm</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Repairs 1d10 damage per hour or 1 wound per day for 4 days.</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="techie"><a class="header" href="#techie">Techie</a></h3>
-<table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">GEAR</th><th style="text-align: center">Comp/<wbr>GP</th><th style="text-align: left">Description</th></tr></thead><tbody>
 <tr><td style="text-align: left"><a href="../16/21-robots.html#utility-bots">Automech</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Repair bot.</td></tr>
 <tr><td style="text-align: left"><a href="../16/06-sensory-augmentations.html">Electrical Sense</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Sense electrical fields within 5 m.</td></tr>
 <tr><td style="text-align: left"><a href="../16/20-nanoswarms-and-microswarms.html#swarms">Fixer Swarm</a></td><td style="text-align: center">Mod/2</td><td style="text-align: left">Repairs DV 1d10 per hour or 1 wound per day for 5 days.</td></tr>
@@ -343,7 +357,7 @@
 <tr><td style="text-align: left"><a href="../16/05-common-tech-and-ware.html#everyday-technology">Tools (Kit)</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">Portable, applies to specific skill.</td></tr>
 <tr><td style="text-align: left"><a href="../16/05-common-tech-and-ware.html#everyday-technology">Utilitool</a></td><td style="text-align: center">Min/1</td><td style="text-align: left">All-purpose smart-material tool.</td></tr>
 </tbody></table>
-
+</div>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
@@ -376,21 +390,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

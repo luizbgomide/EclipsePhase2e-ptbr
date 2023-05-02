@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -164,7 +166,7 @@
 <p><strong>Full Automatic (FA):</strong> Full-auto weapons release a hail of shots with a single trigger pull. You can attack a single target with concentrated fire or up to three separate targets within one meter of each other. In the case of concentrated fire, choose either a +30 modifier to hit or increase the DV by +2d10. In the case of adjacent targets, make a single attack test against all of them. Full-auto fire is a complex action. Firing in full-auto mode consumes 10 shots.</p>
 <blockquote class="table">
 <h3 id="firing-modes-1"><a class="header" href="#firing-modes-1">Firing Modes</a></h3>
-<table><thead><tr><th style="text-align: left">Mode</th><th style="text-align: left">Effect</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Mode</th><th style="text-align: left">Effect</th></tr></thead><tbody>
 <tr><td style="text-align: left">Single Shot</td><td style="text-align: left">Standard DV</td></tr>
 <tr><td style="text-align: left">Semi-Auto</td><td style="text-align: left">Standard DV</td></tr>
 <tr><td style="text-align: left">Burst Fire</td><td style="text-align: left"></td></tr>
@@ -175,7 +177,7 @@
 <tr><td style="text-align: left"><div class="indent">» Three Adjacent Targets</div></td><td style="text-align: left">Standard DV to all three</td></tr>
 <tr><td style="text-align: left"><div class="indent">» Suppressive Fire</div></td><td style="text-align: left">Standard DV to anyone moving out of cover within cone</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h3 id="range"><a class="header" href="#range">Range</a></h3>
 <p>Every ranged weapon has a range rating, indicating the distance to which it is optimally effective. Attacks are broken down into four categories, each with their own modifier:</p>
 <ul>
@@ -191,7 +193,7 @@
 <blockquote class="table">
 <h3 id="ranged-modifiers"><a class="header" href="#ranged-modifiers">Ranged Modifiers</a></h3>
 <p>These modifiers apply to ranged combat attacks.</p>
-<table><thead><tr><th style="text-align: left">Situation</th><th style="text-align: center">Modifiers</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Situation</th><th style="text-align: center">Modifiers</th></tr></thead><tbody>
 <tr><td style="text-align: left">Aim (Quick Action)</td><td style="text-align: center">+10</td></tr>
 <tr><td style="text-align: left">Aim (Complex Action)</td><td style="text-align: center">+30</td></tr>
 <tr><td style="text-align: left">Attacker Behind/Coming Out of Cover</td><td style="text-align: center">−10</td></tr>
@@ -214,7 +216,7 @@
 <tr><td style="text-align: left"><div class="indent">» Range</div></td><td style="text-align: center">−10</td></tr>
 <tr><td style="text-align: left"><div class="indent">» Beyond Range</div></td><td style="text-align: center">−10 per Range increment<br>−1d10 DV for kinetic weapons</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -248,21 +250,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

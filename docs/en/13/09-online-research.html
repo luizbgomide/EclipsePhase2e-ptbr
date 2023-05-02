@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -166,7 +168,7 @@
 <p>Just because you’ve acquired the data doesn’t mean you understand it. You may need to make a skill test using Know or another appropriate skill to analyze the results and discover what you’re looking for. For example, a Research Test might pull up the chemical details of a particular alien toxin, but a Know: Chemistry Test may be necessary to actually understand the repercussions and concoct an antidote.</p>
 <blockquote class="table">
 <h3 id="online-research-1"><a class="header" href="#online-research-1">Online Research</a></h3>
-<table><thead><tr><th style="text-align: left">Situation</th><th style="text-align: center">Modifiers</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Situation</th><th style="text-align: center">Modifiers</th></tr></thead><tbody>
 <tr><td style="text-align: left">Conflicting Sources</td><td style="text-align: center">−10</td></tr>
 <tr><td style="text-align: left">Possess Hints, Traces, or Corroborating Details</td><td style="text-align: center">+10 to +30</td></tr>
 <tr><td style="text-align: left">Availability</td><td style="text-align: center"></td></tr>
@@ -189,7 +191,7 @@
 <tr><td style="text-align: left"><div class="indent">» Large Data Set (1 year)</div></td><td style="text-align: center">+10</td></tr>
 <tr><td style="text-align: left"><div class="indent">» Massive Data Set (5 years+)</div></td><td style="text-align: center">+30</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <h2 id="real-time-alerts"><a class="header" href="#real-time-alerts">Real-Time Alerts</a></h2>
 <p>You may ask your muse to monitor mesh feeds for news or other mentions as they occur in real time. You can also monitor existing data for any updates or changes. If and when the information comes up, the GM makes a secret Research Test on your muse’s behalf. If successful, the update is noted. If not, it is missed, though the GM may allow another test if and when the topic reaches a wider range of circulation or interest.</p>
 <h2 id="searching-specific-systems"><a class="header" href="#searching-specific-systems">Searching Specific Systems</a></h2>
@@ -198,7 +200,7 @@
 <p>Note that encrypted files must first be decrypted before they can be searched.</p>
 <blockquote class="table">
 <h3 id="searching-timeframes"><a class="header" href="#searching-timeframes">Searching Timeframes</a></h3>
-<table><thead><tr><th style="text-align: left">System</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">System</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
 <tr><td style="text-align: left">Small Server</td><td style="text-align: center">1d6 action turns</td></tr>
 <tr><td style="text-align: left">Large Server</td><td style="text-align: center">1d6 minutes</td></tr>
 <tr><td style="text-align: left">PAN</td><td style="text-align: center">1d6 action turns</td></tr>
@@ -206,7 +208,7 @@
 <tr><td style="text-align: left">Small Network (Mesh Site, Lab, Ship Net)</td><td style="text-align: center">1d6 × 5 minutes</td></tr>
 <tr><td style="text-align: left">Large Network (Hypercorp Division, Habitat Net)</td><td style="text-align: center">1d6 × 10 minutes</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 <blockquote>
 <h2 id="gming-research-tests"><a class="header" href="#gming-research-tests">GMing Research Tests</a></h2>
 <p>Research Tests are often important for the story line as one of the main methods PCs have for acquiring clues. For this reason, it is important for GMs to have some flexibility. If the timeframes provided in the rules don’t plug so well into your plot framework, modify them to fit your needs. Some evidence may simply take more work to dig up, and sometimes clues will fall right into the PCs’ outstretched mandibles. Especially sleuthful PCs sometimes get ahead of the game — for this reason, it helps to structure your story so that they don’t even know what clue they next need until it comes close to the time they will need it.</p>
@@ -249,21 +251,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>

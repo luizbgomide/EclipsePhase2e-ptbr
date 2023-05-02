@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="The roleplaying game of transhuman survival">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -33,14 +32,15 @@
 
     </head>
     <body>
+    <div id="body-container">
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,12 +68,14 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
-            var sidebar = 'hidden';
+            var sidebar = null;
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
             }
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -99,7 +101,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +134,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -160,10 +162,10 @@
 <p><strong>Physical Repair:</strong> Manually repairing a synthmorph or object requires a Hardware Test using a field appropriate to the item (Hardware: Robotics for synthmorphs and bots, Hardware: Aerospace for aircraft, etc.) and a tool kit. Repair is a task action with a timeframe of 1 hour per 5 points of damage being restored, plus 8 hours per wound. Once completed, it is fully repaired. Apply appropriate modifiers based on conditions and available tools.</p>
 <blockquote class="table">
 <h3 id="healingrepair"><a class="header" href="#healingrepair">Healing/Repair</a></h3>
-<table><thead><tr><th style="text-align: left">First Aid</th><th style="text-align: center">Damage Healed</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">First Aid</th><th style="text-align: center">Damage Healed</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
 <tr><td style="text-align: left">Medicine: Paramedic</td><td style="text-align: center">1 wound, 1d10 [6] damage +1d6 per superior success</td><td style="text-align: center">10 minutes + 10 per wound</td></tr>
 </tbody></table>
-<table><thead><tr><th style="text-align: left">Recovery</th><th style="text-align: center">Damage Healing Rate</th><th style="text-align: center">Wound Healing Rate</th><th style="text-align: center">Effect Duration</th></tr></thead><tbody>
+</div><div class="table-wrapper"><table><thead><tr><th style="text-align: left">Recovery</th><th style="text-align: center">Damage Healing Rate</th><th style="text-align: center">Wound Healing Rate</th><th style="text-align: center">Effect Duration</th></tr></thead><tbody>
 <tr><td style="text-align: left">Morph without Biomods</td><td style="text-align: center">1d10 [6] per day</td><td style="text-align: center">1 per week</td><td style="text-align: center">—</td></tr>
 <tr><td style="text-align: left">Morph with Biomods</td><td style="text-align: center">1d10 [6] per 12 hours</td><td style="text-align: center">1 per 3 days</td><td style="text-align: center">—</td></tr>
 <tr><td style="text-align: left">Medichines</td><td style="text-align: center">1d10 [6] per hour</td><td style="text-align: center">1 per day</td><td style="text-align: center">—</td></tr>
@@ -174,10 +176,10 @@
 <tr><td style="text-align: left">Poor Conditions</td><td style="text-align: center">x2</td><td style="text-align: center">x2</td><td style="text-align: center">—</td></tr>
 <tr><td style="text-align: left">Harsh Conditions</td><td style="text-align: center">x3</td><td style="text-align: center">x3</td><td style="text-align: center">—</td></tr>
 </tbody></table>
-<table><thead><tr><th style="text-align: left">Physical Repair</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
+</div><div class="table-wrapper"><table><thead><tr><th style="text-align: left">Physical Repair</th><th style="text-align: center">Timeframe</th></tr></thead><tbody>
 <tr><td style="text-align: left">Hardware: Robotics, etc.</td><td style="text-align: center">1 hour per 5 damage + 8 hours per wound</td></tr>
 </tbody></table>
-</blockquote>
+</div></blockquote>
 
                     </main>
 
@@ -211,21 +213,22 @@
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 
 
+    </div>
     </body>
 </html>
