@@ -24,7 +24,7 @@ As redes de hipercorps, habitats, e grandes sistemas semelhantes operam em um mo
 
 ## Sistemas Desconectados
 
-Os sistemas mais fortemente seguros estão desconectados — fisicamente separados da mesh. Eles podem ser cabeados, não possuir transceptores sem fio, ou estarem dentro de barreiras à prova de rádio. A única maneira de acessar esses sistemas é fisicamente, seja se conectando diretamente, inutilizando o invólucro bloqueador de rádio, ou conectando, de alguma forma, um transceptor sem fio ao sistema.
+Os sistemas mais fortemente seguros estão desconectados — fisicamente separados da mesh. Eles podem ser cabeados, não possuir transceptores sem fio, ou estarem dentro de barreiras à prova de rádio. A única maneira de acessar esses sistemas é fisicamente, seja se conectando diretamente, inutilizando o invólucro de blindagem de rádio, ou de alguma forma conectando um transceptor sem fio ao sistema.
 
 ## Ilhas na Rede
 

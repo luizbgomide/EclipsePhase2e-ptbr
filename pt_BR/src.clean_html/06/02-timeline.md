@@ -23,7 +23,7 @@
 - Primeiras ILAs desenvolvidas e usadas para pesquisas científicas e guerras em rede.
 - Os aprimoramentos genéticos e as geneterapias tornam-se acessíveis aos ricos.
 - Os primeiros animais inteligentes são produzidos, capazes de um pouco de fala e uso de ferramentas.
-- Várias hipercorps formam o Consórcio Extra-Mundo para avançar a expansão espacial.
+- Várias hipercorps formam o Consórcio Extra-Terra para avançar a expansão espacial.
 - Energia de fusão é desenvolvida e usinas operacionais são estabelecidas.
 - Grandes colônias são estabelecidas na Lua e em Marte. Postos avançados são estabelecidos em Mercúrio, em Vênus e no Cinturão. Exploradores alcançam Plutão.
 - A terraformação de Marte começa.

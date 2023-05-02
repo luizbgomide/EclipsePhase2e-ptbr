@@ -203,6 +203,6 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 </table>
 
-**Duende Palhaço:** Encontrados no sistema Eco, estas aves-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
+**Duende Palhaço:** Encontrados no sistema Eco, estes avianos-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
 
 **Hexassalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
