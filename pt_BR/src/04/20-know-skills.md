@@ -22,7 +22,7 @@ Perícias de Saber representam conhecimento acumulado em uma área de trabalho, 
 
 As áreas Acadêmicas abrangem todas as disciplinas de conhecimento científico e estudo avançado. Elas incluem ciências teóricas e aplicadas, ciências sociais, transumanidades e tecnologia.
 
-Use Acadêmicas para recorer à sua educação. Por exemplo, Saber: Química pode ser usada para identificar uma determinada substância, entender uma reação química incomum, ou determinar quais elementos são necessários para nanofabricar algo que necessite de materiais exóticos. O MJ pode escolher não permitir que se recorra em alguns Testes de Saber, pois apenas alguém que foi instruído no assunto poderia utilizá-lo.
+Use Acadêmicas para recorrer à sua educação. Por exemplo, Saber: Química pode ser usada para identificar uma determinada substância, entender uma reação química incomum, ou determinar quais elementos são necessários para nanofabricar algo que necessite de materiais exóticos. O MJ pode escolher não permitir que se recorra em alguns Testes de Saber, pois apenas alguém que foi instruído no assunto poderia utilizá-lo.
 
 - **Exemplos de Áreas:** Arqueologia, Astrobiologia, Astrofísica, Astronomia, Astrossociologia, Biologia, Botânica, Ciência da Computação, Ciência Política, Criptografia, Direito, Economia, Engenharia, Física, Genética, Geologia, História, Linguística, Matemática, Memética, Nanotecnologia, Psicologia, Química, Sociologia, Xenoarqueologia, Xenolinguística, Zoologia
 - **Especializações:** Conforme apropriado para a área
@@ -98,7 +98,7 @@ Assume-se que você esteja familiarizado com os conhecimentos básicos de cada u
 
 ## Perícias Complementares
 
-Em certos casos, perícias de Saber pode auxiliar testes de perícias Ativas com um modificador de bônus de perícia complementar. Isso só deve se aplicar nas situações em que a perícia de Saber fornece informações que normalmente não são cobertas pelas perícia Ativa. Por exemplo, Saber: Cultos Religiosos poderia ser aplicada como perícia complementar quando usar Persuasão em um líder religioso marginal, mas Saber: Engenharia não é complementar em um Teste de Aparelhagem: Industrial para consertar parte de um habitat, porque a perícia Aparelhagem já engloba esse conhecimento de engenharia.
+Em certos casos, perícias de Saber pode auxiliar testes de perícias Ativas com um modificador de bônus de perícia complementar. Isso só deve se aplicar nas situações em que a perícia de Saber fornece informações que normalmente não são cobertas pelas perícia Ativa. Por exemplo, Saber: Cultos Religiosos poderia ser aplicada como perícia complementar quando usar Persuasão em grupo eremita religioso, mas Saber: Engenharia não é complementar em um Teste de Aparelhagem: Industrial para consertar parte de um habitat, porque a perícia Aparelhagem já engloba esse conhecimento de engenharia.
 
 O bônus de perícia complementar é baseado em sua graduação, conforme anotado na tabela de Bônus de Perícia Complementar.
 

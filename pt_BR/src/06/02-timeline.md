@@ -23,7 +23,7 @@
 - Primeiras ILAs desenvolvidas e usadas para pesquisas científicas e guerras em rede.
 - Os aprimoramentos genéticos e as geneterapias tornam-se acessíveis aos ricos.
 - Os primeiros animais inteligentes são produzidos, capazes de um pouco de fala e uso de ferramentas.
-- Várias hipercorps formam o Consórcio Extra-Mundo para avançar a expansão espacial.
+- Várias hipercorps formam o Consórcio Extra-Terra para avançar a expansão espacial.
 - Energia de fusão é desenvolvida e usinas operacionais são estabelecidas.
 - Grandes colônias são estabelecidas na Lua e em Marte. Postos avançados são estabelecidos em Mercúrio, em Vênus e no Cinturão. Exploradores alcançam Plutão.
 - A terraformação de Marte começa.
@@ -31,7 +31,7 @@
 ## AQ 40–20
 
 - Ajudantes pessoais de ILA (musas) tornam-se comuns.
-- Adoção em massa de experiência projetada e tecnologias de simulespaço em RV com imersão completa.
+- Adoção em massa de experiência pré-gravada e tecnologias de simulespaço em RV com imersão completa.
 - As redes de reputação têm um ressurgimento, auxiliadas por redes neurais que combatem maus elementos.
 - A violência e a desestabilização desgraçam a Terra; alguns conflitos se espalham pelo espaço.
 - Cientistas do JASON se separam dos governos e das hipercorps, formam o Conselho Argonauta para Ciência Responsável.
@@ -103,7 +103,7 @@
 - A Firewall conquista sua primeira vitória pós-Queda ao derrotar o Culto do Destruidor, um grupo que tentava espalhar a influência exsurgente na Lua.
 - O sistema SAPIENT ID é estabelecido e endossado pela ALL e pelo CP, mas falha em conseguir uma popularidade generalizada.
 - Um revolta de 3 dias ocorre após uma batida policial no clube Jungle Gym em Marte, levando à formação do movimento mercurial.
-- As forças de segurança Go-nin tomam o portão de pandora em Éris dos anarquistas e marginais que o descobriram.
+- As forças de segurança Go-nin tomam o portão de pandora em Éris dos anarquistas e eremitas que o descobriram.
 - Expedições são enviadas aos mundos extrassolares através dos portões de pandora. Muitas colônias são estabelecidas em exoplanetas. Restos de algumas civilizações alienígenas são descobertos.
 - O primeiro contato com os alienígenas conhecidos como Factores abala o sistema. Afirmando agir como embaixadores de outras civilizações alienígenas, eles fornecem pouca informação sobre a vida fora do Sistema Solar e alertam os transumanos para se afastarem de IAs seminais e portões de pandora.
 - Uma tentativa de criar uma geração de crianças usando clones crescidos aceleradamente e RV de tempo contraído falha miseravelmente quando a maioria morre ou fica insana. Chamada de Geração Perdida, os sobreviventes são vistos com repugnância e pena.

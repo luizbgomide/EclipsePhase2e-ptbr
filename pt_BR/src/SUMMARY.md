@@ -157,6 +157,7 @@
   - [Lista Completa de Ações da Mesh](19/04-complete-list-of-mesh-actions.md)
   - [Lista Completa de Morfos](19/05-complete-list-of-morphs.md)
   - [Regras Básicas](19/06-rules-primmer.md)
+  - [Ficha de Personagem](19/07-character-sheet.md)
 
 ---
 

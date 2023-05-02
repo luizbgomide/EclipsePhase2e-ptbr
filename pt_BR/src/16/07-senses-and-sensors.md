@@ -1,6 +1,6 @@
 # Sentidos e Sensores
 
-Os sentidos transumanos superam muito os velhos padrões humanos. Aqui está um detalhamento de quais capacidades essas funções proporcionam. As capacidades são geralmente as mesmas se o sensor for biológico ou tecnológico.
+Os sentidos transumanos superam muito os velhos padrões humanos. Aqui está um detalhamento de quais capacidades essas funções fornecem. As capacidades são geralmente as mesmas se o sensor for biológico ou tecnológico.
 
 ## Bases de Dados Sensoriais
 

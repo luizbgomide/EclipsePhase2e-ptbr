@@ -23,7 +23,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Escanear Sinais Sem Fio:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
 - **Proteger Software:** Proteger ativamente um software em um [combate na mesh](../13/14-mesh-combat.md).
-- **Camuflar Sinais Sem Fio:** Ocultar sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
+- **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu informorfo para outro sistema.
 - **Encerrar Software:** Matar o processo de um software menor.
 - **Alternar Tema de RA:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
@@ -75,7 +75,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 
 ## Ações de Hackeamento
 
-Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalhada em [Subversão de Sistema](../13/13-system-subversion.md).
+Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detalhada em [Subversão de Sistema](../13/13-system-subversion.md).
 
 <div class="stat-list">
 
@@ -85,7 +85,7 @@ Essas ações geralmente exigem um Teste de Hackeamento. A maioria está detalha
 - **Editar Fluxo de RA:** Bloquear ou alterar a entrada de RA.
 - **Eliminar Rastros:** Editar logs e remover rastros dos seus hacks.
 - **Forçar Reautenticação:** Quando farejar, interrompa uma ligação para capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
-- **Ocultar Arquivo ou Processo:** Esconder um arquivo/processo dos outros (oposto com Teste de Pesquisa com −30).
+- **Esconder Arquivo ou Processo:** Ocultar um arquivo/processo dos outros (oposto com Teste de Pesquisa com −30).
 - **Debilitar os Sentidos:** Distrair com sobrecarga de RA. Teste de Interface, modificador −10.
 - **Injetar RA/Illusão:** Inserir dados falsos de RA em um fluxo.
 - **Instalar Brecha:** Criar um caminho secreto de volta para o sistema.

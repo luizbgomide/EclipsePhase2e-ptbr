@@ -34,7 +34,7 @@ Observe que essas regras lidam com dano e ferimentos de forma abstrata. Para ter
 
 ## Efeitos de Ferimento
 
-Cada ferimento aplica um modificador −10 para as ações e −1 para Iniciativa cumulativo. Por exemplo, um personagem com 3 ferimentos sofre −30 em todas as ações e −3 na Iniciativa.
+Cada ferimento aplica um modificador −10 em todos os testes e −1 para Iniciativa cumulativos. Por exemplo, um personagem com 3 ferimentos sofre −30 em todas as ações e −3 na Iniciativa.
 
 Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de ferimento. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 ferimentos possa ser negado (−30 para ações e −3 para Iniciativa).
 
@@ -44,7 +44,7 @@ Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore m
 
 ## Sangramento
 
-Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Receba +30 se spray de cura, xarope ou medicadores estão curando você. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
+Personagens biomorfos que sofreram um ferimento e receberam dano igual ou maior que sua Durabilidade correm o risco de sangrarem até a morte. Faça uma Prova de SOM para se autoestabilizar; os modificadores de ferimento se aplicam. Aplique +30 se spray curativo ou xarope for aplicado. Medicadores automaticamente estabilizam você e o colocam em estase. Se você falhar, você receberá 1 ponto de dano adicional por ferimento a cada turno de ação até que receba cuidados médicos ou morra. Outros podem tentar estabilizar você com um Teste de Medicina: Paramedicina; os mesmos modificadores se aplicam. Se for bem-sucedido, você para de acumular dano por sangramento.
 
 ## Grau de Destruição
 

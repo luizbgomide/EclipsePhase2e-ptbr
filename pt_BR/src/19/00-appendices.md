@@ -35,3 +35,4 @@
   - [Vigor](../19/06-rules-primmer.md#vigor)
   - [Flex](../19/06-rules-primmer.md#flex)
   - [Recarregando Paradas](../19/06-rules-primmer.md#recarregando-paradas)
+- [Ficha de Personagem](../19/07-character-sheet.md)

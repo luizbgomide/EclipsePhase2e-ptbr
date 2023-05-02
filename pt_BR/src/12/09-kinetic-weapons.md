@@ -11,7 +11,7 @@ Armas cinéticas disparam projéteis sólidos em altas velocidades para causar d
 | Submetralhadora      |       2d10 \[11\]       |     SA/DR/TA     |     30 + 1     |       50       |                Mod/R/2                | Duas Mãos                     |
 | Fuzil de Assalto     |     2d10 + 2 \[13\]     |     SA/DR/TA     |     45 + 1     |      100       |                Mod/R/2                | Duas Mãos, Longa              |
 | Fuzil de Batalha     |     2d10 + 4 \[15\]     |     SA/DR/TA     |     30 + 1     |      200       |                Mod/R/2                | Duas Mãos, Longa              |
-| Metralhadora         |     3d10 + 2 \[19\]     |      BF/FA       |     50 + 1     |      500       |                Mai/R/3                | Fixa, Longa                   |
+| Metralhadora         |     3d10 + 2 \[19\]     |      DR/TA       |     50 + 1     |      500       |                Mai/R/3                | Fixa, Longa                   |
 | Fuzil de Precisão    |    3d10 + 10 \[27\]     |        SA        |     9 + 1      |      500       |                Mai/R/3                | Fixa, Longa                   |
 | Pistola Polygun      |       Igual Pistola       |  Igual Pistola   | Igual Pistola  | Igual Pistola  |                Mod/R/2                | Igual Pistola                 |
 | Fuzil Polygun        |      Igual Fuzil/SM       |  Igual Fuzil/SM  | Igual Fuzil/SM | Igual Fuzil/SM |                Mai/R/3                | Igual Fuzil/SM                |
@@ -33,9 +33,9 @@ Armas de fogo químicas modernas usam munições inteligentes sem estojo que sã
 
 **Fuzil de Precisão:** Fuzis de precisão são otimizados para alcance, precisão, penetração e poder de parada.
 
-**Pistola Polygun:** As polyguns são armas modulares que mudam de formato, podendo alternar entre as formas de pistola de bolso, média, pesada e pistola-metralhadora. Cada forma exige munição diferente. Trocar a forma leva 3 turnos de ação.
+**Pistola Polygun:** As polyguns são armas modulares que mudam de formato, podendo alternar entre as formas de pistola de bolso, média, pesada e pistola-metralhadora. Cada forma requer munição separada. Trocar a forma leva 3 turnos de ação.
 
-**Fuzil Polygun:** Essa carabina funciona como a pistola polygun, exceto que ela pode alternar entre SM, fuzil de assalto e fuzil de precisão conforme for necessário.
+**Fuzil Polygun:** Esta carabina funciona como a pistola polygun, exceto que ela pode alternar entre SM, fuzil de assalto e fuzil de precisão conforme for necessário.
 
 ## Railguns
 
@@ -78,27 +78,27 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Tirocerto:** Balas tirocerto mudam de formato durante o voo para se manterem fixas no curso, contrariando os efeitos de vento, arrasto e gravidade sobre a distância. Ataques feitos com Tirocerto ignoram todos os modificadores de alcance.
 
-**Perfura-Armadura:** Essa munição de carboneto de tungstênio penetra eficientemente em armaduras.
+**Perfura-Armadura:** Esta munição de carboneto de tungstênio penetra eficientemente em armaduras.
 
 **Mordente:** Balas mordentes se fragmentam em proporção oposta a dureza do alvo atingido. Para alvos duros (sintemorfos), elas se fragmentam muito pouco, abrindo um grande buraco. Para alvos macios (biomorfos), elas se fragmentam e desviam em múltiplas direções dentro do corpo.
 
 **Grampeada:** Cartuchos grampeados são equipadas com uma microescuta e nanobots de sensores médicos. Elas tentam coletar informações sobre a localização (através de rastreamento na mesh padrão), saúde (consultando os medicadores do alvo) e arredores (geralmente dificultado por estar dentro do corpo) do alvo. Elas transmitirão relatórios de forma pré-programada através da mesh ou de uma faixa de frequência pré-escolhida continuamente ou em intervalos pré-definidos.
 
-**Cápsula:** Munição de cápsula carrega uma dose de uma droga, toxina ou carga de nanobot (adquirida separadamente) que é liberada dentro do alvo depois do cartucho penetrar.
+**Cápsula:** Munição de cápsula carrega uma dose de uma droga, toxina ou carga de nanobot (adquirida separadamente) que é liberada dentro do alvo depois do cartucho penetrar. Cada dose pode ser distribuída entre vários tiros de cápsula (máx. 20), mas essa quantidade de tiros deve atingir o alvo para a dose ter efeito.
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
 
-**Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
+**Guiada:** Esta bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
 
-**Interferente:** Munição interferente gruda no alvo e pulsa sinais eletromagnéticos de interferência, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
+**Bloqueadora:** Munição bloqueadora gruda no alvo e pulsa sinais de bloqueio eletromagnético, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
-**Proximidade:** Essa bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
+**Proximidade:** Esta bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
 
-**Perfura-Armadura Reativa (PAR):** Esse é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
+**Perfura-Armadura Reativa (PAR):** Este é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
 
-**Padrão:** Esse projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
+**Padrão:** Este projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
 
 **Aspersora:** Cartuchos aspersores contêm uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos aspersores normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
 

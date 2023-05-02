@@ -16,7 +16,7 @@ Nós recomendamos atribuir 20&nbsp;PE para cada missão. Os MJs devem aumentar o
 
 Cada um dos pacotes de equipamentos detalhados em [Pacotes de Equipamentos](../04/27-gear-packs.md) é construído com 10&nbsp;PE, então os 20&nbsp;PE padrão são iguais a dois pacotes de equipamentos. Assim como na criação de personagem, os pacotes de equipamentos podem ser adquiridos completos ou você pode trocar itens por equipamentos de complexidade similar.
 
-Os MJs também podem restringir o tipo de equipamentos que pode ser adquirido com PE. Os PJs estão entrando em um governo de estado policial? Então nenhum PE pode ser gasto em armas ou qualquer coisa Restrita. Eles estão egoprojetando para um posto marginal remoto? Eles só podem gastar PE em itens de complexidade Menor. Eles estão entrando em um habitat bioconservador? Nenhum gasto de PE em ILAs, animais inteligentes ou nanotecnologia.
+Os MJs também podem restringir o tipo de equipamentos que pode ser adquirido com PE. Os PJs estão entrando em um governo de estado policial? Então nenhum PE pode ser gasto em armas ou qualquer coisa Restrita. Eles estão egoprojetando para um posto eremita remoto? Eles só podem gastar PE em itens de complexidade Menor. Eles estão entrando em um habitat bioconservador? Nenhum gasto de PE em ILAs, animais inteligentes ou nanotecnologia.
 
 Com a aprovação do MJ, os PJs podem juntar seus PE e compartilhar uns com os outros.
 

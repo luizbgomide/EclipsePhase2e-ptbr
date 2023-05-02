@@ -53,6 +53,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **CBETA:** O Conselho de Bioética e Tecnologia Avançada, define as políticas de tecnologia na República Joviana.
 - **Ceifeiro:** Um sintemorfo tipo bot de guerra.
 - **Célula:** Um grupo clandestino de sentinelas da Firewall.
+- **Chapeado:** Um sintemorfo, barato e comum produzido em massa.
 - **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental de software. Usado em sintemorfos, prods e alguns biomorfos.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Cilindro O'Neill:** Um habitat em forma de lata com gravidade por rotação.
@@ -68,6 +69,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cisco:** Dispositivos menores, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
 - **Cislunar:** Entre a Terra e a Lua.
 - **Clado:** Uma espécie ou grupo de organismos com características comuns. Usado para se referir a grupos culturais e subespécies transumanos.
+- **Clássico:** Um humano comum, sem genecorreções ou modificações.
 - **Colmeia:** Um nanofabro especializado que mantém um nanoenxame.
 - **Comunicação EQ:** Comunicação FTL de entrelaçamento quântico.
 - **Conselho de Hipercorps:** As maiores hipercorporações que controlam o Consórcio Planetário.
@@ -78,7 +80,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Conta:** O que você usa para logar em um sistema. Determina seus privilégios de acesso.
 - **Corvo:** Um procurador que se concentra em pesquisa e na análise científica.
 - **Cripta:** Um depósito digital escondido dentro da mesh.
-- **Cru:** Um humano comum, sem genecorreções ou modificações.
 - **Cyberware:** Ampliações artificiais para biomorfos.
 - **Delta-V:** O empuxo necessário para ir de um lugar a outro.
 - **Desbravador:** Um explorador que atravessa um portão de pandora.
@@ -107,12 +108,12 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Enxame:** Uma flotilha de naves, às vezes com habs interligados ou rebocados.
 - **Enxame:** Uma massa de nano- ou microbots agindo em conjunto.
 - **Enxamenoide:** Um sintemorfo composto de um enxame de microbots.
+- **Eremitas:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Escaneador:** Um procurador que coleta e analisa dados para sinais de riscos X.
 - **Escanear:** Localizar e identificar dispositivos sem fio.
 - **Escumadores:** Habitantes dos gigantes gelados.
 - **Esfera/Esferoide:** Um habitat em forma de bolha com gravidade por rotação, feito geralmente a partir de asteroides escavados. Também chamado de bolha.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
-- **Estojo:** Um sintemorfo, barato e comum produzido em massa.
 - **Estruturalistas:** A facção da Firewall que busca uma organização mais formal e ir a público.
 - **Europano:** Um habitante de Europa, lua de Júpiter.
 - **Exalto:** Um morfo humano geneticamente aprimorado.
@@ -175,7 +176,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
 - **Infugiado:** Um refugiado que sobreviveu à Queda como um infomorfo sem corpo.
 - **Insumo:** A matéria-prima usada para nanofabricação.
-- **Isolados:** Os exilados nas periferias do sistema. Também chamado de marginais.
+- **Isolados:** Os exilados nas periferias do sistema. Também chamado de eremitas.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.
 - **JRAM:** Um jogo de realidade aumentada multijogador massivo.
 - **Junta:** O regime militar que dirige a República Joviana.
@@ -191,7 +192,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Longiprojeção:** Comunicação intrassolar usando tecnologias clássicas de comunicação (rádio, laser, etc.) e teletransporte quântico.
 - **Malandro:** Um negociador ou socializador.
 - **Máquina Cornucópia:** Um nanofabricador de uso geral.
-- **Marginais:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Massas Clangorante:** A classe baixa de sintemorfos baratos.
 - **Medeianos:** O grupo paramilitar secreto dos Argonautas.
 - **Meme:** Uma ideia viral. Uma unidade de informação transmitida socialmente que se autorreplica e sofre mutação de maneira análoga aos genes.
@@ -256,7 +256,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos X.
 - **Privilégios:** As regras definindo o que uma conta pode fazer em um sistema.
 - **Procuradores:** Membros da estrutura interna da Firewall.
-- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. De "produzido em laboratório". Também chamados de peles artificiais, replicantes.
+- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. Vem de "pessoas produzidas". Também chamados de peles artificiais, replicantes.
 - **Prometeanas:** Um grupo de SIAs amigáveis que ajudaram a combater as TITANs e apoiam a Firewall.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
 - **Psi-Gama:** Truques psi que afetam as mentes/fisiologias dos outros.
@@ -330,7 +330,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **Xenomorfo:** Uma forma de vida alienígena.
-- **XP:** Experiência Projetada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravada). Também chamado de sim, sim-sensorial, projeção.
+- **XP:** Experiência Pré-gravada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravação). Também chamado de sim, sim-sensorial, pré-gravação.
 - **Zeros:** Pessoas sem acesso à mesh. Comum com arrendados.
 - **Zona Morta:** Uma área sem cobertura de vigilância.
 - **ZQT:** Zona de Quarentena TITAN em Marte.

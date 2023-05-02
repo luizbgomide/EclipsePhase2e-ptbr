@@ -14,7 +14,7 @@ Para poder imprimir alguma coisa em um nanofabricador, você precisa de um diagr
 
 ### Obtendo Diagramas
 
-As diagramas de nanofabricação existem em três formatos: uso único, uso múltiplo e código aberto.
+Os diagramas de nanofabricação existem em quatro formatos: uso único, uso limitado, uso múltiplo e código aberto:
 
 **Diagramas de Uso Único:** A maioria das diagramas de uso único são acessadas através de plataformas de distribuição digital que utilizam gestão de direitos digitais (DRM) para proteger o copyright. Isso significa que você pode acessar o arquivo para imprimi-lo uma vez, mas ele não pode ser copiado ou impresso novamente. Se você precisar de um arquivo para imprimir sem ter acesso à mesh, alguns diagramas de uso único estão disponíveis como arquivos de digitais para download que bloqueiam as tentativas de copiá-los e se apagam depois do uso. As hipercorps e economias capitalistas do sistema interior usam esses métodos para controlar a escassez e manter você dependente.
 
@@ -34,7 +34,7 @@ As diagramas para itens Restritos não podem ser compradas legalmente usando Rec
 
 ### Projetando Diagramas
 
-Se você não tiver um diagrama, você pode criar um. Isso exige dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
+Se você não tiver um diagrama, você pode criar um. Isso requer dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
 
 Os dois testes juntos constituem uma única ação de tarefa. O prazo é o mesmo da [aquisição de equipamentos](../16/02-acquiring-gear.md), mas em meses em vez de horas (2 meses para Menor, 8 meses para Moderada, 24 meses para Maior). No entanto, a maioria dos programadores usam forques e simulespaços de tempo acelerado para apressar o processo, então uma semana subjetiva de programação pode ser feita em aproximadamente uma hora de tempo real. Apenas resultados maiores do Teste de Programação reduzem o prazo.
 
@@ -44,6 +44,6 @@ As restrições digitais que impedem diagramas de uso único e múltiplo de sere
 
 ## Teste de Impressão
 
-Imprimir um item com um diagrama _não_ exige um teste na maior parte dos casos — o diagrama é suficiente, o nanofabro faz o resto. As exceções são trabalhos de impressão exóticos, complicados, ou tendo insumos limitados ou diagramas incompletas ou suspeitas. Nesses casos, um Teste de Programação é necessário. Observe que a maioria dos nanofabros têm uma ILA integrada com uma pericia Programação 30 (Nanofabricação 40).
+Imprimir um item com um diagrama _não_ requer um teste na maior parte dos casos — o diagrama é suficiente, o nanofabro faz o resto. As exceções são trabalhos de impressão exóticos, complicados, ou tendo insumos limitados ou diagramas incompletas ou suspeitas. Nesses casos, um Teste de Programação é necessário. Observe que a maioria dos nanofabros têm uma ILA integrada com uma pericia Programação 30 (Nanofabricação 40).
 
 Uma vez que as matérias-primas e diagramas estejam carregadas, a nanofabricação é apenas questão de tempo. O tempo de impressão é baseado na complexidade do item, igual à aquisição de equipamentos (2 horas para Menor, 8 para Moderada, 24 para Maior). Os MJs são livres para modificar esse período como acharem apropriado ao objeto.

@@ -2,36 +2,36 @@
 
 A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo níveis de proteção sem precedentes.
 
-| TIPO DE ARMADURA                                           | Tipo de Ware | Energética | Cinética | Comp/<wbr>PE | Notas                        |
-|:---------------------------------------------------------- |:------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
-| Vestuário Reforçado                                        |      —       |     +1     |    +3    |                 Men/1                 | Ocultável                    |
-| Casaco Reforçado                                           |      —       |     3      |    6     |                 Men/1                 |                              |
-| Colete de Proteção (Pesado)                                |      —       |     6      |    12    |                 Mod/2                 |                              |
-| Colete de Proteção (Leve)                                  |      —       |     4      |    10    |                 Men/1                 | Ocultável                    |
-| Carregador Atlas                                           |      —       |    +10     |   +12    |                 Raro                  |                              |
-| Escudo Balístico                                           |      —       |     +6     |   +12    |                 Mod/2                 | Duas Mãos                    |
-| Traje de Batalha                                           |      —       |     25     |    25    |                Raro/R                 |                              |
-| Biotrama                                                   |      B       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
-| Armadura Corporal                                          |      —       |     8      |    14    |                 Mod/2                 |                              |
-| Armadura de Combate                                        |      —       |     12     |    16    |                Mai/R/3                |                              |
-| Traje de Segurança (Ativo)                                 |      —       |     3      |    8     |                 Men/1                 |                              |
-| Traje de Segurança (Inativo)                               |      —       |     3      |    2     |                                       | Ocultável                    |
-| Armadura Dérmica                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
-| Traje Ambiental                                            |      —       |     25     |    16    |                 Mai/3                 |                              |
-| Armação de Exoandador                                      |      —       |     +0     |    +2    |                 Mai/3                 |                              |
-| Traje Rígido                                               |      —       |     20     |    18    |                 Raro                  |                              |
-| Blindagem de Combate Pesada                                |      H       |    +16     |   +14    |                 Mai/3                 |                              |
-| Capacete                                                   |      —       |     +2     |    +2    |                 Men/1                 | VA 4/10 vs. golpes na cabeça |
-| Traje de Mergulho Espacial                                 |      —       |     25     |    8     |                 Mai/3                 |                              |
-| Blindagem Industrial                                       |      H       |     +6     |    +4    |                 Men/1                 |                              |
-| Blindagem de Combate Leve                                  |      H       |    +10     |    +8    |                 Mod/2                 |                              |
-| Escudo Antimotim                                           |      —       |     +3     |    +4    |                 Men/1                 | Choque, Toque Simples        |
-| Armadura de Escamas/<wbr>Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
-| Segunda Pele                                               |      —       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
-| Exoesqueleto Transportador                                 |      —       |     +0     |    +4    |                 Mod/2                 |                              |
-| Exoesqueleto Trike                                         |      —       |     +0     |    +4    |                 Mod/2                 |                              |
-| Traje de Vácuo (Leve)                                      |      —       |     5      |    2     |                 Mod/2                 |                              |
-| Traje de Vácuo (Padrão)                                    |      —       |     8      |    6     |                 Mai/3                 |                              |
+| TIPO DE ARMADURA                                            | Tipo de Ware | Energética | Cinética | Comp/<wbr>PE | Notas                        |
+|:----------------------------------------------------------- |:------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
+| Vestuário Reforçado                                         |      —       |     +1     |    +3    |                 Men/1                 | Ocultável                    |
+| Casaco Reforçado                                            |      —       |     3      |    6     |                 Men/1                 |                              |
+| Colete de Proteção (Pesado)                                 |      —       |     6      |    12    |                 Mod/2                 |                              |
+| Colete de Proteção (Leve)                                   |      —       |     4      |    10    |                 Men/1                 | Ocultável                    |
+| Carregador Atlas                                            |      —       |    +10     |   +12    |                 Raro                  |                              |
+| Escudo Balístico                                            |      —       |     +6     |   +12    |                 Mod/2                 | Duas Mãos                    |
+| Traje de Batalha                                            |      —       |     25     |    25    |                Raro/R                 |                              |
+| Biotrama                                                    |      B       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
+| Armadura Corporal                                           |      —       |     8      |    14    |                 Mod/2                 |                              |
+| Armadura de Combate                                         |      —       |     12     |    16    |                Mai/R/3                |                              |
+| Traje de Segurança (Ativo)                                  |      —       |     3      |    8     |                 Men/1                 |                              |
+| Traje de Segurança (Inativo)                                |      —       |     3      |    2     |                                       | Ocultável                    |
+| Blindagem Dérmica                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
+| Traje Ambiental                                             |      —       |     25     |    16    |                 Mai/3                 |                              |
+| Armação de Exoandador                                       |      —       |     +0     |    +2    |                 Mai/3                 |                              |
+| Traje Rígido                                                |      —       |     20     |    18    |                 Raro                  |                              |
+| Blindagem de Combate Pesada                                 |      H       |    +16     |   +14    |                 Mai/3                 |                              |
+| Capacete                                                    |      —       |     +2     |    +2    |                 Men/1                 | VA 4/10 vs. golpes na cabeça |
+| Traje de Mergulho Espacial                                  |      —       |     25     |    8     |                 Mai/3                 |                              |
+| Blindagem Industrial                                        |      H       |     +6     |    +4    |                 Men/1                 |                              |
+| Blindagem de Combate Leve                                   |      H       |    +10     |    +8    |                 Mod/2                 |                              |
+| Escudo Antimotim                                            |      —       |     +3     |    +4    |                 Men/1                 | Choque, Toque Simples        |
+| Blindagem de Escamas/<wbr>Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
+| Segunda Pele                                                |      —       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
+| Exoesqueleto Transportador                                  |      —       |     +0     |    +4    |                 Mod/2                 |                              |
+| Exoesqueleto Trike                                          |      —       |     +0     |    +4    |                 Mod/2                 |                              |
+| Traje de Vácuo (Leve)                                       |      —       |     5      |    2     |                 Mod/2                 |                              |
+| Traje de Vácuo (Padrão)                                     |      —       |     8      |    6     |                 Mai/3                 |                              |
 
 ## Energética vs. Cinética
 
@@ -47,7 +47,7 @@ Quando você é atingido em combate, subtraia seu VA do dano aplicado. Use a gra
 
 ## Armaduras em Camadas
 
-Você pode vestiar várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o total de alguma graduação de VA exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover.
+Você pode vestiar várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o total de alguma graduação de VA (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover.
 
 A armadura inerente a um sintemorfo ou outra armação de carcaça conta como o primeiro item das camadas. Carcaças não são projetadas para vestir armaduras; qualquer armadura usada sobre elas deve ser projetada especialmente para se adequar à sua forma (talvez exigindo um Teste de Programação de nanofab ou aumentando a Complexidade em um grau).
 
@@ -55,13 +55,13 @@ Itens listados com um + antes do VA são acessórios ou leves o bastante para n�
 
 ## Visibilidade das Armaduras
 
-Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará suspeitas ou atrairá a atenção da polícia na maioria dos habitats. Os VAs menores são considerados ocultáveis, recebendo um bônus +30 na perícia Infiltração para escondê-los da percepção visual, com exceção de alguns itens volumosos e óbvios, como trajes de vácuo, armaduras dérmicas, armaduras de escamas e macacões de segurança ativados.
+Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará suspeitas ou atrairá a atenção da polícia na maioria dos habitats. Os VAs menores são considerados ocultáveis, recebendo um bônus +30 na perícia Infiltração para escondê-los da percepção visual, com exceção de alguns itens volumosos e óbvios, como trajes de vácuo, blindagens dérmicas, blindagens de escamas e macacões de segurança ativados.
 
 ## Ware de Armadura
 
 **Biotrama:** As camadas dérmicas do morfo estão entrelaçadas com fibras de seda de aranha, oferecendo proteção sem alterar a aparência, textura ou sensibilidade da pele.
 
-**Armadura Dérmica:** O morfo está equipado com uma camada densa de fibras balísticas e placas subdérmicos flexíveis. Isso não reduz a mobilidade, mas deixa a pele mais lisa e menos flexível (exceto nas juntas), e as áreas com placas são visivelmente levantadas. A percepção de tato do morfo sofre um modificador −20.
+**Blindagem Dérmica:** O morfo está equipado com uma camada densa de fibras balísticas e placas subdérmicos flexíveis. Isso não reduz a mobilidade, mas deixa a pele mais lisa e menos flexível (exceto nas juntas), e as áreas com placas são visivelmente levantadas. A percepção de tato do morfo sofre um modificador −20.
 
 **Blindagem de Combate Pesada:** Estas placas de blindagem volumosas e evidentes protegem contra armamento pesado para operações de combate intenso. Os sistemas de mobilidade e produção de energia da carcaça também são modificados para lidar com a massa extra.
 
@@ -69,7 +69,7 @@ Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará sus
 
 **Blindagem de Combate Leve:** Este revestimento leve é comum em carcaças usadas para funções de segurança e policiamento.
 
-**Armadura de Escamas/Carapaça:** Como a armadura dérmica, mas combinada com escamas e/ou placas externas quitinosas rígidas mas flexíveis, baseada nos exoesqueletos artrópodes. Essa armadura é óbvia e a pele tem a aparência de um crocodilo, inseto, pangolim, cobra ou outra criatura couraçada.
+**Blindagem de Escamas/Carapaça:** Como a blindagem dérmica, mas combinada com escamas e/ou placas externas quitinosas rígidas, mas flexíveis, baseada nos exoesqueletos artrópodes. Essa armadura é óbvia e a pele tem a aparência de um crocodilo, inseto, pangolim, cobra ou outra criatura couraçada.
 
 ## Equipamentos de Armadura
 

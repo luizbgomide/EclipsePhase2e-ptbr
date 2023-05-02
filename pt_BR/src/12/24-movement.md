@@ -26,7 +26,7 @@ O movimento total é semelhantes a correr ou se mover com esforço e velocidade.
 
 **\[Complexa\]**
 
-Uma disparada é dar o máximo para se mover o mais longe possível. Ela exige uma ação complexa e uma rolagem de Atletismo, Queda Livre ou Pilotagem, conforme o caso. Se tiver sucesso, aumente sua taxa de movimento total pelo seu movimento base. Por exemplo, se a Taxa de Movimento do seu morfo é 4/20, sua disparada é de 24 metros. Aumente isso por um movimento base adicional por cada sucesso maior. Se você falhar, você gasta uma ação complexa e usa apenas um movimento total. A disparada aplica o mesmo modificador −20 como o movimento total.
+Uma disparada é dar o máximo para se mover o mais longe possível. Ela requer uma ação complexa e uma rolagem de Atletismo, Queda Livre ou Pilotagem, conforme o caso. Se tiver sucesso, aumente sua taxa de movimento total pelo seu movimento base. Por exemplo, se a Taxa de Movimento do seu morfo é 4/20, sua disparada é de 24 metros. Aumente isso por um movimento base adicional por cada sucesso maior. Se você falhar, você gasta uma ação complexa e usa apenas um movimento total. A disparada aplica o mesmo modificador −20 como o movimento total.
 
 ### Salto
 
@@ -136,7 +136,7 @@ Os nadadores usam barbatanas, membros ou jatos d'água para se impulsionarem pel
 
 **\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Essas carcaças usam turbofans ou turbojatos para criar sustentação atmosférica, geralmente com um conjunto de asas. Esses motores podem ser manobrados para apontar e gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) também funcionarão no vácuo se equipados com um suprimento de ar. Sistemas de foguetes que usam reações químicas para ejetar massa de reação para ter empuxo também entram nessa categoria (use Pilotagem: Espacial).
+Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Eles também podem ser direcionados para gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) funcionam no vácuo se forem equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
 
 ### Esteira
 

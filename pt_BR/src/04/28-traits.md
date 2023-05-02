@@ -1,6 +1,6 @@
 # Traços
 
-A maioria dos traços proporcionam modificadores em determinadas situações. Os traços de Ego são comprados durante a criação do personagem (ou possivelmente com pontos de Rez) e ficam com o personagem. Os traços de morfo aplicam-se apenas ao morfo em questão e impactam os PM disponíveis ao reencapar.
+A maioria dos traços fornecem modificadores em determinadas situações. Os traços de Ego são comprados durante a criação do personagem (ou possivelmente com pontos de Rez) e ficam com o personagem. Os traços de morfo aplicam-se apenas ao morfo em questão e impactam os PM disponíveis ao reencapar.
 
 Alguns traços tem custos múltiplos, representando diferentes níveis. Um traço com Custo de PP de 1/2/3 custa 1&nbsp;PP no Nível 1, 2&nbsp;PP no Nível 2 e 3&nbsp;PP no Nível 3.
 
@@ -324,13 +324,13 @@ Você tem uma aptidão para conceitualizar dimensões, distâncias, volumes e fo
 
 **Traço de ▲ Ego • Custo de PP: 1/2/3**
 
-Você ri do medo. Aplique um modificador +10 por nível em Provas de VON e outros testes que envolvam resistir ao medo.
+Você ri do medo. Aplique um modificador +10 por nível em Provas de VON e outros testes envolvendo resistir ao medo, como Testes de Provocação para intimidação, truques psi como Pesadelo, e alguns Testes de Estresse (a critério do MJ; geralmente o desconhecido, mas, às vezes, desamparo ou violência).
 
 ### Aparência Marcante
 
 **Traço de ▼ Morfo • Custo de PM: 1/2**
 
-Uma boa aparência esculpida é barata e comum, mas esse morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
+Uma boa aparência esculpida é barata e comum, mas esse morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. Sintemorfos e morfos elevados só podem ter esse traço no Nível 1.
 
 ### Facilidade com Números
 
@@ -352,7 +352,7 @@ Esse traço só está disponível para personagens com o traço Psi. Você não 
 
 ## Traços Negativos
 
-Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
+Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 
 <blockquote class="framed-table">
 
@@ -362,7 +362,7 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 |:-------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------ |
 | [Vício](../04/28-traits.md#addiction)                                |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais.                   |
 | [Má Sorte](../04/28-traits.md#bad-luck)                              |    6     | Não pode usar paradas para inverter rolagens de dados.                                           |
-| [Banimento de Rep](../04/28-traits.md#blacklisted-rep)               |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
+| [Rep Bloqueada](../04/28-traits.md#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
 | [Mácula](../04/28-traits.md#black-mark)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
 | [Paralisia de Combate](../04/28-traits.md#combat-paralysis)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
 | [Memórias Editadas](../04/28-traits.md#edited-memories)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
@@ -397,13 +397,13 @@ Traços negativos proporcionam um bônus de PP ou PM e prejudicam você.
 | Traço                                                               | Bônus PM | Efeito                                                                                                                          |
 |:------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
 | [Vício](../04/28-traits.md#addiction)                               |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais. Apenas biomorfos.                                |
-| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas crus e tratados.                                                                                   |
+| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas clássicos e tratados.                                                                              |
 | [Membro Dominante](../04/28-traits.md#dominant-limb)                |    1     | −20 em testes feitos com membros não dominantes.                                                                                |
 | [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
 | [Morfologia Exótica](../04/28-traits.md#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
 | [Fraqueza](../04/28-traits.md#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
 | [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
-| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas crus.                                                           |
+| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas clássicos.                                                      |
 | [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
 | [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
 | [Risco de Infecção](../04/28-traits.md#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
@@ -445,7 +445,7 @@ O vício é desencadeado da mesma forma que [transtornos](../12/20-disorders.md)
 
 Cada vício assume formas diferentes, dependendo do personagem e da fonte. O vício de longo prazo pode resultar em danos físicos ou mentais (modificadores de debilitação ou reduções em Provas de SOM ou VON) e pode causar tolerância, exigindo dosagens mais altas. A critério do MJ, você pode precisar fazer Provas de VON para evitar elevar o nível do vício. A abstinência também pode infligir efeitos adicionais, como oscilações de humor, comportamento compulsivo ou mal-estar físico.
 
-Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura exige uma Prova de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Provas de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
+Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura requer uma Prova de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Provas de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
 
 Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanecem com seu ego/forque; vícios físicos permanecem com o morfo. Este traço pode ser escolhido mais de uma vez para vícios diferentes. A versão de morfo desse traço só se aplica a biomorfos.
 
@@ -453,7 +453,7 @@ Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanec
 
 **Traço de ▼ Morfo • Bônus de PM: 4**
 
-Este traço só pode ser aplicado em morfos crus e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
+Este traço só pode ser aplicado em morfos clássicos e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
 
 ### Má Sorte
 
@@ -461,11 +461,11 @@ Este traço só pode ser aplicado em morfos crus e tratados. O morfo está fisic
 
 O universo parece puni-lo com uma frequência surpreendente. Você não pode usar paradas para inverter rolagens de dados.
 
-### Banimento de Rep
+### Rep Bloqueada
 
 **Traço de ▲ Ego • Bônus de PP: 1/4**
 
-Você está banido de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Este traço pode ser escolhido mais de uma vez para redes de rep diferentes.
+Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Este traço pode ser escolhido mais de uma vez para redes de rep diferentes.
 
 ### Mácula
 
@@ -505,7 +505,7 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 1:** Você é incentivado a seguir o comportamento e o associa com sentimentos positivos; emoções são ampliadas.
 
-**Nível 2:** Você é motivado a fazer o comportamento específico; emoções são exageradas. Conter-se exige uma Prova de VON.
+**Nível 2:** Você é motivado a fazer o comportamento específico; emoções são exageradas. Conter-se requer uma Prova de VON.
 
 **Nível 3:** O comportamento é forçado; emoções são compulsórias e contínuas. Se a conduta ou a emoção forem reprimidas, sofra VE 1d6.
 
@@ -533,7 +533,7 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Este traço só está disponível para crus. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Este traço só está disponível para clássicos. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
@@ -557,7 +557,7 @@ Sua consciência social geralmente é falha. Você sofre −5 por nível em Prov
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 
-Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos.
+Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Este traço só está disponível para biomorfos.
 
 ### Falhas Inerentes
 
@@ -695,7 +695,7 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 1:** Você é compelido a evitar o comportamento e o associa com sentimentos negativos; emoções são limitadas.
 
-**Nível 2:** Você está impedido de fazer o comportamento especificado; emoções são suprimidas. Fazê-lo exige uma Prova de VON.
+**Nível 2:** Você está impedido de fazer o comportamento especificado; emoções são suprimidas. Fazê-lo requer uma Prova de VON.
 
 **Nível 3:** Você é incapaz de tentar o comportamento; emoções são erradicadas. Se forçado a desempenhar a conduta ou a experimentar a emoção, sofra VE 1d6.
 

@@ -2,9 +2,9 @@
 
 Sua ações online são bastante influenciadas pelo sistema específico que você está acessando. A lista a seguir não é completa, mas deve dar a você e ao seu MJ uma base para lidar com tarefas online.
 
-Tenha em mente que suas ações são limitadas por seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) atuais. Se você deseja fazer algo que seus privilégios não permitem — acessar um arquivo em um diretório restrito, editar um log, manipular um dispositivo de segurança — então você precisa hackear o sistema. Ações que especificamente exigem hackeamento são detalhadas em [Hackeamento](../13/11-hacking.md) e [Subversão](../13/13-system-subversion.md).
+Tenha em mente que suas ações são limitadas por seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) atuais. Se você deseja fazer algo que seus privilégios não permitem — acessar um arquivo em um diretório restrito, editar um log, manipular um dispositivo de segurança — então você precisa hackear o sistema. Ações que exigem especificamente hackeamento são detalhadas em [Hackeamento](../13/11-hacking.md) e [Subversão](../13/13-system-subversion.md).
 
-A menos que indicado de outra forma, essas ações usam uma ação complexa, mas não exigem um teste de perícia, assumindo que você tenha os privilégios de acesso.
+A menos que indicado de outra forma, essas ações usam uma ação complexa, mas não requerem um teste de perícia, assumindo que você tenha os privilégios de acesso.
 
 ## Ações Universais
 
@@ -26,7 +26,7 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 - **Escanear Sinais Sem Fio:** É uma ação rápida procurar dispositivos sem fio e seus mesh IDs dentro do alcance. É preciso uma ação complexa para localizar um [dispositivo camuflado](../13/04-devices-apps-and-links.md#stealthed-signals).
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
 - **Proteger Software:** Você pode proteger ativamente um software que é alvejado em um [combate na mesh](../13/14-mesh-combat.md).
-- **Camuflar Sinais Sem Fio:** Você pode tentar ocultar sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
+- **Camuflar Sinais Sem Fio:** Você pode tentar esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Se você for um infomorfo, você pode transferir seu estado mental virtual para outro sistema ([Infomorfos](../13/08-infomorphs.md)) ou distribui-lo entre vários sistemas ([Infomorfos Distribuídos](../13/08-infomorphs.md#distributed-infomorphs)).
 - **Encerrar Software:** Você pode matar um processo de software menor o qual você tem privilégio e interrompê-lo. Se o software pertence a outro usuário ou tem importância para história, trate isso como um ataque em [combate na mesh](../13/14-mesh-combat.md).
 - **Alternar Tema de RA:** Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor ([Tematização](../13/03-common-mesh-uses.md#skinning)).

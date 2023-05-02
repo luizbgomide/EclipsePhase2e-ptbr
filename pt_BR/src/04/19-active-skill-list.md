@@ -69,7 +69,7 @@ Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém
 
 - **Tipo:** Ativa, Área
 
-Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico e perícias que têm um foco muito estreito, mas exigem educação, treinamento e experiência para serem usadas.
+Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico e perícias que têm um foco muito estreito, mas requerem educação, treinamento e experiência para serem usadas.
 
 Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
 

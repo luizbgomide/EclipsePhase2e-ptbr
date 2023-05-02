@@ -4,7 +4,7 @@ Usar um truque para fazer um efeito nem sempre precisa de um teste. A descriçã
 
 ## Alcance Psi
 
-Os truques psi-chi afetam apenas o assincro. Os truques psi-gama podem ser usados em si mesmo ou em outras vidas biológicas a curta distância. Embora não haja modificador para usar um truque de distância em você mesmo, usar truques de distância nos outros impõe um modificador de acordo com a distância.
+Os truques psi-qui afetam apenas o assincro. Os truques psi-gama podem ser usados em si mesmo ou em outras vidas biológicas a curta distância. Embora não haja modificador para usar um truque de distância em você mesmo, usar truques de distância nos outros impõe um modificador de acordo com a distância.
 
 **Toque:** O alcance toque lhe dá um modificador +20 em seu Teste de Psi (mas não em truques usados em você mesmo). Você deve ter contato físico com o alvo (roupa, armadura, trajes de vácuo, etc. não impedem). Se o alvo evitar ser tocado, isso requer um ataque de luta bem-sucedido com uma ação rápida, aplicando o modificador +20 de toque simples. Esse ataque não causa dano, mas o alvo pode tentar Evasão para evitá-lo. Se você não conseguir tocar, você ainda pode usar o truque em alcance de queima-roupa.
 

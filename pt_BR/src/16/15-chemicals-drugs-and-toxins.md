@@ -79,11 +79,11 @@ Apenas alguns dos químicos com usos interessantes em Eclipse Phase:
 
 **DMSO:** Este produto químico atua como suporte, permitindo que outros químicos sejam absorvidos através da pele. Ele permite que qualquer químico, droga ou toxina seja aplicada por via dérmica.
 
-**Termite Líquida:** A termite líquida é apresentada em forma de gel que é facilmente aplicada em todas as condições ambientais (pela natureza de sua reação química, a termite é oxigenada e queimará debaixo d'água ou no espaço). Ela é acesa com um carga elétrica, queimando em temperaturas que excedem 2.500&nbsp;°C e derretendo qualquer coisa que toque. A termite líquida inflige VD 3d10 + 10 \[27\] por turno de ação por 3 turnos em qualquer que estiver tocando. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
+**Termite Líquida:** A termite líquida é apresentada em forma de gel que é facilmente aplicada em todas as condições ambientais (pela natureza de sua reação química, a termite é oxigenada e queimará debaixo d'água ou no espaço). Ela é acesa com uma carga elétrica, queimando em temperaturas que excedem 2.500&nbsp;°C e derretendo qualquer coisa que toque. A termite líquida inflige VD 3d10 + 10 \[27\] por turno de ação por 3 turnos em qualquer que estiver tocando. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
 
 **Água-Nada:** Água-Nada é um líquido retardante de chamas que não molha os objetos, não importa o quão absorventes eles sejam — isso simplesmente se acumula e é facilmente removido.
 
-**Gel Removedor:** Esta pasta torna-se um ácido poderoso quando recebe um carga elétrica. Ela é apresentada em forma gelatinosa e pode ser espalhada como um gel na maioria das condições ambientais, até mesmo no espaço. Na forma ácida, o gel removedor inflige VD 2d10 +5 \[16\] por turno de ação por 3 turnos em qualquer coisa que estiver tocando, a não ser que o material tenha sido tratado contra a ação de ácidos. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
+**Gel Removedor:** Esta pasta torna-se um ácido poderoso quando recebe uma carga elétrica. Ela é apresentada em forma gelatinosa e pode ser espalhada como um gel na maioria das condições ambientais, até mesmo no espaço. Na forma ácida, o gel removedor inflige VD 2d10 +5 \[16\] por turno de ação por 3 turnos em qualquer coisa que estiver tocando, a não ser que o material tenha sido tratado contra a ação de ácidos. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
 
 **Lubri:** Este líquido é quase totalmente sem atrito. Quando espalhado ao redor de uma área (com uma mangueira ou granada aspersora), qualquer um que tente andar ou correr na superfície afetada deve fazer uma Prova de REF ou cair no chão. As superfícies revestidas são extremamente difíceis de segurar, exigindo uma Prova de SOM para manter nas mãos. Qualquer um que tente agarrar um personagem molhado com lubri sofre um modificador −30.
 
@@ -142,7 +142,7 @@ Alimentos farmacêuticos que melhoram a saúde e estado físico do consumidor.
 
 | DROGAS DE SAÚDE  |    Tipo    | Aplicação | Duração  | Mod/<wbr>Tipo de Vício | Comp/<wbr>PE | Descrição                                   |
 |:---------------- |:----------:|:---------:|:--------:|:-----------------------------------------------:|:-------------------------------------:|:------------------------------------------- |
-| Bananas Furiosas | Bioquímica | Qualquer  |  1 dia   |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
+| Bananas Furiosas | Bioquímica | Qualquer  | 8 horas  |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
 | Confurte         | Bioquímica | Qualquer  | 12 horas |                   −10/Mental                    |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.              |
 
 **Bananas Furiosas:** Esta droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cinturianos preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
@@ -224,7 +224,7 @@ Pesquisando a cepa Watts-MacLeod resultou em várias descobertas excepcionais co
 | DROGAS PSI   |    Tipo    | Aplicação | Duração | Mod/<wbr>Tipo de Vício | Comp/<wbr>PE | Descrição                                                  |
 |:------------ |:----------:|:---------:|:-------:|:-----------------------------------------------:|:-------------------------------------:|:---------------------------------------------------------- |
 | Inibidor     | Bioquímica | Qualquer  | 6 horas |                   +20/Mental                    |                 Mai/3                 | −30 em Psi, −20 em Provas de VON ou perde habilidades psi. |
-| Psi-Abertura | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-chi específico. VE 1d6.            |
+| Psi-Abertura | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-qui específico. VE 1d6.            |
 | Psicador     | Bioquímica | Qualquer  | 8 horas |                   −10/Mental                    |                Mai/R/3                | +10 na perícia Psi.                                        |
 | Psi-Coice    | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-gama específico. VE 1d10 + 2.      |
 
@@ -286,9 +286,9 @@ As propriedades tóxicas de substâncias biológicas e químicas podem ser usada
 
 | TOXINAS         |    Tipo    |   Aplicação    |                    Duração                    | Comp/<wbr>PE | Descrição                                                                         |
 |:--------------- |:----------:|:--------------:|:---------------------------------------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Bioquímica |   D, Inj, O    | 3 turnos/<wbr>1 hora |                Mai/R/3                | VD 2d10 + 3 por 3 turnos, Prova de SOM ou imobilizado por 1 hora.                 |
-| Gás CR          | Bioquímica |     D, Ina     |                  20 minutos                   |                Men/R/1                | VD 1d6, −30 em Percepção, −20 em todas as outras ações.                           |
-| Temoral         | Bioquímica |      Ina       |                    1 hora                     |                Men/R/1                | VD 1d10, −30 para resistir a intimidação/efeitos de medo.                         |
+| BTX<sup>2</sup> | Bioquímica |   D, Inj, O    | 3 turnos/<wbr>1 hora |                Mai/R/3                | VD 2d10 + 10 \[21\] por 3 turnos, Prova de SOM ou imobilizado por 1 hora.       |
+| Gás CR          | Bioquímica |     D, Ina     |                  20 minutos                   |                Men/R/1                | VD 1d6 \[4\], −30 em Percepção, −20 em todas as outras ações.                   |
+| Temoral         | Bioquímica |      Ina       |                    1 hora                     |                Men/R/1                | VE 1d10 \[6\], −30 para resistir a intimidação/efeitos de medo.                 |
 | Nervex          | Bioquímica | D, Ina, Inj, O |                       —                       |                Mai/R/3                | −20 em ações, Prova de SOM vs. incapacitação, morte.                              |
 | Oxitocina-A     | Bioquímica |    Ina, Inj    |                    2 horas                    |                Men/R/1                | Confiante, −30 em Provas de VON/Testes de Cinésica em que confiança for um fator. |
 | Espástico       | Bioquímica | D, Ina, Inj, O |                  10 minutos                   |                Men/R/1                | –20 em ações, Prova de SOM vs. incapacitação.                                     |
@@ -316,7 +316,7 @@ Estas infestações temporárias de nanobots causam danos ou debilitação.
 | NANOTOXINAS  | Tipo | Aplicação | Duração  | Comp/<wbr>PE | Descrição                                             |
 |:------------ |:----:|:---------:|:--------:|:-------------------------------------:|:----------------------------------------------------- |
 | Disrupção    | Nano |  Inj, O   | 8 horas  |                Mai/R/3                | −5 cumulativo em ações por hora; incapacitação.       |
-| Necrose      | Nano |  Inj, O   | 1 minuto |                Mod/R/2                | VD 1d6 por turno.                                     |
+| Necrose      | Nano |  Inj, O   | 1 minuto |                Mod/R/2                | VD 1d6 \[4\] por turno.                             |
 | Neuropatia   | Nano | D, Inj, O | 8 horas  |                Mod/R/2                | Agonia, −30 em ações, Prova de VON vs. incapacitação. |
 | Quebra-Nozes | Nano |  Inj, O   | 6 horas  |                Mai/R/3                | Destrói a pilha cortical.                             |
 

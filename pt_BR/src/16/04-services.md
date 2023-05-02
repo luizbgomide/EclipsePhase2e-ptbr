@@ -1,6 +1,6 @@
 # Serviços
 
-Crédito ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
+Crédito e ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
 
 ## Serviços da Mesh
 
@@ -9,7 +9,7 @@ Esses serviços de software estão disponíveis como uma assinatura mensal de se
 | SERVIÇOS DA MESH             | Comp/<wbr>PE | Descrição                                                                |
 |:---------------------------- |:-------------------------------------:|:------------------------------------------------------------------------ |
 | Anonimizador                 |                 Men/1                 | Mascara sua mesh ID.                                                     |
-| Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados com uma perícia Saber.            |
+| Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados com uma perícia de Saber.         |
 | Banco de Registros           |                 Men/1                 | +10 em Testes de Pesquisa.                                               |
 | Fluxo de Sensor Privado      |                 Men/1                 | +10 em Percepção nesta área.                                             |
 | Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |
@@ -18,7 +18,7 @@ Esses serviços de software estão disponíveis como uma assinatura mensal de se
 
 **Anonimizador:** Você tem uma conta com um serviço de intermediação anônima que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
-**Arquivo:** Cada arquivo tem um foco diferente (como áreas da perícia Saber). Usar um arquivo relevante fornece um modificador +10 em Testes de Pesquisa envolvendo esse assunto.
+**Arquivo:** Cada arquivo tem um foco diferente (como áreas de perícia de Saber). Usar um arquivo relevante fornece um modificador +10 em Testes de Pesquisa envolvendo esse assunto.
 
 **Banco de Registros:** Comerciantes corporativos e cartéis do mercado negro vendem dados privados das pessoas. Cada banco se concentra em um público específico, como uma cidade ou uma profissão. Aplique um modificador +10 em Testes de Pesquisa relevantes.
 

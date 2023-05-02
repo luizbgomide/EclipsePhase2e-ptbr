@@ -32,7 +32,7 @@
     - [Alcance](../12/04-ranged-combat.md#alcance)
     - [Fogo de Supressão](../12/04-ranged-combat.md#fogo-de-supressão)
 - [Armas de Feixe](../12/05-beam-weapons.md)
-  - [Ware de Armas de Feixo](../12/05-beam-weapons.md#ware-de-armas-de-feixo)
+  - [Ware de Armas de Feixe](../12/05-beam-weapons.md#ware-de-armas-de-feixe)
   - [Armas de Feixe](../12/05-beam-weapons.md#armas-de-feixe)
   - [Regras de Armas de Feixes](../12/05-beam-weapons.md#regras-de-armas-de-feixes)
     - [Cegueira Laser](../12/05-beam-weapons.md#cegueira-laser)

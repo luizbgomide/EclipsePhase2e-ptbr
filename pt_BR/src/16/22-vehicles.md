@@ -35,8 +35,8 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 
 <table class="centered stat-list tl1">
 <thead><tr><th>AERONAVES<th>Comp/<wbr>PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
-<tr><td>Carro Voador<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Rodas/<wbr>Empuxo Vetorial<td>G</tr>
-<tr><td>Microleve<td>Mod/2<td>1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>8/32 Microleve<td>G</tr>
+<tr><td>Carro Voador<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Empuxo Vetorial (Foguete)/<wbr>Rodas 8/40<td>G</tr>
+<tr><td>Microleve<td>Mod/2<td>1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>Microleve 8/32<td>G</tr>
 <tr><td>Avião Portátil<td>Mai/3<td>2<td>0<td>0<td>6/4<td>10<td>50<td>100<td>—<td>G</tr>
 <tr><td>Jato Pequeno<td>Raro/—<td>6<td>2<td>0<td>12/10<td>40<td>200<td>400<td>—<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
@@ -44,7 +44,7 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 - **Ware:** Autocozedor, Sinalizador de Emergência
 
 </div></tr>
-<tr><td>Helicóptero Utilitário<td>Raro/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/32 Rotor<td>MG</tr>
+<tr><td>Helicóptero Utilitário<td>Raro/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rotor 8/32<td>MG</tr>
 </table>
 
 **Carro Voador:** Este carro movido a metano é equipado com turbofans que se desdobram do corpo para voo por empuxo vetorial em Marte e mundos com gravidades semelhantes.
@@ -63,20 +63,20 @@ Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhor
 
 <table class="centered stat-list tl1">
 <thead><tr><th>EXOESQUELETOS<th>Comp/<wbr>PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
- <tr><td>Carregador Atlas<td>Raro/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>4/20 Marcha<td>MG</tr>
+ <tr><td>Carregador Atlas<td>Raro/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>Marcha 4/20<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +2 em Vigor, +2d10 em luta, perfura-armadura
 
 </div></tr>
-<tr><td>Exoandador<td>Mai/3<td>1<td>+1<td>0<td>+0/+2<td>4<td>20<td>40<td>8/32 Marcha<td>M</tr>
+<tr><td>Exoandador<td>Mai/3<td>1<td>+1<td>0<td>+0/+2<td>4<td>20<td>40<td>Marcha 8/32<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1 em Vigor, +1d6 luta, dobra distância de salto
 
 </div></tr>
-<tr><td>Transportador<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>8/40 Empuxo Vetorial<td>G</tr>
-<tr><td>Triciclo<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>8/40 Rodas<td>G</tr>
+<tr><td>Transportador<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Empuxo Vetorial (Foguete) 8/40<td>G</tr>
+<tr><td>Triciclo<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Rodas 8/40<td>G</tr>
 </table>
 
 **Carregador Atlas:** Este exemplar comum de exoesqueleto industrial de uso pesado é grande (pouco mais de 3 metros de altura) e projetado para manusear objetos pesados/grandes. Apesar da armação aberta, o usuário está parcialmente protegido por uma gaiola de malha. O Atlas fornece um bônus +2 na parada de Vigor e aumenta o dano em luta em +2d10. O dano em luta também se torna perfura-armadura.
@@ -93,12 +93,12 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 
 <table class="centered stat-list tl1">
 <thead><tr><th>VEÍCULOS TERRESTRES<th>Comp/<wbr>PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
- <tr><td>Buggy<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Rodas<td>G</tr>
-<tr><td>Transportador de Carga<td>Raro/—<td>3<td>2<td>0<td>12/10<td>50<td>250<td>500<td>8/40 Rodas<td>MG</tr>
-<tr><td>Ciclo<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>8/40 Rodas<td>M</tr>
-<tr><td>Carro Terrestre<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>8/40 Rodas<td>G</tr>
-<tr><td>Microcarro<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>8/40 Rodas<td>G</tr>
-<tr><td>Astromóvel<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>8/40 Rodas<td>MG</tr>
+ <tr><td>Buggy<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rodas 8/40<td>G</tr>
+<tr><td>Transportador de Carga<td>Raro/—<td>3<td>2<td>0<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
+<tr><td>Ciclo<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>Rodas 8/40<td>M</tr>
+<tr><td>Carro Terrestre<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rodas 8/40<td>G</tr>
+<tr><td>Microcarro<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>Rodas 8/40<td>G</tr>
+<tr><td>Astromóvel<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Ware:** Autocozedor, Fabro Grande, Laboratório de Bolso
@@ -124,28 +124,28 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>TRAJES RÍGIDOS<th>Comp/<wbr>PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
- <tr><td>Traje de Batalha<td>Raro/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>8/32 Marcha, 8/40 Empuxo Vetorial<td>G</tr>
+ <tr><td>Traje de Batalha<td>Raro/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>Empuxo Vetorial (Foguete) 8/40, Marcha 8/32<td>G</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta, dobra distância de salto
 - **Ware:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Suporte de Arma (2 Articulados/Ocultos, 2 Estáticos/Ocultos), Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
-<tr><td>Traje Ambiental<td>Mai/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>4/20 Marcha, 8/32 Submerso<td>M</tr>
+<tr><td>Traje Ambiental<td>Mai/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>Marcha 4/20, Submerso 8/32<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
 - **Ware:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Proteção Criogênica, Proteção Termogênica, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
-<tr><td>Traje de Mergulho Espacial<td>Mai/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>4/20 Marcha, 8/40 Empuxo Vetorial<td>M</tr>
+<tr><td>Traje de Mergulho Espacial<td>Mai/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
 - **Ware:** Absorção de Radar, Amplificador de Rádio, Proteção Termogênica, Suporte Vital (1 semana), Visor
 
 </div></tr>
-<tr><td>Traje Rígido Padrão<td>Raro/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>4/20 Marcha, 8/40 Empuxo Vetorial<td>G</tr>
+<tr><td>Traje Rígido Padrão<td>Raro/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20<td>G</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta
@@ -168,13 +168,13 @@ Estes veículos desafiam as classificações, pois são projetados para lidar co
 
 <table class="centered stat-list tl1">
 <thead><tr><th>VEÍCULOS HÍBRIDOS<th>Comp/<wbr>PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
- <tr><td>VEG<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>8/40 Rodas/<wbr>Empuxo Vetorial, 4/20 Marcha, 8/32 Submerso<td>MG</tr>
+ <tr><td>VEG<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20, Rodas 8/40, Submerso 8/32<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Ware:** Autocozedor, Farejador Químico, Audição Aprimorada, Visão Aprimorada, Fabro Grande, Suporte Vital (1 mês), Tanque de Cura, Adaptação de Pressão, Sensor Portátil (Telescópio)
 
 </div></tr>
-<tr><td>Buggy-Foguete<td>Mai/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>8/40 Rodas<td>G</tr>
+<tr><td>Buggy-Foguete<td>Mai/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Rodas 8/40<td>G</tr>
 </table>
 
 **Veículo de Exploração Geral (VEG):** Um VEG é um veículo retangular de exploração projetado para lidar com quase qualquer ambiente. Usados para desbravamento, eles contêm um chassi de material inteligente que pode alternar entre rodas e pernas para terreno acidentado em 1d6 minutos. Eles podem funcionar no vácuo, em água na superfície, e submersos, e contêm um pequeno motor de hidrogênio metálico e jatos propulsores para manobrar no espaço. Eles são protegidos contra a radiação, contêm uma câmara de ar extensível e carregam suporte vital de capacidade estendida.
@@ -201,11 +201,11 @@ Dentro do Sistema Solar, as embarcações náuticas são usadas para os mares me
 
 Estes auxiliares de locomoção para uma pessoa são usados primariamente no espaço ou submerso. Use com Pilotagem: Náutica ou Pilotagem: Espacial como for apropriado, e faça reparos com Aparelhagem: Náutica ou Aparelhagem: Aeroespacial.
 
-| TRANSPORTE PESSOAL | Comp/<wbr>PE | Pass | Vigor | Flex | Armadura | LF | DUR | GD |      Movimento       | Tam |
-|:------------------ |:-------------------------------------:|:----:|:-----:|:----:|:--------:|:--:|:---:|:--:|:--------------------:|:---:|
-| Mochila Foguete    |                 Mod/2                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | 8/40 Empuxo Vetorial |  P  |
-| Trenó              |                 Men/1                 |  2   |   0   |  0   |   6/4    | 8  | 40  | 80 | 8/40 Empuxo Vetorial |  P  |
-| Mochila Propulsora |                 Men/1                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | 8/40 Empuxo Vetorial |  P  |
+| TRANSPORTE PESSOAL | Comp/<wbr>PE | Pass | Vigor | Flex | Armadura | LF | DUR | GD |           Movimento            | Tam |
+|:------------------ |:-------------------------------------:|:----:|:-----:|:----:|:--------:|:--:|:---:|:--:|:------------------------------:|:---:|
+| Mochila Foguete    |                 Mod/2                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
+| Trenó              |                 Men/1                 |  2   |   0   |  0   |   6/4    | 8  | 40  | 80 | Empuxo Vetorial (Foguete) 8/40 |  P  |
+| Mochila Propulsora |                 Men/1                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
 
 **Mochila Foguete:** Isto é um foguete de hidrogênio metálico em miniatura que você prende às suas costas, com escapamentos de foguete se estendendo de cada lado, para longe do corpo e das pernas. Para evitar queimaduras, um biomorfo deve estar vestindo uma roupa resistente ao calor, como um traje de vácuo. Além disso, para evitar danos, a propulsão deve ser mantida baixa o bastante para que ela só possa decolar em Marte ou luas com gravidade ainda menores. Uma mochila foguete pode mantê-lo no ar por até 15 minutos na gravidade de Marte, ou 30 minutos na Lua, em Titã, e em luas e asteroides menores. Ela pode ser usada para atingir a órbita e pousar novamente na Lua, em Titã e em outros corpos pequenos parecidos como as luas jovianas.
 

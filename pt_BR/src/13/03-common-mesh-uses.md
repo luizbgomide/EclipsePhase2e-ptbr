@@ -32,9 +32,9 @@ A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro imp
 
 Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
-Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de autonomistas e marginais.
+Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de eremitas e autonomistas.
 
-## Experiência Projetada (XP)
+## Experiência Pré-gravada (XP)
 
 Cada morfo com insertos da mesh tem a capacidade de transmitir ou gravar suas experiências na forma de XP. Compartilhar com amigos, redes sociais ou com o público em geral é bastante popular. Pequenos clipes são comuns, mas alguns x-padores postam um lifelog contínuo para assinantes.
 
@@ -90,7 +90,7 @@ Se você for hackeado, suas contas das redes sociais podem estar em risco. Seu p
 
 As tags entópticas são uma forma para as pessoas "marcarem" uma pessoa, lugar ou objeto físico com dados virtuais. Essas e-tags são armazenadas em redes locais ao item marcado e se movem com o item quando ele muda de local. As e-tags são visíveis em RA e podem conter praticamente qualquer tipo de dado, embora anotações curtas e imagens sejam os mais comuns. Frequentemente, as e-tags estão vinculadas a redes sociais específicas, ou círculos dentro dessas redes, para que as pessoas possam deixar observações, avaliações, recordações, mídias e outras coisas similares para amigos e colegas.
 
-Encontrar tags escondidos em uma área exige um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](../13/05-authentication-and-encryption.md#encryption).
+Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](../13/05-authentication-and-encryption.md#encryption).
 
 ## Realidade Virtual (RV)
 

@@ -86,7 +86,7 @@ As ligações laser são comuns onde a linha de visão não é um problema. As l
 
 ### Outras Ligações
 
-As ligações via micro-ondas funcionam como as ligações laser, exceto que elas não precisam de linha de visão, mas são impedidas por obstruções metálicas. Elas são mais comuns em áreas não totalmente assentadas. Sistemas de ligação dérmica, populares em vestíveis, exigem que o dispositivo e o usuário estejam se tocando fisicamente, e portanto não produzem emissões que podem ser interceptadas. Da mesma forma, sistemas cabeados dependem de conexões de cabos de fibra óptica. Eles proporcionam uma excelente segurança contra interceptação sem fio e bloqueio de sinais, e são comuns em alguns ambientes "ruidosos".
+As ligações via micro-ondas funcionam como as ligações laser, exceto que elas não precisam de linha de visão, mas são impedidas por obstruções metálicas. Elas são mais comuns em áreas não totalmente assentadas. Sistemas de ligação dérmica, populares em vestíveis, exigem que o dispositivo e o usuário estejam se tocando fisicamente, e portanto não produzem emissões que podem ser interceptadas. Da mesma forma, sistemas cabeados dependem de conexões de cabos de fibra óptica. Eles fornecem uma excelente segurança contra interceptação sem fio e bloqueio de sinais, e são comuns em alguns ambientes "ruidosos".
 
 ## Acessando Vários Sistemas
 

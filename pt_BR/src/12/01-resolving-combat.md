@@ -52,7 +52,7 @@ Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores
 
 | Situação                                                                                   |         Modificadores         |
 |:------------------------------------------------------------------------------------------ |:-----------------------------:|
-| Atacante correndo                                                                          |              −20              |
+| Atacante usando [movimento total](../12/24-movement.md#full-move)                          |              −20              |
 | Posição vantajosa                                                                          |              +20              |
 | Ferido/traumatizado                                                                        |   −10 por ferimento/trauma    |
 | [Ataque preciso](../12/15-special-attacks.md#called-shots) (sucesso maior necessário)      |              −10              |

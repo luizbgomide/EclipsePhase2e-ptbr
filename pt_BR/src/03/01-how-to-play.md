@@ -44,9 +44,9 @@ Os MJs atribuem modificadores conforme for apropriado à situação. Se múltipl
 |:-------------------- |:--------------------:|:-----------:|
 | Muito Fácil          |     Bônus Maior      |     +30     |
 | Fácil                |  Benefício Moderado  |     +20     |
-| Ligeiramente Fácil   |     Bônus Menor      |     +10     |
+| Ligeiramente Fácil   |    Auxílio Menor     |     +10     |
 | Mediano              |                      |    +/−0     |
-| Ligeiramente Difícil |   Obstáculo Menor    |     −10     |
+| Ligeiramente Difícil |   Empecilho Menor    |     −10     |
 | Difícil              | Impedimento Moderado |     −20     |
 | Muito Difícil        |  Desvantagem Maior   |     −30     |
 
@@ -71,7 +71,7 @@ Use resultados maiores para ter mais estilo e perfeição quando fizer testes. R
 
 Quando você rolar duplas em um teste — 00, 11, 22, etc. — você conseguiu um resultado _crítico_. Se você rolar um crítico e teve sucesso, você consegue um sucesso crítico. Se você rolar um crítico e falhar, você consegue uma falha crítica. Uma rolagem de 00 é sempre um sucesso crítico, uma rolagem de 99 é sempre uma falha crítica, não importa o número alvo.
 
-Os críticos têm mais impacto do que resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles proporcionam bônus/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
+Os críticos têm mais impacto do que resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles fornecem bônus/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
 
 - Dobrar o dano que você inflige com um ataque.
 - Obter um modificador +/−20 para o próximo teste que você fizer.
