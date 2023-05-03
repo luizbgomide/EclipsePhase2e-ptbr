@@ -86,7 +86,7 @@ You have an inner well of energy, making it easier to recuperate. You recover +1
 
 ### Pattern Recognition
 
-You are adept at spotting patterns and correlating non-random elements. This is useful for translating languages, breaking codes, or finding clues hidden among massive amounts of data. Apply a +10 modifier to appropriate Infosec, Perceive, or Research Tests where you have a sufficiently large sample and time enough to study, as determined by the gamemaster. This might range from a few hours of investigating inscriptions left by long-dead aliens to a week or more of researching a lengthy cipher. This does not apply to bruteforce hacking or Infosec tests made by decrypt apps to break a code.
+You are adept at spotting patterns and correlating non-random elements. This is useful for translating languages, breaking codes, or finding clues hidden among massive amounts of data. Apply a +10 modifier to appropriate Infosec, Perceive, or Research Tests where you have a sufficiently large sample and time enough to study, as determined by the gamemaster. This might range from a few hours of investigating inscriptions left by long-dead aliens to a week or more of researching a lengthy cipher. This does not apply to brute-force hacking or Infosec tests made by decrypt apps to break a code.
 
 You also learn new languages easily; reduce the timeframe to weeks rather than months.
 
