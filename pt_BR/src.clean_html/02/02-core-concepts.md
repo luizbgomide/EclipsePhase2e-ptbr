@@ -60,7 +60,7 @@ Os riscos existenciais são ameaças e vulnerabilidades com o potencial de exter
 
 ## Exploração Alienígena
 
-Exploradores descobriram enigmáticos portões capazes de teletransportar desbravadores através da galáxia. Esses são os portões de pandora, cheios de emoção e terror para os desbravadores que os utilizam. Conforme a transumanidade mapeava as fronteiras da Via Láctea, ela descobriu restos de civilizações alienígenas. Os grandes cemitérios mostraram que atingir a era especial é fácil, mas sobrevivê-la é raro. A exceção à extinção é uma raça mercante chamada de Factores, cujas naves visitam o Sistema Solar para vender xenoartefatos a preços exorbitantes. Os Factores se recusaram a compartilhar o segredo da sua própria sobrevivência, deixando a transumanidade para aprender sozinha.
+Exploradores descobriram enigmáticos portões capazes de teletransportar desbravadores através da galáxia. Esses são os portões de pandora, cheios de emoção e terror para os desbravadores que os utilizam. Conforme a transumanidade mapeava as fronteiras da Via Láctea, ela descobriu restos de civilizações alienígenas. Os grandes cemitérios mostraram que atingir a era especial é fácil, mas sobrevivê-la é raro. A exceção à extinção é uma raça mercante chamada Factores, cujas naves visitam o Sistema Solar para vender xenoartefatos a preços exorbitantes. Os Factores se recusaram a compartilhar o segredo da sua própria sobrevivência, deixando a transumanidade para aprender sozinha.
 
 ## Facções
 
