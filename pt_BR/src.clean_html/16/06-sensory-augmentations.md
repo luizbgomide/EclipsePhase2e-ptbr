@@ -27,7 +27,7 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 
 **Farejador Químico:** Esse sensor detecta moléculas no ar e analisa sua composição química, usando Saber: Química 60. Ele pode determinar a presença de explosivos, armas de fogo, e gases — incluindo toxinas e outros fumos.
 
-**Sentido Direcional:** Você adquire um sentido inato de direção e distância usando navegação inercial avançada. Você pode identificar o norte, a direção de rotação, etc., manter essa direção e saber aproximadamente quanto você já percorreu. Você recebe um modificador +10 em Testes de Sobrevivência e outras perícias baseados em navegação, para descobrir direções complexas, ler mapas, lembrar de rotas, e refazer os caminhos que você percorreu. Como é trivial usar a mesh para posicionamento, essa ampliação é usada primariamente por desbravadores.
+**Sentido Direcional:** Você adquire um sentido inato de direção e distância usando navegação inercial avançada. Você pode identificar o norte, a direção de rotação, etc., manter essa direção e saber aproximadamente quanto você já percorreu. Você recebe um modificador +10 em Testes de Sobrevivência e outras perícias baseados em navegação para descobrir direções complexas, ler mapas, lembrar rotas e retraçar caminhos que você tomou. Como é trivial usar a mesh para posicionamento, essa ampliação é usada primariamente por desbravadores.
 
 **Sentido Elétrico:** Você pode sentir campos elétricos. Dentro de 5 metros, você pode dizer se um dispositivo está ligado ou desligado e pode detectar a localização exata de fiações elétricas e fontes de energia atrás de uma parede ou dentro de um dispositivo.
 
