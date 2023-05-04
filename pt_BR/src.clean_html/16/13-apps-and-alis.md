@@ -19,7 +19,7 @@ Esses softwares podem ser executados em qualquer dispositivo computadorizado.
 | Mascaramento          |                Mod/R/2                | Falsifica transmissões e mesh IDs.               |
 | Rastreamento          |                 Mod/2                 | Rastreia conexões.                               |
 | VPN                   |                 Men/1                 | Cria uma rede privada virtual.                   |
-| XP                    |                Min+/1+                | Clipes de outros sensórios gravados.             |
+| XP                    |                Men+/1+                | Clipes de outros sensórios gravados.             |
 
 **Ilusão de RA:** Uma biblioteca de mídia e um pacote de edição que você pode usar para criar ilusões entópticas realistas.
 
