@@ -48,7 +48,7 @@ Em seu volume total, as unidades de enxame são consideradas alvos muito grandes
 
 Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evitar carregar parte do enxame com você.
 
-### Wares
+### Ware
 
 Enxamenoides e enxames podem ser equipados com ware, como os robôs. Os MJs devem usar o bom senso quando decidir qual ware é permitido; a maioria dos meshware e nanoware é aceitável, mas hardware como pneumáticos não é.
 
