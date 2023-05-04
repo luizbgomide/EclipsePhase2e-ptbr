@@ -172,7 +172,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 | GEAR                                                                                     | Comp/<wbr>GP | Description                                                                        |
 | :--------------------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
-| [Biometric Matcher](../16/13-apps-and-alis.md#apps)                      |    Min/1     | Match biometric patterns.                                                          |
+| [Biometric Matcher App](../16/13-apps-and-alis.md#apps)                      |    Min/1     | Match biometric patterns.                                                          |
 | [Brainprint Scanner](../16/17-espionage-and-security-tech.md)            |    Min/1     | Scans brainprint in 5 minutes.                                                     |
 | [Cuffband](../16/17-espionage-and-security-tech.md)                      |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6.                       |
 | [Klar (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |    Min/1     | +10 Perceive, no distraction modifiers.                                            |
