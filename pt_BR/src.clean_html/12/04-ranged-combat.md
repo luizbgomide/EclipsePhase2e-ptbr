@@ -52,7 +52,7 @@ Armas de distância tem um ou mais modos de disparo que determinam sua cadência
 | Totalmente Automático                                                                               |                                                         |
 | <!-- CLEANED div class="indent" -->» Alvo Único<!-- CLEANED /div -->          | +20 para acertar ou +2d10&nbsp;VD                       |
 | <!-- CLEANED div class="indent" -->» Três Alvos Adjacentes<!-- CLEANED /div --> | VD padrão para os três                                  |
-| <!-- CLEANED div class="indent" -->Fogo de Supressão<!-- CLEANED /div -->       | VD padrão para qualquer um sem cobertura dentro do cone |
+| <!-- CLEANED div class="indent" -->» Fogo de Supressão<!-- CLEANED /div -->       | VD padrão para qualquer um sem cobertura dentro do cone |
 
 <!-- CLEANED /blockquote -->
 
