@@ -80,10 +80,10 @@ Os turnos de ação têm cerca de 3 segundos de duração.
   - 3 ações rápidas
 - Você também pode fazer ações automáticas ilimitadas.
 
-## Ações da Tarefa
+## Ações de Tarefa
 
-- As ações da tarefa são ações que demoram mais de 1 turno de ação para serem concluídas.
-- As ações da tarefa listam um prazo (desde 2 turnos até 2 anos).
+- As ações de tarefa são ações que demoram mais de 1 turno de ação para serem concluídas.
+- As ações de tarefa listam um prazo (desde 2 turnos até 2 anos).
 - Os prazos podem ser ajustados por resultados maiores.
 - Você pode usar mais tempo, aplicando um modificador +10 para um aumento de 25% no prazo.
 - Você pode apressar o trabalho, reduzindo o prazo em 25% mas aplicando um modificador −20.
@@ -129,7 +129,7 @@ Seu personagem possui um número de paradas que definem suas capacidades transum
 
 - Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.
 - Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
-- Salvo indicação em contrário, apenas 1 ponte de parada pode ser gasto por teste.
+- Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
 
 <!-- CLEANED blockquote class="indent" -->
 
