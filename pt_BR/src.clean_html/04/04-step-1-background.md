@@ -153,12 +153,12 @@ Você é um elevado: a última geração de bonobo, cetáceo, chimpanzé, corví
 
 Se você preferir determinar o seu antecedente aleatoriamente, role 1d10:
 
-| Rolagem | Antecedente | Rolagem | Antecedente  |
-|:-------:|:-----------:|:-------:|:------------:|
-|    1    |   Colono    |    6    |   Infovida   |
-|    2    |   Enclavo   |    7    |   Isolado    |
-|    3    | Freelancer  |    8    |   Perdido    |
-|    4    | Hiperelite  |    9    | Classe Baixa |
-|    5    |  Arrendado  |   10    |   Elevado    |
+| Rolagem | Antecedente | Rolagem | Antecedente |
+|:-------:|:-----------:|:-------:|:-----------:|
+|    1    |   Colono    |    6    |  Infovida   |
+|    2    |   Enclavo   |    7    |   Isolado   |
+|    3    | Freelancer  |    8    |   Perdido   |
+|    4    | Hiperelite  |    9    |  Miserável  |
+|    5    |  Arrendado  |   10    |   Elevado   |
 
 <!-- CLEANED /blockquote -->
