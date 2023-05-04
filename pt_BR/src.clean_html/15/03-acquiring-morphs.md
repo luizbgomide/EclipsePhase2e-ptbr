@@ -81,7 +81,7 @@ Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação
 
 Sava foi contratada para investigar uma série de desaparecimentos em um habitat privado de uma hipercorp. A hipercorp tem créditos para gastar no problema, então o MJ atribui 8 Pontos de Morfo para Sava gastar. Sava não possui o traço Recursos para aumentar essa quantia e opta por econimizar seus favores de rep agora.
 
-Sava preferem morfos tipo fúria, então ela tenta um desses primeiro. A Disponibilidade é 40. Como a hipercorp é dona do habitat e de todos os morfos lá, o MJ dá a Sava um bônus de +20. Rolando contra um número alvo de 60, Sava consegue 83: sem sorte. A corp não precisa de modelos de combate na estação.
+Sava prefere morfos tipo fúria, então ela tenta um desses primeiro. A Disponibilidade é 40. Como a hipercorp é dona do habitat e de todos os morfos lá, o MJ dá a Sava um bônus de +20. Rolando contra um número alvo de 60, Sava consegue 83: sem sorte. A corp não precisa de modelos de combate na estação.
 
 Sava tenta de novo por um morfo tipo fantasma: mesma Disponibilidade, mesmo bônus do MJ. Ela consegue um 17 dessa vez: o morfo está no estoque.
 
