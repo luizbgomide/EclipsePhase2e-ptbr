@@ -106,7 +106,7 @@
 - As forças de segurança Go-nin tomam o portão de pandora em Éris dos anarquistas e eremitas que o descobriram.
 - Expedições são enviadas aos mundos extrassolares através dos portões de pandora. Muitas colônias são estabelecidas em exoplanetas. Restos de algumas civilizações alienígenas são descobertos.
 - O primeiro contato com os alienígenas conhecidos como Factores abala o sistema. Afirmando agir como embaixadores de outras civilizações alienígenas, eles fornecem pouca informação sobre a vida fora do Sistema Solar e alertam os transumanos para se afastarem de IAs seminais e portões de pandora.
-- Uma tentativa de criar uma geração de crianças usando clones crescidos aceleradamente e RV de tempo contraído falha miseravelmente quando a maioria morre ou fica insana. Chamada de Geração Perdida, os sobreviventes são vistos com repugnância e pena.
+- Uma tentativa de criar uma geração de crianças usando clones crescidos aceleradamente e RV de tempo contraído falha miseravelmente quando a maioria morre ou fica insana. Denominada Geração Perdida, os sobreviventes são vistos com repugnância e pena.
 - Uma série de aeróstatos e habitats venusianos se separam do Consórcio Planetário por divergências sobre a terraformação de Vênus. Esses separatistas forma a Constelação Estrela d'Alva.
 - Uma explosão destrói o Portão Discórdia, mas ele se reforma ao longo de várias semanas. Um grupo de ex-humanos assume brevemente o controle dele, antes dos Go-nin e Ultimistas reestabelecerem o controle com a ajuda de mercenários Ultimistas. Os ataques dos ex-humanos ao portão continuam regularmente.
 
