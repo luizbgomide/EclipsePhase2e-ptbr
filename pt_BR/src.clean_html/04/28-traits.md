@@ -54,7 +54,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Morfo
 
-| Traço                                                                   | Custo PP | Efeito                                                                                |
+| Traço                                                                   | Custo PM | Efeito                                                                                |
 |:----------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------- |
 | [Perspicácia](../04/28-traits.md#acumen)                                |  1/2/3   | +5 por nível em Provas de COG.                                                        |
 | [Velocidade Digital](../04/28-traits.md#digital-speed)                  |    1     | Prazos de tarefas da mesh reduzidos em 25%. Apenas infomorfos.                        |
@@ -242,7 +242,7 @@ O patrono fornece um [favor](../15/13-networking.md#favors) maior gratuito por a
 
 **Traço de ▲ Ego • Custo de PP: 2/4**
 
-Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender [perícia Psi](../04/19-active-skill-list.md#psi) e comprar habilidades psi, chamadas de [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
+Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender [perícia Psi](../04/19-active-skill-list.md#psi) e comprar habilidades psi, chamadas [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
 
 Psi tem suas desvantagens. Você também deve pegar um traço negativo de acordo com a sua [subcepa](../14/02-watts-macleod-sub-strains.md) sem nenhum bônus de PP. Esse traço obrigatório não conta no limite de PP de traços.
 
