@@ -14,7 +14,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 | Sistema de Jato de Gás |      CH      |                 Mod/2                 | Taxa de Movimento de Empuxo Vetorial (Jato de Gás) 4/12 (biomorfos) ou 8/40 (sintemorfos).                               |
 | Guelras                |      B       |                 Men/1                 | Respire tanto ar quanto água.                                                                                            |
 | Almofadas Aderentes    |     BCH      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
-| Hibernação             |      B       |                 Min/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
+| Hibernação             |      B       |                 Men/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
 | Compartimento Oculto   |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
 | Sistema Magnético      |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
 | Sistema de Mobilidade  |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#movement-types) especificado adicional.                                         |
