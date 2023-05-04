@@ -40,7 +40,7 @@ Conforme você completa cenários e acumula experiência durante o jogo, você a
 
 ### Gastando Pontos de Rez
 
-| Melhoria            |      Custo de PR       |
+| Melhoria            |        Custo PR        |
 |:------------------- |:----------------------:|
 | 5 pontos de Rep     |       1&nbsp;PR        |
 | 5 pontos da Perícia |       1&nbsp;PR        |
