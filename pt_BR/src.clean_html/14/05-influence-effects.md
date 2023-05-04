@@ -22,7 +22,7 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 <!-- CLEANED div class="stat-list" -->
 
 - **Outros Potenciais Comportamentos Acentuados:** Curiosidade, Frieza, Implacabilidade.
-- **Outras Potenciais Motivações:** +Adquirir Tecnologia Avançada, +Descartar Laços Emocionais, +Descobrir o Desconhecido, +Descobrir Segredos, +Readaptar.
+- **Outras Potenciais Motivações:** +Adquirir Tecnologia Avançada, +Descartar Laços Emocionais, +Descobrir o Desconhecido, +Readaptar, +Revelar Segredos.
 
 <!-- CLEANED /div -->
 
