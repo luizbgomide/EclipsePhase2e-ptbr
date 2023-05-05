@@ -42,7 +42,7 @@ Perhaps the most important app on each device is your firewall. Firewalls provid
 
 ### Infomorphs
 
-Infomorphs are activated mind-emulation suites — digital software intelligences. They are detailed on [Informorphs](../13/08-infomorphs.md).
+Infomorphs are activated mind-emulation suites — digital software intelligences. They are detailed on [Infomorphs](../13/08-infomorphs.md).
 
 ### Operating System
 

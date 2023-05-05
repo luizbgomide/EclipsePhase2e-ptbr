@@ -1,6 +1,6 @@
 # Infomorphs
 
-Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on [Informorphs](../13/08-infomorphs.md).
+Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on [Infomorphs](../13/08-infomorphs.md).
 
 <!-- CLEANED /blockquote -->
 
