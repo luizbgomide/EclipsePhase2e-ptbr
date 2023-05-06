@@ -124,7 +124,7 @@ These bots are literal life savers.
 
 **Docbot:** These wheeled medical robots are designed to tend to and transport injured or sick people. They carry a fabber for medical supplies and pharmaceuticals, miscellaneous medical gear, a secure container for carrying heads, and 4–8 articulated arms for conducting remote surgery. They are often loaded up with healing spray and meds (acquired separately).
 
-**Retriever:** Designed much like a smaller flying car with a pair of manipulator arms, this bot handles search-and-rescue ops. It tracks down survivors and rescues them from dangers, carrying the injured back to safety. It can hold one mediumsized transhuman.
+**Retriever:** Designed much like a smaller flying car with a pair of manipulator arms, this bot handles search-and-rescue ops. It tracks down survivors and rescues them from dangers, carrying the injured back to safety. It can hold one medium-sized transhuman.
 
 ## Personal Bots
 
