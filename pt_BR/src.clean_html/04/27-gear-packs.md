@@ -63,38 +63,38 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Pacote Opcional: Infomorfo
 
-| EQUIPAMENTOS                                           | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                         |
-|:------------------------------------------------------ |:-------------------------------------:|:------------------------------------------------------------------------------------------------- |
-| [Acoplagem Drone](../16/08-mental-augmentations.md)    |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                         |
-| [Segurança Aprimorada](../16/12-meshware.md)           |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo mas sem parada de Inspiração e com −3 em INIC. |
-| [App de Violação](../16/13-apps-and-alis.md#apps)      |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.                                                        |
-| [Servidor Privado](../16/04-services.md#mesh-services) |                 Men/1                 | Servidor privado, autoadministrado.                                                               |
-| [Mosquito](../16/21-robots.md#reconsurveillance-bots)  |                 Men/1                 | Drone de vigilância. Tamanho pequeno.                                                             |
-| [Anjo da Guarda](../16/21-robots.md#combat-bots)       |                 Mod/2                 | Drone de defesa pessoal. Tamanho pequeno.                                                         |
+| EQUIPAMENTOS                                           | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
+|:------------------------------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
+| [Acoplagem Drone](../16/08-mental-augmentations.md)    |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                          |
+| [Segurança Aprimorada](../16/12-meshware.md)           |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo, mas sem parada de Inspiração e com −3 em INIC. |
+| [App de Violação](../16/13-apps-and-alis.md#apps)      |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.                                                         |
+| [Servidor Privado](../16/04-services.md#mesh-services) |                 Men/1                 | Servidor privado, autoadministrado.                                                                |
+| [Mosquito](../16/21-robots.md#reconsurveillance-bots)  |                 Men/1                 | Drone de vigilância. Tamanho pequeno.                                                              |
+| [Anjo da Guarda](../16/21-robots.md#combat-bots)       |                 Mod/2                 | Drone de defesa pessoal. Tamanho pequeno.                                                          |
 
 ## Pacotes de Profissão
 
 ### Acadêmico
 
-| EQUIPAMENTOS                                                                 | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                |
-|:---------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------------- |
-| [Bot Bichinho](../16/21-robots.md#personal-bots)                             |                 Men/1                 | Bot companheiro portado. Tamanho pequeno.                                                                |
-| [Projetor Holográfico](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Projeta imagens/vídeos em 3D HD ultrarrealista. +20 em Percepção para notar que é falso a até 20&nbsp;m. |
-| [Microcarro](../16/22-vehicles.md#groundcraft)                               |                 Mod/2                 | Veículo de duas rodas para uma pessoa.                                                                   |
-| [Multitarefa](../16/08-mental-augmentations.md)                              |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                               |
-| [Neme (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs)     |                 Men/1                 | +20 em Provas de COG para se lembrar de coisas aprendidas sob efeito de Neme.                            |
-| [SolArchive Portátil](../16/18-mission-gear.md#science-tools)                |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh.                  |
-| [Bot Servente](../16/21-robots.md#personal-bots)                             |                 Men/1                 | Bot comum de ajudante/cozinheiro/zelador.                                                                |
-| [Simulespaço](../16/04-services.md#mesh-services)                            |                 Men/1                 | Acesso a um espaço de RV.                                                                                |
+| EQUIPAMENTOS                                                                 | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                 |
+|:---------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------------------------- |
+| [Bot Bichinho](../16/21-robots.md#personal-bots)                             |                 Men/1                 | Bot companheiro portado. Tamanho pequeno.                                                                 |
+| [Projetor Holográfico](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Projeta imagens/vídeos 3D ultrarrealistas em HD. +20 em Percepção para notar que é falso a até 20&nbsp;m. |
+| [Microcarro](../16/22-vehicles.md#groundcraft)                               |                 Mod/2                 | Veículo de duas rodas para uma pessoa.                                                                    |
+| [Multitarefa](../16/08-mental-augmentations.md)                              |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                |
+| [Neme (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs)     |                 Men/1                 | +20 em Provas de COG para se lembrar de coisas aprendidas sob efeito de Neme.                             |
+| [SolArchive Portátil](../16/18-mission-gear.md#science-tools)                |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh.                   |
+| [Bot Servente](../16/21-robots.md#personal-bots)                             |                 Men/1                 | Bot comum de ajudante/cozinheiro/zelador.                                                                 |
+| [Simulespaço](../16/04-services.md#mesh-services)                            |                 Men/1                 | Acesso a um espaço de RV.                                                                                 |
 
 ### Agente Infiltrado
 
 | EQUIPAMENTOS                                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                             |
 |:--------------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------- |
 | [Manto Camaleão](../16/17-espionage-and-security-tech.md)                         |                 Mod/2                 | Camuflagem, +10 em Infiltração, +30 se estiver parado.                                                |
-| [Exame Faxineiro](../16/20-nanoswarms-and-microswarms.md#swarms)                  |                 Men/1                 | Limpa e elimina evidências forenses.                                                                  |
+| [Enxame Faxineiro](../16/20-nanoswarms-and-microswarms.md#swarms)                 |                 Men/1                 | Limpa, eliminando evidências forenses.                                                                |
 | [Ferramenta de Operações de Infiltração](../16/17-espionage-and-security-tech.md) |                Mai/R/3                | Burla fechaduras, abre/fecha buracos, Aparelhagem: Eletrônica 60 vs. fechaduras eletrônicas e outros. |
-| [Microescuta](../16/17-espionage-and-security-tech.md)                            |                 Men/1                 | Microgravador de audio/vídeo.                                                                         |
+| [Microescuta](../16/17-espionage-and-security-tech.md)                            |                 Men/1                 | Microgravador de áudio/vídeo.                                                                         |
 | [Pele-Flex](../16/09-social-augmentations.md)\*                                 |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce.                     |
 | [Nanoenxame Espião](../16/20-nanoswarms-and-microswarms.md#swarms)                |                 Men/1                 | Vigilância, Percepção 60.                                                                             |
 
@@ -140,7 +140,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Anjo da Guarda](../16/21-robots.md#combat-bots)                         |                 Mod/2                 | Drone de defesa pessoal. Tamanho pequeno.                                                                   |
 | [Fabro Médio](../16/19-nanotech.md#nanofabricators)                      |                 Mod/2                 | Fabrica itens pequenos.                                                                                     |
 | [Nanodetector](../16/19-nanotech.md)                                     |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
-| [Neuromodulação](../16/09-social-augmentations.md)                       |                 Mod/2                 | Controle sobre seus neurotransmissores e emoções. +1 em Manha.                                              |
+| [Neuromodulação](../16/09-social-augmentations.md)                       |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                                                      |
 | [Gavião Inteligente](../16/14-creatures.md#smart-animals)                |                 Men/1                 | Usado para vigilância.                                                                                      |
 | [Firmeza (5 doses)](../16/15-chemicals-drugs-and-toxins.md#social-drugs) |                 Men/1                 | +10 em Provas de SAG/VON vs. Persuasão/Provocação, Comportamento Acentuado: Teimosia (2).                   |
 
@@ -176,7 +176,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Escaneador de Impressão Cerebral](../16/17-espionage-and-security-tech.md) |                 Men/1                 | Escaneia uma impressão cerebral em 5 minutos.                                             |
 | [Braçadeira](../16/17-espionage-and-security-tech.md)                       |                 Men/1                 | Algemas eletrônicas, operação remota, ataque de choque VD 1d6.                            |
 | [Klar (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs)    |                 Men/1                 | +10 em Percepção, nega modificadores por distração.                                       |
-| [Microescuta](../16/17-espionage-and-security-tech.md)                      |                 Men/1                 | Microgravador de audio/vídeo.                                                             |
+| [Microescuta](../16/17-espionage-and-security-tech.md)                      |                 Men/1                 | Microgravador de áudio/vídeo.                                                             |
 | [Oráculos](../16/06-sensory-augmentations.md)                               |                 Mod/2                 | Nega modificadores por distração.                                                         |
 | [Nanoenxame Esquadrinhador](../16/20-nanoswarms-and-microswarms.md#swarms)  |                 Men/1                 | Mapeia área, coleta evidências forenses, Saber: Química 60, Medicina: Ciência Forense 60. |
 | [Pontinho](../16/21-robots.md#reconsurveillance-bots)                       |                 Men/1                 | Bots espiões insectoides. Tamanho muito pequeno.                                          |
