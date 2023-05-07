@@ -115,7 +115,7 @@ Você é um legado da malfadada Geração Perdida, tendo passado por uma infânc
 | Percepção                                      | 20 |
 | Psi                                            | 50 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Biologia, Psicologia, Sociologia_</p> | 60 |
-| Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Hacks Mentais, Privacidade, Serial Killers_</p> | 30 |
+| Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Assassinos Seriais, Hacks Mentais, Privacidade_</p> | 30 |
 
 ## Miserável
 
