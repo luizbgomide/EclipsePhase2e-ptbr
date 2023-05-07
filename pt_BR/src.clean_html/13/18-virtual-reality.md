@@ -1,6 +1,6 @@
 # Realidade Virtual
 
-Os simulespaços de RV são ilusões detalhadas e autênticas. A resolução tem uma definição tão alta para ser hiper-realista, com até pequenos detalhes e sensações sendo replicados perfeitamente. Entrar na RV é parecido com entrar em um realidade alternativa.
+Os simulespaços de RV são ilusões detalhadas e autênticas. A resolução tem uma definição tão alta para ser hiper-realista, com até pequenos detalhes e sensações sendo replicados perfeitamente. Entrar na RV é parecido com entrar em uma realidade alternativa.
 
 ## Acessando Simulespaços
 
@@ -8,7 +8,7 @@ Enquanto você pode acessar um servidor de simulespaço através da mesh, o cons
 
 A RV assume completamente o seu sensório, substituindo seus sentidos físicos. A maioria das pessoas prefere manter seu corpo em um ambiente seguro e confortável enquanto está em um simulespaço; almofadas e sofás ajustados ao corpo ajudam você a relaxar e evitam que você se contorça ou machuque se você acabar se mexendo demais. Salões de jogos em RV oferecem cápsulas privativas. No caso de peregrinações virtuais de longo prazo (por exemplo, durante viagens espaciais), os morfos são normalmente mantidos em tanques que os sustentam com nutrição e oxigênio.
 
-Você entra primeiro em um simulespaço através de um área de retenção eletrônica conhecida como sala branca. Aqui você escolhe seu avatar personalizável — seu _simulmorfo_ — e outras configurações. Uma vez pronto, a sala branca se dissolve e você entra no ambiente sensorial virtual completo.
+Você entra primeiro em um simulespaço através de uma área de retenção eletrônica conhecida como sala branca. Aqui você escolhe seu avatar personalizável — seu _simulmorfo_ — e outras configurações. Uma vez pronto, a sala branca se dissolve e você entra no ambiente sensorial virtual completo.
 
 **Musas:** A maioria das musas é deixada para trás ao entrar em um simulespaço. No entanto, elas podem potencialmente vir junto se as regras de domínio permitirem. Alguns simulespaçoes dão a musa o seu próprio simulmorfo.
 
@@ -66,7 +66,7 @@ As opções de usuário padrão dentro de um simulespaço se resumem a algumas a
 
 ## Ações de Administrador/Trapaça
 
-Administradores e usuários com códigos de trapaça têm mais opções. As seguintes representam apenas algunas das potenciais opções — muitas outras podem ser possíveis, dependendo do simulespaço em questão. A maioria dos simulespaços são monitorados para evitar trapaças e abusos, embora os administradores geralmente estão ocupados com a manutenção do simulespaço como um todo, lidando com outros usuários, etc. A critério do MJ, um administrador pode fazer um Teste de Interface (possivelmente com um modificador por distração) para perceber o uso de códigos de trapaça não autorizados.
+Administradores e usuários com códigos de trapaça têm mais opções. As seguintes representam apenas algumas das potenciais opções — muitas outras podem ser possíveis, dependendo do simulespaço em questão. A maioria dos simulespaços são monitorados para evitar trapaças e abusos, embora os administradores geralmente estão ocupados com a manutenção do simulespaço como um todo, lidando com outros usuários, etc. A critério do MJ, um administrador pode fazer um Teste de Interface (possivelmente com um modificador por distração) para perceber o uso de códigos de trapaça não autorizados.
 
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente. Escrever ou editar uma trapaça pode exigir um Teste de Programação com um prazo definido pelo MJ. Encontrar uma trapaça existente pode exigir um Teste de Pesquisa. Instalar um código de trapaça oculto dos outros administradores requer um Teste de Hackeamento.
 - **Alterar Regras de Domínio:** A maioria dos simulespaços possuem interfaces para você ajustar as configurações do sistema dentro de certos parâmetros; ajustar essas não requer um teste. No entanto, alterar drasticamente o ambiente ou as regras subjacentes de um domínio, vai exigir um Teste de Programação com um prazo definido pelo MJ.
