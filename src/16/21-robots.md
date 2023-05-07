@@ -258,7 +258,7 @@ These bots help get things done.
 </div></tr>
 </table>
 
-**Automech:** Automechs are general-purpose repair drones, found just about everywhere. Each specializes in a particular type of repair work and is equipped with the appropriate tools and ALI skills, whether it be electronics, habitat systems, or spacecraft repair. Standard automechs are wheeled cubes with 4–8 retractable and articulated limbs, though they are also equipped with vectoredthrust drives for zero-g work.
+**Automech:** Automechs are general-purpose repair drones, found just about everywhere. Each specializes in a particular type of repair work and is equipped with the appropriate tools and ALI skills, whether it be electronics, habitat systems, or spacecraft repair. Standard automechs are wheeled cubes with 4–8 retractable and articulated limbs, though they are also equipped with vectored-thrust drives for zero-g work.
 
 **Barracuda:** This undersea utility drone is fielded for exploration, service, and repair functions. It is shaped like a miniature submarine, with a pair of retractable arms.
 

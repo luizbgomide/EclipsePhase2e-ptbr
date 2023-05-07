@@ -82,7 +82,7 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 
 ### Dragonfly
 
-The dragonfly takes the shape of a meterlong flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in microgravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns.
+The dragonfly takes the shape of a meter-long flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in microgravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns.
 
 <blockquote class="indent stat-list">
 
