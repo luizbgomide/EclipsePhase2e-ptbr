@@ -2,7 +2,7 @@
 
 Um resumo rápido sobre materiais futuristas comuns:
 
-**Aerogel:** A "fumaça congelada" é feita substituindo o líquido em um gel ou espuma com um gás. O resultado é um sólido semitransparente, leve e de baixa densidade que lembra isopor, ele feito de vários compostos químicos. Ele pode ser ser usado em janelas e como isolante em habitats, especialmente aeróstatos, e para capturar poeira espacial no casco de espaçonaves. Pode ser combinado com fibras de reforço para fazer cobertores leves e flexíveis.
+**Aerogel:** A "fumaça congelada" é feita substituindo o líquido em um gel ou espuma com um gás. O resultado é um sólido semitransparente, leve e de baixa densidade que lembra isopor, ele feito de vários compostos químicos. Ele pode ser usado em janelas e como isolante em habitats, especialmente aeróstatos, e para capturar poeira espacial no casco de espaçonaves. Pode ser combinado com fibras de reforço para fazer cobertores leves e flexíveis.
 
 **Metais Amorfos:** Também chamados de vidro metálico, os metais amorfos são ligas metálicas com uma estrutura atômica desordenada (em vez de cristalina), tornando-os mais duros, menos quebradiços e mais resistentes ao desgaste e corrosão. Eles amolecem e fluem quando são aquecidos, então pode ser usados em moldes por injeção. Eles são usados em armaduras, implantes, armações robóticas e ambientes hostis.
 
