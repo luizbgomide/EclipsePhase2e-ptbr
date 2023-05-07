@@ -8,7 +8,7 @@ Para ser um assincro, você deve comprar o [traço Psi](../04/28-traits.md#psi) 
 
 ## Morfos e Psi
 
-As capacidades assincro só funcionam em um substrato biológico — o que significa que você precisa de um cérebro biológico e um sistema nervoso. Um assincro encapado em um sintomorfo, infomorfo ou biomorfo com cibercérebro não pode usar seus truques.
+As capacidades assincro só funcionam em um substrato biológico — o que significa que você precisa de um cérebro biológico e um sistema nervoso. Um assincro encapado em um sintemorfo, infomorfo ou biomorfo com cibercérebro não pode usar seus truques.
 
 ## Fragmentação Mental
 
