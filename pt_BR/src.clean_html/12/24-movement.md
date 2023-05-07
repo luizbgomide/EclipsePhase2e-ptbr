@@ -4,11 +4,11 @@ O movimento em Eclipse Phase é tratado como outros tipos de ação. Quanto mais
 
 ## Taxa de Movimento
 
-Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsinado, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
+Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsionando, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
 
 ## Ações de Movimento
 
-Em cada turno de ação, você pode fazer um tipo de ação de movimento (com a exceção de saltar e levantar, que podem ser combinadas com outras) ou escolher fiquer parado. A ação de movimento que você fizer pode infligir modificadores em suas ações físicas, então você deve declará-la no início da sua iniciativa. Por exemplo, você não pode agir e então decidir se mover, pois você teria evitado os modificadores aplicáveis. Você pode dividir a distância que você se move em partes menores e intercalá-las com outras ações que você fizer durante o turno (ex.: você pode se mover um pouco, atacar, então mover o resto). Ações extras em um turno não permitem que você cubra mais distância, mas você pode cobrir a distância restante que você tem direito neste turno com essas ações.
+Em cada turno de ação, você pode fazer um tipo de ação de movimento (com a exceção de saltar e levantar, que podem ser combinadas com outras) ou escolher ficar parado. A ação de movimento que você fizer pode infligir modificadores em suas ações físicas, então você deve declará-la no início da sua iniciativa. Por exemplo, você não pode agir e então decidir se mover, pois você teria evitado os modificadores aplicáveis. Você pode dividir a distância que você se move em partes menores e intercalá-las com outras ações que você fizer durante o turno (ex.: você pode se mover um pouco, atacar, então mover o resto). Ações extras em um turno não permitem que você cubra mais distância, mas você pode cobrir a distância restante que você tem direito neste turno com essas ações.
 
 ### Movimento Base
 
@@ -70,7 +70,7 @@ Está fora do escopo deste livro avaliar o impacto de diferentes gravidades em t
 
 As regras acima são direcionadas para morfos humanoides, mas há muitos morfos, carcaças e criaturas com formas corporais e/ou sistemas de mobilidade diferentes. Sintemorfos podem adicionar sistemas de mobilidade como [ware](../16/11-physical-augmentations.md). Os tipos de movimento abaixo listam a perícia usada para manobrar e uma Taxa de Movimento padrão, mas o MJ deve ajustar isso levando em conta o tamanho, volume, membros extras, etc.
 
-Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças são capazes de movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](../12/25-vehicle-movement.md).
+Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](../12/25-vehicle-movement.md).
 
 ### Barca
 
