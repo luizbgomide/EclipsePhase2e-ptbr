@@ -59,4 +59,4 @@ A perícia Provocação podem ser usada de várias formas ofensivas durante cena
 - **Perturbar:** Você deixa o oponente desconcertado ou atrapalhado; ele sofre −10 em sua próxima ação. Aumente isso por −10 adicional por sucesso maior.
 - **Inspirar:** Você estimula um PNJ aliado, motivando-o para vitória; ele recebe +10 em sua próxima ação.
 - **Intimidar:** Você assusta um oponente levando-o a interromper seu próximo ataque, atacar outra pessoa, buscar cobertura ou fugir.
-- **Zombar:** Você irrita um oponente, forçado-o a se concentrar em você e atacar você com a próxima ação dele.
+- **Zombar:** Você irrita um oponente, forçando-o a se concentrar em você e atacar você com a próxima ação dele.
