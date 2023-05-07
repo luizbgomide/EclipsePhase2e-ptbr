@@ -64,7 +64,7 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 |:--------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------- |
 | Enxame Faxineiro      |                 Men/1                 | Limpa, eliminando evidências forenses.                                                    |
 | Enxame Desmantelador  |                Mod/R/2                | Desconstrói, VD 1d6 \[4\] por turno, consome armadura.                                  |
-| Enxame Engenheiro     |                 Men/1                 | Contrói/molda o ambiente.                                                                 |
+| Enxame Engenheiro     |                 Men/1                 | Constrói/molda o ambiente.                                                                |
 | Enxame Reparador      |                 Mod/2                 | Repara 1d10 \[6\] de dano por hora ou 1 ferimento por dia.                              |
 | Enxame Jardineiro     |                 Men/1                 | Mantém flora, desfolha, mata ervas daninhas, poliniza, etc.                               |
 | Enxame Guardião       |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 6 por turno.                          |
@@ -73,7 +73,7 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 | Enxame Sabotador      |                Mod/R/2                | Sabota eletrônicos/maquinários; 50% de chance de ferimento a cada LF turnos.              |
 | Enxame Esquadrinhador |                 Men/1                 | Mapeia área, coleta evidências forenses, Saber: Química 60, Medicina: Ciência Forense 60. |
 | Enxame Espião         |                 Men/1                 | Vigilância, Percepção 60.                                                                 |
-| Enxame Marcador       |                 Men/1                 | Marca tudo em um área para fins de rastreamento.                                          |
+| Enxame Marcador       |                 Men/1                 | Marca tudo em uma área para fins de rastreamento.                                         |
 
 **Faxineiro:** Este nanoenxame limpa, dá brilho, e remove sujeiras e manchas. Você pode liberá-lo para sanitizar uma área, objetos específicos ou pessoas. Algumas instalações usam enxames faxineiros permanentes para manter a área impecável. Os faxineiros são especialmente úteis para descontaminar uma área de toxinas ou químicos perigosos. Agentes infiltrados e criminosos usam faxineiros para eliminar potenciais evidências forenses, tais como sangue, cabelos ou qualquer coisa que possa conter DNA.
 
