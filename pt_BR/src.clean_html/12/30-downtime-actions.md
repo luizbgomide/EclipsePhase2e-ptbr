@@ -40,16 +40,16 @@ Conforme você completa cenários e acumula experiência durante o jogo, você a
 
 ### Gastando Pontos de Rez
 
-| Melhoria            |        Custo PR        |
-|:------------------- |:----------------------:|
-| 5 pontos de Rep     |       1&nbsp;PR        |
-| 5 pontos da Perícia |       1&nbsp;PR        |
-| 1 Especialização    |       1&nbsp;PR        |
-| 1 truque Psi        |       1&nbsp;PR        |
-| 1 Idioma            |       1&nbsp;PR        |
-| 1 ponto de Aptidão  |       1&nbsp;PR        |
-| 1 ponto de Flex     |       2&nbsp;PR        |
-| Traços de Ego       | PR = Custo/Bônus de PP |
+| Melhoria            |      Custo PR       |
+|:------------------- |:-------------------:|
+| 5 pontos de Rep     |      1&nbsp;PR      |
+| 5 pontos da Perícia |      1&nbsp;PR      |
+| 1 Especialização    |      1&nbsp;PR      |
+| 1 truque Psi        |      1&nbsp;PR      |
+| 1 Idioma            |      1&nbsp;PR      |
+| 1 ponto de Aptidão  |      1&nbsp;PR      |
+| 1 ponto de Flex     |      2&nbsp;PR      |
+| Traços de Ego       | PR = Custo/Bônus PP |
 
 <!-- CLEANED /blockquote -->
 
