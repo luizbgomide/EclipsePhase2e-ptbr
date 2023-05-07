@@ -82,7 +82,7 @@
 - As forças TITAN ficam inativas. As TITANs subitamente desaparecem como uma presença ativa do Sistema Solar, levando milhões de uploads de mentes com elas.
 - O projeto TITAN para transformar Jápeto é abandonado. As forças titanianas colocam um cordão de segurança lá.
 - Momento de Bronsky: O último contato conhecido com forças controladas por TITAN.
-- A Terra se tornou um deserto devastado, um manta de retalhos de áreas radiotivas, zonas estéreis, nuvens de nanoenxames, máquinas de guerra ambulantes, exsurgentes e outras coisas ocultas deixadas entre as ruínas.
+- A Terra se tornou um deserto devastado, um manta de retalhos de áreas radioativas, zonas estéreis, nuvens de nanoenxames, máquinas de guerra ambulantes, exsurgentes e outras coisas ocultas deixadas entre as ruínas.
 - A Zona de Quarentena TITAN foi estabelecida em Marte, isolando o território ainda sob influência de máquinas.
 - Um cordão de satélites da morte foi colocado órbita terrestre baixa, impedindo que qualquer coisa escape ou chegue no planeta.
 
