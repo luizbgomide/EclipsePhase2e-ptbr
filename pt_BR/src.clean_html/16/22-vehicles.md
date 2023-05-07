@@ -49,9 +49,9 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 
 **Carro Voador:** Este carro movido a metano é equipado com turbofans que se desdobram do corpo para voo por empuxo vetorial em Marte e mundos com gravidades semelhantes.
 
-**Microleve:** Esta aeronave pessoal ultraleve não é mais do que uma asa estruturada, uma armação e um motor de propulsão elétrico. Eles são ideias para se mover dentro de grandes habitats com espaço aéreo fechado.
+**Microleve:** Esta aeronave pessoal ultraleve não é mais que uma asa estruturada, uma armação e um motor de propulsão elétrico. Eles são ideias para se mover dentro de grandes habitats com espaço aéreo fechado.
 
-**Avião Portátil:** Feito de materiais inteligentes, este avião leve e durável com hélice se compacta para ou se autoexpande de um pacote de tamanho grande mas portátil em 10 minutos. Diferentes modelos são projetados para voo em Marte, Titã, Vênus ou outros lugares, com uma envergadura média de 10 metros.
+**Avião Portátil:** Feito de materiais inteligentes, este avião leve e durável com hélice se compacta para ou se autoexpande de um pacote de tamanho grande, mas portátil em 10 minutos. Diferentes modelos são projetados para voo em Marte, Titã, Vênus ou outros lugares, com uma envergadura média de 10 metros.
 
 **Jato Pequeno:** Aviões a jato movidos a metano são uma forma comum de transporte em Marte, Vênus e Titã. Suas asas e armação de materiais inteligentes podem se adaptar a uma variedade de velocidades, altitudes, e condições atmosféricas.
 
@@ -85,7 +85,7 @@ Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhor
 
 **Transportador:** Esta estrutura de exoesqueleto contém um par de motores turbofan de empuxo vetorial, dando-lhe capacidade de voo. Use Pilotagem: Aérea e uma Taxa de Movimento de 8/40 (muito rápido).
 
-**Triciclo:** O exoesqueleto triciclo é um projeto de motocicleta pessoal com três rodas, em vez de um andador. Use Pilotagem: Terrestre e uma Taxa de Movimento de 8/40 (muito rápido).
+**Triciclo:** O exoesqueleto triciclo é um projeto de motociclo pessoal com três rodas, em vez de um andador. Use Pilotagem: Terrestre e uma Taxa de Movimento de 8/40 (muito rápido).
 
 ## Veículos Terrestres
 
@@ -98,7 +98,7 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 <tr><td>Ciclo<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>Rodas 8/40<td>M</tr>
 <tr><td>Carro Terrestre<td>Mai/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rodas 8/40<td>G</tr>
 <tr><td>Microcarro<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>Rodas 8/40<td>G</tr>
-<tr><td>Astromóvel<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
+<tr><td>Rover<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
 - **Ware:** Autocozedor, Fabro Grande, Laboratório de Bolso
@@ -110,13 +110,13 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 
 **Transportador de Carga:** Estes caminhões de frete são usados para carregar suprimentos para habitats isolados e operações de terraformação em Marte, Mercúrio, Titã e alguns exoplanetas.
 
-**Ciclo:** As motocicletas são preferidas nos habitats onde o espaço é um luxo. Os modelos abertos para dois passageiros são os mais comuns, mas projetos giroestabilizados com uma roda estão crescendo em popularidade. Modelos de duas ou três rodas com cápsulas fechadas são visões frequentes em Marte, Mercúrio, e Titã.
+**Ciclo:** Os motociclos são preferidas nos habitats onde o espaço é um luxo. Os modelos abertos para dois passageiros são os mais comuns, mas projetos giroestabilizados com uma roda estão crescendo em popularidade. Modelos de duas ou três rodas com cápsulas fechadas são visões frequentes em Marte, Mercúrio, e Titã.
 
 **Carro Terrestre:** Os automóveis padrão vêm uma variedade de modelos e tamanhos.
 
 **Microcarro:** Carros para uma pessoa são populares em grandes habitats com espaço limitado. Estes não são mais do cápsulas para um passageiro montadas em duas grandes omnirrodas laterais para melhor controle e movimento lateral.
 
-**Astromóvel:** Os astromóveis são unidades de habitação móveis, usadas por terraformadores em Marte, mineiros em Mercúrio, e desbravadores em exoplanetas. Eles contêm 8 grandes rodas inteligentes, uma câmara de ar para 2 pessoas, dormitórios apertados, um engate inteligente para reboques, e uma plataforma de lançamento de drone.
+**Rover:** Os rovers são unidades de habitação móveis, usadas por terraformadores em Marte, mineiros em Mercúrio, e desbravadores em exoplanetas. Eles contêm 8 grandes rodas inteligentes, uma câmara de ar para 2 pessoas, dormitórios apertados, um engate inteligente para reboques, e uma plataforma de lançamento de drone.
 
 ## Trajes Rígidos
 
@@ -160,7 +160,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 
 **Traje de Mergulho Espacial:** Os trajes de mergulho espacial são trajes espaciais pessoais projetados para suportar a reentrada atmosférica. Usando um desses, você pode sair de uma espaçonave em órbita ao redor de um planeta, entrar na atmosfera sem derreter e pousar em segurança usando paraquedas de desaceleração ou convencionais. Os trajes de mergulho espacial são feitos apenas para descidas não motorizadas; eles não possuem capacidade para voar.
 
-**Traje Rígido Padrão:** Eles traje industrial pode ser considerado quase como uma espaçonave em miniatura. Ele se parece com um grande ovoide metálico com braços e pernas articulados e servoassistidos. Ele aumenta a parada de Vigor em 1 e inflige 1d10 de dano adicional em luta. Seus propulsores de plasma em miniatura são capazes de produzir 0,01&nbsp;g por 10 horas.
+**Traje Rígido Padrão:** Este traje industrial pode ser considerado quase como uma espaçonave em miniatura. Ele se parece com um grande ovoide metálico com braços e pernas articulados e servoassistidos. Ele aumenta a parada de Vigor em 1 e inflige 1d10 de dano adicional em luta. Seus propulsores de plasma em miniatura conseguem produzir 0,01&nbsp;g por 10 horas.
 
 ## Veículos Híbridos
 
@@ -226,7 +226,7 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 | Graneleiro       |                Raro/—                 |    5+    |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
 | Expresso         |                Raro/—                 |    13    |   0   |  0   |  30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
 | Corveta          |                Raro/—                 |  20–30   |   0   |  0   |  50/40   | 150 |  750  | 1.500 | Fusão/<!-- CLEANED wbr -->Antimatéria |
-| Destróier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
+| Destroier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
 | Caça             |                Raro/—                 |   0/1    |   3   |  2   |  30/20   | 50  |  250  |  500  |                      Fusão                      |
 | Barcaça da Ralé  |                Raro/—                 | 5–25 mil |   0   |  0   |  40/30   | 300 | 1.500 | 3.000 |   Plasma/<!-- CLEANED wbr -->Fusão    |
 | Ônibus (Grande)  |                Raro/—                 |  20–300  |   0   |  0   |  20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
@@ -239,9 +239,9 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 
 **Corveta:** As corvetas são naves de guerra leves e de ataque rápido. Elas dependem principalmente de motores de fusão, mas também carregam antimatéria para propulsão em alta velocidade e ogivas devastadoras. Eles estão armados como railguns, lasers, drones e sistemas de mísseis.
 
-**Destróier:** A maior espaçonave militar em uso geral, os destróieres alternam entre motores de fusão e antimatéria como corvetas. Eles estão armados com railguns, mísseis nucleares e alto-explosivos, lasers de defesa pontal, e um contingente de 20 caças.
+**Destroier:** A maior espaçonave militar em uso geral, os destroieres alternam entre motores de fusão e antimatéria como corvetas. Eles estão armados com railguns, mísseis nucleares e alto-explosivos, lasers de defesa pontal, e um contingente de 20 caças.
 
-**Caça:** A maioria destas naves militares de curto alcance é projetada para ser tripulada por um infomorfo/ILA, embora algumas possam ter um único piloto (tipicamente um sintemorfo ou biomorfo adaptado ao vácuo). Um arsenal típico inclui 4–6 torres de artilharia de laser e railguns que podem disparar em qualquer direção, e um lançador de mísseis carregando auto-explosivos ou até mesmo mísseis nucleares ou de antimatéria. Alguns também são projetados (ou podem mudar sua forma) para lidar com voo atmosférico.
+**Caça:** A maioria destas naves militares de curto alcance é projetada para ser tripulada por um infomorfo/ILA, embora algumas possam ter um único piloto (tipicamente um sintemorfo ou biomorfo adaptado ao vácuo). Um arsenal típico inclui 4–6 torres de artilharia de laser e railguns que podem disparar em qualquer direção, e um lançador de mísseis carregando alto-explosivos ou até mesmo mísseis nucleares ou de antimatéria. Alguns também são projetados (ou podem mudar sua forma) para lidar com voo atmosférico.
 
 **Barcaça da Ralé:** As barcaças são uma categoria abrangente para um tipo de habitat móvel comum em enxames da ralé. As barcaças originais eram habitats temporários de microgravidade para refugiados, construídos na órbita da terra durante a Queda. Elas foram concebidas para suportar até 20.000 pessoas em condições confinadas por meses ou até anos. Abandonados pelas autoridades, a ralé prendeu foguetes ou começou a rebocá-los. Outras barcaças foram reivindicadas e ficaram móveis com o passar dos anos, incluindo de tudo, desde restos de habitats toroides parcialmente destruídos até pequenos asteroides. As melhores usam foguetes de fusão e carregam 5–10 mil com relativo conforto, às vezes tendo baixa gravidade por rotação; os piores usam foguetes antigos de plasma ou dependem de naves rebocadoras, e forçam seus sistemas de suporte vital e espaços de convivência ao limite como até 25.000 residentes.
 
