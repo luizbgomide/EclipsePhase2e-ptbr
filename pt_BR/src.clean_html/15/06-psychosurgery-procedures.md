@@ -24,7 +24,7 @@ As seguintes alterações podem ser realizadas com psicocirurgia. A critério do
 
 Essa técnica é usada para bloquear sua percepção sobre ações, perícias ou memórias específicas, ou até mesmo sobre o ambiente ao seu redor. Isso difere de edição de memória ou supressão de perícia, pois nada é removido da sua mente; você simplesmente está impedido de acessar esse conhecimento. Por exemplo, você pode ser bloqueado de ter ciência da cor vermelha, de lembrar como usar uma arma, ou de automaticamente ignorar qualquer coisa sobre uma hipercorp específica.
 
-Quando usado para bloquear suas próprias ações ou comportamentos, você está completamente alheio à atividade bloqueada — mesmo quando a está fazendo. Se chamarem sua atenção para a ação/comportamento, você é incapaz de reconhecê-la ou falar sobre ela (tentativas de forçar você vão provocar um Teste de Estresse de VE 1d6/1).
+Quando usado para bloquear suas próprias ações ou comportamentos, você está completamente alheio à atividade bloqueada — mesmo quando a está fazendo. Se chamarem sua atenção para a ação/comportamento, você é incapaz de reconhecê-la ou falar sobre ela (tentativas de forçar você provocarão um Teste de Estresse de VE 1d6/1).
 
 O bloqueio de consciência às vezes é aplicado como uma segunda camada de proteção para memórias editadas ou perícias suprimidas. Neste caso, não só a memória/perícia foi removida, mas você é incapaz de pensar nessa possibilidade.
 
@@ -34,7 +34,7 @@ Remover um bloqueio de consciência é um procedimento igual a instalação de u
 
 ## Mascaramento Comportamental
 
-Dada a capacidade de trocar de corpos, muitas agências de segurança e da lei têm recorrido a perfis de personalidade e comportamento como formas de identificar pessoas, mesmo quando elas reencapam. Emboras esses sistemas estarem longes da perfeição, seus hábitos e peculiaridades inconscientes podem potencialmente denunciar você. Personagens que queiram enganar a identificação dessa forma podem ser submetidos ao mascaramento comportamental, que visa alterar e modificar seus hábitos conscientes e sinais sociais. Se bem-sucedido, aplique um modificador −30 em Testes de Cinésica e sistemas similares de identificação para identificar você.
+Dada a capacidade de trocar de corpos, muitas agências de segurança e da lei têm recorrido a perfis de personalidade e comportamento como formas de identificar pessoas, mesmo quando elas reencapam. Embora esses sistemas estarem longes da perfeição, seus hábitos e peculiaridades inconscientes podem potencialmente denunciar você. Personagens que queiram enganar a identificação dessa forma podem ser submetidos ao mascaramento comportamental, que visa alterar e modificar seus hábitos conscientes e sinais sociais. Se bem-sucedido, aplique um modificador −30 em Testes de Cinésica e sistemas similares de identificação para identificar você.
 
 ## Aprendizagem Profunda
 
@@ -42,13 +42,13 @@ Usando programas de tutoriais, protocolos de reforço de memória, tarefas de co
 
 ## Ocultação de Conhecimento
 
-Esse procedimento pega memórias, conhecimentos, ou perícias específicas e as tranca em um lugar seguro na sua mente. Como na edição de memória, você não está ciente de que tinha essa informação. No entanto, quando uma determinada condição de gatilho for atendida — uma frase secreta, um rosto específico, um evento determinado, etc. — o conhecimento instantaneamente fica disponível. Também é possível programar outra condição de gatilho para trancar o conhecimento novamente (a não ser que um bloqueio de consciência seja colocado, você estará ciente que sabia alguma coisa, mas não se lembrará o que).
+Esse procedimento pega memórias, conhecimentos, ou perícias específicas e prende-as em um lugar seguro na sua mente. Como na edição de memória, você não está ciente de que tinha essa informação. No entanto, quando uma determinada condição de gatilho for atendida — uma frase secreta, um rosto específico, um evento determinado, etc. — o conhecimento instantaneamente fica disponível. Também é possível programar outra condição de gatilho para trancar o conhecimento novamente (a não ser que um bloqueio de consciência seja colocado, você estará ciente que sabia alguma coisa, mas não se lembrará o que).
 
 ## Interrogatório
 
 O interrogatório psicocirúrgico usa técnicas de detecção de mentira e escaneamento cerebral, incluindo a medição de respostas fisiológicas inconscientes, análise de atividade cerebral para detectar falsidades, medição de atividade cerebral e ativação da memória em resposta a imagens ou outros estímulos específicos, e forqueamento recorrente e simulações de tempo acelerado para verificar resultados e comprometer a força de vontade.
 
-A linha divisória com interrogatórios está no uso da dor e outros técnicas de tortura e manipulação mentais. A tortura física é largamente considerada ineficaz, devido a probabilidade das vítimas mentirem, admitirem culpa sendo inocentes, ou geralmente dizerem o que for necessário para interromperem a tortura. No entanto, quando combinada com as técnicas de interrogatório aprimoradas pela tecnologia descritas acima, ela pode ser extremamente eficaz.
+A linha divisória com interrogatórios está no uso da dor e outras técnicas de tortura e manipulação mentais. A tortura física é largamente considerada ineficaz, devido a probabilidade de as vítimas mentirem, admitirem culpa sendo inocentes, ou geralmente dizerem o que for necessário para interromperem a tortura. No entanto, quando combinada com as técnicas de interrogatório aprimoradas pela tecnologia descritas acima, ela pode ser extremamente eficaz.
 
 O prazo e o VE para o interrogatório psicocirúrgico é variável, dependendo da situação e do questionamento. O MJ deve decidir isso como for apropriado. Uma semana subjetiva deve ser a referência base, com modificadores no caso de semanas adicionais. O VE pode variar de nenhum com interrogatório básico até 1d6 + 2/metade para tortura moderada e 1d10 + 2 para tortura severa, possivelmente mais. Tenha em mente que a tortura é extremamente desagradável e pode infligir estresse no praticante e nas testemunhas. Tais cenas também pode não ser apropriadas ao seu grupo de jogo, então tenha ciência dos níveis de conforto dos jogadores.
 
@@ -106,7 +106,7 @@ Se bem-sucedido, o indivíduo adquire o traço [Comportamento Acentuado](../04/2
 
 ## Psicoterapia
 
-A psicosururgia terapêutica é benéfica para personagens que sofrem de estresse mental, traumas e transtornos. Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care).
+A psicocirurgia terapêutica é benéfica para personagens que sofrem de estresse mental, traumas e transtornos. Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care).
 
 ## Remoção de Infecção
 
