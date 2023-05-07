@@ -46,7 +46,7 @@ Você pode queimar rep para dois propósitos:
 
 ### Mantendo a Discrição
 
-O problema com usar usar redes sociais para favores, é que você acaba deixando várias outras pessoas sabendo o que você está aprontando. Quando você está envolvido em uma operação clandestina, isso pode ser exatamente o que você não quer. A única forma de diminuir isso é levar seus pedidos para amigos confiáveis e pedir para eles serem discretos, mas isso diminui a quantidade de pessoas à sua disposição.
+O problema com usar redes sociais para favores, é que você acaba deixando várias outras pessoas sabendo o que você está aprontando. Quando você está envolvido em uma operação clandestina, isso pode ser exatamente o que você não quer. A única forma de diminuir isso é levar seus pedidos para amigos confiáveis e pedir para eles serem discretos, mas isso diminui a quantidade de pessoas à sua disposição.
 
 Em termos de jogo, você pode tentar manter a discrição sobre o que está fazendo, mas isso torna mais difícil conseguir o que você precisa. Para cada modificador negativo que você aplicar no seu Teste de Rep, o mesmo modificador negativo se aplica a qualquer pessoa fazendo um Teste de Rep para adquirir informações sobre o que você está fazendo.
 
