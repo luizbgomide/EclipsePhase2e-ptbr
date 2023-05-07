@@ -114,7 +114,7 @@ Coloquialmente chamados de "octomorfos", essas capas de polvos elevados são bas
 
 ---
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 4/12, Marcha 2/8, Nado 4/20
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
 - **Ware:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
