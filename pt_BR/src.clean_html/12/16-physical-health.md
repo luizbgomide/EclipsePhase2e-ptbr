@@ -4,13 +4,13 @@ A galáxia é um lugar perigoso, e quando você enfrenta os riscos, inevitavelme
 
 ## Pontos de Dano
 
-Todo dano físico é medido em pontos de dano. Estes pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provalmente terá efeitos mais graves ([Ferimentos](../12/16-physical-health.md#wounds)).
+Todo dano físico é medido em pontos de dano. Estes pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provavelmente terá efeitos mais graves ([Ferimentos](../12/16-physical-health.md#wounds)).
 
 Pontos de dano são reduzidos com descanso, cuidados médicos, e/ou reparo ([Cura & Reparo](../12/17-healing-and-repair.md)).
 
 ### Valor de Dano
 
-Armas e outros ataques infligem um número de pontos de dado igual ao seu Valor de Dano (VD). A maioria do VDs são apresentados como uma quantia variável, na forma de uma rolagem de dado; por exempo: 3d10. Nesse caso, você rola três dados de dez lados e soma os resultados (contando 0 como 10). Às vezes o VD será apresentado como uma rolagem de dados mais um modificador; por exemplo: 2d10 + 5. Nesse caso, você rola dois dados de dez lados e soma os dois, e então adiciona 5 para obter o resultado. Resultados maiores, tipos de munição, modos de disparo e outros fatores podem aumentar o VD dos ataques.
+Armas e outros ataques infligem um número de pontos de dado igual ao seu Valor de Dano (VD). A maioria do VDs são apresentados como uma quantia variável, na forma de uma rolagem de dado; por exemplo: 3d10. Nesse caso, você rola três dados de dez lados e soma os resultados (contando 0 como 10). Às vezes o VD será apresentado como uma rolagem de dados mais um modificador; por exemplo: 2d10 + 5. Nesse caso, você rola dois dados de dez lados e soma os dois, e então adiciona 5 para obter o resultado. Resultados maiores, tipos de munição, modos de disparo e outros fatores podem aumentar o VD dos ataques.
 
 Para simplificar, uma quantia estática também está indicado entre parênteses depois da quantia variável. Se você preferir pular a rolagem de dados, você pode apenas aplicar a quantia estática (geralmente perto da média) em vez disso. Por exemplo, se o dano está anotado como 2d10 + 5 \[16\], você pode simplesmente aplicar 16 pontos de dano em vez de rolar os dados.
 
