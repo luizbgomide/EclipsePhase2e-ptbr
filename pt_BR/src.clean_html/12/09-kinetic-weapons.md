@@ -45,7 +45,7 @@ As railguns estão disponíveis nos mesmo modelos que as armas de fogo. Elas sã
 
 ## Munições Cinéticas
 
-A munição é definida por seus vários tipos (padrão, perfurante, cápsula, etc.) e pela classe da arma (pistola de bolso, pistola pesada, SM, etc.). Para simplificar, cada arma pode usar munições de outra arma da mesma classe, embora a munição de armas de fogo e de railguns não sejam compátiveis. Por exemplo, todas as SMs railgun podem compartilhar munição. Devido a alta velocidade que as railguns atiram, elas só podem usar munição de railgun; as armas de fogo tem mais opções.
+A munição é definida por seus vários tipos (padrão, perfurante, cápsula, etc.) e pela classe da arma (pistola de bolso, pistola pesada, SM, etc.). Para simplificar, cada arma pode usar munições de outra arma da mesma classe, embora a munição de armas de fogo e de railguns não sejam compatíveis. Por exemplo, todas as SMs railgun podem compartilhar munição. Devido a alta velocidade que as railguns atiram, elas só podem usar munição de railgun; as armas de fogo têm mais opções.
 
 O modificador do Valor de Dano da munição é adicionado ao VD base da arma.
 
@@ -88,13 +88,13 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
 
-**Guiada:** Esta bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e mini-bocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
+**Guiada:** Esta bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e minibocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](../12/04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
 
 **Bloqueadora:** Munição bloqueadora gruda no alvo e pulsa sinais de bloqueio eletromagnético, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
-**Proximidade:** Esta bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem um falha maior ou crítica, o alvo ainda sofre VD 1d10.
+**Proximidade:** Esta bala reativa usa nanossensores para determinar se ela vai errar um alvo marcado pela ligação inteligente e explode perto dele. Se o ataque errar sem uma falha maior ou crítica, o alvo ainda sofre VD 1d10.
 
 **Perfura-Armadura Reativa (PAR):** Este é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
 
