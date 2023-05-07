@@ -29,7 +29,7 @@ Se o alvo estiver ativamente evitando a detecção de sensores, esse Teste de Pe
 | Habitat Grande (Cilindro) ou Cidade                      |     −30     |
 | Habitat Médio (Toroide) ou Vizinhança                    |     −20     |
 | Habitat Pequeno (Enlatado) ou Prédio Grande              |     −10     |
-| Alto Trafégo                                             |     −10     |
+| Alto Tráfego                                             |     −10     |
 | Múltiplas Biometrias                                     |     +10     |
 | Sensores Biométricos Menos Disponíveis (Cheiro, Térmico) |     −10     |
 | Acesso a Redes de Sensores Privados                      |  +10 a +30  |
