@@ -10,15 +10,15 @@ As seguintes alterações podem ser realizadas com psicocirurgia. A critério do
 | Ocultação de Conhecimento     |          1&nbsp;semana           |         1d6         | Guarda conhecimentos específicos em seu cérebro.                                                  |
 | Interrogatório                |             Variável             |      Variável       | Medicina: Psicocirurgia vs. Prova de VON.                                                         |
 | Edição de Memória             |          1&nbsp;semana           |     1d6/metade      | Memórias apagadas, adicionadas ou substituídas.                                                   |
-| Avaliação Mental              |              1 dia               |          —          | Detecta edições e alterações mentais.                                                             |
-| Mesclagem                     |              1 hora              |    Veja o texto     | Recombinar forque com ego alfa.                                                                   |
-| Desbaste Neural               |              1 hora              |          —          | Cria forque beta do alfa.                                                                         |
+| Avaliação Mental              |            1&nbsp;dia            |          —          | Detecta edições e alterações mentais.                                                             |
+| Mesclagem                     |           1&nbsp;hora            |    Veja o texto     | Recombinar forque com ego alfa.                                                                   |
+| Desbaste Neural               |           1&nbsp;hora            |          —          | Cria forque beta do alfa.                                                                         |
 | Edição de Personalidade       | 1&nbsp;semana por nível de traço |        1d6/1        | Traço de Comportamento Acentuado ou Restrito.                                                     |
-| Psicoterapia                  |              1 hora              |          —          | Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care). |
+| Psicoterapia                  |           1&nbsp;hora            |          —          | Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care). |
 | Remoção de Infecção           |          1&nbsp;semana           |      1d10/1d6       | Remove infecção exsurgente; oposto pelo Grau de Infecção.                                         |
 | Impressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Imprime uma perícia, degrada −10 por dia.                                                         |
 | Supressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Remove perícia.                                                                                   |
-| Tasp                          |             1 hora+              |          —          | Puro prazer; pode viciar.                                                                         |
+| Tasp                          |           1&nbsp;hora+           |          —          | Puro prazer; pode viciar.                                                                         |
 
 ## Bloqueio de Consciência
 

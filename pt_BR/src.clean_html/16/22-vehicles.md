@@ -226,7 +226,7 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 | Graneleiro       |                Raro/—                 |    5+    |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
 | Expresso         |                Raro/—                 |    13    |   0   |  0   |  30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
 | Corveta          |                Raro/—                 |  20–30   |   0   |  0   |  50/40   | 150 |  750  | 1.500 | Fusão/<!-- CLEANED wbr -->Antimatéria |
-| Destroier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
+| Destróier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
 | Caça             |                Raro/—                 |   0/1    |   3   |  2   |  30/20   | 50  |  250  |  500  |                      Fusão                      |
 | Barcaça da Ralé  |                Raro/—                 | 5–25 mil |   0   |  0   |  40/30   | 300 | 1.500 | 3.000 |   Plasma/<!-- CLEANED wbr -->Fusão    |
 | Ônibus (Grande)  |                Raro/—                 |  20–300  |   0   |  0   |  20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
@@ -239,7 +239,7 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 
 **Corveta:** As corvetas são naves de guerra leves e de ataque rápido. Elas dependem principalmente de motores de fusão, mas também carregam antimatéria para propulsão em alta velocidade e ogivas devastadoras. Eles estão armados como railguns, lasers, drones e sistemas de mísseis.
 
-**Destroier:** A maior espaçonave militar em uso geral, os destroieres alternam entre motores de fusão e antimatéria como corvetas. Eles estão armados com railguns, mísseis nucleares e alto-explosivos, lasers de defesa pontal, e um contingente de 20 caças.
+**Destróier:** A maior espaçonave militar em uso geral, os destróieres alternam entre motores de fusão e antimatéria como corvetas. Eles estão armados com railguns, mísseis nucleares e alto-explosivos, lasers de defesa pontal, e um contingente de 20 caças.
 
 **Caça:** A maioria destas naves militares de curto alcance é projetada para ser tripulada por um infomorfo/ILA, embora algumas possam ter um único piloto (tipicamente um sintemorfo ou biomorfo adaptado ao vácuo). Um arsenal típico inclui 4–6 torres de artilharia de laser e railguns que podem disparar em qualquer direção, e um lançador de mísseis carregando alto-explosivos ou até mesmo mísseis nucleares ou de antimatéria. Alguns também são projetados (ou podem mudar sua forma) para lidar com voo atmosférico.
 
