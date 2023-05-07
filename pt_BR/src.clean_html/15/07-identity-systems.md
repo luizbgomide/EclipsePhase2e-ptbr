@@ -24,7 +24,7 @@ Em governos onde forques são limitados legalmente, eles são obrigados a serem 
 
 Aqueles com registros criminais ligados a suas IDs passam por restrições semelhantes. Eles muitas vezes são obrigados a divulgar seu histórico criminal a empregadores/contratantes e estão sujeitos a triagens de segurança adicionais. Isso também se aplica aos arrendados, que são proibidos de viajar e considerados um risco de voo para algumas autoridades.
 
-Certos governos exigem que elevados e IGAs se identifiquem abertamente como tais — e podem até mesmo limitar seus direitos e privilégios. Embora eles possam se arriscar usando IDs falsas ou viajando anônimamente, um escaneamento cerebral completo automaticamente detectará as diferenças inerentes de uma mente elevada ou infovida, marcado-os como não humanos.
+Certos governos exigem que elevados e IGAs se identifiquem abertamente como tais — e podem até mesmo limitar seus direitos e privilégios. Embora eles possam se arriscar usando IDs falsas ou viajando anonimamente, um escaneamento cerebral completo automaticamente detectará as diferenças inerentes de uma mente elevada ou infovida, marcando-os como não humanos.
 
 Sabe-se, sobretudo, que o processo da infecção Watts-MacLeod cria alterações na estrutura cerebral do assincro, permanentemente alterando sua impressão cerebral. Dado que impressões cerebrais naturalmente mudam com o tempo, isso nem sempre é significativo o suficiente para ser percebido. No entanto, as autoridades de todo o Sistema Solar trabalham para erradicar os vestígios do vírus exsurgente da transumanidade. Assim, os assincros são cada vez mais alvos de uma fiscalização mais acirrada, especialmente quando entram em habitats com aparatos de segurança mais paranoicos ou sofisticados.
 
@@ -54,13 +54,13 @@ Graças a plasticidade dos cérebros transumanos, sua impressão cerebral vai mu
 
 ### Código Digital
 
-Os códigos de ID digital são incorporados em backups e infomorfos. Não só isso ajuda a identificar a quem o backup pertence, mas serve como uma assinatura eletrônica para verificar a ID quando o backup for reencapado. Esse código digital contém a mesma informação que uma nanotat ID, e é assinado com uma verificação criptográfica para dificultar a falsificação e poder ser conferido online.
+Os códigos de ID digital são incorporados em backups e infomorfos. Não só isso ajuda a identificar a quem o backup pertence, mas serve como uma assinatura eletrônica para verificar a ID quando o backup for reencapado. Esse código digital contém a mesma informação que uma nanotat ID, e é assinado com uma verificação criptográfica para dificultar a adulteração e poder ser conferido online.
 
 ### Outras Formas de ID
 
 Dado que os transumanos estão quase sempre em mesh, sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id) serve como um identificador único e já serviu como prova de identidade em casos criminais e legais. As mesh ID pode ser usada para rastrear ou revelar informações sobre você, embora elas também possam ser [mascaradas](../13/05-authentication-and-encryption.md#spoofing).
 
-Alguns habitats continuam a depender de tecnologias de ID antigas, como cartões de identificação ou chips embutidos sem fio. Os jovianos, em especial, usam primariamente chips de identificação sem fio, devido a sua oposição ao reecape e nanotecnologia.
+Alguns habitats continuam a depender de tecnologias de ID antigas, como cartões de identificação ou chips embutidos sem fio. Os jovianos, em especial, usam primariamente chips de identificação sem fio, devido a sua oposição ao reencape e nanotecnologia.
 
 ## Burlando Verificações de ID
 
