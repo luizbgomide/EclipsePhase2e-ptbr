@@ -50,7 +50,7 @@ As ILAs usam seus próprios infomorfos individuais. As ILAs podem ser encapadas 
 
 ## Musas
 
-As musas são um subtipo de ILA projetadas para serem assessores pessoais e companheiros. A maioria dos transumanos cresceu com uma musa em seu lado virtual. As musas têm mais personalidade e programação psicológica do que as ILAs padrão e ao longo do tempo elas constroem uma extensa base de dados das preferências, gostos e desgostos, e peculiaridades do seu usuário, para que possam desempenhar melhor seu serviço e antecipar suas necessidades. A maioria das musas habitam dentro dos insertos da mesh ou ecto do seu proprietário, onde podem gerenciar a PAN, as comunicações, as perquisas online, as interações de rep e outras atividades da mesh do seu proprietário.
+As musas são um subtipo de ILA projetadas para serem assessores pessoais e companheiros. A maioria dos transumanos cresceu com uma musa em seu lado virtual. As musas têm mais personalidade e programação psicológica do que as ILAs padrão e ao longo do tempo elas constroem uma extensa base de dados das preferências, gostos e desgostos, e peculiaridades do seu usuário, para que possam desempenhar melhor seu serviço e antecipar suas necessidades. A maioria das musas habitam dentro dos insertos da mesh ou ecto do seu proprietário, onde podem gerenciar a PAN, as comunicações, as pesquisas online, as interações de rep e outras atividades da mesh do seu proprietário.
 
 ### Personalidade e Relacionamentos
 
