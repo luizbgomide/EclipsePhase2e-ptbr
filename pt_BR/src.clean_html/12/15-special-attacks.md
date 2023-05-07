@@ -28,7 +28,7 @@ Armas como granadas devem ir para algum lugar quando elas erram, e você pode ai
 
 ## Ataques Contra Indefesos
 
-Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destroi. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; estes ataques são feitos normalmente, sem defesa.
+Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destrói. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; estes ataques são feitos normalmente, sem defesa.
 
 ## Ataques às Cegas
 
@@ -36,7 +36,7 @@ Atacar um alvo que você não pode ver é difícil no melhor dos casos e uma que
 
 ## Ataques Precisos
 
-Às vezes não é suficiente acertar o alvo — você precisa atirar em uma janela, derrubar a faca da sua mão, ou acertar aquele furo na armadura. Você pode declarar um ataque preciso antes de inicar um ataque, escolhendo um dos resultados listados abaixo. Ataques precisos sofrem um modificador −10. Se tiver sucesso com um sucesso maior, os resultados abaixo se aplicam em vez do resultado de sucesso maior. Se você acertar mas não tiver um sucesso maior, você simplesmente acerta o seu alvo normalmente. Você não pode fazer ataques precisos com ataques de área de efeito.
+Às vezes não é suficiente acertar o alvo — você precisa atirar em uma janela, derrubar a faca da sua mão, ou acertar aquele furo na armadura. Você pode declarar um ataque preciso antes de iniciar um ataque, escolhendo um dos resultados listados abaixo. Ataques precisos sofrem um modificador −10. Se tiver sucesso com um sucesso maior, os resultados abaixo se aplicam em vez do resultado de sucesso maior. Se você acertar, mas não tiver um sucesso maior, você simplesmente acerta o seu alvo normalmente. Você não pode fazer ataques precisos com ataques de área de efeito.
 
 ### Evitar Armadura
 
@@ -68,7 +68,7 @@ Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dis
 
 ### Instalando Explosivos
 
-Se você pretede simplesmente criar uma explosão normal, nenhum teste de perícia é necessário para colocar um explosivo no lugar e correr. No entanto, você pode usar Testes de Aparelhagem: Demolições quando instalar explosivos para ter um dos seguintes efeitos:
+Se você pretende simplesmente criar uma explosão normal, nenhum teste de perícia é necessário para colocar um explosivo no lugar e correr. No entanto, você pode usar Testes de Aparelhagem: Demolições quando instalar explosivos para ter um dos seguintes efeitos:
 
 - Aumentar a quantidade de dano infligido contra um objeto/estrutura por +1d6 por sucesso maior. Críticos reduzem a armadura à metade.
 - Moldar uma explosão de área de efeito centrada para apenas uma direção. Se o ângulo de efeito for 180 graus ou menos; dobre o VD. Se o ângulo de efeito for 90 graus ou menos; triplique o VD.
@@ -97,7 +97,7 @@ Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). I
 
 ## Armas de Duas Mãos
 
-Qualquer arma marcada como de duas mãos precisa das duas mãos (ou outros membros preênseis) para ser usada de forma eficaz. Isso se aplica a algumas armas de luta (machados diamatados, lanças, etc.) além de armas de fogo grandes e armas pesadas. Usar uma arma dessas com uma mão implica em um modificador −20. Esse modificador não se aplica a armas montadas.
+Qualquer arma marcada como de duas mãos precisa das duas mãos (ou outros membros preênseis) para ser usada de forma eficaz. Isso se aplica a algumas armas de luta (machados diamantados, lanças, etc.) além de armas de fogo grandes e armas pesadas. Usar uma arma dessas com uma mão implica em um modificador −20. Esse modificador não se aplica a armas montadas.
 
 ## Empunhando Duas ou Mais Armas
 

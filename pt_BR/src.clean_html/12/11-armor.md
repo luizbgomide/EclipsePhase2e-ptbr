@@ -29,7 +29,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 | Blindagem de Escamas/<!-- CLEANED wbr -->Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
 | Segunda Pele                                                |      —       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
 | Exoesqueleto Transportador                                  |      —       |     +0     |    +4    |                 Mod/2                 |                              |
-| Exoesqueleto Trike                                          |      —       |     +0     |    +4    |                 Mod/2                 |                              |
+| Exoesqueleto Triciclo                                       |      —       |     +0     |    +4    |                 Mod/2                 |                              |
 | Traje de Vácuo (Leve)                                       |      —       |     5      |    2     |                 Mod/2                 |                              |
 | Traje de Vácuo (Padrão)                                     |      —       |     8      |    6     |                 Mai/3                 |                              |
 
@@ -47,7 +47,7 @@ Quando você é atingido em combate, subtraia seu VA do dano aplicado. Use a gra
 
 ## Armaduras em Camadas
 
-Você pode vestiar várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o total de alguma graduação de VA (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover.
+Você pode vestir várias camadas de armaduras, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de armadura vestida. Se o total de alguma graduação de VA (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VA exceder sua Durabilidade, você está sobrecarregado demais para se mover.
 
 A armadura inerente a um sintemorfo ou outra armação de carcaça conta como o primeiro item das camadas. Carcaças não são projetadas para vestir armaduras; qualquer armadura usada sobre elas deve ser projetada especialmente para se adequar à sua forma (talvez exigindo um Teste de Programação de nanofab ou aumentando a Complexidade em um grau).
 

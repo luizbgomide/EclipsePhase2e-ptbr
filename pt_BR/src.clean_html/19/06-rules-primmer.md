@@ -18,7 +18,7 @@ Suas capacidades estão divididas entre o seu _ego_ (sua mente, perícias e mem�
 - A dificuldade é representada por _modificadores_ deste número alvo, atribuídos pelo MJ.
 - Seu objetivo é rolar igual ou menos que o número alvo modificado, mas o mais alto possível.
 - Uma rolagem igual ou menor que o número alvo é um sucesso. Se a rolagem de sucesso for 33 ou mais, é um _sucesso maior_. Se ela for 66 ou mais, são dois sucessos maiores.
-- Se a sua rolagem exceder o número alvo, ela é um falha. Se a rolagem falhada for menor que 66, ela é uma _falha maior_. Se ela for menor que 33, ela conta como duas falhas maiores.
+- Se a sua rolagem exceder o número alvo, ela é uma falha. Se a rolagem falhada for menor que 66, ela é uma _falha maior_. Se ela for menor que 33, ela conta como duas falhas maiores.
 - Duplas (00, 11, etc.) equivalem a um _sucesso_ ou _falha crítica_.
 - 00 é sempre um sucesso crítico. 99 é sempre uma falha crítica.
 - Se você não tiver a perícia apropriada, você pode _recorrer_ à aptidão vinculada da perícia, mas sucessos críticos são ignorados.
@@ -80,10 +80,10 @@ Os turnos de ação têm cerca de 3 segundos de duração.
   - 3 ações rápidas
 - Você também pode fazer ações automáticas ilimitadas.
 
-## Ações da Tarefa
+## Ações de Tarefa
 
-- As ações da tarefa são ações que demoram mais de 1 turno de ação para serem concluídas.
-- As ações da tarefa listam um prazo (desde 2 turnos até 2 anos).
+- As ações de tarefa são ações que demoram mais de 1 turno de ação para serem concluídas.
+- As ações de tarefa listam um prazo (desde 2 turnos até 2 anos).
 - Os prazos podem ser ajustados por resultados maiores.
 - Você pode usar mais tempo, aplicando um modificador +10 para um aumento de 25% no prazo.
 - Você pode apressar o trabalho, reduzindo o prazo em 25% mas aplicando um modificador −20.
@@ -129,7 +129,7 @@ Seu personagem possui um número de paradas que definem suas capacidades transum
 
 - Cada parada está vinculada a um grupo diferente de aptidões e perícias, e pode ser usada de maneiras únicas para modificar suas rolagens ou fornecer outros bônus.
 - Cada parada só pode ser usada em testes que usam perícias ou aptidões vinculadas (ex.: um ponto de Vigor pode ser usado em um teste de perícia ou prova de aptidão vinculado a REF ou SOM). Flex pode ser usado em qualquer teste.
-- Salvo indicação em contrário, apenas 1 ponte de parada pode ser gasto por teste.
+- Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste.
 
 <!-- CLEANED blockquote class="indent" -->
 

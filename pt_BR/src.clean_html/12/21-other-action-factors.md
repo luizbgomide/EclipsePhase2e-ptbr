@@ -71,12 +71,12 @@ Morfos, criaturas, carcaças e equipamentos grandes são maiores que transumanos
 
 ### Tamanho Muito Grande
 
-Morfos, criaturas e carcarças muito grandes são maiores que muitos veículos, variando entre o tamanho de uma limusine e um celeiro. Muito poucos equipamentos são feitos para o seu tamanho e eles não cabem dentro da maioria dos habitats.
+Morfos, criaturas e carcaças muito grandes são maiores que muitos veículos, variando entre o tamanho de uma limusine e um celeiro. Muito poucos equipamentos são feitos para o seu tamanho e eles não cabem dentro da maioria dos habitats.
 
 - Eles são mais fáceis de acertar e encontrar (+30).
 - Eles têm vantagem de Extensão contra alvos de tamanho grande; dobre isso contra tamanhos médios e triplique contra tamanhos pequenos e muito pequenos.
 - Eles infligem +2d10&nbsp;VD em luta e podem usar armas de duas mãos com uma mão.
-- Eles sofrem −20 quando usam equipamentos grandes não modificados para o seu tamanho, e não podem usar equipamentos pequenos não integrados, a não seri que possuam manipuladores finos.
+- Eles sofrem −20 quando usam equipamentos grandes não modificados para o seu tamanho, e não podem usar equipamentos pequenos não integrados, a não ser que possuam manipuladores finos.
 - Eles recebem +30 em Provas de SOM baseadas em força.
 - Devido a sua massa, eles sofrem o triplo do dano de quedas e infligem o triplo do dano em colisões.
 

@@ -57,9 +57,9 @@ Os forques beta são criados usando um estado mental virtual que foi intencional
 
 O entendimento de neurociência da transumanidade se estende ao escaneamento e cópia da mente, mas os funcionamentos mais complexos da memória ainda não são perfeitamente compreendidos. Fazer edições precisas em partes individuais de uma rede neural (para alterar lembranças, perícias, e afins) ainda é uma arte obscura. A dificuldade do desbaste neural é que usar um aparador de grama na árvore de memória não é uma ciência exata.
 
-Memórias específicas não podem ser extraídas ou escolhidas — no melhos dos casos, memórias podem ser tratadas em grandes blocos, tipicamente agrupadas em períodos de tempo não menores que 6 meses. Para simplificar, a maioria dos forques beta são criados removendo todas as memórias com mais de 1 ano.
+Memórias específicas não podem ser extraídas ou escolhidas — no melhor dos casos, memórias podem ser tratadas em grandes blocos, tipicamente agrupadas em períodos de tempo não menores que 6 meses. Para simplificar, a maioria dos forques beta são criados removendo todas as memórias com mais de 1 ano.
 
-As regras de desbate neural são detalhadas em [Desbaste Neural](../15/06-psychosurgery-procedures.md#neural-pruning).
+As regras de desbaste neural são detalhadas em [Desbaste Neural](../15/06-psychosurgery-procedures.md#neural-pruning).
 
 ### Desbaste Cuidadoso
 

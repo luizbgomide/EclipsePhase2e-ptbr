@@ -20,7 +20,7 @@ Sua infecção é um monstro sanguinário e voraz, ansiando a liberdade. Você l
 
 ## A Assombração
 
-O pavor primal do terror incompreensível, surgindo nas margens da percepção, é seu companheiro constante. Às vezes é o peso esmagador do vazio sombrio e insensível que torna nossa extinção quase certa, às vezes é uma presença mais palpável e inominável, uma entidade tão além do seu conhecimento que você é insignificante em comparação. Você é pertubado pela inquietude e pelo desconforto, atormentado por pesadelos e uma sensação de que a realidade não faz tanto sentido quanto você gostaria.
+O pavor primal do terror incompreensível, surgindo nas margens da percepção, é seu companheiro constante. Às vezes é o peso esmagador do vazio sombrio e insensível que torna nossa extinção quase certa, às vezes é uma presença mais palpável e inominável, uma entidade tão além do seu conhecimento que você é insignificante em comparação. Você é perturbado pela inquietude e pelo desconforto, atormentado por pesadelos e uma sensação de que a realidade não faz tanto sentido quanto você gostaria.
 
 **Traço Negativo (Escolha Um):** Vício ou Transtorno Mental (Transtorno de Ansiedade Cósmica ou Paranoia)
 
@@ -28,7 +28,7 @@ O pavor primal do terror incompreensível, surgindo nas margens da percepção, 
 
 ## A Estranha
 
-Sua infecção é a sombra ao seu lado, o cântico sussurante de seus desejos incomuns ecoando logo abaixo dos limites da sua percepção. Ela é onipresente mas paciente, aguardando momentos de vulnerabilidade para guiá-lo na direção de seus fins indecifráveis. Apesar de suas motivações serem nebulosas, ela parece gostar de testar seus limites — e os da transumanidade como um todo.
+Sua infecção é a sombra ao seu lado, o cântico sussurrante de seus desejos incomuns ecoando logo abaixo dos limites da sua percepção. Ela é onipresente mas paciente, aguardando momentos de vulnerabilidade para guiá-lo na direção de seus fins indecifráveis. Apesar de suas motivações serem nebulosas, ela parece gostar de testar seus limites — e os da transumanidade como um todo.
 
 **Traço Negativo (Escolha Um):** Transtorno Mental (Transtorno Dissociativo de Personalidade, Paramnésia ou Paranoia)
 

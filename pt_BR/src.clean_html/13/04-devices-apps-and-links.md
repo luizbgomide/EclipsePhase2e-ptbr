@@ -16,7 +16,7 @@ Os ciscos possuem apenas [contas](../13/05-authentication-and-encryption.md#acco
 
 Um terminal é um computador pessoal generalizado e multifuncional, com capacidades de processamento e rede significativas, projetado para ser operado por um usuário final. Os terminais incluem insertos da mesh, ectos, cibercérebros, tablets, módulos de carona virtual, e os sistemas da maiorias dos bots e veículos.
 
-Os terminais podem ter vários usuários e contas, mas só são capazes de executar um infomorfo ativo por vez.
+Os terminais podem ter vários usuários e contas, mas só conseguem executar um infomorfo ativo por vez.
 
 ### Servidores
 

@@ -83,7 +83,7 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 <tr><td>Exploranauta<td>Mai/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Esteira 4/12, Empuxo Vetorial (Jato de Gás) 8/40
+- **Taxa de Movimento:** Esteira 4/12, Empuxo Vetorial (Jatos de Gás) 8/40
 - **Ware:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
@@ -109,7 +109,7 @@ Estes bots são verdadeiros salva-vidas.
 <tr><td>Medibot<td>Mai/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás)/Rodas 8/40
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
 - **Ware:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
 
 <!-- CLEANED /div --></tr>
@@ -218,7 +218,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Disco:** Estes drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
 
-**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca das frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um "pontinho na parede". Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
+**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um "pontinho na parede". Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
 
 **Zéfiro:** Os zéfiros são aviões furtivos de tamanho médio mas leves, geralmente lançados através de um arremesso e usados para reconhecimento de longa distância ou ataques de mísseis.
 
@@ -231,7 +231,7 @@ Estes bots ajudam a fazer as coisas.
 <tr><td>Automecânico<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás)/Rodas 8/40
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
 - **Ware:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
 
 <!-- CLEANED /div --></tr>
@@ -252,7 +252,7 @@ Estes bots ajudam a fazer as coisas.
 <tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 8/40, Marcha 4/20
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20
 - **Ware:** Autocozedor
 
 <!-- CLEANED /div --></tr>

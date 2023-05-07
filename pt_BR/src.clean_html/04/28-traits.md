@@ -25,7 +25,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Contato](../04/28-traits.md#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                |
 | [Senso de Perigo](../04/28-traits.md#danger-sense)                  |    1     | +10 em Testes de Percepção para evitar surpresa.                                                                                                                                                                     |
 | [Sentido Direcional](../04/28-traits.md#direction-sense)            |    1     | Sempre sabe onde é o norte/para cima/etc. +10 em testes envolvendo navegação.                                                                                                                                        |
-| [Cepa Dominante](../04/28-traits.md#dominant-strain)                |    2     | Apenas assincros. +10 vs. virus exsurgente, ou mais dependendo do Grau de Infecção.                                                                                                                                  |
+| [Cepa Dominante](../04/28-traits.md#dominant-strain)                |    2     | Apenas assincros. +10 vs. vírus exsurgente, ou mais dependendo do Grau de Infecção.                                                                                                                                  |
 | [Afinidade com Drones](../04/28-traits.md#drone-affinity)           |    1     | Sem Testes de Integração quando encarnar drones.                                                                                                                                                                     |
 | [Empatia](../04/28-traits.md#empathy)                               |  1/2/3   | +5 por nível em Provas de SAG.                                                                                                                                                                                       |
 | [Treinamento Especializado](../04/28-traits.md#expert-training)     |    2     | Pode começar com um perícia acima de 80, até o máximo de 90.                                                                                                                                                         |
@@ -44,7 +44,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Recursos](../04/28-traits.md#resources)                            | 2/4/6/8  | Riqueza para adquirir equipamentos. Veja o texto.                                                                                                                                                                    |
 | [Consciência Situacional](../04/28-traits.md#situational-awareness) |    1     | Nega modificadores de distração.                                                                                                                                                                                     |
 | [Visualização Espacial](../04/28-traits.md#spatial-visualization)   |    2     | +10 em Testes de Saber e Técnicos envolvendo visualização 3D.                                                                                                                                                        |
-| [Intrépído](../04/28-traits.md#stalwart)                            |  1/2/3   | +10 por nível em Provas de VON vs. medo.                                                                                                                                                                             |
+| [Intrépido](../04/28-traits.md#stalwart)                            |  1/2/3   | +10 por nível em Provas de VON vs. medo.                                                                                                                                                                             |
 | [Facilidade com Números](../04/28-traits.md#superior-numeracy)      |   2/4    | +10 por nível em Testes de Saber e Técnicos envolvendo matemática.                                                                                                                                                   |
 | [Zoosemiótica](../04/28-traits.md#zoosemiotics)                     |    1     | Sem modificadores ao usar psi em animais não ou parcialmente sapientes.                                                                                                                                              |
 
@@ -54,7 +54,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Morfo
 
-| Traço                                                                   | Custo PP | Efeito                                                                                |
+| Traço                                                                   | Custo PM | Efeito                                                                                |
 |:----------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------- |
 | [Perspicácia](../04/28-traits.md#acumen)                                |  1/2/3   | +5 por nível em Provas de COG.                                                        |
 | [Velocidade Digital](../04/28-traits.md#digital-speed)                  |    1     | Prazos de tarefas da mesh reduzidos em 25%. Apenas infomorfos.                        |
@@ -242,7 +242,7 @@ O patrono fornece um [favor](../15/13-networking.md#favors) maior gratuito por a
 
 **Traço de ▲ Ego • Custo de PP: 2/4**
 
-Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender [perícia Psi](../04/19-active-skill-list.md#psi) e comprar habilidades psi, chamadas de [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
+Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender [perícia Psi](../04/19-active-skill-list.md#psi) e comprar habilidades psi, chamadas [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
 
 Psi tem suas desvantagens. Você também deve pegar um traço negativo de acordo com a sua [subcepa](../14/02-watts-macleod-sub-strains.md) sem nenhum bônus de PP. Esse traço obrigatório não conta no limite de PP de traços.
 
@@ -320,7 +320,7 @@ O morfo tem perícias latentes armazenadas em sua memória muscular ou como dado
 
 Você tem uma aptidão para conceitualizar dimensões, distâncias, volumes e formas. Você recebe um modificador +10 em testes de qualquer perícia de Saber ou Técnica envolvendo visualização 3D.
 
-### Intrépído
+### Intrépido
 
 **Traço de ▲ Ego • Custo de PP: 1/2/3**
 
@@ -371,7 +371,7 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Fraqueza](../04/28-traits.md#feebleness)                            |  1/2/3   | −5 por nível em Provas de SOM.                                                                   |
 | [Crise de Identidade](../04/28-traits.md#identity-crisis)            |    1     | Problemas de adaptação às novas fisiologias de morfo, −10 quando aplicável.                      |
 | [Indiferença](../04/28-traits.md#indifference)                       |  1/2/3   | −5 por nível em Provas de SAG.                                                                   |
-| [Instabilidade](../04/28-traits.md#instability)                      |   2/4    | −5 em LUC, −1 em Limiar de Trauma, e −10 em Grau de Insanidade per level.                        |
+| [Instabilidade](../04/28-traits.md#instability)                      |   2/4    | −5 em LUC, −1 em Limiar de Trauma, e −10 em Grau de Insanidade por nível.                        |
 | [Baixa Tolerância à Dor](../04/28-traits.md#low-pain-tolerance)      |    4     | Modificador −10 adicional por ferimento.                                                         |
 | [Transtorno Mental](../04/28-traits.md#mental-disorder)              |    2     | Escolha um [transtorno](../12/20-disorders.md).                                                  |
 | [Transtorno Mórfico](../04/28-traits.md#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
@@ -421,7 +421,7 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Alergia Grave](../04/28-traits.md#severe-allergy)                  |   2/4    | −30 quando exposto a alérgenos mais Prova de SOM ou choque anafilático; morte em 2d10 minutos sem tratamento. Apenas biomorfos. |
 | [Defeito Pericial](../04/28-traits.md#skill-glitch)                 |   1/2    | −10 por nível em uma perícia escolhida pelo MJ.                                                                                 |
 | [Timidez](../04/28-traits.md#timidity)                              |  1/2/3   | −5 por nível em Provas de VON.                                                                                                  |
-| [Feiúra](../04/28-traits.md#unattractiveness)                       |   1/2    | −10 em Testes de Persuasão e Provocação quando a aparência importar.                                                            |
+| [Feiura](../04/28-traits.md#unattractiveness)                       |   1/2    | −10 em Testes de Persuasão e Provocação quando a aparência importar.                                                            |
 | [Sistema Imune Debilitado](../04/28-traits.md#weak-immune-system)   |   1/2    | −10 por nível para resistir a químicos, doenças, drogas e toxinas. Apenas biomorfos.                                            |
 | [Náusea em Zero-G](../04/28-traits.md#zero-g-nausea)                |    2     | −10 em microgravidade; Prova de SOM ou incapacitado na primeira hora. Apenas biomorfos.                                         |
 
@@ -605,9 +605,9 @@ Adaptar-se a novos morfos é bastante desafiador para você. Aplique um modifica
 
 Você sofreu algum tipo de dano neurológico que ainda não pode ser curado. O distúrbio faz parte do seu ego e permanece mesmo ao reencapar. Esse dano pode ter sido herdado, resultado de um morfo ou implante mal projetado, ou causado por um nanovírus durante a Queda. Trabalhe com o seu MJ para definir um distúrbio específico apropriado ao seu jogo. O MJ pode infligir modificadores de debilitação (geralmente −10) conforme for apropriado, de acordo com o distúrbio. Algumas possibilidades são:
 
-**Amúsica:** Você tem uma incapacidade de fazer ou entender música. Falhe automaticamente testes de perícias relacionados à música.
+**Amusia:** Você tem uma incapacidade de fazer ou entender música. Falhe automaticamente testes de perícias relacionados à música.
 
-**Daltonismo:** Vocêr não consegue distinguir cores, apenas variações no brilho. −10 em Testes de Percepção visuais.
+**Daltonismo:** Você não consegue distinguir cores, apenas variações no brilho. −10 em Testes de Percepção visuais.
 
 **Ausência de Percepção de Profundidade:** Você tem dificuldade em determinar distâncias. Dobre os modificadores de alcance.
 
@@ -617,7 +617,7 @@ Você sofreu algum tipo de dano neurológico que ainda não pode ser curado. O d
 
 **Oscilações de Humor:** Suas emoções mudam rapidamente e dramaticamente. −10 em Provas de VON contra Provocação.
 
-**Afásia Parcial:** Você às vezes tem dificuldade de se comunicar ou usar palavras. −10 em Testes de Persuasão e de Provocação verbal.
+**Afasia Parcial:** Você às vezes tem dificuldade de se comunicar ou usar palavras. −10 em Testes de Persuasão e de Provocação verbal.
 
 **Comportamento Repetitivo:** Você repete involuntariamente suas ações. Você repete involuntariamente suas ações. Faça uma Prova de COG para evitar repetir suas ações quando estiver sob pressão.
 
@@ -683,7 +683,7 @@ Os truques psi são bastante eficazes contra sua estrutura cerebral. Aplique um 
 
 **Traço de ▲ Ego • Bônus de PP: 2**
 
-Você ou tem um experiência pessoal muito limitada com o mundo real (físico) ou passou tanto tempo em RV que sua vivência na vida real está prejudicada. Você não compreende muitas propriedades físicas, sinais sociais e outros fatores que a maioria das pessoas acham corriqueiros. Essa falta de um senso comum pode levá-lo a entender errado como um dispositivo funciona ou mal-interpretar a linguagem corporal de alguém.
+Você ou tem um experiência pessoal muito limitada com o mundo real (físico) ou passou tanto tempo em RV que sua vivência na vida real está prejudicada. Você não compreende muitas propriedades físicas, sinais sociais e outros fatores que a maioria das pessoas acham corriqueiros. Essa falta de um senso comum pode levá-lo a entender errado como um dispositivo funciona ou mal interpretar a linguagem corporal de alguém.
 
 Uma vez por sessão de jogo, o MJ pode intencionalmente enganá-lo ao fornecer uma descrição sobre alguma coisa ou interação social. Essa falsidade representa o seu mal-entendido da situação e deve ser interpretada de acordo, mesmo quando o jogador está ciente do erro do personagem.
 
@@ -725,7 +725,7 @@ Algum defeito irreparável no hardware ou na estrutura cerebral do morfo atrapal
 
 Sua força de vontade é fraca e você é facilmente intimidado. Aplique um modificador −5 por nível em Provas de VON.
 
-### Feiúra
+### Feiura
 
 **Traço de ▼ Morfo • Bônus de PM: 1/2**
 

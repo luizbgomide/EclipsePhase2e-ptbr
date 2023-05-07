@@ -2,36 +2,36 @@
 
 Menos orientados ao combate, mas não menos úteis, esses mods corporais aumentam suas capacidades e fornecem novas habilidades. Observe que muitos outros equipamentos podem ser fixados na carcaça de sintemorfo e ligados aos seus sistemas se energia e insertos da mesh (a critério do MJ).
 
-| AMPLIAÇÕES FÍSICAS     | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                |
-|:---------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------ |
-| Regulação Circadiana   |      BM      |                 Mod/2                 | Precisa de apenas 2 horas de sono. Recargas longas demoram 2 horas.                                                      |
-| Tolerância ao Frio     |      B       |                 Men/1                 | Suporta temperaturas de até −80&nbsp;°C.                                                                                 |
-| Proteção Criogênica    |      CH      |                 Mod/2                 | Suporta temperaturas de até −120/−200&nbsp;°C (biomorfos) ou menores (sintemorfos).                                      |
-| Cibermembro            |      C       |                 Mod/2                 | Membro substituto. 6/4&nbsp;VA quando alvejado, +5 em Provas de SOM.                                                     |
-| Cibermembro Extra      |      C       |                 Mai/3                 | Membro substituto/extra. Igual cibermebro, +1 na parada de Vigor.                                                        |
-| Respiração Aprimorada  |      B       |                 Men/1                 | Respire em uma gama mais ampla de atmosferas, segure a respiração por mais tempo.                                        |
-| Dedos Fractais         |      CH      |                 Men/1                 | +10 em Testes de Aparelhagem envolvendo manipulação ultrafina.                                                           |
-| Sistema de Jato de Gás |      CH      |                 Mod/2                 | Taxa de Movimento de Empuxo Vetorial (Jato de Gás) 4/12 (biomorfos) ou 8/40 (sintemorfos).                               |
-| Guelras                |      B       |                 Men/1                 | Respire tanto ar quanto água.                                                                                            |
-| Almofadas Aderentes    |     BCH      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
-| Hibernação             |      B       |                 Min/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
-| Compartimento Oculto   |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
-| Sistema Magnético      |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
-| Sistema de Mobilidade  |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#movement-types) especificado adicional.                                         |
-| Projeto Modular        |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#flexbot-rules). |
-| Nanotat ID Variável    |      N       |                Mai/R/3                | Troque sua nanotat ID.                                                                                                   |
-| Reserva de Oxigênio    |      C       |                 Men/1                 | Tanque/recirculador de oxigênio com 4 horas de ar.                                                                       |
-| Pés Preênseis          |     BCH      |                 Men/1                 | Pode usar os pés como mãos. −8 no movimento total.                                                                       |
-| Cauda Preênsil         |     BCH      |                 Men/1                 | Pode segurar com a cauda. +10 em Atletismo baseado em equilíbrio.                                                        |
-| Adaptação de Pressão   |      BH      |                 Men/1                 | Suporta pressões extremas.                                                                                               |
-| Membros Retráteis      |      H       |                 Men/1                 | Membro se retrai, pode segurar 1 item pequeno.                                                                           |
-| Ajuste de Forma        |      H       |                 Mai/3                 | Composição de materiais inteligentes, pode criar 2 itens/wares Men ou 1 Mod, e mais.                                     |
-| Ligação Dérmica        |      HN      |                 Men/1                 | Cria uma ligação de mesh "cabeada" pelo toque.                                                                           |
-| Bolso de Pele          |      B       |                 Men/1                 | Ocultação (+30 em Infiltração) para itens muito pequenos (e alguns pequenos).                                            |
-| Proteção Termogênica   |      H       |                 Mod/2                 | Suporta temperaturas de até 1.000&nbsp;°C.                                                                               |
-| Utilimod               |      CH      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
-| Vedação de Vácuo       |      B       |                 Men/1                 | Pode sobreviver à exposição ao vácuo.                                                                                    |
-| Asas                   |     BCH      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
+| AMPLIAÇÕES FÍSICAS      | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                |
+|:----------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------ |
+| Regulação Circadiana    |      BM      |                 Mod/2                 | Precisa de apenas 2 horas de sono. Recargas longas demoram 2 horas.                                                      |
+| Tolerância ao Frio      |      B       |                 Men/1                 | Suporta temperaturas de até −80&nbsp;°C.                                                                                 |
+| Proteção Criogênica     |      CH      |                 Mod/2                 | Suporta temperaturas de até −120/−200&nbsp;°C (biomorfos) ou menores (sintemorfos).                                      |
+| Cibermembro             |      C       |                 Mod/2                 | Membro substituto. 6/4&nbsp;VA quando alvejado, +5 em Provas de SOM.                                                     |
+| Cibermembro Extra       |      C       |                 Mai/3                 | Membro substituto/extra. Igual cibermembro, +1 na parada de Vigor.                                                       |
+| Respiração Aprimorada   |      B       |                 Men/1                 | Respire em uma gama mais ampla de atmosferas, segure a respiração por mais tempo.                                        |
+| Dedos Fractais          |      CH      |                 Men/1                 | +10 em Testes de Aparelhagem envolvendo manipulação ultrafina.                                                           |
+| Sistema de Jatos de Gás |      CH      |                 Mod/2                 | Taxa de Movimento de Empuxo Vetorial (Jatos de Gás) 4/12 (biomorfos) ou 8/40 (sintemorfos).                              |
+| Guelras                 |      B       |                 Men/1                 | Respire tanto ar quanto água.                                                                                            |
+| Almofadas Aderentes     |     BCH      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
+| Hibernação              |      B       |                 Men/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
+| Compartimento Oculto    |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
+| Sistema Magnético       |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
+| Sistema de Mobilidade   |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#movement-types) especificado adicional.                                         |
+| Projeto Modular         |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#flexbot-rules). |
+| Nanotat ID Variável     |      N       |                Mai/R/3                | Troque sua nanotat ID.                                                                                                   |
+| Reserva de Oxigênio     |      C       |                 Men/1                 | Tanque/recirculador de oxigênio com 4 horas de ar.                                                                       |
+| Pés Preênseis           |     BCH      |                 Men/1                 | Pode usar os pés como mãos. −8 no movimento total.                                                                       |
+| Cauda Preênsil          |     BCH      |                 Men/1                 | Pode segurar com a cauda. +10 em Atletismo baseado em equilíbrio.                                                        |
+| Adaptação de Pressão    |      BH      |                 Men/1                 | Suporta pressões extremas.                                                                                               |
+| Membros Retráteis       |      H       |                 Men/1                 | Membro se retrai, pode segurar 1 item pequeno.                                                                           |
+| Ajuste de Forma         |      H       |                 Mai/3                 | Composição de materiais inteligentes, pode criar 2 itens/wares Men ou 1 Mod, e mais.                                     |
+| Ligação Dérmica         |      HN      |                 Men/1                 | Cria uma ligação de mesh "cabeada" pelo toque.                                                                           |
+| Bolso de Pele           |      B       |                 Men/1                 | Ocultação (+30 em Infiltração) para itens muito pequenos (e alguns pequenos).                                            |
+| Proteção Termogênica    |      H       |                 Mod/2                 | Suporta temperaturas de até 1.000&nbsp;°C.                                                                               |
+| Utilimod                |      CH      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
+| Vedação de Vácuo        |      B       |                 Men/1                 | Pode sobreviver à exposição ao vácuo.                                                                                    |
+| Asas                    |     BCH      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
 
 **Regulação Circadiana:** Seu morfo exige apenas 2 horas de sono para manter a saúde e funcionar no ápice da capacidade mental. Você sonha constantemente enquanto dorme, e pode tanto adormecer quanto acordar quase que instantaneamente. Você também pode facilmente mudar para um ciclo de 2 dias, acordado por 44 horas e dormindo 4 horas, sem efeitos negativos. Você precisa de apenas 2 horas para uma recarga longa de suas paradas ([Recarregando Paradas](../03/05-pools.md#recharging-pools)).
 
@@ -45,9 +45,9 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Respiração Aprimorada:** Com aumento da eficiência do pulmão e da capacidade de carga de oxigênio pelo sangue, você pode respirar confortavelmente em ambientes de alta e baixa pressão, de 0,2 até 5 atmosferas, sem tontura ou necessidade de descompressão gradual. Você também pode segurar seu fôlego por até 30 minutos fazendo pouca atividade, ou por até 10 minutos em atividade extenuante. Essa ampliação permite que você respire na atmosfera de Marte deu auxílio.
 
-**Dedos Fractais:** Seu morfo possui dedos tipo "robô-arbusto" que são capazes de se dividir em dedos menores, esses dedos menores em microdedos, e assim por diante até a escala de nanômetro. Esses dedos podem funcionar de forma independente, permitindo manipulação ultrafina. Quando conjugados com visão	 nanoscópica, isso permite até que você manipule nanobots individuais. Aplique um modificar +10 em Testes de Aparelhagem quando micro ou nanomanipulação for um fator importante. A versão cibernética desse mod só pode ser aplicada em cibermembros.
+**Dedos Fractais:** Seu morfo possui dedos tipo "robô-arbusto" que conseguem se dividir em dedos menores, esses dedos menores em microdedos, e assim por diante até a escala de nanômetro. Esses dedos podem funcionar de forma independente, permitindo manipulação ultrafina. Quando conjugados com visão	 nanoscópica, isso permite até que você manipule nanobots individuais. Aplique um modificar +10 em Testes de Aparelhagem quando micro ou nanomanipulação for um fator importante. A versão cibernética desse mod só pode ser aplicada em cibermembros.
 
-**Sistema de Jato de Gás:** Manobre em microgravidade com bicos embutidos. Ganhe a Taxa de Movimento de Empuxo Vetorial (Jato de Gás) com 4/12 (biomorfos) ou 8/40 (sintemorfos).
+**Sistema de Jatos de Gás:** Manobre em microgravidade com bicos embutidos. Ganhe a Taxa de Movimento de Empuxo Vetorial (Jatos de Gás) com 4/12 (biomorfos) ou 8/40 (sintemorfos).
 
 **Guelras:** O tecido pulmonar do morfo é adaptado para funcionar como guelras, permitindo que você respire ar e água, contanto que a água não seja tóxica ou estagnada demais. A água que você respira através das guelras é expelida por fendas logo abaixo do último par de costelas, que ficam seladas quando você não está debaixo d' água.
 
@@ -65,7 +65,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Nanotat ID Variável:** Sua nanotat ID pode ser reconfigurada com uma nova ID legítima ou falsa em turno de ação.
 
-**Reserva de Oxigênio:** Um tanque de oxigênio e recirculador miniaturas estão instalado em seu torso. Quando ativado, ele substitui seu reflexo de respiração, alimentando oxigênio diretamente na sua circulação sanguínea. Isso lhe fornece ar por 4 horas e evita problemas com alterações de pressão. Sensores implantados ativam automaticamente o implante se detectarem uma atmosfera venenosa ou insuficiente (Saber: Química 80). Este mod não protege da exposição a vácuo, mas vai mantê-lo consciente e ativo por mais tempo, dando-lhe tempo para encontrar um traje de vácuo ou ajuda. Uma vez gasta a reserva, ela recupera uma hora de oxigênio por cada hora que você passa em uma atmosfera respirável (ou 15 minutos em um ambiente com muito oxigênio).
+**Reserva de Oxigênio:** Um tanque de oxigênio e recirculador miniaturas estão instalados em seu torso. Quando ativado, ele substitui seu reflexo de respiração, alimentando oxigênio diretamente na sua circulação sanguínea. Isso lhe fornece ar por 4 horas e evita problemas com alterações de pressão. Sensores implantados ativam automaticamente o implante se detectarem uma atmosfera venenosa ou insuficiente (Saber: Química 80). Este mod não protege da exposição a vácuo, mas vai mantê-lo consciente e ativo por mais tempo, dando-lhe tempo para encontrar um traje de vácuo ou ajuda. Uma vez gasta a reserva, ela recupera uma hora de oxigênio por cada hora que você passa em uma atmosfera respirável (ou 15 minutos em um ambiente com muito oxigênio).
 
 **Pés Preênseis:** Você pode usar seus pés como mãos. Seus pés e juntas das pernas são alterados para que seus dedos sejam mais longos e hábeis. O dedão é transformado em um polegar opositor. Fisicamente, os pés do seu morfo se parecem com uma mão mais comprida e mais estreita, ou com um pé com dedos iguais aos da mão. Você pode andar normalmente, mas deve usar sapatos especialmente projetados. No entanto, você corre um pouco mais devagar que um morfo com pés não modificados (−8 no seu movimento total). Seus quadris também são modificados para ter mais mobilidade e flexibilidade. Em uma cadeira apropriada ou flutuando em zero-g, você pode usar as mãos e os pés para manipular o mesmo objeto. Esse mod é comum entre os cinturianos, eremitas e outros que vivem em microgravidade.
 
@@ -81,7 +81,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Bolso de Pele:** Um bolso dentro da sua camada de pele fornece ocultação (+30 em Infiltração) para itens muito pequenos.
 
-**Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, sendo capaz de suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0.
+**Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, conseguindo suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0.
 
 **Utilimod:** Este mod duplica as funções de uma [utiliferramenta](../16/05-common-tech-and-ware.md#everyday-technology). "Braços" de ferramenta retráteis de materiais inteligentes são implantado — geralmente próximo ao punho, mas outros locais são possíveis — que podem mudar de forma para qualquer tipo de ferramenta especializada desejada em 1d6 minutos. Essas ferramentas podem ter inúmeras funções, incluindo a de um [olho de fibra](../16/17-espionage-and-security-tech.md) ou [faca](../12/02-melee-combat.md#melee-weapons) implantada.
 

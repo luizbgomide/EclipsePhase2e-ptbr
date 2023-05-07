@@ -2,15 +2,15 @@
 
 Meshware se refere a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioware e hardware para morfos físicos. Um meshware exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshware permanece com o infomorfo quando ele é movido ou copiado. Os meshwares também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshware, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshwares não podem ser usados por não infomorfos ou usuários sem cibercérebros.
 
-| MESHWARE             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                         |
-|:-------------------- |:-------------------------------------:|:------------------------------------------------------------------------------------------------- |
-| Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                 |
-| Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                          |
-| Travacópia           |                 Men/1                 | Impede cópia/forque, −30 em Infoseg para copiar.                                                  |
-| Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo mas sem parada de Inspiração e com −3 em INIC. |
-| Véu Digital          |                Men/R/1                | Oculta apps, opõe-se a Interface com Programação 80.                                              |
-| Tolerância a Erros   |                 Mod/2                 | VA 5 vs. ataques da mesh.                                                                         |
-| Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                             |
+| MESHWARE             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
+|:-------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
+| Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                  |
+| Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                           |
+| Travacópia           |                 Men/1                 | Impede cópia/forque, −30 em Infoseg para copiar.                                                   |
+| Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo, mas sem parada de Inspiração e com −3 em INIC. |
+| Véu Digital          |                Men/R/1                | Oculta apps, opõe-se a Interface com Programação 80.                                               |
+| Tolerância a Erros   |                 Mod/2                 | VA 5 vs. ataques da mesh.                                                                          |
+| Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                              |
 
 **Trava-App:** O trava-app dificulta a remoção de um app instalado sem a autenticação adequada (aplique um modificador −30). Isso é útil para infomorfos/cibercérebros que são vítimas de hacks cerebrais e modificados contra sua vontade. Os apps protegidos devem ser designados com antecedência (quando o trava-app for instalado ou reconfigurado).
 

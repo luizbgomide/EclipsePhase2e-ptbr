@@ -8,7 +8,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Console de Conta:** A interface de software que representa sua presença no sistema.
 - **Aeróstato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
 - **DQ:** Depois da Queda (usado para datação referencial).
-- **Agente:** Um informorfo otimizado para funções de infoseg.
+- **Agente:** Um infomorfo otimizado para funções de infoseg.
 - **IGA:** Inteligência Geral Artificial. Uma IA que possui faculdades cognitivas e capacidade de aprendizado equivalentes aos de um humano.
 - **IA:** Inteligência Artificial. Uma mente de software senciente que emula cognição humana. Geralmente usado para referir-se a ILAs.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
@@ -315,7 +315,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Troianos:** Asteroides/luas que compartilham a mesma órbita de um planeta ou lua maior, mas seguem cerca de 60 graus à frente ou atrás nos pontos de Lagrange L4 (Gregos) e L5 (Troianos). Troianos normalmente se referem aos asteroides nos pontos de Lagrange de Júpiter, mas Marte, Saturno, Netuno e outros corpos também têm troianos. Veja também _Gregos_.
 - **Elevado:** Uma espécie de animal geneticamente aprimorada até a sapiência.
 - **Peão de Vácuo:** Um operário que trabalha no vácuo.
-- **Vapor:** Uma emulação de mente falhada ou um forque/informorfo danificado.
+- **Vapor:** Uma emulação de mente falhada ou um forque/infomorfo danificado.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.

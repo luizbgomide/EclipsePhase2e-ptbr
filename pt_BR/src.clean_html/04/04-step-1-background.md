@@ -115,7 +115,7 @@ Você é um legado da malfadada Geração Perdida, tendo passado por uma infânc
 | Percepção                                      | 20 |
 | Psi                                            | 50 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Biologia, Psicologia, Sociologia_</p> | 60 |
-| Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Hacks Mentais, Privacidade, Serial Killers_</p> | 30 |
+| Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Assassinos Seriais, Hacks Mentais, Privacidade_</p> | 30 |
 
 ## Miserável
 
@@ -153,12 +153,12 @@ Você é um elevado: a última geração de bonobo, cetáceo, chimpanzé, corví
 
 Se você preferir determinar o seu antecedente aleatoriamente, role 1d10:
 
-| Rolagem | Antecedente | Rolagem | Antecedente  |
-|:-------:|:-----------:|:-------:|:------------:|
-|    1    |   Colono    |    6    |   Infovida   |
-|    2    |   Enclavo   |    7    |   Isolado    |
-|    3    | Freelancer  |    8    |   Perdido    |
-|    4    | Hiperelite  |    9    | Classe Baixa |
-|    5    |  Arrendado  |   10    |   Elevado    |
+| Rolagem | Antecedente | Rolagem | Antecedente |
+|:-------:|:-----------:|:-------:|:-----------:|
+|    1    |   Colono    |    6    |  Infovida   |
+|    2    |   Enclavo   |    7    |   Isolado   |
+|    3    | Freelancer  |    8    |   Perdido   |
+|    4    | Hiperelite  |    9    |  Miserável  |
+|    5    |  Arrendado  |   10    |   Elevado   |
 
 <!-- CLEANED /blockquote -->

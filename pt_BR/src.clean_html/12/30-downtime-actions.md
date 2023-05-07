@@ -2,7 +2,7 @@
 
 Nem todos as ações do seu personagem acontecem em missões ou aventuras. Entre os momentos de investigação, tensões e violência, você pode querer se melhorar, trabalhar em projetos ou construir uma vida social. Esta seção cobre uma série de possíveis ações de recesso que você pode realizar, embora você possa discutir com seu MJ outras opções.
 
-O recesso normalmente é contado em semanas. A cada semana, escolha uma ação de recesso. Isso assume que seu personagem também está ocupado com outras atividades: socializando, trabalhos domésticos, vida noturna, relaxando, jogando jogos, e perseguindo outras atividades mundadas da vida. Se você está focado completamente excluindo todo o resto e/ou está usando simulespaço de tempo acelerado, o MJ pode diminuir essa duração, ao mínimo de 1 dia por ação de recesso.
+O recesso normalmente é contado em semanas. A cada semana, escolha uma ação de recesso. Isso assume que seu personagem também está ocupado com outras atividades: socializando, trabalhos domésticos, vida noturna, relaxando, jogando jogos, e perseguindo outras atividades mundanas da vida. Se você está focado completamente excluindo todo o resto e/ou está usando simulespaço de tempo acelerado, o MJ pode diminuir essa duração, ao mínimo de 1 dia por ação de recesso.
 
 **Cura/Reparo:** A recuperação da [saúde mental](../12/19-mental-healing-and-psychosurgery.md) e [física](../12/17-healing-and-repair.md) é uma parte importante do recesso, mas ela não consome todo o seu tempo de folga. Considere que a cura/reparo acontece em conjunto com as seguintes ações de recesso.
 
@@ -40,7 +40,7 @@ Conforme você completa cenários e acumula experiência durante o jogo, você a
 
 ### Gastando Pontos de Rez
 
-| Melhoria            |      Custo de PR       |
+| Melhoria            |        Custo PR        |
 |:------------------- |:----------------------:|
 | 5 pontos de Rep     |       1&nbsp;PR        |
 | 5 pontos da Perícia |       1&nbsp;PR        |
@@ -99,7 +99,7 @@ Pivo ainda tem alguns danos e ferimentos de sua missão mais recente, mas o MJ l
 
 Na primeira semana, Pivo lembra que deixou um PNJ, um colega sucateiro, abandonado durante sua última missão: ele foi morto e comido por um exsurgente. No entanto, Pivo recuperou a pilha dele (nem pergunte), então ele arranja para levá-la ao seu provedor de seguro de backup para que ele possa ser restaurado. Ele também faz uma visita ao sucateiro quando ele for reencapado, para que ele possa informar a ele o que aconteceu e superar o lapso passado. O MJ decide que isso deixa o PNJ um pouco traumatizado (ele se lembra de ser morto), mas que ele está grato por Pivo ter explicado o que aconteceu (e que o exsurgente não é mais um problema). O sucateiro volta a sua vida cotidiana, mesmo ainda estando meio acabado. No entanto, sabendo o que eles encontraram, o PNJ pode ser útil ao Pivo e à Firewall no futuro. O MJ diz a Pivo que ele pode gastar um Ponto de Rez e pegar o sucateiro com um contato, de acordo com o [traço Contato](../04/28-traits.md#contact). Pivo tem 5 Pontos de Rez, então ele gasta 1 no traço.
 
-Pivo tem mais 4 Pontos de Rez para gastar, então ele decide gastar a segunda semana aumentando sua perícia de Tiro. 1&nbsp;PR permite que ele a aumente de 55 para 60. Se ele quisesse aumentar sua Aparelhagem: Aeroespacial, ele só poderia aumentá-la de 65 para 66 nessa semana, já que ele está acima do limite de 60 (ele teria que gastar 4 semanas adicionais de recesso para usar os outros 4 pontos de perícia e levar a períca a 70). Então Pivo passa algum tempo praticando no estande e dessa vez acerta na mosca mais algumas vezes.
+Pivo tem mais 4 Pontos de Rez para gastar, então ele decide gastar a segunda semana aumentando sua perícia de Tiro. 1&nbsp;PR permite que ele a aumente de 55 para 60. Se ele quisesse aumentar sua Aparelhagem: Aeroespacial, ele só poderia aumentá-la de 65 para 66 nessa semana, já que ele está acima do limite de 60 (ele teria que gastar 4 semanas adicionais de recesso para usar os outros 4 pontos de perícia e levar a perícia a 70). Então Pivo passa algum tempo praticando no estande e dessa vez acerta na mosca mais algumas vezes.
 
 Para a terceira semana, Pivo quer aumentar sua parada de Vigor. Ele decide modificar esse morfo, o que lhe permite escolher 2 ware de complexidade Menor ou 1 de Moderada. Ele escolhe o bioware novacardium, o que aumenta sua parada de Vigor de 1 para 2. Então Pivo gasta mais um tempo em um tanque de cura, jogando mais alguns jogos em RV, e um dos seus corações é melhorado (o que bombeia sangue pelo corpo, já que polvos tem três corações). Quando ele sai do tanque, ele se sente revigorado e pronto para a ação.
 

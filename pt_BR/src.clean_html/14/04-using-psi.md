@@ -32,7 +32,7 @@ Psi que tenha como alvo outro personagem é tratado como um teste oposto, a per�
 
 **Críticos:** Se o defensor vencer com um sucesso crítico, o assincro está temporariamente "bloqueado" da sua mente e não pode alvejá-lo novamente até que faça uma [ação de recarga](../03/05-pools.md#recharging-pools).
 
-Se o assincro rolar uma falha crítica, ele sofre 1d6=&nbsp;VD, pois o esforço provoca um desgaste físico na forma de dores de cabeça e vasos sanguíneos rompidos.
+Se o assincro rolar uma falha crítica, ele sofre 1d6&nbsp;VD, pois o esforço provoca um desgaste físico na forma de dores de cabeça e vasos sanguíneos rompidos.
 
 Se o assincro vencer com um sucesso crítico, dobre a potência do efeito do truque. No caso de ataques psi, o VD é dobrado.
 
@@ -60,7 +60,7 @@ Os truques psi possuem uma das seguintes durações: _constante_, _instantânea_
 
 ## Modificadores de Infecção
 
-Sempre que você tira proveito das suas habilidades psiquicas, há um custo a pagar. Isso pode se manifestar fisicamente, sob a forma de fadiga, dores de cabeça e hemorragias. Ou pode dar à infecção uma chance de se agarrar nas rachaduras da sua psique e manipular sua perspectiva.
+Sempre que você tira proveito das suas habilidades psíquicas, há um custo a pagar. Isso pode se manifestar fisicamente, sob a forma de fadiga, dores de cabeça e hemorragias. Ou pode dar à infecção uma chance de se agarrar nas rachaduras da sua psique e manipular sua perspectiva.
 
 Sempre que você usa truques psi-gama, duas coisas acontecem. Primeiro, o seu Grau de Infecção aumenta pelo modificador de Infecção do truque. Isso representa a infecção temporariamente dominando um pouco mais a sua mente. Segundo, o exovírus deve fazer um Teste de Infecção. Sendo o infectado, o jogador assincro rola esse teste.
 
@@ -78,8 +78,8 @@ Você pode não gastar paradas para afetar o Teste de Infeção, mas você pode 
 
 **Sucesso Crítico:** Com sucesso crítico, um efeito de influência é escolhido e o MJ também escolhe um dos seguintes:
 
-- **Tempo Fora:** A infecção foi despertada, mas fica aguardando. A próxima vez que você fizer uma recarga longa ou ficar inconsciente, você pode acordar e descobrir que a infecção esteve ativa enquanto sua mente estava desacordada — literalmente tomando controle do seu corpo. O que o exovírus fez durante esse tempo depende do MJ e pode não ser imediatamente aparente para o seu personagem. Você pode acordar com um cadáver na sua cama ou símbolos estranhos escritos meticulosamente com unhas ensaguentadas em cada centímetro da parede, ou você pode descobrir um dispositivo alienígena semicompleto escondido em um armário semanas depois. Mais de um assincro se mantiveram acordados por dias, com medo de cair no sono e deixar a presença dentro deles assumir o controle.
-- **Interferência:** O exovírus ativamente impede você em um ponto crítico. Em algum momento no futuro, quando você estiver prestes a fazer um teste, você deve fazer um teste oposto colocando sua Prova de VON contra o Grau de Infecção +30. Se a infecção vencer, seu teste vai automaticamente sofrer uma falha crítica (paradas não podem ser usadas). Os MJs são encorajados a selecionar situações que terão resultados drámaticos e terríveis.
+- **Tempo Fora:** A infecção foi despertada, mas fica aguardando. A próxima vez que você fizer uma recarga longa ou ficar inconsciente, você pode acordar e descobrir que a infecção esteve ativa enquanto sua mente estava desacordada — literalmente tomando controle do seu corpo. O que o exovírus fez durante esse tempo depende do MJ e pode não ser imediatamente aparente para o seu personagem. Você pode acordar com um cadáver na sua cama ou símbolos estranhos escritos meticulosamente com unhas ensanguentadas em cada centímetro da parede, ou você pode descobrir um dispositivo alienígena semicompleto escondido em um armário semanas depois. Mais de um assincro se mantiveram acordados por dias, com medo de cair no sono e deixar a presença dentro deles assumir o controle.
+- **Interferência:** O exovírus ativamente impede você em um ponto crítico. Em algum momento no futuro, quando você estiver prestes a fazer um teste, você deve fazer um teste oposto colocando sua Prova de VON contra o Grau de Infecção +30. Se a infecção vencer, seu teste vai automaticamente sofrer uma falha crítica (paradas não podem ser usadas). Os MJs são encorajados a selecionar situações que terão resultados dramáticos e terríveis.
 
 ## A Influência da Infecção
 

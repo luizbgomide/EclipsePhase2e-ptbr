@@ -48,7 +48,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td>Lulinha<td>Men/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 4/20
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/20
 - **Ware:** Olfato Aprimorado
 - **Perícias:** Atletismo 30, Evasão 40, Infiltração 30, Infiltração 30, Percepção 20, Queda Livre 30
 - **Notes:** Mordida VD 1d6 \[4\], Tamanho Pequeno
@@ -162,7 +162,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 **Farejador Ferroso:** Estes cães farejadores transgênicos de tamanho médio são modificados para respirar a atmosfera marciana e lidar com o ambiente frio. Eles são excelentes rastreadores.
 
-**Gavião Inteligente:** Verões aprimoradas de falcões peregrinos e outras aves predatórias são comuns em grandes habitats abertos. A arte da falcoaria voltou a moda, com aves treinadas para vigilância e rastreamento.
+**Gavião Inteligente:** Versões aprimoradas de falcões peregrinos e outras aves predatórias são comuns em grandes habitats abertos. A arte da falcoaria voltou a moda, com aves treinadas para vigilância e rastreamento.
 
 **Macaco Inteligente:** Empregados por grupos criminosos para pequenos golpes furtos, como punga, os macacos inteligentes são ajudantes inteligentes e úteis.
 
@@ -187,7 +187,7 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 - **Taxa de Movimento:** Asas 8/32, Marcha 4/12
 - **Ware:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 30, Percepção 40
-- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno, Imune ao veneno da anêmona terreste
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno, Imune ao veneno da anêmona terrestre
 
 <!-- CLEANED /div --></tr>
 

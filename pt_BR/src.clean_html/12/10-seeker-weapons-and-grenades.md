@@ -66,7 +66,7 @@ Cada míssil buscador pode funcionar como [munição tirecerto ou guiada](../12/
 
 **Atordoante:** Estas versões aprimoradas das granadas de luz e som que liberam uma explosão concussiva e uma nuvem de "bolinhas ardidas" de borracha projetadas para atordoar alvos e derrubá-los. A explosão também libera um clarão cegante e um estampido ensurdecedor. Trate como um [efeito de choque](../12/15-special-attacks.md#shock-attacks). Buscadores/granadas atordoantes também podem ser configurados em "modo sobrecarga", infligindo um ataque sensorial completo por um minuto. Além do clarão cegante, o dispositivo libera odores nauseantes e frequências infrasônicas que desencadeiam respostas emocionais desagradáveis (ansiedade, inquietação, tristeza extrema, repulsa e medo).
 
-**Tático Multifuncional (TMF):** Dispositivos TMF podem ser configurados para detonar em modo fragmentação ou alto-explosivo. Explosivos de fragmentação liberam uma nuvem de flechettes letais sobre a área de efeito. Buscadores/granadas auto-explosivos criam uma onda destrutiva de choque e calor.
+**Tático Multifuncional (TMF):** Dispositivos TMF podem ser configurados para detonar em modo fragmentação ou alto-explosivo. Explosivos de fragmentação liberam uma nuvem de flechettes letais sobre a área de efeito. Buscadores/granadas alto-explosivos criam uma onda destrutiva de choque e calor.
 
 **Termobárico:** Munições termobáricas liberam uma nuvem de aerossol explosivo sobre uma área e então a detona, literalmente incendiando o ar, gerando uma onde de pressão devastadora e sugando todo o oxigênio da área.
 
@@ -80,7 +80,7 @@ Quando estiver engajado em operações ofensivas, o raio de explosão das granad
 
 ### Saltando em Granadas
 
-Você pode se sacrificar pela equipe e se jogar em cima de uma granada para proteger os outros. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF para cair na granada e cobri-la com seu morfo. Você sofre um VD 1d10 extra quando a granda detona, mas o dano da granada é reduzido por seu Valor de Armadura + 10 quando aplicado aos outros dentro do raio de explosão.
+Você pode se sacrificar pela equipe e se jogar em cima de uma granada para proteger os outros. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF para cair na granada e cobri-la com seu morfo. Você sofre um VD 1d10 extra quando a granada detona, mas o dano da granada é reduzido por seu Valor de Armadura + 10 quando aplicado aos outros dentro do raio de explosão.
 
 ### Camada Aderente
 

@@ -20,7 +20,7 @@ Uma batida pode resultar em dano à carcaça (e seus ocupantes). Da mesma forma,
 
 Se duas carcaças em movimento colidem de frente, calcule o dano das duas e inflija nas duas. Se duas carcaças se movendo na mesma direção colidem, considere apenas a diferença em velocidade.
 
-Passegeiros em uma carcaça também podem sofre dano por colisões se não estiverem utilizando cintos de segurança apropriados. Eles sofrem metade do VD aplicado a sua carcaça (menos sua própria armadura cinética).
+Passageiros em uma carcaça também podem sofre dano por colisões se não estiverem utilizando cintos de segurança apropriados. Eles sofrem metade do VD aplicado a sua carcaça (menos sua própria armadura cinética).
 
 <!-- CLEANED blockquote class="table" -->
 

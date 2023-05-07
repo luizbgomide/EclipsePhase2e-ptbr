@@ -82,7 +82,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 
 ### Libélula
 
-A libélula é uma carcaça flexível com um metro de comprimento e oito asas, quatro membros manipuladores e uma cauda preênsil. Capazes de voos bem silenciosos na gravidade da Terra, os bots libélulas se saem ainda melhores em microgravidade. Suas asas operam de de forma independente e podem girar, permitindo fazer manobras graciosas, pairar e fazer curvas fechadas.
+A libélula é uma carcaça flexível com um metro de comprimento e oito asas, quatro membros manipuladores e uma cauda preênsil. Capazes de voos bem silenciosos na gravidade da Terra, os bots libélulas se saem ainda melhores em microgravidade. Suas asas operam de forma independente e podem girar, permitindo fazer manobras graciosas, pairar e fazer curvas fechadas.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -106,7 +106,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 
 ### Enxamenoide
 
-Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada "inseto" individual é capaz de rastejar, rolar, pular vários metros, ou movimento áereo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se "fundir" em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e são capazes de interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
+Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada "inseto" individual é capaz de rastejar, rolar, pular vários metros, ou movimento aéreo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se "fundir" em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e conseguem interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -250,7 +250,7 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 
 ### Aracnoide
 
-As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros e outros artrópodes. Três ou quatro conjuntos de membros pneumáticos são capazes de girar em torno de seu tronco de de um metro, e um conjunto adicional de braços manipuladores perto da cabeça possibilita a manipulação fina e o uso de ferramentas. Aracnoides se movem usando marcha, pulos, estendendo minirrodas omnidirecionais para movimento deslizante, ou retraindo seus membros e manobrando com propulsores de ar vetoriais em microgravidade.
+As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros e outros artrópodes. Três ou quatro conjuntos de membros pneumáticos conseguem girar em torno de seu tronco de um metro, e um conjunto adicional de braços manipuladores perto da cabeça possibilita a manipulação fina e o uso de ferramentas. Aracnoides se movem usando marcha, pulos, estendendo minirrodas omnidirecionais para movimento deslizante, ou retraindo seus membros e manobrando com propulsores de ar vetoriais em microgravidade.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -265,7 +265,7 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 
 ---
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
 - **Ware:** Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Média (Armadura 8/6)
@@ -289,7 +289,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 ---
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
 - **Ware:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Luva de Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Pesada (Armadura 12/10)
@@ -298,7 +298,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 ## Flexbot
 
-Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais módulos que se interconectam em várias formas e configurações. Os módulos individuais são especializados para funções específicas e também são capazes de se transformar em uma variedade de formas e mecanismos. Eles têm 4 membros em suas configurações padrão. Os módulos independentes são apenas do tamanho de um cão grande, mas múltiplos flexbots podem se unir para grandes operações em massa, até mesmo assumindo tarefas pesadas como demolição, escavação, fabricação, construção ou montagem de robótica. Flexbots também podem incorporar qualquer robô com o ware Projeto Modular como módulos.
+Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais módulos que se interconectam em várias formas e configurações. Os módulos individuais são especializados para funções específicas e também conseguem se transformar em uma variedade de formas e mecanismos. Eles têm 4 membros em suas configurações padrão. Os módulos independentes são apenas do tamanho de um cão grande, mas múltiplos flexbots podem se unir para grandes operações em massa, até mesmo assumindo tarefas pesadas como demolição, escavação, fabricação, construção ou montagem de robótica. Flexbots também podem incorporar qualquer robô com o ware Projeto Modular como módulos.
 
 <!-- CLEANED blockquote -->
 
@@ -328,7 +328,7 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 
 ### Todos os Flexbots
 
-- **Taxa de Movimento:** Empuxo Vetorial (Jato de Gás) 8/40, Marcha 4/12
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/12
 - **Ware:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Luva de Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Armadura 6/4), Tamanho Pequeno

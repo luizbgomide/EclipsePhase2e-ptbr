@@ -38,7 +38,7 @@ Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a
 
 Se hackear um dispositivo que projete RA, o app de ilusão de RA pode ser usado para distrair e prejudicar o alvo. Por exemplo, nuvens ilusórias escuras podem obscurecer visão, ruídos altos estridentes podem fazer as pessoas se contorcerem, e uma sensação de cócegas persistente pode deixar qualquer um louco. Faça um Teste de Interface; se bem-sucedido o alvo sofre um modificador −10 de debilitação em Percepção e outras ações, com um −10 adicional por sucesso maior. Os modificadores podem ser temporários, uma vez que o alvo pode ajustar seus filtros e/ou desligar sua RA se necessário.
 
-## Injetar RA/Illusão
+## Injetar RA/Ilusão
 
 Se hackear um dispositivo compatível com RA, você pode inserir informações sensoriais falsas no fluxo de RA com um Teste de Hackeamento. O uso primário do app de ilusões de RA é injetar diferentes tipos de ilusões visuais, auditivas, táteis e até mesmo emocionais na realidade aumentada do usuário do dispositivo, dependendo do tipo de interface utilizada. Como o usuário hackeado responderá à ilusão depende de ele estar ciente do invasor, de que tipo de interface está usando (entóptica ou tátil), e de quão realista é a ilusão.
 
@@ -68,7 +68,7 @@ O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](../13/06-
 
 ## Repetir Fluxo de Sensor
 
-Um método comum de compromenter os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo requer uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
+Um método comum de comprometer os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo requer uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
 
 ## Modificar TacNet
 

@@ -34,7 +34,7 @@ As ações complexas exigem alguns segundos de concentração e esforço.
 
 ## Ações de Tarefa
 
-As ações da tarefa exigem mais do que alguns segundos para serem feitas. Cada ação de tarefa tem um prazo, o tempo base necessário para terminá-la. Os prazos podem ser medidos em turnos de ação, minutos, horas, dias ou até mesmo meses. O tempo real para concluir uma tarefa é igual ao prazo ajustado por quaisquer [resultados maiores](../03/01-how-to-play.md#superior-results-3366-rule) que você consiga no teste. Você pode interromper seu trabalho em uma tarefa e continuá-la depois, a não ser que o MJ determine que a tarefa exige um esforço ininterrupto.
+As ações de tarefa exigem mais do que alguns segundos para serem feitas. Cada ação de tarefa tem um prazo, o tempo base necessário para terminá-la. Os prazos podem ser medidos em turnos de ação, minutos, horas, dias ou até mesmo meses. O tempo real para concluir uma tarefa é igual ao prazo ajustado por quaisquer [resultados maiores](../03/01-how-to-play.md#superior-results-3366-rule) que você consiga no teste. Você pode interromper seu trabalho em uma tarefa e continuá-la depois, a não ser que o MJ determine que a tarefa exige um esforço ininterrupto.
 
 Em ações de tarefa com prazos de um dia ou mais, assume-se que oito horas de esforço são iguais a um dia de trabalho. Se você gasta mais ou menos tempo por dia, ajuste o tempo gasto de acordo.
 
