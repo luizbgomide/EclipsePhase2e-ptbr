@@ -98,7 +98,7 @@ Embora esse sistema torne a aquisição de equipamentos um processo abstrato, el
 
 ### Bibliotecas de Diagramas
 
-Como indicado em [Pacotes de de Equipamento](../04/27-gear-packs.md), os equipamentos que você inicia incluem diagramas de uso múltiplo para os itens, para o caso de você querer nanofabricá-los novamente. Esse não é necessariamente o caso com os equipamentos que você adquire com PE, a não ser que você gaste mais pelo diagrama de uso múltiplo com uma complexidade mais alta. No entanto, é provável que você acumule uma pequena biblioteca de diagramas de uso múltiplo ao longo de várias missões.
+Como indicado em [Pacotes de Equipamento](../04/27-gear-packs.md), os equipamentos que você inicia incluem diagramas de uso múltiplo para os itens, para o caso de você querer nanofabricá-los novamente. Esse não é necessariamente o caso com os equipamentos que você adquire com PE, a não ser que você gaste mais pelo diagrama de uso múltiplo com uma complexidade mais alta. No entanto, é provável que você acumule uma pequena biblioteca de diagramas de uso múltiplo ao longo de várias missões.
 
 Jogadores econômicos vão anotá-las para poder usá-las mais tarde. Isso é aceitável, mas os MJs devem ter em mente que as boas intenções nem sempre funcionam como pretendido. Arquivos podem ser perdidos, roubados, corrompidos, ou extraviados. Os PJs que quiserem ressuscitar diagramas muito antigos em um momento de necessidade podem ter que fazer um Teste de Interface ou Pesquisa para encontrá-las. Como alternativa, um ponto de Flex pode ser gasto para recordar onde aquele diagrama estava guardado.
 
