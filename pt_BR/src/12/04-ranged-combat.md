@@ -12,7 +12,7 @@ As seguintes regras se aplicam a todos os tipos de ataque de distância.
 
 Se for atirar em modo tiro único ou semiautomático, você pode gastar sua ação rápida para fazer pontaria. Aplique um modificador +10 em seu ataque.
 
-Você também pode gastar uma ação complexa inteira para fixar sua pontarira em um alvo. Contanto que seu alvo permaneça na mira na sua próxima ação, você recebe +30 para acertar.
+Você também pode gastar uma ação complexa inteira para fixar sua pontaria em um alvo. Contanto que seu alvo permaneça na mira na sua próxima ação, você recebe +30 para acertar.
 
 ### Munição e Recarregamento
 
@@ -52,7 +52,7 @@ Armas de distância tem um ou mais modos de disparo que determinam sua cadência
 | Totalmente Automático                                                                               |                                                         |
 | <div class="indent">» Alvo Único</div>          | +20 para acertar ou +2d10&nbsp;VD                       |
 | <div class="indent">» Três Alvos Adjacentes</div> | VD padrão para os três                                  |
-| <div class="indent">Fogo de Supressão</div>       | VD padrão para qualquer um sem cobertura dentro do cone |
+| <div class="indent">» Fogo de Supressão</div>       | VD padrão para qualquer um sem cobertura dentro do cone |
 
 </blockquote>
 

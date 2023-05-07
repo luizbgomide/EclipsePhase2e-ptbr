@@ -18,11 +18,11 @@ Um terminal só podem ser habitado por um infomorfo por vez; servidores podem ex
 
 ### Dispositivos Inadequados
 
-Alguns dispositivos não tem todo poder de processamento necessário para executar um infomorfo. Isso inclui sistemas ultrapassados, dispositivos que sofreram muitos danos, servidores parcialmente funcionais em postos abandonados, sistemas improvisados, e alguns ciscos que tiveram a ILA residente excluída. Os infomorfos ainda podem executar nesses dispositivos, mas sofrem os mesmos modificadores que um [dispositivo sobrecarregado](../13/04-devices-apps-and-links.md#overloaded-devices). Os informorfos acham a experiência de ser executado em um hardware inferior extremamente desagradável e frustante.
+Alguns dispositivos não tem todo poder de processamento necessário para executar um infomorfo. Isso inclui sistemas ultrapassados, dispositivos que sofreram muitos danos, servidores parcialmente funcionais em postos abandonados, sistemas improvisados, e alguns ciscos que tiveram a ILA residente excluída. Os infomorfos ainda podem executar nesses dispositivos, mas sofrem os mesmos modificadores que um [dispositivo sobrecarregado](../13/04-devices-apps-and-links.md#overloaded-devices). Os infomorfos acham a experiência de ser executado em um hardware inferior extremamente desagradável e frustante.
 
 ### Infomorfos Distribuídos
 
-Em vez de residir em um único dispositivo habitado, um infomorfo podem se executar como uma rede neural distribuída usando múltiplos dispositivos de uma vez. As redes mesh tornam isso fácil, já que os dispositivos destinam parte de suas capacidades para acesso público e dispositivos em mesh compartilham carga de processamento uns com os outros. Um infomorfo pode até mesmo se executar como um processo distribuído usando apenas ciscos, embora isso exiga pelo menos 5. Formando mesh, esses ciscos podem lidar com os requisitos de armazenamento e processamento do estado mental.
+Em vez de residir em um único dispositivo habitado, um infomorfo podem se executar como uma rede neural distribuída usando múltiplos dispositivos de uma vez. As redes mesh tornam isso fácil, já que os dispositivos destinam parte de suas capacidades para acesso público e dispositivos em mesh compartilham carga de processamento uns com os outros. Um infomorfo pode até mesmo se executar como um processo distribuído usando apenas ciscos, embora isso exija pelo menos 5. Formando mesh, esses ciscos podem lidar com os requisitos de armazenamento e processamento do estado mental.
 
 Ser executado como um infomorfo distribuído tem suas vantagens. Tentativas de rastreá-lo via [mesh ID](../13/05-authentication-and-encryption.md#mesh-id) sofrem um modificador −10. Você também adquire um grau de invulnerabilidade em [combate na mesh](../13/14-mesh-combat.md), pois você deve ser travado em todos os dispositivos para ser completamente derrotado. Você deve dividir suas Durabilidade igualmente entre os dispositivos, mas seu Limiar de Ferimento permanece o mesmo. No entanto, sua superfície de ataque também aumenta: você pode ser alvo de hackeamento ou hack cerebral em múltiplos dispositivos. Cada dispositivo em que você está distribuído conta com um dispositivo habitado. Se sua presença em um dispositivo (ou o próprio dispositivo) travar, você sofre um ferimento.
 
@@ -34,7 +34,7 @@ Todos os infomorfos têm o [traço Velocidade Digital](../04/28-traits.md#digita
 
 ## Movimentação Entre Dispositivos
 
-Como um infomorfo, você pode se mudar para um novo dispositivo para o qual você tem acesso. Isso requer apenas se copiar para o novo dispositivo, ativar seu estado mental, vincular seus processos ativos, e apagar-se do dispositivo antigo. Isso leval um turno de ação completo uma vez iniciado; você não pode fazer outras ações, mesmo gastando paradas, até que ele seja concluído. O novo dispositivo então se torna o seu dispositivo habitado. Todas as ações em andamento são suspensas (ou possivelmente interrompidas; a critério do MJ) pela duração do movimento. Você não perde a continuidade durante o processo, nem isso conta como reencape.
+Como um infomorfo, você pode se mudar para um novo dispositivo para o qual você tem acesso. Isso requer apenas se copiar para o novo dispositivo, ativar seu estado mental, vincular seus processos ativos, e apagar-se do dispositivo antigo. Isso leva um turno de ação completo uma vez iniciado; você não pode fazer outras ações, mesmo gastando paradas, até que ele seja concluído. O novo dispositivo então se torna o seu dispositivo habitado. Todas as ações em andamento são suspensas (ou possivelmente interrompidas; a critério do MJ) pela duração do movimento. Você não perde a continuidade durante o processo, nem isso conta como reencape.
 
 Egoprojeção é uma versão de longa distância deste processo, com um prazo mais longo.
 
@@ -48,7 +48,7 @@ Como um ser digital, você também pode se copiar. Isso leva um turno de ação 
 
 Infomorfos adquiridos de estúdios de código comerciais (ou seja, a maioria dos agentes, ikons e operadores) possuem restrições digitais embutidas que impedem que você rode mais de uma cópia desse morfo por vez. Em vez disso, a cópia é instanciada em um digimorfo padrão. Esta restrição de cópia pode ser crackeada da mesma maneira que os diagramas digitais ([Crackeando Diagramas](../16/03-nanofabrication.md#cracking-blueprints)). Casas de código oferecem recompensas por relatos de pessoas usando códigos crackeados de infomorfo.
 
-Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshware](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legamente exigido.
+Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshware](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legalmente exigido.
 
 ## Exclusão
 
@@ -102,7 +102,7 @@ Os caronas infomorfos podem permanecer ativos até mesmo quando se morfo hospede
 
 **Anon:** Eu sei lá, quem sabe se parar de tratar as IGAs como uns zé ninguém inferiores e elas não vão querer matar todos nós.
 
-**Anon:** Eu já ouvi falar de IGAs que estão pesquisando formas de se reproduziem, não por codificação, mas em um processo que replica a reprodução biológica.
+**Anon:** Eu já ouvi falar de IGAs que estão pesquisando formas de se reproduzirem, não por codificação, mas em um processo que replica a reprodução biológica.
 
 **Anon:** Tsc tsc, a gente está tranquilo copiando e modificando código, assim como já fazemos como as linhagem de código. Nós somos o futuro, não vocês, seus bio-sacos de carne.
 

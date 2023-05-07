@@ -10,14 +10,14 @@ A menos que indicado de outra forma, essas ações usam uma ação complexa, mas
 
 Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros eletrônicos.
 
-Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de seguraça ou de administrador.
+Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de segurança ou de administrador.
 
 - **Acesso Outro Sistema:** Você pode [autenticar](../13/05-authentication-and-encryption.md#authentication-methods) e acessar uma conta em outro sistema. Isso cria um [console de conta](../13/05-authentication-and-encryption.md#accounts--access-privileges), representando sua presença nesse sistema.
 - **Aplicar Tag:** Você pode marcar uma pessoa, local ou coisa física com uma e-tag visível em RA ([Tags](../13/03-common-mesh-uses.md#tagging)).
 - **Comunicar:** Você pode conversar por e-mail, texto, voz ou vídeo com outros online, contanto que tenha a mesh ID deles.
 - **Criptografar/Descriptografar:** Você pode proteger um arquivo contra bisbilhoteiros ou acessá-lo com a autorização adequada ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 - **Filtrar Névoa de RA:** Você pode tentar remover o spam e outros da "névoa" importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
-- **Identificar Atacante:** Você pode tentar identificar alguém tentanto travar você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
+- **Identificar Atacante:** Você pode tentar identificar alguém tentando travar você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
 - **Emitir Comando:** Você pode comandar qualquer dispositivo escravo, ILA ou bot teleoperado com apenas uma ação rápida. Cada comando conta separadamente, embora você possa emitir o mesmo comando para vários dispositivos/bots de uma vez.
 - **Deslogar:** Sair de um sistema.
 - **Modificar Arquivos:** Você pode visualizar, alterar, fazer upload, download e excluir os arquivos que você tem privilégio de acesso. Os arquivos excluídos ainda podem ser recuperados com um Teste de Interface por 1 semana, embora você também possa optar por eliminar (excluir permanentemente) um arquivo para que nenhuma recuperação seja possível; no entanto, backups arquivados também podem existir.

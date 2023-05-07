@@ -85,7 +85,7 @@ Você tem um poço interno de energia, tornando mais fácil se recuperar. Você 
 
 ### Reconhecimento de Padrões
 
-Você é versado em encontrar patterns e correlacionar elementos não aleatórios. Isso é útil para traduzir linguagens, quebrar códigos ou encontrar pistas ocultas em quantidades massivas de dados. Aplique um modificador +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados, onde você tem uma amostra suficientemente grande e tempo o bastante para estudá-la, conforme determinado pelo MJ. Isso pode variar de algumas horas investigando inscrições deixadas por alienígenas mortos há muito tempo até uma semana ou mais pesquisando uma cifra extensa. Isso não se aplica aos testes de hackeamento de força bruta ou de Infoseg feitos por apps de descriptografia para quebrar um código.
+Você é versado em encontrar padrões e correlacionar elementos não aleatórios. Isso é útil para traduzir linguagens, quebrar códigos ou encontrar pistas ocultas em quantidades massivas de dados. Aplique um modificador +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados, onde você tem uma amostra suficientemente grande e tempo o bastante para estudá-la, conforme determinado pelo MJ. Isso pode variar de algumas horas investigando inscrições deixadas por alienígenas mortos há muito tempo até uma semana ou mais pesquisando uma cifra extensa. Isso não se aplica aos testes de hackeamento de força bruta ou de Infoseg feitos por apps de descriptografia para quebrar um código.
 
 Você também aprende novos idiomas facilmente; reduza o prazo para semanas em vez de meses.
 
@@ -154,7 +154,7 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Explosão de Confiança](../14/06-psi-sleight-summaries.md#burst-of-confidence)  | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Manha.                                                                                                                                |
 | [Memória Nebulosa](../14/06-psi-sleight-summaries.md#cloud-memory)              | Complexa |    Minutos     |        6        | Alvo não retém memórias de longo prazo.                                                                                                                           |
 | [Varredura Profunda](../14/06-psi-sleight-summaries.md#deep-scan)               | Complexa |   Sustentada   |        6        | Recupere 2 itens da mente do alvo, +2 por sucesso maior.                                                                                                          |
-| [Déjà-Vu](../14/06-psi-sleight-summaries.md#deja-vu)                            | Complexa |    Minutos     |        8        | Alvo é forçado a repetir suas ações dos últimos 15–30 seconds.                                                                                                    |
+| [Déjà-Vu](../14/06-psi-sleight-summaries.md#deja-vu)                            | Complexa |    Minutos     |        8        | Alvo é forçado a repetir suas ações dos últimos 15–30 segundos.                                                                                                   |
 | [Inatividade](../14/06-psi-sleight-summaries.md#downtime)                       |  Tarefa  |   Sustentada   |        2        | Estado de fuga de 4 horas, cura 1d6 de estresse, +1d6 por sucesso maior, recebe efeito de influência.                                                             |
 | [Sentido de Ego](../14/06-psi-sleight-summaries.md#ego-sense)                   | Complexa | Turnos de Ação |        2        | Detecta vida biológica; informações extras sobre distância, tamanho, tipo, etc. com sucessos maiores.                                                             |
 | [Varredura Empática](../14/06-psi-sleight-summaries.md#empathic-scan)           | Complexa | Turnos de Ação |        4        | Conheça as emoções do alvo. +10 em testes de perícias sociais contra ele, +10 por sucesso maior.                                                                  |
@@ -387,7 +387,7 @@ Você força as sinapses do alvo a falharem. Isso funciona como um [ataque de ch
 
 **Ação:** Complexa • **Duração:** Turnos de Ação • **Mod de Infecção:** 6
 
-Você sobrecarrega e inunda os córtex sensoriais do alvo, fazendo um spam de entradas sensoriais confusas e distrativas. O alvo está debilitado, sofrendo −10 em todas as ações, mais −10 extra por successo maior, por VON ÷ 5 turnos de ação.
+Você sobrecarrega e inunda os córtex sensoriais do alvo, fazendo um spam de entradas sensoriais confusas e distrativas. O alvo está debilitado, sofrendo −10 em todas as ações, mais −10 extra por sucesso maior, por VON ÷ 5 turnos de ação.
 
 ### Estática
 

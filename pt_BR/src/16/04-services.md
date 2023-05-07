@@ -9,7 +9,7 @@ Esses serviços de software estão disponíveis como uma assinatura mensal de se
 | SERVIÇOS DA MESH             | Comp/<wbr>PE | Descrição                                                                |
 |:---------------------------- |:-------------------------------------:|:------------------------------------------------------------------------ |
 | Anonimizador                 |                 Men/1                 | Mascara sua mesh ID.                                                     |
-| Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados com uma perícia de Saber.         |
+| Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados a uma perícia de Saber.           |
 | Banco de Registros           |                 Men/1                 | +10 em Testes de Pesquisa.                                               |
 | Fluxo de Sensor Privado      |                 Men/1                 | +10 em Percepção nesta área.                                             |
 | Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |

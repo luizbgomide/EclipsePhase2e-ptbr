@@ -108,7 +108,7 @@
     - [Comandando Enxames](../16/20-nanoswarms-and-microswarms.md#comandando-enxames)
     - [Limitações](../16/20-nanoswarms-and-microswarms.md#limitações)
     - [Combate de Enxames](../16/20-nanoswarms-and-microswarms.md#combate-de-enxames)
-    - [Wares](../16/20-nanoswarms-and-microswarms.md#wares)
+    - [Ware](../16/20-nanoswarms-and-microswarms.md#ware)
     - [Desgaste](../16/20-nanoswarms-and-microswarms.md#desgaste)
   - [Enxames](../16/20-nanoswarms-and-microswarms.md#enxames)
 - [Robôs](../16/21-robots.md)

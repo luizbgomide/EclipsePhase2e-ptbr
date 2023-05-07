@@ -41,7 +41,7 @@ Use as áreas das Artes para dar vida à sua imaginação, criar uma obra de art
 
 Observe que as áreas das Artes não devem ser usadas no lugar de perícias Ativas para enganar, influenciar ou convencer os outros. Criar uma ilusão de realidade aumentada realista requer a perícia Programação, incorporar uma mensagem subliminar em uma música ou discurso precisaria da perícia Enganação, fazer um discurso para convencer uma banca ou agitar uma multidão requer Persuasão ou Provocação. No entanto, as áreas das Artes podem ser usadas como [perícias complementares](../04/20-know-skills.md#complementary-skills) nestes casos.
 
-- **Exemplos de Áreas:** Arquitetura, Canto, Crítica, Dança, Desenho, Design de RA, Design de RV, Discurso, Drama, Escultura, Escrita, Música, Performance, Pintura
+- **Exemplos de Áreas:** Arquitetura, Canto, Crítica, Dança, Desenho, Design de RA, Design de RV, Escultura, Escrita, Música, Oratória, Performance, Pintura, Teatro
 - **Especializações:** Conforme apropriado para a área
 
 </div>
@@ -71,7 +71,7 @@ As áreas Profissionais abrangem o conhecimento e o treinamento nas práticas e 
 
 Use áreas Profissionais para lembrar de conhecimentos especializados disponíveis para alguém treinado ou experiente nesta profissão: pessoas notáveis, práticas comuns, apps e equipamentos utilizados, logística, planejamento, contabilidade, terminologia, legalidades, política interna, histórico comercial, padrões de ética, principais localidades, hipercorps/cartéis/coletivos influentes, entre outros.
 
-- **Exemplos de Áreas:** Administração, Administração de Sistemas, Analista de Tendências, Caçada de Ego, Ciência de Campo, Contabilidade, Contrabando, Crime Organizado, Desbravamento, Design de Morfos, Engenharia de Redes, Engenharia Social, Entretenimento, Espionagem, Golpismo, Guarda-Costas, Instrução, Investigação, Jornalismo, Mapeamento, Mineração de Asteroides, Mineração de Gás, Nanofabricação, Operações de Bancos de Corpos, Operações de Habitat, Operações Laboratoriais, Operações Militares, Operações Policiais, Operações de Primeiro Contato, Operações de Segurança, Operações de Tripulação de Voo, Processamento de Dados, Receptação, Serviços de Emergência, Serviços Médicos, Serviços Sociais, Terraformação, Trabalho Voluntário, Trampos Freelancer, Vasculhamento
+- **Exemplos de Áreas:** Administração, Administração de Sistemas, Analista de Tendências, Caçada de Ego, Ciência de Campo, Contabilidade, Contrabando, Crime Organizado, Desbravamento, Design de Morfos, Engenharia de Redes, Engenharia Social, Entretenimento, Espionagem, Golpismo, Guarda-Costas, Instrução, Investigação, Jornalismo, Mapeamento, Mineração de Asteroides, Mineração de Gás, Nanofabricação, Operações de Bancos de Corpos, Operações de Habitat, Operações Laboratoriais, Operações Militares, Operações Policiais, Operações de Primeiro Contato, Operações de Segurança, Operações de Tripulação de Voo, Processamento de Dados, Receptação, Serviço de Atendimento, Serviços de Emergência, Serviços Médicos, Serviços Sociais, Terraformação, Trampos Freelancer, Vasculhamento
 - **Especializações:** Conforme apropriado para a área
 
 </div>

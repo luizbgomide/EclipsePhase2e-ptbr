@@ -73,7 +73,7 @@ Esta é uma categoria genérica para perícias menos comuns. Isso inclui profici
 
 Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
 
-- **Exemplos de Áreas:** Arco (REF), Arremesso de Facas (REF), Chicote (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Prestidigitação (REF), Trato Animal (SAG)
+- **Exemplos de Áreas:** Arcos (REF), Arremesso de Facas (REF), Chicotes (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Prestidigitação (REF), Trato Animal (SAG)
 - **Especializações:** Conforme apropriado para a área
 
 </div>
@@ -165,7 +165,7 @@ Infoseg é uma abreviação de "segurança da informação". Ele incorpora o tre
 
 Use a Infoseg para hackear sistemas eletrônicos e da mesh, subvertê-los, e protegê-los. Também use-a para criptografar e descriptografar comunicações e arquivos. A maioria dos Testes de Infoseg são ações de tarefa. Veja [A Mesh](../13/00-the-mesh.md), para obter detalhes adicionais sobre sistemas da mesh e aplicações da perícia Infoseg.
 
-- **Especializações:** Descriptografia, Farejamento, Hack Cerebral, Hack de Força-Bruta, Hack de RV, Mascaramento, Segurança, Sondagem, Subversão
+- **Especializações:** Descriptografia, Farejamento, Hack Cerebral, Hack de Força Bruta, Hack de RV, Mascaramento, Segurança, Sondagem, Subversão
 
 </div>
 
@@ -178,9 +178,9 @@ Use a Infoseg para hackear sistemas eletrônicos e da mesh, subvertê-los, e pro
 
 Interface é o uso e entendimento de computadores, eletrônicos, redes, sensores e softwares. Ela se aplica a tudo, desde servidores da mesh e serviços da nuvem até controles de sistemas de habitats/espaçonaves integrados e sistemas de armas computadorizados ou instalados.
 
-Use Interface para manipular eletrônicos, softwares de comando, falsificar arquivos de vídeo, escanear dispositivos sem fio, bloquear frequências, obter leituras de sensores, controlar funções de suporte vital e entender novos dispositivos. Interface também é usada para atacar com armas instaladas não portáteis e sistemas de armas de veículos e espaçonaves pilotados, mas não encarnados ou encapados ([Sistemas de Armas](../12/08-weapon-systems.md)).
+Use Interface para manipular eletrônicos, softwares de comando, adulterar arquivos de vídeo, escanear dispositivos sem fio, bloquear frequências, obter leituras de sensores, controlar funções de suporte vital e entender novos dispositivos. Interface também é usada para atacar com armas instaladas não portáteis e sistemas de armas de veículos e espaçonaves pilotados, mas não encarnados ou encapados ([Sistemas de Armas](../12/08-weapon-systems.md)).
 
-- **Especializações:** Bloqueio de Sinais, Escaneamento, Falsificação, Sensores, Sistemas de Armas
+- **Especializações:** Adulteração, Bloqueio de Sinais, Escaneamento, Sensores, Sistemas de Armas
 
 </div>
 
@@ -226,7 +226,7 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se esquivar ou pela perícia Luta do oponente se ele bloquear ou aparar.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
 
 - **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
@@ -353,6 +353,6 @@ Sobrevivência engloba as perícias necessárias para sobreviver e mover-se em a
 
 Use Sobrevivência para navegar, rastrear uma pessoa ou animal na natureza, obter comida e abrigo seguros, e defender-se de perigos ecológicos e ambientais.
 
-- **Especializações:** Caçada, Coleta de Alimentos, Navegação, Rastreamento
+- **Especializações:** Caçada, Forrageamento, Navegação, Rastreamento
 
 </div>

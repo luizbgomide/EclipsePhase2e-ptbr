@@ -42,7 +42,7 @@ Armamentos implantados podem ser combinados com enguiônicos para produzir choqu
 
 **Espeto de Pistão:** Este espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
 
-**Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por oríficos ocultos.
+**Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por orifícos ocultos.
 
 ## Armas de Luta
 
@@ -72,7 +72,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Vibrolâmina:** Estas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito quando apunhalar ou cortar, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
 
-**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para que ele ele estoure a cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
+**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para que ele estoure a cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
 ## Regras de Luta
 

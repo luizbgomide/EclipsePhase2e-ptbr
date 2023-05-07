@@ -11,7 +11,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **ADM:** Arma de Destruição em Massa.
 - **Aeróstato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
 - **Aflitivo:** Um app ofensivo que ataca infomorfos/cibercérebros.
-- **Agente:** Um informorfo otimizado para funções de infoseg.
+- **Agente:** Um infomorfo otimizado para funções de infoseg.
 - **Aglomerado:** Um habitat de microgravidade feito de módulos interligados.
 - **ALL:** A Aliança Lunar-Lagrange, o governo conservador dos habitats na Lua e na órbita da Terra.
 - **Anão Gelado:** Um tipo de planeta anão distante composto de gelo.
@@ -319,7 +319,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Truque:** Um poder psi.
 - **UA:** Unidade Astronômica. A distância entre a Terra e o Sol, igual a 8,3 minutos-luz ou ~150 milhões de quilômetros.
 - **UAT:** Universidade Autônoma de Titã.
-- **Vapor:** Uma emulação de mente falhada ou um forque/informorfo danificado.
+- **Vapor:** Uma emulação de mente falhada ou um forque/infomorfo danificado.
 - **Verme:** Um assincro exsurgente.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **Vírus Exsurgente:** Um vírus multivetor espalhado durante a Queda que transforma as vítimas e subverte suas mentes.

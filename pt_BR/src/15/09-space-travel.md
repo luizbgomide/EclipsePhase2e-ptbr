@@ -1,8 +1,8 @@
 # Viagem Espacial
 
-Viagens espaciais de longa distância levam tempo e são entendiantes. Você vai preferir egoprojetar na maioria da vezes, a menos que você seja um bioconservador, esteja tentando ser discreto, ou em uma região com habitats próximos.
+Viagens espaciais de longa distância levam tempo e são entediantes. Você vai preferir egoprojetar na maioria das vezes, a menos que você seja um bioconservador, esteja tentando ser discreto, ou em uma região com habitats próximos.
 
-Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambientação em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circustâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
+Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambientação em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circunstâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
 
 ## Viagem Local
 
@@ -26,11 +26,11 @@ O espaço é uma mercadoria valiosa a bordo de uma espaçonave, então os cômod
 
 ## Propulsão de Espaçonaves
 
-**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, estes ainda são os mesmo foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
+**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, estes ainda são os mesmos foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
 
-**Foguete de Hidrogênio Metálico (HM):** Hidrogênio metálico é uma forma sólida mas instável de hidrogênio criada em pressões extremamente altas. Ele pode ser estabilizado em tanques com campos elétricos e magnéticos cuidadosamente controlados. Pequenas quantidades podem ser rápida e explosivamente revertidas em gás hidrogênio convencional, impulsionando o foguete com grande força. O motores de hidrogênio metálico são necessários para escapar os poços gravitacionais da maioria do planetas, graças a sua alta relação empuxo-peso, então eles são comuns em aterrissadores planetários e veículos de curto alcance.
+**Foguete de Hidrogênio Metálico (HM):** Hidrogênio metálico é uma forma sólida mas instável de hidrogênio criada em pressões extremamente altas. Ele pode ser estabilizado em tanques com campos elétricos e magnéticos cuidadosamente controlados. Pequenas quantidades podem ser rápida e explosivamente revertidas em gás hidrogênio convencional, impulsionando o foguete com grande força. Os motores de hidrogênio metálico são necessários para escapar os poços gravitacionais da maioria do planetas, graças a sua alta relação empuxo-peso, então eles são comuns em aterrissadores planetários e veículos de curto alcance.
 
-**Foguete de Plasma (P):** Esse motor aquece hidrogênio em plasma e o acelera usando um poderoso campo elétrico. Embora ele tenha uma baixa relação empuxo-peso, ele é mais eficiente em termos de combustível do que hidrogênio metálico. Foguetes de plama são superados pelos de fusão e só são usados em naves antigas, sobretudo os enxames da ralé.
+**Foguete de Plasma (P):** Esse motor aquece hidrogênio em plasma e o acelera usando um poderoso campo elétrico. Embora ele tenha uma baixa relação empuxo-peso, ele é mais eficiente em termos de combustível do que hidrogênio metálico. Foguetes de plasma são superados pelos de fusão e só são usados em naves antigas, sobretudo os enxames da ralé.
 
 **Foguete de Fusão (F):** Similares aos foguetes de plasma, os foguetes de fusão exigem temperatura e pressão significativamente mais altas, resultando em um uso mais eficiente de hidrogênio. Os foguetes de fusão são a forma mais comum de propulsão para espaçonaves de longas distâncias. No entanto, sua relação empuxo-peso é muito baixa para escapar os poços gravitacionais da maioria dos planetas.
 

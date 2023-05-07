@@ -2,24 +2,24 @@
 
 Esses wares aprimoram as capacidades sensoriais do seu morfo.
 
-| AMPLIAÇÕES SENSORIAIS | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                       |
-|:--------------------- |:------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------------- |
-| Visão 360°            |     BCH      |                 Men/1                 | Veja em todas as direções simultaneamente.                                                      |
-| Antirreflexo          |      CH      |                 Men/1                 | Nega modificadores por clarões.                                                                 |
-| Farejador Químico     |      CH      |                 Mod/2                 | Detecta gases, explosivos, armas de fogo, toxinas. Saber: Química 60.                           |
-| Sentido Direcional    |     BCH      |                 Men/1                 | Sentido inato de direção e distância. +10 em Testes de Sobrevivência baseados em navegação.     |
-| Sentido Elétrico      |      CH      |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                                                      |
-| Audição Aprimorada    |     BCH      |                 Men/1                 | Escuta frequências mais altas e mais baixas. +10 em Percepção baseada em audição.               |
-| Olfato Aprimorado     |     BCH      |                 Men/1                 | +10 em Percepção baseada em olfato, +10 em Cinésica com biomorfos à queima-roupa.               |
-| Visão Aprimorada      |     BCH      |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Perceção baseada em visão. |
-| Lidar                 |      H       |                 Men/1                 | Use luz de laser refletida para imageamento e julgar distâncias e velocidades.                  |
-| Visão Nanoscópica     |      H       |                 Mod/2                 | Ver objetos em nanoescala e nanobots.                                                           |
-| Oráculos              |     CHM      |                 Mod/2                 | +10 em Percepção, nega modificadores por distração.                                             |
-| Visão Polarizada      |     BCH      |                 Men/1                 | Veja luz polarizada, ignora modificadores de camuflagem.                                        |
-| Radar                 |      H       |                 Men/1                 | Detector de movimento, também pode julgar tamanho e composição.                                 |
-| Sentido Radiológico   |      CH      |                 Men/1                 | Detecta fontes de radiação.                                                                     |
-| Sonar                 |     BCH      |                 Men/1                 | Sonar, alcance de 20&nbsp;m no ar, 100&nbsp;m na água.                                          |
-| Emissor de Raios T    |      CH      |                 Men/1                 | Use visão aprimorada para ver através de materiais.                                             |
+| AMPLIAÇÕES SENSORIAIS | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                        |
+|:--------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------ |
+| Visão 360°            |     BCH      |                 Men/1                 | Veja em todas as direções simultaneamente.                                                       |
+| Antirreflexo          |      CH      |                 Men/1                 | Nega modificadores por clarões.                                                                  |
+| Farejador Químico     |      CH      |                 Mod/2                 | Detecta gases, explosivos, armas de fogo, toxinas. Saber: Química 60.                            |
+| Sentido Direcional    |     BCH      |                 Men/1                 | Sentido inato de direção e distância. +10 em Testes de Sobrevivência baseados em navegação.      |
+| Sentido Elétrico      |      CH      |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                                                       |
+| Audição Aprimorada    |     BCH      |                 Men/1                 | Escuta frequências mais altas e mais baixas. +10 em Percepção baseada em audição.                |
+| Olfato Aprimorado     |     BCH      |                 Men/1                 | +10 em Percepção baseada em olfato, +10 em Cinésica com biomorfos à queima-roupa.                |
+| Visão Aprimorada      |     BCH      |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Percepção baseada em visão. |
+| Lidar                 |      H       |                 Men/1                 | Use luz de laser refletida para imageamento e julgar distâncias e velocidades.                   |
+| Visão Nanoscópica     |      H       |                 Mod/2                 | Ver objetos em nanoescala e nanobots.                                                            |
+| Oráculos              |     CHM      |                 Mod/2                 | +10 em Percepção, nega modificadores por distração.                                              |
+| Visão Polarizada      |     BCH      |                 Men/1                 | Veja luz polarizada, ignora modificadores de camuflagem.                                         |
+| Radar                 |      H       |                 Men/1                 | Detector de movimento, também pode julgar tamanho e composição.                                  |
+| Sentido Radiológico   |      CH      |                 Men/1                 | Detecta fontes de radiação.                                                                      |
+| Sonar                 |     BCH      |                 Men/1                 | Sonar, alcance de 20&nbsp;m no ar, 100&nbsp;m na água.                                           |
+| Emissor de Raios T    |      CH      |                 Men/1                 | Use visão aprimorada para ver através de materiais.                                              |
 
 **Visão 360°:** Os olhos/sensores visuais do morfo estão situados formando um campo de visão de 360 graus.
 
@@ -27,7 +27,7 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 
 **Farejador Químico:** Esse sensor detecta moléculas no ar e analisa sua composição química, usando Saber: Química 60. Ele pode determinar a presença de explosivos, armas de fogo, e gases — incluindo toxinas e outros fumos.
 
-**Sentido Direcional:** Você adquire um sentido inato de direção e distância usando navegação inercial avançada. Você pode identificar o norte, a direção de rotação, etc., manter essa direção e saber aproximadamente quanto você já percorreu. Você recebe um modificador +10 em Testes de Sobrevivência e outras perícias baseados em navegação, para descobrir direções complexas, ler mapas, lembrar de rotas, e refazer os caminhos que você percorreu. Como é trivial usar a mesh para posicionamento, essa ampliação é usada primariamente por desbravadores.
+**Sentido Direcional:** Você adquire um sentido inato de direção e distância usando navegação inercial avançada. Você pode identificar o norte, a direção de rotação, etc., manter essa direção e saber aproximadamente quanto você já percorreu. Você recebe um modificador +10 em Testes de Sobrevivência e outras perícias baseados em navegação para descobrir direções complexas, ler mapas, lembrar rotas e retraçar caminhos que você tomou. Como é trivial usar a mesh para posicionamento, essa ampliação é usada primariamente por desbravadores.
 
 **Sentido Elétrico:** Você pode sentir campos elétricos. Dentro de 5 metros, você pode dizer se um dispositivo está ligado ou desligado e pode detectar a localização exata de fiações elétricas e fontes de energia atrás de uma parede ou dentro de um dispositivo.
 

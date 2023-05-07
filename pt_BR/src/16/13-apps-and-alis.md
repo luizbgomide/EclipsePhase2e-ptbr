@@ -19,7 +19,7 @@ Esses softwares podem ser executados em qualquer dispositivo computadorizado.
 | Mascaramento          |                Mod/R/2                | Falsifica transmissões e mesh IDs.               |
 | Rastreamento          |                 Mod/2                 | Rastreia conexões.                               |
 | VPN                   |                 Men/1                 | Cria uma rede privada virtual.                   |
-| XP                    |                Min+/1+                | Clipes de outros sensórios gravados.             |
+| XP                    |                Men+/1+                | Clipes de outros sensórios gravados.             |
 
 **Ilusão de RA:** Uma biblioteca de mídia e um pacote de edição que você pode usar para criar ilusões entópticas realistas.
 
@@ -62,7 +62,7 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 
 **ILA de Dispositivo:** Estas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
 
-**ILA Kaos:** As ILAKs são usadas por hackers e equipes de operações de infiltração para criar distrações e sabotar sistemas.
+**ILA Kaos:** As ILAs Kaos (também chamadas KALI) são usadas por hackers e equipes de operações de infiltração para criar distrações e sabotar sistemas.
 
 **Musa:** Estas são assistentes digitais e companheiros para toda vida.
 

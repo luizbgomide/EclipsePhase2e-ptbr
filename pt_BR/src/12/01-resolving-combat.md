@@ -32,7 +32,7 @@ O atacante usa uma ação complexa para atacar no seu turno na ordem de Iniciati
 
 A defesa é uma ação automática. A menos que esteja [surpreso](../12/21-other-action-factors.md#surprise) ou [incapacitado](../12/21-other-action-factors.md#conditions), o defensor sempre tem a opção de responder.
 
-**Defesa de Luta:** Contra uma ataque de luta, o defensor pode escolher bloquear o aparar usando sua própria perícia Luta ou esquivar usando Evasão.
+**Defesa de Luta:** Contra um ataque de luta, o defensor pode escolher bloquear ou defender usando sua própria perícia Luta, ou esquivar usando Evasão.
 
 **Defesa de Distância:** Ataques de distância ou de área de efeito são muito mais difíceis de se esquivar; o defensor usa a perícia Evasão ÷ 2.
 
@@ -123,7 +123,7 @@ A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada]
 
 O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
-Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um um [ataque de luta com investida](../12/02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
+Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](../12/02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 
 O ex-humano tem Luta 80, −10 pela investida, e mais −10 pelo ferimento, para um número alvo de 60. Ele rola 07. A Jinx tem Evasão 60, mais a MJ dá a ela um bônus de posição vantajosa por voar perto do teto, para o número alvo de 80. Ela rola um 00. Isso é mais baixo do que o resultado do ex-humano, mas é um sucesso crítico, o que supera a rolagem do ex-humano! O MJ diz que Jinx se esquiva de tal forma que o ex-humano se estende demais e perde o controle. Jinx sobreviveu para o próximo turno de ação!
 

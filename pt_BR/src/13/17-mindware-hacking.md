@@ -108,7 +108,7 @@ O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma cone
 
 **H:** Beleza então. Onde a gente se encontra? Essas coisas estão pesando no meu morfo da pior maneira possível.
 
-**S:** Me conta como o trabalho ficou tão fodido, Lulu. Você deveria ser o melhor forequestrador de V-NS.
+**S:** Me conta como o trabalho ficou tão fodido, Lulu. Você deveria ser o melhor forquestrador de V-NS.
 
 **H:** Você sabe como é. Você entra, a segurança não é aquilo que o relatório dizia, e de repente você tá improvisando as coisas.
 
@@ -128,7 +128,7 @@ O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma cone
 
 **H:** Eu sei, é por isso que eu tenho misturado tudo. E é por isso que eu preciso que você arranje uma nova forma pra eu descarregar esses egos.
 
-**S:** Ok, a gente vai fazer o seguinte. Lembra do Ralph's? Aquela velha cafeteria em Progress? Aquele com o grãos supertostados que eles dizem ser uma variante pura da Terra? Vamos se encontrar lá e conversar. Só você e eu e o café.
+**S:** Ok, a gente vai fazer o seguinte. Lembra do Ralph's? Aquela velha cafeteria em Progress? Aquele com os grãos supertostados que eles dizem ser uma variante pura da Terra? Vamos se encontrar lá e conversar. Só você e eu e o café.
 
 **H:** Eu acho que você não tá me entendendo. Eu quero descarregar isso, e não falar sobre descarregar.
 

@@ -42,7 +42,7 @@ Perícias também são atribuídas a uma série de categorias, conforme listado 
 
 ## Perícias de Área
 
-Quando você escolhe uma perícia de área, você deve escolha uma ênfase específica para essa perícia chamada de _área_. Perícias de área são escritas como "\[Perícia\]: \[Área\]". Por exemplo, quando escolher uma perícia de Saber, você deve escolher uma disciplina específica, tal como Saber: Engenharia ou Saber: Biologia. Perícias de área podem ser compradas mais de uma vez, com a escolha de uma área diferente a cada vez. Cada área funciona basicamente como uma perícia separada. Há sugestões de áreas listadas para cada perícia de área, mas os jogadores e o MJ podem cooperar para criar outras.
+Quando você escolhe uma perícia de área, você deve escolha uma ênfase específica para essa perícia chamada _área_. Perícias de área são escritas como "\[Perícia\]: \[Área\]". Por exemplo, quando escolher uma perícia de Saber, você deve escolher uma disciplina específica, tal como Saber: Engenharia ou Saber: Biologia. Perícias de área podem ser compradas mais de uma vez, com a escolha de uma área diferente a cada vez. Cada área funciona basicamente como uma perícia separada. Há sugestões de áreas listadas para cada perícia de área, mas os jogadores e o MJ podem cooperar para criar outras.
 
 ## Especializações
 

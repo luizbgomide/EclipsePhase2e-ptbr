@@ -28,7 +28,7 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 | Ligação Laser/Micro-Ondas (Pequeno) |                 Mod/2                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 50/500&nbsp;km.  |
 | Gravador de Missão                  |                 Men/1                 | Grava todos os dados da missão.                                                         |
 | Amplificador de Rádio               |                 Men/1                 | Estende alcance de rádio, 25/250&nbsp;km de alcance.                                    |
-| Pacote de Satélites                 |                 Mai/3                 | Coloca satélites em órbita para GPS, imageamento, comunicações, Saber: Metereologia 60. |
+| Pacote de Satélites                 |                 Mai/3                 | Coloca satélites em órbita para GPS, imageamento, comunicações, Saber: Meteorologia 60. |
 
 **Sistema de Migalhas:** Este dispositivo vestível libera ciscos de "micromigalhas" para trás conforme você se move, aproximadamente a cada 25 metros. Estes dispositivos formam mesh uns com os outros e com outros dispositivos, permitindo que você mapeie a sua posição em relação ao rastro de migalhas e criando uma conexão mesh por todo o caminho até a origem do rastro. Isso é útil para rastrear seus deslocamentos, achar seu caminho de volta, e manter-se em mesh com seu acampamento ou nave em habitats abandonados, áreas selvagens e outros lugares onde não há uma mesh local funcional.
 
@@ -36,7 +36,7 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 
 **Ligação Laser/Micro-Ondas:** Estes dispositivos portáteis são usados para estabelecer um canal de comunicação de linha de visão e feixe estreito com outra ligação laser ou de micro-ondas. O alcance desses transceptores varia bastante de acordo com fatores ambientais, mas aproxima-se de 50 quilômetros na atmosfera e 500 quilômetros no espaço (embora deve-se ter em mente os limites do horizonte, sendo 5 quilômetros no nível do solo na Terra e menos em corpos menores). Os lasers estão sujeitos a interferências de neblinas, poluição, fumaça e obstáculos visuais semelhantes, enquanto as micro-ondas podem ser impedidas por obstruções metálicas. Essas ligações só podem ser interceptados ficando diretamente entre os feixes. Algumas equipes carregam uma versão micro desse sistema, usadas em seu corpo, permitindo comunicações de linha de visão intraequipe que não podem ser interceptadas como o rádio.
 
-**Gravador de Missão:** Estes dispositivo de armazenamento grava todos os dados de uma missão — lifelogs, XP, fluxos de sensores, e assim por diante — para recuperação posterior. Isso serve como backup de todos os dados em locais remotos e para equipes de busca e resgate analisarem se alguma coisa deu errado. Os desbravadores geralmente os conectam em amplificadores de rádio e os deixam próximos do portão de pandora.
+**Gravador de Missão:** Este dispositivo de armazenamento grava todos os dados de uma missão — lifelogs, XP, fluxos de sensores, e assim por diante — para recuperação posterior. Isso serve como backup de todos os dados em locais remotos e para equipes de busca e resgate analisarem se alguma coisa deu errado. Os desbravadores geralmente os conectam em amplificadores de rádio e os deixam próximos do portão de pandora.
 
 **Amplificador de Rádio:** Este dispositivo portátil aumenta o alcance e sensibilidade de rádios de curto alcance, como aqueles de implantes, ectos e microescutas. O amplificador deve estar ao alcance do dispositivo de menor alcance (ou ligado diretamente via cabo de fibra óptica). Ele vai repetir quaisquer transmissões recebidas desse dispositivo, mas com um alcance estendido de 25 quilômetros em áreas urbanas e 250 quilômetros em áreas remotas ([Alcances de Rádios e Sensores](../16/16-comms-and-mesh-gear.md#radio-and-sensor-ranges)). Os amplificadores são comumente usados por personagens viajando para longe de habitats ou outras regiões civilizadas.
 
@@ -67,7 +67,7 @@ Os longiprojetores quânticos são computadores especiais projetados para proteg
 
 ## Comunicação de Entrelaçamento Quântico
 
-A comunicação EQ é instantânea e funciona a qualquer distância, até mesmo a centenas de anos-luz, mas também é muito limitada. A comunicação EQ exige pares de partículas entrelaçadas conhecidas como qubits. Para usar EQ, uma grande quantidade de pares de qubits são criados e depois separados um do outro. Milhões dessas partículas separadas são armazenadas em recipientes especiais conhecidos como reservatórios de qubits. Se dois comunicadores EQ tiverem, cada um, um reservatório contendo qubits que estão entrelaçados com os qubits no reservatório do outro comuinicador, então você pode usar os dois comunicadores EQ para ser comunicar um com o outro instantaneamente.
+A comunicação EQ é instantânea e funciona a qualquer distância, até mesmo a centenas de anos-luz, mas também é muito limitada. A comunicação EQ exige pares de partículas entrelaçadas conhecidas como qubits. Para usar EQ, uma grande quantidade de pares de qubits são criados e depois separados um do outro. Milhões dessas partículas separadas são armazenadas em recipientes especiais conhecidos como reservatórios de qubits. Se dois comunicadores EQ tiverem, cada um, um reservatório contendo qubits que estão entrelaçados com os qubits no reservatório do outro comunicador, então você pode usar os dois comunicadores EQ para ser comunicar um com o outro instantaneamente.
 
 Cada bit de dado transmitido entre os comunicadores EQ usam um qubit. Quando todos os qubits forem usados, os dois comunicadores EQ não podem mais se comunicar até que cada um recebe um novo lote de qubits entrelaçados. Os qubits são caros para produzir, conter e transportar, fazendo isso ser uma forma de comunicação rara e cara. Como resultado, comunicações de largura de banda extremamente alta como XP sensorial completo e egoprojeção são evitadas.
 
@@ -102,7 +102,7 @@ Estes equipamentos formam os componentes fundamentais da mesh ([Dispositivos, Ap
 
 **Cabo de Fibra Óptica:** Os cabos de fibra óptica são usados para estabelecer conexões cabeadas entre dois dispositivos. Dada a ubiquidade dos rádios e a bagunça provocada por fios enrolados, eles geralmente são utilizados apenas por privacidade (ao contrário da comunicação por rádio, os sinais de fibra óptica não podem ser interceptados, farejados ou bloqueados) ou em áreas com forte interferência de rádio.
 
-**Terminais:** Terminais incluem tablets, estações de trabalho e terminais similares. Eles são capazes de executar um único infomorfo.
+**Terminal:** Terminais incluem tablets, estações de trabalho e terminais similares. Eles conseguem executar um único infomorfo.
 
 **Ciscos:** Estes computadores de tamanho micro vêm em pacotes de 500 e são projetados para serem espalhados sobre uma área ampla (manualmente, por drone, ou outros meios criativos) para criar uma rede mesh sem fio. Os ciscos individuais usam almofadas aderentes para aderir às superfícies. Eles também estão equipados com câmeras (espectro visual apenas) e microfones.
 

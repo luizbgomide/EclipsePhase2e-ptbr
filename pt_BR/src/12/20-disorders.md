@@ -6,7 +6,7 @@ Transtornos são aflições psicológicas duradouras que tipicamente requerem se
 
 **Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente suas ações e o que você pode e não pode fazer, conforme a afliação. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
+**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente suas ações e o que você pode e não pode fazer, conforme a aflição. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
 
 ### Transtorno de Comportamento Alienígena
 
@@ -30,7 +30,7 @@ Com transtorno de ansiedade generalizada, você é dominado por preocupação co
 
 O atavismo afeta principalmente os elevados. Quando desencadeado, eles regridem para comportamentos mais de alinhados com seus antecessores animalescos.
 
-**Efeito:** Você pode perder a capacidade de falar e raciocinar ou se envolver em comportamentos animalescos primitivos como demostrações ameaçadoras ou de dominância.
+**Efeito:** Você pode perder a capacidade de falar e raciocinar ou se envolver em comportamentos animalescos primitivos como demonstrações ameaçadoras ou de dominância.
 
 ### Transtorno de Déficit de Atenção e Hiperatividade (TDAH)
 

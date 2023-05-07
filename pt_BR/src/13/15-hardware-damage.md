@@ -1,4 +1,4 @@
-# Dano em Harware
+# Dano em Hardware
 
 Os equipamentos da mesh variam de ciscos baratos e vulneráveis a servidores duráveis e autorreparáveis. Eles são tratados exatamente como outros objetos para fins de combate físico ([Objetos & Estruturas](../12/26-objects-and-structures.md)).
 
@@ -14,8 +14,8 @@ Quando danos excede o Grau de Destruição de um dispositivo, ele deixa de funci
 
 Para a maioria dos fins de combate físico, o ware incorporado em um morfo é tratado como o personagem, e não como um hardware separado. No entanto, infomorfos que estão usando esses wares como um dispositivo habitado, tal como uma musa em seus insertos da mesh ou um forque em um módulo de carona virtual, requerem consideração especial.
 
-Os infomorfos não dormem, por isso permanecem ativos mesmo quando o seu morfo carregador está descansando ou hibernando. Da mesma forma, eles ainda podem agir mesmo que o morfo esteja incapacitado ou agarrado. No entanto, os ataques de choque interrropem temporariamente os sistemas implantados, então os caronas infomorfos ficam incapacitados assim como o morfo.
+Os infomorfos não dormem, por isso permanecem ativos mesmo quando o seu morfo carregador está descansando ou hibernando. Da mesma forma, eles ainda podem agir mesmo que o morfo esteja incapacitado ou agarrado. No entanto, os ataques de choque interrompem temporariamente os sistemas implantados, então os caronas infomorfos ficam incapacitados assim como o morfo.
 
-Se um morfo for nocauteado por ferimentos ou acumular danos igualando ou excedendo sua Durabilidade, há uma chance de 25% de que qualquer carona informorfo também fique offline. Se não, ele ainda pode operar enquanto o morfo está inconsciente. Se os danos equivalem ou excedem o Grau de Destruição do morfo, há uma chance de 75% que o dano físico desative um carona infomorfo também. Do contrário, ele pode permanecer ativo, embora vá ficar sem energia após 48 horas. A critério do MJ, um trauma significativo na cabeça (ou localização do ware) ou outra condições excepcionais (ex.: cair em um criovulcão) podem aumentar as chances ou desativar automaticamente o infomorfo.
+Se um morfo for nocauteado por ferimentos ou acumular danos igualando ou excedendo sua Durabilidade, há uma chance de 25% de que qualquer carona infomorfo também fique offline. Se não, ele ainda pode operar enquanto o morfo está inconsciente. Se os danos equivalem ou excedem o Grau de Destruição do morfo, há uma chance de 75% que o dano físico desative um carona infomorfo também. Do contrário, ele pode permanecer ativo, embora vá ficar sem energia após 48 horas. A critério do MJ, um trauma significativo na cabeça (ou localização do ware) ou outra condições excepcionais (ex.: cair em um criovulcão) podem aumentar as chances ou desativar automaticamente o infomorfo.
 
-Musas e outros caronas informorfos foram responsáveis por salvar seus carregadores incapacitados ao buscarem ajuda em inúmeras ocasiões.
+Musas e outros caronas infomorfos foram responsáveis por salvar seus carregadores incapacitados ao buscarem ajuda em inúmeras ocasiões.

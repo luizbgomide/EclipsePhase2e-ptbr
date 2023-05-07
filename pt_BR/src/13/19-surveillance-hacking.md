@@ -32,7 +32,7 @@ O hackeamento seletivo de sensores pode ser bastante útil, principalmente em si
 
 ## Devassando Sensores
 
-Devassar é parecido com um bloqueio permanente. A maioria dos sensores são ciscos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) efetivamente destróem a capacidade de comunicação sem fio dos ciscos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
+Devassar é parecido com um bloqueio permanente. A maioria dos sensores são ciscos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) efetivamente destroem a capacidade de comunicação sem fio dos ciscos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
 
 ## Zonas Mortas
 

@@ -26,7 +26,8 @@ function readDirectory(dir) {
 function processFile(file) {
     let target = path.join(outputDir, path.relative(sourceDir, file));
     if (path.extname(file) != ".md") {
-        fs.copyFileSync(file, target)
+        // ignore files that doesn't end in .md
+        // fs.copyFileSync(file, target) 
         process.stdout.write("-");
         return;
     }

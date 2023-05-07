@@ -33,7 +33,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 **Glândulas de Droga:** O morfo tem glândulas personalizadas, projetadas para produzir hormônios ou químicos específicos e liberá-los no corpo. Você pode ativar mentalmente essas glândulas para liberar os químicos como uma ação rápida. Essas glândulas podem produzir qualquer substância listada com um tipo biológico ou químico ([Químicos, Drogas & Toxinas](../16/15-chemicals-drugs-and-toxins.md)). Cada tipo de glândula de droga é considerada um aprimoramento separado. As glândulas de droga só contém 1 dose por vez, mas podem produzir uma nova dose a cada 4 horas.
 
-**Eficiência Energética:** A versão em bioware deste ware aumenta o seu metabolismo. A versão em hardware otimiza o uso de energia da sua carcaça. A versão em meshware otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
+**Eficiência Energética:** A versão em bioware deste ware acelera o seu metabolismo. A versão em hardware otimiza o uso de energia da sua carcaça. A versão em meshware otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
 
 **Esqueleto Endurecido:** O esqueleto do morfo é enriquecido com metais amorfos e fulerenos para fortalecimento. Aumente seu Limiar de Ferimento em 1, Durabilidade em 5, Grau de Destruição em 8 (biomorfos) ou 10 (sintemorfos), e sua Prova de SOM em 10.
 
@@ -43,7 +43,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 Os medicadores para sintemorfos e bots consistem de nanobots que monitoram e reparam a integridade da carcaça e as funções internas do sistema. Observe que a versão para sintemorfos dos medicadores permitem que o sintemorfo se autorrepare da mesma maneira que um biomorfo com medicadores se curaria naturalmente (1d10 por hora, 1 ferimento por dia).
 
-**Ampliação Muscular:** A massa muscular do morfo é aprimorada, tonificada, reforçada com miofibras. Você inflige um VD 1d6 extra com ataques de luta e aplica +10 em Provas de SOM.
+**Ampliação Muscular:** A massa muscular do morfo é aprimorada e tonificada com miofibras reforçadas. Você inflige um VD 1d6 extra com ataques de luta e aplica +10 em Provas de SOM.
 
 **Nanófagos:** Estes nanobots patrulham o corpo, alertas para sinais de nanodrogas ou nanotoxinas invasoras e as destrói antes que produzam maiores efeitos. Você pode fazer uma Prova de SOM quando exposto a uma nanodroga ou nanotoxina. Se você tiver sucesso, ela não tem efeito. Se você falhar, os efeitos e durações da nanodroga ou nanotoxina são reduzidos à metade. Você pode instruir seus nanófagos para ignorarem nanodrogas/toxinas específicas. Os nanófagos só são eficazes contra uma dose de nanodroga ou toxina por período de 8 horas.
 
@@ -59,7 +59,7 @@ Os medicadores para sintemorfos e bots consistem de nanobots que monitoram e rep
 
 **Pneumáticos:** Essa carcaça está equipada com atuadores pneumáticos macios, aumentando sua força e capacidade de salto. Aplique +10 em Testes de Atletismo. Você também inflige um VD 1d6 extra em luta.
 
-**Glândulas de Veneno:** Semelhantes a glândulas de droga, seu morfo tem órgãos adaptados que produzem veneno, como as glândulas de peçonha de uma cobra. Seu morfo tem glândulas de veneno em seus dedos/mãos e/ou boca (e possivelmente outros lugares), então você pode aplicar a toxina com uma ação rápida arranhando alguém com uma unha, mordendo o suficiente para tirar sangue, compartilhando uma bebida ou apertando a mão. Você também pode revestir uma arma de luta, para que ela aplique a toxina na próxima vez que infligir um ferimento (apenas uma vez, até ser revestida de novo). As glândulas de veneno só contém 1 dose por vez, mas podem produzir uma nova dose a cada 4 horas. Seu morfo é imune ao veneno que ele produz. Essas glândulas podem produzir qualquer toxina com um tipo biológico ou químico, mas não as nanotoxinas. Cada conjunto de glândulas é uma ampliação separada.
+**Glândulas de Veneno:** Semelhantes às glândulas de droga, seu morfo tem órgãos adaptados que produzem veneno, como as glândulas de peçonha de uma cobra. Seu morfo tem glândulas de veneno em seus dedos/mãos e/ou boca (e possivelmente outros lugares), então você pode aplicar a toxina com uma ação rápida arranhando alguém com uma unha, mordendo o suficiente para tirar sangue, compartilhando uma bebida ou apertando a mão. Você também pode revestir uma arma de luta, para que ela aplique a toxina na próxima vez que infligir um ferimento (apenas uma vez, até ser revestida de novo). As glândulas de veneno só contém 1 dose por vez, mas podem produzir uma nova dose a cada 4 horas. Seu morfo é imune ao veneno que ele produz. Essas glândulas podem produzir qualquer toxina com um tipo biológico ou químico, mas não as nanotoxinas. Cada conjunto de glândulas é uma ampliação separada.
 
 **Absorção de Radar:** A carcaça é reconstruída com materiais que deixam passar, absorvem ou capturam ondas de radar e de terahertz, reduzindo sua assinatura ao sensor. Aplique um modificador −30 em Testes de Percepção para detectar o morfo usando radar/terahertz.
 

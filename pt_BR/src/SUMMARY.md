@@ -99,7 +99,7 @@
   - [Contramedidas](13/12-countermeasures.md)
   - [Subversão de Sistema](13/13-system-subversion.md)
   - [Combate na Mesh](13/14-mesh-combat.md)
-  - [Dano em Harware](13/15-hardware-damage.md)
+  - [Dano em Hardware](13/15-hardware-damage.md)
   - [Defeitos](13/16-glitches.md)
   - [Hackeamento de Ware Mental](13/17-mindware-hacking.md)
   - [Realidade Virtual](13/18-virtual-reality.md)

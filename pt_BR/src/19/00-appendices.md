@@ -27,7 +27,7 @@
   - [Resultados Críticos](../19/06-rules-primmer.md#resultados-críticos)
   - [Trabalho em Equipe](../19/06-rules-primmer.md#trabalho-em-equipe)
   - [Turnos de Ação](../19/06-rules-primmer.md#turnos-de-ação)
-  - [Ações da Tarefa](../19/06-rules-primmer.md#ações-da-tarefa)
+  - [Ações de Tarefa](../19/06-rules-primmer.md#ações-de-tarefa)
   - [Iniciativa](../19/06-rules-primmer.md#iniciativa)
   - [Usando Paradas](../19/06-rules-primmer.md#usando-paradas)
   - [Inspiração](../19/06-rules-primmer.md#inspiração)

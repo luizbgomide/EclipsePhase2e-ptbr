@@ -40,7 +40,7 @@ Se você adquirir ware com Pontos de Morfo ou Pontos de Equipamento ao mesmo tem
 
 Os Pontos de Morfo fornecidos pelo MJ são uma abstração representando o seguro de backup e recursos disponíveis aos PJs. No entanto, eles não são ilimitados. Se você morrer durante um cenário e tiver a chance de reencapar, o MJ pode e deve limitar os PM disponíveis. É recomendável que cada reencape sucessivo durante o curso de uma missão forneça 1 PM a menos do que estava disponível anteriormente (antes de aumentos por Recursos, rep ou traços); os MJs devem ajustar isso de acordo com às circunstâncias.
 
-Se seu PJ tiver vários morfos (como flexbos ou extras usados para morfos, backups ou drones) e um morrer, você consegue apenas a quantidade de PM para substituição equivalente a esse morfo específico, menos 1.
+Se seu PJ tiver vários morfos (como flexbots ou extras usados para morfos, backups ou drones) e um morrer, você consegue apenas a quantidade de PM para substituição equivalente a esse morfo específico, menos 1.
 
 Recursos, favores de rep, e traços negativos podem ser usados para aumentar os PM disponíveis para reencape, conforme indicado acima.
 
@@ -79,14 +79,14 @@ Morfos podem ser feitos, mas isso requer um ou mais testes de perícia de ação
 
 <blockquote>
 
-Sava foi contratada para investigar uma série de desaparecimentos em um habitat privado de uma hipercorp. A hipercorp tem créditos para gastar no problema, então o MJ atribui 8 Pontos de Morfo para Sava gastar. Sava não possui o traço Recursos para aumentar essa quantia e opta por econimizar seus favores de rep agora.
+Sava foi contratada para investigar uma série de desaparecimentos em um habitat privado de uma hipercorp. A hipercorp tem créditos para gastar no problema, então o MJ atribui 8 Pontos de Morfo para Sava gastar. Sava não possui o traço Recursos para aumentar essa quantia e opta por economizar seus favores de rep agora.
 
-Sava preferem morfos tipo fúria, então ela tenta um desses primeiro. A Disponibilidade é 40. Como a hipercorp é dona do habitat e de todos os morfos lá, o MJ dá a Sava um bônus de +20. Rolando contra um número alvo de 60, Sava consegue 83: sem sorte. A corp não precisa de modelos de combate na estação.
+Sava prefere morfos tipo fúria, então ela tenta um desses primeiro. A Disponibilidade é 40. Como a hipercorp é dona do habitat e de todos os morfos lá, o MJ dá a Sava um bônus de +20. Rolando contra um número alvo de 60, Sava consegue 83: sem sorte. A corp não precisa de modelos de combate na estação.
 
 Sava tenta de novo por um morfo tipo fantasma: mesma Disponibilidade, mesmo bônus do MJ. Ela consegue um 17 dessa vez: o morfo está no estoque.
 
 Sava quer neuraquim com esse morfo, que é um ware de complexidade Maior — um custo extra de 3&nbsp;PM. Sava tem apenas 2&nbsp;PM sobrando (os 8&nbsp;PM originais menos o custo do morfo de 6&nbsp;PM), então ela opta por pegar um traço Negativo com um Bônus de PM de 1. O MJ tem uma ideia para isso, e dá ao morfo fantasma o traço Resíduo Memorial.
 
-Uma semana depois, Sava é morta em uma armadilha. A equipe de segurança da hipercorp recupera a pilha cortial e a reencapa, mas desta vez o MJ dá a Sava apenas 7&nbsp;PM para usar. Sava quer muito o neuraquim de novo, então ela está preparada para gastar um favor de rep para aumentar seu PM. No entanto, primeiro Sava rola para ver se um morfo fúria está disponível desta vez. O número alvo é o mesmo (60) e ela rola um 29! Parece que a hipercorp viu o pedido anterior de Sava e conseguiu um morfo fúria para a estação antecipando a necessidade. Sava precisa de 9&nbsp;PM no total, então ela usa os 7&nbsp;PM que tem e gasta um favor Moderado da i-rep para conseguir mais 2. Sava diz à Firewall que ela acredita que há exsurgentes na estação, e o grupo mexe uns pauzinhos para conseguir o que ela precisa.
+Uma semana depois, Sava é morta em uma armadilha. A equipe de segurança da hipercorp recupera a pilha cortical e a reencapa, mas desta vez o MJ dá a Sava apenas 7&nbsp;PM para usar. Sava quer muito o neuraquim de novo, então ela está preparada para gastar um favor de rep para aumentar seu PM. No entanto, primeiro Sava rola para ver se um morfo fúria está disponível desta vez. O número alvo é o mesmo (60) e ela rola um 29! Parece que a hipercorp viu o pedido anterior de Sava e conseguiu um morfo fúria para a estação antecipando a necessidade. Sava precisa de 9&nbsp;PM no total, então ela usa os 7&nbsp;PM que tem e gasta um favor Moderado da i-rep para conseguir mais 2. Sava diz à Firewall que ela acredita que há exsurgentes na estação, e o grupo mexe uns pauzinhos para conseguir o que ela precisa.
 
 </blockquote>

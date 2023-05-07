@@ -23,6 +23,7 @@ function readDirectory(dir) {
 function processFile(file) {
     let target = path.join(outputDir, path.relative(sourceDir, file));
     if (path.extname(file) != ".md") {
+        // here we copy everything
         fs.copyFileSync(file, target)
         process.stdout.write("-");
         return;

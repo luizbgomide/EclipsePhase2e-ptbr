@@ -75,7 +75,7 @@ Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-ar
 
 ### Prod de Prazer
 
-Os prods de prazer são imitações de humanos para fins de entretenimento íntimo e de hedonismo indulgente. Sua biologia inclui aglomerados nervosos extras em suas zonas erógenas, controle motor fino sobre certos grupos musculares, feromônios aprimorados, metabolismo sanitizado e a capacidade de ronronar. Eles são capazes de alternar entre múltiplas configurações sexuais e são frequentemente aprimorados em outras áreas.
+Os prods de prazer são imitações de humanos para fins de entretenimento íntimo e de hedonismo indulgente. Sua biologia inclui aglomerados nervosos extras em suas zonas erógenas, controle motor fino sobre certos grupos musculares, feromônios aprimorados, metabolismo sanitizado e a capacidade de ronronar. Eles conseguem alternar entre múltiplas configurações sexuais e são frequentemente aprimorados em outras áreas.
 
 <blockquote class="indent stat-list">
 

@@ -4,7 +4,7 @@
 
 - [Backups & Uploads](../15/01-backups-and-uploading.md)
   - [Pilhas Corticais](../15/01-backups-and-uploading.md#pilhas-corticais)
-    - [Empremendo uma Pilha](../15/01-backups-and-uploading.md#empremendo-uma-pilha)
+    - [Espremendo uma Pilha](../15/01-backups-and-uploading.md#espremendo-uma-pilha)
   - [Backups de Upload](../15/01-backups-and-uploading.md#backups-de-upload)
     - [Fazendo Uploads e Pontes de Ego](../15/01-backups-and-uploading.md#fazendo-uploads-e-pontes-de-ego)
     - [Upload Pós-Morte](../15/01-backups-and-uploading.md#upload-pós-morte)
