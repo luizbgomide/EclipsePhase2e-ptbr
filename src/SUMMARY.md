@@ -227,6 +227,13 @@
   - [Complete List of Morphs](19/05-complete-list-of-morphs.md)
   - [Rules Primer](19/06-rules-primmer.md)
   - [Character Sheet](19/07-character-sheet.md)
+- [Multiplicity & Synthesis](MS/00-multiplicy-synthesis.md)
+  - [Forking: One Among Many](MS/01-forking-one-among-many.md)
+  - [Forking Customs](MS/02-forking-customs.md)
+  - [Multiplicity](MS/03-multiplicity.md)
+  - [Group Minds: Many as One](MS/04-group-minds-many-as-one.md)
+  - [Synthesis](MS/05-synthesis.md)
+  - [Game Information](MS/06-game-information.md)
 
 ---
 
