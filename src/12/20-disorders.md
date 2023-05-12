@@ -76,7 +76,7 @@ This disorder arises from facing x-risks, aliens, and incomprehensibly advanced 
 
 **Triggers:** Alienation, the unknown, violence
 
-You suffer a neurological condition such as blindness, deafness, inability to speak, loss of balance, seizures, or paralysis in highstress situations. Some asyncs suffer from a similar condition, alien sensory disorder, where attempts to use phantom alien sensory organs disrupt one or more of their actual physical senses.
+You suffer a neurological condition such as blindness, deafness, inability to speak, loss of balance, seizures, or paralysis in high-stress situations. Some asyncs suffer from a similar condition, alien sensory disorder, where attempts to use phantom alien sensory organs disrupt one or more of their actual physical senses.
 
 **Effect:** WIL Check or suffer from one of the chosen conditions.
 

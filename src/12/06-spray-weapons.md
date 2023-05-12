@@ -29,4 +29,4 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 
 **Torch:** This modern flamethrower uses condensed ammunition capsules rather than fuel tanks, scorching targets and setting them on fire. A superior success sets the target on fire; they will continue to take DV 2d10 per action turn (armor does not apply) until extinguished. These chemical fires are particularly difficult to put out unless they are deprived of oxygen.
 
-**Vortex Ring Gun:** This less-lethal weapon detonates a blank cartridge and accelerates the explosive pressure down a widening barrel so that it develops into a high-speed vortex ring. This spinning, donut-shaped, concussive blast knocks down and stuns closerange targets. Drugs, chemicals, and similar agents can be loaded into the charge as well.
+**Vortex Ring Gun:** This less-lethal weapon detonates a blank cartridge and accelerates the explosive pressure down a widening barrel so that it develops into a high-speed vortex ring. This spinning, donut-shaped, concussive blast knocks down and stuns close-range targets. Drugs, chemicals, and similar agents can be loaded into the charge as well.
