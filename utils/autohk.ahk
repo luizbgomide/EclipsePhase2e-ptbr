@@ -1,3 +1,4 @@
+; find page references in a notepad window
 ^!p::
 Send ^c
 ;Send !{Tab}
@@ -12,6 +13,7 @@ Send {Enter}
 Send {Esc}
 return
 
+; sort comma separeted values alphabetically
 ^!s::
 Clipboard := "" ; Must be blank for detection to work.
 Send ^c
