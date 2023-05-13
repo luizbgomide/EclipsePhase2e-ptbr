@@ -67,7 +67,7 @@ Há 6 graduações de aptidão:
 - **Prova de Reflexos (REF):** Pegar um objeto atirado, equilibrar-se, evitar clarões cegantes ou impedir que você caia.
 - **Prova de Sagacidade (SAG):** Avaliar uma situação social, demonstrar empatia, seguir etiqueta ou resistir à manipulação social.
 - **Prova de Somática (SOM):** Usar força bruta, suportar privações ou escapar de agarramentos.
-- **Prova de Vontade (VON):** Manter sua compostura, firmar sua determinação, ou resistir ao medo ou a manipulação emocional.
+- **Prova de Vontade (VON):** Manter sua compostura, firmar sua determinação, ou resistir ao medo ou manipulação emocional.
 
 As verificações de aptidão são atributos derivados, baseado na sua aptidão × 3.
 
