@@ -32,7 +32,7 @@ O atacante usa uma ação complexa para atacar no seu turno na ordem de Iniciati
 
 A defesa é uma ação automática. A menos que esteja [surpreso](../12/21-other-action-factors.md#surprise) ou [incapacitado](../12/21-other-action-factors.md#conditions), o defensor sempre tem a opção de responder.
 
-**Defesa de Luta:** Contra um ataque de luta, o defensor pode escolher bloquear ou defender usando sua própria perícia Luta, ou esquivar usando Evasão.
+**Defesa de Luta:** Contra um ataque de luta, o defensor pode escolher bloquear ou aparar usando sua própria perícia Luta, ou esquivar usando Evasão.
 
 **Defesa de Distância:** Ataques de distância ou de área de efeito são muito mais difíceis de se esquivar; o defensor usa a perícia Evasão ÷ 2.
 

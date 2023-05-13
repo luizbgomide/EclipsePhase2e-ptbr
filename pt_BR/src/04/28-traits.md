@@ -384,7 +384,7 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
 | [Inexperiência no Mundo Real](../04/28-traits.md#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
 | [Comportamento Restrito](../04/28-traits.md#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
-| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Provas de INT para resistir aos hacks basiliscos.                               |
+| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Provas de INT para resistir a hacks basiliscos.                                 |
 | [Timidez](../04/28-traits.md#timidity)                               |  1/2/3   | −5 por nível em Provas de VON.                                                                   |
 | [Vertigem de RV](../04/28-traits.md#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Prova de SOM ou incapacitado.                     |
 
@@ -435,7 +435,7 @@ Você tem uma dependência patológica de uma [droga](../16/15-chemicals-drugs-a
 
 Você deve se entregar ao vício com uma frequência regular de acordo com o nível ou entrar em abstinência. A abstinência provoca um modificador −10 por nível.
 
-**Nível 1: Uma vez por semana.** O seu vício menor em geral está sob controle — ele não estraga a sua vida, embora possa criar dificuldades. Você pode até não reconhecer ou admitir que tem um problema.
+**Nível 1: Uma vez por semana.** O seu pequeno vício em geral está sob controle — ele não estraga a sua vida, embora possa criar dificuldades. Você pode até não reconhecer ou admitir que tem um problema.
 
 **Nível 2: Uma vez por dia.** O seu vício moderado está a todo vapor e muitas vezes faz com que você negligencie outros aspectos de sua vida.
 
@@ -477,7 +477,7 @@ Você fez algo em seu passado que maculou sua reputação com uma facção espec
 
 **Traço de ▲ Ego • Bônus PP: 4**
 
-Como um cervo olhando fixo para os faróis, você congela em situações de combate e estresse. Sempre que a violência surge, você é pego desprevenido, ou vidas estão em jogo, você deve fazer uma Prova de VON a cada turno de ação para agir ou responder de alguma maneira. Se falhar, você perde sua ação e simplesmente fica parado, incapaz de reagir à situação.
+Como um cervo olhando fixo para os faróis, você congela em situações de combate e estresse. Sempre que a violência irrompe, você é pego desprevenido, ou vidas estão em jogo, você deve fazer uma Prova de VON a cada turno de ação para agir ou responder de alguma maneira. Se falhar, você perde sua ação e simplesmente fica parado, incapaz de reagir à situação.
 
 ### Membro Dominante
 
@@ -527,7 +527,7 @@ Ou o seu morfo é fraco ou você não é hábil em usar a força dele. Aplique u
 
 **Traço de ▼ Morfo • Bônus PM: 2/4**
 
-O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade em 5 por nível. Isso também reduzirá o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
+O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade em 5 por nível. Isso também diminuirá o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
 
 ### Defeito Genético
 
@@ -705,7 +705,7 @@ Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 **Traço de ▲ Ego • Bônus PP: 1/2**
 
-O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Provas de INT para resistir aos hacks basiliscos.
+O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abusadas. Aplique um modificador −10 por nível em Provas de INT para resistir a hacks basiliscos.
 
 ### Alergia Grave
 
@@ -729,7 +729,7 @@ Sua força de vontade é fraca e você é facilmente intimidado. Aplique um modi
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Embora uma boa aparência esculpida seja facilmente adquirida, este morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência hedionda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
+Embora uma boa aparência esculpida seja facilmente adquirida, este morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência horrenda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
 
 ### Vertigem de RV
 

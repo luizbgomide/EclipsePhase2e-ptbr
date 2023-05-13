@@ -84,9 +84,9 @@ O processo de mesclagem também integra qualquer estresse, traumas e traços de 
 
 ## Desbaste Neural
 
-O desbaste neural é o processo de criar um [forque beta](../15/04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer reduzir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
+O desbaste neural é o processo de criar um [forque beta](../15/04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
 
-- 1 perícia é reduzida em −30.
+- 1 perícia é diminuída em −30.
 - O forque adquire um traço Negativo de ego.
 - O forque sofre VE 1d6.
 - Perda de memória extra (a critério do MJ; apenas beta forques).

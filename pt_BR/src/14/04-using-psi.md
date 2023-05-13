@@ -127,6 +127,6 @@ Você ainda pode forçar truques quando estiver acima de um limiar, mas você n�
 
 ## Atenuação da Infecção
 
-Para cada [ação de recarga](../03/05-pools.md#recharging-pools) que fizer, reduza seu Grau de Infecção em 10. Ele não pode ser reduzido abaixo do seu Grau de Infecção base (Nível do Psi × 10). Para cada recarga longa, retorne sua Infecção para seu grau base.
+Para cada [ação de recarga](../03/05-pools.md#recharging-pools) que fizer, reduza seu Grau de Infecção em 10. Ele não pode ser diminuído abaixo do seu Grau de Infecção base (Nível do Psi × 10). Para cada recarga longa, retorne sua Infecção para seu grau base.
 
 Você não pode reduzir seu Grau de Infecção se tiver efeitos de influência ativos — o desejo deve ser saciado primeiro.

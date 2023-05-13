@@ -158,6 +158,7 @@
   - [Lista Completa de Morfos](19/05-complete-list-of-morphs.md)
   - [Regras Básicas](19/06-rules-primmer.md)
   - [Ficha de Personagem](19/07-character-sheet.md)
+- [Multiplicidade & Síntese](MS/00-multiplicy-and-synthesis.md)
 
 ---
 

@@ -21,7 +21,7 @@ Armas cinéticas disparam projéteis sólidos em altas velocidades para causar d
 
 Armas de fogo químicas modernas usam munições inteligentes sem estojo que são automaticamente carregadas de um pente. Elas praticamente não tem recuo (graças a mecanismos de fluidos inteligentes reológicos) e são disparadas eletronicamente (uma carga elétrica vaporiza um propelente, usando a expansão do vapor e plasma para ejetar e acelerar o projétil).
 
-**Pistola:** Pistolas de bolso sacrificam capacidade de penetração por ocultabilidade. Pistolas pesadas focam em poder de parada, e pistolas médias ficam no meio termo. Pistolas-metralhadora usam cartuchos de calibres menores, mas possuem pentes maiores para disparo automático.
+**Pistola:** Pistolas de bolso sacrificam capacidade de penetração por ocultabilidade. Pistolas pesadas focam em poder de parada, e pistolas médias ficam no meio-termo. Pistolas-metralhadora usam cartuchos de calibres menores, mas possuem pentes maiores para disparo automático.
 
 **Submetralhadora:** SMs são projetadas de forma mais compacta para operações confinadas e são ideais para equipes táticas e de assalto.
 
