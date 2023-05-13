@@ -22,7 +22,7 @@ Ataques de explosão uniforme distribuem sua força igualmente por toda a área 
 
 No espaço não há atmosfera para propagar a onda de choque explosiva; reduza o VD em −10 por metro. Ajuste a redução conforme for apropriado para atmosferas finas.
 
-### Desvio
+### Derrubar
 
 Armas como granadas devem ir para algum lugar quando elas erram, e você pode ainda pode pegar seu alvo dentro do raio de explosão. Para determinar onde cai um ataque falhado de área de efeito, role um d10. A direção que a ponta de cima do dado está apontando é a direção de desvio do ataque, considerando você como o alvo para fins de orientação. O resultado da rolagem do dado é a distância onde o ataque cai, em metros. Para cada falha maior, dobre a distância de desvio. Isso determina o epicentro da explosão; resolva o dano contra qualquer um pego dentro de seu raio de efeito da forma normal. Você pode precisar ajustar esse resultado em microgravidade ou outras situações onde as três dimensões importam, ou você pode rolar outro d10 para determinar a orientação no eixo z (sendo 1 "acima" do alvo, e 10 "abaixo").
 
@@ -91,7 +91,7 @@ Fazer explosivos é uma ação de tarefa com uma prazo de 1 hora por 1d10&nbsp;V
 
 Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapacitar fisicamente os alvos. Armas de choque são especialmente eficazes contra biomorfos e outras criaturas biológicas, mesmo com armaduras resistentes. Sintemorfos, bots e veículos são imunes a efeitos de choque.
 
-Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
+Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
 
 Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano requer um ataque de luta normal.
 
