@@ -11,7 +11,7 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 | Pulsador Laser (Letal)           |      —       |     2d10 + 2 \[13\]     |     SA/DR/TA     |   30    |   100   |                Mod/R/2                | Derrubada, Duas Mãos, Longa                                   |
 | Pulsador Laser (Atordoante)      |      —       |        1d6 \[4\]        |        TU        |         |         |                                       | Área de Efeito (uniforme, 1&nbsp;m), Choque, Duas Mãos, Longa |
 | Agonizador de MO (Dor)           |      —       |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
-| Agonizador de MO (Torradeira)    |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Dor (apenas biomorfos), Perfura-Armadura                      |
+| Agonizador MO (Torradeira)       |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Dor (apenas biomorfos), Perfura-Armadura                      |
 | Lançador de Feixes de Partículas |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
 | Atordoador                       |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
 
