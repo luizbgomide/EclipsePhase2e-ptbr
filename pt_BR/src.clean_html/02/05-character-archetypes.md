@@ -112,7 +112,7 @@ O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hard
 
 <!-- CLEANED /blockquote -->
 
-**Sucateiros:** A equipe tem alguns minutos antes que as pessoas morram. Sem energia ou peças, o engenheiro joga a toalha. É aqui que o sucateiro se destaca. O sucateiro revira os ossos do habitat para fazer uma coisa nova. Ele pode improvisar um removedor de CO<sub>2</sub> usando baterias velhas e material de cozinha. Ele pode reaproveitar a nave destruída para reconstruir o sintemorfo. Quando a equipe chega em um lugar, o sucateiro sabe como encontrar cada pedacinho de tecnologia valiosa enterrada nos detritos, e quando eles voltam pra casa, o sucateiro sabe onde vender esse lixo para conseguir tirar um bom lucro.
+**Sucateiros:** A equipe tem alguns minutos antes que as pessoas morram. Sem energia ou peças, o engenheiro joga a toalha. É aqui que o sucateiro se destaca. O sucateiro revira os ossos do habitat para fazer uma coisa nova. Quando a equipe chega em um lugar, o sucateiro sabe como encontrar cada pedacinho de tecnologia valiosa enterrada nos detritos, e quando eles voltam pra casa, o sucateiro sabe onde vender esse lixo para conseguir tirar um bom lucro. Ele pode improvisar um removedor de CO<sub>2</sub> usando baterias velhas e material de cozinha. Ele pode reaproveitar a nave destruída para reconstruir o sintemorfo.
 
 <!-- CLEANED blockquote class="indent" -->
 
