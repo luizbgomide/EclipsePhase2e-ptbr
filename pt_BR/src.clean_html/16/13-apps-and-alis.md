@@ -11,7 +11,7 @@ Esses softwares podem ser executados em qualquer dispositivo computadorizado.
 | Ilusão de RA          |                 Mod/2                 | Cria ilusões entópticas realistas.               |
 | Comparação Biométrica |                 Men/1                 | Compara padrões biométricos.                     |
 | Criptografia          |                 Men/1                 | Criptografa/descriptografa arquivos e mensagens. |
-| Violação              |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.       |
+| Farejamento           |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.       |
 | Firewall              |                 Men/1                 | Protege dispositivos de invasões.                |
 | Caixa-Forte           |                Mod/R/2                | Aprisiona infomorfos.                            |
 | Psicocirurgia         |                 Mod/2                 | Edita mentes.                                    |
@@ -101,7 +101,7 @@ As tacnets fornecem as seguintes funções:
 
 - **Mapas:** As tacnets apresentam mapas de um ponto de vista superior, tridimensional e interativo, ou visão entóptica em primeira pessoa, marcando pontos notáveis e anotando distâncias. Elas também podem plotar mapas baseados em entradas sensoriais, sistemas de posicionamento e outros dados.
 - **Posicionamento:** As tacnets indicam a posição de pessoas, bots, veículos e outros recursos conhecidos de acordo com a entrada sensorial ou suas trajetórias calculadas. Tags de amigo ou inimigo destacam aliados e oponentes, anotando suas linhas de visão e seus campos de fogo, e alertando o usuário de áreas de cobertura ou perigo potencial.
-- **Entrada Sensorial:** As tacnets compartilham todas as entradas sensoriais disponíveis pelos membros e dispositivos vinculados. Isso inclui dados de sensores físicos, sensores portáteis, câmeras de armas com ligação inteligente, fluxos XP, etc. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário.
+- **Entrada Sensorial:** As tacnets compartilham todas as entradas sensoriais disponíveis pelos membros e dispositivos vinculados. Isso inclui dados de sensores físicos, sensores portáteis, câmeras de armas com ligação inteligente, fluxos XP, etc. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário. Os usuários podem requisitar e acessar imediatamente os fluxos de sensores dos outros quando necessário.
 - **Gerenciamento de Comunicações:** As tacnets mantém uma VPN criptografada entre usuários. Elas monitoram ativamente por quedas de sinal e tentativas de hackear/farejar/bloquear sinais. Trate como um defensor do sistema com Infoseg 40 e Interface 40.
 - **Ligação Inteligente/Dados de Armas:** As tacnets monitoram o status de armas, acessórios, e outros equipamentos, trazendo dano, falhas, contagem de munições, e outros problemas à atenção do usuário.
 - **Dados Médicos:** As tacnets monitoram a saúde dos seus usuários através dos medicadores, implantes e outros sensores. Os usuários podem requisitar relatórios de saúde dos seus aliados.
