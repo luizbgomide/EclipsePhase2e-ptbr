@@ -53,7 +53,7 @@ Como os vapores são anomalias e não criações propositais, as característica
 
 Desbaste neural é a arte de pegar um forque alfa e reduzi-lo com psicocirurgia para criar um forque beta.
 
-Os forques beta são criados usando um estado mental virtual que foi intencionalmente restringido e filtrando uma cópia do ego através dele. Como em um arbusto topiário, as porções da sua rede neural que excedem as capacidades do forque pretendido são aparadas. Além das mudanças listadas nos forques beta, você pode voluntariamente escolher excluir/reduzir perícias e remover memórias.
+Os forques beta são criados usando um estado mental virtual que foi intencionalmente restringido e filtrando uma cópia do ego através dele. Como em um arbusto topiário, as porções da sua rede neural que excedem as capacidades do forque pretendido são aparadas. Além das mudanças listadas nos forques beta, você pode voluntariamente escolher excluir/diminuir perícias e remover memórias.
 
 O entendimento de neurociência da transumanidade se estende ao escaneamento e cópia da mente, mas os funcionamentos mais complexos da memória ainda não são perfeitamente compreendidos. Fazer edições precisas em partes individuais de uma rede neural (para alterar lembranças, perícias, e afins) ainda é uma arte obscura. A dificuldade do desbaste neural é que usar um aparador de grama na árvore de memória não é uma ciência exata.
 

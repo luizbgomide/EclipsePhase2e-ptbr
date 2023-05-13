@@ -70,9 +70,9 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Luva de Choque:** Quando ativada, essa luva provoca um choque incapacitante junto com cada soco, agarramento ou toque.
 
-**Vibrolâmina:** Estas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito quando apunhalar ou cortar, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
+**Vibrolâmina:** Estas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
 
-**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para que ele estoure a cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
+**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
 ## Regras de Luta
 
@@ -94,7 +94,7 @@ Se você tiver sucesso em seu ataque com um sucesso maior, você subjuga seu opo
 
 Para se libertar, um personagem agarrado deve fazer uma ação complexa e ter sucesso em um Teste de Luta ou Prova de SOM oposta pela Luta ou Prova de SOM do agarrador. Se o personagem se libertar e conseguir um sucesso maior, ele pode escolher agarrar o outro personagem.
 
-Em um agarramento, ambos os personagens tem −30 para se opor a qualquer ataque feito contra eles por outros fora do agarramento.
+Em um agarramento, ambos os personagens têm −30 para se opor a qualquer ataque feito contra eles por outros fora do agarramento.
 
 Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer uma ação complexa para manter o agarramento. Como parte dessa ação, ele pode escolher fazer um dos seguintes:
 

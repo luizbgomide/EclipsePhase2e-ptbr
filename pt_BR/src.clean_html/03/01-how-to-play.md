@@ -12,7 +12,7 @@ Em alguns casos raros, as regras pode pedir uma divisão. Nesse caso, sempre arr
 
 ## Quando Rolar os Dados
 
-Role os dados quando os resultados podem influenciar a trama ou ter outras consequências, quando a situação for desafiadora, quando um personagem não for treinado, ou quando um personagem se opõe a outra força. Não faça testes para tarefas mundanas e cotidianas. Uma perícia de 40 ou mais pressupõe um nível profissional de competência. Você não precisa rolar cada vez que seu personagem pilotar uma nave, pesquisar alguma coisa online, ou falar com um PNJ — para acelerar as coisas, você e o MJ devem assumir que os personagens tem sucesso nas coisas fáceis. Guarde as rolagens para situações com riscos dramáticos.
+Role os dados quando os resultados podem influenciar a trama ou ter outras consequências, quando a situação for desafiadora, quando um personagem não for treinado, ou quando um personagem se opõe a outra força. Não faça testes para tarefas mundanas e cotidianas. Uma perícia de 40 ou mais pressupõe um nível profissional de competência. Você não precisa rolar cada vez que seu personagem pilotar uma nave, pesquisar alguma coisa online, ou falar com um PNJ — para acelerar as coisas, você e o MJ devem assumir que os personagens têm sucesso nas coisas fáceis. Guarde as rolagens para situações com riscos dramáticos.
 
 ## Fazendo Testes
 

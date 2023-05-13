@@ -1,12 +1,12 @@
 # Transtornos
 
-Transtornos são aflições psicológicas duradouras que tipicamente requerem semanas ou meses de psicoterapia e/ou psicocirurgia para remediar. Eles representam as melhores tentativas de uma psique danificada se adaptar e lidar com a angústia mental e emocional. Os transtornos não estão sempre "ativos" — eles permanecem dormentes até que sejam desencadeados por certas condições. Enquanto é certamente possível funcionar "normalmente" com um transtorno, ele representa uma deficiência severa na capacidade da pessoa manter relacionamentos saudáveis e ter sucesso em seu trabalho/ocupação.
+Transtornos são distúrbios psicológicos duradouros que geralmente exigem semanas ou meses de psicoterapia e/ou psicocirurgia para serem remediados. Eles representam as melhores tentativas de uma psique danificada se adaptar e lidar com a angústia mental e emocional. Os transtornos não estão sempre "ativos" — eles permanecem dormentes até que sejam desencadeados por certas condições. Enquanto é certamente possível funcionar "normalmente" com um transtorno, ele representa uma deficiência severa na capacidade da pessoa manter relacionamentos saudáveis e ter sucesso em seu trabalho/ocupação.
 
 **Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou acumulando estresse que iguala ou excede sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
 
 **Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente suas ações e o que você pode e não pode fazer, conforme a aflição. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
+**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
 
 ### Transtorno de Comportamento Alienígena
 
@@ -34,7 +34,7 @@ O atavismo afeta principalmente os elevados. Quando desencadeado, eles regridem 
 
 ### Transtorno de Déficit de Atenção e Hiperatividade (TDAH)
 
-**Gatilhos:** Estimulação excessiva, o desconhecido, privação de sono, violência
+**Gatilhos:** Hiperestimulação, o desconhecido, privação de sono, violência
 
 TDAH é a incapacidade de perceber detalhes e se concentrar em uma tarefa por um período prolongado. Você pode se achar começando várias tarefas, iniciando uma nova após apenas uma tentativa de superficial na tarefa anterior. Você também um lado maníaco que se manifesta como confiança em sua capacidade de fazer um bom trabalho, mesmo que você rapidamente vá perder todo o interesse por ele.
 
@@ -70,7 +70,7 @@ Você acredita que você é irrevogavelmente feio ou defeituoso, impedindo-o de 
 
 Este transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
 
-**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN, faça uma Prova de VON ou fuja ou entre em pânico.
+**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
 
 ### Transtorno de Conversão
 
@@ -166,4 +166,4 @@ TEPT resulta de incidentes potencialmente mortais. Você desenvolve um fixação
 
 Não sendo confundida com o transtorno genético, a esquizofrenia reiterativa tem sintomas semelhantes, mas se desenvolve em egos que passam por reencapes frequentes, possivelmente devido a algum tipo de erro repetitivo no processo de download. Os esquizofrênicos perdem sua capacidade de discernir a realidade da irrealidade. Você sofre com delírios, alucinações (muitas vezes em apoio às ilusões), e discurso fragmentado ou desorganizado. Você percebe o seu comportamento como perfeitamente normal, ao ponto de ficar paranoico de que os outros estão envolvidos em uma grande mentira.
 
-**Efeito:** Você sofre delírios e alucinações conforme determinado pelo MJ e está propenso a pensamentos conspiratórios. Você sofre um modificador −20 em testes que exigem uma comunicação coerente.
+**Efeito:** Você sofre delírios e alucinações conforme determinado pelo MJ e está propenso a pensamentos conspiratórios. Você sofre um modificador −20 em testes que exigem comunicação coerente.

@@ -226,7 +226,7 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se estiver esquivando ou pela perícia Luta do oponente se bloqueando ou aparando.
 
 - **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 

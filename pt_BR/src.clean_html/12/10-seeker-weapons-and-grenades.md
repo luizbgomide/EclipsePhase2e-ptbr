@@ -17,9 +17,9 @@ Armas de buscadores são uma combinação de tecnologias de lança-granadas auto
 
 **Pistola de Buscador:** Esse buscador do tamanho de uma pistola dispara micromísseis em modo semiautomático.
 
-**Fuzil de Buscador:** Esse fuzil de buscador tem um formato compacto que dispara micromísseis e minimísseis.
+**Fuzil de Buscador:** Esse fuzil de buscador tem um formato compacto que dispara micromísseis ou minimísseis.
 
-**Buscador Sob o Cano:** Esse lançador de micromísseis buscadores geralmente é afixado sob o cano de SMs ou fuzis de assalto.
+**Buscador Sob o Cano:** Esse lançador de micromísseis buscadores geralmente é fixado sob o cano de SMs ou fuzis de assalto.
 
 ## Mísseis Buscadores e Granadas
 
