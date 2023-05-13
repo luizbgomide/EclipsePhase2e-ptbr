@@ -62,7 +62,7 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 
 **Respirador:** Ideais para Marte e exoplanetas onde você precisa de ar, mas não um traje de vácuo completo, os respiradores consistem de uma máscara facial e uma mochila ou unidade de bolsa lateral. Ele converte dióxido de carbono em oxigênio respirável indefinidamente. Para ambientes com atmosferas sem CO<sub>2</sub> convertível (como Titã), um pequeno tanque de ar fornece 2 horas de ar respirável.
 
-**Traje Frio:** Esse conjunto de vestimentas impermeáveis em camadas foi projetado para sobreviver indefinidamente no ambiente frio de Marte e de exoplanetas similares. Ele protege contra temperaturas de até −100&nbsp;°C. Esse traje é parcialmente pressurizado para áreas com baixa pressão atmosférica. Esse traje é parcialmente pressurizado para áreas com baixa pressão atmosférica.
+**Traje Frio:** Esse conjunto de vestimentas impermeáveis em camadas foi projetado para sobreviver indefinidamente no ambiente frio de Marte e de exoplanetas similares. Ele protege contra temperaturas de até −100&nbsp;°C. Esse traje é parcialmente pressurizado para áreas com baixa pressão atmosférica.
 
 **Ecto:** Ectos são dispositivos móveis equivalentes a insertos da mesh, menos os sensores médicos internos, utilizados por bioconservadores ou aqueles contrários a implantes. Eles são flexíveis, resistentes à sujeira e autolimpantes. Eles são frequentemente usados como braceletes ou outros adornos, e podem ser esticados para aumentar o tamanho da tela. Eles são conectados a óculos, lentes de contato, fones de ouvido e luvas táteis, todos sem fio, para utilizarem realidade aumentada. Usar um ecto aplica um modificador −10 em ações da mesh.
 
