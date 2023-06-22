@@ -56,13 +56,13 @@ Uma porta de passagem é simplesmente metade de uma câmara de ar. As passagens 
 
 Os cascos variam em composição e propriedades, desde cascos de ligas compostas dos cilindros até as espessas paredes de rochas silicatadas dos formigueiros. As superestruturas também variam; cilindros, esferas e toroides possuem treliças metálicas resistentes nas fundações e sustentando o material do casco, embora projetos antigos também tenham enormes vigamentos transversais ao longo do eixo interior. Formigueiros e bolhas de asteroide, por outro lado, dependem inteiramente em suas grossas paredes de rocha como superestrutura. Os habs enlatados são geralmente pequenos o bastante para o casco ser autoportante, exigindo pouco ou nenhum suporte interno, embora eles possam ser reforçados com isolamento ou blindagem de radiação.
 
-Armadura e GD para cascos estão detalhados em [Objetos & Estruturas](../12/26-objects-and-structures.md). Muitos cascos são "autorreparáveis", o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e "cascos burros" devem ser reparados com chapas de metal e soldagem.
+Armadura e GD para cascos estão detalhados em [Objetos & Estruturas](../12/26-objects-and-structures.md). Muitos cascos são “autorreparáveis”, o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e “cascos burros” devem ser reparados com chapas de metal e soldagem.
 
 Rompimentos no cascos em ambientes de baixa pressão têm o mesmo efeito que estourar uma câmara de ar.
 
 ## Suporte Vital
 
-O suporte vital em uma estação ou nave reabastece a atmosfera respirável e filtra as impurezas. Em sistemas muito primitivos, o suporte vital é finito, constituído de tanques de gases atmosféricos novos. Em Eclipse Phase, sistemas modernos podem funcionar indefinidamente, se tiverem manutenção regular e não forem prejudicados pela recuperação e alteração química de gases "velhos".
+O suporte vital em uma estação ou nave reabastece a atmosfera respirável e filtra as impurezas. Em sistemas muito primitivos, o suporte vital é finito, constituído de tanques de gases atmosféricos novos. Em Eclipse Phase, sistemas modernos podem funcionar indefinidamente, se tiverem manutenção regular e não forem prejudicados pela recuperação e alteração química de gases “velhos”.
 
 ### Sabotando o Suporte Vital
 
