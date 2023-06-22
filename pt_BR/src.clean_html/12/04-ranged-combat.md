@@ -24,7 +24,7 @@ Desconsiderando o recarregamento, assume-se que você carrega munição padrão 
 
 Com a ajuda de um observador, você pode alvejar um inimigo que você não pode ver usando tiro indireto. Ataques indiretos são feitos principalmente com buscadores, granadas e outros projéteis que não seguem uma trajetória linear direta até o alvo. Você deve estar em mesh com um personagem, bot, rede tática ou sistema de sensor que tem visão do alvo e que transmite a você os dados de mira. Ataques indiretos sofrem um modificador −20.
 
-[Mísseis buscadores](../12/10-seeker-weapons-and-grenades.md) podem localizar um alvo que está "pintado" com energia refletida de uma [mira laser](../12/13-weapon-accessories.md) ou sistema de designação de alvo similar. Um "ataque" deve ser primeiro para pintar o alvo com a mira laser usando a perícia Tiro. Se for bem-sucedido, a aquisição do alvo nega o modificador −20 de tiro indireto para o teste de ataque do lançador de buscador. O alvo deve permanecer na mira do observador (exigindo uma ação complexa a cada turno) até que o buscador acerte.
+[Mísseis buscadores](../12/10-seeker-weapons-and-grenades.md) podem localizar um alvo que está “pintado” com energia refletida de uma [mira laser](../12/13-weapon-accessories.md) ou sistema de designação de alvo similar. Um “ataque” deve ser primeiro para pintar o alvo com a mira laser usando a perícia Tiro. Se for bem-sucedido, a aquisição do alvo nega o modificador −20 de tiro indireto para o teste de ataque do lançador de buscador. O alvo deve permanecer na mira do observador (exigindo uma ação complexa a cada turno) até que o buscador acerte.
 
 ### Modos de Disparo
 
