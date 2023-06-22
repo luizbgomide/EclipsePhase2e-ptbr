@@ -59,7 +59,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **A Nuvem:** Outros dispositivos na mesh que oferecem serviços de software.
 - **Aglomerado:** Um habitat de microgravidade feito de módulos interligados.
 - **EMC:** Ejeção de massa coronal; uma erupção solar.
-- **Linhagem de Código:** A "família" de código do qual deriva uma IGA.
+- **Linhagem de Código:** A “família” de código do qual deriva uma IGA.
 - **As Queixas:** A lista de demandas compartilhadas pelos Barsoomianos.
 - **Conservadores:** A facção da Firewall que se opõe ao uso de IGAs, assincros e tecnologia alienígena/TITAN.
 - **Máquina Cornucópia:** Um nanofabricador de uso geral.
@@ -118,7 +118,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
 - **Forque:** Uma cópia de um ego.
 - **Forquestro:** Sequestrar um backup ou forque.
-- **Fractal:** Uma máquina TITAN tipo "robô-arbusto" com apêndices fractais e capacidades avançadas de nanofab.
+- **Fractal:** Uma máquina TITAN tipo “robô-arbusto” com apêndices fractais e capacidades avançadas de nanofab.
 - **A Periferia:** As áreas remotas e não povoadas do Sistema Solar.
 - **FTL:** Mais rápido que a luz (_Faster-Than-Light_).
 - **Fúria:** Um biomorfo de combate transumano.
@@ -161,7 +161,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **IETE:** O Instituto para o Estudo das Tendências Emergentes. O serviço clandestino de inteligência e previsão dos Argonautas.
 - **Isolados:** Os exilados nas periferias do sistema. Também chamado de eremitas.
 - **RTI:** A Rede de Transporte Interplanetário; utilizando a gravidade para se mover entre os planetas usando o mínimo de combustível.
-- **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se "tornando" o drone.
+- **Encarnar:** Teleoperar um bot através de uma sobreposição imersiva de RA e se “tornando” o drone.
 - **IFEJ:** Inteligência da Força Espacial Joviana.
 - **O Ferro-Velho:** A camada de sucata e detritos na órbita baixa da Terra.
 - **Junta:** O regime militar que dirige a República Joviana.
