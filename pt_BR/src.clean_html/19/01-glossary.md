@@ -88,7 +88,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ego ID:** O código de identificação vinculado ao seu ego, impresso nos uploads.
 - **Caçador de Ego:** Um caçador de recompensas que rastreia egos reencapados.
 - **Egoprojeção:** Termo para a transmissão de um ego para um local remoto.
-- **Entóptica:** Realidade aumentada que você "vê" em seu olho da mente.
+- **Entóptica:** Realidade aumentada que você “vê” em seu olho da mente.
 - **Eliminador:** Procuradores fortemente armados chamados para conter ameaças além das capacidades de uma célula sentinela normal.
 - **PRT:** O Projeto de Reivindicação da Terra dos reivindicadores.
 - **IET:** Inteligência Extraterrestre. Uma superinteligência alienígena/artificial pós-singularidade e quase divina teorizada como a responsável pelos portões de pandora e/ou o vírus exsurgente.
@@ -224,7 +224,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Portões de Pandora:** As passagens de buraco de minhoca descobertos após o desaparecimento das TITANs.
 - **Pax Familae:** O cartel criminoso composto por uma pessoa, Claudia Ambelina, e seus clones e forques.
 - **Pluralidade:** A ciberdemocracia titaniana.
-- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. Vem de "pessoas produzidas". Também chamados de peles artificiais, replicantes.
+- **Prods:** Biomorfos produzidos em massa com cérebros cibernéticos, originalmente usados como robôs biológicos. Vem de “pessoas produzidas”. Também chamados de peles artificiais, replicantes.
 - **Polykatoikia:** Uma variante de hab cilíndrico que usa módulos dependentes.
 - **Pós-humano:** Alguém modificado de forma tão extensiva a ponto de não ser mais reconhecido como humano (um passo além do transumano).
 - **Pragmatistas:** A facção do Firewall que acredita em fazer o que for necessário para impedir riscos X.
@@ -328,7 +328,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Verme:** Um assincro exsurgente.
 - **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **Xenomorfo:** Uma forma de vida alienígena.
-- **X-zeiro:** Um "usuário de X" — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
+- **X-zeiro:** Um “usuário de X” — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.
 - **XP:** Experiência Pré-gravada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravação). Também chamado de sim, sim-sensorial, pré-gravação.
 - **Risco X:** Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
