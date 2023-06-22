@@ -12,7 +12,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Aplicar Tag:** Marque uma pessoa, lugar ou coisa física com uma e-tag de RA.
 - **Comunicar:** Conversar por e-mail, texto, voz ou vídeo com outros online.
 - **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
-- **Filtrar Névoa de RA:** Remover a "névoa" importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
+- **Filtrar Névoa de RA:** Remover a “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
 - **Emitir Comando:** Dar um único comando para um dispositivo escravo, ILA ou bot teleoperado (ou grupo).
 - **Deslogar:** Sair de um sistema.
