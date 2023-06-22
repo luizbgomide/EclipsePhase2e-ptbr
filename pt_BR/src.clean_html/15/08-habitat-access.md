@@ -34,7 +34,7 @@ Bens restritos variam de acordo com a legalidade local. Muitos habitats, especia
 
 Certos habitats podem insistir que os visitantes — ou pelo menos os que eles não gostarem da aparência — se submetam a formas de monitoramento ou vigilância durante toda a estadia. Isso pode incluir nanoenxames marcadores, hospedar uma IA policial em seus insertos da mesh, ou até ser seguido fisicamente por um drone de segurança armado. Outras estações exigirão que seus visitantes deixem um forque inativo como forma de garantia na porta — no caso de eles cometerem um crime, o forque pode ser interrogado.
 
-Finalmente, embora raro, alguns habitats chegam ao ponto de cobrar de todos os visitantes uma "taxa do ar" — uma taxa pelo uso dos recursos disponíveis publicamente na estação enquanto ele estiver presente. Isso geralmente só é comum em habitats isolados com recursos escassos, e é considerado particularmente ofensivo para a maioria dos autonomistas.
+Finalmente, embora raro, alguns habitats chegam ao ponto de cobrar de todos os visitantes uma “taxa do ar” — uma taxa pelo uso dos recursos disponíveis publicamente na estação enquanto ele estiver presente. Isso geralmente só é comum em habitats isolados com recursos escassos, e é considerado particularmente ofensivo para a maioria dos autonomistas.
 
 ## Infiltração em Habitats
 

@@ -30,7 +30,7 @@ Como [Controlar Ware](../13/13-system-subversion.md#control-ware).
 
 ### Copiar Ego
 
-Você pode copiar o código fonte de um infomorfo residente em um cibercérebro/dispositivo. Isso conta como um arquivo de backup inativo de um ego, embora ela possa ser executado como um infomorfo em um terminal ou servidor. O "forquestro" de infomorfos de sistemas comprometidos por interesses criminosos permanece um problema constante no sistema interior. Alguns infomorfos vem equipados com um [app de travacópia](../16/12-meshware.md); isso aplica um modificador −30 adicional (cumulativo com o modificador −30 de segurança codificada do infomorfo) em tentativas de cópia.
+Você pode copiar o código fonte de um infomorfo residente em um cibercérebro/dispositivo. Isso conta como um arquivo de backup inativo de um ego, embora ela possa ser executado como um infomorfo em um terminal ou servidor. O “forquestro” de infomorfos de sistemas comprometidos por interesses criminosos permanece um problema constante no sistema interior. Alguns infomorfos vem equipados com um [app de travacópia](../16/12-meshware.md); isso aplica um modificador −30 adicional (cumulativo com o modificador −30 de segurança codificada do infomorfo) em tentativas de cópia.
 
 ### Excluir Ego
 

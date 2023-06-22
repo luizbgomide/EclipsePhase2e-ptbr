@@ -14,7 +14,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ## Pacotes de Campanha
 
-### Agente Firewall/Criminal
+### Agente da Firewall/Criminoso
 
 | EQUIPAMENTOS                                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                      |
 |:--------------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 <!-- CLEANED /blockquote -->
 
-### Desbravamento
+### Desbravador
 
 | EQUIPAMENTOS                                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
 |:-------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |

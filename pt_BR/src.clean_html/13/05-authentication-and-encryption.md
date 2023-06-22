@@ -28,7 +28,7 @@ As contas de segurança destinam-se ao pessoal de segurança e ILAs que vigiam o
 
 ### Contas de Administrador
 
-As contas de administrador fornecem controle completo ("root") sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer software. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e dispositivos de hardware, esta conta root geralmente pertence à pessoa na qual eles estão incorporados.
+As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer software. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e dispositivos de hardware, esta conta root geralmente pertence à pessoa na qual eles estão incorporados.
 
 ## Métodos de Autenticação
 

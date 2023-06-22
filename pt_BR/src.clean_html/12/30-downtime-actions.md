@@ -8,7 +8,7 @@ O recesso normalmente é contado em semanas. A cada semana, escolha uma ação d
 
 ## Adquirir/Fazer Coisas
 
-Você pode querer estocar equipamento para a próxima missão, ou simplesmente preparar depósitos de equipamento, bolsas de fuga e provisões de emergência. Se você tem o traço Recursos, use sua cota semanal de Pontos de Equipamento. Se não, você tem 2&nbsp;PE para gastar. Itens Raros e Restritos só estão disponíveis a critério do MJ. Se estabelecer depósitos ("partições temporárias" na Firewall), certifique-se de combinar com seu MJ onde e como eles estão escondidos.
+Você pode querer estocar equipamento para a próxima missão, ou simplesmente preparar depósitos de equipamento, bolsas de fuga e provisões de emergência. Se você tem o traço Recursos, use sua cota semanal de Pontos de Equipamento. Se não, você tem 2&nbsp;PE para gastar. Itens Raros e Restritos só estão disponíveis a critério do MJ. Se estabelecer depósitos (“partições temporárias” na Firewall), certifique-se de combinar com seu MJ onde e como eles estão escondidos.
 
 Enquanto estar preparado é um coisa inteligente, os MJs devem conter os jogadores que tentam acumular tudo o que puderem adquirir. Tal comportamento não é realista e certamente levaria o personagem a se afastar de seus amigos ou queimar rep ou Recursos.
 

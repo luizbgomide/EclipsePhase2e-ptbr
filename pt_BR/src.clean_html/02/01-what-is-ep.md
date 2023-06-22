@@ -52,6 +52,6 @@ Eclipse Phase mergulha em inúmeros temas políticos; na verdade, começamos com
 
 ## Uma Nota sobre Terminologia, Sexo e Gênero
 
-A biologia sexual é efêmera em Eclipse Phase. O sexo é eletivo e sujeito a mudanças; quase todo mundo tem a oportunidade de trocar de corpo. A identidade de gênero de um personagem pode não corresponder às suas características sexuais físicas (ou a falta delas). A própria identidade de gênero é frequentemente fluida. O uso pronome "masculino" genérico é apenas por questões linguísticas do português e não uma imposição do gênero masculino. Ao se referir a personagens específicos com um gênero estabelecido, utilizamos o pronome adequado à sua identidade de gênero atual, independentemente do sexo do morfo em que eles se encontram.
+A biologia sexual é efêmera em Eclipse Phase. O sexo é eletivo e sujeito a mudanças; quase todo mundo tem a oportunidade de trocar de corpo. A identidade de gênero de um personagem pode não corresponder às suas características sexuais físicas (ou a falta delas). A própria identidade de gênero é frequentemente fluida. O uso pronome “masculino” genérico é apenas por questões linguísticas do português e não uma imposição do gênero masculino. Ao se referir a personagens específicos com um gênero estabelecido, utilizamos o pronome adequado à sua identidade de gênero atual, independentemente do sexo do morfo em que eles se encontram.
 
 <!-- CLEANED /blockquote -->

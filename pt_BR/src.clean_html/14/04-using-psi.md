@@ -30,7 +30,7 @@ Psi que tenha como alvo outro personagem é tratado como um teste oposto, a per�
 
 **Defesa Total Psi:** Como a [defesa total](../12/21-other-action-factors.md#full-defense) em combate físico, você pode usar uma ação complexa para concentrar suas defesas mentais, ganhando um modificador +30 para resistir a truques até a sua próxima ação.
 
-**Críticos:** Se o defensor vencer com um sucesso crítico, o assincro está temporariamente "bloqueado" da sua mente e não pode alvejá-lo novamente até que faça uma [ação de recarga](../03/05-pools.md#recharging-pools).
+**Críticos:** Se o defensor vencer com um sucesso crítico, o assincro está temporariamente “bloqueado” da sua mente e não pode alvejá-lo novamente até que faça uma [ação de recarga](../03/05-pools.md#recharging-pools).
 
 Se o assincro rolar uma falha crítica, ele sofre 1d6&nbsp;VD, pois o esforço provoca um desgaste físico na forma de dores de cabeça e vasos sanguíneos rompidos.
 
@@ -50,7 +50,7 @@ Alvos que falhem em sua rolagem ficam sem perceber.
 
 Os truques psi possuem uma das seguintes durações: _constante_, _instantânea_, _temporária_ ou _sustentada_.
 
-**Constante:** Os truques constantes estão sempre "ligados".
+**Constante:** Os truques constantes estão sempre “ligados”.
 
 **Instantânea:** Os truques instantâneos causam um efeito imediato e permanente que dura sem esforço.
 

@@ -16,7 +16,7 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 - **Aplicar Tag:** Você pode marcar uma pessoa, local ou coisa física com uma e-tag visível em RA ([Tags](../13/03-common-mesh-uses.md#tagging)).
 - **Comunicar:** Você pode conversar por e-mail, texto, voz ou vídeo com outros online, contanto que tenha a mesh ID deles.
 - **Criptografar/Descriptografar:** Você pode proteger um arquivo contra bisbilhoteiros ou acessá-lo com a autorização adequada ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
-- **Filtrar Névoa de RA:** Você pode tentar remover o spam e outros da "névoa" importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
+- **Filtrar Névoa de RA:** Você pode tentar remover o spam e outros da “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identificar Atacante:** Você pode tentar identificar alguém tentando travar você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
 - **Emitir Comando:** Você pode comandar qualquer dispositivo escravo, ILA ou bot teleoperado com apenas uma ação rápida. Cada comando conta separadamente, embora você possa emitir o mesmo comando para vários dispositivos/bots de uma vez.
 - **Deslogar:** Sair de um sistema.
@@ -37,7 +37,7 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 - **Ver Apps:** Você pode ver quais apps estão disponíveis no dispositivo e quais estão sendo executados com apenas uma ação rápida. Alguns apps podem só estar disponíveis para contas específicas, de acordo com os privilégios desse sistema.
 - **Ver Perfil:** Você pode ver o perfil público da rede social e níveis de rep de qualquer pessoa dentro do alcance físico (ou dentro do alcance dos sensores que você está acessando), a não ser que estejam em [modo privativo](../13/01-everyware.md#privacy-mode).
 - **Ver Fluxos de Sensores:** Muitos dispositivos incluem sensores miniaturizados. Esses podem ser vistos ou transmitidos diretamente para sua realidade aumentada. Use Testes de Percepção para a maioria dos sensores; outros podem exigir Testes de Saber (por exemplo: os resultados de um farejador químico são analisados com Saber: Química). Os sensores utilizados para fins de segurança geralmente são limitados às contas com privilégios de segurança ou de administrador.
-- **Ver Status do Sistema:** Obter um relatório da "saúde" e integridade do sistema, o status de suas funções incorporadas, o progresso dos processos em andamento, alertas de segurança/status de invasão e assim por diante.
+- **Ver Status do Sistema:** Obter um relatório da “saúde” e integridade do sistema, o status de suas funções incorporadas, o progresso dos processos em andamento, alertas de segurança/status de invasão e assim por diante.
 
 ## Ações de Segurança
 

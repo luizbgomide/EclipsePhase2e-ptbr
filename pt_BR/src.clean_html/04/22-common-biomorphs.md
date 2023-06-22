@@ -56,7 +56,7 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 
 ### Exalto
 
-Exaltos são os modelos de "humanos aprimorados" comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
+Exaltos são os modelos de “humanos aprimorados” comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -148,7 +148,7 @@ Os ricochetes são geneticamente adaptados para microgravidade. Suas pernas são
 
 ### Futura
 
-Os morfos futura foram feitos especialmente para a "Geração Perdida" de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
+Os morfos futura foram feitos especialmente para a “Geração Perdida” de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 

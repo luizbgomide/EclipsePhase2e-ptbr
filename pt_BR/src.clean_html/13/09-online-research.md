@@ -6,7 +6,7 @@ Você também pode usar Pesquisa quando procurar informações em uma rede ou di
 
 ## Desafios da Pesquisa
 
-Devido à enorme quantidade de dados disponíveis, encontrar o que você está procurando pode ser uma tarefa intimidante. Felizmente, as informações são bem organizadas, graças ao trabalho árduo de IAs "aranhas" que cruzam a mesh e atualizam os índices de dados e de busca.
+Devido à enorme quantidade de dados disponíveis, encontrar o que você está procurando pode ser uma tarefa intimidante. Felizmente, as informações são bem organizadas, graças ao trabalho árduo de IAs “aranhas” que cruzam a mesh e atualizam os índices de dados e de busca.
 
 Outro impedimento às buscas online é a quantidade de dados incorretos e desinformação. Muitos dados estão simplesmente errados (erros acontecem) ou desatualizados. As falsidades são intencionalmente perpetuadas e propagadas para fins de guerra memética. Grupos hacktivistas espalham ativamente dados falsos em um esforço para combater a mineração incontrolável de dados de vigilância. Essa desinformação pode durar anos e propagar-se por toda parte, pois ela circula sem qualquer checagem de fatos. Para se contrapor a isso, muitas fontes de dados incorporam pontuações de reputação para que fontes não confiáveis ou desonestas possam ser identificadas e terem classificações inferiores em resultados de pesquisa. Muitos arquivos também aproveitam o poder colaborativo dos usuários de mesh e ILAs para facilitar a verificação de seus dados.
 

@@ -73,7 +73,7 @@ Os MJs são encorajados a permitir que jogadores interpretem os próprios forque
 
 Isso significa que o MJ não deve ter receio tirar um forque das mãos de um jogador e transformá-lo em um PNJ se ele começar a divergir demais. Da mesma forma, se um forque começa a aprender informações que o personagem principal (ainda) não tem acesso, é provavelmente melhor tratar o forque como um PNJ para evitar metajogo.
 
-É inteiramente possível que um forque decida que ele não vai mais obedecer o ego originário e seguir sua própria vida. Isso geralmente só acontece com forques alfa, que já são essencialmente uma cópia completa, e com o passar do tempo a ideia de se mesclar de volta com o ego original torna-se pouco atraente. Forques beta tem ciência da sua natureza de cópia "incompleta" e são menos propensos a divergir e tentar ter uma vida própria.
+É inteiramente possível que um forque decida que ele não vai mais obedecer o ego originário e seguir sua própria vida. Isso geralmente só acontece com forques alfa, que já são essencialmente uma cópia completa, e com o passar do tempo a ideia de se mesclar de volta com o ego original torna-se pouco atraente. Forques beta tem ciência da sua natureza de cópia “incompleta” e são menos propensos a divergir e tentar ter uma vida própria.
 
 ## Mesclagem
 
