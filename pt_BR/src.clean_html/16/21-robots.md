@@ -2,7 +2,7 @@
 
 Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](../16/21-robots.md#remote-operations). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](../16/05-common-tech-and-ware.md#standard-augmentations).
 
-A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de "rosto" abstrato para interagir, de modo a não serem "máquinas" demais.
+A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de “rosto” abstrato para interagir, de modo a não serem “máquinas” demais.
 
 ## Ware de Robôs
 
@@ -167,7 +167,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 **Servente:** Os serventes são os robôs mais comuns, atuando como cozinheiros, zeladores, ajudantes genéricos, carregadores e assistentes pessoais. Cada casa tem pelo menos um. Eles têm uma variedade de formatos e tamanhos não humanoides, embora a maioria seja de tamanho médio, com 4–8 membros em média.
 
-**Aracnomão:** Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas "pernas" são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
+**Aracnomão:** Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas “pernas” são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
 
 ## Bots de Reconhecimento/Vigilância
 
@@ -218,7 +218,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Disco:** Estes drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
 
-**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um "pontinho na parede". Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
+**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um “pontinho na parede”. Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
 
 **Zéfiro:** Os zéfiros são aviões furtivos de tamanho médio mas leves, geralmente lançados através de um arremesso e usados para reconhecimento de longa distância ou ataques de mísseis.
 
