@@ -4,7 +4,7 @@ As IAs são software autoconscientes. Como outros códigos, elas devem ser execu
 
 ## ILAs
 
-As inteligências limitadas artificiais são projetadas como "ajudantes" para dispositivos ou tarefas específicos. Elas são baseadas em redes neurais de aprendizagem de máquina utilizando vastos conjuntos de dados relativos ao dispositivo/operação, o que significa que elas conhecem bem os melhores métodos e resultados prováveis. Elas são programadas com as perícias principais que ela precisam para suas tarefas e equipadas uma personalidade orientada expressamente para atendimento ao cliente, obediência e satisfação.
+As inteligências limitadas artificiais são projetadas como “ajudantes” para dispositivos ou tarefas específicos. Elas são baseadas em redes neurais de aprendizagem de máquina utilizando vastos conjuntos de dados relativos ao dispositivo/operação, o que significa que elas conhecem bem os melhores métodos e resultados prováveis. Elas são programadas com as perícias principais que ela precisam para suas tarefas e equipadas uma personalidade orientada expressamente para atendimento ao cliente, obediência e satisfação.
 
 A maioria das ILAs são executadas em bots, veículos e outros dispositivos para auxiliar transumanos ou operar a máquina em si. Os exemplos de ILAs estão listados em [ILAs e Musas](../16/13-apps-and-alis.md#alis-and-muses).
 
@@ -18,11 +18,11 @@ Dada a sua personalidade limitada, as ILAs são menos emotivas e mais difíceis 
 
 ### Comandando ILAs
 
-Devido a recursos de segurança incorporados, as ILAs devem atender e obedecer às instruções de usuários autorizados dentro de seus parâmetros de funcionamento normal. Elas também estão programadas para seguir a lei (no sistema interior) ou um código ético (áreas autonomistas). Se necessário, porém, as ILAs podem ser bastante espertas em como elas interpretam comandos e agem com base neles. Mais importante ainda, a sua programação psicológica baseia-se em modos de pensamento humanos e na compreensão e apoio dos objetivos e interesses transumanos. Isso é parte de um esforço para criar uma "IA amigável". Um ILA relutará em seguir comandos que terão um impacto negativo no usuário ou em outros transumanos. Os imperativos pré-programados podem obrigá-la a ignorar ou desobedecer ordens que são perigosas. No caso de acidentes, elas são, às vezes, codificadas para minimizar perigos e danos e, outras vezes, codificadas para proteger o usuário a todo o custo. É claro que as ILAs projetadas para sistemas militares e de armas não possuem tais restrições.
+Devido a recursos de segurança incorporados, as ILAs devem atender e obedecer às instruções de usuários autorizados dentro de seus parâmetros de funcionamento normal. Elas também estão programadas para seguir a lei (no sistema interior) ou um código ético (áreas autonomistas). Se necessário, porém, as ILAs podem ser bastante espertas em como elas interpretam comandos e agem com base neles. Mais importante ainda, a sua programação psicológica baseia-se em modos de pensamento humanos e na compreensão e apoio dos objetivos e interesses transumanos. Isso é parte de um esforço para criar uma “IA amigável.” Um ILA relutará em seguir comandos que terão um impacto negativo no usuário ou em outros transumanos. Os imperativos pré-programados podem obrigá-la a ignorar ou desobedecer ordens que são perigosas. No caso de acidentes, elas são, às vezes, codificadas para minimizar perigos e danos e, outras vezes, codificadas para proteger o usuário a todo o custo. É claro que as ILAs projetadas para sistemas militares e de armas não possuem tais restrições.
 
 ### Limitações
 
-Sem uma inteligência generalizada, as ILAs são ineptas e ignorantes quando se trata de situações fora de sua especialidade. As perícias secundárias tendem a ser menos competentes do que as de um transumano equivalente. Elas geralmente são incapazes de pensamentos criativos ou "fora da caixa".
+Sem uma inteligência generalizada, as ILAs são ineptas e ignorantes quando se trata de situações fora de sua especialidade. As perícias secundárias tendem a ser menos competentes do que as de um transumano equivalente. Elas geralmente são incapazes de pensamentos criativos ou “fora da caixa”.
 
 ### Aptidões, Perícias e Paradas
 
