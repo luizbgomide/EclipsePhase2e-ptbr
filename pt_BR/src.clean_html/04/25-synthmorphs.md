@@ -1,6 +1,6 @@
 # Sintemorfos
 
-A maioria dos projetos de sintemorfos foram feitos originalmente para robôs, pilotados por ILAs. As formas robóticas são otimizadas de acordo com sua função, então, existe uma grande variedade de projetos de corpo. Os robôs projetados para interagir com transumanos geralmente têm uma estrutura bípede ou quadrúpede, para navegar melhor em meios às habitações e espaços transumanos, mas são claramente diferentes dos humanos em aparência. Muitas possuem uma tipo de "rosto" simbólico para dar aos transumanos algo para olhar e interagir, mas esses raramente era realistas, para evitar o vale da estranheza da artificialidade.
+A maioria dos projetos de sintemorfos foram feitos originalmente para robôs, pilotados por ILAs. As formas robóticas são otimizadas de acordo com sua função, então, existe uma grande variedade de projetos de corpo. Os robôs projetados para interagir com transumanos geralmente têm uma estrutura bípede ou quadrúpede, para navegar melhor em meios às habitações e espaços transumanos, mas são claramente diferentes dos humanos em aparência. Muitas possuem uma tipo de “rosto” simbólico para dar aos transumanos algo para olhar e interagir, mas esses raramente era realistas, para evitar o vale da estranheza da artificialidade.
 
 Desde a Queda, a maioria dos sintemorfos foram projetos especificamente para egos transumanos, pois eles são mais baratos e rápidos de fabricar do que biomorfos. Sem funções robóticas especializadas em mente, a maioria destes designs de sintemorfos possuem estruturas antropomórficas (androides e ginoides) feitas especificamente para egos acostumados com formas humanas, incluindo cabeças e rostos distintos (mas ainda não realistas). Conforme a transumanidade se acostuma com sintemorfos, designs mais criativos, inovadores e inusitados se tornam mais comuns.
 
@@ -106,7 +106,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 
 ### Enxamenoide
 
-Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada "inseto" individual é capaz de rastejar, rolar, pular vários metros, ou movimento aéreo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se "fundir" em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e conseguem interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
+Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada “inseto” individual é capaz de rastejar, rolar, pular vários metros, ou movimento aéreo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se “inseto” em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e conseguem interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
