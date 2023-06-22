@@ -165,7 +165,7 @@ By the numbers, there are more Neptunian Trojans asteroids than Jovian. Most are
 
 <!-- CLEANED /div -->
 
-Hawking is a hypercorps skunkworks facility. The local brinkers avoid it; ships that get too close are warned once and then fired upon with prejudice. ExoTech’s Morgan Sterling is supposedly one of the facility’s investors. Its research involves theoretical space drives. On the upside, Hawking’s remote location means any physics "mistakes" probably won’t hurt the rest of the system. Probably.
+Hawking is a hypercorps skunkworks facility. The local brinkers avoid it; ships that get too close are warned once and then fired upon with prejudice. ExoTech’s Morgan Sterling is supposedly one of the facility’s investors. Its research involves theoretical space drives. On the upside, Hawking’s remote location means any physics “mistakes” probably won’t hurt the rest of the system. Probably.
 
 ### Ilmarinen
 

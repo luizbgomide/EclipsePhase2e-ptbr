@@ -60,7 +60,7 @@ When the gates do open to someplace fun and non-deadly, gatecrashing is just ano
 
 Welcome to the TerraGenesis team! An exciting adventure awaits you on the other side of the Vulcanoid Gate. Whether you're an experienced gatecrasher or a first-timer, you need to be familiar with TerraGenesis procedures.
 
-The safety of our gatecrashers always comes first. Upon confirmation of a “live” gate address (reconnaissance microprobes have returned data from the other side of the wormhole indicating a viable environment), your team has one hour to prepare while we send larger "first-link" drones through. Monitor these real-time feeds and their analysis closely to learn about the environment you’re about to enter. Will it be a lifeless chunk of rock? A life-rich planet? A moonlet circling an exotic gas giant? Fine-tune your gear loads as appropriate.
+The safety of our gatecrashers always comes first. Upon confirmation of a “live” gate address (reconnaissance microprobes have returned data from the other side of the wormhole indicating a viable environment), your team has one hour to prepare while we send larger “first-link” drones through. Monitor these real-time feeds and their analysis closely to learn about the environment you’re about to enter. Will it be a lifeless chunk of rock? A life-rich planet? A moonlet circling an exotic gas giant? Fine-tune your gear loads as appropriate.
 
 An analysis team of TerraGenesis scientists and consultants will make the final call for the “live” first-in operation. A thumbs-down means the environment on the other side of the gate is too hostile, and you’ll be put back into the queue for the next operation. A thumbs-up means you’re going in!
 

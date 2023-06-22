@@ -22,7 +22,7 @@ The hypercorps have been so successful that the term “hypercorporation” is n
 
 ## Agritech and Pharma
 
-Everyone needs food, and you'd be surprised how much comes from members of the **Prosperity Group** conglomerate. They are involved in agriculture, aquaculture, hydroponics, vat foods, and pharmaceuticals, and are considered the primary source of cheap but "real" (non-fabricated) foods. Other notable food and drug hypercorps include **XenoPharma** (developing new products from xenoflora and -fauna), **Finosa Labs** (linked to drug cartels), and **Gingko Biosciences** (micrograv agripods and faux meats of every persuasion).
+Everyone needs food, and you'd be surprised how much comes from members of the **Prosperity Group** conglomerate. They are involved in agriculture, aquaculture, hydroponics, vat foods, and pharmaceuticals, and are considered the primary source of cheap but “real” (non-fabricated) foods. Other notable food and drug hypercorps include **XenoPharma** (developing new products from xenoflora and -fauna), **Finosa Labs** (linked to drug cartels), and **Gingko Biosciences** (micrograv agripods and faux meats of every persuasion).
 
 ## Banking and Finance
 

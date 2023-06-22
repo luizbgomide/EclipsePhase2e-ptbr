@@ -122,7 +122,7 @@ Their Trojans an excellent base from which to launch pirate raids. Several of th
 
 Locus is the largest cluster habitat ever created, spanning a jaw-dropping eleven-kilometer sphere with thousands of modules docked to its wings and spurs. At the center of the cluster floats the Amoeba, a giant sculpture that reshapes itself and changes colors.
 
-There is no government or police; tasks are performed by various collectives and a volunteer militia responds to threats and anti-social behavior. The "economy" is based on open nanofab access, gifting, and rep favors, with the occasional barter.
+There is no government or police; tasks are performed by various collectives and a volunteer militia responds to threats and anti-social behavior. The “economy” is based on open nanofab access, gifting, and rep favors, with the occasional barter.
 
 Locus features everything from artist collectives to arms dealers and mining cooperatives. The Kanigawa Farms feeds the station’s inhabitants. The Pill Box is a massive drug lab and party module, where you can experience the latest petals and substances that didn't exist yesterday. Rooktown is a cultural focal point for neo-corvids and mercurial activism. Various maker spaces and hack labs work closely with Exarchia, another Trojan hab that is a nexus for autonomist hacktivism.
 

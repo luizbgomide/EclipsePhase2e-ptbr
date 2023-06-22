@@ -24,7 +24,7 @@ In space, there is no atmosphere to propagate an explosive shockwave; reduce the
 
 ### Scatter
 
-Weapons such as grenades must go somewhere when they miss, and you might still catch your target in the blast radius. To determine where a missed area-effect attack falls, roll a d10. The direction the top pointed part of the die is pointing is the direction the attack scatters, treating yourself as the target for orientation purposes. The result of the die roll is how far away the attack lands, in meters. For each superior failure, double the scatter distance. This determines the epicenter of the blast; resolve the damage against anyone caught within its radius of effect as normal. You may need to fudge this result for microgravity or other situations where three-dimensionality matters, or you can roll another d10 to judge orientation on the z-axis (1 being "above" the target, 10 being "below").
+Weapons such as grenades must go somewhere when they miss, and you might still catch your target in the blast radius. To determine where a missed area-effect attack falls, roll a d10. The direction the top pointed part of the die is pointing is the direction the attack scatters, treating yourself as the target for orientation purposes. The result of the die roll is how far away the attack lands, in meters. For each superior failure, double the scatter distance. This determines the epicenter of the blast; resolve the damage against anyone caught within its radius of effect as normal. You may need to fudge this result for microgravity or other situations where three-dimensionality matters, or you can roll another d10 to judge orientation on the z-axis (1 being “above” the target, 10 being “below”).
 
 ## Attacks Against the Helpless
 

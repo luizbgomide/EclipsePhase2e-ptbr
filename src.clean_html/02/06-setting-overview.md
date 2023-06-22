@@ -12,7 +12,7 @@ The Planetary Consortium is the dominant faction here, working hard to establish
 
 ## Main Belt
 
-The demarcation line between the inner and outer systems is a melting pot of cultures and factions. A number of independent habitats thrive here, providing a forum for autonomists and hypercapitalists to mingle and deal. Various criminal cartels maintain a presence as well, far from legal interference. The major habitat Extropia is known as an independent "anarcho-capitalist" stronghold, where mutual contracts and freelance courts are the only law.
+The demarcation line between the inner and outer systems is a melting pot of cultures and factions. A number of independent habitats thrive here, providing a forum for autonomists and hypercapitalists to mingle and deal. Various criminal cartels maintain a presence as well, far from legal interference. The major habitat Extropia is known as an independent “anarcho-capitalist” stronghold, where mutual contracts and freelance courts are the only law.
 
 ## Jovian Space
 
@@ -22,7 +22,7 @@ The Republic is known as a bastion of religion and bioconservatism. They decry t
 
 ## Outer System
 
-It’s difficult to appreciate how empty space is. Traveling at light speed, a message from Mars to Luna takes about twelve minutes on average. To Jupiter, almost an hour. To Uranus, two to three hours. To Pluto, six hours. The fastest ships, sparing no expense, take weeks or months to reach places in the outer system. Outside of their immediate neighborhoods — the moons of the gas giants or "clusters" of trojan asteroids — the outer system stations are isolated and remote from each other.
+It’s difficult to appreciate how empty space is. Traveling at light speed, a message from Mars to Luna takes about twelve minutes on average. To Jupiter, almost an hour. To Uranus, two to three hours. To Pluto, six hours. The fastest ships, sparing no expense, take weeks or months to reach places in the outer system. Outside of their immediate neighborhoods — the moons of the gas giants or “clusters” of trojan asteroids — the outer system stations are isolated and remote from each other.
 
 Saturn's moons provide the most dense and diverse region, home to a number of research facilities, independent colonies, and the domed metropolises of Titan. They are the most established faction of the Autonomous Alliance, with the largest intelligence and military services.
 

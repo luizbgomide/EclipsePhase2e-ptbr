@@ -2,7 +2,7 @@
 
 > **Source:** _What Are Babies? An AGI Guide to Human Spawning_
 
-The concept of "family" has grown more fluid among transhumans. A multitude of familial arrangements now proliferate through society. On scum ships and brinker outposts, the crew is understood to be one’s family — the village that raises one, so to speak. In rimward anarchist and socialist spaces in particular, an isolated family unit is seen as an unacceptable hierarchical form of oppression that must be done away with. It is viewed as selfish, even monstrous, to seek primary or exclusive influence over the development of a child.
+The concept of “family” has grown more fluid among transhumans. A multitude of familial arrangements now proliferate through society. On scum ships and brinker outposts, the crew is understood to be one’s family — the village that raises one, so to speak. In rimward anarchist and socialist spaces in particular, an isolated family unit is seen as an unacceptable hierarchical form of oppression that must be done away with. It is viewed as selfish, even monstrous, to seek primary or exclusive influence over the development of a child.
 
 Even in families where some people are accorded primacy as parental units, there are many available forms. Single-parent families, poly-families where a household raises its children in co-parenting arrangements, queer houses that adopt children from crèches, families where every member contributed genetic material to grow a child in an exowomb (in this way, dozens of people claim genetic parenthood of a single child), and more. Some hyperelites are known to make an aesthetic out of the classic nuclear family.
 

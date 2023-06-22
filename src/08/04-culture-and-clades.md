@@ -44,7 +44,7 @@ Uplifts are commonly treated as second-class citizens in human-dominant habitats
 
 Radical mercurials want more than just equality and freedom, however. They wish to establish separate uplift and infolife cultures free from human interference. They want to chart their own independent and autonomous course, as opposed to assimilating into transhumanity. The majority of these initiatives are situated in the outer system, where they have more support and less interference.
 
-Other non-human clades exist outside of mercurials. To be specific, these are transhuman initiatives to create non-human cultural identities. Among these are the exoglots, a mysterious group in the Jovian Trojans that uses insectile pod morphs and their own secretive artificial language, and the Colony on Luna, whose residents sleeve into insect-sized (though not necessarily insectoid) morphs and function as a society in miniature. At least one primitivist exoplanet colony is known to have sleeved into animal pods and gone "feral."
+Other non-human clades exist outside of mercurials. To be specific, these are transhuman initiatives to create non-human cultural identities. Among these are the exoglots, a mysterious group in the Jovian Trojans that uses insectile pod morphs and their own secretive artificial language, and the Colony on Luna, whose residents sleeve into insect-sized (though not necessarily insectoid) morphs and function as a society in miniature. At least one primitivist exoplanet colony is known to have sleeved into animal pods and gone “feral.”
 
 ## Virtual Tribes
 

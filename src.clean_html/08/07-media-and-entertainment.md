@@ -22,7 +22,7 @@ The first metacelebrities performed in mid-twentieth-century theme parks, where 
 
 Unlike socialites who revel in resleeving, metacelebrities stick to the same morph (or an exact duplicate) as often as possible for recognizability. Each is an ongoing method-acting performance by a rotation of trained actors who may have undergone psychosurgery to more accurately present the persona in line with previous versions. Their round-the-clock performances are designed to maintain the illusion that fans are interacting with a real person.
 
-Some glitterati take offense to the "manufactured" nature of metacelebrities, resulting in public feuds waged by small armies of social media engineers.
+Some glitterati take offense to the “manufactured” nature of metacelebrities, resulting in public feuds waged by small armies of social media engineers.
 
 As a profitable brand and performance art, metacelebrities are aggressively marketed and legally protected as intellectual property. Performers are required to sign contracts that control what they can say about the experience or character development after retiring and must be willing to play the part without gaining personal fame.
 
@@ -60,7 +60,7 @@ While XP reporting dominates newsfeeds, media companies continue to break ground
 
 ### Virtual Reality Media
 
-VR media and games allow for larger and more immersive settings than AR, accommodating far more players and bots in simulspace. VR games limit players to those in the same habitat or cluster to avoid issues with communication lag. Though VR is less accessible due to its hardwired requirements, it has an advantage with time contraction, allowing players to complete full story arcs in short real-time periods. Some VR games have large modding communities, such as the sci-fi thriller _Breakout_, whose fans create extensive "hardmode" levels.
+VR media and games allow for larger and more immersive settings than AR, accommodating far more players and bots in simulspace. VR games limit players to those in the same habitat or cluster to avoid issues with communication lag. Though VR is less accessible due to its hardwired requirements, it has an advantage with time contraction, allowing players to complete full story arcs in short real-time periods. Some VR games have large modding communities, such as the sci-fi thriller _Breakout_, whose fans create extensive “hardmode” levels.
 
 ## Sports
 

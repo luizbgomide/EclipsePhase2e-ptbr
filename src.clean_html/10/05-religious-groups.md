@@ -102,7 +102,7 @@ If the Fall further eroded the old, organized religions, Technocreationists are 
 
 ### TITAN Worship
 
-It hurts to say it, but there are those who revere the TITANs as the only true gods. They make excuses for the atrocities the TITANs committed, which mostly boil down to "we are not smart enough to understand." Thankfully rare, their ranks are composed of singularity seekers who desire to join their machine gods in apotheosis. These believers are a threat given their eager pursuit of TITAN tech.
+It hurts to say it, but there are those who revere the TITANs as the only true gods. They make excuses for the atrocities the TITANs committed, which mostly boil down to “we are not smart enough to understand.” Thankfully rare, their ranks are composed of singularity seekers who desire to join their machine gods in apotheosis. These believers are a threat given their eager pursuit of TITAN tech.
 
 ### Xenodeism
 

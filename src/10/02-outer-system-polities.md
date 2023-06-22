@@ -111,7 +111,7 @@ The unifying principle of all Extropian communities is the contract. When you en
 
 ### Market Anarchist Flavors
 
-Most Extropians identify as individualists and "anarcho-capitalists," a term which always triggers those collectivist anarchists who consider capitalism and anarchism to be incompatible. Sorry, not sorry. The basis of Extropians ideology is a strict non-aggression policy, stating that any threat or act of violence against another person violates their right to self-determination. A subset of Extropians known as _mutualists_ have a more anti-capitalist bent, favoring markets but not profiteering. They establish mutualist cooperative banks, owned by their customers and operated by ALIs, which give out interest-free loans and use their own m-credit cryptocurrency. Mutualist corporations are structured as worker-owned cooperatives, and these compete alongside hypercorps in transitional economies.
+Most Extropians identify as individualists and “anarcho-capitalists,” a term which always triggers those collectivist anarchists who consider capitalism and anarchism to be incompatible. Sorry, not sorry. The basis of Extropians ideology is a strict non-aggression policy, stating that any threat or act of violence against another person violates their right to self-determination. A subset of Extropians known as _mutualists_ have a more anti-capitalist bent, favoring markets but not profiteering. They establish mutualist cooperative banks, owned by their customers and operated by ALIs, which give out interest-free loans and use their own m-credit cryptocurrency. Mutualist corporations are structured as worker-owned cooperatives, and these compete alongside hypercorps in transitional economies.
 
 ### Intermediaries
 
@@ -119,7 +119,7 @@ Extropian habitats serve as a bridge between inner-system hypercorps and outer-s
 
 While Extropians are in favor of tangible private property, we long ago surrendered support for intellectual property. Quite a few Extropian hypercorps base their business models on reverse-engineering or the concept of _shanzhai_ (counterfeit goods, trademark infringement, and other reproductions). We also are less concerned with overbearing habitat legalities, so our corps are often willing to trade products or services that aren't economically feasible for Consortium corps: narcoalgorithms, hacking zero-days, weapon systems, AGIs, certain genetic mods, etc. This gives our habitats a reputation among sunward types for being outlaw havens, which certainly has a nice ring to it.
 
-Meanwhile, the autonomists criticize us for allowing contracts that are "exploitive," but if an adult wants to sign an agreement to become an indenture, I don't see why I should stop them. They also criticize our lack of a social safety net for society's downtrodden, as if we are all somehow responsible for each other's mistakes and bad luck. You ask me, if we're pissing off both sides, we're probably doing it right.
+Meanwhile, the autonomists criticize us for allowing contracts that are “exploitive,” but if an adult wants to sign an agreement to become an indenture, I don't see why I should stop them. They also criticize our lack of a social safety net for society's downtrodden, as if we are all somehow responsible for each other's mistakes and bad luck. You ask me, if we're pissing off both sides, we're probably doing it right.
 
 ## The Jovian Republic
 

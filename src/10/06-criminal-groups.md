@@ -84,7 +84,7 @@ The Night Cartel's headquarters is on Pallas, a major asteroid habitat in the Ma
 
 </div>
 
-The villains of choice in many XP thrillers, Nine Lives is a soul-trafficking syndicate infamous for their cruelty and ruthlessness. New members are forced to prove themselves by torturing innocent egos through psychosurgery or in meatspace, a hazing called "The Rite.” The gang appropriates and twists the trappings of Vodou to intimidate its rivals. Their sophisticated egonapping operations employ thieves and forknappers from around the system, sold in auctions and to private collectors. Nine Lives is known for sleeving their victims into a variety of morphs for brutal pit fights to entertain bloodthirsty crowds.
+The villains of choice in many XP thrillers, Nine Lives is a soul-trafficking syndicate infamous for their cruelty and ruthlessness. New members are forced to prove themselves by torturing innocent egos through psychosurgery or in meatspace, a hazing called “The Rite.” The gang appropriates and twists the trappings of Vodou to intimidate its rivals. Their sophisticated egonapping operations employ thieves and forknappers from around the system, sold in auctions and to private collectors. Nine Lives is known for sleeving their victims into a variety of morphs for brutal pit fights to entertain bloodthirsty crowds.
 
 Roland Nazon, one of the most feared gang lords in the Solar System, once kept tight control over Nine Lives operations, but he has recently become reclusive. Rumors abound that he has descended into madness or that one of his lieutenants has usurped control, but no one knows for sure.
 

@@ -56,6 +56,6 @@ This is not to say that nanofabrication has completely replaced all other manufa
 
 ## Solarchive Search :: The Invisible Masses
 
-One way that nanotechnology has changed society is also the hardest to see: nanoswarms. Clouds of invisible nanobots now surround us on a daily basis, undertaking unseen tasks. These range from purposes as utilitarian as cleaning, maintenance, and repair to insidious ones such as spying, sabotage, and hostile disassembly. Carrying a nanodetector is a common practice when you wish to be appraised of the invisible mites in your presence. Heavy use of swarms in an area sometimes builds up a dust-like "toner" residue as nanobots die off en masse.
+One way that nanotechnology has changed society is also the hardest to see: nanoswarms. Clouds of invisible nanobots now surround us on a daily basis, undertaking unseen tasks. These range from purposes as utilitarian as cleaning, maintenance, and repair to insidious ones such as spying, sabotage, and hostile disassembly. Carrying a nanodetector is a common practice when you wish to be appraised of the invisible mites in your presence. Heavy use of swarms in an area sometimes builds up a dust-like “toner” residue as nanobots die off en masse.
 
 <!-- CLEANED /blockquote -->

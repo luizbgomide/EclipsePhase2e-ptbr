@@ -59,7 +59,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **The Cloud:** Other devices on the mesh that offer software services.
 - **Cluster:** A micrograv habitat of interconnected modules.
 - **CME:** Coronal mass ejection; a solar flare.
-- **Codeline:** The code "family" from which an AGI is derived.
+- **Codeline:** The code “family” from which an AGI is derived.
 - **The Complaints:** The list of grievances shared by the Barsoomians.
 - **Conservatives:** The Firewall faction opposed to using AGIs, asyncs, and alien/TITAN technology.
 - **Cornucopia Machine:** A general-purpose nanofabricator.
@@ -118,7 +118,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Flexbot:** A shape-changing synthmorph capable of joining with other flexbots in a modular fashion to create larger shapes.
 - **Fork:** A copy of an ego.
 - **Forknapping:** Kidnapping a backup or fork.
-- **Fractal:** A "bush robot" TITAN machine with fractal appendages and advanced nanofab capabilities.
+- **Fractal:** A “bush robot” TITAN machine with fractal appendages and advanced nanofab capabilities.
 - **The Fringe:** The remote and unpopulated areas of the Solar System.
 - **FTL:** Faster-Than-Light.
 - **Fury:** A transhuman combat biomorph.
@@ -161,7 +161,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **ISET:** The Institude for the Study of Emergent Trends. The Argonauts' clandestine intelligence and forecasting service.
 - **Isolates:** Exiles on the fringes of the system. AKA brinkers.
 - **ITN:** The interplanetary transport network; using gravity to move between planets using minimal fuel.
-- **Jamming:** Teleoperating a bot via an immersive AR overlay and "becoming" the drone.
+- **Jamming:** Teleoperating a bot via an immersive AR overlay and “becoming” the drone.
 - **JSFI:** Jovian Space Force Intelligence.
 - **The Junkyard:** The layer of junk and debris in low Earth orbit.
 - **Junta:** The military regime that dictates the Jovian Republic.

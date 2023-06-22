@@ -119,7 +119,7 @@ Religion and cult worship comprise the last major group of brinkers. Religious g
 
 Perhaps the most numerous brinkers are survivalists, who stockpile weapons and supplies and hide in fear of another Fall or some other system-wide cataclysm. These brinkers are typically untrusting of visitors and hostile to outsiders.
 
-Despite their self-imposed isolation, brinkers do sometimes engage with others, especially to trade for resources and supplies. They sometimes clash with each other over mining claims, bad deals, and roamntic entanglements. A "brinker war" between a clan of Malaysian sikhs and Canadian survivalists is ongoing in the Neptunian Trojans thanks to a territorial dispute.
+Despite their self-imposed isolation, brinkers do sometimes engage with others, especially to trade for resources and supplies. They sometimes clash with each other over mining claims, bad deals, and roamntic entanglements. A “brinker war” between a clan of Malaysian sikhs and Canadian survivalists is ongoing in the Neptunian Trojans thanks to a territorial dispute.
 
 ## Exhumans
 
@@ -198,7 +198,7 @@ Taking Earth back from the TITANs is a pipe dream for most, but the reclaimers h
 
 ### The Earth Reclamation Project
 
-Led by Milder Ripon, the Earth Reclamation Project (ERP) funnels funds to lobbyists influence the LLA and Consortium to support the movement. Opposition to the ERP is fierce: the project is incredibly expensive, it’s opposed to the Consortium dogma that Mars is transhumanity’s new home, and there’s a very real risk of danger — possibly even "re-activating" the TITANs. Rumors that the reclaimers have established a permanent base on Earth as a beachhead and research outpost remain unconfirmed. Admitting nothing, the ERP argues that such a base would be a critical beacon of hope for any transhumans luckless enough to still be trapped down there.
+Led by Milder Ripon, the Earth Reclamation Project (ERP) funnels funds to lobbyists influence the LLA and Consortium to support the movement. Opposition to the ERP is fierce: the project is incredibly expensive, it’s opposed to the Consortium dogma that Mars is transhumanity’s new home, and there’s a very real risk of danger — possibly even “re-activating” the TITANs. Rumors that the reclaimers have established a permanent base on Earth as a beachhead and research outpost remain unconfirmed. Admitting nothing, the ERP argues that such a base would be a critical beacon of hope for any transhumans luckless enough to still be trapped down there.
 
 On a positive note, the reclaimer movement has dumped a massive amount of effort into creating habitat “arks” throughout the system (and on extrasolar worlds). These vault-arks contain genetic material for every species on record, libraries of books, galleries of digitized art, and other artifacts of transhuman culture. Others are literal ecological conservatories and wildlife zoos, preserving Earth's biodiversity in an artificial environment.
 
@@ -245,7 +245,7 @@ The Ultimates owe their origins to Manu Bhattacharya, a mercenary on the Indian 
 
 Just prior to the Fall, Ultimate Security fell under international investigation for war crimes and human rights violations. Bhattacharya relocated his headquarters to a station called Struggle, which allowed him to avoid Earth-based authorities and gave the Ultimates a community to call their own. After the Fall, though Struggle was lost to the TITANs, Ultimate mercenaries found themselves in high demand. They achieved system-wide notoriety when Go-nin hired them to overrun exhuman forces on Eris and seize control of the Discord Gate.
 
-Ultimate communities are highly stratified and built around personal achievement. They take literally the Confucian belief of strength from the bottom up: strong individuals make strong communities, and strong communities make strong states. However, their members increasingly buy into Bhattacharya's myth-making and cult of personality, strict meritocratic beliefs, and derision of lesser transhumans as "genetrash." Ultimate mercs increasingly show their willingness to cross ethical lines and engage in war crimes.
+Ultimate communities are highly stratified and built around personal achievement. They take literally the Confucian belief of strength from the bottom up: strong individuals make strong communities, and strong communities make strong states. However, their members increasingly buy into Bhattacharya's myth-making and cult of personality, strict meritocratic beliefs, and derision of lesser transhumans as “genetrash.” Ultimate mercs increasingly show their willingness to cross ethical lines and engage in war crimes.
 
 <!-- CLEANED blockquote -->
 
