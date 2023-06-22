@@ -110,13 +110,13 @@ Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o
 
 Os usuários logados (incluindo invasores) são avisados quando uma reinicialização ou desligamento foi iniciada. Uma vez iniciado, o processo de desligamento não pode ser interrompido, mas pode ser prolongado por 1d6 turnos de ação com uma ação complexa; isso requer privilégios de segurança/administrador ou um Teste de Infoseg.
 
-**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento "direto" também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
+**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento “direto” também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
 
 ### Encerrar Conexões
 
 **\[Automática\]**
 
-Uma alternativa para o desligamento ou reinicialização é simplesmente cortar todas as conexões (geralmente desativando temporariamente as capacidades sem fio do dispositivo e indo para "modo avião"). O sistema perde todas as conexões ativas, mas quaisquer invasores são removidos. O encerramento usa uma ação complexa para ser iniciado e finaliza no fim deste turno de ação. A conectividade pode ser configurada para ser restaurada no próximo turno de ação, em um período de tempo definido, ou apenas quando iniciada por um administrador local. Reiniciar a conectividade leva um turno de ação. Qualquer usuário remoto precisará logar de novo; invasores sem credenciais adequadas precisarão hackear o sistema novamente. Enquanto as conexões estão encerradas, o sistema não pode se comunicar e interagir com outros sistemas.
+Uma alternativa para o desligamento ou reinicialização é simplesmente cortar todas as conexões (geralmente desativando temporariamente as capacidades sem fio do dispositivo e indo para “modo avião”). O sistema perde todas as conexões ativas, mas quaisquer invasores são removidos. O encerramento usa uma ação complexa para ser iniciado e finaliza no fim deste turno de ação. A conectividade pode ser configurada para ser restaurada no próximo turno de ação, em um período de tempo definido, ou apenas quando iniciada por um administrador local. Reiniciar a conectividade leva um turno de ação. Qualquer usuário remoto precisará logar de novo; invasores sem credenciais adequadas precisarão hackear o sistema novamente. Enquanto as conexões estão encerradas, o sistema não pode se comunicar e interagir com outros sistemas.
 
 ### Rastrear
 
@@ -134,7 +134,7 @@ Os sistemas preocupados com sua segurança são submetidos a auditorias regularm
 
 Cada sistema é único e lida com a segurança de forma diferente. O MJ determina as configurações de cada sistema.
 
-**Ciscos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são escravos de um nodo controlador "gargalo" com melhor segurança (esse é o caso na maioria das PANs).
+**Ciscos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são escravos de um nodo controlador “gargalo” com melhor segurança (esse é o caso na maioria das PANs).
 
 **Terminais** têm defesas que dependem em grande parte da consciência de segurança de seu proprietário. As musas agem como defensoras do sistema para insertos da mesh e ectos.
 
