@@ -51,7 +51,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/20
 - **Ware:** Olfato Aprimorado
 - **Perícias:** Atletismo 30, Evasão 40, Infiltração 30, Infiltração 30, Percepção 20, Queda Livre 30
-- **Notes:** Mordida VD 1d6 \[4\], Tamanho Pequeno
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 
@@ -59,7 +59,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 **Dino-Mascote:** Os hackers genéticos ressuscitaram várias espécies extintas de dinossauros como mascotes pequenos, coloridos e adoráveis. As variedades incluem pterossauros, estegossauros, anquilossauros, triceratops, e muitos outros.
 
-**Casaco de Pele:** O chamado "casaco de pele" é um agasalho feito de um organismo primitivo vivo. As peles, pelagens, ou escamas da criatura são reais. O organismo é cultivado a partir de estoques transgênicos e crescidos em moldes no formato de roupas, geralmente com utilidades reais: parcas de urso polar, traje de mergulho de foca, casacos de porco-espinho, etc. Os casacos de peles são modificados com controles sem fio e sistemas táteis, para que possam se mover, arrepiar, massagear ou se espetar quando desejado.
+**Casaco de Pele:** O chamado “casaco de pele” é um agasalho feito de um organismo primitivo vivo. As peles, pelagens, ou escamas da criatura são reais. O organismo é cultivado a partir de estoques transgênicos e crescidos em moldes no formato de roupas, geralmente com utilidades reais: parcas de urso polar, traje de mergulho de foca, casacos de porco-espinho, etc. Os casacos de peles são modificados com controles sem fio e sistemas táteis, para que possam se mover, arrepiar, massagear ou se espetar quando desejado.
 
 **Enxame Polinizador:** Variações geneticamente modificadas e mescladas de abelhas e vespas polinizam os jardins dos habitats. Eles também produzem mel, caçam outros insetos, aparam folhas e coletam detritos. Embora não sejam agressivos, alguns foram modificados para serem assassinos ou guardiões. Eles seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
@@ -191,7 +191,7 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 <!-- CLEANED /div --></tr>
 
-<tr><td>Hexassalamandra<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
+<tr><td>Hexalamandra<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -205,4 +205,4 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 **Duende Palhaço:** Encontrados no sistema Eco, estes avianos-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
 
-**Hexassalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
+**Hexalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
