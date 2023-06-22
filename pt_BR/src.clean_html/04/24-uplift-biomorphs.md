@@ -99,7 +99,7 @@ Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como out
 
 ### Neo-Polvo
 
-Coloquialmente chamados de "octomorfos", essas capas de polvos elevados são bastante úteis em ambientes de gravidade zero. Eles conservam oito braços, sua capacidade de camaleão para mudar a cor da pele, sacos de tinta e um bico afiado. Eles também têm um aumento de massa cerebral e longevidade, podem respirar tanto ar quanto água, e não possuem estrutura esquelética o que permite que se espremam através de espaços apertados. Os octomorfos tipicamente rastejam em gravidade zero usando os sugadores de seus braços e expulsando ar para propulsão; em baixa gravidade eles andam em dois de seus braços. Seus olhos foram aprimorados com visão colorida, fornecendo um campo visual de 360 graus, e rotacionados para manter a pupila fendida alinhada para "cima". Um sistema vocal transgênico permite que eles falem.
+Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são bastante úteis em ambientes de gravidade zero. Eles conservam oito braços, sua capacidade de camaleão para mudar a cor da pele, sacos de tinta e um bico afiado. Eles também têm um aumento de massa cerebral e longevidade, podem respirar tanto ar quanto água, e não possuem estrutura esquelética o que permite que se espremam através de espaços apertados. Os octomorfos tipicamente rastejam em gravidade zero usando os sugadores de seus braços e expulsando ar para propulsão; em baixa gravidade eles andam em dois de seus braços. Seus olhos foram aprimorados com visão colorida, fornecendo um campo visual de 360 graus, e rotacionados para manter a pupila fendida alinhada para “cima”. Um sistema vocal transgênico permite que eles falem.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
