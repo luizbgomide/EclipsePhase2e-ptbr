@@ -1,6 +1,6 @@
 # Transtornos
 
-Transtornos são distúrbios psicológicos duradouros que geralmente exigem semanas ou meses de psicoterapia e/ou psicocirurgia para serem remediados. Eles representam as melhores tentativas de uma psique danificada se adaptar e lidar com a angústia mental e emocional. Os transtornos não estão sempre "ativos" — eles permanecem dormentes até que sejam desencadeados por certas condições. Enquanto é certamente possível funcionar "normalmente" com um transtorno, ele representa uma deficiência severa na capacidade da pessoa manter relacionamentos saudáveis e ter sucesso em seu trabalho/ocupação.
+Transtornos são distúrbios psicológicos duradouros que geralmente exigem semanas ou meses de psicoterapia e/ou psicocirurgia para serem remediados. Eles representam as melhores tentativas de uma psique danificada se adaptar e lidar com a angústia mental e emocional. Os transtornos não estão sempre “ativos” — eles permanecem dormentes até que sejam desencadeados por certas condições. Enquanto é certamente possível funcionar “normalmente” com um transtorno, ele representa uma deficiência severa na capacidade da pessoa manter relacionamentos saudáveis e ter sucesso em seu trabalho/ocupação.
 
 **Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou acumulando estresse que iguala ou excede sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
 
@@ -92,7 +92,7 @@ Depressão clínica é caracterizada por sentimentos intensos de desesperança e
 
 **Gatilhos:** Desamparo, memórias específicas, o desconhecido, violência
 
-Uma personalidade separada e distinta se desenvolve além da sua personalidade original. As personalidades podem ou não estarem cientes uma da outra e "conscientes" durante as ações da outra personalidade, embora haja alguma compartilhamento básico de informações (como idiomas e conjuntos de perícias principais). A maioria do indivíduos tem apenas uma única personalidade extra, mas não é inédito ter várias personalidades. Cada personalidade vê a si mesma como uma pessoa diferente com seus próprios desejos, necessidades e motivações.
+Uma personalidade separada e distinta se desenvolve além da sua personalidade original. As personalidades podem ou não estarem cientes uma da outra e “conscientes” durante as ações da outra personalidade, embora haja alguma compartilhamento básico de informações (como idiomas e conjuntos de perícias principais). A maioria do indivíduos tem apenas uma única personalidade extra, mas não é inédito ter várias personalidades. Cada personalidade vê a si mesma como uma pessoa diferente com seus próprios desejos, necessidades e motivações.
 
 **Efeitos:** A outra personalidade deve ser interpretada (talvez pelo MJ ou outro jogador).
 
