@@ -57,7 +57,7 @@ Para um resultado maior, escolha um dos seguintes. Para dois resultados maiores,
 
 ## Resultados Críticos
 
-Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos "Uau!", em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles fornecem efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
+Os críticos (“crits”) têm mais impacto do que os resultados maiores. Eles representam os momentos “Uau!”, em que você surpreende todo mundo com sua incrível proficiência ou inépcia. Eles fornecem efeitos/penalidades extras, conforme determinado pelo MJ. Aqui estão alguns exemplos:
 
 - Dobrar o dano que você inflige com um ataque.
 - Obter um modificador +/−20 para o próximo teste que você fizer.
