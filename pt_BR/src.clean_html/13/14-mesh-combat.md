@@ -1,6 +1,6 @@
 # Combate na Mesh
 
-"Combate" na mesh é uma abstração. Ao contrário do combate físico, não há avatares duelando, nem manobras digitais, nem programas mortais. O combate na mesh representa esforços para comprometer a estabilidade do software — estados mentais de infomorfos (incluindo cibercérebros), consoles de contas, apps (incluindo o firewall), ou os próprios sistemas operacionais — forçando-os a travar. O combate na mesh segue as regras normais do combate, como descritas abaixo.
+“Combate” na mesh é uma abstração. Ao contrário do combate físico, não há avatares duelando, nem manobras digitais, nem programas mortais. O combate na mesh representa esforços para comprometer a estabilidade do software — estados mentais de infomorfos (incluindo cibercérebros), consoles de contas, apps (incluindo o firewall), ou os próprios sistemas operacionais — forçando-os a travar. O combate na mesh segue as regras normais do combate, como descritas abaixo.
 
 ## Local vs. Remoto
 
@@ -28,7 +28,7 @@ Os firewalls são treinados para detectar ataques na mesh. Sempre que um invasor
 
 Se o seu ataque vencer, você inflige dano. Um ataque na mesh padrão inflige VD 2d10. Alguns apps ou circunstâncias especiais podem modificar esse dano. Cada sucesso maior inflige um dano de 1d6 extra. Os sucessos críticos significam que o dano é duplicado.
 
-Alguns apps, infomorfos e sistemas resistentes possuem redundâncias incorporadas para protegê-los de ataques na mesh. Isso conta como "armadura" e é subtraído da rolagem de dano.
+Alguns apps, infomorfos e sistemas resistentes possuem redundâncias incorporadas para protegê-los de ataques na mesh. Isso conta como “armadura” e é subtraído da rolagem de dano.
 
 ## Ferimentos na Mesh
 
