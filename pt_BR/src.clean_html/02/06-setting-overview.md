@@ -12,7 +12,7 @@ O Consórcio Planetário é a facção dominante aqui, trabalhando arduamente pa
 
 ## Cinturão Principal
 
-A linha de demarcação entre os sistemas interior e exterior é um caldeirão de culturas e facções. Vários habitats independentes prosperam aqui, proporcionando um fórum para autonomistas e hipercapitalistas se misturarem e negociarem. Vários cartéis criminosos também mantêm uma presença, longe da interferência da lei. O grande habitat, Extropia, é conhecido como uma fortaleza "anarcocapitalista" independente, onde contratos mútuos e tribunais autônomos são a única lei.
+A linha de demarcação entre os sistemas interior e exterior é um caldeirão de culturas e facções. Vários habitats independentes prosperam aqui, proporcionando um fórum para autonomistas e hipercapitalistas se misturarem e negociarem. Vários cartéis criminosos também mantêm uma presença, longe da interferência da lei. O grande habitat, Extropia, é conhecido como uma fortaleza “anarcocapitalista” independente, onde contratos mútuos e tribunais autônomos são a única lei.
 
 ## Espaço Joviano
 
@@ -22,7 +22,7 @@ A República é conhecida como um bastião da religião e bioconservadorismo. El
 
 ## Sistema Exterior
 
-É difícil compreender o quão vazio é o espaço. Viajando a velocidade da luz, uma mensagem de Marte para Lua leva cerca de doze minutos em média. Para Júpiter, quase uma hora. Para Urano, duas a três horas. Para Plutão, seis horas. As naves mais rápidas, viajando no máximo, levam semanas ou meses para chegar a lugares no sistema exterior. Fora das vizinhanças próximas — as luas dos gigantes gasosos ou "agrupamentos" de asteroides troianos — as estações do sistema exterior são isoladas e distantes umas das outras.
+É difícil compreender o quão vazio é o espaço. Viajando a velocidade da luz, uma mensagem de Marte para Lua leva cerca de doze minutos em média. Para Júpiter, quase uma hora. Para Urano, duas a três horas. Para Plutão, seis horas. As naves mais rápidas, viajando no máximo, levam semanas ou meses para chegar a lugares no sistema exterior. Fora das vizinhanças próximas — as luas dos gigantes gasosos ou “agrupamentos” de asteroides troianos — as estações do sistema exterior são isoladas e distantes umas das outras.
 
 As luas de Saturno proporcionam a região mais densa e diversa, abrigando várias instalações de pesquisa, colônias independentes e as metrópoles em domos de Titã. Elas são a facção mais bem estabelecida da Aliança Autonomista, com os maiores serviços de inteligência e militares.
 
