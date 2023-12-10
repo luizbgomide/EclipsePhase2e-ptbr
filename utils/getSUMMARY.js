@@ -3,39 +3,63 @@ const path = require("path");
 
 const summaryFile = "SUMMARY.md";
 
-function readDirectory(dir) {
+function readDirectory(root, depth = -1) {
     let result = "";
 
-    let dirList = fs.readdirSync(dir, { withFileTypes: true }).sort();
-    dirList.filter((file) => file.isDirectory()).forEach((file) => {
-        result += readDirectory(path.posix.join(dir, file.name));
-    });
-    if (dir == sourceDir) {
-        result += "\n---\n\n";
+    let dirContents = fs.readdirSync(root, { withFileTypes: true }).sort();
+    let dirList = dirContents.filter((file) => file.isDirectory());
+    let fileList = dirContents.filter((file) => file.isFile() && path.extname(file.name) == ".md" && file.name != summaryFile);
+    let titleFile = fileList.find((file) => file.name.startsWith("00-"));
+
+    if (titleFile) {
+        fileList = fileList.filter((file) => file != titleFile);
+        result += processFile(path.posix.join(root, titleFile.name), depth);
     }
-    dirList.filter((file) => file.isFile()).forEach((file) => {
-        result += processFile(path.posix.join(dir, file.name));
+
+    let extraResult = "";
+
+    dirList.forEach((dir) => {
+        let dirName = dir.name;
+        if (root == sourceDir && !/^\d+/.test(dirName)) {
+            extraResult += readDirectory(path.posix.join(root, dirName), -1);
+        } else {
+            result += readDirectory(path.posix.join(root, dirName), depth + 1);
+        };
     });
-    return result;
+
+    fileList.forEach((file) => {
+        result += processFile(path.posix.join(root, file.name), depth + 1);
+    });
+
+    return result + extraResult;
 }
 
-function processFile(file) {
-    let filename = path.basename(file);
-    if (filename == summaryFile) return "";
-    let relative_path = path.posix.relative(sourceDir, file);
+function getMDTitle(file) {
     if (path.extname(file) != ".md") {
         return "";
     }
     let contents = fs.readFileSync(path.resolve(file), 'utf8');
     let title = contents.match(/^\# (.+)$/m);
-    if (filename.startsWith("00-")) {
-        return `- [${title[1]}](${relative_path})\n`;
+    if (title && title.length > 0) { 
+        return title[1] ?? "";
     }
-    if (!/^\d\d\-/.test(filename)) {
-        return `[${title[1]}](${relative_path})\n`;
-    }
-    return `  - [${title[1]}](${relative_path})\n`;
+    return "";
 }
+
+function processFile(file, depth) {
+    let filename = path.basename(file);
+    let relative_path = path.posix.relative(sourceDir, file);
+    let title = getMDTitle(file);
+    if (title == "") return "";
+
+    if (depth < 0) {
+        return `\n# ${title}\n\n`
+    }
+
+    return "  ".repeat(depth) + `- [${title}](${relative_path})\n`;
+}
+
+
 
 
 if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: false })?.isDirectory()) {
@@ -49,3 +73,4 @@ fs.writeFileSync(targetFile, list);
 
 console.log(`Process complete.\nSummary written to: "${targetFile}"`);
 process.exit(0);
+

@@ -26,9 +26,7 @@ function readDirectory(dir) {
             dirList.filter((file) => file.isFile() && !file.name.startsWith("00-")).forEach((file) => {
                 result += processFile(path.posix.join(dir, file.name));
             });
-            if (result.length > 0) {
-                fs.writeFileSync(tocFile, contents + result);
-            }
+            fs.writeFileSync(tocFile, contents + result);
         }
 
     }
@@ -54,7 +52,7 @@ function processFile(file) {
     for (const h of headers) {
         let level = h[1].length;
         let slug = h[2].toLowerCase().trim().replace(specials, '').replace(whitespace, '-');
-        let relative_path = path.posix.relative(fakeOrigin, file);
+        let relative_path = path.posix.relative(path.dirname(file) + "FAKE", file);
         if (level == 1) {
             result += `${"  ".repeat(level - 1)}- [${h[2]}](${relative_path})\n`;
         }
