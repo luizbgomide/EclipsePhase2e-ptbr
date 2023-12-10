@@ -16,5 +16,3 @@
 - [Berk](../05/berk.pdf)
 - [Elis](../05/elis.pdf)
 - [Pivo](../05/pivo.pdf)
-
-<!-- TOC PLACEHOLDER -->

@@ -1,3 +1,0 @@
-# Multiplicity & Synthesis
-
-<!-- TOC PLACEHOLDER -->
