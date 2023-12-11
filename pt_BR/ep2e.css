@@ -23,6 +23,17 @@ blockquote > :last-child {
   margin-bottom: 0;
 }
 
+.no-margin > :not(:first-child){
+  margin-top: 0;
+}
+.no-margin > :not(:last-child){
+  margin-bottom: 0;
+}
+
+.header-bg {
+  background: var(--table-header-bg);
+}
+
 /* blockquote table */
 .table > :is(p, h2, h3, h4) {
   text-align: center;
@@ -34,7 +45,7 @@ blockquote > :last-child {
 
 /* blockquote framed-table */
 .framed-table {
-  padding: 8px 16px 0 16px;
+  padding: 8px 16px;
   border: 3px solid var(--fg);
   background-color: transparent;
 }
