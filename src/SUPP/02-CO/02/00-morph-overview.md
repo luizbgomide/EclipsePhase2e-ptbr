@@ -1,4 +1,164 @@
 # Morph Overview
 
+## Lonely Planetoid: A New You
+
+<blockquote class="stat-list">
+
+| **EYECHAT // OPEN CHANNEL:<br>MORPHS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cacophonous:** Traveler’s guide _Lonely Planetoid_ has posted their yearly summary and review of common morph models for the aspiring solar system egocaster. Since having the right sleeve for the job is so important for so many of our sentinels, I thought this might be interesting to share and comment on. Everyone has their faves as well as their horror stories and amusing anecdotes; let’s break ‘em out. Who knows, the collective recommendations might may make all the difference when an op goes terminal, or it may at least save you the pain of a coin toss. Please reserve the skin-vs.-shell debates for the open flame channels; I’d rather focus on the advantages and disadvantages for each morph individually. |
+| **Skinwalker:** Oh, we’re all over this.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Chiro:** Skinwalker, I wouldn’t be surprised if you and your forks hadn’t tried every single morph listed here.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Skinwalker:** Not all, but more than a few. We have a few collective faves and a few I wouldn’t recommend to a desperate infugee. We also don’t always agree, of course.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Just Mortal:** That’s one reason I don’t fork. Why would I want to argue with myself? I’m an asshole.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Psychscaper:** I can edit that out for you, if you like.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Just Mortal:** No thanks. I like my ego, flaws and all.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Psychscaper:** Yeah, I can fix that glitch too.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Qi:** Can we get some geneticist crows in here? Particularly anyone who’s worked in morph design, uplift, or neogenetics? It would be nice to scan the opinions of people who actually have a handle on the source code, so to speak. Same goes for hardware engineers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Plasmid:** I can help with that. I’ve dipped my paws in and mixed up the gene pool on a few occasions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sequencer:** Me as well. I have a background in genomics and I’ve dabbled in neogenetics.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Callosum:** I can speak to any neuroscience issues.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Rivet:** I’ve got a handle on synthmorph designs. The Great Red Spot knows I’ve had to put dozens of ‘em back together.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Stitch:** I’ve audited the code for a fair number of proprietary minifac mass production programs, and written a few open source schematics as well, so I can speak to the molecular-scale designs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Cacophonous:** Excellent, let’s get this party started.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+</blockquote>
+
+<blockquote>
+
+| **EYECHAT // OPEN CHANNEL:<br>MORPHS // SUBTOPIC: RESLEEVING**                                                                                                                                                                                                                                                                                                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cacophonous:** While we’re discussing morphs, I know everyone has a different approach to resleeving and choosing a new morph (when you have a choice, that is). I’m curious about everyone’s personal take.                                                                                                                                                                                                                          |
+| **Nezumi:** Well the needs of the mission come first, of course. Right tool for the job and all that. Necessities aside, I like to try out something different when I can. It’s always good to walk a kilometer in someone else’s bod, so to speak.                                                                                                                                                                                     |
+| **Nevermore:** That’s not for me. I go for the sleeves that feel closest to home. It’s just more comfortable wearing a skin that’s like the one I grew up in.                                                                                                                                                                                                                                                                           |
+| **Scent.In.Hell:** I’m with you on that point, but more because I don’t like needing to adjust to a new body. I always feel like such a klutz or a noob. I’d rather just go with something that fits, that feels right, that doesn’t take getting used to. I already went through my toddler years, don’t see the need to revisit that on a regular basis.                                                                              |
+| **Nova Vida:** Bah, you ask me, a little bit of discomfort is worth it, if the morph is right. There’s nothing like flexing a nice new pair of muscles, breathing air that’d normally kill you, or seeing colors and wavelengths to which you’re normally blind. I don’t mind the acclimation when the payoff is worthwhile.                                                                                                            |
+| **Rivet:** If you really want to play with new toys, though, shells have it way better than skins. More options, fewer limitations, harder to damage, easier to repair.                                                                                                                                                                                                                                                                 |
+| **Ruqinzhe:** And easier to hack.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Rivet:** We all have our weaknesses.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Ammonite:** No metal frames for me. They’re called the Clanking Masses for a reason. I’ll take the grace and elegance of flesh and blood over plastics and lubricant any day.                                                                                                                                                                                                                                                         |
+| **Red Rover:** Your classism is showing.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Ammonite:** So is your lack of taste.                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Hex:** I don’t buy into the biochauvinism, but I do have to say that I’m not a fan of synthmorphs simply because I enjoy the biological aspects of life. I like eating, sleeping, and having sex.                                                                                                                                                                                                                                     |
+| **mAlice:** They have sims for that. You can pretend to have all of the great biological functions you want, and skip the nasty and gross ones. Win win.                                                                                                                                                                                                                                                                                |
+| **Voight-Kampff:** Well, if you’re going that far, why not just ditch the physical altogether?                                                                                                                                                                                                                                                                                                                                          |
+| **Qi:** There’s something to be said for the infomorph lifestyle. It’s very freeing, like your mind is unbound. There’s so much potential, so little time wasted on the mundane aspects of existence.                                                                                                                                                                                                                                   |
+| **Just Mortal:** Sure, until you need to go somewhere there’s no mesh coverage.                                                                                                                                                                                                                                                                                                                                                         |
+| **Qi:** That’s why Jupiter invented puppet socks and cyberbrains.                                                                                                                                                                                                                                                                                                                                                                       |
+| **mAlice:** I do sometimes wonder what my router is smoking when I find out what they’ve lined up for me. I understand, resources are limited, we have to make do with the stock that’s on hand, yadda yadda. I know they’ve read the mission specs — heck, they put them together — and sometimes I have to wonder if they really expect me to take on this threat with a budget synth or a neotenic or are they just fucking with me? |
+| **Stitch:** As a router, I always try to get my sentinels the best options, and I especially try to get them morphs that match their skills and strengths. That said, I also tend to give them options to choose from, when I can. I’m fairly sure some of the sentinels I send out go for the high-end skins and shells, though, simply cuz they feel it’s on the company’s dime.                                                      |
+| **Parallax:** This is one of the reasons I always try to line up my own morph when I can. This way, my picky self is more likely to be happy and there’s less hassle all around.                                                                                                                                                                                                                                                        |
+| **Expat:** I avoid resleeving when at all possible. Sometimes it’s necessary, but the process still sorta squicks me out. There is, quite honestly, a part of me that wonders if the real me died a long time ago, in my first body, and I’m just a very delusional and/ or egotistical program that carries on, oblivious.                                                                                                             |
+| **Cacophonous: Biocon rubbish. Let me ask you:** even if that were true, would it matter? Has your quality of life changed?                                                                                                                                                                                                                                                                                                             |
+| **Expat:** Would I know if it had?                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ruqinzhe:** I’ve never minded resleeving — in fact, I like it. These days, I get bored with my morph pretty quickly, to be honest. I change bods the way some people used to change hairstyles.                                                                                                                                                                                                                                       |
+| **Nevermore:** That’s nothing, I know people that resleeve as much as others change clothes. Cyberbrains make it really easy to evacuate a body. To say nothing of the folks like Skinwalker and Chiro, who fork, sleeve, merge, and do it all over again.                                                                                                                                                                              |
+| **Chiro:** Guilty as charged.                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Skinwalker:** There’s too much life to live; one of me can’t do it alone.                                                                                                                                                                                                                                                                                                                                                             |
+| **Psychscaper:** I admire that plasticity, the ability to take on and discard new morphs as easy switching an outfit. Too many people have their self-image and self-worth intermeshed with the physical form they are wearing. You are not your morph, any more than you are the fabric you wear or the things you buy. It’s all just surface detail; what really matters is what’s under the skin.                                    |
+| **Zahiri:** Who’s to say we are just one thing? Why is our personality not as malleable as our shells? When I sleeve a reaper, I become a killing machine. When I’m in a pleasure pod, my interests are more ... salubrious. I’m capable of both. We are multi-faceted creatures, and sometimes our exteriors just help us to shine even more.                                                                                          |
+
+</blockquote>
+
 <!-- TOC PLACEHOLDER -->
 
+- [Morph Types](../02/01-morph-types.md)
+  - [Morph Stats](../02/01-morph-types.md#morph-stats)
+  - [Biomorphs](../02/01-morph-types.md#biomorphs)
+    - [Pod Biomorphs](../02/01-morph-types.md#pod-biomorphs)
+    - [Uplift Biomorphs](../02/01-morph-types.md#uplift-biomorphs)
+    - [Exomorph Biomorphs](../02/01-morph-types.md#exomorph-biomorphs)
+  - [Synthmorphs](../02/01-morph-types.md#synthmorphs)
+    - [Flexbot Synthmorphs](../02/01-morph-types.md#flexbot-synthmorphs)
+      - [Flexbot Rules](../02/01-morph-types.md#flexbot-rules)
+  - [Infomorphs](../02/01-morph-types.md#infomorphs)
+  - [Core Morphs](../02/01-morph-types.md#core-morphs)
+    - [Core Sleeving and Perception](../02/01-morph-types.md#core-sleeving-and-perception)
+    - [Multiple Egos](../02/01-morph-types.md#multiple-egos)
+    - [Core Hacking](../02/01-morph-types.md#core-hacking)
+    - [Digital Speed](../02/01-morph-types.md#digital-speed)
+    - [Cores and Ware](../02/01-morph-types.md#cores-and-ware)
+  - [Axles: Bot and Vehicle Morphs](../02/01-morph-types.md#axles-bot-and-vehicle-morphs)
+    - [Retrofitting](../02/01-morph-types.md#retrofitting)
+    - [Axle Sensorium](../02/01-morph-types.md#axle-sensorium)
+    - [Axle Ware](../02/01-morph-types.md#axle-ware)
+    - [Axle Egos and Pilots](../02/01-morph-types.md#axle-egos-and-pilots)
+    - [Axle ALIs](../02/01-morph-types.md#axle-alis)
+  - [Axle MP](../02/01-morph-types.md#axle-mp)
+- [Biomorphs](../02/02-biomorphs.md)
+    - [Alpiner](../02/02-biomorphs.md#alpiner)
+    - [Aquanaut](../02/02-biomorphs.md#aquanaut)
+    - [Ariel](../02/02-biomorphs.md#ariel)
+    - [Bouncer](../02/02-biomorphs.md#bouncer)
+    - [Bruiser](../02/02-biomorphs.md#bruiser)
+    - [Cloud Skate](../02/02-biomorphs.md#cloud-skate)
+    - [Crasher](../02/02-biomorphs.md#crasher)
+    - [Dvergr](../02/02-biomorphs.md#dvergr)
+    - [Exalt](../02/02-biomorphs.md#exalt)
+    - [Faust](../02/02-biomorphs.md#faust)
+    - [Flat](../02/02-biomorphs.md#flat)
+    - [Freeman](../02/02-biomorphs.md#freeman)
+    - [Fury](../02/02-biomorphs.md#fury)
+    - [Futura](../02/02-biomorphs.md#futura)
+    - [Garuda](../02/02-biomorphs.md#garuda)
+    - [Ghost](../02/02-biomorphs.md#ghost)
+    - [Glider](../02/02-biomorphs.md#glider)
+      - [Venusian Glider Variant](../02/02-biomorphs.md#venusian-glider-variant)
+    - [Grey](../02/02-biomorphs.md#grey)
+    - [Hazer](../02/02-biomorphs.md#hazer)
+    - [Hibernoid](../02/02-biomorphs.md#hibernoid)
+    - [Hulder](../02/02-biomorphs.md#hulder)
+    - [Hyperbright](../02/02-biomorphs.md#hyperbright)
+    - [Imp](../02/02-biomorphs.md#imp)
+    - [Menton](../02/02-biomorphs.md#menton)
+    - [Neotenic](../02/02-biomorphs.md#neotenic)
+    - [Nomad](../02/02-biomorphs.md#nomad)
+    - [Observer](../02/02-biomorphs.md#observer)
+    - [Olympian](../02/02-biomorphs.md#olympian)
+    - [Remade](../02/02-biomorphs.md#remade)
+    - [Ring Flyer](../02/02-biomorphs.md#ring-flyer)
+    - [Ruster](../02/02-biomorphs.md#ruster)
+    - [Salamander](../02/02-biomorphs.md#salamander)
+    - [Selkie](../02/02-biomorphs.md#selkie)
+    - [Splicer](../02/02-biomorphs.md#splicer)
+    - [Surya](../02/02-biomorphs.md#surya)
+      - [Nishakara Variant](../02/02-biomorphs.md#nishakara-variant)
+    - [Sylph](../02/02-biomorphs.md#sylph)
+    - [Theseus](../02/02-biomorphs.md#theseus)
+- [Uplift Biomorphs](../02/03-uplift-biomorphs.md)
+    - [Neo-Avian](../02/03-uplift-biomorphs.md#neo-avian)
+    - [Neo-Bonobo/Neo-Chimpanzee](../02/03-uplift-biomorphs.md#neo-bonoboneo-chimpanzee)
+    - [Neo-Neanderthal](../02/03-uplift-biomorphs.md#neo-neanderthal)
+    - [Neo-Gorilla](../02/03-uplift-biomorphs.md#neo-gorilla)
+    - [Neo-Octopus](../02/03-uplift-biomorphs.md#neo-octopus)
+    - [Neo-Orangutan](../02/03-uplift-biomorphs.md#neo-orangutan)
+- [Pod Biomorphs](../02/04-pod-exomorph-biomorphs.md)
+    - [Basic Pod](../02/04-pod-exomorph-biomorphs.md#basic-pod)
+    - [Worker Pod](../02/04-pod-exomorph-biomorphs.md#worker-pod)
+    - [Novacrab](../02/04-pod-exomorph-biomorphs.md#novacrab)
+    - [Pleasure Pod](../02/04-pod-exomorph-biomorphs.md#pleasure-pod)
+    - [Security Pod](../02/04-pod-exomorph-biomorphs.md#security-pod)
+    - [Shaper](../02/04-pod-exomorph-biomorphs.md#shaper)
+- [Synthmorphs](../02/05-synthmorphs.md)
+    - [Case](../02/05-synthmorphs.md#case)
+    - [Spare](../02/05-synthmorphs.md#spare)
+    - [Dragonfly](../02/05-synthmorphs.md#dragonfly)
+    - [Swarmanoid](../02/05-synthmorphs.md#swarmanoid)
+    - [Synth](../02/05-synthmorphs.md#synth)
+    - [Savant](../02/05-synthmorphs.md#savant)
+    - [Galatea](../02/05-synthmorphs.md#galatea)
+    - [Slitheroid](../02/05-synthmorphs.md#slitheroid)
+    - [Steel Morph](../02/05-synthmorphs.md#steel-morph)
+    - [Arachnoid](../02/05-synthmorphs.md#arachnoid)
+    - [Reaper](../02/05-synthmorphs.md#reaper)
+  - [Flexbot](../02/05-synthmorphs.md#flexbot)
+    - [All Flexbots](../02/05-synthmorphs.md#all-flexbots)
+    - [Crafter Module](../02/05-synthmorphs.md#crafter-module)
+    - [Fighter Module](../02/05-synthmorphs.md#fighter-module)
+    - [Rogue Module](../02/05-synthmorphs.md#rogue-module)
+    - [Wizard Module](../02/05-synthmorphs.md#wizard-module)
+- [Infomorphs](../02/06-info-core-morphs.md)
+    - [Digimorph](../02/06-info-core-morphs.md#digimorph)
+    - [Ikon](../02/06-info-core-morphs.md#ikon)
+    - [Agent](../02/06-info-core-morphs.md#agent)
+    - [Operator](../02/06-info-core-morphs.md#operator)
