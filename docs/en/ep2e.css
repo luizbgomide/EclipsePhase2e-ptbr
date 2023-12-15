@@ -11,6 +11,10 @@
 .right-aligned {
   text-align: right;
 }
+.nowrap {
+  white-space: nowrap;
+}
+
 
 /* blockquote stuff */
 blockquote {
@@ -21,6 +25,17 @@ blockquote > :first-child {
 }
 blockquote > :last-child {
   margin-bottom: 0;
+}
+
+.no-margin > :not(:first-child){
+  margin-top: 0;
+}
+.no-margin > :not(:last-child){
+  margin-bottom: 0;
+}
+
+.header-bg {
+  background: var(--table-header-bg);
 }
 
 /* blockquote table */
@@ -34,7 +49,7 @@ blockquote > :last-child {
 
 /* blockquote framed-table */
 .framed-table {
-  padding: 8px 16px 0 16px;
+  padding: 8px 16px;
   border: 3px solid var(--fg);
   background-color: transparent;
 }
@@ -68,6 +83,7 @@ table tr > :last-child {
 .fixed table {
   table-layout: fixed;
 }
+
 .tl1 tr > :nth-child(1),
 .tl2 tr > :nth-child(2),
 .tl3 tr > :nth-child(3),
@@ -100,6 +116,18 @@ table tr > :last-child {
 .tc8 tr > :nth-child(8),
 .tc9 tr > :nth-child(9) {
   text-align: center;
+}
+
+.tnw1 tr > :nth-child(1),
+.tnw2 tr > :nth-child(2),
+.tnw3 tr > :nth-child(3),
+.tnw4 tr > :nth-child(4),
+.tnw5 tr > :nth-child(5),
+.tnw6 tr > :nth-child(6),
+.tnw7 tr > :nth-child(7),
+.tnw8 tr > :nth-child(8),
+.tnw9 tr > :nth-child(9) {
+  white-space: nowrap;
 }
 
 /* title formatting */
