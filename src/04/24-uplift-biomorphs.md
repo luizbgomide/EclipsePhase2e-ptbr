@@ -2,8 +2,6 @@
 
 These biomorphs are the original bodies of various sapient non-humans. Though uncommon and sometimes stigmatized, they are also sleeved by non-uplifts.
 
-</blockquote>
-
 ### Neo-Avian
 
 Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1&nbsp;g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompanied with an opposable thumb. Neo-avians have adapted well to microgravity environments, and are favored for their small size and reduced resource use.
