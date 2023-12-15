@@ -19,7 +19,9 @@ culture in which you were raised if you are an immigrant, indigenous person in o
 
 <blockquote class="table">
 
-## 3.0 Random Language \[d10\]
+## 3.0 Random Language \[d100\]
+
+<div class="tnw1">
 
 | d100  | Language      |
 | :---: | :------------ |
@@ -51,4 +53,5 @@ culture in which you were raised if you are an immigrant, indigenous person in o
 | 94–97 | Wu            |
 | 98–99 | Other         |
 
+</div>
 </blockquote>

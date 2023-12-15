@@ -1,11 +1,9 @@
 # 2 Aptitude Template
 
 <div class="no-margin">
-
 <blockquote class="header-bg">
 
-**Determine your character’s starting aptitudes (▶36, EP2) from the Random Aptitude
-Template table.**
+**Determine your character’s starting aptitudes (▶36, EP2) from the Random Aptitude Template table.**
 
 </blockquote>
 
@@ -20,31 +18,33 @@ in your eye? Did you always play well with others? These aptitudes are your core
 the source of your inner strengths — but they do not necessarily define who you are.
 
 </blockquote>
-
 </div>
 
 <blockquote class=table>
 
 ## 2.0 Random Aptitude Template \[d10\]
 
+<div class="tnw1 tnw2">
 
-| d10  |         Template         | Description                                                                  |  COG  |  INT  |  REF  |  SAV  |  SOM  |  WIL  |
-| :--- | :----------------------: | :--------------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1    |      **Actioneer**       | You are more comfortable with physicality than talking or thinking.          |  10   |  15   |  20   |  10   |  20   |  15   |
-| 2    |      **Extrovert**       | You can talk your way through most situations.                               |  10   |  20   |  15   |  20   |  15   |  10   |
-| 3    |     **Facilitator**      | You’re good with people, planning, and seeing things through.                |  15   |  15   |  10   |  20   |  10   |  20   |
-| 4    |       **Factotum**       | You’ve never quite stood out, but you exhibit broad competence.              |  15   |  15   |  15   |  15   |  15   |  15   |
-| 5    |       **Inquirer**       | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
-| 6    |       **Survivor**       | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
-| 7    |    **Thrill Seeker**     | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
-| 8    |      **Roll Again**      |                                                                              |       |       |       |       |       |       |
-|      |   1–5<br>**Actioneer**   | You are more comfortable with physicality than talking or thinking.          |  10   |  15   |  20   |  10   |  20   |  15   |
-|      |   6–0<br>**Extrovert**   | You can talk your way through most situations.                               |  10   |  20   |  15   |  20   |  15   |  10   |
-| 9    |      **Roll Again**      |                                                                              |       |       |       |       |       |       |
-|      |  1–5<br>**Faciltator**   | You’re good with people, planning, and seeing things through.                |  15   |  15   |  10   |  20   |  10   |  20   |
-|      |   6–0<br>**Inquirer**    | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
-| 0    |      **Roll Again**      |                                                                              |       |       |       |       |       |       |
-|      |   1–5<br>**Survivor**    | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
-|      | 6–0<br>**Thrill Seeker** | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
+|  d10  |       |          Template | Description                                                                  |  COG  |  INT  |  REF  |  SAV  |  SOM  |  WIL  |
+| :---: | :---: | ----------------: | :--------------------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   1   |       |     **Actioneer** | You are more comfortable with physicality than talking or thinking.          |  10   |  15   |  20   |  10   |  20   |  15   |
+|   2   |       |     **Extrovert** | You can talk your way through most situations.                               |  10   |  20   |  15   |  20   |  15   |  10   |
+|   3   |       |   **Facilitator** | You’re good with people, planning, and seeing things through.                |  15   |  15   |  10   |  20   |  10   |  20   |
+|   4   |       |      **Factotum** | You’ve never quite stood out, but you exhibit broad competence.              |  15   |  15   |  15   |  15   |  15   |  15   |
+|   5   |       |      **Inquirer** | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
+|   6   |       |      **Survivor** | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
+|   7   |       | **Thrill Seeker** | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
+|   8   |       |    **Roll Again** |
+|       |  1–5  |     **Actioneer** | You are more comfortable with physicality than talking or thinking.          |  10   |  15   |  20   |  10   |  20   |  15   |
+|       |  6–0  |     **Extrovert** | You can talk your way through most situations.                               |  10   |  20   |  15   |  20   |  15   |  10   |
+|   9   |       |    **Roll Again** |
+|       |  1–5  |    **Faciltator** | You’re good with people, planning, and seeing things through.                |  15   |  15   |  10   |  20   |  10   |  20   |
+|       |  6–0  |      **Inquirer** | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
+|   0   |       |    **Roll Again** |
+|       |  1–5  |      **Survivor** | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
+|       |  6–0  | **Thrill Seeker** | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
+
+</div>
 
 </blockquote>

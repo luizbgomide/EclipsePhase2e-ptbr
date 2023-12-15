@@ -7,11 +7,7 @@
 
 **Pick a background or roll on the Random Background Path table. Then go to the appropriate sub-table and either pick a result or roll again. This will determine: your first package of skill points, starting motivation, and starting morph (you may need to roll an additional d10).**
 
-<div class="right-aligned">
-
 **After you have finished choosing/rolling, proceed to Step 5: Youth Event ▶18.**
-
-</div>
 
 </blockquote>
 
@@ -47,7 +43,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 <blockquote class="framed-table">
 
-## 4.1 Colonist \[1\]
+## 4.1 Colonist \[d100\]
 
 **You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.**
 
@@ -55,7 +51,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-14\] Lunar
+### {00-14} Lunar
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -101,7 +97,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[15-39\] Martian
+### {15-39} Martian
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -144,7 +140,9 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 </blockquote>
 
-### \[40-54\] Orbital
+<blockquote class="stat-list header-bg">
+
+### {40-54} Orbital
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -187,7 +185,9 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 </blockquote>
 
-### \[55-64\] Rimward Colonist
+<blockquote class="stat-list header-bg">
+
+### {55-64} Rimward Colonist
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -204,7 +204,6 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 | Know: Autonomists  |   20 |
 | Know: Chemistry    |   60 |
 | Know: Habitat Ops  |   30 |
-
 
 </td><td>
 
@@ -230,7 +229,9 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 </blockquote>
 
-### \[65-79\] Rural Martian
+<blockquote class="stat-list header-bg">
+
+### {65-79} Rural Martian
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -272,7 +273,9 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 </blockquote>
 
-### \[80-89\] Spacer
+<blockquote class="stat-list header-bg">
+
+### {80-89} Spacer
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -315,7 +318,9 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 </blockquote>
 
-### \[90-99\] Sunward Colonist
+<blockquote class="stat-list header-bg">
+
+### {90-99} Sunward Colonist
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -361,7 +366,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.2 Enclaver \[2\]
+## 4.2 Enclaver \[d100\]
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
@@ -369,7 +374,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-19\] Ascendor
+### {00-19} Ascendor
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -413,7 +418,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[20-39\] Corporate Drifter
+### {20-39} Corporate Drifter
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -456,7 +461,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[40-59\] Corporate Favorite
+### {40-59} Corporate Favorite
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -499,7 +504,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-79\] Inheritor
+### {60-79} Inheritor
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -543,7 +548,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[80-99\] Opportunist
+### {80-99} Opportunist
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -591,7 +596,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.3 Freelancer \[3\]
+## 4.3 Freelancer \[d100\]
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
@@ -599,7 +604,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-19\] Nomad
+### {00-19} Nomad
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -643,7 +648,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[20-39\] Precarious
+### {20-39} Precarious
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -688,7 +693,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[40-59\] Self-Reliant
+### {40-59} Self-Reliant
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -731,7 +736,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-79\] Steady
+### {60-79} Steady
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -775,7 +780,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[80-99\] Surrounded by Wolves
+### {80-99} Surrounded by Wolves
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -822,7 +827,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.4 Hyperelite \[4\]
+## 4.4 Hyperelite \[d100\]
 
 **You live in the top percent, with abundant wealth and resources.**
 
@@ -830,7 +835,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-19\] Breakthrough
+### {00-19} Breakthrough
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -874,7 +879,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[20-39\] Hypercorp Royalty
+### {20-39} Hypercorp Royalty
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -919,7 +924,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[40-59\] Media Famous
+### {40-59} Media Famous
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -963,7 +968,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-79\] Oligarch Dynasty
+### {60-79} Oligarch Dynasty
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1008,7 +1013,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[80-99\] Space Entrepreneur
+### {80-99} Space Entrepreneur
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1056,7 +1061,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.5 Indenture \[5\]
+## 4.5 Indenture \[d100\]
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
@@ -1064,7 +1069,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-14\] Drone Operator
+### {00-14} Drone Operator
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1108,7 +1113,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[15-24\] Educator
+### {15-24} Educator
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1152,7 +1157,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[25-39\] Emancipated
+### {25-39} Emancipated
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1196,7 +1201,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[40-59\] Labor Camps
+### {40-59} Labor Camps
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1243,7 +1248,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-69\] Private Staff
+### {60-69} Private Staff
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1287,7 +1292,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[70-84\] Vac Worker
+### {70-84} Vac Worker
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1333,7 +1338,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[85-99\] Virtual Worker
+### {85-99} Virtual Worker
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1378,7 +1383,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.6 Infolife \[6\]
+## 4.6 Infolife \[d100\]
 
 **You are an AGI, a digital consciousness born of software code.**
 
@@ -1386,7 +1391,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-09\] Anomaly
+### {00-09} Anomaly
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1430,7 +1435,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[10-24\] Emergent Uplift
+### {10-24} Emergent Uplift
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1474,7 +1479,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[25-49\] Humanities AGI
+### {25-49} Humanities AGI
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1519,7 +1524,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[50-74\] Machine AGI
+### {50-74} Machine AGI
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1562,7 +1567,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[75-84\] Part Human
+### {75-84} Part Human
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1606,7 +1611,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[85-99\] Research AGI
+### {85-99} Research AGI
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1650,7 +1655,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.7 Isolate \[7\]
+## 4.7 Isolate \[d100\]
 
 **You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.**
 
@@ -1658,7 +1663,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-24\] Drifter
+### {00-24} Drifter
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1704,7 +1709,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[25-49\] Religious Sect
+### {25-49} Religious Sect
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1748,7 +1753,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[50-74\] Separatist
+### {50-74} Separatist
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1794,7 +1799,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[75-99\] Survivalist
+### {75-99} Survivalist
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1839,7 +1844,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.8 Lost \[8\]
+## 4.8 Lost \[d100\]
 
 **You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters.**
 
@@ -1847,7 +1852,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-09\] Alien Mind
+### {00-09} Alien Mind
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1890,7 +1895,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[10-34\] Disturbed Child
+### {10-34} Disturbed Child
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1935,7 +1940,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[35-59\] Long Past Normal
+### {35-59} Long Past Normal
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -1977,7 +1982,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-79\] Masked Monster
+### {60-79} Masked Monster
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2023,7 +2028,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[80-99\] Twisted Experiment
+### {80-99} Twisted Experiment
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2070,7 +2075,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.9 Underclass \[9\]
+## 4.9 Underclass \[d100\]
 
 **You’re a veteran of Earth’s slums, favelas, and flooded cities.**
 
@@ -2078,7 +2083,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-19\] Criminal
+### {00-19} Criminal
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2124,7 +2129,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[20-39\] Radical
+### {20-39} Radical
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2168,7 +2173,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[40-59\] Refugee
+### {40-59} Refugee
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2211,7 +2216,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[60-79\] Street Rat
+### {60-79} Street Rat
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2258,7 +2263,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[80-99\] Survivor
+### {80-99} Survivor
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2305,7 +2310,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="framed-table">
 
-## 4.10 Uplift \[0\]
+## 4.10 Uplift \[d100\]
 
 **You are an uplifted animal raised to human levels of intelligence.**
 
@@ -2313,7 +2318,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[00-24\] Escapee
+### {00-24} Escapee
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2356,7 +2361,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[25-44\] Feral
+### {25-44} Feral
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2401,7 +2406,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[45-69\] Lab Rat
+### {45-69} Lab Rat
 
 <table style="table-layout: fixed;">
 <tr><td>
@@ -2446,7 +2451,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 <blockquote class="stat-list header-bg">
 
-### \[70-99\] Model Specimen
+### {70-99} Model Specimen
 
 <table style="table-layout: fixed;">
 <tr><td>

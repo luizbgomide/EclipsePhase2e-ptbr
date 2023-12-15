@@ -29,6 +29,14 @@ Some events simply provide background details for roleplaying or
 story purposes. Others provide modifications to your character’s
 skills, rep, traits, or even aptitudes, ranging from minor to drastic.
 
+<blockquote class="framed-table centered">
+
+**\[d100\] Square brackets indicate rolls to make.**
+
+**{1} Curly brackets indicate die roll results.**
+
+</blockquote>
+
 <blockquote>
 
 ## Life Path Step-by-Step
@@ -155,6 +163,8 @@ add a new one, you must drop an existing one.
 
 ### Random Motivations \[d100\]
 
+<div class="tnw1">
+
 | Roll  |                 Motivation                 |
 | :---: | :----------------------------------------: |
 |  00   |          Acceptance/Assimilation           |
@@ -226,8 +236,7 @@ add a new one, you must drop an existing one.
 | 97–98 |                   Wealth                   |
 |  99   |                  X-Risks                   |
 
-
-
+</div>
 </blockquote>
 
 ## A Word On Safety
