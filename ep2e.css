@@ -178,3 +178,10 @@ td * {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
+
+.morph-images img {
+  float: right;
+  max-height: 30rem;
+  max-width: 50%;
+  margin: 0.5rem;
+}
