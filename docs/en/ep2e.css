@@ -131,7 +131,7 @@ table tr > :last-child {
 }
 
 /* title formatting */
-h1 {
+h1, h2 {
   text-transform: uppercase;
 }
 :is(h2, h3, h4) {
@@ -177,4 +177,11 @@ ul.stat-list li {
 td * {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+}
+
+.morph-images img {
+  float: right;
+  max-height: 30rem;
+  max-width: 50%;
+  margin: 0.5rem;
 }
