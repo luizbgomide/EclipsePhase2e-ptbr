@@ -1,6 +1,10 @@
 # Core Morphs
 
+<div class=morph-images>
+
 ## Overmind
+
+![Overmind](PNG/overmind.png)
 
 Overminds are the top tier of core morphs. They are found in highsecurity habitats, military ships, prisons, and similar infrastructures.
 
@@ -25,6 +29,8 @@ Overminds are the top tier of core morphs. They are found in highsecurity habita
 
 ## Sexton
 
+![Sexton](PNG/sexton.png)
+
 Sexton core systems manage larger habitats and ships. They rely on multiple egos — often forks of the same individual — to manage all sub-systems in coordination with each other.
 
 <blockquote class="indent stat-list">
@@ -48,6 +54,8 @@ Sexton core systems manage larger habitats and ships. They rely on multiple egos
 
 ## Warden
 
+![Warden](PNG/warden.png)
+
 Wardens are basic core cyberbrain systems, commonly used in smaller habitats and ships. They are designed so that a single ego can handle all subsystems.
 
 <blockquote class="indent stat-list">
@@ -68,3 +76,5 @@ Wardens are basic core cyberbrain systems, commonly used in smaller habitats and
 - **Notes:** Wardens follow the rules for core systems ▶62. Bonus from multi-tasking already incorporated.
 
 </blockquote>
+
+</div>

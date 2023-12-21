@@ -1,6 +1,10 @@
 # Biomorphs
 
+<div class=morph-images>
+
 ## Alpiner
+
+![Alpiner](PNG/alpiner.png)
 
 Alpiners were common in the early days of the Martian frontier, when temperatures and atmospheric pressure had not yet risen to present levels. Now they are favored by avid rock climbers, those living at high altitudes atop Mars’s shield volcanoes, and outdoor types who must endure more harsh and rugged conditions. Alpiners are also vogue among chic urbanites going for a rough-and-ready look without sleeving the more de classe ruster morph.
 
@@ -24,6 +28,8 @@ Alpiners were common in the early days of the Martian frontier, when temperature
 </blockquote>
 
 ## Aquanaut
+
+![Aquanaut](PNG/aquanaut.png)
 
 Aquanauts are environmentally adapted for underwater activities while still functional on land. Their heart rate slows while submerged, their skin includes a layer of blubber that retains heat, they store oxygen in their muscle tissue, and they do not suffer negative health effects from pressure changes. Additionally, their eyes have nictitating membranes and their corneas adjust to counter underwater refraction. Their hands and feet are webbed and they possess a transgenic swim bladder for controlling buoyancy. They can safely descend to about 200 meters depth (roughly 21 atmospheres of pressure at 1 g); deeper requires the pressure adaptation mod.
 
@@ -49,6 +55,8 @@ Aquanauts are environmentally adapted for underwater activities while still func
 
 ## Ariel
 
+![Ariel](PNG/ariel.png)
+
 The surprising number of transhumans who sleeve in Titan-adapted hulder morphs encouraged designers on Profunda to develop a Titan-adapted flyer. While the sturdy hulder morph is designed for nomadic herders, the ariel morph is designed by people who wish to survive by hunting. Individuals sleeved in the ariel morph can hunt and eat Titanian caribou, but they most often eat the smaller rabbitlike creatures that Profunda designers have also recently designed to live on Titan. Ariel morphs have exotic-looking heads similar to those of hulder morphs, but they also possess sleek and streamlined humanoid bodies with four limbs and a pair of bat-like wings. These morphs have also been used by a few daring transhumans to explore the upper cloud layers of both Saturn and Uranus.
 
 <blockquote class="indent stat-list">
@@ -73,6 +81,8 @@ The surprising number of transhumans who sleeve in Titan-adapted hulder morphs e
 
 ## Bouncer
 
+![Bouncer](PNG/bouncer.png)
+
 Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats.
 
 <blockquote class="indent stat-list">
@@ -95,6 +105,8 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 </blockquote>
 
 ## Bruiser
+
+![Bruiser](PNG/bruiser.png)
 
 This morph is made to be large, strong, and physically intimidating. Adopted early on by sports performers, it quickly became a favorite among criminal cartels and thugs. At 2.5 meters tall, a bruiser may have difficulty moving comfortably in all but the most open and uncrowded of habitats.
 
@@ -121,6 +133,8 @@ This morph is made to be large, strong, and physically intimidating. Adopted ear
 
 ## Cloud Skate
 
+![Cloud Skate](PNG/cloud-skate.png)
+
 Cloud skates are exotic, specialized biomorph designs that push the edge of what is possible. They are designed to survive in the atmospheres of ice giants and gas giants, such as Uranus and Jupiter. These morphs are shaped roughly like a tailless stingray with a pair of slender arms. They can soar among the clouds for months on end, their swim bladders providing neutral buoyancy in dense atmospheres, preventing them from sinking below a safe depth.
 
 <blockquote class="indent stat-list">
@@ -146,6 +160,8 @@ Cloud skates are exotic, specialized biomorph designs that push the edge of what
 
 ## Crasher
 
+![Crasher](PNG/crasher.png)
+
 Crashers are survival morphs — athletic and rugged designs capable of weathering harsh environments over long periods. They are the ideal biomorph for gatecrashing assignments and are popular among first-in teams. Though pricey and harder to acquire compared to other options, gatecrashers traveling to less habitable and dangerous places have found the investment worth it.
 
 <blockquote class="indent stat-list">
@@ -168,6 +184,8 @@ Crashers are survival morphs — athletic and rugged designs capable of weatheri
 </blockquote>
 
 ## Dvergr
+
+![Dvergr](PNG/dvergr.png)
 
 Dvergar (plural of dvergr) are biomorphs designed for comfortable operation in high-gravity environments. They feature a reinforced skeletal structure and sturdier muscle masses. They are easily identified by their slightly squat, thick-necked, tough appearances.
 
@@ -192,6 +210,8 @@ Dvergar (plural of dvergr) are biomorphs designed for comfortable operation in h
 
 ## Exalt
 
+![Exalt](PNG/exalt.png)
+
 Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on ever-evolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.
 
 <blockquote class="indent stat-list">
@@ -213,6 +233,8 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 </blockquote>
 
 ## Faust
+
+![Faust](PNG/faust.png)
 
 Developed in secret by a small group of unaffiliated async genehackers, this morph is not a publicly known model. It is only available to individuals who discover a connection to this unnamed, underground async network and then download the template from one of several secret mesh sites. The faust is a modified menton morph. Even under the most thorough scans, it appears to be nothing more than a mildly personalized version of that morph.
 
@@ -237,6 +259,8 @@ Developed in secret by a small group of unaffiliated async genehackers, this mor
 
 ## Flat
 
+![Flat](PNG/flat.png)
+
 Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies. Flats are increasingly rare outside bioconservative enclaves — most died off with the rest of humanity during the Fall.
 
 <blockquote class="indent stat-list">
@@ -258,6 +282,8 @@ Flats are baseline unmodified humans, born with all of the natural defects, here
 </blockquote>
 
 ## Freeman
+
+![Freeman](PNG/freeman.png)
 
 This sleeve hands tyrants the tools to ensure loyalty — or at least obedience — from their citizens. Based on simple splicers, freeman morphs are genetically and psychosurgically modified to be receptive to authority while weakening willpower and “dissident” traits. They are also genetically modified with a protein that makes their neurons sensitive to light. When combined with an optogenetics module, these neurons can be activated and deactivated remotely, enabling a monitoring muse or meshed overseer to control the ego’s behavior. Freeman morphs typically carry a monitor ALI (often a modified fork of the dictator’s muse) that watches over the ego, reports suspicious activity, and can seize physical control in an emergency. In some regimes, citizens are not informed of these implants, enabling the AIs to spy and snitch in secret. These “slave morphs” are decried or outlawed as coercive in many polities, though they are secretly deployed in remote corporate and authoritarian habitats. Surprisingly, some people voluntarily sleeve freeman morphs, preferring to hand responsibility and decision-making over to other parties, such as the Sendero Luminoso Benevolent Dictatorship habitat in the Neptunian Trojans.
 
@@ -283,6 +309,8 @@ This sleeve hands tyrants the tools to ensure loyalty — or at least obedience 
 
 ## Fury
 
+![Fury](PNG/fury.png)
+
 Furies are combat morphs. These transgenic humans are upgraded for endurance, strength, reflexes, and capacity to handle physical trauma. Behavioral modifications for aggressiveness are offset by gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female.
 
 <blockquote class="indent stat-list">
@@ -307,6 +335,8 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 ## Futura
 
+![Futura](PNG/futura.png)
+
 Futura morphs were specially crafted for the “Lost Generation” of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities.
 
 <blockquote class="indent stat-list">
@@ -328,6 +358,8 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 </blockquote>
 
 ## Garuda
+
+![Garuda](PNG/garuda.png)
 
 Found primarily on Luna and similar low-g worlds and habitats, this morph is adapted to fly in Earth-normal air pressure with gravity of 0.2 g or less. Garudas have light frames, with increased lung capacity. Their feathered wings extrude from the back as an extra set of limbs, leaving hands and feet unhindered during flight. Their wings may be folded behind their back or extended to a full wingspan of 3 meters.
 
@@ -352,6 +384,8 @@ Found primarily on Luna and similar low-g worlds and habitats, this morph is ada
 
 ## Ghost
 
+![Ghost](PNG/ghost.png)
+
 Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.
 
 <blockquote class="indent stat-list">
@@ -375,6 +409,8 @@ Ghosts are partially designed for combat applications, but their primary focus i
 </blockquote>
 
 ## Glider
+
+![Glider](PNG/glider.png)
 
 Gliders are tall and thin, with long, strong limbs and a lightweight build. Gliding membranes allow them to soar through the atmosphere in environments with thicker atmospheres and/or lower gravity. They gain altitude by riding thermals (which they see with enhanced vision).
 
@@ -424,6 +460,8 @@ Venusian gliders are designed to survive for many hours in the middle acidic-but
 
 ## Grey
 
+![Grey](PNG/grey.png)
+
 Originally created as part of a fad based on 20th-century images of aliens, the grey morph soon became popular with eccentric scientists and engineers. This morph’s slender and weak-looking body stands only 1.5 meters tall, short compared to modern transhumans. Its distinctive large head and eyes strike many transhumans as disturbing.
 
 <blockquote class="indent stat-list">
@@ -446,6 +484,8 @@ Originally created as part of a fad based on 20th-century images of aliens, the 
 </blockquote>
 
 ## Hazer
+
+![Hazer](PNG/hazer.png)
 
 Hazers are tall but slight morphs adapted for life in Titan’s dome colonies. They cannot survive unprotected in Titan’s frigid methane environment, but they are insulated to handle a bit of cold. Some hazers have angular or elfin features that are viewed as either striking or unsettling.
 
@@ -470,6 +510,8 @@ Hazers are tall but slight morphs adapted for life in Titan’s dome colonies. T
 
 ## Hibernoid
 
+![Hibernoid](PNG/hibernoid.png)
+
 Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1–2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.
 
 <blockquote class="indent stat-list">
@@ -491,6 +533,8 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 </blockquote>
 
 ## Hulder
+
+![Hulder](PNG/hulder.png)
 
 Hulder are engineered for survival in the harsh Titanian wilds and methane seas. In silhouette, their bodies resemble a longlegged great auk, though viewed up close, the resemblance to a bird ends. Instead of feathers, hulder have smooth, rubbery charcoal skin covering a thick layer of nano-augmented blubber.
 
@@ -516,6 +560,8 @@ Hulder are engineered for survival in the harsh Titanian wilds and methane seas.
 
 ## Hyperbright
 
+![Hyperbright](PNG/hyperbright.png)
+
 A research team on Bright created this morph to surpass the menton and push the envelope on intelligence augmentation. Hyperbrights are instantly recognizable by the brightly colored bony crests along their skulls that help to cool their brains. They are also designed for microgravity and so favored in the outer system. Many models, however, are plagued with idiosyncrasies and quirks due their advanced neurochemistry and high metabolism.
 
 <blockquote class="indent stat-list">
@@ -540,6 +586,8 @@ A research team on Bright created this morph to surpass the menton and push the 
 
 ## Imp
 
+![Imp](PNG/imp.png)
+
 Shortly after the Fall, the refugees from Earth who would evolve into the scum faction struggled for resources under cramped conditions. Partying and letting off steam became an essential element of their survival. To complement this lifestyle, scum genehackers crafted morphs with the endurance to handle ragers with copious amounts of sex and drugs. These models became popular across the Solar System, particularly with “party tourists” looking to egocast into a new habitat, go on a week-long bender, and then beam back out.
 
 <blockquote class="indent stat-list">
@@ -563,6 +611,8 @@ Shortly after the Fall, the refugees from Earth who would evolve into the scum f
 
 ## Menton
 
+![Menton](PNG/menton.png)
+
 Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.
 
 <blockquote class="indent stat-list">
@@ -584,6 +634,8 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 </blockquote>
 
 ## Neotenic
+
+![Neotenic](PNG/neotenic.png)
 
 Neotenics are transhumans modified to retain a child-like form. They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft. Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities, but most are designed to be neuter-gendered.
 
@@ -609,6 +661,8 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 ## Nomad
 
+![Nomad](PNG/nomad.png)
+
 The nomad biomorph is optimized for operating in desert environments. They incorporate many transgenic traits from camels: thicker eyelashes to keep out sand, a third eyelid to dislodge grit, a complex of arteries and veins for better brain cooling, elongated noses to trap exhaled water vapor, and sometimes hooves. They carry a distributed network of fat tissue that can be relocated around their body to adapt to high or low temperatures. This tissue can be rapidly metabolized for energy and water, allowing them to survive for 1–2 months without food or water.
 
 <blockquote class="indent stat-list">
@@ -631,6 +685,8 @@ The nomad biomorph is optimized for operating in desert environments. They incor
 </blockquote>
 
 ## Observer
+
+![Observer](PNG/observer.png)
 
 Observers are enhanced for perceptive, analytical, and investigative capabilities. They are favored by detectives, journalists, and those with an interest in details, puzzles, and thin-slicing.
 
@@ -655,6 +711,8 @@ Observers are enhanced for perceptive, analytical, and investigative capabilitie
 
 ## Olympian
 
+![Olympian](PNG/olympian.png)
+
 Olympians are human upgrades with improved athletic capabilities like endurance, hand-eye coordination, and cardiovascular functions. Olympians are common among athletes, dancers, freerunners, gatecrashers, and soldiers.
 
 <blockquote class="indent stat-list">
@@ -676,6 +734,8 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 </blockquote>
 
 ## Remade
+
+![Remade](PNG/remade.png)
 
 The remade are completely redesigned: humans 2.0. Their cardiovascular system is stronger, their digestive tract sanitized and restructured, and they have been optimized for health, intelligence, and longevity with numerous transgenic mods. They look close to human, but are different in very noticeable and sometimes eerie ways: taller, lack of hair, slightly larger craniums, wider eyes, smaller noses, smaller teeth, and elongated digits. The remade are popular with the Ultimates faction.
 
@@ -699,6 +759,8 @@ The remade are completely redesigned: humans 2.0. Their cardiovascular system is
 </blockquote>
 
 ## Ring Flyer
+
+![Ring Flyer](PNG/ring-flyer.png)
 
 Designed for soaring along the rings of Saturn, this exotic spacefaring biomorph is also found skating the magnetic fields of other gas giant, ice giant, and asteroid systems. Easily recognizable with its slender limbs and the round hump of the plasma sail on its back, this morph can survive indefinitely in space, acquiring oxygen, water, and trace organic materials from ring particles, asteroids, and small moons as needed.
 
@@ -724,6 +786,8 @@ Designed for soaring along the rings of Saturn, this exotic spacefaring biomorph
 
 ## Ruster
 
+![Ruster](PNG/ruster.png)
+
 Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods.
 
 <blockquote class="indent stat-list">
@@ -747,6 +811,8 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 ## Salamander
 
+![Salamander](PNG/salamander.png)
+
 Bio-engineered to survive in the semi-protected vacuum of coronal habitats, salamanders are popular with Solarians who need to adopt a humanoid form. Their skin is thick and hairless, their eyes reflective, with an overall look that is part reptilian, part monkey, and part fey. They lack noses and mouths, communicating wirelessly or via chromatophore patterning.
 
 <blockquote class="indent stat-list">
@@ -769,6 +835,8 @@ Bio-engineered to survive in the semi-protected vacuum of coronal habitats, sala
 </blockquote>
 
 ## Selkie
+
+![Selkie](PNG/selkie.png)
 
 Selkies are similar to aquanauts with heavy splices of seal traits. Their legs are fused into a pair of hind flippers for powerful swimming. On land, they can stand but have difficulty moving, as they must flop, roll, or hop like a seal, but they are sometimes sleeved in micrograv habs. They are adapted for the lack of air, deep cold, and crushing pressure of subcrustal oceans.
 
@@ -794,6 +862,8 @@ Selkies are similar to aquanauts with heavy splices of seal traits. Their legs a
 
 ## Splicer
 
+![Splicer](PNG/splicer.png)
+
 Splicers are genefixed humans. Their genome cleansed of hereditary diseases and optimized for looks and health, but not otherwise substantially upgraded. Splicers make up the majority of transhumanity.
 
 <blockquote class="indent stat-list">
@@ -815,6 +885,8 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 </blockquote>
 
 ## Surya
+
+![Surya](PNG/surya.png)
 
 Despite the extreme temperatures of the solar corona, the plasma in that part of the sun’s atmosphere is incredibly diffuse, meaning actual heat transfer is quite low, making it survivable with the right protections. Suryas blur the line between biomorph and synthmorph and push the envelope of synthetic biology in order to survive in this hostile environment. Named for a Hindu sun deity, suryas reach lengths of ten meters or more and rely heavily on both whale and extremophile genetics. Their skin is a metamaterial that provides an almost perfect reflection of the sun’s spectral output and enables radiative cooling. They “surf ” the solar winds using powerful magnetic fields that also shield from radiation, plasma, and heat. Strong bones and connective tissues protect against the crushing solar gravity while medichines repair tissue damaged by radiation and convert hydrogen ions into water. Surya rely on lasers and chromatophore signaling using wavelengths not flooded by the sun’s emissions to communicate.
 
@@ -865,6 +937,8 @@ Nishakara, named after the Hindu “night maker” lunar deity who sprang from t
 
 ## Sylph
 
+![Sylph](PNG/sylph.png)
+
 Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.
 
 <blockquote class="indent stat-list">
@@ -888,6 +962,8 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 ## Theseus
 
+![Theseus](PNG/theseus.png)
+
 Theseus morphs are designed to protect against the dangers of biohazards and hostile environments, from alien worlds to TITAN quarantine zones to habitats lost during the Fall. They are favored by scavengers, gatecrashers, zone stalkers, and specialists investigating exsurgent or TITAN activity.
 
 <blockquote class="indent stat-list">
@@ -908,3 +984,5 @@ Theseus morphs are designed to protect against the dangers of biohazards and hos
 - **Common Extras:** Bioweave, Cold Tolerance, Enhanced Vision, Failsafe, Radiation Sense, Respirocytes, T-Ray Emitter
 
 </blockquote>
+
+</div>

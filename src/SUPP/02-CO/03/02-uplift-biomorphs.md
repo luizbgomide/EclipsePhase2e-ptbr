@@ -1,6 +1,10 @@
 # Uplift Biomorphs
 
+<div class=morph-images>
+
 ## Neo-Avian
+
+![Neo-Avian](PNG/neo-avian.png)
 
 Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1&nbsp;g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompanied with an opposable thumb. Neo-avians have adapted well to microgravity environments, and are favored for their small size and reduced resource use.
 
@@ -25,6 +29,8 @@ Neo-avians include ravens, crows, and gray parrots uplifted to human-level intel
 </blockquote>
 
 ## Neo-Beluga
+
+![Neo-Beluga](PNG/neo-beluga.png)
 
 Neo-belugas are the smallest and most numerous of the surviving whale uplifts, ranging from 3 to 5.5 meters in length. They are white-skinned with no dorsal ridge, toothed, and have the distinction of being the only whales that can swim backwards. They can safely descend to about 1,000 meters at 1&nbsp;g; deeper requires the pressure adaptation mod.
 
@@ -51,6 +57,8 @@ Neo-belugas are the smallest and most numerous of the surviving whale uplifts, r
 
 ## Neo-Bonobo/Neo-Chimp
 
+![Neo-Bonobo/Neo-Chimp](PNG/neo-bonobo-neo-chimp.png)
+
 Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced intelligence and bipedal frames. Their long arms and prehensile feet are a boon for climbing and maneuvering in microgravity environments. They retain the body hair of their forebears, though it is a common cultural practice to dye, stylize, or otherwise manipulate it. Transgenic vocal systems allow them to speak as humans do.
 
 <blockquote class="indent stat-list">
@@ -73,6 +81,8 @@ Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced 
 </blockquote>
 
 ## Neo-Dolphin
+
+![Neo-Dolphin](PNG/neo-dolphin.png)
 
 Dolphin uplifts are very physiologically similar to baseline dolphins. Most range in size from 2 to 4 meters. They are torpedo-shaped fast swimmers, with conical teeth, long snouts, and blow holes. They can safely dive to about 1,000 meters at 1&nbsp;g.
 
@@ -99,6 +109,8 @@ Dolphin uplifts are very physiologically similar to baseline dolphins. Most rang
 
 ## Neo-Gorilla
 
+![Neo-Gorilla](PNG/neo-gorilla.png)
+
 Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames.
 
 <blockquote class="indent stat-list">
@@ -122,6 +134,8 @@ Neo-gorillas benefit from enhanced cognition and upright stances like other neo-
 
 ## Neo-Neanderthal
 
+![Neo-Neanderthal](PNG/neo-neanderthal.png)
+
 This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to transhuman equivalence. Neanderthal morphs appear muscular with a heavy bone structure, distinctively long skulls, heavy brow ridges, and weak chins. Pale complexions and red hair are common features.
 
 <blockquote class="indent stat-list">
@@ -144,6 +158,8 @@ This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to 
 </blockquote>
 
 ## Neo-Octopus
+
+![Neo-Octopus](PNG/neo-octopus.png)
 
 Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite useful in zero-gravity environments. They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak. They also have increased brain mass and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces. Octomorphs typically crawl along in zero gravity using their arm suckers and expelling air for propulsion; in low gravity they walk on two of their arms. Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and rotationally adjust to keep the slitshaped pupil aligned with “up.” A transgenic vocal system allows them to speak.
 
@@ -169,6 +185,8 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 ## Neo-Orangutan
 
+![Neo-Orangutan](PNG/neo-orangutan.png)
+
 Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social.
 
 <blockquote class="indent stat-list">
@@ -192,6 +210,8 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 </blockquote>
 
 ## Neo-Orca
+
+![Neo-Orca](PNG/neo-orca.png)
 
 Though colloquially referred to as killer whales, orcas are actually members of the dolphin family. They range from 5 to 8 meters in length, have distinct black-andwhite coloration, and bit with powerful jaws. Males also have larger and more triangular pectoral fins. They can safely dive to about 1,000 meters at 1&nbsp;g.
 
@@ -218,6 +238,8 @@ Though colloquially referred to as killer whales, orcas are actually members of 
 
 ## Neo-Pig
 
+![Neo-Pig](PNG/neo-pig.png)
+
 Uplifted pig morphs are bipedal and feature transgenic hands, feet, and vocal systems. They tend to be slightly shorter than the average transhuman but much stockier. Males grow tusks from their lower jaws.
 
 <blockquote class="indent stat-list">
@@ -241,6 +263,8 @@ Uplifted pig morphs are bipedal and feature transgenic hands, feet, and vocal sy
 </blockquote>
 
 ## Neo-Porpoise
+
+![Neo-Porpoise](PNG/neo-porpoise.png)
 
 Neo-porpoises are smaller but very similar to neo-dolphins, with blunter snouts, and are much like their baseline relatives. They range from 1.5 to 2.5 meters in length. They can safely dive to about 1,000 meters at 1&nbsp;g.
 
@@ -267,6 +291,8 @@ Neo-porpoises are smaller but very similar to neo-dolphins, with blunter snouts,
 
 ## Neo-Whale
 
+![Neo-Whale](PNG/neo-whale.png)
+
 Less than several hundred neo-whale morphs exist, and the majority remain occupied by their original egos. They are primarily found on Ceres and Atlantica. They are derived from humpback, blue, and sperm whale genetic stock. Humpbacks and blues are baleen whales and require large amounts of krill to survive. Sperm whales are toothed, feeding on fish and squid. They can safely dive to about 3,000 meters at 1&nbsp;g.
 
 <blockquote class="indent stat-list">
@@ -289,3 +315,5 @@ Less than several hundred neo-whale morphs exist, and the majority remain occupi
 - **Notes:** Very Large size, Bite Attack (DV 4d10 +5)
 
 </blockquote>
+
+</div>
