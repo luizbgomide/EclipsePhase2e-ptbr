@@ -1,0 +1,16 @@
+# Identifying Morphs
+
+Morphs come in a wide variety of makes and models. While the original sylph brand was designed by Skinaesthesia, there are hundreds of copies, knock-offs, spin-offs, and alternative models that are all functionally similar, even if they have slightly different genetics. Many of these have their own model names, such as Sylphid, Cassandra, and Sedusa. In game terms, however, they are all treated as sylphs or perhaps as knock-offs ▶next page.
+
+Visually identifying a morph’s model is not always easy, especially humanoid biomorphs with a standard body plan. Morphs such as neo-octopi, neo-avians, remade, and arachnoids are immediately recognizable (by type if not specific model) due to their obvious characteristics. Some people ID or boast of their morph model via their social networking profiles — assuming they tell the truth. Certain brand-name morph models have a distinctive look or have been mass-produced to a degree that they are easily recognized (which makes for good camouflage; see the Innocuous Looks trait, ▶42, EP2). Even then, however, there is no guarantee that you are not dealing with an older, outdated model, an experimental version, or a newer, improved model. Since a biomorph or pod’s looks are easily altered with a quick cosmetic change or some genetic tweaks, there is also no guarantee that a sylph-looking morph is indeed a sylph. While synthmorphs are more easily identifiable due to their distinctive physical construction, even these may be masked. Pods tend to be more identifiable given the seamlined look with which they are typically designed and the corporate logos with which they are often branded.
+
+## Identification Tests
+
+You have several options for making an ID:
+
+- **Visual ID:** If you seek to visually identify a morph’s general type (case, exalt, etc.), make an appropriate Know Test, such as Know: Synthmorph Models or Know: Morph Design. Apply a −30 modifier for humanoid biomorphs that lack any specific physical characteristics that might give them away (such as a bouncer’s prehensile feet or a flat’s noticeable advanced age). Take other modifiers into account as appropriate, such as a well-known brand-name (+20) or use of a new prototype (–20).
+- **Online Research:** You can also attempt to identify a morph by taking a photo and doing a reverse-image search online; this is a standard Research Test. If you have the use of a Biometric Matcher app, apply +20 to your test.
+- **Physical Exam:** If you physically examine a morph, roll Medicine: Biotech or Hardware: Robotics to identify it. Use of the appropriate equipment, such as genetic testing or thorough terahertz scanning, will identify the specific morph model outright.
+- **Disguised Morphs:** If a morph is intentionally masked or disguised, any tests made to ID it are treated as an opposed test against the masker’s Medicine: Biotech, Hardware: Robotics skill, or Exotic Skill Disguise skill.
+
+If you succeed, you pinpoint the morph’s type, common characteristics (pools), and standard ware and traits. Superior successes reveal additional insight, such as the particular manufacturer, model, specific traits, lesser-known capabilities, if the morph is a knock-off, or any notable deviations the particular morph in question has from the model’s norms.

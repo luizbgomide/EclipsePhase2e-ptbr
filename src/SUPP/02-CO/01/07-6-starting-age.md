@@ -55,7 +55,7 @@ If you acquired the Uplift background, your character’s age may not exceed 50.
 |  4–5  | Reduce one aptitude by 5. Roll 1d6: 1 COG, 2 INT, 3 REF, 4 SAV, 5 SOM, 6 WIL.           |
 |  6–7  | Increase one aptitude by 5. Roll 1d10: 1 COG, 2–3 INT, 4 REF, 5–6 SAV, 7 SOM, 8–10 WIL. |
 |   8   | Gain the Mental Disorder (Depression) trait (▶225, EP2).                                |
-|   9   | + Gain +10 to a skill of your choice.                                                   |
+|  9+   | Gain +10 to a skill of your choice.                                                     |
 
 </div>
 </blockquote>

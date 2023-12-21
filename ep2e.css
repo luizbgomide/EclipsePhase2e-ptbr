@@ -131,7 +131,7 @@ table tr > :last-child {
 }
 
 /* title formatting */
-h1 {
+h1, h2 {
   text-transform: uppercase;
 }
 :is(h2, h3, h4) {
