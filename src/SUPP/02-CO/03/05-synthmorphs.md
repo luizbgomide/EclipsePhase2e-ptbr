@@ -471,7 +471,7 @@ Mini-swarmanoid that attaches to a flexbot.
 - **Movement Rate:** Hopper 4/12, Rotor 4/20, Walker 2/8
 - **Ware:** 360-Degree Vision, Access Jacks, Cortical Stack, Cyberbrain, Lidar, Mesh Inserts, Mnemonics, Modular Design, Puppet Sock, Skinlink
 - **Morph Traits:** Exotic Morphology (Level 3)
-- **Notes:** Swarm attack (DV 1d6, ignores armor, blinding), comes with specialized conjurer hive, follows rules for swarms (▶344, EP2). Conjurer swarms do not affect a flexbot’s gestalt Movement Rate; when not disconnected they ride along on other modules.
+- **Notes:** Swarm attack (DV 1d6, ignores armor, blinding), comes with specialized conjurer hive, follows rules for [swarms](../../../16/20-nanoswarms-and-microswarms.md). Conjurer swarms do not affect a flexbot’s gestalt Movement Rate; when not disconnected they ride along on other modules.
 
 </blockquote>
 
@@ -1411,7 +1411,7 @@ Skulkers are a stealth design intended to infiltrate sensitive areas unseen.
 - **Movement Rate:** Hopper 4/12, Rotor 4/20, Walker 2/8
 - **Ware:** 360-Degree Vision, Access Jacks, Chameleon Skin, Cortical Stack, Cyberbrain, Lidar, Mesh Inserts, Mnemonics, Puppet Sock, Radar Absorbent
 - **Morph Traits:** Exotic Morphology (Level 3)
-- **Notes:** Swarm Attack (DV 1d6, ignores armor, blinding), comes with [specialized smart swarm hive](../../../16/19-nanotech.md#hives). Swarms follow rules for [nanoswarm/microswarms](../../../16/20-nanoswarms-and-microswarms.md).
+- **Notes:** Swarm Attack (DV 1d6, ignores armor, blinding), comes with [specialized skulker hive](../../../16/19-nanotech.md#hives). Swarms follow rules for [nanoswarm/microswarms](../../../16/20-nanoswarms-and-microswarms.md).
 
 </blockquote>
 

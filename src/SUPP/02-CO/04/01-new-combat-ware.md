@@ -27,7 +27,7 @@ One of your limbs is equipped with a diamondcoated buzzsaw that pops out when yo
 
 ### Grasping Tendril
 
-This elongated tentacle-like prehensile limb extends 2 meters from the mouth (or another orifice). It can be used to grasp small items or attack. It is concealable, inflicts DV 1d10 + 2 in melee, provides a Reach bonus (+10), and an additional +10 modifier to grappling attacks (▶205, EP2).
+This elongated tentacle-like prehensile limb extends 2 meters from the mouth (or another orifice). It can be used to grasp small items or attack. It is concealable, inflicts DV 1d10 + 2 in melee, provides a Reach bonus (+10), and an additional +10 modifier to [grappling attacks](../../../12/02-melee-combat.md#grappling) (_EP2_).
 
 ### Injectors
 

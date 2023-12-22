@@ -376,7 +376,7 @@
 
 </div>
 
-**Strains are detailed on ▶273, EP2.**
+**[Strains](../../../14/02-watts-macleod-sub-strains.md) are detailed on _EP2_.**
 
 </blockquote>
 

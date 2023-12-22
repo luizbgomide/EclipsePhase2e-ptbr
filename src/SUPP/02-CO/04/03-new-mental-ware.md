@@ -22,7 +22,7 @@ Your are capable of unihemispheric slow-wave sleep, meaning that only half of yo
 
 ### Auto Backup
 
-Your digitized ego is automatically backed up via the mesh to a predetermined secure storage server every 48 hours. This interval can be changed, but it is rarely done more frequently given the bandwidth requirements. The backup transmission uses quantum cryptography (the same as quantum farcasters, ▶336, EP2) and may not be intercepted and decoded unless the quantum keys used in the exchange are somehow acquired.
+Your digitized ego is automatically backed up via the mesh to a predetermined secure storage server every 48 hours. This interval can be changed, but it is rarely done more frequently given the bandwidth requirements. The backup transmission uses quantum cryptography (the same as [quantum farcasters](../../../16/16-comms-and-mesh-gear.md#quantum-farcasters), _EP2_) and may not be intercepted and decoded unless the quantum keys used in the exchange are somehow acquired.
 
 ### Brain Box
 
@@ -40,7 +40,7 @@ This app monitors your digital mental-state and takes measures to keep it in pri
 
 ### Failsafe
 
-This augmentation can only be used in conjunction with either medichines or nanophages (▶322, EP2). It is designed as an emergency response to exsurgent infection. If a known strain of the exsurgent virus takes hold in the body, the failsafe kicks into action and takes the following steps. First, the cortical stack is isolated and explosively ejected from the body (usually falling 1d6 meters away). Alternatively, if the morph also has an emergency farcaster installed, that is activated instead. Then a potent neurotoxin is triggered, killing the brain and body. For synthmorphs, the cyberbrain is erased and the power supply deactivated and physically decoupled.
+This augmentation can only be used in conjunction with either [medichines or nanophages](../../../16/10-combat-augmentations.md) (_EP2_). It is designed as an emergency response to exsurgent infection. If a known strain of the exsurgent virus takes hold in the body, the failsafe kicks into action and takes the following steps. First, the cortical stack is isolated and explosively ejected from the body (usually falling 1d6 meters away). Alternatively, if the morph also has an emergency farcaster installed, that is activated instead. Then a potent neurotoxin is triggered, killing the brain and body. For synthmorphs, the cyberbrain is erased and the power supply deactivated and physically decoupled.
 
 ### Fake Brainprint
 
@@ -58,7 +58,7 @@ The intimacy of the group mind-state means that hypermeshed egos cannot deceive 
 
 Egos may voluntarily leave the group mind-state and sometimes do for privacy (though their memories are accessible later). However, the hypermesh creates a dependency for everyone part of it for more than a week. If cut off from the hypermesh for 2 hours, you suffer a −10 modifier to all actions. If cut off for more than a day, you must make a WIL Check against SV 1d10/half. At the GM’s discretion, you may continue to suffer stress if cut off for an extended period.
 
-Hypermesh links act as a VPN (▶326, EP2) and function over the mesh (thought lag will disconnect you from the group mind).
+Hypermesh links act as a [VPN](../../../16/13-apps-and-alis.md#apps) (_EP2_) and function over the mesh (thought lag will disconnect you from the group mind).
 
 ### Multi-Ego Controls
 
@@ -76,11 +76,11 @@ This implant is designed to be used in biomorphs like the freeman ▶82 that are
 
 **Knockout:** The module triggers unconsciousness in the target ego. The target can resist with a WIL Check at −30 to resist; if successful they are immune to this module function for 1 hour.
 
-**Modified Behavior:** The module compels or restricts one specific behavior in the same manner as either the Enhanced Behavior or Restricted Behavior traits (▶78 and 80, EP2) at Level 2.
+**Modified Behavior:** The module compels or restricts one specific behavior in the same manner as either the [Enhanced Behavior](../../../04/28-traits.md#enhanced-behavior) or [Restricted Behavior traits](../../../04/28-traits.md#restricted-behavior) (_EP2_) at Level 2.
 
-**Sensory Modification:** The modules impedes, cuts off, or modifies one specific source of sensory input. For example, the ego can be made blind, unable to hear specific frequencies, or fed tailored sensory input. Treat as the Modify Sensory Input mindware hacking technique (▶267, EP2).
+**Sensory Modification:** The modules impedes, cuts off, or modifies one specific source of sensory input. For example, the ego can be made blind, unable to hear specific frequencies, or fed tailored sensory input. Treat as the [Modify Sensory Input mindware hacking technique](../../../13/17-mindware-hacking.md#modify-sensory-input-cyberbrain) (_EP2_).
 
-**Tasping:** The module triggers the brain’s pleasure centers, in the same manner as tasping psychosurgery (▶297, EP2).
+**Tasping:** The module triggers the brain’s pleasure centers, in the same manner as [tasping psychosurgery](../../../15/06-psychosurgery-procedures.md#tasping) (_EP2_).
 
 Multiple modules can be installed within a morph. Installation of this module includes the genetic modification to make the targeted neurons sensitive to light.
 

@@ -9,7 +9,7 @@
 | Aggressive GRM          |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                            |                 Biomorphs |
 | Emotive                 |    1     | Kinesics Tests against you do not suffer the usual −30 modifier.                                       |               Synthmorphs |
 | Fast Metabolism         |    1     | Minor complexity daily food requirement.                                                               |                 Biomorphs |
-| Grav Sickness           |    2     | Suffer the effects of high gravity (▶235, EP2) for every 0.2&nbsp;g over 0.15.                              |                 Biomorphs |
+| Grav Sickness           |    2     | Suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (_EP2_) for every 0.2&nbsp;g over 0.15.                              |                 Biomorphs |
 | Impaired Balance        |   1/2    | −10 modifier per level to Athletics or Pilot Tests involving balance or upright movement.              |                  Neo-pigs |
 | Impaired Hearing        |    1     | −30 to hearing-based Perceive Tests.                                                                   |                Neo-octopi |
 | Impaired Proprioception |    2     | −10 to Fray Tests.                                                                                     | Flying squid & neo-octopi |
@@ -49,7 +49,7 @@ If you fail to acquire the amount of food you need more than 2 days in a row, lo
 
 **▼ Morph Trait • MP Bonus: 2**
 
-This trait is only available to biomorphs. This morph is adapted for low-gravity environments (0.15 or less) and struggles in higher gravity. You suffer the effects of high gravity (▶235, EP2) for every 0.2&nbsp;g over 0.15. On Mars or Mercury (0.38&nbsp;g), you would suffer the effects of 1 wound; on Venus or Earth (1&nbsp;g), you suffer the effects of 3 wounds.
+This trait is only available to biomorphs. This morph is adapted for low-gravity environments (0.15 or less) and struggles in higher gravity. You suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (_EP2_) for every 0.2&nbsp;g over 0.15. On Mars or Mercury (0.38&nbsp;g), you would suffer the effects of 1 wound; on Venus or Earth (1&nbsp;g), you suffer the effects of 3 wounds.
 
 ### Impaired Balance
 
@@ -93,7 +93,7 @@ Unwanted memories may be removed with psychosurgery. GMs can use these memories 
 
 **▼ Morph Trait • MP Bonus: 3**
 
-Your morph’s neurochemistry (or its neurochemical simulators) is unbalanced. You suffer from sudden mood swings and strong, almost overwhelming, emotions. The GM makes a list of 6 Enhanced Behavior traits (▶78, EP2), all at Level 2. Examples include sadness, despair, frustration, anxiety, loneliness, euphoria, manic intensity, arousal, contrariness, and so on. Each time you spend a pool point or make a WIL Check, roll 1d6 to choose which of those Enhanced Behavior traits kicks in. The Enhanced Behaviors apply at Level 2 and affect you for 1d6 hours.
+Your morph’s neurochemistry (or its neurochemical simulators) is unbalanced. You suffer from sudden mood swings and strong, almost overwhelming, emotions. The GM makes a list of 6 [Enhanced Behavior traits](../../../04/28-traits.md#enhanced-behavior) (_EP2_), all at Level 2. Examples include sadness, despair, frustration, anxiety, loneliness, euphoria, manic intensity, arousal, contrariness, and so on. Each time you spend a pool point or make a WIL Check, roll 1d6 to choose which of those Enhanced Behavior traits kicks in. The Enhanced Behaviors apply at Level 2 and affect you for 1d6 hours.
 
 You may use drugs, psychosurgery, or certain ware (such as neuromodulation or endocrine control) to counteract these Enhanced Behaviors, reducing them to Level 1 or blocking them entirely (GM discretion). However, ware used this way may not be used to trigger other emotions at the same time. At the GM’s discretion, certain situations may exacerbate or limit the Enhanced Behaviors (to Level 1 or Level 3 as appropriate).
 

@@ -65,11 +65,11 @@ Your morph’s temperature regulation, cooling processes, and water retention ar
 
 ### High-G Adaptation
 
-This augmentation may only be installed in morphs with hardened skeleton ware (▶322, EP2). It allows an enhanced morph to operate without penalty in environments with gravity higher than Earth’s (1 g). For biomorphs, the heart and circulatory systems are strengthened; for synthmorphs, the frame is adapted to operate with increased weight. The morph ignores penalties from higher gravities up to 2&nbsp;g. Beyond 2&nbsp;g, treat the penalties as if the gravity were 1&nbsp;g less.
+This augmentation may only be installed in morphs with [hardened skeleton ware](../../../16/10-combat-augmentations.md) (_EP2_). It allows an enhanced morph to operate without penalty in environments with gravity higher than Earth’s (1 g). For biomorphs, the heart and circulatory systems are strengthened; for synthmorphs, the frame is adapted to operate with increased weight. The morph ignores penalties from higher gravities up to 2&nbsp;g. Beyond 2&nbsp;g, treat the penalties as if the gravity were 1&nbsp;g less.
 
 ### Laser Link (Medium)
 
-This is an implanted version of the laser/microwave link (▶336, EP2) with an effective range of 500,000 kilometers in space. It can only be implanted in very large morphs.
+This is an implanted version of the [laser/microwave link](../../../16/16-comms-and-mesh-gear.md#communications) (_EP2_) with an effective range of 500,000 kilometers in space. It can only be implanted in very large morphs.
 
 ### Long-Term Life Support
 
@@ -93,7 +93,7 @@ This miniature plasma sail can operate for three months thanks to a potent batte
 
 ### Radiation Tolerance
 
-You can handle exposure to ionizing radiation and particles that damage and debilitate other morphs. For synthmorphs, this means protective laminate layers and shielding of sensitive electronics. For biomorphs, this means implanted shielding for vital organs, blood filters, and redundant encoding of DNA. The bioware version requires medichines, which handle rapid replacement of damaged tissues. Exact radiation effects are determined by the GM (▶236, EP2). This ware has limited effectiveness against extreme radiation sources such as Jupiter’s electromagnetic field, especially over a prolonged period.
+You can handle exposure to ionizing radiation and particles that damage and debilitate other morphs. For synthmorphs, this means protective laminate layers and shielding of sensitive electronics. For biomorphs, this means implanted shielding for vital organs, blood filters, and redundant encoding of DNA. The bioware version requires medichines, which handle rapid replacement of damaged tissues. Exact [radiation effects](../../../12/29-hostile-environments.md#radiation) (_EP2_) are determined by the GM. This ware has limited effectiveness against extreme radiation sources such as Jupiter’s electromagnetic field, especially over a prolonged period.
 
 ### Refractive Coating
 

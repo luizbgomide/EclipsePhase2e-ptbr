@@ -2,7 +2,7 @@
 ^!p::
 Send ^c
 ;Send !{Tab}
-WinActivate, ahk_exe Notepad2.exe
+WinActivate, ahk_exe Notepad3.exe
 Sleep, 100
 page := RegExReplace(clipboard, "[^0-9]")
 Send, {Esc}

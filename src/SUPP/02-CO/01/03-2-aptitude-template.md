@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**Determine your character’s starting aptitudes (▶36, EP2) from the Random Aptitude Template table.**
+**Determine your character’s starting [aptitudes](../../../04/01-character-stats.md#aptitudes) (_EP2_) from the Random Aptitude Template table.**
 
 </blockquote>
 

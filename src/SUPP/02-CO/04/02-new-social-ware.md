@@ -25,7 +25,7 @@ individual.
 
 ### QE Implant
 
-This is an implanted version of the QE Comm (▶337, EP2) with a micro-sized qubit reservoir (1 minute video, 1 hour voice). Due to size, it is usually implanted in the thoracic cavity.
+This is an implanted version of the [QE Comm](../../../16/16-comms-and-mesh-gear.md#quantum-entangled-communication) (_EP2_) with a micro-sized qubit reservoir (1 minute video, 1 hour voice). Due to size, it is usually implanted in the thoracic cavity.
 
 ### Skeletal Disguise
 

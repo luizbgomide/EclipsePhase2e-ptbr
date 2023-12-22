@@ -1,6 +1,6 @@
 # Game Information
 
-In addition to the following, we discuss incorporating forks into games several times in the core rulebook ([Handling Forks](../15/04-forking-and-merging.md#handling-forks), [Fork Hordes](../17/05-super-empowered-characters.md#fork-hordes), [Rez Points and Forks](../17/08-rez-and-rep-rewards.md#rez-points-and-forks) in EP2).
+In addition to the following, we discuss incorporating forks into games several times in the core rulebook ([Handling Forks](../../15/04-forking-and-merging.md#handling-forks), [Fork Hordes](../../17/05-super-empowered-characters.md#fork-hordes), [Rez Points and Forks](../../17/08-rez-and-rep-rewards.md#rez-points-and-forks) in _EP2_).
 
 ## Characters As Forks
 
@@ -32,11 +32,11 @@ Playing neo-synergist PCs who are part of a larger group mind would give the par
 
 ## Stored Forks
 
-Many transhumans keep inactive forks (usually betas) in storage to spin up as needed. An inactive fork does not take up the space of an ego and can be stored in almost any device. Forks are usually heavily encrypted and only kept on secured devices to protect forknapping. When the fork is needed, the stored fork can be copied and then activated, following the normal rules for forking ([Creating a Fork](../15/04-forking-and-merging.md#creating-a-fork) in EP2). Reactivated forks suffer from lack due to their time in storage; at the GM’s discretion, the fork may need to make a WIL Check against SV 1d6.
+Many transhumans keep inactive forks (usually betas) in storage to spin up as needed. An inactive fork does not take up the space of an ego and can be stored in almost any device. Forks are usually heavily encrypted and only kept on secured devices to protect forknapping. When the fork is needed, the stored fork can be copied and then activated, following the normal rules for forking ([Creating a Fork](../../15/04-forking-and-merging.md#creating-a-fork) in _EP2_). Reactivated forks suffer from lack due to their time in storage; at the GM’s discretion, the fork may need to make a WIL Check against SV 1d6.
 
 ## Optional Merging Rules
 
-These options expand upon the rules for [merging forks](../15/06-psychosurgery-procedures.md#merging) (EP2).
+These options expand upon the rules for [merging forks](../../15/06-psychosurgery-procedures.md#merging) (_EP2_).
 
 ### Merging Non-Primary Forks
 
@@ -56,7 +56,7 @@ The rules for merging assume that characters only occasionally merge with forks,
 
 If a fork has been separate long enough to improve/acquire skills, gain or lose traits, or change their aptitudes, those differences are normally lost during merger as only the memories are prioritized for retention. It is possible for a gifted psychosurgeon to also transfer the improvements, however, but not without cost.
 
-Any attempt to transfer aptitudes, skills, specializations, or traits during a merging incurs a –10 modifier to the Medicine: Psychosurgery Test for every 1 CP of improvements. If successful, the merging ego gains the skills points, traits, and/or aptitude points, but takes an additional stress point per CP. Additionally, you must spend Rez Points to purchase these advancements as normal ([Train and Improve](../12/30-downtime-actions.md#train-and-improve) in EP2). If you do not have the Rez Points available, you owe a Rez Point debt, and any new Rez Points earned must immediately go to to pay off this debt. If the test fails, no advancements are gained, and you take an additional stress point per CP.
+Any attempt to transfer aptitudes, skills, specializations, or traits during a merging incurs a –10 modifier to the Medicine: Psychosurgery Test for every 1 CP of improvements. If successful, the merging ego gains the skills points, traits, and/or aptitude points, but takes an additional stress point per CP. Additionally, you must spend Rez Points to purchase these advancements as normal ([Train and Improve](../../12/30-downtime-actions.md#train-and-improve) in _EP2_). If you do not have the Rez Points available, you owe a Rez Point debt, and any new Rez Points earned must immediately go to to pay off this debt. If the test fails, no advancements are gained, and you take an additional stress point per CP.
 
 ### Merging Different Egos
 
@@ -78,7 +78,7 @@ If the test succeeds, compare the stats of both egos and follow these steps:
 - For each ego’s memories, roll 1d00. This is the percentage of memories you retain.
 - The combined ego suffers SV 5d6.
 - For each superior success, one lost or diminished stat (or one ego’s memories) is restored to its full value. Alternatively, one motivation or negative ego trait is removed or the SV applied from the procedure is reduced by half.
-- Recalculate aptitude checks, Initiative, Lucidity, Trauma Threshold, Insanity Rating, and Infection Rating ([Derived Stats](../04/14-step-11-derived-stats.md) in EP2).
+- Recalculate aptitude checks, Initiative, Lucidity, Trauma Threshold, Insanity Rating, and Infection Rating ([Derived Stats](../../04/14-step-11-derived-stats.md) in _EP2_).
 - If the Psi trait is lost, all sleights and Infection Rating are lost.
 
 Even when the procedure is successful, the composite ego suffers a –10 modifier on all tests for one week as the new identity comes to terms with its newly-integrated thought patterns.
@@ -148,17 +148,17 @@ Conjoin and Synchroneity are new sleights available to all asyncs. The others sl
 
 ### Conjoin (Psi-Chi)
 
-When you are within 40 meters of a fork of yourself in a biomorph who also has this sleight, your minds automatically merge with each other, sharing memories and experiences. Treat this as [merging](../15/04-forking-and-merging.md#merging) (EP2), but use WIL Check at +10 in place of Medicine: Psychosurgery and the process timeframe is 1 action turn per month apart. You can actively choose not to sync up your mind with a fork, but otherwise the process is automatic.
+When you are within 40 meters of a fork of yourself in a biomorph who also has this sleight, your minds automatically merge with each other, sharing memories and experiences. Treat this as [merging](../../15/04-forking-and-merging.md#merging) (_EP2_), but use WIL Check at +10 in place of Medicine: Psychosurgery and the process timeframe is 1 action turn per month apart. You can actively choose not to sync up your mind with a fork, but otherwise the process is automatic.
 
 ### Possess (Psi-Gamma)
 
 **Action:** Complex • **Duration:** Sustained • **Infection Mod:** 6
 
-This sleight is only available to asyncs with the Swarm sub-strain. You may possess the body of any async you are linked to with the Swarm Mind sleight. You control this body the same as if [jamming a drone](../16/21-robots.md#jamming) (EP2). You may use your own sleights, but you do not have access to the possessed async’s skills or sleights.
+This sleight is only available to asyncs with the Swarm sub-strain. You may possess the body of any async you are linked to with the Swarm Mind sleight. You control this body the same as if [jamming a drone](../../16/21-robots.md#jamming) (_EP2_). You may use your own sleights, but you do not have access to the possessed async’s skills or sleights.
 
 ### Remote Targeting (Psi-Chi)
 
-This sleight is only available to asyncs with the Swarm sub-strain and Swarm Mind sleight. You may target others with your sleights via the mind and senses of an async you are currently linked to with the Swarm Mind sleight. The remote async may not take any other actions using Psi skill that turn. Make the Psi Test as normal, but use the distance between the remote async and the target for range purposes. If attempting to use the sleight at [Touch range](../14/04-using-psi.md#psi-range) (EP2), the remote async must make the Melee Test to make contact with the target.
+This sleight is only available to asyncs with the Swarm sub-strain and Swarm Mind sleight. You may target others with your sleights via the mind and senses of an async you are currently linked to with the Swarm Mind sleight. The remote async may not take any other actions using Psi skill that turn. Make the Psi Test as normal, but use the distance between the remote async and the target for range purposes. If attempting to use the sleight at [Touch range](../../14/04-using-psi.md#psi-range) (_EP2_), the remote async must make the Melee Test to make contact with the target.
 
 ### Swarm Aid (Psi-Chi)
 

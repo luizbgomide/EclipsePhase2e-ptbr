@@ -83,7 +83,7 @@ Don’t forget to consider the various morph traits when putting your morph idea
 
 ### Ware
 
-Most of the morphs listed in EP2 are given the minimum amount of ware necessary to fill their niche. This helps to keep the costs down while also giving more room to the players to customize their characters’ morphs as they see fit. If you are designing a morph that is intended to be a widely available model, keep that minimalism in mind.
+Most of the morphs listed in _EP2_ are given the minimum amount of ware necessary to fill their niche. This helps to keep the costs down while also giving more room to the players to customize their characters’ morphs as they see fit. If you are designing a morph that is intended to be a widely available model, keep that minimalism in mind.
 
 In particular, most of the existing morphs steer away from any ware that increases pools or Durability. This is partly to keep things simple and avoid confusion over stats. If you are designing a bespoke or unique morph, this is less of a concern.
 
@@ -103,7 +103,7 @@ Every pod also has a cyberbrain (a Major ware/3 GP), which also includes access 
 
 Synthmorphs also have the cyberbrain and the free ware that comes it, just like pods. This is a necessity for every synthmorph (unless they have a brain box). Almost all synthmorphs are equipped with either lidar or radar to move without collisions.
 
-Every synthmorph must also choose a frame. This provides it with an inherent Armor Value and the synthmorph characteristics detailed on ▶62, EP2. Each frame has a CP cost. The frame options are:
+Every synthmorph must also choose a frame. This provides it with an inherent Armor Value and the [synthmorph characteristics](../../../04/25-synthmorphs.md#synthmorph-characteristics) detailed on _EP2_. Each frame has a CP cost. The frame options are:
 
 - **Light Frame (2 CP trait):** AV 6/4
 - **Medium Frame (4 CP trait):** AV 8/6
@@ -115,9 +115,9 @@ Infomorphs all have mnemonics ware and both the Digital Speed and Exotic Morphol
 
 ### Mobility Systems
 
-Every morph (except for infomorphs) has at least one default method of movement for free (usually Walker 4/20). Most other mobility systems are added as ware at a Moderate complexity/2 GP cost (▶324–325, EP2). However, some discretion is necessary here. In some cases, we have applied additional movement rates (a slitheroid’s roll, an aquanaut’s swim) at no extra cost, as it is already within the morph’s inherent capabilities.
+Every morph (except for infomorphs) has at least one default method of movement for free (usually Walker 4/20). Most other [mobility systems](../../../16/11-physical-augmentations.md) (_EP2_) are added as ware at a Moderate complexity/2 GP cost. However, some discretion is necessary here. In some cases, we have applied additional movement rates (a slitheroid’s roll, an aquanaut’s swim) at no extra cost, as it is already within the morph’s inherent capabilities.
 
-The specific Movement Rate is largely up to the GM based on common sense. The Movement Types listed on ▶231, EP2, each list a default suggested rate.
+The specific Movement Rate is largely up to the GM based on common sense. The [Movement Types](../../../12/24-movement.md#movement-types) listed on _EP2_, each list a default suggested rate.
 
 ### Body Plan and Limbs
 

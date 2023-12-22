@@ -1,6 +1,6 @@
 # New Ego Traits
 
-This book introduces a number of new Positive and Negative ego traits. These follow all of the rules for traits given in the core rulebook (▶72, EP2).
+This book introduces a number of new Positive and Negative ego traits. These follow all of the rules for [traits](../../../04/28-traits.md) (_EP2_) given in the core rulebook.
 
 ## Positive Ego Traits
 
@@ -87,7 +87,7 @@ You have developed a keen sense for the subtle behavioral clues and micro-expres
 
 **▲ Ego Trait • CP Cost: 2**
 
-This trait is only available to asyncs. Your sleights subtly insinuate themselves into targets’ minds. Even if they succeed on their WIL Check (Target Awareness ▶276, EP2), they are only aware they were targeted if you score a superior failure on your Psi Test.
+This trait is only available to asyncs. Your sleights subtly insinuate themselves into targets’ minds. Even if they succeed on their WIL Check ([Target Awareness](../../../14/04-using-psi.md#target-awareness), _EP2_), they are only aware they were targeted if you score a superior failure on your Psi Test.
 
 ### Controlled Infection
 
@@ -111,13 +111,13 @@ You have a knack for diligence and caution in your daily life when it comes to k
 
 **▲ Ego Trait • CP Cost: 1**
 
-You have an exceptional knack for keeping your computer intrusions out of the spotlight. You may spend a point of Insight pool to automatically negate a system defender’s attempt to locate and zero in on you as an intruder (Zeroing In ▶259, EP2 and Locate Intruder ▶261, EP2).
+You have an exceptional knack for keeping your computer intrusions out of the spotlight. You may spend a point of Insight pool to automatically negate a system defender’s attempt to locate and zero in on you as an intruder ([Zeroing In](../../../13/11-hacking.md#zeroing-in), _EP2_ and [Locate Intruder](../../../13/12-countermeasures.md#locate-intruder), _EP2_).
 
 ### Drone Whisperer
 
 **▲ Ego Trait • CP Cost: 1**
 
-Your ability to control drones and push them to their limits is unchallenged. Once per session, you may use a point of your Flex pool on a test made by a drone that is following your orders or programming in autonomous mode (▶346, EP2).
+Your ability to control drones and push them to their limits is unchallenged. Once per session, you may use a point of your Flex pool on a test made by a drone that is following your orders or programming in [autonomous mode](../../../16/21-robots.md#autonomous-mode) (_EP2_).
 
 ### Dual Strains
 
@@ -143,13 +143,13 @@ Mind edits can be difficult and stressful, but your ego is malleable in a psycho
 
 **▲ Ego Trait • CP Cost: 2**
 
-Your muse is either better quality or has somehow improved on its own. It has either 1 Insight pool or 1 Flex pool, your choice. These pool points may only be spent on actions and tests made by your muse. They follow all of the normal rules for pools (▶34, EP2).
+Your muse is either better quality or has somehow improved on its own. It has either 1 Insight pool or 1 Flex pool, your choice. These pool points may only be spent on actions and tests made by your muse. They follow all of the normal rules for [pools](../../../03/05-pools.md) (_EP2_).
 
 ### Gold Star
 
 **▲ Ego Trait • CP Cost: 1/2**
 
-You did something to earn the ongoing respect of one particular faction. You receive a +10 modifier per level to Rep Tests and social skill tests with NPCs of that particular faction. When picking a faction, use the faction list from ▶44, EP2, but break the criminal and hypercorp factions into smaller grouping (i.e., triads or Venusian hypercorps). This trait is incompatible with the Blocklisted Rep or Black Mark traits (▶77, EP2) with the same faction.
+You did something to earn the ongoing respect of one particular faction. You receive a +10 modifier per level to Rep Tests and social skill tests with NPCs of that particular faction. When picking a faction, use the [faction list](../../../04/07-step-4-faction.md#factions) from _EP2_, but break the criminal and hypercorp factions into smaller grouping (i.e., triads or Venusian hypercorps). This trait is incompatible with the [Blocklisted Rep](../../../04/28-traits.md#blocklisted-rep) or [Black Mark traits](../../../04/28-traits.md#black-mark) (_EP2_) with the same faction.
 
 ### Habitat Tranquility
 
@@ -173,7 +173,7 @@ You know a particular habitat (or local area) like the back of your hand, paw, o
 
 **▲ Ego Trait • CP Cost: 1**
 
-Your beta forks (▶292, EP2) take to the neural pruning process better than most. Choose one of the following benefits for your beta forks (this trait may be taken more than once for separate bonuses):
+Your [beta forks](../../../15/04-forking-and-merging.md#beta-forks) (_EP2_) take to the neural pruning process better than most. Choose one of the following benefits for your beta forks (this trait may be taken more than once for separate bonuses):
 
 - Active skills are not limited to a maximum value
 - Your beta forks do not suffer the −10 modifier for aptitude checks
@@ -190,7 +190,7 @@ You don’t always succeed, but when you get a win, you do it in a way that’s 
 
 **▲ Ego Trait • CP Cost: 2**
 
-You are quick at finding vulnerabilities and leveraging the right exploit tools for the job. Reduce the timeframe for subtle intrusions (▶258, EP2) by half (in most cases, this reduces it to 30 minutes; superior successes may reduce this further).
+You are quick at finding vulnerabilities and leveraging the right exploit tools for the job. Reduce the timeframe for [subtle intrusions](../../../13/11-hacking.md#subtle-intrusion) (_EP2_) by half (in most cases, this reduces it to 30 minutes; superior successes may reduce this further).
 
 ### Manipulative Streak
 
@@ -214,19 +214,19 @@ At some point in the past, you were the main character in a funny viral meme tha
 
 **▲ Ego Trait • CP Cost: 2**
 
-Your mind’s foundation is solid, even in especially traumatic situations. You never suffer from acute stress responses (▶223, EP2). Instead, simply make a WIL Check for disorientation.
+Your mind’s foundation is solid, even in especially traumatic situations. You never suffer from [acute stress responses](../../../12/18-mental-health.md#acute-stress-responses) (_EP2_). Instead, simply make a WIL Check for disorientation.
 
 ### Merging Mastery
 
 **▲ Ego Trait • CP Cost: 2**
 
-Your mind easily reintegrates forks. You never suffer memory loss when merging forks back into your ego (▶296, EP2) unless you roll a critical failure, which is treated as minor memory loss.
+Your mind easily reintegrates forks. You never suffer memory loss when [merging forks](../../../15/06-psychosurgery-procedures.md#merging) (_EP2_) back into your ego unless you roll a critical failure, which is treated as minor memory loss.
 
 ### Mind Flayer
 
 **▲ Ego Trait • CP Cost: 2**
 
-This trait is only available to characters with Infosec skill of 60 or higher. You are an expert at cracking cyberbrains and digital mind states. You do not suffer the −30 modifier applied when mindware hacking (Encoded Security, ▶266, EP2).
+This trait is only available to characters with Infosec skill of 60 or higher. You are an expert at cracking cyberbrains and digital mind states. You do not suffer the −30 modifier applied when mindware hacking ([Encoded Security](../../../13/17-mindware-hacking.md#encoded-security), _EP2_).
 
 ### Minion/Partner
 
@@ -284,7 +284,7 @@ This trait is primarily found among uplifts and is most common with octopus or o
 
 **▲ Ego Trait • CP Cost: 4**
 
-You bounce back and recover from stress and trauma at an exceptional rate. Reduce all timeframes for healing stress, traumas, and disorders by half. Additionally, when you reach a motivational goal, you heal 2d6 stress instead of 1d6 (Motivational Recovery ▶223, EP2).
+You bounce back and recover from stress and trauma at an exceptional rate. Reduce all timeframes for healing stress, traumas, and disorders by half. Additionally, when you reach a motivational goal, you heal 2d6 stress instead of 1d6 ([Motivational Recovery](../../../12/19-mental-healing-and-psychosurgery.md#motivational-recovery), _EP2_).
 
 ### Scrounging Talent
 
@@ -296,7 +296,7 @@ When it comes to scraping together the gear or morphs you need, you’re a maste
 
 **▲ Ego Trait • CP Cost: 1**
 
-This trait is only available to characters with Guns skill of 60 or higher. You have trained to become an expert marksman. You do not suffer the −10 modifier for called shots (▶218, EP2) and your modifier for indirect attacks is only −10 (▶206, EP2).
+This trait is only available to characters with Guns skill of 60 or higher. You have trained to become an expert marksman. You do not suffer the −10 modifier for [called shots](../../../12/15-special-attacks.md#called-shots) (_EP2_) and your modifier for [indirect attacks](../../../12/04-ranged-combat.md#indirect-fire) (_EP2_) is only −10.
 
 ### Spacecraft
 
@@ -314,25 +314,25 @@ This trait also works well for PCs that wish to play the crew of a ship. In this
 
 **▲ Ego Trait • CP Cost: 1**
 
-Thanks to a traumatic past or a quirk of your psyche, you are emotionally inured to a particular source of stress and trauma, such as extensive isolation, asphyxiation, or Pandora gates. You are immune to Stress Tests and taking stress from that specific source. Use the entries on the Stressful Experiences table (▶229, EP2) for guidelines. GMs should not allow sources that are overly broad (i.e., “killing” is not acceptable, but “killing in self-defense” is). This trait may be taken more than once for separate sources, but no more than 3 times for sources in each category of stressful experience; for anything beyond that, use the Hardening trait (▶74, EP2).
+Thanks to a traumatic past or a quirk of your psyche, you are emotionally inured to a particular source of stress and trauma, such as extensive isolation, asphyxiation, or Pandora gates. You are immune to Stress Tests and taking stress from that specific source. Use the entries on the [Stressful Experiences table](../../../12/23-stressful-situations.md#stressful-experiences) (_EP2_) for guidelines. GMs should not allow sources that are overly broad (i.e., “killing” is not acceptable, but “killing in self-defense” is). This trait may be taken more than once for separate sources, but no more than 3 times for sources in each category of stressful experience; for anything beyond that, use the [Hardening trait](../../../04/28-traits.md#hardening) (_EP2_).
 
 ### Synth Kinesics
 
 **▲ Ego Trait • CP Cost: 1**
 
-You have a fine grasp of subtext and nuance even when dealing with others who lack emotive capabilities or visual clues. You do not suffer the −30 modifier to Kinesics Tests when interacting with synthmorphs, bots, infomorphs, or similar context-barren situations (Kinesics ▶50, EP2).
+You have a fine grasp of subtext and nuance even when dealing with others who lack emotive capabilities or visual clues. You do not suffer the −30 modifier to Kinesics Tests when interacting with synthmorphs, bots, infomorphs, or similar context-barren situations ([Kinesics](../../../04/19-active-skill-list.md#kinesics), _EP2_).
 
 ### Temptation Immunity
 
 **▲ Ego Trait • CP Cost: 2**
 
-You do not get addicted to things. You never have to make a mental Addiction Test (▶330, EP2). Your morph, however, is still susceptible to physical addictions.
+You do not get addicted to things. You never have to make a [mental Addiction Test](../../../16/15-chemicals-drugs-and-toxins.md#addiction-and-abuse) (_EP2_). Your morph, however, is still susceptible to physical addictions.
 
 ### Untarnished Rep
 
 **▲ Ego Trait • CP Cost: 1**
 
-Through fame, a lifetime of achievement, or some lucky quirk, your reputation in one particular social network is very difficult to assail. Choose one rep score. Any test to attack your reputation in that network suffers a −30 modifier, and any rep losses in that network are automatically halved. This does not apply if you burn your own rep. This trait is incompatible with the Blocklisted Rep trait (▶77, EP2) with the same rep score.
+Through fame, a lifetime of achievement, or some lucky quirk, your reputation in one particular social network is very difficult to assail. Choose one rep score. Any test to attack your reputation in that network suffers a −30 modifier, and any rep losses in that network are automatically halved. This does not apply if you burn your own rep. This trait is incompatible with the [Blocklisted Rep trait](../../../04/28-traits.md#blocklisted-rep) (_EP2_) with the same rep score.
 
 ### Uplift Affinity
 
@@ -398,13 +398,13 @@ Negative ego traits provide a CP bonus and apply penalties in certain situations
 
 **▲ Ego Trait • CP Bonus: 1/2/3**
 
-You have a poor ability to self-regulate and are predisposed to addictive behaviors. You have a −10 modifier per level on Addiction Tests (▶330, EP2) and any tests to resist similar cravings.
+You have a poor ability to self-regulate and are predisposed to addictive behaviors. You have a −10 modifier per level on [Addiction Tests](../../../16/15-chemicals-drugs-and-toxins.md#addiction-and-abuse) (_EP2_) and any tests to resist similar cravings.
 
 ### Anomalous Mind
 
 **▲ Ego Trait • CP Bonus: 6**
 
-Your mental patterns are dramatically outside transhumanity’s norms. This trait is found among people with brain damage, subjects of highly experimental pyschosurgical procedures, and AGIs and uplifts derived from non-human mind states. The uniqueness of your mental map makes normally routine affairs such as backups, resleeving, egocasting, forking, and psychosurgery a tricky and potentially dangerous affair. Any attempts to conduct these processes require active oversight and a Medicine: Psychosurgery Test at −30 with a timeframe of 1 hour (in addition to the procedure’s normal tests and timeframe). On a failure, treat the copied/ modified ego as a beta fork (▶292, EP2) of the original (failed beta forks become gamma forks) and inflict SV 1d6. On a superior/critical failure, the procedure fails outright.
+Your mental patterns are dramatically outside transhumanity’s norms. This trait is found among people with brain damage, subjects of highly experimental pyschosurgical procedures, and AGIs and uplifts derived from non-human mind states. The uniqueness of your mental map makes normally routine affairs such as backups, resleeving, egocasting, forking, and psychosurgery a tricky and potentially dangerous affair. Any attempts to conduct these processes require active oversight and a Medicine: Psychosurgery Test at −30 with a timeframe of 1 hour (in addition to the procedure’s normal tests and timeframe). On a failure, treat the copied/ modified ego as a [beta fork](../../../15/04-forking-and-merging.md#beta-forks) (_EP2_) of the original (failed beta forks become gamma forks) and inflict SV 1d6. On a superior/critical failure, the procedure fails outright.
 
 Groups should carefully consider whether or not to give this trait to PCs, as it drastically impacts your ability to navigate the setting.
 
@@ -414,7 +414,7 @@ Groups should carefully consider whether or not to give this trait to PCs, as it
 
 You are a beta fork of your original self, which for some reason is no longer alive (most likely lost during the Fall). You were created some time ago (a year or more), so you have grown and overcome some of your original beta limitations. You may not have more than 1 ego Flex point nor any Active skills higher than 70. If you possess the Psi trait, it’s because you were infected as a beta.
 
-You only have a limited portion of your original self’s memories — much of your previous life is lost. You automatically receive the Edited Memories trait (▶77, EP2) without gaining the bonus CP.
+You only have a limited portion of your original self’s memories — much of your previous life is lost. You automatically receive the [Edited Memories trait](../../../04/28-traits.md#edited-memories) (_EP2_) without gaining the bonus CP.
 
 Beta forks are illegal in many jurisdictions and some people consider you a twisted mockery of your original self. This may create legal or social complications when traveling and dealing with other transhumans.
 
@@ -452,7 +452,7 @@ You are in debt to a powerful person or organization. This could be a loan shark
 
 You are expected to contribute towards the payment of this debt on a consistent weekly basis. In most circumstances, this can be handled as the expenditure of a Moderate rep favor each week. For plot purposes, the GM can instead sometimes call for the devotion of your time (1–2 days), a loss of GP/MP (~2), or the completion of a favor as part of the ongoing story. This favor might be innocuous or dangerous, depending on the needs of the narrative.
 
-If you fail to meet these obligations, the creditor will retaliate. Your rep may be dinged, thugs may be dispatched to teach you a lesson, or something/someone you value may be threatened or damaged. Debt collectors are skilled at tightening the screws and getting what they expect from reluctant debtors one way or the other. If you completely renege on your debt, you gain the Black Mark (Level 2) and Enemy traits (▶77, EP2).
+If you fail to meet these obligations, the creditor will retaliate. Your rep may be dinged, thugs may be dispatched to teach you a lesson, or something/someone you value may be threatened or damaged. Debt collectors are skilled at tightening the screws and getting what they expect from reluctant debtors one way or the other. If you completely renege on your debt, you gain the [Black Mark (Level 2)](../../../04/28-traits.md#black-mark) and [Enemy traits](../../../04/28-traits.md#enemy) (_EP2_).
 
 In the long run, it is possible for this debt to be cleared. This may involve a massive accumulation of capital, blackmail, or somehow providing something the creditor desperately needs.
 
@@ -472,7 +472,7 @@ You have a dependent — a child, a disabled family member, or even a much-loved
 
 **▲ Ego Trait • CP Bonus: 1**
 
-Your forks diverge from your core personality more quickly than usual. When merging a fork, treat the fork’s time apart as if it were one step lower on the Merging table (▶296, EP2). For example, a fork that is absent under 48 hours is treated as if it were away from 48 hours to 1 week.
+Your forks diverge from your core personality more quickly than usual. When merging a fork, treat the fork’s time apart as if it were one step lower on the [Merging table](../../../15/06-psychosurgery-procedures.md#merging) (_EP2_). For example, a fork that is absent under 48 hours is treated as if it were away from 48 hours to 1 week.
 
 ### Domineering Impulses
 
@@ -486,7 +486,7 @@ Domineering characters often suffer poor reputations in modern transhuman reputa
 
 **▲ Ego Trait • CP Bonus: 4**
 
-This trait is only available to AGIs. You have a particularly difficult time adjusting to hormonal urges and emotions when sleeved in biomorphs. You suffer a −20 modifier when resisting any form of emotional manipulation, including Provoke Tests, fear effects, and certain sleights and drugs. Additionally, you suffer a −20 modifier to Stress Tests involving emotions, fear, or pain. At the GM’s discretion, certain intense emotions or rushes may temporarily overwhelm you; if you fail a WIL Check, you acquire the stunned condition (▶226, EP2) for one action turn (plus one per superior failure). Neuromodulation and endocrine control ware can negate the effects of this trait.
+This trait is only available to AGIs. You have a particularly difficult time adjusting to hormonal urges and emotions when sleeved in biomorphs. You suffer a −20 modifier when resisting any form of emotional manipulation, including Provoke Tests, fear effects, and certain sleights and drugs. Additionally, you suffer a −20 modifier to Stress Tests involving emotions, fear, or pain. At the GM’s discretion, certain intense emotions or rushes may temporarily overwhelm you; if you fail a WIL Check, you acquire the [stunned condition](../../../12/21-other-action-factors.md#conditions) (_EP2_) for one action turn (plus one per superior failure). Neuromodulation and endocrine control ware can negate the effects of this trait.
 
 ### Emotive Blindness
 
@@ -600,7 +600,7 @@ At some point in the recent past (within the past 2 years), someone stole your i
 
 **▲ Ego Trait • CP Bonus: 1**
 
-Thanks to your upbringing or a flaw in your psyche, you are emotionally vulnerable to a particular source of stress and trauma, such as extensive isolation, asphyxiation, or Pandora gates. You suffer double the SV from that specific source. Use the entries on the Stressful Experiences table (▶229, EP2) for guidelines. This trait may be taken more than once for separate sources.
+Thanks to your upbringing or a flaw in your psyche, you are emotionally vulnerable to a particular source of stress and trauma, such as extensive isolation, asphyxiation, or Pandora gates. You suffer double the SV from that specific source. Use the entries on the [Stressful Experiences table](../../../12/23-stressful-situations.md#stressful-experiences) (_EP2_) for guidelines. This trait may be taken more than once for separate sources.
 
 ### Submissiveness
 
@@ -612,7 +612,7 @@ This trait is more common among uplifts who inherit mannerisms from their pre-sa
 
 **▲ Ego Trait • CP Bonus: 6**
 
-You are unaware that your mind has been conditioned with awareness block, hidden knowledge, and/or personality editing psychosurgery (▶295–297, EP2). Under certain triggered conditions, you acquire new knowledge and/or your personality changes (as represented by Enhanced Behavior and/or Restricted Behavior traits from the personality editing; you do not receive additional CP for these traits). Under separate trigger conditions, you revert to your normal self, unaware that you were ever different. You could be a secret spy, a courier carrying sensitive data, or an assassin or saboteur. You might even be an enemy’s secret ace in the hole, a trump card to exploit when the time is right. Or you might be a fugitive and the hidden persona is in fact your real one, while your day-to-day persona is a fabricated cover.
+You are unaware that your mind has been conditioned with [awareness block](../../../15/06-psychosurgery-procedures.md#awareness-block), [hidden knowledge](../../../15/06-psychosurgery-procedures.md#hidden-knowledge), and/or [personality editing psychosurgery](../../../15/06-psychosurgery-procedures.md#personality-editing) (_EP2_). Under certain triggered conditions, you acquire new knowledge and/or your personality changes (as represented by Enhanced Behavior and/or Restricted Behavior traits from the personality editing; you do not receive additional CP for these traits). Under separate trigger conditions, you revert to your normal self, unaware that you were ever different. You could be a secret spy, a courier carrying sensitive data, or an assassin or saboteur. You might even be an enemy’s secret ace in the hole, a trump card to exploit when the time is right. Or you might be a fugitive and the hidden persona is in fact your real one, while your day-to-day persona is a fabricated cover.
 
 Keep in mind that, due to the awareness block, even when your hidden programming is apparent to others, you are cognitively incapable of recognizing it yourself, which is certain to be an incredibly stressful experience all around.
 
@@ -622,13 +622,13 @@ Work with your GM to sort out the details of your secret conditioning. Perhaps y
 
 **▲ Ego Trait • CP Bonus: 4**
 
-This trait is only available to asyncs with the Psi trait at Level 2. Your infection has sunk its claws into your psyche, making it more difficult to shake off. You only reduce your Infection Rating by 5 points every short recharge and 20 points for each long recharge (Easing the Infection, ▶277, EP2).
+This trait is only available to asyncs with the Psi trait at Level 2. Your infection has sunk its claws into your psyche, making it more difficult to shake off. You only reduce your Infection Rating by 5 points every short recharge and 20 points for each long recharge ([Easing the Infection](../../../14/04-using-psi.md#easing-the-infection), _EP2_).
 
 ### Uncooperative Tendencies
 
 **▲ Ego Trait • CP Bonus: 2**
 
-You are socially awkward, self-centered, or have such low self esteem that you do not work well others. You do not benefit from teamwork bonuses (▶31, EP2) when others try to aid you, and if you attempt to aid someone else (whether voluntarily or forced), apply a −10 modifier to the test rather than aiding with a +10.
+You are socially awkward, self-centered, or have such low self esteem that you do not work well others. You do not benefit from [teamwork bonuses](../../../03/01-how-to-play.md#teamwork) (_EP2_) when others try to aid you, and if you attempt to aid someone else (whether voluntarily or forced), apply a −10 modifier to the test rather than aiding with a +10.
 
 ### Unreliability
 
@@ -640,4 +640,4 @@ You have an unfortunate tendency to screw things up at critical moments. Once pe
 
 **▲ Ego Trait • CP Bonus: 4**
 
-This trait is only available to asyncs. Your psi-gamma sleights often manifest in an obvious physical way: glowing eyes, a hair-raising static crackling, an eery miasma, or headaches in your targets. This happens any time you acquire an influence effect. Additionally, your targets are always aware that they have been affected by something (Target Awareness, ▶276, EP2) and that you are somehow connected.
+This trait is only available to asyncs. Your psi-gamma sleights often manifest in an obvious physical way: glowing eyes, a hair-raising static crackling, an eery miasma, or headaches in your targets. This happens any time you acquire an influence effect. Additionally, your targets are always aware that they have been affected by something ([Target Awareness](../../../14/04-using-psi.md#target-awareness), _EP2_) and that you are somehow connected.

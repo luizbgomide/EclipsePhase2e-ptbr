@@ -26,7 +26,7 @@ The interests determined here represent hobbies you have delved into over the ye
 | :---------: | :----------------- | :--------------------------------------------------------------------------------- |
 |      1      | Animal Handler     | You train and care for smart animals.                                              |
 |      2      | Artist/Icon        | You are a creative or celebrity figure.                                            |
-|      3      | Async              | You are infected with the Watts-MacLeod strain of the exsurgent virus (▶273, EP2). |
+|      3      | Async              | You are infected with the [Watts-MacLeod strain of the exsurgent virus](../../../14/02-watts-macleod-sub-strains.md) (_EP2_). |
 |      4      | Commander          | You are an executive, officer, elected official, or autonomist organizer.          |
 |      5      | Fighter            | You’ve picked up some self-defense capabilities                                    |
 |      6      | Forensics          | Specialist You’re trained to analyze crime scenes and perform autopsies.           |
@@ -64,7 +64,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 |                                 |      |
 | :------------------------------ | ---: |
-| Animal Empathy trait (▶73, EP2) |
+| [Animal Empathy trait](../../../04/28-traits.md#animal-empathy) (_EP2_) |
 | c-rep                           |   20 |
 | Exotic Skill: Animal Handling   |   40 |
 | Medicine: Veterinary            |   40 |
@@ -109,7 +109,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 |                                |      |
 | :----------------------------- | ---: |
-| Psi (Level 2) trait (▶73, EP2) |
+| [Psi (Level 2) trait](../../../04/28-traits.md#psi) (_EP2_) |
 | 4 psi sleights                 |
 | g-rep                          |   20 |
 | Deceive                        |   40 |

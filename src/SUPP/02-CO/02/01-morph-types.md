@@ -11,11 +11,11 @@ Each morph entry lists the following details:
 <blockquote class="indent stat-list">
 
 - **Cost:** Cost in Morph Points (Designing New Morphs ▶146)
-- **Avail:** The morph’s Availability (Morph Availability ▶290, EP2)
-- **Insight/Moxie/Vigor/Flex:** Your morph’s pool points (Pools ▶34, EP2)
-- **Movement Rate:** The mobility system used and distance covered (Movement ▶230, EP2).
-- **Ware:** Bioware, cyberware, hardware, meshware, and/or nanoware the morph is equipped with (Ware ▶316–327, EP2 and also this book ▶126–131)
-- **Morph Traits:** Traits that each morph of this type has (Traits ▶72, EP2, and also this book ▶132).
+- **Avail:** The morph’s Availability ([Morph Availability](../../../15/03-acquiring-morphs.md#morph-availability), _EP2_)
+- **Insight/Moxie/Vigor/Flex:** Your morph’s pool points ([Pools](../../../03/05-pools.md), _EP2_)
+- **Movement Rate:** The mobility system used and distance covered ([Movement](../../../12/24-movement.md), _EP2_).
+- **Ware:** Bioware, cyberware, hardware, meshware, and/or nanoware the morph is equipped with ([starting on Ware](../../../16/05-common-tech-and-ware.md), _EP2_ and also this book ▶126–131)
+- **Morph Traits:** Traits that each morph of this type has ([Traits](../../../04/28-traits.md), _EP2_, and also this book ▶132).
 - **Common Extras:** Prevalent but not baseline traits or ware for the morph type. These are not included in the MP cost and must be acquired separately.
 - **Notes:** Any additional information, such as size, number of limbs, etc.
 
@@ -55,7 +55,7 @@ Each flexbot is considered a single entity for rules purposes, no
 matter how many modules it has. Apply the following rules:
 
 - Choose one module to hold the ego — this one controls the others.
-- (Dis)connecting a module is a complex action and requires an Integration Test ▶288, EP2. Modules not physically connected are handled as a remote operation ▶346, EP2.
+- (Dis)connecting a module is a complex action and requires an [Integration Test](../../../15/02-resleeving.md#integration-test) (_EP2_). Modules not physically connected are handled as a [remote operation](../../../16/21-robots.md#remote-operations) (_EP2_).
 - When modules are combined, use their combined pools.
 - Modules must all be using the same mobility system or Movement Rate is halved.
 - A flexbot with 3–4 modules is medium-sized; 5–9 large; 10 or more very large.
@@ -96,7 +96,7 @@ Synthetic shells are made to last — a fact reflected in their higher Durabilit
 
 ## Infomorphs
 
-Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on ▶252, EP2.
+Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for [infomorphs](../../../13/08-infomorphs.md) can be found on _EP2_.
 
 ## Core Morphs
 
@@ -114,7 +114,7 @@ What makes your proprioception radically different, however, is how the core sys
 
 This flood of sensory information would be overwhelming under normal circumstances. By default, however, core systems reduce these inputs to a low-level background hum, allowing you to focus your attention as needed or desired. Being sleeved in a core does not make you omniscient or all-perceiving, however. You are no more aware of everything going on than you are aware of your blood flow, breathing, or digestive processes in a normal biomorph. You can focus your attention and actively monitor a sensation, but otherwise it is considered environmental “noise.” For Perceive tests to determine if you are aware of specific low-level activity or a particular event, you are treated as distracted (–20 modifier; higher-end cores have oracle ware to negate this modifier). You are, however, immediately aware of any alerts triggered by security or other systems.
 
-Core cyberbrain systems also take advantage of multi-focus ware (▶128), which expands the capabilities of multi-tasking mods, allowing you to focus your attention in multiple places at once. For example, a sexton core ego with multi-tasking and 4 multi-focus modules can use detailed perception (▶227, EP2) on 6 things at once (2 from the multi-tasking plus 4 more from multi-focus). This means that sexton can monitor power fluctuations, track a suspicious target through security feeds, listen to the comm channels of an approaching ship, scan public real-time mesh feeds with a keyword search, check the status of fabricator print job, and watch a cat video all at the same time. This ability to split attention does not grant extra actions, but it does allow the ego to maintain ongoing mental task actions.
+Core cyberbrain systems also take advantage of multi-focus ware (▶128), which expands the capabilities of multi-tasking mods, allowing you to focus your attention in multiple places at once. For example, a sexton core ego with multi-tasking and 4 multi-focus modules can use [detailed perception](../../../12/21-other-action-factors.md#perception) (_EP2_) on 6 things at once (2 from the multi-tasking plus 4 more from multi-focus). This means that sexton can monitor power fluctuations, track a suspicious target through security feeds, listen to the comm channels of an approaching ship, scan public real-time mesh feeds with a keyword search, check the status of fabricator print job, and watch a cat video all at the same time. This ability to split attention does not grant extra actions, but it does allow the ego to maintain ongoing mental task actions.
 
 ### Multiple Egos
 
@@ -122,7 +122,7 @@ Simpler core systems such as wardens rely on a single ego overwatching the entir
 
 ### Core Hacking
 
-Cores are vulnerable to mindware hacking (▶266, EP2). If a habitat or ship’s mesh systems are hacked, the core may be hacked or attacked directly. Like other cyberbrains and infomorphs, cores are incredibly difficult to hack: intruders receive a −30 modifier.
+Cores are vulnerable to [mindware hacking](../../../13/17-mindware-hacking.md) (_EP2_). If a habitat or ship’s mesh systems are hacked, the core may be hacked or attacked directly. Like other cyberbrains and infomorphs, cores are incredibly difficult to hack: intruders receive a −30 modifier.
 
 If the core is frozen or shutdown, systems on the ship or habitat may be disrupted, experience lag as they re-allocate resources, or shut down entirely. On multi-ego systems, if one ego is frozen or otherwise disabled, other core egos can take over necessary functions. To shut down a multi-ego core, each linked ghostrider ego must be shut down first. Shutting down a multi-ego core is challenging but not impossible.
 
@@ -130,7 +130,7 @@ Cores may be attacked in mesh combat, per normal rules. Use their listed WT/DUR/
 
 ### Digital Speed
 
-Due to their processing capabilities, core morphs have the Digital Speed trait (▶73, EP2).
+Due to their processing capabilities, core morphs have the [Digital Speed trait](../../../04/28-traits.md#digital-speed) (_EP2_).
 
 ### Cores and Ware
 
@@ -203,7 +203,7 @@ The ALI that came with a bot or vehicle is typically deactivated and stored whil
 
 ## Axle MP
 
-Use the following MP for the bots and vehicles listed in EP2. These costs assume the axle has a cyberbrain, cortical stack, Exotic Morphology (Level 3) trait, and Lack of Smell trait. Axles with an asterisk (*) also have the Lack of Manipulators trait.
+Use the following MP for the bots and vehicles listed in _EP2_. These costs assume the axle has a cyberbrain, cortical stack, Exotic Morphology (Level 3) trait, and Lack of Smell trait. Axles with an asterisk (*) also have the Lack of Manipulators trait.
 
 | Bot/Vehicle         |  MP   |
 | :------------------ | :---: |

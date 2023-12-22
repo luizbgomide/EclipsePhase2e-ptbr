@@ -6,7 +6,7 @@ Rather than making a character and then improvising a backstory that fits those 
 
 The life path system details your character’s progression from childhood and adolescence to adulthood. It incorporates both various stages of their life and major events such as the Fall.
 
-This system is loosely based on default [character creation](../../../04/00-making-characters.md) (Making Characters, _**EP2**_). Familiarize yourself with those rules before proceeding here, especially the [Character Stats](../../../04/01-character-stats.md), _**EP2**_.
+This system is loosely based on default character creation ([Making Characters](../../../04/00-making-characters.md), _EP2_). Familiarize yourself with those rules before proceeding here, especially the [Character Stats](../../../04/01-character-stats.md), _EP2_.
 
 At each step of your character’s life path, you update your character’s stats. Some steps provide straightfoward bonuses, such as your starting Flex and aptitudes. For 3 of the major steps — _background_, _career_, and _interests_ — you either choose or roll randomly on the provided tables to acquire a package of skills, just like standard character creation (though usually with extra bonuses).
 
@@ -64,7 +64,7 @@ A few events reduce your aptitude, skill, or rep points. If you accumulate 30 c-
 
 Traits with levels are also cumulative. If you pick up Resources (Level 1) in one step and another Resources (Level 1) in the next step, you now have Resources (Level 2).
 
-**Optional Rule:** Many of the traits in _**EP2**_ are available at different levels. With the exception of Psi and Resources, the multi-level traits in this path system are all at Level 2. If you prefer to make it more variable, you can randomly determine each trait’s level instead.
+**Optional Rule:** Many of the traits in _EP2_ are available at different levels. With the exception of Psi and Resources, the multi-level traits in this path system are all at Level 2. If you prefer to make it more variable, you can randomly determine each trait’s level instead.
 
 ## Changing Morphs
 
@@ -76,7 +76,7 @@ The main value of this life path system is that it tells your character’s stor
 
 ## Motivations
 
-Every new character starts with 3 [motivations](../../../04/16-step-13-motivations.md) (_**EP2**_) that are assigned along with your background in Step 4, reflecting your character’s youthful ambitions. At each additional step in the process, you should consider whether or not to modify or replace any of these motivations based on your character’s experiences so far. Some entries may suggest specific new motivations to adopt.
+Every new character starts with 3 [motivations](../../../04/16-step-13-motivations.md) (_EP2_) that are assigned along with your background in Step 4, reflecting your character’s youthful ambitions. At each additional step in the process, you should consider whether or not to modify or replace any of these motivations based on your character’s experiences so far. Some entries may suggest specific new motivations to adopt.
 
 All of the motivation suggestions are optional. If you’d rather stick with what you have or have an idea that better fits your character concept, then go with that. If you don’t like a suggestion, but don’t know what to replace it with, roll on the Random Motivations table. Remember that motivations are noted as either + (for it) or – (against it); for most random results you can assume a + but you can also determine that randomly if you like.
 
