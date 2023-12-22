@@ -26,21 +26,21 @@ For the rest of the steps, you roll on an _event table_ that details something t
 
 <div class="two-columns">
 
-- **Step 1:** Start with 1 Ego Flex ▶6
-- **Step 2:** Determine Aptitude Template ▶6
-- **Step 3:** Determine Native Tongue ▶7
-- **Step 4:** Background Path ▶7
-- **Step 5:** Youth Event ▶18
-- **Step 6:** Determine Age ▶20
-- **Step 7:** Pre-Fall Event ▶20
-- **Step 8:** Fall Event ▶22
-- **Step 9:** Career Path ▶24
-- **Step 10:** Interests ▶32
-- **Step 11:** Determine Faction ▶34
-- **Step 12:** Post-Fall Event ▶36
-- **Step 13:** Campaign Event ▶38
-- **Step 14:** Optional Story Event ▶44
-- **Step 15:** Final Stats and Details ▶46
+- **[Step 1](./02-1-flex.md):** Start with 1 Ego Flex
+- **[Step 2](./03-2-aptitude-template.md):** Determine Aptitude Template
+- **[Step 3](./04-3-native-tongue.md):** Determine Native Tongue
+- **[Step 4](./05-4-background-path.md):** Background Path
+- **[Step 5](./06-5-youth-event.md):** Youth Event
+- **[Step 6](./07-6-starting-age.md):** Determine Age
+- **[Step 7](./08-7-pre-fall-life-event.md):** Pre-Fall Event
+- **[Step 8](./09-8-the-fall.md):** Fall Event
+- **[Step 9](./10-9-career-path.md):** Career Path
+- **[Step 10](./11-10-interests.md):** Interests
+- **[Step 11](./12-11-faction.md):** Determine Faction
+- **[Step 12](./13-12-post-fall-event.md):** Post-Fall Event
+- **[Step 13](./14-13-campaign-event.md):** Campaign Event
+- **[Step 14](./15-14-story-event-optional.md):** Optional Story Event
+- **[Step 15](./16-15-final-stats-and-details.md):** Final Stats and Details
 
 </div>
 
@@ -56,7 +56,7 @@ The one caveat is that random rolls sometimes produce contradictory combinations
 
 ## Accumulating Points
 
-As you progress, your character will acquire aptitude, skill, and rep points (as well as traits and other stats). These points are cumulative and added together at the end (Step 15 ▶46); simply keep a tally as you go. For example, if you gain Athletics 10 and Athletics 30 in separate stages, you have 40 points for Athletics in Step 15.
+As you progress, your character will acquire aptitude, skill, and rep points (as well as traits and other stats). These points are cumulative and added together at the end ([Step 15](./16-15-final-stats-and-details.md)); simply keep a tally as you go. For example, if you gain Athletics 10 and Athletics 30 in separate stages, you have 40 points for Athletics in Step 15.
 
 A few events reduce your aptitude, skill, or rep points. If you accumulate 30 c-rep and an event reduces your c-rep by 10, you now have 20 c-rep. If you take a reduction but have 0 points in that rep or skill, take note of it, as you may pick up points in a later step (which then get reduced).
 
@@ -68,7 +68,7 @@ Traits with levels are also cumulative. If you pick up Resources (Level 1) in on
 
 ## Changing Morphs
 
-In Step 4, you acquire your starting morph. At various further stages, you may egocast, resleeve, or die. Some entries assign you a specific new morph, but most instruct you to roll on the Random Morph tables ▶50 to determine your new sleeve. This new morph replaces your existing one. The morph you have at the end of the life path (Step 15 ▶46) is the one with which you start gameplay.
+In Step 4, you acquire your starting morph. At various further stages, you may egocast, resleeve, or die. Some entries assign you a specific new morph, but most instruct you to roll on the [Random Morph tables](./19-random-tables.md#morph-type-d100) to determine your new sleeve. This new morph replaces your existing one. The morph you have at the end of the life path ([Step 15](./16-15-final-stats-and-details.md)) is the one with which you start gameplay.
 
 ## This Is Your Life
 

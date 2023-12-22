@@ -7,7 +7,7 @@
 
 **Pick a background or roll on the Random Background Path table. Then go to the appropriate sub-table and either pick a result or roll again. This will determine: your first package of skill points, starting motivation, and starting morph (you may need to roll an additional d10).**
 
-**After you have finished choosing/rolling, proceed to Step 5: Youth Event ▶18.**
+**After you have finished choosing/rolling, proceed to [Step 5: Youth Event](./06-5-youth-event.md).**
 
 </blockquote>
 
@@ -26,18 +26,18 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 ## 4.0 Random Background Path \[d10\]
 
-|  d10  | Background | Description                                                                                          | Next Path                 |
-| :---: | :--------- | :--------------------------------------------------------------------------------------------------- | :------------------------ |
-|   1   | Colonist   | You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.                        | Table 4.1: Colonist ▶8    |
-|   2   | Enclaver   | On Earth, you live a life of precarious but protected stability in a defended enclave.               | Table 4.2: Enclaver ▶9    |
-|   3   | Freelancer | You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.                        | Table 4.3: Freelancer ▶10 |
-|   4   | Hyperelite | You live in the top percent, with abundant wealth and resources.                                     | Table 4.4: Hyperelite ▶11 |
-|   5   | Indenture  | With nothing to lose, you sell yourself into a work contract to off-world hypercorps.                | Table 4.5: Indenture ▶12  |
-|   6   | Infolife   | You are an AGI, a digital consciousness born of software code.                                       | Table 4.6: Infolife ▶13   |
-|   7   | Isolate    | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        | Table 4.7: Isolate ▶14    |
-|   8   | Lost       | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. | Table 4.8: Lost ▶15       |
-|   9   | Underclass | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      | Table 4.9: Underclass ▶16 |
-|   0   | Uplift     | You are an uplifted animal raised to human levels of intelligence.                                   | Table 4.10: Uplift ▶17    |
+|  d10  | Background                        | Description                                                                                          |
+| :---: | :-------------------------------- | :--------------------------------------------------------------------------------------------------- |
+|   1   | [Colonist](#41-colonist-d100)     | You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.                        |
+|   2   | [Enclaver](#42-enclaver-d100)     | On Earth, you live a life of precarious but protected stability in a defended enclave.               |
+|   3   | [Freelancer](#43-freelancer-d100) | You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.                        |
+|   4   | [Hyperelite](#44-hyperelite-d100) | You live in the top percent, with abundant wealth and resources.                                     |
+|   5   | [Indenture](#45-indenture-d100)   | With nothing to lose, you sell yourself into a work contract to off-world hypercorps.                |
+|   6   | [Infolife](#46-infolife-d100)     | You are an AGI, a digital consciousness born of software code.                                       |
+|   7   | [Isolate](#47-isolate-d100)       | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        |
+|   8   | [Lost](#48-lost-d100)             | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. |
+|   9   | [Underclass](#49-underclass-d100) | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      |
+|   0   | [Uplift](#410-uplift-d100)        | You are an uplifted animal raised to human levels of intelligence.                                   |
 
 </blockquote>
 
@@ -47,7 +47,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 **You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -370,7 +370,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -600,7 +600,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -831,7 +831,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You live in the top percent, with abundant wealth and resources.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1065,7 +1065,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1387,7 +1387,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You are an AGI, a digital consciousness born of software code.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1659,7 +1659,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1848,7 +1848,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -2079,7 +2079,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You’re a veteran of Earth’s slums, favelas, and flooded cities.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -2314,7 +2314,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 
 **You are an uplifted animal raised to human levels of intelligence.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -2351,7 +2351,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 ---
 
 - **Morph:**
-  - Roll on the Uplift Biomorphs table ▶50
+  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2396,7 +2396,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 ---
 
 - **Morph:**
-  - Roll on the Uplift Biomorphs table ▶50
+  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2441,7 +2441,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 ---
 
 - **Morph:**
-  - Roll on the Uplift Biomorphs table ▶50
+  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2484,7 +2484,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to Step 5: Youth Event ▶18.
 ---
 
 - **Morph:**
-  - Roll on the Uplift Biomorphs table ▶50
+  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
