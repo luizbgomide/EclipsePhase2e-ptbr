@@ -2,7 +2,7 @@
 
 Morphs can be broken down into 3 broad categories: _biomorphs_ (biological), _synthmorphs_ (synthetic), and _infomorphs_ (digital). Under the umbrella of biomorphs, there also exist _pod morphs_ (grown as separate components and assembled with cyberbrains), _uplift morphs_ (derived from non-human species), and _exomorphs_ (based on non-terrestrial species). Under the mantle of synthmorphs we also categorize _flexbots_ (a specific modular system), _core morphs_ (ships and habitat systems), and also _axles_ (bots and vehicles retrofitted with a cyberbrain system).
 
-The morphs in this book represent just a fraction available to transhumanity. GMs are encouraged to design and incorporate their own, both for PCs and NPCs (Designing New Morphs ▶146).
+The morphs in this book represent just a fraction available to transhumanity. GMs are encouraged to design and incorporate their own, both for PCs and NPCs ([Designing New Morphs](../04/12-designing-new-morphs.md)).
 
 ## Morph Stats
 
@@ -10,12 +10,12 @@ Each morph entry lists the following details:
 
 <blockquote class="indent stat-list">
 
-- **Cost:** Cost in Morph Points (Designing New Morphs ▶146)
+- **Cost:** Cost in Morph Points ([Designing New Morphs](../04/12-designing-new-morphs.md))
 - **Avail:** The morph’s Availability ([Morph Availability](../../../15/03-acquiring-morphs.md#morph-availability), _EP2_)
 - **Insight/Moxie/Vigor/Flex:** Your morph’s pool points ([Pools](../../../03/05-pools.md), _EP2_)
 - **Movement Rate:** The mobility system used and distance covered ([Movement](../../../12/24-movement.md), _EP2_).
-- **Ware:** Bioware, cyberware, hardware, meshware, and/or nanoware the morph is equipped with ([starting on Ware](../../../16/05-common-tech-and-ware.md), _EP2_ and also this book ▶126–131)
-- **Morph Traits:** Traits that each morph of this type has ([Traits](../../../04/28-traits.md), _EP2_, and also this book ▶132).
+- **Ware:** Bioware, cyberware, hardware, meshware, and/or nanoware the morph is equipped with ([starting on Ware](../../../16/05-common-tech-and-ware.md), _EP2_ and also this book starting on [New Combat Ware](../04/01-new-combat-ware.md))
+- **Morph Traits:** Traits that each morph of this type has ([Traits](../../../04/28-traits.md), _EP2_, and also [this book](../04/06-negative-morph-traits.md)).
 - **Common Extras:** Prevalent but not baseline traits or ware for the morph type. These are not included in the MP cost and must be acquired separately.
 - **Notes:** Any additional information, such as size, number of limbs, etc.
 
@@ -114,11 +114,11 @@ What makes your proprioception radically different, however, is how the core sys
 
 This flood of sensory information would be overwhelming under normal circumstances. By default, however, core systems reduce these inputs to a low-level background hum, allowing you to focus your attention as needed or desired. Being sleeved in a core does not make you omniscient or all-perceiving, however. You are no more aware of everything going on than you are aware of your blood flow, breathing, or digestive processes in a normal biomorph. You can focus your attention and actively monitor a sensation, but otherwise it is considered environmental “noise.” For Perceive tests to determine if you are aware of specific low-level activity or a particular event, you are treated as distracted (–20 modifier; higher-end cores have oracle ware to negate this modifier). You are, however, immediately aware of any alerts triggered by security or other systems.
 
-Core cyberbrain systems also take advantage of multi-focus ware (▶128), which expands the capabilities of multi-tasking mods, allowing you to focus your attention in multiple places at once. For example, a sexton core ego with multi-tasking and 4 multi-focus modules can use [detailed perception](../../../12/21-other-action-factors.md#perception) (_EP2_) on 6 things at once (2 from the multi-tasking plus 4 more from multi-focus). This means that sexton can monitor power fluctuations, track a suspicious target through security feeds, listen to the comm channels of an approaching ship, scan public real-time mesh feeds with a keyword search, check the status of fabricator print job, and watch a cat video all at the same time. This ability to split attention does not grant extra actions, but it does allow the ego to maintain ongoing mental task actions.
+Core cyberbrain systems also take advantage of [multi-focus ware](../04/03-new-mental-ware.md#multi-focus), which expands the capabilities of multi-tasking mods, allowing you to focus your attention in multiple places at once. For example, a sexton core ego with multi-tasking and 4 multi-focus modules can use [detailed perception](../../../12/21-other-action-factors.md#perception) (_EP2_) on 6 things at once (2 from the multi-tasking plus 4 more from multi-focus). This means that sexton can monitor power fluctuations, track a suspicious target through security feeds, listen to the comm channels of an approaching ship, scan public real-time mesh feeds with a keyword search, check the status of fabricator print job, and watch a cat video all at the same time. This ability to split attention does not grant extra actions, but it does allow the ego to maintain ongoing mental task actions.
 
 ### Multiple Egos
 
-Simpler core systems such as wardens rely on a single ego overwatching the entire network and managing all sub-systems. This works well in small cluster and tin-can habs, small spacecraft, and so on. Larger core systems rely on multi-ego control ware ▶128 to distribute the workload to additional egos, which work in tandem to handle all sub-systems. Most larger cores are directed by a single ego and their forks or ALIs, though sometimes disparate egos are compatible enough to work together. On massive ships and habs, multiple core systems will be used, each handling control over prominent sub-systems or sections of the infrastructure. In emergencies or situations when an ego needs to evacuate, rest, or get some downtime, these egos can transfer control of different sub-systems and tasks to each other.
+Simpler core systems such as wardens rely on a single ego overwatching the entire network and managing all sub-systems. This works well in small cluster and tin-can habs, small spacecraft, and so on. Larger core systems rely on [multi-ego control ware](../04/03-new-mental-ware.md#multi-ego-controls) to distribute the workload to additional egos, which work in tandem to handle all sub-systems. Most larger cores are directed by a single ego and their forks or ALIs, though sometimes disparate egos are compatible enough to work together. On massive ships and habs, multiple core systems will be used, each handling control over prominent sub-systems or sections of the infrastructure. In emergencies or situations when an ego needs to evacuate, rest, or get some downtime, these egos can transfer control of different sub-systems and tasks to each other.
 
 ### Core Hacking
 
@@ -187,11 +187,11 @@ Adding a cyberbrain system to a bot or vehicle is an appropriate Hardware: Elect
 
 ### Axle Sensorium
 
-Axles are equipped with the same sensory systems you get with any synthmorph: standard vision, hearing, touch, proprioception, balance, and so on. However, these are sometimes rudimentary compared to morphs that are designed to be sleeved by transhumans. Many axles have the Lack of Smell trait (▶133). They also universally come with either lidar or radar for collision avoidance.
+Axles are equipped with the same sensory systems you get with any synthmorph: standard vision, hearing, touch, proprioception, balance, and so on. However, these are sometimes rudimentary compared to morphs that are designed to be sleeved by transhumans. Many axles have the [Lack of Smell trait](../04/06-negative-morph-traits.md#lack-of-smell). They also universally come with either lidar or radar for collision avoidance.
 
 ### Axle Ware
 
-Axles can be equipped with hardware and meshware, just like any other synthmorph. Axles equipped with modular design can be integrated into flexbots ▶61.
+Axles can be equipped with hardware and meshware, just like any other synthmorph. Axles equipped with modular design can be integrated into [flexbots](../02/01-morph-types.md#flexbot-synthmorphs).
 
 ### Axle Egos and Pilots
 

@@ -32,7 +32,7 @@ An ego with the Psi trait ensconced in a brain box can use psi. However, since t
 
 ### Core System
 
-Cores are cyberbrains for ships, habitats, and similar infrastructure. They follow the rules for cyberbrains and core morphs (▶62).
+Cores are cyberbrains for ships, habitats, and similar infrastructure. They follow the rules for cyberbrains and [core morphs](../02/01-morph-types.md#core-morphs).
 
 ### Defrag
 
@@ -72,7 +72,7 @@ This mod is available to morphs with multi-tasking ware. You can either focus yo
 
 ### Optogenetics Module
 
-This implant is designed to be used in biomorphs like the freeman ▶82 that are genetically modified to make their neurons sensitive to light. This module establishes a network within the brain to manipulate these neurons with selective pulses of light. Whomever controls the optogenetics module (usually a monitor ALI or meshed overseer) can trigger a specific set of neuronal activity. Each module can trigger one effect from the options below (chosen when installed).
+This implant is designed to be used in biomorphs like the [freeman](../03/01-biomorphs.md#freeman) that are genetically modified to make their neurons sensitive to light. This module establishes a network within the brain to manipulate these neurons with selective pulses of light. Whomever controls the optogenetics module (usually a monitor ALI or meshed overseer) can trigger a specific set of neuronal activity. Each module can trigger one effect from the options below (chosen when installed).
 
 **Knockout:** The module triggers unconsciousness in the target ego. The target can resist with a WIL Check at −30 to resist; if successful they are immune to this module function for 1 hour.
 
