@@ -13,9 +13,7 @@
 
 Your aptitudes define your character’s natural inclinations.
 
-Were you a rough-and-tumble type from birth? Did you always have the gleam of curiosity
-in your eye? Did you always play well with others? These aptitudes are your core nature,
-the source of your inner strengths — but they do not necessarily define who you are.
+Were you a rough-and-tumble type from birth? Did you always have the gleam of curiosity in your eye? Did you always play well with others? These aptitudes are your core nature, the source of your inner strengths — but they do not necessarily define who you are.
 
 </blockquote>
 </div>

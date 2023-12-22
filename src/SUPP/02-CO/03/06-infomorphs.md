@@ -26,6 +26,11 @@ Popular with network security specialists, penetration testers, and hackers, thi
 
 </blockquote>
 
+| **AGENT**                                                                                                                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Njál:** The virtual sensorium on these is top notch. When you’re in the mesh, you can feel the code.                                                                              |
+| **Qi:** Maybe a bit too much. I had an admin try to crash me while I was rooting their box, and as some of my subroutines failed it felt like my skin was unpleasantly peeling off. |
+
 ## Digimorph
 
 ![Digimorph](PNG/digimorph.png)
@@ -49,6 +54,11 @@ Digimorphs are bare-bones mind emulations, though customizable and widely used. 
 - **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
 
 </blockquote>
+
+| **DIGIMORPH**                                                                |
+| :--------------------------------------------------------------------------- |
+| **Cacophonous:** Weird how this morph makes you feel ... naked. And exposed. |
+| **Njál:** Yeah, the haptics on these are almost non-existent.                |
 
 ## Djinn
 
@@ -74,6 +84,12 @@ Djinn are high-end infomorphs with a number of perks.
 
 </blockquote>
 
+| **DJINN**                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Qi:** These are the yachts of infomorphs. If you spot someone driving a djinn, odds are they have money.                                                                 |
+| **Njál:** In contrast to the digimorph, the haptics on these are top notch. There’s a big market for djinn rentals among long-distance lovers who use the mesh to hook up. |
+| **Cacophonous:** It’s definitely the type of morph that CEOs and VIPs will grab if they need to go virtual, just to feel elevated over all of the other mesh rabble.       |
+
 ## Echo
 
 ![Echo](PNG/echo.png)
@@ -97,6 +113,11 @@ Echo morphs are designed for covert infiltration and social engineering.
 - **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
 
 </blockquote>
+
+| **ECHO**                                                                                                          |
+| :---------------------------------------------------------------------------------------------------------------- |
+| **Kylleran:** Given the rise of infomorph workers and communities, the desire for infomorph spies was inevitable. |
+| **Qi:** Social engineers love these, but corporate internal security teams love them more.                        |
 
 ## Ikon
 
@@ -122,6 +143,12 @@ Designed for online performers, media icons, and social networkers, this infomor
 
 </blockquote>
 
+| **IKON**                                                                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zahiri:** Some introverts take on infomorphs like this to improve their people skills, but it just cranked my social anxiety up to 11. |
+| **Psychscaper:** There are models with tweaks to lower inhibitions and heighten serenity.                                                |
+| **Rivet:** I tried a model made by GlamorOS! that claims to boost musicality. My pitch, harmony, and rhythm were all noticably improved. |
+
 ## Neo
 
 ![Neo](PNG/neo.png)
@@ -145,6 +172,13 @@ Neo infomorphs are commonly assigned to hypercorp virtual work forces.
 - **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
 
 </blockquote>
+
+| **NEO**                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cryptid:** Remember how when these came out they made a big deal about how you could customize your avatar and experience, and then every virtual office in existence immediately implemented policies restricting you to the most boring look and interface imaginable?                                                                                                          |
+| **Callosum:** This one is often assigned to indentures. It’s common to modify the code. Usually it’s low-level stuff — cognitive limiters and endorphine synthesizers to make you work fast and stupid — but Cognite and others experiment with “loyalty enhancement” tweaks, including tailored anxiety disorder analogues that make you nervous if you think about shirking work. |
+| **Nezumi:** If this is true, it would explain why Cognite snapped up a bunch of those Nine Lives guys during that recent dust-up on Legba.                                                                                                                                                                                                                                          |
+| **Scent.In.Hell:** Horse shit, this is just typical anarchist propaganda meant to smear hypercorps.                                                                                                                                                                                                                                                                                 |
 
 ## Operator
 
@@ -170,6 +204,10 @@ This infomorph is ideal for professions that involve drone remote operation, whe
 
 </blockquote>
 
+| **OPERATOR**                                                                                                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Jinx:** The drone-rig simsense on these really varies in quality, from hi-def “in-the-action” to sluggish “watching-the-action via telescope.” |
+
 ## Sage
 
 ![Sage](PNG/sage.png)
@@ -194,6 +232,11 @@ Sages are mid-range infomorphs favored by researchers and IT workers.
 
 </blockquote>
 
+| **SAGE**                                                                                                           |
+| :----------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** The Argonauts distribute an open-source sage that comes pre-loaded with different scientific libraries. |
+| **Lovelace:** That’s way better than the spyware loaded on every sage I’ve been given for remote office jobs.      |
+
 ## Spectre
 
 ![Spectre](PNG/spectre.png)
@@ -217,5 +260,10 @@ Spectres are the top tier of infosec infomorphs.
 - **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
 
 </blockquote>
+
+| **SPECTRE**                                                                                                                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Yemaja:** Maybe uploads don’t feel it as much as infolife, but the type of infomorph you choose to process your mind-state makes a drastic difference. The difference between a digimorph and a spectre is like that between a case and a savant. |
+| **Qi:** In my experience, if you run into spectre defenders while hacking a system, you’re in for a lot of trouble.                                                                                                                                 |
 
 </div>

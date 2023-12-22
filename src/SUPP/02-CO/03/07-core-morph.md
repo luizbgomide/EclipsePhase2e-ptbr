@@ -27,6 +27,11 @@ Overminds are the top tier of core morphs. They are found in highsecurity habita
 
 </blockquote>
 
+| **OVERMIND**                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Njál:** My friend refers to these as “infomorph god mode.”                                                                                    |
+| **Voight-Kampff:** There’s a reason why overminds are often monitored by security for signs of intelligence augmentation or exponential growth. |
+
 ## Sexton
 
 ![Sexton](PNG/sexton.png)
@@ -52,6 +57,10 @@ Sexton core systems manage larger habitats and ships. They rely on multiple egos
 
 </blockquote>
 
+| **SEXTON**                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Yemaja:** The interesting bit about core morphs is how much they come to know about the people they oversee. I know the surveillance is creepy to some, but the familiarity it breeds is fascinating. |
+
 ## Warden
 
 ![Warden](PNG/warden.png)
@@ -76,5 +85,9 @@ Wardens are basic core cyberbrain systems, commonly used in smaller habitats and
 - **Notes:** Wardens follow the rules for core systems ▶62. Bonus from multi-tasking already incorporated.
 
 </blockquote>
+
+| **WARDEN**                                                                                                                                                                                                                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ammonite:** The utility of wardens for maintaining operational security over your base of operations is criminally overlooked. If you’re going to operate out of the same module for more than a week, set up a warden and drop a fork in it. When the opposition comes sniffing around, you’ll thank me. |
 
 </div>

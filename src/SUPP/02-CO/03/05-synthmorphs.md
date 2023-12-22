@@ -28,6 +28,38 @@ Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other
 
 </blockquote>
 
+| **ARACHNOID**                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lovelace:** These things fly like a rock in zero g. Don’t expect to get down a hallway without a few dents.                                                                          |
+| **Delta-V:** Or, you could learn to handle free fall, flatlander.                                                                                                                      |
+| **Rivet:** Forget the thrusters. These morphs climb and jump surprisingly well. The wheels are omnidirectional and can even angle to handle slopes or serious curves.                  |
+| **Stitch:** There are a lot of arachnoid models out there imitating different arthropod forms: spiders, termites, ants, beetles, etc. You name it, someone’s done a chassis mod of it. |
+| **Eludere:** I’ve seen more than a few of these modified with hidden compartments to carry contraband, swarmanoids, or even neotenics.                                                 |
+
+### Arachnikoma Variant
+
+Arachnikoma’s are vehicle-sized arachnoids, with a hinged-top capsule/compartment large enough to carry a medium-sized transhuman or cargo.
+
+<blockquote class="indent stat-list">
+
+### Arachnikoma
+
+- **Cost:** 9&nbsp;MP • **Avail:** 30
+
+---
+
+- **WT:** 13 • **DUR:** 65 • **DR:** 130
+- **Insight** 1, **Moxie** 0, **Vigor** 4, **Flex** 0
+
+---
+
+- **Movement Rate:** Hopper 4/12, Thrust Vector (Gas Jet) 8/40, Walker 4/20, Wheeled 8/40
+- **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Lidar, Magnetic System, Mesh Inserts, Mnemonics, Pneumatics, Puppet Sock, Retracting Limbs
+- **Morph Traits:** Exotic Morphology (Level 3)
+- **Notes:** Heavy Frame (Armor 12/10), Large size
+
+</blockquote>
+
 ## Biocore
 
 ![Biocore](PNG/biocore.png)
@@ -56,6 +88,13 @@ The biocore is a synthmorph with a biological brain. This design is favored by t
 
 </blockquote>
 
+| **BIOCORE**                                                                                                                                                                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ammonite:** Yes, I really want to be soulgazing into your grey matter over coffee. Thanks for that. It’s only marginally better than that scum “artist,” Vagface.                                                                                                                                                                              |
+| **Rivet:** Coreporeal produces a few biocore shells that look just like common synths on the outside.                                                                                                                                                                                                                                            |
+| **Stitch:** It’s sometimes worth dragging along the old lobes if you’re worried someone’s aiming to root your headcase.                                                                                                                                                                                                                          |
+| **Ruqinzhe:** Our team’s async tried this. She liked it — a bit too much. Said it made her feel “free,” like her mind was liberated to wander the cosmos. The episodes of her talking to herself went up a notch or three, and ever since she’s been infatuated with the idea of switching over to gatecrashing ops. I’m inclined to let her go. |
+
 ## Case
 
 ![Case](PNG/case.png)
@@ -81,6 +120,14 @@ Cases are mass-produced robotic shells, an affordable resleeving option for the 
 - **Notes:** Light Frame (Armor 6/4)
 
 </blockquote>
+
+| **CASE**                                                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ammonite:** Here we are, the ghetto beater of morph options. Sometimes, you make do with what you can … and then you evacuate right out next chance you get.                                                                                              |
+| **Qi:** There’s a reason more and more infugees and indentures are preferring to stay virtual.                                                                                                                                                              |
+| **Rivet:** The steady rise in anti-case hate crimes on Luna and Mars doesn’t help.                                                                                                                                                                          |
+| **Stitch:** Have you all seen the new case designs sponsored by the Autonomist Alliance? Better quality, not much more expensive. Most of the designs are open-sourced too. I know a few Barsoomian maker labs on Mars that are churning them out.          |
+| **Red Rover:** They need to keep careful. Oversight has been clamping down on these lately, citing the usual copyright infringement bullshit. They burned out a maker base in Elysium just last night. Literally. Nothing but a flaming crater left behind. |
 
 ## Cetus
 
@@ -108,6 +155,13 @@ Named after a mythological sea monster, the cetus was designed to operate in the
 
 </blockquote>
 
+| **CETUS**                                                                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Shark-Souled:** Careful what brand you choose. Europan Dynamics did a recall of their cetus models last month after a few too many succumbed to high pressures. |
+| **Ruqinzhe:** Pretty sure that was a sabotage campaign by Belt Bot Industries. Guess who they’re backed by?                                                       |
+| **Pivo:** Let me guess. The Hidden Concern?                                                                                                                       |
+| **Ruqinzhe:** Spot on.                                                                                                                                            |
+
 ## Cloud Skimmer
 
 ![Cloud Skimmer](PNG/cloud-skimmer.png)
@@ -133,6 +187,11 @@ This streamlined synthmorph is designed for exploring the atmospheres of gas gia
 - **Notes:** Heavy Frame (Armor 12/10), 4 arms
 
 </blockquote>
+
+| **CLOUD SKIMMER**                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Stitch:** Interesting that the main producers of these are small Neptunian skimmer minifac studios.                                             |
+| **Pegasus:** That hasn’t stopped certain Jovian corps from copying the designs. They only care about IP infringement when others steal from them. |
 
 ## Courier
 
@@ -160,6 +219,12 @@ Couriers were made to soar between the many moons and habitats in the Saturnian 
 
 </blockquote>
 
+| **COURIER**                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nezumi:** Ring flyer courier culture is pretty interesting. Despite spending so much time isolated and alone, they really watch out for each other. It’s a very tight-knit group, hard to penetrate.                  |
+| **Delta-V:** I know someone who rode one of these from the Belt to Mars. Pointed himself in the right direction, burned half his fuel, and rode out the rest. For months. Good thing he got his nav calculations right. |
+| **Ruqinzhe:** Sounds like a useful way to do a long-range stealth approach.                                                                                                                                             |
+
 ## Daitya
 
 ![Daitya](PNG/daitya.png)
@@ -185,6 +250,12 @@ This massive anthropomorphic mech is used for construction work, moving giant ob
 - **Notes:** Heavy Frame (Armor 12/10; 18/14 with industrial armor), Large size. Bonuses from Hardened Skeleton already incorporated.
 
 </blockquote>
+
+| **DAITYA**                                                                                                                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nova Vida:** You know what this shell is great for? Gatecrashing ops, as long as subtlety isn’t required.                                                                                                                                                                                       |
+| **Rivet:** There are a lot of daitya variants out there, covering all your mech needs. Not all of them are anthropomorphic, either.                                                                                                                                                               |
+| **Sava:** You know what you won’t find on an average cylinder or mining colony? A tank. But you will find a daitya, and for certain ops, this can be the next best thing — and they’re much easier to explain away. Great if you have a day or two to fab up some weapons and armor up the frame. |
 
 ### Combat Mech Variant
 
@@ -236,6 +307,12 @@ The dragonfly takes the shape of a meter-long flexible shell with eight wings, f
 
 </blockquote>
 
+| **DRAGONFLY**                                                                                                                                                                                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** The wing design is an excellent example of biomimicry. Each wing can operate independently and rotate on its axis, meaning this morph is capable of hovering, sudden bursts of acceleration, hairpin turns at any speed, and so on. It takes some practice getting used to the full capabilities. |
+| **Nevermore:** I’ve heard a few neo-avians talk about having difficulty coping with the different flight mechanics.                                                                                                                                                                                          |
+| **Eludere:** These things are a lot quieter than you’d expect. Good for surveillance and stealth ops.                                                                                                                                                                                                        |
+
 ## Fenrir
 
 ![Fenrir](PNG/fenrir.png)
@@ -262,11 +339,18 @@ Named for the monstrous wolf of Norse legend, the fenrir is one of the most impo
 
 </blockquote>
 
+| **FENRIR**                                                                                                      |
+| :-------------------------------------------------------------------------------------------------------------- |
+| **Cacophonous:** Another that didn’t make the regular guide …                                                   |
+| **Parallax:** For those missions when nothing less than total slaughter will do.                                |
+| **Sustenatrix:** If your mission gets that bad, someone wasn’t doing their job.                                 |
+| **Qi:** Last I checked, transhumans still made mistakes. Let’s just hope our enemies do too.                    |
+| **Sava:** Unfortunately, when you really need a morph like this on an op, you are unlikely to have one on hand. |
+| **Ruqinzhe:** You haven’t met my router. I’m pretty sure she’s prepared for a supernova.                        |
+
 ## Flexbot
 
 ![Flexbot](PNG/flexbot.png)
-
-
 
 Flexbots are modular and customizable, each composed of one or more modules that interlock in various shapes and configurations. Individual modules are specialized towards specific functions and also capable of transforming into a variety of shapes and mechanisms. They have 4 limbs in their default configurations. Independent modules are only the size of a large dog, but multiple flexbots can join together for larger mass operations, even taking on heavy-duty tasks such as demolition, excavation, manufacturing, construction, or robotics assembly. Flexbots can also incorporate any robot with Modular Design ware as modules.
 
@@ -282,6 +366,11 @@ All flexbot modules have the following stats, plus the stats for their module ty
 - **Notes:** Light Frame (Armor 6/4), Small size
 
 </blockquote>
+
+| **FLEXBOTS**                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stitch:** Before you go crazy ordering different modules, be warned that different manufacturers don’t always play well together. Each flexbot manufacturer wants you to use their modules only, so they quite often incorporate proprietary design elements that mean they won’t work so great — or at all — with modules of another make, including any you nanofab yourself. So, read the fine print and the reviews. |
+| **Pivo:** Annoying, yes, but not a deal breaker. Just make sure you or someone on your team knows a little robotics and programming and you should be fine. Of course, you’ll void the warranty, but when it’s a choice between a warranty and my life, my life wins every time.                                                                                                                                           |
 
 ### Apiary Module
 
@@ -492,6 +581,13 @@ This high-end shell was designed to increase the appeal and social acceptance of
 
 </blockquote>
 
+| **GALATEA**                                                                                                                                                                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Callosum:** They’re making serious headway with cyberbrain architecture these days. The coding on these neural shells is top-notch.                                                                                                                                                      |
+| **Ammonite:** I’m even seeing these in socialite circles.                                                                                                                                                                                                                                  |
+| **mAlice:** No matter how much cred you wired out, biochauvinists are still going to view anyone wearing metal as a monstrosity.                                                                                                                                                           |
+| **Cacophonous:** I support making synthmorphs more accepted, but the cost on these is still far too high. They’re light years beyond the reach of infugees and indentures. Until we have quality, non-stigmatized, affordable shells, all we’re doing here is replicating class divisions. |
+
 ### Golem Variant
 
 For those who need to have no choice to sleeve into a synth, but who want to appear biomorph, the golem is a solid choice.
@@ -541,6 +637,11 @@ This anthroform mobile sensor unit is designed for media, freelance journalists,
 
 </blockquote>
 
+| **GARGOYLE**                                                                                                                                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nova Vida:** These are commonly sent on sponsored gatecrashing ops, stuffed with ALIs that snitch back to corporate.                                                                                                                                                                                                    |
+| **Parallax:** Actual egos aren’t much better. We were forced to bring a gargoyle tag-along on an op, and they were worse than useless. They had been tasked to “observe only” — meaning they couldn’t be bothered to even pass the ammo. Their training was shit, too — gave away our position on more than one occasion. |
+
 ## Griefer
 
 ![Griefer](PNG/griefer.png)
@@ -567,6 +668,12 @@ Griefers are disposable morphs used by trolls, vandals, and terrorists to spread
 
 </blockquote>
 
+| **GRIEFER**                                                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Ammonite:** I am consistently amazed at the degree to which trolls will go. There’s an oligarch on Luna who pissed someone off either before or during the Fall. He has literally been stalked by griefers every day for the past decade. He’s given up trying to track the source, and his staff just destroy them on sight. |
+| **Callosum:** Aphrodite Prime on Venus has had some issues lately with griefer flash mobs. Expect Morningstar to ban these soon.                                                                                                                                                                                                |
+| **Nezumi:** I know a scum swarm that runs a griefer obstacle course on a different asteroid every year. Very few survive the traps, snipers, and general mayhem.                                                                                                                                                                |
+
 ## Guard
 
 ![Guard](PNG/guard.png)
@@ -592,6 +699,11 @@ Guards are disguised with a synthetic mask to blend in with biomorphs, for those
 - **Notes:** Medium Frame (Armor 8/6)
 
 </blockquote>
+
+| **GUARD**                                                                                                                                                                                                                                                                                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eludere:** Last op I was on, we had to arrange a private conversation with a triad boss. His three sylph companions turned out to be guards who put up a lot more of a fight than we expected. Our quiet snatch job turned into a shredded club and loads of collateral damage. Had to resleeve two of my team. Lesson learned: scan those bodyguards thoroughly next time. |
+| **Pivo:** The trick to spotting a shell with a synthetic mask is to really take a look at the thermal signature. On a close analysis, you’ll find hot and cold spots that deviate from standard biomorph sigs. They did a pretty great job getting it right on these guard morphs, though it depends on the manufacturer and model.                                           |
 
 ### Prime Variant
 
@@ -642,6 +754,11 @@ Kites use their shape-adjusting composition primarily to configure into the opti
 - **Notes:** Light Frame (Armor 6/4), Small size. Changing mobility systems takes 1d6 mins.
 
 </blockquote>
+
+| **KITE**                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nova Vida:** Having kites in the group has saved a gatecrashing op I’ve been on more than once. Never underestimate the value of eyes in the sky.                                               |
+| **Rivet:** Their light weight and small size are a disadvantage in high-speed atmospheres. They just get tossed around like ping-pong balls. If the winds are serious, take the ultra kite model. |
 
 ### Fierce Kite Variant
 
@@ -717,6 +834,11 @@ With the ability to alter shape and appearance, a mimic can disguise itself as a
 
 </blockquote>
 
+| **MIMIC**                                                                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stitch:** The drawback to mimicking things is that people sometimes expect you to be what you’re pretending to be. One time I was scouting an arms dealer’s warehouse and the guards came around, so I made like a small cargo container. Next thing I knew, I was loaded up in a pressurized vessel and on my way to the Main Belt. Wasn’t able to reconnect with my team for 6 months. |
+| **Ruqinzhe:** That’s nothing. I made like a kitchen appliance once, but when I didn’t work like expected, I was tossed directly into the kitchen disassembler. Luckily the disassembler was smart enough to recognize and not take apart my stack, and my crew rescued me later.                                                                                                           |
+
 ## Nautiloid
 
 ![Nautiloid](PNG/nautiloid.png)
@@ -746,6 +868,11 @@ A nautiloid’s life-support system can support its occupants for 1 week before 
 
 </blockquote>
 
+| **NAUTILOID**                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Delta-V:** Something about carrying a crew around inside me really triggers my mothering instincts.                                                                                             |
+| **Psychscaper:** That’s intentional. It’s a feature added to many vehicle cyberbrains; the urge to protect helps avoid situations where you forget about passengers entirely, to their detriment. |
+
 ## Oobleck
 
 ![Oobleck](PNG/oobleck.png)
@@ -771,6 +898,12 @@ Also known as gloops, ooblecks are shapechanging morphs consisting of reconfigur
 - **Notes:** Armor 4/0, Small size
 
 </blockquote>
+
+| **OOBLECK**                                                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pivo:** Not suprisinglt, but neo-octopi love these.                                                                                                                      |
+| **Stitch:** Though similar in function, these feel quite different than flexbots. The liquid nature of the form takes some adjustment.                                     |
+| **GraxaGirl:** The first released versions of these included hard-coded shape limitations to prevent people from forming “obscene” shapes. They were hacked within a week. |
 
 ## Opteryx
 
@@ -798,6 +931,11 @@ This one-meter tall synthetic dinosaur is a fast and light-weight runner, climbe
 
 </blockquote>
 
+| **OPTERYX**                                                                                                                                                                                                                                                                             |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nova Vida:** Our team’s scout swears by these things, says nothing beats them for feeling like you’re just eating up ground on a scouting op. Having seen her in action, I can’t help but agree. The opteryx just flows between running, flying, gliding, and jumping without effort. |
+| **Eludere:** A crew I know that makes quick runs into the TQZ for small packages uses these too. They like the size and ability to avoid detection by staying under radar range and dipping into crevices and caves to avoid satellite coverage.                                        |
+
 ## Ornithope
 
 ![Ornithope](PNG/ornithope.png)
@@ -823,6 +961,12 @@ Synthetic birds manufactured to appeal to neo-avians. They come in a variety of 
 - **Notes:** Light Frame (Armor 6/4), Small size
 
 </blockquote>
+
+| **ORNITHOPE**                                                                                                                                                                                                                                                                            |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nezumi:** I’ve sampled neo-avian morphs before, and this was quite a ride. Can’t say I’d favor it, but it definitely does what it does well.                                                                                                                                           |
+| **Nevermore:** As a neo-corvid, I was quite pleased to see this model hit the market. There’s an unfortunate lack in synthmorphs tailored to our peculiarities — and to uplift sensibilities in general.                                                                                 |
+| **Nova Vida:** I took a blackbird for an exoplanet recon op; it was great. I flew undetected and followed the targets for kilometers. Unfortunately, one of the the local flying carnivorous fauna specimens mistook me for a morsel, so I lost ‘em. Hope I gave the bugger indigestion. |
 
 ### Blackbird Variant
 
@@ -874,6 +1018,10 @@ Quartz morphs, commonly called Q-morphs, are the primary shell design used for V
 
 </blockquote>
 
+| **Q-MORPH**                                                                               |
+| :---------------------------------------------------------------------------------------- |
+| **Nova Vida:** If you want to see Venus’s surface first-hand, this is the only way to go. |
+
 ## Raptor
 
 ![Raptor](PNG/raptor.png)
@@ -900,6 +1048,11 @@ The raptor is a short-range space fighter. Like the courier, most of the morph i
 
 </blockquote>
 
+| **RAPTOR**                                                                                                                                                                                                                                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nevermore:** Well I suppose raptor is a better name than Ugly Space Death Tube, but transhumanity’s gotta get over this namingthings- after-animals thing. In 10 years, hawk uplifts are going to have some awkward questions for the hairless apes among us. |
+| **Delta-V:** Every space force out there uses these, even the Jovians (remotely piloted of course).                                                                                                                                                             |
+
 ## Reaper
 
 ![Reaper](PNG/reaper.png)
@@ -925,6 +1078,12 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 - **Notes:** Heavy Frame (Armor 12/10)
 
 </blockquote>
+
+| **REAPER**                                                                                                                                                                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** As advertised. For when you absolutely, positively gotta kill every last motherfucker in the hab. Accept no substitutes.                                                                                                                                                                                                                                              |
+| **Pivo:** I think a lot of people forget that reaper variants constantly rank near the top for major shell manufacturers each quarter. Looking around, you don’t see very many, and they’re kind of a pain to sleeve into, but lots and lots of corps and habs have a handful they use for security that spend most of their time in storage or patrolling far from prying eyes. |
+| **Parallax:** I know this will piss off a lot of the Direct Action fanbots, but, for my money, unless all you’re going to be doing on an op is killing and destroying, you’re better off going with something a little more multipurpose. These things are a little too one note for me.                                                                                         |
 
 ## Rover
 
@@ -953,6 +1112,11 @@ Rover morphs are smaller, defense-oriented rollers loosely based on sphere morph
 
 </blockquote>
 
+| **ROVER**                                                                                                                                                                                                                                                                                                                                                             |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eludere:** The LLA has started using large numbers of these in police actions, usually remote-puppeted. I think the security forces like the intimidation factor they provide. Even a case has some body language you can read, but a rolling black ball of death is the ultimate evolution of cop sunglasses.                                                      |
+| **Pegasus:** That would explain why the Republic is experimenting with them on troublesome habitats. I heard from a contact that they’re more stripped down, with the cyberbrains and other ego-enhancing tech stripped out, and with the weapons systems replaced with nonlethal variants since we can’t just mow down civilians the way the rest of the system can. |
+
 ## Savant
 
 ![Savant](PNG/savant.png)
@@ -978,6 +1142,11 @@ Developed by brinker hardware hackers, savants feature neural-state enhancements
 - **Notes:** Light Frame (Armor 6/4)
 
 </blockquote>
+
+| **SAVANT**                                                                                                                                                                                                                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Qi:** A few inner-system corps have taken the savant’s open-source designs and are rushing out their own models, but autonomist hacker groups have taken offense to that sort of profiteering and are seeding viruses that only affect various proprietary models around the inner system. |
+| **Callosum:** In my experience, the accelerated intelligence neural modeling in synths like this (and also certain infomorphs) is a bit more prone to bugginess than wetware smart morphs. You tend to see higher rates of eccentricity and neurodiverse behavior.                           |
 
 ## Slitheroid
 
@@ -1005,6 +1174,12 @@ Slitheroid shells take the form of a humanoid torso with retractable arms atop a
 
 </blockquote>
 
+| **SLITHEROID**                                                                                                                                                                                                                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stitch:** I don’t want to spoil the fun, but one of the biggest manufacturers of slitheroids has a habit of including “easter egg” features in their morphs. Each one tends to be unique.                                                                        |
+| **Scent.In.Hell:** One ego’s easter egg is another’s distracting glitch. I understand that programmers find these things amusing, but discovering a new “feature” in a high-stress situation can be dangerous, especially if you have to figure out how to use it. |
+| **Chiro:** Oh, calm down, these aren’t the sorts of things that are life and death.                                                                                                                                                                                |
+
 ## Smart Swarm
 
 ![Smart Swarm](PNG/smart-swarm.png)
@@ -1029,6 +1204,10 @@ The smart swarm is a robust attempt to get more utility out of the swarmanoid de
 - **Morph Traits:** Exotic Morphology (Level 3)
 - **Notes:** Swarm Attack (DV 1d6, ignores armor, blinding), comes with [specialized smart swarm hive](../../../16/19-nanotech.md#hives). Swarms follow rules for [nanoswarm/microswarms](../../../16/20-nanoswarms-and-microswarms.md).
 </blockquote>
+
+| **SMART SWARM**                                                                                                                                                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stitch:** I know an AGI engineer who is a real master at using smart swarms. I’ve seen them shape mechanical structures like a track of ball bearings in order to slide something along. They’re also good at taking advantage of the environment to create more leverage, like an improvised pulley. It takes a lot of skill to pull those kinds of tricks off, though. |
 
 ## Spare
 
@@ -1056,6 +1235,12 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 
 </blockquote>
 
+| **SPARE**                                                                                                                                                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Parallax:** It never fails. You’re in the middle of admiring the leaves on that alien plant. Next thing you know, there’s a change of scenery, you’re significantly shorter, and start-up diagnostics are scrolling past. Gets you right in the gut.                   |
+| **Nova Vida:** These are worth the hassle to bring along on gate ops — or any long-term, high‑risk field op.                                                                                                                                                             |
+| **Psychscraper:** As a psychosurgeon, I’ve noticed a number of my gatecrasher clients have developed a phobia of spares. Not surprising, since if you wake up in a spare you’re probably in a bad place, and the first thing you’re going to remember is how you bit it. |
+
 ## Sphere
 
 ![Sphere](PNG/sphere.png)
@@ -1082,6 +1267,12 @@ This utilitarian morph is a simple sphere one meter in diameter that rolls or ho
 
 </blockquote>
 
+| **SPHERE**                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** For the next time you need to roll into action!                                                                                                                                                                                                     |
+| **Sava:** Laugh all you want, the maneuverability of rollers like this is impressive. One of my teammates saved my ass once by rolling down a ramp, spinning ‘round a hairpin turn, taking a bump into the air, and knocking over a gunman like a bowling pin. |
+| **Pivo:** Just be careful on the model, some are known to have issues with their gyroscopes and stabilizers.                                                                                                                                                   |
+
 ## Steel Morph
 
 ![Steel Morph](PNG/steel-morph.png)
@@ -1107,6 +1298,11 @@ Like the galatea, this upscale shell was designed to counter biochauvinist attit
 - **Notes:** Medium Frame (Armor 8/6)
 
 </blockquote>
+
+| **STEEL MORPH**                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Psychscaper:** They took a bold step giving these morphs realistic faces, rather than the usual abstract design. That’s been a no-no in the engineer’s playbook for decades. Humans don’t respond well to faces that are realistic but still artificial. They’re addressing that uncanny valley revulsion head on with these morphs, really embracing the otherness aspect and still claiming equal personhood. |
+| **Skinwalker:** Since these have grown in popularity, the demand is high, and they’re actually hard to find. Last time I wanted one, I had to reserve it three months in advance.                                                                                                                                                                                                                                 |
 
 ### Liquid Silver Variant
 
@@ -1158,6 +1354,11 @@ Sundivers are made for solar research and emergency rescue operations in the sun
 
 </blockquote>
 
+| **SUNDIVER**                                                                                                                                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** I flew one of these into the sun once. I have never been so terrified in my life. Can’t wait to do it again.                                                                                                                                                                                                                          |
+| **Rivet:** The sundiver is actually a fairly good all-purpose synth and there’s a lot of groups that have started using them in high heat and high rad environments other than stars. If you swap out the propulsion system for something that’s a little slower and gives a bit more control, they make pretty good gate crashing morphs as well. |
+
 ## Swarmnoid
 
 ![Swarmnoid](PNG/swarmnoid.png)
@@ -1183,6 +1384,12 @@ Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each indi
 - **Notes:** Swarm Attack (DV 1d6, ignores armor, blinding), comes with [specialized swarmanoid hive](../../../16/19-nanotech.md#hives). Swarms follow rules for [nanoswarm/microswarms](../../../16/20-nanoswarms-and-microswarms.md).
 
 </blockquote>
+
+| **SWARMANOID**                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** This morph is rough to adapt to, but not for the reasons people think. Yeah, the sensory input is overloading, and simultaneous lack of a substantial body and the possession of thousands of small ones is a serious acclimation hurdle. What gets most people, though, is the frustration. Being severely limited in what you can physically do, from holding a cup to opening a door, tends to aggravate people and compound the alienation. |
+| **Voight-Kampff:** I think that’s why you see a lot more AGIs using these when they want something that can operate physically. For them, it’s the opposite                                                                                                                                                                                                                                                                                                     |
+| **experience:** you go from experiencing millions of things simultaneously to just a few hundreds to thousands of inputs, but it beats sleeving into something even less able.                                                                                                                                                                                                                                                                                  |
 
 ### Skulker Variant
 
@@ -1234,6 +1441,13 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 
 </blockquote>
 
+| **SYNTH**                                                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** There are so many models of synth out there, they’re hard to classify. Quality ranges from walking junk to cutting-edge.                                                                                               |
+| **Nevermore:** They make uplift versions too, particularly neo-hominids and neanderthals. Slightly different form, same function.                                                                                                      |
+| **Lovelace:** Since these are so prevalent among the clanking masses — and uniform-looking out of the box — it’s quite the trend these days to glitter these up with custom paint jobs, aftermarket add-ons, and other aesthetic mods. |
+| **Rivet:** Don’t forget the weird fashion of wearing clothes with your synth. I get that it makes you seem more human, but it sorta defeats the purpose in my book.                                                                    |
+
 ## Synthaur
 
 ![Synthaur](PNG/synthaur.png)
@@ -1259,6 +1473,11 @@ The synthtaur’s smart material composition allows it to switch between two pre
 - **Notes:** Medium Frame (Armor 8/6), Large size
 
 </blockquote>
+
+| **SYNTHTAUR**                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nezumi:** There’s a Titanian ice-metal band that rocks the shit out of these morphs. They do concerts out in the frozen methane tundra, geared up like some sorta cryonic barbarian fantasy sim. It’s epic. |
+| **Red Rover:** I’ve been seeing more of these in the Martian outback lately. The shape-changing makes them quite useful for nomads. I’m just waiting to see one painted green with tusks.                     |
 
 ## Takko
 
@@ -1286,6 +1505,12 @@ The first synthetic cephalopod design from the engineers at Feral Robot is a har
 
 </blockquote>
 
+| **TAKKO**                                                                                                                                                                                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** For human egos checking out the eight-armed life, takkos tend to be easier to acclimate to then octomorphs. The cyberbrain mind-states are more conducive to human mental frameworks.                                                                       |
+| **Pivo:** These were a hit among neo-octopi when first released. There’s an ongoing complaint about the lack of chemoreceptors on the arms, though — imagine having a human biomorph with no sense of taste or smell — but the overall dexterity and design keeps us happy. |
+| **Callosum:** The cyberbrains on these incorporate neo-octopi neurology for the arms, meaning that have a mind of their own, but they provide better proprioception than most octomorphs too.                                                                               |
+
 ## Xu Fu
 
 ![Xu Fu](PNG/xu-fu.png)
@@ -1312,5 +1537,9 @@ Named after a historical Chinese explorer, many gatecrashers consider xu fus the
 - **Notes:** Light Frame (Armor 6/4)
 
 </blockquote>
+
+| **XU FU**                                                                                                                                                 |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nova Vida:** Though it’s designed for gate ops, this shell is getting a lot of traction within the Solar System. It’s just a useful, utilitarian morph. |
 
 </div>

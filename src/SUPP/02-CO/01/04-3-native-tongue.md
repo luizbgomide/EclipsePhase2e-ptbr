@@ -11,8 +11,7 @@
 
 **THE STORY:**
 
-Your native language is an indication of your character’s ethnic background and cultural heritage — or at least the dominant
-culture in which you were raised if you are an immigrant, indigenous person in occupied territory, or outlier.
+Your native language is an indication of your character’s ethnic background and cultural heritage — or at least the dominant culture in which you were raised if you are an immigrant, indigenous person in occupied territory, or outlier.
 
 </blockquote>
 </div>

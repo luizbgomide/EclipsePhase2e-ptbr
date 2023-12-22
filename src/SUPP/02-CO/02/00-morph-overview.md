@@ -85,3 +85,5 @@
     - [Axle Egos and Pilots](../02/01-morph-types.md#axle-egos-and-pilots)
     - [Axle ALIs](../02/01-morph-types.md#axle-alis)
   - [Axle MP](../02/01-morph-types.md#axle-mp)
+- [Morph List (by Morph Points)](../02/02-morph-list-by-morph-points.md)
+- [Morph List (Alphabetical)](../02/03-morph-list-alphabetical.md)

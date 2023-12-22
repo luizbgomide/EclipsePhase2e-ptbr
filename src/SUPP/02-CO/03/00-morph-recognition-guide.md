@@ -81,6 +81,7 @@
   - [Whiplash](../03/04-exomorph-biomorph.md#whiplash)
 - [Synthmorphs](../03/05-synthmorphs.md)
   - [Arachnoid](../03/05-synthmorphs.md#arachnoid)
+    - [Arachnikoma Variant](../03/05-synthmorphs.md#arachnikoma-variant)
   - [Biocore](../03/05-synthmorphs.md#biocore)
   - [Case](../03/05-synthmorphs.md#case)
   - [Cetus](../03/05-synthmorphs.md#cetus)

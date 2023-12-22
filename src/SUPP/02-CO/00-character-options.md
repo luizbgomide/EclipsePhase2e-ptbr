@@ -28,10 +28,7 @@ Markdown formatting and adaptation done by Luiz Borges Gomide.
 - **Art Direction:** Rob Boyle, Zoe Robinson
 - **Graphic Design and Layout:** Adam Jury
 - **Cover Art:** Stephan Martiniere
-- **Interior Art:** Christine Bian, Mobo Boeheme, Jon Bosco, Adam Burn, Jose Cabrera, Oleksii Chernik, Anna Christenson, Robin Chyo, Daniel Clarke, Trevor Claxton, Paul Davies, Igor Ferreira, Danijel Firak, Tom Garden, Nathan Geppert, Zach Graves, Olivia Hintz, Sam Hogg, Lake Hurwitz, Thomas Jung, Jason Juta, Adrian Majkrzak, Mitch Malloy, Stephan Martiniere, Marco Mazzoni, Joshua Meehan, Aaron Miller, Andre Mina, Job Molina, Mark Molnar,
-James Mosingo, Ben Newman, Will Nichols, Efrem Palacios, Mike Perry,
-Maciej Rebisz, Sacha-Mikhail Roberts, Emilio Rodríguez, Lorenz Ruwwe,
-Mike Sass, Andrew Silver, Jonas Springborg, Pixoloid Studios, Jessada Sutthi, Viktor Titov, Quico Vicens, Stan Von Medvey, Bruno Werneck, Joe Wilson, Mark Winters, Ben Wooten, Andy Wright, Yulia Zhuchkova
+- **Interior Art:** Christine Bian, Mobo Boeheme, Jon Bosco, Adam Burn, Jose Cabrera, Oleksii Chernik, Anna Christenson, Robin Chyo, Daniel Clarke, Trevor Claxton, Paul Davies, Igor Ferreira, Danijel Firak, Tom Garden, Nathan Geppert, Zach Graves, Olivia Hintz, Sam Hogg, Lake Hurwitz, Thomas Jung, Jason Juta, Adrian Majkrzak, Mitch Malloy, Stephan Martiniere, Marco Mazzoni, Joshua Meehan, Aaron Miller, Andre Mina, Job Molina, Mark Molnar, James Mosingo, Ben Newman, Will Nichols, Efrem Palacios, Mike Perry, Maciej Rebisz, Sacha-Mikhail Roberts, Emilio Rodríguez, Lorenz Ruwwe, Mike Sass, Andrew Silver, Jonas Springborg, Pixoloid Studios, Jessada Sutthi, Viktor Titov, Quico Vicens, Stan Von Medvey, Bruno Werneck, Joe Wilson, Mark Winters, Ben Wooten, Andy Wright, Yulia Zhuchkova
 - **Special Thanks To:** DivineWrath and Saii, for their quick-and-dirty MRG conversions.
 - **Additional Thanks To:** A-Wiz, DivineWrath, Henry Pailing, Kurt Fastiggi, Mikael Mäkelä, Satellite Slickers, Schism Navigator, UntypedVariable, and everyone else who provided playtest feedback on our discord channel. Additionally, everyone who supports our Patreon — thanks so much!
 - **Music Inspiration:** Adam X, Boris Brejcha, Ghost in the Machine, Maedon, Statiqbloom

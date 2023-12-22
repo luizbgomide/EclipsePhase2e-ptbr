@@ -29,6 +29,14 @@ Scurriers are developed from sciurids, a non-sapient extraterrestrial species si
 
 </blockquote>
 
+| **SCURRIER**                                                                                                                                                                                                                                                                                                     |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Plasmid:** There are two models of these floating                                                                                                                                                                                                                                                              |
+| **around:** quadrupred and hexaped. The former is for people that don’t adjust to the extra limbs as well.                                                                                                                                                                                                       |
+| **Nezumi:** Can any of you smart gals, guys, or others that actually do morph design tell me exactly why this thing needed vocal cords that make it sound like a four-year-old child on helium? These things are useful for getting into hard-to-reach places, but no one can take that cartoon voice seriously. |
+| **Plasmid:** I heard the voice tested well in focus groups, so put that one on the marketing folks.                                                                                                                                                                                                              |
+| **Skinwalker:** The vocals were the very first thing I modded when I tried this morph out.                                                                                                                                                                                                                       |
+
 ### Quadruped Variant
 
 This four-limbed version of the scurrier is easier to adapt to.
@@ -80,5 +88,14 @@ Although whiplash morphs are unusual even by transhuman standards, they are gain
 - **Notes:** Beak/Claw Attack (DV 2d6)
 
 </blockquote>
+
+| **WHIPLASH**                                                                                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Just Mortal:** One word: Ick.                                                                                                                                                                                                                                                                 |
+| **Skinwalker:** One person’s squick is another’s dream. I wouldn’t mind giving an alien pod a spin, just for the experience.                                                                                                                                                                    |
+| **Sun Bu’er:** You might want to wait to the third or fourth generation. I hear the experience of sleeving these is still a bit rough. I don’t think they’ve fully worked out the bugs when it comes to streamlining the alien biochemistry with the cyberbrain’s simulated biochemical states. |
+| **Lovelace:** I know I was told that in the future I could be anything, but I never really imagined that would including being a houseplant.                                                                                                                                                    |
+| **Nova Vida:** In all seriousness, these don’t see much use outside of certain gatecrashing ops. I’ve used one once and it has a lot more synthetic interface elements than most pods, not sure if this is because of the plant or the alien aspects though.                                    |
+| **Plasmid:** I did a bit of spec consulting on the whiplash and IIRC it’s the plant elements; the sensory elements of flora are so much different from ours that it required major work.                                                                                                        |
 
 </div>

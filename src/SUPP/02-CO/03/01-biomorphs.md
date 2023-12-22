@@ -27,6 +27,12 @@ Alpiners were common in the early days of the Martian frontier, when temperature
 
 </blockquote>
 
+| **ALPINER**                                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Voight-Kampff:** There’s a statistical anomaly in that an unusually high percentage of alpiners go missing in the Martian outback.                                           |
+| **Skinwalker:** Sounds like a biased-sample fallacy; alpiner-clad folks are more likely to engage in risky behavior like mountaineering, rock climbing, and hiking, after all. |
+| **Voight-Kampff:** Take a look at the areopositioning distribution of the missing alpiners, I think you’ll find it interesting.                                                |
+
 ## Aquanaut
 
 ![Aquanaut](PNG/aquanaut.png)
@@ -52,6 +58,12 @@ Aquanauts are environmentally adapted for underwater activities while still func
 - **Common Extras:** Cryogenic Protection, Oxygen Reserve, Respirocytes, Pressure Adaptation, Toxin Filters
 
 </blockquote>
+
+| **AQUANAUT**                                                                                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Skinwalker:** The base models don’t have the depth range of a selkie or synth, but aquanauts are great whenever you need to function both underwater and on land. It takes some time acclimating to the transition from water- to air-breathing and vice-versa, though. |
+| **Plasmid:** A small hypercorp called ParaLife has made some interesting progress with an aquanaut strain that is completely amphibian: ectothermic, can breathe through their skin, and so on. Drawback is that they’re                                                  |
+| **slimy:** specialized glands keep their skin moist out of water.                                                                                                                                                                                                         |
 
 ## Ariel
 
@@ -79,6 +91,13 @@ The surprising number of transhumans who sleeve in Titan-adapted hulder morphs e
 
 </blockquote>
 
+| **ARIEL**                                                                                                                                                                                                                                                                                                                                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scent.In.Hell:** Here’s your Extreme Camping Morph, or at least the Flying Carnivore variant model. Who the Hell gets wet about roughing it on Titan, anyway?                                                                                                                                                                                                                                     |
+| **Psychscaper:** Some people want to experience everything, or maybe they want to feel like they’ve conquered anything nature can throw at them?                                                                                                                                                                                                                                                    |
+| **Sava:** Yeah, I know some exhumans that talk that way. I told ‘em to call me when they conquer the surface of the sun.                                                                                                                                                                                                                                                                            |
+| **Skinwalker:** While this was one of the weirder sleeving experiences I’ve had, it was certainly interesting. Flying through Titan’s methane clouds, living in the hydrocarbon wilds … it wasn’t right, but the morph felt so smooth that it wasn’t wrong either. Tearing hunks out of cryorabbits to survive actually just felt appropriate. Those Profundan genehackers know what they’re doing. |
+
 ## Bouncer
 
 ![Bouncer](PNG/bouncer.png)
@@ -103,6 +122,13 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 - **Morph Traits:** Limberness (Level 1)
 
 </blockquote>
+
+| **BOUNCER**                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sequencer:** Bouncers are one of the more common sleeves out there, especially in the outer system. That means there’s more variants and models than you can kick a moon rock at. My favorites are the ones with tails — that extra grip comes in handy in micrograv. |
+| **Plasmid:** If you’re picking up a bouncer, make sure to get one of the genetic lines that incorporated the 3D spatial awareness traits from cetacean neurologies; it really helps you orient and maneuver better.                                                     |
+| **Voight-Kampff:** How useless are these in higher grav?                                                                                                                                                                                                                |
+| **Skinwalker:** The foot structure impedes your running, but only slightly. On long treks, expect a lot of cramping and blisters.                                                                                                                                       |
 
 ## Bruiser
 
@@ -131,6 +157,15 @@ This morph is made to be large, strong, and physically intimidating. Adopted ear
 
 </blockquote>
 
+| **BRUISER**                                                                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Qi:** Bruisers, the morph that lets everyone else know you didn’t get enough bullying in as a kid.                                                      |
+| **Parallax:** Meh, bigger they are …                                                                                                                      |
+| **mAlice:** That’s funny, because there’s a thriving business in bruisers as vacation morphs for those who simply want to try out the enhanced genitalia. |
+| **Eludere:** You want to see some fun action? Go watch the bruiser wrestling rings down on Luna. They can throw each other impressive distances.          |
+| **Sequencer:** What’s impressive are the number of limited-edition bruisers based on the genetics of pre-Fall wrestlers and athletes. The market is huge. |
+| **Just Mortal:** Can’t see the point of sleevin’ something that’s just going to bang it’s head on every door frame in existence.                          |
+
 ## Cloud Skate
 
 ![Cloud Skate](PNG/cloud-skate.png)
@@ -158,6 +193,14 @@ Cloud skates are exotic, specialized biomorph designs that push the edge of what
 
 </blockquote>
 
+| **CLOUD SKATE**                                                                                                                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nezumi:** You haven’t lived until you’ve skated the atmosphere of a gas giant.                                                                                                                                                                                                                                                 |
+| **Chiro:** I can see the attraction. Just not sure I’d want to live there.                                                                                                                                                                                                                                                       |
+| **Scent.In.Hell:** There any news on that expedition of extrasolar cloud skaters that went missing?                                                                                                                                                                                                                              |
+| **Nova Vida:** Nope. The same group resleeved, went back, and disappeared again. Now it’s a thing, and Gatekeeper has applications for a handful of thrill-seekers that want to skate their way to doom as well. What are the odds that at least one of those groups are sentinels? Sounds like it might be an interesting time. |
+| **Ruqinzhe:** Hobnobbing with death-wish socialites while trying not to die? Not so interesting to me.                                                                                                                                                                                                                           |
+
 ## Crasher
 
 ![Crasher](PNG/crasher.png)
@@ -182,6 +225,12 @@ Crashers are survival morphs — athletic and rugged designs capable of weatheri
 - **Common Extras:** Clean Metabolism, Digestive Symbiotes, Long-Term Life Support, Oxygen Reserve, Respirocytes, Toxin Filters
 
 </blockquote>
+
+| **CRASHER**                                                                                                                                                                                                                                                                                                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nova Vida:** The price tag on these is high, but it’s a very capable morph with lots of utility outside of gatecrashing ops.                                                                                                                                                                                                                                                                  |
+| **Ruqinzhe:** What is this “price tag” you speak of?                                                                                                                                                                                                                                                                                                                                            |
+| **Sequencer:** Just be careful what brand name you pick. I know for a fact that certain hypercorps cut corners on the genetics in order to rush out morphs to meet the demand for gatecrashing missions. I’ve seen reports of respiratory failure in atmos well within their safety range and hibernators falling into nonresponsive comas. Skins from Omniflesh have particularly bad reviews. |
 
 ## Dvergr
 
@@ -208,6 +257,13 @@ Dvergar (plural of dvergr) are biomorphs designed for comfortable operation in h
 
 </blockquote>
 
+| **DVERGR**                                                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Astika:** Definitely a specialty morph. Very limited application, but you’ll be really happy you have it when you need it. Gravity is a drag. |
+| **Ammonite:** Also great if you’re a socialite on a LARP cruise and decide to play a dwarf. Or so I hear.                                       |
+| **Skinwalker:** Dvergr are just fine in normal, low, or micro grav. Strong, energetic, great circulation.                                       |
+| **Scent.In.Hell:** Maybe too good. I’ve heard some models bleed out quickly when injured in low-grav conditions.                                |
+
 ## Exalt
 
 ![Exalt](PNG/exalt.png)
@@ -231,6 +287,12 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </blockquote>
+
+| **EXALT**                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Ammonite:** Remember when these morphs first went into circulation? The hue and cry over “upgraded humans” was a big deal. Seems so quaint now.                                                                         |
+| **mAlice:** Ah the good ol’ days. Remember breeding restriction laws? Glad we’ve left the primitive mindsets behind.                                                                                                      |
+| **Nezumi:** The great thing about exalts is that they’re reliable, abundant, and fulfill your basic needs without running into heavy alienation or body dysmorphia issues when resleeving. Too many people overlook them. |
 
 ## Faust
 
@@ -257,6 +319,14 @@ Developed in secret by a small group of unaffiliated async genehackers, this mor
 
 </blockquote>
 
+| **FAUST**                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cacophonous:** I added this one, due to its recent availability through certain black market channels. It’s not in the Lonely Planetoid guide for obvious reasons.                                                                                        |
+| **Voight-Kampff:** Has Firewall made any headway into discovering who designed this morph?                                                                                                                                                                  |
+| **Qi:** If anyone has, they’re keeping that info within their server.                                                                                                                                                                                       |
+| **Plasmid:** There are implications here that concern me. If one can design and distribute a morph based on its compatibility with an exovirus strain, we may well soon see morphs that are compatible — read: more susceptible — to less friendly strains. |
+| **Scent.In.Hell:** Watch what you call “friendly.” Not all of us buy into the harmlessness of Watts- MacLeod. The decision to let asyncs operate freely is going to bite us in the hind thorax down the line, mark my words.                                |
+
 ## Flat
 
 ![Flat](PNG/flat.png)
@@ -280,6 +350,15 @@ Flats are baseline unmodified humans, born with all of the natural defects, here
 - **Common Extras:** Many have the Genetic Defect trait.
 
 </blockquote>
+
+| **FLAT**                                                                                                                                                                                                                                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Plasmid:** A body like that in which you were born, to which you hoped never to return.                                                                                                                                                                                            |
+| **Dante:** Actually, there’s a decent demand from people that want to sleeve something “old-fashioned’ and “original.” I’m pretty sure it started as a Venusian socialite fad.                                                                                                       |
+| **Nezumi:** *facepalm* The only sensible part of that is that flats are actually pretty rare outside of Earth orbit, Luna, and the Jovian Republic.                                                                                                                                  |
+| **Ammonite:** It gets weirder. I know oligarchs that collect flats. Original, born-on-Earth skins are quickly becoming collector items — especially if they are in mint condition. Interestingly, nonrejuvenated bodies that have aged well are picking up a considerable price tag. |
+| **Nova Vida:** I’ve always wondered what happened to older flats. I assumed they were rejuvenated rather than retired, but even then I didn’t expect them to be top hits at the body bank.                                                                                           |
+| **Plasmid:** The body banks I know keep a few on hand as out-of-stock last-resort options; there’s always someone who’d rather take a flat than a quality synth. The flats with recurring health problems go at cheap rates to desperate infugees.                                   |
 
 ## Freeman
 
@@ -307,6 +386,14 @@ This sleeve hands tyrants the tools to ensure loyalty — or at least obedience 
 
 </blockquote>
 
+| **FREEMAN**                                                                                                                                                       |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scent.In.Hell:** Useful for rendition and interrogation scenarios.                                                                                              |
+| **Callosum:** Really? We’re condoning the use of slave morphs on ops now?                                                                                         |
+| **Scent.In.Hell:** Pull yourself out of high orbit. When you need to extract answers in order to save lives and the clock is ticking, you do what you have to do. |
+| **Voight-Kampff:** The transhuman flexibility over ends and means is an amazing thing.                                                                            |
+| **Nezumi:** I suppose I’m not surprised that transhumanity invented these, but it still sickens me.                                                               |
+
 ## Fury
 
 ![Fury](PNG/fury.png)
@@ -333,6 +420,12 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 </blockquote>
 
+| **FURY**                                                                                                                                                                                                           |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sequencer:** Perhaps one of the most-improved morph designs to date. Spending money on super soldiers never goes out of style.                                                                                   |
+| **Plasmid:** Most rehashed, maybe, but combat morphs have a long history. Some of the previous incarnations were abominations, but of course few of those survived the Fall.                                       |
+| **Parallax:** When you need to kick ass but don’t want to advertise the fact, furies beat out most other morphs, including synthmorphs. It’s hard to tell one apart from an olympian or any other common biomorph. |
+
 ## Futura
 
 ![Futura](PNG/futura.png)
@@ -356,6 +449,14 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </blockquote>
+
+| **FUTURA**                                                                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Plasmid:** While the original stigma kept these rare, the genetics have been copied and reproduced (and sometimes tweaked) by numerous skincrafters.                                                                          |
+| **Callosum:** Want to know a secret? Cognite still produces their original futura models. For “in-house” purposes, of course.                                                                                                   |
+| **Cacophonous:** There’s a lot of people that believe futura morphs remain in circulation so that they can be tracked — reasoning being that they hope to catch fugitives from the Lost Generation that are still on the loose. |
+| **Skinwalker:** I’ve heard that rumor as well — and also that the ones in circulation are boobytrapped in various ways.                                                                                                         |
+| **Black Pharaoh:** I can substantiate one of those rumors. There is at least one Firewall scanner tasked with tracking futura morphs in the wild. It is wise to assume others do as well.                                       |
 
 ## Garuda
 
@@ -381,6 +482,12 @@ Found primarily on Luna and similar low-g worlds and habitats, this morph is ada
 - **Morph Traits:** Exotic Morphology (Level 1)
 
 </blockquote>
+
+| **GARUDA**                                                                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nezumi:** These are exploding in popularity all over low-grav habs in the Belt and rimward.                                          |
+| **Skinwalker:** The wings are clumsy to handle in confined quarters, and I’ve had some uncomfortable back aches after flying too long. |
+| **Expat:** A hypercorp called FormeVital has a model that integrate the wings and arms together.                                       |
 
 ## Ghost
 
@@ -408,6 +515,11 @@ Ghosts are partially designed for combat applications, but their primary focus i
 
 </blockquote>
 
+| **GHOST**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **mAlice:** There’s a trick with chameleon skin where you can shift to translucent. It’s great for grossing people out.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Ruqinzhe:** Last time I sleeved a ghost, I got a lesson in how less reputable skin joints try to screw you. I reserved in advance, paid up front, and went with a shady body bank to keep my profile low. After sleeving what I thought was a ghost, I had a nasty shock when I was jumped by some punks and the morph didn’t perform as expected. I had a genehacker I know run some scans, turns out I had been given a splicer with aftermarket mods. I took it back to the clinic, where the customer service AI politely told me to fuck off. Turns out that my muse had dropped the ball and contractually I’d agreed to a morph with certain parameters; the morph met those parameters (barely), and they called this special package a “ghost.” It apologized for any confusion but would not offer a refund. Fucking Extropian contracts. |
+
 ## Glider
 
 ![Glider](PNG/glider.png)
@@ -433,6 +545,10 @@ Gliders are tall and thin, with long, strong limbs and a lightweight build. Glid
 - **Common Extras:** Respirocytes
 
 </blockquote>
+
+| **GLIDER**                                                                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Callosum:** The gliding membranes mean you either need smart clothes or a specialized wardrobe. Regular dumb shirts and pants just don’t work. |
 
 ### Venusian Glider Variant
 
@@ -483,6 +599,13 @@ Originally created as part of a fad based on 20th-century images of aliens, the 
 
 </blockquote>
 
+| **GREY**                                                                                                                                                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sequencer:** People seem to think these are chimeric pods. Nope, they’re modified human stock.                                                                                                                           |
+| **Astika:** That’s what they want you to think. In truth, they’re crafted from alien genetics rescued from Area 51 during the Fall! Or so the conspiracy forums tell me.                                                   |
+| **Plasmid:** Keeping true to the homage, the skincrafters making these shift organs around, chang the blood color, and even include some frivolous “parts” just so that these don’t look so human when they get cut open.  |
+| **Nezumi:** There’s a community of people sleeved in greys in the Martian outback that try to live the “true Martian” lifestyle. Weird lot, for sure, but creative — they’ve produced some interesting eerie architecture. |
+
 ## Hazer
 
 ![Hazer](PNG/hazer.png)
@@ -508,6 +631,11 @@ Hazers are tall but slight morphs adapted for life in Titan’s dome colonies. T
 
 </blockquote>
 
+| **HAZER**                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Chiro:** You never used to see these outside of Titan, but they’ve been popping up all over the Jovian and Saturnian systems lately. Word is they’re popular on gate ops too.                                                                                     |
+| **Qi:** There was an incident with the main microcorp that produces hazers for the Commonwealth. Rumor is they euthanized a whole generation of forced-growth clones and shut down production for two months. Whatever happened, they’re keeping a tight lid on it. |
+
 ## Hibernoid
 
 ![Hibernoid](PNG/hibernoid.png)
@@ -531,6 +659,12 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 - **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Cortical Stack, Hibernation, Mesh Inserts
 
 </blockquote>
+
+| **HIBERNOID**                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** True fact, my original body was hibernoid. My parents were both flight crew in the early space days, and some of the first to be given hibernoids for their jobs. They liked their morphs so much they purchased breeding rights from their corp. I don’t think they really considered the ramifications of a kid that would sleep only a few hours at a time for weeks, then crash for a week straight. |
+| **Callosum:** I imagine that impacted your sleeping rhythms later in life?                                                                                                                                                                                                                                                                                                                                            |
+| **Delta-V:** The first time I sleeved a morph without the circadian hacks, I thought it was defective. I still can’t believe it’s normal for people to sleep that much on a daily basis.                                                                                                                                                                                                                              |
 
 ## Hulder
 
@@ -558,6 +692,11 @@ Hulder are engineered for survival in the harsh Titanian wilds and methane seas.
 
 </blockquote>
 
+| **HULDER**                                                                                                                                                                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Chiro:** The original hulder genetics were stolen by a group of exhumans shortly after the Fall. I can only imagine they’re making use of them somewhere.                                                   |
+| **Nevermore:** I saw a scum wearing one of these with a custom biosculpt on Extropia a few weeks back. Had a whole pack of swarm cats following him around. Said he was an ego hunter tracking down a bounty. |
+
 ## Hyperbright
 
 ![Hyperbright](PNG/hyperbright.png)
@@ -584,6 +723,13 @@ A research team on Bright created this morph to surpass the menton and push the 
 
 </blockquote>
 
+| **HYPERBRIGHT**                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Qi:** I wouldn’t mind this morph so much if everyone who sleeved it didn’t become such an insufferable know-it-all.                                                                |
+| **Skinwalker:** In my experiences, people sleeving hyperbrights just get kinda ... weird. They definitely careen off into neurodiverse mind spaces and fall into mental black holes. |
+| **Callosum:** This is just something we’ll be seeing more of. What we consider neurotypical now is not going to be around much longer.                                               |
+| **Just Mortal:** The rumors of humanity’s death are greatly exaggerated.                                                                                                             |
+
 ## Imp
 
 ![Imp](PNG/imp.png)
@@ -609,6 +755,11 @@ Shortly after the Fall, the refugees from Earth who would evolve into the scum f
 
 </blockquote>
 
+| **IMP**                                                                                                                                                                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **mAlice:** While I have known people that can party and fuck forever while imped out (myself included), in my experience the tourists and socialites who pop these sleeves just don’t know how to handle their drugs and make a mess of themselves anyway. |
+| **Stitch:** I know a gatecrasher who swears by this morph thanks to its ability to handle weird and toxic substances, says it’s saved her ass from dangerous xenoflora a few times.                                                                         |
+
 ## Menton
 
 ![Menton](PNG/menton.png)
@@ -632,6 +783,12 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts, Mnemonics
 
 </blockquote>
+
+| **MENTON**                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sun Bu’er:** I wore one of these for about a year. I still lost things all the time, misread social cues, and walked into traffic while daydreaming. Smarts are no substitute for common sense. |
+| **Psychscaper:** A ten-year study on people who sleeved mentons and then resleeved to a morph without intelligence mods has shown a strong correlation with depression and substance abuse.       |
+| **Sequencer:** Once you go brainiac, you can’t go back.                                                                                                                                           |
 
 ## Neotenic
 
@@ -659,6 +816,12 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 </blockquote>
 
+| **NEOTENIC**                                                                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Psychscaper:** These are illegal in some biocon habs, just like like it’s illegal for adults to sleeve into minor-aged morphs and vice versa.                             |
+| **mAlice:** I understand the sex aspect weirds some people out, but it’s easy to get a neotenic that is neuter — in fact, it’s the most common morph to get in neuter form. |
+| **Stitch:** I don’t need to be sleeved in a neotenic to be reminded that I’m still a kid at heart.                                                                          |
+
 ## Nomad
 
 ![Nomad](PNG/nomad.png)
@@ -683,6 +846,11 @@ The nomad biomorph is optimized for operating in desert environments. They incor
 - **Notes:** Bodysculpting (Hooves), Respirocytes, Toxin Filters. Many have the Unattractiveness trait.
 
 </blockquote>
+
+| **NOMAD**                                                                                                                                                                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** Ah, the morph of choice for the survivalist wanna-bes. Last time I was on Extropia, I saw dozens of these walking around, sipping drinks in cafes, telling other people how prepared they were for when the end came. The ultimates better step up their game with the remades if they want to keep the market of dingbat apocalypse seekers in their pocket. |
+| **Sun Bu’er:** Those of you thinking of picking one up might want to wait. Fortean has the nomad completely hacked and is optimizing it.                                                                                                                                                                                                                                   |
 
 ## Observer
 
@@ -709,6 +877,11 @@ Observers are enhanced for perceptive, analytical, and investigative capabilitie
 
 </blockquote>
 
+| **OBSERVER**                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Qi:** Quis custodiet ipsos custodes?                                                                                                                        |
+| **Psychscaper:** I’d guess it would be whoever is paying them. But the point is well taken; organizations with secrets to keep don’t keep observers on staff. |
+
 ## Olympian
 
 ![Olympian](PNG/olympian.png)
@@ -732,6 +905,11 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </blockquote>
+
+| **OLYMPIAN**                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **mAlice:** The morph of choice for inner-system athlete wanna-bes and for the rich and connected seeking discreet muscle that still looks good. You go to any upscale vacation spot and the place is crawling with these morphs. A lot of the yahoos who sleeve olympians think they’re much stronger than they are and pull a muscle or rip a tendon.                                                                                    |
+| **Parallax:** Skinaesthesia makes a sweet olympian variant with muscle augmentation and bone strengthening. Sure, you can get this done aftermarket, but the custom grow just feels so much sweeter. It also has special subdermal glands that make the skin look all oiled up. These things have gotten a lot of good wordof- mouth in both the legal and illegal fight circuits — they’re big, strong, and look good giving a beat down. |
 
 ## Remade
 
@@ -757,6 +935,12 @@ The remade are completely redesigned: humans 2.0. Their cardiovascular system is
 - **Morph Traits:** Exotic Morphology (Level 1)
 
 </blockquote>
+
+| **REMADE**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Scent.In.Hell:** The remade models available on the open market are not the ones currently used by high-ranking Ultimates. Those top dogs use models that are two or three generations ahead of those put into distribution. Those state-of-the-art designs almost never leave the main Ultimate habs, like Xiphos. On certain deployments where the entire group is Ultimates, you may see the next model that is likely to hit the market in a few months, which helps hype the expectations. |
+| **Sequencer:** The remade models released by other manufacturers are generally equivalent quality to the current Ultimate stock.                                                                                                                                                                                                                                                                                                                                                                  |
+| **Parallax:** Cartels like to snag remades for their top muscle. People see a remade and assume the ego inside is an Ultimate and not to be fucked with.                                                                                                                                                                                                                                                                                                                                          |
 
 ## Ring Flyer
 
@@ -784,6 +968,10 @@ Designed for soaring along the rings of Saturn, this exotic spacefaring biomorph
 
 </blockquote>
 
+| **RING FLYER**                                                                                                                                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** Plasma sails may be a nifty way to travel, but they’re slow. These morphs are modded for patience and serenity too — soaring through the Black can be mighty boring at times. |
+
 ## Ruster
 
 ![Ruster](PNG/ruster.png)
@@ -809,6 +997,11 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 </blockquote>
 
+| **RUSTER**                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** A morph only a hypercorp exec could love. The flaws of the ruster are numerous and well documented, but it does do what it’s advertised to do. Could it do it better? Sure, but there’s less profit margin in better. It’s not as though there’s a booming market of Marsacclimated competitor morphs, and while there’s certainly no shortage of synths, most settlers have trouble giving up the flesh. |
+| **Plasmid:** The obsolescence built into many of these is easily circumvented by a good genehacker. Lots of Barsoomians out in the sticks have been running around in rusters for four or five years with only standard medical check-ins. Of course, modifying the morph voids the contract, so make sure you’re on good terms with someone who can do an occasional sleeve checkup.                                |
+
 ## Salamander
 
 ![Salamander](PNG/salamander.png)
@@ -833,6 +1026,10 @@ Bio-engineered to survive in the semi-protected vacuum of coronal habitats, sala
 - **Morph Traits:** Exotic Morphology (Level 2), Non-Human Biochemistry (Level 2)
 
 </blockquote>
+
+| **SALAMANDER**                                                                                                                                                               |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zebulon:** There’s a new Solarian trend of people sleeving into salamanders and a solar survival suit and, I kid you not, riding on the backs of surya through the corona. |
 
 ## Selkie
 
@@ -860,6 +1057,12 @@ Selkies are similar to aquanauts with heavy splices of seal traits. Their legs a
 
 </blockquote>
 
+| **SELKIE**                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nevermore:** There’s getting used to the morph, then there’s getting used to the environment the morph operates in. I found out the hard way I am not wired for deep sea excursions. It’s oppressive. |
+| **Nezumi:** I keep hearing rumors that someone has hacked a mermaid variant, complete with drop-dead looks and pheromones, of course.                                                                   |
+| **Eludere:** Sounds like something you’d find in a scum swarm somewhere.                                                                                                                                |
+
 ## Splicer
 
 ![Splicer](PNG/splicer.png)
@@ -883,6 +1086,11 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </blockquote>
+
+| **SPLICER**                                                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sequencer:** Cheap and ever popular. Despite the lack of enhancements, splicers don’t seem like they’ll be going out of style any time soon. |
+| **Just Mortal:** Let’s hope that stays true.                                                                                                   |
 
 ## Surya
 
@@ -910,6 +1118,11 @@ A lateral line organ allows them to “hear” the low-frequency vibrations that
 - **Morph Traits:** Exotic Morphology (Level 3), Non-Human Biochemistry (Level 2)
 
 </blockquote>
+
+| **SURYA**                                                                                                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sun Bu’er:** Part whale, part extremophile, part magnetic bottle. You don’t get much weirder.                                                                                                                                                                                                                         |
+| **Cymascopist:** Surya tend to stick together in pods, but that’s not just because of the neo-cetacean cultural influence among the Solarians. They actually group together for more efficient cooling, using their magnetic fields to eject heated plasma and create a refrigerating low-pressure zone around the pod. |
 
 ### Nishakara Variant
 
@@ -960,6 +1173,12 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 </blockquote>
 
+| **SYLPH**                                                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cacophonous:** In autonomist circles, sylphs were considered superficial and egotistical at first. Those attitudes have mostly passed, but you still find them in some places.                                               |
+| **Ammonite:** There’s plenty of sylph stigma in socialite circles, of all places. It’s the sort of morph the clueless and uncultured sleeve into for society functions, not realizing that off-the-rack is still off-the-rack. |
+| **Lovelace:** It’s a good thing we’ve evolved as a species past such classist notions of taste.                                                                                                                                |
+
 ## Theseus
 
 ![Theseus](PNG/theseus.png)
@@ -984,5 +1203,10 @@ Theseus morphs are designed to protect against the dangers of biohazards and hos
 - **Common Extras:** Bioweave, Cold Tolerance, Enhanced Vision, Failsafe, Radiation Sense, Respirocytes, T-Ray Emitter
 
 </blockquote>
+
+| **THESEUS**                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stitch:** I get sentinels asking for this morph every time they go on a new op. Theseus’s don’t grow on trees, though; they’re still pretty rare. |
+| **Cacophonous:** Maybe Firewall should initiate a project to propagate more of them.                                                                |
 
 </div>

@@ -26,6 +26,11 @@ Augurs were designed to incorporate biological androids into teaching, instructi
 
 </blockquote>
 
+| **AUGUR**                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------- |
+| **Volta:** Augurs, for when your corporate masters want you smart as a menton, but as easily controlled as a bot. |
+| **Psychscaper:** That’s why so many of these models also come with built-in behavioral mods.                      |
+
 ## Ayah
 
 ![Ayah](PNG/ayah.png)
@@ -51,6 +56,12 @@ Ayahs are designed for nurse, caretaking, and personal attendant functions. Hype
 - **Common Extras:** Enhanced Hearing, Enhanced Vision, Heat Tolerance, Utilimod, Vacuum Sealing. Many have the Composure and/or Empathy traits.
 
 </blockquote>
+
+| **AYAH**                                                                                                                                                                                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Eludere:** This is a great morph to sleeve if you want to come across as safe and innocuous. No one suspects an ayah — until you’ve had one try to feed your head into the kitchen disassembler.                                                                       |
+| **Ammonite:** AI-piloted defender ayahs are very common inside the mansions of the ultrarich, usually heavily loaded with intriguing aftermarket add-ons. Don’t be surprised if there’s also an infomorph on hand to drop in and take it over when alarms start ringing. |
+| **Nezumi:** I know a commune out near Neptune where the males all sleeve male ayahs and the women wear furies, just to tweak the gender dynamics.                                                                                                                        |
 
 ### Defender Variant
 
@@ -102,6 +113,12 @@ These original general-purpose models are designed to keep the buyer/user depend
 
 </blockquote>
 
+| **BASIC POD**                                                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Expat:** I know the pre-Fall models had limited lifespans just as a precaution, to keep the AIs in line. That still the case?                                                                                                                                                             |
+| **Skinwalker:** Yes. Some of these basics are as bad as mass-market case morphs or low-grade rusters. Planned obsolescence is common. Buyer beware.                                                                                                                                         |
+| **Qi:** It’s worse than that. It’s common practice among inner-system pod manufacturers to equip their models with free chemical dependencies. They know pods are the next thing above a synthmorph for indentures looking to buy out, and they do everything they can to keep them hooked. |
+
 ## Chickcharnie
 
 ![Chickcharnie](PNG/chickcharnie.png)
@@ -127,6 +144,13 @@ The genehackers at the extrasolar Fortean hab modeled this morph on a terrifying
 - **Notes:** Beak/Claw Attack (DV 2d6)
 
 </blockquote>
+
+| **CHICKCHARNIE**                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** These are unfortunately hard to find.                                                                                                                                                                               |
+| **Sequencer:** That hasn’t gone unnoticed. I know a couple of Extropian bodycraft houses that plan to release their own models next year. One of them has an interesting variant called the “owlbear.” I’m not sure I want to know. |
+| **Just Mortal:** What I don’t get is, why does this appeal to neo-avians? Sure, it’s a bird, but you lose the wings.                                                                                                                |
+| **Nevermore:** Ever tried to tie a knot with your tongue? Yeah, sometimes a good pair of hands is worth the trade-off.                                                                                                              |
 
 ## Critter
 
@@ -197,6 +221,13 @@ Critter pods encompass a vast variety of morphs based on animal genetics, chimer
 
 </blockquote>
 
+| **CRITTER**                                                                                                                                                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** Critters are exceptionally popular. There are thousands of different models out there.                                                                                                                                               |
+| **Sequencer:** These are very hit-or-miss, craftsmanship-wise. Some have serious health issues due to ... let’s just call it improper genework. Others are held together more by cybernetics than anything. Don’t buy one as a long-term commitment. |
+| **Plasmid:** Ah, but some are works of chimerical art. I’m still impressed by the sequencing on some of the lizardmammal hybrids.                                                                                                                    |
+| **Dante:** I know an Extropian outfit that specializes in critters designed to emulate various smart animal breeds. Great for looking innocuous... unless you’re in a biocon hab.                                                                    |
+
 ## Digger
 
 ![Digger](PNG/digger.png)
@@ -221,6 +252,12 @@ Diggers are worker pods customized for archeological and construction work. They
 - **Common Extras:** Cold Tolerance, Enhanced Respiration, Enhanced Vision, Vacuum Sealing
 
 </blockquote>
+
+| **DIGGER**                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Skinwalker:** The giant hands are surprisingly dexterous, but forget wearing anything but smart gloves.                                                                             |
+| **Sequencer:** A number of diggers have polydactyl hands, meaning they have an extra thumb. Makes it easier to hold on to things.                                                     |
+| **Nova Vida:** If you’re actually using this morph for tunnel exploration/ excavation, get a model with the mole hemoglobin protein — it lets you survive in low oxygen environments. |
 
 ## Flying Squid
 
@@ -248,6 +285,12 @@ Capitalizing on the popularity of octomorphs, this stylized squid is designed fo
 
 </blockquote>
 
+| **FLYING SQUID**                                                                                                                                                                                                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** Quite an interesting ride, but useless in any non-aquatic environment with gravity.                                                                                                                                                                                                                |
+| **Pivo:** You hear about that situation on Atlantica? A certain neo-whale there ate a couple of folks sleeved in flying squid morphs. They claimed they couldn’t tell ‘em apart from their nonsapient squid feedstock. Word on the waves is that some sort of black market deal went sour.                      |
+| **Expat:** I know some reclaimers who came across a group of flying squid morphs while doing recon on Earth, looking for a deepv sea sanctuary. The squid scattered before they could make contact. Interesting thing is: these morphs were first designed after the Fall. So why are they showing up on Earth? |
+
 ## Hypergibbon
 
 ![Hypergibbon](PNG/hypergibbon.png)
@@ -273,6 +316,11 @@ Gibbons are not a candidate for uplift due to their primitive brain anatomy, but
 - **Notes:** Small size
 
 </blockquote>
+
+| **HYPERGIBBON**                                                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chiro:** I kind of want to fork some children and sleeve them in hypergibbons, but that’d probably be introducing a new x-risk.                                              |
+| **Skinwalker:** I keep a couple of hypergibbon sleeves around for my forks. They’re very handy for home projects — they can get into anything, and their energy is infectious. |
 
 ## Novacrab
 
@@ -300,6 +348,13 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 
 </blockquote>
 
+| **NOVACRAB**                                                                                         |
+| :--------------------------------------------------------------------------------------------------- |
+| **Expat:** These things squick me out when they eat.                                                 |
+| **Just Mortal:** The question everyone wants to know                                                 |
+| **is:** how do their legs taste?                                                                     |
+| **Sun Bu’er:** An exhuman I once spoke to told me they were “delicious, but not as good as splicer.” |
+
 ## Pleasure Pod
 
 ![Pleasure Pod](PNG/pleasure-pod.png)
@@ -324,6 +379,12 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 - **Common Extras:** Many have the Striking Looks or Addiction traits.
 
 </blockquote>
+
+| **PLEASURE POD**                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rivet:** The morph scoring highest in mesh graffiti mentions for ten years running.                                                                                                                                            |
+| **mAlice:** It’s a challenge keeping up with everevolving street slang for these morphs. Some of my favorite current contenders: tripod, fleshpod, bokkie, doll, Ken/Barbie, moffie, p-date, trick, AC/DC, squirter, and mı¯mı¯. |
+| **Nezumi:** Now that that is out of the way; these morphs aren’t just for sex workers. I know of one brinker community that raises their kids in pleasure pods so they can be raised with a more fluid gender identity.          |
 
 ## Ripwing
 
@@ -350,6 +411,13 @@ Developed by the genehackers of Fortean, ripwings are neogenetic avian chimeras,
 - **Notes:** Beak/Claw Attack (DV 2d6)
 
 </blockquote>
+
+| **RIPWIING**                                                                                                                                                                                                                                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nevermore:** I’ve seen more and more young neo-avian uplifts sleeving into ripwings. While the old biomorphs certainly feel better, the ripwing has a certain durability to it that lets you get away with more mistakes and a rougher approach to life. If I were four or five years younger, I’d probably get one myself. |
+| **Cymascopist:** Aren’t you only sixteen?                                                                                                                                                                                                                                                                                     |
+| **Nevermore:** I’m an old sixteen.                                                                                                                                                                                                                                                                                            |
+| **Nova Vida:** A lot of crashers like these too, they blend better than the synthetic kites and are smaller and more maneuverable than most of the bigger flying morphs. Native fauna don’t tend to react as violently to ripwings.                                                                                           |
 
 ## Samsa
 
@@ -378,6 +446,12 @@ The samsa is an intimidating, two-meter-tall, four-armed, four-legged, humanoid 
 
 </blockquote>
 
+| **SAMSA**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Just Mortal:** These things are just fucking disgusting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Callosum:** The synaptic programming in some samsa cyberbrain models is a bit rough, if you ask me. In particular, the extra limbs are not always designed to be operated independently; sometimes they mirror the primary limbs. This is allegedly a “feature” for users who aren’t acclimated to multilimb body plans, but it can be a real pain when you need to concentrate to move your appendages independently. Plus, it means a good brainhacker can trigger this mirroring behavior if they compromise your security. Not so good when you’re in the middle of a firefight. |
+| **Pivo:** I can’t speak for all neo-octopi, but you can definitely tell some of these models were designed for native two-arms, two-leg users. Like Callosum said, they really aren’t optimized to make the best use of those secondary arms.                                                                                                                                                                                                                                                                                                                                          |
+
 ## Security Pod
 
 ![Security Pod](PNG/security-pod.png)
@@ -402,6 +476,11 @@ Security pods were originally manufactured as mass-produced AI-operated soldiers
 - **Common Extras:** Adrenal Surge, T-Ray Emitter
 
 </blockquote>
+
+| **SECURITY POD**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Parallax:** Ah, the good old toy soldiers fielded by so many pre-Fall militaries and then exploited by the TITANs during the Fall. I guess you can’t really fault the old Earth governments too much, they seemed like a good deal. They were loyal, durable, looked near enough to human that people didn’t complain too much, followed orders, and even sometimes had actual human egos in them. They lost popularity, of course, after the TITANs took over legions of sec pods and used them to commit all sorts of atrocities, but they’re making a comeback. |
+| **Rivet:** Some people think these were always under direct TITAN control. Not true. It was common for them just to reprogram the ALIs. So be careful about any sec pods you find lingering in long-lost habs.                                                                                                                                                                                                                                                                                                                                                       |
 
 ### Space Marine Variant
 
@@ -451,6 +530,10 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 
 </blockquote>
 
+| **SHAPER**                                                                                                                                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ruqinzhe:** Some variants come with a gaitmasking feature is a nice touch, but it tightens and loosens muscles in ways that feel quite unnatural and takes some getting used to. |
+
 ## Traceur
 
 ![Traceur](PNG/traceur.png)
@@ -475,6 +558,11 @@ These athletic pods were first designed pre-Fall to incorporate androids into sp
 - **Common Extras:** Adrenal Surge, Grip Pads, Muscle Augmentation. Many have the Limberness trait.
 
 </blockquote>
+
+| **TRACEUR**                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lovelace:** The black-market sales pitches for the “athleticism” of these morphs are quite often hilarious.                                                                                                                             |
+| **Expat:** I sleeved one of these last time I went to the Belt; it was the only option on short notice. Turned out the morph looked uncannily like my mother. It really weirded me out. I couldn’t even look in the mirror after a while. |
 
 ## Vac Pod
 
@@ -502,6 +590,10 @@ Optimized for working in vacuum and micrograv environments, this pod is preferre
 
 </blockquote>
 
+| **VAC POD**                                                                                                                                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Expat:** More than many other pods, vac pod models tend to suffer from cookie-cutter looks. I’ve worked several ship construction jobs where it was extremely challenging to visually tell some of the pod-sleeved vacworkers apart. |
+
 ## Worker Pod
 
 ![Worker Pod](PNG/worker-pod.png)
@@ -525,5 +617,11 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 - **Ware:** Access Jacks, Biomods, Cortical Stack, Cyberbrain, Mesh Inserts, Mnemonics, Puppet Sock
 
 </blockquote>
+
+| **WORKER POD**                                                                                                                                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nezumi:** Despite being pods, these are often favored as cheap morphs over synths. They’re especially popular with criminal and radical groups whose members identify as working class. |
+| **Ammonite:** There’s a shadow war going on between two inner-system pod production                                                                                                       |
+| **houses:** Replicant and Ota Lifeworks. It’s grown from patent infringement to black ops and tailored viruses targeting each other’s products.                                           |
 
 </div>

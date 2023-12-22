@@ -263,6 +263,8 @@
     - [Character Creation Example](SUPP/02-CO/01/20-character-creation-example.md)
   - [Morph Overview](SUPP/02-CO/02/00-morph-overview.md)
     - [Morph Types](SUPP/02-CO/02/01-morph-types.md)
+    - [Morph List (by Morph Points)](SUPP/02-CO/02/02-morph-list-by-morph-points.md)
+    - [Morph List (Alphabetical)](SUPP/02-CO/02/03-morph-list-alphabetical.md)
   - [Morph Recognition Guide](SUPP/02-CO/03/00-morph-recognition-guide.md)
     - [Biomorphs](SUPP/02-CO/03/01-biomorphs.md)
     - [Uplift Biomorphs](SUPP/02-CO/03/02-uplift-biomorphs.md)
@@ -285,3 +287,4 @@
     - [Limited-Edition Morphs](SUPP/02-CO/04/11-limited-edition-morphs.md)
     - [Designing New Morphs](SUPP/02-CO/04/12-designing-new-morphs.md)
     - [Enhanced & Elite Morphs](SUPP/02-CO/04/13-enhanced-and-elite-morphs.md)
+    - [Sizes](SUPP/02-CO/04/14-sizes.md)
