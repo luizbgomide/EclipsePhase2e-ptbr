@@ -1,4 +1,4 @@
-# 1 Flex
+# Step 1: Flex
 
 <blockquote class="header-bg">
 

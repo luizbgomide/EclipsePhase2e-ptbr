@@ -1,4 +1,4 @@
-# 9 Career Path
+# Step 9: Career Path
 
 <div class="no-margin">
 <blockquote class="header-bg">

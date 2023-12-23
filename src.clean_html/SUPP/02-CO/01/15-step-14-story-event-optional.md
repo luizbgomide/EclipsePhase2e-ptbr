@@ -1,4 +1,4 @@
-# 14 Story Event (Optional)
+# Step 14: Story Event (Optional)
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

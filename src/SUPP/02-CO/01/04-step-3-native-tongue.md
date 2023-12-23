@@ -1,4 +1,4 @@
-# 3 Native Tongue
+# Step 3: Native Tongue
 
 <div class="no-margin">
 <blockquote class="header-bg">

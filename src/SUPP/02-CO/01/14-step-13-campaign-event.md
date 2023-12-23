@@ -1,4 +1,4 @@
-# 13 Campaign Event
+# Step 13: Campaign Event
 
 <div class="no-margin">
 <blockquote class="header-bg">

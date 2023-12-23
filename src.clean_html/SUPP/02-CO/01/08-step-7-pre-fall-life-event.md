@@ -1,4 +1,4 @@
-# 7 Pre-Fall Life Event
+# Step 7: Pre-Fall Life Event
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

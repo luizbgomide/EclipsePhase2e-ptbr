@@ -1,4 +1,4 @@
-# 11 Faction
+# Step 11: Faction
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

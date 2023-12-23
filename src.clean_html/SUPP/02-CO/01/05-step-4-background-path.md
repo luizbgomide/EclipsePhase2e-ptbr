@@ -1,4 +1,4 @@
-# 4 Background Path
+# Step 4: Background Path
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

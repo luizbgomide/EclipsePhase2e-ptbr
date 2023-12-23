@@ -1,4 +1,4 @@
-# 15 Final Stats and Details
+# Step 15: Final Stats and Details
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

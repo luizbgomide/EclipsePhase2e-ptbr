@@ -1,4 +1,4 @@
-# 11 Faction
+# Step 11: Faction
 
 <div class="no-margin">
 <blockquote class="header-bg">

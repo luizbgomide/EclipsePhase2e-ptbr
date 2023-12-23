@@ -1,4 +1,4 @@
-# 8 The Fall
+# Step 8: The Fall
 
 <div class="no-margin">
 <blockquote class="header-bg">

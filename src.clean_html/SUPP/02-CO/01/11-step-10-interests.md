@@ -1,4 +1,4 @@
-# 10 Interests
+# Step 10: Interests
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

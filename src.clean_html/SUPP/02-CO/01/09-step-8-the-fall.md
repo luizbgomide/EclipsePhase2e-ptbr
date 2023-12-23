@@ -1,4 +1,4 @@
-# 8 The Fall
+# Step 8: The Fall
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

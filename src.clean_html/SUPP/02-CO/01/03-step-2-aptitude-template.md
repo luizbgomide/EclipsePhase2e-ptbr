@@ -1,4 +1,4 @@
-# 2 Aptitude Template
+# Step 2: Aptitude Template
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->

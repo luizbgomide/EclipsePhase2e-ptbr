@@ -1,4 +1,4 @@
-# 6 Starting Age
+# Step 6: Starting Age
 
 <div class="no-margin">
 <blockquote class="header-bg">

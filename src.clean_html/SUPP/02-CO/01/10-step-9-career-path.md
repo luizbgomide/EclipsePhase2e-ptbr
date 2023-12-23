@@ -1,4 +1,4 @@
-# 9 Career Path
+# Step 9: Career Path
 
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->
