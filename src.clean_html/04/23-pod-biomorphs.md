@@ -2,8 +2,6 @@
 
 Pods (a colloquialism derived from “pod people”) were originally designed as biological androids. Their parts are vat-grown separately using accelerated-growth processes and assembled with a number of cybernetic system “short-cuts;” this entire process producing a functional body in a fraction of the time it takes to clone a standard biomorph. Cyberbrains replace their undeveloped gray matter. The first generations of pods were operated by ALIs and primarily used in service industries where a biological aesthetic was preferred to robots, in hazardous labor industries, and for sex work. They were visually distinguished from normal humans by stylized seamlined patterns in their skin, a designation that remains common today. In the wake of the Fall and the subsequent demand for more biomorphs, pods are now commonly sleeved by transhumans, especially indentures, but they still often suffer a classist stigma. Pods lack reproductive functions and are usually neuter. Non-human pods are increasingly common.
 
-<!-- CLEANED /blockquote -->
-
 ### Basic Pod
 
 These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.

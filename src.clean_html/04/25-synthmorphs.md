@@ -20,7 +20,7 @@ Synthmorphs can filter out their pain receptors so that they are unhampered by w
 
 ### Immunity to Shock
 
-Synthmorphs have no nervous system to disrupt, and their optical electronics are carefully shielded from interference. Shock attacks temporarily disrupt wireless radio communications, however, impeding all mesh actions until the end of the next action turn.
+Synthmorphs have no nervous system to disrupt, and their optical electronics are carefully shielded from interference. Shock attacks temporarily disrupt wireless radio communications, impeding all mesh actions until the end of the next action turn.
 
 ### Environmental Durability
 

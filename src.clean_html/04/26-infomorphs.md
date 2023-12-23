@@ -2,8 +2,6 @@
 
 Infomorphs are digital-only forms — they lack a physical body. They are software mind-states on which living egos are run, though they may be limited by the capabilities of the hardware that supports them. Rules for infomorphs can be found on [Infomorphs](../13/08-infomorphs.md).
 
-<!-- CLEANED /blockquote -->
-
 ### Digimorph
 
 Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available.
