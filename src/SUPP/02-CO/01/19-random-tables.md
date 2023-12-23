@@ -25,47 +25,47 @@
 
 <div class="tnw1">
 
-| d100  | Result            | MP Cost |
-| :---: | :---------------- | :-----: |
-| 00–01 | Alpiner           |    4    |
-|  02   | Aquanaut          |    3    |
-|  03   | Ariel             |    4    |
-| 04–08 | Bouncer           |    4    |
-| 09–10 | Bruiser           |    4    |
-|  11   | Cloud Skate       |    3    |
-| 12–13 | Crasher           |    8    |
-|  14   | Dvergr            |    5    |
-| 15–21 | Exalt             |    2    |
-|  22   | Faust             |    6    |
-| 23–26 | Flat              |    0    |
-|  27   | Freeman           |    1    |
-| 28–30 | Fury              |    6    |
-|  31   | Futura            |    4    |
-| 32–33 | Garuda            |    3    |
-| 34–36 | Ghost             |    6    |
-| 37–38 | Glider            |    3    |
-|  39   | Grey              |    2    |
-| 40–42 | Hazer             |    3    |
-| 43–45 | Hibernoid         |    4    |
-|  46   | Hulder            |    4    |
-| 47–49 | Hyperbright       |    4    |
-| 50–51 | Imp               |    5    |
-| 52–56 | Menton            |    4    |
-| 57–60 | Neotenic          |    2    |
-|  61   | Nishakara (Surya) |    6    |
-|  62   | Nomad             |    3    |
-| 63–65 | Observer          |    4    |
-| 66–71 | Olympian          |    4    |
-| 72–73 | Remade            |    7    |
-|  74   | Ring Flyer        |    5    |
-| 75–80 | Ruster            |    3    |
-|  81   | Salamander        |    4    |
-|  82   | Selkie            |    3    |
-| 83–89 | Splicer           |    1    |
-|  90   | Surya             |    9    |
-| 91–96 | Sylph             |    4    |
-| 97–98 | Theseus           |    7    |
-|  99   | Venusian Glider   |    3    |
+| d100  | Result                                                           | MP Cost |
+| :---: | :--------------------------------------------------------------- | :-----: |
+| 00–01 | [Alpiner](../03/01-biomorphs.md#alpiner)                         |    4    |
+|  02   | [Aquanaut](../03/01-biomorphs.md#aquanaut)                       |    3    |
+|  03   | [Ariel](../03/01-biomorphs.md#ariel)                             |    4    |
+| 04–08 | [Bouncer](../03/01-biomorphs.md#bouncer)                         |    4    |
+| 09–10 | [Bruiser](../03/01-biomorphs.md#bruiser)                         |    4    |
+|  11   | [Cloud Skate](../03/01-biomorphs.md#cloud-skate)                 |    3    |
+| 12–13 | [Crasher](../03/01-biomorphs.md#crasher)                         |    8    |
+|  14   | [Dvergr](../03/01-biomorphs.md#dvergr)                           |    5    |
+| 15–21 | [Exalt](../03/01-biomorphs.md#exalt)                             |    2    |
+|  22   | [Faust](../03/01-biomorphs.md#faust)                             |    6    |
+| 23–26 | [Flat](../03/01-biomorphs.md#flat)                               |    0    |
+|  27   | [Freeman](../03/01-biomorphs.md#freeman)                         |    1    |
+| 28–30 | [Fury](../03/01-biomorphs.md#fury)                               |    6    |
+|  31   | [Futura](../03/01-biomorphs.md#futura)                           |    4    |
+| 32–33 | [Garuda](../03/01-biomorphs.md#garuda)                           |    3    |
+| 34–36 | [Ghost](../03/01-biomorphs.md#ghost)                             |    6    |
+| 37–38 | [Glider](../03/01-biomorphs.md#glider)                           |    3    |
+|  39   | [Grey](../03/01-biomorphs.md#grey)                               |    2    |
+| 40–42 | [Hazer](../03/01-biomorphs.md#hazer)                             |    3    |
+| 43–45 | [Hibernoid](../03/01-biomorphs.md#hibernoid)                     |    4    |
+|  46   | [Hulder](../03/01-biomorphs.md#hulder)                           |    4    |
+| 47–49 | [Hyperbright](../03/01-biomorphs.md#hyperbright)                 |    4    |
+| 50–51 | [Imp](../03/01-biomorphs.md#imp)                                 |    5    |
+| 52–56 | [Menton](../03/01-biomorphs.md#menton)                           |    4    |
+| 57–60 | [Neotenic](../03/01-biomorphs.md#neotenic)                       |    2    |
+|  61   | [Nishakara (Surya)](../03/01-biomorphs.md#nishakara-variant)     |    6    |
+|  62   | [Nomad](../03/01-biomorphs.md#nomad)                             |    3    |
+| 63–65 | [Observer](../03/01-biomorphs.md#observer)                       |    4    |
+| 66–71 | [Olympian](../03/01-biomorphs.md#olympian)                       |    4    |
+| 72–73 | [Remade](../03/01-biomorphs.md#remade)                           |    7    |
+|  74   | [Ring Flyer](../03/01-biomorphs.md#ring-flyer)                   |    5    |
+| 75–80 | [Ruster](../03/01-biomorphs.md#ruster)                           |    3    |
+|  81   | [Salamander](../03/01-biomorphs.md#salamander)                   |    4    |
+|  82   | [Selkie](../03/01-biomorphs.md#selkie)                           |    3    |
+| 83–89 | [Splicer](../03/01-biomorphs.md#splicer)                         |    1    |
+|  90   | [Surya](../03/01-biomorphs.md#surya)                             |    9    |
+| 91–96 | [Sylph](../03/01-biomorphs.md#sylph)                             |    4    |
+| 97–98 | [Theseus](../03/01-biomorphs.md#theseus)                         |    7    |
+|  99   | [Venusian Glider](../03/01-biomorphs.md#venusian-glider-variant) |    3    |
 
 </div>
 </blockquote>
@@ -76,20 +76,20 @@
 
 <div class="tnw1">
 
-| d100  | Result           | MP Cost |
-| :---: | :--------------- | :-----: |
-| 00–19 | Neo-Avian        |    0    |
-| 20–22 | Neo-Beluga       |    3    |
-| 23–39 | Neo-Bonobo/Chimp |    1    |
-| 40–44 | Neo-Dolphin      |    2    |
-| 45–52 | Neo-Gorilla      |    3    |
-| 53–60 | Neo-Neanderthal  |    2    |
-| 61–72 | Neo-Octopus      |    3    |
-| 73–82 | Neo-Orangutan    |    3    |
-| 83–86 | Neo-Orca         |    4    |
-| 87–93 | Neo-Pig          |    1    |
-| 94–98 | Neo-Porpoise     |    1    |
-|  99   | Neo-Whale        |    5    |
+| d100  | Result                                                               | MP Cost |
+| :---: | :------------------------------------------------------------------- | :-----: |
+| 00–19 | [Neo-Avian](../03/02-uplift-biomorphs.md#neo-avian)                  |    0    |
+| 20–22 | [Neo-Beluga](../03/02-uplift-biomorphs.md#neo-beluga)                |    3    |
+| 23–39 | [Neo-Bonobo/Chimp](../03/02-uplift-biomorphs.md#neo-bonoboneo-chimp) |    1    |
+| 40–44 | [Neo-Dolphin](../03/02-uplift-biomorphs.md#neo-dolphin)              |    2    |
+| 45–52 | [Neo-Gorilla](../03/02-uplift-biomorphs.md#neo-gorilla)              |    3    |
+| 53–60 | [Neo-Neanderthal](../03/02-uplift-biomorphs.md#neo-neanderthal)      |    2    |
+| 61–72 | [Neo-Octopus](../03/02-uplift-biomorphs.md#neo-octopus)              |    3    |
+| 73–82 | [Neo-Orangutan](../03/02-uplift-biomorphs.md#neo-orangutan)          |    3    |
+| 83–86 | [Neo-Orca](../03/02-uplift-biomorphs.md#neo-orca)                    |    4    |
+| 87–93 | [Neo-Pig](../03/02-uplift-biomorphs.md#neo-pig)                      |    1    |
+| 94–98 | [Neo-Porpoise](../03/02-uplift-biomorphs.md#neo-porpoise)            |    1    |
+|  99   | [Neo-Whale](../03/02-uplift-biomorphs.md#neo-whale)                  |    5    |
 
 </div>
 </blockquote>
@@ -100,32 +100,32 @@
 
 <div class="tnw1">
 
-| d100  | Result                     | MP Cost |
-| :---: | :------------------------- | :-----: |
-| 00–07 | Augur                      |    3    |
-| 08–12 | Ayah                       |    3    |
-| 13–22 | Basic Pod                  |    1    |
-| 23–24 | Chickcharnie               |    2    |
-| 25–26 | Critter (Humanoid Beast)   |    3    |
-| 27–28 | Critter (Quadruped Hybrid) |    2    |
-| 29–30 | Critter (Small mammal)     |    2    |
-| 31–32 | Defender (Ayah)            |    6    |
-|  33   | Digger                     |    4    |
-|  34   | Flying Squid               |    5    |
-| 35–37 | Hypergibbon                |    2    |
-| 38–41 | Novacrab                   |    4    |
-| 42–53 | Pleasure Pod               |    4    |
-|  54   | Ripwing                    |    4    |
-| 55–56 | Samsa                      |    5    |
-|  57   | Scurrier                   |    2    |
-|  58   | Scurrier (Quadruped)       |    2    |
-| 59–66 | Security Pod               |    5    |
-| 67–70 | Shaper                     |    5    |
-| 71–74 | Space Marine (Sec Pod)     |    6    |
-| 75–82 | Traceur                    |    3    |
-| 83–88 | Vac Pod                    |    4    |
-|  89   | Whiplash                   |    2    |
-| 90–99 | Worker Pod                 |    3    |
+| d100  | Result                                                                                 | MP Cost |
+| :---: | :------------------------------------------------------------------------------------- | :-----: |
+| 00–07 | [Augur](../03/03-pod-biomorphs.md#augur)                                               |    3    |
+| 08–12 | [Ayah](../03/03-pod-biomorphs.md#ayah)                                                 |    3    |
+| 13–22 | [Basic Pod](../03/03-pod-biomorphs.md#basic-pod)                                       |    1    |
+| 23–24 | [Chickcharnie](../03/03-pod-biomorphs.md#chickcharnie)                                 |    2    |
+| 25–26 | [Critter (Humanoid Beast)](../03/03-pod-biomorphs.md#critter-humanoid-mammalian-beast) |    3    |
+| 27–28 | [Critter (Quadruped Hybrid)](../03/03-pod-biomorphs.md#critter-quadruped-hybrid)       |    2    |
+| 29–30 | [Critter (Small Mammal)](../03/03-pod-biomorphs.md#critter-small-mammal)               |    2    |
+| 31–32 | [Defender (Ayah)](../03/03-pod-biomorphs.md#defender-variant)                          |    6    |
+|  33   | [Digger](../03/03-pod-biomorphs.md#digger)                                             |    4    |
+|  34   | [Flying Squid](../03/03-pod-biomorphs.md#flying-squid)                                 |    5    |
+| 35–37 | [Hypergibbon](../03/03-pod-biomorphs.md#hypergibbon)                                   |    2    |
+| 38–41 | [Novacrab](../03/03-pod-biomorphs.md#novacrab)                                         |    4    |
+| 42–53 | [Pleasure Pod](../03/03-pod-biomorphs.md#pleasure-pod)                                 |    4    |
+|  54   | [Ripwing](../03/03-pod-biomorphs.md#ripwing)                                           |    4    |
+| 55–56 | [Samsa](../03/03-pod-biomorphs.md#samsa)                                               |    5    |
+|  57   | [Scurrier (Quadruped)](../03/04-exomorph-biomorphs.md#quadruped-variant)               |    2    |
+|  58   | [Scurrier](../03/04-exomorph-biomorphs.md#scurrier)                                    |    2    |
+| 59–66 | [Security Pod](../03/03-pod-biomorphs.md#security-pod)                                 |    5    |
+| 67–70 | [Shaper](../03/03-pod-biomorphs.md#shaper)                                             |    5    |
+| 71–74 | [Space Marine (Security Pod)](../03/03-pod-biomorphs.md#space-marine-variant)          |    6    |
+| 75–82 | [Traceur](../03/03-pod-biomorphs.md#traceur)                                           |    3    |
+| 83–88 | [Vac Pod](../03/03-pod-biomorphs.md#vac-pod)                                           |    4    |
+|  89   | [Whiplash](../03/04-exomorph-biomorphs.md#whiplash)                                    |    2    |
+| 90–99 | [Worker Pod](../03/03-pod-biomorphs.md#worker-pod)                                     |    3    |
 
 </div>
 </blockquote>
@@ -136,53 +136,53 @@
 
 <div class="tnw1">
 
-| d100  | Result                              | MP Cost |
-| :---: | :---------------------------------- | :-----: |
-| 00–02 | Arachnoid                           |    6    |
-|  03   | Arachnikoma (Arachnoid)             |    9    |
-|  04   | Biocore                             |    3    |
-| 05–06 | Blackbird (Ornithope)               |    5    |
-| 07–16 | Case                                |    0    |
-|  17   | Cetus                               |    6    |
-|  18   | Cloud Skimmer                       |    7    |
-|  19   | Courier                             |    7    |
-|  20   | Combat Mech (Daitya)                |   21    |
-| 21–22 | Daitya                              |   13    |
-| 23–26 | Dragonfly                           |    1    |
-|  27   | Fenrir                              |   20    |
-|  28   | Fierce Kite (Kite)                  |    4    |
-| 29–32 | Flexbot (roll on the Flexbot table) |
-| 33–36 | Galatea                             |    5    |
-| 37–39 | Gargoyle                            |    5    |
-| 40–41 | Golem (Galatea)                     |    6    |
-|  42   | Griefer                             |    0    |
-| 43–44 | Guard                               |    8    |
-| 45–46 | Kite                                |    2    |
-|  47   | Liquid Silver (Steel Morph)         |    7    |
-|  48   | Mimic                               |    4    |
-|  49   | Nautiloid                           |   25    |
-|  50   | Oobleck                             |    1    |
-|  51   | Opteryx                             |    4    |
-|  52   | Ornithope                           |    4    |
-|  53   | Prime (Guard)                       |   10    |
-|  54   | Q-Morph                             |   13    |
-| 55–56 | Raptor                              |    8    |
-|  57   | Reaper                              |   12    |
-| 58–59 | Rover                               |    5    |
-| 60–63 | Savant                              |    4    |
-| 64–65 | Skulker (Swarmanoid)                |    4    |
-| 66–69 | Slitheroid                          |    5    |
-| 70–71 | Smart Swarm                         |    5    |
-| 72–73 | Spare                               |    0    |
-| 74–75 | Sphere                              |    5    |
-| 76–79 | Steel Morph                         |    5    |
-|  80   | Sundiver                            |   10    |
-| 81–84 | Swarmanoid                          |    3    |
-| 85–94 | Synth                               |    3    |
-|  95   | Synthtaur                           |    6    |
-|  96   | Takko                               |    6    |
-|  97   | Ultra Kite (Kite)                   |    4    |
-| 98–99 | Xu Fu                               |    5    |
+| d100  | Result                                                                       | MP Cost |
+| :---: | :--------------------------------------------------------------------------- | :-----: |
+|  00   | [Arachnikoma (Arachnoid)](../03/05-synthmorphs.md#arachnikoma-variant)       |    9    |
+| 01-03 | [Arachnoid](../03/05-synthmorphs.md#arachnoid)                               |    6    |
+|  04   | [Biocore](../03/05-synthmorphs.md#biocore)                                   |    3    |
+| 05–06 | [Blackbird (Ornithope)](../03/05-synthmorphs.md#blackbird-variant)           |    5    |
+| 07–16 | [Case](../03/05-synthmorphs.md#case)                                         |    0    |
+|  17   | [Cetus](../03/05-synthmorphs.md#cetus)                                       |    6    |
+|  18   | [Cloud Skimmer](../03/05-synthmorphs.md#cloud-skimmer)                       |    7    |
+|  19   | [Combat Mech (Daitya)](../03/05-synthmorphs.md#combat-mech-variant)          |    7    |
+|  20   | [Courier](../03/05-synthmorphs.md#courier)                                   |   21    |
+| 21–22 | [Daitya](../03/05-synthmorphs.md#daitya)                                     |   13    |
+| 23–26 | [Dragonfly](../03/05-synthmorphs.md#dragonfly)                               |    1    |
+|  27   | [Fenrir](../03/05-synthmorphs.md#fenrir)                                     |   20    |
+|  28   | [Fierce Kite (Kite)](../03/05-synthmorphs.md#fierce-kite-variant)            |    4    |
+| 29–32 | Flexbot (roll on the Flexbot table)                                          |
+| 33–36 | [Galatea](../03/05-synthmorphs.md#galatea)                                   |    5    |
+| 37–39 | [Gargoyle](../03/05-synthmorphs.md#gargoyle)                                 |    5    |
+| 40–41 | [Golem (Galatea)](../03/05-synthmorphs.md#golem-variant)                     |    6    |
+|  42   | [Griefer](../03/05-synthmorphs.md#griefer)                                   |    0    |
+| 43–44 | [Guard](../03/05-synthmorphs.md#guard)                                       |    8    |
+| 45–46 | [Kite](../03/05-synthmorphs.md#kite)                                         |    2    |
+|  47   | [Liquid Silver (Steel Morph)](../03/05-synthmorphs.md#liquid-silver-variant) |    7    |
+|  48   | [Mimic](../03/05-synthmorphs.md#mimic)                                       |    4    |
+|  49   | [Nautiloid](../03/05-synthmorphs.md#nautiloid)                               |   25    |
+|  50   | [Oobleck](../03/05-synthmorphs.md#oobleck)                                   |    1    |
+|  51   | [Opteryx](../03/05-synthmorphs.md#opteryx)                                   |    4    |
+|  52   | [Ornithope](../03/05-synthmorphs.md#ornithope)                               |    4    |
+|  53   | [Prime (Guard)](../03/05-synthmorphs.md#prime-variant)                       |   10    |
+|  54   | [Q-Morph](../03/05-synthmorphs.md#q-morph)                                   |   13    |
+| 55–56 | [Raptor](../03/05-synthmorphs.md#raptor)                                     |    8    |
+|  57   | [Reaper](../03/05-synthmorphs.md#reaper)                                     |   12    |
+| 58–59 | [Rover](../03/05-synthmorphs.md#rover)                                       |    5    |
+| 60–63 | [Savant](../03/05-synthmorphs.md#savant)                                     |    4    |
+| 64–65 | [Skulker (Swarmanoid)](../03/05-synthmorphs.md#skulker-variant)              |    4    |
+| 66–69 | [Slitheroid](../03/05-synthmorphs.md#slitheroid)                             |    5    |
+| 70–71 | [Smart Swarm](../03/05-synthmorphs.md#smart-swarm)                           |    5    |
+| 72–73 | [Spare](../03/05-synthmorphs.md#spare)                                       |    0    |
+| 74–75 | [Sphere](../03/05-synthmorphs.md#sphere)                                     |    5    |
+| 76–79 | [Steel Morph](../03/05-synthmorphs.md#steel-morph)                           |    5    |
+|  80   | [Sundiver](../03/05-synthmorphs.md#sundiver)                                 |   10    |
+| 81–84 | [Swarmanoid](../03/05-synthmorphs.md#swarmanoid)                             |    3    |
+| 85–94 | [Synth](../03/05-synthmorphs.md#synth)                                       |    3    |
+|  95   | [Synthtaur](../03/05-synthmorphs.md#synthtaur)                               |    6    |
+|  96   | [Takko](../03/05-synthmorphs.md#takko)                                       |    6    |
+|  97   | [Ultra Kite (Kite)](../03/05-synthmorphs.md#ultra-kite-variant)              |    4    |
+| 98–99 | [Xu Fu](../03/05-synthmorphs.md#xu-fu)                                       |    5    |
 
 </div>
 </blockquote>
@@ -193,17 +193,17 @@
 
 <div class="tnw1">
 
-| d100  | Module   | MP Cost |
-| :---: | :------- | :-----: |
-| 00–07 | Apiary   |    3    |
-| 08–15 | Aviary   |    2    |
-| 16–23 | Bard     |    3    |
-| 24–31 | Cleric   |    2    |
-| 32–39 | Conjurer |    1    |
-| 40–54 | Crafter  |    2    |
-| 55–69 | Fighter  |    3    |
-| 70–84 | Rogue    |    2    |
-| 85–99 | Wizard   |    2    |
+| d100  | Module                                              | MP Cost |
+| :---: | :-------------------------------------------------- | :-----: |
+| 00–07 | [Apiary](../03/05-synthmorphs.md#apiary-module)     |    3    |
+| 08–15 | [Aviary](../03/05-synthmorphs.md#aviary-module)     |    2    |
+| 16–23 | [Bard](../03/05-synthmorphs.md#bard-module)         |    3    |
+| 24–31 | [Cleric](../03/05-synthmorphs.md#cleric-module)     |    2    |
+| 32–39 | [Conjurer](../03/05-synthmorphs.md#conjurer-module) |    1    |
+| 40–54 | [Crafter](../03/05-synthmorphs.md#crafter-module)   |    2    |
+| 55–69 | [Fighter](../03/05-synthmorphs.md#fighter-module)   |    3    |
+| 70–84 | [Rogue](../03/05-synthmorphs.md#rogue-module)       |    2    |
+| 85–99 | [Wizard](../03/05-synthmorphs.md#wizard-module)     |    2    |
 
 </div>
 </blockquote>
@@ -214,20 +214,20 @@
 
 <div class="tnw1">
 
-| d100  | Result    | MP Cost |
-| :---: | :-------- | :-----: |
-| 00–10 | Agent     |    2    |
-| 11–30 | Digimorph |    0    |
-| 31–34 | Djinn     |    5    |
-| 35–38 | Echo      |    5    |
-| 39–49 | Ikon      |    1    |
-| 50–66 | Neo       |    2    |
-| 67–77 | Operator  |    2    |
-|  78   | Overmind  |   20    |
-| 79–91 | Sage      |    1    |
-|  92   | Sexton    |   15    |
-| 93–98 | Spectre   |    6    |
-|  99   | Warden    |    7    |
+| d100  | Result                                        | MP Cost |
+| :---: | :-------------------------------------------- | :-----: |
+| 00–10 | [Agent](../03/06-infomorphs.md#agent)         |    2    |
+| 11–30 | [Digimorph](../03/06-infomorphs.md#digimorph) |    0    |
+| 31–34 | [Djinn](../03/06-infomorphs.md#djinn)         |    5    |
+| 35–38 | [Echo](../03/06-infomorphs.md#echo)           |    5    |
+| 39–49 | [Ikon](../03/06-infomorphs.md#ikon)           |    1    |
+| 50–66 | [Neo](../03/06-infomorphs.md#neo)             |    2    |
+| 67–77 | [Operator](../03/06-infomorphs.md#operator)   |    2    |
+|  78   | [Overmind](../03/07-core-morphs.md#overmind)  |   20    |
+| 79–91 | [Sage](../03/06-infomorphs.md#sage)           |    1    |
+|  92   | [Sexton](../03/07-core-morphs.md#sexton)      |   15    |
+| 93–98 | [Spectre](../03/06-infomorphs.md#spectre)     |    6    |
+|  99   | [Warden](../03/07-core-morphs.md#warden)      |    7    |
 
 </div>
 </blockquote>
@@ -238,27 +238,27 @@
 
 <div class="tnw1">
 
-| d100  | Axle Morph     | MP Cost | Page    |
-| :---: | :------------- | :-----: | ------- |
-| 00–05 | Automech       |    3    | 349 EP2 |
-| 06–09 | Barracuda      |    3    | 349 EP2 |
-| 10–14 | Cycle          |    2    | 351 EP2 |
-| 15–20 | Docbot         |    5    | 347 EP2 |
-| 21–26 | Explorenaut    |    6    | 346 EP2 |
-| 27–31 | Gnat           |    0    | 349 EP2 |
-| 32–37 | Guardian Angel |    3    | 346 EP2 |
-| 38–42 | Manipulator    |    0    | 348 EP2 |
-| 43–48 | Microcar       |    4    | 350 EP2 |
-| 49–53 | Portable Plane |    1    | 350 EP2 |
-| 54–58 | Robomule       |    2    | 349 EP2 |
-| 59–63 | Saucer         |    0    | 349 EP2 |
-| 64–69 | Servitor       |    0    | 348 EP2 |
-| 70–73 | Shield Drone   |    0    | 346 EP2 |
-| 74–79 | Spider Hand    |    0    | 348 EP2 |
-| 80–84 | Squishbot      |    0    | 346 EP2 |
-| 85–89 | Transporter    |    1    | 351 EP2 |
-| 90–94 | Trike          |    1    | 351 EP2 |
-| 95–99 | Zephyr         |    3    | 349 EP2 |
+| d100  | Axle Morph                                                | MP Cost |
+| :---: | :-------------------------------------------------------- | :-----: |
+| 00–05 | [Automech](../../../16/21-robots.md#utility-bots)         |    3    |
+| 06–09 | [Barracuda](../../../16/21-robots.md#utility-bots)        |    3    |
+| 10–14 | [Cycle](../../../16/22-vehicles.md#groundcraft)           |    2    |
+| 15–20 | [Docbot](../../../16/21-robots.md#medical-bots)           |    5    |
+| 21–26 | [Explorenaut](../../../16/21-robots.md#exploration-bots)  |    6    |
+| 27–31 | [Gnat](../../../16/21-robots.md#reconsurveillance-bots)   |    0    |
+| 32–37 | [Guardian Angel](../../../16/21-robots.md#combat-bots)    |    3    |
+| 38–42 | [Manipulator](../../../16/21-robots.md#personal-bots)     |    0    |
+| 43–48 | [Microcar](../../../16/22-vehicles.md#groundcraft)        |    4    |
+| 49–53 | [Portable Plane](../../../16/22-vehicles.md#aircraft)     |    1    |
+| 54–58 | [Robomule](../../../16/21-robots.md#utility-bots)         |    2    |
+| 59–63 | [Saucer](../../../16/21-robots.md#reconsurveillance-bots) |    0    |
+| 64–69 | [Servitor](../../../16/21-robots.md#personal-bots)        |    0    |
+| 70–73 | [Shield Drone](../../../16/21-robots.md#combat-bots)      |    0    |
+| 74–79 | [Spider Hand](../../../16/21-robots.md#personal-bots)     |    0    |
+| 80–84 | [Squishbot](../../../16/21-robots.md#exploration-bots)    |    0    |
+| 85–89 | [Transporter](../../../16/22-vehicles.md#exoskeletons)    |    1    |
+| 90–94 | [Trike](../../../16/22-vehicles.md#exoskeletons)          |    1    |
+| 95–99 | [Zephyr](../../../16/21-robots.md#reconsurveillance-bots) |    3    |
 
 </div>
 </blockquote>
@@ -285,29 +285,29 @@
 
 <div class="tnw1">
 
-| d100  | Sleight              |
-| :---: | :------------------- |
-| 00–04 | Charisma             |
-| 05–09 | Control Behavior     |
-| 10–14 | Eco-Empathy          |
-| 15–19 | Enhanced Creativity  |
-| 20–24 | Enhanced Memory      |
-| 25–29 | Grok                 |
-| 30–34 | Heightened Awareness |
-| 35–39 | High Pain Threshold  |
-| 40–44 | Inner Spark          |
-| 45–49 | Pattern Recognition  |
-| 50–54 | Predictive Boost     |
-| 55–59 | Psi Armor            |
-| 60–64 | Qualia               |
-| 65–69 | Savant Calculation   |
-| 70–74 | Scramble             |
-| 75–79 | Self Control         |
-| 80–84 | Social Cunning       |
-| 85–89 | Somatic Control      |
-| 90–94 | Superior Kinesics    |
-| 95–99 | Xeno-Empathy         |
-
+| d100  | Sleight                                                                              |
+| :---: | :----------------------------------------------------------------------------------- |
+| 00–04 | [Charisma](../../../14/06-psi-sleight-summaries.md#charisma)                         |
+| 05–09 | [Control Behavior](../../../14/06-psi-sleight-summaries.md#control-behavior)         |
+| 10–14 | [Eco-Empathy](../../../14/06-psi-sleight-summaries.md#eco-empathy)                   |
+| 15–19 | [Enhanced Creativity](../../../14/06-psi-sleight-summaries.md#enhanced-creativity)   |
+| 20–24 | [Enhanced Memory](../../../14/06-psi-sleight-summaries.md#enhanced-memory)           |
+| 25–29 | [Grok](../../../14/06-psi-sleight-summaries.md#grok)                                 |
+| 30–34 | [Heightened Awareness](../../../14/06-psi-sleight-summaries.md#heightened-awareness) |
+| 35–39 | [High Pain Threshold](../../../14/06-psi-sleight-summaries.md#high-pain-threshold)   |
+| 40–44 | [Inner Spark](../../../14/06-psi-sleight-summaries.md#inner-spark)                   |
+| 45–49 | [Pattern Recognition](../../../14/06-psi-sleight-summaries.md#pattern-recognition)   |
+| 50–54 | [Predictive Boost](../../../14/06-psi-sleight-summaries.md#predictive-boost)         |
+| 55–59 | [Psi Armor](../../../14/06-psi-sleight-summaries.md#psi-armor)                       |
+| 60–64 | [Qualia](../../../14/06-psi-sleight-summaries.md#qualia)                             |
+| 65–69 | [Savant Calculation](../../../14/06-psi-sleight-summaries.md#savant-calculation)     |
+| 70–74 | [Scramble](../../../14/06-psi-sleight-summaries.md#scramble)                         |
+| 75–79 | [Self Control](../../../14/06-psi-sleight-summaries.md#self-control)                 |
+| 80–84 | [Social Cunning](../../../14/06-psi-sleight-summaries.md#social-cunning)             |
+| 85–89 | [Somatic Control](../../../14/06-psi-sleight-summaries.md#somatic-control)           |
+| 90–94 | [Superior Kinesics](../../../14/06-psi-sleight-summaries.md#superior-kinesics)       |
+| 95–99 | [Xeno-Empathy](../../../14/06-psi-sleight-summaries.md#xeno-empathy) [               |
+](../../../14/06-psi-sleight-summaries.md#)
 </div>
 </blockquote>
 
@@ -317,45 +317,45 @@
 
 <div class="tnw1">
 
-| d100  | Sleight             |
-| :---: | :------------------ |
-| 00–01 | Alter Effect        |
-| 02–04 | Animal Control      |
-| 05–06 | Aphasia             |
-| 07–09 | Basilisk Stare      |
-| 10–12 | Block Pain          |
-| 13–15 | Block Sense         |
-| 16–18 | Block Skill         |
-| 19–20 | Browse Thoughts     |
-| 21–23 | Burst of Adrenaline |
-| 24–26 | Burst of Clarity    |
-| 27–29 | Burst of Confidence |
-| 30–31 | Cloud Memory        |
-| 32–34 | Deep Scan           |
-| 35–36 | Déjà Vu             |
-| 37–39 | Downtime            |
-| 40–42 | Ego Sense           |
-| 43–45 | Empathic Scan       |
-| 46–48 | Illusion            |
-| 49–51 | Implant Memory      |
-| 52–53 | Implant Skill       |
-| 54–55 | Induce Error        |
-| 56–57 | Infectious Mind     |
-| 58–60 | Influence           |
-| 61–63 | Invigorate          |
-| 64–65 | Mimic               |
-| 66–68 | Mindlink            |
-| 69–70 | Neural Hardening    |
-| 71–73 | Nightmare           |
-| 74–76 | Pain                |
-| 77–79 | Psi Shield          |
-| 80–82 | Psychic Stab        |
-| 83–85 | Sense Infection     |
-| 86–88 | Short Circuit       |
-| 89–91 | Spam                |
-| 92–93 | Static              |
-| 94–96 | Subliminal          |
-| 97–99 | Tranquility         |
+| d100  | Sleight                                                                            |
+| :---: | :--------------------------------------------------------------------------------- |
+| 00–01 | [Alter Effect](../../../14/06-psi-sleight-summaries.md#alter-effect)               |
+| 02–04 | [Animal Control](../../../14/06-psi-sleight-summaries.md#animal-control)           |
+| 05–06 | [Aphasia](../../../14/06-psi-sleight-summaries.md#aphasia)                         |
+| 07–09 | [Basilisk Stare](../../../14/06-psi-sleight-summaries.md#basilisk-stare)           |
+| 10–12 | [Block Pain](../../../14/06-psi-sleight-summaries.md#block-pain)                   |
+| 13–15 | [Block Sense](../../../14/06-psi-sleight-summaries.md#block-sense)                 |
+| 16–18 | [Block Skill](../../../14/06-psi-sleight-summaries.md#block-skill)                 |
+| 19–20 | [Browse Thoughts](../../../14/06-psi-sleight-summaries.md#browse-thoughts)         |
+| 21–23 | [Burst of Adrenaline](../../../14/06-psi-sleight-summaries.md#burst-of-adrenaline) |
+| 24–26 | [Burst of Clarity](../../../14/06-psi-sleight-summaries.md#burst-of-clarity)       |
+| 27–29 | [Burst of Confidence](../../../14/06-psi-sleight-summaries.md#burst-of-confidence) |
+| 30–31 | [Cloud Memory](../../../14/06-psi-sleight-summaries.md#cloud-memory)               |
+| 32–34 | [Deep Scan](../../../14/06-psi-sleight-summaries.md#deep-scan)                     |
+| 35–36 | [Déjà Vu](../../../14/06-psi-sleight-summaries.md#deja-vu)                         |
+| 37–39 | [Downtime](../../../14/06-psi-sleight-summaries.md#downtime)                       |
+| 40–42 | [Ego Sense](../../../14/06-psi-sleight-summaries.md#ego-sense)                     |
+| 43–45 | [Empathic Scan](../../../14/06-psi-sleight-summaries.md#empathic-scan)             |
+| 46–48 | [Illusion](../../../14/06-psi-sleight-summaries.md#illusion)                       |
+| 49–51 | [Implant Memory](../../../14/06-psi-sleight-summaries.md#implant-memory)           |
+| 52–53 | [Implant Skill](../../../14/06-psi-sleight-summaries.md#implant-skill)             |
+| 54–55 | [Induce Error](../../../14/06-psi-sleight-summaries.md#induce-error)               |
+| 56–57 | [Infectious Mind](../../../14/06-psi-sleight-summaries.md#infectious-mind)         |
+| 58–60 | [Influence](../../../14/06-psi-sleight-summaries.md#influence)                     |
+| 61–63 | [Invigorate](../../../14/06-psi-sleight-summaries.md#invigorate)                   |
+| 64–65 | [Mimic](../../../14/06-psi-sleight-summaries.md#mimic)                             |
+| 66–68 | [Mindlink](../../../14/06-psi-sleight-summaries.md#mindlink)                       |
+| 69–70 | [Neural Hardening](../../../14/06-psi-sleight-summaries.md#neural-hardening)       |
+| 71–73 | [Nightmare](../../../14/06-psi-sleight-summaries.md#nightmare)                     |
+| 74–76 | [Pain](../../../14/06-psi-sleight-summaries.md#pain)                               |
+| 77–79 | [Psi Shield](../../../14/06-psi-sleight-summaries.md#psi-shield)                   |
+| 80–82 | [Psychic Stab](../../../14/06-psi-sleight-summaries.md#psychic-stab)               |
+| 83–85 | [Sense Infection](../../../14/06-psi-sleight-summaries.md#sense-infection)         |
+| 86–88 | [Short Circuit](../../../14/06-psi-sleight-summaries.md#short-circuit)             |
+| 89–91 | [Spam](../../../14/06-psi-sleight-summaries.md#spam)                               |
+| 92–93 | [Static](../../../14/06-psi-sleight-summaries.md#static)                           |
+| 94–96 | [Subliminal](../../../14/06-psi-sleight-summaries.md#subliminal)                   |
+| 97–99 | [Tranquility](../../../14/06-psi-sleight-summaries.md#tranquility)                 |
 
 </div>
 </blockquote>
@@ -366,13 +366,13 @@
 
 <div class="tnw1">
 
-| d100  | Sub-Strain    |
-| :---: | :------------ |
-| 00–19 | The Architect |
-| 20–39 | The Beast     |
-| 40–59 | The Haunter   |
-| 60–79 | The Stranger  |
-| 80–99 | The Xenomorph |
+| d100  | Sub-Strain                                                                 |
+| :---: | :------------------------------------------------------------------------- |
+| 00–19 | [The Architect](../../../14/02-watts-macleod-sub-strains.md#the-architect) |
+| 20–39 | [The Beast](../../../14/02-watts-macleod-sub-strains.md#the-beast)         |
+| 40–59 | [The Haunter](../../../14/02-watts-macleod-sub-strains.md#the-haunter)     |
+| 60–79 | [The Stranger](../../../14/02-watts-macleod-sub-strains.md#the-stranger)   |
+| 80–99 | [The Xenomorph](../../../14/02-watts-macleod-sub-strains.md#the-xenomorph) |
 
 </div>
 
@@ -386,28 +386,28 @@
 
 <div class="tnw1">
 
-| d100  | Result                                   | Page     |
-| :---: | :--------------------------------------- | -------- |
-| 00–03 | Alien Behavior Disorder                  | 224, EP2 |
-| 04–08 | Anxiety                                  | 224, EP2 |
-| 09–12 | Atavism                                  | 224, EP2 |
-| 13–18 | Attention Deficit Hyperactivity Disorder | 224, EP2 |
-| 19–22 | Autophagy                                | 224, EP2 |
-| 23–27 | Bipolar Disorder                         | 224, EP2 |
-| 28–33 | Body Dysmorphia                          | 224, EP2 |
-| 34–38 | Cosmic Anxiety Disorder                  | 224, EP2 |
-| 39–42 | Conversion Disorder                      | 224, EP2 |
-| 43–48 | Depression                               | 225, EP2 |
-| 49–52 | Disassociative Personality Disorder      | 225, EP2 |
-| 53–57 | Fugue                                    | 225, EP2 |
-| 58–63 | Impulse Control Disorder                 | 225, EP2 |
-| 64–69 | Insomnia                                 | 225, EP2 |
-| 70–73 | Narcissistic Personality Disorder        | 225, EP2 |
-| 74–78 | Paramnesia                               | 225, EP2 |
-| 79–83 | Paranoia                                 | 225, EP2 |
-| 84–88 | Phobia                                   | 225, EP2 |
-| 89–95 | Post-Traumatic Stress Disorder           | 225, EP2 |
-| 96–99 | Reiterative Schizophrenia                | 225, EP2 |
+| d100  | Result                                                                                                                |
+| :---: | :-------------------------------------------------------------------------------------------------------------------- |
+| 00–03 | [Alien Behavior Disorder](../../../12/20-disorders.md#alien-behavior-disorder)                                        |
+| 04–08 | [Anxiety](../../../12/20-disorders.md#anxiety)                                                                        |
+| 09–12 | [Atavism](../../../12/20-disorders.md#atavism)                                                                        |
+| 13–18 | [Attention Deficit Hyperactivity Disorder](../../../12/20-disorders.md#attention-deficit-hyperactivity-disorder-adhd) |
+| 19–22 | [Autophagy](../../../12/20-disorders.md#autophagy)                                                                    |
+| 23–27 | [Bipolar Disorder](../../../12/20-disorders.md#bipolar-disorder)                                                      |
+| 28–33 | [Body Dysmorphia](../../../12/20-disorders.md#body-dysmorphia)                                                        |
+| 34–37 | [Conversion Disorder](../../../12/20-disorders.md#conversion-disorder)                                                |
+| 38–42 | [Cosmic Anxiety Disorder](../../../12/20-disorders.md#cosmic-anxiety-disorder)                                        |
+| 43–48 | [Depression](../../../12/20-disorders.md#depression)                                                                  |
+| 49–52 | [Disassociative Personality Disorder](../../../12/20-disorders.md#disassociative-personality-disorder)                |
+| 53–57 | [Fugue](../../../12/20-disorders.md#fugue)                                                                            |
+| 58–63 | [Impulse Control Disorder](../../../12/20-disorders.md#impulse-control-disorder)                                      |
+| 64–69 | [Insomnia](../../../12/20-disorders.md#insomnia)                                                                      |
+| 70–73 | [Narcissistic Personality Disorder](../../../12/20-disorders.md#narcissistic-personality-disorder)                    |
+| 74–78 | [Paramnesia](../../../12/20-disorders.md#paramnesia)                                                                  |
+| 79–83 | [Paranoia](../../../12/20-disorders.md#paranoia)                                                                      |
+| 84–88 | [Phobia](../../../12/20-disorders.md#phobia)                                                                          |
+| 89–95 | [Post-Traumatic Stress Disorder](../../../12/20-disorders.md#post-traumatic-stress-disorder-ptsd)                     |
+| 96–99 | [Reiterative Schizophrenia](../../../12/20-disorders.md#reiterative-schizophrenia)                                    |
 
 </div>
 

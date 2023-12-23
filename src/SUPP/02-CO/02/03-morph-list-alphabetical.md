@@ -29,7 +29,7 @@
 | [Combat Mech (Daitya)](../03/05-synthmorphs.md#combat-mech-variant)                    |     Synthmorph     |  21   |
 | [Conjurer (Flexbot Module)](../03/05-synthmorphs.md#conjurer-module)                   | Flexbot Synthmorph |   1   |
 | [Courier](../03/05-synthmorphs.md#courier)                                             |     Synthmorph     |   7   |
-| [Crafter (Flexbot Module)](../03/05-synthmorphs.md#crafter-module)                     | Flexbot Synthmorph |   8   |
+| [Crafter (Flexbot Module)](../03/05-synthmorphs.md#crafter-module)                     | Flexbot Synthmorph |   2   |
 | [Crasher](../03/01-biomorphs.md#crasher)                                               |      Biomorph      |   8   |
 | [Critter (Humanoid Beast)](../03/03-pod-biomorphs.md#critter-humanoid-mammalian-beast) |    Pod Biomorph    |   3   |
 | [Critter (Quadruped Hybrid)](../03/03-pod-biomorphs.md#critter-quadruped-hybrid)       |    Pod Biomorph    |   2   |

@@ -23,7 +23,7 @@
 | [Aviary (Flexbot Module)](../03/05-synthmorphs.md#aviary-module)                       | Flexbot Synthmorph |   2   |
 | [Chickcharnie](../03/03-pod-biomorphs.md#chickcharnie)                                 |    Pod Biomorph    |   2   |
 | [Cleric (Flexbot Module)](../03/05-synthmorphs.md#cleric-module)                       | Flexbot Synthmorph |   2   |
-| [Crafter (Flexbot Module)](../03/05-synthmorphs.md#crafter-module)                     | Flexbot Synthmorph |   8   |
+| [Crafter (Flexbot Module)](../03/05-synthmorphs.md#crafter-module)                     | Flexbot Synthmorph |   2   |
 | [Critter (Quadruped Hybrid)](../03/03-pod-biomorphs.md#critter-quadruped-hybrid)       |    Pod Biomorph    |   2   |
 | [Critter (Small Mammal)](../03/03-pod-biomorphs.md#critter-small-mammal)               |    Pod Biomorph    |   2   |
 | [Exalt](../03/01-biomorphs.md#exalt)                                                   |      Biomorph      |   2   |
