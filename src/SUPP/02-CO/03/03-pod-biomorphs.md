@@ -4,7 +4,7 @@
 
 ## Augur
 
-![Augur](PNG/augur.png)
+![Augur](./PNG/augur.png)
 
 Augurs were designed to incorporate biological androids into teaching, instruction, lab work, and administrative positions. They are now offered as cheaper alternatives to mentons.
 
@@ -33,7 +33,7 @@ Augurs were designed to incorporate biological androids into teaching, instructi
 
 ## Ayah
 
-![Ayah](PNG/ayah.png)
+![Ayah](./PNG/ayah.png)
 
 Ayahs are designed for nurse, caretaking, and personal attendant functions. Hyperelites prefer AGI servants sleeved into ayahs, especially in polities where AGIs have few, if any, legal rights. Ayahs are predominately female. Enhanced olfactory capabilities are used to monitor the health and emotional state of their wards, as well as alert them to potential environmental dangers. Their ability to withstand temperature extremes and survive without air for short periods helps them protect and rescue their charges in an emergency, such as a hull breach or a fire.
 
@@ -90,7 +90,7 @@ Ayahs are sometimes modified with protective ware and weapons to act as a last l
 
 ## Basic Pod
 
-![Basic Pod](PNG/basic-pod.png)
+![Basic Pod](./PNG/basic-pod.png)
 
 These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.
 
@@ -121,7 +121,7 @@ These original general-purpose models are designed to keep the buyer/user depend
 
 ## Chickcharnie
 
-![Chickcharnie](PNG/chickcharnie.png)
+![Chickcharnie](./PNG/chickcharnie.png)
 
 The genehackers at the extrasolar Fortean hab modeled this morph on a terrifying mythological bird using genetics from the extinct Tyto Pollens, a large pre-Columbian flightless ground owl. The chickcharnie is popular with neo-avians who prefer a more humanoid stature, though it is flightless except in very low grav environments and microgravity. Its wing design incorporates a functional set of clawed hands.
 
@@ -154,7 +154,7 @@ The genehackers at the extrasolar Fortean hab modeled this morph on a terrifying
 
 ## Critter
 
-![Critter](PNG/critter.png)
+![Critter](./PNG/critter.png)
 
 Critter pods encompass a vast variety of morphs based on animal genetics, chimeric blends, or humanoids biosculpted to an animalistic form. Originally marketed as distinctive AI-operated pets, they’ve since become a popular and widespread choice of sleeve. Critters come in every conceivable species and hybrid, from cats to snakes to lizardhyena hybrids. They are available as quadrupeds, bipeds, and other body plans. The bastet, a composite of wild cat species that resembles a tawny panther or lion, often with intricate fur patterns based on Egyptian hieroglyphs, is currently popular in the inner system.
 
@@ -230,7 +230,7 @@ Critter pods encompass a vast variety of morphs based on animal genetics, chimer
 
 ## Digger
 
-![Digger](PNG/digger.png)
+![Digger](./PNG/digger.png)
 
 Diggers are worker pods customized for archeological and construction work. They are used for surface surveys, excavation, and general physical labor by xenoarcheological and colony infrastructure teams. Their hands are modified digging claws, adapted from the genetics of hole-digging creatures like moles and aardvarks, though still flexible and useful for grasping and fine manipulation.
 
@@ -261,7 +261,7 @@ Diggers are worker pods customized for archeological and construction work. They
 
 ## Flying Squid
 
-![Flying Squid](PNG/flying-squid.png)
+![Flying Squid](./PNG/flying-squid.png)
 
 Capitalizing on the popularity of octomorphs, this stylized squid is designed for speed in both aquatic and microgravity environments. It can suck either water or air into a cavity in its mantle and then expel it out a siphon for fast, jet-like propulsion.
 
@@ -293,7 +293,7 @@ Capitalizing on the popularity of octomorphs, this stylized squid is designed fo
 
 ## Hypergibbon
 
-![Hypergibbon](PNG/hypergibbon.png)
+![Hypergibbon](./PNG/hypergibbon.png)
 
 Gibbons are not a candidate for uplift due to their primitive brain anatomy, but they make excellent pods with the addition of a cyberbrain. Many primate uplifts choose hypergibbons when they need something small like a neotenic. Built from siamang genestock, the largest of the lesser apes, hypergibbons stand about 1 meter tall, weigh 15 kilograms, and typically have black fur and skin (although bodysculpting permits many variations). They have inflatable throat sacks that allow melodious calls that carry great distances. Their wrists feature a ball-and-socket joint and also naturally dislocate to enable easier swinging by the arms.
 
@@ -324,7 +324,7 @@ Gibbons are not a candidate for uplift due to their primitive brain anatomy, but
 
 ## Novacrab
 
-![Novacrab](PNG/novacrab.png)
+![Novacrab](./PNG/novacrab.png)
 
 Bioengineered from coconut crab and spider crab stock and grown to a larger (human) size, novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties. They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea. They are equipped with ten 2-meter long legs, massive claws, chitinous armor, compound eyes (with human-equivalent image resolution), gills, dexterous manipulatory digits on their fifth set of limbs, and transgenic vocal cords.
 
@@ -357,7 +357,7 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 
 ## Pleasure Pod
 
-![Pleasure Pod](PNG/pleasure-pod.png)
+![Pleasure Pod](./PNG/pleasure-pod.png)
 
 Pleasure pods are faux humans intended for intimate entertainment purposes and indulgent hedonism. Their biology includes extra nerve clusters in their erogenous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the capability to purr. They are capable of switching between multiple sex configurations and are often enhanced in other areas.
 
@@ -388,7 +388,7 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 
 ## Ripwing
 
-![Ripwing](PNG/ripwing.png)
+![Ripwing](./PNG/ripwing.png)
 
 Developed by the genehackers of Fortean, ripwings are neogenetic avian chimeras, incorporating completely novel genes with traits from a range of flying creatures, including prehistoric pterosaurs. Larger and sturdier than standard neo-avian morphs, ripwings are popular with avian uplifts who want a more robust form and gatecrashers looking for a quick and stealthy flyer for recon missions. Ripwings take advantage of the _chiroptera_ genestock used to give the first avian uplifts functional hands. Instead of feathers, they feature tough leathery skin or even scales. Most ripwings have a uniform matte black skin coloration, though they are able to change color at will.
 
@@ -421,7 +421,7 @@ Developed by the genehackers of Fortean, ripwings are neogenetic avian chimeras,
 
 ## Samsa
 
-![Samsa](PNG/samsa.png)
+![Samsa](./PNG/samsa.png)
 
 The samsa is an intimidating, two-meter-tall, four-armed, four-legged, humanoid insect. An unsettling sight to many transhumans, it was the first attempt to create a combat pod with a terrifying appearance. They are most commonly used by rimward mercenaries and enforcers. Their armored carapace provides protection and the extra limbs allow them to carry multiple weapons.
 
@@ -454,7 +454,7 @@ The samsa is an intimidating, two-meter-tall, four-armed, four-legged, humanoid 
 
 ## Security Pod
 
-![Security Pod](PNG/security-pod.png)
+![Security Pod](./PNG/security-pod.png)
 
 Security pods were originally manufactured as mass-produced AI-operated soldiers for joint peacekeeping missions and enclave border/security roles. Many were co-opted by the TITANs during the Fall, so they fell out of favor for many years, but a demand for cheap mercenary morphs has revived interest.
 
@@ -508,7 +508,7 @@ worker revolts, and other microgav ops.
 
 ## Shaper
 
-![Shaper](PNG/shaper.png)
+![Shaper](./PNG/shaper.png)
 
 Shapers are designed for infiltration and disguise. They lack the seamlines common to pods and incorporate ware that allows them to alter their appearance. Favored by spies and criminals, they are illegal in many habitats.
 
@@ -536,7 +536,7 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 
 ## Traceur
 
-![Traceur](PNG/traceur.png)
+![Traceur](./PNG/traceur.png)
 
 These athletic pods were first designed pre-Fall to incorporate androids into sports with biological humans. Now they are mass produced as an alternative to olympian morphs.
 
@@ -566,7 +566,7 @@ These athletic pods were first designed pre-Fall to incorporate androids into sp
 
 ## Vac Pod
 
-![Vac Pod](PNG/vac-pod.png)
+![Vac Pod](./PNG/vac-pod.png)
 
 Optimized for working in vacuum and micrograv environments, this pod is preferred in situations where novacrabs or synths suffer from prejudice.
 
@@ -596,7 +596,7 @@ Optimized for working in vacuum and micrograv environments, this pod is preferre
 
 ## Worker Pod
 
-![Worker Pod](PNG/worker-pod.png)
+![Worker Pod](./PNG/worker-pod.png)
 
 Heavily feature in menial-labor jobs that involve interaction with other transhumans.
 

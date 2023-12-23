@@ -4,7 +4,7 @@
 
 ## Agent
 
-![Agent](PNG/agent.png)
+![Agent](./PNG/agent.png)
 
 Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles.
 
@@ -33,7 +33,7 @@ Popular with network security specialists, penetration testers, and hackers, thi
 
 ## Digimorph
 
-![Digimorph](PNG/digimorph.png)
+![Digimorph](./PNG/digimorph.png)
 
 Digimorphs are bare-bones mind emulations, though customizable and widely used. By default, an ego that evacuates (or is forked from) a cyberbrain is run on a digimorph, unless another infomorph option is available.
 
@@ -62,7 +62,7 @@ Digimorphs are bare-bones mind emulations, though customizable and widely used. 
 
 ## Djinn
 
-![Djinn](PNG/djinn.png)
+![Djinn](./PNG/djinn.png)
 
 Djinn are high-end infomorphs with a number of perks.
 
@@ -92,7 +92,7 @@ Djinn are high-end infomorphs with a number of perks.
 
 ## Echo
 
-![Echo](PNG/echo.png)
+![Echo](./PNG/echo.png)
 
 Echo morphs are designed for covert infiltration and social engineering.
 
@@ -121,7 +121,7 @@ Echo morphs are designed for covert infiltration and social engineering.
 
 ## Ikon
 
-![Ikon](PNG/ikon.png)
+![Ikon](./PNG/ikon.png)
 
 Designed for online performers, media icons, and social networkers, this infomorph is coded to enhance charisma and social skills.
 
@@ -151,7 +151,7 @@ Designed for online performers, media icons, and social networkers, this infomor
 
 ## Neo
 
-![Neo](PNG/neo.png)
+![Neo](./PNG/neo.png)
 
 Neo infomorphs are commonly assigned to hypercorp virtual work forces.
 
@@ -182,7 +182,7 @@ Neo infomorphs are commonly assigned to hypercorp virtual work forces.
 
 ## Operator
 
-![Operator](PNG/operator.png)
+![Operator](./PNG/operator.png)
 
 This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines.
 
@@ -210,7 +210,7 @@ This infomorph is ideal for professions that involve drone remote operation, whe
 
 ## Sage
 
-![Sage](PNG/sage.png)
+![Sage](./PNG/sage.png)
 
 Sages are mid-range infomorphs favored by researchers and IT workers.
 
@@ -239,7 +239,7 @@ Sages are mid-range infomorphs favored by researchers and IT workers.
 
 ## Spectre
 
-![Spectre](PNG/spectre.png)
+![Spectre](./PNG/spectre.png)
 
 Spectres are the top tier of infosec infomorphs.
 

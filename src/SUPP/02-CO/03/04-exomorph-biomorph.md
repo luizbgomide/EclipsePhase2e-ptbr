@@ -4,7 +4,7 @@
 
 ## Scurrier
 
-![Scurrier](PNG/scurrier.png)
+![Scurrier](./PNG/scurrier.png)
 
 Scurriers are developed from sciurids, a non-sapient extraterrestrial species similar to hexapod, raccoon-sized flying squirrels. Cute and colorful, they are also extremely fast and agile. They make excellent climbers, gliders, and tunnel workers.
 
@@ -63,7 +63,7 @@ This four-limbed version of the scurrier is easier to adapt to.
 
 ## Whiplash
 
-![Whiplash](PNG/whiplash.png)
+![Whiplash](./PNG/whiplash.png)
 
 Designed by autonomist xenobotanists, these pods are bio-engineered from the predatory whiplash creatures found on the exoplanet Sunrise, with additional transgenic features. The primary modification made to the original creature was to turn the entire organism upside down and orient the digestive portion of the organism horizontally, so that the whiplash’s tri-lobed orifice faces forward. The whiplash’s grasping roots were also converted into even more motile “walking tentacles.” Other adjustments include the addition of a pair of grasping limbs, each with four universally opposable digits; artificial sensing mods (providing transhuman-standard sensing ability); and a general toughening of the internal structure for rigidity and support. The ability to extend and retract the whiplash’s feeding tendril was heavily enhanced, so now the tendril acts more like a two-meter-long chameleon-like tongue than a hanging food-trap.
 

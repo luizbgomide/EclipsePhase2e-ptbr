@@ -7,7 +7,7 @@
 
 **Pick a background or roll on the Random Background Path table. Then go to the appropriate sub-table and either pick a result or roll again. This will determine: your first package of skill points, starting motivation, and starting morph (you may need to roll an additional d10).**
 
-**After you have finished choosing/rolling, proceed to [Step 5: Youth Event](./06-5-youth-event.md).**
+**After you have finished choosing/rolling, proceed to [Step 5: Youth Event](./06-step-5-youth-event.md).**
 
 </blockquote>
 
@@ -47,7 +47,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 **You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -370,7 +370,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -600,7 +600,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -831,7 +831,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You live in the top percent, with abundant wealth and resources.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1065,7 +1065,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1387,7 +1387,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You are an AGI, a digital consciousness born of software code.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1659,7 +1659,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -1848,7 +1848,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -2079,7 +2079,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You’re a veteran of Earth’s slums, favelas, and flooded cities.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 
@@ -2314,7 +2314,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 
 **You are an uplifted animal raised to human levels of intelligence.**
 
-Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06-step-5-youth-event.md).
 
 <blockquote class="stat-list header-bg">
 

@@ -36,7 +36,7 @@
 |  16   | You enter into a convenience-based, contract-defined, romantic relationship.                                                                  |
 |  17   | You develop an ongoing polyamorous relationship with a group of friends.                                                                      |
 |  18   | You are pursued by an irritating but (mostly) harmless suitor/stalker.                                                                        |
-|  19   | You are recruited to secretly help some faction. Randomly determine that faction from the [Faction table](12-11-faction.md#110-faction-d100). |
+|  19   | You are recruited to secretly help some faction. Randomly determine that faction from the [Faction table](./12-step-11-faction.md#110-faction-d100). |
 |  20   | You are re-united with a lover/relative/friend thought lost during the Fall or previous conflicts.                                            |
 |  21   | Political upheaval in your local habitat/polity throws your life into turmoil.                                                                |
 |  22   | You are the only survivor of a deadly accident on board a ship or small hab, which raises some suspicion …                                    |
