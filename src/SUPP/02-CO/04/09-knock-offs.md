@@ -12,4 +12,4 @@ GMs have two options for handling knock-offs:
 
 ## Identifying Knock-Offs
 
-To identify a knock-off morph, you must score a superior success using the rules for identifying morphs ▶previous page.
+To identify a knock-off morph, you must score a superior success using the rules for [identifying morphs](./08-identifying-morphs.md).
