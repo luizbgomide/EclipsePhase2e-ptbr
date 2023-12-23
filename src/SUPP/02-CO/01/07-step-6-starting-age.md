@@ -47,15 +47,15 @@ If you acquired the Uplift background, your character’s age may not exceed 50.
 
 <div class="tnw1">
 
-|  d10  | Result                                                                                  |
-| :---: | :-------------------------------------------------------------------------------------- |
-|   1   | Gain the [Enhanced Behavior (Bored, Level 2) trait](../../../04/28-traits.md#enhanced-behavior) (_EP2_).                           |
-|   2   | Gain +10 to two skills of your choice.                                                  |
-|   3   | Roll an additional time on the 7.0 Pre-Fall Event table.                                |
-|  4–5  | Reduce one aptitude by 5. Roll 1d6: 1 COG, 2 INT, 3 REF, 4 SAV, 5 SOM, 6 WIL.           |
-|  6–7  | Increase one aptitude by 5. Roll 1d10: 1 COG, 2–3 INT, 4 REF, 5–6 SAV, 7 SOM, 8–10 WIL. |
-|   8   | Gain the [Mental Disorder (Depression) trait](../../../12/20-disorders.md#depression) (_EP2_).                                |
-|  9+   | Gain +10 to a skill of your choice.                                                     |
+|  d10  | Result                                                                                                   |
+| :---: | :------------------------------------------------------------------------------------------------------- |
+|   1   | Gain the [Enhanced Behavior (Bored, Level 2) trait](../../../04/28-traits.md#enhanced-behavior) (_EP2_). |
+|   2   | Gain +10 to two skills of your choice.                                                                   |
+|   3   | Roll an additional time on the 7.0 Pre-Fall Event table.                                                 |
+|  4–5  | Reduce one aptitude by 5. Roll 1d6: 1 COG, 2 INT, 3 REF, 4 SAV, 5 SOM, 6 WIL.                            |
+|  6–7  | Increase one aptitude by 5. Roll 1d10: 1 COG, 2–3 INT, 4 REF, 5–6 SAV, 7 SOM, 8–10 WIL.                  |
+|   8   | Gain the [Mental Disorder (Depression) trait](../../../12/20-disorders.md#depression) (_EP2_).           |
+|  9+   | Gain +10 to a skill of your choice.                                                                      |
 
 </div>
 </blockquote>

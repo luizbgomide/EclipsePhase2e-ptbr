@@ -22,17 +22,17 @@ The interests determined here represent hobbies you have delved into over the ye
 
 ### d10 #1 = {1–5}
 
-| d10&nbsp;#2 | Career             | Description                                                                        |
-| :---------: | :----------------- | :--------------------------------------------------------------------------------- |
-|      1      | Animal Handler     | You train and care for smart animals.                                              |
-|      2      | Artist/Icon        | You are a creative or celebrity figure.                                            |
+| d10&nbsp;#2 | Career             | Description                                                                                                                   |
+| :---------: | :----------------- | :---------------------------------------------------------------------------------------------------------------------------- |
+|      1      | Animal Handler     | You train and care for smart animals.                                                                                         |
+|      2      | Artist/Icon        | You are a creative or celebrity figure.                                                                                       |
 |      3      | Async              | You are infected with the [Watts-MacLeod strain of the exsurgent virus](../../../14/02-watts-macleod-sub-strains.md) (_EP2_). |
-|      4      | Commander          | You are an executive, officer, elected official, or autonomist organizer.          |
-|      5      | Fighter            | You’ve picked up some self-defense capabilities                                    |
-|      6      | Forensics          | Specialist You’re trained to analyze crime scenes and perform autopsies.           |
-|      7      | Jack-of-All-Trades | You’ve seen and done a little bit of everything.                                   |
-|      8      | Jammer             | You’re a drone operator with a talent for manipulating machines.                   |
-|    9–10     |                    | **RE-ROLL #2**                                                                     |
+|      4      | Commander          | You are an executive, officer, elected official, or autonomist organizer.                                                     |
+|      5      | Fighter            | You’ve picked up some self-defense capabilities                                                                               |
+|      6      | Forensics          | Specialist You’re trained to analyze crime scenes and perform autopsies.                                                      |
+|      7      | Jack-of-All-Trades | You’ve seen and done a little bit of everything.                                                                              |
+|      8      | Jammer             | You’re a drone operator with a talent for manipulating machines.                                                              |
+|    9–10     |                    | **RE-ROLL #2**                                                                                                                |
 
 ### d10 #1 = {6–0}
 
@@ -62,15 +62,15 @@ The interests determined here represent hobbies you have delved into over the ye
 
 </td><td>
 
-|                                 |      |
-| :------------------------------ | ---: |
+|                                                                         |      |
+| :---------------------------------------------------------------------- | ---: |
 | [Animal Empathy trait](../../../04/28-traits.md#animal-empathy) (_EP2_) |
-| c-rep                           |   20 |
-| Exotic Skill: Animal Handling   |   40 |
-| Medicine: Veterinary            |   40 |
-| Provoke                         |   20 |
-| Survival                        |   15 |
-| Know: Smart Animals             |   40 |
+| c-rep                                                                   |   20 |
+| Exotic Skill: Animal Handling                                           |   40 |
+| Medicine: Veterinary                                                    |   40 |
+| Provoke                                                                 |   20 |
+| Survival                                                                |   15 |
+| Know: Smart Animals                                                     |   40 |
 
 </td></tr></table>
 </blockquote>
@@ -107,14 +107,14 @@ The interests determined here represent hobbies you have delved into over the ye
 
 </td><td>
 
-|                                |      |
-| :----------------------------- | ---: |
+|                                                             |      |
+| :---------------------------------------------------------- | ---: |
 | [Psi (Level 2) trait](../../../04/28-traits.md#psi) (_EP2_) |
-| 4 psi sleights                 |
-| g-rep                          |   20 |
-| Deceive                        |   40 |
-| Psi                            |   40 |
-| Know: Asyncs                   |   40 |
+| 4 psi sleights                                              |
+| g-rep                                                       |   20 |
+| Deceive                                                     |   40 |
+| Psi                                                         |   40 |
+| Know: Asyncs                                                |   40 |
 
 </td></tr></table>
 </blockquote>

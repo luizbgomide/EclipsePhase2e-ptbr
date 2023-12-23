@@ -1444,7 +1444,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 | :-------------------------------- | ---: |
 | c-rep                             |   10 |
 | Emotive Blindness trait           |
-| Real World Naïveté trait          |
+| Real World Naiveté trait          |
 | Superior Numeracy (Level 2) trait |
 | Infosec                           |   60 |
 | Interface                         |   60 |
@@ -2037,7 +2037,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 | :---------------------------------------- | ---: |
 | Hardening (Alienation, the Unknown) trait |
 | Psi (Level 2) trait                       |
-| Real World Naïveté trait                  |
+| Real World Naiveté trait                  |
 | Zoosemiotics trait                        |
 | 4 psi sleights (random or choose)         |
 | Deceive                                   |   20 |

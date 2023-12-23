@@ -2,8 +2,8 @@
 
 ## Firewall Agent/Criminal
 
-| GEAR                                                                     | Comp/<wbr>GP | Description                                                                     |
-| :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------ |
+| GEAR                                                                           | Comp/<wbr>GP | Description                                                                     |
+| :----------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------ |
 | [Anonymizer](../../../16/04-services.md#mesh-services)                         |    Min/1     | Masks your mesh ID.                                                             |
 | [Armor Vest (Light)](../../../12/11-armor.md#armor-gear)\*                     |    Min/1     | AV 4/10. Concealable.                                                           |
 | [Fake Ego ID](../../../16/04-services.md#physical-services)                    |   Maj/R/3    | Forged ID and back history, with its own rep scores.                            |
@@ -16,8 +16,8 @@
 
 ### \* Synthmorph Alternative
 
-| GEAR                                             | Comp/<wbr>GP | Description         |
-| :----------------------------------------------- | :----------: | :------------------ |
+| GEAR                                                   | Comp/<wbr>GP | Description         |
+| :----------------------------------------------------- | :----------: | :------------------ |
 | [Anti-Glare](../../../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers. |
 | [Industrial Armor](../../../12/11-armor.md#armor-ware) |    Min/1     | AV +6/+4.           |
 
@@ -25,8 +25,8 @@
 
 ## Gatecrashing
 
-| GEAR                                                           | Comp/<wbr>GP | Description                                                               |
-| :------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
+| GEAR                                                                 | Comp/<wbr>GP | Description                                                               |
+| :------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
 | [Autocook](../../../16/19-nanotech.md#specialized-nanofabricators)\* |    Min/1     | Fab food and drink only.                                                  |
 | [Electronic Rope](../../../16/18-mission-gear.md#survival-tools)     |    Min/1     | Controllable rope.                                                        |
 | [Healing Spray](../../../16/19-nanotech.md)\*                        |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                  |
@@ -39,8 +39,8 @@
 
 ### \* Synthmorph Alternative
 
-| GEAR                                             | Comp/<wbr>GP | Description                                                     |
-| :----------------------------------------------- | :----------: | :-------------------------------------------------------------- |
+| GEAR                                                   | Comp/<wbr>GP | Description                                                     |
+| :----------------------------------------------------- | :----------: | :-------------------------------------------------------------- |
 | [Anti-Glare](../../../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers.                                             |
 | [Industrial Armor](../../../12/11-armor.md#armor-ware) |    Min/1     | AV +6/+4.                                                       |
 | [Medichines](../../../16/10-combat-augmentations.md)   |    Maj/3     | Ignore 1 wound, heal faster, drug/toxin effect/duration halved. |
@@ -49,8 +49,8 @@
 
 ## Optional Pack: Infomorph
 
-| GEAR                                                 | Comp/<wbr>GP | Description                                                                      |
-| :--------------------------------------------------- | :----------: | :------------------------------------------------------------------------------- |
+| GEAR                                                       | Comp/<wbr>GP | Description                                                                      |
+| :--------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------- |
 | [Drone Rig](../../../16/08-mental-augmentations.md)        |    Mod/2     | Ignore the −10 modifier when jamming.                                            |
 | [Enhanced Security](../../../16/12-meshware.md)            |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
 | [Exploit App](../../../16/13-apps-and-alis.md#apps)        |   Mod/R/2    | Hacking library tool.                                                            |

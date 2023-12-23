@@ -2,8 +2,8 @@
 
 ## Academic
 
-| GEAR                                                                          | Comp/<wbr>GP | Description                                                                              |
-| :---------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| GEAR                                                                                | Comp/<wbr>GP | Description                                                                              |
+| :---------------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
 | [Creepy Bot](../../../16/21-robots.md#personal-bots)                                |    Min/1     | Worn companion bot. Small size.                                                          |
 | [Holographic Projector](../../../16/05-common-tech-and-ware.md#everyday-technology) |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
 | [Microcar](../../../16/22-vehicles.md#groundcraft)                                  |    Mod/2     | One-person two-wheeler.                                                                  |
@@ -15,8 +15,8 @@
 
 ## Covert Operative
 
-| GEAR                                                              | Comp/<wbr>GP | Description                                                                              |
-| :---------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| GEAR                                                                    | Comp/<wbr>GP | Description                                                                              |
+| :---------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
 | [Chameleon Cloak](../../../16/17-espionage-and-security-tech.md)        |    Mod/2     | Camouflage, +10 Infiltrate, +30 stationary.                                              |
 | [Cleaner Swarm](../../../16/20-nanoswarms-and-microswarms.md#swarms)    |    Min/1     | Cleans, eliminates forensic evidence.                                                    |
 | [Covert Operations Tool](../../../16/17-espionage-and-security-tech.md) |   Maj/R/3    | Bypasses locks, cuts/repairs holes, Hardware: Electronics 60 vs. electronic locks, more. |
@@ -28,16 +28,16 @@
 
 ### \* Synthmorph Alternative
 
-| GEAR                                               | Comp/<wbr>GP | Description                                                 |
-| :------------------------------------------------- | :----------: | :---------------------------------------------------------- |
+| GEAR                                                     | Comp/<wbr>GP | Description                                                 |
+| :------------------------------------------------------- | :----------: | :---------------------------------------------------------- |
 | [Synthetic Mask](../../../16/09-social-augmentations.md) |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests. |
 
 </blockquote>
 
 ## Enforcer
 
-| GEAR                                                                   | Comp/<wbr>GP | Description                                                               |
-| :--------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
+| GEAR                                                                         | Comp/<wbr>GP | Description                                                               |
+| :--------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
 | [Aggro (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#combat-drugs) |    Min/1     | +20 Provoke to intimidate/taunt, −20 other social tests.                  |
 | [Claws](../../../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 2d6, concealable.                                                      |
 | [Flex Cutter](../../../12/02-melee-combat.md#melee-weapons)                  |    Min/1     | Flexible blade, DV 1d10 + 3, concealable.                                 |
@@ -48,8 +48,8 @@
 
 ## Explorer
 
-| GEAR                                                                | Comp/<wbr>GP | Description                                                                            |
-| :------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------------- |
+| GEAR                                                                      | Comp/<wbr>GP | Description                                                                            |
+| :------------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------------- |
 | [Breadcrumb System](../../../16/16-comms-and-mesh-gear.md#communications) |    Min/1     | Leaves mote trail for meshing/positioning.                                             |
 | [Direction Sense](../../../16/06-sensory-augmentations.md)                |    Min/1     | Innate sense of direction and distance.                                                |
 | [Enhanced Vision](../../../16/06-sensory-augmentations.md)                |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
@@ -60,8 +60,8 @@
 
 ## Face/Dealer
 
-| GEAR                                                                   | Comp/<wbr>GP | Description                                                                                     |
-| :--------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
+| GEAR                                                                         | Comp/<wbr>GP | Description                                                                                     |
+| :--------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
 | [Enhanced Hearing](../../../16/06-sensory-augmentations.md)                  |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                                  |
 | [Guardian Angel](../../../16/21-robots.md#combat-bots)                       |    Mod/2     | Personal defense rotorcraft. Small size.                                                        |
 | [Medium Fabber](../../../16/19-nanotech.md#nanofabricators)                  |    Mod/2     | Fab small items.                                                                                |
@@ -72,8 +72,8 @@
 
 ## Genehacker
 
-| GEAR                                                                      |     Comp/<wbr>GP     | Description                                                     |
-| :------------------------------------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
+| GEAR                                                                            |     Comp/<wbr>GP     | Description                                                     |
+| :------------------------------------------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
 | [Archive](../../../16/04-services.md#mesh-services)                             |        Min/1         | +10 Research Tests related to one Know skill.                   |
 | [Dino Pet](../../../16/14-creatures.md#genetically-modified-organisms)          |        Min/1         | Genehacked dinosaur pets.                                       |
 | [Fokus (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |        Min/1         | Enhanced Behavior: Obsessive (2), reduce timeframes 25%.        |
@@ -85,8 +85,8 @@
 
 ## Hacker
 
-| GEAR                                                            | Comp/<wbr>GP | Description                               |
-| :-------------------------------------------------------------- | :----------: | :---------------------------------------- |
+| GEAR                                                                  | Comp/<wbr>GP | Description                               |
+| :-------------------------------------------------------------------- | :----------: | :---------------------------------------- |
 | [Exploit App](../../../16/13-apps-and-alis.md#apps)                   |   Mod/R/2    | Hacking library tool.                     |
 | [Gray Box](../../../16/17-espionage-and-security-tech.md)             |    Min/1     | Establishes a wireless mesh link.         |
 | [Radio Booster](../../../16/16-comms-and-mesh-gear.md#communications) |    Min/1     | Extends radio ranges, 25/250km range.     |
@@ -96,8 +96,8 @@
 
 ## Investigator
 
-| GEAR                                                                     | Comp/<wbr>GP | Description                                                                        |
-| :----------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
+| GEAR                                                                           | Comp/<wbr>GP | Description                                                                        |
+| :----------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
 | [Biometric Matcher App](../../../16/13-apps-and-alis.md#apps)                  |    Min/1     | Match biometric patterns.                                                          |
 | [Brainprint Scanner](../../../16/17-espionage-and-security-tech.md)            |    Min/1     | Scans brainprint in 5 minutes.                                                     |
 | [Cuffband](../../../16/17-espionage-and-security-tech.md)                      |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6.                       |
@@ -110,8 +110,8 @@
 
 ## Medic
 
-| GEAR                                                               | Comp/<wbr>GP | Description                                                                   |
-| :----------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------- |
+| GEAR                                                                     | Comp/<wbr>GP | Description                                                                   |
+| :----------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------- |
 | [Docbot](../../../16/21-robots.md#medical-bots)                          |    Maj/3     | Medical bot.                                                                  |
 | [Healing Spray](../../../16/19-nanotech.md)                              |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                      |
 | [Healing Vat](../../../16/19-nanotech.md)                                |    Maj/3     | Heal/cure biomorphs, customize/augment morph.                                 |
@@ -120,8 +120,8 @@
 
 ## Mindhacker
 
-| GEAR                                                                     | Comp/<wbr>GP | Description                                |
-| :----------------------------------------------------------------------- | :----------: | :----------------------------------------- |
+| GEAR                                                                           | Comp/<wbr>GP | Description                                |
+| :----------------------------------------------------------------------------- | :----------: | :----------------------------------------- |
 | [Comfurt (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#health-drugs) |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.       |
 | [Eelware](../../../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 1d6, shock effect, touch-only.          |
 | [Ego Bridge](../../../16/19-nanotech.md)                                       |    Mod/2     | Upload from/download to biological brains. |
@@ -131,8 +131,8 @@
 
 ## Scavenger
 
-| GEAR                                                                                | Comp/<wbr>GP | Description                                                                                     |
-| :---------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
+| GEAR                                                                                      | Comp/<wbr>GP | Description                                                                                     |
+| :---------------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
 | [Breadcrumb System](../../../16/16-comms-and-mesh-gear.md#communications)                 |    Min/1     | Leaves mote trail for meshing/positioning.                                                      |
 | [Diamond Axe](../../../12/02-melee-combat.md#melee-weapons)                               |    Min/1     | DV 2d10 + 3, armor-piercing, reach, two-handed.                                                 |
 | [Disassembly Tools](../../../16/18-mission-gear.md#salvage-tools)                         |    Mod/2     | Heavy and smart tools for taking things apart.                                                  |
@@ -143,8 +143,8 @@
 
 ## Scientist
 
-| GEAR                                                               | Comp/<wbr>GP | Description                                                                            |
-| :----------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
+| GEAR                                                                     | Comp/<wbr>GP | Description                                                                            |
+| :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
 | [Enhanced Vision](../../../16/06-sensory-augmentations.md)               |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
 | [Mind Amp](../../../16/08-mental-augmentations.md)                       |    Maj/3     | Accelerates mind. +2 Insight.                                                          |
 | [Mission Recorder](../../../16/16-comms-and-mesh-gear.md#communications) |    Min/1     | Backs up all mission data.                                                             |
@@ -154,8 +154,8 @@
 
 ## Soldier
 
-| GEAR                                                                  | Comp/<wbr>GP | Description                                                                            |
-| :-------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
+| GEAR                                                                        | Comp/<wbr>GP | Description                                                                            |
+| :-------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
 | [Assault Rifle Railgun](../../../12/09-kinetic-weapons.md#railguns)         |   Mod/R/2    | DV 2d10 + 2, SA/BF/FA, Ammo 90 + 1, Range 150, Armor-Piercing, Long, Two-Handed.       |
 | [Enhanced Vision](../../../16/06-sensory-augmentations.md)                  |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
 | [Grin (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#combat-drugs) |    Min/1     | Ignore 1 wound.                                                                        |
@@ -166,16 +166,16 @@
 
 ### \* Synthmorph Alternative
 
-| GEAR                                                         | Comp/<wbr>GP | Description                                                 |
-| :----------------------------------------------------------- | :----------: | :---------------------------------------------------------- |
+| GEAR                                                               | Comp/<wbr>GP | Description                                                 |
+| :----------------------------------------------------------------- | :----------: | :---------------------------------------------------------- |
 | [Fixer Swarm](../../../16/20-nanoswarms-and-microswarms.md#swarms) |    Mod/2     | Repairs 1d10 damage per hour or 1 wound per day for 4 days. |
 
 </blockquote>
 
 ## Techie
 
-| GEAR                                                                      | Comp/<wbr>GP | Description                                              |
-| :------------------------------------------------------------------------ | :----------: | :------------------------------------------------------- |
+| GEAR                                                                            | Comp/<wbr>GP | Description                                              |
+| :------------------------------------------------------------------------------ | :----------: | :------------------------------------------------------- |
 | [Automech](../../../16/21-robots.md#utility-bots)                               |    Mod/2     | Repair bot.                                              |
 | [Electrical Sense](../../../16/06-sensory-augmentations.md)                     |    Min/1     | Sense electrical fields within 5&nbsp;m.                 |
 | [Fixer Swarm](../../../16/20-nanoswarms-and-microswarms.md#swarms)              |    Mod/2     | Repairs DV 1d10 per hour or 1 wound per day for 5 days.  |

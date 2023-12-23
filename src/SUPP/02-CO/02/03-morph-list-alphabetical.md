@@ -1,7 +1,5 @@
 # Morph List (Alphabetical)
 
-# Morph List (by Morph Points)
-
 | MORPH                                                                                  |        TYPE        | COST  |
 | :------------------------------------------------------------------------------------- | :----------------: | :---: |
 | [Agent](../03/06-infomorphs.md#agent)                                                  |     Infomorph      |   2   |

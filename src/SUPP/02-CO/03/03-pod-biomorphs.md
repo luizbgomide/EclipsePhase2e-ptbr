@@ -590,7 +590,7 @@ Optimized for working in vacuum and micrograv environments, this pod is preferre
 
 </blockquote>
 
-| **VAC POD**                                                                                                                                                                                                                         |
+| **VAC POD**                                                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Expat:** More than many other pods, vac pod models tend to suffer from cookie-cutter looks. I’ve worked several ship construction jobs where it was extremely challenging to visually tell some of the pod-sleeved vacworkers apart. |
 

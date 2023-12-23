@@ -10,7 +10,7 @@
 | Extra Limbs            |    BCH    |    Min/1     | Pair of extra limbs.                                                         |
 | Gliding Membrane       |    BCH    |    Min/1     | Gliding 8/32; use Athletics.                                                 |
 | Heat Tolerance         |    BH     |    Min/1     | Handle temps as high as 130 F/500 F.                                         |
-| High-G Adaptation      |    BH     |    Min/1     | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.                    |
+| High-G Adaptation      |    BH     |    Min/1     | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.               |
 | Laser Link (Medium)    |    CH     |    Maj/3     | 500,000 km range in space.                                                   |
 | Long-Term Life Support |     N     |    Maj/3     | Survive without air, food, or water up to one year.                          |
 | Magnetic Generator     |    CH     |    Maj/3     | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                             |

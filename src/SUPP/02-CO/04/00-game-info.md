@@ -173,7 +173,7 @@
     - [Identifiable Quirk](../04/07-new-ego-traits.md#identifiable-quirk)
     - [Impaired Linguistics](../04/07-new-ego-traits.md#impaired-linguistics)
     - [Implicit Bias](../04/07-new-ego-traits.md#implicit-bias)
-    - [Mesh Naïveté](../04/07-new-ego-traits.md#mesh-naïveté)
+    - [Mesh Naiveté](../04/07-new-ego-traits.md#mesh-naiveté)
     - [Messy Mind](../04/07-new-ego-traits.md#messy-mind)
     - [Micrograv Disorientation](../04/07-new-ego-traits.md#micrograv-disorientation)
     - [Morph Aversion](../04/07-new-ego-traits.md#morph-aversion)
