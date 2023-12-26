@@ -139,7 +139,7 @@
 | d100  | Result                                                                       | MP Cost |
 | :---: | :--------------------------------------------------------------------------- | :-----: |
 |  00   | [Arachnikoma (Arachnoid)](../03/05-synthmorphs.md#arachnikoma-variant)       |    9    |
-| 01-03 | [Arachnoid](../03/05-synthmorphs.md#arachnoid)                               |    6    |
+| 01–03 | [Arachnoid](../03/05-synthmorphs.md#arachnoid)                               |    6    |
 |  04   | [Biocore](../03/05-synthmorphs.md#biocore)                                   |    3    |
 | 05–06 | [Blackbird (Ornithope)](../03/05-synthmorphs.md#blackbird-variant)           |    5    |
 | 07–16 | [Case](../03/05-synthmorphs.md#case)                                         |    0    |
