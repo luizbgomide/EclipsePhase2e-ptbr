@@ -164,7 +164,7 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Indução ao Erro](../14/06-psi-sleight-summaries.md#induce-error)               | Complexa |    Minutos     |        6        | Alvo falha automaticamente no próximo teste que fizer usando a perícia escolhida pelo assincro.                                                                   |
 | [Mente Infecciosa](../14/06-psi-sleight-summaries.md#infectious-mind)           | Complexa |   Sustentada   |        4        | Compartilhe um transtorno desencadeado ou efeito de influência com o alvo.                                                                                        |
 | [Influência](../14/06-psi-sleight-summaries.md#influence)                       | Complexa | Turnos de Ação |        4        | Aplique um traço Comportamento Acentuado ou Comportamento Restrito (Nível 2).                                                                                     |
-| [Revigoração](../14/06-psi-sleight-summaries.md#invigorate)                     | Complexa |  Instantânea   |        4        | Alvo pode usar a sua próxima ação complexa como uma recarga curta.                                                                                                |
+| [Imitação](../14/06-psi-sleight-summaries.md#invigorate)                        | Complexa |  Instantânea   |        4        | Alvo pode usar a sua próxima ação complexa como uma recarga curta.                                                                                                |
 | [Imitação](../14/06-psi-sleight-summaries.md#mimic)                             |  Rápida  |  Instantânea   |        4        | Registra os maneirismos dos alvo; +10 na perícia Enganação se passar pelo alvo, +10 por sucesso maior.                                                            |
 | [Ligação Mental](../14/06-psi-sleight-summaries.md#mindlink)                    |  Rápida  |   Sustentada   |        2        | Telepatia.                                                                                                                                                        |
 | [Fortalecimento Neural](../14/06-psi-sleight-summaries.md#neural-hardening)     | Complexa |    Minutos     |        4        | Alvo recebe um modificador +10 para resistir a hacks basiliscos.                                                                                                  |
@@ -176,7 +176,7 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Curto-Circuito](../14/06-psi-sleight-summaries.md#short-circuit)               | Complexa |  Instantânea   |        6        | Sinapses do alvo falham, ele fica incapacitado por 1 turno de ação e atordoado por 3 minutos.                                                                     |
 | [Spam](../14/06-psi-sleight-summaries.md#spam)                                  | Complexa | Turnos de Ação |        6        | Alvo é sobrecarregado pela entrada sensorial, −10 em todas as ações, com −10 adicional por sucesso maior.                                                         |
 | [Estática](../14/06-psi-sleight-summaries.md#static)                            | Complexa |   Sustentada   |        4        | −30 em todos os truques dentro do alcance Perto.                                                                                                                  |
-| [Sugestão](../14/06-psi-sleight-summaries.md#subliminal)                        | Complexa |     Horas      |       10        | Implante uma ação sugestionada na mente do alvo que ele deve executar.                                                                                            |
+| [Embaralhamento](../14/06-psi-sleight-summaries.md#subliminal)                  | Complexa |     Horas      |       10        | Implante uma ação sugestionada na mente do alvo que ele deve executar.                                                                                            |
 | [Tranquilidade](../14/06-psi-sleight-summaries.md#tranquility)                  | Complexa |    Minutos     |        4        | Alvo é aliviado de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado. Não pode ser usado em si mesmo. |
 
 <!-- CLEANED /blockquote -->
@@ -289,7 +289,7 @@ Você sente o estado emocional do alvo por VON ÷ 5 turnos de ação. Isso lhe f
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 8
 
-Você cria uma ilusão e a impõe sobre o alvo. A ilusão pode variar de uma simples impressão de um único sentido até uma realidade falsa completamente imersiva e que pode substituir as entradas sensoriais reais. A ilusão não pode prejudicar diretamente o alvo, mas pode provocar reações perigosas ou até mesmo fatais (ou seja, enganar alguém para andar para fora de um telhado). Como a ilusão é insubstancial, ela também não pode parar ou iniciar movimentos, segurar pesos, fornecer proteção, etc. Se o alvo examinar cuidadosamente a ilusão ou interagir fisicamente com ela, ele faz uma Prova de INT para ver através dela. Da mesma forma, se a ilusão desafiar a realidade de qualquer forma ou inspirar descrença no senso comum, ou se o ambiente real interferir com a ilusão (barulhos altos repentinos, paredes ocultas atrás da ilusão impedem movimentos, etc.), o alvo faz uma Prova de INT para deixar de acreditar. Alvos que tenham sucesso em sua Prova de INT vão sentir a entrada ilusória de forma tênue, mas reconhecê-la como irreal. Nenhuma Prova é necessária se o alvo tiver provas de que a ilusão é falsa. Ilusões complexas ou longas são difíceis de sustentar; o MJ pode pedir Provas de INT ou testes de perícias apropriadas para manter a fachada artificial.
+Você cria uma ilusão e a impõe sobre o alvo. A ilusão pode variar de uma simples impressão de um único sentido até uma realidade falsa completamente imersiva e que pode substituir as entradas sensoriais reais. A ilusão não pode prejudicar diretamente o alvo, mas pode provocar reações perigosas ou até mesmo fatais (ou seja, enganar alguém para andar para fora de um telhado). Como a ilusão é insubstancial, ela também não pode parar ou iniciar movimentos, segurar pesos, fornecer proteção, etc. Se o alvo examinar cuidadosamente a ilusão ou interagir fisicamente com ela, ele faz uma Prova de INT para ver através dela. Se o alvo examinar cuidadosamente a ilusão ou interagir fisicamente com ela, ele faz uma Prova de INT para ver através dela. Da mesma forma, se a ilusão desafiar a realidade de qualquer forma ou inspirar descrença no senso comum, ou se o ambiente real interferir com a ilusão (barulhos altos repentinos, paredes ocultas atrás da ilusão impedem movimentos, etc.), o alvo faz uma Prova de INT para deixar de acreditar. Alvos que tenham sucesso em sua Prova de INT vão sentir a entrada ilusória de forma tênue, mas reconhecê-la como irreal. Nenhuma Prova é necessária se o alvo tiver provas de que a ilusão é falsa. Ilusões complexas ou longas são difíceis de sustentar; o MJ pode pedir Provas de INT ou testes de perícias apropriadas para manter a fachada artificial.
 
 As ilusões exigem um poder mental intenso para serem sustentadas. Você não pode fazer nenhuma ação complexa enquanto sustenta este truque, senão a ilusão falhará.
 
@@ -323,7 +323,7 @@ Você compartilha um transtorno desencadeado ou um efeito de influência ativo d
 
 Esta é uma versão ofensiva do truque Controle Comportamental. Você manipula os córtex e as emoções do alvo. Aplique um traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) (Nível 2). Você pode forçar esse traço para o Nível 3.
 
-### Revigoração
+### Imitação
 
 **Ação:** Complexa • **Duração:** Instantânea • **Mod de Infecção:** 4
 
@@ -395,7 +395,7 @@ Você sobrecarrega e inunda os córtex sensoriais do alvo, fazendo um spam de en
 
 Você gera um campo de bloqueio contra psi, prejudicando o uso de truques de distância dentro do alcance Perto com −30. Esse truque não tem efeito em truques de alcance Pessoal ou de Toque.
 
-### Sugestão
+### Embaralhamento
 
 **Ação:** Complexa • **Duração:** Horas • **Mod de Infecção:** 10
 
