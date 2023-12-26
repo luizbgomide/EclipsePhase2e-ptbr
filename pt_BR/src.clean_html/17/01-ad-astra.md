@@ -40,7 +40,7 @@ A mesma orientação se aplica à ambientação. Você pode ter um conhecimento 
 
 ### Papo Tecnológico
 
-A melhor forma dos jogadores ficarem confortáveis com a tecnologia em Eclipse Phase é usando-a. Nas primeiras sessões, mostre aos jogadores quando eles podem usar alguma tecnologia para avançar no jogo. Isso vai gradualmente familiarizar os jogadores com as maneiras pelas quais as ferramentas como insertos da mesh, realidade aumentada, sentidos aprimorados, musas, e outros podem ser usados. Seja paciente e não penalize jogadores por não saber como tudo na sua ficha funciona. Tornar-se fluente em tudo que um personagem de Eclipse Phase pode fazer geralmente pode levar várias sessões.
+A melhor forma dos jogadores ficarem confortáveis com a tecnologia em Eclipse Phase é usando-a. Nas primeiras sessões, mostre aos jogadores quando eles podem usar alguma tecnologia para avançar no jogo. Nas primeiras sessões, mostre aos jogadores quando eles podem usar alguma tecnologia para avançar no jogo. Isso vai gradualmente familiarizar os jogadores com as maneiras pelas quais as ferramentas como insertos da mesh, realidade aumentada, sentidos aprimorados, musas, e outros podem ser usados. Seja paciente e não penalize jogadores por não saber como tudo na sua ficha funciona. Tornar-se fluente em tudo que um personagem de Eclipse Phase pode fazer geralmente pode levar várias sessões.
 
 ## Preparando Sua Campanha
 
