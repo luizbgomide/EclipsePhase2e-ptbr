@@ -45,7 +45,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Respiração Aprimorada:** Com aumento da eficiência do pulmão e da capacidade de carga de oxigênio pelo sangue, você pode respirar confortavelmente em ambientes de alta e baixa pressão, de 0,2 até 5 atmosferas, sem tontura ou necessidade de descompressão gradual. Você também pode segurar seu fôlego por até 30 minutos fazendo pouca atividade, ou por até 10 minutos em atividade extenuante. Essa ampliação permite que você respire na atmosfera de Marte deu auxílio.
 
-**Dedos Fractais:** Seu morfo possui dedos tipo “robô-arbusto” que conseguem se dividir em dedos menores, esses dedos menores em microdedos, e assim por diante até a escala de nanômetro. Esses dedos podem funcionar de forma independente, permitindo manipulação ultrafina. Quando conjugados com visão	 nanoscópica, isso permite até que você manipule nanobots individuais. Aplique um modificar +10 em Testes de Aparelhagem quando micro ou nanomanipulação for um fator importante. A versão cibernética desse mod só pode ser aplicada em cibermembros.
+**Dedos Fractais:** Seu morfo possui dedos tipo “robô-arbusto” que conseguem se dividir em dedos menores, esses dedos menores em microdedos, e assim por diante até a escala de nanômetro. Esses dedos podem funcionar de forma independente, permitindo manipulação ultrafina. Quando conjugados com visão  nanoscópica, isso permite até que você manipule nanobots individuais. A versão cibernética desse mod só pode ser aplicada em cibermembros. Aplique um modificar +10 em Testes de Aparelhagem quando micro ou nanomanipulação for um fator importante.
 
 **Sistema de Jatos de Gás:** Manobre em microgravidade com bicos embutidos. Ganhe a Taxa de Movimento de Empuxo Vetorial (Jatos de Gás) com 4/12 (biomorfos) ou 8/40 (sintemorfos).
 
@@ -81,7 +81,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Bolso de Pele:** Um bolso dentro da sua camada de pele fornece ocultação (+30 em Infiltração) para itens muito pequenos.
 
-**Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, conseguindo suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0.
+**Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, conseguindo suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0. Isso também fornece VA +5/0.
 
 **Utilimod:** Este mod duplica as funções de uma [utiliferramenta](../16/05-common-tech-and-ware.md#everyday-technology). “Braços” de ferramenta retráteis de materiais inteligentes são implantado — geralmente próximo ao punho, mas outros locais são possíveis — que podem mudar de forma para qualquer tipo de ferramenta especializada desejada em 1d6 minutos. Essas ferramentas podem ter inúmeras funções, incluindo a de um [olho de fibra](../16/17-espionage-and-security-tech.md) ou [faca](../12/02-melee-combat.md#melee-weapons) implantada.
 
