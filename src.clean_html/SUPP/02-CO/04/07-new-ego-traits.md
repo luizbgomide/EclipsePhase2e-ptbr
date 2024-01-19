@@ -18,7 +18,7 @@ Positive ego traits have a CP Cost and provide bonuses in certain situations.
 | [Async Familiarity](../04/07-new-ego-traits.md#async-familiarity)       |    1    | After 1 hour of observation, use Kinesics to identify an async.                                                 |
 | [Brain Worm](../04/07-new-ego-traits.md#brain-worm)                     |    2    | Target is only aware of sleight if you roll superior failure.                                                   |            Asyncs |
 | [Controlled Infection](../04/07-new-ego-traits.md#controlled-infection) |    1    | Use Moxie to choose specific influence effect.                                                                  |            Asyncs |
-| [Danger Instinct](../04/07-new-ego-traits.md#danger-instinct)           |    1    | +2 Initiative. WIL Check to control action if surprised. Uplifts                                                |
+| [Danger Instinct](../04/07-new-ego-traits.md#danger-instinct)           |    1    | +2 Initiative. WIL Check to control action if surprised.                                                        |           Uplifts |
 | [Data Control](../04/07-new-ego-traits.md#data-control)                 |  1/2/3  | –10 modifier per level to Research/Rep Tests to track and find info on you online.                              |
 | [Digital Ghost](../04/07-new-ego-traits.md#digital-ghost)               |    1    | Use Insight to automatically negate attempt to zero in on you.                                                  |
 | [Drone Whisperer](../04/07-new-ego-traits.md#drone-whisperer)           |    1    | Once per session, use Flex on test made by autonomous drone following your orders.                              |
