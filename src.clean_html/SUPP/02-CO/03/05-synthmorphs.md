@@ -164,7 +164,7 @@ Named after a mythological sea monster, the cetus was designed to operate in the
 
 ## Cloud Skimmer
 
-![Cloud Skimmer](./PNGNG/cloud-skimmer.png)
+![Cloud Skimmer](./PNG/cloud-skimmer.png)
 
 This streamlined synthmorph is designed for exploring the atmospheres of gas giants, but its internal rocket also allows it to operate in vacuum. It can travel to and from a ship in orbit around a gas giant into the planet’s atmosphere on its own. The morph is a flattened oval that can extend up to four flexible arms. A series of gas sacs and turbofans allows it to maneuver as a microlight within atmosphere.
 
