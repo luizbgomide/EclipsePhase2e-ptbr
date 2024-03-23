@@ -8,11 +8,11 @@ Armas cinéticas disparam projéteis sólidos em altas velocidades para causar d
 | Pistola Média        |       2d10 \[11\]       |     SA/DR/TA     |     15 + 1     |       30       |                Men/R/1                |                               |
 | Pistola Pesada       |     2d10 + 2 \[13\]     |     SA/DR/TA     |     9 + 1      |       35       |                Men/R/1                |                               |
 | Pistola-Metralhadora |    1d10 + 1d6 \[9\]     |     SA/DR/TA     |     30 + 1     |       25       |                Men/R/1                |                               |
-| Metralhadora         |       2d10 \[11\]       |     SA/DR/TA     |     30 + 1     |       50       |                Mod/R/2                | Duas Mãos                     |
-| Pistola de Bolso     |     2d10 + 2 \[13\]     |     SA/DR/TA     |     45 + 1     |      100       |                Mod/R/2                | Duas Mãos, Longa              |
+| Submetralhadora      |       2d10 \[11\]       |     SA/DR/TA     |     30 + 1     |       50       |                Mod/R/2                | Duas Mãos                     |
+| Fuzil de Assalto     |     2d10 + 2 \[13\]     |     SA/DR/TA     |     45 + 1     |      100       |                Mod/R/2                | Duas Mãos, Longa              |
 | Fuzil de Batalha     |     2d10 + 4 \[15\]     |     SA/DR/TA     |     30 + 1     |      200       |                Mod/R/2                | Duas Mãos, Longa              |
 | Metralhadora         |     3d10 + 2 \[19\]     |      DR/TA       |     50 + 1     |      500       |                Mai/R/3                | Fixa, Longa                   |
-| Perfura-Armadura     |    3d10 + 10 \[27\]     |        SA        |     9 + 1      |      500       |                Mai/R/3                | Fixa, Longa                   |
+| Fuzil de Precisão    |    3d10 + 10 \[27\]     |        SA        |     9 + 1      |      500       |                Mai/R/3                | Fixa, Longa                   |
 | Pistola Polygun      |       Igual Pistola       |  Igual Pistola   | Igual Pistola  | Igual Pistola  |                Mod/R/2                | Igual Pistola                 |
 | Fuzil Polygun        |      Igual Fuzil/SM       |  Igual Fuzil/SM  | Igual Fuzil/SM | Igual Fuzil/SM |                Mai/R/3                | Igual Fuzil/SM                |
 | Railguns             |        Igual Acima        |   Igual Acima    |       x2       |      x1,5      |              Igual Acima              | Igual Acima, Perfura-Armadura |
@@ -58,7 +58,7 @@ O modificador do Valor de Dano da munição é adicionado ao VD base da arma.
 | Cápsula            |              ÷2              |                      Men/1                      |                                   |
 | Ponta Oca          |             +1d6             |                     Men/R/1                     | VD extra apenas vs. biomorfos     |
 | Guiada             |              —               |                     Mod/R/2                     | Tiro indireto ou +10 para acertar |
-| Mordente           |           Sem dano           |                      Men/1                      |                                   |
+| Bloqueadora        |           Sem dano           |                      Men/1                      |                                   |
 | Plástica           |              ÷2              |                      Men/1                      | Atordoante (apenas biomorfos)     |
 | Proximidade        |             +1d6             |                     Mod/R/2                     | VD 1d10 na falha                  |
 | PAR                |              —               |                     Mod/R/2                     | Perfura-Armadura                  |
