@@ -2,7 +2,7 @@
 
 O desejo transumano de aprimorar o corpo e a mente combina perfeitamente com a história do abuso de substâncias recreativas da nossa espécie. Drogas de todos os tipos — químicas, nano, ou eletrônicas — não são apenas populares, mas de uso generalizado. Os avanços em biotecnologia eliminaram muitos dos efeitos colaterais, mas os corpos transumanos são ambientes complicados, então eles continuam sendo um fator, especialmente com o uso a longo prazo.
 
-As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
+As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
 
 Observe que algumas drogas podem ter efeitos diferentes em morfos com o traço Bioquímica Não Humana (a critério do MJ).
 
