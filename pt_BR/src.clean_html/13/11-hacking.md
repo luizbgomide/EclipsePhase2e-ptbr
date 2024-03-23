@@ -20,7 +20,7 @@ Para hackear um sistema, é preciso estabelecer uma conexão direta com o alvo. 
 
 ### Ataque de Força Bruta
 
-O hackeamento de força bruta é rápido, caótico e barulhento. Você seleciona o alvo, aciona seu app de violação e deixa ele tentar ataques rápidos e metódicos contra as vulnerabilidades mais comuns. No entanto, o alvo é quase sempre alertado para a invasão digital. As invasões de força bruta requerem apenas uma ação complexa, o que significa que elas podem ser um fator relevante até mesmo em cenas de combate.
+O hackeamento de força bruta é rápido, caótico e barulhento. Você seleciona o alvo, aciona seu app de violação e deixa ele tentar ataques rápidos e metódicos contra as vulnerabilidades mais comuns. As invasões de força bruta requerem apenas uma ação complexa, o que significa que elas podem ser um fator relevante até mesmo em cenas de combate. No entanto, o alvo é quase sempre alertado para a invasão digital.
 
 Para usar força bruta em um alvo, faça um Teste de Hackeamento. O invasor sofre um modificador −30. Se você tiver sucesso, você ganha acesso ao sistema alvo com [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) de nível de usuário e status descoberto ([Status do Invasor](../13/11-hacking.md#intruder-status)), e o sistema entra em alerta ativo ([Alertas de Segurança](../13/12-countermeasures.md#security-alerts)). Cada sucesso maior aumenta seus privilégios em um grau (primeiro para segurança e depois para administrador). Com um sucesso crítico, você obtém [status infiltrado](../13/11-hacking.md#covert), mas um [alerta passivo](../13/12-countermeasures.md#passive-alert) ainda é acionado. Nessa situação, tanto os resultados maiores quanto os críticos têm efeito simultaneamente. Se você perder o teste oposto, você falhar em entrar e o sistema entra em [alerta passivo](../13/12-countermeasures.md#passive-alert).
 
@@ -54,7 +54,7 @@ Enquanto oculto, você recebe um modificador +10 em quaisquer esforços para [su
 
 Com status infiltrado, sua presença no sistema parece legítima e você não atrai nenhuma atenção especial. Só uma verificação abrangente revelará anormalidades. O sistema está ciente de você, mas não o considera uma ameaça.
 
-### Infiltrado
+### Descoberto
 
 Se você tiver status descoberto, o sistema está ciente que a sua presença é uma invasão. Estar descoberto aciona automaticamente um [alerta ativo](../13/12-countermeasures.md#active-alert).
 
