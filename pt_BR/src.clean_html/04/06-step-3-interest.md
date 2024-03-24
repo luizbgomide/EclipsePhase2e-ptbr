@@ -95,7 +95,7 @@ Você é um operador de drone, com talento para manipular máquinas.
 | Pilotagem: (Escolha Uma) | 40 |
 | Saber: Modelos de Bot    | 40 |
 
-## Socializador
+## Encarnador
 
 Você sabe como se envolver e se relacionar com pessoas.
 
@@ -196,7 +196,7 @@ Se você preferir determinar o seu interesse aleatoriamente, role 1d10:
 
 | Rolagem |       Grupo 1       |      Grupo 2       |
 |:-------:|:-------------------:|:------------------:|
-|    1    | Tratador de Animais |    Socializador    |
+|    1    | Tratador de Animais |     Encarnador     |
 |    2    |    Artista/Ícone    |     Paramédico     |
 |    3    |      Assincro       |       Piloto       |
 |    4    |     Comandante      |       Ladino       |
