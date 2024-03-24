@@ -2,8 +2,6 @@
 
 Os infomorfos são formas digitais — eles não tem um corpo físico. Eles são estados mentais de software em que os egos vivos são executados, apesar de poderem ser limitados pelas capacidades do hardware que os suporta. As regras para infomorfos podem ser encontradas em [Infomorfos](../13/08-infomorphs.md).
 
-<!-- CLEANED /blockquote -->
-
 ### Digimorfo
 
 Digimorfos são emulações mentais básicas, embora sejam personalizáveis e amplamente utilizadas. Por padrão, um ego que deixa (ou é foqueado de) um cibercérebro é executado em um digimorfo, a menos que outra opção de infomorfo esteja disponível.

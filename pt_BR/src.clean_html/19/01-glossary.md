@@ -55,7 +55,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Circunsolar:** Orbitando o Sol.
 - **Cislunar:** Entre a Terra e a Lua.
 - **Clado:** Uma espécie ou grupo de organismos com características comuns. Usado para se referir a grupos culturais e subespécies transumanos.
-- **Massas Clangorante:** A classe baixa de sintemorfos baratos.
+- **Massas Rangedoras:** A classe baixa de sintemorfos baratos.
 - **A Nuvem:** Outros dispositivos na mesh que oferecem serviços de software.
 - **Aglomerado:** Um habitat de microgravidade feito de módulos interligados.
 - **EMC:** Ejeção de massa coronal; uma erupção solar.

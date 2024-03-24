@@ -2,8 +2,6 @@
 
 Prods (uma abreviação de “pessoas produzidas”) foram originalmente projetados como androides biológicos. Suas partes são cultivadas em tanques separadamente usando processos de crescimento acelerado e montadas com vários sistemas cibernéticos de “emendas”; esse processo produz um corpo funcional em uma fração do tempo necessário para clonar um biomorfo comum. Cibercérebros substituem sua massa cinzenta não desenvolvida. As primeiras gerações de prods foram operadas por ILAs e usadas principalmente nas indústrias de serviços onde uma estética biológica era preferida a robôs, nas indústrias de trabalhos perigosos, e para o trabalho sexual. Eles eram visualmente distintos dos humanos normais pelos padrões de emendas estilizadas em sua pele, uma designação que ainda continua comum. Em consequência da Queda e da subsequente demanda por mais biomorfos, os prods hoje são comumente encapados por transumanos, especialmente os arrendados, mas eles frequentemente ainda sofrem um estigma classista. Prods não possuem funções reprodutivas e geralmente são assexuados. Os prods não humanos são cada vez mais comuns.
 
-<!-- CLEANED /blockquote -->
-
 ### Prod Básico
 
 Estes modelos originais de uso geral são projetados para manter o comprador/usuário dependente do fabricante.
