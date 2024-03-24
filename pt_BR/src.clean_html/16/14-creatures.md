@@ -148,8 +148,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
-- **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
+- **Ware:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros. - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
 
 <!-- CLEANED /div --></tr>
