@@ -118,7 +118,7 @@ As regras fornecidas para aquisição de equipamentos assumem que os PJs estão 
 
 <!-- CLEANED blockquote -->
 
-## …Mas Não Deixe Eles Dominarem
+## … Mas Não Deixe Eles Dominarem
 
 Em concordância com a natureza de escassez limitada da ambientação, Eclipse Phase não coloca muitas limitações na aquisição de equipamentos. Alguns jogadores podem ver isso como uma oportunidade para se encher com uma enorme quantidade de apetrechos. Embora isso possa ser útil para ter equipamentos à disposição para cada contingência, é importante manter isso sob controle. Os MJs têm várias opções para aplicar limitações conforme necessário: pressões sociais (os outros se incomodam se você monopoliza os fabros públicos, acumula recursos do habitat, ou constantemente os importa para ter equipamentos), prazos restritos do cenário (sem tempo para fabricar, precisa salvar o hab!), e atenção indesejada (a segurança fica desconfiada de pessoas transportando carregamentos de tecnologia, ladrões buscam estoques para saquear). É claro que o ponto não é punir os jogadores, mas sim impor o realismo e as restrições logísticas que as regras nem sempre podem emular.
 
