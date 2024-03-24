@@ -152,7 +152,7 @@
 - **Ware:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiônicos, Garras, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
-<tr><td>Moldável<td>5&nbsp;PM<td>40<td>7<td>35<td>53<td>1<td>2<td>0<td>0</tr>
+<tr><td>Ceifeiro<td>5&nbsp;PM<td>40<td>7<td>35<td>53<td>1<td>2<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
@@ -234,7 +234,7 @@
 - **Notas:** Armação Leve (Armadura 6/4)
 
 <!-- CLEANED /div --></tr>
-<tr><td>Sobressalente<td>0&nbsp;PM<td>80<td>3<td>15<td>30<td>0<td>1<td>0<td>0</tr>
+<tr><td>Ricochete<td>0&nbsp;PM<td>80<td>3<td>15<td>30<td>0<td>1<td>0<td>0</tr>
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
