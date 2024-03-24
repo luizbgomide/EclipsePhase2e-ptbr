@@ -4,7 +4,7 @@ O movimento em Eclipse Phase é tratado como outros tipos de ação. Quanto mais
 
 ## Taxa de Movimento
 
-Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsionando, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
+Pode ser importante saber não apenas como você está se movendo, mas até onde. Cada morfo, carcaça e criatura lista uma Taxa de Movimento; isso se aplica a qualquer forma inerente de locomoção que ele for capaz: marchando, serpenteando, rastejando, rolando, flutuando, planando, voando, impulsionando, etc. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. As Taxas de Movimento listam dois números: seu _movimento base_ e _movimento total_, respectivamente, em metros por turno de ação. A maioria dos morfos humanoides, por exemplo, tem uma Taxa de Movimento de 4/20.
 
 ## Ações de Movimento
 
