@@ -20,7 +20,7 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Adaptabilidade](../04/28-traits.md#adaptability)                   |   2/4    | Reencape facilitado. +10 por nível em Testes de Integração e de Estresse de Reencape.                                                                                                                                |
 | [Aliados](../04/28-traits.md#allies)                                |    4     | Um grupo apoia você. Um favor moderado gratuito por sessão.                                                                                                                                                          |
 | [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Trato Animal e testes semelhantes.                                                                                                                                                           |
-| [Aparência Genérica](../04/28-traits.md#common-sense)               |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                       |
+| [Bom Senso](../04/28-traits.md#common-sense)                        |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                       |
 | [Compostura](../04/28-traits.md#composure)                          |    2     | +5 em LUC, +1 em Limiar de Trauma, +10 em Grau de Insanidade.                                                                                                                                                        |
 | [Contato](../04/28-traits.md#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                |
 | [Senso de Perigo](../04/28-traits.md#danger-sense)                  |    1     | +10 em Testes de Percepção para evitar surpresa.                                                                                                                                                                     |
@@ -104,7 +104,7 @@ Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como 
 
 Você tem um senso instintivo para lidar e trabalhar com animais não sapientes. Aplique um modificador +10 à Perícia Exótica: Trato Animal e outros testes de perícia para influenciar ou interagir com animais.
 
-### Aparência Genérica
+### Bom Senso
 
 **Traço de ▲ Ego • Custo PP: 2**
 
@@ -377,8 +377,8 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Transtorno Mórfico](../04/28-traits.md#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
 | [Dano Neural](../04/28-traits.md#neural-damage)                      |    2     | Você tem algum tipo de dano neural incurável; veja o texto.                                      |
 | [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
-| [Letalidade](../04/28-traits.md#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
-| [Hiperlinguística](../04/28-traits.md#obtuseness)                    |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
+| [Desatenção](../04/28-traits.md#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
+| [Estupidez](../04/28-traits.md#obtuseness)                           |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
 | [Baixa Coordenação](../04/28-traits.md#poor-coordination)            |  1/2/3   | −5 por nível em Provas de REF.                                                                   |
 | [Maus Instintos](../04/28-traits.md#poor-instincts)                  |  1/2/3   | −5 por nível em Provas de INT.                                                                   |
 | [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
@@ -407,11 +407,11 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
 | [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
 | [Risco de Infecção](../04/28-traits.md#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
-| [Defeito Pericial](../04/28-traits.md#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
+| [Falhas Inerentes](../04/28-traits.md#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
 | [Baixa Tolerância à Dor](../04/28-traits.md#low-pain-tolerance)     |    4     | Modificador −10 adicional por ferimento.                                                                                        |
 | [Resíduo Memorial](../04/28-traits.md#memory-artifact)              |    1     | Recordar lembranças de outro ego uma vez por sessão; Prova de COG ou VE 1d6.                                                    |
 | [Bioquímica Não Humana](../04/28-traits.md#non-human-biochemistry)  |   2/4    | −10 em Testes de Medicina, −20 se não mamífero. Apenas biomorfos.                                                               |
-| [Desatenção](../04/28-traits.md#obtuseness)                         |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
+| [Estupidez](../04/28-traits.md#obtuseness)                          |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
 | [Obsolescência Programada](../04/28-traits.md#planned-obsolescence) |    1     | Perda de parada/ferimento cumulativos por mês sem manutenção.                                                                   |
 | [Baixa Coordenação](../04/28-traits.md#poor-coordination)           |  1/2/3   | −5 por nível em Provas de REF.                                                                                                  |
 | [Maus Instintos](../04/28-traits.md#poor-instincts)                 |  1/2/3   | −5 por nível em Provas de INT.                                                                                                  |
@@ -545,7 +545,7 @@ Este traço só está disponível para biomorfos. Este morfo rejeita implantes q
 
 **Traço de ▲ Ego • Bônus PP: 1**
 
-O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
+O reencape não é um processo fácil. Você está preso à imagem mental do seu corpo original e tem problemas em se adaptar à nova aparência e fisiologia do seu morfo. Você tem dificuldade em se identificar em espelhos, fotos ou fluxos de sensores. Você também tende a se mover de maneiras inapropriadas à sua novas forma, como tentar caminhar em vez de usar membros novos ou sistemas de propulsão, esquecer-se de se abaixar ao passar por portas, assustar-se com novos dados sensoriais, etc. Você deve interpretar esse traço de acordo, e pode sofrer um modificador −10 em ações aplicáveis.
 
 ### Indiferença
 
@@ -559,7 +559,7 @@ Sua consciência social geralmente é falha. Você sofre −5 por nível em Prov
 
 Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Este traço só está disponível para biomorfos.
 
-### Defeito Pericial
+### Falhas Inerentes
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
@@ -637,13 +637,13 @@ Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem 
 
 Este traço só está disponível para biomorfos. Este morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
-### Letalidade
+### Desatenção
 
 **Traço de ▲ Ego • Bônus PP: 2**
 
 Você ignora eventos ao seu redor ou qualquer outra coisa que não seja o foco da sua atenção. Sofra um modificador −10 em Testes de Percepção contra surpresa e aumente seu modificador de distração para −30.
 
-### Desatenção
+### Estupidez
 
 **Traço de ▲ Ego ou ▼ Morfo • Bônus PP/PM: 1/2/3**
 
