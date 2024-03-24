@@ -6,12 +6,12 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
-| Agarramentos            |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
+| Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
 | Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
 | Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Duas Mãos, Extensão, Perfura-Armadura                 |
 | Enguiônicos             |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
-| Extensão                |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
+| Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
 | Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Extensão, Perfura-Armadura                            |
@@ -109,7 +109,7 @@ Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponente
 
 ## Extensão
 
-Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
+Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
 
 ## Ataques de Toque Simples
 
@@ -133,7 +133,7 @@ Estes modificadores se aplicam a ataques de combate próximo.
 | <!-- CLEANED div class="indent" -->» Vantagem de 2+ Membros<!-- CLEANED /div -->    |                 +20                 |
 | <!-- CLEANED div class="indent" -->» Desvantagem de 2+ Membros<!-- CLEANED /div --> |                 −20                 |
 | Múltiplos Alvos                                                                                         |         −20 por alvo extra          |
-| Agarramento                                                                                             |             +10 ou mais             |
+| Extensão                                                                                                |             +10 ou mais             |
 | Toque Simples                                                                                           |            +20, sem dano            |
 
 <!-- CLEANED /blockquote -->
