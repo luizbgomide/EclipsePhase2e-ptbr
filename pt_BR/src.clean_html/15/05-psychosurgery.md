@@ -24,7 +24,7 @@ Para usar psicocirurgia, você deve ter acesso ao ego digitalizado do algo (adqu
 
 A psicocirurgia é conduzida com um Teste de Medicina: Psicocirurgia. Esta é uma ação de tarefa, com um prazo dependente do procedimento específico, como indicado abaixo. O tempo contraído pode reduzir drasticamente a quantidade de tempo real necessário ([Realidade Virtual](../13/18-virtual-reality.md)). O indivíduo não pode fazer outras ações enquanto o procedimento está em andamento.
 
-Se você tiver sucesso, a psicocirurgia é efetiva e permanente. A alteração se torna uma parte duradora do ego do indivíduo e é copiada com uploads, forqueamentos, reencapes, etc. Se você falhar, a tentativa não funciona. Se você falhar, a tentativa não funciona. Com um sucesso crítico, nenhum estresse é infligido. Com uma falha crítica, você inflige danos permanentes no indivíduo na forma de Dano Neural, Transtorno Mental, ou outro traço negativo de ego (a critério do MJ).
+Se você tiver sucesso, a psicocirurgia é efetiva e permanente. A alteração se torna uma parte duradora do ego do indivíduo e é copiada com uploads, forqueamentos, reencapes, etc. Se você falhar, a tentativa não funciona. Com um sucesso crítico, nenhum estresse é infligido. Com uma falha crítica, você inflige danos permanentes no indivíduo na forma de Dano Neural, Transtorno Mental, ou outro traço negativo de ego (a critério do MJ).
 
 Cada procedimento de psicocirurgia lista um Valor de Estresse (VE) que é infligido no indivíduo. O valor antes da barra é infligido se o procedimento falha; o valor depois da barra é infligido se o teste é bem-sucedido. Falhas maiores infligem VE 1d6 extra cada.
 
