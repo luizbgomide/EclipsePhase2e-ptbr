@@ -56,7 +56,7 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 
 ### Exalto
 
-Exaltos são os modelos de “humanos aprimorados” comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
+Exaltos são os modelos de “humanos aprimorados” comuns e não especializados. Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução).
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
