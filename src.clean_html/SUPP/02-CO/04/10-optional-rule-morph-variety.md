@@ -20,12 +20,12 @@ When used for NPCs, this is a good way of keeping players on their toes, especia
 |       8        | Add 1 Moderate complexity ware                                                            |
 |       9        | Remove 1 random pool point                                                                |
 |       10       | Reduce WT by 1, DUR by 5, and DR as appropriate                                           |
-|       11       | Add 1 [random positive morph trait](../01/19-random-tables.md#positive-morph-traits-d100) |
+|       11       | Add 1 [random positive morph trait](../01/22-trait-tables.md#positive-morph-traits-d100) |
 |       12       | Increase WT by 1, DUR by 5, and DR as appropriate                                         |
 |       13       | Add 1 random pool point                                                                   |
 |       14       | Add 1 Minor complexity ware                                                               |
 |     15–16      | Add a cosmetic/bodysculpted feature                                                       |
-|     17–20      | Add 1 [random negative morph trait](../01/19-random-tables.md#negative-morph-traits-d100) |
+|     17–20      | Add 1 [random negative morph trait](../01/22-trait-tables.md#negative-morph-traits-d100) |
 
 <!-- CLEANED /div -->
 

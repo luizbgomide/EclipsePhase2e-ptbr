@@ -170,7 +170,7 @@ This morph is made to be large, strong, and physically intimidating. Adopted ear
 
 ![Cloud Skate](./PNG/cloud-skate.png)
 
-Cloud skates are exotic, specialized biomorph designs that push the edge of what is possible. They are designed to survive in the atmospheres of ice giants and gas giants, such as Uranus and Jupiter. These morphs are shaped roughly like a tailless stingray with a pair of slender arms. They can soar among the clouds for months on end, their swim bladders providing neutral buoyancy in dense atmospheres, preventing them from sinking below a safe depth.
+Cloud skates are exotic, specialized biomorph designs that push the edge of what is possible. They are designed to survive in the atmospheres of ice giants and gas giants, such as Uranus and Saturn. These morphs are shaped roughly like a tailless stingray with a pair of slender arms. They can soar among the clouds for months on end, their swim bladders providing neutral buoyancy in dense atmospheres, preventing them from sinking below a safe depth.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -540,7 +540,7 @@ Gliders are tall and thin, with long, strong limbs and a lightweight build. Glid
 ---
 
 - **Movement Rate:** Walker 4/12, Glider 8/32
-- **Ware:** Biomods, Cortical Stack, Enhanced Respiration, Gliding Membranes, Grip Pads, Enhanced Vision, Mesh Inserts, Prehensile Feet
+- **Ware:** Biomods, Cortical Stack, Enhanced Respiration, Enhanced Vision, Gliding Membranes, Grip Pads, Mesh Inserts, Prehensile Feet
 - **Morph Traits:** Exotic Morphology (Level 1), Limberness (Level 1)
 - **Common Extras:** Respirocytes
 
@@ -568,7 +568,7 @@ Venusian gliders are designed to survive for many hours in the middle acidic-but
 ---
 
 - **Movement Rate:** Walker 4/12, Glider 8/32
-- **Ware:** Biomods, Cortical Stack, Enhanced Respiration, Gliding Membranes, Enhanced Vision, Mesh Inserts, Oxygen Reserve, Vacuum Sealing
+- **Ware:** Biomods, Cortical Stack, Enhanced Respiration, Enhanced Vision, SGliding Membranes, Mesh Inserts, Oxygen Reserve, Vacuum Sealing
 - **Morph Traits:** Exotic Morphology (Level 1), Limberness (Level 1)
 - **Common Extras:** Respirocytes
 
@@ -842,7 +842,7 @@ The nomad biomorph is optimized for operating in desert environments. They incor
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cold Tolerance, Cortical Stack, Direction Sense, Efficient Digestion, Heat Tolerance, Mesh Inserts
+- **Ware:** Biomods, Cold Tolerance, Cortical Stack, Direction Sense, Efficient Metabolism, Heat Tolerance, Mesh Inserts
 - **Notes:** Bodysculpting (Hooves), Respirocytes, Toxin Filters. Many have the Unattractiveness trait.
 
 <!-- CLEANED /blockquote -->
@@ -1116,6 +1116,7 @@ A lateral line organ allows them to “hear” the low-frequency vibrations that
 - **Movement Rate:** Magnetic Generator 8/40, Swim 8/40
 - **Ware:** Anti-Glare, Asymmetric Sleep, Biomods, Chameleon Skin, Cortical Stack, Enhanced Hearing, Enhanced Vision, Heat Tolerance, Laser Link (Medium), Long-Term Life Support, Magnetic Generator, Medichines, Mesh Inserts, Oxygen Reserve, Refractive Coating, Vacuum Sealing
 - **Morph Traits:** Exotic Morphology (Level 3), Non-Human Biochemistry (Level 2)
+- **Notes:** Very Large size
 
 <!-- CLEANED /blockquote -->
 
@@ -1145,6 +1146,7 @@ Nishakara, named after the Hindu “night maker” lunar deity who sprang from t
 - **Ware:** Biomods, Cortical Stack, Cryogenic Protection, Enhanced Vision, Long-Term Life Support, Magnetic Generator, Medichines, Mesh Inserts, Oxygen Reserve, Vacuum Sealing
 - **Morph Traits:** Exotic Morphology (Level 3), Non-Human Biochemistry (Level 2)
 - **Common Extras:** Hibernation. Many have the Enhanced Behavior (Introversion, Level 2) trait.
+- **Notes:** Very Large size
 
 <!-- CLEANED /blockquote -->
 

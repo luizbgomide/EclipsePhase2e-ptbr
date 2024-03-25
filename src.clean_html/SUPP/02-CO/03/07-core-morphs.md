@@ -23,7 +23,7 @@ Overminds are the top tier of core morphs. They are found in highsecurity habita
 
 - **Ware:** Access Jacks, App-Lock, Asymmetric Sleep, Auto Backup, Circadian Regulation, Copylock, Core System, Cortical Stack, Drone Rig, Energy Efficiency, Enhanced Security, Fault Tolerance, Ghostrider Modules (5+), Mesh Inserts, Mnemonics, Multi-Ego Controls, Multi-Focus (7), Multi-Tasking, Oracles, Puppet Sock, Skillware, Stress Control
 - **Morph Traits:** Digital Speed, Enhanced Behavior (Helpful, Level 2), Enhanced Behavior (Protective, Level 2), Exotic Morphology (Level 3)
-- **Notes:** Overminds follow the rules for [core systems rules](../02/01-morph-types.md#core-morphs). Bonus from Multi-Tasking already incorporated.
+- **Notes:** Overminds follow the [core systems rules](../02/01-morph-types.md#core-morphs). Bonus from Multi-Tasking already incorporated.
 
 <!-- CLEANED /blockquote -->
 
@@ -71,7 +71,7 @@ Wardens are basic core cyberbrain systems, commonly used in smaller habitats and
 
 ### Warden
 
-- **Cost:** Rare • **Avail:** NA
+- **Cost:** Rare (7&nbsp;MP) • **Avail:** NA
 
 ---
 

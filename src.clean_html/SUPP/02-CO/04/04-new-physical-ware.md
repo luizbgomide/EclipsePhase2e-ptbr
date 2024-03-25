@@ -6,7 +6,7 @@
 | Convertible Form       |     H     |    Min/1     | Transform into a pre-set configuration in 3 action turns.                    |
 | Digestive Symbiotes    |     N     |    Mod/2     | Safely eat most organics; protects vs. oral biochem toxins.                  |
 | Digging Claws          |    BCH    |    Min/1     | DV 1d10 + 3.                                                                 |
-| Efficient Digestion    |    BN     |    Mod/2     | Eat/drink once per week; survive 1–2 months w/o food/water.                  |
+| Efficient Metabolism   |    BN     |    Mod/2     | Eat/drink once per week; survive 1–2 months w/o food/water.                  |
 | Extra Limbs            |    BCH    |    Min/1     | Pair of extra limbs.                                                         |
 | Gliding Membrane       |    BCH    |    Min/1     | Gliding 8/32; use Athletics.                                                 |
 | Heat Tolerance         |    BH     |    Min/1     | Handle temps as high as 130 F/500 F.                                         |
@@ -29,7 +29,7 @@ Your shoulders, arms, and wrists are modified for fast brachiation — using the
 
 Smart materials provide your morph with limited but quick shapeshifting capabilities. You can transform your body plan between two pre-set configurations in 3 action turns. This mod may be taken multiple times for additional configurations.
 
-If you also have shape adjusting ware, you can choose either 1 Moderate complexity or 2 Minor complexity items/ware as pre-set configurations that you can transform into in 3 action turns instead of the usual 1d6 minutes.
+If you also have shape adjusting ware, you can choose either 1 Moderate complexity or 2 Minor complexity items/ware as pre-set configurations that you can transform into in 3 action turns instead of the usual 1d6 minutes. However, if your module is not in its default confguration, this rapid re-assembly may not be possible (GM discretion).
 
 ### Digestive Symbiotes
 
@@ -43,7 +43,7 @@ Whereas normal claw ware is concealable, this mod features lengthened, sturdier 
 
 ### Efficient Metabolism
 
-Your metabolism is optimized. Digestion is more efficient, the basal metabolic rate is lowered, and related processes, reactions, and caloric expenditures are improved. Eating and drinking is only necessary once a week. You can survive a month without water and 2 months without food, though the effects of starvation and dehydration kick in after ~2 weeks. This ware is not compatible with long-term life support.
+Your metabolism is optimized. Digestion is more efficient, the basal metabolic rate is lowered, and related processes, reactions, and caloric expenditures are improved. Eating and drinking is only necessary once a week. You can survive a month without water and 2 months without food, though the effects of starvation and dehydration kick in after ~2 weeks. This ware is not compatible with long-term life support. Not compatible with energy efficiency ware.
 
 ### Extra Limbs
 
@@ -73,7 +73,7 @@ This is an implanted version of the [laser/microwave link](../../../16/16-comms-
 
 ### Long-Term Life Support
 
-This nanoware system allows biomorphs to survive for long periods of time without air, food, and water. Nanomachines and symbiotic bacteria convert their metabolism into a nearly closed system. The biomorph can survive on just a handful of ice and carbon grit (or other organics) every few days for up to a month. Nanobots carrying isotopes transfer energy to the body so that it can be absorbed in a safe manner. With the monthly use of simple and cheap chemical reserve packs, this can be extended up to a year before the system must be flushed, balanced, and replenished in a medical shop or healing vat. Vitamins and protein supplements are necessary for long-term health, but this ware provides a handy alternative to starving in harsh environments. This ware is not compatible with efficient digestion.
+This nanoware system allows biomorphs to survive for long periods of time without air, food, and water. Nanomachines and symbiotic bacteria convert their metabolism into a nearly closed system. The biomorph can survive on just a handful of ice and carbon grit (or other organics) every few days for up to a month. Nanobots carrying isotopes transfer energy to the body so that it can be absorbed in a safe manner. With the monthly use of simple and cheap chemical reserve packs, this can be extended up to a year before the system must be flushed, balanced, and replenished in a medical shop or healing vat. Vitamins and protein supplements are necessary for long-term health, but this ware provides a handy alternative to starving in harsh environments. This ware is not compatible with efficient metabolism.
 
 ### Magnetic Generator
 
@@ -85,7 +85,7 @@ This ware functions much like shape adjusting, but with some key differences. Ra
 
 Some of the ware/gear it can form includes: claws, digging claws, disassembly tools, extra limbs, gliding membrane, grasping tendril, hidden compartment, mobility system (boat, hopper, roller, snake, walker, swimmer), prehensile feet, prehensile tail, retracting limbs, skin pocket, telescoping limb, weapon mount, wings. Others may be allowed at GM discretion.
 
-Synthmorphs with this mod do not have a frame, but they receive AV 4/0 and only take half damage from kinetic projectiles such as firearms and railguns. Morphs with this gear may not use synthetic mask.
+Synthmorphs with this mod do not have a frame, but they receive AV 4/0 and only take half damage from kinetic projectiles such as firearms and railguns. Morphs with this gear may not use synthetic mask or shape adjusting ware.
 
 ### Plasma Sail
 

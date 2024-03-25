@@ -10,6 +10,8 @@ To simulate this, GMs can allow the following mod packages, which each bundle to
 
 **Redundant Ware:** Some of these packs may provide ware that is already included in the morph or in one of the PC’s gear packs. In this case, simply allow the player to swap out the repeated ware for something of an equivalent GP cost.
 
+**Multiple Packages:** A morph may have more than one package, but this will likely reduce Availability (GM discretion).
+
 ## Enhanced Ware Packages
 
 ### Academic Essentials
@@ -125,6 +127,8 @@ To simulate this, GMs can allow the following mod packages, which each bundle to
 **(+1 MP)**<br>Data Module, Remote Backup Link
 
 ## Elite Ware Packages
+
+Elite packages are oﬀered as add-ons to their corresponding enhancement packages, but they can also be acquired separately.
 
 ### Academic Elite
 

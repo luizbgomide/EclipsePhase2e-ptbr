@@ -289,7 +289,7 @@ Capitalizing on the popularity of octomorphs, this stylized squid is designed fo
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Delta-V:** Quite an interesting ride, but useless in any non-aquatic environment with gravity.                                                                                                                                                                                                                |
 | **Pivo:** You hear about that situation on Atlantica? A certain neo-whale there ate a couple of folks sleeved in flying squid morphs. They claimed they couldn’t tell ‘em apart from their nonsapient squid feedstock. Word on the waves is that some sort of black market deal went sour.                      |
-| **Expat:** I know some reclaimers who came across a group of flying squid morphs while doing recon on Earth, looking for a deepv sea sanctuary. The squid scattered before they could make contact. Interesting thing is: these morphs were first designed after the Fall. So why are they showing up on Earth? |
+| **Expat:** I know some reclaimers who came across a group of flying squid morphs while doing recon on Earth, looking for a deep sea sanctuary. The squid scattered before they could make contact. Interesting thing is: these morphs were first designed after the Fall. So why are they showing up on Earth? |
 
 ## Hypergibbon
 
@@ -412,7 +412,7 @@ Developed by the genehackers of Fortean, ripwings are neogenetic avian chimeras,
 
 <!-- CLEANED /blockquote -->
 
-| **RIPWIING**                                                                                                                                                                                                                                                                                                                  |
+| **RIPWING**                                                                                                                                                                                                                                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nevermore:** I’ve seen more and more young neo-avian uplifts sleeving into ripwings. While the old biomorphs certainly feel better, the ripwing has a certain durability to it that lets you get away with more mistakes and a rougher approach to life. If I were four or five years younger, I’d probably get one myself. |
 | **Cymascopist:** Aren’t you only sixteen?                                                                                                                                                                                                                                                                                     |
