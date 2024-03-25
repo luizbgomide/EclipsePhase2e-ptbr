@@ -9,7 +9,7 @@ Visually identifying a morph’s model is not always easy, especially humanoid b
 You have several options for making an ID:
 
 - **Visual ID:** If you seek to visually identify a morph’s general type (case, exalt, etc.), make an appropriate Know Test, such as Know: Synthmorph Models or Know: Morph Design. Apply a −30 modifier for humanoid biomorphs that lack any specific physical characteristics that might give them away (such as a bouncer’s prehensile feet or a flat’s noticeable advanced age). Take other modifiers into account as appropriate, such as a well-known brand-name (+20) or use of a new prototype (–20).
-- **Online Research:** You can also attempt to identify a morph by taking a photo and doing a reverse-image search online; this is a standard Research Test. If you have the use of a Biometric Matcher app, apply +20 to your test.
+- **Online Research:** You can also attempt to identify a morph by taking a photo and doing a reverse-image search online; this is a standard Research Test. If you have the use of a biometric matcher app, apply +20 to your test.
 - **Physical Exam:** If you physically examine a morph, roll Medicine: Biotech or Hardware: Robotics to identify it. Use of the appropriate equipment, such as genetic testing or thorough terahertz scanning, will identify the specific morph model outright.
 - **Disguised Morphs:** If a morph is intentionally masked or disguised, any tests made to ID it are treated as an opposed test against the masker’s Medicine: Biotech, Hardware: Robotics skill, or Exotic Skill Disguise skill.
 

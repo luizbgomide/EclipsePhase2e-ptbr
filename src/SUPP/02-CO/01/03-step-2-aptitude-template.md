@@ -33,13 +33,13 @@ Were you a rough-and-tumble type from birth? Did you always have the gleam of cu
 |   5   |       |      **Inquirer** | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
 |   6   |       |      **Survivor** | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
 |   7   |       | **Thrill Seeker** | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
-|   8   |       |    **Roll Again** |
+|   8   |       |    **Roll Again** |                                                                              |       |       |       |       |       |       |
 |       |  1–5  |     **Actioneer** | You are more comfortable with physicality than talking or thinking.          |  10   |  15   |  20   |  10   |  20   |  15   |
 |       |  6–0  |     **Extrovert** | You can talk your way through most situations.                               |  10   |  20   |  15   |  20   |  15   |  10   |
-|   9   |       |    **Roll Again** |
+|   9   |       |    **Roll Again** |                                                                              |       |       |       |       |       |       |
 |       |  1–5  |    **Faciltator** | You’re good with people, planning, and seeing things through.                |  15   |  15   |  10   |  20   |  10   |  20   |
 |       |  6–0  |      **Inquirer** | Your creative mind is good at figuring things out.                           |  20   |  20   |  10   |  15   |  10   |  15   |
-|   0   |       |    **Roll Again** |
+|   0   |       |    **Roll Again** |                                                                              |       |       |       |       |       |       |
 |       |  1–5  |      **Survivor** | You have the will and stamina to scrape by in tough situations.              |  15   |  10   |  15   |  10   |  20   |  20   |
 |       |  6–0  | **Thrill Seeker** | Your fast reaction time and quick thinking compensate for lack of foresight. |  20   |  10   |  20   |  15   |  15   |  10   |
 

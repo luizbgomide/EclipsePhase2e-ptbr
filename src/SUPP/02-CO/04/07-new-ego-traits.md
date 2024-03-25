@@ -218,7 +218,7 @@ Your mind’s foundation is solid, even in especially traumatic situations. You 
 
 ### Merging Mastery
 
-**▲ Ego Trait • CP Cost: 2**
+**▲ Ego Trait • CP Cost: 1**
 
 Your mind easily reintegrates forks. You never suffer memory loss when [merging forks](../../../15/06-psychosurgery-procedures.md#merging) (_EP2_) back into your ego unless you roll a critical failure, which is treated as minor memory loss.
 
@@ -388,7 +388,7 @@ Negative ego traits provide a CP bonus and apply penalties in certain situations
 | [Submissiveness](../04/07-new-ego-traits.md#submissiveness)                     |  1/2/3   | –10 per level to resist Persuade/Provoke from NPCs with superior capabilities or higher social status.                      |
 | [Subverted Mind](../04/07-new-ego-traits.md#subverted-mind)                     |    6     | Your mind is programmed without your knowledge; see text.                                                                   |
 | [Thorough Infection](../04/07-new-ego-traits.md#thorough-infection)             |    4     | Reduce Infection Rating by 5 for short recharges and 20 for long recharges.                                                 | Asyncs (Psi Lvl 2) |
-| [Uncooperative Tendencies](../04/07-new-ego-traits.md#uncooperative-tendencies) |    2     | You do not benfit from teamwork bonuses. Apply a −10 when you attempt teamwork with others.                                 |
+| [Uncooperative Tendencies](../04/07-new-ego-traits.md#uncooperative-tendencies) |    2     | You do not benefit from teamwork bonuses. Apply a −10 when you attempt teamwork with others.                                |
 | [Unreliability](../04/07-new-ego-traits.md#unreliability)                       |    4     | Once per session, GM can designate that you are not allowed to use pools on a specific test.                                |
 | [Unusual Aura](../04/07-new-ego-traits.md#unusual-aura)                         |    4     | Your targets are always aware and your sleights have a visible effect when you trigger an influence effect.                 |             Asyncs |
 

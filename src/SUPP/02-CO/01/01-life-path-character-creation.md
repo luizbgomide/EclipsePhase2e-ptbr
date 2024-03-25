@@ -68,7 +68,7 @@ Traits with levels are also cumulative. If you pick up Resources (Level 1) in on
 
 ## Changing Morphs
 
-In Step 4, you acquire your starting morph. At various further stages, you may egocast, resleeve, or die. Some entries assign you a specific new morph, but most instruct you to roll on the [Random Morph tables](./19-random-tables.md#morph-type-d100) to determine your new sleeve. This new morph replaces your existing one. The morph you have at the end of the life path ([Step 15](./16-step-15-final-stats-and-details.md)) is the one with which you start gameplay.
+In Step 4, you acquire your starting morph. At various further stages, you may egocast, resleeve, or die. Some entries assign you a specific new morph, but most instruct you to roll on the [Random Morph tables](./20-morph-tables.md) to determine your new sleeve. This new morph replaces your existing one. The morph you have at the end of the life path ([Step 15](./16-step-15-final-stats-and-details.md)) is the one with which you start gameplay.
 
 ## This Is Your Life
 

@@ -13,7 +13,7 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
 ## Progresso
 
 - [x] Organização dos arquivos (100%)
-- [ ] Tradução dos Capítulos (47%)
+- [ ] Livro Básico (v1.3) (47%)
   - [x] Infâmia
   - [x] Começando
   - [x] Mecânicas do Jogo
@@ -33,6 +33,9 @@ O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomi
   - [ ] Conduzindo o Jogo
   - [ ] Ameaças & Riscos X
   - [x] Apêndices
+- [ ] Suplementos
+  - [ ] Multiplicide & Síntese
+  - [ ] Opções para Personagens (v1.0.1)
 - [ ] Revisão
 
 ## License

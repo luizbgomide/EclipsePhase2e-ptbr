@@ -5,7 +5,7 @@
 
 **Your character’s factional allegiance determines which faction your character associates with at the start of gameplay. Choose or roll a faction on Table 11.**
 
-**You acquire the Know: \[Faction\] Interests 20 skill, as appropriate to the faction. Though not required, you may also want to consider changing one of your motivations to fit this faction’s ideologies and goals. Then move on Step 12. If you end up with no faction or split allegiances, you may apply the 20 Know skill points to a Know skill of your choice (or [roll](./19-random-tables.md#random-skills-d100)).**
+**You acquire the Know: \[Faction\] Interests 20 skill, as appropriate to the faction. Though not required, you may also want to consider changing one of your motivations to fit this faction’s ideologies and goals. Then move on Step 12. If you end up with no faction or split allegiances, you may apply the 20 Know skill points to a Know skill of your choice (or [roll](./24-skill-tables.md#know-fields-d100)).**
 
 </blockquote>
 
@@ -46,7 +46,7 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 | 91–92 | Belter        | Belter Interests 20        | +Hypercapitalism, +Extropianism, +Independence           | c-rep 30, g-rep 10           |
 |  93   | Europan       | Europan Interests 20       | +Independence, +Technoprogressivism, –Bioconservatism    | @-rep 10, c-rep 20, f-rep 10 |
 |  94   | Ringer        | Ringer Interests 20        | +Autonomy, +Creative Expression, +Independence           | @-rep 40                     |
-| 95–96 | Sapient       | Sapient Interests 20       | +Assimilation, +Neurodiversity, +Uplight Rights          | c-rep 40                     |
+| 95–96 | Sapient       | Sapient Interests 20       | +Assimilation, +Neurodiversity, +Uplift Rights           | c-rep 40                     |
 |  97   | Sifter        | Sifter Interests 20        | +Survival, +Independence, –Indenture                     | c-rep 40                     |
 |  98   | Skimmer       | Skimmer Interests 20       | +Autonomy, +Independence, +Survival                      | @-rep 20, c-rep 20           |
 |  99   | Solarian      | Solarian Interests 20      | +Autonomy, +Creative Expression, +Independence           | @-rep 10, c-rep 30           |

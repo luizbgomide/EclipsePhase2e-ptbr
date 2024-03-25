@@ -51,11 +51,11 @@ For every 4 CP worth of traits added or subtracted, increase or decrease (respec
 
 ## Designing New Morphs by Formula
 
-You can also create a morph from scratch with the following steps and formula. Every pool point, ware, trait, and deviation from DUR adds to the total CP cost.
+To create a morph from scratch: follow the steps and formula on the [Morph Design Steps and Costs table](#morph-design-steps-and-costs). Every pool point, ware, trait, and deviation from DUR adds to the total CP cost.
 
 Modifications to pools or DUR that come from ware do not count towards CP totals (they are already incorporated into the ware cost).
 
-### Design Considerations
+## Design Considerations
 
 The most important thing to keep in mind when designing a morph is that the stats that you are giving it match the actual design and intent for the morph. Avoid the temptation to pump up the stats just to optimize your character. The easiest way to do this is to compare it to equivalent morphs.
 
@@ -63,7 +63,7 @@ There are a few special considerations to keep in mind when designing a new morp
 
 ### Durability
 
-The default Durability for transhuman biomorphs is 35, with synthmorphs baselining at 40. The general range is 25 for small morphs to 65 for very large. Your Durability scores should keep within this range and should reflect the size and toughness of the morph.
+New morph designs start with a Durability of 35; adjustments raise or lower the CP cost as noted. Scores should reﬂect the size and toughness of the morph, keeping within a range of 25 for small morphs to 65 for very large. The average DUR for medium-sized biomorphs is 35, 40 for synthmorphs.
 
 Wound Threshold is always equal to DUR ÷ 5. Death Rating is DUR x 1.5 for biomorphs and DUR x 2 for synthmorphs.
 
@@ -109,9 +109,9 @@ Every synthmorph must also choose a frame. This provides it with an inherent Arm
 - **Medium Frame (4 CP trait):** AV 8/6
 - **Heavy Frame (6 CP trait):** AV 12/10
 
-### Infomorphs
+### Infomorphs and Core Morphs
 
-Infomorphs all have mnemonics ware and both the Digital Speed and Exotic Morphology (Level 3) traits. They also have no use for Vigor pool.
+Infomorphs all have mnemonics ware and both the Digital Speed and Exotic Morphology (Level 3) traits. They also have no use for Vigor pool. Core morphs are the same as infomorphs, and they also must have the core system ware (at no cost).
 
 ### Mobility Systems
 

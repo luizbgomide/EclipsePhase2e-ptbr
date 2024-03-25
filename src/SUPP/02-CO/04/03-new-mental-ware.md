@@ -9,7 +9,7 @@
 | Defrag              |     M     |    Mod/2     | Recover additional pool point with each short rest.                                            |
 | Failsafe            |     N     |    Min/1     | If infected, ejects stack/erases cyberbrain and kills body. Requires medichines or nanophages. |
 | Fake Brainprint     |     M     |   Maj/3/R    | Alters prints; 5% detection with quick scans, 10% full scans.                                  |
-| Hypermesh Link      |    CH     |   Maj/3/R    | Group mind-state, +1 Insight, can use Insight to borrow skills.                                |
+| Hypermesh Link      |    CHM    |   Maj/3/R    | Group mind-state, +1 Insight, can use Insight to borrow skills.                                |
 | Multi-Ego Controls  |    HM     |    Maj/3     | Multiple egos may control the same morph simultaneously.                                       |
 | Multi-Focus         |    CHM    |    Min/1     | Focus on 1 additional thing at once or maintain ongoing mental task. Requires multi-tasking.   |
 | Optogenetics Module |     C     |    Min/1     | Trigger one pre-specified neural function.                                                     |

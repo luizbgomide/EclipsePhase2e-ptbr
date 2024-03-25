@@ -4,20 +4,20 @@
 
 ### Negative Morph Traits
 
-| Trait                                                                                | MP Bonus | Effect                                                                                                                             |             Restricted To |
-| :----------------------------------------------------------------------------------- | :------: | :--------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
-| [Aggressive GRM](../04/06-negative-morph-traits.md#aggressive-grm)                   |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                                                        |                 Biomorphs |
-| [Emotive](../04/06-negative-morph-traits.md#emotive)                                 |    1     | Kinesics Tests against you do not suffer the usual −30 modifier.                                                                   |               Synthmorphs |
-| [Fast Metabolism](../04/06-negative-morph-traits.md#fast-metabolism)                 |    1     | Minor complexity daily food requirement.                                                                                           |                 Biomorphs |
-| [Grav Sickness](../04/06-negative-morph-traits.md#grav-sickness)                     |    2     | Suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (_EP2_) for every 0.2&nbsp;g over 0.15. |                 Biomorphs |
-| [Impaired Balance](../04/06-negative-morph-traits.md#impaired-balance)               |   1/2    | −10 modifier per level to Athletics or Pilot Tests involving balance or upright movement.                                          |                  Neo-pigs |
-| [Impaired Hearing](../04/06-negative-morph-traits.md#impaired-hearing)               |    1     | −30 to hearing-based Perceive Tests.                                                                                               |                Neo-octopi |
-| [Impaired Proprioception](../04/06-negative-morph-traits.md#impaired-proprioception) |    2     | −10 to Fray Tests.                                                                                                                 | Flying squid & neo-octopi |
-| [Lack of Manipulators](../04/06-negative-morph-traits.md#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                 |
-| [Lack of Smell](../04/06-negative-morph-traits.md#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                           |
-| [Memory Artifact](../04/06-negative-morph-traits.md#memory-artifact)                 |    2     | GM can substitute critical failure with memory from another. Stress Test vs. SV 1d6.                                               |
-| [Neurochemical Imbalance](../04/06-negative-morph-traits.md#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                             |
-| [Whole Body Apoptosis](../04/06-negative-morph-traits.md#whole-body-apoptosis)       |    1     | GM can substitute critical failure with biological death within 24 hours.                                                          |                 Biomorphs |
+| Trait                                                                                | MP Bonus | Effect                                                                                                                                             |             Restricted To |
+| :----------------------------------------------------------------------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
+| [Aggressive GRM](../04/06-negative-morph-traits.md#aggressive-grm)                   |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                                                                        |                 Biomorphs |
+| [Emotive](../04/06-negative-morph-traits.md#emotive)                                 |    1     | Kinesics Tests against you do not suffer the usual −30 modifier.                                                                                   |               Synthmorphs |
+| [Fast Metabolism](../04/06-negative-morph-traits.md#fast-metabolism)                 |    1     | Minor complexity daily food requirement.                                                                                                           |                 Biomorphs |
+| [Grav Sickness](../04/06-negative-morph-traits.md#grav-sickness)                     |    2     | Suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (1 wound effect; _EP2_) for every 0.2&nbsp;g over 0.15. |                 Biomorphs |
+| [Impaired Balance](../04/06-negative-morph-traits.md#impaired-balance)               |   1/2    | −10 modifier per level to Athletics or Pilot Tests involving balance or upright movement.                                                          |                  Neo-pigs |
+| [Impaired Hearing](../04/06-negative-morph-traits.md#impaired-hearing)               |    1     | −30 to hearing-based Perceive Tests.                                                                                                               |                Neo-octopi |
+| [Impaired Proprioception](../04/06-negative-morph-traits.md#impaired-proprioception) |    2     | −10 to Fray Tests.                                                                                                                                 | Flying squid & neo-octopi |
+| [Lack of Manipulators](../04/06-negative-morph-traits.md#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                                 |
+| [Lack of Smell](../04/06-negative-morph-traits.md#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                                           |
+| [Neurochemical Imbalance](../04/06-negative-morph-traits.md#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                                             |
+| [Personality Artifact](../04/06-negative-morph-traits.md#personality-artifact)       |    2     | Once per session, apply random Enhanced Behavior trait or new motivation; Stress Test vs. SV 1d6.                                                  |
+| [Whole Body Apoptosis](../04/06-negative-morph-traits.md#whole-body-apoptosis)       |    1     | GM can substitute critical failure with biological death within 24 hours.                                                                          |                 Biomorphs |
 
 </blockquote>
 
@@ -49,7 +49,7 @@ If you fail to acquire the amount of food you need more than 2 days in a row, lo
 
 **▼ Morph Trait • MP Bonus: 2**
 
-This trait is only available to biomorphs. This morph is adapted for low-gravity environments (0.15 or less) and struggles in higher gravity. You suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (_EP2_) for every 0.2&nbsp;g over 0.15. On Mars or Mercury (0.38&nbsp;g), you would suffer the effects of 1 wound; on Venus or Earth (1&nbsp;g), you suffer the effects of 3 wounds.
+This trait is only available to biomorphs. This morph is adapted for low-gravity environments (0.15 or less) and struggles in higher gravity. You suffer the effects of [high gravity](../../../12/28-environmental-factors.md#high-gravity) (_EP2_) for every 0.2&nbsp;g over 0.15. On Mars or Mercury (0.38&nbsp;g), you would suffer the effects of 1 wound; on Venus or Earth (1&nbsp;g), you suffer the effects of 4 wounds.
 
 ### Impaired Balance
 
@@ -81,21 +81,21 @@ This morph lacks hands or other limbs with a fine manipulation capability. It is
 
 This morph lacks functioning olfactory organs and/or capabilities, meaning you cannot smell. You are oblivious to the scents of cooking food, perfume, rot, body odor, smoke, and odorants added to dangerous chemicals, among other things. This also likely diminishes your ability to taste; many foods taste the same. You are immune to the effects of enhanced pheromones.
 
-### Memory Artifact
-
-**▼ Morph Trait • MP Bonus: 2**
-
-This morph has an anomalous neural structure that prevents memory fragments from a previous ego (or egos) from being erased. These memories are of emotionally charged or memorable events and may surface in your mind unexpectedly or when triggered by stress. Any time you roll a critical failure, the GM can change that into a regular failure and then detail an upsurging memory to you sometime within the next 24 hours (in game). This artifact fully seems like something you experienced and becomes integrated with your own memories. Your mind may even subconsciously alter some details to fit your life experiences. Each time a new artifact is invoked, you must make a Willpower Stress Test against SV 1d6, perhaps more if the memory is particularly jarring, traumatic, or conflicts with your personality or motivations.
-
-Unwanted memories may be removed with psychosurgery. GMs can use these memories for plot purposes, as they may include sensitive data or secrets.
-
 ### Neurochemical Imbalance
 
 **▼ Morph Trait • MP Bonus: 3**
 
-Your morph’s neurochemistry (or its neurochemical simulators) is unbalanced. You suffer from sudden mood swings and strong, almost overwhelming, emotions. The GM makes a list of 6 [Enhanced Behavior traits](../../../04/28-traits.md#enhanced-behavior) (_EP2_), all at Level 2. Examples include sadness, despair, frustration, anxiety, loneliness, euphoria, manic intensity, arousal, contrariness, and so on. Each time you spend a pool point or make a WIL Check, roll 1d6 to choose which of those Enhanced Behavior traits kicks in. The Enhanced Behaviors apply at Level 2 and affect you for 1d6 hours.
+Your morph’s neurochemistry (or its neurochemical simulators) is unbalanced. You suffer from sudden mood swings and strong, almost overwhelming, emotions. The GM makes a list of 6 [Enhanced Behavior (Level 2) trait](../../../04/28-traits.md#enhanced-behavior) (_EP2_), all at Level 2. Examples include sadness, despair, frustration, anxiety, loneliness, euphoria, manic intensity, arousal, contrariness, and so on. Each time you spend a pool point or make a WIL Check, roll 1d6 to choose which of those Enhanced Behavior traits kicks in. The Enhanced Behaviors apply at Level 2 and affect you for 1d6 hours.
 
 You may use drugs, psychosurgery, or certain ware (such as neuromodulation or endocrine control) to counteract these Enhanced Behaviors, reducing them to Level 1 or blocking them entirely (GM discretion). However, ware used this way may not be used to trigger other emotions at the same time. At the GM’s discretion, certain situations may exacerbate or limit the Enhanced Behaviors (to Level 1 or Level 3 as appropriate).
+
+### Personality Artifact
+
+**▼ Morph Trait • MP Bonus: 2**
+
+Echoes of previous egos that inhabited this morph linger as enduring mental imprints and occasionally intrude, altering your disposition. Work with your GM to generate 6 personality traits that differ from your norm, expressing each an [Enhanced Behavior (Level 2) trait](../../../04/28-traits.md#enhanced-behavior) (_EP2_) or a motivation (replacing an existing one when triggered). Once per session, you or the GM can assert that one of these artifacts is activated and changes your personality; roll 1d6 to determine which. Te triggering condition may be taking stress, interacting with specifc environments or circumstances, rolling a critical failure, or random chance. Artifacts stay in effect for 1d6 days and are completely natural and “in character” to your affected ego, no matter how drastic a change.
+
+Each time an artifact is invoked, make a Willpower Stress Test against SV 1d6 (more if the change is at strong contrast or antithetical to your usual self ). Artifacts may be temporarily removed with psychosurgery, but never fully erased (i.e., they can be triggered again).
 
 ### Whole Body Apoptosis
 

@@ -64,7 +64,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 |                                                                         |      |
 | :---------------------------------------------------------------------- | ---: |
-| [Animal Empathy trait](../../../04/28-traits.md#animal-empathy) (_EP2_) |
+| [Animal Empathy trait](../../../04/28-traits.md#animal-empathy) (_EP2_) |      |
 | c-rep                                                                   |   20 |
 | Exotic Skill: Animal Handling                                           |   40 |
 | Medicine: Veterinary                                                    |   40 |
@@ -109,8 +109,8 @@ The interests determined here represent hobbies you have delved into over the ye
 
 |                                                             |      |
 | :---------------------------------------------------------- | ---: |
-| [Psi (Level 2) trait](../../../04/28-traits.md#psi) (_EP2_) |
-| 4 psi sleights                                              |
+| [Psi (Level 2) trait](../../../04/28-traits.md#psi) (_EP2_) |      |
+| 4 psi sleights                                              |      |
 | g-rep                                                       |   20 |
 | Deceive                                                     |   40 |
 | Psi                                                         |   40 |

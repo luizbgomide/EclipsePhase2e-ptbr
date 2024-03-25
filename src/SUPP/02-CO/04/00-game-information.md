@@ -1,4 +1,4 @@
-# Game Info
+# Game Information
 
 ## Morph Conspiracies
 

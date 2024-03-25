@@ -590,7 +590,7 @@ This high-end shell was designed to increase the appeal and social acceptance of
 
 ### Golem Variant
 
-For those who need to have no choice to sleeve into a synth, but who want to appear biomorph, the golem is a solid choice.
+For those who need to sleeve into a synth, but who want to appear biomorph, the golem is a solid choice.
 
 <blockquote class="indent stat-list">
 
@@ -607,6 +607,7 @@ For those who need to have no choice to sleeve into a synth, but who want to app
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Access Jacks, Chameleon Skin, Cortical Stack, Cyberbrain, Enhanced Hearing, Lidar, Mesh Inserts, Mnemonics, Puppet Sock, Synthetic Mask
+- **Morph Traits:** Exotic Morphology (Level 1)
 - **Notes:** Medium Frame (Armor 8/6)
 
 </blockquote>
@@ -646,7 +647,7 @@ This anthroform mobile sensor unit is designed for media, freelance journalists,
 
 ![Griefer](./PNG/griefer.png)
 
-Griefers are disposable morphs used by trolls, vandals, and terrorists to spread chaos, harass people, antagonize the authorities, and worse. Griefers have embedded sound and holographic display systems to make their presence known. They are often equipped with hacking tools and other subversive ware, from graffiti implements and mounted sprayers to nanoswarm hives or even explosives, according to their specific purpose. Most importantly, they are built without cortical stacks, so if they are destroyed, the ego cannot be interrogated through psychosurgery. Griefers are illegal in many habitats, especially in the Planetary Consortium, but DRM-free blueprints are easy to find in many darknets, thus making them a persistent annoyance across the Solar System. in some systems. A few habitats have passed laws mandating that destroying a griefer is not considered murder, assault, or even destruction of property.
+Griefers are disposable morphs used by trolls, vandals, and terrorists to spread chaos, harass people, antagonize the authorities, and worse. Griefers have embedded sound and holographic display systems to make their presence known. They are often equipped with hacking tools and other subversive ware, from graffiti implements and mounted sprayers to nanoswarm hives or even explosives, according to their specific purpose. Most importantly, they are built without cortical stacks, so if they are destroyed, the ego cannot be interrogated through psychosurgery. Griefers are illegal in many habitats, especially in the Planetary Consortium, but DRM-free blueprints are easy to find in many darknets, thus making them a persistent annoyance across the Solar System. A few habitats have passed laws mandating that destroying a griefer is not considered murder, assault, or even destruction of property.
 
 <blockquote class="indent stat-list">
 
@@ -802,9 +803,9 @@ Ultra kites are larger humanoid-sized versions of kites. They have difficulty ac
 ---
 
 - **Movement Rate:** Walker 4/12; Choose One: Ionic 8/40, Microlight 8/32, Thrust Vector (Turbofan) 8/40, Winged 8/32
-- **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Direction Sense, Enhanced Hearing, Enhanced Vision, Lidar, Mesh Inserts, Mnemonics, Puppet Sock, Radar, Shape Adjusting, Stealth Coating, T-Ray Emitter, Weapon Mounts (2, Internal and Articulated)
+- **Ware:** Access Jacks, Cortical Stack, Cyberbrain, Direction Sense, Enhanced Vision, Lidar, Mesh Inserts, Mnemonics, Puppet Sock, Radar, Shape Adjusting, T-Ray Emitter
 - **Morph Traits:** Exotic Morphology (Level 3)
-- **Notes:** Medium Frame (Armor 8/6)
+- **Notes:** Medium Frame (Armor 8/6), Changing mobility systems takes 1d6 minutes.
 
 </blockquote>
 
@@ -901,7 +902,7 @@ Also known as gloops, ooblecks are shapechanging morphs consisting of reconfigur
 
 | **OOBLECK**                                                                                                                                                                |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Pivo:** Not suprisinglt, but neo-octopi love these.                                                                                                                      |
+| **Pivo:** Not surprising, but neo-octopi love these.                                                                                                                       |
 | **Stitch:** Though similar in function, these feel quite different than flexbots. The liquid nature of the form takes some adjustment.                                     |
 | **GraxaGirl:** The first released versions of these included hard-coded shape limitations to prevent people from forming “obscene” shapes. They were hacked within a week. |
 

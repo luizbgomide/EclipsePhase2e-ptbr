@@ -2351,7 +2351,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 ---
 
 - **Morph:**
-  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
+  - Roll on the [Uplift Biomorphs table](./20-morph-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2396,7 +2396,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 ---
 
 - **Morph:**
-  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
+  - Roll on the [Uplift Biomorphs table](./20-morph-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2441,7 +2441,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 ---
 
 - **Morph:**
-  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
+  - Roll on the [Uplift Biomorphs table](./20-morph-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
@@ -2484,7 +2484,7 @@ Roll 1d100 for Background, d10 for Morph Then jump to [Step 5: Youth Event](./06
 ---
 
 - **Morph:**
-  - Roll on the [Uplift Biomorphs table](./19-random-tables.md#uplift-biomorphs-d100)
+  - Roll on the [Uplift Biomorphs table](./20-morph-tables.md#uplift-biomorphs-d100)
 
 </td>
 </tr>
