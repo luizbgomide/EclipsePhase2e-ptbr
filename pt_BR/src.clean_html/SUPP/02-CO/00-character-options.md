@@ -3,7 +3,7 @@
 **Opções para Personagem** é uma caixa de ferramentas expandida para jogadores e mestres de jogo:
 
 - Uma seleção completa de morfos — o equipamento mais essencial do seu personagem
-- Um sistema de criação de personagens de caminho da vida
+- Um sistema de criação de personagens por trajetória de vida
 - Regras para criação de novos morfos
 - Novos traços e wares
 
