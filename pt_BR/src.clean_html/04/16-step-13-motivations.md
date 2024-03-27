@@ -22,7 +22,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 
 ## Motivações de Exemplo
 
-<!-- CLEANED div class="two-columns" -->
+<!-- CLEANED div class="two-columns-text" -->
 
 - Aceitação
 - Pessoas IGA
