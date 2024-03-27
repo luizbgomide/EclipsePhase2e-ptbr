@@ -23,7 +23,7 @@ Formatação Markdown e adaptação feitas por Luiz Borges Gomide.
 
 - **Autoria e Desenvolvimento:** Rob Boyle
   - Assistência com atualizações de morfo por William Wilson.
-  - Morphs são baseados em versões anteriores que apareceram no _Sunward_, _Rimward_, _Gatecrashing_, _Panopticon_, _Transhuman_e o Guia de Reconhecimento _Morph_.
+  - Morphs são baseados em versões anteriores que apareceram no _Sunward_, _Rimward_, _Gatecrashing_, _Panopticon_, _Transhuman_e o _Guia de Reconhecimento de Morfos_.
 - **Direção da Arte:** Rob Boyle, Zoe Robinson
 - **Design Gráfico e Layout:** Adam Jury
 - **Arte da Capa:** Stephan Martiniere
@@ -31,6 +31,6 @@ Formatação Markdown e adaptação feitas por Luiz Borges Gomide.
 - **Agradecimentos Especiais Para:** DivineWrath e Saii, por suas conversões improvisadas do MRG.
 - **Agradecimentos Adicionais Para:** A-Wiz, DivineWrath, Henry Pailing, Kurt Fastiggi, Mikael Mäkelä, Satellite Slickers, Schism Navigator, UntypedVariable, e todos que forneceram opiniões sobre nos testes do jogo no nosso canal do discord. Além disso, todos que apoiam nosso Patreon — muito obrigado!
 - **Inspiração Musical:** Adam X, Boris Brejcha, Ghost in the Machine, Maedon, Statiqbloom
-- **Dedicação:** Para Andrew Hackard e Darren Watts — ambos foram cedo demais.
+- **Dedicatória:** Para Andrew Hackard e Darren Watts — ambos foram cedo demais.
 
 <!-- CLEANED /div -->
