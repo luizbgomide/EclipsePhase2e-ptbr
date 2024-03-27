@@ -12,7 +12,7 @@ Your aptitudes, skills, and some derived stats and traits all belong to your ego
 
 ### Ego Stats
 
-<!-- CLEANED div class="two-columns" -->
+<!-- CLEANED div class="two-columns-text" -->
 
 - Aptitudes
 - Aptitude Checks
@@ -33,7 +33,7 @@ Your aptitudes, skills, and some derived stats and traits all belong to your ego
 
 ### Morph Stats
 
-<!-- CLEANED div class="two-columns" -->
+<!-- CLEANED div class="two-columns-text" -->
 
 - Pools
 - Durability

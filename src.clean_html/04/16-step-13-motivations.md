@@ -22,7 +22,7 @@ For more interactive motivations, have each player choose one of the goals of an
 
 ## Motivation Examples
 
-<!-- CLEANED div class="two-columns" -->
+<!-- CLEANED div class="two-columns-text" -->
 
 - Acceptance
 - AGI Personhood

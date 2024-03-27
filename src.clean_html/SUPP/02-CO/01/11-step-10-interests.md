@@ -52,15 +52,15 @@ The interests determined here represent hobbies you have delved into over the ye
 
 <!-- CLEANED blockquote class="framed-table" -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Animal Handler
 
 - **Motivation:** +Happiness
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                                                                         |      |
 | :---------------------------------------------------------------------- | ---: |
@@ -72,18 +72,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Survival                                                                |   15 |
 | Know: Smart Animals                                                     |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Artist/Icon
 
 - **Motivation:** +Fame
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |             |      |
 | :---------- | ---: |
@@ -94,18 +94,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Provoke     |   40 |
 | Know: Music |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Async
 
 - **Motivation:** +Acceptance
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                                                             |      |
 | :---------------------------------------------------------- | ---: |
@@ -116,18 +116,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Psi                                                         |   40 |
 | Know: Asyncs                                                |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Commander
 
 - **Motivation:** +Leadership
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                      |      |
 | :------------------- | ---: |
@@ -138,18 +138,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Provoke              |   40 |
 | Know: Administration |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Fighter
 
 - **Motivation:** +Protect Others
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                    |      |
 | :----------------- | ---: |
@@ -159,18 +159,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Melee              |   40 |
 | Know: Security Ops |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Forensics Specialist
 
 - **Motivation:** +Solve Crimes
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                     |      |
 | :------------------ | ---: |
@@ -181,18 +181,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Research            |   20 |
 | Know: Physiology    |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Jack-of-All-Trades
 
 - **Motivation:** +Be Prepared
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                       |      |
 | :-------------------- | ---: |
@@ -207,18 +207,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Survival              |   20 |
 | Know: Black Markets   |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Jammer
 
 - **Motivation:** +Skill Mastery
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                    |      |
 | :----------------- | ---: |
@@ -229,18 +229,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Pilot: Ground      |   20 |
 | Know: Bot Models   |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Networker
 
 - **Motivation:** +Expand Influence
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                |      |
 | :------------- | ---: |
@@ -251,18 +251,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Research       |   20 |
 | Know: Rep Nets |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Paramedic
 
 - **Motivation:** +Help Others
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                          |      |
 | :----------------------- | ---: |
@@ -273,17 +273,17 @@ The interests determined here represent hobbies you have delved into over the ye
 | Survival                 |   20 |
 | Know: Emergency Services |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Pilot
 
 - **Motivation:** +Self-Reliance
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                       |      |
 | :-------------------- | ---: |
@@ -294,18 +294,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Pilot: Space          |   40 |
 | Know: Flight Crew Ops |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Rogue
 
 - **Motivation:** +Self-Reliance
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                               |      |
 | :---------------------------- | ---: |
@@ -316,18 +316,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Infiltrate                    |   40 |
 | Know: Black Markets           |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Slacker
 
 - **Motivation:** +Happiness
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                       |      |
 | :-------------------- | ---: |
@@ -338,18 +338,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Research              |   30 |
 | Know: VR Games        |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Spacer
 
 - **Motivation:** +Exploration
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                       |      |
 | :-------------------- | ---: |
@@ -361,18 +361,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Pilot: Space          |   30 |
 | Know: Flight Crew Ops |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Student
 
 - **Motivation:** +Education
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                   |      |
 | :---------------- | ---: |
@@ -383,18 +383,18 @@ The interests determined here represent hobbies you have delved into over the ye
 | Research          |   40 |
 | Know: Mathematics |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="stat-list header-bg" -->
-<table style="table-layout: fixed;">
-<tr><td>
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list vcenter title-margin" -->
 
 ### Survivalist
 
 - **Motivation:** +Survival
 
-</td><td>
+<!-- CLEANED /div -->
+<!-- CLEANED div class="vcenter" -->
 
 |                      |      |
 | :------------------- | ---: |
@@ -405,7 +405,7 @@ The interests determined here represent hobbies you have delved into over the ye
 | Survival             |   30 |
 | Know: Habitat Ops    |   40 |
 
-</td></tr></table>
+<!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
 
 <!-- CLEANED /blockquote -->
