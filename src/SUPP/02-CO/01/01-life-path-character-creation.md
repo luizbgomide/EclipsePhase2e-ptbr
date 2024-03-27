@@ -24,7 +24,7 @@ For the rest of the steps, you roll on an _event table_ that details something t
 
 ## Life Path Step-by-Step
 
-<div class="two-columns">
+<div class="two-columns-text">
 
 - **[Step 1](./02-step-1-flex.md):** Start with 1 Ego Flex
 - **[Step 2](./03-step-2-aptitude-template.md):** Determine Aptitude Template

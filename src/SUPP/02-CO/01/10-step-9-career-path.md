@@ -56,16 +56,16 @@ The career decided here is either the one you practiced most notably during your
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Archivist
 
 - You store and maintain transhumanity’s collective knowledge.
 - **Motivation:** +Protect Knowledge
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                                |      |
 | :----------------------------- | ---: |
@@ -79,19 +79,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Computational Archeology |   40 |
 | Know: Data Science             |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Researcher
 
 - You find secrets hidden within the data.
 - **Motivation:** +Research
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -105,19 +105,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Lab Ops      |   30 |
 | Know: Mathematics  |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Professor
 
 - You educate the next generation of transhumans.
 - **Motivation:** +Education
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -131,7 +131,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: History      |   50 |
 | Know: Instruction  |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -143,16 +143,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Smuggler
 
 - You ghost your way past habitat security restrictions.
 - **Motivation:** +Wealth
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -166,19 +166,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Security Ops |   30 |
 | Know: Smuggling    |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Spy
 
 - You infiltrate organizations to ferret out secrets or destroy them from within.
 - **Motivation:** +Uncover Secrets
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                  |      |
 | :--------------- | ---: |
@@ -191,19 +191,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Hypercorps |   30 |
 | Know: Spycraft   |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Thief
 
 - You have your way with security systems in the cause of redistributing wealth.
 - **Motivation:** +Don’t Get Caught
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -216,7 +216,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Black Markets   |   30 |
 | Know: Security Ops    |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -228,16 +228,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Autonomist Militia
 
 - You’re part of a volunteer group that defends your hab and handles conflict resolution.
 - **Motivation:** +Protect Community
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                           |      |
 | :------------------------ | ---: |
@@ -251,19 +251,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Conflict Resolution |   50 |
 | Know: Security Ops        |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Cartel Goon
 
 - You serve the criminal whims of your syndicate’s leaders.
 - **Motivation:** +Wealth
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -277,19 +277,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Cartel Politics |   40 |
 | Know: Racketeering    |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Gang Member
 
 - You and your gang band together for safety and weight of numbers.
 - **Motivation:** +Thrill-Seeking
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                  |      |
 | :--------------- | ---: |
@@ -303,7 +303,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Gangs      |   50 |
 | Know: Police Ops |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -315,16 +315,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Crew
 
 - You handle the grunt work of exploration: base camps, field tests, and support.
 - **Motivation:** +Adventure
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -338,19 +338,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Astrobiology    |   30 |
 | Know: Gatecrashing    |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Scout
 
 - You specialize in survey and recon.
 - **Motivation:** +Exploration
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -365,19 +365,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Geology      |   30 |
 | Know: Surveying    |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Search and Rescue
 
 - You seek out gatecrashers that are lost or in trouble.
 - **Motivation:** +Help Others
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                          |      |
 | :----------------------- | ---: |
@@ -392,7 +392,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Emergency Services |   60 |
 | Know: Gatecrashing       |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -404,16 +404,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Con Artist
 
 - You deceive others for fun and profit. Or you work in advertising/marketing. Same thing.
 - **Motivation:** +Wealth
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -426,19 +426,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Con Artistry |   60 |
 | Know: Skipjacking  |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Fixer
 
 - You work your connections to make sure everyone gets what they are after.
 - **Motivation:** +Wealth
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                     |      |
 | :------------------ | ---: |
@@ -451,19 +451,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Black Markets |   60 |
 | Know: Smuggling     |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Negotiator
 
 - You work deals and deploy leverage to get your way.
 - **Motivation:** +Skill Mastery
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                  |      |
 | :--------------- | ---: |
@@ -477,7 +477,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Politics   |   30 |
 | Know: Psychology |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -489,16 +489,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Astrobiologist
 
 - You are fascinated with alien life and what makes it tick.
 - **Motivation:** +Research
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                             |      |
 | :-------------------------- | ---: |
@@ -513,19 +513,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Computational Biology |   20 |
 | Know: Zoology               |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Bio Tinkerer
 
 - You dabble: body mods, neogenetics, gene therapies, smart drugs, and more.
 - **Motivation:** +Science!
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                        |      |
 | :--------------------- | ---: |
@@ -539,19 +539,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Neogenetics      |   40 |
 | Know: Smart Drugs      |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Uplift Specialist
 
 - Your veterinary science background extends to smart animals and uplifts.
 - **Motivation:** +Uplift
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                               |      |
 | :---------------------------- | ---: |
@@ -565,7 +565,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Smart Animals           |   20 |
 | Know: Zoology                 |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -577,16 +577,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Blue Team
 
 - You specialize in defending systems from intruders.
 - **Motivation:** +Protect Systems
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                             |      |
 | :-------------------------- | ---: |
@@ -599,19 +599,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Computer Science      |   30 |
 | Know: System Administration |   60 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Digital Intruder
 
 - You penetrate systems to liberate their secrets.
 - **Motivation:** +Thrill-Seeking
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                     |      |
 | :------------------ | ---: |
@@ -624,19 +624,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Info Brokers  |   40 |
 | Know: Mesh Security |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Hacktivist
 
 - You hack hypercorp/gov sites and reverse engineer tech in support of social causes.
 - **Motivation:** +Solidarity
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -650,7 +650,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Mesh Security   |   30 |
 | Know: Politics        |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -662,16 +662,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Detective
 
 - You attempt to solve crimes.
 - **Motivation:** +Solve Mysteries
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                     |      |
 | :------------------ | ---: |
@@ -685,19 +685,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Investigation |   60 |
 | Know: Cartels       |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Ego Hunter
 
 - You track down escaped and wanted egos.
 - **Motivation:** +Locate Fugitives
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                   |      |
 | :---------------- | ---: |
@@ -711,19 +711,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Ego Hunting |   60 |
 | Know: Smuggling   |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Journalist
 
 - You bring important subjects to the public’s attention.
 - **Motivation:** +Uncover Secrets
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                      |      |
 | :------------------- | ---: |
@@ -737,7 +737,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Journalism     |   60 |
 | Know: Current Events |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -749,16 +749,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Morph Tech
 
 - You tweak and modify biomorphs and assist with resleeving.
 - **Motivation:** +Creative Expression
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                         |      |
 | :---------------------- | ---: |
@@ -772,19 +772,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Morphs            |   40 |
 | Know: Cognitive Science |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Paramedic
 
 - You provide emergency medical services.
 - **Motivation:** +Help Others
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                          |      |
 | :----------------------- | ---: |
@@ -798,19 +798,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Drugs              |   40 |
 | Know: Emergency Services |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Physician
 
 - You are a general practice doctor with a few unusual specializations.
 - **Motivation:** +Solve Problems
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                           |      |
 | :------------------------ | ---: |
@@ -824,7 +824,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Infectious Diseases |   40 |
 | Know: Cognitive Science   |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -836,16 +836,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Memeticist
 
 - Whether a viral marketer or culture hacker, you specialize in infectious ideas.
 - **Motivation:** +Go Viral
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                         |      |
 | :---------------------- | ---: |
@@ -859,19 +859,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Memetics          |   40 |
 | Know: Psychology        |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Psychosurgeron
 
 - You are a mindshaper, helping people sculpt their mental palaces.
 - **Motivation:** +Skill Mastery
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                         |      |
 | :---------------------- | ---: |
@@ -885,19 +885,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Psychiatry        |   30 |
 | Know: Psychology        |   25 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Psychotherapist
 
 - You help people cope with mental trauma and improve their cognitive skills.
 - **Motivation:** +Help Others
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                         |      |
 | :---------------------- | ---: |
@@ -912,7 +912,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Psychology        |   40 |
 | Know: Social Services   |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -924,16 +924,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Junk Dealer
 
 - You making a living by resurrecting abandoned tech.
 - **Motivation:** +Prosperity
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                        |      |
 | :--------------------- | ---: |
@@ -948,19 +948,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Bot Models       |   40 |
 | Know: Proprietary Tech |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Salvage Crew
 
 - You strip abandoned ships and habs for anything of value.
 - **Motivation:** +Wealth
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -975,19 +975,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Scavenging      |   40 |
 | Know: Spacecraft      |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Zone Stalker
 
 - You raid quarantine zones for artifacts.
 - **Motivation:** +Thrill-Seeking
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                        |      |
 | :--------------------- | ---: |
@@ -1001,7 +1001,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Smuggling        |   40 |
 | Know: TITAN Tech       |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -1013,16 +1013,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Field Scientist
 
 - You use your training in the life sciences to study exoplanets.
 - **Motivation:** +Discovery
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                     |      |
 | :------------------ | ---: |
@@ -1037,19 +1037,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Ecology       |   40 |
 | Know: Geology       |   20 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Physicist
 
 - You excel in the hard sciences.
 - **Motivation:** +Science!
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -1063,19 +1063,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Chemistry    |   40 |
 | Know: Physics      |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Xeno-Archeologist
 
 - You investigate the remains of dead alien civilizations.
 - **Motivation:** +Uncover Secrets
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1092,7 +1092,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Surveying       |   20 |
 | Know: Xeno-Archeology |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -1104,16 +1104,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Bodyguard
 
 - You place yourself between your client and potential harm.
 - **Motivation:** +Protect Client
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                    |      |
 | :----------------- | ---: |
@@ -1125,19 +1125,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Bodyguarding |   50 |
 | Know: Security Ops |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Mercenary
 
 - You’re a gun for hire.
 - **Motivation:** +Survival
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                        |      |
 | :--------------------- | ---: |
@@ -1152,19 +1152,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Mercenary Groups |   30 |
 | Know: Military Ops     |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Operative
 
 - You’re an assassin, street ronin, special ops, or general badass.
 - **Motivation:** +Current Objective
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1178,7 +1178,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Black Markets   |   50 |
 | Know: Security Ops    |   40 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>
 
@@ -1190,16 +1190,16 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {00-32} Artifex
 
 - You’re a nano-engineer.
 - **Motivation:** +Creative Expression
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1211,19 +1211,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Nanofacturing   |   40 |
 | Know: Nanotechnology  |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {33-66} Hab Tech
 
 - You keep the life support running.
 - **Motivation:** +Solve Problems
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1238,19 +1238,19 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Engineering     |   40 |
 | Know: Habitat Ops     |   50 |
 
-</td></tr></table>
+</div>
 </blockquote>
 
-<blockquote class="stat-list header-bg">
-<table style="table-layout: fixed;">
-<tr><td>
+<blockquote class="header-bg multi-column">
+<div class="stat-list vcenter title-margin">
 
 ### {67-99} Robotocist
 
 - You operate drones and repair synths.
 - **Motivation:** +Skill Mastery
 
-</td><td>
+</div>
+<div class="vcenter">
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1264,6 +1264,6 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 | Know: Bot Models      |   60 |
 | Know: Synthmorphs     |   30 |
 
-</td></tr></table>
+</div>
 </blockquote>
 </blockquote>

@@ -2,35 +2,41 @@
 .indent {
   margin-left: 24px;
 }
+
 .centered {
   text-align: center;
 }
+
 .left-aligned {
   text-align: left;
 }
+
 .right-aligned {
   text-align: right;
 }
+
 .nowrap {
   white-space: nowrap;
 }
-
 
 /* blockquote stuff */
 blockquote {
   padding: 16px;
 }
+
 blockquote > :first-child {
   margin-top: 0;
 }
+
 blockquote > :last-child {
   margin-bottom: 0;
 }
 
-.no-margin > :not(:first-child){
+.no-margin > :not(:first-child) {
   margin-top: 0;
 }
-.no-margin > :not(:last-child){
+
+.no-margin > :not(:last-child) {
   margin-bottom: 0;
 }
 
@@ -53,6 +59,7 @@ blockquote > :last-child {
   border: 3px solid var(--fg);
   background-color: transparent;
 }
+
 .framed-table > table {
   width: calc(100% + 32px);
   margin-left: -16px;
@@ -64,17 +71,21 @@ table {
   margin-left: 0;
   margin-right: 0;
 }
+
 table td,
 table thead th {
   padding-left: 5px;
   padding-right: 5px;
 }
+
 table :is(tr, td, th) {
   border: 0 !important;
 }
+
 table tr > :first-child {
   padding-left: 15px;
 }
+
 table tr > :last-child {
   padding-right: 15px;
 }
@@ -95,6 +106,7 @@ table tr > :last-child {
 .tl9 tr > :nth-child(9) {
   text-align: left;
 }
+
 .tr1 tr > :nth-child(1),
 .tr2 tr > :nth-child(2),
 .tr3 tr > :nth-child(3),
@@ -106,6 +118,7 @@ table tr > :last-child {
 .tr9 tr > :nth-child(9) {
   text-align: right;
 }
+
 .tc1 tr > :nth-child(1),
 .tc2 tr > :nth-child(2),
 .tc3 tr > :nth-child(3),
@@ -131,26 +144,53 @@ table tr > :last-child {
 }
 
 /* title formatting */
-h1, h2 {
+h1,
+h2 {
   text-transform: uppercase;
 }
+
 :is(h2, h3, h4) {
   margin-bottom: 0;
 }
+
+.title-margin > :first-child:is(h2, h3, h4) {
+  margin-bottom: 16px;
+}
+
 :is(h2, h3, h4) + *,
 :is(h2, h3, h4) + * > :first-child {
   margin-top: 0 !important;
 }
 
 /* column support */
-.two-columns {
+.two-columns-text {
   column-count: 2;
 }
-.two-columns > :first-child {
+
+.two-columns-text > :first-child,
+.multi-column > div > :first-child {
   margin-top: 0;
 }
-.two-columns > :last-child {
+
+.two-columns-text > :last-child,
+.multi-column > div > :last-child {
   margin-bottom: 0;
+}
+
+.multi-column {
+  display: flex;
+}
+
+.multi-column > * {
+  width: 100%;
+}
+
+.multi-column > div:not(:first-child) {
+  margin-left: 16px;
+}
+
+.multi-column > .vcenter {
+  align-self: center;
 }
 
 /* eclipse phase aptitude superscripts */
@@ -167,6 +207,7 @@ ul.stat-list {
   padding-left: 0;
   list-style-type: none;
 }
+
 .stat-list li,
 ul.stat-list li {
   text-indent: -24px;
@@ -177,6 +218,10 @@ ul.stat-list li {
 td * {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+}
+
+th:empty {
+  padding: 0;
 }
 
 .morph-images img {
