@@ -1360,9 +1360,9 @@ Sundivers are made for solar research and emergency rescue operations in the sun
 | **Delta-V:** I flew one of these into the sun once. I have never been so terrified in my life. Can’t wait to do it again.                                                                                                                                                                                                                          |
 | **Rivet:** The sundiver is actually a fairly good all-purpose synth and there’s a lot of groups that have started using them in high heat and high rad environments other than stars. If you swap out the propulsion system for something that’s a little slower and gives a bit more control, they make pretty good gate crashing morphs as well. |
 
-## Swarmnoid
+## Swarmanoid
 
-![Swarmnoid](./PNG/swarmnoid.png)
+![Swarmanoid](./PNG/swarmanoid.png)
 
 Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each individual “bug” is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift. The cyberbrain, cortical stack, and sensor systems are distributed throughout the swarm. Though the swarm can “meld” together into various loose shapes, it is incapable of physical tasks like grabbing, lifting, or holding. Individual bots are linked by radio and laser and are quite capable of interfacing with electronics.
 
@@ -1449,9 +1449,9 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 | **Lovelace:** Since these are so prevalent among the clanking masses — and uniform-looking out of the box — it’s quite the trend these days to glitter these up with custom paint jobs, aftermarket add-ons, and other aesthetic mods. |
 | **Rivet:** Don’t forget the weird fashion of wearing clothes with your synth. I get that it makes you seem more human, but it sorta defeats the purpose in my book.                                                                    |
 
-## Synthaur
+## Synthtaur
 
-![Synthaur](./PNG/synthaur.png)
+![Synthtaur](./PNG/synthtaur.png)
 
 The synthtaur’s smart material composition allows it to switch between two pre-set configurations in a matter of seconds. The first form resembles an elegant mechanical centaur, a two-armed quadruped 1.7 meters tall. The second form is a fourarmed biped 2.4 meters tall. This morph is popular with gatecrashers who must cover a lot of terrain on foot, people exploring ruined habitats, and anyone going into dangerous and remote situations.
 
