@@ -395,7 +395,7 @@ Apiary modules are carriers for nanoswarm hives.
 
 ### Aviary Module
 
-Apiary modules are Aviary modules are bot carriers. While any bot can be integrated as a flexbot module, aviaries provide a protective enclosure for the bots and a hive to keep them repaired. They can hold 1 small bot or 5 very small bots. for nanoswarm hives.
+Aviary modules are bot carriers. While any bot can be integrated as a flexbot module, aviaries provide a protective enclosure for the bots and a hive to keep them repaired. They can hold 1 small bot or 5 very small bots. for nanoswarm hives.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 

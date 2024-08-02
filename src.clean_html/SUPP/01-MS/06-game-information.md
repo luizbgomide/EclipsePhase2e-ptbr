@@ -50,19 +50,19 @@ Second, the source of any memory loss should be randomly determined by rolling 1
 
 ### Frequent Merging
 
-The rules for merging assume that characters only occasionally merge with forks, to highlight the difficulties of reintegration. Some characters, however, may take heavy advantage of forking and merging in play, in which case the constant tests will become tedious and the stress will add up. To accommodate frequent fork merging, have the player make a Merging Test once a month with a –10 modifier (perhaps more if the forking was excessive), based on the largest divergence period that applies for that month. Any memory loss is spread among the various forks merged during that period. For situations in which the memory loss could play a significant story role, however, it is recommended to make a Merging Test as normal.
+The rules for merging assume that characters only occasionally merge with forks, to highlight the difficulties of reintegration. Some characters, however, may take heavy advantage of forking and merging in play, in which case the constant tests will become tedious and the stress will add up. To accommodate frequent fork merging, have the player make a Merging Test once a month with a −10 modifier (perhaps more if the forking was excessive), based on the largest divergence period that applies for that month. Any memory loss is spread among the various forks merged during that period. For situations in which the memory loss could play a significant story role, however, it is recommended to make a Merging Test as normal.
 
 ### Merging Forks with Advancements
 
 If a fork has been separate long enough to improve/acquire skills, gain or lose traits, or change their aptitudes, those differences are normally lost during merger as only the memories are prioritized for retention. It is possible for a gifted psychosurgeon to also transfer the improvements, however, but not without cost.
 
-Any attempt to transfer aptitudes, skills, specializations, or traits during a merging incurs a –10 modifier to the Medicine: Psychosurgery Test for every 1 CP of improvements. If successful, the merging ego gains the skills points, traits, and/or aptitude points, but takes an additional stress point per CP. Additionally, you must spend Rez Points to purchase these advancements as normal ([Train and Improve](../../12/30-downtime-actions.md#train-and-improve) in _EP2_). If you do not have the Rez Points available, you owe a Rez Point debt, and any new Rez Points earned must immediately go to to pay off this debt. If the test fails, no advancements are gained, and you take an additional stress point per CP.
+Any attempt to transfer aptitudes, skills, specializations, or traits during a merging incurs a −10 modifier to the Medicine: Psychosurgery Test for every 1 CP of improvements. If successful, the merging ego gains the skills points, traits, and/or aptitude points, but takes an additional stress point per CP. Additionally, you must spend Rez Points to purchase these advancements as normal ([Train and Improve](../../12/30-downtime-actions.md#train-and-improve) in _EP2_). If you do not have the Rez Points available, you owe a Rez Point debt, and any new Rez Points earned must immediately go to to pay off this debt. If the test fails, no advancements are gained, and you take an additional stress point per CP.
 
 ### Merging Different Egos
 
 Merging two distinct minds is a drastically difficult and dangerous affair. Only the most skilled and daring psychosurgeons could ever hope to succeed, and even then the outcome depends on luck almost as much as skill. Due to the risk and possible illegality of this procedure, finding a psychosurgeon willing to attempt it requires going through backdoor or black-market channels. GMs should require a successful g-rep Rep Test and the expenditure of a major favor or similar measures.
 
-This procedure is incredibly complex; treat it as regular merging but with a minimum timeframe of 10 days and a –60 modifier. At the GM’s discretion, this same process can be used for forks that have been divergent for more than a year.
+This procedure is incredibly complex; treat it as regular merging but with a minimum timeframe of 10 days and a −60 modifier. At the GM’s discretion, this same process can be used for forks that have been divergent for more than a year.
 
 If the test fails, the combined ego is for all intents and purposes a shattered thing, haunted by fragments of its former minds. Most are simply brain-dead. Treat as a gamma fork NPC:
 
@@ -81,7 +81,7 @@ If the test succeeds, compare the stats of both egos and follow these steps:
 - Recalculate aptitude checks, Initiative, Lucidity, Trauma Threshold, Insanity Rating, and Infection Rating ([Derived Stats](../../04/14-step-11-derived-stats.md) in _EP2_).
 - If the Psi trait is lost, all sleights and Infection Rating are lost.
 
-Even when the procedure is successful, the composite ego suffers a –10 modifier on all tests for one week as the new identity comes to terms with its newly-integrated thought patterns.
+Even when the procedure is successful, the composite ego suffers a −10 modifier on all tests for one week as the new identity comes to terms with its newly-integrated thought patterns.
 
 ## New Mental Ware
 
@@ -95,7 +95,7 @@ Hypermeshed egos receive +1 Insight pool. You also gain a special use of Insight
 
 The intimacy of the group mind-state means that hypermeshed egos cannot deceive or withhold secrets from each other. Egos in the group are also subject to personality bleed: attempts to identify you using Kinesics suffer a −30 modifier and you receive a +30 modifier to impersonate other hypermeshed egos.
 
-Egos may voluntarily leave the group mind-state and sometimes do for privacy (though their memories are accessible later when they return). However, the hypermesh creates a dependency for everyone part of it for more than a week. If cut off from the hypermesh for 2 hours, you suffer a –10 modifier to all actions. If cut off for more than a day, you must make a WIL Check against SV 1d10/half. At the GM’s discretion, you may continue to suffer stress if cut off for an extended period.
+Egos may voluntarily leave the group mind-state and sometimes do for privacy (though their memories are accessible later when they return). However, the hypermesh creates a dependency for everyone part of it for more than a week. If cut off from the hypermesh for 2 hours, you suffer a −10 modifier to all actions. If cut off for more than a day, you must make a WIL Check against SV 1d10/half. At the GM’s discretion, you may continue to suffer stress if cut off for an extended period.
 
 Forks of the same ego in the same hypermesh automatically merge in real-time (no tests necessary) as long as they remain linked.
 

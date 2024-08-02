@@ -646,7 +646,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 
 - **Motivation:**
   - +Education
-  - –Hypercorps
+  - −Hypercorps
   - +Self-Reliance
 
 ---
@@ -1069,7 +1069,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Indenture
+  - −Indenture
   - +Personal Improvement
   - +Stability
 
@@ -1111,7 +1111,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 - **Motivation:**
   - +Forget Past
   - +Hedonism
-  - –Hypercorps
+  - −Hypercorps
 
 ---
 
@@ -1655,9 +1655,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Socialism
+  - −Socialism
   - +Survival
-  - –X-Risks
+  - −X-Risks
 
 ---
 
@@ -1704,7 +1704,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Asyncs
+  - −Asyncs
   - +Exploration
   - +Survival
 
@@ -2130,7 +2130,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Hypercorps
+  - −Hypercorps
   - +Mercurial Interests
   - +Uplift rights
 
@@ -2169,7 +2169,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Assimilation
+  - −Assimilation
   - +Mercurial Interests
   - +Survival
 
@@ -2210,7 +2210,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 ---
 
 - **Motivation:**
-  - –Hypercorps
+  - −Hypercorps
   - +Mercurial Interests
   - +Survival
 

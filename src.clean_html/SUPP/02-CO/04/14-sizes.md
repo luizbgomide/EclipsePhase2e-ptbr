@@ -6,7 +6,7 @@ Not everyone or everything is built the same. Most morphs are medium- sized, the
 
 No morphs exist at this size; there is not enough room for a (cyber)brain (unless distributed like a swarmanoid). Very small bots/creatures/gear items can fit in a pocket and use the following rules:
 
-- They are difficult to hit and spot (–30).
+- They are difficult to hit and spot (−30).
 - They inflict a maximum of DV 1 in melee.
 - They cannot use medium-size (or larger) gear and suffer −20 when using small gear.
 - They suffer −30 on strength-based SOM Checks.
@@ -16,7 +16,7 @@ No morphs exist at this size; there is not enough room for a (cyber)brain (unles
 
 Small morphs/creatures/shells/gear items range between the size of a cat and a human child:
 
-- They are challenging to hit and spot (–10).
+- They are challenging to hit and spot (−10).
 - They have a Reach advantage against very-small-size targets.
 - They inflict half damage in melee.
 - They suffer −20 when using medium-sized gear or two-handed weapons not modified for their size.

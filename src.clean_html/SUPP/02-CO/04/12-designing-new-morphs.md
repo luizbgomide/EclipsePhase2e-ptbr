@@ -131,7 +131,7 @@ Your morph’s design may include components that can be wielded as natural (or 
 
 ### Converting the CP Total into Final MP Cost
 
-Once you have the total amount of CP, divide by 4 to get the final MP Cost. For best results, try to keep your total CP value as a multiple of 4. For example, if your total is 18, considering dropping a pool point (–2 CP) or adding a piece of Moderate ware (+2 CP) to get it to 16 or 20. If you end up with a fraction, round normally (i.e., .5 and higher is rounded up).
+Once you have the total amount of CP, divide by 4 to get the final MP Cost. For best results, try to keep your total CP value as a multiple of 4. For example, if your total is 18, considering dropping a pool point (−2 CP) or adding a piece of Moderate ware (+2 CP) to get it to 16 or 20. If you end up with a fraction, round normally (i.e., .5 and higher is rounded up).
 
 This division to a quarter of the CP total is made under the assumption that the morph is a mass-produced model created by established morph-design outfits, meaning that the volume and scale of the design and production help to reduce the costs. If you are designing a morph that is not widely available and is otherwise bespoke or unique, then you should consider dividing the total CP by only 2 or 3 or simply add a few extra points to the final MP cost.
 
