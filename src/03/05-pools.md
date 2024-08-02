@@ -80,7 +80,7 @@ While approaching an exhuman nest on a remote asteroid, Zahiri spends 1 Insight 
 
 Zahiri then has an encounter with some exhuman predators. They spend 1 Vigor to take the initiative in the first turn and 4 more Vigor during the fight for extra actions. This depletes their Vigor pool, so they take another short recharge, but roll only a 2, so they only get 2 Vigor pool back.
 
-Zahiri took 3 wounds during the fight. As a synthmorph, they can ignore the effects of one wound. Zahiri doesn't want to be hindered, so they spend their 2 remaining Vigor to ignore the other wounds for 24 hours or their next recharge. That leaves them only their 1 Insight and 1 Flex for the challenges they still face until they take a long recharge.
+Zahiri took 3 wounds during the fight. As a synthmorph, they can ignore the effects of one wound. Zahiri doesn’t want to be hindered, so they spend their 2 remaining Vigor to ignore the other wounds for 24 hours or their next recharge. That leaves them only their 1 Insight and 1 Flex for the challenges they still face until they take a long recharge.
 
 </blockquote>
 

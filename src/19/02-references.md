@@ -31,8 +31,8 @@ Eclipse Phase took inspiration from many sources that deserve recognition and cr
   - _Sundiver_
   - _The Uplift War_
 - James S. A. Corey
-  - _Abaddon's Gate_
-  - _Caliban's War_
+  - _Abaddon’s Gate_
+  - _Caliban’s War_
   - _Leviathan Wakes_
 - Paul Di Filippo
   - _Ribofunk_
@@ -141,9 +141,9 @@ Eclipse Phase took inspiration from many sources that deserve recognition and cr
   - _Glasshouse_
   - _Halting State_
   - _Iron Sunrise_
-  - _Neptune's Brood_
+  - _Neptune’s Brood_
   - _Rule 34_
-  - _Saturn's Children_
+  - _Saturn’s Children_
   - _Singularity Sky_
   - _Toast_
 - Daniel Suarez

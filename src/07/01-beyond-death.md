@@ -6,7 +6,7 @@
 
 Welcome to your new life. I’m here to help.
 
-You have just been restored from a digital backup that is approximately a decade old. You probably have many, many questions right now, and we'll do our best to answer them. You’re likely feeling some disorientation; your memories will return quickly as your mind adjusts to its new housing. Given the length of your rest, we’ve prepared the following compilation of articles from various sources to (re)familiarize you with several important topics and hopefully address your most immediate concerns.
+You have just been restored from a digital backup that is approximately a decade old. You probably have many, many questions right now, and we’ll do our best to answer them. You’re likely feeling some disorientation; your memories will return quickly as your mind adjusts to its new housing. Given the length of your rest, we’ve prepared the following compilation of articles from various sources to (re)familiarize you with several important topics and hopefully address your most immediate concerns.
 
 </blockquote>
 
@@ -46,7 +46,7 @@ When faced with lack, people turn to their closest friends and family to share t
 
 Morphs are commodities and markers of social status. They are one of the few resources that remain scarce, even in autonomist areas.
 
-Biological bodies (biomorphs) are most in demand due to familiarity, but time-intensive to grow, so they are expensive and hard to acquire. Many of those in circulation were people's original bodies, including _splicers_, simply genefixed against hereditary diseases, and unmodified _flats_. Countless custom-made, genetically modified, and more expensive models are available, all equipped with biomods that enable faster healing, less sleep, limb regeneration, ambidexterity, and immunity to many diseases, aging, and the effects of microgravity. These are often enhanced with bioware, nanoware, or cybernetics.
+Biological bodies (biomorphs) are most in demand due to familiarity, but time-intensive to grow, so they are expensive and hard to acquire. Many of those in circulation were people’s original bodies, including _splicers_, simply genefixed against hereditary diseases, and unmodified _flats_. Countless custom-made, genetically modified, and more expensive models are available, all equipped with biomods that enable faster healing, less sleep, limb regeneration, ambidexterity, and immunity to many diseases, aging, and the effects of microgravity. These are often enhanced with bioware, nanoware, or cybernetics.
 
 _Pods_ are mostly biological, but vat-grown in pieces then assembled together, dependent upon cybernetics and a cybernetic brain. Pods were originally designed for artificial limited intelligences (ALIs) to work as servants, as they were more aesthetically pleasing than robotic shells. The limited availability and high cost of biomorphs today has forced many transhumans to use pods, even though they still carry a shadow of being déclassé.
 

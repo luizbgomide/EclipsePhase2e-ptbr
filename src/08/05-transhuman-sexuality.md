@@ -48,7 +48,7 @@ Indeed, it would be remiss to overlook the flexibility of options synthmorphs po
 
 ## New Experiences
 
-The diversity of transhumanity provides endless possibilities for exploring sexuality. Forking, psychosurgery, robotics; if you can imagine it, someone's tried it — and shared the XP online. Social networks make it easy to find someone for a quick hookup, who shares your kinks, or who wants a short-term commitment. XPorn remains a high percentage of mesh traffic, and sex-themed VR spaces of every stripe abound. AR makes it easy to hook up with your partners remotely, and VR simulmorphs get it on in ways that put real-world physical limitations to shame.
+The diversity of transhumanity provides endless possibilities for exploring sexuality. Forking, psychosurgery, robotics; if you can imagine it, someone’s tried it — and shared the XP online. Social networks make it easy to find someone for a quick hookup, who shares your kinks, or who wants a short-term commitment. XPorn remains a high percentage of mesh traffic, and sex-themed VR spaces of every stripe abound. AR makes it easy to hook up with your partners remotely, and VR simulmorphs get it on in ways that put real-world physical limitations to shame.
 
 The availability of uplift and pod morphs opens the door to the exotic sexual experiences afforded to non-human creatures. It is now possible to indulge for days beneath the waves as a neo-octopi or carouse romantically in the corona of the sun as a surya with others of your kind.
 

@@ -10,7 +10,7 @@ While online, you’ll be accessing and interacting with numerous devices. This 
 
 The vast majority of meshed devices are motes: the wireless transceivers, microcomputers, and sensors embedded into almost everything. This includes appliances, tools, implants, sensors, wearables, peripherals, and similar specialized hardware. Motes possess enough processing power, storage memory, and networking capabilities to handle their specialized functions, mesh with nearby devices, and run a small assortment of apps.
 
-Motes have only public and admin [accounts](../13/05-authentication-and-encryption.md#accounts--access-privileges). They are only capable of running ALIs; some motes (GM's call) can run infomorphs if the ALI is deleted, but they become overloaded.
+Motes have only public and admin [accounts](../13/05-authentication-and-encryption.md#accounts--access-privileges). They are only capable of running ALIs; some motes (GM’s call) can run infomorphs if the ALI is deleted, but they become overloaded.
 
 ### Hosts
 

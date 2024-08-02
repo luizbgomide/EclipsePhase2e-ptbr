@@ -280,7 +280,7 @@ You are unwavering and firm. Receive +5 per level to WIL Checks.
 
 **▲ Ego Trait • CP Cost: 2/4/6/8**
 
-You have a measure of money, assets, and/or other wealth, as used in the inner system, hypercorp, Jovian, and Extropian polities. This provides bonus Morph Points and Gear Points equal to the trait's level when [acquiring morphs](../15/03-acquiring-morphs.md) and [gear](../16/02-acquiring-gear.md). It also gives you a regular amount of disposable income to purchase gear during missions.
+You have a measure of money, assets, and/or other wealth, as used in the inner system, hypercorp, Jovian, and Extropian polities. This provides bonus Morph Points and Gear Points equal to the trait’s level when [acquiring morphs](../15/03-acquiring-morphs.md) and [gear](../16/02-acquiring-gear.md). It also gives you a regular amount of disposable income to purchase gear during missions.
 
 At Level 1, you can spend up to 2&nbsp;GP per week on Minor complexity items given the appropriate time frame.
 
@@ -288,7 +288,7 @@ At Level 2, you can spend up to 3&nbsp;GP per week on Minor or Moderate complexi
 
 At Level 3, you can spend up to 5&nbsp;GP per week on items of any complexity, given the appropriate time frame.
 
-Level 4 is the same as Level 3, except that you also have the capability to make even Rare and Restricted items available (at the gamemaster's discretion).
+Level 4 is the same as Level 3, except that you also have the capability to make even Rare and Restricted items available (at the gamemaster’s discretion).
 
 In most cases, acquiring the gear is simply a matter of exploiting your Resources trait and waiting the proper amount of time, assuming the desired item is available ([Acquiring Gear During Missions](../16/02-acquiring-gear.md#acquiring-gear-during-missions)). At the GM’s discretion, however, using Resources may require an appropriate Persuade Test (to convince another party to part ways with the item) or perhaps a Research Test (to find a source).
 
@@ -441,7 +441,7 @@ You must indulge in your addiction at a regular frequency according to the level
 
 **Level 3: Once per 6 hours.** You face major cravings, live for your next fix, and are on the road to ruin.
 
-Addiction is triggered in the same way as [disorders](../12/20-disorders.md). Triggers include the presence of the addiction's focus, fear, frustration, helplessness, and violence.
+Addiction is triggered in the same way as [disorders](../12/20-disorders.md). Triggers include the presence of the addiction’s focus, fear, frustration, helplessness, and violence.
 
 Every addiction takes different forms, depending on the character and source. Long-term addiction may result in physical or mental damage (impairment modifiers or reductions to SOM Checks or WIL Checks) and may build up tolerance, requiring higher dosages. At the GM’s discretion, you may need to make WIL Checks to avoid raising the addiction level. Withdrawal may also inflict additional effects such as mood swings, compulsive behavior, or physical sickness.
 
@@ -629,7 +629,7 @@ This trait may be taken multiple times, for different afflictions.
 
 **▲ Ego Trait • CP Bonus: 2**
 
-You are either poor, bioconservative, or like to live dangerously. You do not have any sort of backup insurance or similar arrangement. If you die, your stack's retrieval and your ego's re-instantiation is entirely dependent upon the circumstances and GM. You may be brought back with significantly lower MP or be permanently dead.
+You are either poor, bioconservative, or like to live dangerously. You do not have any sort of backup insurance or similar arrangement. If you die, your stack’s retrieval and your ego’s re-instantiation is entirely dependent upon the circumstances and GM. You may be brought back with significantly lower MP or be permanently dead.
 
 ### Non-Human Biochemistry
 

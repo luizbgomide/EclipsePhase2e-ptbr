@@ -24,7 +24,7 @@ Uranus’s equator is inclined ~98 degrees to its orbit. Uranus’s magnetic fie
 
 Uranus is perfect for supporting aerostats and the local culture of skimmers have turned harvesting volatiles into a cottage industry. Without strong radiation or winds, these aerostats bumble happily along, converting Uranus into useful materials. They range in size from a few dozen people to single-person operations.
 
-Skimmers like their privacy, but if you let them engage you in conversation, you'll be opening yourself up to dubious stories of derring-do, plausible tales of escaping the authorities, or yarns about shapes in the clouds. Nearly every skimmer has at least one story of a strange heat source, sighting of an off-record ship or aerostat, or something even odder floating among the methane plumes.
+Skimmers like their privacy, but if you let them engage you in conversation, you’ll be opening yourself up to dubious stories of derring-do, plausible tales of escaping the authorities, or yarns about shapes in the clouds. Nearly every skimmer has at least one story of a strange heat source, sighting of an off-record ship or aerostat, or something even odder floating among the methane plumes.
 
 ### Varuna
 

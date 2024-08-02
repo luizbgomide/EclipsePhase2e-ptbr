@@ -6,7 +6,7 @@
 
 ## Our Transhuman Space
 
-Now that you've caught up on the rest, here's the last info dump: an overview of transhuman holdings, region by region.
+Now that you've caught up on the rest, here’s the last info dump: an overview of transhuman holdings, region by region.
 
 </blockquote>
 
@@ -78,7 +78,7 @@ The first of the Vulcanoids to be claimed was Caldwell. Initially dismissed as s
 
 ## Mercury
 
-Sol’s swiftest island is Mercury. It orbits in less than ninety days, but turns so slowly that a face may be exposed to the sun for nearly sixty of those days. The lack of atmosphere provides no blanket against Sol’s light, and temperatures range over 620 degrees between day and night. The sun's daylight gaze overhead is fierce enough to melt metal, but at night the surface is as frigid as space. The terminator line moves slowly enough that a transhuman on foot could keep ahead of it at a steady pace.
+Sol’s swiftest island is Mercury. It orbits in less than ninety days, but turns so slowly that a face may be exposed to the sun for nearly sixty of those days. The lack of atmosphere provides no blanket against Sol’s light, and temperatures range over 620 degrees between day and night. The sun’s daylight gaze overhead is fierce enough to melt metal, but at night the surface is as frigid as space. The terminator line moves slowly enough that a transhuman on foot could keep ahead of it at a steady pace.
 
 Sol attracts many stray travelers of rock and asteroid, and Mercury takes the blows as they cross its path, leaving the surface of the planet covered in pockmarks and craters. Alternating heat and cold further breaks the rock, covering the surface in dust.
 

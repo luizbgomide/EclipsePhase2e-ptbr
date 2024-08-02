@@ -89,7 +89,7 @@ Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-g
 
 **Crash Suit:** Designed for industrial workplace safety and protection from accidental zero-g collisions, crash suits are also favored by sports enthusiasts and explorers. The basic jumpsuit offers comfortable protection, but in more hazardous circumstances the suit can be activated with an electronic signal, so that elastic polymers stiffen and form rigid impact protection for vital areas.
 
-**Helmet:** Helmets come in various open and closed styles, all protecting the head. If targeted with a called shot, helmets have AV 4/10. Helmets are already included with body armor, combat armor, and all suits (use that armor's full AV against called head shots).
+**Helmet:** Helmets come in various open and closed styles, all protecting the head. If targeted with a called shot, helmets have AV 4/10. Helmets are already included with body armor, combat armor, and all suits (use that armor’s full AV against called head shots).
 
 **Riot Shield:** Used for mob suppression, riots shields are lightweight, tough, and can be set to electrify on command, (treat as a [melee shock attack](../12/15-special-attacks.md#shock-attacks)).
 

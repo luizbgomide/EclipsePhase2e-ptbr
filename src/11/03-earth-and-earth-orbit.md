@@ -87,7 +87,7 @@ Ash clouds still linger, coating the landscape.
 
 ### Getting to Earth
 
-The Junkyard provides good cover for approaching the Fence, but just making a run for it is a good way to get splattered. The smarter way is to map the fence for areas where mines haven’t regenerated or where a large patch of de-orbiting debris can provide cover from sensors. Drones carrying nanofabbers and neutrino transceivers can slip into these gaps, with the intent of printing out a morph you can egocast into. Small, heavily shielded ships have a chance if they coast on momentum to avoid attention. Other options include a distraction to occupy the killsats or camouflaging your ship/bot as one of the Fence's own service drones.
+The Junkyard provides good cover for approaching the Fence, but just making a run for it is a good way to get splattered. The smarter way is to map the fence for areas where mines haven’t regenerated or where a large patch of de-orbiting debris can provide cover from sensors. Drones carrying nanofabbers and neutrino transceivers can slip into these gaps, with the intent of printing out a morph you can egocast into. Small, heavily shielded ships have a chance if they coast on momentum to avoid attention. Other options include a distraction to occupy the killsats or camouflaging your ship/bot as one of the Fence’s own service drones.
 
 The Kilimanjaro space elevator is still in place though powered down, if a team has the fortitude to reopen that tomb. Lunar mass drivers are still programmed to rain death from orbit at any possible sites of TITAN activity. Their payloads always make it to the surface, so hitching a ride is feasible, but the landing is rough and may be in the center of TITAN activity.
 

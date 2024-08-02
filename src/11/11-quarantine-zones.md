@@ -24,7 +24,7 @@ Encoded transmissions broadcast randomly every few weeks from the depths of the 
 
 ## New Mumbai Containment Zone
 
-Like other Lunar habitats during the Fall, New Mumbai's population exploded as refugees escaped Earth to the nearest habitats. New Mumbai accepted the newcomers as quickly as they came but not without risk. An exsurgent-infected refugee slipped through screening and within a week 70 percent of the population was secretly infected. These exsurgents acted in unison to seize control of the city within an hour. Other Lunar authorities acted swiftly and dropped two fusion bombs before the infection could spread, leaving a crater of melted rock visible from orbit.
+Like other Lunar habitats during the Fall, New Mumbai’s population exploded as refugees escaped Earth to the nearest habitats. New Mumbai accepted the newcomers as quickly as they came but not without risk. An exsurgent-infected refugee slipped through screening and within a week 70 percent of the population was secretly infected. These exsurgents acted in unison to seize control of the city within an hour. Other Lunar authorities acted swiftly and dropped two fusion bombs before the infection could spread, leaving a crater of melted rock visible from orbit.
 
 Though radiation is still at dangerous levels, signs of active exsurgents have been detected, including sightings of roving whippers. Pockets of the infected may have survived in the most protected, deepest layers of the underground city. Living exurgents may also have adapted to the radioactive conditions.
 

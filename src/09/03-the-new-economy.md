@@ -2,13 +2,13 @@
 
 > **Posted by:** Francis Wu, Firewall Filter
 
-In autonomist space, ancient is now cutting edge. The “new economy” is in truth the gift economy we’ve seen in transhumanity's pre-history. Everyone gives to the community as they are able; everyone takes what they need. With social networks, nanofabrication, and ubiquitous computing, suddenly every community is a small community again. The previous limitations of resource scarcity, supply chains, and group cohesion have disappeared.
+In autonomist space, ancient is now cutting edge. The “new economy” is in truth the gift economy we’ve seen in transhumanity’s pre-history. Everyone gives to the community as they are able; everyone takes what they need. With social networks, nanofabrication, and ubiquitous computing, suddenly every community is a small community again. The previous limitations of resource scarcity, supply chains, and group cohesion have disappeared.
 
 Firewall agents need to appreciate the intricacies of these systems. In Consortium space, credits solve every problem. But in the outer system, acquiring gear and intel is a question of reputation, access, and the community needs as a whole.
 
 <blockquote>
 
-## An Immigrant's Story
+## An Immigrant’s Story
 
 Roberta, I know I said I would come back for you. But Locus is not the paradise Vangala promised. I now fear for my own survival.
 
@@ -48,7 +48,7 @@ The new economy very rarely involves currency — there is no need for it. Auton
 
 As a general rule, autonomists do not respect the concept of private property. Ownership of private property is seen as one person depriving everyone else from the value of what they own. The natural world, resources, the means of production, infrastructure — these are all parts of the commons, to be held and shared by everyone. This is especially true of intellectual property; ideas and culture are to be shared and remixed, not hoarded.
 
-Calm down: this does not mean you need to share your underwear with other people. Autonomists make a distinction between property and personal possessions. The various portable things that you have fairly accumulated over time for your immediate and personal use are yours. No one's going to bother taking it when they can just make their own anyway (though they might borrow it in an emergency). Everything else is communal, to be borrowed and returned. If there is a scarcity of something, use is determined by greatest need. Hoarding, materialism, and other propertarian instincts are seen as a blight to be stamped out.
+Calm down: this does not mean you need to share your underwear with other people. Autonomists make a distinction between property and personal possessions. The various portable things that you have fairly accumulated over time for your immediate and personal use are yours. No one’s going to bother taking it when they can just make their own anyway (though they might borrow it in an emergency). Everything else is communal, to be borrowed and returned. If there is a scarcity of something, use is determined by greatest need. Hoarding, materialism, and other propertarian instincts are seen as a blight to be stamped out.
 
 Different communities establish different methods for approving use of collective resources. On technosocialist Titan, special requests or changes to allowances are put to an immediate vote over the mesh, based on the value of the request (if public) and the requestor’s reputation. Many habitats have an AI or a review board established to moderate requests. Scum and other anarchist groups rely on more complex, decentralized methods (I know of at least one scum swarm that requires public performances, bake offs, or trial by combat, depending on the day of the week). Public cornucopia machines have simple queues. Those who need priority access politely ask those ahead and hope their reputation wins them some charity. Those whose names appear on the queue too often or who pull too heavily on rare resources without giving back to the community take a hit to their reputation. Disagreements can sometimes end with someone in the healing vat, the winner getting pummeled on social media, and neither getting many favors in the future. Agents should look for and take advantage of ways to jump the line in urgent situations. Otherwise you may find yourself waiting in line to fab your plasma rifle as venerable Uncle Wu is using the machine to print out a thousand tiny robots for tonight’s dance party.
 
@@ -64,9 +64,9 @@ Ultimately, distributing the workload across open-source networks does provide a
 
 ## The Role of Rep
 
-A common assumption is that the new economy is just the old capitalist market with reputation acting as a new virtual currency. This confusion is fundamentally wrong. Reputation is not a thing someone buys or sells. Without currency to buy services from each other, autonomists rely on mutual aid, the free exchange of favors. These exchanges can be straightfoward and even: you fix my motorbike and I'll code this app for you in return. This works well for small groups where everyone knows each other. Practicing mutual aid on a larger scale, with people you don't directly know, or with an asymmetric exchange, is more challenging. This is where reputation comes in. Rep scores let you judge whether to allocate your time helping someone you don't know and help you acquire support from strangers.
+A common assumption is that the new economy is just the old capitalist market with reputation acting as a new virtual currency. This confusion is fundamentally wrong. Reputation is not a thing someone buys or sells. Without currency to buy services from each other, autonomists rely on mutual aid, the free exchange of favors. These exchanges can be straightfoward and even: you fix my motorbike and I’ll code this app for you in return. This works well for small groups where everyone knows each other. Practicing mutual aid on a larger scale, with people you don't directly know, or with an asymmetric exchange, is more challenging. This is where reputation comes in. Rep scores let you judge whether to allocate your time helping someone you don't know and help you acquire support from strangers.
 
-John Venusian fresh off the shuttle can visit a pub and pull from the public stock without a credit check. Ying Martian can hog the station's telescopes for a few extra hours since she's helped out the Barsoomians on a few occasions. Wei Hypercorp may expect to get a top-of-the-line biomorph when he egocasts in, but his credits are useless here, so he gets stuck in a case. Eva Anarchista has a solid rep, so she gets collective approval to borrow the hab's shuttle for a few hours, no questions asked. When the venerated artist A. Germanotta asks to borrow the entire Lafayette habitat for a month, the residents agree, because she is known for creating tremendous art pieces that benefit her participants.
+John Venusian fresh off the shuttle can visit a pub and pull from the public stock without a credit check. Ying Martian can hog the station’s telescopes for a few extra hours since she’s helped out the Barsoomians on a few occasions. Wei Hypercorp may expect to get a top-of-the-line biomorph when he egocasts in, but his credits are useless here, so he gets stuck in a case. Eva Anarchista has a solid rep, so she gets collective approval to borrow the hab’s shuttle for a few hours, no questions asked. When the venerated artist A. Germanotta asks to borrow the entire Lafayette habitat for a month, the residents agree, because she is known for creating tremendous art pieces that benefit her participants.
 
 This is the range of reputation. Those who have a need are recognized and provided for. As our peers applaud or condemn activities, we establish a pattern. Community service, works of art, products exchanged, designs released to the public, funny or insightful media content, and even just making a neighbor smile can all boost reputation. Meanwhile, anti-social or destructive behavior, breaking community rules, or harassment can pull a reputation down. It all hinges on recognized contributions to the community.
 
@@ -87,10 +87,10 @@ This sort of unfettered capitalism is critiqued by other autonomists, who note t
 //Begin Muse Log: May 23, AF 10//<br>
 //Location: Valles-New Shanghai, Mars//
 
-- **0600:** Up early to auction off freelancer services on CivicNet's Jobs forums. Get temp gig with Whitman Ephemera LLC. Sign a contract for 8 hours of coding employment, moderate pay, no benefits.
+- **0600:** Up early to auction off freelancer services on CivicNet’s Jobs forums. Get temp gig with Whitman Ephemera LLC. Sign a contract for 8 hours of coding employment, moderate pay, no benefits.
 - **0630:** Use kitchen wet fabber to make soy milk, tofu pudding, and steamed bun breakfast. Scroll personalized newsfeeds.
-- **0700:** Get the kids set up with the caretaker bots and school simulspace with your group family's co-parents. Print fresh clothes.
-- **0800:** Virtually commute from home to today's programming gig.
+- **0700:** Get the kids set up with the caretaker bots and school simulspace with your group family’s co-parents. Print fresh clothes.
+- **0800:** Virtually commute from home to today’s programming gig.
 - **1200:** Grab noodles-to-go from a food kiosk as you catch a train to the local clinic on your lunchbreak. Ignore the clanking masses busking and begging for cred.
 - **1205:** Mesh inserts briefly compromised by AR advertising malware.
 - **1220:** At clinic, pay for morph service pack updates and an ego backup. Note that your insurance deductible has gone up.
@@ -100,10 +100,10 @@ This sort of unfettered capitalism is critiqued by other autonomists, who note t
 - **1500:** Employing hypercorp bought out, contract abruptly canceled as position filled by indentures. Auction a new job for 2 more hours.
 - **1700:** Telecommute to psychotherapy session for PTSD from Fall.
 - **1800:** Get caught up in Wyrmwood AR game when a clan of troll sky raiders attacks your jungle elf fortress.
-- **1805:** Ignore muse's notifications re: city council referendum voting. Muse places votes based on previous preferences.
+- **1805:** Ignore muse’s notifications re: city council referendum voting. Muse places votes based on previous preferences.
 - **1830:** Call automated taxi aircar to dinner with partner at high-rep restaurant serving actual cooked meals (reservations placed last month). Discuss extending marriage contract another year.
 - **1930:** Rent a breather and walk by foot through souks between the domes. Purchase party drugs with anonymized credits from a blackmarket vendor with decent g-rep. Politely decline solicitations from pleasure pod sex workers.
-- **2000:** Stop by friend's resleeving party. Admire new sylph morph. Watch XP of their recent skydiving vacation on Venus. Share drugs. Watch XP of favorite metacelebrities. Exchange socialite gossip.
+- **2000:** Stop by friend’s resleeving party. Admire new sylph morph. Watch XP of their recent skydiving vacation on Venus. Share drugs. Watch XP of favorite metacelebrities. Exchange socialite gossip.
 - **2045:** Remotely check in on the kids, watch the bots tuck them in.
 - **2100:** Go clubbing. Choose audio input from a DJ spinning live from a habitat in orbit. Check your health metrics. Dance more.
 - **2120:** Spot an ex at the club. Go into privacy mode and use AR to blank them from your sensory input.
@@ -122,22 +122,22 @@ This sort of unfettered capitalism is critiqued by other autonomists, who note t
 //Begin Muse Log: May 23, AF 10//<br>
 //Location: Locus, Jovian Trojans//
 
-- **1000:** Wake up at a leisurely time in the polycule's shared module. Update your socnet profile and AR visual skin and audio playlist.
+- **1000:** Wake up at a leisurely time in the polycule’s shared module. Update your socnet profile and AR visual skin and audio playlist.
 - **1030:** Take a pullway to a spin module to work out in a gym with gravity. Your morph doesn't need it, but spacer habits die hard.
 - **1130:** Clean up in a hygiene pod with waterless soap and shampoo.
 - **1200:** Catch breakfast at the local cafe co-op: fabbed muesli but real fruit and homemade cheese and bread. Spend some time chatting with visiting Argonauts about their research projects. Share lifelog excerpts from the time you helped analyze a xenoartifact on Oberon.
 - **1255:** Make room for an improvised drone demolition derby racing down the floatways. Ask muse to update hab map to avoid routes.
 - **1300:** Spin off a fork to visit old friends on Titan. Place it in the egocasting queue. Watch XP of recent gatecrashing missions.
-- **1330:** Answer a friend's emergency callout to help supervise an outing of kids from the neighborhood daycare. Walk them through a timeaccelerated simulspace of a world with gravity. Show them how to do cartwheels and somersaults. Get your rep pinged.
-- **1400:** Join a mesh group chat about your art/weapons collective's ongoing projects. Get rep dinged for failing to follow through on an agenda item from last week. Reach consensus on new goals.
-- **1500:** Hammer out some tweaks in your latest goop gun design. Send the blueprint to the public maker space's fabber queue.
-- **1630:** Get lucky and run into the Roving Tamale Bot for a delicious lunch. Watch shuttles dock on the habitat's outer spars and rings.
+- **1330:** Answer a friend’s emergency callout to help supervise an outing of kids from the neighborhood daycare. Walk them through a timeaccelerated simulspace of a world with gravity. Show them how to do cartwheels and somersaults. Get your rep pinged.
+- **1400:** Join a mesh group chat about your art/weapons collective’s ongoing projects. Get rep dinged for failing to follow through on an agenda item from last week. Reach consensus on new goals.
+- **1500:** Hammer out some tweaks in your latest goop gun design. Send the blueprint to the public maker space’s fabber queue.
+- **1630:** Get lucky and run into the Roving Tamale Bot for a delicious lunch. Watch shuttles dock on the habitat’s outer spars and rings.
 - **1700:** Volunteer shift at the Rusty Golem. Help a person add extra arms to their synthmorph frame. Help another resleeve into a customized galatea with hypersensitive tactile inputs. Work repairs on an arachnoid someone abandoned.
 - **2100:** Get caught up in a neighborhood mesh forum argument about how much leeway to give to Jovian expats new to Locus who are still unlearning their bioconservative prejudices.
 - **2200:** Meet friends at an exoplanet-themed bar for food, drinks, drugs, and AR games. Try out a new social drug making the rounds, get a nice buzz. Download the open-source recipe.
 - **2300:** Respond to an emergency militia call to help break up a drunken brawl between visiting Extropians and brinkers. Ding their rep. Spend some time babysitting drunkards while conflict-resolution volunteers patch things up.
 - **0000:** Pick up your printed goop gun from the maker space. Grab a new outfit and stunner sidearm from the free exchange store.
-- **0030:** Reintegrate your fork, which just egocast in from Titan. Catch up on memories of hanging out with friends in a VR there. Schedule a session at an implant clinic to get a ghostrider module installed tomorrow so your friend's fork can visit and spend time with you.
+- **0030:** Reintegrate your fork, which just egocast in from Titan. Catch up on memories of hanging out with friends in a VR there. Schedule a session at an implant clinic to get a ghostrider module installed tomorrow so your friend’s fork can visit and spend time with you.
 - **0100:** Don a vacsuit and take some friends outside to test the goop gun. As planned, launched pellets rapidly expand in vacuum, coating the helmets and sensors of targets to blind them.
 - **0200:** Join a zero-g dance party by the Amoeba to celebrate.
 - **0300:** Your partners are already all in bed, so use an app to find a hookup for the evening. Meet a cute scum triad who invite you back to their ship to check out some of their homemade XP and play.

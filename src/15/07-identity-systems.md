@@ -90,13 +90,13 @@ Digital ID codes can also be tampered with, though like nanotat IDs this will me
 
 **Log 0131AF09:1200:** 12 of the detained individuals cleared and released. Final individual, Morten Zola, held for further investigation after additional anomalies discovered when matching their nanotat ID.
 
-**Log 0131AF09:1230:** A routine analysis of Zola's mesh presence detected current activity in Zola's socnet accounts despite the suspect being held in mesh isolation. When questioned, Zola denied having any active forks.
+**Log 0131AF09:1230:** A routine analysis of Zola’s mesh presence detected current activity in Zola’s socnet accounts despite the suspect being held in mesh isolation. When questioned, Zola denied having any active forks.
 
-**Log 0131AF09:1300:** Zola's mesh activity correlated with public sensor searches. An individual matching Zola's pod morph and biometrics identified. Suspect possible identity theft. Security team dispatched.
+**Log 0131AF09:1300:** Zola’s mesh activity correlated with public sensor searches. An individual matching Zola’s pod morph and biometrics identified. Suspect possible identity theft. Security team dispatched.
 
 **Log 0131AF09:1400:** Second Zola brought in for questioning. Same anomalies as First Zola with brainprint and nanotat IDs. Possibly ID thieves working in tandem. Effort initiated to locate original Morten Zola.
 
-**Log 0131AF09:1500:** A visit to Zola's registered residence located a Third Zola, again with anomalous ID. Unable to yet ascertain which is original.
+**Log 0131AF09:1500:** A visit to Zola’s registered residence located a Third Zola, again with anomalous ID. Unable to yet ascertain which is original.
 
 **Log 0131AF09:1700:** Habitat-wide sensor sweep detected six other active Zolas, all with matching morphs and biometrics. Two resisted arrest with armed violence and were killed. Four others captured.
 

@@ -6,9 +6,9 @@
 
 ## Catching Up
 
-You've been doing a great job in re-acclimating yourself to the state of things. I know it's hard, a lot of time has passed since the backup you are re-instantiated from was made.
+You've been doing a great job in re-acclimating yourself to the state of things. I know it’s hard, a lot of time has passed since the backup you are re-instantiated from was made.
 
-Here's the next series of updates.
+Here’s the next series of updates.
 
 </blockquote>
 
@@ -24,7 +24,7 @@ What if the TITANs were merely trying to eradicate the virus and killing us was 
 
 We go to extreme lengths to avoid setting the stage for a second TITAN event. Computational clusters above a certain power and storage are discouraged, if not forbidden, for fear of creating a fertile bed for a seed AI to run rampant. But, of course, with all those hypercorp research facilities and other secret installations, do you really believe these prohibitions aren’t broken on a daily basis? The Jovians go so far as to rely on analog tech as a safeguard against a rogue ASI and then you’ve got some crazy brinkers out there doing their best to cut themselves off entirely from the mesh out of fear of being contaminated. Some people don’t even trust their muses anymore. Who’s the voice in your head, really?
 
-## Where's The Humanity?
+## Where’s The Humanity?
 
 If the bioconservatives are to be believed, our society is corrupt because it is no longer solely human. We may all be hopping merrily from body to body, but at least we had a body to start with, unlike infolife. This lack of a biological origin makes it easy for some to consider AGIs unnatural things or to fear that they may ultimately be more sympathetic to the TITANs or other non-human interests. Such thinking can be infectious, perhaps even driving prejudice and institutionalized bigotry that may eventually make it a self-fulfilling prophecy. Infugees and deliberate infomorphs aren’t much better from this perspective. When you lack a body, do your loyalties still lie with your embodied species? Keep this in mind next time someone gives attitude to one of your digital forks.
 
@@ -56,4 +56,4 @@ The only beings who might have answers to these questions aren’t people, and t
 
 Nothing here is new to Firewall, of course. We have brilliant, dedicated, and genuinely good people thinking hard about this stuff all day. But what does it amount to? You take orders from your proxy, but do you know who your proxy is talking to? Have you met your proxy in person? What does “in person” even mean anymore? When you get called up to investigate some remote mining facility on Triton, how confident are you that you’re really going on Firewall business and not because a rival mining corp spoofed their handshake protocols and duped you into wiping out a competitor? What if Firewall has been compromised at its highest levels? What if it’s _always_ been serving another end? What would you do about it? What _could_ you do about it?
 
-Paranoid yet? Good. Keep that close. Use it. You'll need it.
+Paranoid yet? Good. Keep that close. Use it. You’ll need it.

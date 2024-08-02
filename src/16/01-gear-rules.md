@@ -37,7 +37,7 @@ Gear acquired through normal channels (Resources, rep, or nanofab) is assumed to
 
 ## Gear Size
 
-Matters of size, mass, and encumbrance are left to the GM's common sense. Remember that the technology level of Eclipse Phase means many items are smaller and lighter. GMs should apply impairment and movement modifiers of −10 to −30 to characters who are overloaded. Remember that characters in low or microgravity environments can carry and move much larger loads, though bulkiness and inertia remain an issue.
+Matters of size, mass, and encumbrance are left to the GM’s common sense. Remember that the technology level of Eclipse Phase means many items are smaller and lighter. GMs should apply impairment and movement modifiers of −10 to −30 to characters who are overloaded. Remember that characters in low or microgravity environments can carry and move much larger loads, though bulkiness and inertia remain an issue.
 
 Gear uses the same sizing as morphs ([Sizes](../12/21-other-action-factors.md#sizes)); all relevant rules and modifiers apply. A few other considerations are noted here:
 

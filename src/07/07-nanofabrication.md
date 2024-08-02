@@ -1,6 +1,6 @@
 # Nanofabrication
 
-> **Source:** _Everything, Forever: A New Maker's Primer_, by Silvia Lugo
+> **Source:** _Everything, Forever: A New Maker’s Primer_, by Silvia Lugo
 
 While nanofabrication was common before the Fall, its ubiquity in the present may come as a surprise. Today, nearly every object you interact with was made with a nanofabber. It’s possible that your sleeve itself was the product of one of these miraculous devices.
 
@@ -18,7 +18,7 @@ Hives are a particular type of specialized fabber used to manufacture and mainta
 
 ## Blueprints
 
-No matter what kind of nanofabber you may find yourself using, you’ll need a blueprint — a three-dimensional software plan for the design. Printers come pre-loaded with an assortment of simple blueprints appropriate to the device's purpose. Most polities, habs, and hypercorps also provide basic blueprints free for use by everyone, released into the public domain. This means that almost everyone has access to mundane tools, clothing designs, and foods.
+No matter what kind of nanofabber you may find yourself using, you’ll need a blueprint — a three-dimensional software plan for the design. Printers come pre-loaded with an assortment of simple blueprints appropriate to the device’s purpose. Most polities, habs, and hypercorps also provide basic blueprints free for use by everyone, released into the public domain. This means that almost everyone has access to mundane tools, clothing designs, and foods.
 
 These free blueprints are widely regarded as signs of lower social status in the inner system. The old and transitional economies there rely on people purchasing proprietary blueprints online for whatever they need. Hypercorp boutiques compete to offer the latest designs and upgrades, sold through subscription channels and ecosystems designed to lock customers into brand loyalty. These digital plans are accompanied by stringent copyright protections, limiting the number of prints to deter sharing and piracy and preventing any modifications of the designs outside allowed parameters.
 
@@ -28,7 +28,7 @@ Naturally, blueprints to manufacture dangerous or illegal goods are unavailable 
 
 ## Feedstock
 
-Fabbers are useless without raw materials, commonly termed **feedstock**. Most habitats make basic feedstock readily available through utility lines. In the inner system, your feedstock usage is likely limited according to your payment plan. For areas outside of a public utility infrastructure, feedstock is also available in bricks of either single elements or in conveniently bonded compounds when elements are dangerously reactive in their simplest states. Almost all habitats recycle or scavenge the vast majority of their waste for use as feedstock. When you toss your garbage down the chute, it’s not just going to the dump, it’s being fed to disassembler nanoswarms to be used as the raw materials for the hab’s feedlines. Fabbers often incorporate disassembly ports into their chassis, such as the organic-waste disposal unit on your kitchen's autocook.
+Fabbers are useless without raw materials, commonly termed **feedstock**. Most habitats make basic feedstock readily available through utility lines. In the inner system, your feedstock usage is likely limited according to your payment plan. For areas outside of a public utility infrastructure, feedstock is also available in bricks of either single elements or in conveniently bonded compounds when elements are dangerously reactive in their simplest states. Almost all habitats recycle or scavenge the vast majority of their waste for use as feedstock. When you toss your garbage down the chute, it’s not just going to the dump, it’s being fed to disassembler nanoswarms to be used as the raw materials for the hab’s feedlines. Fabbers often incorporate disassembly ports into their chassis, such as the organic-waste disposal unit on your kitchen’s autocook.
 
 Aside from blueprint availability, feedstock is ultimately the biggest limiting factor in nanofabrication. Miraculous though the technology is, it’s not just conjuring goods out of nothing. While the economies of different habitats or solar-system regions vary greatly, they are still rooted in the relative scarcity of material goods. Carbon, iron, and the like are relatively abundant, but many of the most exotic elements of the periodic table are used in modern equipment. Dangerous heavy metals or gases are regularly used for industrial applications and in trace amounts to produce consumer-grade alloys or plastics. Habitats typically restrict access to hazardous and rare-element feedstocks, requiring explicit permission and a high credit cost.
 
@@ -40,7 +40,7 @@ Thankfully, replicators primarily run themselves. Each fabber is equipped with a
 
 ## Doing it the Hard Way
 
-If you lack the proper blueprint, it's theoretically possible to make your own. 3D design, however, takes days for even simple objects, weeks or months for anything complex. It also requires not just a thorough knowledge of software encoding, but also an artisinal familiarity with whatever it is you're designing. You want a sheet of steel capable of withstanding the heat of planetary re-entry? You'll need to be a metallurgist as well as a programmer. Thankfully, accelerated time in a VR simulspace can shorten the process.
+If you lack the proper blueprint, it’s theoretically possible to make your own. 3D design, however, takes days for even simple objects, weeks or months for anything complex. It also requires not just a thorough knowledge of software encoding, but also an artisinal familiarity with whatever it is you're designing. You want a sheet of steel capable of withstanding the heat of planetary re-entry? You’ll need to be a metallurgist as well as a programmer. Thankfully, accelerated time in a VR simulspace can shorten the process.
 
 ## Remaking Society
 

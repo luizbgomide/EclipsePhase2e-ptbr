@@ -24,7 +24,7 @@
   - [Duration](../14/04-using-psi.md#duration)
   - [Infection Modifiers](../14/04-using-psi.md#infection-modifiers)
     - [Infection Test](../14/04-using-psi.md#infection-test)
-  - [The Infection's Influence](../14/04-using-psi.md#the-infections-influence)
+  - [The Infection’s Influence](../14/04-using-psi.md#the-infections-influence)
   - [Pushing Sleights](../14/04-using-psi.md#pushing-sleights)
   - [Infection Rating Thresholds](../14/04-using-psi.md#infection-rating-thresholds)
   - [Easing the Infection](../14/04-using-psi.md#easing-the-infection)

@@ -105,7 +105,7 @@ Neo-primitivists are a collection of both far-right and far-left biocons that ad
 
 It takes guts and willpower to choose self-imposed exile on a tiny hab dozens of AU from the sun. We’ve come to call these people brinkers and isolates: those who live life on the literal fringes of transhumanity.
 
-Brinker habs come in all flavors: individul hermits, single families, extended group units, social experiments, societies based on gender (or lack thereof), political extremists, religious groups, cults, pleasure houses, and always-on gaming. You can find brinker groups anywhere: among the different Trojan asteroid groupings, on the tiny moons of the gas giants, around Saturn's rings, and even out in Mars’s dunes and Venus’s clouds. You can find them floating in the sun’s corona, in the far extremes of the Kuiper Belt and Oort Cloud, riding comets, or hidden away on frontier exoplanets.
+Brinker habs come in all flavors: individul hermits, single families, extended group units, social experiments, societies based on gender (or lack thereof), political extremists, religious groups, cults, pleasure houses, and always-on gaming. You can find brinker groups anywhere: among the different Trojan asteroid groupings, on the tiny moons of the gas giants, around Saturn’s rings, and even out in Mars’s dunes and Venus’s clouds. You can find them floating in the sun’s corona, in the far extremes of the Kuiper Belt and Oort Cloud, riding comets, or hidden away on frontier exoplanets.
 
 ### It Takes All Kinds
 
@@ -115,7 +115,7 @@ Cultural brinkers run the gamut of artists, experimenters, and eccentrics. You c
 
 Scientists create or find brinker habitats so they can pursue clandestine research. Some may be hypercorp-funded, others are the work of exiles. Others are misguided attempts to establish new societies. Alpha Plus is an attempt to create a perfectly ordered society via psychsourgery, so that everyone is sculpted for their role.
 
-Religion and cult worship comprise the last major group of brinkers. Religious groups tend to be monastic or ascetic. Cults can be harmless or criminal, depending on how fanatical they are and how odd their beliefs might be. The monastery on Saturn's moon Kiviuq requires attendants to meditate in vacuum and listen to the voices of the stars as received via a neutrino telescope array.
+Religion and cult worship comprise the last major group of brinkers. Religious groups tend to be monastic or ascetic. Cults can be harmless or criminal, depending on how fanatical they are and how odd their beliefs might be. The monastery on Saturn’s moon Kiviuq requires attendants to meditate in vacuum and listen to the voices of the stars as received via a neutrino telescope array.
 
 Perhaps the most numerous brinkers are survivalists, who stockpile weapons and supplies and hide in fear of another Fall or some other system-wide cataclysm. These brinkers are typically untrusting of visitors and hostile to outsiders.
 
@@ -179,7 +179,7 @@ Mercurials are sometimes derided as separatists or anti-human extremists, though
 
 ### Groups and Leaders
 
-The mercurial movement is composed of many small groups, few of which can claim a leading role. Their movement is not always unified or in agreement. Some AGIs decry society's focus on physical embodiment, while many uplift mercurials see their biology as core to their identity. As AGI/uplift culture is a blank slate, there are also conflicts beween cultural innovators over direction and vision.
+The mercurial movement is composed of many small groups, few of which can claim a leading role. Their movement is not always unified or in agreement. Some AGIs decry society’s focus on physical embodiment, while many uplift mercurials see their biology as core to their identity. As AGI/uplift culture is a blank slate, there are also conflicts beween cultural innovators over direction and vision.
 
 Militant mercurials take a more radical view on social struggle. The Sapient Liberation Front is a cell-based direct-action group intent on economic disruption. They have hacked, sabotaged, and even bombed labs, offices, codehouses, and universities involved in uplift research and the trade in AGI/uplift indentures.
 
@@ -200,7 +200,7 @@ Taking Earth back from the TITANs is a pipe dream for most, but the reclaimers h
 
 Led by Milder Ripon, the Earth Reclamation Project (ERP) funnels funds to lobbyists influence the LLA and Consortium to support the movement. Opposition to the ERP is fierce: the project is incredibly expensive, it’s opposed to the Consortium dogma that Mars is transhumanity’s new home, and there’s a very real risk of danger — possibly even “re-activating” the TITANs. Rumors that the reclaimers have established a permanent base on Earth as a beachhead and research outpost remain unconfirmed. Admitting nothing, the ERP argues that such a base would be a critical beacon of hope for any transhumans luckless enough to still be trapped down there.
 
-On a positive note, the reclaimer movement has dumped a massive amount of effort into creating habitat “arks” throughout the system (and on extrasolar worlds). These vault-arks contain genetic material for every species on record, libraries of books, galleries of digitized art, and other artifacts of transhuman culture. Others are literal ecological conservatories and wildlife zoos, preserving Earth's biodiversity in an artificial environment.
+On a positive note, the reclaimer movement has dumped a massive amount of effort into creating habitat “arks” throughout the system (and on extrasolar worlds). These vault-arks contain genetic material for every species on record, libraries of books, galleries of digitized art, and other artifacts of transhuman culture. Others are literal ecological conservatories and wildlife zoos, preserving Earth’s biodiversity in an artificial environment.
 
 ## Sapients
 
@@ -245,7 +245,7 @@ The Ultimates owe their origins to Manu Bhattacharya, a mercenary on the Indian 
 
 Just prior to the Fall, Ultimate Security fell under international investigation for war crimes and human rights violations. Bhattacharya relocated his headquarters to a station called Struggle, which allowed him to avoid Earth-based authorities and gave the Ultimates a community to call their own. After the Fall, though Struggle was lost to the TITANs, Ultimate mercenaries found themselves in high demand. They achieved system-wide notoriety when Go-nin hired them to overrun exhuman forces on Eris and seize control of the Discord Gate.
 
-Ultimate communities are highly stratified and built around personal achievement. They take literally the Confucian belief of strength from the bottom up: strong individuals make strong communities, and strong communities make strong states. However, their members increasingly buy into Bhattacharya's myth-making and cult of personality, strict meritocratic beliefs, and derision of lesser transhumans as “genetrash.” Ultimate mercs increasingly show their willingness to cross ethical lines and engage in war crimes.
+Ultimate communities are highly stratified and built around personal achievement. They take literally the Confucian belief of strength from the bottom up: strong individuals make strong communities, and strong communities make strong states. However, their members increasingly buy into Bhattacharya’s myth-making and cult of personality, strict meritocratic beliefs, and derision of lesser transhumans as “genetrash.” Ultimate mercs increasingly show their willingness to cross ethical lines and engage in war crimes.
 
 <blockquote>
 

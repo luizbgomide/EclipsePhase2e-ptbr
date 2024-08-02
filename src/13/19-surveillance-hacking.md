@@ -70,25 +70,25 @@ ALIs monitoring the public habitat security sensors typically filter out the tri
 
 ## Security Log, Case 15678zt
 
-**Log 0624AF09:2300:** Partially disassembled body found in habitat's trash recyclers. Unit hacked to bypass recognition of morph components and subsequent alerts. Only discovered due to a random maintenance check. No ID or cortical stack found.
+**Log 0624AF09:2300:** Partially disassembled body found in habitat’s trash recyclers. Unit hacked to bypass recognition of morph components and subsequent alerts. Only discovered due to a random maintenance check. No ID or cortical stack found.
 
 **Log 0625AF09:1100:** Forensic nanoswarm scans of recycler transport bots identified the one which carried the corpse. 31 potential pickup points noted. Time-contracted security footage review of 28 sites by ALIs underway. However, 3 sites determined to be in areas lacking active sensor coverage, against regulations.
 
 **Log 0625AF09:1200:** Genetic scan confirms corpse to be an olympian model with after-market modifications. Manufacturer identified in genetic code as PlayMates Limited, a now defunct hypercorp. Tox screen negative. However, bio scanners found some unusual viral traces that are still being analyzed.
 
-**Log 0625AF09:1600:** Review of 28 sites indicates body was likely not dumped at any of them. Analysis of sensors at other 3 sites indicates 1 site failure due to inadequate maintenance over past few weeks. Sensors at the other 2 sites failed within an hour of each other, within 24 hours of the body's disposal. Motes likely ripped by hostile parties.
+**Log 0625AF09:1600:** Review of 28 sites indicates body was likely not dumped at any of them. Analysis of sensors at other 3 sites indicates 1 site failure due to inadequate maintenance over past few weeks. Sensors at the other 2 sites failed within an hour of each other, within 24 hours of the body’s disposal. Motes likely ripped by hostile parties.
 
 **Log 0625AF09:2300:** A habitat-wide analysis of public sensor network failures indicates a concerted area to rip a substantial length of sensor coverage in the same 2-hour period. This was likely to intended to clear a path for undetected transportation of the body to the recycer pickup point. Area large enough that long-term traffic analysis of its perimeter would be timely and costly. Given low priority rating, analysis not approved.
 
 **Log 0626AF09:1000:** Access to private sensor networks adjacent to the ripped zones has helped us identify a pair of unregistered drones likely used to clear a path. These drones match the profile of a local gang known to offer sensor-ripping services on the black market.
 
-**Log 0626AF09:1600:** Contemporary surveillance of the gang's known members spotted one of the drones in active use. Operator identified as Sofia Aitor. Arrest warrant requested.
+**Log 0626AF09:1600:** Contemporary surveillance of the gang’s known members spotted one of the drones in active use. Operator identified as Sofia Aitor. Arrest warrant requested.
 
-**Log 0626AF09:1900:** Attempt to arrest Sofia Aitor foiled when subject inexplicably experienced severe cerebral hemorraghing immediately after being taken into custody, leading to her death. Autopsy underway. No hostile nanoswarms or pathogens yet detected. Subject's known backups subpeonaed. Mesh inserts were wiped, muse self-deleted. Subject's ego successfully recovered from cortical stack, scheduled for questioning.
+**Log 0626AF09:1900:** Attempt to arrest Sofia Aitor foiled when subject inexplicably experienced severe cerebral hemorraghing immediately after being taken into custody, leading to her death. Autopsy underway. No hostile nanoswarms or pathogens yet detected. Subject’s known backups subpeonaed. Mesh inserts were wiped, muse self-deleted. Subject’s ego successfully recovered from cortical stack, scheduled for questioning.
 
-**Log 0627AF09:0400:** Aitor's cortical stack reported missing from evidence lockup. Recovered ego also erased from our systems. Security audit underway. Potential exists that we have a mole.
+**Log 0627AF09:0400:** Aitor’s cortical stack reported missing from evidence lockup. Recovered ego also erased from our systems. Security audit underway. Potential exists that we have a mole.
 
-**Log 0627AF09:1300:** Officer Ramla Nuru reported missing. Same officer present at Aitor's arrest and on site during security breach identified as potential imposter. Biometrics uploaded for database search.
+**Log 0627AF09:1300:** Officer Ramla Nuru reported missing. Same officer present at Aitor’s arrest and on site during security breach identified as potential imposter. Biometrics uploaded for database search.
 
 **Log 0627AF09:1400:** Biometrics matched to an unknown individual wanted for questioning throughout the inner system.
 

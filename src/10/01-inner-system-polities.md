@@ -6,7 +6,7 @@
 
 ## Friends & Enemies
 
-Next overview topic: to really understand the state of the Solar System, you'll need to have a grasp of the various ideologies, polities, and factions at play. Knowing the difference can keep you alive.
+Next overview topic: to really understand the state of the Solar System, you’ll need to have a grasp of the various ideologies, polities, and factions at play. Knowing the difference can keep you alive.
 
 </blockquote>
 
@@ -45,7 +45,7 @@ On half of Luna, when you look up from the surface, you’ll see Earth, our scar
 
 ### Decline and Resurgence
 
-The LLA's political influence has been in decline for a long time, but it retains one of the best military fleets in the Solar System. The remnants of many national space fleets threw in their lot with the Alliance after the Fall. Relations with the Consortium and the Morningstar Constellation are cold. There is strong pressure for the LLA to convert from its old market practices to the transitional economy, and several Lunar habs have already done so. But AF 10 is spring in the Solar System, and the Alliance is getting a new infusion of reclaimers from the outer system who want to be closer to the action. These immigrants, with their dynamic outer-system cultural values, could be the vanguard of big changes to come.
+The LLA’s political influence has been in decline for a long time, but it retains one of the best military fleets in the Solar System. The remnants of many national space fleets threw in their lot with the Alliance after the Fall. Relations with the Consortium and the Morningstar Constellation are cold. There is strong pressure for the LLA to convert from its old market practices to the transitional economy, and several Lunar habs have already done so. But AF 10 is spring in the Solar System, and the Alliance is getting a new infusion of reclaimers from the outer system who want to be closer to the action. These immigrants, with their dynamic outer-system cultural values, could be the vanguard of big changes to come.
 
 ## The Morningstar Constellation
 
@@ -58,7 +58,7 @@ The LLA's political influence has been in decline for a long time, but it retain
 
 The habitats making up Morningstar voted for independence from the Planetary Consortium five years ago. It was a political circus that ultimately coalesced into an independence movement and then, against long odds, succeeded. The Planetary Consortium was caught napping, which is pretty sad given how many of their analysts keep up with their workload by sleeving into hibernoid morphs. The powers that be on Mars still view the referendum that lead to Morningstar as a fluke and expect its members to rejoin the Consortium. Even a thin atmosphere can cloud vision.
 
-The independence referendum is usually understood, at least on Mars, as Venus saying “no” to the Consortium’s vision of fully terraforming the yellow planet. The reality is much more complex. For one thing, the idea of fully terraforming Venus is far from dead. Its proponents are locked in a war of ideas with the opposing camp, the Aerial Terraforming Initiative (ATI). The ATI's vision is to preserve the planet’s surface conditions while raising oxygen levels in the upper atmosphere and seeding the atmosphere with aerial life. Both camps in the debate are going full steam ahead with R&D, and there are half a dozen sub-factions on each side. The full terraforming faction is constructing proof-of-concept orbital mirrors that would cool the planet’s surface if deployed en masse. ATI advocates have been developing biomorphs designed to survive in the upper atmosphere and animals able to roost on the outsides of aerostats.
+The independence referendum is usually understood, at least on Mars, as Venus saying “no” to the Consortium’s vision of fully terraforming the yellow planet. The reality is much more complex. For one thing, the idea of fully terraforming Venus is far from dead. Its proponents are locked in a war of ideas with the opposing camp, the Aerial Terraforming Initiative (ATI). The ATI’s vision is to preserve the planet’s surface conditions while raising oxygen levels in the upper atmosphere and seeding the atmosphere with aerial life. Both camps in the debate are going full steam ahead with R&D, and there are half a dozen sub-factions on each side. The full terraforming faction is constructing proof-of-concept orbital mirrors that would cool the planet’s surface if deployed en masse. ATI advocates have been developing biomorphs designed to survive in the upper atmosphere and animals able to roost on the outsides of aerostats.
 
 So no, forget what your politically opinionated drinking buddy on Mars opined between pitches during the last Cubs-Hanshin Tigers game. It was never about terraforming. Most of the oligarchs running Mars were originally either American or Chinese. Their opposite numbers on Venus were either born off-world or came from Europe and Brazil. Venus is just different than Mars, and its nascent power structures were born out of cultural, political, and economic interests that don’t follow Martian logic.
 

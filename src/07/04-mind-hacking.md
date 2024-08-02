@@ -8,7 +8,7 @@ Psychosurgery walks hand-in-hand with cerebral augmentations, nootropic drugs, n
 
 ## A Better You
 
-Much like genetics, nanotechnology, and cybernetics improved the baseline and maximum potential of physical bodies, psychosurgery enhances your mind's health, stability, and working functions.
+Much like genetics, nanotechnology, and cybernetics improved the baseline and maximum potential of physical bodies, psychosurgery enhances your mind’s health, stability, and working functions.
 
 ### Therapeutics
 
@@ -42,7 +42,7 @@ New ground is broken daily. Experiments with forking, merging two or more distin
 
 ## Mental Augmentations
 
-The confluence of neuroscience and genetic design has resulted in a number of biomorphs with enhanced cognitive capabilities, from exalts up to mentons. Many morphs are augmented further with bioware, nanoware, and cybernetics to enhance perception, enable multitasking, interface with technology, and even partition the brain to hold multiple egos. Brains are extraordinarily adaptive to new sensory inputs, providing access to a range of new sensory ware and perceptive functions. The practice of “glanding” has recently risen in popularity, using implants such as drug glands, neuromodulation, and endocrine control to alter the brain's chemical functions and emotions. These practices have a benefit over psychosurgery in that they allow the user to manipulate their emotional state on the fly, in response to their current experiences.
+The confluence of neuroscience and genetic design has resulted in a number of biomorphs with enhanced cognitive capabilities, from exalts up to mentons. Many morphs are augmented further with bioware, nanoware, and cybernetics to enhance perception, enable multitasking, interface with technology, and even partition the brain to hold multiple egos. Brains are extraordinarily adaptive to new sensory inputs, providing access to a range of new sensory ware and perceptive functions. The practice of “glanding” has recently risen in popularity, using implants such as drug glands, neuromodulation, and endocrine control to alter the brain’s chemical functions and emotions. These practices have a benefit over psychosurgery in that they allow the user to manipulate their emotional state on the fly, in response to their current experiences.
 
 The software mind-states of cyberbrains (used in pods and synthmorphs) and infomorphs can be programmed and augmented to achieve similar benefits as wetware brains.
 

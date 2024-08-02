@@ -5,7 +5,7 @@ A number of weapons and some gear items list specific traits that indicate speci
 - **Armor-Piercing:** This weapon penetrates armor. The attack inflicts −1d10&nbsp;DV, but armor is halved. Weapons and ammo types listed as armor-piercing already incorporate the DV modifier. Additional armor-piercing effects are ignored.
 - **Blinding:** Targets must make a REF Check or be [blinded](../12/21-other-action-factors.md#conditions) for 1 action turns, +1 per superior failure. A critical failure results in permanent blindness until repaired or they spend time in a healing vat. Anti-glare ware protects against blinding based on light.
 - **Concealable:** This item is easily hidden. You receive a +30 to Infiltrate Tests to hide this item on your person (or elsewhere).
-- **Entangling:** Targets struck by this weapon must make a REF Check or be [grappled](../12/02-melee-combat.md#grappling). The attacker's superior successes apply a cumulative −10 to this REF Check and SOM Checks to break free.
+- **Entangling:** Targets struck by this weapon must make a REF Check or be [grappled](../12/02-melee-combat.md#grappling). The attacker’s superior successes apply a cumulative −10 to this REF Check and SOM Checks to break free.
 - **Fixed:** Fixed weapons are designed to be fired from a prone or braced position, such as mounted on a bipod or hardpoint. If carried, apply a −20 modifier to attacks and consider them to have the Two-Handed trait.
 - **Fragile:** This items breaks or becomes unusable if you roll a superior failure.
 - **Knockdown:** This strike may knock even unwounded opponents off their feet. The target must make a SOM Check or be knocked prone.

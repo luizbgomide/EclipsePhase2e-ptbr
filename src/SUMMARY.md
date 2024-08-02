@@ -59,7 +59,7 @@
 - [Transhuman Culture](08/00-transhuman-culture.md)
   - [Fear and Paranoia](08/01-fear-and-paranoia.md)
   - [Public and Private Life](08/02-public-and-private-life.md)
-  - [Earth's Legacy](08/03-earth-s-legacy.md)
+  - [Earth’s Legacy](08/03-earth-s-legacy.md)
   - [Culture & Clades](08/04-culture-and-clades.md)
   - [Transhuman Sexuality](08/05-transhuman-sexuality.md)
   - [Family and Children](08/06-family-and-children.md)

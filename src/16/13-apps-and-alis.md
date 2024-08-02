@@ -83,7 +83,7 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 
 **Bedlam:** Bedlam assaults the ego with traumatic mental input, inflicting mental stress. Victims are overwhelmed with horrific, monstrous, sanity-ripping sensory and emotional tracks. Each attack inflicts SV 1d10, +1d6 per superior success.
 
-**Cauterizer:** This scorch app rips into the ego with destructive neurofeedback routines. Against a cyberbrained ego, the cauterizer inflicts DV 1d10 + 5, +1d6 per superior success, to the target's morph (this is physical damage, not mesh damage). Against an infomorph, the cauterizer inflicts a DV 3d10 mesh attack of digitized neurological damage.
+**Cauterizer:** This scorch app rips into the ego with destructive neurofeedback routines. Against a cyberbrained ego, the cauterizer inflicts DV 1d10 + 5, +1d6 per superior success, to the target’s morph (this is physical damage, not mesh damage). Against an infomorph, the cauterizer inflicts a DV 3d10 mesh attack of digitized neurological damage.
 
 **Nightmare:** Nightmares trigger anxiety and panic attacks within the victim by stimulating the neural circuitry representing the amygdala and hippocampus. The target ego must make a WIL Check. If they succeed, they are shaken, suffering a −10 impairment modifier to all actions until the end of the next action turn. If they fail, they suffer SV 1d6 and suffer an [acute stress response](../12/18-mental-health.md#acute-stress-responses) lasting for 1d6 minutes, +1 per superior failure.
 
@@ -107,6 +107,6 @@ Tacnets provide the following functions:
 - **Medical Data:** Tacnets monitor the health of their users via medichines, implants, and other sensors. Users can call up health reports on their allies.
 - **Overwatch:** Tacnets keep an eye out for potential threats. They provide a +10 modifier to Perceive Tests against [surprise](../12/21-other-action-factors.md#surprise).
 - **Indirect Fire:** Members of a tacnet can provide targeting data to each other for purposes of [indirect fire](../12/04-ranged-combat.md#indirect-fire).
-- **Analysis:** Tacnets can analyze real-time situations to provide suggestions and warnings. The app's god’s-eye view of a situation helps it to identify facts and details that individuals overlook. For example, a tacnet can analyze an opposing team's weapons, shots fired, and potential injuries and suggest tactical maneuvers. Querying a tacnet for advice is a quick action; treat as Know: Tactics 80.
+- **Analysis:** Tacnets can analyze real-time situations to provide suggestions and warnings. The app’s god’s-eye view of a situation helps it to identify facts and details that individuals overlook. For example, a tacnet can analyze an opposing team’s weapons, shots fired, and potential injuries and suggest tactical maneuvers. Querying a tacnet for advice is a quick action; treat as Know: Tactics 80.
 
 Many tacnet features are immediately accessible to the user via their AR display; other data can be accessed with a quick action. The GM determines when the tacnet provides important alerts to the user. At the GM’s discretion, some of these features may apply modifiers to the character’s tests. Tacnets are designed to be overseers, not to take action. They will not hack opponents, pilot vehicles, or interface with weapon systems.

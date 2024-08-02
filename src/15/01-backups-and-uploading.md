@@ -35,7 +35,7 @@ Uploads can be a _transfer_ or a _fork_. A transfer eliminates all traces of the
 | Upload Type                                     |     Time      |
 | :---------------------------------------------- | :-----------: |
 | Transfer of ego from biological brain           |   1 hour\*    |
-| Fork of ego from biological brain's neural lace | 1 action turn |
+| Fork of ego from biological brain’s neural lace | 1 action turn |
 | Transfer/fork from cyberbrain                   | 1 action turn |
 | Fork from extracted cortical stack              | 1 action turn |
 

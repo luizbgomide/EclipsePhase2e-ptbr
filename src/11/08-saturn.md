@@ -8,7 +8,7 @@ Saturn’s famous wide, thin rings stretch from 7,000&nbsp;km above the top of i
 
 ## The Ringers
 
-Saturn’s rings are the primary source of water in the system and a great place to go to be alone and contemplate the beauty of the universe. Ringers forego habs and use vacuum-tolerant morphs to live here, going months without seeing anyone else. Some ringers are here to hide, but most are just solitary; they look out for each other and protect each other's privacy.
+Saturn’s rings are the primary source of water in the system and a great place to go to be alone and contemplate the beauty of the universe. Ringers forego habs and use vacuum-tolerant morphs to live here, going months without seeing anyone else. Some ringers are here to hide, but most are just solitary; they look out for each other and protect each other’s privacy.
 
 ## Gas Mining
 
@@ -27,7 +27,7 @@ Saturn’s diversity expresses itself in many ways. The range of transhumans and
 
 </div>
 
-What happens when you stick genius-level egos together in a single hab, provide for their basic needs, and turn them loose on whatever strikes their fancy? You get Bright, a joint hypercorp experiment in commodifying intelligence. Well, it was a joint project until Acumenic pulled a hostile takeover, even pushing Cognite's project lead out an airlock. Now Acumenic is struggling to assert control over the station. At least one part of the habitat has been seized by a group of self-made sociopaths and closed off to outsiders. Bright is housed on a work-in-progress Hamilton cylinder constructed from Tethys’ moon Telesto.
+What happens when you stick genius-level egos together in a single hab, provide for their basic needs, and turn them loose on whatever strikes their fancy? You get Bright, a joint hypercorp experiment in commodifying intelligence. Well, it was a joint project until Acumenic pulled a hostile takeover, even pushing Cognite’s project lead out an airlock. Now Acumenic is struggling to assert control over the station. At least one part of the habitat has been seized by a group of self-made sociopaths and closed off to outsiders. Bright is housed on a work-in-progress Hamilton cylinder constructed from Tethys’ moon Telesto.
 
 ### Kronos Cluster
 
@@ -77,7 +77,7 @@ The scum barge _Lost in Neverwhere_ is an excellent supply point for sentinels w
 
 </div>
 
-Known colloquially as Phelan’s, this scum flotilla is a waystation between Saturnian civilization and the wilderness beyond; a constant, free-wheeling party where you’re just as likely to find yourself blasted out an airlock as you are chasing a high with some of the finest Fall refugees you’ll ever meet. While Phelan's is a fine place to pick up some of the greatest mind-altering substances you can ingest, its best export is Phelan’s Ma, hands-down the best whiskey in the galaxy unless you happen to have a bottle of 21-year-old PortWood Balvenie. Phelan's swarm cycles between Saturn's moons, making it an excellent place to score intel and make connections.
+Known colloquially as Phelan’s, this scum flotilla is a waystation between Saturnian civilization and the wilderness beyond; a constant, free-wheeling party where you’re just as likely to find yourself blasted out an airlock as you are chasing a high with some of the finest Fall refugees you’ll ever meet. While Phelan’s is a fine place to pick up some of the greatest mind-altering substances you can ingest, its best export is Phelan’s Ma, hands-down the best whiskey in the galaxy unless you happen to have a bottle of 21-year-old PortWood Balvenie. Phelan’s swarm cycles between Saturn’s moons, making it an excellent place to score intel and make connections.
 
 ### Profunda (Enceladus)
 
@@ -88,7 +88,7 @@ Known colloquially as Phelan’s, this scum flotilla is a waystation between Sat
 
 </div>
 
-Profunda is the largest settlement on Enceladus and famous across the system. On-station government is nearly nonexistent; business is conducted with Extropian legal contracts. The Profunda Corporation is the key interest in mining and refining operations, but it is not the only game in town. Profunda, however, is best known for their premier genetic designers and morph artists. They create everything from custom morphs to neogenetic and chimeric creatures like the winged smart cats popular around the Saturn system. Profunda's Glitter Bloc dominates the market in luxury morph models, providing sleeves to some of the most notorious metacelebrities and socialites.
+Profunda is the largest settlement on Enceladus and famous across the system. On-station government is nearly nonexistent; business is conducted with Extropian legal contracts. The Profunda Corporation is the key interest in mining and refining operations, but it is not the only game in town. Profunda, however, is best known for their premier genetic designers and morph artists. They create everything from custom morphs to neogenetic and chimeric creatures like the winged smart cats popular around the Saturn system. Profunda’s Glitter Bloc dominates the market in luxury morph models, providing sleeves to some of the most notorious metacelebrities and socialites.
 
 ### Salah
 
@@ -99,7 +99,7 @@ Profunda is the largest settlement on Enceladus and famous across the system. On
 
 </div>
 
-Salah was conceived by the Al Thani family of Qatar, who heavily financed various efforts to expand into space. Originally intended as a grandiose display of wealth and power, Salah is now seen by many Muslims as an opportunity to bring the _ummah_ together again and give them a place of their own to call home. However, the Al Thani family is working hard to open Salah to Consortium hypercorps, offering them a foothold in the outer system. Already their designs have run counter to the community's wishes.
+Salah was conceived by the Al Thani family of Qatar, who heavily financed various efforts to expand into space. Originally intended as a grandiose display of wealth and power, Salah is now seen by many Muslims as an opportunity to bring the _ummah_ together again and give them a place of their own to call home. However, the Al Thani family is working hard to open Salah to Consortium hypercorps, offering them a foothold in the outer system. Already their designs have run counter to the community’s wishes.
 
 Salah is a place of faith and tolerance. While many of us follow the teachings of the Prophet, a great many Hindus, some Christians, and some Jewish refugees have been given quarter here. Salah was designed to inspire. Vast parks and green spaces combine with architecture meant to emulate everything from the Hagia Sophia to the Al Haram to Canterbury Cathedral. It is hard not to stand within Salah and feel awe.
 
@@ -122,7 +122,7 @@ Notable communities include the Do-It-Yourself Shipyards, where the technicians 
 
 As transhumanity’s fate approached, scientists settled on Titan to study its unique lakes and rivers of liquid methane. Soon they settled the moon with the dream of creating a place where all transhumans could live free together. The Titanian Commonwealth, home to 60 million transhumans, is the realization of that dream.
 
-Saturn’s largest moon is shrouded in a permanent orange atmospheric haze, hellishly cold (averaging −180&nbsp;°C), and whipped by winds produced by tidal forces four times stronger than those influencing Earth’s climate. On its face, it appears even less hospitable than the airless balls of ice and rock comprising every world between Titan and Mars. The meager sunlight reaching its surface is insufficient to grow any but the hardiest plants, the mostly nitrogen atmosphere is dangerously toxic, and the surface is dotted with lakes and seas of liquid methane. In spite of all this, abundant hydrocarbons, a thick atmosphere, and diverse chemistry make Titan one of the few worlds in the system where colonists may rely entirely on local resources. Titan's low gravity (0.138&nbsp;g) makes it easy to launch ships from the surface with mass drivers or catapults.
+Saturn’s largest moon is shrouded in a permanent orange atmospheric haze, hellishly cold (averaging −180&nbsp;°C), and whipped by winds produced by tidal forces four times stronger than those influencing Earth’s climate. On its face, it appears even less hospitable than the airless balls of ice and rock comprising every world between Titan and Mars. The meager sunlight reaching its surface is insufficient to grow any but the hardiest plants, the mostly nitrogen atmosphere is dangerously toxic, and the surface is dotted with lakes and seas of liquid methane. In spite of all this, abundant hydrocarbons, a thick atmosphere, and diverse chemistry make Titan one of the few worlds in the system where colonists may rely entirely on local resources. Titan’s low gravity (0.138&nbsp;g) makes it easy to launch ships from the surface with mass drivers or catapults.
 
 ### Aarhus
 
@@ -170,4 +170,4 @@ Nyhavn’s four main domes (Great Nyhavn, Telemark City, Old Nyhavn, and New Kø
 
 </div>
 
-The Hub floats in geosynchronous orbit over Nyhavn. It is Titan’s primary spaceport, with a massive fleet of orbital landers to shuttle goods and people down to the surface. A recent shutdown of the port's activities was blamed on improper imlementation of a software update, but rumors point to some sort of contained outbreak.
+The Hub floats in geosynchronous orbit over Nyhavn. It is Titan’s primary spaceport, with a massive fleet of orbital landers to shuttle goods and people down to the surface. A recent shutdown of the port’s activities was blamed on improper imlementation of a software update, but rumors point to some sort of contained outbreak.

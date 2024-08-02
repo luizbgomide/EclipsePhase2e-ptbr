@@ -28,19 +28,19 @@ If you are new to roleplaying games, you will find everything you need to know a
 
 This chapter provides a summary overview of the game; we recommend that everyone start by giving the rest of it a brief review.
 
-If you're new to the game and eager to start playing, we recommend choosing one of the [16 sample characters](../05/00-sample-characters.md) to start out. These characters are divided into 4 teams of 4, so we recommend you and your friends choose from the same team. If you have more than 4 players, choose your extras from other teams. All of the teams work for Firewall-based games, with one team optimized for the inner Solar System and one team designed for the outer system. One of the teams is also made specifically for gatecrashing, and one for criminal-oriented scenarios.
+If you’re new to the game and eager to start playing, we recommend choosing one of the [16 sample characters](../05/00-sample-characters.md) to start out. These characters are divided into 4 teams of 4, so we recommend you and your friends choose from the same team. If you have more than 4 players, choose your extras from other teams. All of the teams work for Firewall-based games, with one team optimized for the inner Solar System and one team designed for the outer system. One of the teams is also made specifically for gatecrashing, and one for criminal-oriented scenarios.
 
 If you prefer to jump right into making your own characters, proceed to [Making Characters](../04/00-making-characters.md).
 
-If you'd prefer to get a grasp on the rules first, start with [Game Mechanics](../03/00-game-mechanics.md). For more detail, move on to [Actions & Combat](../12/00-action-and-combat.md) and [Transhuman Tech](../15/00-transhuman-tech.md). If you plan to play a hacker, check out [the mesh](../13/00-the-mesh.md). If you have a psychic async in mind, take a look at [Psi](../14/00-psi.md).
+If you’d prefer to get a grasp on the rules first, start with [Game Mechanics](../03/00-game-mechanics.md). For more detail, move on to [Actions & Combat](../12/00-action-and-combat.md) and [Transhuman Tech](../15/00-transhuman-tech.md). If you plan to play a hacker, check out [the mesh](../13/00-the-mesh.md). If you have a psychic async in mind, take a look at [Psi](../14/00-psi.md).
 
-If you're more interested in the setting, there's plenty to read, starting with the history, [How it Came to Be](../06/00-how-it-came-to-be.md).
+If you’re more interested in the setting, there’s plenty to read, starting with the history, [How it Came to Be](../06/00-how-it-came-to-be.md).
 
 ## Starting Gamemasters
 
 As a gamemaster (GM), you will need to be familiar with the general content of this book. We recommend starting out with the setting, beginning with [How it Came to Be](../06/00-how-it-came-to-be.md). After that, pop on over to [Threats & X-Risks](../18/00-threats-and-x-risks.md) for the juicy, behind-the-scenes stuff.
 
-Once you've acquainted yourself with our universe, you'll need to learn the rules, starting with [Game Mechanics](../03/00-game-mechanics.md). You will probably want to have a grasp on the basics of [skills](../04/18-skills.md), [combat](../12/00-action-and-combat.md), [the mesh](../13/00-the-mesh.md), and [resleeving](../15/02-resleeving.md). You should also be familiar with how players [acquire gear](../16/02-acquiring-gear.md) and [morphs](../15/03-acquiring-morphs.md). The rest you can pick up as you need.
+Once you’ve acquainted yourself with our universe, you’ll need to learn the rules, starting with [Game Mechanics](../03/00-game-mechanics.md). You will probably want to have a grasp on the basics of [skills](../04/18-skills.md), [combat](../12/00-action-and-combat.md), [the mesh](../13/00-the-mesh.md), and [resleeving](../15/02-resleeving.md). You should also be familiar with how players [acquire gear](../16/02-acquiring-gear.md) and [morphs](../15/03-acquiring-morphs.md). The rest you can pick up as you need.
 
 Finally, peruse our Eclipse Phase-specific gamemastering advice in [Running the Game](../17/00-running-the-game.md).
 

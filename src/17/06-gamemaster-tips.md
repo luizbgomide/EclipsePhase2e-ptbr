@@ -4,7 +4,7 @@ This advice addresses some of the practical aspects of gamemastering Eclipse Pha
 
 ## Tracking Backups
 
-If a PC's cortical stack is lost and they are restored from an older backup, their character is reverted to an older state, meaning they may lose memories and even Rez Points. For this reason it helps to keep a trail of old character sheets when players backup or resleeve. If your group has digital copies of everyone’s sheet, this is easy. Just save a copy each time a backup occurs, noting the date in the file name. For paper character sheets, take a picture with your phone. It also helps to keep a log of PC interactions and events, to note which memories may fall victim to lack.
+If a PC’s cortical stack is lost and they are restored from an older backup, their character is reverted to an older state, meaning they may lose memories and even Rez Points. For this reason it helps to keep a trail of old character sheets when players backup or resleeve. If your group has digital copies of everyone’s sheet, this is easy. Just save a copy each time a backup occurs, noting the date in the file name. For paper character sheets, take a picture with your phone. It also helps to keep a log of PC interactions and events, to note which memories may fall victim to lack.
 
 ### Handling Muses and ALIs
 
@@ -24,7 +24,7 @@ They might not be objects of sustained attention, but ALIs in the setting have t
 
 ### Muses
 
-Muses are more active than other ALIs, giving advice, reminding the characters of events, and covering for them when they’re busy. Muses are effective backup researchers for characters who are occupied or who have poor Research skills. Muses know a PC's day-to-day routine cold and can handle complex instructions. They cannot default on skill tests, however, so getting a muse to perform a particularly complex set of actions outside of their normal skill set might require a Program or Interface Test. Finally, for new players, muses are a good way to introduce facts about the setting in-character.
+Muses are more active than other ALIs, giving advice, reminding the characters of events, and covering for them when they’re busy. Muses are effective backup researchers for characters who are occupied or who have poor Research skills. Muses know a PC’s day-to-day routine cold and can handle complex instructions. They cannot default on skill tests, however, so getting a muse to perform a particularly complex set of actions outside of their normal skill set might require a Program or Interface Test. Finally, for new players, muses are a good way to introduce facts about the setting in-character.
 
 Muses sometimes remain functional when a character is [inacapacitated or killed](../13/15-hardware-damage.md#damage-and-infomorph-riders). This means they can summon help or be questioned as witnesses. This provides an opportunity for players to stay in the action, at least as an infomorph. Muses are also recorded with your ego into the cortical stack, when backing up, and when egocasting, so they stay with your character.
 
@@ -66,11 +66,11 @@ In some cases, however, it is better to have individual members of a group roll.
 
 Just as all players are not expert sharpshooters or scientists, we cannot all be as suave as our fictional characters. Inevitably, players will face situations where their smooth-talking character would be more persuasive, provocative, or deceptive than they can personally pull off. As a GM, adapt how you run these skills to the player and situation at hand. If a player isn’t being particularly eloquent in real life, just let them roll the test. The result indicates whether their character had the impact they wanted. For players with the gift of gab, let them talk before rolling, and then apply a positive or negative modifier to the roll based on how convincing they were with their roleplaying.
 
-This also extends to tests with Know skills: a player may not know a specific fact, but it's reasonable for them to ask the GM if their character knows.
+This also extends to tests with Know skills: a player may not know a specific fact, but it’s reasonable for them to ask the GM if their character knows.
 
 ## Diverging from Canon
 
-Published setting material and scenarios for Eclipse Phase expand on the world as described in this book. In some cases, they may even introduce changes to the setting or metaplots that alter factions or political boundaries. Though our goal is to minimize alterations and include advice for incorporating changes, there is the chance that the setting as we develop it may diverge from the one presented in your campaign. Don't sweat it; it's your world, introduce the changes you like and ignore the rest.
+Published setting material and scenarios for Eclipse Phase expand on the world as described in this book. In some cases, they may even introduce changes to the setting or metaplots that alter factions or political boundaries. Though our goal is to minimize alterations and include advice for incorporating changes, there is the chance that the setting as we develop it may diverge from the one presented in your campaign. Don't sweat it; it’s your world, introduce the changes you like and ignore the rest.
 
 GMs who want to develop this setting further and make it their own can and should diverge from what’s offered here. Add FTL, or at least fast sub-light ships. Take the ETI factor out of the Fall.
 
@@ -88,4 +88,4 @@ This reactivity of the world, in most groups, contributes to a problem-solving p
 
 ## Maps
 
-Eclipse Phase is flexible enough to run action scenes as a tactical game using miniatures and maps or with a more abstract, mapless, theater-of-the-mind style, according to your group's preferences. The latter option gives you more leeway for improvisation, and also works better for three-dimensional settings like beehive habs or space. Keep in mind, however, given the networked nature of the setting, that PCs will often have easy access to detailed maps of their locations, possibly even including minutiae such as conduit ducts and ventilation shafts. As a GM, it will help to have maps prepared in advance to anticipate player questions, or at least be ready to sketch out drawings and make up details on the fly.
+Eclipse Phase is flexible enough to run action scenes as a tactical game using miniatures and maps or with a more abstract, mapless, theater-of-the-mind style, according to your group’s preferences. The latter option gives you more leeway for improvisation, and also works better for three-dimensional settings like beehive habs or space. Keep in mind, however, given the networked nature of the setting, that PCs will often have easy access to detailed maps of their locations, possibly even including minutiae such as conduit ducts and ventilation shafts. As a GM, it will help to have maps prepared in advance to anticipate player questions, or at least be ready to sketch out drawings and make up details on the fly.

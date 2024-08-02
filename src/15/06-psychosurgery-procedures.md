@@ -64,7 +64,7 @@ Psychosurgery can be used to detect previous edits to your mind. This explorator
 
 ## Merging
 
-Merging is the process of recombining a fork with its originating ego ([Forking](../15/04-forking-and-merging.md)). Merging often results in mental stress and/or lost fork memories. A successful test will reduce the SV; use the numbers listed after the slash on the Merging table. Each superior success will reduce the amount of memories lost by one level, each superior failure will increase it one level. Memory loss usually only affects the fork’s memories (not the alpha's); apply a modifier to memory-related COG Checks (−10 for Minor loss, −20 for Moderate, −30 for Major).
+Merging is the process of recombining a fork with its originating ego ([Forking](../15/04-forking-and-merging.md)). Merging often results in mental stress and/or lost fork memories. A successful test will reduce the SV; use the numbers listed after the slash on the Merging table. Each superior success will reduce the amount of memories lost by one level, each superior failure will increase it one level. Memory loss usually only affects the fork’s memories (not the alpha’s); apply a modifier to memory-related COG Checks (−10 for Minor loss, −20 for Moderate, −30 for Major).
 
 The process of merging also integrates any stress, traumas, and ego traits acquired by the fork back into the original ego.
 
@@ -110,7 +110,7 @@ Therapeutic psychosurgery is beneficial for characters suffering from mental str
 
 ## Remove Infection
 
-This procedure involves tracking down and removing the alterations the exsurgent virus has made to the subject's mind. It can only be applied to those in the early stages of infection; it is ineffective against those who are already full exsurgents or asyncs. The Medicine: Psychosurgery Test is opposed by the virus's Infection Rating. If successful, the exovirus is purged. This procedure is considered risky due to several instances of the virus infecting the psychosurgery VR and psychosurgeons themselves.
+This procedure involves tracking down and removing the alterations the exsurgent virus has made to the subject’s mind. It can only be applied to those in the early stages of infection; it is ineffective against those who are already full exsurgents or asyncs. The Medicine: Psychosurgery Test is opposed by the virus’s Infection Rating. If successful, the exovirus is purged. This procedure is considered risky due to several instances of the virus infecting the psychosurgery VR and psychosurgeons themselves.
 
 ## Skill Imprints
 

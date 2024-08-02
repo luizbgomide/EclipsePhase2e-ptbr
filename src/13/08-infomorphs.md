@@ -82,19 +82,19 @@ Infomorph riders may remain active even when their host morph is sleeping or inc
 
 **//Accessing New Forum Threads//**
 
-**Anon:** OK, everyone, hit me with your latest infomorph scariness mesh rumors. Let's hear about all of the virtual bogeymen.
+**Anon:** OK, everyone, hit me with your latest infomorph scariness mesh rumors. Let’s hear about all of the virtual bogeymen.
 
-**Anon:** There's gossip going around Mars's mesh communities about a private server in Martian orbit that has the best simulspaces anyone has ever seen. It's like heaven for infomorphs. Allegedly, there's a secretive group that controls access, and to get in they make you do all sorts of illegal things.
+**Anon:** There’s gossip going around Mars’s mesh communities about a private server in Martian orbit that has the best simulspaces anyone has ever seen. It’s like heaven for infomorphs. Allegedly, there’s a secretive group that controls access, and to get in they make you do all sorts of illegal things.
 
 **Anon:** I heard that the VR was top-notch because a TITAN fork was running it. It was an open debate whether the TITAN was imprisoned there or whether it was luring new infomorphs in to corrupt them and turn them into pawns.
 
-**Anon:** I've heard better hidden simulspace tales. Like the one about the gerontocrat that gathered up all of the backups of his political rivals back on Earth during the Fall, just so he could run them in a private server to torture, play with, or do as he pleases. It's said he has the entire Senate of Poland on that drive. They're probably adding new egos to the menagerie all of the time.
+**Anon:** I've heard better hidden simulspace tales. Like the one about the gerontocrat that gathered up all of the backups of his political rivals back on Earth during the Fall, just so he could run them in a private server to torture, play with, or do as he pleases. It’s said he has the entire Senate of Poland on that drive. They're probably adding new egos to the menagerie all of the time.
 
-**Anon:** Let's talk about the Factor infomorphs that are running free on our mesh. Why isn't anyone doing anything about this alien menace?
+**Anon:** Let’s talk about the Factor infomorphs that are running free on our mesh. Why isn't anyone doing anything about this alien menace?
 
-**Anon:** It's not Factors, it's some other alien entity brought back in an artifact via the gates. No telling how old it is.
+**Anon:** It’s not Factors, it’s some other alien entity brought back in an artifact via the gates. No telling how old it is.
 
-**Anon:** Let's talk about something with an actual basis in reality. Multiple gatecrashers have testified they were somehow forked when they passed through a gate. According to these claims, their forks were instantiated as infomorphs in some alien system, where they were subjected to various puzzles and tests. They claim that their forks were then re-integrated when they passed back through the gates. According to someone I know at Pathfinder, these accounts included matching details that weren't public.
+**Anon:** Let’s talk about something with an actual basis in reality. Multiple gatecrashers have testified they were somehow forked when they passed through a gate. According to these claims, their forks were instantiated as infomorphs in some alien system, where they were subjected to various puzzles and tests. They claim that their forks were then re-integrated when they passed back through the gates. According to someone I know at Pathfinder, these accounts included matching details that weren't public.
 
 **Anon:** Sounds like someone is using the gates to try and figure out how to make contact with us. Or how best to wipe us out.
 

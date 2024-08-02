@@ -2,7 +2,7 @@
 
 > **Posted by:** Tio Silencio, Firewall Proxy
 
-Understanding the Jovian system means understanding its size, gravity, power, and impact. It is home to the Jovian Republic, with the largest and strongest military presence among transumanity. Much like Jupiter itself, the Republic's sheer might is both a measuring stick and a force that tugs on every corner of the system.
+Understanding the Jovian system means understanding its size, gravity, power, and impact. It is home to the Jovian Republic, with the largest and strongest military presence among transumanity. Much like Jupiter itself, the Republic’s sheer might is both a measuring stick and a force that tugs on every corner of the system.
 
 ## The Angry God
 
@@ -74,7 +74,7 @@ Several habitats orbit Ganymede; the Holy See (or New Vatican) is the home of th
 
 Liberty is the capital and largest city in the Jovian Republic. It’s a mix of deep factories and farms churning out the materials to keep the Republic running, a government town where lobbyists and moralists compete for time with the Senate, and an authoritarian police state. People here wake up, go to work, come home, and keep their heads down.
 
-Venture far enough into the outer tunnels and deep chambers of Liberty and the Junta's control recedes. These are, remarkably, some of the poorest and most dangerous slums in the Solar System. Some areas are such a crime-ridden free-for-all that security forces refuse to enter; the Junta simply acts like the people there don’t exist.
+Venture far enough into the outer tunnels and deep chambers of Liberty and the Junta’s control recedes. These are, remarkably, some of the poorest and most dangerous slums in the Solar System. Some areas are such a crime-ridden free-for-all that security forces refuse to enter; the Junta simply acts like the people there don’t exist.
 
 Liberty Station hangs in geosynchronous orbit over the city. A space elevator was planned to connect the two, but the project was abandoned when resources were redirected. The station is the main shipyard for the Junta; the Space Force keeps a quarter of its fleet here at any time, and the spiderweb-like arms and legs jutting out from the original asteroid supply hundreds of ships in various stages of construction or refit.
 
@@ -99,7 +99,7 @@ Callisto is the farthest Galilean moon from Jupiter and the farthest from the Ju
 
 Prior to the Fall, Hyoden was a backwater with poor supplies and a massive labor shortage. The settlement accepted more than a million refugees who found the Jovian Republic’s policies distasteful or restrictive. In exchange for a synthetic morph, these transhumans were expected to perform three years of military service and help build the settlement. The powerful military city-state that grew from this is independent, cosmopolitan, and proud. AGIs, uplifts, and autonomists are welcomed here; citizenship is open to anyone who serves in the military.
 
-Hyoden’s embrace of technological advancements give it a distinct advantage over the Republic. This makes Hyoden an increasing threat in the Junta's eyes, but so far the city's layers of missiles, killsats, and turrets have kept the Republic at bay.
+Hyoden’s embrace of technological advancements give it a distinct advantage over the Republic. This makes Hyoden an increasing threat in the Junta’s eyes, but so far the city’s layers of missiles, killsats, and turrets have kept the Republic at bay.
 
 ## The Jovian Trojans
 

@@ -145,7 +145,7 @@ Pharma-foods that boost the consumer’s health and physical state.
 | Bananas Furiosas | Biochem |     Any     | 8 hours  |            —            |    Min/1     | Reduces severity of radiation exposure. |
 | Comfurt          | Biochem |     Any     | 12 hours |       −10/Mental        |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.    |
 
-**Bananas Furiosas:** This drug reverses the effects of ionizing radiation on your body's cells. It most commonly comes in bunches of bright orange-red bananas. Belters prefer the drug in cigarette form, for the irony. Bananas allow you to halve the damage and ignore impairment modifiers from radiation poisoning for 8 hours.
+**Bananas Furiosas:** This drug reverses the effects of ionizing radiation on your body’s cells. It most commonly comes in bunches of bright orange-red bananas. Belters prefer the drug in cigarette form, for the irony. Bananas allow you to halve the damage and ignore impairment modifiers from radiation poisoning for 8 hours.
 
 **Comfurt:** Commonly served as a tasty yogurt treat, comfurt blocks stress hormones, stabilizes mood, and relieves anxiety. Temporarily boost Lucidity by 5, Trauma Threshold by 1, and Insanity Rating by 5. Excessive use of comfurt can lead to chronic itchiness caused by histamine release.
 

@@ -1,6 +1,6 @@
 # Senses and Sensors
 
-Transhuman senses far exceed old human norms. Here's a breakdown of what capabilities these functions provide. The capabilities are typically the same whether it’s a biological or technological sensor.
+Transhuman senses far exceed old human norms. Here’s a breakdown of what capabilities these functions provide. The capabilities are typically the same whether it’s a biological or technological sensor.
 
 ## Sensory Databases
 

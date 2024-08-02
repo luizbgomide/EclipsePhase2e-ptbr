@@ -29,7 +29,7 @@ Autonomous drones use their own Initiative, skills, and pools.
 
 You jam a drone by immersing yourself in an AR overlay of the drone’s body and sensorium, including proprioception — you essentially become the drone. Engaging or disengaging from jamming mode is a quick action. While immersed, you suffer a −30 modifier to Perceive Tests and physical actions involving your own morph. Jamming feels much like resleeving and you must make an [Integration Test](../15/02-resleeving.md#integration-test) to acclimate to the drone’s form.
 
-Treat jamming the same as if you sleeved the drone; use the drone's pools instead of your own morph's. However, since jamming is slightly inferior to actual sleeving, you suffer a −10 modifier to all actions (unless you are equipped with [drone rig ware](../16/08-mental-augmentations.md)).
+Treat jamming the same as if you sleeved the drone; use the drone’s pools instead of your own morph’s. However, since jamming is slightly inferior to actual sleeving, you suffer a −10 modifier to all actions (unless you are equipped with [drone rig ware](../16/08-mental-augmentations.md)).
 
 ## Combat Bots
 

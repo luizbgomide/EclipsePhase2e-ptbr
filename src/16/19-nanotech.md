@@ -23,7 +23,7 @@ Medical care is not all that healing vats are used for — they are also the saf
 
 **Nanodetector:** Nanodetectors are small devices that suck in air and micro debris in order to scan for and detect nanobots. Given that nanobots are so tiny, the density of nanobots in the area has a large impact on its success. The nanodetector has Exotic Skill: Nanobot Detection 40 for detecting nanobots, +30 if an active nanoswarm or hive is present. Nanodetectors often pick up expired nanobots from swarms no longer active, but they can assess whether the bots are still active (or were recently) and the rough density (Durability) of the swarm in the area. Once a nanobot is detected it can be analyzed either by the user or the nanodetector’s AI, using Know: Nanotechnology 60 skill. Nanodetectors are often worn and left on, set to alert you if a hostile nanoswarm is detected.
 
-**Repair Spray:** Similar to healing spray, this single-use application of fixer nanobots repairs 1d10 \[6\] damage an hour for 12 hours for synthmorphs, bots, and other shells. The spray must have access to the shell's blueprint or have an hour to scan a similar design.
+**Repair Spray:** Similar to healing spray, this single-use application of fixer nanobots repairs 1d10 \[6\] damage an hour for 12 hours for synthmorphs, bots, and other shells. The spray must have access to the shell’s blueprint or have an hour to scan a similar design.
 
 ## Hives
 
@@ -36,7 +36,7 @@ Hives are specialized devices that manufacture and maintain [nanoswarms and micr
 
 **General Hive:** General hives can produce any standard swarm with the right blueprints and/or programming. They are medium-sized and not easily portable, with a volume of 20 liters. Each includes a disassembly unit for recycling trash as feedstock.
 
-**Specialized Hive:** Specialized hives are far more common than general hives. Each produces only a single type of swarm (blueprints included). Hives are small sized. complexity is one step above the swarm's complexity.
+**Specialized Hive:** Specialized hives are far more common than general hives. Each produces only a single type of swarm (blueprints included). Hives are small sized. complexity is one step above the swarm’s complexity.
 
 ## Nanofabricators
 
