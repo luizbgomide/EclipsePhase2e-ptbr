@@ -10,6 +10,6 @@ As a final step, take a few minutes to pick out some specific identifying featur
 
 ## Point-buy Character Creation
 
-The package-buy character creation system in this book is designed to make your choices easier and speed along the process. If you prefer to fine-tune your character's skills, you can skip Steps 1–4 and simply pick the skills you want. In this case, you receive 400 points to spend on active skills and 250 points to spend on Know skills. You may spend some of your active skill points on Know skills instead, but you may not use Know skill points to buy active skills. The other steps of the character-creation process are completed as written. Your skill points are combined with their linked aptitudes in Step 6 as normal; no starting skill total may exceed 80.
+The package-buy character creation system in this book is designed to make your choices easier and speed along the process. If you prefer to fine-tune your character’s skills, you can skip Steps 1–4 and simply pick the skills you want. In this case, you receive 400 points to spend on active skills and 250 points to spend on Know skills. You may spend some of your active skill points on Know skills instead, but you may not use Know skill points to buy active skills. The other steps of the character-creation process are completed as written. Your skill points are combined with their linked aptitudes in Step 6 as normal; no starting skill total may exceed 80.
 
 <!-- CLEANED /blockquote -->

@@ -1,6 +1,6 @@
 # Keeping the Peace
 
-> **Source:** _Be Gay, Do Crime: A Starter's Guide_
+> **Source:** _Be Gay, Do Crime: A Starter’s Guide_
 
 Law enforcement is more complex than ever before. The legal systems of Earth were devastated by the Fall, with new rules and experiments taking their place. The fresh new circumstances facing transumanity called for new approaches. Now each habitat is its own jurisdiction, with differing ideas on what it means to keep the peace. Technological advances have made catching criminals easier while also making them more powerful and dangerous. The role of security services ranges from upholding laws and protecting citizens to restorative justice and stopping existential threats.
 
@@ -16,7 +16,7 @@ Most habitats view themselves as sovereign entities, albeit usually aligned with
 
 The Titanians and Jovians are the only two polities with significant bodies of law and police forces that have jurisdiction over all of their territory and citizens. The Lunar-Lagrange Armed Forces, while predominantly military, have the authority to intervene in habitat affairs, override local laws and security forces, and engage in necessary “police actions.” The Morningstar Constellation empowers each of its habitats to handle its own affairs. On Mars, the Martian Rangers serve as a sort of planetary police force under the authority of the Tharsis League, though their jurisdiction is limited to areas outside of major settlements or sovereign hypercorp territory. They work with traveling judicial Magistrates who are empowered to establish ad-hoc courts and juries wherever needed.
 
-The Consortium has a representative legislative body in its Planetary Congress, but its edicts are largely symbolic and toothless and ignored by its habitats. The bylaws passed by the Consortium's Ministry, however, directly impact member hypercorps and business affairs. A Consortium auditing and police agency known as Oversight has authority to enforce Consortium bylaws and act to protect the security of its constituents, reporting directly to the Hypercorp Council.
+The Consortium has a representative legislative body in its Planetary Congress, but its edicts are largely symbolic and toothless and ignored by its habitats. The bylaws passed by the Consortium’s Ministry, however, directly impact member hypercorps and business affairs. A Consortium auditing and police agency known as Oversight has authority to enforce Consortium bylaws and act to protect the security of its constituents, reporting directly to the Hypercorp Council.
 
 ## Interstate Affairs
 
@@ -48,7 +48,7 @@ In any case, crime requires time and good planning to pull off. Once the police 
 
 ## Identity Issues
 
-Criminals make frequent use of identity theft to hide their footsteps. It is easy to assume the identity of someone who was lost in the Fall and only recently pulled out of cold storage. Brainprints can uniquely identify an ego, but even these change naturally over time, especially with significant use of drugs or mental trauma. Biometric data only applies to a particular biomorph, so resleeving can bypass that method of identification. Morph nanotat IDs and serial numbers can be altered. And with so many aspects of people's lives stored online, identity theft remains a serious issue.
+Criminals make frequent use of identity theft to hide their footsteps. It is easy to assume the identity of someone who was lost in the Fall and only recently pulled out of cold storage. Brainprints can uniquely identify an ego, but even these change naturally over time, especially with significant use of drugs or mental trauma. Biometric data only applies to a particular biomorph, so resleeving can bypass that method of identification. Morph nanotat IDs and serial numbers can be altered. And with so many aspects of people’s lives stored online, identity theft remains a serious issue.
 
 This is further complicated by the sheer number of personal identification databases and systems currently in use. The Fall wiped out most of the old Earth identity data banks. While SAPIENT ID, primarily used by the LLA and PC, is the most prevalent identification system, it is by no means the only one. There are almost as many identification systems as there are habitats. The lack of centralization among identification systems provides a very large gap for identity fabricators to slip through. Of course, many factions do not want to centralize personal identification, calling out its use as a social-control mechanism.
 
@@ -74,7 +74,7 @@ In Extropia and other so-called “anarcho-capitalist” habitats, the only laws
 
 Social services freely provided by other habitats are handled as contractual business affairs in Extropian habs. If you want police protection, you must subscribe to a security firm for legal and physical protection. Take note of the breadth of coverage you select; security firms typically place drone silos around the habitat for emergency EMT services and rapid armed response, but such protections are not available with all plans. Unprotected people can be attacked or robbed at will. Other services such as healthcare, transportation, backups, education, and insurance must also be purchased. To even enter an Extropian habitat, you must sign an access, usage, and life-support rental agreement with the owning entity. Various hypercorps offer package bundles for these services.
 
-A free court's legal AIs will automatically litigate minor infractions (called micro-torts) in mere seconds. More complex cases will be handled by the private courts and all parties are expected to abide by the results. Punishments incorporate fines, property forfeiture, and rep penalties. In extreme cases, a suspect may be forced into indenture or serve in a time-accelerated simulspace prison. If one party does not agree to the terms, they may suffer a major reputation hit and other Extropians will likely refuse dealings with them. Bounty hunters may also be dispatched in pursuit of suspects that abdicate on legal judgments.
+A free court’s legal AIs will automatically litigate minor infractions (called micro-torts) in mere seconds. More complex cases will be handled by the private courts and all parties are expected to abide by the results. Punishments incorporate fines, property forfeiture, and rep penalties. In extreme cases, a suspect may be forced into indenture or serve in a time-accelerated simulspace prison. If one party does not agree to the terms, they may suffer a major reputation hit and other Extropians will likely refuse dealings with them. Bounty hunters may also be dispatched in pursuit of suspects that abdicate on legal judgments.
 
 ## Autonomist Legalities
 

@@ -26,7 +26,7 @@ It is arguably a result of these traumas that Luna remains one of the most polit
 
 ## Lunar Crime
 
-Luna's prevalent economic hardship has made criminal activity particularly attractive. Numerous criminal syndicates maintain a presence on Luna, relying on local organized gangs for their operations. The manufacture and smuggling of proscribed nanotechnology is alarmingly common in hidden cavern systems, and Luna’s low escape velocity makes smuggling both easy and lucrative. It is also believed that a number of reclaimer groups utilize Luna’s proximity to Earth and have established bases of operation in secluded regions of the Lunar landscape with the aid of disgruntled surfacedwelling synths. Affluent Lunars point to these activities as further evidence of the undesirable ethics of the synthmorph population.
+Luna’s prevalent economic hardship has made criminal activity particularly attractive. Numerous criminal syndicates maintain a presence on Luna, relying on local organized gangs for their operations. The manufacture and smuggling of proscribed nanotechnology is alarmingly common in hidden cavern systems, and Luna’s low escape velocity makes smuggling both easy and lucrative. It is also believed that a number of reclaimer groups utilize Luna’s proximity to Earth and have established bases of operation in secluded regions of the Lunar landscape with the aid of disgruntled surfacedwelling synths. Affluent Lunars point to these activities as further evidence of the undesirable ethics of the synthmorph population.
 
 ## Lunar Habitats
 
@@ -41,7 +41,7 @@ Luna is host to dozens of settlements and orbital habitats, but five major local
 
 <!-- CLEANED /div -->
 
-Erato is Luna’s oldest and largest mining settlement, but the smallest of its three cities. Its population of approximately five million live in what is widely considered the most beautiful and expansive spaces on Luna. Erato’s central hub is a vast cavern excavated before the Fall and is the largest open space anywhere beneath the Lunar surface. The city features numerous open parks and glider facilities for aerial sports taking advantage of the low Lunar gravity. Mirrors direct sunlight down from the surface to the city's verdant parks and bamboo groves. Erato is the most affluent of the large Lunar settlements and few synthmorphs can afford to live here.
+Erato is Luna’s oldest and largest mining settlement, but the smallest of its three cities. Its population of approximately five million live in what is widely considered the most beautiful and expansive spaces on Luna. Erato’s central hub is a vast cavern excavated before the Fall and is the largest open space anywhere beneath the Lunar surface. The city features numerous open parks and glider facilities for aerial sports taking advantage of the low Lunar gravity. Mirrors direct sunlight down from the surface to the city’s verdant parks and bamboo groves. Erato is the most affluent of the large Lunar settlements and few synthmorphs can afford to live here.
 
 ### Mitre
 
@@ -52,7 +52,7 @@ Erato is Luna’s oldest and largest mining settlement, but the smallest of its 
 
 <!-- CLEANED /div -->
 
-Mitre, a cluster station in Lunar orbit operated by Argonauts, is principally used for their independent and open-source research projects. Its archives are renowned as the premier repository of public information on Luna, TITAN activities, genetics, and astrophysics. Mitre is also home to Radio Argosy, the Argonauts’ non-stop neutrino transmission broadcast, which freely provides open-source nanofab blueprints, uncensored news, and technoprogressive propaganda. Mitre's archives and broadcasts are often filtered, censored, and hacked over intellectual property violations.
+Mitre, a cluster station in Lunar orbit operated by Argonauts, is principally used for their independent and open-source research projects. Its archives are renowned as the premier repository of public information on Luna, TITAN activities, genetics, and astrophysics. Mitre is also home to Radio Argosy, the Argonauts’ non-stop neutrino transmission broadcast, which freely provides open-source nanofab blueprints, uncensored news, and technoprogressive propaganda. Mitre’s archives and broadcasts are often filtered, censored, and hacked over intellectual property violations.
 
 ### Nectar
 
@@ -63,7 +63,7 @@ Mitre, a cluster station in Lunar orbit operated by Argonauts, is principally us
 
 <!-- CLEANED /div -->
 
-As the largest city on Luna, Nectar is also its most cosmopolitan. As a Consortium holding, more off-worlders make their homes in Nectar than in all other Lunar cities combined. Nectar actually consists of two cities. Old Nectar is a traditional Lunar settlement of tunnels and caves. New Nectar, located approximately three kilometers from the old city, is a feat of incredible engineering. It is built in the kilometer-wide crater of a fully controlled plasma explosion beneath the surface. The new city was completed only eleven months ago, and in that time almost a third of the inhabitants of the old city have moved into the new city, now referred to simply as Nectar. It is a beautiful city with lush gardens, but it has done little to ameliorate overpopulation as was intended, and tensions between economic classes are growing by the day. Due to its proximity to the equator, Nectar lies on the skyhook's pickup path.
+As the largest city on Luna, Nectar is also its most cosmopolitan. As a Consortium holding, more off-worlders make their homes in Nectar than in all other Lunar cities combined. Nectar actually consists of two cities. Old Nectar is a traditional Lunar settlement of tunnels and caves. New Nectar, located approximately three kilometers from the old city, is a feat of incredible engineering. It is built in the kilometer-wide crater of a fully controlled plasma explosion beneath the surface. The new city was completed only eleven months ago, and in that time almost a third of the inhabitants of the old city have moved into the new city, now referred to simply as Nectar. It is a beautiful city with lush gardens, but it has done little to ameliorate overpopulation as was intended, and tensions between economic classes are growing by the day. Due to its proximity to the equator, Nectar lies on the skyhook’s pickup path.
 
 ### Selene
 

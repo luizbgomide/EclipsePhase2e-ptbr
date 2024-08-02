@@ -16,7 +16,7 @@ Note that many atmospheric gases are fine to breathe — argon, helium, neon, ni
 
 **Toxic Atmosphere:** Neptune, Titan, Uranus, and Venus all have toxic atmospheres. Similar atmospheres can be found on some exoplanets, or might be intentionally created as a security measure within a habitat or structure. A character who is unaware of atmospheric toxicity and does not immediately hold their breath (REF Check) suffers DV 2d10 per action turn.
 
-**Corrosive Atmosphere:** Like some exoplanets, Venus's atmosphere is also corrosive. Such atmospheres are immediately dangerous: DV 1d10 per action turn, regardless of whether you hold your breath or not. Increase the DV for atmospheres with higher concentrations. Armor only applies if it is environmentally sealed (and until it is eaten away). Corrosive atmospheres will damage vehicles and gear not equipped with anti-corrosive shielding, inflicting 1 to 5&nbsp;DV per minute, depending on the concentration.
+**Corrosive Atmosphere:** Like some exoplanets, Venus’s atmosphere is also corrosive. Such atmospheres are immediately dangerous: DV 1d10 per action turn, regardless of whether you hold your breath or not. Increase the DV for atmospheres with higher concentrations. Armor only applies if it is environmentally sealed (and until it is eaten away). Corrosive atmospheres will damage vehicles and gear not equipped with anti-corrosive shielding, inflicting 1 to 5&nbsp;DV per minute, depending on the concentration.
 
 ## Extreme Heat and Cold
 

@@ -92,7 +92,7 @@ You must declare your intent to grapple an opponent before making the die roll. 
 
 If you succeed in your attack with a superior success, you subdue your opponent (they acquire the grappled condition). A grappled opponent is temporarily restrained and their Movement Rate is 0. They can communicate, use mental/psi skills, and take mesh actions, but they cannot take any physical actions other than trying to break free. (At the GM’s discretion, they can make small, restrained physical actions, such as reaching for something in their pocket or nearby, but this may require a SOM Check or other test).
 
-To break free, a grappled character must take a complex action and succeed in a Melee Test or SOM Check opposed by the grappler's Melee or SOM Check. If the character frees themselves and scores a superior success, they can choose to grapple the other character.
+To break free, a grappled character must take a complex action and succeed in a Melee Test or SOM Check opposed by the grappler’s Melee or SOM Check. If the character frees themselves and scores a superior success, they can choose to grapple the other character.
 
 When grappling, both characters are at −30 to oppose any attacks made against them by others outside of the grapple.
 

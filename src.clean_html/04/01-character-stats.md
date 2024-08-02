@@ -91,7 +91,7 @@ A number of your stats are derived from other stats or aspects of your character
 - **Lucidity (LUC):** Your character’s mental health, based on Willpower. [Lucidity and Stress](../12/18-mental-health.md#lucidity-and-stress).
 - **Insanity Rating (IR):** The amount of stress that will drive you insane, based on Willpower. [Lucidity and Stress](../12/18-mental-health.md#lucidity-and-stress).
 - **Pools:** Your Insight, Moxie, Vigor, and Flex pools, mostly derived from your morph, with a Flex bonus from your ego. [Pools](../03/05-pools.md).
-- **Infection Rating:** If playing an async, your Infection Rating indicates the strength of the virus's hold over you. [Infection Rating](../14/01-psi-overview.md#infection-rating).
+- **Infection Rating:** If playing an async, your Infection Rating indicates the strength of the virus’s hold over you. [Infection Rating](../14/01-psi-overview.md#infection-rating).
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -132,4 +132,4 @@ Your character will have access to different types of useful equipment: weapons,
 
 ## Motivations
 
-Your motivations define your character's personal agenda, beliefs, and long-term goals. They help you earn Rez Points for character advancement and cope with mental trauma. [Step 13: Motivations](../04/16-step-13-motivations.md).
+Your motivations define your character’s personal agenda, beliefs, and long-term goals. They help you earn Rez Points for character advancement and cope with mental trauma. [Step 13: Motivations](../04/16-step-13-motivations.md).

@@ -10,7 +10,7 @@ Eclipse Phase can be a splatterpunk horrorshow or a deeply disturbing inquiry in
 
 Death, birth, citizenship, and privacy are all radically different in AF 10. Some players find the philosophical challenges of the setting a heady mix, while others want to go back to Kansas the first time their character has to egocast. Is that thing a suicide chamber? Isn’t my character just a copy when they come out on the other side? How can you casually just get rid of your body? Do forks have souls? Do AGIs? Is uplifting animals a moral imperative? Who is a person, and who is a machine? Is there a real difference anymore? Why be human at all, if machines exceed our capabilities in so many respects?
 
-These and other philosophical quandaries are in the background for most PCs in the game. They’re living life as it is in AF 10, and the philosophical shifts shaping their outlook have already happened. But as a GM, you need to be sensitive to the fact that the players might not be so comfortable. Be patient if they need time to get their heads around some of the weirder concepts. Sometimes it's worth stopping play to discuss the implications — sci-fi should make you think!
+These and other philosophical quandaries are in the background for most PCs in the game. They’re living life as it is in AF 10, and the philosophical shifts shaping their outlook have already happened. But as a GM, you need to be sensitive to the fact that the players might not be so comfortable. Be patient if they need time to get their heads around some of the weirder concepts. Sometimes it’s worth stopping play to discuss the implications — sci-fi should make you think!
 
 ## Safety Procedures
 
@@ -42,7 +42,7 @@ Player characters exist slightly outside the bounds of normal social categories 
 
 ### Politics
 
-We’re not going to make any bones about it: this is an overtly political game, and political conflicts shape much of the setting. Most readers will be familiar with how capitalist socioeconomic systems work, so we’ve given much more attention in the setting materials to describing new and alternative political systems. If the authors appear biased toward anarchism and socialism, it's because we are — but we also need to describe how they actually work, since Americans don’t understand socialism much less anarchism. Truthfully, all sci-fi games are biased; most just happen to be biased towards the status quo.
+We’re not going to make any bones about it: this is an overtly political game, and political conflicts shape much of the setting. Most readers will be familiar with how capitalist socioeconomic systems work, so we’ve given much more attention in the setting materials to describing new and alternative political systems. If the authors appear biased toward anarchism and socialism, it’s because we are — but we also need to describe how they actually work, since Americans don’t understand socialism much less anarchism. Truthfully, all sci-fi games are biased; most just happen to be biased towards the status quo.
 
 Transhumanism is also in part a political movement. Issues that are just now becoming current in today’s society — cloning, replacing human workers with robots and AIs, genetic enhancement, interfacing bodies with computers — have arrived, had their effect, and been dealt with (sort of) by transhumanity. It’s the “sort of ” that makes the setting interesting; different cultures and polities still don’t agree on how to deal with many of the problems created by technological advancements.
 

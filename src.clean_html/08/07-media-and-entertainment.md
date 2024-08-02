@@ -14,7 +14,7 @@ An early casualty of networked journalism was in-depth, investigative reporting.
 
 ## The Glitterati
 
-The ability for almost anyone to cultivate an online audience with the right combination of perseverance, skill, and luck has led to a new pantheon of media personalities. Whether they built their brand with a niche demographic, capitalized on a viral sensation, or acquired public acclaim through other means, these gamers, commentators, athletes, comedians, and other performers now compete with traditional celebrities for the public's attention. They are joined by the scions of ultra-rich hyperelite families, a new class of always-on socialites. These glitterati go to great lengths to capture more likes, views, and rep: moonlet-sized gala parties, death-defying sports, lascivious displays of hedonism, reckless thrill-seeking, and staged drama and rivalries.
+The ability for almost anyone to cultivate an online audience with the right combination of perseverance, skill, and luck has led to a new pantheon of media personalities. Whether they built their brand with a niche demographic, capitalized on a viral sensation, or acquired public acclaim through other means, these gamers, commentators, athletes, comedians, and other performers now compete with traditional celebrities for the public’s attention. They are joined by the scions of ultra-rich hyperelite families, a new class of always-on socialites. These glitterati go to great lengths to capture more likes, views, and rep: moonlet-sized gala parties, death-defying sports, lascivious displays of hedonism, reckless thrill-seeking, and staged drama and rivalries.
 
 ## Metacelebrities
 
@@ -54,7 +54,7 @@ It is not uncommon to see people interacting with their AR on the street or in h
 
 ### Experience Playback
 
-XP media is a mix of amateur and professional. Anyone can and does make XP, so the mesh is flooded with shared clips of every conceivable subject matter. They are favorited as they allow viewers experiences they otherwise have no opportunity to have, from hyperelite soirées to gatecrashing missions. XP is also versatile, as it can be viewed as POV video via AR. The real bite to XP, however, is in the emotive channels. Nothing provides a rush like the actual X-caster's adrenaline, fear, or arousal. Obsessive fans have been known to mimic their favorite X-casters' emotional states with psychosurgery. The personal nature of XP also sometimes creates problems for professional X-casters when fandom has escalated to stalking.
+XP media is a mix of amateur and professional. Anyone can and does make XP, so the mesh is flooded with shared clips of every conceivable subject matter. They are favorited as they allow viewers experiences they otherwise have no opportunity to have, from hyperelite soirées to gatecrashing missions. XP is also versatile, as it can be viewed as POV video via AR. The real bite to XP, however, is in the emotive channels. Nothing provides a rush like the actual X-caster’s adrenaline, fear, or arousal. Obsessive fans have been known to mimic their favorite X-casters' emotional states with psychosurgery. The personal nature of XP also sometimes creates problems for professional X-casters when fandom has escalated to stalking.
 
 While XP reporting dominates newsfeeds, media companies continue to break ground with XP dramas and action sims. Like AR media, these are loaded with enhanced features and allow you to switch to the POV of different characters. Actors with strong or unique emotive outputs are highly valued.
 

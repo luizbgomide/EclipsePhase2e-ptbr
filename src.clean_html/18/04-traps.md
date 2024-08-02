@@ -8,7 +8,7 @@ PCs actively looking out for traps as they go may make a Perceive Test. For a gr
 
 If the PCs are not actively searching, the GM rolls in secret for them, applying a −20 modifier for distraction (pools only apply if a point is spent for such tests in advance).
 
-Most traps are hidden; apply the trap's Concealment modifier to the test. Other conditional modifiers apply at the GM’s discretion. Note that some traps may simply be undetectable.
+Most traps are hidden; apply the trap’s Concealment modifier to the test. Other conditional modifiers apply at the GM’s discretion. Note that some traps may simply be undetectable.
 
 If successful, the PC detects something amiss; superior successes confer more details. Depending on the trap, they may not immediately understand what they have found; they may simply notice something unusual or off. A successful Hardware or Know Test appropriate to the type of trap can identify the trap, its mechanism, and likely effects.
 

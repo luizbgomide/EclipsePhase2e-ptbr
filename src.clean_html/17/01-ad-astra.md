@@ -4,7 +4,7 @@ The ideas in contemporary science fiction excite us. We want to tell stories abo
 
 ## The Elevator Pitch
 
-If you want to run Eclipse Phase, you'll need players to join your game. This may present your first obstacle — the bane of every outsidethe-box GM: many gaming groups are reluctant to play anything other than the leading-brand fantasy roleplaying game. Science-fiction games are a hard sell in particular; everyone has a rough idea of what living in a fantasy setting is like, whereas not everyone groks sci-fi concepts like resleeving or how cylinder habitats work.
+If you want to run Eclipse Phase, you’ll need players to join your game. This may present your first obstacle — the bane of every outsidethe-box GM: many gaming groups are reluctant to play anything other than the leading-brand fantasy roleplaying game. Science-fiction games are a hard sell in particular; everyone has a rough idea of what living in a fantasy setting is like, whereas not everyone groks sci-fi concepts like resleeving or how cylinder habitats work.
 
 The key to overcoming this isn’t just to tell them what _you_ think is cool, but to identify what _they_ will think is cool about it. Pitch them on that aspect of Eclipse Phase, and you’ll have a new player.
 
@@ -36,7 +36,7 @@ Review the skills that the characters need to get through your planned introduct
 
 Avoid the inclination to comprehensively explain all of the rules in advance. For now, just tell the players the core mechanics: how skills and roll-under percentile tests work. You can explain the other rules as they come up during game. As the GM, this does require you to anticipate the characters' needs and provide helpful tips. For example, the players may know they need to track down information, but may not know that they can use the mesh for Research Tests or rely on their rep scores to acquire intel from their social networks. Situations like this provide the perfect opportunity for you to make suggestions and explain more of the rules.
 
-The same guideline applies to the setting. You may have an encyclopedic knowledge of Eclipse Phase, but providing a full info-dump to your players is likely to make their eyes glaze over. Just cover the basics — you are immortal, you can switch bodies, everything is networked, AIs and uplifts exist — and detail the rest during game. The sample characters have short backgrounds with enough history to get most players started. Have each player describe their character's look and general focus, and then just go. Ask if they have questions, then dive in. Avoid pausing play for more than a few minutes to explain a new aspect of the world; then get back to the action.
+The same guideline applies to the setting. You may have an encyclopedic knowledge of Eclipse Phase, but providing a full info-dump to your players is likely to make their eyes glaze over. Just cover the basics — you are immortal, you can switch bodies, everything is networked, AIs and uplifts exist — and detail the rest during game. The sample characters have short backgrounds with enough history to get most players started. Have each player describe their character’s look and general focus, and then just go. Ask if they have questions, then dive in. Avoid pausing play for more than a few minutes to explain a new aspect of the world; then get back to the action.
 
 ### Tech Talk
 

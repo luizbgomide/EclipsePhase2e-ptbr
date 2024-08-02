@@ -32,7 +32,7 @@ Some hardened apps, infomorphs, and systems have built-in redundancies to protec
 
 ## Mesh Wounds
 
-If the damage inflicted upon you exceeds your software's Wound Threshold, a wound is inflicted. In mesh combat, wounds represent broken processes, instability, memory leaks, and other errors. Each wound inflicts a cumulative −10 modifier to all actions.
+If the damage inflicted upon you exceeds your software’s Wound Threshold, a wound is inflicted. In mesh combat, wounds represent broken processes, instability, memory leaks, and other errors. Each wound inflicts a cumulative −10 modifier to all actions.
 
 Unlike physical wounds, mesh wounds do not trigger checks for knockdown or unconsciousness.
 

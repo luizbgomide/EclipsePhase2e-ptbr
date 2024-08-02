@@ -22,7 +22,7 @@ Let the players throw around some ideas. They might hit upon the right question 
 
 ## Hypothesis and Prediction
 
-Before performing an experiment to answer the question, it will help for the PCs to define what their experiment will test and what they think the results will be. To establish why an alien species died off, the PCs might study the planet's geological record. To figure out how to stop an exsurgent plague, they might hypothesize that it spreads by infected victims biting others. To improve a sensor, characters might hypothesize that they can add a filter to reduce interference from the local electromagnetic environment.
+Before performing an experiment to answer the question, it will help for the PCs to define what their experiment will test and what they think the results will be. To establish why an alien species died off, the PCs might study the planet’s geological record. To figure out how to stop an exsurgent plague, they might hypothesize that it spreads by infected victims biting others. To improve a sensor, characters might hypothesize that they can add a filter to reduce interference from the local electromagnetic environment.
 
 This stage is crucial to real science but can often be glossed over in game. In many cases, you can skip straight from the question (what is this alien thing?) to testing (let’s get it under a microscope and find out). How much you incorporate this step depends on how much of a spotlight you want to put on the trial-and-error aspect of scientific enquiry.
 

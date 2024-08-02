@@ -43,7 +43,7 @@ Impian (“Dream” in Malay) was once 1086 Ganymed, the largest of the Amor ast
 
 <!-- CLEANED /div -->
 
-The Planetary Stock Exchange lives on the creatively-named PEX station. You’d be hard-pressed to find a more secure habitat in the inner system. It accounts for a major portion of mesh traffic during peak trading hours as suits from across the system wheel and deal. Oversight's central offices are here.
+The Planetary Stock Exchange lives on the creatively-named PEX station. You’d be hard-pressed to find a more secure habitat in the inner system. It accounts for a major portion of mesh traffic during peak trading hours as suits from across the system wheel and deal. Oversight’s central offices are here.
 
 The habitat itself is appropriately luxurious; visitors and the handful of permanent residents can buy nearly any experience they want. The hab’s halls are carpeted and ostentatious displays of money and power are the rule of the day. The finest French restaurant in the Solar System, _La Petite Pigeon_, is on PEX’s second-highest floor. I can only speculate how they source their pâté.
 
@@ -110,7 +110,7 @@ The brothers quickly insinuated themselves among the various social groups and s
 
 ## The Kuiper Belt & Oort Cloud
 
-The K-Belt and Oort Cloud are leftovers from the formation of the Solar System: pieces of debris that never bumbled together to form a proper planet. Out here all you'll find are iceteroids that haven't been convinced to become comets yet and the occasional frozen dwarf planet. Life this far out is either a brinker’s paradise or a punishment posting.
+The K-Belt and Oort Cloud are leftovers from the formation of the Solar System: pieces of debris that never bumbled together to form a proper planet. Out here all you’ll find are iceteroids that haven't been convinced to become comets yet and the occasional frozen dwarf planet. Life this far out is either a brinker’s paradise or a punishment posting.
 
 The Kuiper Belt extends from 30 to 55&nbsp;AU. There are a few scattered settlements in the K-Belt; it’s a combination of Old West homesteading and living like some filthy medieval hermit. The even less-dense Oort Cloud starts around 2,000&nbsp;AU and extends to interstellar space. No one really lives there. The furthest we've gotten a probe so far is around 30,000&nbsp;AU.
 
@@ -140,7 +140,7 @@ Dysnomia houses Pharos, an Ultimate base armed to the teeth with combat morphs, 
 
 Markov is one of the best-kept secrets in the Solar System. It’s somewhere in the outer fringe or Kuiper Belt, but the Argonauts do their best to keep its location hidden. Markov is a lab for cutting-edge Argonaut research: experiments in propulsion, quantum mechanics, biomechanics, cognitive science, and Lorentzian manifolds.
 
-Markov houses the Library, the Argonauts’s main data backup, as well as the Medean Apollo project, a predictive analytics initiative utilizing cutting-edge AIs examining enormous amounts of data. Most of Markov’s inhabitants are infomorphs and AGIs; biomorphs customized for the habitat's thermal-dissipating perfluorocarbon atmosphere can survive there.
+Markov houses the Library, the Argonauts’s main data backup, as well as the Medean Apollo project, a predictive analytics initiative utilizing cutting-edge AIs examining enormous amounts of data. Most of Markov’s inhabitants are infomorphs and AGIs; biomorphs customized for the habitat’s thermal-dissipating perfluorocarbon atmosphere can survive there.
 
 ### Pluto and Charon
 

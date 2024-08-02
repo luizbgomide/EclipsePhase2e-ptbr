@@ -15,7 +15,7 @@ The rimward system’s scattered and more isolated population has given rise to 
 
 Anarchists! Scary, right? We’re coming to get ya!
 
-We’re not. Deal with a couple hundred years of capitalist propaganda turning you and yours into a bogeyman and see how much of a sense of humor you have about it. But why would corporations and so-called free markets hate us so much? Simple: we are the exact opposite of everything they represent. Hierarchies create inequalities. This is true in the entirety of history. You can't have capitalism without exploitation, full stop. Anarchists have this crazy idea that we don't need to fuck each other over to survive. We seek to minimize structures where people have power over others in order to maximize freedom and equality. That's a direct challenge to the status quo, the rich, the people in power — so the sociopaths making bank on other people's suffering do their best to paint us as monsters.
+We’re not. Deal with a couple hundred years of capitalist propaganda turning you and yours into a bogeyman and see how much of a sense of humor you have about it. But why would corporations and so-called free markets hate us so much? Simple: we are the exact opposite of everything they represent. Hierarchies create inequalities. This is true in the entirety of history. You can't have capitalism without exploitation, full stop. Anarchists have this crazy idea that we don't need to fuck each other over to survive. We seek to minimize structures where people have power over others in order to maximize freedom and equality. That’s a direct challenge to the status quo, the rich, the people in power — so the sociopaths making bank on other people’s suffering do their best to paint us as monsters.
 
 ### We’re Not What You Think
 
@@ -103,11 +103,11 @@ It’s an open secret that various anarchists and other Alliance members funnel 
 
 <!-- CLEANED /div -->
 
-Extropians are the only ones to truly embrace the free market. The hypercapitalism destroying Mars and the inner system isn’t an actual free market, it's just more of the same liberty-crushing regulatory nonsense with government wolves in corporate clothing. And the lovey-dovey collectivist bullshit going on across those anarchist habs seems nice in principle, but in reality it's hot garbage. The lack of laws is good, but do you really want to share all of your stuff with strangers, rely on your neighbors for backup, and sacrifice yourself to the collective? We’re the happy medium between the two, the truly free market that lets individuals express themselves.
+Extropians are the only ones to truly embrace the free market. The hypercapitalism destroying Mars and the inner system isn’t an actual free market, it’s just more of the same liberty-crushing regulatory nonsense with government wolves in corporate clothing. And the lovey-dovey collectivist bullshit going on across those anarchist habs seems nice in principle, but in reality it’s hot garbage. The lack of laws is good, but do you really want to share all of your stuff with strangers, rely on your neighbors for backup, and sacrifice yourself to the collective? We’re the happy medium between the two, the truly free market that lets individuals express themselves.
 
 ### Entering the Contract
 
-The unifying principle of all Extropian communities is the contract. When you enter an Extropian habitat, you sign rental agreements for the life support and space and hire private contractors to provide protection and emergency services. Any ongoing economic transactions and relationships are based on contracts agreed upon by all involved parties. The only binding law is what's put into writing in these contracts, backed by a freelance judiciary service. Private ownership is respected in Extropian communities, and rep is based on completing contracts to the benefit of all. ALIs are integral to such a complex economic system, handling contracts, disputes, and microtorts in real-time. Contracts are scrupulously maintained and tracked in decentralized holochain cryptographic ledgers.
+The unifying principle of all Extropian communities is the contract. When you enter an Extropian habitat, you sign rental agreements for the life support and space and hire private contractors to provide protection and emergency services. Any ongoing economic transactions and relationships are based on contracts agreed upon by all involved parties. The only binding law is what’s put into writing in these contracts, backed by a freelance judiciary service. Private ownership is respected in Extropian communities, and rep is based on completing contracts to the benefit of all. ALIs are integral to such a complex economic system, handling contracts, disputes, and microtorts in real-time. Contracts are scrupulously maintained and tracked in decentralized holochain cryptographic ledgers.
 
 ### Market Anarchist Flavors
 
@@ -119,7 +119,7 @@ Extropian habitats serve as a bridge between inner-system hypercorps and outer-s
 
 While Extropians are in favor of tangible private property, we long ago surrendered support for intellectual property. Quite a few Extropian hypercorps base their business models on reverse-engineering or the concept of _shanzhai_ (counterfeit goods, trademark infringement, and other reproductions). We also are less concerned with overbearing habitat legalities, so our corps are often willing to trade products or services that aren't economically feasible for Consortium corps: narcoalgorithms, hacking zero-days, weapon systems, AGIs, certain genetic mods, etc. This gives our habitats a reputation among sunward types for being outlaw havens, which certainly has a nice ring to it.
 
-Meanwhile, the autonomists criticize us for allowing contracts that are “exploitive,” but if an adult wants to sign an agreement to become an indenture, I don't see why I should stop them. They also criticize our lack of a social safety net for society's downtrodden, as if we are all somehow responsible for each other's mistakes and bad luck. You ask me, if we're pissing off both sides, we're probably doing it right.
+Meanwhile, the autonomists criticize us for allowing contracts that are “exploitive,” but if an adult wants to sign an agreement to become an indenture, I don't see why I should stop them. They also criticize our lack of a social safety net for society’s downtrodden, as if we are all somehow responsible for each other’s mistakes and bad luck. You ask me, if we're pissing off both sides, we're probably doing it right.
 
 ## The Jovian Republic
 
@@ -148,7 +148,7 @@ The Council on Bio-Ethics and Advanced Technology (CBEAT) mandates social and le
 
 The Jovian Republic has one thing no other political body has: the strongest military in the system. The Consortium fears us, because they make every effort to woo us from their embassy on Liberty.
 
-This relationship is also a function of the Republic’s slingshot taxation, one of our chief sources of revenue. Many ships traversing the Solar System take advantage of Jupiter's gravity well to save on fuel. Each of these is automatically assessed and taxed. The hypercorps seek to lower these tariffs as well as ease restrictive Jovian laws so they can more effectively tap into the Jovian consumer base. The Security Council remains skeptical of transhumanity's ability to keep a handle on destructive technologies, however, and so limits trade in the interests of security.
+This relationship is also a function of the Republic’s slingshot taxation, one of our chief sources of revenue. Many ships traversing the Solar System take advantage of Jupiter’s gravity well to save on fuel. Each of these is automatically assessed and taxed. The hypercorps seek to lower these tariffs as well as ease restrictive Jovian laws so they can more effectively tap into the Jovian consumer base. The Security Council remains skeptical of transhumanity’s ability to keep a handle on destructive technologies, however, and so limits trade in the interests of security.
 
 ## Scum
 

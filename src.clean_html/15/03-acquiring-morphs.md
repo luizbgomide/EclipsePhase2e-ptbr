@@ -26,7 +26,7 @@ Morph Points are spent as described in [Step 12 of Making Characters](../04/15-s
 
 ### Morph Availability
 
-Not all morphs are readily available. Some models (splicers, exalts, cases, synths, pods) are widespread and accessible; others are more difficult to lay your claws on. To see if a morph is on hand, make an Availability Test, rolling d100 with the morph's Availability rating as the target number. If it succeeds, the morph is available. Otherwise, pick another morph and try again.
+Not all morphs are readily available. Some models (splicers, exalts, cases, synths, pods) are widespread and accessible; others are more difficult to lay your claws on. To see if a morph is on hand, make an Availability Test, rolling d100 with the morph’s Availability rating as the target number. If it succeeds, the morph is available. Otherwise, pick another morph and try again.
 
 Local conditions may affect this Availability Test. A well-stocked body bank in a populated area such as Valles New-Shanghai may apply a +30 modifier. A small and remote Neptunian hab might have a much more limited supply: apply a −30 modifier.
 
@@ -79,14 +79,14 @@ Morphs can be made, but this requires one or more task action skill tests each w
 
 <!-- CLEANED blockquote -->
 
-Sava has been hired to investigate a string of disappearances at a hypercorp's private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and opts to save their rep favors for now.
+Sava has been hired to investigate a string of disappearances at a hypercorp’s private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and opts to save their rep favors for now.
 
 Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Sava a +20 bonus. Rolling against a target number of 60, Sava gets an 83: no luck. The corp didn't need combat models on the station.
 
 Sava tries again for a ghost morph: same Availability, same bonus from the GM. They get a 17 this time: the morph is in stock.
 
-Sava wants neurachem with this morph, which is Major complexity ware — an extra cost of 3&nbsp;MP. Sava only has 2&nbsp;MP to spare (the original 8&nbsp;MP minus the morph's cost of 6&nbsp;MP), so they opt to take a Negative trait with an MP Bonus of 1. The GM has an idea for this, and gives the ghost morph the Memory Artifact trait.
+Sava wants neurachem with this morph, which is Major complexity ware — an extra cost of 3&nbsp;MP. Sava only has 2&nbsp;MP to spare (the original 8&nbsp;MP minus the morph’s cost of 6&nbsp;MP), so they opt to take a Negative trait with an MP Bonus of 1. The GM has an idea for this, and gives the ghost morph the Memory Artifact trait.
 
-A week later, Sava is killed in a trap. The hypercorp's security team recovers their stack and resleeves them, but this time the GM only gives Sava 7&nbsp;MP to work with. Sava really wants that neurachem again, so they are prepared to spend a rep favor this time to boost their MP. First, however, Sava rolls again to see if a fury morph is available this time. The target number is the same (60), and they roll a 29! It looks like the hypercorp noted Sava's earlier request and got a fury morph to the station in anticipation of this need. Sava needs 9&nbsp;MP total, so they take the 7&nbsp;MP they have and spend a Moderate i-rep favor to get 2 more. Sava tells Firewall they believe there are exsurgents on the station, and the group pulls some strings to get them what they need.
+A week later, Sava is killed in a trap. The hypercorp’s security team recovers their stack and resleeves them, but this time the GM only gives Sava 7&nbsp;MP to work with. Sava really wants that neurachem again, so they are prepared to spend a rep favor this time to boost their MP. First, however, Sava rolls again to see if a fury morph is available this time. The target number is the same (60), and they roll a 29! It looks like the hypercorp noted Sava’s earlier request and got a fury morph to the station in anticipation of this need. Sava needs 9&nbsp;MP total, so they take the 7&nbsp;MP they have and spend a Moderate i-rep favor to get 2 more. Sava tells Firewall they believe there are exsurgents on the station, and the group pulls some strings to get them what they need.
 
 <!-- CLEANED /blockquote -->

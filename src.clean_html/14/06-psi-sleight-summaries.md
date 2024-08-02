@@ -52,7 +52,7 @@ Your inhibitions are lowered, social intuition expanded, and emotional intellige
 
 ### Control Behavior
 
-You can fine-tune your emotional state. Apply an [Enhanced Behavior](../04/28-traits.md#enhanced-behavior) or [Restricted Behavior](../04/28-traits.md#restricted-behavior) (Level 2) trait of your choice at will. You may not change it again until you have taken a recharge action. At the GM's discretion, this trait may apply a +/−10 modifier in some situations. Alternatively, use this to reduce an Enhanced/Restricted Behavior trait imposed on you by up to two levels. You can push this sleight to raise the effect to Level 3 (or three levels of reduction).
+You can fine-tune your emotional state. Apply an [Enhanced Behavior](../04/28-traits.md#enhanced-behavior) or [Restricted Behavior](../04/28-traits.md#restricted-behavior) (Level 2) trait of your choice at will. You may not change it again until you have taken a recharge action. At the GM’s discretion, this trait may apply a +/−10 modifier in some situations. Alternatively, use this to reduce an Enhanced/Restricted Behavior trait imposed on you by up to two levels. You can push this sleight to raise the effect to Level 3 (or three levels of reduction).
 
 ### Eco-Empathy
 

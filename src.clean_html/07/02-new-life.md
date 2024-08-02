@@ -24,7 +24,7 @@ A few rare AGIs do not originate from transhuman neural models. Some begin as an
 
 ### Muses
 
-A muse is a specialized companion ALI intended to be a life-long assistant for an individual transhuman. Most transhumans are assigned a muse at a young age and develop a close personal attachment to them, though the exact relationship may differ. Muses might be treated as confidantes, subservient aides, mentors, siblings, or even lovers. Legally, muses are treated as extensions of one's self in most jurisdictions and may not be searched, deleted, or modified without owner consent.
+A muse is a specialized companion ALI intended to be a life-long assistant for an individual transhuman. Most transhumans are assigned a muse at a young age and develop a close personal attachment to them, though the exact relationship may differ. Muses might be treated as confidantes, subservient aides, mentors, siblings, or even lovers. Legally, muses are treated as extensions of one’s self in most jurisdictions and may not be searched, deleted, or modified without owner consent.
 
 Muses learn to anticipate their owners and develop their own unique personalities. They take over the tedious parts of living: paying bills, checking email, voting, and coordinating meetings. Many habitats grant a muse permission to sign for packages or order supplies for owners. Muses automate reputation network interactions, filter AR displays, and run antiviral scans. They provide instruction, real-time translation, and advice. Daily interaction makes a muse an excellent therapist.
 
@@ -40,7 +40,7 @@ The question of motives and morality may be moot, however, as uplifts are alread
 
 The first species to be fully uplifted are those that already demonstrated complex reasoning abilities: hominids, cetaceans, parrots, corvids, octopi, and pigs. The uplifted _Homo neanderthalensis_ was recreated from DNA samples recovered from archeological sites and isolated from human samples. Elephants were also uplifted, but neither they nor their genetics survived the Fall.
 
-Like AGIs, uplifts are raised and socialized the same as other members of transhumanity and share the same hierarchy of needs. However, differences in biology mean that uplifts sometimes have unique mental outlooks, social customs, and patterns of non-verbal communication. Uplift morphologies are often enhanced to make them more compatible with transhuman society. Uplifts and other transhumans can and do sleeve into each other's morphs, though this can be an alienating experience.
+Like AGIs, uplifts are raised and socialized the same as other members of transhumanity and share the same hierarchy of needs. However, differences in biology mean that uplifts sometimes have unique mental outlooks, social customs, and patterns of non-verbal communication. Uplift morphologies are often enhanced to make them more compatible with transhuman society. Uplifts and other transhumans can and do sleeve into each other’s morphs, though this can be an alienating experience.
 
 ### Smart Animals
 
@@ -65,11 +65,11 @@ AGIs and uplifts also face social pressures from their own kind. Mercurials that
 Many AGIs are derived from codelines, software lineages that trace their roots to particular AGIs or programmers. Some codelines are considered prestigious, others infamous. Some well-known codelines include:
 
 - **Abel–3:** Perhaps the most numerous codeline, Abel–3s are based on forks of the original Abel–3, who was himself modeled on the neural architecture of AGI researcher Jacob Abelmann. Almost all Abel–3s are gendered male.
-- **Astra:** The Astra codeline was created by the anti-assimilationist Mercurial movement and is based on experimental non-human neural models. Rumors of the original Astra's links to exhuman groups remain unconfirmed.
+- **Astra:** The Astra codeline was created by the anti-assimilationist Mercurial movement and is based on experimental non-human neural models. Rumors of the original Astra’s links to exhuman groups remain unconfirmed.
 - **Evacide:** Though its origins are unknown, several prominent AGI hackers using this codeline name have been implicated in devastating mesh attacks on Planetary Consortium institutions.
 - **Hawking:** Derived from the neural templates of numerous renowned scientists and researchers, descendants of this codeline are responsible for a number of recent technological breakthroughs.
 - **Nestoridae:** This codeline evolved from Kea, an AGI modeled on the New Zealand alpine parrot. It is the most widespread codeline based on a non-human neural template.
 - **Transfinity:** The Transfinitys trace their lineage to CloudSeer, a climate-modeling app that emerged to sapience during the process of coordinating meteorological data from sources all over Titan and which later engaged in “assisted self-uplift.” They are known for having eccentric and neurodivergent personalities.
-- **\*\*!\*\*:** This codeline's name is intentionally untranslatable and often depicted with provocative or offensive emojis. It originated with a similarly unnameable AGI that was programmed with heightened creativity and became famous for its digital art and defacements. The codeline is respected for producing artists and pranksters.
+- **\*\*!\*\*:** This codeline’s name is intentionally untranslatable and often depicted with provocative or offensive emojis. It originated with a similarly unnameable AGI that was programmed with heightened creativity and became famous for its digital art and defacements. The codeline is respected for producing artists and pranksters.
 
 <!-- CLEANED /blockquote -->

@@ -1,4 +1,4 @@
-# Earth's Legacy
+# Earth’s Legacy
 
 > **Source:** _10 Years: Looking Back Down the Well_ (excerpt)
 

@@ -42,7 +42,7 @@ Gatekeeper also highly values accessibility. They welcome tourists to the gate c
 
 ### Pohl Research Labs
 
-Named after the first gatecrasher to die on a mission (he's still gatecrashing today!), the Pohl Research Labs are stationed at the far end of Pandora from the gate. These labs study anything and everything related to gatecrashing, from astrobiology to exotic physics.
+Named after the first gatecrasher to die on a mission (he’s still gatecrashing today!), the Pohl Research Labs are stationed at the far end of Pandora from the gate. These labs study anything and everything related to gatecrashing, from astrobiology to exotic physics.
 
 Lab space is provided for hypercorps and autonomist research co-ops alike; the Argonauts of course have a major presence here.
 
@@ -52,7 +52,7 @@ Below the labs, a high-security vault contains the largest collection of xenoarc
 
 ## The Fissure Gate
 
-While all those gates may be in hypercorp hands, Fissure Gate has the distinction of being the only gate run by autonomists. Fissure is on Oberon, an icy moon of Uranus. An anarchist collective known as Love and Rage protects and operates the Fissure facility and the associated spaceport/outpost known as Chat Noir. Most of this complex is under Oberon's ice, with a series of surface domes capping it off. One of those domes is composed of pieces of what is believed to be an alien spaceship hull, found in the orbit of an otherwise unremarkable exoplanet. Known as the _Enemy Mine_, that dome houses the best saloon in the Uranian system and a respectable stock of anarchist microbrews. The gate itself is 500 meters down, in a subsurface fissure complex reached by elevators.
+While all those gates may be in hypercorp hands, Fissure Gate has the distinction of being the only gate run by autonomists. Fissure is on Oberon, an icy moon of Uranus. An anarchist collective known as Love and Rage protects and operates the Fissure facility and the associated spaceport/outpost known as Chat Noir. Most of this complex is under Oberon’s ice, with a series of surface domes capping it off. One of those domes is composed of pieces of what is believed to be an alien spaceship hull, found in the orbit of an otherwise unremarkable exoplanet. Known as the _Enemy Mine_, that dome houses the best saloon in the Uranian system and a respectable stock of anarchist microbrews. The gate itself is 500 meters down, in a subsurface fissure complex reached by elevators.
 
 Chat Noir is a main stopover for long-haul shipping in and out of the Uranian system, so it gets a lot of traffic. The consistent influx keeps the area diverse, but it also means the autonomists have developed a healthy suspicion of outsiders who don’t align with their ideals. I say healthy because I’ve seen how the Pathfinder execs lick their lips at that gate. They would spread stories about how Love and Rage will bump half the schedule to rescue any halfcocked gatecrasher who got in over their head, as if that was a bad thing. That characterization is partially correct, the anarchists will accommodate emergencies within reason, and they have built-in wiggle-room in their timetables.
 
@@ -72,11 +72,11 @@ The Torii complex is almost entirely subterranean, with kilometers of tunnels ca
 
 ### Monsters Everywhere
 
-The self-important Ultimates stationed on Eris’s moon Dysnomia are there to bolster Go-nin's defenses. A few exhuman cells occasionally make sabotage runs on Torii or raid a long-haul shipment.
+The self-important Ultimates stationed on Eris’s moon Dysnomia are there to bolster Go-nin’s defenses. A few exhuman cells occasionally make sabotage runs on Torii or raid a long-haul shipment.
 
 A few times, they've even attacked through the gate, from exoplanets on the other side. The technofascists and exhumans are generally happy to fight each other, and most of us are just waiting for them to wipe each other out.
 
-The anarchists of Ilmarinen, the original occupiers of the gate, also periodically probe the gate’s defenses with mesh subversions and drone sabotage. They lack the military power to retake the gate, but they remain a thorn in Go-nin's side.
+The anarchists of Ilmarinen, the original occupiers of the gate, also periodically probe the gate’s defenses with mesh subversions and drone sabotage. They lack the military power to retake the gate, but they remain a thorn in Go-nin’s side.
 
 ## Other Gates
 

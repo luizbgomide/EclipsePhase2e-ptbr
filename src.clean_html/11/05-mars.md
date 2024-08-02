@@ -44,7 +44,7 @@ Elysium is built into the floor and walls of the Hyblaeus Chasma fissure, ten ki
 
 <!-- CLEANED /div -->
 
-On the other end of the spectrum is Noctis-Qianjiao, the meticulously planned business center of Martian society. The city is comprised of two domes, divided by the River Noctis and connected by huge bridges and conglomerations of souks. The bridges aren’t just infrastructure, they’re neighborhoods packed with thousands of homes and businesses. Noctis City is the larger dome and holds just over half the population. The TTO maintains its largest offices here. Across the river is Qianjiao, home to the city’s major academic institutions. Of Mars's major cities, Noctis-Qianjiao is closest to the Martian Gate, Pathfinder City, and Pavonis space elevator. It’s a long way, but a lot of research ends up in Noctis for assessment.
+On the other end of the spectrum is Noctis-Qianjiao, the meticulously planned business center of Martian society. The city is comprised of two domes, divided by the River Noctis and connected by huge bridges and conglomerations of souks. The bridges aren’t just infrastructure, they’re neighborhoods packed with thousands of homes and businesses. Noctis City is the larger dome and holds just over half the population. The TTO maintains its largest offices here. Across the river is Qianjiao, home to the city’s major academic institutions. Of Mars’s major cities, Noctis-Qianjiao is closest to the Martian Gate, Pathfinder City, and Pavonis space elevator. It’s a long way, but a lot of research ends up in Noctis for assessment.
 
 ### Pavonis
 
@@ -55,7 +55,7 @@ On the other end of the spectrum is Noctis-Qianjiao, the meticulously planned bu
 
 <!-- CLEANED /div -->
 
-Pavonis Mons may not be the center of Martian life anymore, but it’s still an iconic location. It rises fourteen kilometers high, though it's still dwarfed by its sister volcanoes, Arsia and Ascraeus, and the distant Olympus Mons. The city of Pavonis is cradled in its caldera and was the first principal settlement on Mars. It sprang up around the space elevator, still a vital piece of Martian infrastructure, but as the rest of the planet became more habitable, the citizenry moved on, leaving it a ghost town. The outskirts are some of the poorest areas on Mars and occasional outbreaks of wild artificials (feral robots) make this a grim place to live. Proximity to the TITAN Quarantine Zone doesn’t make Pavonis any more desirable.
+Pavonis Mons may not be the center of Martian life anymore, but it’s still an iconic location. It rises fourteen kilometers high, though it’s still dwarfed by its sister volcanoes, Arsia and Ascraeus, and the distant Olympus Mons. The city of Pavonis is cradled in its caldera and was the first principal settlement on Mars. It sprang up around the space elevator, still a vital piece of Martian infrastructure, but as the rest of the planet became more habitable, the citizenry moved on, leaving it a ghost town. The outskirts are some of the poorest areas on Mars and occasional outbreaks of wild artificials (feral robots) make this a grim place to live. Proximity to the TITAN Quarantine Zone doesn’t make Pavonis any more desirable.
 
 ### Progress
 
@@ -79,7 +79,7 @@ Progress was carved out of the moon formerly called Deimos. Home to the headquar
 
 The city of Valles-New Shangai sits atop a mesa that will one day be an island, when the sea eventually fills the vast basin of Eos. Thirty-seven million people call the five domes of this city home, making this the largest gathering of transhumanity anywhere since the Fall. Almost every group of peoples that survived the Fall can be found here, speaking in every language that survived with them. Indentures are omnipresent and almost half the population is serving out their contract or hustling to get by in sub-par clanking synths and pods. Still, there’s hope that so many of us have survived.
 
-The New Shanghai dome is an impressive temple of excess, home to the Tharsis League's central administration, embassies and arcologies, and an authentic recreation of the Bund, the waterfront of the original Shanghai on Earth. Little Shanghai is a hub of crime and desperation. Valles Center, New Pittsburgh, and Nytrondheim teem with business, manufacturing, and every type of conceivable entertainment. Covered souks connect the domes together, packed with bazaars, food stands, and squats.
+The New Shanghai dome is an impressive temple of excess, home to the Tharsis League’s central administration, embassies and arcologies, and an authentic recreation of the Bund, the waterfront of the original Shanghai on Earth. Little Shanghai is a hub of crime and desperation. Valles Center, New Pittsburgh, and Nytrondheim teem with business, manufacturing, and every type of conceivable entertainment. Covered souks connect the domes together, packed with bazaars, food stands, and squats.
 
 ## The Martian Trojans
 

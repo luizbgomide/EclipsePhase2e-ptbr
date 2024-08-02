@@ -24,7 +24,7 @@ Though progressive cultural ideas continue to gain ground, transhumanity has not
 
 ### Using Motivations
 
-Whether negotiating or picking fights, it is helpful to know what drives the person you are dealing with. With a lengthy conversation and a successful Persuade Test (opposed by SAV Check), you may be able to ascertain one of an NPC's motivations (GM discretion). If you are able to weaponize this knowledge against the NPC with an appeal or insult to their interests, the GM may apply a modifier to your social skill test. Similarly, you may unknowingly touch upon an NPC's motivations when dealing with them, thus acquiring a modifier depending on whether you support/encourage their interests or conflict with them.
+Whether negotiating or picking fights, it is helpful to know what drives the person you are dealing with. With a lengthy conversation and a successful Persuade Test (opposed by SAV Check), you may be able to ascertain one of an NPC’s motivations (GM discretion). If you are able to weaponize this knowledge against the NPC with an appeal or insult to their interests, the GM may apply a modifier to your social skill test. Similarly, you may unknowingly touch upon an NPC’s motivations when dealing with them, thus acquiring a modifier depending on whether you support/encourage their interests or conflict with them.
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -45,7 +45,7 @@ Whether negotiating or picking fights, it is helpful to know what drives the per
 | <!-- CLEANED div class="indent" -->» Complex/Long<!-- CLEANED /div -->      |      −10       |
 | <!-- CLEANED div class="indent" -->» Beneficial to NPC<!-- CLEANED /div --> |      +30       |
 | <!-- CLEANED div class="indent" -->» Dangerous to NPC<!-- CLEANED /div -->  |      −30       |
-| Appeal to/Violate NPC's Motivation            | +/−10 to +/−30 |
+| Appeal to/Violate NPC’s Motivation            | +/−10 to +/−30 |
 | Social Stigma/Status                          | +/−10 to +/−30 |
 | High Rep (60+) in Favored Network             |      +10       |
 

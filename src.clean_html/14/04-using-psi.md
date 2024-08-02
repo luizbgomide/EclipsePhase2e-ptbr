@@ -81,7 +81,7 @@ You may not spend pool to affect the Infection Test, but you may spend Moxie to 
 - **Checkout Time:** The infection is awakened, but bides its time. The next time you take a long recharge or are rendered unconscious, you may awaken to discover that the infection has been active while your mind was under — literally taking control of your body. What the exovirus does during this time is up to the GM and may not be immediately apparent to your character. You may awaken to a corpse in your bed or strange symbols meticulously etched with bloody fingernails over every inch of your wall, or you may discover a half-completed alien device secreted away in a locker weeks later. More than one async has stimmed themselves awake for days, afraid to fall asleep and let the presence inside them take control.
 - **Interference:** The exovirus actively impedes you at a critical point. At some point in the future, when you are about to make a test, you must make an opposed test pitting your WIL Check against your Infection Rating +30. If the infection wins, your test will automatically suffer a critical failure (pools may not be applied). GMs are encouraged to select situations that will have dramatic and dire results.
 
-## The Infection's Influence
+## The Infection’s Influence
 
 Every time an Infection Test succeeds, the exovirus exerts a bit more control over your psyche. Every async experiences this differently, depending on their particular sub-strain.
 

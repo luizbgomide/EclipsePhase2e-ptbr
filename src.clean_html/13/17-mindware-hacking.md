@@ -54,7 +54,7 @@ You can modify the sensory inputs from a morph to its resident cyberbrain. Block
 
 ### Puppeteer (Cyberbrain)
 
-Morphs with puppet sock implants may be remotely operated, just like a bot ([Remote Operations](../16/21-robots.md#remote-operations)). If the resident ego is not locked out with a lockbox app, it may fight attempts to puppet the morph as an automatic action — you may likewise counter the ego's attempted actions. Make an opposed test pitting the ego’s WIL Check against your Interface skill. If the opposer wins, no action is taken. Morphs with locked-out cyberbrains may still be puppeted. If the cyberbrain is shut down, however, no puppeting is possible.
+Morphs with puppet sock implants may be remotely operated, just like a bot ([Remote Operations](../16/21-robots.md#remote-operations)). If the resident ego is not locked out with a lockbox app, it may fight attempts to puppet the morph as an automatic action — you may likewise counter the ego’s attempted actions. Make an opposed test pitting the ego’s WIL Check against your Interface skill. If the opposer wins, no action is taken. Morphs with locked-out cyberbrains may still be puppeted. If the cyberbrain is shut down, however, no puppeting is possible.
 
 ### Scorch Ego
 
@@ -118,17 +118,17 @@ The cyberbrain feeds backup data to the cortical stack. This is a one-way connec
 
 **S:** So when did they find out who you were?
 
-**H:** Well, the backup facility had wireless-inhibiting walls, so I had to be on site to pull the hack off. Sorta. I did this old-school, ripped their external sensors and drilled through the wall from the alley outside, snuck a bot through with a fiberoptic tether to establish a link. I got the egos you asked for, but their security was on me fast. They must've traced me back, their security hacked my morph's cyberbrain as I was finishing the job. They were so eager to stop the download that he didn't lock me in — big mistake. I evacuated the morph and got away.
+**H:** Well, the backup facility had wireless-inhibiting walls, so I had to be on site to pull the hack off. Sorta. I did this old-school, ripped their external sensors and drilled through the wall from the alley outside, snuck a bot through with a fiberoptic tether to establish a link. I got the egos you asked for, but their security was on me fast. They must've traced me back, their security hacked my morph’s cyberbrain as I was finishing the job. They were so eager to stop the download that he didn't lock me in — big mistake. I evacuated the morph and got away.
 
 **S:** At least you lost the morph. So what went wrong with the dropoff?
 
-**H:** I've been trying to figure it out. No way they got anything from the morph. But I have a theory, based on some things I've heard. It's not hard for them to crosscheck patterns of intrusion against previous hacker practices, not to mention the fact that the last couple of jobs I’ve done for BG weren’t exactly low profile. Their machine-learning algorithms are trained to look for those patterns, right? Ophelia is good at hiding my tracks, but she’s not _that_ good. That's the only explanation I have for how they showed up, screwed the dropoff, and nabbed Mel.
+**H:** I've been trying to figure it out. No way they got anything from the morph. But I have a theory, based on some things I've heard. It’s not hard for them to crosscheck patterns of intrusion against previous hacker practices, not to mention the fact that the last couple of jobs I’ve done for BG weren’t exactly low profile. Their machine-learning algorithms are trained to look for those patterns, right? Ophelia is good at hiding my tracks, but she’s not _that_ good. That’s the only explanation I have for how they showed up, screwed the dropoff, and nabbed Mel.
 
-**S:** That's not encouraging. If they have a profile of your habits, they could still be on your tail.
+**S:** That’s not encouraging. If they have a profile of your habits, they could still be on your tail.
 
-**H:** I know, that's why I've been mixing everything up. And that's why I need you to set up a new way for me to offload these egos.
+**H:** I know, that’s why I've been mixing everything up. And that’s why I need you to set up a new way for me to offload these egos.
 
-**S:** OK, here’s what we’re going to do. You remember Ralph's? That old coffee bar in Progress? The one with the overroasted beans they claim are a pure Earth strain? Let’s meet up there and talk. Just you and me and the coffee.
+**S:** OK, here’s what we’re going to do. You remember Ralph’s? That old coffee bar in Progress? The one with the overroasted beans they claim are a pure Earth strain? Let’s meet up there and talk. Just you and me and the coffee.
 
 **H:** I don’t think you’re reading me here. I want to offload it, not talk about offloading it.
 

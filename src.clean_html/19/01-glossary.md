@@ -1,6 +1,6 @@
 # Glossary
 
-Here's a list of terms we use throughout Eclipse Phase.
+Here’s a list of terms we use throughout Eclipse Phase.
 
 <!-- CLEANED div class="stat-list" -->
 
@@ -88,11 +88,11 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Ego ID:** The ID code tied to your ego, imprinted in uploads.
 - **Ego Hunter:** A bounty hunter that tracks down resleeved egos.
 - **Egocast:** Term for transmitting an ego to a remote location.
-- **Entoptics:** Augmented reality that you “see” in your mind's eye.
+- **Entoptics:** Augmented reality that you “see” in your mind’s eye.
 - **Eraser:** Heavily armed proxies that are called to contain threats beyond the capabilities of a normal sentinel cell.
-- **ERP:** The reclaimer's Earth Reclamation Project.
+- **ERP:** The reclaimer’s Earth Reclamation Project.
 - **ETI:** Extraterrestial Intelligence. A god-like post-singularity alien/machine super-intelligence theorized to be responsible for the pandora gates and/or exsurgent virus.
-- **Europan:** A denizen of Jupiter's moon Europa.
+- **Europan:** A denizen of Jupiter’s moon Europa.
 - **Exalt:** A genetically enhanced human morph.
 - **Exodus:** The evacuation of Earth during the Fall.
 - **Exoplanet:** A planet in another star system.
@@ -200,7 +200,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Nano-Ecology:** A pro-tech ecological movement.
 - **Nanofabber:** A device that manufactures items from the molecular level with an appropriate blueprint. AKA compiler, cornucopia machine, fabber, forge, maker, printer, replicator.
 - **Nanoswarm:** A mass of nanobots that act in concert.
-- **Nanotat ID:** The ID nano-encoded on your morph's index finger.
+- **Nanotat ID:** The ID nano-encoded on your morph’s index finger.
 - **Nanoware:** Nanosystems implanted within a morph.
 - **Narcoalgorithm:** An app that mimics the effects of a drug for an infomorph or cyberbrain.
 - **Neo-Avians:** Uplifted ravens, crows, and gray parrots.
@@ -248,7 +248,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Remade:** A biomorph intended as a human upgrade, human 2.0.
 - **Resleeving:** Downloading into a new morph. AKA remorphing.
 - **Rimward:** The outer half of the Solar System, from the Main Belt to the Oort Cloud.
-- **Ringers:** Denizens of Saturn's rings.
+- **Ringers:** Denizens of Saturn’s rings.
 - **Ripping:** Destroying surveillance systems to create dead zones.
 - **Root Account:** The one account on a system that may not have its admin privileges revoked.
 - **Router:** A proxy that coordinates a server’s operations.
@@ -283,7 +283,7 @@ Here's a list of terms we use throughout Eclipse Phase.
 - **Slitheroid:** A snake-like synthmorph.
 - **Smart Animal:** A partially uplifted animal.
 - **Sniff:** To intercept wireless mesh traffic.
-- **Solarians:** Denizens of the sun's corona.
+- **Solarians:** Denizens of the sun’s corona.
 - **Souk:** Covered bazaars and market areas between Martian domes.
 - **Spare:** A portable morph to be sleeved in an emergency.
 - **Sphere/Spheroid:** A bubble-shaped habitat spun for gravity, usually made from hollowed-out asteroids. AKA bubble.

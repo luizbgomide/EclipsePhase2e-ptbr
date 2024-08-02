@@ -14,7 +14,7 @@ Venus rewards the intrepid, though, and habitats predating the Fall grew prosper
 
 The surface is rugged and beautiful in its way. Old timers say it’s like a cross between the high desert of the American southwest, with its vast plateaus and canyons, and Iceland, with its black basaltic rock, crisscrossed in the lowlands by rivers of magma.
 
-The winds that whip volcano, mesa, and lava plain are a superheated mix of carbon dioxide and sulfuric acid. At the surface, the pressure is almost 100 times that of Earth's atmosphere (or equivalent to a kilometer below Earth’s oceans). Only dim light reaches down here, and that which does is refracted by the titanic pressures, so that to someone on the surface, the horizons rise around them like the sides of a colossal bowl. Temperatures reach nearly 500 Celsius. Lead is permanently molten, metal sags and flows, and carbon dioxide exists in a supercritical state where it’s both a liquid and a gas.
+The winds that whip volcano, mesa, and lava plain are a superheated mix of carbon dioxide and sulfuric acid. At the surface, the pressure is almost 100 times that of Earth’s atmosphere (or equivalent to a kilometer below Earth’s oceans). Only dim light reaches down here, and that which does is refracted by the titanic pressures, so that to someone on the surface, the horizons rise around them like the sides of a colossal bowl. Temperatures reach nearly 500 Celsius. Lead is permanently molten, metal sags and flows, and carbon dioxide exists in a supercritical state where it’s both a liquid and a gas.
 
 Only the most specialized biological settlers call the surface home, and they’re confined to low-pressure zones high in the mountains. The peaks offer rich mining and good sites from which to remote control equipment closer to the surface. Although it’s possible to jam from orbit, relay stations on the peaks experience less communications lag and fewer weather-related disruptions.
 
@@ -26,13 +26,13 @@ Though the surface has been mapped with radar, the clouds block monitoring from 
 
 ## Life in the Clouds
 
-At altitudes of 50 to 60 kilometers, the environment becomes more favorable. Air pressure ranges from 50–85% of Earth's surface and temperatures average between 7 and 40&nbsp;°C, depending on latitude. In this environment transhumans need only a breather and eye protection against the occasional sulfuric clouds to go outside.
+At altitudes of 50 to 60 kilometers, the environment becomes more favorable. Air pressure ranges from 50–85% of Earth’s surface and temperatures average between 7 and 40&nbsp;°C, depending on latitude. In this environment transhumans need only a breather and eye protection against the occasional sulfuric clouds to go outside.
 
 This altitude is the ideal range for aerostats — floating habitats that can stretch a kilometer or more in height and diameter. Even at this altitude, Venus’s atmosphere is dense and heavy enough, being mostly carbon dioxide, that an object full of enough oxygennitrogen atmosphere is buoyant. Aerostats use a combination of buoyancy and immense propellers to maintain an altitude where life support systems can compensate for external temperatures and pressures with a minimum of effort.
 
 ## Transportation
 
-Venus rotates too slowly for a space elevator, so most travel to the surface is by lander. Venusian landing craft are heavily shielded and structurally reinforced against the planet’s hideous pressures. Compared to other landers, they’re rather beetle-like, and expensive to operate in terms of fuel. Morningstar is in the process of building a rotovator in Venusian orbit. This 12,000-kilometer spinning cable will dip down into the atmosphere to aerostat altitude in such a way that the cable's orbit and planet's rotation nearly cancel out. This allows the end of the cable to collect cargo and transports which it then carries back up and flings into space.
+Venus rotates too slowly for a space elevator, so most travel to the surface is by lander. Venusian landing craft are heavily shielded and structurally reinforced against the planet’s hideous pressures. Compared to other landers, they’re rather beetle-like, and expensive to operate in terms of fuel. Morningstar is in the process of building a rotovator in Venusian orbit. This 12,000-kilometer spinning cable will dip down into the atmosphere to aerostat altitude in such a way that the cable’s orbit and planet’s rotation nearly cancel out. This allows the end of the cable to collect cargo and transports which it then carries back up and flings into space.
 
 Venusian aircraft need only stubby wings and rotors due to the thick atmosphere. Almost all fixed-wing craft are propeller driven, since jets have to carry their own oxidizers in this atmosphere. Dirigible airships provide an economical if slow method of ferrying cargo and travelers between aerostats. Luxury passenger airships are growing in popular as a vacation experience. Aircraft and devices like wingsuits often aren’t built to survive on the surface, so they carry emergency bubbles that provide a temporary shelter for passengers and crew until rescued.
 
@@ -40,7 +40,7 @@ Some aerostats use extremely durable cables to anchor themselves to the surface 
 
 ## Rise of the Morningstar
 
-The success of the movement to secede from the Consortium surprised the Venusians more than anyone, and they're still sorting out how to keep this Morningstar Constellation thing afloat. In reality, the terraforming debate is far from decided, and the Consortium still has a presence here with various aerostats and orbitals that did not defect. Morningstar's lack of a military leaves it vulnerable to invasion, but luckily the Planetary Consortium doesn’t currently have the stomach for this sort of action.
+The success of the movement to secede from the Consortium surprised the Venusians more than anyone, and they're still sorting out how to keep this Morningstar Constellation thing afloat. In reality, the terraforming debate is far from decided, and the Consortium still has a presence here with various aerostats and orbitals that did not defect. Morningstar’s lack of a military leaves it vulnerable to invasion, but luckily the Planetary Consortium doesn’t currently have the stomach for this sort of action.
 
 ## Terraforming Venus
 
@@ -69,7 +69,7 @@ Smaller aerostats come in a wide variety of plans: cigar-shaped habitat modules 
 
 <!-- CLEANED /div -->
 
-Home to 300,000, Aphrodite Prime is a center for tourism. It is home to a number of genegineering hypercorps and the vast Aphrodite Aviary, a sphere in the habitat's base. Here the proponents of the Aerial Terraforming Initiative showcase their latest designs for life forms that could live and thrive in the upper Venusian atmosphere: aerial kelp, flying mantas, balloon fish, and float ferns. Morph designers here compete to develop both humanoid and avian gliding/flying morphs.
+Home to 300,000, Aphrodite Prime is a center for tourism. It is home to a number of genegineering hypercorps and the vast Aphrodite Aviary, a sphere in the habitat’s base. Here the proponents of the Aerial Terraforming Initiative showcase their latest designs for life forms that could live and thrive in the upper Venusian atmosphere: aerial kelp, flying mantas, balloon fish, and float ferns. Morph designers here compete to develop both humanoid and avian gliding/flying morphs.
 
 ### Octavia
 
@@ -95,7 +95,7 @@ Most habitats in Venusian orbit circle the equator, part of a belt of mostly aut
 
 <!-- CLEANED /div -->
 
-Gerlach is a multi-module cylinder 1 kilometer in diameter and 4 kilometers long, with a population of 120,000. The inhabitants have strong ties to the Argonauts, sympathies for the outer-system autonomists, and are strong proponents of morphological freedom and cognitive experimentation. The habitat interior is known for its nine pyramidal arcologies and verdant landscaping, making it one of the most desirable in the inner system. Each of the cylinder modules spins at different speeds, simulating different gravities so that those used to lighter gravs can acclimate to Venus's stronger pull. Gerlach's residents voted to secede from the Consortium but did not join Morningstar, preferring to keep their independence.
+Gerlach is a multi-module cylinder 1 kilometer in diameter and 4 kilometers long, with a population of 120,000. The inhabitants have strong ties to the Argonauts, sympathies for the outer-system autonomists, and are strong proponents of morphological freedom and cognitive experimentation. The habitat interior is known for its nine pyramidal arcologies and verdant landscaping, making it one of the most desirable in the inner system. Each of the cylinder modules spins at different speeds, simulating different gravities so that those used to lighter gravs can acclimate to Venus’s stronger pull. Gerlach’s residents voted to secede from the Consortium but did not join Morningstar, preferring to keep their independence.
 
 ## Surface Habs
 
