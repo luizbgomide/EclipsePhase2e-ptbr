@@ -8,7 +8,7 @@ Every flexbot module has a default shape—typically a quadruped the size of a l
 
 ### Size
 
-Individual modules are small sized ([Sizes](../../12/21-other-action-factors.md#sizes) EP2). A flexbot of 3–4 modules is medium sized. Those with 5–9 are large. A flexbot of 10+ modules is very large.
+Individual modules are small sized ([Sizes](../../12/21-other-action-factors.md#sizes) in _EP2_). A flexbot of 3–4 modules is medium sized. Those with 5–9 are large. A flexbot of 10+ modules is very large.
 
 Flexbots composed of 15+ modules are too big to effectively control with a cyberbrain; movement at such sizes also becomes challenging. These massive flexbots require core system cyberbrains like those used in habitats and ships.
 
@@ -20,7 +20,7 @@ For rules purposes, each flexbot can have a number of limbs equal to their numbe
 
 ### Movement Systems
 
-All flexbot modules are equipped with the capability to walk on 2+ limbs and maneuver on gas-jet thrust-vector systems in micrograv. They may be equipped with additional mobility system ware at the standard costs. They may also use their shape-adjusting capabilities to form mobility systems (including a more efficient Walker 4/20). Note that if each module within a flexbot aggregate does not have the same mobility system, Movement Rate when using that system is halved. This reflects that the morph as a whole is not adapted for that type of movement in terms of contour, distribution of weight and component systems, and other factors. It can use that mobility system, just not to its full capabilities (also note the [Shareware trick](05-flexbot-tricks.md#shareware)).
+All flexbot modules are equipped with the capability to walk on 2+ limbs and maneuver on gas-jet thrust-vector systems in micrograv. They may be equipped with additional mobility system ware at the standard costs. They may also use their shape-adjusting capabilities to form mobility systems (including a more efficient Walker 4/20). Note that if each module within a flexbot aggregate does not have the same mobility system, Movement Rate when using that system is halved. This reflects that the morph as a whole is not adapted for that type of movement in terms of contour, distribution of weight and component systems, and other factors. It can use that mobility system, just not to its full capabilities (also note the [Shareware trick](../03-FC/05-flexbot-tricks.md#shareware)).
 
 ## Modularity
 
@@ -30,7 +30,7 @@ The control module that holds the operator’s ego is the starting basis for eac
 
 ### (Dis)Connecting Modules
 
-The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics (Flexbot Characteristics, below) and may change its size and movement rate.
+The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](../03-FC/01-flexbot-design.md#flexbot-characteristics)) and may change its size and movement rate.
 
 **Damaged Modules**: If a module is excessively damaged, removing it can be a challenge. Disconnecting a module that has accumulated damage exceeding its Durability requires a Hardware: Robotics (5 minutes) Test.
 
@@ -40,7 +40,7 @@ The process of adding and removing modules impacts the size and functionality of
 
 ### Remote Modules
 
-Modules that aren’t physically melded with the flexbot’s form can be remotely controlled ([Remote Operation](../../16/21-robots.md#remote-operations) _EP2_) just like any other drone. They may also operate autonomously as independent flexbots under the control of an ALI, a fork, or another ego, but they can't be operated as if they were extensions of the occupant’s morph.
+Modules that aren’t physically melded with the flexbot’s form can be remotely controlled ([Remote Operation](../../16/21-robots.md#remote-operations) in _EP2_) just like any other drone. They may also operate autonomously as independent flexbots under the control of an ALI, a fork, or another ego, but they can't be operated as if they were extensions of the occupant’s morph.
 
 If a module is not physically connected to the flexbot core, is not remotely operated, or is not operating autonomously, then it goes into dormant mode. It cannot be treated as an extension of the flexbot unless it is re-incorporated or remotely operated.
 
@@ -50,7 +50,7 @@ Any robots and gear with [modular design ware](../../16/11-physical-augmentation
 
 Other morphs that are equipped with modular design ware can also be incorporated as modules. If a bot or morph lacks a cyberbrain or cortical stack, it can’t house an ego nor can it grant pool bonuses.
 
-Gear that is constructed for modular design may also be locked onto flexbot morphs, at the GM’s discretion, using the same rules as spelled out for bots above. Any gear can be upgraded to incorporate modular design; simply increase its Complexity one step (i.e., from Min/1 to Mod/2; see [Modularized Gear](06-upgrades.md#modularized-gear)).
+Gear that is constructed for modular design may also be locked onto flexbot morphs, at the GM’s discretion, using the same rules as spelled out for bots above. Any gear can be upgraded to incorporate modular design; simply increase its Complexity one step (i.e., from Min/1 to Mod/2; see [Modularized Gear](../03-FC/06-upgrades.md#modularized-gear)).
 
 ## Flexbot Characteristics
 

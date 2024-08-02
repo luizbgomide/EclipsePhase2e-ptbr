@@ -18,7 +18,7 @@ Markdown formatting and adaptation done by Luiz Borges Gomide and Ava Harris.
 - **Writing, Editing, and Development:** Rob Boyle
 - **Layout:** Adam Jury
 - **Art:** Nathan Geppert, Mark Molnar, Jessadi Suthi, Andy Wright
-- **Special Thanks To:** Everyone on the Eclipse Phase Discord who suggested ideas and questions and our patrons for their support and making this one of our monthly projects: eclipsephase.com/patreon
+- **Special Thanks To:** Everyone on the _Eclipse Phase_ Discord who suggested ideas and questions and our patrons for their support and making this one of our monthly projects: [eclipsephase.com/patreon](http://eclipsephase.com/patreon)
 
 </div>
 
