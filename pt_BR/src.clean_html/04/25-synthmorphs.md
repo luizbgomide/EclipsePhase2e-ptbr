@@ -20,7 +20,7 @@ Sintemorfos por filtrar os receptores de dor, para eles não serem prejudicados 
 
 ### Imunidade a Choques
 
-Sintemorfos não possuem um sistema nervoso para desestabilizar, e seus eletrônicos ópticos são cuidadosamente protegidos de interferências. No entanto, ataque de choque interrompem temporariamente comunicações de rádio sem fio, impedindo todas as ações da mesh até o final do próximo turno de ação.
+Sintemorfos não possuem um sistema nervoso para desestabilizar, e seus eletrônicos ópticos são cuidadosamente protegidos de interferências. Ataque de choque interrompem temporariamente comunicações de rádio sem fio, impedindo todas as ações da mesh até o final do próximo turno de ação.
 
 ### Durabilidade Ambiental
 
