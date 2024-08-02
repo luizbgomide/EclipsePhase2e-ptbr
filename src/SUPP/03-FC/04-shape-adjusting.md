@@ -30,25 +30,16 @@ The process of reshaping sometimes inhibits a flexbot’s physical actions. For 
 
 It is, of course, entirely possible to set a module aside while it adjusts its shape, re-incorporating it once the process is finished.
 
-Shape-Changing Requirements
-Alteration Timeframe Physical Actions Modifier Description
-Superficial Changes 1d6 action turns — Non-structural permutations such as altering surface texture
-Minor Changes 1d6 minutes –10 Assembling Minor complexity gear, extruding a limb, shape changes that involve
-up to 25% of volume/mass
-Moderate Changes 1d6 × 10 minutes –30 Assembling Moderate complexity gear, mobility systems, shape changes that
-involve up to 50% of volume/mass, disguise
-Major Changes 1d6 hours ongoing task action Reconfigurations that involve over 50% of volume/mass
-
 <blockquote class="table">
 
 ### Shape-Changing Requirements
 
-| Alteration          | Timeframe        | Physical Actions Modifier | Description                                                                                                          |
-| :------------------ | :--------------: | :-----------------------: | :------------------------------------------------------------------------------------------------------------------- |
-| Superficial Changes | 1d6 action turns | —                         | Non-structural permutations such as altering surface texture                                                         |
-| Minor Changes       | 1d6 minutes      | –10                       | Assembling Minor complexity gear, extruding a limb, shape changes that involve up to 25% of volume/mass              |
-| Moderate Changes    | 1d6 × 10 minutes | –30                       | Assembling Moderate complexity gear, mobility systems, shape changes that involve up to 50% of volume/mass, disguise |
-| Major Changes       | 1d6 hours        | ongoing task action       | Reconfigurations that involve over 50% of volume/mass                                                                |
+| Alteration          |    Timeframe     | Physical Actions Modifier | Description                                                                                                           |
+| :------------------ | :--------------: | :-----------------------: | :-------------------------------------------------------------------------------------------------------------------- |
+| Superficial Changes | 1d6 action turns |             —             | Non-structural permutations such as altering surface texture.                                                         |
+| Minor Changes       |   1d6 minutes    |            −10            | Assembling Minor complexity gear, extruding a limb, shape changes that involve up to 25% of volume/mass.              |
+| Moderate Changes    | 1d6 × 10 minutes |            −30            | Assembling Moderate complexity gear, mobility systems, shape changes that involve up to 50% of volume/mass, disguise. |
+| Major Changes       |    1d6 hours     |    ongoing task action    | Reconfigurations that involve over 50% of volume/mass.                                                                |
 
 </blockquote>
 
@@ -70,7 +61,9 @@ Operators are not bound to only adhere to these pre-set shapes. Smart matter can
 
 ### Form Alterations
 
-As described in the core book, smart matter allows a module to alter its shape, height, width, circumference, and external features, all while retaining the same mass. A typical flexbot module is 0.75 m high × 0.75 m long × 0.25 m wide and about 35 kg in mass. While these dimensions can be altered, extensions of mass can impact the protective capabilities of the flexbot’s frame and armor. A module (and by extension, a whole flexbot) can alter its forms in the following ways:
+As described in the core book, smart matter allows a module to alter its shape, height, width, circumference, and external features, all while retaining the same mass. A typical flexbot module is 0.75 m high × 0.75 m long × 0.25 m wide and about 35 kg in mass. While these dimensions can be altered, extensions of mass can impact the protective capabilities of the flexbot’s frame and armor.
+
+A module (and by extension, a whole flexbot) can alter its forms in the following ways:
 
 - Compress itself up to 25% in any dimension by extending mass in another dimension.
 - Compress itself up to 50% in any dimension by extending mass in another dimension. Reduce AV by 25%.
@@ -79,7 +72,7 @@ As described in the core book, smart matter allows a module to alter its shape, 
 - Extend itself up to double its size along any dimension. Reduce AV by 50%.
 - Extend itself up to 50% along one dimension and up to double along another. Reduce AV by 75%. A module extended in this fashion is considered medium size instead of small. A multi-module flexbot increases its size category one step.
 
-Some other specific form-alteration ideas are discussed under [Flexbot Tricks](05-flexbot-tricks.md). Note that individual flexbot modules are not designed to split apart; any attempt to divide one into pieces will severely damage it.
+Some other specific form-alteration ideas are discussed under [Flexbot Tricks](../03-FC/05-flexbot-tricks.md). Note that individual flexbot modules are not designed to split apart; any attempt to divide one into pieces will severely damage it.
 
 ### Gear Assembly
 
@@ -95,18 +88,18 @@ Items that incorporate advanced electronics, complex designs, or specialized com
 
 **Extra Limbs:** Note that extra sets of limbs count as Minor ware.
 
-**Mobility Systems:** Flexbots can assemble any mechanical mobility systems, which is almost all of them ([Movement Types](../../12/24-movement.md#movement-types) _EP2_). Ionic and thrust vector (rocket) systems are beyond the capabilities of smart matter. Note that flexbots aren’t buoyant in water or most fluids, requiring a swim bladder, flotation, or ballast to adopt boat or submarine movement.
+**Mobility Systems:** Flexbots can assemble any mechanical mobility systems, which is almost all of them ([Movement Types](../../12/24-movement.md#movement-types) in _EP2_). Ionic and thrust vector (rocket) systems are beyond the capabilities of smart matter. Note that flexbots aren’t buoyant in water or most fluids, requiring a swim bladder, flotation, or ballast to adopt boat or submarine movement.
 
 <blockquote>
 
 ## Alternative Gear Assembly
 
-The rules for shape-changing described here are meant to reflect transhumanity's technology level and a modicum of scientific plausability. If they don't tickle your sensors, we present three alternative methods for handling shape adjusting:
+The rules for shape-changing described here are meant to reflect transhumanity’s technology level and a modicum of scientific plausability. If they don’t tickle your sensors, we present three alternative methods for handling shape adjusting:
 
 **Pre-Sets:** Ditch the free-form gear assembly. Instead, each module comes with 6 points of pre-programmed gear pre-sets. Minor complexity gear costs 1 point, Moderate costs 2. The module can assemble only gear it has pre-sets for. It may still alter its form per normal. Pre-sets cannot be changed.
 
 **Blueprints:** Instead of free-form assembly, modules can only assemble gear for which they have an assembly blueprint. These blueprints are not the same as nanofab blueprints, but do have the same complexity. Each module comes with 6 points of blueprints installed; a Minor complexity item costs 1, Moderate costs 2.
 
-**Cinematic:** Some players want flexbots that can shape-change in the middle of a combat scene. Normally, such rapid changing would be confined to higher technology levels, such as TITAN machines. If you're willing to hand-wave this for more cinematic action, then allow Minor complexity gear to be assembled in a single action turn, while Moderate takes two turns.
+**Cinematic:** Some players want flexbots that can shape-change in the middle of a combat scene. Normally, such rapid changing would be confined to higher technology levels, such as TITAN machines. If you’re willing to hand-wave this for more cinematic action, then allow Minor complexity gear to be assembled in a single action turn, while Moderate takes two turns.
 
 </blockquote>

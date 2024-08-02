@@ -22,9 +22,9 @@ This mod only functions with shape adjusting ware. Your smart material construct
 
 ### Smart Mass
 
-Your module has the capability to share its smart matter with other modules that also have smart mass ware. Up to 75% of your DUR may be transferred. If taking on mass from another module, you may not raise your DUR to more than double its base value. Transferring or absorbing mass will affect a module's size. If you transfer away more than 50% of a module's DUR, reduce its AV by 25%.
+Your module has the capability to share its smart matter with other modules that also have smart mass ware. Up to 75% of your DUR may be transferred. If taking on mass from another module, you may not raise your DUR to more than double its base value. Transferring or absorbing mass will affect a module’s size. If you transfer away more than 50% of a module’s DUR, reduce its AV by 25%.
 
-Damaged smart matter can be transferred or discarded, at the cost of reduced DUR. If the damaged DUR exceeds your module's Wound Threshold, you may also transfer/discard 1 wound. If the damaged DUR exceeds Wound Threshold × 2, you may discard 2 wounds, and so on. A module with smart mass and medichines can repair damaged smart mass taken from other modules.
+Damaged smart matter can be transferred or discarded, at the cost of reduced DUR. If the damaged DUR exceeds your module’s Wound Threshold, you may also transfer/discard 1 wound. If the damaged DUR exceeds Wound Threshold × 2, you may discard 2 wounds, and so on. A module with smart mass and medichines can repair damaged smart mass taken from other modules.
 
 ## Other Ware
 
@@ -51,12 +51,12 @@ Synthmorphs with this mod do not have a frame, but they receive AV 4/0 and only 
 
 ## Modularized Gear
 
-| Modularized Gear | Comp/<wbr>GP       | Description                                                   |
-| :--------------- | :----------------: | :------------------------------------------------------------ |
-| Modularized Gear | Increase one level | Makes gear item modularized; can be incorporated into flexbot |
+| Modularized Gear |    Comp/<wbr>GP    | Description                                                    |
+| :--------------- | :----------------: | :------------------------------------------------------------- |
+| Modularized Gear | Increase one level | Makes gear item modularized; can be incorporated into flexbot. |
 
 Gear can be converted into a modular configuration by increasing its Complexity one step (i.e., from Minor/1 to Moderate/2).
 
-Modularized gear of very small size can be be directly integrated into a module as if it were ware. Very small modularized gear is physically attached and cannot be dropped, pickpocketed, or disarmed. It may also be retracted inside the module, making it extremely difficult to access or detect (treat as concealed; ▶311 EP2). No more than three pieces of modular gear may be installed in a given module. Devices that are directional or that require fine manipulation or aim, such as laser links and covert operation tools, must be installed on a weapon mount or limb with articulated motion to be useful.
+Modularized gear of very small size can be be directly integrated into a module as if it were ware. Very small modularized gear is physically attached and cannot be dropped, pickpocketed, or disarmed. It may also be retracted inside the module, making it extremely difficult to access or detect (treat as [concealed](../../16/01-gear-rules.md#concealing-gear) in _EP2_). No more than three pieces of modular gear may be installed in a given module. Devices that are directional or that require fine manipulation or aim, such as laser links and covert operation tools, must be installed on a weapon mount or limb with articulated motion to be useful.
 
 Modularized gear of small size or larger is treated as a full module, just like a bot. Assume devices have AV 6/4 and DUR of 10 (small), 20 (medium), 30 (large), or 40 (very large) for stat purposes and no mobility systems (subject to GM discretion).

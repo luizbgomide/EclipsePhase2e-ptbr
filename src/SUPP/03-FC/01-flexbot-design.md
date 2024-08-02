@@ -40,7 +40,7 @@ The process of adding and removing modules impacts the size and functionality of
 
 ### Remote Modules
 
-Modules that aren’t physically melded with the flexbot’s form can be remotely controlled ([Remote Operation](../../16/21-robots.md#remote-operations) in _EP2_) just like any other drone. They may also operate autonomously as independent flexbots under the control of an ALI, a fork, or another ego, but they can't be operated as if they were extensions of the occupant’s morph.
+Modules that aren’t physically melded with the flexbot’s form can be remotely controlled ([Remote Operation](../../16/21-robots.md#remote-operations) in _EP2_) just like any other drone. They may also operate autonomously as independent flexbots under the control of an ALI, a fork, or another ego, but they can’t be operated as if they were extensions of the occupant’s morph.
 
 If a module is not physically connected to the flexbot core, is not remotely operated, or is not operating autonomously, then it goes into dormant mode. It cannot be treated as an extension of the flexbot unless it is re-incorporated or remotely operated.
 

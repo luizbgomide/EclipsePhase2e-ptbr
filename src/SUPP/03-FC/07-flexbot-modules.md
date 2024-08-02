@@ -34,7 +34,7 @@ Apiary modules are carriers for nanoswarm hives.
 
 ### Aviary Module
 
-Aviary modules are bot carriers. While any bot can be integrated as a flexbot module, aviaries provide a protective enclosure for the bots and a hive to keep them repaired. They can hold 1 small bot or 5 very small bots. for nanoswarm hives.
+Aviary modules are bot carriers. While any bot can be integrated as a flexbot module, aviaries provide a protective enclosure for the bots and a hive to keep them repaired. They can hold 1 small bot or 5 very small bots.
 
 <blockquote class="indent stat-list">
 
@@ -53,7 +53,7 @@ Aviary modules are bot carriers. While any bot can be integrated as a flexbot mo
 
 ### Bard Module
 
-Bard modules are for equipped for communications and social and media events.
+Bards are equipped for communications, social and media events.
 
 <blockquote class="indent stat-list">
 
@@ -94,7 +94,7 @@ Clerics are for emergency medical services.
 
 ### Conjurer Module
 
-Mini-swarmanoid that attaches to a flexbot.
+A conjurer is a mini-swarmanoid that attaches to a flexbot.
 
 <blockquote class="indent stat-list">
 
@@ -110,13 +110,13 @@ Mini-swarmanoid that attaches to a flexbot.
 - **Movement Rate:** Hopper 4/12, Rotor 4/20, Walker 2/8
 - **Ware:** 360-Degree Vision, Skinlink
 - **Morph Traits:** Exotic Morphology (Level 3)
-- **Notes:** Swarm attack (DV 1d6, ignores armor, blinding), comes with specialized conjurer hive, follows rules for [swarms](../../16/20-nanoswarms-and-microswarms.md). Conjurer swarms do not affect a flexbot’s gestalt Movement Rate; when not disconnected they ride along on other modules.
+- **Notes:** Swarm attack (DV 1d6, ignores armor, blinding), comes with specialized conjurer hive, follows rules for [swarms](../../16/20-nanoswarms-and-microswarms.md) (_EP2_). Conjurer swarms do not affect a flexbot’s gestalt Movement Rate; when not disconnected they ride along on other modules.
 
 </blockquote>
 
 ### Crafter Module
 
-Crafters are engineer modules, specialized in construction and fabrication.
+Engineer modules, specialized in construction and fabrication.
 
 <blockquote class="indent stat-list">
 
@@ -201,7 +201,7 @@ Wizard modules specialize in infosec and communications tasks.
 Each flexbot is considered a single entity for rules purposes, no matter how many modules it has. Though the full range of flexbot possibilities is beyond the scope of this book, apply the following rules and keep an eye on past and future Eclipse Phase supplements:
 
 - Choose one module to hold the ego — this module controls the others.
-- (Dis)connecting a module is a complex action and requires an [Integration Test](../../15/02-resleeving.md#integration-test). Modules not physically connected are handled as [remote operation](../../16/21-robots.md#remote-operations).
+- (Dis)connecting a module is a complex action and requires an [Integration Test](../../15/02-resleeving.md#integration-test) (_EP2_). Modules not physically connected are handled as [remote operation](../../16/21-robots.md#remote-operations) (_EP2_).
 - When modules are combined, use their combined pools.
 - Modules must all be using the same mobility system or Movement Rate is halved.
 - A flexbot with 3–4 modules is medium-sized; 5–9 large; 10 or more very large.
