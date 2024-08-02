@@ -43,7 +43,7 @@ This mod only functions with shape adjusting ware. Your smart material construct
 
 ### Stealth Coating
 
-Your shell is covered with metamaterials with a negative refractive index. When activated, both electromagnetic and acoustic waves bend around you, making you invisible to such sensors (including sight and sonar). Apply −60 to Perceive Tests to spot you, attacks against you are blind (–30 to hit with a 50% miss chance). Even if you are detected, you appear hazy and insubstantial (–30 to hit).
+Your shell is covered with metamaterials with a negative refractive index. When activated, both electromagnetic and acoustic waves bend around you, making you invisible to such sensors (including sight and sonar). Apply −60 to Perceive Tests to spot you, attacks against you are blind (−30 to hit with a 50% miss chance). Even if you are detected, you appear hazy and insubstantial (−30 to hit).
 
 The coating is tunable; you can pass specific frequency ranges (i.e., you can be stealthed to infrared but not radar). You can also make the electromagnetic coating one-way, so that you can transmit out while being stealthed at the same frequency, but such transmissions can be used to detect you.
 

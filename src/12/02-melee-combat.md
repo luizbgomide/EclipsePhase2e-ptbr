@@ -127,7 +127,7 @@ These modifiers apply to close-combat attacks.
 | Charging                                          |       −10, +1d6&nbsp;DV        |
 | Extra Weapon (Attack)                             |          +1d6&nbsp;DV          |
 | Extra Weapon (Defense)                            |              +10               |
-| Grappling                                         |
+| Grappling                                         |                                |
 | <div class="indent">» Smaller-Size Opponent</div> |       +20 per size step        |
 | <div class="indent">» Larger-Size Opponent</div>  |       −20 per size step        |
 | <div class="indent">» 2+ Limbs Advantage</div>    |              +20               |

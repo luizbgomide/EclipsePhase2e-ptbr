@@ -2,7 +2,7 @@
 
 | SOCIAL WARE       | Ware Type | Comp/<wbr>GP | Description                                                |
 | :---------------- | :-------: | :----------: | :--------------------------------------------------------- |
-| Gait Mask         |    CH     |   Min/1/R    | –30 to gait-detection sensors.                             |
+| Gait Mask         |    CH     |   Min/1/R    | −30 to gait-detection sensors.                             |
 | Implant Mask      |    CH     |    Min/1     | One C/H ware made concealable, −30 to detect with sensors. |
 | Mimicry Module    |    CHM    |    Mod/2     | +10 Deceive, +30 impersonating specific target after test. |
 | QE Implant        |    CH     |    Maj/3     | QE Comm + micro qubit reservoir; 1 min video/1 hr voice.   |
@@ -14,7 +14,7 @@ When activated, this ware creates subtle but measurable changes to your leg stru
 
 ### Implant Mask
 
-Implant mask is not a separate ware, but a modification to an existing cybernetic or hardware enhancement. The masked ware is modified with smart materials that reduce its signature and hide it from security systems. Treat the ware as concealed (–30 to sensor tests to detect).
+Implant mask is not a separate ware, but a modification to an existing cybernetic or hardware enhancement. The masked ware is modified with smart materials that reduce its signature and hide it from security systems. Treat the ware as concealed (−30 to sensor tests to detect).
 
 ### Mimicry Module
 
@@ -29,4 +29,4 @@ This is an implanted version of the [QE Comm](../../../16/16-comms-and-mesh-gear
 
 ### Skeletal Disguise
 
-This implanted system is designed to disguise your skeletal pattern in sensor readings. It can be used to simply alter the readings (–30 to pattern match with sensors) or to match a specific skeletal pattern.
+This implanted system is designed to disguise your skeletal pattern in sensor readings. It can be used to simply alter the readings (−30 to pattern match with sensors) or to match a specific skeletal pattern.
