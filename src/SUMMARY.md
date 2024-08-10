@@ -298,5 +298,6 @@
   - [Shape Adjusting](SUPP/03-FC/04-shape-adjusting.md)
   - [Flexbot Tricks](SUPP/03-FC/05-flexbot-tricks.md)
   - [Upgrades](SUPP/03-FC/06-upgrades.md)
+  - [Flexbot Modules](SUPP/03-FC/07-flexbot-modules.md)
   - [Flexbot FAQ](SUPP/03-FC/08-flexbot-faq.md)
   - [Assembly Examples](SUPP/03-FC/09-assembly-examples.md)

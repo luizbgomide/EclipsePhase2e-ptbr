@@ -1,4 +1,4 @@
-## Flexbot Modules
+# Flexbot Modules
 
 All flexbot except conjurers have the following stats plus the stats for their module type.
 

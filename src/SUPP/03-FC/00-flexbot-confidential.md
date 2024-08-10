@@ -86,7 +86,7 @@ Markdown formatting and adaptation done by Luiz Borges Gomide and Ava Harris.
     - [Convertible Form](../03-FC/06-upgrades.md#convertible-form)
     - [Oozeware](../03-FC/06-upgrades.md#oozeware)
   - [Modularized Gear](../03-FC/06-upgrades.md#modularized-gear)
-  - [Flexbot Modules](../03-FC/07-flexbot-modules.md#flexbot-modules)
+- [Flexbot Modules](../03-FC/07-flexbot-modules.md)
     - [Apiary Module](../03-FC/07-flexbot-modules.md#apiary-module)
     - [Aviary Module](../03-FC/07-flexbot-modules.md#aviary-module)
     - [Bard Module](../03-FC/07-flexbot-modules.md#bard-module)
