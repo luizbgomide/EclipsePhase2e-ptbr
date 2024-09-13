@@ -59,11 +59,10 @@ Aquanauts are environmentally adapted for underwater activities while still func
 
 <!-- CLEANED /blockquote -->
 
-| **AQUANAUT**                                                                                                                                                                                                                                                              |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Skinwalker:** The base models don’t have the depth range of a selkie or synth, but aquanauts are great whenever you need to function both underwater and on land. It takes some time acclimating to the transition from water- to air-breathing and vice-versa, though. |
-| **Plasmid:** A small hypercorp called ParaLife has made some interesting progress with an aquanaut strain that is completely amphibian: ectothermic, can breathe through their skin, and so on. Drawback is that they’re                                                  |
-| **slimy:** specialized glands keep their skin moist out of water.                                                                                                                                                                                                         |
+| **AQUANAUT**                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skinwalker:** The base models don’t have the depth range of a selkie or synth, but aquanauts are great whenever you need to function both underwater and on land. It takes some time acclimating to the transition from water- to air-breathing and vice-versa, though.              |
+| **Plasmid:** A small hypercorp called ParaLife has made some interesting progress with an aquanaut strain that is completely amphibian: ectothermic, can breathe through their skin, and so on. Drawback is that they’re slimy: specialized glands keep their skin moist out of water. |
 
 ## Ariel
 

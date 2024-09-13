@@ -285,10 +285,10 @@ Capitalizing on the popularity of octomorphs, this stylized squid is designed fo
 
 </blockquote>
 
-| **FLYING SQUID**                                                                                                                                                                                                                                                                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Delta-V:** Quite an interesting ride, but useless in any non-aquatic environment with gravity.                                                                                                                                                                                                                |
-| **Pivo:** You hear about that situation on Atlantica? A certain neo-whale there ate a couple of folks sleeved in flying squid morphs. They claimed they couldn’t tell ‘em apart from their nonsapient squid feedstock. Word on the waves is that some sort of black market deal went sour.                      |
+| **FLYING SQUID**                                                                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Delta-V:** Quite an interesting ride, but useless in any non-aquatic environment with gravity.                                                                                                                                                                                                               |
+| **Pivo:** You hear about that situation on Atlantica? A certain neo-whale there ate a couple of folks sleeved in flying squid morphs. They claimed they couldn’t tell ‘em apart from their nonsapient squid feedstock. Word on the waves is that some sort of black market deal went sour.                     |
 | **Expat:** I know some reclaimers who came across a group of flying squid morphs while doing recon on Earth, looking for a deep sea sanctuary. The squid scattered before they could make contact. Interesting thing is: these morphs were first designed after the Fall. So why are they showing up on Earth? |
 
 ## Hypergibbon
@@ -351,8 +351,7 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 | **NOVACRAB**                                                                                         |
 | :--------------------------------------------------------------------------------------------------- |
 | **Expat:** These things squick me out when they eat.                                                 |
-| **Just Mortal:** The question everyone wants to know                                                 |
-| **is:** how do their legs taste?                                                                     |
+| **Just Mortal:** The question everyone wants to know is: how do their legs taste?                    |
 | **Sun Bu’er:** An exhuman I once spoke to told me they were “delicious, but not as good as splicer.” |
 
 ## Pleasure Pod
@@ -412,7 +411,7 @@ Developed by the genehackers of Fortean, ripwings are neogenetic avian chimeras,
 
 </blockquote>
 
-| **RIPWING**                                                                                                                                                                                                                                                                                                                  |
+| **RIPWING**                                                                                                                                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nevermore:** I’ve seen more and more young neo-avian uplifts sleeving into ripwings. While the old biomorphs certainly feel better, the ripwing has a certain durability to it that lets you get away with more mistakes and a rougher approach to life. If I were four or five years younger, I’d probably get one myself. |
 | **Cymascopist:** Aren’t you only sixteen?                                                                                                                                                                                                                                                                                     |
@@ -618,10 +617,9 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 
 </blockquote>
 
-| **WORKER POD**                                                                                                                                                                            |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nezumi:** Despite being pods, these are often favored as cheap morphs over synths. They’re especially popular with criminal and radical groups whose members identify as working class. |
-| **Ammonite:** There’s a shadow war going on between two inner-system pod production                                                                                                       |
-| **houses:** Replicant and Ota Lifeworks. It’s grown from patent infringement to black ops and tailored viruses targeting each other’s products.                                           |
+| **WORKER POD**                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nezumi:** Despite being pods, these are often favored as cheap morphs over synths. They’re especially popular with criminal and radical groups whose members identify as working class.                                       |
+| **Ammonite:** There’s a shadow war going on between two inner-system pod production houses: Replicant and Ota Lifeworks. It’s grown from patent infringement to black ops and tailored viruses targeting each other’s products. |
 
 </div>

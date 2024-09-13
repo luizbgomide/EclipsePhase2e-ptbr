@@ -219,8 +219,7 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Pivo:** The best part about watching humans sleeve into octomorphs is how weirded out you get about the arms having minds of their own. Human limbs seem dumb and lifeless by comparison.                                                                                                  |
 | **Ruqinzhe:** For non-octopi, it can take a while to get used to, but these things are excellent for infiltration ops. You’d be surprised how many facilities gear their security towards humanoid-sized intruders or synthetics. There are usually lots of places an octomorph can exploit. |
-| **Sun Bu’er:** There’s a group of exhuman uplifts who like to engulf their victims with scary                                                                                                                                                                                                |
-| **octomorphs:** bone plates, hooks on the arms, tailored toxin production, and custom smart-material beaks that deform to allow them to squeeze into very, very small places.                                                                                                                |
+| **Sun Bu’er:** There’s a group of exhuman uplifts who like to engulf their victims with scary octomorphs: bone plates, hooks on the arms, tailored toxin production, and custom smart-material beaks that deform to allow them to squeeze into very, very small places.                      |
 
 ## Neo-Orangutan
 
