@@ -24,7 +24,7 @@ E-locks use one of several authentication systems, or sometimes a combination of
 Though various technologies exist to defeat each of these systems, there are three methods that work against almost all e-locks:
 
 - **COT:** A [covert operations tool](../16/17-espionage-and-security-tech.md) infiltrates a lock with nanobots that swarm in and engage the electronic mechanism. The drawback is that its use may be logged or an alarm triggered. Some e-locks are equipped with [guardian nanoswarms](../16/20-nanoswarms-and-microswarms.md#swarms) to defeat COTs, but the COT nanobots usually manage to open the lock before the guardians disable them.
-- **Hacking:** Most e-locks are slaved to a security system, so an intruder that hacks the security network can open the lock from within. This can be difficult, however, especially if the security system is wirelessly isolated or hardwired. If done right, however, all evidence of the lock being opened can be erased.
+- **Hacking:** Most e-locks are puppeted to a security system, so an intruder that hacks the security network can open the lock from within. This can be difficult, however, especially if the security system is wirelessly isolated or hardwired. If done right, however, all evidence of the lock being opened can be erased.
 - **Physical Tampering:** The third method is to physically open the lock’s casing and then trigger the mechanism to open the door. This is handled as two separate Hardware: Electronics task actions with a timeframe of 1 minute each. Most e-locks have anti-tamper circuits that will set off an alarm if the attacker does not achieve a superior success when opening the case.
 
 ### Invisible Doors
@@ -73,7 +73,7 @@ Wireless inhibitors are simple paint jobs or construction materials that block r
 
 ## Sensor Scans
 
-Numerous sensors ([Senses and Sensors](../16/07-senses-and-sensors.md)) are deployed to monitor and record the passage of people and things. These sensors are typically slaved to a security network and monitored by ALIs, meaning they are vulnerable to hacking and possibly jamming.
+Numerous sensors ([Senses and Sensors](../16/07-senses-and-sensors.md)) are deployed to monitor and record the passage of people and things. These sensors are typically puppeted to a security network and monitored by ALIs, meaning they are vulnerable to hacking and possibly jamming.
 
 When an operator is perceiving through the sensor (like watching a video), use Perceive skill. When the sensor itself is doing the detection work, use Interface skill. They are opposed with Infiltrate.
 

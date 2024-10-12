@@ -220,7 +220,7 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Operator:** An infomorph optimized for piloting drones.
 - **Oversight:** The Planetary Consortium agency that polices financial matters and protects the Consortium from external threats.
 - **Ozma:** An extra-governmental inner-system cabal.
-- **PAN:** Personal Area Network. The network of personal electronics slaved to your ecto or mesh inserts.
+- **PAN:** Personal Area Network. The network of personal electronics puppeted to your ecto or mesh inserts.
 - **Pandora Gates:** The wormhole gateways discovered after the disappearance of the TITANs.
 - **Pax Familae:** The criminal cartel composed of one person, Claudia Ambelina, and her clones and forks.
 - **Plurality:** The Titanian cyberdemocracy.

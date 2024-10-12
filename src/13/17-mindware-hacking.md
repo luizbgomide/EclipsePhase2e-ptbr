@@ -4,7 +4,7 @@ Pods, synthmorphs, and some bots, vehicles, and biomorphs are equipped with cybe
 
 ## Preconditions
 
-To hack a cyberbrain, you must be able to access the cyberbrain itself. Most cyberbrains are linked to mesh inserts and slaved to the user’s PAN, meaning they can be wirelessly accessed by hacking the PAN first. Cyberbrains are also equipped with access jacks on the exterior of the morph, so if you have physical access to the morph, you can plug in and access via a wired connection. If the subject is not willing or incapacitated, you must first successfully [grapple](../12/02-melee-combat.md#grappling) the target.
+To hack a cyberbrain, you must be able to access the cyberbrain itself. Most cyberbrains are linked to mesh inserts and puppeted to the user’s PAN, meaning they can be wirelessly accessed by hacking the PAN first. Cyberbrains are also equipped with access jacks on the exterior of the morph, so if you have physical access to the morph, you can plug in and access via a wired connection. If the subject is not willing or incapacitated, you must first successfully [grapple](../12/02-melee-combat.md#grappling) the target.
 
 To hack an infomorph, you must know its mesh ID and have access to its home device. This may mean you must first hack the device the infomorph is running on.
 

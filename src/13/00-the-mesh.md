@@ -7,7 +7,7 @@
   - [Your Online Presence](../13/01-everyware.md#your-online-presence)
     - [Privacy Mode](../13/01-everyware.md#privacy-mode)
 - [Mesh Topology](../13/02-mesh-topology.md)
-  - [Slaved Devices](../13/02-mesh-topology.md#slaved-devices)
+  - [Puppeted Devices](../13/02-mesh-topology.md#puppeted-devices)
   - [PANs: Personal Area Networks](../13/02-mesh-topology.md#pans-personal-area-networks)
   - [VPNs: Virtual Private Networks](../13/02-mesh-topology.md#vpns-virtual-private-networks)
   - [Tiered Systems](../13/02-mesh-topology.md#tiered-systems)
