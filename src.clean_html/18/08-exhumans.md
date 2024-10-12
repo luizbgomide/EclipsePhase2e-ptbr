@@ -70,7 +70,7 @@ Neurodes take excessive measures to amplify their intelligence, adopting the phy
 
 **Motivation:** +Increase Intelligence +Survival. Neurodes are the masterminds and manipulators behind many exhuman plots. They seek to steal and harness experimental neurotech and alien and TITAN technology.
 
-**Use:** A neurode’s mind is its primary weapon; it can think vortexes around most transhumans and will deploy traps and deception with sadistic glee. Neurodes always have backup and escape plans. They rarely engage in direct combat, protecting themselves with swarms of teleoperated drones, puppeted slaves, and exhuman minions.
+**Use:** A neurode’s mind is its primary weapon; it can think vortexes around most transhumans and will deploy traps and deception with sadistic glee. Neurodes always have backup and escape plans. They rarely engage in direct combat, protecting themselves with swarms of teleoperated drones, puppets, and exhuman minions.
 
 <!-- CLEANED blockquote class="ep-stats indent stat-list" -->
 

@@ -18,7 +18,7 @@ Any user can take these actions, though high-security systems may restrict some 
 - **Encrypt/Decrypt:** You can protect a file from prying eyes or access it with the proper authorization ([Encryption](../13/05-authentication-and-encryption.md#encryption)).
 - **Filter AR Mist:** You can attempt to remove spam and other obtrusive AR “mist” ([AR Mist and Filters](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identify Attacker:** You can try to identify someone trying to crash you in mesh combat ([Attack Awareness](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
-- **Issue Command:** You can command any slaved device, ALI, or teleoperated bot with only a quick action. Each command counts separately, though you may issue the same command to multiple devices/bots at once.
+- **Issue Command:** You can command any puppeted device, ALI, or teleoperated bot with only a quick action. Each command counts separately, though you may issue the same command to multiple devices/bots at once.
 - **Log Off:** Exit a system.
 - **Modify Files:** You can view, change, upload, download, and delete any files you have access privileges for. Deleted files can still be recovered with an Interface Test for 1 week, though you can also choose to wipe (permanently delete) a file so that no recovery is possible; however, archived backups may also exist.
 - **Operate Device:** Most devices have built-in hardware and electronic functions that you can directly control. Turn on your vehicle, load an autocook blueprint, turn up the heat, turn off the sprinklers, open the door, set a timer, fire a weapon system, adjust settings, etc. At the GM’s discretion, some functions may require skill tests.

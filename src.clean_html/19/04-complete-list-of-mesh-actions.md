@@ -14,24 +14,25 @@ Actions usually available to all users.
 - **Encrypt/Decrypt:** Encrypt or decrypt files ([Encryption](../13/05-authentication-and-encryption.md#encryption)).
 - **Filter AR Mist:** Remove obtrusive AR “mist” ([AR Mist and Filters](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identify Attacker:** You can attempt to identify someone attacking you in mesh combat ([Attack Awareness](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
-- **Issue Command:** Single command to a slaved device, ALI, or teleoperated bot (or group).
+- **Issue Command \[Q\]:** Single command to a puppeted device, ALI, or teleoperated bot (or group).
 - **Log Off:** Exit a system.
 - **Modify Files:** View, change, upload, download, and delete files.
 - **Operate Device:** Control a device. May require a skill test.
+- **Program Script \[T\]:** Compose a batch of instructions ([Scripting](../13/06-mesh-actions.md#scripting)).
 - **Run Script:** Launch a pre-programmed script ([Scripting](../13/06-mesh-actions.md#scripting)).
 - **Scan Stealthed Signals:** Find hidden wireless devices and their mesh IDs within range ([Stealthed Signals](../13/04-devices-apps-and-links.md#stealthed-signals)).
-- **Scan Wireless Signals:** Look up wireless devices and their mesh IDs within range.
-- **Search:** You may search a system you are accessing or the mesh at large ([Online Research](../13/09-online-research.md)).
+- **Scan Wireless Signals \[Q\]:** Look up wireless devices and their mesh IDs within range.
+- **Search \[T\]:** You may search a system you are accessing or the mesh at large ([Online Research](../13/09-online-research.md)).
 - **Shield Software:** Actively protect software in [mesh combat](../13/14-mesh-combat.md).
 - **Stealth Wireless Signals:** Hide your wireless activity ([Stealthed Signals](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Switch Home Device:** Move your infomorph virtual mind-state to another system.
 - **Terminate Software:** Kill minor software process.
-- **Toggle AR Skin:** Change the AR environment skin ([Skinning](../13/03-common-mesh-uses.md#skinning)).
-- **Toggle Privacy Mode:** Set public profile to private or public ([Privacy Mode](../13/01-everyware.md#privacy-mode))
+- **Toggle AR Skin \[Q\]:** Change the AR environment skin ([Skinning](../13/03-common-mesh-uses.md#skinning)).
+- **Toggle Privacy Mode \[Q\]:** Set public profile to private or public ([Privacy Mode](../13/01-everyware.md#privacy-mode))
 - **Toggle Simulspace:** Enter/exit simulspace ([Virtual Reality](../13/18-virtual-reality.md)).
 - **Use Apps:** Use various apps. May require an Interface Test.
 - **Use Service:** Use cloud-based apps. May require a subscription.
-- **View Apps:** See what apps are available and/or currently running.
+- **View Apps \[Q\]:** See what apps are available and/or currently running.
 - **View Profile:** View someone’s public social network profile and rep scores within range.
 - **View Sensor Feeds:** Stream sensor input to your AR. May require Perceive or Know Test.
 - **View System Status:** Determine system health, ongoing processes, security alerts, etc.
@@ -69,7 +70,7 @@ Only admin accounts are allowed to take these actions.
 - **Modify Accounts:** Add new accounts and remove old ones.
 - **Modify Privileges:** Add or remove specific privileges.
 - **Modify Software:** Install, remove, and update apps on the system.
-- **Wipe System:** Erase all data from the system, taking 1 minute for motes, 3 minutes for hosts, and 10 for servers.
+- **Wipe System \[T\]:** Erase all data from the system, taking 1 minute for motes, 3 minutes for hosts, and 10 for servers.
 
 <!-- CLEANED /div -->
 
@@ -79,7 +80,8 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 
 <!-- CLEANED div class="stat-list" -->
 
-- **(T) Break Encryption:** Decrypt an encrypted file ([Codebreaking](../13/05-authentication-and-encryption.md#codebreaking)).
+- **Break Encryption \[T\]:** Decrypt an encrypted file ([Codebreaking](../13/05-authentication-and-encryption.md#codebreaking)).
+- **Brute-Force Intrusion:** Barrage your target with a library of exploits ([Brute-Force Attacks](../13/11-hacking.md#brute-force-attacks)).
 - **Control Ware:** Manipulate a target’s ware.
 - **Disable Safety Mechanisms:** Override safety controls and alarms.
 - **Edit AR Feed:** Block or change AR input.
@@ -88,14 +90,15 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 - **Hide File or Process:** Conceal a file/process from others (opposed with Research Test at −30).
 - **Impair Senses:** Distract with AR overload. Interface Test, −10 modifier.
 - **Inject AR/Illusion:** Insert fake AR data into feed.
-- **Install Back Door:** Create a secret way back in to the system.
+- **Install Backdoor:** Create a secret way back in to the system.
 - **Install Blocker:** Pre-emptively block other users from specified actions.
 - **Jam Signals:** Jam specific or all wireless frequencies.
 - **Loop Sensor Feed:** Replace a live sensor feed with looped recordings.
 - **Modify TacNet:** Edit tacnet data, mark foes as friends.
+- **Subtle Intrusion \[T\]:** Quietly probe a target for vulnerabilities ([Subtle Intrusion](../13/11-hacking.md#subtle-intrusion))
+- **Sniff Traffic:** Sniff traffic between wireless devices ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
 - **Suppress Alarm:** Switch active alert to passive, or turn a passive alert off.
 - **Suppress Process:** Prevent a specified process from restarting.
-- **Sniff Traffic:** Sniff traffic between wireless devices ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
 - **Tap AR:** Monitor target’s AR feeds.
 - **Tap Senses:** Tap target’s sensorium.
 

@@ -52,7 +52,7 @@ Some systems accept your mesh ID as authentication. This is extremely common wit
 
 ### Other Account
 
-If you have access to an account on one system or service, and are logged in, this may give you automatic access to accounts on related systems or services. For example, having an account with a social network portal may give you free access to certain online news feeds or commercial data archives. This is also the method used for [slaved devices](../13/02-mesh-topology.md#slaved-devices), where access to the master device automatically grants you access to its slaved devices. Hackers favor going after master accounts as a way of accessing other systems.
+If you have access to an account on one system or service, and are logged in, this may give you automatic access to accounts on related systems or services. For example, having an account with a social network portal may give you free access to certain online news feeds or commercial data archives. This is also the method used for [puppeted devices](../13/02-mesh-topology.md#puppeted-devices), where access to the master device automatically grants you access to its puppeted devices. Hackers favor going after master accounts as a way of accessing other systems.
 
 ### Passcode
 

@@ -6,7 +6,7 @@ For millions of infugees, a digital form is their only choice. Some are locked a
 
 Many transhumans willingly choose the infomorph lifestyle, either for hedonism (custom simulspace and VR games until the end of time), escapism (misfortune leads them to write off physical concerns), freedom (going anywhere the mesh takes them — some have even beamed copies of themselves to distant star systems, hoping someone or something will receive their signal when they arrive), or experimentation (forking and merging, running simulations, and weirder things). Naturally, most infolife AGIs tend to prefer a digital existence over the banalities of the physical world.
 
-Though disembodied, infomorphs can interact with the physical world via the mesh, viewing through sensors, streaming XP feeds, communicating with characters, commanding slaved devices, and teleoperating bots.
+Though disembodied, infomorphs can interact with the physical world via the mesh, viewing through sensors, streaming XP feeds, communicating with characters, commanding puppeted devices, and teleoperating bots.
 
 ## Home Device
 

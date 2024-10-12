@@ -27,7 +27,7 @@ Medical care is not all that healing vats are used for — they are also the saf
 
 ## Hives
 
-Hives are specialized devices that manufacture and maintain [nanoswarms and microswarms](../16/20-nanoswarms-and-microswarms.md). A hive can fabricate and store thousands of nanobots or microbots (enough for a standard 10-cubic-meter swarm). It can manufacture a new swarm from scratch in hours (according to complexity, [Acquisition Time table](../16/02-acquiring-gear.md#acquisition-time)). A swarm that is depleted can be restored; hives “heal” 10 damage an hour to swarms in the form of replenished mites. Swarms are typically slaved to the hive they are launched from, for ease of control. Hives must be loaded with feedstock or they will eventually run out of raw materials ([Nanofabrication](../16/03-nanofabrication.md)).
+Hives are specialized devices that manufacture and maintain [nanoswarms and microswarms](../16/20-nanoswarms-and-microswarms.md). A hive can fabricate and store thousands of nanobots or microbots (enough for a standard 10-cubic-meter swarm). It can manufacture a new swarm from scratch in hours (according to complexity, [Acquisition Time table](../16/02-acquiring-gear.md#acquisition-time)). A swarm that is depleted can be restored; hives “heal” 10 damage an hour to swarms in the form of replenished mites. Swarms are typically puppeted to the hive they are launched from, for ease of control. Hives must be loaded with feedstock or they will eventually run out of raw materials ([Nanofabrication](../16/03-nanofabrication.md)).
 
 | HIVES            |  Comp/<!-- CLEANED wbr -->GP  | Description                            |
 | :--------------- | :------------: | :------------------------------------- |

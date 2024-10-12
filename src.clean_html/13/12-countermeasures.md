@@ -30,7 +30,7 @@ GMs can call for a Hacking Test whenever they feel a hacker may have exceeded no
 
 ## System Defender
 
-The firewall is but the first line of defense. Almost every system is also monitored by an entity known as its _system defender_. For most devices, this is the resident ALI. Characters skilled in infosec typically guard their own PANs; people who are not rely on their muses. Dedicated teams of operatives often slave their PANs to the group’s hacker, who can overwatch the entire group’s security.
+The firewall is but the first line of defense. Almost every system is also monitored by an entity known as its _system defender_. For most devices, this is the resident ALI. Characters skilled in infosec typically guard their own PANs; people who are not rely on their muses. Dedicated teams of operatives often puppet their PANs to the group’s hacker, who can overwatch the entire group’s security.
 
 System defenders have security if not admin privileges. If a passive or active alert is triggered, they are informed. Defenders are responsible for triggering non-automatic countermeasures.
 
@@ -104,7 +104,7 @@ The defender can attempt to crash the account shell of an intruder that has been
 
 ### Reboot/Shutdown
 
-The nuclear option for handling an interloper is to reboot or shut down the system. In this case, the system closes all connections to other systems, logs off users, terminates all processes, and shuts itself down — thereby booting out the intruder (at least temporarily). The disadvantage, of course, is that the system must interrupt its activities. For example, shutting down your mesh inserts means losing all communication with teammates, access to augmented reality, and control over slaved/linked devices. The intruder may attempt to access the system when it reboots, but if they don’t have account credentials or a back door, they will need to hack in again. Remote defenders will also need to take an action to log back in.
+The nuclear option for handling an interloper is to reboot or shut down the system. In this case, the system closes all connections to other systems, logs off users, terminates all processes, and shuts itself down — thereby booting out the intruder (at least temporarily). The disadvantage, of course, is that the system must interrupt its activities. For example, shutting down your mesh inserts means losing all communication with teammates, access to augmented reality, and control over puppeted/linked devices. The intruder may attempt to access the system when it reboots, but if they don’t have account credentials or a back door, they will need to hack in again. Remote defenders will also need to take an action to log back in.
 
 Initiating a reboot/shutdown only takes a complex action, but the actual shutdown process takes 1d6 action turns (motes and hosts) or 1d6 minutes (servers). Rebooting takes an equivalent amount of time.
 
@@ -134,7 +134,7 @@ Security-conscious systems will undergo an audit on a regular basis or after any
 
 Every system is unique and handles security differently. The GM maps out each system’s set-up.
 
-**Motes** are notorious for minimal security and outdated defenses. Sometimes, however, they are slaved to a controlling “chokepoint” node with better security (this is the case with most PANs).
+**Motes** are notorious for minimal security and outdated defenses. Sometimes, however, they are puppeted to a controlling “chokepoint” node with better security (this is the case with most PANs).
 
 **Host** defenses largely depend on the security consciousness of their owner. Muses act as system defender for mesh inserts and ectos.
 

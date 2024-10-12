@@ -51,7 +51,7 @@ To hide an object from others, use Infiltrate or Exotic Skill: Sleight of Hand s
 
 ## Meshed Gear
 
-Most technology is wirelessly meshed with other devices around it ([The Mesh](../13/00-the-mesh.md)). They contain a miniaturized computer, a wireless transceiver, and possibly laser or microwave links and/or various sensors. They can be [tracked via the mesh](../13/10-tracking.md#tracing-by-mesh-id), and are vulnerable to hacking and intrusion attempts, though protected by their [firewall](../13/12-countermeasures.md#firewall) and device [ALI](../13/07-ais-and-muses.md). For privacy and security, most people slave their carried and worn devices that make up their personal area network (PAN) to their mesh inserts or ecto ([Slaved Devices](../13/02-mesh-topology.md#slaved-devices)).
+Most technology is wirelessly meshed with other devices around it ([The Mesh](../13/00-the-mesh.md)). They contain a miniaturized computer, a wireless transceiver, and possibly laser or microwave links and/or various sensors. They can be [tracked via the mesh](../13/10-tracking.md#tracing-by-mesh-id), and are vulnerable to hacking and intrusion attempts, though protected by their [firewall](../13/12-countermeasures.md#firewall) and device [ALI](../13/07-ais-and-muses.md). For privacy and security, most people puppet their carried and worn devices that make up their personal area network (PAN) to their mesh inserts or ecto ([Puppeted Devices](../13/02-mesh-topology.md#puppeted-devices)).
 
 The Radio and Sensor Ranges table notes what range these devices operate at.
 

@@ -26,7 +26,7 @@ Dispersed swarms can be recollected and re-used. Collecting all the mites takes 
 
 ### Commanding Swarms
 
-Most swarms are meshed, usually slaved to their hive or directly to their deployer. You can issue commands to the swarm and receive data from it just as you would a bot. Swarms may also be programmed in advance. Complex instructions may require a Program Test; use the rules for [scripting](../13/06-mesh-actions.md#scripting).
+Most swarms are meshed, usually puppeted to their hive or directly to their deployer. You can issue commands to the swarm and receive data from it just as you would a bot. Swarms may also be programmed in advance. Complex instructions may require a Program Test; use the rules for [scripting](../13/06-mesh-actions.md#scripting).
 
 To prevent a swarm from being detected via their mesh signals, you can instruct it to only broadcast compressed messages/recordings at set intervals, or to only respond to set authorization signals.
 
