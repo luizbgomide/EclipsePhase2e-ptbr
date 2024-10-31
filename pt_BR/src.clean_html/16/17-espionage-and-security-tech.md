@@ -46,7 +46,7 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 
 **Desativador:** Este dispositivo prático emite um surto de sobrecarga que incapacita completamente um morfo com cibercérebro quando ele é plugado em um soquete de acesso e ativado. Para plugar um desativador em um alvo involuntário, você primeiro deve agarrá-lo ou fazer um ataque preciso em combate de luta. Este dispositivo não funciona em morfos, bots ou veículos sem cibercérebros.
 
-**Olho de Fibra:** Isto é cabo flexível de fibra óptica de 5 metros com uma câmera em uma ponta e um visualizador na outra. Ele pode ser manejado através de fendas, por baixo de portas, e por trás de quinas para espiar discretamente. Ele pode ser controlado remotamente/eletronicamente, embora o seu movimento seja limitado.
+**Olho de Fibra:** Isto é cabo flexível de fibra óptica de 5 metros com uma câmera em uma ponta e um visualizador na outra. Ele pode ser conduzido através de fendas, por baixo de portas, e por trás de quinas para espiar discretamente. Ele pode ser controlado remotamente/eletronicamente, embora o seu movimento seja limitado.
 
 **Caixa Cinza:** Esta interface sem fio de tamanho micro é usada para criar uma ligação da mesh sem fio com um dispositivo desconectado, cabeado ou isolado. As caixas cinza automaticamente [camuflam seus sinais](../13/04-devices-apps-and-links.md#stealthed-signals).
 
