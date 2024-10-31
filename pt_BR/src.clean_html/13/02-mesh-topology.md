@@ -4,9 +4,9 @@ Apesar da mesh com um todo consistir em inúmeros dispositivos, todos conectados
 
 ## Dispositivos Subordinados
 
-Alguns dispositivos são subordinados a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, componentes individuais de um sistema de segurança (portas, sensores, etc.) são geralmente subordinados de um nodo de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos subordinados é roteado através do mestre. Isto permite que um dispositivo subordinado dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo subordinado é redirecionado para o mestre, para autenticação e verificação de segurança.
+Alguns dispositivos são subordinados a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, componentes individuais de um sistema de segurança (portas, sensores, etc.) são geralmente subordinados de um nodo de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos subordinados é roteado através do mestre. Isso permite que um dispositivo subordinado dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo subordinado é redirecionado para o mestre, para autenticação e verificação de segurança.
 
-Dispositivos subordinados automaticamente aceitam comandos do seu dispositivo mestre. Isto significa que um hacker que invada o sistema mestre pode acessar e emitir comandos legitimamente para um dispositivo subordinado, assumindo que seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) permitam.
+Dispositivos subordinados automaticamente aceitam comandos do seu dispositivo mestre. Isso significa que um hacker que invada o sistema mestre pode acessar e emitir comandos legitimamente para um dispositivo subordinado, assumindo que seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) permitam.
 
 ## PANs: Redes de Área Pessoal
 
