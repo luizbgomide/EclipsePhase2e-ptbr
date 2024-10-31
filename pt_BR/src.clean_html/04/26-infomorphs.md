@@ -1,6 +1,6 @@
 # Infomorfos
 
-Os infomorfos são formas digitais — eles não tem um corpo físico. Eles são estados mentais de software em que os egos vivos são executados, apesar de poderem ser limitados pelas capacidades do hardware que os suporta. As regras para infomorfos podem ser encontradas em [Infomorfos](../13/08-infomorphs.md).
+Os infomorfos são formas digitais — eles não tem um corpo físico. Eles são estados mentais programáticos em que os egos vivos são executados, apesar de poderem ser limitados pelas capacidades da aparelhagem que os suporta. As regras para infomorfos podem ser encontradas em [Infomorfos](../13/08-infomorphs.md).
 
 ### Digimorfo
 
@@ -19,7 +19,7 @@ Digimorfos são emulações mentais básicas, embora sejam personalizáveis e am
 
 ---
 
-- **Ware:** Mnemônicos
+- **Wares:** Mnemônicos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 <!-- CLEANED /blockquote -->
@@ -41,7 +41,7 @@ Projetado para artistas online, ícones de mídia e socializadores, este infomor
 
 ---
 
-- **Ware:** Mnemônicos, Trava Memorial, Travacópia
+- **Wares:** Mnemônicos, Trava Memorial, Travacópia
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 <!-- CLEANED /blockquote -->
@@ -63,7 +63,7 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 
 ---
 
-- **Ware:** Mnemônicos, Segurança Aprimorada, Véu Digital
+- **Wares:** Mnemônicos, Segurança Aprimorada, Véu Digital
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 <!-- CLEANED /blockquote -->
@@ -85,7 +85,7 @@ Este infomorfo é ideal para profissões que envolvem operação remota de drone
 
 ---
 
-- **Ware:** Acoplagem Drone, Mnemônicos, Oráculos
+- **Wares:** Acoplagem Drone, Mnemônicos, Oráculos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 <!-- CLEANED /blockquote -->
