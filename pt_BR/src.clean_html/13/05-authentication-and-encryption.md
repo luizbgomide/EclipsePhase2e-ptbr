@@ -28,7 +28,7 @@ As contas de segurança destinam-se ao pessoal de segurança e ILAs que vigiam o
 
 ### Contas de Administrador
 
-As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer software. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e dispositivos de hardware, esta conta root geralmente pertence à pessoa na qual eles estão incorporados.
+As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer programa. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e aparelhos, esta conta root geralmente pertence à pessoa a qual eles estão incorporados.
 
 ## Métodos de Autenticação
 
@@ -52,7 +52,7 @@ Alguns sistemas aceitam sua mesh ID como autenticação. Isso é extremamente co
 
 ### Outra Conta
 
-Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Esse também é o método usados para [dispositivos escravos](../13/02-mesh-topology.md#slaved-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos escravos. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
+Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Este também é o método usados para [dispositivos subordinados](../13/02-mesh-topology.md#puppeted-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos subordinados. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
 
 ### Senha
 
@@ -60,7 +60,7 @@ O método de autenticação mais comum é a senha — uma sequência de caracter
 
 ### Chave de Acesso
 
-Sistema de chave de acesso pedem um código criptografado que está incorporado em um dispositivo físico (que está implantado ou fisicamente conectado a um ecto) ou extraído de um software especializado. As chaves de acesso avançadas combinam criptografia integrada com nanotecnologia de gravação física para criar uma chave única. Para acessar esses sistemas, a chave de acesso deve ser adquirida ou de alguma forma mascarada.
+Sistema de chave de acesso pedem um código criptografado que está incorporado em um dispositivo físico (que está implantado ou fisicamente conectado a um ecto) ou extraído de um programa especializado. As chaves de acesso avançadas combinam criptografia integrada com nanotecnologia de gravação física para criar uma chave única. Para acessar esses sistemas, a chave de acesso deve ser adquirida ou de alguma forma mascarada.
 
 ### Chave Quântica
 
