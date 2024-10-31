@@ -23,7 +23,7 @@ Formatação Markdown e adaptação feitas por Luiz Borges Gomide.
 
 - **Autoria e Desenvolvimento:** Rob Boyle
   - Assistência com atualizações de morfo por William Wilson.
-  - Morphs são baseados em versões anteriores que apareceram no _Sunward_, _Rimward_, _Gatecrashing_, _Panopticon_, _Transhuman_e o _Guia de Reconhecimento de Morfos_.
+  - Morfos são baseados em versões anteriores que apareceram em _Sunward_, _Rimward_, _Gatecrashing_, _Panopticon_, _Transhuman_e o _Guia de Reconhecimento de Morfos_.
 - **Direção da Arte:** Rob Boyle, Zoe Robinson
 - **Design Gráfico e Layout:** Adam Jury
 - **Arte da Capa:** Stephan Martiniere
