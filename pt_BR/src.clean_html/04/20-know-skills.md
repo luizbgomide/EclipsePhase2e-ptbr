@@ -78,7 +78,7 @@ Use áreas Profissionais para lembrar de conhecimentos especializados disponíve
 
 ## Usando Perícias de Saber
 
-Pode parecer que perícias de Saber tem menos aplicações no jogo do que perícias Ativas, mas elas não devem ser subestimadas. Elas possuem três grandes usos, o primeiro é analisar pistas e solucionar mistérios. Muitos cenários de Eclipse Phase são baseados ao redor dos perigos tecnológicos, encontros alienígenas e fenômenos científicos, e os personagens precisarão de uma boa variedade de perícias de Saber para desvendar o problema e encontrar soluções.
+Pode parecer que perícias de Saber tem menos aplicações no jogo do que perícias Ativas, mas elas não devem ser subestimadas. Elas possuem três grandes usos, o primeiro é analisar pistas e solucionar mistérios. Muitas aventuras de Eclipse Phase giram em torno dos perigos tecnológicos, encontros alienígenas e fenômenos científicos, e os personagens precisarão de uma boa variedade de perícias de Saber para desvendar o problema e encontrar soluções.
 
 Não menos importante, perícias de Saber são valiosas para ajudar os personagens — e os jogadores — a compreenderem o mundo de Eclipse Phase. Estas perícias podem ser usadas para avaliar uma situação, identificar pontos fortes e fracos, fazer planos, estimar valores, fazer comparações, prever resultados possíveis, ou compreender as ciências aplicadas, fatores socioeconômicos ou contextos culturais ou históricos. Dito isso, as perícias de Saber são ferramentas valiosas para os MJs ajudarem os jogadores, pedindo rolagens de perícias de Saber para ajudar a desenvolver detalhes do cenário do jogo que poderiam passar despercebidos ou não serem aparentes.
 
