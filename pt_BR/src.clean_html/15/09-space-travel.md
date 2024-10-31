@@ -2,7 +2,7 @@
 
 Viagens espaciais de longa distância levam tempo e são entediantes. Você vai preferir egoprojetar na maioria das vezes, a menos que você seja um bioconservador, esteja tentando ser discreto, ou em uma região com habitats próximos.
 
-Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambientação em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circunstâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
+Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambiente do cenário em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circunstâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
 
 ## Viagem Local
 

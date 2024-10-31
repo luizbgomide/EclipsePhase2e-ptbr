@@ -38,7 +38,7 @@ Se você adquirir ware com Pontos de Morfo ou Pontos de Equipamento ao mesmo tem
 
 ## Reencape e Pontos de Morfo
 
-Os Pontos de Morfo fornecidos pelo MJ são uma abstração representando o seguro de backup e recursos disponíveis aos PJs. No entanto, eles não são ilimitados. Se você morrer durante um cenário e tiver a chance de reencapar, o MJ pode e deve limitar os PM disponíveis. É recomendável que cada reencape sucessivo durante o curso de uma missão forneça 1 PM a menos do que estava disponível anteriormente (antes de aumentos por Recursos, rep ou traços); os MJs devem ajustar isso de acordo com às circunstâncias.
+Os Pontos de Morfo fornecidos pelo MJ são uma abstração representando o seguro de backup e recursos disponíveis aos PJs. No entanto, eles não são ilimitados. Se você morrer durante uma aventura e tiver a chance de reencapar, o MJ pode e deve limitar os PM disponíveis. É recomendável que cada reencape sucessivo durante o curso de uma missão forneça 1 PM a menos do que estava disponível anteriormente (antes de aumentos por Recursos, rep ou traços); os MJs devem ajustar isso de acordo com às circunstâncias.
 
 Se seu PJ tiver vários morfos (como flexbots ou extras usados para morfos, backups ou drones) e um morrer, você consegue apenas a quantidade de PM para substituição equivalente a esse morfo específico, menos 1.
 

@@ -14,24 +14,25 @@ Ações normalmente disponíveis para todos os usuários.
 - **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 - **Filtrar Névoa de RA:** Remover a “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
 - **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
-- **Emitir Comando:** Dar um único comando para um dispositivo escravo, ILA ou bot teleoperado (ou grupo).
+- **Emitir Comando \[R\]:** Dar um único comando para um dispositivo subordinado, ILA ou bot teleoperado (ou grupo).
 - **Deslogar:** Sair de um sistema.
 - **Modificar Arquivos:** Visualizar, alterar, fazer upload, download e excluir arquivos.
 - **Operar Dispositivo:** Controlar um dispositivo. Pode exigir um teste de perícia.
+- **Programar Script \[T\]:** Compor um lote de instruções ([Scripts](../13/06-mesh-actions.md#scripting)).
 - **Executar Script:** Iniciar um script pré-programado ([Scripts](../13/06-mesh-actions.md#scripting)).
 - **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
-- **Escanear Sinais Sem Fio:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
-- **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
-- **Proteger Software:** Proteger ativamente um software em um [combate na mesh](../13/14-mesh-combat.md).
+- **Escanear Sinais Sem Fio \[R\]:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
+- **Pesquisar \[T\]:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
+- **Proteger Programa:** Proteger ativamente um programa em um [combate na mesh](../13/14-mesh-combat.md).
 - **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu infomorfo para outro sistema.
-- **Encerrar Software:** Matar o processo de um software menor.
-- **Alternar Tema de RA:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
-- **Ativar Modo Privativo:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
+- **Encerrar Programa:** Matar o processo de um programa menor.
+- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
+- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
 - **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Usar Apps:** Usar vários apps. Pode exigir um Teste de Interface.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
-- **Ver Apps:** Ver quais apps estão disponíveis e/ou sendo executados.
+- **Ver Apps \[R\]:** Ver quais apps estão disponíveis e/ou sendo executados.
 - **Ver Perfil:** Ver o perfil público na rede social e os níveis de rep de alguém dentro do alcance.
 - **Ver Fluxos de Sensores:** Transmitir a entrada de sensores para sua RA. Pode exigir um Teste de Percepção ou Saber.
 - **Ver Status do Sistema:** Determinar a saúde do sistema, processos em andamento, alertas de segurança, etc.
@@ -68,8 +69,8 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 - **Desativar Sensores ou Funções de Dispositivo:** Desligar sensores ou outras funções físicas.
 - **Modificar Contas:** Adicionar novas contas e remover antigas.
 - **Modificar Privilégios:** Adicionar ou remover privilégios específicos.
-- **Modificar Software:** Instalar, remover e atualizar apps no sistema.
-- **Eliminar Sistema:** Apagar todos os dados do sistema, leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores.
+- **Modificar Programa:** Instalar, remover e atualizar apps no sistema.
+- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores.
 
 <!-- CLEANED /div -->
 
@@ -79,7 +80,8 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 
 <!-- CLEANED div class="stat-list" -->
 
-- **(T) Quebrar Criptografia:** Descriptografar um arquivo criptografado ([Criptoanálise](../13/05-authentication-and-encryption.md#codebreaking)).
+- **Quebrar Criptografia \[T\]:** Descriptografar um arquivo criptografado ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
+- **Invasão de Força-Bruta:** Borbardeie seu alvo com uma biblioteca de violações ([Ataque de Força Bruta](../13/11-hacking.md#brute-force-attacks)).
 - **Controlar Ware:** Manipular um ware do alvo.
 - **Desativar Mecanismos de Segurança:** Anular controles de segurança e alarmes.
 - **Editar Fluxo de RA:** Bloquear ou alterar a entrada de RA.
@@ -93,9 +95,10 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Bloquear Sinais:** Bloquear frequências sem fio específicas ou todas.
 - **Repetir Fluxo de Sensor:** Substituir um fluxo de sensor ao vivo com gravações repetidas.
 - **Modificar TacNet:** Editar dados da tacnet, marcar inimigos como amigos.
+- **Invasão Sutil \[T\]:** Sonde discretamente um alvo buscando vulnerabilidades ([Invasão Sutil](../13/11-hacking.md#subtle-intrusion)).
+- **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 - **Suprimir Alarme:** Trocar alerta ativo para passivo, ou desligar um alerta passivo.
 - **Suprimir Processo:** Impedir que um processo específico seja reiniciado.
-- **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 - **Grampear RA:** Monitorar os fluxos de RA do alvo.
 - **Grampear Sentidos:** Grampear o sensório do alvo.
 

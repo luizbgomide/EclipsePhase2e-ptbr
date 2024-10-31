@@ -1,12 +1,12 @@
 # Infomorfos
 
-Infomorfos são estados mentais virtuais, o software sobre o qual os egos são executados. Cada um deles é uma complexa variedade de pacotes que juntos emulam uma estrutura neural. Eles servem como o “corpo” digital para um ego, seja ele uma IA ou a emulação de uma mente biológica. Enquanto um backup é apenas um arquivo inativo, os infomorfos são softwares executáveis, programas ativos que levam o ego à vida eletrônica.
+Infomorfos são estados mentais virtuais, o programa sobre o qual os egos são executados. Cada um deles é uma complexa variedade de pacotes que juntos emulam uma estrutura neural. Eles servem como o “corpo” digital para um ego, seja ele uma IA ou a emulação de uma mente biológica. Enquanto um backup é apenas um arquivo inativo, os infomorfos são sistemas executáveis, programas ativos que levam o ego à vida eletrônica.
 
 Para milhões de infugiados, uma forma digital é sua única escolha. Alguns estão trancados em realidades virtuais, efetivamente aprisionados e separados da mesh. Outros são armazenados como arquivos desativados, esquecidos por habitats que não têm os recursos para acomodá-los. Outros se vendem ao serviço arrendado, realizando trabalho digital para hipercorps ou sindicatos criminais por uma ninharia, esperando desesperadamente acabar com créditos suficientes para comprar sua liberdade e uma capa barata. Muito poucos vagam livremente pela mesh, interagindo com o mundo físico através de RA e de bots. Alguns encontram companheiros para levá-los em um módulo de carona virtual, tornando-se parte integrante de suas vidas, muito parecido com uma musa.
 
 Muitos transumanos voluntariamente escolhem o estilo de vida infomorfo, seja por hedonismo (simulespaço personalizado e jogos de RV até o fim dos tempos), escapismo (infortúnios os leva esquecer as preocupações físicas), liberdade (indo a qualquer lugar que a mesh os leve — alguns até transmitem cópias de si mesmos a sistemas estelares distantes, esperando que alguém ou algo receba seu sinal quando chegar), ou experimentações (forqueando e mesclando, executando simulações, e coisas mais bizarras). Naturalmente, a maioria das infovidas de IGAs tende a preferir uma existência digital em vez das banalidades do mundo físico.
 
-Embora sem corpos, os infomorfos podem interagir com o mundo físico através da mesh, vendo através de sensores, assistindo fluxos de XP, comunicando-se com personagens, comandando dispositivos escravos e teleoperando bots.
+Embora sem corpos, os infomorfos podem interagir com o mundo físico através da mesh, vendo através de sensores, assistindo fluxos de XP, comunicando-se com personagens, comandando dispositivos subordinados e teleoperando bots.
 
 ## Dispositivo Habitado
 
@@ -48,7 +48,7 @@ Como um ser digital, você também pode se copiar. Isso leva um turno de ação 
 
 Infomorfos adquiridos de estúdios de código comerciais (ou seja, a maioria dos agentes, ikons e operadores) possuem restrições digitais embutidas que impedem que você rode mais de uma cópia desse morfo por vez. Em vez disso, a cópia é instanciada em um digimorfo padrão. Esta restrição de cópia pode ser crackeada da mesma maneira que os diagramas digitais ([Crackeando Diagramas](../16/03-nanofabrication.md#cracking-blueprints)). Casas de código oferecem recompensas por relatos de pessoas usando códigos crackeados de infomorfo.
 
-Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshware](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legalmente exigido.
+Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshwares](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legalmente exigido.
 
 ## Exclusão
 

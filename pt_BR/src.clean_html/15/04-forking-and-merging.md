@@ -45,7 +45,7 @@ Alterações adicionais podem ser aplicadas como indicado no [teste de desbaste 
 
 ### Forques Gama
 
-É extremamente raro que alguém crie um vapor propositalmente para qualquer coisa além de uso em pesquisa, embora eles possam aparecer em alguns lugares interessantes. Por exemplo, softwares de perícia mal feitos ocasionalmente incluem traços de personalidade e memórias suficientes da pessoa cuja perícia foi copiada, fazendo com que eles se comportem de forma parecida com vapores quando usados.
+É extremamente raro que alguém crie um vapor propositalmente para qualquer coisa além de uso em pesquisa, embora eles possam aparecer em alguns lugares interessantes. Por exemplo, programas de perícia mal feitos ocasionalmente incluem traços de personalidade e memórias suficientes da pessoa cuja perícia foi copiada, fazendo com que eles se comportem de forma parecida com vapores quando usados.
 
 Como os vapores são anomalias e não criações propositais, as características de forques gama individuais ficam a cargo do MJ. Eles devem ter alguns ou todos os seguintes: perícias reduzidas, aptidões e provas de aptidão reduzidas, memórias incompletas ou incoerentes, traços mentais negativos, e estresse mental ou trauma permanente, incluindo transtornos.
 

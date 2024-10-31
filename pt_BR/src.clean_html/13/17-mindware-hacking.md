@@ -4,7 +4,7 @@ Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com ci
 
 ## Precondições
 
-Para hackear um cibercérebro, você deve ser capaz de acessar o cibercérebro em si. A maioria dos cibercérebros está ligada aos insertos da mesh e é escrava da PAN do usuário, então eles podem ser acessados sem fios hackeando a PAN primeiro. Os cibercérebros também são equipados como soquetes de acesso no exterior do morfo, então, se você tem acesso físico ao morfo, você pode plugar e acessar através de uma conexão cabeada. Se o indivíduo não quiser ou não estiver incapacitado, você deve primeiro [agarrar](../12/02-melee-combat.md#grappling) o alvo com sucesso.
+Para hackear um cibercérebro, você deve ser capaz de acessar o cibercérebro em si. A maioria dos cibercérebros estão ligados aos insertos da mesh e subordinados à PAN do usuário, então eles podem ser acessados sem fios se a PAN for hackeada primeiro. Os cibercérebros também são equipados como soquetes de acesso no exterior do morfo, então, se você tem acesso físico ao morfo, você pode plugar e acessar através de uma conexão cabeada. Se o indivíduo não quiser ou não estiver incapacitado, você deve primeiro [agarrar](../12/02-melee-combat.md#grappling) o alvo com sucesso.
 
 Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu dispositivo habitado. Isto pode significar que você precisa primeiro hackear o dispositivo no qual o infomorfo está sendo executado.
 
@@ -42,7 +42,7 @@ A conexão entre um cibercérebro e o morfo em que reside pode ser temporariamen
 
 ### Hackear Mente do Ego
 
-Você pode hackear a mente do ego interno usando [psicocirurgia](../15/05-psychosurgery.md). Todos os procedimentos de psicocirurgia podem ser feitos, desde interrogatórios até alterações de memórias ou traços de personalidade. Como a psicocirurgia leva tempo e software especializado, isso geralmente está reservado para alvos que estão capturado e presos de alguma forma (forquestrados, presos em uma caixa-forte, fisicamente incapacitados, etc.).
+Você pode hackear a mente do ego interno usando [psicocirurgia](../15/05-psychosurgery.md). Todos os procedimentos de psicocirurgia podem ser feitos, desde interrogatórios até alterações de memórias ou traços de personalidade. Como a psicocirurgia precisa de tempo e programas especializados, isso geralmente está reservado para alvos que estão capturados e presos de alguma forma (forquestrados, presos em uma caixa-forte, fisicamente incapacitados, etc.).
 
 ### Modificar Meshware
 
@@ -54,7 +54,7 @@ Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro r
 
 ### Manipular Fantoche (Cibercérebro)
 
-Morfos com implantes de luva de fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#remote-operations)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
+Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#remote-operations)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
 
 ### Afligir Ego
 

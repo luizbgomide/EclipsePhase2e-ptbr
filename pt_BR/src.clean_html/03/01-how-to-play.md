@@ -1,6 +1,6 @@
 # Como Jogar
 
-Eclipse Phase é jogado como uma contação de histórias colaborativa que ocorre nas imaginações dos jogadores. O mestre do jogo (MJ) detalha o ambiente, representa os PNJs, julga as regras e prepara a cena para a aventura. Os jogadores assumem o papel dos seus personagens e descrevem suas ações. Cada personagem é definido por um conjunto de características — perícias, traços, etc. — listados em sua ficha de personagem. Quando os personagens encontram dificuldades ou se envolvem em conflitos com PNJs, dados são utilizados para determinar o resultado.
+Eclipse Phase é jogado como uma contação de histórias colaborativa que ocorre nas imaginações dos jogadores. O mestre do jogo (MJ) detalha o cenário, representa os PNJs, julga as regras e prepara a cena para a aventura. Os jogadores assumem o papel dos seus personagens e descrevem suas ações. Cada personagem é definido por um conjunto de características — perícias, traços, etc. — listados em sua ficha de personagem. Quando os personagens encontram dificuldades ou se envolvem em conflitos com PNJs, dados são utilizados para determinar o resultado.
 
 ## O Básico dos Dados
 

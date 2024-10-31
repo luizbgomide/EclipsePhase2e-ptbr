@@ -1,6 +1,6 @@
 # Combate Espacial
 
-O combate espacial realista não é cinemático. Ele ocorre primariamente em vastas distâncias (milhares de quilômetros), muito além do alcance visual. Os confrontos são curtos, mortais e decididos por software. Recomenda-se que o combate espacial seja tratado como um dispositivo de trama, parte da história de fundo que ajuda a criar drama e tensão, em vez de um evento em que os personagens possam participar ativamente.
+O combate espacial realista não é cinemático. Ele ocorre primariamente em vastas distâncias (milhares de quilômetros), muito além do alcance visual. Os confrontos são curtos, mortais e decididos por programas. Recomenda-se que o combate espacial seja tratado como um dispositivo de trama, parte da história de fundo que ajuda a criar drama e tensão, em vez de um evento em que os personagens possam participar ativamente.
 
 ## Armas e Enxames
 

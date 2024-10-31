@@ -82,7 +82,7 @@ O DNA é o seu meio artístico, e proteínas as suas armas preferidas.
 
 ## Hacker
 
-Os softwares se dobram à sua vontade, seja quando você quer invadir sistemas ou protegê-los.
+Os programas se dobram à sua vontade, seja quando você quer invadir sistemas ou protegê-los.
 
 |                                                |    |
 |:---------------------------------------------- | --:|

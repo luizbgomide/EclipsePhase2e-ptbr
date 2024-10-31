@@ -16,7 +16,7 @@ Alguns ataques, drogas, e truques psi infligem condições temporárias específ
 - **Incapacitado:** Você não pode fazer ações até se recuperar. Isso inclui ações mentais e Testes de Evasão; você não pode se defender contra ataques.
 - **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para este turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
 - **Atordoado:** Você perdeu completamente o fôlego. Você sofre −30 em todas as ações físicas e −10 em ações mentais.
-- **Inconsciente:** Você perdeu a consciência (ou seu estado mental de software travou) e está indefeso. Você pode ser acordado/reinicializado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
+- **Inconsciente:** Você perdeu a consciência (ou seu estado mental programático travou) e está indefeso. Você pode ser acordado/reinicializado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
 
 ## Defesa Total
 

@@ -28,7 +28,7 @@ Se você é novato em jogos de interpretação de papéis, você encontrará tud
 
 Este capítulo fornece uma visão geral resumida do jogo; recomendamos que todos deem uma olhada no resto dele.
 
-Se você é novo no jogo e está ansioso para começar a jogar, recomendamos escolher um dos [16 personagens prontos](../05/00-sample-characters.md) para começar. Esses personagens estão divididos em 4 equipes de 4, por isso recomendamos que você e seus amigos escolham a mesma equipe. Se você tiver mais de 4 jogadores, escolha os adicionais das outras equipes. Todas as equipes funcionam em jogos baseados na Firewall, com uma equipe otimizada para o Sistema Solar interior e uma equipe projetada para o sistema exterior. Uma das equipes é feita especificamente para desbravamento, e outra para cenários relacionados ao crime.
+Se você é novo no jogo e está ansioso para começar a jogar, recomendamos escolher um dos [16 personagens prontos](../05/00-sample-characters.md) para começar. Esses personagens estão divididos em 4 equipes de 4, por isso recomendamos que você e seus amigos escolham a mesma equipe. Se você tiver mais de 4 jogadores, escolha os adicionais das outras equipes. Todas as equipes funcionam em jogos baseados na Firewall, com uma equipe otimizada para o Sistema Solar interior e uma equipe projetada para o sistema exterior. Uma das equipes é feita especificamente para desbravamento, e outra para aventuras relacionadas ao crime.
 
 Se você preferir ir direto para a criação dos seus próprios personagens, prossiga para [Criando Personagens](../04/00-making-characters.md).
 

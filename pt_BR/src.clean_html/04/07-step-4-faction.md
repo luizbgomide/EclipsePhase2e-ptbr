@@ -40,6 +40,6 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Venusiano:** Você adere à visão da Constelação Estrela d'Alva para um hipercapitalismo mais socializado e amigável.
 
-**Regional:** Você é um Solariano, Garimpeiro, Cinturiano, Europano, Anelino ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
+**Regional:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
 
 <!-- CLEANED /blockquote -->

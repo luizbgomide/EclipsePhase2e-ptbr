@@ -26,7 +26,7 @@ Enxames dispersos podem ser recolhidos e reutilizados. Coletar todos os ácaros 
 
 ### Comandando Enxames
 
-A maioria dos enxames está na mesh, geralmente como escravos da colmeia ou diretamente do liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripting).
+A maioria dos enxames está na mesh, geralmente subordinadas à sua colmeia ou diretamente ao seu liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripting).
 
 Para evitar que um enxame seja detectado por seus sinais da mesh, você pode instrui-lo para só transmitir mensagens/gravações compactadas em intervalos predefinidos, ou para apenas responder a sinais de autorização específicos.
 
@@ -48,9 +48,9 @@ Em seu volume total, as unidades de enxame são consideradas alvos muito grandes
 
 Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evitar carregar parte do enxame com você.
 
-### Ware
+### Wares
 
-Enxamenoides e enxames podem ser equipados com ware, como os robôs. Os MJs devem usar o bom senso quando decidir qual ware é permitido; a maioria dos meshware e nanoware é aceitável, mas hardware como pneumáticos não é.
+Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs devem usar o bom senso quando decidir quais wares são permitidos; a maioria dos meshwares e nanowares são aceitáveis, mas equipawares como pneumáticos não são.
 
 ### Desgaste
 

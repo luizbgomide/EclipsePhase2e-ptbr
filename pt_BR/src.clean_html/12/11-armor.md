@@ -57,7 +57,7 @@ Itens listados com um + antes do VA são acessórios ou leves o bastante para n�
 
 Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará suspeitas ou atrairá a atenção da polícia na maioria dos habitats. Os VAs menores são considerados ocultáveis, recebendo um bônus +30 na perícia Infiltração para escondê-los da percepção visual, com exceção de alguns itens volumosos e óbvios, como trajes de vácuo, blindagens dérmicas, blindagens de escamas e macacões de segurança ativados.
 
-## Ware de Armadura
+## Wares de Armadura
 
 **Biotrama:** As camadas dérmicas do morfo estão entrelaçadas com fibras de seda de aranha, oferecendo proteção sem alterar a aparência, textura ou sensibilidade da pele.
 

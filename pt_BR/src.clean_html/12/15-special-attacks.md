@@ -60,7 +60,7 @@ Um ataque preciso pode ser usado para atacar um local específico em seu oponent
 
 ## Armas Revestidas
 
-Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por ware como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#application-methods)).
+Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#application-methods)).
 
 ## Demolições
 

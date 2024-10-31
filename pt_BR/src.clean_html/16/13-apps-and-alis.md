@@ -1,10 +1,10 @@
 # Apps & ILAs
 
-Os softwares não são produtos tangíveis, então eles não podem ser nanofabricados.
+Os programas não são produtos tangíveis, então eles não podem ser nanofabricados.
 
 ## Apps
 
-Esses softwares podem ser executados em qualquer dispositivo computadorizado.
+Esses programas podem ser executados em qualquer dispositivo computadorizado.
 
 | APPS                  | Comp/<!-- CLEANED wbr -->PE | Descrição                                        |
 |:--------------------- |:-------------------------------------:|:------------------------------------------------ |
@@ -27,7 +27,7 @@ Esses softwares podem ser executados em qualquer dispositivo computadorizado.
 
 **Criptografia:** Este app gera pares de chaves, criptografa mensagens usando chaves públicas e descriptografa com chaves secretas ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 
-**Violação:** Uma biblioteca/ferramenta para hackers se aproveitarem de vulnerabilidades conhecidas de softwares. Necessário para hackear.
+**Violação:** Uma biblioteca e ferramenta hacker para se aproveitar de vulnerabilidades conhecidas de programas. Necessário para hackear.
 
 **Firewall:** Este app protege um dispositivo de uma invasão hostil. Todo dispositivo tem um por padrão.
 

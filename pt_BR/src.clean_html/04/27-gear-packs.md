@@ -10,7 +10,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#muses) de graça.
 
-**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Neste caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshware, apps, serviços, bots, etc. de valor de PE equivalente.
+**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Neste caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshwares, apps, serviços, bots, etc. de valor de PE equivalente.
 
 ## Pacotes de Campanha
 
@@ -197,7 +197,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                  |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------- |
 | [Confurte (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
-| [Enguiônicos](../12/02-melee-combat.md#melee-ware)                        |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
+| [Enguiware](../12/02-melee-combat.md#melee-ware)                          |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
 | [Ponte de Ego](../16/19-nanotech.md)                                      |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | [Multitarefa](../16/08-mental-augmentations.md)                           |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | [Servidor Privado](../16/04-services.md#mesh-services)                    |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
