@@ -19,7 +19,7 @@ Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 | Máscara de Prisioneiro                 |                 Men/1                 | Bloqueia visão/audição aprimorada, bloqueia sinais de mesh/radio.                                     |
 | Cápsula Privativa                      |                 Mai/3                 | Bloqueia sons e sinais da mesh, inclui fritador, enxame guardião, suporte vital (24 horas).           |
 | Bloqueador de Psi                      |                 Mod/2                 | Bloqueia frequências de ondas cerebrais a até 20&nbsp;m, −30 em Testes Psi.                           |
-| Computador Quântico                    |                 Mai/3                 | Usado para [criptoanálise](../13/05-authentication-and-encryption.md#codebreaking).                   |
+| Computador Quântico                    |                 Mai/3                 | Usado para [quebra de código](../13/05-authentication-and-encryption.md#codebreaking).                |
 | Devassador                             |                Mod/R/2                | PEM a cada 5 turnos, VD 3d10 em nanoenxames/microenxames.                                             |
 | Túnica                                 |                Mod/R/2                | Bloqueia métodos de identificação, sinais da mesh.                                                    |
 | Almofadas de Tração                    |                 Mod/2                 | +30 em Testes de Atletismo para escalada.                                                             |
@@ -62,7 +62,7 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 
 **Bloqueador de Psi:** Este dispositivo bloqueia as frequências usadas pelas ondas cerebrais em um raio de 20 metros. Isso não tem efeito nas funções cerebrais, mas ele inflige um modificador −30 no uso de qualquer truque psi de distância dentro da área de efeito.
 
-**Computador Quântico:** Estes dispositivos de mesa avançados usam computação quântica, permitindo que eles trabalhem com números extremamente grandes com facilidade. Isso os torna úteis especialmente para [criptoanálise](../13/05-authentication-and-encryption.md#codebreaking).
+**Computador Quântico:** Estes dispositivos de mesa avançados usam computação quântica, permitindo que eles trabalhem com números extremamente grandes com facilidade. Isso os torna úteis especialmente para [quebra de código](../13/05-authentication-and-encryption.md#codebreaking).
 
 **Devassador:** Quando ativado, este dispositivo portátil de contravigilância gera um pulso eletromagnético a cada 5 turnos de ação, projetado para danificar as antenas de ciscos e nanoenxames. Ele é usado para “devassar” os sensores em uma área, destruindo sua habilidade de comunicação sem fio e criando [zonas mortas](../13/19-surveillance-hacking.md#dead-zones). Os devassadores afetam todos os ciscos/enxames em um raio de 20 metros. Os ciscos devem ser reparados/substituídos; nanoenxames e microenxames (incluindo enxamenoides) sofrem VD 3d10 por pulso.
 
