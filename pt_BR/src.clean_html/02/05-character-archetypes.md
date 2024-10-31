@@ -60,7 +60,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED /blockquote -->
 
-**Negociadores:** Este personagem tem o dom do papo e a rep para usá-lo. Atravessadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
+**Negociadores:** Este personagem tem o dom do papo e a rep para usá-lo. Facilitadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
 
 <!-- CLEANED blockquote class="indent" -->
 
@@ -86,7 +86,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 ## Técnico
 
-O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hardware ou software. O técnico é o herói quando o suporte vital está acabando ou a IA ficou hostil. Durante o combate, o técnico pode desligar as ferramentas do inimigo ou fornecer observadores para os personagens de combate. Os personagens técnicos mais comuns são:
+O técnico se especializa em utilizar, reparar e abusar da tecnologia, tanto aparelhagens quanto programas. O técnico é o herói quando o suporte vital está acabando ou a IA ficou hostil. Durante o combate, o técnico pode desligar as ferramentas do inimigo ou fornecer observadores para os personagens de combate. Os personagens técnicos mais comuns são:
 
 **Hackers:** Os hackers são críticos por sua capacidade de obter dados durante uma investigação. Gravações de câmeras, lifelogs esquecidos e manifestos de cargas ilegais em depósitos abandonados, todos contém sujeiras esperando para serem escavadas. O hacker também se mantém ocupado arrumando a bagunça do seu próprio grupo, apagando logs de câmeras e pegadas digitais. Em combate hackers são letais. Contanto que sua equipe arranje algum tempo, os hackers podem ejetar os pentes das armas, travar a mira automática dos sistemas de segurança, abrir câmaras de ar atrás de inimigos, ou até mesmo desativar sintemorfos ofensivos.
 
@@ -96,7 +96,7 @@ O técnico se especializa em utilizar, reparar e abusar da tecnologia, seja hard
 
 <!-- CLEANED /blockquote -->
 
-**Engenheiro:** Quando a equipe acorda em uma estação sendo consumida por uma gosma cinza em uma órbita decadente e com o assento do comandante travado, sobra para o engenheiro salvar o dia. O engenheiro possui uma gama de perícias mecânicas e de hardware para consertar o que está quebrado ou modificar outra coisa para fazer o trabalho.
+**Engenheiro:** Quando a equipe acorda em uma estação sendo consumida por uma gosma cinza em uma órbita decadente e com o assento do comandante travado, sobra para o engenheiro salvar o dia. O engenheiro possui uma gama de perícias mecânicas e de aparelhagem para consertar o que está quebrado ou modificar outra coisa para fazer o trabalho.
 
 <!-- CLEANED blockquote class="indent" -->
 
