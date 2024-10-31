@@ -50,7 +50,7 @@ Em ambientes de alta pressão (superfície de Vênus, oceano subsuperficial de E
 
 ## Portas de Passagem
 
-Uma porta de passagem é simplesmente metade de uma câmara de ar. As passagens são instaladas em locais estratégicos, para que segmentos do habitat/nave possam ser fechados e isolados no caso de uma despressurização, surto biológico, invasão física, ou outros cenários de emergência. As passagens seguem todas as regras de câmaras de ar, menos o tempo necessário para ciclar o ar.
+Uma porta de passagem é simplesmente metade de uma câmara de ar. As passagens são instaladas em locais estratégicos, para que segmentos do habitat/nave possam ser fechados e isolados no caso de uma despressurização, surto biológico, invasão física, ou outras situações de emergência. As passagens seguem todas as regras de câmaras de ar, menos o tempo necessário para ciclar o ar.
 
 ## Cascos e Superestrutura
 
