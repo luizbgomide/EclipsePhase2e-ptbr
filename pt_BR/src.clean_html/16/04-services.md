@@ -4,7 +4,7 @@ Crédito e ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
 
 ## Serviços da Mesh
 
-Esses serviços de software estão disponíveis como uma assinatura mensal de servidores na nuvem. Todos os apps também estão disponíveis como serviços da mesh.
+Esses serviços programáticos estão disponíveis como uma assinatura mensal de servidores na nuvem. Todos os apps também estão disponíveis como serviços da mesh.
 
 | SERVIÇOS DA MESH             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                |
 |:---------------------------- |:-------------------------------------:|:------------------------------------------------------------------------ |
