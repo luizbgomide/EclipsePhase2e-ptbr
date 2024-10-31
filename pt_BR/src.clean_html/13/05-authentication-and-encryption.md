@@ -52,7 +52,7 @@ Alguns sistemas aceitam sua mesh ID como autenticação. Isso é extremamente co
 
 ### Outra Conta
 
-Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Este também é o método usados para [dispositivos subordinados](../13/02-mesh-topology.md#puppeted-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos subordinados. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
+Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Esse também é o método usados por [dispositivos subordinados](../13/02-mesh-topology.md#puppeted-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos subordinados. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
 
 ### Senha
 
@@ -92,7 +92,7 @@ Existem dois tipos de criptografia comumente usadas em Eclipse Phase: chave púb
 
 ### Criptografia de Chave Pública
 
-Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Criptoanálise Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps de farejamento exploram falhas na implementação do protocolo que lhes permite capturar, contornar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
+Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Quebra de Código Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps de farejamento exploram falhas na implementação do protocolo que lhes permite capturar, contornar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
 
 ### Criptografia de Chave Quântica
 
@@ -100,10 +100,10 @@ Sistema de distribuição de chave quântica usam mecânica quântica para permi
 
 Embora os sistemas de chaves quânticas tenham uma vantagem sobre os sistemas de chave pública, eles são mais caros e menos práticos. Para gerar uma chave quântica, os dois dispositivos de comunicação devem estar entrelaçados em nível quântico no mesmo local, e depois separados. Isso significa que os canais de comunicação com criptografia quântica exigem algum esforço de preparação, especialmente se longas distâncias estiverem envolvidas. Como resultado, os protocolos de criptografia quântica são reservados para ligações de comunicação de alta segurança.
 
-### Criptoanálise
+### Quebra de Código
 
-O que isto significa é que os arquivos criptografados com chaves públicas são relativamente seguros e as comunicações com criptografia quântica são completamente seguras. Os MJs devem reparar que isso pode ser útil para os PCs, mas também pode atrapalhá-los. Se os PCs precisarem de algo que está criptografado, eles podem precisar implementar métodos sem hackeamento para obter a chave secreta/senha ou encontrar alguma maneira de contornar completamente a criptografia.
+O que tudo isso significa é que os arquivos criptografados com chaves públicas são relativamente seguros e as comunicações com criptografia quântica são completamente seguras. Os MJs devem reparar que isso pode ser útil para os PCs, mas também pode atrapalhá-los. Se os PCs precisarem de algo que está criptografado, eles podem precisar implementar métodos além de hackeamento para obter a chave secreta/senha ou encontrar alguma maneira de contornar completamente a criptografia.
 
-### Criptoanálise Quântica
+### Quebra de Código Quântica
 
 Os computadores quânticos podem ser usados para quebrar a criptografia de chave pública. Essa é uma ação de tarefa de Infoseg com um prazo de 1 semana. Uma vez iniciado, o computador quântico finaliza o trabalho por conta própria; não é necessária uma supervisão constante. Esse processo não se beneficia de simulespaços de tempo acelerado. Os MJs devem modificar esse prazo para se encaixar nas necessidades de seus jogos. Observe que os computadores quânticos não podem quebrar as comunicações com criptografia quântica, somente arquivos criptografados com chaves públicas.
