@@ -28,7 +28,7 @@ To brute-force a target, make a Hacking Test. The intruder suffers a −30 modif
 
 The preferred method of owning a target is to quietly and systematically probe it, analyze its setup and software, and determine the most likely vulnerabilities. Subtle intrusion is a task action with a timeframe of 1 hour (GMs may alter this timeframe for heavily secured or unprotected systems). Make a Hacking Test. If you succeed, you have gained access to the target system with user-level [access privileges](../13/05-authentication-and-encryption.md#accounts--access-privileges) and covert status [Intruder Status](../13/11-hacking.md#intruder-status). Each superior success increases your privileges one step (first to security then to admin level). On a critical success, you have [hidden status](../13/11-hacking.md#hidden); the defender remains unaware of the intrusion. Both superior and critical results may apply.
 
-If the firewall succeeds but loses the opposed test, a passive alert is triggered [Security Alerts](../13/12-countermeasures.md#security-alerts). If the firewall wins the opposed test, you fail to get in and the system goes on [passive alert](../13/12-countermeasures.md#passive-alert).
+If the firewall succeeds but loses the opposed test, a passive alert is triggered ([Security Alerts](../13/12-countermeasures.md#security-alerts)). If the firewall wins the opposed test, you fail to get in and the system goes on [passive alert](../13/12-countermeasures.md#passive-alert).
 
 ### Joint Hacking
 

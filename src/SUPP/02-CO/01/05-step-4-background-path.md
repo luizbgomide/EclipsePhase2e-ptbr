@@ -52,7 +52,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-14} Lunar
+### \{00-14\} Lunar
 
 - **Bio**: You remember the Moon before it was crowded.
 
@@ -94,7 +94,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {15-39} Martian
+### \{15-39\} Martian
 
 - **Bio**: You help establish the red planet’s colony cities.
 
@@ -135,7 +135,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-54} Orbital
+### \{40-54\} Orbital
 
 - **Bio**: You overlook the Earth.
 
@@ -176,7 +176,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {55-64} Rimward Colonist
+### \{55-64\} Rimward Colonist
 
 - **Bio**: You settle Titan, the Main Belt, or an outer-system moon.
 
@@ -216,7 +216,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {65-79} Rural Martian
+### \{65-79\} Rural Martian
 
 - **Bio**: You homestead the Martian outback.
 
@@ -256,7 +256,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-89} Spacer
+### \{80-89\} Spacer
 
 - **Bio**: You grow up on or work the ships that bring life to the colonies.
 
@@ -297,7 +297,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {90-99} Sunward Colonist
+### \{90-99\} Sunward Colonist
 
 - **Bio**: You settle on Venus, Mercury, or a smaller inner-system hab.
 
@@ -347,7 +347,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-19} Ascendor
+### \{00-19\} Ascendor
 
 - **Bio**: Against the odds, you work your way up from the poverty of the underclasses.
 
@@ -387,7 +387,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {20-39} Corporate Drifter
+### \{20-39\} Corporate Drifter
 
 - **Bio**: You bounce between hypercorp positions.
 
@@ -426,7 +426,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-59} Corporate Favorite
+### \{40-59\} Corporate Favorite
 
 - **Bio**: You enjoy a steady corporate gig.
 
@@ -465,7 +465,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-79} Inheritor
+### \{60-79\} Inheritor
 
 - **Bio**: You benefit from generational wealth.
 
@@ -505,7 +505,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-99} Opportunist
+### \{80-99\} Opportunist
 
 - **Bio**: You claw your way into the enclaves via criminal endeavors.
 
@@ -557,7 +557,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-19} Nomad
+### \{00-19\} Nomad
 
 - **Bio**: You move a lot, chasing work and avoiding climate problems and unrest.
 
@@ -597,7 +597,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {20-39} Precarious
+### \{20-39\} Precarious
 
 - **Bio**: You get by, but work and simple existence are tenuous.
 
@@ -638,7 +638,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-59} Self-Reliant
+### \{40-59\} Self-Reliant
 
 - **Bio**: You survive by DIY means.
 
@@ -677,7 +677,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-79} Steady
+### \{60-79\} Steady
 
 - **Bio**: You live in relative stability.
 
@@ -717,7 +717,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-99} Surrounded by Wolves
+### \{80-99\} Surrounded by Wolves
 
 - **Bio**: You live and work in an area rife with corruption and lawlessness.
 
@@ -768,7 +768,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-19} Breakthrough
+### \{00-19\} Breakthrough
 
 - **Bio**: You have the right idea at the right time.
 
@@ -808,7 +808,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {20-39} Hypercorp Royalty
+### \{20-39\} Hypercorp Royalty
 
 - **Bio**: Your family is among the business elites.
 
@@ -849,7 +849,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-59} Media Famous
+### \{40-59\} Media Famous
 
 - **Bio**: Your family is often in the spotlight.
 
@@ -889,7 +889,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-79} Oligarch Dynasty
+### \{60-79\} Oligarch Dynasty
 
 - **Bio**: Your family is rich, well-connected, and private.
 
@@ -930,7 +930,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](./
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-99} Space Entrepreneur
+### \{80-99\} Space Entrepreneur
 
 - **Bio**: Your family makes its fortunes off-worlds.
 
@@ -982,7 +982,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-14} Drone Operator
+### \{00-14\} Drone Operator
 
 - **Bio**: You manipulate machines from afar.
 
@@ -1022,7 +1022,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {15-24} Educator
+### \{15-24\} Educator
 
 - **Bio**: You teach or train others.
 
@@ -1062,7 +1062,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {25-39} Emancipated
+### \{25-39\} Emancipated
 
 - **Bio**: You work your way to freedom off-world.
 
@@ -1102,7 +1102,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-59} Labor Camps
+### \{40-59\} Labor Camps
 
 - **Bio**: You toil off-world.
 
@@ -1145,7 +1145,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-69} Private Staff
+### \{60-69\} Private Staff
 
 - **Bio**: You serve the hyperelites or corporate leadership.
 
@@ -1185,7 +1185,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {70-84} Vac Worker
+### \{70-84\} Vac Worker
 
 - **Bio**: You build habitats or ships.
 
@@ -1227,7 +1227,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {85-99} Virtual Worker
+### \{85-99\} Virtual Worker
 
 - **Bio**: You wrangle data in corporate systems.
 
@@ -1276,7 +1276,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-09} Anomaly
+### \{00-09\} Anomaly
 
 - **Bio**: Your codebase is not based on standard human mind patterns.
 
@@ -1316,7 +1316,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {10-24} Emergent Uplift
+### \{10-24\} Emergent Uplift
 
 - **Bio**: You are a smart machine that was on the cusp of achieving intelligence when the programmers reshaped you.
 
@@ -1356,7 +1356,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {25-49} Humanities AGI
+### \{25-49\} Humanities AGI
 
 - **Bio**: You are designed to understand and interact with humans.
 
@@ -1397,7 +1397,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {50-74} Machine AGI
+### \{50-74\} Machine AGI
 
 - **Bio**: Your mind is optimized for controlling apps and hardware.
 
@@ -1436,7 +1436,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {75-84} Part Human
+### \{75-84\} Part Human
 
 - **Bio**: Your codeline is merged with the neural patterns of a human fork.
 
@@ -1476,7 +1476,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {85-99} Research AGI
+### \{85-99\} Research AGI
 
 - **Bio**: You are optimized for investigation, data analysis, and scientific endeavors.
 
@@ -1524,7 +1524,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-24} Drifter
+### \{00-24\} Drifter
 
 - **Bio**: You wander the outskirts of transhuman space.
 
@@ -1566,7 +1566,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {25-49} Religious Sect
+### \{25-49\} Religious Sect
 
 - **Bio**: Your cult or religious group establishes an off-world haven.
 
@@ -1606,7 +1606,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {50-74} Separatist
+### \{50-74\} Separatist
 
 - **Bio**: Your people are dissidents, persecuted minorities, refugees, or others who seek safety on the fringes.
 
@@ -1648,7 +1648,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {75-99} Survivalist
+### \{75-99\} Survivalist
 
 - **Bio**: Your family fears trouble on Earth and bunkers down off-world.
 
@@ -1697,7 +1697,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-09} Alien Mind
+### \{00-09\} Alien Mind
 
 - **Bio**: Your mind is nothing like those around you.
 
@@ -1736,7 +1736,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {10-34} Disturbed Child
+### \{10-34\} Disturbed Child
 
 - **Bio**: You bear permanent mental scars that are often apparent to others.
 
@@ -1777,7 +1777,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {35-59} Long Past Normal
+### \{35-59\} Long Past Normal
 
 - **Bio**: You pass yourself as normal, but there are deep cracks in your foundation.
 
@@ -1815,7 +1815,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-79} Masked Monster
+### \{60-79\} Masked Monster
 
 - **Bio**: You are a sociopath, but you hide it well.
 
@@ -1857,7 +1857,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-99} Twisted Experiment
+### \{80-99\} Twisted Experiment
 
 - **Bio**: Your oddness is palpable.
 
@@ -1908,7 +1908,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-19} Criminal
+### \{00-19\} Criminal
 
 - **Bio**: You make a living by the only means available to you.
 
@@ -1950,7 +1950,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {20-39} Radical
+### \{20-39\} Radical
 
 - **Bio**: You fight against oppressive systems.
 
@@ -1990,7 +1990,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {40-59} Refugee
+### \{40-59\} Refugee
 
 - **Bio**: You are forced to flee war or climate catastrophe.
 
@@ -2029,7 +2029,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {60-79} Street Rat
+### \{60-79\} Street Rat
 
 - **Bio**: You navigate the challenges of your class with deftness.
 
@@ -2072,7 +2072,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {80-99} Survivor
+### \{80-99\} Survivor
 
 - **Bio**: You do what it takes to get by.
 
@@ -2123,7 +2123,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {00-24} Escapee
+### \{00-24\} Escapee
 
 - **Bio**: You escape or are liberated from your patron hypercorp.
 
@@ -2162,7 +2162,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {25-44} Feral
+### \{25-44\} Feral
 
 - **Bio**: You are not as humanized as other uplifts.
 
@@ -2203,7 +2203,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {45-69} Lab Rat
+### \{45-69\} Lab Rat
 
 - **Bio**: You are a test subject or corporate slave.
 
@@ -2244,7 +2244,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](./0
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
 
-### {70-99} Model Specimen
+### \{70-99\} Model Specimen
 
 - **Bio**: You are proof of the success of transhumanity’s uplift project.
 
