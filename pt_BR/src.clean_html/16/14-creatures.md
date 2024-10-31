@@ -17,7 +17,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12 ou Asas 8/32
-- **Ware:** Blindagem Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
+- **Wares:** Blindagem Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 40, Evasão 30, Infiltração 30, Luta 40, Percepção 30, Provocação 30 (Intimidação 40)
 - **Notas:** Mordida/Chifre/Cauda VD 1d6 \[4\], Tamanho Pequeno
 
@@ -29,7 +29,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Asas 8/32
-- **Ware:** Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
+- **Wares:** Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 50, Luta 40, Percepção 30
 - **Notas:** Picada de enxame VD 1d10 \[6\] (ignora armadura não selada)
 
@@ -39,7 +39,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes
+- **Wares:** Almofadas Aderentes
 - **Perícias:** Atletismo 30, Evasão 30, Infiltração 50, Percepção 20, Queda Livre 30
 - **Notas:** Tamanho Pequeno
 
@@ -49,7 +49,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/20
-- **Ware:** Olfato Aprimorado
+- **Wares:** Olfato Aprimorado
 - **Perícias:** Atletismo 30, Evasão 40, Infiltração 30, Infiltração 30, Percepção 20, Queda Livre 30
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
@@ -80,7 +80,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Ampliação Muscular, Amplificador de Reflexos, Audição Aprimorada, Blindagem Dérmica, Cibercortéx, Garras, Insertos da Mesh, Luva de Fantoche, Olfato Aprimorado, Visão Aprimorada
+- **Wares:** Ampliação Muscular, Amplificador de Reflexos, Audição Aprimorada, Blindagem Dérmica, Cibercortéx, Garras, Insertos da Mesh, Manípulo Fantoche, Olfato Aprimorado, Visão Aprimorada
 - **Perícias:** Atletismo 30, Evasão 40, Luta 50, Percepção 40, Provocação 30 (Intimidação 40)
 
 <!-- CLEANED /div --></tr>
@@ -89,7 +89,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biotrama, Filtros de Toxina, Novacardium, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
+- **Wares:** Biotrama, Filtros de Toxina, Novacardium, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Perícias:** Atletismo 50, Evasão 40, Luta 50, Percepção 40, Provocação 40 (Intimidação 50)
 - **Traços:** Comportamento Acentuado: Obediência (Nível 2)
 
@@ -99,7 +99,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Audição Aprimorada, Biotrama, Filtros de Toxina, Olfato Aprimorado, Respiração Aprimorada, Tolerância ao Frio
+- **Wares:** Audição Aprimorada, Biotrama, Filtros de Toxina, Olfato Aprimorado, Respiração Aprimorada, Tolerância ao Frio
 - **Perícias:** Atletismo 30, Evasão 40, Luta 40, Percepção 50, Provocação 30 (Intimidação 40)
 
 <!-- CLEANED /div --></tr>
@@ -108,7 +108,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Asas 8/32
-- **Ware:** Audição Aprimorada, Garras, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Garras, Visão Aprimorada
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 30, Infiltração 40, Percepção 50
 - **Notas:** Bico/Garras VD 1d6 \[4\], Tamanho Pequeno
 
@@ -118,7 +118,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Cauda Preênsil, Pés Preênseis
+- **Wares:** Almofadas Aderentes, Cauda Preênsil, Pés Preênseis
 - **Perícias:** Atletismo 60, Evasão 40, Infiltração 40, Luta 30, Percepção 40, Perícia Exótica: Prestidigitação 50
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
@@ -128,7 +128,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Audição Aprimorada, Olfato Aprimorado
+- **Wares:** Almofadas Aderentes, Audição Aprimorada, Olfato Aprimorado
 - **Perícias:** Atletismo 40, Evasão 40, Infiltração 50, Luta 30, Percepção 40
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
@@ -138,7 +138,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Cauda Preênsil, Olfato Aprimorado
+- **Wares:** Almofadas Aderentes, Cauda Preênsil, Olfato Aprimorado
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Percepção 40
 - **Notas:** Tamanho Muito Pequeno
 
@@ -148,7 +148,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
+- **Wares:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
 
@@ -156,7 +156,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 </table>
 
-**Cão de Guarda:** Estes cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com bioware ou cibernéticos de combate.
+**Cão de Guarda:** Estes cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com biowares ou cibernéticos de combate.
 
 **Babuíno Policial:** Usados para trabalho policial em Marte, estes babuínos do Cabo parcialmente elevados podem ser cruéis, especialmente em bando.
 
@@ -185,7 +185,7 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Asas 8/32, Marcha 4/12
-- **Ware:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
+- **Wares:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 30, Percepção 40
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno, Imune ao veneno da anêmona terrestre
 
@@ -195,7 +195,7 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 <tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biotrama, Guelras, Pele Camaleão, Proteção Criogênica
+- **Wares:** Biotrama, Guelras, Pele Camaleão, Proteção Criogênica
 - **Perícias:** Atletismo 50, Evasão 30, Infiltração 30, Luta 30, Percepção 60
 - **Notas:** Mordida DV 1d10 \[6\]
 
