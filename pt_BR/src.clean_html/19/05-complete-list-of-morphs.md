@@ -118,7 +118,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Área:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Obsolescência Programada
 
 <!-- CLEANED /div --></tr>
