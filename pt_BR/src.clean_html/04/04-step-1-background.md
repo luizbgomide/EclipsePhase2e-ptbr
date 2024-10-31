@@ -77,7 +77,7 @@ Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hi
 
 ## Infovida
 
-Você é uma IGA, uma consciência digital nascida de códigos de software.
+Você é uma IGA, uma consciência digital nascida de códigos programados.
 
 |                                                |    |
 |:---------------------------------------------- | --:|
