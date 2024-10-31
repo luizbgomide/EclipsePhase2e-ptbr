@@ -20,7 +20,7 @@ Estes modelos originais de uso geral são projetados para manter o comprador/usu
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Obsolescência Programada
 
 <!-- CLEANED /blockquote -->
@@ -43,7 +43,7 @@ Bastante utilizados em trabalhos braçais que envolvam a interação com outros 
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 
 <!-- CLEANED /blockquote -->
 
@@ -65,7 +65,7 @@ Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-ar
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Blindagem de Carapaça (+6/+7), Cibercérebro, Guelras, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
+- **Wares:** Biomods, Blindagem de Carapaça (+6/+7), Cibercérebro, Guelras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** Ataque com Garras (VD 2d10)
 
@@ -89,7 +89,7 @@ Os prods de prazer são imitações de humanos para fins de entretenimento ínti
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Luva de Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
+- **Wares:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
 - **Extras Comuns:** Muitos têm [Aparência Marcante](../04/28-traits.md#striking-looks) ou [Vício](../04/28-traits.md#addiction)
 
 <!-- CLEANED /blockquote -->
@@ -112,14 +112,14 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiônicos, Garras, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Extras Comuns:** Muitos estão equipados com [emissor de raios T](../16/06-sensory-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md). As variantes de fuzileiros espaciais possuem [pés preênseis](../16/11-physical-augmentations.md), [reserva de oxigênio](../16/11-physical-augmentations.md) e [vedação de vácuo](../16/11-physical-augmentations.md).
 
 <!-- CLEANED /blockquote -->
 
 ### Moldável
 
-Os moldáveis são projetados para infiltração e disfarce. Eles não tem as linhas de emendas comuns dos prods e incorporam ware que lhes permite alterar a aparência. Preferidos por espiões e criminosos, eles são ilegais em muitos habitats.
+Os moldáveis são projetados para infiltração e disfarce. Eles não têm as linhas de emendas comuns dos prods e incorporam wares que lhes permitem alterar a aparência. Preferidos por espiões e criminosos, eles são ilegais em muitos habitats.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -135,6 +135,6 @@ Os moldáveis são projetados para infiltração e disfarce. Eles não tem as li
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Cibercérebro, Insertos da Mesh, Luva de Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
+- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
 
 <!-- CLEANED /blockquote -->
