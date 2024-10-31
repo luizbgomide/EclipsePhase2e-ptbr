@@ -149,7 +149,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Anão Gelado:** Um tipo de planeta anão distante composto de gelo.
 - **Gigante Gelado:** Um planeta composto de elementos mais pesados que hidrogênio/hélio, geralmente na parte exterior de um sistema estelar.
 - **Asteroide Gelado:** Um asteroide feito de gelo em vez de rocha ou metais.
-- **ID Crew:** *Intelligent Design Crew*, um cartel especializado em crimes eletrônicos.
+- **ID Crew:** _Intelligent Design Crew_, um cartel especializado em crimes eletrônicos.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **Arrendado:** Um trabalhador que vendeu seu trabalho para uma hipercorp ou outra autoridade, geralmente em troca de um morfo.
@@ -332,7 +332,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **XP:** Experiência Pré-gravada. Vivenciar a entrada sensorial de outra pessoa (em tempo real ou gravação). Também chamado de sim, sim-sensorial, pré-gravação.
 - **Risco X:** Risco Existencial. Algo que ameaça a própria existência da transumanidade.
 - **Dia-Zero:** Uma violação previamente desconhecida, contra a qual os sistemas de computador ainda não estão defendidos. Também chamado de dia-0.
-- **Zeros:** Pessoas sem acesso à mesh. Comum em arrendados.
+- **Zeros:** Pessoas sem acesso à mesh. Comum com arrendados.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
 
 <!-- CLEANED /div -->
