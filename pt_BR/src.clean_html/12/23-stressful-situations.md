@@ -6,22 +6,22 @@ O universo de Eclipse Phase está repleto de experiências que vão abalar a sua
 
 Sempre que você encontrar uma situação que possa impactar a psique do seu ego, faça uma Prova de VON. Alguns incidentes são tão terríveis que um modificador é aplicado. Se você falhar, as experiências marcam sua paisagem mental e você sofre dano de estresse (e possivelmente trauma) apropriado à situação. Se você tiver sucesso, você lida com a situação estressante, mas ela ainda pode deixar você perturbado e abalado.
 
-Uma lista de cenários causadores de estresse e VDs sugeridos estão listados na tabela _Experiências Estressantes_. O MJ deve usá-los como recomendações, modificando-os conforme for apropriado ao caso.
+Uma lista de cenas causadoras de estresse e VDs sugeridos estão listados na tabela _Experiências Estressantes_. O MJ deve usá-los como recomendações, modificando-os conforme for apropriado ao caso.
 
 <!-- CLEANED blockquote class="table" -->
 
 ### Experiências Estressantes
 
-| Alienação                                             |                    VE                     |
-|:----------------------------------------------------- |:-----------------------------------------:|
-| Alienação/descontinuidade/lapso por reencape          |                    1d6                    |
-| Lapso extenso                                         |                  1d10/1                   |
-| Encontrar memórias perdidas inexplicavelmente         |                    1d6                    |
-| Isolamento prolongado (por semana)                    |              1d6 + 2/metade               |
-| Infecção pelo vírus exsurgente                        | [Variável](../18/13-exsurgent-strains.md) |
-| Ser controlado involuntariamente por luva de fantoche |                1d10/metade                |
-| Ser controlado mentalmente                            |              1d10 + 2/metade              |
-| Ser forçado a agir contra à Motivação                 |                    1d6                    |
+| Alienação                                              |                    VE                     |
+|:------------------------------------------------------ |:-----------------------------------------:|
+| Alienação/descontinuidade/lapso por reencape           |                    1d6                    |
+| Lapso extenso                                          |                  1d10/1                   |
+| Encontrar memórias perdidas inexplicavelmente          |                    1d6                    |
+| Isolamento prolongado (por semana)                     |              1d6 + 2/metade               |
+| Infecção pelo vírus exsurgente                         | [Variável](../18/13-exsurgent-strains.md) |
+| Ser controlado involuntariamente por manípulo fantoche |                1d10/metade                |
+| Ser controlado mentalmente                             |              1d10 + 2/metade              |
+| Ser forçado a agir contra à Motivação                  |                    1d6                    |
 
 | Desamparo                                                 |       VE        |
 |:--------------------------------------------------------- |:---------------:|
