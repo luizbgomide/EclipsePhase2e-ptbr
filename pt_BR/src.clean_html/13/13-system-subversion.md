@@ -8,7 +8,7 @@ Além de exceder seus privilégios, há algumas técnicas que são explicitament
 
 ## Quebrar Criptografia
 
-Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Criptoanálise](../13/05-authentication-and-encryption.md#codebreaking)).
+Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
 
 ## Controlar Ware
 
