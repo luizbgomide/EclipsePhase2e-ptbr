@@ -39,7 +39,7 @@ O método de aplicação determina a rapidez com que a substância é absorvida 
 
 <!-- CLEANED /blockquote -->
 
-**App:** As substâncias eletrônicas são executadas como outros softwares.
+**App:** As substâncias eletrônicas são executadas como outros programas.
 
 **Dérmico (D):** Esta droga/toxina é absorvida através da pele como um gás, líquido, ou sólido (ex.: pasta). Adesivos dérmicos ou armas aspersoras são comumente usadas, carregadas com o químico DMSO, que transfere a droga através da pele. Os adesivos dérmicos podem ser aplicados nos outros em combate de luta com um ataque de toque simples (+20). Armas de luta também podem ser revestidas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
 
@@ -145,7 +145,7 @@ Alimentos farmacêuticos que melhoram a saúde e estado físico do consumidor.
 | Bananas Furiosas | Bioquímica | Qualquer  | 8 horas  |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
 | Confurte         | Bioquímica | Qualquer  | 12 horas |                   −10/Mental                    |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.              |
 
-**Bananas Furiosas:** Esta droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cinturianos preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
+**Bananas Furiosas:** Esta droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cintureiros preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
 
 **Confurte:** Geralmente servido como um delicioso iogurte, o confurte bloqueia os hormônios de estresse, estabiliza o humor e alivia a ansiedade. Ele temporariamente aumenta a Lucidez em 5, Limiar de Trauma em 1 e Grau de Insanidade em 5. O uso excessivo de confurte pode levar a coceira crônica causada pela liberação de histamina.
 
@@ -197,7 +197,7 @@ Conhecidos coloquialmente como dopeware, narcos e zapps, os narcoalgoritmos são
 
 Pétalas são alucinógenos narrativos, uma nanodroga que sequestra seus sentidos e leva você para uma viagem imersiva parecida com um jogo. Elas são a heroína da sociedade pós-Queda — a droga preferida dos desesperados e fodidos. As pétalas são feitas na forma de flores nanofarmacêuticas, em vasos ou com um saco de nutrientes preso ao caule. Tirar e engolir as pétalas da flor causa os efeitos. Cada flor tem 1d4 + 4 pétalas. Vários usuários podem compartilhar a experiência se eles usarem as pétalas dentro um 1 minuto da primeira ser removida; depois disso, todas as pétalas restantes na flor desvanecem para um branco translúcido e ficam inertes.
 
-As experiências das pétalas são cenários inteiros por si só. Algumas acessam seus insertos da mesh (você deve ser capaz de acessar seus implantes voluntariamente; do contrário, a droga tem pouco efeito além de alucinações visuais tipo LSD de baixa intensidade), assumem o controle de suas telas entópticas, ligam-se a servidores secretos na mesh e outros viajantes, e invadem seu sensório com “alucinações” de RA. Outros colocam você em um estado de quase comatoso, durante o qual você faz viaja na sua cabeça. Normalmente há um tema ou uma trama bem desenvolvida à experiência da pétala, embora outras sejam apenas fluxos de imagens tematicamente relacionadas.
+As experiências das pétalas são aventuras inteiras por si só. Algumas acessam seus insertos da mesh (você deve ser capaz de acessar seus implantes voluntariamente; do contrário, a droga tem pouco efeito além de alucinações visuais tipo LSD de baixa intensidade), assumem o controle de suas telas entópticas, ligam-se a servidores secretos na mesh e outros viajantes, e invadem seu sensório com “alucinações” de RA. Outros colocam você em um estado de quase comatoso, durante o qual você faz viaja na sua cabeça. Normalmente há um tema ou uma trama bem desenvolvida à experiência da pétala, embora outras sejam apenas fluxos de imagens tematicamente relacionadas.
 
 Embora sejam ilegais e suprimidas em muitos governos, novas pétalas surgem constantemente, impulsionadas por uma subcultura persistente de criadores e usuários. Os artesãos de pétalas veem seu trabalho como uma forma de arte. As melhores pétalas são experiências projetadas com carinho e surpreendentemente belas — ou as vezes aterrorizantes. A subcultura do uso de pétalas varia de usuários casuais, que ocasionalmente usam uma flor simples de curta duração, até viciados da pesada, que passam todo o tempo fora das pétalas caçando as variedades mais intensas e esotéricas. Como as pétalas combinam nanobots com cargas químicas personalizadas e códigos de acesso a servidores da mesh, duplicá-las usando nanofabricadores é impossível, levando a um mercado ativo de artesãos, traficantes e comerciantes.
 
