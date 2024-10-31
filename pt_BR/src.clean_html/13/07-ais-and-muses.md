@@ -1,6 +1,6 @@
 # IAs & Musas
 
-As IAs são software autoconscientes. Como outros códigos, elas devem ser executadas em um dispositivo computadorizado. Elas podem ser travadas em combate na mesh, copiadas, apagadas, armazenadas como dados inertes, infectadas com vírus, e reprogramadas.
+As IAs são programas autoconscientes. Como outros códigos, elas devem ser executadas em um dispositivo computadorizado. Elas podem ser travadas em combate na mesh, copiadas, apagadas, armazenadas como dados inertes, infectadas com vírus, e reprogramadas.
 
 ## ILAs
 
@@ -65,7 +65,7 @@ O uso primário para musas é lidar com tarefas online triviais, liberando você
 Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 
 - Proteger sua PAN como defensor do sistema.
-- Proteger seu console de conta ou outro software em combate na mesh.
+- Proteger seu console de conta ou outro programa em combate na mesh.
 - Fazer Testes de Pesquisa para encontrar informação para você.
 - Falsificar ou alterar sua mesh ID.
 - Buscar em notícias e atualizações da mesh por alertas de palavras-chave.
