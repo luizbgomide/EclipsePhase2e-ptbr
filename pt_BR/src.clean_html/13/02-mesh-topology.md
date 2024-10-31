@@ -1,16 +1,16 @@
 # Topologia da Mesh
 
-Apesar da mesh com um todo consistir em inúmeros dispositivos, todos conectados aos outros ao redor deles, o layout real é muito mais complexo. Muitas sub-redes existem dentro da própria rede mesh: dispositivos escravos, VPNs, PANs e sistemas em camadas.
+Apesar da mesh com um todo consistir em inúmeros dispositivos, todos conectados aos outros ao redor deles, o layout real é muito mais complexo. Muitas sub-redes existem dentro da própria rede mesh: dispositivos subordinados, VPNs, PANs e sistemas em camadas.
 
-## Dispositivos Escravos
+## Dispositivos Subordinados
 
-Alguns dispositivos são escravos a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, componentes individuais de um sistema de segurança (portas, sensores, etc.) são geralmente escravos de um nodo de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos escravos é roteado através do mestre. Isso permite que um dispositivo escravo dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo escravo é redirecionado para o mestre, para autenticação e verificação de segurança.
+Alguns dispositivos são subordinados a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, componentes individuais de um sistema de segurança (portas, sensores, etc.) são geralmente subordinados de um nodo de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos subordinados é roteado através do mestre. Isto permite que um dispositivo subordinado dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo subordinado é redirecionado para o mestre, para autenticação e verificação de segurança.
 
-Dispositivos escravos automaticamente aceitam comandos do seu dispositivo mestre. Isso significa que um hacker que invada o sistema mestre pode acessar e emitir comandos legitimamente para um dispositivo escravo, assumindo que seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) permitam.
+Dispositivos subordinados automaticamente aceitam comandos do seu dispositivo mestre. Isto significa que um hacker que invada o sistema mestre pode acessar e emitir comandos legitimamente para um dispositivo subordinado, assumindo que seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) permitam.
 
 ## PANs: Redes de Área Pessoal
 
-Como muitas das coisas que você veste, usa, ou implantou estão em mesh, faz sentido criar uma rede entre eles — esta é a sua PAN. Seus insertos da mesh (ou ecto) agem como a central mestre da sua rede; seus outros dispositivos são escravos. Isso significa que qualquer um que queira acessar esses dispositivos deve passar por você (ou sua musa) primeiro. Você pode interfacear com seus dispositivos na PAN via RA e compartilhar livremente dados entre eles. Você pode compartilhar acesso a esses dispositivos com os outros de forma temporária ou permanente. Por outro lado, qualquer um que hackear você terá acesso aos seus dispositivos escravos.
+Como muitas das coisas que você veste, usa, ou implantou estão em mesh, faz sentido criar uma rede entre eles — esta é a sua PAN. Seus insertos da mesh (ou ecto) agem como a central mestre da sua rede; seus outros dispositivos são subordinados. Isso significa que qualquer um que queira acessar esses dispositivos deve passar por você (ou sua musa) primeiro. Você pode interfacear com seus dispositivos na PAN via RA e compartilhar livremente dados entre eles. Você pode compartilhar acesso a esses dispositivos com os outros de forma temporária ou permanente. Por outro lado, qualquer um que hackear você terá acesso aos seus dispositivos subordinados.
 
 ## VPNs: Redes Privadas Virtuais
 
