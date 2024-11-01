@@ -1,8 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-const summaryFile = "SUMMARY.md";
-
 const tocMarker = "<!-- TOC PLACEHOLDER -->";
 const headerRE = /^(\#+)\s+(.+)$/gm;
 const blockquoteRE = /\<blockquote.*?\<\/blockquote\>/gs;
@@ -34,7 +32,7 @@ function readDirectory(dir) {
 
 function processFile(file) {
     var whitespace = /\s/g
-    var specials = /[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~’]/g
+    var specialPunctuation = /[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~’]/g
     let result = '';
     // just process files start with ##-
     let filename = path.basename(file);
@@ -49,15 +47,20 @@ function processFile(file) {
     contents = contents.replace(blockquoteRE, '');
 
     let headers = contents.matchAll(headerRE);
+    let slugList = []
     for (const h of headers) {
         let level = h[1].length;
-        let slug = h[2].toLowerCase().trim().replace(specials, '').replace(whitespace, '-');
-        let relative_path = path.posix.relative(path.dirname(file) + "FAKE", file);
+        let slug = h[2].toLowerCase().trim().replace(specialPunctuation, '').replace(whitespace, '-');
+        let indexSuffix = 0;
+        while (slugList.includes(slug + (indexSuffix === 0 ? "" : `-${indexSuffix}`))) {
+            indexSuffix++;
+        }
+        let relative_path = path.posix.relative(path.dirname(file), file);
         if (level == 1) {
             result += `${"  ".repeat(level - 1)}- [${h[2]}](${relative_path})\n`;
         }
         else {
-            result += `${"  ".repeat(level - 1)}- [${h[2]}](${relative_path}#${slug})\n`;
+            result += `${"  ".repeat(level - 1)}- [${h[2]}](${relative_path}#${slug + (indexSuffix === 0 ? "" : `-${indexSuffix}`)})\n`;
         }
     }
     return result;
@@ -69,7 +72,6 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     process.exit(1);
 }
 var sourceDir = path.posix.normalize(process.argv[2]);
-var fakeOrigin = path.posix.join(sourceDir, "00FAKEDIR/");
 readDirectory(sourceDir);
 
 console.log(`Process complete.\n`);
