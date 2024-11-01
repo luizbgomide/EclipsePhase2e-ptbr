@@ -10,8 +10,8 @@ Positive ego traits have a CP Cost and provide bonuses in certain situations.
 
 ### Positive Ego Traits
 
-| Trait                                                                   | CP Cost | Effect                                                                                                          |     Restricted To |
-| :---------------------------------------------------------------------- | :-----: | :-------------------------------------------------------------------------------------------------------------- | ----------------: |
+| Trait                                         | CP Cost | Effect                                                                                                          |     Restricted To |
+| :-------------------------------------------- | :-----: | :-------------------------------------------------------------------------------------------------------------- | ----------------: |
 | [Adversarial Hacker](#adversarial-hacker)     |    2    | Use Insight to flip-flop system defender’s roll.                                                                |
 | [AGI Affinity](#agi-affinity)                 |    1    | +10 to social skills interacting with AGIs.                                                                     |
 | [Artful Dodger](#artful-dodger)               |    2    | When using Fray, can use Vigor to flip-flop attacker’s dice roll.                                               |
@@ -354,8 +354,8 @@ Negative ego traits provide a CP bonus and apply penalties in certain situations
 
 ### Negative Ego Traits
 
-| Trait                                                                           | CP Bonus | Effect                                                                                                                      |      Restricted To |
-| :------------------------------------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------- | -----------------: |
+| Trait                                                 | CP Bonus | Effect                                                                                                                      |      Restricted To |
+| :---------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------------------- | -----------------: |
 | [Addictive Personality](#addictive-personality)       |  1/2/3   | −10 per level on Addiction Tests.                                                                                           |
 | [Anomalous Mind](#anomalous-mind)                     |    6     | Backups, resleeving, forking, egocasting, and psychosurgery require Medicine: Psychosurgery Test at −30 (timeframe 1 hour). |
 | [Beta](#beta)                                         |    2     | You are a beta fork. Max ego Flex 1, max Active skills 70. Acquire Edited Memories trait at no CP bonus.                    |

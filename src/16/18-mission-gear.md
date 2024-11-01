@@ -91,8 +91,8 @@ Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier 
 
 Unless specifically noted, assume characters have newer models that function the same as [Smart Clothing](05-common-tech-and-ware.md#everyday-technology); older dumb-fabric designs are typically kept around as backups in older habitats and ships.
 
-| VACSUITS         | Comp/<wbr>GP | Description                                                                                                            |
-| :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------------- |
+| VACSUITS         | Comp/<wbr>GP | Description                                                                                                      |
+| :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
 | Light Vacsuit    |    Mod/2     | As [Smart Clothing](05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 8 hours air, AV 5/2.  |
 | Standard Vacsuit |    Maj/3     | As [Smart Clothing](05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 48 hours air, AV 8/6. |
 

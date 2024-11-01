@@ -2,16 +2,16 @@
 
 Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once ([Area Effect](15-special-attacks.md#area-effect-attacks)). They are fired using Guns skill.
 
-| SPRAY WEAPONS   | Area Effect | Damage Value \[Average\] | Firing Modes | Ammo | Range | Armor Used |    Comp/<wbr>GP     | Notes                             |
-| :-------------- | :---------: | :----------------------: | :----------: | :--: | :---: | :--------: | :-----------------: | :-------------------------------- |
-| Buzzer          |    Cone     |         As swarm         |      SS      |  3   |  15   |  As swarm  | As specialized hive | Long, Two-Handed                  |
-| Freezer         |    Cone     |            —             |      SS      |  20  |  15   |     —      |        Mod/2        | Entangling, Long, Two-Handed      |
-| Plasma Rifle    |    Cone     |     4d10 + 10 \[32\]     |      SA      |  6   |  25   |     E      |       Maj/R/3       | Armor-Piercing, Long, Two-Handed  |
-| Shard Pistol    |    Cone     |      2d6 + 6 \[13\]      |   SA/BF/FA   | 100  |  15   |     K      |       Min/R/1       | Concealable                       |
-| Shredder        |    Cone     |     2d10 + 6 \[17\]      |   SA/BF/FA   | 100  |  25   |     K      |       Mod/R/2       | Two-Handed                        |
-| Sprayer         |    Cone     |        As payload        |      SS      |  15  |  15   | As payload |        Min/1        | Long, Two-Handed                  |
-| Torch           |    Cone     |       3d10 \[17\]        |      SS      |  20  |  15   |     E      |       Maj/R/3       | Long, Two-Handed                  |
-| Vortex Ring Gun |    Cone     |        1d6 \[4\]         |      SA      |  20  |  15   |     E      |        Min/1        | Knockdown, Long, Stun, Two-Handed |
+| SPRAY WEAPONS   | Area Effect | Damage Value \[Average\] | Firing Modes | Ammo  | Range | Armor Used |    Comp/<wbr>GP     | Notes                             |
+| :-------------- | :---------: | :----------------------: | :----------: | :---: | :---: | :--------: | :-----------------: | :-------------------------------- |
+| Buzzer          |    Cone     |         As swarm         |      SS      |   3   |  15   |  As swarm  | As specialized hive | Long, Two-Handed                  |
+| Freezer         |    Cone     |            —             |      SS      |  20   |  15   |     —      |        Mod/2        | Entangling, Long, Two-Handed      |
+| Plasma Rifle    |    Cone     |     4d10 + 10 \[32\]     |      SA      |   6   |  25   |     E      |       Maj/R/3       | Armor-Piercing, Long, Two-Handed  |
+| Shard Pistol    |    Cone     |      2d6 + 6 \[13\]      |   SA/BF/FA   |  100  |  15   |     K      |       Min/R/1       | Concealable                       |
+| Shredder        |    Cone     |     2d10 + 6 \[17\]      |   SA/BF/FA   |  100  |  25   |     K      |       Mod/R/2       | Two-Handed                        |
+| Sprayer         |    Cone     |        As payload        |      SS      |  15   |  15   | As payload |        Min/1        | Long, Two-Handed                  |
+| Torch           |    Cone     |       3d10 \[17\]        |      SS      |  20   |  15   |     E      |       Maj/R/3       | Long, Two-Handed                  |
+| Vortex Ring Gun |    Cone     |        1d6 \[4\]         |      SA      |  20   |  15   |     E      |        Min/1        | Knockdown, Long, Stun, Two-Handed |
 
 **Ammunition:** With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the [ammunition and reloading rules](04-ranged-combat.md#ammunition-and-reloading).
 

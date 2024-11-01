@@ -10,14 +10,14 @@ The following augmentations have specific applications for combat and dangerous 
 | Hardened Skeleton      |    CH     |        Maj/3        | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.             |
 | Immunizers             |     N     |        Mod/2        | Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.       |
 | Medichines             |    NH     |        Maj/3        | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                      |
-| Muscle Augmentation    |    BCH    |        Maj/3        | Muscles enhanced with myofibers. +1d6&nbsp;\[4\]&nbsp;DV melee, +10&nbsp;SOM Checks.            |
+| Muscle Augmentation    |    BCH    |        Maj/3        | Muscles enhanced with myofibers. +1d6&nbsp;\[4\]&nbsp;DV melee, +10&nbsp;SOM Checks. |
 | Nanophages             |     N     |        Mod/2        | SOM Check negates nanodrugs/toxins, failure halves effects.                          |
 | Nanopump               |     N     |  Min/1 + Nanodrug   | Nanobot hive, produces one type of nanodrug.                                         |
 | Nanotox Glands         |     N     | Min/R/1 + Nanotoxin | Nanobot hive, produces one type of nanotoxin.                                        |
 | Neurachem              |    BH     |        Maj/3        | Enhanced synapses and neurotransmitters. +2 Vigor.                                   |
 | Novacardium            |     B     |        Mod/2        | Enhanced heart and circulatory system. +1 Vigor.                                     |
 | Pain Regulator         |     B     |        Mod/2        | Dulls pain experience. Ignore 1 wound effect.                                        |
-| Pneumatics             |     H     |        Maj/3        | Soft actuators. +10 Athletics, +1d6&nbsp;\[4\]&nbsp;DV melee.                                   |
+| Pneumatics             |     H     |        Maj/3        | Soft actuators. +10 Athletics, +1d6&nbsp;\[4\]&nbsp;DV melee.                        |
 | Poison Glands          |     B     |   Min/R/1 + Toxin   | Produces one type of poison.                                                         |
 | Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  |
 | Reflex Boosters        |    CH     |        Maj/3        | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                  |

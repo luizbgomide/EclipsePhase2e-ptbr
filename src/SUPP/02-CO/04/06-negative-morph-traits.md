@@ -4,8 +4,8 @@
 
 ### Negative Morph Traits
 
-| Trait                                                                                | MP Bonus | Effect                                                                                                                                             |             Restricted To |
-| :----------------------------------------------------------------------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
+| Trait                                               | MP Bonus | Effect                                                                                                                                             |             Restricted To |
+| :-------------------------------------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
 | [Aggressive GRM](#aggressive-grm)                   |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                                                                        |                 Biomorphs |
 | [Emotive](#emotive)                                 |    1     | Kinesics Tests against you do not suffer the usual −30 modifier.                                                                                   |               Synthmorphs |
 | [Fast Metabolism](#fast-metabolism)                 |    1     | Minor complexity daily food requirement.                                                                                                           |                 Biomorphs |

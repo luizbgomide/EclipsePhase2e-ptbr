@@ -16,8 +16,8 @@ The morphs here represent a fraction of the sleeves and shells available to char
 ### Morph List
 
 <!--sorted-->
-| Morph                                                                                   | Type       |    Cost    |
-| :-------------------------------------------------------------------------------------- | :--------- | :--------: |
+| Morph                                                                             | Type       |    Cost    |
+| :-------------------------------------------------------------------------------- | :--------- | :--------: |
 | [Agent](26-infomorphs.md#agent)                                                   | Infomorph  | 2&nbsp;MP  |
 | [Arachnoid](25-synthmorphs.md#arachnoid)                                          | Synthmorph | 6&nbsp;MP  |
 | [Basic Pod](23-pod-biomorphs.md#basic-pod)                                        | Pod        | 1&nbsp;MP  |

@@ -21,8 +21,8 @@ Psi-chi sleights are passive, always-on, subconscious abilities available to any
 All psi-chi sleights are automatic actions and have:<br>
 **Range:** Self • **Duration:** Constant • no Infection Modifier.
 
-| Sleight                                                                        | Description                                                                      |
-| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| Sleight                                       | Description                                                                      |
+| :-------------------------------------------- | :------------------------------------------------------------------------------- |
 | [Charisma](#charisma)                         | Lowers inhibitions, boosts charm. +1 Moxie Pool.                                 |
 | [Control Behavior](#control-behavior)         | Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait.        |
 | [Eco-Empathy](#eco-empathy)                   | May use COG Check to understand alien plant and fungus analogues.                |
@@ -140,8 +140,8 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 ### Psi-Gamma Sleights
 
-| Sleight                                                                      | Action  |   Duration   | Infection Mod | Description                                                                                                                                       |
-| :--------------------------------------------------------------------------- | :-----: | :----------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sleight                                     | Action  |   Duration   | Infection Mod | Description                                                                                                                                       |
+| :------------------------------------------ | :-----: | :----------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Alter Effect](#alter-effect)               | Complex |   Instant    |       2       | Increase or reduce the duration of a drug or toxin affecting the target by half.                                                                  |
 | [Animal Control](#animal-control)           | Complex |  Sustained   |       6       | Take over a non-sapient animal’s mind, teleoperate it like a drone.                                                                               |
 | [Aphasia](#aphasia)                         | Complex |   Minutes    |       6       | Target cannot speak, communicate, or read.                                                                                                        |

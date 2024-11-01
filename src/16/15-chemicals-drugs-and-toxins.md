@@ -286,9 +286,9 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 | TOXINS          |  Type   |  Application   |      Duration       | Comp/<wbr>GP | Description                                                           |
 | :-------------- | :-----: | :------------: | :-----------------: | :----------: | :-------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<wbr>1 hour |   Maj/R/3    | DV 2d10 + 10 \[21\] for 3 turns, SOM Check or immobilized for 1 hour.          |
-| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6 \[4\], −30 Perceive, −20 all other actions.                          |
-| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10 \[6\], −30 resist intimidation/fear effects.                        |
+| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<wbr>1 hour |   Maj/R/3    | DV 2d10 + 10 \[21\] for 3 turns, SOM Check or immobilized for 1 hour. |
+| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6 \[4\], −30 Perceive, −20 all other actions.                    |
+| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10 \[6\], −30 resist intimidation/fear effects.                  |
 | Nervex          | Biochem | D, Inh, Inj, O |          —          |   Maj/R/3    | −20 actions, SOM Check vs. incapacitation, death.                     |
 | Oxytocin-A      | Biochem |    Inh, Inj    |       2 hours       |   Min/R/1    | Trusting, −30&nbsp;WIL Checks/Kinesics Tests where trust is a factor. |
 | Twitch          | Biochem | D, Inh, Inj, O |     10 minutes      |   Min/R/1    | −20 actions, SOM Check vs. incapacitation.                            |
@@ -316,7 +316,7 @@ These temporary nanobot infestations damage or impair.
 | NANOTOXINS | Type  | Application | Duration | Comp/<wbr>GP | Description                                        |
 | :--------- | :---: | :---------: | :------: | :----------: | :------------------------------------------------- |
 | Disruptor  | Nano  |   Inj, O    | 8 hours  |   Maj/R/3    | Cumulative −5 to actions per hour; incapacitation. |
-| Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                                   |
+| Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                             |
 | Neuropath  | Nano  |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs incapacitation.   |
 | Nutcracker | Nano  |   Inj, O    | 6 hours  |   Maj/R/3    | Destroys cortical stack.                           |
 

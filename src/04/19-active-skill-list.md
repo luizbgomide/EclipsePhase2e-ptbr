@@ -7,30 +7,30 @@ Active skills represent things your character does. They usually require some so
 ### Skill List
 
 <!--sorted-->
-| Skill                                                                       | Linked Aptitude          | Type                     |
-| :-------------------------------------------------------------------------- | :----------------------- | :----------------------- |
-| [Athletics](#athletics)                        | Somatics                 | Active, Physical         |
-| [Deceive](#deceive)                            | Savvy                    | Active, Social           |
-| [Exotic Skill: \[Field\]](#exotic-skill-field) | —                        | Active, Field            |
-| [Fray](#fray)                                  | Reflexes                 | Active, Combat           |
-| [Free Fall](#free-fall)                        | Somatics                 | Active, Physical         |
-| [Guns](#guns)                                  | Reflexes                 | Active, Combat           |
-| [Hardware: \[Field\]](#hardware-field)         | Cognition                | Active, Field, Technical |
-| [Infiltrate](#infiltrate)                      | Reflexes                 | Active, Physical         |
-| [Infosec](#infosec)                            | Cognition                | Active, Technical        |
-| [Interface](#interface)                        | Cognition                | Active, Technical        |
-| [Kinesics](#kinesics)                          | Savvy                    | Active, Social           |
-| [Know: \[Field\]](20-know-skills.md#know-field)                       | Cognition/<wbr>Intuition | Field, Know              |
-| [Medicine: \[Field\]](#medicine-field)         | Cognition                | Active, Field, Technical |
-| [Melee](#melee)                                | Somatics                 | Active, Combat           |
-| [Perceive](#perceive)                          | Intuition                | Active, Mental           |
-| [Persuade](#persuade)                          | Savvy                    | Active, Social           |
-| [Pilot: \[Field\]](#pilot-field)               | Reflexes                 | Active, Field, Vehicle   |
-| [Program](#program)                            | Cognition                | Active, Technical        |
-| [Provoke](#provoke)                            | Savvy                    | Active, Social           |
-| [Psi](#psi)                                    | Willpower                | Active, Mental, Psi      |
-| [Research](#research)                          | Intuition                | Active, Technical        |
-| [Survival](#survival)                          | Intuition                | Active, Mental           |
+| Skill                                           | Linked Aptitude          | Type                     |
+| :---------------------------------------------- | :----------------------- | :----------------------- |
+| [Athletics](#athletics)                         | Somatics                 | Active, Physical         |
+| [Deceive](#deceive)                             | Savvy                    | Active, Social           |
+| [Exotic Skill: \[Field\]](#exotic-skill-field)  | —                        | Active, Field            |
+| [Fray](#fray)                                   | Reflexes                 | Active, Combat           |
+| [Free Fall](#free-fall)                         | Somatics                 | Active, Physical         |
+| [Guns](#guns)                                   | Reflexes                 | Active, Combat           |
+| [Hardware: \[Field\]](#hardware-field)          | Cognition                | Active, Field, Technical |
+| [Infiltrate](#infiltrate)                       | Reflexes                 | Active, Physical         |
+| [Infosec](#infosec)                             | Cognition                | Active, Technical        |
+| [Interface](#interface)                         | Cognition                | Active, Technical        |
+| [Kinesics](#kinesics)                           | Savvy                    | Active, Social           |
+| [Know: \[Field\]](20-know-skills.md#know-field) | Cognition/<wbr>Intuition | Field, Know              |
+| [Medicine: \[Field\]](#medicine-field)          | Cognition                | Active, Field, Technical |
+| [Melee](#melee)                                 | Somatics                 | Active, Combat           |
+| [Perceive](#perceive)                           | Intuition                | Active, Mental           |
+| [Persuade](#persuade)                           | Savvy                    | Active, Social           |
+| [Pilot: \[Field\]](#pilot-field)                | Reflexes                 | Active, Field, Vehicle   |
+| [Program](#program)                             | Cognition                | Active, Technical        |
+| [Provoke](#provoke)                             | Savvy                    | Active, Social           |
+| [Psi](#psi)                                     | Willpower                | Active, Mental, Psi      |
+| [Research](#research)                           | Intuition                | Active, Technical        |
+| [Survival](#survival)                           | Intuition                | Active, Mental           |
 <!--end-sort-->
 
 </blockquote>

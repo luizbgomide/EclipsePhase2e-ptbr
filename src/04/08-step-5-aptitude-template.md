@@ -42,15 +42,15 @@ You’ve never said no to a dare, but your fast reaction time and quick thinking
 ### Aptitude Template
 
 <!--sorted-->
-| Template      | COG | INT | REF | SAV | SOM | WIL |
-| :------------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| Actioneer     | 10  | 15  | 20  | 10  | 20  | 15  |
-| Extrovert     | 10  | 20  | 15  | 20  | 15  | 10  |
-| Facilitator   | 15  | 15  | 10  | 20  | 10  | 20  |
-| Factotum      | 15  | 15  | 15  | 15  | 15  | 15  |
-| Inquirer      | 20  | 20  | 10  | 15  | 10  | 15  |
-| Survivor      | 15  | 10  | 15  | 10  | 20  | 20  |
-| Thrill Seeker | 20  | 10  | 20  | 15  | 15  | 10  |
+| Template      |  COG  |  INT  |  REF  |  SAV  |  SOM  |  WIL  |
+| :------------ | :---: | :---: | :---: | :---: | :---: | :---: |
+| Actioneer     |  10   |  15   |  20   |  10   |  20   |  15   |
+| Extrovert     |  10   |  20   |  15   |  20   |  15   |  10   |
+| Facilitator   |  15   |  15   |  10   |  20   |  10   |  20   |
+| Factotum      |  15   |  15   |  15   |  15   |  15   |  15   |
+| Inquirer      |  20   |  20   |  10   |  15   |  10   |  15   |
+| Survivor      |  15   |  10   |  15   |  10   |  20   |  20   |
+| Thrill Seeker |  20   |  10   |  20   |  15   |  15   |  10   |
 <!--end-sort-->
 
 </blockquote>

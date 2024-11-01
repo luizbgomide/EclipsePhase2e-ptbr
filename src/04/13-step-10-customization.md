@@ -60,11 +60,11 @@ Skill specializations cost 1&nbsp;CP. They give a +10 bonus to that skill when t
 
 ### Customization Costs
 
-|                  |           |     |                  |           |
-| :--------------- | :-------: | :-: | :--------------- | :-------: |
-| 5 Rep points     | 1&nbsp;CP |     | 1 Language       | 1&nbsp;CP |
-| 5 Skill points   | 1&nbsp;CP |     | 1 Aptitude point | 1&nbsp;CP |
-| 1 Specialization | 1&nbsp;CP |     | 1 Flex point     | 2&nbsp;CP |
-| 1 Psi sleight    | 1&nbsp;CP |     | Ego Traits       | Variable  |
+|                  |           |       |                  |           |
+| :--------------- | :-------: | :---: | :--------------- | :-------: |
+| 5 Rep points     | 1&nbsp;CP |       | 1 Language       | 1&nbsp;CP |
+| 5 Skill points   | 1&nbsp;CP |       | 1 Aptitude point | 1&nbsp;CP |
+| 1 Specialization | 1&nbsp;CP |       | 1 Flex point     | 2&nbsp;CP |
+| 1 Psi sleight    | 1&nbsp;CP |       | Ego Traits       | Variable  |
 
 </blockquote>

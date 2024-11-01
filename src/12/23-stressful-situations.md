@@ -23,19 +23,19 @@ A list of stress-inducing scenarios and suggested SVs are listed on the _Stressf
 | Mind-controlled                            |              1d10 + 2/half              |
 | Forced to act opposite to Motivation       |                   1d6                   |
 
-| Helplessness                                                   |      SV       |
-| :------------------------------------------------------------- | :-----------: |
+| Helplessness                                             |      SV       |
+| :------------------------------------------------------- | :-----------: |
 | [Asphyxiation](28-environmental-factors.md#asphyxiation) |      1d6      |
-| Set on fire                                                    |      1d6      |
-| Awareness of imminent death                                    |    1d10/1     |
-| Betrayal by a trusted friend                                   |      1d6      |
-| Cyberbrain hacked                                              |      1d6      |
-| Drugged against your will                                      |    1d6 − 1    |
-| Losing a loved one                                             |      1d6      |
-| Watching a loved one die                                       |     1d10      |
-| Being responsible for the death of a loved one                 |  1d10 + 1/1   |
-| Suffering moderate torture                                     | 1d6 + 2/half  |
-| Suffering severe torture                                       | 1d10 + 2/half |
+| Set on fire                                              |      1d6      |
+| Awareness of imminent death                              |    1d10/1     |
+| Betrayal by a trusted friend                             |      1d6      |
+| Cyberbrain hacked                                        |      1d6      |
+| Drugged against your will                                |    1d6 − 1    |
+| Losing a loved one                                       |      1d6      |
+| Watching a loved one die                                 |     1d10      |
+| Being responsible for the death of a loved one           |  1d10 + 1/1   |
+| Suffering moderate torture                               | 1d6 + 2/half  |
+| Suffering severe torture                                 | 1d10 + 2/half |
 
 | The Unknown                                 |    SV     |
 | :------------------------------------------ | :-------: |

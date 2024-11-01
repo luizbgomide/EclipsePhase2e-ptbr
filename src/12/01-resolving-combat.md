@@ -51,19 +51,19 @@ Apply any appropriate situational, wound/trauma, or other modifiers to the attac
 Numerous factors can impact an attack’s outcome.<br>
 These modifiers apply to all types of attacks.
 
-| Situation                                                                                  |       Modifiers        |
-| :----------------------------------------------------------------------------------------- | :--------------------: |
+| Situation                                                                            |       Modifiers        |
+| :----------------------------------------------------------------------------------- | :--------------------: |
 | Attacker takes a [full move](24-movement.md#full-move)                               |          −20           |
-| Superior position                                                                          |          +20           |
-| Wounded/traumatized                                                                        |  −10 per wound/trauma  |
+| Superior position                                                                    |          +20           |
+| Wounded/traumatized                                                                  |  −10 per wound/trauma  |
 | [Called shot](15-special-attacks.md#called-shots) (superior success needed)          |          −10           |
 | Wielding [two-handed weapon](15-special-attacks.md#two-handed-weapons) with one hand |          −20           |
-| Very small target (mouse or insect)                                                        |          −30           |
-| Small target (child-sized)                                                                 |          −10           |
-| Large target (car sized)                                                                   |          +10           |
-| Very large target (side of a barn)                                                         |          +30           |
-| Visibility impaired (minor: glare, light smoke, dim light)                                 |          −10           |
-| Visibility impaired (major: heavy smoke, dark)                                             |          −20           |
+| Very small target (mouse or insect)                                                  |          −30           |
+| Small target (child-sized)                                                           |          −10           |
+| Large target (car sized)                                                             |          +10           |
+| Very large target (side of a barn)                                                   |          +30           |
+| Visibility impaired (minor: glare, light smoke, dim light)                           |          −10           |
+| Visibility impaired (major: heavy smoke, dark)                                       |          −20           |
 | [Blind Attacks](15-special-attacks.md#blind-attacks)                                 | −30 or 50% miss chance |
 
 </blockquote>

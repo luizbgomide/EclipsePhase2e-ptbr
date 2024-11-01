@@ -22,38 +22,38 @@ The interests determined here represent hobbies you have delved into over the ye
 
 ### d10 #1 = \{1–5\}
 
-| d10&nbsp;#2 | Career             | Description                                                                                                                   |
-| :---------: | :----------------- | :---------------------------------------------------------------------------------------------------------------------------- |
-|      1      | Animal Handler     | You train and care for smart animals.                                                                                         |
-|      2      | Artist/Icon        | You are a creative or celebrity figure.                                                                                       |
-|      3      | Async              | You are infected with the [Watts-MacLeod strain of the exsurgent virus](../../../14/02-watts-macleod-sub-strains.md) (_EP2_). |
-|      4      | Commander          | You are an executive, officer, elected official, or autonomist organizer.                                                     |
-|      5      | Fighter            | You’ve picked up some self-defense capabilities                                                                               |
-|      6      | Forensics          | Specialist You’re trained to analyze crime scenes and perform autopsies.                                                      |
-|      7      | Jack-of-All-Trades | You’ve seen and done a little bit of everything.                                                                              |
-|      8      | Jammer             | You’re a drone operator with a talent for manipulating machines.                                                              |
-|    9–10     |                    | **RE-ROLL #2**                                                                                                                |
+| d10&nbsp;#2 | Career                                        | Description                                                                                                                   |
+| :---------: | :-------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
+|      1      | [Animal Handler](#animal-handler)             | You train and care for smart animals.                                                                                         |
+|      2      | [Artist/Icon](#artisticon)                    | You are a creative or celebrity figure.                                                                                       |
+|      3      | [Async](#async)                               | You are infected with the [Watts-MacLeod strain of the exsurgent virus](../../../14/02-watts-macleod-sub-strains.md) (_EP2_). |
+|      4      | [Commander](#commander)                       | You are an executive, officer, elected official, or autonomist organizer.                                                     |
+|      5      | [Fighter](#fighter)                           | You’ve picked up some self-defense capabilities                                                                               |
+|      6      | [Forensics Specialist](#forensics-specialist) | You’re trained to analyze crime scenes and perform autopsies.                                                                 |
+|      7      | [Jack-of-All-Trades](#jack-of-all-trades)     | You’ve seen and done a little bit of everything.                                                                              |
+|      8      | [Jammer](#jammer)                             | You’re a drone operator with a talent for manipulating machines.                                                              |
+|    9–10     |                                               | **RE-ROLL #2**                                                                                                                |
 
 ### d10 #1 = \{6–0\}
 
-| d10&nbsp;#2 | Career      | Description                                                            |
-| :---------: | :---------- | :--------------------------------------------------------------------- |
-|      1      | Networker   | You know how to engage and connect with people.                        |
-|      2      | Paramedic   | You have picked up some first aid training.                            |
-|      3      | Pilot       | You prefer to do the driving no matter how skilled the ALI is.         |
-|      4      | Rogue       | You have a shady side.                                                 |
-|      5      | Slacker     | You prefer to enjoy the good things in life.                           |
-|      6      | Spacer      | You’ve spent your fair share of time on ships and in smaller habitats. |
-|      7      | Student     | You are in the process of learning.                                    |
-|      8      | Survivalist | The Fall reinforced the notion that you need to be prepared.           |
-|    9–10     |             | **RE-ROLL #2**                                                         |
+| d10&nbsp;#2 | Career                      | Description                                                            |
+| :---------: | :-------------------------- | :--------------------------------------------------------------------- |
+|      1      | [Networker](#networker)     | You know how to engage and connect with people.                        |
+|      2      | [Paramedic](#paramedic)     | You have picked up some first aid training.                            |
+|      3      | [Pilot](#pilot)             | You prefer to do the driving no matter how skilled the ALI is.         |
+|      4      | [Rogue](#rogue)             | You have a shady side.                                                 |
+|      5      | [Slacker](#slacker)         | You prefer to enjoy the good things in life.                           |
+|      6      | [Spacer](#spacer)           | You’ve spent your fair share of time on ships and in smaller habitats. |
+|      7      | [Student](#student)         | You are in the process of learning.                                    |
+|      8      | [Survivalist](#survivalist) | The Fall reinforced the notion that you need to be prepared.           |
+|    9–10     |                             | **RE-ROLL #2**                                                         |
 
 </blockquote>
 
 <blockquote class="framed-table">
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Animal Handler
 
@@ -76,7 +76,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Artist/Icon
 
@@ -98,7 +98,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Async
 
@@ -120,7 +120,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Commander
 
@@ -142,7 +142,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Fighter
 
@@ -163,7 +163,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Forensics Specialist
 
@@ -185,7 +185,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Jack-of-All-Trades
 
@@ -211,7 +211,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Jammer
 
@@ -233,7 +233,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Networker
 
@@ -255,7 +255,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Paramedic
 
@@ -276,7 +276,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </div>
 </blockquote>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Pilot
 
@@ -298,7 +298,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Rogue
 
@@ -320,7 +320,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Slacker
 
@@ -342,7 +342,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Spacer
 
@@ -365,7 +365,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Student
 
@@ -387,7 +387,7 @@ The interests determined here represent hobbies you have delved into over the ye
 </blockquote>
 
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
 ### Survivalist
 
