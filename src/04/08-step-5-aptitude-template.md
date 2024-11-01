@@ -1,6 +1,6 @@
 # Step 5: Aptitude Template
 
-Pick one of the aptitude templates to determine your six starting [aptitudes](../04/01-character-stats.md#aptitudes). These templates are provided as guidelines, and you may raise or lower an aptitude score by taking or giving points from other aptitudes. For example, you can lower WIL by 5 to raise COG by 5. No aptitude score may be lower than 5 or higher than 30.
+Pick one of the aptitude templates to determine your six starting [aptitudes](01-character-stats.md#aptitudes). These templates are provided as guidelines, and you may raise or lower an aptitude score by taking or giving points from other aptitudes. For example, you can lower WIL by 5 to raise COG by 5. No aptitude score may be lower than 5 or higher than 30.
 
 Though conceptually skills are built on the aptitude values, this step is placed after the skill choices so that you may tailor your aptitudes to your skill set. For example, if you have a lot of SAV-linked skills, choosing a template with a high SAV is a solid way to optimize your character. Alternatively, if you feel you are lacking skills linked to a certain aptitude, boosting that aptitude may help to round out your character.
 

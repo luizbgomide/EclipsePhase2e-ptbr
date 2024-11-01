@@ -73,11 +73,11 @@ Aptitude checks are a derived stat, based on your aptitude × 3.
 
 ## Skills
 
-Skills represent abilities learned and honed through education and practice. They are described in detail under [Skills](../04/18-skills.md).
+Skills represent abilities learned and honed through education and practice. They are described in detail under [Skills](18-skills.md).
 
 ## Morph
 
-Your morph is your character’s current biological, synthetic, or digital form. This may be the body you were born in or one you sleeved into. Morphs come pre-loaded with specific traits and implants, noted in the morph description. [Morphs](../04/21-morphs.md). Don’t get too attached to your morph: you are likely to move to a new one at some point during gameplay! [Acquiring Morphs](../15/03-acquiring-morphs.md).
+Your morph is your character’s current biological, synthetic, or digital form. This may be the body you were born in or one you sleeved into. Morphs come pre-loaded with specific traits and implants, noted in the morph description. [Morphs](21-morphs.md). Don’t get too attached to your morph: you are likely to move to a new one at some point during gameplay! [Acquiring Morphs](../15/03-acquiring-morphs.md).
 
 ## Derived Stats
 
@@ -112,7 +112,7 @@ A number of your stats are derived from other stats or aspects of your character
 
 ## Traits
 
-Traits are inherent qualities, features, or flaws that help define your character. Positive traits give you bonuses in certain situations; negative traits apply detriments to your character. Traits either belong to your ego or morph. [Traits](../04/28-traits.md).
+Traits are inherent qualities, features, or flaws that help define your character. Positive traits give you bonuses in certain situations; negative traits apply detriments to your character. Traits either belong to your ego or morph. [Traits](28-traits.md).
 
 ## Rep
 
@@ -128,8 +128,8 @@ Your character has a reputation score in different social networks. This rep wil
 
 ## Gear
 
-Your character will have access to different types of useful equipment: weapons, armor, robots, drugs, smart animals, tools, and more. To simplify things, your starting gear is grouped into gear packs based on your starting career. [Gear Packs](../04/27-gear-packs.md). You will have several options for acquiring gear during gameplay. [Acquiring Gear](../16/02-acquiring-gear.md).
+Your character will have access to different types of useful equipment: weapons, armor, robots, drugs, smart animals, tools, and more. To simplify things, your starting gear is grouped into gear packs based on your starting career. [Gear Packs](27-gear-packs.md). You will have several options for acquiring gear during gameplay. [Acquiring Gear](../16/02-acquiring-gear.md).
 
 ## Motivations
 
-Your motivations define your character’s personal agenda, beliefs, and long-term goals. They help you earn Rez Points for character advancement and cope with mental trauma. [Step 13: Motivations](../04/16-step-13-motivations.md).
+Your motivations define your character’s personal agenda, beliefs, and long-term goals. They help you earn Rez Points for character advancement and cope with mental trauma. [Step 13: Motivations](16-step-13-motivations.md).

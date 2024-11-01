@@ -12,9 +12,9 @@ CP may be spent to increase aptitude scores at a cost of 1&nbsp;CP per aptitude 
 
 **\[Variable\]**
 
-You may purchase any of the ego traits listed on [Traits](../04/28-traits.md). Positive traits have a CP cost listed. Negative traits _give_ you bonus CP. No more than 6&nbsp;CP worth of negative traits may be purchased.
+You may purchase any of the ego traits listed on [Traits](28-traits.md). Positive traits have a CP cost listed. Negative traits _give_ you bonus CP. No more than 6&nbsp;CP worth of negative traits may be purchased.
 
-There are a lot of traits to choose from, so if you’re unfamiliar with them or don’t have the time to scan through them, skip this for now and save some CP to buy traits later. A summary of traits is on [Positive Traits](../04/28-traits.md#positive-traits) and [Negative Traits](../04/28-traits.md#negative-traits).
+There are a lot of traits to choose from, so if you’re unfamiliar with them or don’t have the time to scan through them, skip this for now and save some CP to buy traits later. A summary of traits is on [Positive Traits](28-traits.md#positive-traits) and [Negative Traits](28-traits.md#negative-traits).
 
 If you took the Lost background in Step 1 or the Async interest in Step 3, you _must_ purchase the Psi trait.
 

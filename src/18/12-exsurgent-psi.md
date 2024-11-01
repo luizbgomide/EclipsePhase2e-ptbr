@@ -42,7 +42,7 @@ All electronics within Close range (10 meters) of the exsurgent mysteriously fai
 
 ### Basilisk Aura
 
-An aura of light and sound emits from the exsurgent, acting as an [incapacitator basilisk hack](../18/10-exsurgent-infection.md#incapacitators).
+An aura of light and sound emits from the exsurgent, acting as an [incapacitator basilisk hack](10-exsurgent-infection.md#incapacitators).
 
 ### Casimir Force Repulsion
 

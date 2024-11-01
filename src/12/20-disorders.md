@@ -4,9 +4,9 @@ Disorders are long-lasting psychological afflictions that typically require week
 
 **Gaining a Disorder:** You acquire a disorder during character creation, by infection with the exsurgent virus, or by accumulating stress equal to or exceeding your Lucidity. You should work with the GM to choose a disorder appropriate to your character and circumstances.
 
-**Removing a Disorder:** You can get rid of a disorder through in-game or [down-time treatment](../12/19-mental-healing-and-psychosurgery.md#natural-healing) or by buying it off as a negative trait ([Lose a Negative Ego Trait](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
+**Removing a Disorder:** You can get rid of a disorder through in-game or [down-time treatment](19-mental-healing-and-psychosurgery.md#natural-healing) or by buying it off as a negative trait ([Lose a Negative Ego Trait](30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Triggering a Disorder:** Each disorder is triggered by certain circumstances, as determined by your GM. Example triggers are given with each listing; disorders are also triggered by [traumas](../12/18-mental-health.md#trauma). When a trigger condition occurs, make a WIL check; if you fail, the disorder is triggered. When activated, the disorder directly affects your actions and what you can and cannot do, as fitting the affliction. The GM may direct your character’s behavior or apply modifiers as they see fit. The episode lasts for as long as your character is affected by the triggering condition. Others can assess your state or bring you out of it with successful Know: Psychology or Medicine: Psychosurgery Tests.
+**Triggering a Disorder:** Each disorder is triggered by certain circumstances, as determined by your GM. Example triggers are given with each listing; disorders are also triggered by [traumas](18-mental-health.md#trauma). When a trigger condition occurs, make a WIL check; if you fail, the disorder is triggered. When activated, the disorder directly affects your actions and what you can and cannot do, as fitting the affliction. The GM may direct your character’s behavior or apply modifiers as they see fit. The episode lasts for as long as your character is affected by the triggering condition. Others can assess your state or bring you out of it with successful Know: Psychology or Medicine: Psychosurgery Tests.
 
 ### Alien Behavior Disorder
 
@@ -52,7 +52,7 @@ This anxiety disorder, characterized by self-cannibalism of the limbs, usually o
 
 **Triggers:** Grief, helplessness, sleep deprivation, violence
 
-With manic depression, your periods of depression are interrupted by brief (a matter of days at most) periods of mania with heightened energy and a general disregard for consequences. The depressive stages are similar in all ways to [depression](../12/20-disorders.md#depression). When manic, you will take risks, spend wildly, and engage in behavior without forethought or consideration of long-term consequences.
+With manic depression, your periods of depression are interrupted by brief (a matter of days at most) periods of mania with heightened energy and a general disregard for consequences. The depressive stages are similar in all ways to [depression](20-disorders.md#depression). When manic, you will take risks, spend wildly, and engage in behavior without forethought or consideration of long-term consequences.
 
 **Effect:** Similar to depression, but when manic you must make a WIL Check to stop yourself from undertaking a risky endeavor. You will also try to convince others to go along with the idea.
 

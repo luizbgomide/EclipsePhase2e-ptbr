@@ -30,7 +30,7 @@ Flats are baseline unmodified humans, born with all of the natural defects, here
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Common Extras:** Many have the [Genetic Defect trait](../04/28-traits.md#genetic-defect)
+- **Common Extras:** Many have the [Genetic Defect trait](28-traits.md#genetic-defect)
 
 </blockquote>
 
@@ -125,7 +125,7 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Cold Tolerance, Cortical Stack, Enhanced Respiration, Mesh Inserts, Radiation Sense
-- **Common Extras:** Many have the [Planned Obsolescence trait](../04/28-traits.md#planned-obsolescence)
+- **Common Extras:** Many have the [Planned Obsolescence trait](28-traits.md#planned-obsolescence)
 
 </blockquote>
 
@@ -265,7 +265,7 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Clean Metabolism, Cortical Stack, Enhanced Pheromones, Mesh Inserts
-- **Common Extras:** Many have the [Striking Looks trait](../04/28-traits.md#striking-looks)
+- **Common Extras:** Many have the [Striking Looks trait](28-traits.md#striking-looks)
 
 </blockquote>
 

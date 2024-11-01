@@ -8,7 +8,7 @@ AR overlays data and sensory input from the mesh on your physical senses. This a
 
 Most habitats and businesses transmit data on public AR channels. Directories, signs, maps, help guides, tourist information, available services, and public alerts are easily toggled and perceived. Corporations and private groups also offer their own AR channels to authenticated users, ranging from streaming music and networked games to underground night life and black-market services.
 
-AR also has its downsides: if you are hacked, it can be used against you ([Edit AR Feed](../13/13-system-subversion.md#edit-ar-feed)). AR sensory input is also a potential vector for so-called [basilisk mind hacks](../18/10-exsurgent-infection.md#basilisk-hacks).
+AR also has its downsides: if you are hacked, it can be used against you ([Edit AR Feed](13-system-subversion.md#edit-ar-feed)). AR sensory input is also a potential vector for so-called [basilisk mind hacks](../18/10-exsurgent-infection.md#basilisk-hacks).
 
 ### AR Mist and Filters
 
@@ -22,7 +22,7 @@ Since reality can be overlaid with hyper-real entoptics, you can “skin” your
 
 ## Backups, Forking, Egocasting
 
-Most people have backups taken and forks created at reputable body banks. The sanctity of egos is highly valued, so mesh security tends to be top notch. Even black-market body banks and darkcasters have reputations to protect. If you have a cyberbrain or access to an ego bridge, you can make backups and forks at any time, but are reliant on your own security. Inactive backups/forks/egos are simply large files that can be stored on any device. Activated infomorphs, however, can only be run on hosts or servers ([Infomorphs](../13/08-infomorphs.md)).
+Most people have backups taken and forks created at reputable body banks. The sanctity of egos is highly valued, so mesh security tends to be top notch. Even black-market body banks and darkcasters have reputations to protect. If you have a cyberbrain or access to an ego bridge, you can make backups and forks at any time, but are reliant on your own security. Inactive backups/forks/egos are simply large files that can be stored on any device. Activated infomorphs, however, can only be run on hosts or servers ([Infomorphs](08-infomorphs.md)).
 
 ## Banking
 
@@ -30,7 +30,7 @@ Physical currency is a thing of the past. Polities that still use money deploy v
 
 ## Communications
 
-Messaging, video calls (using avatars), and email remain dominant forms of communication, though these are sometimes hampered by distance lag. For discussions across great distances or that require face-to-face privacy, forks are deployed. Non-encrypted comms can be sniffed by hostile parties ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
+Messaging, video calls (using avatars), and email remain dominant forms of communication, though these are sometimes hampered by distance lag. For discussions across great distances or that require face-to-face privacy, forks are deployed. Non-encrypted comms can be sniffed by hostile parties ([Sniffing](04-devices-apps-and-links.md#sniffing)).
 
 Online forums rise and fall in popularity, depending largely on how well they filter out trolls, spam, and bots. On one end, private message boards and VR lounges thrive according to their exclusivity and focus topics, especially in socialite and infomorph circles. On the other, local public AR channels tend to be crammed with garbage, though strong community participation can make these quite useful, especially in brinker and autonomist habs.
 
@@ -52,7 +52,7 @@ MARGs function as VPNs. Much like social networks, they treat their customers as
 
 You can almost always pinpoint your location on an inhabited world or in a habitat by measuring signals either from orbiting GPS satellites or nearby mesh nodes. Finding your way is easy with AR cues such as visual trails or arrows or audio directions. Location services can tell you where to find the nearest local autocook, give you reviews on nearby cafés, and tell you who in the area matches your dating profile, personal interests, or is looking for a game match.
 
-A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and mesh ID ([Tracking](../13/10-tracking.md)). This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
+A side effect of location services is that your movements are logged by every nearby mesh node due to automated pings and your physical activity can be correlated with your online activity and mesh ID ([Tracking](10-tracking.md)). This feature is considered an advantage by parents watching over their kids, businesses monitoring their employees, and friends seeking out other friends, but can be a detriment to those seeking a low profile.
 
 ## Media and News
 
@@ -62,7 +62,7 @@ Many venues transmit their own local AR media channels, to keep social groupings
 
 ## Mobile Offices
 
-Online collaboration tools, remote networking, and ALI assistants mean that work is rarely tied a physical location — most people carry their jobs with them. For security purposes, [VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks) are mandatory. Encrypted data module implants are often mandatory for employees that carry sensitive company data in their heads, possibly protected by a dedicated corporate security AI. Many hypercorps retain remote access privileges to their workers’ mesh inserts and implants.
+Online collaboration tools, remote networking, and ALI assistants mean that work is rarely tied a physical location — most people carry their jobs with them. For security purposes, [VPNs](02-mesh-topology.md#vpns-virtual-private-networks) are mandatory. Encrypted data module implants are often mandatory for employees that carry sensitive company data in their heads, possibly protected by a dedicated corporate security AI. Many hypercorps retain remote access privileges to their workers’ mesh inserts and implants.
 
 ## Psychosurgery
 
@@ -70,11 +70,11 @@ For safety reasons, psychosurgeons prefer working on forks that are then merged 
 
 ## Searches
 
-On the mesh, you have access to vast — almost overwhelming — amounts of info. This is covered in detail under [Online Research](../13/09-online-research.md).
+On the mesh, you have access to vast — almost overwhelming — amounts of info. This is covered in detail under [Online Research](09-online-research.md).
 
 ## Sensor Feeds and Coveillance
 
-Public sensor feeds are available to everyone on the mesh — everyone is watched by everyone else. These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage. Many private networks are also available, some of which are accessible for a fee or if you know the right people. Sensors and coveillance are covered in detail on [Surveillance Hacking](../13/19-surveillance-hacking.md).
+Public sensor feeds are available to everyone on the mesh — everyone is watched by everyone else. These sensors provide real-time coverage of most public areas within a habitat, though they are subject to vandalism and sabotage. Many private networks are also available, some of which are accessible for a fee or if you know the right people. Sensors and coveillance are covered in detail on [Surveillance Hacking](19-surveillance-hacking.md).
 
 ## Social Networks
 
@@ -90,10 +90,10 @@ If you are hacked, your social network accounts may also be at risk. Your profil
 
 Entoptic tags are a way for people to “tag” a physical person, place, or object with virtual data. These e-tags are stored in networks local to the tagged item and move with the item if it changes location. E-tags are viewable in AR and can hold almost any type of data, though short notes and pictures are the most common. E-tags are often linked to particular social networks or circles within that network so that people can leave notes, reviews, memorabilia, media, and similar things for friends and colleagues.
 
-Finding hidden tags in an area requires an Interface Test at −30 at best or may be impossible without access to the right networks/devices (GM discretion). Even when found, they may require [decryption](../13/05-authentication-and-encryption.md#encryption).
+Finding hidden tags in an area requires an Interface Test at −30 at best or may be impossible without access to the right networks/devices (GM discretion). Even when found, they may require [decryption](05-authentication-and-encryption.md#encryption).
 
 ## Virtual Reality (VR)
 
-Only [servers](../13/04-devices-apps-and-links.md#servers) have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users. For extra stability, most VR services are offered in locations with hardwired physical networks. Comfortable enclosed couches are provided for users, as their physical senses are cut off.
+Only [servers](04-devices-apps-and-links.md#servers) have the bandwidth and processing requirements to run full VR simulspaces, especially ones with multiple users. For extra stability, most VR services are offered in locations with hardwired physical networks. Comfortable enclosed couches are provided for users, as their physical senses are cut off.
 
-VR is covered in more detail on [Virtual Reality](../13/18-virtual-reality.md).
+VR is covered in more detail on [Virtual Reality](18-virtual-reality.md).

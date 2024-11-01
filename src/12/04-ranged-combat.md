@@ -2,7 +2,7 @@
 
 Ranged combat attacks fall into five categories: beam weapons, kinetic weapons, seeker weapons, spray weapons, and weapon systems. Each is described below.
 
-Most ranged weapons are constructed from lightweight but hardy ceramic hybrids and refractory metals. They are designed for ambidextrous use and equipped with [safety systems, smartlink systems](../12/13-weapon-accessories.md), and helper ALIs that automatically mesh with the wielder for firing assistance, target recognition, and tactical networking.
+Most ranged weapons are constructed from lightweight but hardy ceramic hybrids and refractory metals. They are designed for ambidextrous use and equipped with [safety systems, smartlink systems](13-weapon-accessories.md), and helper ALIs that automatically mesh with the wielder for firing assistance, target recognition, and tactical networking.
 
 ## Ranged Combat Rules
 
@@ -24,7 +24,7 @@ Reloading aside, you are assumed to carry enough standard ammo or batteries that
 
 With the help of a spotter, you can target an enemy that you can’t see using indirect fire. Indirect attacks are primarily made with seekers, grenades, and other projectiles that do not follow a direct-line trajectory to the target. You must be meshed with a character, bot, tactical network, or sensor system that has the target in its sights and which feeds you targeting data. Indirect attacks suffer a −20 modifier.
 
-[Seeker missiles](../12/10-seeker-weapons-and-grenades.md) can home in on a target that is “painted” with reflected energy from a [laser sight](../12/13-weapon-accessories.md) or similar target designator system. An “attack” must first be made to paint the target with the laser sight using Guns skill. If successful, the target acquisition negates the −20 indirect fire modifier for the seeker launcher’s attack test. The target must be held in the spotter’s sights (requiring a complex action each turn) until the seeker strikes.
+[Seeker missiles](10-seeker-weapons-and-grenades.md) can home in on a target that is “painted” with reflected energy from a [laser sight](13-weapon-accessories.md) or similar target designator system. An “attack” must first be made to paint the target with the laser sight using Guns skill. If successful, the target acquisition negates the −20 indirect fire modifier for the seeker launcher’s attack test. The target must be held in the spotter’s sights (requiring a complex action each turn) until the seeker strikes.
 
 ### Firing Modes
 
@@ -90,7 +90,7 @@ These modifiers apply to ranged combat attacks.
 | Defender Behind Minor Cover                           |                                            −10                                             |
 | Defender Behind Moderate Cover                        |                                            −20                                             |
 | Defender Behind Major Cover                           |                                            −30                                             |
-| Defender Hidden                                       | −30 and/or 50% miss chance<br>([Blind Attacks](../12/15-special-attacks.md#blind-attacks)) |
+| Defender Hidden                                       | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
 | Defender Prone and at Range (10+ m)                   |                                            −10                                             |
 | Firing Mode                                           |                                                                                            |
 | <div class="indent">» Single-Shot/Semi-Auto</div>     |                                             +0                                             |

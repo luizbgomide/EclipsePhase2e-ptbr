@@ -54,7 +54,7 @@ The career decided here is either the one you practiced most notably during your
 
 **You devote your efforts to the pursuit of knowledge.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -141,7 +141,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You are skilled at accessing places you don’t belong.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -226,7 +226,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You’re a thug, whether for hire or for a dedicated cause.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -313,7 +313,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You walk on alien worlds and see things others wouldn’t believe.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -402,7 +402,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You excel at convincing others, even when it is not in their best interests.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -487,7 +487,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **DNA is your artistic medium.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -575,7 +575,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **Software heeds your beck and call.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -660,7 +660,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **Few details escape your scrutiny.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -747,7 +747,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You have a background in medicine.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -834,7 +834,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You meld minds and memories.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -922,7 +922,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You scrounge through wrecks and ruins, seeking value in destruction.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -1011,7 +1011,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You excel at convincing others, even when it is not in their best interests.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -1102,7 +1102,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You deploy violence — or the threat of it.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">
@@ -1188,7 +1188,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-
 
 **You make and fix things.**
 
-Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](./11-step-10-interests.md).
+Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <blockquote class="header-bg multi-column">
 <div class="stat-list vcenter title-margin">

@@ -26,7 +26,7 @@ Egos trapped within a lockbox are quite vulnerable. They could, for example, be 
 
 ### Control Ware (Cyberbrain)
 
-As [Control Ware](../13/13-system-subversion.md#control-ware).
+As [Control Ware](13-system-subversion.md#control-ware).
 
 ### Copy Ego
 
@@ -62,11 +62,11 @@ Direct access to an infomorph/cyberbrain ego opens the possibility for types of 
 
 ### Shutdown
 
-Cyberbrains and infomorphs may be deactivated, just like other systems ([Reboot/Shutdown](../13/12-countermeasures.md#rebootshutdown)) — this includes hard shutdowns. If a cyberbrain is shut down, its morph will freeze in place or collapse. Shut down morphs may not be puppeted.
+Cyberbrains and infomorphs may be deactivated, just like other systems ([Reboot/Shutdown](12-countermeasures.md#rebootshutdown)) — this includes hard shutdowns. If a cyberbrain is shut down, its morph will freeze in place or collapse. Shut down morphs may not be puppeted.
 
 ### Tap Senses
 
-As [Tap Senses](../13/13-system-subversion.md#tap-senses).
+As [Tap Senses](13-system-subversion.md#tap-senses).
 
 ### Terminate Cortical Stack Feed
 

@@ -6,7 +6,7 @@ There are two types of tests in Eclipse Phase: success and opposed.
 
 Success tests are the most common type of test. Use them whenever your character acts without direct opposition. Most skill tests, rep network tests, and aptitude checks are handled as success tests and require a quick or complex action to complete.
 
-Success tests are described under [Making Tests](../03/01-how-to-play.md#making-tests).
+Success tests are described under [Making Tests](01-how-to-play.md#making-tests).
 
 ### Trying Again
 

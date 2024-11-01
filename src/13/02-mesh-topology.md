@@ -6,7 +6,7 @@ Though the mesh as a whole consists of innumerable devices all connected to the 
 
 Some devices are puppeted to others, so that any traffic and access attempts go through a single well-protected gateway node. For example, individual components of a security system (doors, sensors, etc.) are usually puppeted to a central security node that serves as a chokepoint against anyone hoping to hack the system. All traffic to and from puppeted devices is routed through the master. This allows a puppeted device to rely on the master’s security features and active monitoring. Anyone that wants to connect to or hack into a puppeted device is rerouted to the master for authentication and security scrutiny.
 
-Puppeted devices automatically accept commands from their master device. This means that a hacker who penetrates a master system can legitimately access and issue commands to a puppeted device, assuming their [access privileges](../13/05-authentication-and-encryption.md#accounts--access-privileges) allow for it.
+Puppeted devices automatically accept commands from their master device. This means that a hacker who penetrates a master system can legitimately access and issue commands to a puppeted device, assuming their [access privileges](05-authentication-and-encryption.md#accounts--access-privileges) allow for it.
 
 ## PANs: Personal Area Networks
 
@@ -16,11 +16,11 @@ Since many of the things you wear, carry, use, or have implanted are meshed, it 
 
 VPNs link together nodes via point-to-point encrypted “tunnels” across the public mesh. This secure connection allows connected users to privately communicate and remotely share services and resources. VPNs enable mobile offices, social networks, tacnets, and other private networks to exist and function within the wider mesh.
 
-In practical terms, VPNs offer better encryption than standard mesh traffic, making it difficult to [sniff](../13/04-devices-apps-and-links.md#sniffing) your connections, though you can still be [tracked](../13/10-tracking.md). If one of the nodes within the VPN is hacked, however, that traffic becomes vulnerable.
+In practical terms, VPNs offer better encryption than standard mesh traffic, making it difficult to [sniff](04-devices-apps-and-links.md#sniffing) your connections, though you can still be [tracked](10-tracking.md). If one of the nodes within the VPN is hacked, however, that traffic becomes vulnerable.
 
 ## Tiered Systems
 
-Hypercorp networks, habitats, and similar large systems operate on a tiered model. In order to access one particular device or network, you may first need to access the nodes or networks tiered above it. Nodes in a lower tier will only communicate with recognized devices in the tier above them. Usually the deeper you go, the harder the security gets. Tiered systems can sometimes be defeated with [spoofing attacks](../13/05-authentication-and-encryption.md#spoofing), by faking signals from a node in the tier above.
+Hypercorp networks, habitats, and similar large systems operate on a tiered model. In order to access one particular device or network, you may first need to access the nodes or networks tiered above it. Nodes in a lower tier will only communicate with recognized devices in the tier above them. Usually the deeper you go, the harder the security gets. Tiered systems can sometimes be defeated with [spoofing attacks](05-authentication-and-encryption.md#spoofing), by faking signals from a node in the tier above.
 
 ## Air-Gapped Systems
 

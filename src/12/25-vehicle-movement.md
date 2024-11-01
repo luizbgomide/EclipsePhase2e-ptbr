@@ -1,6 +1,6 @@
 # Vehicle Movement
 
-The [Movement Rate rules](../12/24-movement.md#movement-rate) apply to tactical combat and interactions between characters, bots, and other entities. Most shells, however, have mobility systems that allow for much greater speeds. The following rules apply to these situations.
+The [Movement Rate rules](24-movement.md#movement-rate) apply to tactical combat and interactions between characters, bots, and other entities. Most shells, however, have mobility systems that allow for much greater speeds. The following rules apply to these situations.
 
 ## Control
 

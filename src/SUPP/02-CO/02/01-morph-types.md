@@ -191,7 +191,7 @@ Axles are equipped with the same sensory systems you get with any synthmorph: st
 
 ### Axle Ware
 
-Axles can be equipped with hardware and meshware, just like any other synthmorph. Axles equipped with modular design can be integrated into [flexbots](../02/01-morph-types.md#flexbot-synthmorphs).
+Axles can be equipped with hardware and meshware, just like any other synthmorph. Axles equipped with modular design can be integrated into [flexbots](01-morph-types.md#flexbot-synthmorphs).
 
 ### Axle Egos and Pilots
 

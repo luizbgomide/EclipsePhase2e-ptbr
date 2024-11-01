@@ -54,7 +54,7 @@ Swarmanoids and swarms may be equipped with ware, like robots. GMs must use comm
 
 ### Attrition
 
-Individual mites are very vulnerable. They fail and get stepped on, breathed in, stuck to things, crippled by static electricity, and otherwise destroyed in large numbers. Each day during which a swarm is deployed, it takes DV 5 (DV 10 or 20 in unfavorable environments). [Hives](../16/19-nanotech.md#hives) repair this damage with new mites. A swarm is disabled/ineffective when damage reaches its Durability. This makes swarm units without a hive good for about 5 days of use.
+Individual mites are very vulnerable. They fail and get stepped on, breathed in, stuck to things, crippled by static electricity, and otherwise destroyed in large numbers. Each day during which a swarm is deployed, it takes DV 5 (DV 10 or 20 in unfavorable environments). [Hives](19-nanotech.md#hives) repair this damage with new mites. A swarm is disabled/ineffective when damage reaches its Durability. This makes swarm units without a hive good for about 5 days of use.
 
 ## Swarms
 

@@ -2,7 +2,7 @@
 
 What is your character’s origin? Were you born in a slum on Earth before the Fall or raised in a protected enclave? Were you an early space colonist or an indentured worker?
 
-Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own ([Skills](../04/18-skills.md)). Alternatively, leave the field unassigned for now and decide on it during game play.
+Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own ([Skills](18-skills.md)). Alternatively, leave the field unassigned for now and decide on it during game play.
 
 <!--sorted-->
 ## Colonist

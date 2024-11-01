@@ -4,7 +4,7 @@ What is your character’s primary field of expertise? Are you a scientist, a ha
 
 Like your background, your career package provides you with skills. You might look for a package that gives you more diversity or one that complements the skills you’ve already acquired. Don’t worry about doubling up on skills — you can adjust that in a later step.
 
-Your career also determines your starting [gear packs](../04/27-gear-packs.md).
+Your career also determines your starting [gear packs](27-gear-packs.md).
 
 <!--sorted-->
 ## Academic

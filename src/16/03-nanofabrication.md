@@ -1,6 +1,6 @@
 # Nanofabrication
 
-If you have a nanofabricator and either blueprints or Program skill, you can make things from scratch. Nanofabricators come in several sizes, some with specialized functions ([Nanotech](../16/19-nanotech.md)). The only other things you need are raw materials and time. Living things such as smart animals and non-tangible goods such as apps cannot be nanofabricated.
+If you have a nanofabricator and either blueprints or Program skill, you can make things from scratch. Nanofabricators come in several sizes, some with specialized functions ([Nanotech](19-nanotech.md)). The only other things you need are raw materials and time. Living things such as smart animals and non-tangible goods such as apps cannot be nanofabricated.
 
 ## Raw Materials
 
@@ -36,7 +36,7 @@ Blueprints for Restricted items cannot be legally purchased using Resources (tho
 
 If you don’t have a blueprint, you can make one. This requires two skill tests. The first is a skill test appropriate to the item type: Hardware: Electronics for personal electronics, Medicine: Pharmacology for a drug, Medicine: Biotech for bioware, etc. If successful, this provides the knowledge needed for the design. Note that programmers can collaborate with others who have the necessary skills, including their muse or an ALI. Following this, you need a Program Test to actually code it.
 
-Both of these tests together constitute a single task action. The timeframe is the same as [acquiring gear](../16/02-acquiring-gear.md), but in months instead of hours (2 months for Minor, 8 months for Moderate, 24 months for Major). Most programmers use forks and time-accelerated simulspaces to speed the process, however, so a subjective week of programming can be done in about an hour of real time. Only superior results from the Program Test reduce the timeframe.
+Both of these tests together constitute a single task action. The timeframe is the same as [acquiring gear](02-acquiring-gear.md), but in months instead of hours (2 months for Minor, 8 months for Moderate, 24 months for Major). Most programmers use forks and time-accelerated simulspaces to speed the process, however, so a subjective week of programming can be done in about an hour of real time. Only superior results from the Program Test reduce the timeframe.
 
 ### Cracking Blueprints
 

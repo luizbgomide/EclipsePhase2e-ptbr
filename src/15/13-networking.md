@@ -2,11 +2,11 @@
 
 Where social networks shine is their value in networking for favors. If you need to get advice from an expert, find someone who can fix your problems, acquire a piece of black-market tech, or crowdsource a solution, you can turn to your contacts and the online community at large. Your rep score reflects not just your social capital, but your ability to leverage it and maneuver through this web of personal and impersonal connections to find who and what you need.
 
-In game terms, you take advantage of your connections and personal cred every time you need a favor. A favor is broadly defined as anything you try to get via others in your social networks, whether that be aid, goods, or information. Different types of favors are described under [Favors](../15/13-networking.md#favors).
+In game terms, you take advantage of your connections and personal cred every time you need a favor. A favor is broadly defined as anything you try to get via others in your social networks, whether that be aid, goods, or information. Different types of favors are described under [Favors](13-networking.md#favors).
 
 ## Using Rep
 
-To pursue a favor, you pick a social network and make a Rep Test. Roll Rep score same as you would a skill. The type of favor you are asking for can impact the test; apply the modifiers from the Rep Tests table. Likewise, if you are trying to keep your query discreet and under the radar, modifiers will apply [Keeping Quiet](../15/13-networking.md#keeping-quiet).
+To pursue a favor, you pick a social network and make a Rep Test. Roll Rep score same as you would a skill. The type of favor you are asking for can impact the test; apply the modifiers from the Rep Tests table. Likewise, if you are trying to keep your query discreet and under the radar, modifiers will apply [Keeping Quiet](13-networking.md#keeping-quiet).
 
 Rep Tests are task actions — it takes time to call in favors or track down information. The timeframe depends on the type of favor, as noted on the Rep Tests table. GMs can modify this as they see fit.
 
@@ -52,7 +52,7 @@ In game terms, you can try to keep word of what you’re doing quiet, but this m
 
 ## Reputation & ID
 
-It is important to note that reputation is closely tied to identity. If you are undercover and using a fake ID, you take the risk of giving yourself away if you call upon your normal Rep score. You can try to minimize this by using the rules for [Keeping Quiet](../15/13-networking.md#keeping-quiet). However, if anyone is sniffing your mesh activity, you may be found out.
+It is important to note that reputation is closely tied to identity. If you are undercover and using a fake ID, you take the risk of giving yourself away if you call upon your normal Rep score. You can try to minimize this by using the rules for [Keeping Quiet](13-networking.md#keeping-quiet). However, if anyone is sniffing your mesh activity, you may be found out.
 
 False identities come with their own rep scores, though these are minimal (usually 10). The low rep is usually explained away as you having only relatively recently re-instantiated or otherwise being new to that faction/network. You can build up the rep of your fake identity, which must be tracked separately. This may be considered a waste of effort, however, given that some alter egos are meant to be disposable.
 
@@ -82,7 +82,7 @@ When you lack the skills or education you need, or you just need another set of 
 
 ### Acquire Information
 
-When you can’t find the information online or you don’t have the time or capability to look, you can turn to people in your social network and tap their accumulated knowledge base. This type of sleuthing is especially useful for information that is less likely to be codified or public online: gossip, people’s personal history, confidential data, suppressed news, and so on. You can also use this type of favor to find out what favors others are asking for, though modifiers may apply if they are covering their tracks [Keeping Quiet](../15/13-networking.md#keeping-quiet).
+When you can’t find the information online or you don’t have the time or capability to look, you can turn to people in your social network and tap their accumulated knowledge base. This type of sleuthing is especially useful for information that is less likely to be codified or public online: gossip, people’s personal history, confidential data, suppressed news, and so on. You can also use this type of favor to find out what favors others are asking for, though modifiers may apply if they are covering their tracks [Keeping Quiet](13-networking.md#keeping-quiet).
 
 ### Example Information
 

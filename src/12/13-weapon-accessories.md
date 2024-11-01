@@ -30,10 +30,10 @@ The following accessories are available for weapons.
 
 **Safety System:** This feature is automatically included in most weapons. A biometric (palmprint or voiceprint) or ego ID sensor is embedded in the weapon, disabling it if anyone other than an authorized user attempts to fire it.
 
-**Shock Safety:** Just like a safety system, except that an unauthorized user is zapped with an electric shock, inflicting DV 1d6 and a [shock effect](../12/15-special-attacks.md#shock-attacks).
+**Shock Safety:** Just like a safety system, except that an unauthorized user is zapped with an electric shock, inflicting DV 1d6 and a [shock effect](15-special-attacks.md#shock-attacks).
 
 **Silencer/Sound Suppressor:** This barrel-mounted accessory reduces the sound of a firearm’s discharge (they cannot be used on railguns). Apply a −30 modifier on hearing-based Perceive Tests to hear or locate the gun’s firing.
 
-**Smartlink:** Smartlinks are automatically included in most weapons. It connects the weapon to your mesh inserts, placing a targeting bracket in your field of vision and providing range and targeting information (negating the −10 modifier for not using a smartlink or laser sight). Smartlinks also incorporate a microcamera that allows the user to see what the weapon is pointed at, fire around corners, etc. Smartlinks also allow certain other types of weapon system control, such as changing [smart ammo](../12/09-kinetic-weapons.md#smart-ammo) or programming seeker [trigger conditions](../12/10-seeker-weapons-and-grenades.md#trigger-conditions)).
+**Smartlink:** Smartlinks are automatically included in most weapons. It connects the weapon to your mesh inserts, placing a targeting bracket in your field of vision and providing range and targeting information (negating the −10 modifier for not using a smartlink or laser sight). Smartlinks also incorporate a microcamera that allows the user to see what the weapon is pointed at, fire around corners, etc. Smartlinks also allow certain other types of weapon system control, such as changing [smart ammo](09-kinetic-weapons.md#smart-ammo) or programming seeker [trigger conditions](10-seeker-weapons-and-grenades.md#trigger-conditions)).
 
 **Smart Magazine:** A smart magazine allows you to pick and choose what ammo round will be fired with each shot. This system leaves less room for bullets, however, so reduce the weapon’s ammunition capacity by half (round up). Smart magazines can be combined with extended magazines, in which case ammo capacity is normal.

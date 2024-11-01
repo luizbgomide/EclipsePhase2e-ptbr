@@ -95,7 +95,7 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Access Jacks, Biomods, Clean Metabolism, Cortical Stack, Cyberbrain, Enhanced Pheromones, Mesh Inserts, Mnemonics, Puppet Sock, Scent Alteration, Sex Switch
-- **Common Extras:** Many have [Striking Looks](../04/28-traits.md#striking-looks) or [Addiction](../04/28-traits.md#addiction)
+- **Common Extras:** Many have [Striking Looks](28-traits.md#striking-looks) or [Addiction](28-traits.md#addiction)
 
 </blockquote>
 

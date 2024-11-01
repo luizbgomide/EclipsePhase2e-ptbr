@@ -41,7 +41,7 @@ Matters of size, mass, and encumbrance are left to the GM’s common sense. Reme
 
 Gear uses the same sizing as morphs ([Sizes](../12/21-other-action-factors.md#sizes)); all relevant rules and modifiers apply. A few other considerations are noted here:
 
-- Nano-sized items cannot be seen without a microscope or [nanoscopic vision](../16/06-sensory-augmentations.md) and cannot be manipulated without [fractal digits](../16/11-physical-augmentations.md) or similar tools.
+- Nano-sized items cannot be seen without a microscope or [nanoscopic vision](06-sensory-augmentations.md) and cannot be manipulated without [fractal digits](11-physical-augmentations.md) or similar tools.
 - Very small objects have the Concealable trait.
 - Some small/medium gear has the Long and/or Two-Handed traits.
 

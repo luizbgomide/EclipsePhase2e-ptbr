@@ -88,7 +88,7 @@ This ammunition can only be used with firearms, not railguns. It is acquired in 
 
 **Hollow-Point:** Hollow-point bullets deform, widen, and fragment once they penetrate a target, inflicting more damage to soft targets like biomorphs. They do not provide extra damage to synthmorphs or objects.
 
-**Homing:** This bullet identifies a smartlink-tagged target and uses nanosensors and telemetry from previous bullets to lock on, correcting the bullet’s trajectory with surface alterations and tiny vectored nozzles. Apply a +10 modifier to hit for attacks following an aim action (cumulative with the aim modifier) or previous attacks against the same target. Homing bullets can also be used for [indirect fire](../12/04-ranged-combat.md#indirect-fire), though without the to-hit modifier.
+**Homing:** This bullet identifies a smartlink-tagged target and uses nanosensors and telemetry from previous bullets to lock on, correcting the bullet’s trajectory with surface alterations and tiny vectored nozzles. Apply a +10 modifier to hit for attacks following an aim action (cumulative with the aim modifier) or previous attacks against the same target. Homing bullets can also be used for [indirect fire](04-ranged-combat.md#indirect-fire), though without the to-hit modifier.
 
 **Jammer:** Jammers stick to the target and pulse out jamming electromagnetic signals, jamming the target’s wireless communications with an Interface of 40 ([Jam Signals](../13/13-system-subversion.md#jam-signals)). They are difficult to remove, requiring a Hardware: Electronics task action (10 action turns) or use of a fixer, disassembler, or saboteur nanoswarm.
 

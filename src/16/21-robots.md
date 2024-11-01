@@ -1,12 +1,12 @@
 # Robots
 
-Robots are a common sight and accepted fact of daily life within Eclipse Phase. Numerous varieties exist, from robopets to mechanical workers to warbots. If a job can be done more cheaply (and sometimes safely) by a bot, it usually is. The robots listed here are not generally used as synthetic shells by transhuman egos, often for cultural reasons (sleeving a case is bad enough, sleeving a creepy is just … weird), and they are not equipped to be sleeved into, though they can be [remotely operated](../16/21-robots.md#remote-operations). Any of these bots can be modified for use as a synthetic morph, however, by adding a [cyberbrain system](../16/05-common-tech-and-ware.md#standard-augmentations).
+Robots are a common sight and accepted fact of daily life within Eclipse Phase. Numerous varieties exist, from robopets to mechanical workers to warbots. If a job can be done more cheaply (and sometimes safely) by a bot, it usually is. The robots listed here are not generally used as synthetic shells by transhuman egos, often for cultural reasons (sleeving a case is bad enough, sleeving a creepy is just … weird), and they are not equipped to be sleeved into, though they can be [remotely operated](21-robots.md#remote-operations). Any of these bots can be modified for use as a synthetic morph, however, by adding a [cyberbrain system](05-common-tech-and-ware.md#standard-augmentations).
 
 Most robots are intentionally built in non-humanoid forms so as not to confuse them with common synthmorphs and to defuse subconscious guilt transhumans might have at ordering anthropomorphic entities around. However, they all have some form of abstract “face” to interact with, so as not to be too machine-like.
 
 ## Robot Ware
 
-All robots are equipped with the same sensory systems you get with every morph: standard vision, hearing, touch, proprioception, balance, and so on — sometimes even smell. They are also all equipped with standard ware that facilitates their function, noted below. Individual bots have their own distinct ware payloads, as noted in their description. You may also modify bots with additional ware, just like a synthmorph. Some also use [vehicle hardware](../16/22-vehicles.md#vehicle-hardware).
+All robots are equipped with the same sensory systems you get with every morph: standard vision, hearing, touch, proprioception, balance, and so on — sometimes even smell. They are also all equipped with standard ware that facilitates their function, noted below. Individual bots have their own distinct ware payloads, as noted in their description. You may also modify bots with additional ware, just like a synthmorph. Some also use [vehicle hardware](22-vehicles.md#vehicle-hardware).
 
 | ALL ROBOTS                                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ You can control a drone in _autonomous mode_ or directly by _jamming_.
 
 ### Autonomous Mode
 
-Bot and vehicle shells are equipped with [Bot/Vehicle ALIs](../16/13-apps-and-alis.md#alis-and-muses). In autonomous mode, the drone’s AI operates on its own, though it also follows commands issued verbally or via a communications link or entoptic control panel by an authorized entity. Issuing a one-sentence command is a mental quick action; commands can be issued to multiple drones at once. More complex commands may take longer, or can be prepared in advance with a Program Test. The AI may need to pass a COG Check to understand especially confusing or incomplete commands.
+Bot and vehicle shells are equipped with [Bot/Vehicle ALIs](13-apps-and-alis.md#alis-and-muses). In autonomous mode, the drone’s AI operates on its own, though it also follows commands issued verbally or via a communications link or entoptic control panel by an authorized entity. Issuing a one-sentence command is a mental quick action; commands can be issued to multiple drones at once. More complex commands may take longer, or can be prepared in advance with a Program Test. The AI may need to pass a COG Check to understand especially confusing or incomplete commands.
 
 Autonomous drones use their own Initiative, skills, and pools.
 
@@ -29,7 +29,7 @@ Autonomous drones use their own Initiative, skills, and pools.
 
 You jam a drone by immersing yourself in an AR overlay of the drone’s body and sensorium, including proprioception — you essentially become the drone. Engaging or disengaging from jamming mode is a quick action. While immersed, you suffer a −30 modifier to Perceive Tests and physical actions involving your own morph. Jamming feels much like resleeving and you must make an [Integration Test](../15/02-resleeving.md#integration-test) to acclimate to the drone’s form.
 
-Treat jamming the same as if you sleeved the drone; use the drone’s pools instead of your own morph’s. However, since jamming is slightly inferior to actual sleeving, you suffer a −10 modifier to all actions (unless you are equipped with [drone rig ware](../16/08-mental-augmentations.md)).
+Treat jamming the same as if you sleeved the drone; use the drone’s pools instead of your own morph’s. However, since jamming is slightly inferior to actual sleeving, you suffer a −10 modifier to all actions (unless you are equipped with [drone rig ware](08-mental-augmentations.md)).
 
 ## Combat Bots
 
@@ -163,7 +163,7 @@ Personal bots are worn or found throughout transhuman habitats.
 
 **Creepy:** Creepies come in an eclectic variety of forms, from robo-squirrels to insectoids to bizarre artsy mechanical creatures. Creepies were originally designed as a robotic pet, but are commonly used as a general-purpose household minion, like a more beloved servitor. Many people wear a creepy on their person, dropping it to handle small tasks for them and letting it crawl up, down, and over their body.
 
-**Manipulator:** This bot takes the form of an extra limb and a supportive band, bracing frame, rig, or cuff for wearing it. The manipulator can be meshed and treated as an extension of your body or detached for autonomous operation or remote control. Though human arm designs are common, a variety of limb designs are available, from claws to tentacles. Treat as a [cyberlimb plus](../16/11-physical-augmentations.md) when worn.
+**Manipulator:** This bot takes the form of an extra limb and a supportive band, bracing frame, rig, or cuff for wearing it. The manipulator can be meshed and treated as an extension of your body or detached for autonomous operation or remote control. Though human arm designs are common, a variety of limb designs are available, from claws to tentacles. Treat as a [cyberlimb plus](11-physical-augmentations.md) when worn.
 
 **Servitor:** Servitors are the most common robot, acting as cooks, janitors, universal helpers, movers, and personal aides. Every home has one, if not several. They come in a variety of non-humanoid shapes and sizes, though most are medium sized, with 4–8 limbs on average.
 

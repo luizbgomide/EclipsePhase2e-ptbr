@@ -1,6 +1,6 @@
 # Step 4: Faction
 
-Now that you have a rough orientation for your character’s background and skill sets, it’s time to pick a faction to which they hold allegiance. Each choice provides a [motivation](../04/16-step-13-motivations.md) and a skill of Know: \[Faction\] 30. The Factions sidebar provides a brief summary of each group; further details can be found on [Factions](../10/00-factions.md).
+Now that you have a rough orientation for your character’s background and skill sets, it’s time to pick a faction to which they hold allegiance. Each choice provides a [motivation](16-step-13-motivations.md) and a skill of Know: \[Faction\] 30. The Factions sidebar provides a brief summary of each group; further details can be found on [Factions](../10/00-factions.md).
 
 If you are unsure of what faction to pick at this time, you may skip this section for now and determine your faction, motivation, and Know skill during gameplay. You also can choose not to have a faction — not everyone picks sides. If going factionless, simply choose your own motivation and take any Know skill you like at 30.
 

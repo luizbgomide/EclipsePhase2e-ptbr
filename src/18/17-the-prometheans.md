@@ -6,4 +6,4 @@ The Prometheans allied to Firewall are complex beings with far-ranging interests
 
 The Prometheans are potent allies but should be used with care. Even unraveling hints of their existence could fuel an entire campaign, but the mysteries at the heart of Firewall’s conspiracy are likely to create more questions than they answer.
 
-Prometheans occasionally make use of stripped-down forks to take a more direct role in affairs. These use the same stats as TITAN [Fetches](../18/22-titan-machines-and-minions.md#fetch), except that they do not carry the exsurgent virus.
+Prometheans occasionally make use of stripped-down forks to take a more direct role in affairs. These use the same stats as TITAN [Fetches](22-titan-machines-and-minions.md#fetch), except that they do not carry the exsurgent virus.

@@ -10,9 +10,9 @@ For people who do not freely disclose their location, the following rules apply.
 
 ### Tracing by Mesh ID
 
-To track the current or last known physical location of a [mesh ID](../13/05-authentication-and-encryption.md#mesh-id) requires a Research Test. If successful, the results are returned instantly if the target is within the local mesh region; targets further away may take longer, as dictated by distance lag. Superior successes may fine-tune the location or provide supplementary details such as live sensor footage.
+To track the current or last known physical location of a [mesh ID](05-authentication-and-encryption.md#mesh-id) requires a Research Test. If successful, the results are returned instantly if the target is within the local mesh region; targets further away may take longer, as dictated by distance lag. Superior successes may fine-tune the location or provide supplementary details such as live sensor footage.
 
-If the target is in [privacy mode](../13/01-everyware.md#privacy-mode), apply a −30 modifier to this test. If the target is actively disguising their activity by spoofing mesh IDs or cycling through false mesh IDs, this becomes an opposed test pitting Research against the target’s Infosec skill, with a timeframe of 1 hour. If the target is using an anonymizing service, they can only be tracked back to the service itself ([Anonymizer](../16/04-services.md#mesh-services)).
+If the target is in [privacy mode](01-everyware.md#privacy-mode), apply a −30 modifier to this test. If the target is actively disguising their activity by spoofing mesh IDs or cycling through false mesh IDs, this becomes an opposed test pitting Research against the target’s Infosec skill, with a timeframe of 1 hour. If the target is using an anonymizing service, they can only be tracked back to the service itself ([Anonymizer](../16/04-services.md#mesh-services)).
 
 ### Tracking by Biometrics
 
@@ -51,15 +51,15 @@ Most hypercorps and governments have access to vast databases compiled by market
 
 It is tricky, but not impossible, to acquire a far more detailed assessment of someone’s mesh activity: rep-net interactions, services used, sites browsed, people messaged, etc. At the least, this would entail knowing their mesh ID and applying a −30 obscure data modifier to your Research Test, simply because you would largely be relying on access and transaction logs which are only rarely public. A slightly better approach is to focus on one specific type of activity — for example, use of certain online services — and either deploy some judicious low-level hacking (summarized with a quick-and-dirty Infosec Test, timeframe of 1 hour) or use rep favors, bribes, or threats to get the info you need. The GM must use their best judgment here when applying modifiers.
 
-Tracking someone’s activity on a single system is much easier, requiring a [monitor activity action](../13/06-mesh-actions.md#security-actions).
+Tracking someone’s activity on a single system is much easier, requiring a [monitor activity action](06-mesh-actions.md#security-actions).
 
 ### Active Monitoring
 
-By far, the best approach to monitor someone’s mesh activity, especially in real-time, is to actively analyze their mesh traffic. This can be done remotely and requires only their mesh ID and a sniffer app ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)). Alternatively, you can hack their PAN and monitor what they do from there.
+By far, the best approach to monitor someone’s mesh activity, especially in real-time, is to actively analyze their mesh traffic. This can be done remotely and requires only their mesh ID and a sniffer app ([Sniffing](04-devices-apps-and-links.md#sniffing)). Alternatively, you can hack their PAN and monitor what they do from there.
 
 ## Tracking Countermeasures
 
-Given the prevalence of surveillance and mesh tracking, covert operatives and those concerned about their privacy have several options above and beyond simple [privacy mode](../13/01-everyware.md#privacy-mode).
+Given the prevalence of surveillance and mesh tracking, covert operatives and those concerned about their privacy have several options above and beyond simple [privacy mode](01-everyware.md#privacy-mode).
 
 ### Burner Mesh IDs
 
@@ -77,4 +77,4 @@ Tracking an anonymous account is a practical impossibility and something that on
 
 ### Spoofing Mesh IDs
 
-Some hackers prefer to mask themselves as other users, either as a red herring, a statement, or to frame someone else. This follows the same procedure as spoofing someone for authentication ([Spoofing](../13/05-authentication-and-encryption.md#spoofing)).
+Some hackers prefer to mask themselves as other users, either as a red herring, a statement, or to frame someone else. This follows the same procedure as spoofing someone for authentication ([Spoofing](05-authentication-and-encryption.md#spoofing)).

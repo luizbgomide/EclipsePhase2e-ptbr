@@ -18,15 +18,15 @@ A host can be home to only one infomorph at a time; servers may run multiple inf
 
 ### Inadequate Devices
 
-Some devices lack the full processing power required to run an infomorph. This includes outdated systems, devices that have suffered extensive damage, partially functioning servers running in long-abandoned outposts, ad-hoc cobbled-together systems, and some motes from which the resident ALI has been deleted. Infomorphs may still run these devices, but suffer the same modifiers as for an [overloaded device](../13/04-devices-apps-and-links.md#overloaded-devices). Infomorphs find running on sub-par hardware to be a deeply unpleasant and frustrating experience.
+Some devices lack the full processing power required to run an infomorph. This includes outdated systems, devices that have suffered extensive damage, partially functioning servers running in long-abandoned outposts, ad-hoc cobbled-together systems, and some motes from which the resident ALI has been deleted. Infomorphs may still run these devices, but suffer the same modifiers as for an [overloaded device](04-devices-apps-and-links.md#overloaded-devices). Infomorphs find running on sub-par hardware to be a deeply unpleasant and frustrating experience.
 
 ### Distributed Infomorphs
 
 Rather than residing on a single home device, an infomorph can run itself as a distributed neural net using multiple devices at once. Mesh networks make this easy, as devices set aside a portion of their capabilities for public access and meshed devices share processing loads with each other. An infomorph can even run itself as a distributed process using only motes, though this requires 5 at minimum. Meshed together, these motes can handle the mind-state’s storage and processing requirements.
 
-Running as a distributed infomorph has its advantages. Attempts to track you via [mesh ID](../13/05-authentication-and-encryption.md#mesh-id) suffer a −10 modifier. You also acquire a degree of invulnerability in [mesh combat](../13/14-mesh-combat.md), as you must be crashed on each device to be completely taken out. You must split your Durability evenly between devices but your Wound Threshold remains the same. However, your attack surface also increases: you can be targeted for hacking and brainhacking on multiple devices. Each device you are distributed upon counts as a home device. If your presence on a device (or the device itself) crashes, you suffer a wound.
+Running as a distributed infomorph has its advantages. Attempts to track you via [mesh ID](05-authentication-and-encryption.md#mesh-id) suffer a −10 modifier. You also acquire a degree of invulnerability in [mesh combat](14-mesh-combat.md), as you must be crashed on each device to be completely taken out. You must split your Durability evenly between devices but your Wound Threshold remains the same. However, your attack surface also increases: you can be targeted for hacking and brainhacking on multiple devices. Each device you are distributed upon counts as a home device. If your presence on a device (or the device itself) crashes, you suffer a wound.
 
-Properly distributing yourself takes 1 action turn per device; re-integrating onto a single device takes the same time. If you are ever running on less than 5 motes alone, apply modifiers as if operating on an [overloaded device](../13/04-devices-apps-and-links.md#overloaded-devices). If you stretch yourself between too many devices (more than 10), you incur a −10 modifier to all actions per increment of 10 devices as your distributed mind suffers communication lag.
+Properly distributing yourself takes 1 action turn per device; re-integrating onto a single device takes the same time. If you are ever running on less than 5 motes alone, apply modifiers as if operating on an [overloaded device](04-devices-apps-and-links.md#overloaded-devices). If you stretch yourself between too many devices (more than 10), you incur a −10 modifier to all actions per increment of 10 devices as your distributed mind suffers communication lag.
 
 ## Digital Speeds
 
@@ -74,7 +74,7 @@ Many infomorphs have a muse, just like other characters. Lacking cranial implant
 
 Active infomorphs can be carried by embodied PCs in a [ghostrider module](../16/08-mental-augmentations.md), in mesh inserts in place of a muse, or in any physically carried host or server. This is useful for PC infomorphs that wish to stick with the team or for any PCs that were egocasted or killed and haven’t yet resleeved. It is also a useful option for having forks on hand.
 
-Infomorph riders may remain active even when their host morph is sleeping or incapacitated ([Damage and Infomorph Riders](../13/15-hardware-damage.md#damage-and-infomorph-riders)).
+Infomorph riders may remain active even when their host morph is sleeping or incapacitated ([Damage and Infomorph Riders](15-hardware-damage.md#damage-and-infomorph-riders)).
 
 <blockquote>
 

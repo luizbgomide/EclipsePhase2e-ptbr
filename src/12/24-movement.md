@@ -56,7 +56,7 @@ Some movement is far more challenging: climbing a sheer wall, sneaking quietly, 
 
 ### Movement in Different Gravities
 
-The listed Movement Rates assume standard Earth gravity (1&nbsp;g). If you’re moving in a low-gravity, microgravity, or high-gravity environment ([Gravity](../12/28-environmental-factors.md#gravity)), things change.
+The listed Movement Rates assume standard Earth gravity (1&nbsp;g). If you’re moving in a low-gravity, microgravity, or high-gravity environment ([Gravity](28-environmental-factors.md#gravity)), things change.
 
 If you are climbing, pulling, or pushing yourself along in micrograv, you move at half your walker Movement Rate (i.e., 4/20 becomes 2/10). You can also jump any distance, though you cross at a rate equal to your movement action when you launched.
 
@@ -70,7 +70,7 @@ It is beyond the scope of this book to assess the impact of different gravities 
 
 The rules above are biased towards humanoid morphs, but there are many morphs, shells, and creatures with different body plans and/or other mobility systems. Synthmorphs can add mobilty systems as [ware](../16/11-physical-augmentations.md). The movement types below list the skill used to maneuver and a default Movement Rate, though GMs should adjust this as appropriate to account for size, bulk, extra limbs, etc.
 
-To keep the movement rates simple for GMs handling action scenes abstractly, we have mapped each movement type to a speed range: very slow (2/8), slow (4/12), medium (4/20), fast (8/32), and very fast (8/40). Many shells are capable of even faster movement; this is discussed under [Vehicle Movement](../12/25-vehicle-movement.md).
+To keep the movement rates simple for GMs handling action scenes abstractly, we have mapped each movement type to a speed range: very slow (2/8), slow (4/12), medium (4/20), fast (8/32), and very fast (8/40). Many shells are capable of even faster movement; this is discussed under [Vehicle Movement](25-vehicle-movement.md).
 
 ### Boat
 

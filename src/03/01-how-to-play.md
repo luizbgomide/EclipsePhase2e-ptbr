@@ -18,13 +18,13 @@ Roll the dice when the results may influence the plot or have other consequences
 
 When the GM calls for a test, roll percentile dice and compare the result to the target number. The target number is based on the character’s skill, aptitude check, or rep network score. If the result is equal to or less than the target number, the test succeeds. If the result is higher, the test fails.
 
-Though you want to roll equal to or under the target number, you also want to roll as high as possible in order to get a [superior success](../03/01-how-to-play.md#superior-results-3366-rule) or to beat your opponent in [opposed tests](../03/02-types-of-tests.md#opposed-tests).
+Though you want to roll equal to or under the target number, you also want to roll as high as possible in order to get a [superior success](01-how-to-play.md#superior-results-3366-rule) or to beat your opponent in [opposed tests](02-types-of-tests.md#opposed-tests).
 
 ## Who Rolls?
 
 Players roll the dice when making tests for their characters; GMs roll for NPCs. Sometimes the GM makes tests for PCs in secret, so as not to alert players to something their characters wouldn’t know, like whether or not they spot a clue. It’s a good idea for GMs to keep a copy of the PC character sheets on hand.
 
-Treat multiple characters engaging in the same activity — such as a group searching a room or someone attempting to calm an angry mob — as a single entity. In this case, simply roll once for the group, using the highest skill among them — or the lowest, if the group is an impediment. If the result may separately impact multiple characters, however, have them roll individually. If a group of characters actively cooperates on a test, use the [teamwork rules](../03/01-how-to-play.md#teamwork).
+Treat multiple characters engaging in the same activity — such as a group searching a room or someone attempting to calm an angry mob — as a single entity. In this case, simply roll once for the group, using the highest skill among them — or the lowest, if the group is an impediment. If the result may separately impact multiple characters, however, have them roll individually. If a group of characters actively cooperates on a test, use the [teamwork rules](01-how-to-play.md#teamwork).
 
 ## Difficulty and Modifiers
 
@@ -94,6 +94,6 @@ The GM may decide that some tests require specialized knowledge or training and 
 
 Multiple characters may cooperate on a test, such as pushing open a door or repairing a robot together. These collaborators must reasonably be able to communicate and work together in an efficient fashion. Only one character rolls for the test (usually the one with the highest skill). Each additional contributing character provides a +10 modifier, up to a maximum of +30.
 
-Only the character making the test can use [pools](../03/05-pools.md) to affect the test.
+Only the character making the test can use [pools](05-pools.md) to affect the test.
 
 For tests involving Know, Technical, or Vehicle [skills](../04/18-skills.md), collaborating characters must possess the tested skill at 40 or more to provide a teamwork bonus.

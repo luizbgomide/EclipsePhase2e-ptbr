@@ -50,7 +50,7 @@ No mission survives contact with the enemy, and no logistics plan can anticipate
 
 - **Use Rep:** Succeed in a Rep Test and use an appropriate favor. The favor is Minor for Minor complexity items, Moderate for Moderate items, and Major for Major items ([Networking](../15/13-networking.md)).
 - **Use Resources Trait:** Spend currency to buy it ([Resources](../04/28-traits.md#resources)).
-- **Use a Nanofabricator:** Make it yourself. This requires blueprints (or Program skill to DIY) and access to a capable nanofabber ([Nanofabrication](../16/03-nanofabrication.md)).
+- **Use a Nanofabricator:** Make it yourself. This requires blueprints (or Program skill to DIY) and access to a capable nanofabber ([Nanofabrication](03-nanofabrication.md)).
 
 ### Acquisition Timeframe
 
@@ -72,7 +72,7 @@ If the test (if any) is successful, you acquire/purchase/make the gear once the 
 
 ### Physical vs. Blueprints
 
-When using rep or Resources to acquire gear, you choose between a physical item or a single-use blueprint accessed via a digital distribution platform ([Getting Blueprints](../16/03-nanofabrication.md#getting-blueprints)). Single-use blueprints have a much quicker timeframe (1 minute). If the GM allows it, you may acquire a limited-use blueprint instead of single-use. Multi-use blueprints are also available, but are harder to get; increase the complexity by one step (i.e., Minor becomes Moderate). For simplicity, multi-use blueprints are assumed to come with one physical copy of the item.
+When using rep or Resources to acquire gear, you choose between a physical item or a single-use blueprint accessed via a digital distribution platform ([Getting Blueprints](03-nanofabrication.md#getting-blueprints)). Single-use blueprints have a much quicker timeframe (1 minute). If the GM allows it, you may acquire a limited-use blueprint instead of single-use. Multi-use blueprints are also available, but are harder to get; increase the complexity by one step (i.e., Minor becomes Moderate). For simplicity, multi-use blueprints are assumed to come with one physical copy of the item.
 
 When acquiring software or similar digital-only goods, the 1-minute timeframe also applies.
 

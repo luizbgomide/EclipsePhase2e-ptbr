@@ -48,7 +48,7 @@ You can take a called shot to knock a weapon out of an opponent’s hand(s) or o
 
 ### Knockdown
 
-You may call your shot to knock an opponent down rather than injure them. A knocked-down opponent is [prone](../12/21-other-action-factors.md#conditions) and must take a quick action to stand again. An additional superior success may be used to inflict damage as normal.
+You may call your shot to knock an opponent down rather than injure them. A knocked-down opponent is [prone](21-other-action-factors.md#conditions) and must take a quick action to stand again. An additional superior success may be used to inflict damage as normal.
 
 ### Redirect
 
@@ -56,7 +56,7 @@ A called shot can be used to push your opponent in a specific direction. A redir
 
 ### Specific Target
 
-A called shot can be used to strike a specific location on your opponent: disable a tool on a bot, strike someone in the eyes, or injure their leg. The GM determines the result. For example, the opponent may be blinded or [dazed](../12/21-other-action-factors.md#conditions), have their movement hindered by half, or may lose the use of a specific component.
+A called shot can be used to strike a specific location on your opponent: disable a tool on a bot, strike someone in the eyes, or injure their leg. The GM determines the result. For example, the opponent may be blinded or [dazed](21-other-action-factors.md#conditions), have their movement hindered by half, or may lose the use of a specific component.
 
 ## Coated Weapons
 
@@ -64,7 +64,7 @@ You can coat a melee weapon with a drug or toxin, including those secreted by wa
 
 ## Demolitions
 
-Use Hardware: Demolitions skill to place, disarm, or manufacture explosive devices such as [superthermite](../16/18-mission-gear.md#salvage-tools) or [grenades](../12/10-seeker-weapons-and-grenades.md).
+Use Hardware: Demolitions skill to place, disarm, or manufacture explosive devices such as [superthermite](../16/18-mission-gear.md#salvage-tools) or [grenades](10-seeker-weapons-and-grenades.md).
 
 ### Placing Explosives
 
@@ -105,7 +105,7 @@ You can wield two weapons at once in combat — or even more if sleeved in an oc
 
 ### Extra Melee Weapons
 
-If attacking multiple targets in melee with the same complex action, simply make each attack separately ([Multiple Targets](../12/02-melee-combat.md#multiple-targets)).
+If attacking multiple targets in melee with the same complex action, simply make each attack separately ([Multiple Targets](02-melee-combat.md#multiple-targets)).
 
 Treat the use of two or more melee weapons against one target as a single attack, rather than multiple. Each additional weapon applies +1d6&nbsp;DV to the attack (up to a maximum +3d6). The penalty for the [Dominant Limb negative trait](../04/28-traits.md#dominant-limb) is ignored in this case.
 

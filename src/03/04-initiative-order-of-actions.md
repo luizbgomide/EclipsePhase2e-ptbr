@@ -10,7 +10,7 @@ At the beginning of an action sequence, every character rolls for initiative. Ro
 
 ## Taking the Initiative
 
-You may spend [Vigor](../03/05-pools.md#vigor) to go first in Initiative order. You may also spend Insight to go first, if you are only taking mental or mesh actions and no physical movement. You return to your regular Initiative roll order the next round. If multiple characters spend Insight or Vigor, they go in Initiative order first, followed by everyone else.
+You may spend [Vigor](05-pools.md#vigor) to go first in Initiative order. You may also spend Insight to go first, if you are only taking mental or mesh actions and no physical movement. You return to your regular Initiative roll order the next round. If multiple characters spend Insight or Vigor, they go in Initiative order first, followed by everyone else.
 
 ## Delaying Actions
 
@@ -22,4 +22,4 @@ If multiple characters delay and choose to act at the same time, the one with th
 
 ## Extra Actions
 
-You may spend [Vigor](../03/05-pools.md#vigor) or [Insight](../03/05-pools.md#insight) for an extra physical or mental action each turn. These extra complex or quick actions take place at the end of the turn, after everyone else has gone. If multiple characters take extra actions, they are handled in Initiative order. You cannot take more than two extra actions in a single action turn.
+You may spend [Vigor](05-pools.md#vigor) or [Insight](05-pools.md#insight) for an extra physical or mental action each turn. These extra complex or quick actions take place at the end of the turn, after everyone else has gone. If multiple characters take extra actions, they are handled in Initiative order. You cannot take more than two extra actions in a single action turn.

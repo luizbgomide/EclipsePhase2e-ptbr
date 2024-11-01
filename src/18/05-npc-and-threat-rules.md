@@ -9,7 +9,7 @@ Each threat is given a classification:
 - **AI:** Infolife and other digital entities primarily found in infomorph form (not including TITAN constructs). These follow the rules for [infomorphs](../13/08-infomorphs.md).
 - **Alien:** Sapient biological alien life. These have the Non-Human Biochemistry (Level 2) trait. Psi sleights might not work against these creatures or may be more difficult.
 - **Exhuman:** Transhumans that have modified themselves via dangerous methods into something different. Some have the Non-Human Biochemistry trait.
-- **Exsurgent:** Manifestations of exsurgent virus transformations. The specific strain of the [exovirus](../18/13-exsurgent-strains.md) is noted. These have the Non-Human Biochemistry trait.
+- **Exsurgent:** Manifestations of exsurgent virus transformations. The specific strain of the [exovirus](13-exsurgent-strains.md) is noted. These have the Non-Human Biochemistry trait.
 - **Neogenetic:** New life forms created from scratch. Some have the Non-Human Biochemistry trait.
 - **Tech:** Autonomous robots, nanoswarms, and nanoplagues — sometimes of alien origin. These follow the rules for [synthmorphs and bots](../04/25-synthmorphs.md).
 - **Transhuman:** NPCs that follow normal character rules.

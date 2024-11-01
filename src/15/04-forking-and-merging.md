@@ -22,7 +22,7 @@ Some people prefer to use forks of themselves or loved ones rather than a muse. 
 
 The process for making a fork varies according to the type:
 
-New forks must make [Integration and Resleeving Stress Tests](../15/02-resleeving.md#resleeving-tests) when they are created, though GMs should waive this for forks that are inconsequential to the story or plot.
+New forks must make [Integration and Resleeving Stress Tests](02-resleeving.md#resleeving-tests) when they are created, though GMs should waive this for forks that are inconsequential to the story or plot.
 
 Forks are instanced as [digimorphs](../04/26-infomorphs.md#digimorph), unless another type of infomorph is available. They can also be sleeved into physical morphs.
 
@@ -41,7 +41,7 @@ You create a beta fork by running an alpha fork through a process known as _neur
 - Ego Flex pool has a maximum value of 1.
 - The Psi trait is removed. At the GM’s discretion, other ego traits may no longer apply as well.
 
-Additional changes may apply as determined by the [neural pruning test](../15/06-psychosurgery-procedures.md#neural-pruning).
+Additional changes may apply as determined by the [neural pruning test](06-psychosurgery-procedures.md#neural-pruning).
 
 ### Gamma Forks
 
@@ -59,13 +59,13 @@ Transhumanity’s grasp of neuroscience extends to scanning and copying a mind, 
 
 Specific memories cannot be excised or chosen — at best, memories may be handled in broad clumps, typically grouped by time periods no finer than 6 months. For simplicity, most beta forks are created by removing all memories older than 1 year.
 
-The rules for neural pruning are detailed on [Neural Pruning](../15/06-psychosurgery-procedures.md#neural-pruning).
+The rules for neural pruning are detailed on [Neural Pruning](06-psychosurgery-procedures.md#neural-pruning).
 
 ### Careful Pruning
 
 Rather than generating a fork quickly, you may prefer to carefully craft a beta fork with long-term psychosurgery, meaning that it suffers fewer drawbacks. Such carefully pruned forks can be kept on hand, stored as inert files that can be called up, copied, and run as needed. The drawback to carefully pruned forks is that they are not based on a recent version of you — their memories will not be up-to-date. They are also more difficult to merge, as they are based on significantly older versions of yourself. They are ideal for fire-and-forget tasks, where the fork is abandoned or deleted afterwards.
 
-Careful pruning uses the same rules as [neural pruning](../15/06-psychosurgery-procedures.md#neural-pruning), but with a timeframe of 30 days and a +30 modifier.
+Careful pruning uses the same rules as [neural pruning](06-psychosurgery-procedures.md#neural-pruning), but with a timeframe of 30 days and a +30 modifier.
 
 ## Handling Forks
 
@@ -79,4 +79,4 @@ It is entirely possible that a fork might decide that it will no longer obey the
 
 Merging is the process of re-integrating a fork with the originating ego. Merging is performed on conscious egos/forks, transferring both to a single, merged ego. The process is not difficult to undergo when two forks have only been apart a short time. As forks spend more time apart, merging becomes a severe mental ordeal.
 
-Merging often results in mental stress and/or lost fork memories. The result of the process is a unified ego, whether or not the Merging Test succeeds. Psychosurgery can troubleshoot bad merges over time. The rules for merging are detailed on [Merging](../15/06-psychosurgery-procedures.md#merging).
+Merging often results in mental stress and/or lost fork memories. The result of the process is a unified ego, whether or not the Merging Test succeeds. Psychosurgery can troubleshoot bad merges over time. The rules for merging are detailed on [Merging](06-psychosurgery-procedures.md#merging).

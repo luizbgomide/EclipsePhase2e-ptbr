@@ -1,22 +1,22 @@
 # System Subversion
 
-Once you have successfully penetrated a system, your options will depend on your access privileges and the nature of the system. Many of the actions you take as an intruder are not that different from a regular user: searching files, operating devices, etc. See [Mesh Actions](../13/06-mesh-actions.md).
+Once you have successfully penetrated a system, your options will depend on your access privileges and the nature of the system. Many of the actions you take as an intruder are not that different from a regular user: searching files, operating devices, etc. See [Mesh Actions](06-mesh-actions.md).
 
-Any time you attempt to do something that your [access privileges](../13/05-authentication-and-encryption.md#accounts--access-privileges) do not allow for, you must hack the system to do what you want. In most cases, this requires a [Hacking Test](../13/11-hacking.md#hacking-tests). Apply modifiers from ongoing [system alerts](../13/12-countermeasures.md#security-alerts). If you win the contest, you succeed, but each attempt puts you in risk of discovery if you roll a superior or critical failure ([Exposure](../13/11-hacking.md#exposure)).
+Any time you attempt to do something that your [access privileges](05-authentication-and-encryption.md#accounts--access-privileges) do not allow for, you must hack the system to do what you want. In most cases, this requires a [Hacking Test](11-hacking.md#hacking-tests). Apply modifiers from ongoing [system alerts](12-countermeasures.md#security-alerts). If you win the contest, you succeed, but each attempt puts you in risk of discovery if you roll a superior or critical failure ([Exposure](11-hacking.md#exposure)).
 
 Aside from exceeding your privileges, there are some techniques that are explicitly subversive. A sampling of common subversions are described below; GMs should use these as guidelines for arbitrating others.
 
 ## Break Encryption
 
-You can attempt to decrypt an encrypted file without proper authorization ([Codebreaking](../13/05-authentication-and-encryption.md#codebreaking)).
+You can attempt to decrypt an encrypted file without proper authorization ([Codebreaking](05-authentication-and-encryption.md#codebreaking)).
 
 ## Control Ware
 
-If hacking mesh inserts, a cyberbrain ([Mindware Hacking](../13/17-mindware-hacking.md)), or a PAN’s master node, you will have privileged access to a morph’s ware — not to mention hacking the ware directly. A hacker can use this to (de)activate the ware, modify its functioning parameters, access diagnostics and usage logs, or install [scripts](../13/06-mesh-actions.md#scripting) to manipulate this ware in the future, among other creative uses.
+If hacking mesh inserts, a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), or a PAN’s master node, you will have privileged access to a morph’s ware — not to mention hacking the ware directly. A hacker can use this to (de)activate the ware, modify its functioning parameters, access diagnostics and usage logs, or install [scripts](06-mesh-actions.md#scripting) to manipulate this ware in the future, among other creative uses.
 
 ## Disable Safety Mechanisms
 
-Many systems have safety features in place to prevent people from accidentally (or intentionally) harming themselves or others. You may override the warnings and mechanisms of safety systems by winning a Hacking Test. A −30 modifier applies, as such systems are built with redundant features. This can be used to open both sides of an airlock simultaneously, mute the imminent collision alert on a spacecraft, or to prevent authorized users from being notified of tampered equipment or dangerous circumstances. At the GM’s discretion, some safety features may automatically restart, requiring suppression ([Suppress Process](../13/13-system-subversion.md#suppress-process)).
+Many systems have safety features in place to prevent people from accidentally (or intentionally) harming themselves or others. You may override the warnings and mechanisms of safety systems by winning a Hacking Test. A −30 modifier applies, as such systems are built with redundant features. This can be used to open both sides of an airlock simultaneously, mute the imminent collision alert on a spacecraft, or to prevent authorized users from being notified of tampered equipment or dangerous circumstances. At the GM’s discretion, some safety features may automatically restart, requiring suppression ([Suppress Process](13-system-subversion.md#suppress-process)).
 
 ## Edit AR Feed
 
@@ -24,11 +24,11 @@ If hacking a device broadcasting AR, you can selectively block or edit out speci
 
 ## Eliminate Traces
 
-To hinder [security audits](../13/12-countermeasures.md#security-audits), you can clean up evidence of your intrusion before you exit a system. This involves erasing incriminating data in the access and security logs and otherwise hiding any evidence of system tampering. Take a complex action and make a Hacking Test. If successful, you wipe away details that might be used to track you down or reveal what you did, including your mesh ID.
+To hinder [security audits](12-countermeasures.md#security-audits), you can clean up evidence of your intrusion before you exit a system. This involves erasing incriminating data in the access and security logs and otherwise hiding any evidence of system tampering. Take a complex action and make a Hacking Test. If successful, you wipe away details that might be used to track you down or reveal what you did, including your mesh ID.
 
 ## Force Re-authentication
 
-While sniffing a target, you can break the connection and force them to re-authenticate in order to capture their login credentials ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)). This requires winning a Hacking Test against the authenticating firewall.
+While sniffing a target, you can break the connection and force them to re-authenticate in order to capture their login credentials ([Sniffing](04-devices-apps-and-links.md#sniffing)). This requires winning a Hacking Test against the authenticating firewall.
 
 ## Hide File or Process
 
@@ -52,7 +52,7 @@ Backdoors are ways into a system that bypass normal authentication and security 
 
 Most backdoors are installed by replacing an existing app with a copy that was modified to incorporate a vulnerability that allows instant remote access to the system. The trick lies in making the copied app look like the unmodified original, so that it isn’t detected during security audits.
 
-To install a backdoor, you must have access to the system, take a complex action, and win a Hacking Test. Apply a −20 modifier if you want the backdoor to provide security access privileges, −30 for admin privileges. If you succeed, the backdoor is installed — you may use it to access the system without making a test until it is removed; you automatically acquire covert status. Every superior success applies a −10 modifier towards attempts to discover the backdoor later ([Security Audits](../13/12-countermeasures.md#security-audits)). On a critical success, the backdoor provides hidden status.
+To install a backdoor, you must have access to the system, take a complex action, and win a Hacking Test. Apply a −20 modifier if you want the backdoor to provide security access privileges, −30 for admin privileges. If you succeed, the backdoor is installed — you may use it to access the system without making a test until it is removed; you automatically acquire covert status. Every superior success applies a −10 modifier towards attempts to discover the backdoor later ([Security Audits](12-countermeasures.md#security-audits)). On a critical success, the backdoor provides hidden status.
 
 ## Install Blocker
 
@@ -64,7 +64,7 @@ Blockers are not omnipotent; GMs should use their best judgment when defining th
 
 You can transmit radio signals that deliberately interfere with other radio signals in order to disrupt communications. You can choose to selectively jam a particular device or devices, or universally jam all radio signals. Jamming requires a complex action and an Interface Test to initiate. If successful, affected devices within range have their radio communications disrupted — they are cut off from the mesh and cannot communicate wirelessly until the jamming ends or they move out of range. Wired devices are unaffected.
 
-Jamming is quite difficult to overcome ([Bypass Jamming](../13/06-mesh-actions.md#security-actions)). Jamming may also be used to block radar signals and sensors.
+Jamming is quite difficult to overcome ([Bypass Jamming](06-mesh-actions.md#security-actions)). Jamming may also be used to block radar signals and sensors.
 
 ## Loop Sensor Feed
 
@@ -76,7 +76,7 @@ If hacking a tacnet-enabled system, you can alter, block, or inject tacnet data 
 
 ## Sniff Traffic
 
-You can intercept and monitor wireless traffic ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
+You can intercept and monitor wireless traffic ([Sniffing](04-devices-apps-and-links.md#sniffing)).
 
 ## Suppress Alarm
 
@@ -84,7 +84,7 @@ You can attempt to turn off a passive alert by winning a Hacking Test. The syste
 
 ## Suppress Process
 
-Many hacking techniques are fire-and-forget — you disable a function, kill the app, terminate the connection, etc. — and move on. The disruption is temporary; the system defender or another user can simply restart the process. Some systems are designed to automatically restart certain processes on their own (GM discretion). To prevent the process from restarting, you need to delete the underlying software from the system (usually requiring admin privileges; [Modify Software](../13/06-mesh-actions.md#admin-actions)) or you must actively suppress the process.
+Many hacking techniques are fire-and-forget — you disable a function, kill the app, terminate the connection, etc. — and move on. The disruption is temporary; the system defender or another user can simply restart the process. Some systems are designed to automatically restart certain processes on their own (GM discretion). To prevent the process from restarting, you need to delete the underlying software from the system (usually requiring admin privileges; [Modify Software](06-mesh-actions.md#admin-actions)) or you must actively suppress the process.
 
 Suppressing a process requires a complex action each action turn. This will counteract the system’s automatic attempts to restart the process. Anyone that wishes to restart the process must successfully defeat you in an Opposed Infosec Test though it may be terminated again … unless termination is blocked.
 
@@ -96,7 +96,7 @@ You can access and monitor any augmented reality experienced by a user as if it 
 
 ## Tap Senses
 
-If hacking mesh inserts or a cyberbrain ([Mindware Hacking](../13/17-mindware-hacking.md)), you can tap into the target’s sensorium for surveillance purposes.
+If hacking mesh inserts or a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), you can tap into the target’s sensorium for surveillance purposes.
 
 Sensory data may also be recorded or broadcast as XP.
 

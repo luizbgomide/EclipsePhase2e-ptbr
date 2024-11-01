@@ -31,7 +31,7 @@ Armor modifications add extra materials or coatings that either enhance resistan
 
 **Medical/Repair:** For biomorphs, the medical coating stops blood flow, seals injuries, and treats wounds with stem cells and medical nanobots. The repair mod does the same for synthmorphs, repairing severed connections and reconstructing the shell and internal mechanisms. Both nullify the modifiers from 1 wound and repair DV 1d10 per hour.
 
-**Offensive:** When activated, this layer shocks anyone or anything it contacts. Treat as a [shock attack](../12/15-special-attacks.md#shock-attacks).
+**Offensive:** When activated, this layer shocks anyone or anything it contacts. Treat as a [shock attack](15-special-attacks.md#shock-attacks).
 
 **Reactive:** This colony of nanobots senses incoming attacks and detonates to disrupt the attack. Bursts and full autofire are treated as a single attack. A reactive coating increases the Armor Value by +3/+3, but each detonation automatically inflicts 1 point of damage on the wearer. Reactive armor also works against melee attacks, inflicting DV 1d6 to the attacker from the microexplosion. A reactive coating only works against 5 attacks (a specialized hive repairs this at the rate of 1 use per hour).
 

@@ -18,7 +18,7 @@ We suggest keeping aptitudes and skills in multiples of 5 for simplicity, but th
 
 ## Skill Summaries
 
-Full skill descriptions are found on [Skills](../04/18-skills.md).
+Full skill descriptions are found on [Skills](18-skills.md).
 
 <!--sorted-->
 **Athletics (SOM):** Physical activity in gravity with a humanoid, uplift, or biomimicked morph, including climbing, running, swimming, gymnastics, throwing, and winged flight.
