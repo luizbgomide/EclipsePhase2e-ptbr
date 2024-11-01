@@ -14,7 +14,7 @@ The reality — as some in Firewall and other groups now suspect — is that the
 
 The exsurgent virus is polymorphic. There are dozens of unique strains, each spread via multiple vectors: biological pathogens, nanoplagues, digital viruses, and even so-called _basilisk hacks_, incapacitating sensory inputs that exploit flaws in our biological and digital brains. As an adaptive entity, the exovirus is most commonly found in digital form — and this is what originally infected the TITANs. However, it is known to switch to different vectors as a situation demands; infected victims and nanofabricators often work to disseminate the exovirus in other forms.
 
-The defining characteristic of these different vectors and strains is the ability to transform transhuman bodies, machines, and minds into _exsurgents_ — pawns of the exovirus, often taking on monstrous [alien forms](../18/14-exsurgent-types.md).
+The defining characteristic of these different vectors and strains is the ability to transform transhuman bodies, machines, and minds into _exsurgents_ — pawns of the exovirus, often taking on monstrous [alien forms](14-exsurgent-types.md).
 
 ### Basilisk Hacks
 
@@ -26,7 +26,7 @@ The widespread use of augmented reality is a boon to the exovirus, as individual
 
 Basilisk hacks are insidious as victims are often not aware they have been affected. They may feel disorientation or a loss of time, without understanding why.
 
-There are three [types of basilisks](../18/10-exsurgent-infection.md#basilisk-hacks), each with different effects: incapacitators, reprogrammers, and subliminals.
+There are three [types of basilisks](10-exsurgent-infection.md#basilisk-hacks), each with different effects: incapacitators, reprogrammers, and subliminals.
 
 ### Biological Pathogen
 
@@ -94,7 +94,7 @@ Exsurgent nanoplagues are advanced, self-replicating nanoswarms with the intent 
 
 ## Countermeasures
 
-Different strains of the exsurgent virus were identified and countered by various governments and health agencies during the Fall, but it was the Argonauts who linked these strains together and coordinated a research and response effort. This endeavor resulted in the first set of protocols for countering and resisting exsurgent infection, which quickly became widely adopted. This began an arms race, as transhumanity struggled to find ways to detect and quarantine the exovirus’s polymorphic features. Fortunately, transhumanity had a secret weapon on its side; the [Promethean ASIs](../18/17-the-prometheans.md) were instrumental in helping eradicate the virus from many systems. As Earth was evacuated and the Fall wound down, it is unclear whether these measures were largely successful or if the TITANs were simply no longer actively spreading the virus. Whatever the case, most known exsurgent infections around the system were defeated, with the exceptions of quarantined areas such as the TQZ on Mars, the New Mumbai Containment Zone on Luna, and the abandoned jupiter-brain project on Iapetus.
+Different strains of the exsurgent virus were identified and countered by various governments and health agencies during the Fall, but it was the Argonauts who linked these strains together and coordinated a research and response effort. This endeavor resulted in the first set of protocols for countering and resisting exsurgent infection, which quickly became widely adopted. This began an arms race, as transhumanity struggled to find ways to detect and quarantine the exovirus’s polymorphic features. Fortunately, transhumanity had a secret weapon on its side; the [Promethean ASIs](17-the-prometheans.md) were instrumental in helping eradicate the virus from many systems. As Earth was evacuated and the Fall wound down, it is unclear whether these measures were largely successful or if the TITANs were simply no longer actively spreading the virus. Whatever the case, most known exsurgent infections around the system were defeated, with the exceptions of quarantined areas such as the TQZ on Mars, the New Mumbai Containment Zone on Luna, and the abandoned jupiter-brain project on Iapetus.
 
 In AF 10, every major habitat screens newcomers for signs of digital, biological, or nano-infection. These countermeasures are maintained and updated regularly by the Argonauts, with widespread cooperation and support from authorities and research groups around the Solar System. This does not mean the exsurgent virus has been eradicated. New outbreaks occur with alarming frequency, but transhumanity has become more adept — or more ruthless — at containing them. As a matter of course, most people in the know assume any remnants of TITAN technology are infected. Undoubtedly undiscovered pockets and dormant infections linger throughout the system, and some are evolving ways to bypass transhumanity’s filters. And despite the mutually agreed-upon ban on researching TITAN weaponry, it is almost a certainty that various hypercorps, singularity seekers, and other researchers are secretly playing with fire. Samples go for extraordinary prices in certain black-market circles.
 

@@ -10,9 +10,9 @@ Asphyxiation is a terrifying process, often leading to panic. Asphyxiating chara
 
 ## Decompression
 
-Habitats and ships sometimes lose air pressure due to damage to their hulls from combat, explosions, space debris collisions, or micrometeor strikes. Most transhumans will quickly recognize the signs of rapid decompression; biomorphs that fail to acquire a supply of air in time may suffer from [asphyxiation](../12/28-environmental-factors.md#asphyxiation).
+Habitats and ships sometimes lose air pressure due to damage to their hulls from combat, explosions, space debris collisions, or micrometeor strikes. Most transhumans will quickly recognize the signs of rapid decompression; biomorphs that fail to acquire a supply of air in time may suffer from [asphyxiation](#asphyxiation).
 
-Explosive decompression occurs when the air pressure suddenly vents all at once and drops to nothing. If you are in the vicinity of a blowout and not tied down, make a REF Check to grab something to hold on to in time to avoid being blasted into space ([Vacuum](../12/29-hostile-environments.md#vacuum)). Even if you succeed, you must continue to make a SOM Check each action turn to hold on until the atmosphere entirely drains. You may also need to make a Fray Test to avoid being struck by debris or other people as they are sucked out (DV 1d10+, depending on local clutter conditions).
+Explosive decompression occurs when the air pressure suddenly vents all at once and drops to nothing. If you are in the vicinity of a blowout and not tied down, make a REF Check to grab something to hold on to in time to avoid being blasted into space ([Vacuum](29-hostile-environments.md#vacuum)). Even if you succeed, you must continue to make a SOM Check each action turn to hold on until the atmosphere entirely drains. You may also need to make a Fray Test to avoid being struck by debris or other people as they are sucked out (DV 1d10+, depending on local clutter conditions).
 
 ## Falling
 
@@ -64,11 +64,11 @@ Most microgravity habitats are equipped with elastic loops to grab onto, mesh po
 
 ### Low Gravity
 
-Low gravity includes anything from 0.5&nbsp;g to microgravity. These conditions are found on Luna, Mars, Titan, and the rotating parts of most spun spacecraft and habitats. Low gravity is not that different from standard gravity, though you can jump twice as far ([Movement](../12/24-movement.md)) and thrown/projectile objects have a longer range ([Range](../12/04-ranged-combat.md#range)).
+Low gravity includes anything from 0.5&nbsp;g to microgravity. These conditions are found on Luna, Mars, Titan, and the rotating parts of most spun spacecraft and habitats. Low gravity is not that different from standard gravity, though you can jump twice as far ([Movement](24-movement.md)) and thrown/projectile objects have a longer range ([Range](04-ranged-combat.md#range)).
 
 ### High Gravity
 
-High gravity is anything significantly stronger than standard Earth gravity (1.2+ g). High gravity in Eclipse Phase is typically only found on exoplanets. High gravity is hard on morphs as they carry more weight, muscles get fatigued from pushing mass around, and the heart must work harder to pump blood. For every 0.2&nbsp;g over 1 to which a character is not acclimated, treat it as if the character is suffering from the effects of 1 wound. At the GM’s discretion, movement rates may also be modified ([Movement](../12/24-movement.md)) and even synthmorph systems may become strained.
+High gravity is anything significantly stronger than standard Earth gravity (1.2+ g). High gravity in Eclipse Phase is typically only found on exoplanets. High gravity is hard on morphs as they carry more weight, muscles get fatigued from pushing mass around, and the heart must work harder to pump blood. For every 0.2&nbsp;g over 1 to which a character is not acclimated, treat it as if the character is suffering from the effects of 1 wound. At the GM’s discretion, movement rates may also be modified ([Movement](24-movement.md)) and even synthmorph systems may become strained.
 
 ## Weather
 

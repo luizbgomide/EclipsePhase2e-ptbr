@@ -1,6 +1,6 @@
 # Watts-MacLeod Sub-Strains
 
-As an async, you are affected by a specific sub-strain of the Watts-MacLeod virus. This sub-strain determines how the exovirus affects you personally. It influences what Mental Disorder trait you start with and provides you with a free bonus sleight. It also impacts the behavioral compulsions and spurred motivations that infection inflicts upon you ([Influence Effects](../14/05-influence-effects.md)). The sub-strain is chosen during character creation (or when your character is infected during gameplay).
+As an async, you are affected by a specific sub-strain of the Watts-MacLeod virus. This sub-strain determines how the exovirus affects you personally. It influences what Mental Disorder trait you start with and provides you with a free bonus sleight. It also impacts the behavioral compulsions and spurred motivations that infection inflicts upon you ([Influence Effects](05-influence-effects.md)). The sub-strain is chosen during character creation (or when your character is infected during gameplay).
 
 ## The Architect
 

@@ -38,7 +38,7 @@ Skills range in value from 0 to 100.
 
 ## Skill Categories
 
-Skills are also assigned to a number of other categories, as noted on the [Skill List](../04/19-active-skill-list.md#skill-list): Combat, Mental, Physical, Psi, Social, Technical, and Vehicle skills. Certain traits, abilities, and modifiers may only apply to skills of a specific category.
+Skills are also assigned to a number of other categories, as noted on the [Skill List](19-active-skill-list.md#skill-list): Combat, Mental, Physical, Psi, Social, Technical, and Vehicle skills. Certain traits, abilities, and modifiers may only apply to skills of a specific category.
 
 ## Field Skills
 

@@ -48,7 +48,7 @@ Taking a hit in ship combat can be devastating. Even small hits and debris will 
 
 ### Boarding
 
-Due to velocities and trajectories, boarding other ships is often not feasible. Polite methods of boarding including hacking or cutting open an [airlock](../15/11-ship-and-habitat-hacking.md#airlocks). Impolite methods involve cutting open the hull and decompressing the interior.
+Due to velocities and trajectories, boarding other ships is often not feasible. Polite methods of boarding including hacking or cutting open an [airlock](11-ship-and-habitat-hacking.md#airlocks). Impolite methods involve cutting open the hull and decompressing the interior.
 
 ## Other Narrative Options
 

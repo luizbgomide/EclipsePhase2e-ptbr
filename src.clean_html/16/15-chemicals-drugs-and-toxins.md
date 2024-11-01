@@ -55,7 +55,7 @@ If you are exposed to a drug or toxin via its method of application — for exam
 
 There is no resistance test to ignore a drug or toxin’s effects, but some may call for an aptitude check to determine the effect severity.
 
-**Defensive Ware:** [Toxin filters](../16/10-combat-augmentations.md) allow a SOM Check to ignore a biochem drug or toxin’s effects outright (they have no effect on nanodrugs or nanotoxins). If an effect calls for an aptitude check, toxin filters apply a +30 modifier. Both toxin filters and medichines will reduce the effects of a biochem drug or toxin (damage, modifiers, etc.) and duration by half; together they nullify the effects entirely. Nanophages reduce the effects/duration of nanodrugs and nanotoxins by half.
+**Defensive Ware:** [Toxin filters](10-combat-augmentations.md) allow a SOM Check to ignore a biochem drug or toxin’s effects outright (they have no effect on nanodrugs or nanotoxins). If an effect calls for an aptitude check, toxin filters apply a +30 modifier. Both toxin filters and medichines will reduce the effects of a biochem drug or toxin (damage, modifiers, etc.) and duration by half; together they nullify the effects entirely. Nanophages reduce the effects/duration of nanodrugs and nanotoxins by half.
 
 ## Addiction and Abuse
 
@@ -286,9 +286,9 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 | TOXINS          |  Type   |  Application   |      Duration       | Comp/<!-- CLEANED wbr -->GP | Description                                                           |
 | :-------------- | :-----: | :------------: | :-----------------: | :----------: | :-------------------------------------------------------------------- |
-| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<!-- CLEANED wbr -->1 hour |   Maj/R/3    | DV 2d10 + 10 \[21\] for 3 turns, SOM Check or immobilized for 1 hour.          |
-| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6 \[4\], −30 Perceive, −20 all other actions.                          |
-| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10 \[6\], −30 resist intimidation/fear effects.                        |
+| BTX<sup>2</sup> | Biochem |   D, Inj, O    | 3 turns/<!-- CLEANED wbr -->1 hour |   Maj/R/3    | DV 2d10 + 10 \[21\] for 3 turns, SOM Check or immobilized for 1 hour. |
+| CR Gas          | Biochem |     D, Inh     |     20 minutes      |   Min/R/1    | DV 1d6 \[4\], −30 Perceive, −20 all other actions.                    |
+| Flight          | Biochem |      Inh       |       1 hour        |   Min/R/1    | SV 1d10 \[6\], −30 resist intimidation/fear effects.                  |
 | Nervex          | Biochem | D, Inh, Inj, O |          —          |   Maj/R/3    | −20 actions, SOM Check vs. incapacitation, death.                     |
 | Oxytocin-A      | Biochem |    Inh, Inj    |       2 hours       |   Min/R/1    | Trusting, −30&nbsp;WIL Checks/Kinesics Tests where trust is a factor. |
 | Twitch          | Biochem | D, Inh, Inj, O |     10 minutes      |   Min/R/1    | −20 actions, SOM Check vs. incapacitation.                            |
@@ -299,7 +299,7 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 **Flight:** This drug is derived from pheromones released due to fear and is intended to instill alarm or even terror. Make a WIL Check or suffer a panic attack, inflicting SV 1d10. You also suffer a −30 modifier for resisting intimidation or fear-based emotional manipulations for 1 hour.
 
-**Nervex:** Derived from deadly nerve agents like cyclosarin, VX, and novichok, this genetically modified toxin is deployed as a colorless, odorless gas that turns safely inert 10 minutes after deployment. It causes involuntary contraction of the muscles, seizures, and death by respiratory failure. You suffer a −20 modifier to all actions and must make a SOM Check or be incapacitated by seizures, paralysis, nausea, and vomiting. After 10 minutes, you will die unless an antidote (such as [atropine](../16/15-chemicals-drugs-and-toxins.md#chemicals)) is applied.
+**Nervex:** Derived from deadly nerve agents like cyclosarin, VX, and novichok, this genetically modified toxin is deployed as a colorless, odorless gas that turns safely inert 10 minutes after deployment. It causes involuntary contraction of the muscles, seizures, and death by respiratory failure. You suffer a −20 modifier to all actions and must make a SOM Check or be incapacitated by seizures, paralysis, nausea, and vomiting. After 10 minutes, you will die unless an antidote (such as [atropine](#chemicals)) is applied.
 
 **Oxytocin-A:** A genetically improved variant of oxytocin, this drug induces trust. Apply a −30 modifier to WIL Checks and Kinesics Tests where trust is a factor.
 
@@ -316,7 +316,7 @@ These temporary nanobot infestations damage or impair.
 | NANOTOXINS | Type  | Application | Duration | Comp/<!-- CLEANED wbr -->GP | Description                                        |
 | :--------- | :---: | :---------: | :------: | :----------: | :------------------------------------------------- |
 | Disruptor  | Nano  |   Inj, O    | 8 hours  |   Maj/R/3    | Cumulative −5 to actions per hour; incapacitation. |
-| Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                                   |
+| Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                             |
 | Neuropath  | Nano  |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs incapacitation.   |
 | Nutcracker | Nano  |   Inj, O    | 6 hours  |   Maj/R/3    | Destroys cortical stack.                           |
 

@@ -6,7 +6,7 @@ The ongoing struggle between hackers and electronic security is best described a
 
 In Eclipse Phase, a firewall is a non-sapient neural-net security suite that monitors network traffic and defends against hackers. Every system has a firewall app actively defending it. Firewalls may initiate automatic countermeasures, depending on their programming.
 
-Each firewall has a rating measuring its defensive capabilities. Firewall ratings are based on the type of device, as noted on the Firewall Ratings table. This is used to oppose [Hacking Tests](../13/11-hacking.md#hacking-tests) made by hackers. At the GM’s discretion, some firewalls may be weaker if old or non-maintained or stronger if state-of-the-art.
+Each firewall has a rating measuring its defensive capabilities. Firewall ratings are based on the type of device, as noted on the Firewall Ratings table. This is used to oppose [Hacking Tests](11-hacking.md#hacking-tests) made by hackers. At the GM’s discretion, some firewalls may be weaker if old or non-maintained or stronger if state-of-the-art.
 
 If the firewall app on a device is deleted or crashed, tests to hack the system are unopposed until the firewall is restored, unless a system defender engages in active monitoring.
 
@@ -46,7 +46,7 @@ If a hacking attempt is not stealthy enough, it is likely to earn the attention 
 
 ### Passive Alert
 
-Passive alerts are triggered whenever the firewall or defender succeeds on their roll but loses the opposed test against a hacker’s [subtle intrusion attack](../13/11-hacking.md#subtle-intrusion). They are also set off when a hacker exposes themselves by rolling a superior failure on a Hacking Test while within the system.
+Passive alerts are triggered whenever the firewall or defender succeeds on their roll but loses the opposed test against a hacker’s [subtle intrusion attack](11-hacking.md#subtle-intrusion). They are also set off when a hacker exposes themselves by rolling a superior failure on a Hacking Test while within the system.
 
 Passive alerts occur when a system detects anomalous activity that may indicate a hacking attempt in progress. The system immediately flags a visual or acoustic cue to the system defender(s) and possibly the owner or admins. The system may be configured to automatically launch one or more passive countermeasures (see below). Depending on the system, extra security hackers or AIs may be brought in to help investigate. If the intruder is not encountered again or located within a set time period (usually about 10 minutes), the alarm is deactivated and the event is logged as an anomaly.
 
@@ -76,7 +76,7 @@ In an attempt to deter data exfiltration, the firewall temporarily blocks attemp
 
 ### Locate Intruder
 
-The system defender can attempt to track down the source of the passive alert and pinpoint any interlopers. See [Zeroing In](../13/11-hacking.md#zeroing-in).
+The system defender can attempt to track down the source of the passive alert and pinpoint any interlopers. See [Zeroing In](11-hacking.md#zeroing-in).
 
 ### Re-Authenticate
 
@@ -96,11 +96,11 @@ Active countermeasures are initiated when an intruder is fully detected (spotted
 
 ### Counter-intrusion
 
-Though illegal in some jurisdictions, system defenders may pro-actively protect their wards by counter-attacking the hacker. For this to occur, the intruder must first be [successfully traced](../13/10-tracking.md#mesh-activity-tracking) and their mesh ID obtained. Once this occurs, the defender can then launch their own intrusion on the system from which the hacker originates.
+Though illegal in some jurisdictions, system defenders may pro-actively protect their wards by counter-attacking the hacker. For this to occur, the intruder must first be [successfully traced](10-tracking.md#mesh-activity-tracking) and their mesh ID obtained. Once this occurs, the defender can then launch their own intrusion on the system from which the hacker originates.
 
 ### Crash and Lockout
 
-The defender can attempt to crash the account shell of an intruder that has been spotted ([Mesh Combat](../13/14-mesh-combat.md)). If successful, the intruder’s mesh ID can be blocked from accessing the system again ([Lockout](../13/06-mesh-actions.md#security-actions)). Hacked accounts are quarantined or deleted and not usable again until a security audit approves and reinstates it.
+The defender can attempt to crash the account shell of an intruder that has been spotted ([Mesh Combat](14-mesh-combat.md)). If successful, the intruder’s mesh ID can be blocked from accessing the system again ([Lockout](06-mesh-actions.md#security-actions)). Hacked accounts are quarantined or deleted and not usable again until a security audit approves and reinstates it.
 
 ### Reboot/Shutdown
 
@@ -138,6 +138,6 @@ Every system is unique and handles security differently. The GM maps out each sy
 
 **Host** defenses largely depend on the security consciousness of their owner. Muses act as system defender for mesh inserts and ectos.
 
-**Servers** use security ALIs and take their defenses seriously. Corporate networks often use tiered networks or air-gapped systems ([Mesh Topology](../13/02-mesh-topology.md)) to protect critical assets. Security hackers may be on-site or on-call, arriving in d6 action turns. Some simply seek to kick intruders out. Others will trace intruders, dispatching security forces or police to apprehend suspects if located, or hack them back. Security audits are likely to be frequent.
+**Servers** use security ALIs and take their defenses seriously. Corporate networks often use tiered networks or air-gapped systems ([Mesh Topology](02-mesh-topology.md)) to protect critical assets. Security hackers may be on-site or on-call, arriving in d6 action turns. Some simply seek to kick intruders out. Others will trace intruders, dispatching security forces or police to apprehend suspects if located, or hack them back. Security audits are likely to be frequent.
 
 <!-- CLEANED /blockquote -->

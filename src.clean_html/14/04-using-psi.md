@@ -38,7 +38,7 @@ If the async wins with a critical success, double the potency of the sleight’s
 
 ## Mental Armor
 
-The [Psi Armor](../14/06-psi-sleight-summaries.md#psi-armor) and [Psi Shield sleights](../14/06-psi-sleight-summaries.md#psi-shield) provide mental armor, a form of neural hardening against psi-based attacks. Like physical armor, this mental armor reduces the amount of damage inflicted by a psychic assault.
+The [Psi Armor](06-psi-sleight-summaries.md#psi-armor) and [Psi Shield sleights](06-psi-sleight-summaries.md#psi-shield) provide mental armor, a form of neural hardening against psi-based attacks. Like physical armor, this mental armor reduces the amount of damage inflicted by a psychic assault.
 
 ## Target Awareness
 
@@ -54,7 +54,7 @@ Psi sleights have one of four durations: _constant_, _instant_, _temporary_, or 
 
 **Instant:** Instant sleights inflict an immediate and permanent effect that lasts without effort.
 
-**Temporary:** Temporary sleights last for a limited duration with no extra effort. The temporary duration is determined your WIL ÷ 5 and is measured in action turns, minutes, or hours, as noted. [Influence effects](../14/05-influence-effects.md) are applied immediately when the sleight is activated, not at the end of the duration.
+**Temporary:** Temporary sleights last for a limited duration with no extra effort. The temporary duration is determined your WIL ÷ 5 and is measured in action turns, minutes, or hours, as noted. [Influence effects](05-influence-effects.md) are applied immediately when the sleight is activated, not at the end of the duration.
 
 **Sustained:** Sustained sleights last as long as you want, but require active effort and concentration: apply a −10 modifier to all other skill tests while the sleight is sustained. The async must also stay within Close range + 10 meters of the target, otherwise the sleight immediately ends. More than one sleight may be sustained at a time, with a cumulative modifier. Influence effects are applied immediately when the sleight is activated, not at the end of the duration. At the GM’s discretion, sleights that are sustained for long periods may incur additional Infection Modifiers and Infection Tests.
 
@@ -64,11 +64,11 @@ Whenever you take advantage of your psychic abilities, there is a cost to pay. T
 
 Whenever you use psi-gamma sleights, two things happen. First, your Infection Rating increases by that sleight’s Infection modifier. This represents the infection temporarily taking a stronger hold over your mind. Second, the exovirus must make an Infection Test. As the infectee, the async player rolls this test.
 
-Asyncs that only use psi-chi sleights do not need to worry about infection flare-ups unless they [push](../14/04-using-psi.md#pushing-sleights).
+Asyncs that only use psi-chi sleights do not need to worry about infection flare-ups unless they [push](#pushing-sleights).
 
 ### Infection Test
 
-The target number for your Infection Test equals your current Infection Rating (including the modifier from the sleight you are using). If this test fails, nothing happens, and you pull off the sleight without any negative effects. If it succeeds, you suffer an influence effect appropriate to the sub-strain ([Influence Effects](../14/05-influence-effects.md)).
+The target number for your Infection Test equals your current Infection Rating (including the modifier from the sleight you are using). If this test fails, nothing happens, and you pull off the sleight without any negative effects. If it succeeds, you suffer an influence effect appropriate to the sub-strain ([Influence Effects](05-influence-effects.md)).
 
 You may not spend pool to affect the Infection Test, but you may spend Moxie to avoid making the Infection Test altogether, powering through the sleight with sheer willpower. However, your Infection Rating still increases.
 
@@ -85,7 +85,7 @@ You may not spend pool to affect the Infection Test, but you may spend Moxie to 
 
 Every time an Infection Test succeeds, the exovirus exerts a bit more control over your psyche. Every async experiences this differently, depending on their particular sub-strain.
 
-Roll 1d6 and consult your sub-strain’s [influence effects](../14/05-influence-effects.md), applying +1 per superior success rolled on the Infection Test. During character creation (or when your PC becomes infected with Watts-MacLeod), you should write down these six influence effects on your character sheet.
+Roll 1d6 and consult your sub-strain’s [influence effects](05-influence-effects.md), applying +1 per superior success rolled on the Infection Test. During character creation (or when your PC becomes infected with Watts-MacLeod), you should write down these six influence effects on your character sheet.
 
 Influence effects kick in immediately as the sleight is activated.
 

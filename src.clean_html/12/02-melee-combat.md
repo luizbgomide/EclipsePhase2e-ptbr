@@ -2,7 +2,7 @@
 
 In an era of lethal and incapacitating ranged weaponry, someone equipped for close combat is often at a disadvantage. However, even hardened fighters are wary of getting within reach of certain synthmorphs or heavily augmented biomorphs.
 
-Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins ([Coated Weapons](../12/15-special-attacks.md#coated-weapons)) such as poison or nanotoxins secreted from a [poison gland](../16/10-combat-augmentations.md) or implanted [nanotoxins](../16/15-chemicals-drugs-and-toxins.md#nanotoxins).
+Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins ([Coated Weapons](15-special-attacks.md#coated-weapons)) such as poison or nanotoxins secreted from a [poison gland](../16/10-combat-augmentations.md) or implanted [nanotoxins](../16/15-chemicals-drugs-and-toxins.md#nanotoxins).
 
 | MELEE ATTACKS      | Ware Type | Damage Value \[Average\] | Comp/<!-- CLEANED wbr -->GP | Notes                                               |
 | :----------------- | :-------: | :----------------------: | :----------: | :-------------------------------------------------- |
@@ -109,7 +109,7 @@ When engaging in a melee attack, you may choose to attack two or more opponents 
 
 ## Reach
 
-Some weapons extend your reach, giving you a significant advantage over an opponent in melee. This applies to any weapon over half a meter long: axes, clubs, swords, shock batons, etc. Whenever you have a reach advantage over an opponent, you receive a +10 modifier for both attacking and defending. Some extra-long limbs or weapons provide a +20 bonus, as noted. For each size category ([Sizes](../12/21-other-action-factors.md#sizes)) by which you exceed your opponent, apply a +10 Reach modifier, up to a maximum +30.
+Some weapons extend your reach, giving you a significant advantage over an opponent in melee. This applies to any weapon over half a meter long: axes, clubs, swords, shock batons, etc. Whenever you have a reach advantage over an opponent, you receive a +10 modifier for both attacking and defending. Some extra-long limbs or weapons provide a +20 bonus, as noted. For each size category ([Sizes](21-other-action-factors.md#sizes)) by which you exceed your opponent, apply a +10 Reach modifier, up to a maximum +30.
 
 ## Touch-only Attacks
 

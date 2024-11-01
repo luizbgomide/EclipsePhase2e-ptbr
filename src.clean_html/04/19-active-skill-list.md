@@ -6,33 +6,36 @@ Active skills represent things your character does. They usually require some so
 
 ### Skill List
 
-| Skill                                                                       | Linked Aptitude          | Type                     |
-| :-------------------------------------------------------------------------- | :----------------------- | :----------------------- |
-| [Athletics](../04/19-active-skill-list.md#athletics)                        | Somatics                 | Active, Physical         |
-| [Deceive](../04/19-active-skill-list.md#deceive)                            | Savvy                    | Active, Social           |
-| [Exotic Skill: \[Field\]](../04/19-active-skill-list.md#exotic-skill-field) | —                        | Active, Field            |
-| [Fray](../04/19-active-skill-list.md#fray)                                  | Reflexes                 | Active, Combat           |
-| [Free Fall](../04/19-active-skill-list.md#free-fall)                        | Somatics                 | Active, Physical         |
-| [Guns](../04/19-active-skill-list.md#guns)                                  | Reflexes                 | Active, Combat           |
-| [Hardware: \[Field\]](../04/19-active-skill-list.md#hardware-field)         | Cognition                | Active, Field, Technical |
-| [Infiltrate](../04/19-active-skill-list.md#infiltrate)                      | Reflexes                 | Active, Physical         |
-| [Infosec](../04/19-active-skill-list.md#infosec)                            | Cognition                | Active, Technical        |
-| [Interface](../04/19-active-skill-list.md#interface)                        | Cognition                | Active, Technical        |
-| [Kinesics](../04/19-active-skill-list.md#kinesics)                          | Savvy                    | Active, Social           |
-| [Know: \[Field\]](../04/20-know-skills.md#know-field)                       | Cognition/<!-- CLEANED wbr -->Intuition | Field, Know              |
-| [Medicine: \[Field\]](../04/19-active-skill-list.md#medicine-field)         | Cognition                | Active, Field, Technical |
-| [Melee](../04/19-active-skill-list.md#melee)                                | Somatics                 | Active, Combat           |
-| [Perceive](../04/19-active-skill-list.md#perceive)                          | Intuition                | Active, Mental           |
-| [Persuade](../04/19-active-skill-list.md#persuade)                          | Savvy                    | Active, Social           |
-| [Pilot: \[Field\]](../04/19-active-skill-list.md#pilot-field)               | Reflexes                 | Active, Field, Vehicle   |
-| [Program](../04/19-active-skill-list.md#program)                            | Cognition                | Active, Technical        |
-| [Provoke](../04/19-active-skill-list.md#provoke)                            | Savvy                    | Active, Social           |
-| [Psi](../04/19-active-skill-list.md#psi)                                    | Willpower                | Active, Mental, Psi      |
-| [Research](../04/19-active-skill-list.md#research)                          | Intuition                | Active, Technical        |
-| [Survival](../04/19-active-skill-list.md#survival)                          | Intuition                | Active, Mental           |
+<!--sorted-->
+| Skill                                           | Linked Aptitude          | Type                     |
+| :---------------------------------------------- | :----------------------- | :----------------------- |
+| [Athletics](#athletics)                         | Somatics                 | Active, Physical         |
+| [Deceive](#deceive)                             | Savvy                    | Active, Social           |
+| [Exotic Skill: \[Field\]](#exotic-skill-field)  | —                        | Active, Field            |
+| [Fray](#fray)                                   | Reflexes                 | Active, Combat           |
+| [Free Fall](#free-fall)                         | Somatics                 | Active, Physical         |
+| [Guns](#guns)                                   | Reflexes                 | Active, Combat           |
+| [Hardware: \[Field\]](#hardware-field)          | Cognition                | Active, Field, Technical |
+| [Infiltrate](#infiltrate)                       | Reflexes                 | Active, Physical         |
+| [Infosec](#infosec)                             | Cognition                | Active, Technical        |
+| [Interface](#interface)                         | Cognition                | Active, Technical        |
+| [Kinesics](#kinesics)                           | Savvy                    | Active, Social           |
+| [Know: \[Field\]](20-know-skills.md#know-field) | Cognition/<!-- CLEANED wbr -->Intuition | Field, Know              |
+| [Medicine: \[Field\]](#medicine-field)          | Cognition                | Active, Field, Technical |
+| [Melee](#melee)                                 | Somatics                 | Active, Combat           |
+| [Perceive](#perceive)                           | Intuition                | Active, Mental           |
+| [Persuade](#persuade)                           | Savvy                    | Active, Social           |
+| [Pilot: \[Field\]](#pilot-field)                | Reflexes                 | Active, Field, Vehicle   |
+| [Program](#program)                             | Cognition                | Active, Technical        |
+| [Provoke](#provoke)                             | Savvy                    | Active, Social           |
+| [Psi](#psi)                                     | Willpower                | Active, Mental, Psi      |
+| [Research](#research)                           | Intuition                | Active, Technical        |
+| [Survival](#survival)                           | Intuition                | Active, Mental           |
+<!--end-sort-->
 
 <!-- CLEANED /blockquote -->
 
+<!--sorted-->
 ## Athletics
 
 <!-- CLEANED div class="stat-list" -->
@@ -321,7 +324,7 @@ Psi is the wielding of psychic abilities (sleights) to detect, manipulate, or ha
 
 Use Psi to target others with [psi-gamma sleights](../14/06-psi-sleight-summaries.md#psi-gamma-sleights). Psi is resisted with a WIL Check.
 
-You must possess the [Psi trait](../04/28-traits.md#psi) to use this skill.
+You must possess the [Psi trait](28-traits.md#psi) to use this skill.
 
 - **Specializations:** Control, Psi Assault, Sense
 
@@ -356,3 +359,5 @@ Use Survival to navigate, track a person or animal in the wild, find safe food a
 - **Specializations:** Forage, Hunt, Navigate, Track
 
 <!-- CLEANED /div -->
+
+<!--end-sort-->

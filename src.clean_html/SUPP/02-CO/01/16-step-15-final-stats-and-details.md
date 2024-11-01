@@ -39,16 +39,16 @@ Apply the effects of any traits you picked up. If you acquired the same trait tw
 
 ### Add Languages
 
-Write down your native tongue ([Step 3: Native Tongue](./04-step-3-native-tongue.md)) and any additional languages you acquired.
+Write down your native tongue ([Step 3: Native Tongue](04-step-3-native-tongue.md)) and any additional languages you acquired.
 
 ### Choose Motivations
 
-Choose the 3 motivations you start with ([Motivations](./01-life-path-character-creation.md#motivations)).
+Choose the 3 motivations you start with ([Motivations](01-life-path-character-creation.md#motivations)).
 
 ### Starting Morph
 
-Your starting morph is either the one you acquired with your background ([Step 4: Background Path](./05-step-4-background-path.md)) or the new one it was most recently replaced by due to a roll on an event table.
+Your starting morph is either the one you acquired with your background ([Step 4: Background Path](05-step-4-background-path.md)) or the new one it was most recently replaced by due to a roll on an event table.
 
 ### Starting Gear
 
-You start with two gear packs. One is based on the career you chose or rolled in [Step 9: Career Path](./10-step-9-career-path.md). The other is based on the type of campaign you are playing, (Firewall, Gatecrashing, Guanxi/ Criminal) as determined by your GM.
+You start with two gear packs. One is based on the career you chose or rolled in [Step 9: Career Path](10-step-9-career-path.md). The other is based on the type of campaign you are playing, (Firewall, Gatecrashing, Guanxi/ Criminal) as determined by your GM.

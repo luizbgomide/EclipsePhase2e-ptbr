@@ -91,6 +91,6 @@ Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-g
 
 **Helmet:** Helmets come in various open and closed styles, all protecting the head. If targeted with a called shot, helmets have AV 4/10. Helmets are already included with body armor, combat armor, and all suits (use that armor’s full AV against called head shots).
 
-**Riot Shield:** Used for mob suppression, riots shields are lightweight, tough, and can be set to electrify on command, (treat as a [melee shock attack](../12/15-special-attacks.md#shock-attacks)).
+**Riot Shield:** Used for mob suppression, riots shields are lightweight, tough, and can be set to electrify on command, (treat as a [melee shock attack](15-special-attacks.md#shock-attacks)).
 
 **Second Skin:** This lightweight bodysuit, woven from spider silks and fullerenes, is typically worn as an underlayer, though some athletes use it as a uniform.

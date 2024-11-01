@@ -1,6 +1,6 @@
 # The ETI
 
-The ETI (extraterrestrial intelligence) is the ancient, advanced alien civilization responsible for the exsurgent virus and, by extension, the corruption of the TITANs and the Fall [Secret Histories](../18/02-secret-histories.md). The powers in the deep cold dark of the Milky Way have been self-aware since before the Earth was as a ripple in the warming gas around the not-yet-ignited sun.
+The ETI (extraterrestrial intelligence) is the ancient, advanced alien civilization responsible for the exsurgent virus and, by extension, the corruption of the TITANs and the Fall [Secret Histories](02-secret-histories.md). The powers in the deep cold dark of the Milky Way have been self-aware since before the Earth was as a ripple in the warming gas around the not-yet-ignited sun.
 
 Given its profound nature, the ETI is unlikely to play much of a direct role in Eclipse Phase games. It is the far-off pantheon of gods, sometimes glimpsed by us mortals, but otherwise only perceived via its remote and vague machinations. However, with the pandora gates at transhumanity’s disposal, it may just be a matter of time before explorers run afoul of some other aspect of the ETI’s existence and activities. For example, it is only a matter of time before one of the ETI’s mousetrap bracewell probes is discovered in another star system, perhaps triggering a new exsurgent outbreak. The ETI may also have other autonomous machines or minions at work within the galaxy.
 

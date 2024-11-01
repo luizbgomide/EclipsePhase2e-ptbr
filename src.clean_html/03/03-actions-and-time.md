@@ -34,7 +34,7 @@ Complex actions require a few seconds of concentration and effort.
 
 ## Task Actions
 
-Task actions require more than a few seconds to complete. Each task action has a timeframe, the base amount of time required to finish it. Timeframes may be measured in action turns, minutes, hours, days, or even months. The actual time to complete a task is equal to the timeframe adjusted by any [superior results](../03/01-how-to-play.md#superior-results-3366-rule) you score on the test. You may interrupt your work on a task and continue it later, unless the GM specifically rules the task requires uninterrupted effort.
+Task actions require more than a few seconds to complete. Each task action has a timeframe, the base amount of time required to finish it. Timeframes may be measured in action turns, minutes, hours, days, or even months. The actual time to complete a task is equal to the timeframe adjusted by any [superior results](01-how-to-play.md#superior-results-3366-rule) you score on the test. You may interrupt your work on a task and continue it later, unless the GM specifically rules the task requires uninterrupted effort.
 
 For task actions with timeframes of one day or longer, it is assumed that eight hours of effort equals one day of work. If you spend more or less time per day, adjust the time taken accordingly.
 

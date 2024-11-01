@@ -18,7 +18,7 @@ Next is **3.0 Random Language** and Adam rolls a d100: 52 for **Korean** as his 
 
 ## Steps: 4. 5. 6. 7. 8.
 
-His first d100 roll on **4.0 Random Background Path** is 1 for **Colonist**, and so he jumps to [4.1 Colonist](./05-step-4-background-path.md#41-colonist-d100) and rolls d100 with a result of 81 — a **Spacer**. This character grew up on or worked on spaceships at a young age. Spacers roll a d10 for Morph and Adam hits a 5 for a **Splicer**.
+His first d100 roll on **4.0 Random Background Path** is 1 for **Colonist**, and so he jumps to [4.1 Colonist](05-step-4-background-path.md#41-colonist-d100) and rolls d100 with a result of 81 — a **Spacer**. This character grew up on or worked on spaceships at a young age. Spacers roll a d10 for Morph and Adam hits a 5 for a **Splicer**.
 
 So far we know that this character is Korean and was a spacer before the Fall. Let’s fill in some more of those background details with **5.0 Youth Event** where a d100 roll of 45 says that this character “grew up in a melting-pot, polyglot culture” and gives them the **Hyper Linguistics (Level 0) trait**. It makes sense that some spacer crews would be multicultural, so this is a good fit.
 

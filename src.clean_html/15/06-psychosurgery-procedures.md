@@ -64,7 +64,7 @@ Psychosurgery can be used to detect previous edits to your mind. This explorator
 
 ## Merging
 
-Merging is the process of recombining a fork with its originating ego ([Forking](../15/04-forking-and-merging.md)). Merging often results in mental stress and/or lost fork memories. A successful test will reduce the SV; use the numbers listed after the slash on the Merging table. Each superior success will reduce the amount of memories lost by one level, each superior failure will increase it one level. Memory loss usually only affects the fork’s memories (not the alpha’s); apply a modifier to memory-related COG Checks (−10 for Minor loss, −20 for Moderate, −30 for Major).
+Merging is the process of recombining a fork with its originating ego ([Forking](04-forking-and-merging.md)). Merging often results in mental stress and/or lost fork memories. A successful test will reduce the SV; use the numbers listed after the slash on the Merging table. Each superior success will reduce the amount of memories lost by one level, each superior failure will increase it one level. Memory loss usually only affects the fork’s memories (not the alpha’s); apply a modifier to memory-related COG Checks (−10 for Minor loss, −20 for Moderate, −30 for Major).
 
 The process of merging also integrates any stress, traumas, and ego traits acquired by the fork back into the original ego.
 
@@ -84,7 +84,7 @@ The process of merging also integrates any stress, traumas, and ego traits acqui
 
 ## Neural Pruning
 
-Neural pruning is the process of creating a [beta fork](../15/04-forking-and-merging.md#beta-forks) from an alpha fork. Make a note of what skills and memories you want to decrease, eliminate, or keep. If you succeed, the fork is created as desired. If you fail, the beta fork acquires one of the following penalties, plus one per superior failure. Some of these penalties can be combined for a cumulative effect:
+Neural pruning is the process of creating a [beta fork](04-forking-and-merging.md#beta-forks) from an alpha fork. Make a note of what skills and memories you want to decrease, eliminate, or keep. If you succeed, the fork is created as desired. If you fail, the beta fork acquires one of the following penalties, plus one per superior failure. Some of these penalties can be combined for a cumulative effect:
 
 - 1 skill decreased by −30.
 - Fork acquires a Negative ego trait.

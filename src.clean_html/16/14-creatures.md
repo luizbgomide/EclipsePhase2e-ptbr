@@ -61,7 +61,7 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 **Fur Coat:** A so-called “fur coat” is outerwear made from a living primitive organism. The creature’s skin, fur, or scales are real. The organism is cultivated from transgenic stocks and grown around molds into clothing shapes, often with actual usefulness: polar bear parkas, seal diving suits, porcupine coats, etc. Fur coats are modified with wireless controls and haptic systems, so they can be made to move, shiver, massage, or prickle up on command.
 
-**Pollinator Swarm:** Interbred and gene-modified bee and wasp variations pollinate habitat gardens. They also produce honey, hunt other insects, trim leaves, and collect debris. Though non-aggressive, some have been modified for use as assassin or guardians. They follow [swarm rules](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
+**Pollinator Swarm:** Interbred and gene-modified bee and wasp variations pollinate habitat gardens. They also produce honey, hunt other insects, trim leaves, and collect debris. Though non-aggressive, some have been modified for use as assassin or guardians. They follow [swarm rules](20-nanoswarms-and-microswarms.md#swarm-rules).
 
 **Space Roach:** Grown to the size of a small dog, these insects are often biosculpted for bright colors and patterns. They are favored as pets and useful for minor janitorial duties.
 

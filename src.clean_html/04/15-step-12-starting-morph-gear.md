@@ -1,10 +1,10 @@
 # Step 12: Starting Morph & Gear
 
-Your character receives starting gear based on the career chosen in Step 2 and the type of campaign you are playing (Firewall, gatecrashing, or criminal). See [Gear Packs](../04/27-gear-packs.md).
+Your character receives starting gear based on the career chosen in Step 2 and the type of campaign you are playing (Firewall, gatecrashing, or criminal). See [Gear Packs](27-gear-packs.md).
 
-You also choose your character’s [starting morph](../04/21-morphs.md). Each morph has a cost in Morph Points (MP). Your GM will tell how many points you have to work with. The suggested default value is 6&nbsp;MP. If you also purchased the [Resources trait](../04/28-traits.md#resources), increase your available MP by that trait level.
+You also choose your character’s [starting morph](21-morphs.md). Each morph has a cost in Morph Points (MP). Your GM will tell how many points you have to work with. The suggested default value is 6&nbsp;MP. If you also purchased the [Resources trait](28-traits.md#resources), increase your available MP by that trait level.
 
-You may also spend your Morph Points on [morph traits](../04/28-traits.md#positive-morph-traits) or extra gear. Whatever MP you don’t spend is converted into Flex points instead.
+You may also spend your Morph Points on [morph traits](28-traits.md#positive-morph-traits) or extra gear. Whatever MP you don’t spend is converted into Flex points instead.
 
 ## Starting Morphs
 

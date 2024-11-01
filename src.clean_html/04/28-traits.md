@@ -14,39 +14,39 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Ego Traits
 
-| Trait                                                             | CP Cost | Effect                                                                                                                                                                                                              |
-| :---------------------------------------------------------------- | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Acumen](../04/28-traits.md#acumen)                               |  1/2/3  | +5 per level to COG Checks.                                                                                                                                                                                         |
-| [Adaptability](../04/28-traits.md#adaptability)                   |   2/4   | Easier resleeving. +10 per level to Integration and Resleeving Stress Tests.                                                                                                                                        |
-| [Allies](../04/28-traits.md#allies)                               |    4    | A group supports you. Free moderate favor per session.                                                                                                                                                              |
-| [Animal Empathy](../04/28-traits.md#animal-empathy)               |    1    | +10 to Exotic Skill: Animal Handling and similar tests.                                                                                                                                                             |
-| [Common Sense](../04/28-traits.md#common-sense)                   |    2    | Once per session, may ask GM for best advice.                                                                                                                                                                       |
-| [Composure](../04/28-traits.md#composure)                         |    2    | +5&nbsp;LUC, +1 Trauma Threshold, +10 Insanity Rating.                                                                                                                                                              |
-| [Contact](../04/28-traits.md#contact)                             |    1    | +10 to Rep Tests with one network when using contact. May be taken multiple times.                                                                                                                                  |
-| [Danger Sense](../04/28-traits.md#danger-sense)                   |    1    | +10 to Perceive Tests to avoid surprise.                                                                                                                                                                            |
-| [Direction Sense](../04/28-traits.md#direction-sense)             |    1    | Always know north/up/spinward/etc. +10 to tests involving navigation.                                                                                                                                               |
-| [Dominant Strain](../04/28-traits.md#dominant-strain)             |    2    | Asyncs only. +10 vs. exsurgent virus, higher dependent upon Infection Rating.                                                                                                                                       |
-| [Drone Affinity](../04/28-traits.md#drone-affinity)               |    1    | No Integration Tests when jamming drones.                                                                                                                                                                           |
-| [Empathy](../04/28-traits.md#empathy)                             |  1/2/3  | +5 per level to SAV Checks.                                                                                                                                                                                         |
-| [Expert Training](../04/28-traits.md#expert-training)             |    2    | May start with one skill over 80, up to 90 maximum.                                                                                                                                                                 |
-| [Fitness](../04/28-traits.md#fitness)                             |  1/2/3  | +5 per level to SOM Checks.                                                                                                                                                                                         |
-| [Good Instincts](../04/28-traits.md#good-instincts)               |  1/2/3  | +5 per level to INT Checks.                                                                                                                                                                                         |
-| [Hardening](../04/28-traits.md#hardening)                         |    1    | Immune to stress from either [alienation, helplessness, or violence](../12/18-mental-health.md#stress-categories). −10 to WIL Checks and Persuade Tests. May be taken multiple times for different types of stress. |
-| [Hyper Linguistics](../04/28-traits.md#hyper-linguistics)         |  1/2/3  | +10 per level to INT Checks to understand languages you don’t know.                                                                                                                                                 |
-| [Morph Familiarity](../04/28-traits.md#morph-familiarity)         |    1    | No Integration Tests sleeving one chosen morph type.                                                                                                                                                                |
-| [Pain Tolerance](../04/28-traits.md#pain-tolerance)               |   2/4   | Ignore 1 wound modifier per level.                                                                                                                                                                                  |
-| [Patron](../04/28-traits.md#patron)                               |    6    | An influential person backs you up. One free major favor per story arc.                                                                                                                                             |
-| [Psi](../04/28-traits.md#psi)                                     |   2/4   | May use Psi skill and sleights. See text for additional rules.                                                                                                                                                      |
-| [Psi Camouflage](../04/28-traits.md#psi-camouflage)               |   1/2   | −10 to detect with psi per level.                                                                                                                                                                                   |
-| [Psi Defense](../04/28-traits.md#psi-defense)                     |   1/2   | +10 to resist psi per level.                                                                                                                                                                                        |
-| [Quickness](../04/28-traits.md#quickness)                         |  1/2/3  | +5 per level to REF Checks.                                                                                                                                                                                         |
-| [Resolve](../04/28-traits.md#resolve)                             |  1/2/3  | +5 per level to WIL Checks.                                                                                                                                                                                         |
-| [Resources](../04/28-traits.md#resources)                         | 2/4/6/8 | Wealth to acquire gear. See text.                                                                                                                                                                                   |
-| [Situational Awareness](../04/28-traits.md#situational-awareness) |    1    | No distracted modifier.                                                                                                                                                                                             |
-| [Spatial Visualization](../04/28-traits.md#spatial-visualization) |    2    | +10 to Know and Technical Tests involving 3D visualization.                                                                                                                                                         |
-| [Stalwart](../04/28-traits.md#stalwart)                           |  1/2/3  | +10 to WIL Checks vs. fear.                                                                                                                                                                                         |
-| [Superior Numeracy](../04/28-traits.md#superior-numeracy)         |   2/4   | +10 per level to Know and Technical Tests involving math.                                                                                                                                                           |
-| [Zoosemiotics](../04/28-traits.md#zoosemiotics)                   |    1    | No modifier using psi on non- or partly-sapient animals.                                                                                                                                                            |
+| Trait                                           | CP Cost | Effect                                                                                                                                                                                                              |
+| :---------------------------------------------- | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Acumen](#acumen)                               |  1/2/3  | +5 per level to COG Checks.                                                                                                                                                                                         |
+| [Adaptability](#adaptability)                   |   2/4   | Easier resleeving. +10 per level to Integration and Resleeving Stress Tests.                                                                                                                                        |
+| [Allies](#allies)                               |    4    | A group supports you. Free moderate favor per session.                                                                                                                                                              |
+| [Animal Empathy](#animal-empathy)               |    1    | +10 to Exotic Skill: Animal Handling and similar tests.                                                                                                                                                             |
+| [Common Sense](#common-sense)                   |    2    | Once per session, may ask GM for best advice.                                                                                                                                                                       |
+| [Composure](#composure)                         |    2    | +5&nbsp;LUC, +1 Trauma Threshold, +10 Insanity Rating.                                                                                                                                                              |
+| [Contact](#contact)                             |    1    | +10 to Rep Tests with one network when using contact. May be taken multiple times.                                                                                                                                  |
+| [Danger Sense](#danger-sense)                   |    1    | +10 to Perceive Tests to avoid surprise.                                                                                                                                                                            |
+| [Direction Sense](#direction-sense)             |    1    | Always know north/up/spinward/etc. +10 to tests involving navigation.                                                                                                                                               |
+| [Dominant Strain](#dominant-strain)             |    2    | Asyncs only. +10 vs. exsurgent virus, higher dependent upon Infection Rating.                                                                                                                                       |
+| [Drone Affinity](#drone-affinity)               |    1    | No Integration Tests when jamming drones.                                                                                                                                                                           |
+| [Empathy](#empathy)                             |  1/2/3  | +5 per level to SAV Checks.                                                                                                                                                                                         |
+| [Expert Training](#expert-training)             |    2    | May start with one skill over 80, up to 90 maximum.                                                                                                                                                                 |
+| [Fitness](#fitness)                             |  1/2/3  | +5 per level to SOM Checks.                                                                                                                                                                                         |
+| [Good Instincts](#good-instincts)               |  1/2/3  | +5 per level to INT Checks.                                                                                                                                                                                         |
+| [Hardening](#hardening)                         |    1    | Immune to stress from either [alienation, helplessness, or violence](../12/18-mental-health.md#stress-categories). −10 to WIL Checks and Persuade Tests. May be taken multiple times for different types of stress. |
+| [Hyper Linguistics](#hyper-linguistics)         |  1/2/3  | +10 per level to INT Checks to understand languages you don’t know.                                                                                                                                                 |
+| [Morph Familiarity](#morph-familiarity)         |    1    | No Integration Tests sleeving one chosen morph type.                                                                                                                                                                |
+| [Pain Tolerance](#pain-tolerance)               |   2/4   | Ignore 1 wound modifier per level.                                                                                                                                                                                  |
+| [Patron](#patron)                               |    6    | An influential person backs you up. One free major favor per story arc.                                                                                                                                             |
+| [Psi](#psi)                                     |   2/4   | May use Psi skill and sleights. See text for additional rules.                                                                                                                                                      |
+| [Psi Camouflage](#psi-camouflage)               |   1/2   | −10 to detect with psi per level.                                                                                                                                                                                   |
+| [Psi Defense](#psi-defense)                     |   1/2   | +10 to resist psi per level.                                                                                                                                                                                        |
+| [Quickness](#quickness)                         |  1/2/3  | +5 per level to REF Checks.                                                                                                                                                                                         |
+| [Resolve](#resolve)                             |  1/2/3  | +5 per level to WIL Checks.                                                                                                                                                                                         |
+| [Resources](#resources)                         | 2/4/6/8 | Wealth to acquire gear. See text.                                                                                                                                                                                   |
+| [Situational Awareness](#situational-awareness) |    1    | No distracted modifier.                                                                                                                                                                                             |
+| [Spatial Visualization](#spatial-visualization) |    2    | +10 to Know and Technical Tests involving 3D visualization.                                                                                                                                                         |
+| [Stalwart](#stalwart)                           |  1/2/3  | +10 to WIL Checks vs. fear.                                                                                                                                                                                         |
+| [Superior Numeracy](#superior-numeracy)         |   2/4   | +10 per level to Know and Technical Tests involving math.                                                                                                                                                           |
+| [Zoosemiotics](#zoosemiotics)                   |    1    | No modifier using psi on non- or partly-sapient animals.                                                                                                                                                            |
 
 <!-- CLEANED /blockquote -->
 
@@ -54,27 +54,27 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Morph Traits
 
-| Trait                                                               | MP Cost | Effect                                                                         |
-| :------------------------------------------------------------------ | :-----: | :----------------------------------------------------------------------------- |
-| [Acumen](../04/28-traits.md#acumen)                                 |  1/2/3  | +5 per level to COG Checks.                                                    |
-| [Digital Speed](../04/28-traits.md#digital-speed)                   |    1    | Mesh task timeframes reduced 25%. Infomorphs only.                             |
-| [Empathy](../04/28-traits.md#empathy)                               |  1/2/3  | +5 per level to SAV Checks.                                                    |
-| [Fitness](../04/28-traits.md#fitness)                               |  1/2/3  | +5 per level to SOM Checks.                                                    |
-| [Good Instincts](../04/28-traits.md#good-instincts)                 |  1/2/3  | +5 per level to INT Checks.                                                    |
-| [Improved Immune System](../04/28-traits.md#improved-immune-system) |   1/2   | +10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only. |
-| [Innocuous Looks](../04/28-traits.md#innocuous-looks)               |    1    | Bland. −10 to identify/spot/remember.                                          |
-| [Lethal](../04/28-traits.md#lethal)                                 |    1    | +1d6&nbsp;DV in melee.                                                         |
-| [Limberness](../04/28-traits.md#limberness)                         |   1/2   | +10 per level to escape bonds, fit into small spaces, contort, etc.            |
-| [Natural Immunity](../04/28-traits.md#natural-immunity)             |    1    | Immunity to one specific drug, chemical, or toxin. Biomorphs only.             |
-| [Pain Tolerance](../04/28-traits.md#pain-tolerance)                 |   2/4   | Ignore 1 wound modifier per level.                                             |
-| [Psi Camouflage](../04/28-traits.md#psi-camouflage)                 |   1/2   | −10 to detect with psi per level. Bio-brained morphs only.                     |
-| [Psi Defense](../04/28-traits.md#psi-defense)                       |   1/2   | +10 to resist psi per level. Bio-brained morphs only.                          |
-| [Quickness](../04/28-traits.md#quickness)                           |  1/2/3  | +5 per level to REF Checks.                                                    |
-| [Rapid Healing](../04/28-traits.md#rapid-healing)                   |    1    | Heal twice as fast. Biomorphs only.                                            |
-| [Resolve](../04/28-traits.md#resolve)                               |  1/2/3  | +5 per level to WIL Checks.                                                    |
-| [Skill Artifact](../04/28-traits.md#skill-artifact)                 |   1/2   | +10 to one GM-chosen skill per level.                                          |
-| [Striking Looks](../04/28-traits.md#striking-looks)                 |   1/2   | +10 on Persuade and Provoke Tests where looks matter.                          |
-| [Toughness](../04/28-traits.md#toughness)                           |   2/4   | +5&nbsp;DUR, also impacts WT and DR, see text.                                 |
+| Trait                                             | MP Cost | Effect                                                                         |
+| :------------------------------------------------ | :-----: | :----------------------------------------------------------------------------- |
+| [Acumen](#acumen)                                 |  1/2/3  | +5 per level to COG Checks.                                                    |
+| [Digital Speed](#digital-speed)                   |    1    | Mesh task timeframes reduced 25%. Infomorphs only.                             |
+| [Empathy](#empathy)                               |  1/2/3  | +5 per level to SAV Checks.                                                    |
+| [Fitness](#fitness)                               |  1/2/3  | +5 per level to SOM Checks.                                                    |
+| [Good Instincts](#good-instincts)                 |  1/2/3  | +5 per level to INT Checks.                                                    |
+| [Improved Immune System](#improved-immune-system) |   1/2   | +10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only. |
+| [Innocuous Looks](#innocuous-looks)               |    1    | Bland. −10 to identify/spot/remember.                                          |
+| [Lethal](#lethal)                                 |    1    | +1d6&nbsp;DV in melee.                                                         |
+| [Limberness](#limberness)                         |   1/2   | +10 per level to escape bonds, fit into small spaces, contort, etc.            |
+| [Natural Immunity](#natural-immunity)             |    1    | Immunity to one specific drug, chemical, or toxin. Biomorphs only.             |
+| [Pain Tolerance](#pain-tolerance)                 |   2/4   | Ignore 1 wound modifier per level.                                             |
+| [Psi Camouflage](#psi-camouflage)                 |   1/2   | −10 to detect with psi per level. Bio-brained morphs only.                     |
+| [Psi Defense](#psi-defense)                       |   1/2   | +10 to resist psi per level. Bio-brained morphs only.                          |
+| [Quickness](#quickness)                           |  1/2/3  | +5 per level to REF Checks.                                                    |
+| [Rapid Healing](#rapid-healing)                   |    1    | Heal twice as fast. Biomorphs only.                                            |
+| [Resolve](#resolve)                               |  1/2/3  | +5 per level to WIL Checks.                                                    |
+| [Skill Artifact](#skill-artifact)                 |   1/2   | +10 to one GM-chosen skill per level.                                          |
+| [Striking Looks](#striking-looks)                 |   1/2   | +10 on Persuade and Provoke Tests where looks matter.                          |
+| [Toughness](#toughness)                           |   2/4   | +5&nbsp;DUR, also impacts WT and DR, see text.                                 |
 
 <!-- CLEANED /blockquote -->
 
@@ -242,7 +242,7 @@ The patron provides one free major [favor](../15/13-networking.md#favors) per st
 
 **▲ Ego Trait • CP Cost: 2/4**
 
-You are infected with the Watts-MacLeod strain of the exsurgent virus, which altered your brain structure and enhanced your cognitive abilities. You may learn the [Psi skill](../04/19-active-skill-list.md#psi) and purchase psi abilities, called [sleights](../14/06-psi-sleight-summaries.md). At Level 1, you may only use psi-chi sleights. At Level 2, the character may use both psi-chi and psi-gamma sleights.
+You are infected with the Watts-MacLeod strain of the exsurgent virus, which altered your brain structure and enhanced your cognitive abilities. You may learn the [Psi skill](19-active-skill-list.md#psi) and purchase psi abilities, called [sleights](../14/06-psi-sleight-summaries.md). At Level 1, you may only use psi-chi sleights. At Level 2, the character may use both psi-chi and psi-gamma sleights.
 
 Psi is not without drawbacks. You must also take a negative trait according to your [sub-strain](../14/02-watts-macleod-sub-strains.md) at no CP bonus. This required trait does not count towards trait CP limits.
 
@@ -358,35 +358,35 @@ Negative traits provide a CP or MP bonus and impair you.
 
 ### Negative Ego Traits
 
-| Trait                                                         | CP Bonus | Effect                                                                        |
-| :------------------------------------------------------------ | :------: | :---------------------------------------------------------------------------- |
-| [Addiction](../04/28-traits.md#addiction)                     |  1/2/4   | −10 per level if no regular fix; see text for additional effects.             |
-| [Bad Luck](../04/28-traits.md#bad-luck)                       |    6     | May not use pools to flip-flop dice rolls.                                    |
-| [Blocklisted Rep](../04/28-traits.md#blocklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
-| [Black Mark](../04/28-traits.md#black-mark)                   |  1/2/3   | −10 modifier per level to interactions with one faction.                      |
-| [Combat Paralysis](../04/28-traits.md#combat-paralysis)       |    4     | WIL Check to act in each action turn of combat.                               |
-| [Edited Memories](../04/28-traits.md#edited-memories)         |    1     | You have lost some memories, deliberately or not.                             |
-| [Enemy](../04/28-traits.md#enemy)                             |    2     | Enemy NPC haunts you.                                                         |
-| [Enhanced Behavior](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Psychosurgically enhanced behavior/emotions. See text.                        |
-| [Feebleness](../04/28-traits.md#feebleness)                   |  1/2/3   | −5 per level to SOM Checks.                                                   |
-| [Identity Crisis](../04/28-traits.md#identity-crisis)         |    1     | Trouble adapting to new morph physiologies, −10 when applicable.              |
-| [Indifference](../04/28-traits.md#indifference)               |  1/2/3   | −5 per level to SAV Checks.                                                   |
-| [Instability](../04/28-traits.md#instability)                 |   2/4    | −5&nbsp;LUC, −1 Trauma Threshold, and −10 Insanity Rating per level.          |
-| [Low Pain Tolerance](../04/28-traits.md#low-pain-tolerance)   |    4     | Additional −10 modifier per wound.                                            |
-| [Mental Disorder](../04/28-traits.md#mental-disorder)         |    2     | Choose one [disorder](../12/20-disorders.md).                                 |
-| [Morphing Disorder](../04/28-traits.md#morphing-disorder)     |  2/4/6   | −10 per level on Integration and Resleeving Stress Tests.                     |
-| [Neural Damage](../04/28-traits.md#neural-damage)             |    2     | You have some type of incurable neural damage; see text.                      |
-| [No Backup Insurance](../04/28-traits.md#no-backup-insurance) |    2     | Upon death, re-instantation and MP up to GM.                                  |
-| [Obliviousness](../04/28-traits.md#obliviousness)             |    2     | Additional −10 to Perceive Tests when distracted and Surprise Tests.          |
-| [Obtuseness](../04/28-traits.md#obtuseness)                   |  1/2/3   | −5 per level to COG Checks.                                                   |
-| [Poor Coordination](../04/28-traits.md#poor-coordination)     |  1/2/3   | −5 per level to REF Checks.                                                   |
-| [Poor Instincts](../04/28-traits.md#poor-instincts)           |  1/2/3   | −5 per level to INT Checks.                                                   |
-| [Psi Vulnerability](../04/28-traits.md#psi-vulnerability)     |   1/2    | −10 per level to resist psi.                                                  |
-| [Real World Naiveté](../04/28-traits.md#real-world-naiveté)   |    2     | GM may provide false info once per session.                                   |
-| [Restricted Behavior](../04/28-traits.md#restricted-behavior) |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                         |
-| [Sensitive](../04/28-traits.md#sensitive)                     |   1/2    | −10 per level to INT Checks to resist basilisk hacks.                         |
-| [Timidity](../04/28-traits.md#timidity)                       |  1/2/3   | −5 per level to WIL Checks.                                                   |
-| [VR Vertigo](../04/28-traits.md#vr-vertigo)                   |    2     | −30 modifier using XP/VR; −10 using AR. SOM Check or incapacitated.           |
+| Trait                                       | CP Bonus | Effect                                                                        |
+| :------------------------------------------ | :------: | :---------------------------------------------------------------------------- |
+| [Addiction](#addiction)                     |  1/2/4   | −10 per level if no regular fix; see text for additional effects.             |
+| [Bad Luck](#bad-luck)                       |    6     | May not use pools to flip-flop dice rolls.                                    |
+| [Blocklisted Rep](#blocklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
+| [Black Mark](#black-mark)                   |  1/2/3   | −10 modifier per level to interactions with one faction.                      |
+| [Combat Paralysis](#combat-paralysis)       |    4     | WIL Check to act in each action turn of combat.                               |
+| [Edited Memories](#edited-memories)         |    1     | You have lost some memories, deliberately or not.                             |
+| [Enemy](#enemy)                             |    2     | Enemy NPC haunts you.                                                         |
+| [Enhanced Behavior](#enhanced-behavior)     |  1/2/4   | Psychosurgically enhanced behavior/emotions. See text.                        |
+| [Feebleness](#feebleness)                   |  1/2/3   | −5 per level to SOM Checks.                                                   |
+| [Identity Crisis](#identity-crisis)         |    1     | Trouble adapting to new morph physiologies, −10 when applicable.              |
+| [Indifference](#indifference)               |  1/2/3   | −5 per level to SAV Checks.                                                   |
+| [Instability](#instability)                 |   2/4    | −5&nbsp;LUC, −1 Trauma Threshold, and −10 Insanity Rating per level.          |
+| [Low Pain Tolerance](#low-pain-tolerance)   |    4     | Additional −10 modifier per wound.                                            |
+| [Mental Disorder](#mental-disorder)         |    2     | Choose one [disorder](../12/20-disorders.md).                                 |
+| [Morphing Disorder](#morphing-disorder)     |  2/4/6   | −10 per level on Integration and Resleeving Stress Tests.                     |
+| [Neural Damage](#neural-damage)             |    2     | You have some type of incurable neural damage; see text.                      |
+| [No Backup Insurance](#no-backup-insurance) |    2     | Upon death, re-instantation and MP up to GM.                                  |
+| [Obliviousness](#obliviousness)             |    2     | Additional −10 to Perceive Tests when distracted and Surprise Tests.          |
+| [Obtuseness](#obtuseness)                   |  1/2/3   | −5 per level to COG Checks.                                                   |
+| [Poor Coordination](#poor-coordination)     |  1/2/3   | −5 per level to REF Checks.                                                   |
+| [Poor Instincts](#poor-instincts)           |  1/2/3   | −5 per level to INT Checks.                                                   |
+| [Psi Vulnerability](#psi-vulnerability)     |   1/2    | −10 per level to resist psi.                                                  |
+| [Real World Naiveté](#real-world-naiveté)   |    2     | GM may provide false info once per session.                                   |
+| [Restricted Behavior](#restricted-behavior) |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                         |
+| [Sensitive](#sensitive)                     |   1/2    | −10 per level to INT Checks to resist basilisk hacks.                         |
+| [Timidity](#timidity)                       |  1/2/3   | −5 per level to WIL Checks.                                                   |
+| [VR Vertigo](#vr-vertigo)                   |    2     | −30 modifier using XP/VR; −10 using AR. SOM Check or incapacitated.           |
 
 <!-- CLEANED /blockquote -->
 
@@ -394,36 +394,36 @@ Negative traits provide a CP or MP bonus and impair you.
 
 ### Negative Morph Traits
 
-| Trait                                                               | MP Bonus | Effect                                                                                                                      |
-| :------------------------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------- |
-| [Addiction](../04/28-traits.md#addiction)                           |  1/2/4   | −10 per level if no regular fix; see text for additional effects. Biomorphs only.                                           |
-| [Age](../04/28-traits.md#age)                                       |    4     | −10 to physical actions. Flats and splicers only.                                                                           |
-| [Dominant Limb](../04/28-traits.md#dominant-limb)                   |    1     | −20 to tests made with non-dominant limbs.                                                                                  |
-| [Enhanced Behavior](../04/28-traits.md#enhanced-behavior)           |  1/2/4   | Psychosurgically enhanced behavior/emotions. See text.                                                                      |
-| [Exotic Morphology](../04/28-traits.md#exotic-morphology)           |  2/4/6   | −10 per level on Integration Tests.                                                                                         |
-| [Feebleness](../04/28-traits.md#feebleness)                         |  1/2/3   | −5 per level to SOM Checks.                                                                                                 |
-| [Frailty](../04/28-traits.md#frailty)                               |   2/4    | −5&nbsp;DUR, also impacts WT and DR, see text.                                                                              |
-| [Genetic Defect](../04/28-traits.md#genetic-defect)                 |   1/2    | Morph has minor or serious health complications. Flats only.                                                                |
-| [Hypersensitivity](../04/28-traits.md#hypersensitivity)             |    3     | No implants allowed. Biomorphs only.                                                                                        |
-| [Indifference](../04/28-traits.md#indifference)                     |  1/2/3   | −5 per level to SAV Checks.                                                                                                 |
-| [Infection Risk](../04/28-traits.md#infection-risk)                 |   1/2    | −10 per level to SOM Checks to resist the biological exsurgent virus.                                                       |
-| [Inherent Flaws](../04/28-traits.md#inherent-flaws)                 |    2     | 10% chance of acquiring a wound each time a critical failure is rolled. Synthmorphs only.                                   |
-| [Low Pain Tolerance](../04/28-traits.md#low-pain-tolerance)         |    4     | Additional −10 modifier per wound.                                                                                          |
-| [Memory Artifact](../04/28-traits.md#memory-artifact)               |    1     | Recall other ego’s memory once per session; COG Check or SV 1d6.                                                            |
-| [Non-Human Biochemistry](../04/28-traits.md#non-human-biochemistry) |   2/4    | −10 to Medicine Tests, −20 if non-mammalian. Biomorphs only.                                                                |
-| [Obtuseness](../04/28-traits.md#obtuseness)                         |  1/2/3   | −5 per level to COG Checks.                                                                                                 |
-| [Planned Obsolescence](../04/28-traits.md#planned-obsolescence)     |    1     | Cumulative pool loss/wound per month without maintenance.                                                                   |
-| [Poor Coordination](../04/28-traits.md#poor-coordination)           |  1/2/3   | −5 per level to REF Checks.                                                                                                 |
-| [Poor Instincts](../04/28-traits.md#poor-instincts)                 |  1/2/3   | −5 per level to INT Checks.                                                                                                 |
-| [Proprietary Tech](../04/28-traits.md#proprietary-tech)             |    2     | −20 Hardware Tests, fixers do not work. Synthmorphs only.                                                                   |
-| [Restricted Behavior](../04/28-traits.md#restricted-behavior)       |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                                                                       |
-| [Psi Vulnerability](../04/28-traits.md#psi-vulnerability)           |   1/2    | −10 per level to resist psi. Bio-brained morphs only.                                                                       |
-| [Severe Allergy](../04/28-traits.md#severe-allergy)                 |   2/4    | −30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only. |
-| [Skill Glitch](../04/28-traits.md#skill-glitch)                     |   1/2    | −10 per level to one GM-chosen skill                                                                                        |
-| [Timidity](../04/28-traits.md#timidity)                             |  1/2/3   | −5 per level to WIL Checks.                                                                                                 |
-| [Unattractiveness](../04/28-traits.md#unattractiveness)             |   1/2    | −10 to Persuade and Provoke Tests where looks matter.                                                                       |
-| [Weak Immune System](../04/28-traits.md#weak-immune-system)         |   1/2    | −10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.                                              |
-| [Zero-G Nausea](../04/28-traits.md#zero-g-nausea)                   |    2     | −10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.                                                |
+| Trait                                             | MP Bonus | Effect                                                                                                                      |
+| :------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------- |
+| [Addiction](#addiction)                           |  1/2/4   | −10 per level if no regular fix; see text for additional effects. Biomorphs only.                                           |
+| [Age](#age)                                       |    4     | −10 to physical actions. Flats and splicers only.                                                                           |
+| [Dominant Limb](#dominant-limb)                   |    1     | −20 to tests made with non-dominant limbs.                                                                                  |
+| [Enhanced Behavior](#enhanced-behavior)           |  1/2/4   | Psychosurgically enhanced behavior/emotions. See text.                                                                      |
+| [Exotic Morphology](#exotic-morphology)           |  2/4/6   | −10 per level on Integration Tests.                                                                                         |
+| [Feebleness](#feebleness)                         |  1/2/3   | −5 per level to SOM Checks.                                                                                                 |
+| [Frailty](#frailty)                               |   2/4    | −5&nbsp;DUR, also impacts WT and DR, see text.                                                                              |
+| [Genetic Defect](#genetic-defect)                 |   1/2    | Morph has minor or serious health complications. Flats only.                                                                |
+| [Hypersensitivity](#hypersensitivity)             |    3     | No implants allowed. Biomorphs only.                                                                                        |
+| [Indifference](#indifference)                     |  1/2/3   | −5 per level to SAV Checks.                                                                                                 |
+| [Infection Risk](#infection-risk)                 |   1/2    | −10 per level to SOM Checks to resist the biological exsurgent virus.                                                       |
+| [Inherent Flaws](#inherent-flaws)                 |    2     | 10% chance of acquiring a wound each time a critical failure is rolled. Synthmorphs only.                                   |
+| [Low Pain Tolerance](#low-pain-tolerance)         |    4     | Additional −10 modifier per wound.                                                                                          |
+| [Memory Artifact](#memory-artifact)               |    1     | Recall other ego’s memory once per session; COG Check or SV 1d6.                                                            |
+| [Non-Human Biochemistry](#non-human-biochemistry) |   2/4    | −10 to Medicine Tests, −20 if non-mammalian. Biomorphs only.                                                                |
+| [Obtuseness](#obtuseness)                         |  1/2/3   | −5 per level to COG Checks.                                                                                                 |
+| [Planned Obsolescence](#planned-obsolescence)     |    1     | Cumulative pool loss/wound per month without maintenance.                                                                   |
+| [Poor Coordination](#poor-coordination)           |  1/2/3   | −5 per level to REF Checks.                                                                                                 |
+| [Poor Instincts](#poor-instincts)                 |  1/2/3   | −5 per level to INT Checks.                                                                                                 |
+| [Proprietary Tech](#proprietary-tech)             |    2     | −20 Hardware Tests, fixers do not work. Synthmorphs only.                                                                   |
+| [Restricted Behavior](#restricted-behavior)       |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                                                                       |
+| [Psi Vulnerability](#psi-vulnerability)           |   1/2    | −10 per level to resist psi. Bio-brained morphs only.                                                                       |
+| [Severe Allergy](#severe-allergy)                 |   2/4    | −30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only. |
+| [Skill Glitch](#skill-glitch)                     |   1/2    | −10 per level to one GM-chosen skill                                                                                        |
+| [Timidity](#timidity)                             |  1/2/3   | −5 per level to WIL Checks.                                                                                                 |
+| [Unattractiveness](#unattractiveness)             |   1/2    | −10 to Persuade and Provoke Tests where looks matter.                                                                       |
+| [Weak Immune System](#weak-immune-system)         |   1/2    | −10 per level to resist chemicals, disease, drugs, and toxins. Biomorphs only.                                              |
+| [Zero-G Nausea](#zero-g-nausea)                   |    2     | −10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.                                                |
 
 <!-- CLEANED /blockquote -->
 

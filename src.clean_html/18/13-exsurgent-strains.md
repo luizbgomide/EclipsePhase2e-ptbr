@@ -2,7 +2,7 @@
 
 A few of the more common exsurgent strains are here. GMs are encouraged to devise their own or adjust these to fit the needs of the story.
 
-**Vector:** How this strain is spread ([Exsurgent Infection](../18/10-exsurgent-infection.md)).
+**Vector:** How this strain is spread ([Exsurgent Infection](10-exsurgent-infection.md)).
 
 **Timeframe:** The period of time the infection (or that stage of the infection) takes to transform the target. Increase this duration for weaker or older strains, decrease it for stronger or newer strains. There are 20 action turns in a minute.
 
@@ -99,7 +99,7 @@ This virus strain initially functions the same as the mindstealer virus.
 - **Damage:** DV 1d10
 - **Stress:** SV 2d10
 
-After a period of 1 week, the internal changes are complete. From this point onward, every 2–3 days you will vomit up a [skrik](../18/14-exsurgent-types.md#skrik) — an exsurgent miniature version of yourself. Sometimes you will cough them up more frequently, and sometimes you will vomit up a whole bunch at once. These skriks are not under your control, though you can sometimes influence them.
+After a period of 1 week, the internal changes are complete. From this point onward, every 2–3 days you will vomit up a [skrik](14-exsurgent-types.md#skrik) — an exsurgent miniature version of yourself. Sometimes you will cough them up more frequently, and sometimes you will vomit up a whole bunch at once. These skriks are not under your control, though you can sometimes influence them.
 
 ## Watts-MacLeod
 

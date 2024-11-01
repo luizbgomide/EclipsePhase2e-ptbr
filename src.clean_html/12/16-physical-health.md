@@ -4,9 +4,9 @@ The galaxy is a dangerous place, and when you face the risks, you will inevitabl
 
 ## Damage Points
 
-All physical harm is measured in damage points. These points are cumulative and recorded on your character sheet. Damage points are characterized as fatigue, bruises, bumps, sprains, minor cuts, dings and dents, and similar hurts that, while painful, do not significantly impair or threaten your life or functioning unless they accumulate to a significant amount. Any source of harm that inflicts a large amount of damage points at once, however, is likely to have a more severe effect ([Wounds](../12/16-physical-health.md#wounds))
+All physical harm is measured in damage points. These points are cumulative and recorded on your character sheet. Damage points are characterized as fatigue, bruises, bumps, sprains, minor cuts, dings and dents, and similar hurts that, while painful, do not significantly impair or threaten your life or functioning unless they accumulate to a significant amount. Any source of harm that inflicts a large amount of damage points at once, however, is likely to have a more severe effect ([Wounds](#wounds))
 
-Damage points are reduced by rest, medical care, and/or repair ([Healing & Repair](../12/17-healing-and-repair.md)).
+Damage points are reduced by rest, medical care, and/or repair ([Healing & Repair](17-healing-and-repair.md)).
 
 ### Damage Value
 
@@ -16,7 +16,7 @@ For simplicity, a static amount is also noted in parentheses after the variable 
 
 ## Durability
 
-Your physical health is measured by your morph’s Durability stat. For biomorphs, this represents the point at which accumulated injuries overwhelm and incapacitate you. Once your total damage points equal or exceed your Durability, you immediately collapse from exhaustion and physical abuse. You gain the [unconscious condition](../12/21-other-action-factors.md#conditions) and cannot be revived until your damage points are reduced below your Durability, either from medical care or natural healing.
+Your physical health is measured by your morph’s Durability stat. For biomorphs, this represents the point at which accumulated injuries overwhelm and incapacitate you. Once your total damage points equal or exceed your Durability, you immediately collapse from exhaustion and physical abuse. You gain the [unconscious condition](21-other-action-factors.md#conditions) and cannot be revived until your damage points are reduced below your Durability, either from medical care or natural healing.
 
 For synthmorphs, Durability represents structural integrity. You become physically disabled when accumulated damage points reach your Durability and your software mind-state crashes.
 
@@ -38,9 +38,9 @@ Each wound applies a cumulative −10 modifier to all tests and −1 to Initiati
 
 Some traits, ware, drugs, psi sleights, and pools allow you to ignore wound modifiers. These effects are cumulative, though a maximum of 3 wounds worth of modifiers can be negated (−30 to actions and −3 to Initiative).
 
-**Knockdown:** Any time you receive a wound, make an immediate SOM Check. Wound modifiers apply. If you fail, you are [knocked prone](../12/21-other-action-factors.md#conditions) and must expend a quick action to stand up/reorient. Shells (bots and vehicles) moving at speed must make an Athletics or Pilot Test to avoid crashing.
+**Knockdown:** Any time you receive a wound, make an immediate SOM Check. Wound modifiers apply. If you fail, you are [knocked prone](21-other-action-factors.md#conditions) and must expend a quick action to stand up/reorient. Shells (bots and vehicles) moving at speed must make an Athletics or Pilot Test to avoid crashing.
 
-**Unconsciousness:** If you receive 2 or more wounds at once (from the same attack), you are automatically knocked prone and must make a SOM Check; wound modifiers apply. If you fail, you are [knocked unconscious](../12/21-other-action-factors.md#conditions) until you are awoken or heal. Synthmorphs and cyberbrained characters are knocked offline in a similar fashion. Shells moving at speed that take 2 or more wounds at once automatically [crash](../12/25-vehicle-movement.md#crashes).
+**Unconsciousness:** If you receive 2 or more wounds at once (from the same attack), you are automatically knocked prone and must make a SOM Check; wound modifiers apply. If you fail, you are [knocked unconscious](21-other-action-factors.md#conditions) until you are awoken or heal. Synthmorphs and cyberbrained characters are knocked offline in a similar fashion. Shells moving at speed that take 2 or more wounds at once automatically [crash](25-vehicle-movement.md#crashes).
 
 ## Bleeding Out
 

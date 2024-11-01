@@ -24,7 +24,7 @@ For rules on nanofabricating objects, see [Acquiring Gear](../16/02-acquiring-ge
 
 ## Repairing Objects
 
-Damaged items can be repaired, see [Synthmorph/Object Repair](../12/17-healing-and-repair.md#synthmorphobject-repair).
+Damaged items can be repaired, see [Synthmorph/Object Repair](17-healing-and-repair.md#synthmorphobject-repair).
 
 ## Modifying Objects
 

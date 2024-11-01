@@ -2,7 +2,7 @@
 
 A backup is a complete record of a transhuman ego — personality, memories, skills, and everything else that makes you _you_, short of your physical body. It also includes all of the information about your brain’s neuronal connections. These are needed to either emulate your ego digitally or print it onto the brain of a new morph.
 
-The primary use for a backup lies in not staying dead. Your backup can be [resleeved](../15/02-resleeving.md) into a new morph or run as an [infomorph](../13/08-infomorphs.md), perhaps as a [fork](../15/04-forking-and-merging.md#types-of-forks) of your original self. You can also egocast yourself across the Solar System as an alternative to long, [slow space voyages](../15/09-space-travel.md).
+The primary use for a backup lies in not staying dead. Your backup can be [resleeved](02-resleeving.md) into a new morph or run as an [infomorph](../13/08-infomorphs.md), perhaps as a [fork](04-forking-and-merging.md#types-of-forks) of your original self. You can also egocast yourself across the Solar System as an alternative to long, [slow space voyages](09-space-travel.md).
 
 Aside from quirky scientists who keep brains in vats, almost all backups exist in one of two forms: _cortical stack_ backups and _uploaded_ backups. Because backups are complete, stored transhuman egos, the term _ego_ is used interchangeably. “Backup” implies that the ego will be kept in storage, while “ego” implies that it will be run as an infomorph, resleeved, egocast, or the like.
 
@@ -26,7 +26,7 @@ Morphs with [swarm composition](../16/20-nanoswarms-and-microswarms.md) have dis
 
 Backing your ego up to a computer is insurance against a lost or destroyed cortical stack. Once your ego is uploaded, it can be archived to secure storage, run as an infomorph, treated with psychosurgery procedures, or egocast to a distant locale.
 
-Uploads can be a _transfer_ or a _fork_. A transfer eliminates all traces of the original ego in the morph from which the upload originates. This is standard procedure when resleeving, egocasting, or evacuating a body. [Forking](../15/04-forking-and-merging.md) creates a copy of the ego while leaving the original ego intact. Forking is legally restricted in many polities, but it is a common practice to upload beta forks, egocast them to distant locales for important errands, and merge them with their alpha when they return.
+Uploads can be a _transfer_ or a _fork_. A transfer eliminates all traces of the original ego in the morph from which the upload originates. This is standard procedure when resleeving, egocasting, or evacuating a body. [Forking](04-forking-and-merging.md) creates a copy of the ego while leaving the original ego intact. Forking is legally restricted in many polities, but it is a common practice to upload beta forks, egocast them to distant locales for important errands, and merge them with their alpha when they return.
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -74,7 +74,7 @@ All backup services provide the following:
 - An attempt to retrieve your stack/ego through appropriate channels.
 - In the case of verifiable death, re-instancing you as infomorph from your stack (if recovered) or from an archived backup (if not) to discuss options.
 - Doing the same in the event you have been missing for a pre-determined period (usually 6 months, but variable). Most people set their muses to periodically check in.
-- Resleeving you in a morph of equivalent MP, depending on availability. In the case of repeat deaths over a short time period, this MP value will be lowered for each subsequent death ([Acquiring Morphs](../15/03-acquiring-morphs.md)).
+- Resleeving you in a morph of equivalent MP, depending on availability. In the case of repeat deaths over a short time period, this MP value will be lowered for each subsequent death ([Acquiring Morphs](03-acquiring-morphs.md)).
 
 For people with resources, additional services may be offered, including hazardous stack retrieval options or hardened storage ([Services](../16/04-services.md)).
 

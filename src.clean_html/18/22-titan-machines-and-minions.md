@@ -52,7 +52,7 @@ Fetches are the software agents of the TITANs. Each is a fork of a TITAN ASI, th
 
 ---
 
-- **Exsurgent Infection:** Fetches carry the [digital exsurgent virus](../18/09-the-exsurgent-virus.md#digital-virus) and will attempt to infect digital mind-states
+- **Exsurgent Infection:** Fetches carry the [digital exsurgent virus](09-the-exsurgent-virus.md#digital-virus) and will attempt to infect digital mind-states
 - **Note:** Stats given are for a fetch infomorph. If sleeved, fetches prefer mentons, savant, or similar high-Insight morphs. Due to their advanced intellect, fetches carry 3 Insight and 3 Flex pool to any morph they inhabit.
 
 <!-- CLEANED /blockquote -->
@@ -111,7 +111,7 @@ Fractals are “bush robots:” conglomerations of jointed, metallic, fractal br
 - **Exsurgent Infection:** Fractals are often infected with the exsurgent virus and carry or nanofabricate nanoplagues
 - **Feign Destruction:** Fractals are programmed to “Fall apart” when accumulated damage nears their Death Rating, dissolving into numerous nanoswarms that rebuild the fractal
 - **Invulnerability:** Area-effect weapons do half-damage to fractals; all others do minimum damage
-- **Nanofabrication:** Fractals may be equipped with or fabricate any enhancements, gear, armor, or weapons the GM desires to present an appropriate threat to the PCs. Reduce all [nanofabrication](../16/03-nanofabrication.md) times by half. They may also mimic the effects of any existing [nanoswarm](../16/20-nanoswarms-and-microswarms.md) or [TITAN Nanoviruses](../18/21-the-titans-legacy.md#titan-nanoviruses).
+- **Nanofabrication:** Fractals may be equipped with or fabricate any enhancements, gear, armor, or weapons the GM desires to present an appropriate threat to the PCs. Reduce all [nanofabrication](../16/03-nanofabrication.md) times by half. They may also mimic the effects of any existing [nanoswarm](../16/20-nanoswarms-and-microswarms.md) or [TITAN Nanoviruses](21-the-titans-legacy.md#titan-nanoviruses).
 - **Regeneration:** Fractals repair 1d10 damage per half hour; after all damage is fixed, they repair 1 wound per hour
 
 <!-- CLEANED /blockquote -->

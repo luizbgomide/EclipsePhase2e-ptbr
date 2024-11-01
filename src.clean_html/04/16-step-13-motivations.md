@@ -4,7 +4,7 @@ Now that your character is mostly fleshed out, you must choose 3 motivations. Mo
 
 Motivations are listed on your character sheet as a single term or short phrase, along with a + or − symbol to denote whether they support the cause or oppose it. For example, “+Fame” would indicate that your character seeks to become a famous media personality, whereas “−Reclaim Earth” means that your character opposes the goal of reclaiming Earth.
 
-Your first motivation is based on your faction choice, as determined in [Step 4](../04/07-step-4-faction.md). Note this on your sheet as “+\[Faction\] Interests.” Your other two motivations are based on your character’s personal interests; see the Example Motivations sidebar for ideas.
+Your first motivation is based on your faction choice, as determined in [Step 4](07-step-4-faction.md). Note this on your sheet as “+\[Faction\] Interests.” Your other two motivations are based on your character’s personal interests; see the Example Motivations sidebar for ideas.
 
 If you did not choose a faction, simply choose a third personal motivation instead. If you’re not sure what motivations to pick just yet, you can always leave them blank for now and fill them in during gameplay.
 
@@ -24,6 +24,7 @@ For more interactive motivations, have each player choose one of the goals of an
 
 <!-- CLEANED div class="two-columns-text" -->
 
+<!--sorted-->
 - Acceptance
 - AGI Personhood
 - Alien Contact
@@ -70,6 +71,7 @@ For more interactive motivations, have each player choose one of the goals of an
 - Uplift Rights
 - Venusian Sovereignty
 - Wealth
+<!--end-sort-->
 
 <!-- CLEANED /div -->
 

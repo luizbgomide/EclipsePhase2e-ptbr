@@ -6,11 +6,11 @@ A wide range of factors can impact an action or combat scene; some are discussed
 
 Some attacks, drugs, and psi sleights inflict specific temporary conditions on the target:
 
-- **Blinded:** You cannot see, though you can perceive through your other senses as well as entoptics and meshed sensors. You have a 50% chance of missing your attacks ([Blind Attacks](../12/15-special-attacks.md#blind-attacks)) and suffer a −30 to all other physical actions, including Fray Tests. You must make an Athletics, Free Fall, or Pilot Test to move faster than a base move or fall prone.
+- **Blinded:** You cannot see, though you can perceive through your other senses as well as entoptics and meshed sensors. You have a 50% chance of missing your attacks ([Blind Attacks](15-special-attacks.md#blind-attacks)) and suffer a −30 to all other physical actions, including Fray Tests. You must make an Athletics, Free Fall, or Pilot Test to move faster than a base move or fall prone.
 - **Confused:** Your wits are scrambled. You do not comprehend communication or what is going on around you. Each turn, you may make a COG Check at −30. If you succeed, you act as normal. If you fail, roll d100: 00–24, do nothing but mutter incoherently; 25–49, act randomly as determined by the GM; 50–74, flee in a random direction; 75–99, attack a random nearby target (even potentially an ally) with weapon/item in hand. You defend with Fray as normal.
 - **Dazed:** You are mentally stunned and disoriented. You cannot initiate any actions, but you can take a base move and defend against attacks.
 - **Deafened:** You cannot hear. You suffer −3 to Initiative Tests and −30 to general Perceive Tests.
-- **Grappled:** You are physically restrained. Your Movement Rate is 0 and you cannot take any physical actions except for opposed Melee/SOM Checks to break free. You may use Fray at −30 against attacks coming from outside the grapple. See [Grappling](../12/02-melee-combat.md#grappling).
+- **Grappled:** You are physically restrained. Your Movement Rate is 0 and you cannot take any physical actions except for opposed Melee/SOM Checks to break free. You may use Fray at −30 against attacks coming from outside the grapple. See [Grappling](02-melee-combat.md#grappling).
 - **Immobilized:** You can take no physical actions, including Fray Tests, until you recover. You can make mental/mesh actions.
 - **Impaired:** Your abilities are hindered. You suffer −10, −20, or −30 to all actions, as indicated by the condition (i.e., impaired (−10)).
 - **Incapacitated:** You can take no actions until you recover. This includes mental actions and Fray Tests; you cannot defend against attacks.

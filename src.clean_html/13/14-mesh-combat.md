@@ -18,7 +18,7 @@ You may attack the operating systems of remote devices by flooding them with tra
 
 You attack a local or remote target by attempting to destabilize its underlying software processes. Take a complex action and roll Infosec skill. For a local attack, if you do not have admin privileges, you suffer a −30 modifier.
 
-If a system defender is actively shielding the target ([Shield Software](../13/06-mesh-actions.md#universal-actions)), this is an opposed test against their Infosec skill. If not, it is a standard success test. Remote attacks are opposed by the Firewall rating (or the defender’s Infosec skill if actively defended).
+If a system defender is actively shielding the target ([Shield Software](06-mesh-actions.md#universal-actions)), this is an opposed test against their Infosec skill. If not, it is a standard success test. Remote attacks are opposed by the Firewall rating (or the defender’s Infosec skill if actively defended).
 
 **Attack Awareness:** It is not automatically apparent where a mesh attack originates from — or even that it is underway. If you, your software, or the operating system of the device you are accessing/running on take damage or wounds, you will experience this as malfunctioning software — an unfortunately common occurrence, even in Eclipse Phase. If you suspect you are under attack, you may take a complex action and make an Infosec Test to identify the attacker and their mesh ID.
 
@@ -36,13 +36,13 @@ If the damage inflicted upon you exceeds your software’s Wound Threshold, a wo
 
 Unlike physical wounds, mesh wounds do not trigger checks for knockdown or unconsciousness.
 
-**Optional Rule:** For each wound, there is a cumulative 10% chance you suffer a [glitch](../13/16-glitches.md); roll each time a wound is inflicted.
+**Optional Rule:** For each wound, there is a cumulative 10% chance you suffer a [glitch](16-glitches.md); roll each time a wound is inflicted.
 
 ## Mesh Durability
 
 Software that accumulates damage equal to or exceeding its Durability immediately crashes and ceases to function. All data transfers and other ongoing processes immediately stop. If your account shell crashes, you are booted from the system (though you may attempt to log or hack back in). Crashed infomorphs may no longer act. If a cyberbrain crashes, the morph itself freezes or collapses. If a service or operating system crashes, all users are disconnected (including the attacker) and any other processes ongoing on the system come to a halt.
 
-Infomorphs, cyberbrains, services, and operating systems automatically [reboot](../13/12-countermeasures.md#rebootshutdown), which takes 1d6 action turns. Rebooting eliminates all accumulated mesh damage and wounds.
+Infomorphs, cyberbrains, services, and operating systems automatically [reboot](12-countermeasures.md#rebootshutdown), which takes 1d6 action turns. Rebooting eliminates all accumulated mesh damage and wounds.
 
 Software (except for account shells) may still be attacked after it has crashed. This represents attempts to irretrievably damage the code so that it may no longer run. If software accumulates damage equal to or exceeding its Death Rating, it is permanently corrupted. Apps and services must be reinstalled. Cyberbrains and devices must be repaired or replaced. Infomorphs and the egos within cyberbrains are effectively dead. Damage and wounds inflicted on crashed software are applied when it reboots.
 

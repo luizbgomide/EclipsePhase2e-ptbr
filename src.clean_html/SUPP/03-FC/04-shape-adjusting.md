@@ -72,7 +72,7 @@ A module (and by extension, a whole flexbot) can alter its forms in the followin
 - Extend itself up to double its size along any dimension. Reduce AV by 50%.
 - Extend itself up to 50% along one dimension and up to double along another. Reduce AV by 75%. A module extended in this fashion is considered medium size instead of small. A multi-module flexbot increases its size category one step.
 
-Some other specific form-alteration ideas are discussed under [Flexbot Tricks](../03-FC/05-flexbot-tricks.md). Note that individual flexbot modules are not designed to split apart; any attempt to divide one into pieces will severely damage it.
+Some other specific form-alteration ideas are discussed under [Flexbot Tricks](05-flexbot-tricks.md). Note that individual flexbot modules are not designed to split apart; any attempt to divide one into pieces will severely damage it.
 
 ### Gear Assembly
 

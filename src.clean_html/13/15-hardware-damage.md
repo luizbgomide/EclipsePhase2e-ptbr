@@ -2,7 +2,7 @@
 
 Mesh gear ranges from cheap and vulnerable motes to durable, self-repairing servers. They are treated just like other objects for physical combat purposes ([Objects & Structures](../12/26-objects-and-structures.md)).
 
-If a device is physically damaged, there is a 10% chance it suffers a [glitch](../13/16-glitches.md). If the device suffers a wound, it automatically glitches. Additionally, wound modifiers apply to all mesh tests involving that device.
+If a device is physically damaged, there is a 10% chance it suffers a [glitch](16-glitches.md). If the device suffers a wound, it automatically glitches. Additionally, wound modifiers apply to all mesh tests involving that device.
 
 Shock attacks will temporarily disrupt hardware devices. No mesh actions may be taken with or on a shocked device for one action turn. At the GM’s discretion, shock attacks may also sever communication links or inflict extra damage.
 

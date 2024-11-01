@@ -54,7 +54,7 @@ Swarmanoids and swarms may be equipped with ware, like robots. GMs must use comm
 
 ### Attrition
 
-Individual mites are very vulnerable. They fail and get stepped on, breathed in, stuck to things, crippled by static electricity, and otherwise destroyed in large numbers. Each day during which a swarm is deployed, it takes DV 5 (DV 10 or 20 in unfavorable environments). [Hives](../16/19-nanotech.md#hives) repair this damage with new mites. A swarm is disabled/ineffective when damage reaches its Durability. This makes swarm units without a hive good for about 5 days of use.
+Individual mites are very vulnerable. They fail and get stepped on, breathed in, stuck to things, crippled by static electricity, and otherwise destroyed in large numbers. Each day during which a swarm is deployed, it takes DV 5 (DV 10 or 20 in unfavorable environments). [Hives](19-nanotech.md#hives) repair this damage with new mites. A swarm is disabled/ineffective when damage reaches its Durability. This makes swarm units without a hive good for about 5 days of use.
 
 ## Swarms
 
@@ -63,9 +63,9 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | SWARMS             |     Comp/<!-- CLEANED wbr -->GP     | Description                                                                        |
 | :----------------- | :------------------: | :--------------------------------------------------------------------------------- |
 | Cleaner Swarm      |        Min/1         | Cleans, eliminates forensic evidence.                                              |
-| Disassembler Swarm |       Mod/R/2        | Deconstructs, DV 1d6 \[4\] per turn, eats armor.                                         |
+| Disassembler Swarm |       Mod/R/2        | Deconstructs, DV 1d6 \[4\] per turn, eats armor.                                   |
 | Engineer Swarm     |        Min/1         | Constructs/shapes environment.                                                     |
-| Fixer Swarm        |        Mod/2         | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                                   |
+| Fixer Swarm        |        Mod/2         | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                             |
 | Gardener Swarm     |        Min/1         | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
 | Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 6 per turn.                             |
 | Protean Swarm      |      As Object       | Nanofabricates a specific, pre-programmed item.                                    |

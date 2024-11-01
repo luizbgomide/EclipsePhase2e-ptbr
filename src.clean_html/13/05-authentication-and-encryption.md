@@ -4,15 +4,15 @@ Mesh security relies heavily on authentication and encryption to identify legiti
 
 ## Mesh ID
 
-Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh. Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions. This ID is automatically generated each time you come online and required for almost all online interactions. These interactions are universally logged, leaving a data trail that can be used to track your activity ([Tracking](../13/10-tracking.md)). Fortunately, [anonymizing services](../16/04-services.md#mesh-services) are available for those who value their privacy.
+Your mesh ID is a unique identifier code that distinguishes you from every other user and device on the mesh. Your cranial computer or ecto automatically associates this ID address with your accounts and screen names, enabling you to receive messages and other transmissions. This ID is automatically generated each time you come online and required for almost all online interactions. These interactions are universally logged, leaving a data trail that can be used to track your activity ([Tracking](10-tracking.md)). Fortunately, [anonymizing services](../16/04-services.md#mesh-services) are available for those who value their privacy.
 
 Many mesh IDs are publicly registered (and in some jurisdictions, this is legally mandated). Looking up a registered mesh ID is trivial. Registration data may include a name, physical address, and social media profile if so desired.
 
 ## Accounts & Access Privileges
 
-To access any mesh device or service, you need an account. Your account links to your mesh ID and determines your access privileges — what you are allowed to see and do with the device/service. As some systems are more restrictive than others, the GM ultimately decides what privileges an account provides ([Mesh Actions](../13/06-mesh-actions.md)). There are four types of accounts: public, user, security, and admin.
+To access any mesh device or service, you need an account. Your account links to your mesh ID and determines your access privileges — what you are allowed to see and do with the device/service. As some systems are more restrictive than others, the GM ultimately decides what privileges an account provides ([Mesh Actions](06-mesh-actions.md)). There are four types of accounts: public, user, security, and admin.
 
-**Account Shell:** When you log onto a system, an account shell is created. This account shell is the user interface that allows you to interact with the system. This process represents your presence as you access the system. It may be attacked in [mesh combat](../13/14-mesh-combat.md).
+**Account Shell:** When you log onto a system, an account shell is created. This account shell is the user interface that allows you to interact with the system. This process represents your presence as you access the system. It may be attacked in [mesh combat](14-mesh-combat.md).
 
 ### Public Accounts
 
@@ -20,11 +20,11 @@ Public accounts provide access to anyone on the mesh. They do not require any ty
 
 ### User Accounts
 
-User accounts require some form of [authentication](../13/05-authentication-and-encryption.md#authentication-methods) to access the device/service. These accounts are provided to people who regularly use the system: employees, clients, etc. Most users are allowed to use the system’s standard features as well as view, download, upload, and change their own or shared data. They are not allowed to create new accounts, access logs, alter security features, or do anything that might impact the system’s functions.
+User accounts require some form of [authentication](#authentication-methods) to access the device/service. These accounts are provided to people who regularly use the system: employees, clients, etc. Most users are allowed to use the system’s standard features as well as view, download, upload, and change their own or shared data. They are not allowed to create new accounts, access logs, alter security features, or do anything that might impact the system’s functions.
 
 ### Security Accounts
 
-Security accounts are intended for security personnel and ALIs that watch over the system. They also require [authentication](../13/05-authentication-and-encryption.md#authentication-methods) but provide greater privileges than standard users. Security accounts can typically view and edit logs, command security features and ALIs, add/delete non-admin accounts, alter the data of other users, and so on.
+Security accounts are intended for security personnel and ALIs that watch over the system. They also require [authentication](#authentication-methods) but provide greater privileges than standard users. Security accounts can typically view and edit logs, command security features and ALIs, add/delete non-admin accounts, alter the data of other users, and so on.
 
 ### Admin Accounts
 
@@ -48,11 +48,11 @@ If you have implants or embedded hardware, these are directly spliced into your 
 
 ### Mesh ID
 
-Some systems accept your mesh ID as authentication. This is extremely common with most public systems, which merely log the mesh ID of any user that wishes access. Other systems will only allow access to specific mesh IDs, but these are vulnerable to [spoofing attacks](../13/05-authentication-and-encryption.md#spoofing).
+Some systems accept your mesh ID as authentication. This is extremely common with most public systems, which merely log the mesh ID of any user that wishes access. Other systems will only allow access to specific mesh IDs, but these are vulnerable to [spoofing attacks](#spoofing).
 
 ### Other Account
 
-If you have access to an account on one system or service, and are logged in, this may give you automatic access to accounts on related systems or services. For example, having an account with a social network portal may give you free access to certain online news feeds or commercial data archives. This is also the method used for [puppeted devices](../13/02-mesh-topology.md#puppeted-devices), where access to the master device automatically grants you access to its puppeted devices. Hackers favor going after master accounts as a way of accessing other systems.
+If you have access to an account on one system or service, and are logged in, this may give you automatic access to accounts on related systems or services. For example, having an account with a social network portal may give you free access to certain online news feeds or commercial data archives. This is also the method used for [puppeted devices](02-mesh-topology.md#puppeted-devices), where access to the master device automatically grants you access to its puppeted devices. Hackers favor going after master accounts as a way of accessing other systems.
 
 ### Passcode
 
@@ -82,9 +82,9 @@ Lacking actual credentials, you can try to fake them. Biometric and passkey syst
 
 You can attempt to disguise your connection as if it came from a legitimate user or system. If successful, the recipient system is fooled by the charade and treats your commands and other traffic as legitimate.
 
-To spoof signals, you must first successfully monitor an active connection between the two systems using a sniffer app ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)). Armed with this data, you can use it to mask your own signals with a spoofer app. This requires a complex action and a [Hacking Test](../13/11-hacking.md#hacking-tests) between you and the target system (the one _receiving_ the signals). If the systems are communicating via a VPN, this test suffers a −30 modifier. If you win, your communications are treated as if coming from the legitimate system. If the firewall loses the contest but also succeeds, it is aware that there are discrepancies with the transmission (which is not that unusual). It may investigate further; this requires another Hacking Test (the spoofer suffers −30 against a VPN); if the defender wins, they detect evidence that incoming communications are being tampered with and may respond accordingly ([Countermeasures](../13/12-countermeasures.md)).
+To spoof signals, you must first successfully monitor an active connection between the two systems using a sniffer app ([Sniffing](04-devices-apps-and-links.md#sniffing)). Armed with this data, you can use it to mask your own signals with a spoofer app. This requires a complex action and a [Hacking Test](11-hacking.md#hacking-tests) between you and the target system (the one _receiving_ the signals). If the systems are communicating via a VPN, this test suffers a −30 modifier. If you win, your communications are treated as if coming from the legitimate system. If the firewall loses the contest but also succeeds, it is aware that there are discrepancies with the transmission (which is not that unusual). It may investigate further; this requires another Hacking Test (the spoofer suffers −30 against a VPN); if the defender wins, they detect evidence that incoming communications are being tampered with and may respond accordingly ([Countermeasures](12-countermeasures.md)).
 
-Note that spoofing only allows you to fake signals from one system to another. To fake signals back the other way, you must succeed in a [Hacking Test](../13/11-hacking.md#hacking-tests) against the other system as well. Successful man-in-the-middle attacks against both systems can be challenging but quite devastating.
+Note that spoofing only allows you to fake signals from one system to another. To fake signals back the other way, you must succeed in a [Hacking Test](11-hacking.md#hacking-tests) against the other system as well. Successful man-in-the-middle attacks against both systems can be challenging but quite devastating.
 
 ## Encryption
 
@@ -92,7 +92,7 @@ There are two types of cryptography commonly used in Eclipse Phase: public key a
 
 ### Public-Key Crypto
 
-In public-key cryptosystems, you generate two keys, a public key and a secret key. You give the public key to your friends or simply post it to the mesh at large. Others can use your public key to encrypt messages to you that only your secret key — controlled by you — can decrypt. Public-key crypto is widely used for encrypting files. Due to the strength of the public-key system algorithms, such crypto is essentially unbreakable without a quantum computer ([Quantum Codebreaking](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Public-key crypto is also used in VPNs, but sniffer apps exploit flaws in the protocol implementation that enable them to capture, bypass, or spoof the crypto keys without actually cracking them.
+In public-key cryptosystems, you generate two keys, a public key and a secret key. You give the public key to your friends or simply post it to the mesh at large. Others can use your public key to encrypt messages to you that only your secret key — controlled by you — can decrypt. Public-key crypto is widely used for encrypting files. Due to the strength of the public-key system algorithms, such crypto is essentially unbreakable without a quantum computer ([Quantum Codebreaking](#quantum-codebreaking)). Public-key crypto is also used in VPNs, but sniffer apps exploit flaws in the protocol implementation that enable them to capture, bypass, or spoof the crypto keys without actually cracking them.
 
 ### Quantum-Key Crypto
 

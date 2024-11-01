@@ -4,7 +4,7 @@ Not all of your character’s actions take place on missions or in scenarios. In
 
 Downtime is normally counted in weeks. Each week, choose one downtime action. This assumes your character is also busy with other activities: socializing, housework, nightlife, relaxing, playing games, and otherwise pursuing life’s mundane activities. If you are singularly focused to the exclusion of all else and/or are using an accelerated-time simulspace, the GM may cut this duration down, to a minimum of 1 day per downtime action.
 
-**Healing/Repair:** Recovering [mental](../12/19-mental-healing-and-psychosurgery.md) and [physical health](../12/17-healing-and-repair.md) is an important part of downtime, but it does not consume all of your time off. Consider healing/repair to happen in conjunction with the following downtime actions.
+**Healing/Repair:** Recovering [mental](19-mental-healing-and-psychosurgery.md) and [physical health](17-healing-and-repair.md) is an important part of downtime, but it does not consume all of your time off. Consider healing/repair to happen in conjunction with the following downtime actions.
 
 ## Acquire/Make Things
 

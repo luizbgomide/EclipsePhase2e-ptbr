@@ -10,12 +10,14 @@ It is increasingly common to find biomorphs with cyberbrains, especially in the 
 
 <!-- CLEANED /blockquote -->
 
+<!--sorted-->
 ### Flat
 
 Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies. Flats are increasingly rare outside bioconservative enclaves — most died off with the rest of humanity during the Fall.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Flat
 
 - **Cost:** 0&nbsp;MP • **Avail:** 30
@@ -28,7 +30,7 @@ Flats are baseline unmodified humans, born with all of the natural defects, here
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Common Extras:** Many have the [Genetic Defect trait](../04/28-traits.md#genetic-defect)
+- **Common Extras:** Many have the [Genetic Defect trait](28-traits.md#genetic-defect)
 
 <!-- CLEANED /blockquote -->
 
@@ -38,6 +40,7 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Splicer
 
 - **Cost:** 1&nbsp;MP • **Avail:** 90
@@ -60,6 +63,7 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Exalt
 
 - **Cost:** 2&nbsp;MP • **Avail:** 70
@@ -82,6 +86,7 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neotenic
 
 - **Cost:** 2&nbsp;MP • **Avail:** 50
@@ -106,6 +111,7 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Ruster
 
 - **Cost:** 3&nbsp;MP • **Avail:** 70
@@ -119,7 +125,7 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Cold Tolerance, Cortical Stack, Enhanced Respiration, Mesh Inserts, Radiation Sense
-- **Common Extras:** Many have the [Planned Obsolescence trait](../04/28-traits.md#planned-obsolescence)
+- **Common Extras:** Many have the [Planned Obsolescence trait](28-traits.md#planned-obsolescence)
 
 <!-- CLEANED /blockquote -->
 
@@ -129,6 +135,7 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Bouncer
 
 - **Cost:** 4&nbsp;MP • **Avail:** 60
@@ -152,6 +159,7 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Futura
 
 - **Cost:** 4&nbsp;MP • **Avail:** 25
@@ -174,6 +182,7 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Hibernoid
 
 - **Cost:** 4&nbsp;MP • **Avail:** 70
@@ -196,6 +205,7 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Menton
 
 - **Cost:** 4&nbsp;MP • **Avail:** 60
@@ -218,6 +228,7 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Olympian
 
 - **Cost:** 4&nbsp;MP • **Avail:** 60
@@ -240,6 +251,7 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Sylph
 
 - **Cost:** 4&nbsp;MP • **Avail:** 60
@@ -253,7 +265,7 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Clean Metabolism, Cortical Stack, Enhanced Pheromones, Mesh Inserts
-- **Common Extras:** Many have the [Striking Looks trait](../04/28-traits.md#striking-looks)
+- **Common Extras:** Many have the [Striking Looks trait](28-traits.md#striking-looks)
 
 <!-- CLEANED /blockquote -->
 
@@ -263,6 +275,7 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Fury
 
 - **Cost:** 6&nbsp;MP • **Avail:** 40
@@ -287,6 +300,7 @@ Ghosts are partially designed for combat applications, but their primary focus i
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Ghost
 
 - **Cost:** 6&nbsp;MP • **Avail:** 40
@@ -313,6 +327,7 @@ They look close to human, but are different in very noticeable and sometimes eer
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Remade
 
 - **Cost:** 7&nbsp;MP • **Avail:** 30
@@ -329,3 +344,5 @@ They look close to human, but are different in very noticeable and sometimes eer
 - **Morph Traits:** Exotic Morphology (Level 1)
 
 <!-- CLEANED /blockquote -->
+
+<!--end-sort-->

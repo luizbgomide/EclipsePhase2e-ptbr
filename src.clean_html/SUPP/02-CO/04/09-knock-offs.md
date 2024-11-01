@@ -6,10 +6,10 @@ GMs can use knock-offs as a plot point in games involving NPCs who find knock-of
 
 GMs have two options for handling knock-offs:
 
-**Equivalent-quality knock-offs** cost the same MP as the model they emulate. These either have minimal or cosmetic differences or have slight variations, such as one piece of ware switched out for another or one pool point switched out for a different one. These variations should be the same cost/complexity as whatever they replace. The rules for [Designing New Morphs](../04/12-designing-new-morphs.md) provide options and costs for tweaking morphs.
+**Equivalent-quality knock-offs** cost the same MP as the model they emulate. These either have minimal or cosmetic differences or have slight variations, such as one piece of ware switched out for another or one pool point switched out for a different one. These variations should be the same cost/complexity as whatever they replace. The rules for [Designing New Morphs](12-designing-new-morphs.md) provide options and costs for tweaking morphs.
 
-**Inferior-quality knock-offs** cost 1 MP less than the morphs they emulate, but are saddled with some negatives. The easiest option is to add 1 MP of [negative morph traits](../../../04/28-traits.md#negative-morph-traits) (_EP2_ and [this book](../04/06-negative-morph-traits.md)). Alternatively, you can reduce the capabilities of the morph by 1 MP using the [morph design rules](../04/12-designing-new-morphs.md). For example, the morph may have 5 less DUR and 1 less pool point.
+**Inferior-quality knock-offs** cost 1 MP less than the morphs they emulate, but are saddled with some negatives. The easiest option is to add 1 MP of [negative morph traits](../../../04/28-traits.md#negative-morph-traits) (_EP2_ and [this book](06-negative-morph-traits.md)). Alternatively, you can reduce the capabilities of the morph by 1 MP using the [morph design rules](12-designing-new-morphs.md). For example, the morph may have 5 less DUR and 1 less pool point.
 
 ## Identifying Knock-Offs
 
-To identify a knock-off morph, you must score a superior success using the rules for [identifying morphs](./08-identifying-morphs.md).
+To identify a knock-off morph, you must score a superior success using the rules for [identifying morphs](08-identifying-morphs.md).

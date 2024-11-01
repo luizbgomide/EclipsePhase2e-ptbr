@@ -1,6 +1,6 @@
 # Step 4: Faction
 
-Now that you have a rough orientation for your character’s background and skill sets, it’s time to pick a faction to which they hold allegiance. Each choice provides a [motivation](../04/16-step-13-motivations.md) and a skill of Know: \[Faction\] 30. The Factions sidebar provides a brief summary of each group; further details can be found on [Factions](../10/00-factions.md).
+Now that you have a rough orientation for your character’s background and skill sets, it’s time to pick a faction to which they hold allegiance. Each choice provides a [motivation](16-step-13-motivations.md) and a skill of Know: \[Faction\] 30. The Factions sidebar provides a brief summary of each group; further details can be found on [Factions](../10/00-factions.md).
 
 If you are unsure of what faction to pick at this time, you may skip this section for now and determine your faction, motivation, and Know skill during gameplay. You also can choose not to have a faction — not everyone picks sides. If going factionless, simply choose your own motivation and take any Know skill you like at 30.
 
@@ -10,6 +10,7 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 
 ## Factions
 
+<!--sorted-->
 **Anarchist:** You believe power is corrupt and favor voluntary, non-hierarchical organizations based on direct democracy.
 
 **Argonaut:** You seek technoprogressive solutions to transhumanity’s injustices and inequalities.
@@ -39,6 +40,8 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 **Titanian:** You are a technosocialist, believing that science and technology can provide for the well-being of all.
 
 **Venusian:** You adhere to the Morningstar Constellation’s vision for a more socialized, friendlier hypercapitalism.
+
+<!--end-sort-->
 
 **Regional:** You are a Solarian, Sifter, Belter, Europan, Ringer, or Skimmer invested in the culture, prosperity, and security of your area of the Solar System.
 

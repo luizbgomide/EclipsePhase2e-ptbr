@@ -10,7 +10,7 @@ While online, you’ll be accessing and interacting with numerous devices. This 
 
 The vast majority of meshed devices are motes: the wireless transceivers, microcomputers, and sensors embedded into almost everything. This includes appliances, tools, implants, sensors, wearables, peripherals, and similar specialized hardware. Motes possess enough processing power, storage memory, and networking capabilities to handle their specialized functions, mesh with nearby devices, and run a small assortment of apps.
 
-Motes have only public and admin [accounts](../13/05-authentication-and-encryption.md#accounts--access-privileges). They are only capable of running ALIs; some motes (GM’s call) can run infomorphs if the ALI is deleted, but they become overloaded.
+Motes have only public and admin [accounts](05-authentication-and-encryption.md#accounts--access-privileges). They are only capable of running ALIs; some motes (GM’s call) can run infomorphs if the ALI is deleted, but they become overloaded.
 
 ### Hosts
 
@@ -26,11 +26,11 @@ Servers can run multiple infomorphs. Most servers are large and stationary, thou
 
 ### Overloaded Devices
 
-Certain circumstances may impair a hardware device’s functionality. Its processing capabilities may be strained by resource-intensive processes (such as VR or psychosurgery), a distributed denial-of-service attack, network outages, overwhelming traffic during a habitat crisis, damaging solar flares, or similar scenarios. Overloaded devices inflict a −10 to −30 modifier to mesh actions involving that device. Additionally, Insight pool cannot be used for tests involving that device, and the chance of acquiring a glitch in mesh combat ([Mesh Wounds](../13/14-mesh-combat.md#mesh-wounds)) is doubled.
+Certain circumstances may impair a hardware device’s functionality. Its processing capabilities may be strained by resource-intensive processes (such as VR or psychosurgery), a distributed denial-of-service attack, network outages, overwhelming traffic during a habitat crisis, damaging solar flares, or similar scenarios. Overloaded devices inflict a −10 to −30 modifier to mesh actions involving that device. Additionally, Insight pool cannot be used for tests involving that device, and the chance of acquiring a glitch in mesh combat ([Mesh Wounds](14-mesh-combat.md#mesh-wounds)) is doubled.
 
 ## Software
 
-Everyone uses software to do things online. Most of your online interactions are facilitated by software interfaces. Software can be grouped into four categories: apps, infomorphs, operating systems, and services. Software can be attacked in [mesh combat](../13/14-mesh-combat.md).
+Everyone uses software to do things online. Most of your online interactions are facilitated by software interfaces. Software can be grouped into four categories: apps, infomorphs, operating systems, and services. Software can be attacked in [mesh combat](14-mesh-combat.md).
 
 ### Apps
 
@@ -38,11 +38,11 @@ Apps include programs that are run on your own hardware devices. Many of these p
 
 While most apps are also available as online services, there are advantages to running it on your local device. You might, for example, be cut off or distanced from the mesh on an exoplanet, remote asteroid, or within a secured corporate facility.
 
-Perhaps the most important app on each device is your firewall. Firewalls provide the smart security that protects each system ([Firewall](../13/12-countermeasures.md#firewall)).
+Perhaps the most important app on each device is your firewall. Firewalls provide the smart security that protects each system ([Firewall](12-countermeasures.md#firewall)).
 
 ### Infomorphs
 
-Infomorphs are activated mind-emulation suites — digital software intelligences. They are detailed on [Infomorphs](../13/08-infomorphs.md).
+Infomorphs are activated mind-emulation suites — digital software intelligences. They are detailed on [Infomorphs](08-infomorphs.md).
 
 ### Operating System
 
@@ -52,7 +52,7 @@ Your operating system (OS) is the software interface for your hardware device. I
 
 Software services are available to authorized clients from “the cloud” — various servers on the mesh. Think of it as programs you can use locally but that are actually run on someone else’s computer. Many services are provided for free: search engines, real-time translation, rep network interfaces, anonymizing agents, and so on. Others require an account and a subscription: egocasting, simulspaces, decryption, games, XP feeds, etc. The availability of services changes depending on the local habitat and legal jurisdictions. Due to the nature of the mesh, however, even illegal services such as exploit tools, cracked proprietary software, and narcoalgorithms proliferate. The drawback to using a service over an app, however, is that the service may keep logs of your activity.
 
-Services are only available when you have a direct mesh connection to the service provider. This means you can lose access to services if [jammed](../13/13-system-subversion.md#jam-signals), suffering distance lag, or otherwise cut off from the mesh. Services also log your mesh ID and may be used to track you ([Tracking](../13/10-tracking.md)).
+Services are only available when you have a direct mesh connection to the service provider. This means you can lose access to services if [jammed](13-system-subversion.md#jam-signals), suffering distance lag, or otherwise cut off from the mesh. Services also log your mesh ID and may be used to track you ([Tracking](10-tracking.md)).
 
 ## Wireless Links
 
@@ -68,15 +68,15 @@ For covert devices that are only transmitting in short bursts, wireless detectio
 
 Wireless radio traffic is broadcast through the air (or space), meaning that it can be intercepted by other wireless devices. Since all mesh traffic is relayed through numerous devices, each connection is encrypted for privacy. “Sniffing” involves the circumvention of this decryption in order to capture and analyze the actual data traffic.
 
-To intercept wireless communications, you need a sniffer app and you must be within radio range of the target (alternatively, you can access a device that is within radio range of the target and sniff from that location). The sniffer app automatically convinces the target to relay their mesh traffic through you (just like any other mesh node). This provides you with a list of mesh IDs to systems with which the target is actively connected ([Mesh ID](../13/05-authentication-and-encryption.md#mesh-id)). It will also identify any connections that are protected by a VPN or quantum crypto.
+To intercept wireless communications, you need a sniffer app and you must be within radio range of the target (alternatively, you can access a device that is within radio range of the target and sniff from that location). The sniffer app automatically convinces the target to relay their mesh traffic through you (just like any other mesh node). This provides you with a list of mesh IDs to systems with which the target is actively connected ([Mesh ID](05-authentication-and-encryption.md#mesh-id)). It will also identify any connections that are protected by a VPN or quantum crypto.
 
-You may target any one of these connections for active eavesdropping with a complex action and a [Hacking Test](../13/11-hacking.md#hacking-tests). If successful, you capture data traffic to and from the targeted device and the connected system as long as you stay within range. Each connection requires a separate test, though GMs may allow a single test for all connections on less important NPCs.
+You may target any one of these connections for active eavesdropping with a complex action and a [Hacking Test](11-hacking.md#hacking-tests). If successful, you capture data traffic to and from the targeted device and the connected system as long as you stay within range. Each connection requires a separate test, though GMs may allow a single test for all connections on less important NPCs.
 
-When you capture sniffed traffic, you acquire all data passing between the two systems. This includes emails, chats, transferred files, media streams, and more. To find useful data in large amounts of captured traffic may require a Research Test. If you capture traffic during an [authentication process](../13/05-authentication-and-encryption.md#authentication-methods), while a target is logging in, you may even capture their access credentials, such as their passcode or biometric scan. You can break a connection and force a re-authentication to capture credentials, but this requires winning a [Hacking Test](../13/11-hacking.md#hacking-tests) with the authenticating firewall.
+When you capture sniffed traffic, you acquire all data passing between the two systems. This includes emails, chats, transferred files, media streams, and more. To find useful data in large amounts of captured traffic may require a Research Test. If you capture traffic during an [authentication process](05-authentication-and-encryption.md#authentication-methods), while a target is logging in, you may even capture their access credentials, such as their passcode or biometric scan. You can break a connection and force a re-authentication to capture credentials, but this requires winning a [Hacking Test](11-hacking.md#hacking-tests) with the authenticating firewall.
 
 **Sniffing VPNs:** VPNs are more difficult to intercept: apply a −30 modifier. If successful, you acquire the encryption keys used by the two systems and may capture VPN traffic between them. However, VPNs frequently change their encryption keys to deter sniffing attacks; you can only sniff a VPN link for 1d6 minutes before you must make another Hacking Test at −30. You can use superior successes to increase the duration by 1d6 minutes or to make detection harder.
 
-**Detecting Sniffing Attacks:** VPNs automatically monitor signal latency and other clues to detect sniffing attacks. Once a minute, the firewall (or system defender if actively defended) may make a Firewall or Infosec Test. You can use superior successes scored on the sniffing attack to modify this test by −10. If successful, the defender detects their signals are being intercepted and may take action ([Countermeasures](../13/12-countermeasures.md)).
+**Detecting Sniffing Attacks:** VPNs automatically monitor signal latency and other clues to detect sniffing attacks. Once a minute, the firewall (or system defender if actively defended) may make a Firewall or Infosec Test. You can use superior successes scored on the sniffing attack to modify this test by −10. If successful, the defender detects their signals are being intercepted and may take action ([Countermeasures](12-countermeasures.md)).
 
 **Sniffing QE Comms:** Quantum-encrypted communications cannot be sniffed.
 

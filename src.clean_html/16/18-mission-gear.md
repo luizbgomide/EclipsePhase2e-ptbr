@@ -45,7 +45,7 @@ When scientists take to the field, this is what they use.
 
 **Adaptive Interface:** If the event you must interact with ancient technology — perhaps even a still-functioning alien relic — the adaptive interface features smart-material connectors that can connect to almost any conceivable piece of technology. It is also equipped with nano-probe sensors that can analyze the device’s structure and map out its internal functions. The interface’s ALI is equipped with Know: Computer Science, Know: Electrical Engineering, Know: Xenodata, and Interface skills at 60, as well as Infosec and Program at 40. Connecting to and analyzing relics is a task action with a timeframe of 1 hour, possibly longer (GM discretion). This interface severs mesh connections when analyzing unknown devices, so as not to unwittingly spread infections. It is not compatible with biological technology or nanotech more advanced than transhumanity’s.
 
-**Fractal Gloves:** These gloves mimic the function of [fractal digits](../16/11-physical-augmentations.md). The digits include micro-cameras that provide the function of [nanoscopic vision](../16/06-sensory-augmentations.md).
+**Fractal Gloves:** These gloves mimic the function of [fractal digits](11-physical-augmentations.md). The digits include micro-cameras that provide the function of [nanoscopic vision](06-sensory-augmentations.md).
 
 **Pocket Lab:** This small handheld device contains numerous sensors for analyzing both organic and inorganic compounds in liquid, gaseous, and solid form. It performs material analysis using different methods of spectrometry, chromatography, and biochemical testing, comparing results to a built-in database. Using a pocket lab you could test soil fertility, identify clean water, detect hazardous emissions, discover traces of life, pinpoint contaminants, determine the presence of explosives or firearms, identify strange substances, and so on. It operates with Know: Chemistry 60.
 
@@ -71,7 +71,7 @@ The following gear is often critical to the survival of soldiers, spies, crimina
 
 **Electronic Rope:** This rope’s fibers can be controlled electronically: making it move in a snakelike fashion, stiffen up, and wrap around objects. It comes in a 50-meter length capable of supporting 250&nbsp;kg. An e-rope can be cut by inflicting 20 points of damage.
 
-**Emergency Bubble:** Used as a last-resort life raft on spaceships, an emergency bubble is made of advanced smart materials and comes in a large but portable package that can be quickly inflated around you in 1 action turn, usually inside an airlock. The bubble has a 5-meter diameter and can comfortably accommodate 4 people for 1 week. It maintains 1 atmosphere of pressure in a vacuum, protects the inhabitants from temperatures ranging from −175 to 140&nbsp;°C, and provides light and breathable air. A built-in [autocook](../16/19-nanotech.md#specialized-nanofabricators) provides food and liquids. It features a simple airlock, carries an emergency distress beacon, and can be transparent, opaque, or polarized. It is powered by a nuclear battery and includes comfortable inflatable furniture. This bubble can also be partially inflated as a dome and staked down to a surface to serve as an emergency shelter on asteroids or other surfaced environments.
+**Emergency Bubble:** Used as a last-resort life raft on spaceships, an emergency bubble is made of advanced smart materials and comes in a large but portable package that can be quickly inflated around you in 1 action turn, usually inside an airlock. The bubble has a 5-meter diameter and can comfortably accommodate 4 people for 1 week. It maintains 1 atmosphere of pressure in a vacuum, protects the inhabitants from temperatures ranging from −175 to 140&nbsp;°C, and provides light and breathable air. A built-in [autocook](19-nanotech.md#specialized-nanofabricators) provides food and liquids. It features a simple airlock, carries an emergency distress beacon, and can be transparent, opaque, or polarized. It is powered by a nuclear battery and includes comfortable inflatable furniture. This bubble can also be partially inflated as a dome and staked down to a surface to serve as an emergency shelter on asteroids or other surfaced environments.
 
 **Pressure Tent:** This pack self-unfolds in 3 action turns into a pressurized shelter for up to 4 medium-sized people plus gear. A built-in breather will convert carbon dioxide from the atmosphere (if any) indefinitely. It also packs itself.
 
@@ -89,12 +89,12 @@ In a breathable atmosphere, modern vacsuits are loose smartfabric garments that 
 
 Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier materials. Donning one is a REF Check task action with a timeframe of 1 minute (20 action turns). Quick-release functions allow them to be removed in 3 action turns.
 
-Unless specifically noted, assume characters have newer models that function the same as [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology); older dumb-fabric designs are typically kept around as backups in older habitats and ships.
+Unless specifically noted, assume characters have newer models that function the same as [Smart Clothing](05-common-tech-and-ware.md#everyday-technology); older dumb-fabric designs are typically kept around as backups in older habitats and ships.
 
-| VACSUITS         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                                            |
-| :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------------- |
-| Light Vacsuit    |    Mod/2     | As [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 8 hours air, AV 5/2.  |
-| Standard Vacsuit |    Maj/3     | As [Smart Clothing](../16/05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 48 hours air, AV 8/6. |
+| VACSUITS         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                                      |
+| :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
+| Light Vacsuit    |    Mod/2     | As [Smart Clothing](05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 8 hours air, AV 5/2.  |
+| Standard Vacsuit |    Maj/3     | As [Smart Clothing](05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 48 hours air, AV 8/6. |
 
 **Light Vacsuit:** Both smart-fabric and legacy light vacsuit models are ideal for less harsh environments such as Mars, the Venusian clouds, or exoplanets with moderate but unbreathable atmospheres. Their rebreathers provide 8 hours of air. All models include a headlight, an ecto, and atmospheric sensors. They protect you from temperatures from −75 to 100&nbsp;°C. These vacuum suits also provide an Armor Value of 5/2 and instantly self-seal breaches unless more than 20 points of damage are inflicted at once.
 

@@ -34,7 +34,7 @@ ALIs do not get pools, unless a morph, bot, vehicle, or other device they are op
 
 By design, ALIs are incapable of self-improvement. To acquire or improve a skill, they must be reprogrammed or use skillware. They do not earn Rez Points.
 
-For all other rules, ALIs are treated as [infomorphs](../13/08-infomorphs.md).
+For all other rules, ALIs are treated as [infomorphs](08-infomorphs.md).
 
 ### Traits
 
@@ -60,7 +60,7 @@ Transhumans develop strong bonds to their muses due to their omnipresence and de
 
 ### What Your Muse Can Do for You
 
-The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things. This can be quite handy during time crunches or chaotic situations — it is otherwise quite inconvenient when you need to google something in the middle of a firefight. If you are not skilled in Infosec and don’t have or trust a team hacker, your muse can also act as your PAN’s [system defender](../13/12-countermeasures.md#system-defender). Its important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../03/01-how-to-play.md#teamwork).
+The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things. This can be quite handy during time crunches or chaotic situations — it is otherwise quite inconvenient when you need to google something in the middle of a firefight. If you are not skilled in Infosec and don’t have or trust a team hacker, your muse can also act as your PAN’s [system defender](12-countermeasures.md#system-defender). Its important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../03/01-how-to-play.md#teamwork).
 
 Here are a few specific examples of tasks your muse can take on:
 
@@ -84,7 +84,7 @@ Here are a few specific examples of tasks your muse can take on:
 
 Muses do not sleep, remaining active while you rest or hibernate.
 
-Likewise, if you are incapacitated or grappled, your muse can still act ([Damage and Infomorph Riders](../13/15-hardware-damage.md#damage-and-infomorph-riders)). Shock attacks, however, temporarily disrupt implanted systems, so your muse will be incapacitated just as you are.
+Likewise, if you are incapacitated or grappled, your muse can still act ([Damage and Infomorph Riders](15-hardware-damage.md#damage-and-infomorph-riders)). Shock attacks, however, temporarily disrupt implanted systems, so your muse will be incapacitated just as you are.
 
 ### Muse Backups
 

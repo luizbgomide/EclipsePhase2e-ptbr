@@ -33,7 +33,7 @@ Most morphs include the following augmentations.
 
 **Mnemonics:** The electronic minds of cyberbrains and infomorphs mimic biological brains in how they store memories — as networked but scattered groups of neurons. Despite being computerized, their memory recall is not any more efficient than bio brains. Mnemonics systems, however, allow memories to be tagged and roughly indexed. This improves memory recall, though it remains far from perfect. Mnemonics applies a +20 modifier to COG Checks for memory recall. Mnemonic data can be transferred with an ego when it resleeves, but the modifier applies only for memories that were recorded when mnemonics ware is present. Mnemonics systems are included in all cyberbrains.
 
-**Puppet Sock:** Puppet socks allow a morph to be remotely controlled, just like a drone ([Remote Operations](../16/21-robots.md#remote-operations)). While active, the puppet has no control over their body and is simply along for the ride. Too long in this situation can lead to stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)). Morphs with damage that reaches/exceeds their Durability cannot be puppeted.
+**Puppet Sock:** Puppet socks allow a morph to be remotely controlled, just like a drone ([Remote Operations](21-robots.md#remote-operations)). While active, the puppet has no control over their body and is simply along for the ride. Too long in this situation can lead to stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)). Morphs with damage that reaches/exceeds their Durability cannot be puppeted.
 
 ## Everyday Technology
 
@@ -74,13 +74,13 @@ These devices are easily available in almost all habitats.
 
 **Nuclear Battery:** These micro-sized batteries generate power from radio-isotope decay, storing it for use. They can produce power for years or even decades. They are often used to recharge standard batteries.
 
-**Portable Sensor:** This is a small portable (possibly even wearable) sensor system. The type of sensor must be chosen (for example: infrared, lidar, radar, x-ray). Combined sensor systems are also available, at a cumulative cost. See [Senses and Sensors](../16/07-senses-and-sensors.md), and [Radio and Sensor Ranges](../16/16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
+**Portable Sensor:** This is a small portable (possibly even wearable) sensor system. The type of sensor must be chosen (for example: infrared, lidar, radar, x-ray). Combined sensor systems are also available, at a cumulative cost. See [Senses and Sensors](07-senses-and-sensors.md), and [Radio and Sensor Ranges](16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
 
 **Smart Clothing:** Made from smart materials, you can change the color/patterns of smart clothing immediately and the texture and cut in 1d6 minutes. When used for camouflage purposes, smart clothing applies a +10 modifier to Infiltrate Tests, +30 if you are completely covered (or using chameleon skin) and remain stationary. This camo does not apply against radar, x-ray, gamma-ray, or infrared heat sensors (including enhanced vision). You can also use smart clothing to stand out (+10 to +30 to Perceive you). Smart clothing keeps you comfortable in environments from −40 to 70&nbsp;°C.
 
 **Solar Charger:** This small portable unit unfolds into highly efficient solar panels, useful for collecting sunlight and charging electronics or recharging batteries. It is common in gatecrashing and asteroid mining ops, though power output relies on proximity to the sun/star.
 
-**Specs:** Specs are vision-enhancing glasses or goggles. They provide all of the benefits of [enhanced vision](../16/06-sensory-augmentations.md) and include a [t-ray emitter](../16/06-sensory-augmentations.md). They provide a +10 bonus to Perceive Tests.
+**Specs:** Specs are vision-enhancing glasses or goggles. They provide all of the benefits of [enhanced vision](06-sensory-augmentations.md) and include a [t-ray emitter](06-sensory-augmentations.md). They provide a +10 bonus to Perceive Tests.
 
 **Standard Battery:** Batteries are micro-sized, high-density, ultra-capacity, rechargeable, room-temperature superconductors good for hundreds of hours of operation.
 

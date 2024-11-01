@@ -25,9 +25,9 @@ Seeker weapons are a combination of automatic grenade launcher, micromissile, co
 
 Seekers and grenades are both compact, multi-function, explosive devices. Seekers are packaged in standard missile, minimissile, or micromissile sizes and fired from seeker weapons using Guns skill. Grenades are designed to be thrown using Athletics skill or placed as traps using Hardware: Demolitions. Grenades come in standard form or as minigrenades.
 
-Minigrenades and micromissiles are the baseline for listed effects. Adjust the effects for minimissiles and standard grenades/missiles as noted on the table. Most are [area-effect weapons](../12/15-special-attacks.md#area-effect-attacks). Each can be set for different [trigger conditions](../12/10-seeker-weapons-and-grenades.md#trigger-conditions) or to [adjust the blast radius](../12/10-seeker-weapons-and-grenades.md#adjusting-blast-radius). Seekers/grenades that miss or that hit but are not [sticky](../12/10-seeker-weapons-and-grenades.md#sticky-coating) and are not set for impact or airburst detonation will [scatter](../12/15-special-attacks.md#scatter). Listed complexity is for 5 grenades/missiles.
+Minigrenades and micromissiles are the baseline for listed effects. Adjust the effects for minimissiles and standard grenades/missiles as noted on the table. Most are [area-effect weapons](15-special-attacks.md#area-effect-attacks). Each can be set for different [trigger conditions](#trigger-conditions) or to [adjust the blast radius](#adjusting-blast-radius). Seekers/grenades that miss or that hit but are not [sticky](#sticky-coating) and are not set for impact or airburst detonation will [scatter](15-special-attacks.md#scatter). Listed complexity is for 5 grenades/missiles.
 
-Each seeker missile can function as either [accushot or homing ammunition](../12/09-kinetic-weapons.md#specialty-firearm-ammo).
+Each seeker missile can function as either [accushot or homing ammunition](09-kinetic-weapons.md#specialty-firearm-ammo).
 
 **_BASELINE STATS ARE FOR MICROMISSILES AND MINIGRENADES._**
 
@@ -52,7 +52,7 @@ Each seeker missile can function as either [accushot or homing ammunition](../12
 | Minimissile      |       x2 (Uniform)        | +1d10 \[+5\] (Centered)  |  As above  |    Per 3     | As above |
 | Standard Missile |       x2 (Uniform)        |      x2 (Centered)       |  As above  |    Per 1     | As above |
 
-**Dazzler:** Dazzlers are spinning laser devices, designed to blind targets and defeat surveillance. Anyone within line of sight in the radius of effect (50 meters) who is not equipped with anti-glare mods must succeed in a REF Check or be [blinded](../12/21-other-action-factors.md#conditions) for 1 action turn, +1 per superior failure. A critical failure results in permanent blindness (until repaired/healed). Any visual light/infrared cameras are overloaded for the dazzler’s duration. Unless set to a timed deactivation, dazzlers continue to blind for 1 hour or until wirelessly turned off or physically destroyed (DUR 10, AV 5/10).
+**Dazzler:** Dazzlers are spinning laser devices, designed to blind targets and defeat surveillance. Anyone within line of sight in the radius of effect (50 meters) who is not equipped with anti-glare mods must succeed in a REF Check or be [blinded](21-other-action-factors.md#conditions) for 1 action turn, +1 per superior failure. A critical failure results in permanent blindness (until repaired/healed). Any visual light/infrared cameras are overloaded for the dazzler’s duration. Unless set to a timed deactivation, dazzlers continue to blind for 1 hour or until wirelessly turned off or physically destroyed (DUR 10, AV 5/10).
 
 **EMP:** EMP munitions fire off a strong electromagnetic pulse when they “detonate.” Since most electronics in Eclipse Phase are built with optical technology, and power supplies and sensitive microcircuits are shielded and surge-protected, this has no major damaging effect. Antennas, however, are vulnerable, especially finer wires like those used with mesh inserts, as are nanobots and microbots. Every radio within the blast radius (50 meters) is disabled until repaired with an appropriate Hardware or Medicine: Biotech Test or a fixer nanoswarm. Every nanoswarm within range suffers DV 3d10 and −10 to actions until repaired.
 
@@ -64,7 +64,7 @@ Each seeker missile can function as either [accushot or homing ammunition](../12
 
 **Splash:** Splash devices spread a contained substance (a drug, chemical, nanoswarm, paint, etc.) over a 10-meter blast radius when they detonate. Each contains 5 doses of a toxin/drug (targets are affected by 1 dose) or 1 nanoswarm.
 
-**Stun:** These enhanced versions of flashbangs release a concussive blast and a cloud of rubber “stingballs” designed to stun targets and knock them off their feet. This blast also releases a blinding flash and a deafening thunderclap. Treat as a [shock effect](../12/15-special-attacks.md#shock-attacks). Stun seekers/grenades can also be set into “overload mode,” inflicting an all-out sensory assault for a full minute. In addition to blinding glare, the device releases nausea-inducing malodorants and infrasonic frequencies that trigger unpleasant emotional responses (anxiety, uneasiness, extreme sorrow, revulsion, and fear).
+**Stun:** These enhanced versions of flashbangs release a concussive blast and a cloud of rubber “stingballs” designed to stun targets and knock them off their feet. This blast also releases a blinding flash and a deafening thunderclap. Treat as a [shock effect](15-special-attacks.md#shock-attacks). Stun seekers/grenades can also be set into “overload mode,” inflicting an all-out sensory assault for a full minute. In addition to blinding glare, the device releases nausea-inducing malodorants and infrasonic frequencies that trigger unpleasant emotional responses (anxiety, uneasiness, extreme sorrow, revulsion, and fear).
 
 **Tactical Multipurpose (TMP):** TMP devices can be set to detonate in either fragmentation or high-explosive mode. Fragmentation explosives spread a cloud of lethal flechettes over the area of effect. High-explosive seekers/grenades create a destructive shock and heat wave.
 
@@ -88,7 +88,7 @@ Grenades and some seekers have a special adhesive coating that sticks to almost 
 
 ### Trigger Conditions
 
-Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target. The user sets the trigger option when deploying the weapon and can alter it via wireless link. Missed attacks or attacks that do not explode in transit or when they strike are subject to [scatter](../12/15-special-attacks.md#scatter).
+Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target. The user sets the trigger option when deploying the weapon and can alter it via wireless link. Missed attacks or attacks that do not explode in transit or when they strike are subject to [scatter](15-special-attacks.md#scatter).
 
 **Airburst:** Airburst means that the device explodes in mid-air as soon as it travels a distance programmed at launch. Resolve such attacks immediately when fired. At the GM’s discretion, such attacks ignore cover modifiers. Note that airburst munitions are programmed with a safety feature that will prevent detonation if they fail to travel a minimum precautionary distance from the launcher, though this can be hacked or overridden with Hardware: Demolitions.
 

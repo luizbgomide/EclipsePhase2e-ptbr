@@ -21,7 +21,7 @@
 | 33–36 | Infosec                                         |
 | 37–40 | Interface                                       |
 | 41–44 | Kinesics                                        |
-| 45–55 | Know: \[[Field](#know-fields-d100)\]                                 |
+| 45–55 | Know: \[[Field](#know-fields-d100)\]            |
 | 56–62 | Medicine: \[[Field](#medicine-fields)\]         |
 | 63–66 | Melee                                           |
 | 67–70 | Perceive                                        |

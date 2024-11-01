@@ -39,7 +39,7 @@ Art fields include various modes of artistic expression and evaluation. This is 
 
 Use Art fields to bring your imagination to life, create a work of art, critique an artist’s style or performance, or appraise an artistic project’s worth.
 
-Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others. Crafting a realistic augmented reality illusion requires Program skill, incorporating a hidden message within a public song or speech would rely on Deceive skill, making a speech to convince a panel or rally a crowd requires Persuade or Provoke. However, Art fields may be used as [complementary skills](../04/20-know-skills.md#complementary-skills) in such cases.
+Note that Art fields should not be used in place of Active skills to directly deceive, influence, or sway others. Crafting a realistic augmented reality illusion requires Program skill, incorporating a hidden message within a public song or speech would rely on Deceive skill, making a speech to convince a panel or rally a crowd requires Persuade or Provoke. However, Art fields may be used as [complementary skills](#complementary-skills) in such cases.
 
 - **Sample Fields:** Architecture, AR Design, Criticism, Dance, Drama, Drawing, Music, Painting, Performance, Sculpture, Singing, Speech, VR Design, Writing
 - **Specializations:** As appropriate to the field

@@ -20,7 +20,7 @@ For rules purposes, each flexbot can have a number of limbs equal to their numbe
 
 ### Movement Systems
 
-All flexbot modules are equipped with the capability to walk on 2+ limbs and maneuver on gas-jet thrust-vector systems in micrograv. They may be equipped with additional mobility system ware at the standard costs. They may also use their shape-adjusting capabilities to form mobility systems (including a more efficient Walker 4/20). Note that if each module within a flexbot aggregate does not have the same mobility system, Movement Rate when using that system is halved. This reflects that the morph as a whole is not adapted for that type of movement in terms of contour, distribution of weight and component systems, and other factors. It can use that mobility system, just not to its full capabilities (also note the [Shareware trick](../03-FC/05-flexbot-tricks.md#shareware)).
+All flexbot modules are equipped with the capability to walk on 2+ limbs and maneuver on gas-jet thrust-vector systems in micrograv. They may be equipped with additional mobility system ware at the standard costs. They may also use their shape-adjusting capabilities to form mobility systems (including a more efficient Walker 4/20). Note that if each module within a flexbot aggregate does not have the same mobility system, Movement Rate when using that system is halved. This reflects that the morph as a whole is not adapted for that type of movement in terms of contour, distribution of weight and component systems, and other factors. It can use that mobility system, just not to its full capabilities (also note the [Shareware trick](05-flexbot-tricks.md#shareware)).
 
 ## Modularity
 
@@ -30,7 +30,7 @@ The control module that holds the operator’s ego is the starting basis for eac
 
 ### (Dis)Connecting Modules
 
-The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](../03-FC/01-flexbot-design.md#flexbot-characteristics)) and may change its size and movement rate.
+The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](#flexbot-characteristics)) and may change its size and movement rate.
 
 **Damaged Modules**: If a module is excessively damaged, removing it can be a challenge. Disconnecting a module that has accumulated damage exceeding its Durability requires a Hardware: Robotics (5 minutes) Test.
 
@@ -50,7 +50,7 @@ Any robots and gear with [modular design ware](../../16/11-physical-augmentation
 
 Other morphs that are equipped with modular design ware can also be incorporated as modules. If a bot or morph lacks a cyberbrain or cortical stack, it can’t house an ego nor can it grant pool bonuses.
 
-Gear that is constructed for modular design may also be locked onto flexbot morphs, at the GM’s discretion, using the same rules as spelled out for bots above. Any gear can be upgraded to incorporate modular design; simply increase its Complexity one step (i.e., from Min/1 to Mod/2; see [Modularized Gear](../03-FC/06-upgrades.md#modularized-gear)).
+Gear that is constructed for modular design may also be locked onto flexbot morphs, at the GM’s discretion, using the same rules as spelled out for bots above. Any gear can be upgraded to incorporate modular design; simply increase its Complexity one step (i.e., from Min/1 to Mod/2; see [Modularized Gear](06-upgrades.md#modularized-gear)).
 
 ## Flexbot Characteristics
 
