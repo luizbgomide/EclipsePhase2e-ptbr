@@ -4,7 +4,7 @@ It’s important not to forget the social element in action scenes.
 
 ## Social Manipulation
 
-Just as Provoke skill can be used for [social attacks](22-social-actions.md#social-attacks), the skills of Deceive, Kinesics, Persuade, and Provoke ([Skills](../04/18-skills.md)) can be used for myriad purposes, whether you are talking your way out of a tight spot, wringing information out of a suspect, or determining if someone is setting you up.
+Just as Provoke skill can be used for [social attacks](#social-attacks), the skills of Deceive, Kinesics, Persuade, and Provoke ([Skills](../04/18-skills.md)) can be used for myriad purposes, whether you are talking your way out of a tight spot, wringing information out of a suspect, or determining if someone is setting you up.
 
 Almost all social skills are handled as opposed tests, as noted in the skill descriptions. There are several factors that might provide modifiers to these tests:
 

@@ -52,7 +52,7 @@ This anxiety disorder, characterized by self-cannibalism of the limbs, usually o
 
 **Triggers:** Grief, helplessness, sleep deprivation, violence
 
-With manic depression, your periods of depression are interrupted by brief (a matter of days at most) periods of mania with heightened energy and a general disregard for consequences. The depressive stages are similar in all ways to [depression](20-disorders.md#depression). When manic, you will take risks, spend wildly, and engage in behavior without forethought or consideration of long-term consequences.
+With manic depression, your periods of depression are interrupted by brief (a matter of days at most) periods of mania with heightened energy and a general disregard for consequences. The depressive stages are similar in all ways to [depression](#depression). When manic, you will take risks, spend wildly, and engage in behavior without forethought or consideration of long-term consequences.
 
 **Effect:** Similar to depression, but when manic you must make a WIL Check to stop yourself from undertaking a risky endeavor. You will also try to convince others to go along with the idea.
 

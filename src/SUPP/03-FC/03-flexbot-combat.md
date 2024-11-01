@@ -20,7 +20,7 @@ If the share of damage taken by a module exceeds its Durability, it is instantly
 
 ### Optional Rule: Surviving Modules
 
-When a flexbot is disabled by damage reaching or exceeding its Durability, it can no longer function as an aggregate unit. However, individual modules may still remain functional. Divide the damage taken by the flexbot among each of its modules, as described under [Distributed Damage](03-flexbot-combat.md#distributed-damage). If any modules have individually taken damage that hasn’t reached their Durability, they are still functional. If the controlling ego resides in a module that is disabled, they are considered incapacitated.
+When a flexbot is disabled by damage reaching or exceeding its Durability, it can no longer function as an aggregate unit. However, individual modules may still remain functional. Divide the damage taken by the flexbot among each of its modules, as described under [Distributed Damage](#distributed-damage). If any modules have individually taken damage that hasn’t reached their Durability, they are still functional. If the controlling ego resides in a module that is disabled, they are considered incapacitated.
 
 If a surviving module holds an ego within its cyberbrain that has control privileges, it can detach from the disabled flexbot and act independently (making an Integration Test as normal). Any surviving modules must distribute the flexbot’s wounds between them, up to a maximum of damage ÷ Wound Threshold for each.
 
@@ -34,7 +34,7 @@ Surviving modules that do not have a (new) controlling ego may be picked up and 
 
 ### Targeting Modules
 
-You may make [called shots](../../12/15-special-attacks.md#called-shots) (_EP2_) to target individual modules in a flexbot. When targeting individual modules, use only that module’s Armor Value, Wound Threshold, Durability, and Death Rating. The damage/wounds taken by that module is counted towards the flexbot’s damage/wounds as a whole, but in this case it also becomes necessary to track each module’s damage as described under [Distributed Damage](03-flexbot-combat.md#distributed-damage). If a targeted module is disabled or destroyed, the flexbot cannot use any of its functions until repaired. If a disabled/destroyed module carries the controlling ego, the flexbot is incapacitated until repaired; other modules with egos capable of taking control may assume control of the morph or separate per normal rules. Damaged/disabled modules can also be removed from a morph as normal (requiring an Integration Test).
+You may make [called shots](../../12/15-special-attacks.md#called-shots) (_EP2_) to target individual modules in a flexbot. When targeting individual modules, use only that module’s Armor Value, Wound Threshold, Durability, and Death Rating. The damage/wounds taken by that module is counted towards the flexbot’s damage/wounds as a whole, but in this case it also becomes necessary to track each module’s damage as described under [Distributed Damage](#distributed-damage). If a targeted module is disabled or destroyed, the flexbot cannot use any of its functions until repaired. If a disabled/destroyed module carries the controlling ego, the flexbot is incapacitated until repaired; other modules with egos capable of taking control may assume control of the morph or separate per normal rules. Damaged/disabled modules can also be removed from a morph as normal (requiring an Integration Test).
 
 <blockquote>
 

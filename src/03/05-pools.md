@@ -18,7 +18,7 @@ You may spend points from your pools to affect the tests you make; choose one of
 - **After Roll:** Flip-flop a d100 roll. For example, 83 becomes 38.
 - **After Roll:** Upgrade a success to a superior success (or one to two).
 - **After Roll:** Downgrade a critical failure to a regular failure.
-- **Ongoing (Insight/Moxie/Vigor Only):** Receive +5 (1 point) or +10 (2 points) to all skill tests linked to one aptitude for 24 hours or until your next [recharge](05-pools.md#recharging-pools).
+- **Ongoing (Insight/Moxie/Vigor Only):** Receive +5 (1 point) or +10 (2 points) to all skill tests linked to one aptitude for 24 hours or until your next [recharge](#recharging-pools).
 
 Unless otherwise noted, only 1 pool point may be spent per test. Pool spent for an ongoing effect (the last bullet point above) counts as affecting a test.
 
@@ -36,7 +36,7 @@ Your mental pool may also be used for one of the following effects:
 
 Your social pool may be used to affect Rep Tests and also for one of the following effects:
 
-- **Ignore Trauma:** Ignore the effects of 1 trauma for 24 hours or until your next [recharge](05-pools.md#recharging-pools).
+- **Ignore Trauma:** Ignore the effects of 1 trauma for 24 hours or until your next [recharge](#recharging-pools).
 - **Refresh Rep:** Restore rep network favors at a cost of 1 point for a Minor favor and 2 points for a Moderate favor. Major favors cannot be refreshed this way.
 - **Acquire a Clue:** Get a tip or lead by gathering information via social interactions without needing to make a test.
 - **Control Your Infection:** Avoid making an Infection Test when using a psi sleight (asyncs only).
@@ -48,7 +48,7 @@ Your physical pool may also be used for one of the following effects:
 
 - **Take the Initiative:** Go first in an action turn. If multiple characters choose this option, they go in Initiative order before everyone else.
 - **Extra Action:** Take an extra complex physical action (or 2 quick actions) in an action turn. This action may only be taken after everyone else has gone. If multiple characters choose this option, they go in Initiative order _after_ everyone else has taken their turn.
-- **Ignore Wound:** Ignore the effects of 1 wound for 24 hours or until your next [recharge](05-pools.md#recharging-pools).
+- **Ignore Wound:** Ignore the effects of 1 wound for 24 hours or until your next [recharge](#recharging-pools).
 
 ## Flex
 

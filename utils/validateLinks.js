@@ -36,8 +36,8 @@ function processFile(file) {
         if (!validLinks.includes(relativeLink + slug)) {
             console.log(`${file}: ${linkMatch[0]}`);
         } else {
-            const newLink = path.posix.relative(dirname, path.posix.resolve(dirname, link)) + slug;
-            contents = contents.replace(`(${linkMatch[1]})`, `(${newLink})`);
+            const newLink = path.posix.relative(dirname, path.posix.resolve(dirname, link));
+            contents = contents.replace(`(${linkMatch[1]})`, `(${newLink === path.basename(file) ? "" : newLink}${slug})`);
         }
     }
     fs.writeFileSync(file, contents);

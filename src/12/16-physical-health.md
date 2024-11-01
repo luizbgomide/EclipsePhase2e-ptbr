@@ -4,7 +4,7 @@ The galaxy is a dangerous place, and when you face the risks, you will inevitabl
 
 ## Damage Points
 
-All physical harm is measured in damage points. These points are cumulative and recorded on your character sheet. Damage points are characterized as fatigue, bruises, bumps, sprains, minor cuts, dings and dents, and similar hurts that, while painful, do not significantly impair or threaten your life or functioning unless they accumulate to a significant amount. Any source of harm that inflicts a large amount of damage points at once, however, is likely to have a more severe effect ([Wounds](16-physical-health.md#wounds))
+All physical harm is measured in damage points. These points are cumulative and recorded on your character sheet. Damage points are characterized as fatigue, bruises, bumps, sprains, minor cuts, dings and dents, and similar hurts that, while painful, do not significantly impair or threaten your life or functioning unless they accumulate to a significant amount. Any source of harm that inflicts a large amount of damage points at once, however, is likely to have a more severe effect ([Wounds](#wounds))
 
 Damage points are reduced by rest, medical care, and/or repair ([Healing & Repair](17-healing-and-repair.md)).
 

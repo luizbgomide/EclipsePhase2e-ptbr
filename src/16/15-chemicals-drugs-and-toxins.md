@@ -299,7 +299,7 @@ The toxic properties of biological and chemical substances can be used to kill, 
 
 **Flight:** This drug is derived from pheromones released due to fear and is intended to instill alarm or even terror. Make a WIL Check or suffer a panic attack, inflicting SV 1d10. You also suffer a −30 modifier for resisting intimidation or fear-based emotional manipulations for 1 hour.
 
-**Nervex:** Derived from deadly nerve agents like cyclosarin, VX, and novichok, this genetically modified toxin is deployed as a colorless, odorless gas that turns safely inert 10 minutes after deployment. It causes involuntary contraction of the muscles, seizures, and death by respiratory failure. You suffer a −20 modifier to all actions and must make a SOM Check or be incapacitated by seizures, paralysis, nausea, and vomiting. After 10 minutes, you will die unless an antidote (such as [atropine](15-chemicals-drugs-and-toxins.md#chemicals)) is applied.
+**Nervex:** Derived from deadly nerve agents like cyclosarin, VX, and novichok, this genetically modified toxin is deployed as a colorless, odorless gas that turns safely inert 10 minutes after deployment. It causes involuntary contraction of the muscles, seizures, and death by respiratory failure. You suffer a −20 modifier to all actions and must make a SOM Check or be incapacitated by seizures, paralysis, nausea, and vomiting. After 10 minutes, you will die unless an antidote (such as [atropine](#chemicals)) is applied.
 
 **Oxytocin-A:** A genetically improved variant of oxytocin, this drug induces trust. Apply a −30 modifier to WIL Checks and Kinesics Tests where trust is a factor.
 

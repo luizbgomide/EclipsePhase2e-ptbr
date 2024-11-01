@@ -64,7 +64,7 @@ Whenever you take advantage of your psychic abilities, there is a cost to pay. T
 
 Whenever you use psi-gamma sleights, two things happen. First, your Infection Rating increases by that sleight’s Infection modifier. This represents the infection temporarily taking a stronger hold over your mind. Second, the exovirus must make an Infection Test. As the infectee, the async player rolls this test.
 
-Asyncs that only use psi-chi sleights do not need to worry about infection flare-ups unless they [push](04-using-psi.md#pushing-sleights).
+Asyncs that only use psi-chi sleights do not need to worry about infection flare-ups unless they [push](#pushing-sleights).
 
 ### Infection Test
 

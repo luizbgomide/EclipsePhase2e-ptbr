@@ -30,7 +30,7 @@ The control module that holds the operator’s ego is the starting basis for eac
 
 ### (Dis)Connecting Modules
 
-The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](01-flexbot-design.md#flexbot-characteristics)) and may change its size and movement rate.
+The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](#flexbot-characteristics)) and may change its size and movement rate.
 
 **Damaged Modules**: If a module is excessively damaged, removing it can be a challenge. Disconnecting a module that has accumulated damage exceeding its Durability requires a Hardware: Robotics (5 minutes) Test.
 

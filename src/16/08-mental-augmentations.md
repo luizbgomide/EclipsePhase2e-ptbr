@@ -43,11 +43,11 @@ You can take this augmentation more than once (to a maximum of 3 times) to incor
 
 **Remote Backup Link:** Your morph’s cortical stack is linked to an implanted [quantum farcaster](16-comms-and-mesh-gear.md#quantum-farcasters) linked to a highly secure storage facility. Using standard radio and quantum [encryption](../13/05-authentication-and-encryption.md#encryption), the farcaster broadcasts full backups of your ego (pulled from your cortical stack’s neural lace network) once every 48 hours. This transfer takes a single action turn. At the GM’s discretion, the backup interval may be scheduled more or less frequently, keeping in mind that ego broadcasts are limited for security purposes and because they hog bandwidth. Broadcast egos must be within range of the recipient to be received; for this reason the system’s usefulness is limited to select habitats or situations where you have arranged for secure storage in a nearby vicinity, such as onboard a nearby spaceship. If the radio broadcasts are blocked or jammed, this device cannot save remote backups.
 
-**Skillware:** Your brain is laced with a network of artificial neurons that can be formatted with information. This allows you to download [skillsofts](08-mental-augmentations.md#skillsofts) into your brain, gaining the use of those programmed skills until the skillsoft is erased or replaced. Skillware systems are only capable of handling 120 total skill points worth of skillsofts at a time. Switching out a skillsoft is a complex action.
+**Skillware:** Your brain is laced with a network of artificial neurons that can be formatted with information. This allows you to download [skillsofts](#skillsofts) into your brain, gaining the use of those programmed skills until the skillsoft is erased or replaced. Skillware systems are only capable of handling 120 total skill points worth of skillsofts at a time. Switching out a skillsoft is a complex action.
 
 ## Skillsofts
 
-Skillsofts are used with [skillware implants](08-mental-augmentations.md).
+Skillsofts are used with [skillware implants]().
 
 | SOFTWARE  | Comp/<wbr>GP | Description                             |
 | :-------- | :----------: | :-------------------------------------- |

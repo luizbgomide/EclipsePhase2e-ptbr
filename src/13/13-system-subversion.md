@@ -16,7 +16,7 @@ If hacking mesh inserts, a cyberbrain ([Mindware Hacking](17-mindware-hacking.md
 
 ## Disable Safety Mechanisms
 
-Many systems have safety features in place to prevent people from accidentally (or intentionally) harming themselves or others. You may override the warnings and mechanisms of safety systems by winning a Hacking Test. A −30 modifier applies, as such systems are built with redundant features. This can be used to open both sides of an airlock simultaneously, mute the imminent collision alert on a spacecraft, or to prevent authorized users from being notified of tampered equipment or dangerous circumstances. At the GM’s discretion, some safety features may automatically restart, requiring suppression ([Suppress Process](13-system-subversion.md#suppress-process)).
+Many systems have safety features in place to prevent people from accidentally (or intentionally) harming themselves or others. You may override the warnings and mechanisms of safety systems by winning a Hacking Test. A −30 modifier applies, as such systems are built with redundant features. This can be used to open both sides of an airlock simultaneously, mute the imminent collision alert on a spacecraft, or to prevent authorized users from being notified of tampered equipment or dangerous circumstances. At the GM’s discretion, some safety features may automatically restart, requiring suppression ([Suppress Process](#suppress-process)).
 
 ## Edit AR Feed
 

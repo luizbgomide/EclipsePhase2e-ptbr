@@ -6,7 +6,7 @@ When your body is replaceable, damage inflicted upon your psyche is often more f
 
 Stress points represent fractures in your ego’s integrity, glitches in your mind’s cohesive functioning. This mental damage is experienced as cerebral shocks, disorientation, cognitive disconnects, synaptic misfires, or an undermining of the intellectual faculties.
 
-On their own, these stress points do not significantly impair your character’s functioning, but if allowed to accumulate they can have severe repercussions. Additionally, any source that inflicts a large amount of stress points at once is likely to have a more severe impact ([Trauma](18-mental-health.md#trauma)).
+On their own, these stress points do not significantly impair your character’s functioning, but if allowed to accumulate they can have severe repercussions. Additionally, any source that inflicts a large amount of stress points at once is likely to have a more severe impact ([Trauma](#trauma)).
 
 Stress points can be reduced by psychosurgery, long-term rest, and/or meeting motivational goals.
 

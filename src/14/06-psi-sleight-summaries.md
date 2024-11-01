@@ -23,26 +23,26 @@ All psi-chi sleights are automatic actions and have:<br>
 
 | Sleight                                                                        | Description                                                                      |
 | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| [Charisma](06-psi-sleight-summaries.md#charisma)                         | Lowers inhibitions, boosts charm. +1 Moxie Pool.                                 |
-| [Control Behavior](06-psi-sleight-summaries.md#control-behavior)         | Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait.        |
-| [Eco-Empathy](06-psi-sleight-summaries.md#eco-empathy)                   | May use COG Check to understand alien plant and fungus analogues.                |
-| [Enhanced Creativity](06-psi-sleight-summaries.md#enhanced-creativity)   | +10 to Know or Technical Tests involving creativity or thinking outside the box. |
-| [Enhanced Memory](06-psi-sleight-summaries.md#enhanced-memory)           | Perfect memory recall.                                                           |
-| [Grok](06-psi-sleight-summaries.md#grok)                                 | May use COG Check to understand how to use unfamiliar object/device.             |
-| [Heightened Awareness](06-psi-sleight-summaries.md#heightened-awareness) | Sense area/threats. +10 Perceive Tests, no distraction mods.                     |
-| [High Pain Threshold](06-psi-sleight-summaries.md#high-pain-threshold)   | Ignore modifiers from 1 wound.                                                   |
-| [Inner Spark](06-psi-sleight-summaries.md#inner-spark)                   | Recover +1 pool points during short recharges.                                   |
-| [Pattern Recognition](06-psi-sleight-summaries.md#pattern-recognition)   | Detect patterns. +10 to appropriate Infosec, Perceive, or Research Tests.        |
-| [Predictive Boost](06-psi-sleight-summaries.md#predictive-boost)         | +2 Initiative.                                                                   |
-| [Psi Armor](06-psi-sleight-summaries.md#psi-armor)                       | Mental armor equal to WIL ÷ 3.                                                   |
-| [Qualia](06-psi-sleight-summaries.md#qualia)                             | Increased understanding. +1 Insight Pool.                                        |
-| [Savant Calculation](06-psi-sleight-summaries.md#savant-calculation)     | May use COG Check to answer complex mathematical questions.                      |
-| [Scramble](06-psi-sleight-summaries.md#scramble)                         | Hide from ego sense sleight; −30 modifier.                                       |
-| [Self Control](06-psi-sleight-summaries.md#self-control)                 | +10&nbsp;WIL Check.                                                              |
-| [Social Cunning](06-psi-sleight-summaries.md#social-cunning)             | More manipulative. +10 to Persuade and Provoke Tests.                            |
-| [Somatic Control](06-psi-sleight-summaries.md#somatic-control)           | Better physiological control. +1 Vigor Pool.                                     |
-| [Superior Kinesics](06-psi-sleight-summaries.md#superior-kinesics)       | +10 Deceive and Kinesics Tests.                                                  |
-| [Xeno-Empathy](06-psi-sleight-summaries.md#xeno-empathy)                 | May use SAV Check to gain understanding of non-terrestrial life.                 |
+| [Charisma](#charisma)                         | Lowers inhibitions, boosts charm. +1 Moxie Pool.                                 |
+| [Control Behavior](#control-behavior)         | Apply/reduce an Enhanced Behavior or Restricted Behavior (Level 2) trait.        |
+| [Eco-Empathy](#eco-empathy)                   | May use COG Check to understand alien plant and fungus analogues.                |
+| [Enhanced Creativity](#enhanced-creativity)   | +10 to Know or Technical Tests involving creativity or thinking outside the box. |
+| [Enhanced Memory](#enhanced-memory)           | Perfect memory recall.                                                           |
+| [Grok](#grok)                                 | May use COG Check to understand how to use unfamiliar object/device.             |
+| [Heightened Awareness](#heightened-awareness) | Sense area/threats. +10 Perceive Tests, no distraction mods.                     |
+| [High Pain Threshold](#high-pain-threshold)   | Ignore modifiers from 1 wound.                                                   |
+| [Inner Spark](#inner-spark)                   | Recover +1 pool points during short recharges.                                   |
+| [Pattern Recognition](#pattern-recognition)   | Detect patterns. +10 to appropriate Infosec, Perceive, or Research Tests.        |
+| [Predictive Boost](#predictive-boost)         | +2 Initiative.                                                                   |
+| [Psi Armor](#psi-armor)                       | Mental armor equal to WIL ÷ 3.                                                   |
+| [Qualia](#qualia)                             | Increased understanding. +1 Insight Pool.                                        |
+| [Savant Calculation](#savant-calculation)     | May use COG Check to answer complex mathematical questions.                      |
+| [Scramble](#scramble)                         | Hide from ego sense sleight; −30 modifier.                                       |
+| [Self Control](#self-control)                 | +10&nbsp;WIL Check.                                                              |
+| [Social Cunning](#social-cunning)             | More manipulative. +10 to Persuade and Provoke Tests.                            |
+| [Somatic Control](#somatic-control)           | Better physiological control. +1 Vigor Pool.                                     |
+| [Superior Kinesics](#superior-kinesics)       | +10 Deceive and Kinesics Tests.                                                  |
+| [Xeno-Empathy](#xeno-empathy)                 | May use SAV Check to gain understanding of non-terrestrial life.                 |
 
 </blockquote>
 
@@ -110,7 +110,7 @@ You do not know the equations you are solving, you simply know the solution. You
 
 ### Scramble
 
-Scramble helps you to hide from another async using the [ego sense sleight](06-psi-sleight-summaries.md#ego-sense). Apply a −30 modifier to the async’s Psi Test.
+Scramble helps you to hide from another async using the [ego sense sleight](#ego-sense). Apply a −30 modifier to the async’s Psi Test.
 
 ### Self Control
 
@@ -142,43 +142,43 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 | Sleight                                                                      | Action  |   Duration   | Infection Mod | Description                                                                                                                                       |
 | :--------------------------------------------------------------------------- | :-----: | :----------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Alter Effect](06-psi-sleight-summaries.md#alter-effect)               | Complex |   Instant    |       2       | Increase or reduce the duration of a drug or toxin affecting the target by half.                                                                  |
-| [Animal Control](06-psi-sleight-summaries.md#animal-control)           | Complex |  Sustained   |       6       | Take over a non-sapient animal’s mind, teleoperate it like a drone.                                                                               |
-| [Aphasia](06-psi-sleight-summaries.md#aphasia)                         | Complex |   Minutes    |       6       | Target cannot speak, communicate, or read.                                                                                                        |
-| [Basilisk Stare](06-psi-sleight-summaries.md#basilisk-stare)           |  Task   |  Sustained   |       6       | Target cannot break eye contact with async, both are immobilized.                                                                                 |
-| [Block Pain](06-psi-sleight-summaries.md#block-pain)                   | Complex |   Minutes    |       4       | Target can ignore wound modifiers.                                                                                                                |
-| [Block Sense](06-psi-sleight-summaries.md#block-sense)                 | Complex | Action Turns |       4       | Negates one of the target’s senses (hearing, sight, smell, taste, touch).                                                                         |
-| [Block Skill](06-psi-sleight-summaries.md#block-skill)                 | Complex |   Minutes    |       6       | The target may not use a specified skill.                                                                                                         |
-| [Browse Thoughts](06-psi-sleight-summaries.md#browse-thoughts)         | Complex |  Sustained   |       4       | Scan target’s surface thoughts.                                                                                                                   |
-| [Burst of Adrenaline](06-psi-sleight-summaries.md#burst-of-adrenaline) | Complex |   Minutes    |       6       | Target receives +1 Vigor pool.                                                                                                                    |
-| [Burst of Clarity](06-psi-sleight-summaries.md#burst-of-clarity)       | Complex |   Minutes    |       6       | Target receives +1 Insight pool.                                                                                                                  |
-| [Burst of Confidence](06-psi-sleight-summaries.md#burst-of-confidence) | Complex |   Minutes    |       6       | Target receives +1 Moxie pool.                                                                                                                    |
-| [Cloud Memory](06-psi-sleight-summaries.md#cloud-memory)               | Complex |   Minutes    |       6       | Target retains no long-term memories.                                                                                                             |
-| [Deep Scan](06-psi-sleight-summaries.md#deep-scan)                     | Complex |  Sustained   |       6       | Retrieve 2 items from target’s mind, +2 per superior success.                                                                                     |
-| [Deja Vu](06-psi-sleight-summaries.md#deja-vu)                         | Complex |   Minutes    |       8       | The target is forced to repeat their actions of the past 15–30 seconds.                                                                           |
-| [Downtime](06-psi-sleight-summaries.md#downtime)                       |  Task   |  Sustained   |       2       | 4-hour fugue state heals 1d6 stress, +1d6 per superior success, gains influence effect.                                                           |
-| [Ego Sense](06-psi-sleight-summaries.md#ego-sense)                     | Complex | Action Turns |       2       | Detect biological life; extra info on range, size, type, etc. with superior successes.                                                            |
-| [Empathic Scan](06-psi-sleight-summaries.md#empathic-scan)             | Complex | Action Turns |       4       | Know target’s emotions. +10 to social skill tests against them, +10 per superior success.                                                         |
-| [Illusion](06-psi-sleight-summaries.md#illusion)                       | Complex |  Sustained   |       8       | Target experiences full-sensory illusion crafted by async.                                                                                        |
-| [Implant Memory](06-psi-sleight-summaries.md#implant-memory)           | Complex |   Instant    |       6       | Implant fake memory permanently in target.                                                                                                        |
-| [Implant Skill](06-psi-sleight-summaries.md#implant-skill)             | Complex |    Hours     |       6       | Implant skill possessed by async in target’s mind at half value.                                                                                  |
-| [Induce Error](06-psi-sleight-summaries.md#induce-error)               | Complex |   Minutes    |       6       | The target automatically fails the next test they make using skill chosen by async.                                                               |
-| [Infectious Mind](06-psi-sleight-summaries.md#infectious-mind)         | Complex |  Sustained   |       4       | Share a triggered disorder or influence effect with the target.                                                                                   |
-| [Influence](06-psi-sleight-summaries.md#influence)                     | Complex | Action Turns |       4       | Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait.                                                                                |
-| [Invigorate](06-psi-sleight-summaries.md#invigorate)                   | Complex |   Instant    |       4       | The target can expend their next complex action as a short recharge.                                                                              |
-| [Mimic](06-psi-sleight-summaries.md#mimic)                             |  Quick  |   Instant    |       4       | Snapshot of target’s mannerisms; +10 Deceive skills to impersonate target, +10 per superior success.                                              |
-| [Mindlink](06-psi-sleight-summaries.md#mindlink)                       |  Quick  |  Sustained   |       2       | Telepathy.                                                                                                                                        |
-| [Neural Hardening](06-psi-sleight-summaries.md#neural-hardening)       | Complex |   Minutes    |       4       | The target receives a +10 modifier to resist basilisk hacks.                                                                                      |
-| [Nightmare](06-psi-sleight-summaries.md#nightmare)                     | Complex |   Instant    |       6       | Target takes SV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |
-| [Pain](06-psi-sleight-summaries.md#pain)                               | Complex |   Instant    |       6       | Target inflicted with pain (like an agonizer), must flee at full movement on their next action.                                                   |
-| [Psi Shield](06-psi-sleight-summaries.md#psi-shield)                   | Complex |  Sustained   |       4       | Mental armor increased by +1d6 (cumulative with Psi Armor sleight).                                                                               |
-| [Psychic Stab](06-psi-sleight-summaries.md#psychic-stab)               | Complex |   Instant    |       6       | Target takes DV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |
-| [Sense Infection](06-psi-sleight-summaries.md#sense-infection)         | Complex |   Instant    |       2       | Detect exsurgent infection in biological life.                                                                                                    |
-| [Short Circuit](06-psi-sleight-summaries.md#short-circuit)             | Complex |   Instant    |       6       | Target’s synapses misfire, they are incapacitated for 1 turn and stunned for 3 minutes.                                                           |
-| [Spam](06-psi-sleight-summaries.md#spam)                               | Complex | Action Turns |       6       | Target overwhelmed by sensory input, −10 to all actions, with additional −10 per superior success.                                                |
-| [Static](06-psi-sleight-summaries.md#static)                           | Complex |  Sustained   |       4       | −30 to all sleights within close range.                                                                                                           |
-| [Subliminal](06-psi-sleight-summaries.md#subliminal)                   | Complex |    Hours     |      10       | Implant suggested action in target’s mind that they must carry through.                                                                           |
-| [Tranquility](06-psi-sleight-summaries.md#tranquility)                 | Complex |   Minutes    |       4       | Target relieved from an [acute stress response](../12/18-mental-health.md#acute-stress-responses) or triggered disorder. May not be used on self. |
+| [Alter Effect](#alter-effect)               | Complex |   Instant    |       2       | Increase or reduce the duration of a drug or toxin affecting the target by half.                                                                  |
+| [Animal Control](#animal-control)           | Complex |  Sustained   |       6       | Take over a non-sapient animal’s mind, teleoperate it like a drone.                                                                               |
+| [Aphasia](#aphasia)                         | Complex |   Minutes    |       6       | Target cannot speak, communicate, or read.                                                                                                        |
+| [Basilisk Stare](#basilisk-stare)           |  Task   |  Sustained   |       6       | Target cannot break eye contact with async, both are immobilized.                                                                                 |
+| [Block Pain](#block-pain)                   | Complex |   Minutes    |       4       | Target can ignore wound modifiers.                                                                                                                |
+| [Block Sense](#block-sense)                 | Complex | Action Turns |       4       | Negates one of the target’s senses (hearing, sight, smell, taste, touch).                                                                         |
+| [Block Skill](#block-skill)                 | Complex |   Minutes    |       6       | The target may not use a specified skill.                                                                                                         |
+| [Browse Thoughts](#browse-thoughts)         | Complex |  Sustained   |       4       | Scan target’s surface thoughts.                                                                                                                   |
+| [Burst of Adrenaline](#burst-of-adrenaline) | Complex |   Minutes    |       6       | Target receives +1 Vigor pool.                                                                                                                    |
+| [Burst of Clarity](#burst-of-clarity)       | Complex |   Minutes    |       6       | Target receives +1 Insight pool.                                                                                                                  |
+| [Burst of Confidence](#burst-of-confidence) | Complex |   Minutes    |       6       | Target receives +1 Moxie pool.                                                                                                                    |
+| [Cloud Memory](#cloud-memory)               | Complex |   Minutes    |       6       | Target retains no long-term memories.                                                                                                             |
+| [Deep Scan](#deep-scan)                     | Complex |  Sustained   |       6       | Retrieve 2 items from target’s mind, +2 per superior success.                                                                                     |
+| [Deja Vu](#deja-vu)                         | Complex |   Minutes    |       8       | The target is forced to repeat their actions of the past 15–30 seconds.                                                                           |
+| [Downtime](#downtime)                       |  Task   |  Sustained   |       2       | 4-hour fugue state heals 1d6 stress, +1d6 per superior success, gains influence effect.                                                           |
+| [Ego Sense](#ego-sense)                     | Complex | Action Turns |       2       | Detect biological life; extra info on range, size, type, etc. with superior successes.                                                            |
+| [Empathic Scan](#empathic-scan)             | Complex | Action Turns |       4       | Know target’s emotions. +10 to social skill tests against them, +10 per superior success.                                                         |
+| [Illusion](#illusion)                       | Complex |  Sustained   |       8       | Target experiences full-sensory illusion crafted by async.                                                                                        |
+| [Implant Memory](#implant-memory)           | Complex |   Instant    |       6       | Implant fake memory permanently in target.                                                                                                        |
+| [Implant Skill](#implant-skill)             | Complex |    Hours     |       6       | Implant skill possessed by async in target’s mind at half value.                                                                                  |
+| [Induce Error](#induce-error)               | Complex |   Minutes    |       6       | The target automatically fails the next test they make using skill chosen by async.                                                               |
+| [Infectious Mind](#infectious-mind)         | Complex |  Sustained   |       4       | Share a triggered disorder or influence effect with the target.                                                                                   |
+| [Influence](#influence)                     | Complex | Action Turns |       4       | Apply an Enhanced Behavior or Restricted Behavior (Level 2) trait.                                                                                |
+| [Invigorate](#invigorate)                   | Complex |   Instant    |       4       | The target can expend their next complex action as a short recharge.                                                                              |
+| [Mimic](#mimic)                             |  Quick  |   Instant    |       4       | Snapshot of target’s mannerisms; +10 Deceive skills to impersonate target, +10 per superior success.                                              |
+| [Mindlink](#mindlink)                       |  Quick  |  Sustained   |       2       | Telepathy.                                                                                                                                        |
+| [Neural Hardening](#neural-hardening)       | Complex |   Minutes    |       4       | The target receives a +10 modifier to resist basilisk hacks.                                                                                      |
+| [Nightmare](#nightmare)                     | Complex |   Instant    |       6       | Target takes SV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |
+| [Pain](#pain)                               | Complex |   Instant    |       6       | Target inflicted with pain (like an agonizer), must flee at full movement on their next action.                                                   |
+| [Psi Shield](#psi-shield)                   | Complex |  Sustained   |       4       | Mental armor increased by +1d6 (cumulative with Psi Armor sleight).                                                                               |
+| [Psychic Stab](#psychic-stab)               | Complex |   Instant    |       6       | Target takes DV 2d10, +1d6 per superior success, reduced by mental armor.                                                                         |
+| [Sense Infection](#sense-infection)         | Complex |   Instant    |       2       | Detect exsurgent infection in biological life.                                                                                                    |
+| [Short Circuit](#short-circuit)             | Complex |   Instant    |       6       | Target’s synapses misfire, they are incapacitated for 1 turn and stunned for 3 minutes.                                                           |
+| [Spam](#spam)                               | Complex | Action Turns |       6       | Target overwhelmed by sensory input, −10 to all actions, with additional −10 per superior success.                                                |
+| [Static](#static)                           | Complex |  Sustained   |       4       | −30 to all sleights within close range.                                                                                                           |
+| [Subliminal](#subliminal)                   | Complex |    Hours     |      10       | Implant suggested action in target’s mind that they must carry through.                                                                           |
+| [Tranquility](#tranquility)                 | Complex |   Minutes    |       4       | Target relieved from an [acute stress response](../12/18-mental-health.md#acute-stress-responses) or triggered disorder. May not be used on self. |
 
 </blockquote>
 
@@ -230,7 +230,7 @@ You install a temporary block in the target’s brain, preventing them from usin
 
 **Action:** Complex • **Duration:** Sustained • **Infection Mod:** 4
 
-You scan the target’s surface thoughts, gaining a general sense of what is currently running through their mind. Superior successes provide deeper detail. This is not an invasive delve into the target’s mind for specific information like [Deep Scan](06-psi-sleight-summaries.md#deep-scan); instead, you simply get a read on what the target is currently thinking.
+You scan the target’s surface thoughts, gaining a general sense of what is currently running through their mind. Superior successes provide deeper detail. This is not an invasive delve into the target’s mind for specific information like [Deep Scan](#deep-scan); instead, you simply get a read on what the target is currently thinking.
 
 ### Burst of Adrenaline
 
@@ -260,7 +260,7 @@ You temporarily disrupt the target’s ability to form long-term memories. The t
 
 **Action:** Complex • **Duration:** Sustained • **Infection Mod:** 6
 
-Deep Scan is a more intrusive version of [Browse Thoughts](06-psi-sleight-summaries.md#browse-thoughts). You telepathically invade the target’s mind and probe it for information. You extract two pieces of information (i.e., a name, image, passcode, description or summary a few sentences long, or a memory of less than a minute) plus two for each superior success. Each item takes one full action turn to retrieve, during which the sleight must be sustained.
+Deep Scan is a more intrusive version of [Browse Thoughts](#browse-thoughts). You telepathically invade the target’s mind and probe it for information. You extract two pieces of information (i.e., a name, image, passcode, description or summary a few sentences long, or a memory of less than a minute) plus two for each superior success. Each item takes one full action turn to retrieve, during which the sleight must be sustained.
 
 ### Deja Vu
 

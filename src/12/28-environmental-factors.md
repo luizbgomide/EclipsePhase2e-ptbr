@@ -10,7 +10,7 @@ Asphyxiation is a terrifying process, often leading to panic. Asphyxiating chara
 
 ## Decompression
 
-Habitats and ships sometimes lose air pressure due to damage to their hulls from combat, explosions, space debris collisions, or micrometeor strikes. Most transhumans will quickly recognize the signs of rapid decompression; biomorphs that fail to acquire a supply of air in time may suffer from [asphyxiation](28-environmental-factors.md#asphyxiation).
+Habitats and ships sometimes lose air pressure due to damage to their hulls from combat, explosions, space debris collisions, or micrometeor strikes. Most transhumans will quickly recognize the signs of rapid decompression; biomorphs that fail to acquire a supply of air in time may suffer from [asphyxiation](#asphyxiation).
 
 Explosive decompression occurs when the air pressure suddenly vents all at once and drops to nothing. If you are in the vicinity of a blowout and not tied down, make a REF Check to grab something to hold on to in time to avoid being blasted into space ([Vacuum](29-hostile-environments.md#vacuum)). Even if you succeed, you must continue to make a SOM Check each action turn to hold on until the atmosphere entirely drains. You may also need to make a Fray Test to avoid being struck by debris or other people as they are sucked out (DV 1d10+, depending on local clutter conditions).
 
