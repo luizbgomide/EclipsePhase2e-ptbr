@@ -10,6 +10,7 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 
 ## Factions
 
+<!--sorted-->
 **Anarchist:** You believe power is corrupt and favor voluntary, non-hierarchical organizations based on direct democracy.
 
 **Argonaut:** You seek technoprogressive solutions to transhumanity’s injustices and inequalities.
@@ -39,6 +40,8 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 **Titanian:** You are a technosocialist, believing that science and technology can provide for the well-being of all.
 
 **Venusian:** You adhere to the Morningstar Constellation’s vision for a more socialized, friendlier hypercapitalism.
+
+<!--end-sort-->
 
 **Regional:** You are a Solarian, Sifter, Belter, Europan, Ringer, or Skimmer invested in the culture, prosperity, and security of your area of the Solar System.
 

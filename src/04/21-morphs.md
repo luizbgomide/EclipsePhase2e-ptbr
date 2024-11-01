@@ -15,6 +15,7 @@ The morphs here represent a fraction of the sleeves and shells available to char
 
 ### Morph List
 
+<!--sorted-->
 | Morph                                                                                   | Type       |    Cost    |
 | :-------------------------------------------------------------------------------------- | :--------- | :--------: |
 | [Agent](../04/26-infomorphs.md#agent)                                                   | Infomorph  | 2&nbsp;MP  |
@@ -59,5 +60,6 @@ The morphs here represent a fraction of the sleeves and shells available to char
 | [Sylph](../04/22-common-biomorphs.md#sylph)                                             | Biomorph   | 4&nbsp;MP  |
 | [Synth](../04/25-synthmorphs.md#synth)                                                  | Synthmorph | 3&nbsp;MP  |
 | [Worker Pod](../04/23-pod-biomorphs.md#worker-pod)                                      | Pod        | 3&nbsp;MP  |
+<!--end-sort-->
 
 </blockquote>

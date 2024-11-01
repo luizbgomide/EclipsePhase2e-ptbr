@@ -20,6 +20,7 @@ We suggest keeping aptitudes and skills in multiples of 5 for simplicity, but th
 
 Full skill descriptions are found on [Skills](../04/18-skills.md).
 
+<!--sorted-->
 **Athletics (SOM):** Physical activity in gravity with a humanoid, uplift, or biomimicked morph, including climbing, running, swimming, gymnastics, throwing, and winged flight.
 
 **Deceive (SAV):** Lying, bluffing, conning, fast talk, impersonation, acting, and other attempts to misrepresent or hide the truth with words and gestures.
@@ -63,5 +64,7 @@ Full skill descriptions are found on [Skills](../04/18-skills.md).
 **Research (INT):** Finding and interpreting data on the mesh.
 
 **Survival (INT):** Navigation, tracking, finding safe food and shelter, and defending oneself against hostile planetary environments.
+
+<!--end-sort-->
 
 </blockquote>

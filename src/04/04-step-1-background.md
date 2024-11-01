@@ -4,6 +4,7 @@ What is your character’s origin? Were you born in a slum on Earth before the F
 
 Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own ([Skills](../04/18-skills.md)). Alternatively, leave the field unassigned for now and decide on it during game play.
 
+<!--sorted-->
 ## Colonist
 
 You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.
@@ -146,6 +147,8 @@ You are an uplift: the latest generation of bonobo, cetacean, chimpanzee, corvid
 | Survival                                                                               |  20 |
 | Know: (Choose One)<p class="indent">_Common Fields: Uplift Culture, Uplift Rights_</p> |  60 |
 | Know: (Choose One)<p class="indent">_Common Fields: Genetics, Sociology, Zoology_</p>  |  30 |
+
+<!--end-sort-->
 
 <blockquote class="table">
 

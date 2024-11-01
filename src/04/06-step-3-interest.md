@@ -6,6 +6,7 @@ Your interest provides you with a package of skills, just like your background a
 
 This will be your final skills package, though you might purchase extra skills or tweak the ones you’ve already acquired in later steps.
 
+<!--sorted-->
 ## Animal Handler
 
 You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.
@@ -182,6 +183,8 @@ The Fall reinforced the notion that you need to be prepared.
 | Medicine: Paramedic |  30 |
 | Survival            |  30 |
 | Know: (Choose One)  |  40 |
+
+<!--end-sort-->
 
 <blockquote class="table">
 
