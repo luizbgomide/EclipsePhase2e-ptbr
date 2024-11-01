@@ -20,7 +20,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 ## 10.0 Random Interest \[d10 & d10\]
 
-### d10 #1 = {1–5}
+### d10 #1 = \{1–5\}
 
 | d10&nbsp;#2 | Career             | Description                                                                                                                   |
 | :---------: | :----------------- | :---------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ The interests determined here represent hobbies you have delved into over the ye
 |      8      | Jammer             | You’re a drone operator with a talent for manipulating machines.                                                              |
 |    9–10     |                    | **RE-ROLL #2**                                                                                                                |
 
-### d10 #1 = {6–0}
+### d10 #1 = \{6–0\}
 
 | d10&nbsp;#2 | Career      | Description                                                            |
 | :---------: | :---------- | :--------------------------------------------------------------------- |

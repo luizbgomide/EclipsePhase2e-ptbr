@@ -16,7 +16,7 @@ For the rest of the steps, you roll on an _event table_ that details something t
 
 **\[d100\] Square brackets indicate rolls to make.**
 
-**{1} Curly brackets indicate die roll results.**
+**\{1\} Curly brackets indicate die roll results.**
 
 <!-- CLEANED /blockquote -->
 

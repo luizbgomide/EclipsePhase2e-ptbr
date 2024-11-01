@@ -95,7 +95,7 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 - **Jam Signals:** Jam specific or all wireless frequencies.
 - **Loop Sensor Feed:** Replace a live sensor feed with looped recordings.
 - **Modify TacNet:** Edit tacnet data, mark foes as friends.
-- **Subtle Intrusion \[T\]:** Quietly probe a target for vulnerabilities ([Subtle Intrusion](../13/11-hacking.md#subtle-intrusion))
+- **Subtle Intrusion \[T\]:** Quietly probe a target for vulnerabilities ([Subtle Intrusion](../13/11-hacking.md#subtle-intrusion)).
 - **Sniff Traffic:** Sniff traffic between wireless devices ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
 - **Suppress Alarm:** Switch active alert to passive, or turn a passive alert off.
 - **Suppress Process:** Prevent a specified process from restarting.
