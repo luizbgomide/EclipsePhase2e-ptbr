@@ -63,7 +63,7 @@ Você é mais imaginativo e inclinado a pensar fora da caixa. Aplique um modific
 
 ### Memória Ampliada
 
-Você tem uma memória perfeita. Ao contrário dos transumanos com hipertimesia, isso não é estritamente autobiográfico. Você pode ser perguntado sobre uma data aleatória e imediatamente relembrar detalhes triviais como qual foi o dia da semana, o que você fez naquele dia, como estava o clima, e o texto exato de um parágrafo que você leu. Sua memória está sempre "ligada" — na verdade, você enxerga a realidade e a memória como se fosse uma tela dividida e frequentemente se perde em devaneios. A memória ampliada não tem efeito na edição de memória da psicocirurgia.
+Você tem uma memória perfeita. Ao contrário dos transumanos com hipertimesia, isso não é estritamente autobiográfico. Você pode ser perguntado sobre uma data aleatória e imediatamente relembrar detalhes triviais como qual foi o dia da semana, o que você fez naquele dia, como estava o clima, e o texto exato de um parágrafo que você leu. Sua memória está sempre “ligada” — na verdade, você enxerga a realidade e a memória como se fosse uma tela dividida e frequentemente se perde em devaneios. A memória ampliada não tem efeito na edição de memória da psicocirurgia.
 
 Você pode forçar esse truque para recordar memórias a partir de um ponto de vista em terceira pessoa, permitindo que você faça Testes de Percepção para notar detalhes que você possa não ter visto antes.
 
@@ -399,7 +399,7 @@ Você gera um campo de bloqueio contra psi, prejudicando o uso de truques de dis
 
 **Ação:** Complexa • **Duração:** Horas • **Mod de Infecção:** 10
 
-Você implanta uma única sugestão pós-hipnótica na mente do alvo, que ele realizará como se fosse a sua própria ideia. As sugestões implantadas devem ser curtas e simples; o MJ pode exigir que as sugestões sejam formadas em uma frase curta (por exemplo: "abrir a câmara de ar" ou "entregue a arma"). As sugestões podem incluir uma condição curta de gatilho ("quando o alarme disparar, ignore-o"). O alvo recebe uma Prova de VON para resistir a qualquer sugestão que seja um perigo de vida imediato ("pule da ponte") ou que viole suas motivações ou restrições pessoais.
+Você implanta uma única sugestão pós-hipnótica na mente do alvo, que ele realizará como se fosse a sua própria ideia. As sugestões implantadas devem ser curtas e simples; o MJ pode exigir que as sugestões sejam formadas em uma frase curta (por exemplo: “abrir a câmara de ar” ou “entregue a arma”). As sugestões podem incluir uma condição curta de gatilho (“quando o alarme disparar, ignore-o”). O alvo recebe uma Prova de VON para resistir a qualquer sugestão que seja um perigo de vida imediato (“pule da ponte”) ou que viole suas motivações ou restrições pessoais.
 
 ### Tranquilidade
 

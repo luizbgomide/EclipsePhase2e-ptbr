@@ -99,7 +99,7 @@
 - Um ataque do Consórcio na fortaleza anarquista de Locus é repelido por uma defesa surpreendentemente forte.
 - Um segundo ataque do Consórcio em Locus é derrotado graças à intervenção da frota titaniana e ameaças da República Joviana, descontente com o expansionismo do Consórcio.
 - Os titanianos se juntam formalmente à Aliança Autonomista.
-- Uma passagem de buraco de minhoca é descoberta em Pandora, a lua de Saturno, supostamente deixada pelas TITANs. Quatro outras são encontradas depois (nos vulcanoides, em Marte, em uma lua de Urano, e no Cinturão de Kuiper); essas são chamadas coletivamente de "portões de pandora”.
+- Uma passagem de buraco de minhoca é descoberta em Pandora, a lua de Saturno, supostamente deixada pelas TITANs. Quatro outras são encontradas depois (nos vulcanoides, em Marte, em uma lua de Urano, e no Cinturão de Kuiper); essas são chamadas coletivamente de “portões de pandora”.
 - A Firewall conquista sua primeira vitória pós-Queda ao derrotar o Culto do Destruidor, um grupo que tentava espalhar a influência exsurgente na Lua.
 - O sistema SAPIENT ID é estabelecido e endossado pela ALL e pelo CP, mas falha em conseguir uma popularidade generalizada.
 - Um revolta de 3 dias ocorre após uma batida policial no clube Jungle Gym em Marte, levando à formação do movimento mercurial.

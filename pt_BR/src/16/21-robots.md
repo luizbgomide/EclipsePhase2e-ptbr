@@ -2,7 +2,7 @@
 
 Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](../16/21-robots.md#remote-operations). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](../16/05-common-tech-and-ware.md#standard-augmentations).
 
-A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de "rosto" abstrato para interagir, de modo a não serem "máquinas" demais.
+A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de “rosto” abstrato para interagir, de modo a não serem “máquinas” demais.
 
 ## Ware de Robôs
 
@@ -11,11 +11,11 @@ Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem c
 | TODOS OS ROBÔS                                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A menos que indicado o contrário, todos os robôs estão equipados com os seguintes hardwares, além daqueles listados em suas descrições específicas: |
-| <ul class="stat-list indent"><li>**Ware:** ILA de Bot, Insertos da Mesh, Lidar, Luva de Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                           |
+| <ul class="stat-list indent"><li>**Wares:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                           |
 
 ## Operação Remota
 
-Qualquer carcaça ou biomorfo com uma luva de fantoche (incluída na maioria dos cibercérebros) pode ser controlada remotamente, seja por um personagem ou uma IA. Isso requer uma ligação de comunicação entre o teleoperador e o drone. O _teleoperador_ controla o _drone_ através da interface entóptica e recebe entrada sensorial e outros dados através dos insertos da mesh do drone.
+Qualquer carcaça ou biomorfo com um manípulo fantoche (incluída na maioria dos cibercérebros) pode ser controlada remotamente, seja por um personagem ou uma IA. Isso requer uma ligação de comunicação entre o teleoperador e o drone. O _teleoperador_ controla o _drone_ através da interface entóptica e recebe entrada sensorial e outros dados através dos insertos da mesh do drone.
 
 Você pode controlar um drone em _modo autônomo_ ou diretamente por _encarnação_.
 
@@ -41,21 +41,21 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rotor 8/32
-- **Ware:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
+- **Wares:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
 
 </div></tr>
 <tr><td>Parisfera<td>Raro/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Foguete) 8/40
-- **Ware:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
+- **Wares:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
 
 </div></tr>
 <tr><td>Sentinela<td>Raro/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Esteira 4/12
-- **Ware:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônicos, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
+- **Wares:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
 
 </div></tr>
 <tr><td>Drone Escudo<td>Men/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>P</tr>
@@ -84,14 +84,14 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Esteira 4/12, Empuxo Vetorial (Jatos de Gás) 8/40
-- **Ware:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 </div></tr>
 <tr><td>Amoebot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12, Rolagem 8/40
-- **Ware:** Ajuste de Forma, Membros Retráteis
+- **Wares:** Ajuste de Forma, Membros Retráteis
 
 </div></tr>
 </table>
@@ -110,14 +110,14 @@ Estes bots são verdadeiros salva-vidas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
-- **Ware:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
+- **Wares:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
 
 </div></tr>
 <tr><td>Resgatador<td>Mai/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>G</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rodas 8/40, Rotor 8/32
-- **Ware:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
+- **Wares:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
 
 </div></tr>
 </table>
@@ -136,14 +136,14 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha/Pulo 4/12
-- **Ware:** Almofadas Aderentes, Pele Camaleão
+- **Wares:** Almofadas Aderentes, Pele Camaleão
 
 </div></tr>
 <tr><td>Manipulador<td>Mai/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>P</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
+- **Wares:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
 
 </div></tr>
 <tr><td>Servente<td>Men/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
@@ -156,7 +156,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Garras, Sistema Magnético
+- **Wares:** Almofadas Aderentes, Garras, Sistema Magnético
 
 </div></tr>
 </table>
@@ -167,7 +167,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 **Servente:** Os serventes são os robôs mais comuns, atuando como cozinheiros, zeladores, ajudantes genéricos, carregadores e assistentes pessoais. Cada casa tem pelo menos um. Eles têm uma variedade de formatos e tamanhos não humanoides, embora a maioria seja de tamanho médio, com 4–8 membros em média.
 
-**Aracnomão:** Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas "pernas" são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
+**Aracnomão:** Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas “pernas” são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
 
 ## Bots de Reconhecimento/Vigilância
 
@@ -179,35 +179,35 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Microleve 8/32
-- **Ware:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
+- **Wares:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
 
 </div></tr>
 <tr><td>Mosquito<td>Men/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>P</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rotor 8/32
-- **Ware:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 </div></tr>
 <tr><td>Disco<td>Men/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Iônico 8/40
-- **Ware:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 </div></tr>
 <tr><td>Pontinho<td>Men/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>MP</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32, Pulo 4/12
-- **Ware:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
+- **Wares:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
 
 </div></tr>
 <tr><td>Zéfiro<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32
-- **Ware:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
+- **Wares:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
 
 </div></tr>
 </table>
@@ -218,7 +218,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Disco:** Estes drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
 
-**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um "pontinho na parede". Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
+**Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um “pontinho na parede”. Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
 
 **Zéfiro:** Os zéfiros são aviões furtivos de tamanho médio mas leves, geralmente lançados através de um arremesso e usados para reconhecimento de longa distância ou ataques de mísseis.
 
@@ -232,28 +232,28 @@ Estes bots ajudam a fazer as coisas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
-- **Ware:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
+- **Wares:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
 
 </div></tr>
 <tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Submerso 8/32
-- **Ware:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
+- **Wares:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
 
 </div></tr>
 <tr><td>Anão<td>Mai/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
+- **Wares:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
 
 </div></tr>
 <tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20
-- **Ware:** Autocozedor
+- **Wares:** Autocozedor
 
 </div></tr>
 </table>

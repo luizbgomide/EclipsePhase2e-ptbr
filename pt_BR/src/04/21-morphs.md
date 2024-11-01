@@ -5,9 +5,9 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 <div class="stat-list">
 
 - **Taxa de Movimento:** O sistema de mobilidade usado e a distância coberta ([Movimento](../12/24-movement.md)).
-- **Ware:** Bioware, cyberware, hardware, meshware e/ou nanoware que o morfo está equipado ([Equipamentos](../16/05-common-tech-and-ware.md)).
+- **Wares:** Biowares, ciberwares, equipawares, meshwares e/ou nanowares que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
 - **Traços de Morfo:** Traços que cada morfo deste tipo possui ([Traços](../04/28-traits.md)).
-- **Extras Comuns:** Traços ou wares frequentes mas que não são padrão para o tipo de morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
+- **Extras Comuns:** Traços ou wares comuns, mas que não são o padrão para este tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
 
 </div>
 
@@ -20,12 +20,12 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Agente](../04/26-infomorphs.md#agent)                                                                          | Infomorfo  | 2&nbsp;PM  |
 | [Aracnoide](../04/25-synthmorphs.md#arachnoid)                                                                  | Sintemorfo | 6&nbsp;PM  |
 | [Prod Básico](../04/23-pod-biomorphs.md#basic-pod)                                                              | Prod       | 1&nbsp;PM  |
-| [Ricochete](../04/22-common-biomorphs.md#bouncer)                                                               | Biomorfo   | 4&nbsp;PM  |
+| [Quicante](../04/22-common-biomorphs.md#bouncer)                                                                | Biomorfo   | 4&nbsp;PM  |
 | [Chapeado](../04/25-synthmorphs.md#case)                                                                        | Sintemorfo | 0&nbsp;PM  |
 | [Digimorfo](../04/26-infomorphs.md#digimorph)                                                                   | Infomorfo  | 0&nbsp;PM  |
 | [Libélula](../04/25-synthmorphs.md#dragonfly)                                                                   | Sintemorfo | 1&nbsp;PM  |
 | [Exalto](../04/22-common-biomorphs.md#exalt)                                                                    | Biomorfo   | 2&nbsp;PM  |
-| [Clássico](../04/22-common-biomorphs.md#flat)                                                                   | Biomorfo   | 0&nbsp;PM  |
+| [Intocado](../04/22-common-biomorphs.md#flat)                                                                   | Biomorfo   | 0&nbsp;PM  |
 | [Flexbot](../04/25-synthmorphs.md#flexbot)                                                                      | Sintemorfo |  Variável  |
 | [Fúria](../04/22-common-biomorphs.md#fury)                                                                      | Biomorfo   | 6&nbsp;PM  |
 | [Futura](../04/22-common-biomorphs.md#futura)                                                                   | Biomorfo   | 4&nbsp;PM  |

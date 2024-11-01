@@ -12,7 +12,7 @@ As suas aptidões, perícias, e alguns atributos e traços derivados pertencem a
 
 ### Atributos do Ego
 
-<div class="two-columns">
+<div class="two-columns-text">
 
 - Aptidões
 - Provas de Aptidão
@@ -33,7 +33,7 @@ As suas aptidões, perícias, e alguns atributos e traços derivados pertencem a
 
 ### Atributos do Morfo
 
-<div class="two-columns">
+<div class="two-columns-text">
 
 - Paradas
 - Durabilidade

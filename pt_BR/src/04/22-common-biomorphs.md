@@ -6,17 +6,17 @@ Biomorfos são capas totalmente biológicas (muitas vezes modificados geneticame
 
 ## Biomorfos com Cibercérebros
 
-É cada vez mais comum encontrar biomorfos com cibercérebros, especialmente no sistema exterior. A vantagem é que os cibercérebros permitem um reencape e forqueamento mais fácil, e possuem ampliações mnemônicas de memória embutidas. A desvantagem é que eles estão vulneráveis ao hackeamento. Adicionar um cibercérebro, soquete de acesso, mnemônicos e luva de fantoche ao seu morfo aumenta em 1 o custo de PM.
+É cada vez mais comum encontrar biomorfos com cibercérebros, especialmente no sistema exterior. A vantagem é que os cibercérebros permitem um reencape e forqueamento mais fácil, e possuem ampliações mnemônicas de memória embutidas. A desvantagem é que eles estão vulneráveis ao hackeamento. Adicionar um cibercérebro, soquete de acesso, mnemônicos e manípulo fantoche ao seu morfo aumenta em 1 o custo de PM.
 
 </blockquote>
 
-### Clássico
+### Intocado
 
-Clássicos são humanos simples não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os clássicos são cada vez mais raros fora dos enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
+Intocados são humanos simples não modificados, nascidos com todos os defeitos naturais, doenças hereditárias e outras mutações genéticas que a evolução aplica com tanto carinho. Os intocados são cada vez mais raros fora dos enclaves bioconservadores — a maioria morreu com o resto da humanidade durante a Queda.
 
 <blockquote class="indent stat-list">
 
-### Clássico
+### Intocado
 
 - **Custo:** 0&nbsp;PM • **Disp:** 30
 
@@ -50,13 +50,13 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
 
 ### Exalto
 
-Exaltos são os modelos de "humanos aprimorados" comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
+Exaltos são os modelos de “humanos aprimorados” comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
 
 <blockquote class="indent stat-list">
 
@@ -72,7 +72,7 @@ Exaltos são os modelos de "humanos aprimorados" comuns e não especializados. E
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
 
@@ -94,7 +94,7 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
@@ -118,18 +118,18 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 - **Extras Comuns:** Muitos têm o traço de [Obsolescência Programada](../04/28-traits.md#planned-obsolescence)
 
 </blockquote>
 
-### Ricochete
+### Quicante
 
-Os ricochetes são geneticamente adaptados para microgravidade. Suas pernas são mais ágeis e seus pés podem agarrar tão bem quanto suas mãos. Eles podem tolerar as temperaturas frias de túneis de formigueiros e tem uma reserva de oxigênio para o caso de serem expostos ao vácuo. Ricochetes são bastante comuns no sistema exterior e em habitats de zero-g.
+Os quicantes são geneticamente adaptados para microgravidade. Suas pernas são mais ágeis e seus pés podem agarrar tão bem quanto suas mãos. Eles podem tolerar as temperaturas frias de túneis de formigueiros e tem uma reserva de oxigênio para o caso de serem expostos ao vácuo. Quicantes são bastante comuns no sistema exterior e em habitats de zero-g.
 
 <blockquote class="indent stat-list">
 
-### Ricochete
+### Quicante
 
 - **Custo:** 4&nbsp;PM • **Disp:** 60
 
@@ -141,14 +141,14 @@ Os ricochetes são geneticamente adaptados para microgravidade. Suas pernas são
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
+- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
 - **Traços de Morfo:** Flexibilidade (Nível 1)
 
 </blockquote>
 
 ### Futura
 
-Os morfos futura foram feitos especialmente para a "Geração Perdida" de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
+Os morfos futura foram feitos especialmente para a “Geração Perdida” de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
 
 <blockquote class="indent stat-list">
 
@@ -164,7 +164,7 @@ Os morfos futura foram feitos especialmente para a "Geração Perdida" de crian�
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
 
@@ -186,7 +186,7 @@ Hibernoides são humanos transgênicos modificados com padrões de sono e proces
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
+- **Wares:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
 
 </blockquote>
 
@@ -208,7 +208,7 @@ Mentons são geneticamente modificados para aumentar suas habilidades cognitivas
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
+- **Wares:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
 
 </blockquote>
 
@@ -230,7 +230,7 @@ Olímpicos são melhorias humanas com capacidades atléticas aprimoradas, como r
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
 
@@ -252,7 +252,7 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
+- **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
 - **Extras Comuns:** Muitos têm o traço [Aparência Marcante](../04/28-traits.md#striking-looks)
 
 </blockquote>
@@ -275,7 +275,7 @@ Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 - **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuraquim](../16/10-combat-augmentations.md)
 
@@ -299,7 +299,7 @@ Fantasmas são projetados parcialmente para aplicações de combate, mas seu foc
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
+- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
 - **Extras Comuns:** Muitos estão equipados com [pele-flex](../16/09-social-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md)
 
@@ -325,7 +325,7 @@ Eles se parecem com humanos, mas são diferentes de formas muito perceptíveis e
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
+- **Wares:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 
 </blockquote>

@@ -17,7 +17,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12 ou Asas 8/32
-- **Ware:** Blindagem Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
+- **Wares:** Blindagem Dérmica, Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 40, Evasão 30, Infiltração 30, Luta 40, Percepção 30, Provocação 30 (Intimidação 40)
 - **Notas:** Mordida/Chifre/Cauda VD 1d6 \[4\], Tamanho Pequeno
 
@@ -29,7 +29,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32
-- **Ware:** Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
+- **Wares:** Olfato Aprimorado, Visão Aprimorada, alguns possuem Glândulas de Veneno
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 50, Luta 40, Percepção 30
 - **Notas:** Picada de enxame VD 1d10 \[6\] (ignora armadura não selada)
 
@@ -39,7 +39,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes
+- **Wares:** Almofadas Aderentes
 - **Perícias:** Atletismo 30, Evasão 30, Infiltração 50, Percepção 20, Queda Livre 30
 - **Notas:** Tamanho Pequeno
 
@@ -49,9 +49,9 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/20
-- **Ware:** Olfato Aprimorado
+- **Wares:** Olfato Aprimorado
 - **Perícias:** Atletismo 30, Evasão 40, Infiltração 30, Infiltração 30, Percepção 20, Queda Livre 30
-- **Notes:** Mordida VD 1d6 \[4\], Tamanho Pequeno
+- **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
 </div></tr>
 
@@ -59,7 +59,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 **Dino-Mascote:** Os hackers genéticos ressuscitaram várias espécies extintas de dinossauros como mascotes pequenos, coloridos e adoráveis. As variedades incluem pterossauros, estegossauros, anquilossauros, triceratops, e muitos outros.
 
-**Casaco de Pele:** O chamado "casaco de pele" é um agasalho feito de um organismo primitivo vivo. As peles, pelagens, ou escamas da criatura são reais. O organismo é cultivado a partir de estoques transgênicos e crescidos em moldes no formato de roupas, geralmente com utilidades reais: parcas de urso polar, traje de mergulho de foca, casacos de porco-espinho, etc. Os casacos de peles são modificados com controles sem fio e sistemas táteis, para que possam se mover, arrepiar, massagear ou se espetar quando desejado.
+**Casaco de Pele:** O chamado “casaco de pele” é um agasalho feito de um organismo primitivo vivo. As peles, pelagens, ou escamas da criatura são reais. O organismo é cultivado a partir de estoques transgênicos e crescidos em moldes no formato de roupas, geralmente com utilidades reais: parcas de urso polar, traje de mergulho de foca, casacos de porco-espinho, etc. Os casacos de peles são modificados com controles sem fio e sistemas táteis, para que possam se mover, arrepiar, massagear ou se espetar quando desejado.
 
 **Enxame Polinizador:** Variações geneticamente modificadas e mescladas de abelhas e vespas polinizam os jardins dos habitats. Eles também produzem mel, caçam outros insetos, aparam folhas e coletam detritos. Embora não sejam agressivos, alguns foram modificados para serem assassinos ou guardiões. Eles seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
 
@@ -80,7 +80,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Ampliação Muscular, Amplificador de Reflexos, Audição Aprimorada, Blindagem Dérmica, Cibercortéx, Garras, Insertos da Mesh, Luva de Fantoche, Olfato Aprimorado, Visão Aprimorada
+- **Wares:** Ampliação Muscular, Amplificador de Reflexos, Audição Aprimorada, Blindagem Dérmica, Cibercortéx, Garras, Insertos da Mesh, Manípulo Fantoche, Olfato Aprimorado, Visão Aprimorada
 - **Perícias:** Atletismo 30, Evasão 40, Luta 50, Percepção 40, Provocação 30 (Intimidação 40)
 
 </div></tr>
@@ -89,7 +89,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biotrama, Filtros de Toxina, Novacardium, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
+- **Wares:** Biotrama, Filtros de Toxina, Novacardium, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Perícias:** Atletismo 50, Evasão 40, Luta 50, Percepção 40, Provocação 40 (Intimidação 50)
 - **Traços:** Comportamento Acentuado: Obediência (Nível 2)
 
@@ -99,7 +99,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Audição Aprimorada, Biotrama, Filtros de Toxina, Olfato Aprimorado, Respiração Aprimorada, Tolerância ao Frio
+- **Wares:** Audição Aprimorada, Biotrama, Filtros de Toxina, Olfato Aprimorado, Respiração Aprimorada, Tolerância ao Frio
 - **Perícias:** Atletismo 30, Evasão 40, Luta 40, Percepção 50, Provocação 30 (Intimidação 40)
 
 </div></tr>
@@ -108,7 +108,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32
-- **Ware:** Audição Aprimorada, Garras, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Garras, Visão Aprimorada
 - **Perícias:** Atletismo 60, Evasão 50, Infiltração 30, Infiltração 40, Percepção 50
 - **Notas:** Bico/Garras VD 1d6 \[4\], Tamanho Pequeno
 
@@ -118,7 +118,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Cauda Preênsil, Pés Preênseis
+- **Wares:** Almofadas Aderentes, Cauda Preênsil, Pés Preênseis
 - **Perícias:** Atletismo 60, Evasão 40, Infiltração 40, Luta 30, Percepção 40, Perícia Exótica: Prestidigitação 50
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
@@ -128,7 +128,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Audição Aprimorada, Olfato Aprimorado
+- **Wares:** Almofadas Aderentes, Audição Aprimorada, Olfato Aprimorado
 - **Perícias:** Atletismo 40, Evasão 40, Infiltração 50, Luta 30, Percepção 40
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno
 
@@ -138,7 +138,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Ware:** Almofadas Aderentes, Cauda Preênsil, Olfato Aprimorado
+- **Wares:** Almofadas Aderentes, Cauda Preênsil, Olfato Aprimorado
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Percepção 40
 - **Notas:** Tamanho Muito Pequeno
 
@@ -148,7 +148,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
+- **Wares:** Almofadas Aderentes, Biomods, Blindagem Dérmica, Cauda Preênsil, Cibercórtex, Garras, Insertos da Mesh, Olfato Aprimorado, Visão Aprimorada, e outros.
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 50, Percepção 40, Queda Livre 30
 - **Notas:** Alguns tem tamanho pequeno
 
@@ -156,7 +156,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 </table>
 
-**Cão de Guarda:** Estes cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com bioware ou cibernéticos de combate.
+**Cão de Guarda:** Estes cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com biowares ou cibernéticos de combate.
 
 **Babuíno Policial:** Usados para trabalho policial em Marte, estes babuínos do Cabo parcialmente elevados podem ser cruéis, especialmente em bando.
 
@@ -185,17 +185,17 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32, Marcha 4/12
-- **Ware:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
+- **Wares:** Almofadas Aderentes, Audição Aprimorada, Cauda Preênsil, Olfato Aprimorado, Pele Camaleão, Pés Preênseis
 - **Perícias:** Atletismo 50, Evasão 40, Infiltração 60, Luta 30, Percepção 40
 - **Notas:** Mordida VD 1d6 \[4\], Tamanho Pequeno, Imune ao veneno da anêmona terrestre
 
 </div></tr>
 
-<tr><td>Hexassalamandra<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
+<tr><td>Hexalamandra<td>Raro/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Ware:** Biotrama, Guelras, Pele Camaleão, Proteção Criogênica
+- **Wares:** Biotrama, Guelras, Pele Camaleão, Proteção Criogênica
 - **Perícias:** Atletismo 50, Evasão 30, Infiltração 30, Luta 30, Percepção 60
 - **Notas:** Mordida DV 1d10 \[6\]
 
@@ -205,4 +205,4 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 **Duende Palhaço:** Encontrados no sistema Eco, estes avianos-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
 
-**Hexassalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
+**Hexalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.

@@ -23,7 +23,7 @@ A maioria das ampliações de ware mental aprimoram o cérebro e as funções me
 
 **Detonador Cortical:** Os detonadores corticais são projetados para evitar que as [pilhas corticais](../16/05-common-tech-and-ware.md#standard-augmentations) caiam nas mãos erradas. Se o seu morfo for morto ou o detonador for ativado remotamente, ele apaga e derrete completamente a sua pilha cortical para que o seu ego não possa ser recuperado. Essa opção geralmente só é usada por agentes infiltrados com backups recentes.
 
-**Acoplagem Drone:** Essa ampliação de sim-sensorial lhe dá mais controle quando encarnar drones ([Operações Remotas](../16/21-robots.md#remote-operations)). Você ignora o modificador −10 por encarnar.
+**Acoplagem Drone:** Essa ampliação de sim-sensorial lhe dá mais controle quando encarna drones ([Operações Remotas](../16/21-robots.md#remote-operations)). Você ignora o modificador −10 por encarnar.
 
 **Longiprojetor de Emergência:** Similar a uma ligação de backup remoto (e frequentemente instalado com uma), o longiprojetor de emergência é pensado para as situações em que um backup remoto não pode ser assegurado. Essa ampliação possui um [transmissor de neutrinos](../16/16-comms-and-mesh-gear.md#neutrino-communicators) de emergência alimentado por 10 nanogramas de antimatéria, armazenada em um pequeno recipiente de contenção magnética. Caso seu morfo seja morto/destruído, ou se você intencionalmente ativar o dispositivo, a antimatéria é colocada em contanto com matéria e detonada, energizando um único pulso curto de neutrinos cuidadosamente codificado do backup mais recente do seu ego. Em resumo, a transmissão do backup faz sua cabeça explodir e cozinha seu morfo, destruindo o restou dele. Seu ego transmitido será salvo, contanto que o receptor de neutrino esteja a até 100 unidades astronômicas. Isso praticamente garante o seu backup dentro do Sistema Solar, mas é menos útil em exoplanetas, pois você está fora do alcance de neutrinos do seu centro de backups.
 
@@ -39,7 +39,7 @@ Apenas um ego pode estar no controle do morfo por vez. O outro reside em segundo
 
 Você pode pegar essa ampliação mais de uma vez (até um máximo de 3 vezes) para incorporar múltiplos egos na mesma mente.
 
-**Multitarefa:** Esse módulo cibernético ou de software permite que seu cérebro se concentre em duas coisas ao mesmo tempo — algo que nossas mentes geralmente não podem fazer — sem qualquer confusão por trocas de contexto ou aumento dos erros por desatenção. A multitarefa aumenta sua parada de Inspiração em 1.
+**Multitarefa:** Esse módulo cibernético ou programático permite que seu cérebro se concentre em duas coisas ao mesmo tempo — algo que nossas mentes geralmente não podem fazer — sem qualquer confusão por trocas de contexto ou aumento dos erros por desatenção. A multitarefa aumenta sua parada de Inspiração em 1.
 
 **Ligação de Backup Remoto:** A pilha cortical do seu morfo está ligada a um [longiprojetor quântico](../16/16-comms-and-mesh-gear.md#quantum-farcasters) implantado que está ligado com um centro de armazenamento de alta segurança. Usando rádio comum e [criptografia](../13/05-authentication-and-encryption.md#encryption) quântica, o longiprojetor faz a transmissão de backups completos do seu ego (tirados da rede de laço neural da pilha cortical) uma vez a cada 48 horas. Essa transferência leva um único turno de ação. A critério do MJ, o intervalo de backup pode ser agendado com mais ou menos frequência, tendo em mente que as transmissões de ego são limitadas por questões de segurança e porque elas consomem muita largura de banda. Egos transmitidos devem estar ao alcance do receptor para serem recebidos; por essa razão, o utilidade do sistema está limitada a habitats ou situações específicas, nas quais você providenciou armazenamento seguro nas redondezas, tais como a bordo de uma espaçonave próxima. Se as transmissões de rádio forem impedidas ou bloqueadas, esse dispositivo não poderá salvar backups remotos.
 
@@ -49,8 +49,8 @@ Você pode pegar essa ampliação mais de uma vez (até um máximo de 3 vezes) p
 
 Os periciapps são usados com um [implante carregador pericial](../16/08-mental-augmentations.md).
 
-| SOFTWARE  | Comp/<wbr>PE | Descrição                                      |
+| PROGRAMA  | Comp/<wbr>PE | Descrição                                      |
 |:--------- |:-------------------------------------:|:---------------------------------------------- |
 | Periciapp |                 Mod/2                 | Perícia ativa em 40 ou perícia de Saber em 80. |
 
-**Periciapp:** Estes são perícias codificadas em forma de software. Quando usadas com um sistema carregador pericial, elas lhe fornecem uma graduação de 40 em uma única perícia ativa ou de 80 em uma perícia de Saber (suas aptidões não afetam essa graduação; se você já possui a perícia, use o valor mais alto).
+**Periciapp:** Estes são perícias codificadas em forma de programa. Quando usadas com um sistema carregador pericial, elas lhe fornecem uma graduação de 40 em uma única perícia ativa ou de 80 em uma perícia de Saber (suas aptidões não afetam essa graduação; se você já possui a perícia, use o valor mais alto).

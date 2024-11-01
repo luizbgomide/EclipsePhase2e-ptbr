@@ -10,7 +10,7 @@ Em vez expedições detalhadas de compras, Eclipse Phase oferece várias opçõe
 
 Pontos de Equipamentos (PE) funcionam de forma similar a [Pontos de Morfo](../15/03-acquiring-morphs.md#determining-morph-points) — o MJ atribui um número de PE para cada personagem em cada missão, que podem ser utilizados para adquirir equipamentos. O valor de PE dos equipamentos é baseado em sua complexidade, como indicado na tabela Valor em Pontos de Equipamento.
 
-Os Pontos de Equipamento da missão são uma abstração baseada nos recursos disponíveis para a equipe para essa missão específica. Isso é particularmente relevante em cenários onde os PJs precisam egoprojetar, e portanto não podem levar seu próprio equipamento. Há vários fatores que o MJ deve considerar aqui. A equipe está dependendo dos próprios recursos, ou eles têm uma organização ou patrono que está bancando a operação? Eles têm tempo para se preparar e reunir o que precisam, ou eles estão operando com prazos urgentes? O tipo de equipamento que eles precisam é abundante e fácil de conseguir onde eles estão indo, ou ele é altamente controlado e restrito?
+Os Pontos de Equipamento da missão são uma abstração baseada nos recursos disponíveis para a equipe para essa missão específica. Isso é particularmente relevante em aventuras onde os PJs precisam egoprojetar, e portanto não podem levar seu próprio equipamento. Há vários fatores que o MJ deve considerar aqui. A equipe está dependendo dos próprios recursos, ou eles têm uma organização ou patrono que está bancando a operação? Eles têm tempo para se preparar e reunir o que precisam, ou eles estão operando com prazos urgentes? O tipo de equipamento que eles precisam é abundante e fácil de conseguir onde eles estão indo, ou ele é altamente controlado e restrito?
 
 Nós recomendamos atribuir 20&nbsp;PE para cada missão. Os MJs devem aumentar ou diminuir isso como acharem melhor para a situação. Os PJs estão com pressa ou sozinhos? Reduza o PE para 15 ou 10. Eles são bancados por um oligarca ou possuem bastante tempo de preparação? Aumente o PE para 25 ou 30. A missão é no mesmo local que a anterior, o que significa que eles precisam apenas reabastecer algumas coisas? Dê a eles 2 ou 4.
 
@@ -22,7 +22,7 @@ Com a aprovação do MJ, os PJs podem juntar seus PE e compartilhar uns com os o
 
 Os PE só podem ser gastos na fase de preparação inicial de cada missão. O PE não gasto é perdido; ele não pode ser guardado. Se você precisar adquirir equipamentos durante uma operação, use as regras para aquisição de equipamentos durante missões.
 
-**Ware:** Observe que cyberware, bioware, nanoware, etc., pode ser comprado com Pontos de Morfo ou Pontos de Equipamento.
+**Wares:** Observe que ciberwares, biowares, nanowares, etc., pode ser comprado com Pontos de Morfo ou Pontos de Equipamento.
 
 <blockquote class="table">
 
@@ -74,7 +74,7 @@ Se o teste (se houver) for bem-sucedido, você adquire/compra/faz o equipamento 
 
 Quando usar rep ou Recursos para adquirir equipamentos, você escolhe entre um item físico ou um diagrama de uso único acessado através de uma plataforma de distribuição digital ([Obtendo Diagramas](../16/03-nanofabrication.md#getting-blueprints)). Diagramas de uso único tem um prazo muito mais rápido (1 minuto). Se o MJ permitir, você pode adquirir um diagrama de uso limitado, em vez de uso único. Diagramas de uso múltiplo também estão disponíveis, mas são mais difíceis de conseguir; aumente a complexidade em um grau (ou seja, Menor se torna Moderada). Para simplificar, assume-se que diagramas de uso múltiplo venham com uma cópia física do item.
 
-Quando adquirir software ou outros produtos puramente digitais, o prazo de 1 minuto também se aplica.
+Quando adquirir programas ou outros produtos puramente digitais, o prazo de 1 minuto também se aplica.
 
 ### Vários Equipamentos de Uma Vez
 
@@ -94,7 +94,7 @@ O sistema de Pontos de Equipamento para missão é ideal para estilos episódico
 
 ### Quando e Onde?
 
-Embora esse sistema torne a aquisição de equipamentos um processo abstrato, ele ainda pode ser incorporado à história. Também pode ser importante saber exatamente como, quando, e onde você pode colocar as mãos em seus novos brinquedos. Se você egoprojetar para um novo hab, você pode ter um agente aguardando por você no banco de corpos, ou você pode ter que esperar alguns dias até uma reunião com o atravessador local para pegar os produtos. A Firewall pode ter dado os detalhes de um depósito de partição temporária secreto, mas ele está localizado em uma parte do habitat que agora é controlada por uma gangue que odeia forasteiros. Ou talvez seu patrono esteja esperando uma demonstração de lealdade antes de dar prosseguimento, ou talvez os anarquistas locais não confiem o suficiente em você para compartilhar todos os recursos deles imediatamente. Talvez um grupo rival saiba que você está chegando, e decida emboscar você antes que você esteja equipado ou assaltar seu depósito de suprimentos. Embora os MJs e jogadores possam decidir nos elementos logísticos juntos, essa também é uma boa oportunidade para interpretação, introdução de novos PNJs, e o surgimento de algumas surpresas.
+Embora esse sistema torne a aquisição de equipamentos um processo abstrato, ele ainda pode ser incorporado à história. Também pode ser importante saber exatamente como, quando, e onde você pode colocar as mãos em seus novos brinquedos. Se você egoprojetar para um novo hab, você pode ter um agente aguardando por você no banco de corpos, ou você pode ter que esperar alguns dias até uma reunião com o facilitador local para pegar os produtos. A Firewall pode ter dado os detalhes de um depósito de partição temporária secreto, mas ele está localizado em uma parte do habitat que agora é controlada por uma gangue que odeia forasteiros. Ou talvez seu patrono esteja esperando uma demonstração de lealdade antes de dar prosseguimento, ou talvez os anarquistas locais não confiem o suficiente em você para compartilhar todos os recursos deles imediatamente. Talvez um grupo rival saiba que você está chegando, e decida emboscar você antes que você esteja equipado ou assaltar seu depósito de suprimentos. Embora os MJs e jogadores possam decidir nos elementos logísticos juntos, essa também é uma boa oportunidade para interpretação, introdução de novos PNJs, e o surgimento de algumas surpresas.
 
 ### Bibliotecas de Diagramas
 
@@ -106,7 +106,7 @@ Jogadores econômicos vão anotá-las para poder usá-las mais tarde. Isso é ac
 
 Tome um momento para avaliar o que acontece com os equipamentos quando a missão termina — ou pelo menos com os equipamentos que ainda estão intactos. Se os PJs ficarem por lá, eles provavelmente vão querer continuar com eles. No entanto, algumas pessoas podem vir procurar equipamentos que foram emprestados ou adquiridos por meios questionáveis. Se os PJs vão embora egoprojetando, eles tem o opção de escondê-los, destrui-los, vendê-los ou dá-los para outra pessoa. Os apps, é claro, vão com você, e alguma assinaturas de serviços podem durar até a próxima missão.
 
-A Firewall mantém depósitos de partição temporária em muitos habitats para guardar equipamentos que possam ser úteis no futuro, e outros grupos clandestinos fazem o mesmo. Se os PJs tomarem o tempo de vender seus equipamentos ou passá-los para outros (ganhando assim alguns créditos ou rep), tenha isso em mente quando atribuir os PE para a próxima missão. Ainda assim, se eles saírem do cenário com menos recursos do que entraram, talvez os equipamentos restantes apenas ajudem a pagar dívidas acumuladas e favores devidos.
+A Firewall mantém depósitos de partição temporária em muitos habitats para guardar equipamentos que possam ser úteis no futuro, e outros grupos clandestinos fazem o mesmo. Se os PJs tomarem o tempo de vender seus equipamentos ou passá-los para outros (ganhando assim alguns créditos ou rep), tenha isso em mente quando atribuir os PE para a próxima missão. Ainda assim, se eles saírem da aventura com menos recursos do que entraram, talvez os equipamentos restantes apenas ajudem a pagar dívidas acumuladas e favores devidos.
 
 <blockquote>
 
@@ -120,6 +120,6 @@ As regras fornecidas para aquisição de equipamentos assumem que os PJs estão 
 
 ## …Mas Não Deixe Eles Dominarem
 
-Em concordância com a natureza de escassez limitada da ambientação, Eclipse Phase não coloca muitas limitações na aquisição de equipamentos. Alguns jogadores podem ver isso como uma oportunidade para se encher com uma enorme quantidade de apetrechos. Embora isso possa ser útil para ter equipamentos à disposição para cada contingência, é importante manter isso sob controle. Os MJs têm várias opções para aplicar limitações conforme necessário: pressões sociais (os outros se incomodam se você monopoliza os fabros públicos, acumula recursos do habitat, ou constantemente os importa para ter equipamentos), prazos restritos do cenário (sem tempo para fabricar, precisa salvar o hab!), e atenção indesejada (a segurança fica desconfiada de pessoas transportando carregamentos de tecnologia, ladrões buscam estoques para saquear). É claro que o ponto não é punir os jogadores, mas sim impor o realismo e as restrições logísticas que as regras nem sempre podem emular.
+Em concordância com a natureza limitada da escassez do cenário, Eclipse Phase não coloca muitas limitações na aquisição de equipamentos. Alguns jogadores podem ver isso como uma oportunidade para se encher com uma enorme quantidade de apetrechos. Embora isso possa ser útil para ter equipamentos à disposição para cada contingência, é importante manter isso sob controle. Os MJs têm várias opções para aplicar limitações conforme necessário: pressões sociais (os outros se incomodam se você monopoliza os fabros públicos, acumula recursos do habitat, ou constantemente os importa para ter equipamentos), prazos restritos do cena (sem tempo para fabricar, precisa salvar o hab!), e atenção indesejada (a segurança fica desconfiada de pessoas transportando carregamentos de tecnologia, ladrões buscam estoques para saquear). É claro que o ponto não é punir os jogadores, mas sim impor o realismo e as restrições logísticas que as regras nem sempre podem emular.
 
 </blockquote>

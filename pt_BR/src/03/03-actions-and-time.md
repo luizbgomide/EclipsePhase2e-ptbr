@@ -16,7 +16,7 @@ Note que movimentos básicos como caminhar ou correr são ações automáticas (
 
 ## Ações Automáticas
 
-Ações automáticas estão sempre "ligadas", são reflexivas ou não exigem esforço para serem iniciadas. Isso inclui movimento base e total.
+Ações automáticas estão sempre “ligadas”, são reflexivas ou não exigem esforço para serem iniciadas. Isso inclui movimento base e total.
 
 **Exemplos:** Defender-se de um ataque, falar uma ou duas frases simples, jogar-se no chão, largar alguma coisa, movimento base, movimento total, percepção básica, resistir a danos, respiração.
 

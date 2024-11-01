@@ -35,7 +35,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 
 ## Energética vs. Cinética
 
-Cada tipo de armadura tem um Valor de Armadura (VA) com duas graduações — energética e cinética — representando a proteção que ela oferece contra o tipo respectivo de ataque. Essas estão listadas no formato de "armadura energética/armadura cinética". Por exemplo, um item com armadura listada de "5/10" fornece 5 pontos de armadura contra ataques energéticos e 10 pontos de armadura contra ataques cinéticos.
+Cada tipo de armadura tem um Valor de Armadura (VA) com duas graduações — energética e cinética — representando a proteção que ela oferece contra o tipo respectivo de ataque. Essas estão listadas no formato de “armadura energética/armadura cinética”. Por exemplo, um item com armadura listada de “5/10” fornece 5 pontos de armadura contra ataques energéticos e 10 pontos de armadura contra ataques cinéticos.
 
 _Armadura energética_ protege contra armas de feixe (laser, micro-ondas, feixes de partículas, etc.), plasma, fogo, e explosivos de alta energia. Uma armadura que protege contra estes danos é feita de materiais que refletem ou dispersam tais energias, dissipam e transferem o calor, ou sofrem ablação.
 
@@ -57,7 +57,7 @@ Itens listados com um + antes do VA são acessórios ou leves o bastante para n�
 
 Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará suspeitas ou atrairá a atenção da polícia na maioria dos habitats. Os VAs menores são considerados ocultáveis, recebendo um bônus +30 na perícia Infiltração para escondê-los da percepção visual, com exceção de alguns itens volumosos e óbvios, como trajes de vácuo, blindagens dérmicas, blindagens de escamas e macacões de segurança ativados.
 
-## Ware de Armadura
+## Wares de Armadura
 
 **Biotrama:** As camadas dérmicas do morfo estão entrelaçadas com fibras de seda de aranha, oferecendo proteção sem alterar a aparência, textura ou sensibilidade da pele.
 

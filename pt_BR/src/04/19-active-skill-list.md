@@ -176,9 +176,9 @@ Use a Infoseg para hackear sistemas eletrônicos e da mesh, subvertê-los, e pro
 - **Tipo:** Ativa, Técnica
 - **Aptidão Vinculada:** Cognição
 
-Interface é o uso e entendimento de computadores, eletrônicos, redes, sensores e softwares. Ela se aplica a tudo, desde servidores da mesh e serviços da nuvem até controles de sistemas de habitats/espaçonaves integrados e sistemas de armas computadorizados ou instalados.
+Interface é o uso e entendimento de computadores, eletrônicos, redes, sensores e programas. Ela se aplica a tudo, desde servidores da mesh e serviços da nuvem até controles de sistemas de habitats/espaçonaves integrados e sistemas de armas computadorizados ou instalados.
 
-Use Interface para manipular eletrônicos, softwares de comando, adulterar arquivos de vídeo, escanear dispositivos sem fio, bloquear frequências, obter leituras de sensores, controlar funções de suporte vital e entender novos dispositivos. Interface também é usada para atacar com armas instaladas não portáteis e sistemas de armas de veículos e espaçonaves pilotados, mas não encarnados ou encapados ([Sistemas de Armas](../12/08-weapon-systems.md)).
+Use Interface para manipular eletrônicos, gerenciar programas, adulterar arquivos de vídeo, escanear dispositivos sem fio, bloquear frequências, obter leituras de sensores, controlar funções de suporte vital e entender novos dispositivos. Interface também é usada para atacar com armas instaladas não portáteis e sistemas de armas de veículos e espaçonaves pilotados, mas não encarnados ou encapados ([Sistemas de Armas](../12/08-weapon-systems.md)).
 
 - **Especializações:** Adulteração, Bloqueio de Sinais, Escaneamento, Sensores, Sistemas de Armas
 
@@ -287,9 +287,9 @@ Use Pilotagem para fazer uma curva fechada com um carro, evadir de uma persegui�
 - **Tipo:** Ativa, Técnica
 - **Aptidão Vinculada:** Cognição
 
-Programação é sobre escrever e modificar códigos de software.
+Programação lida com escrita e modificação códigos de programas.
 
-Use Programação para escrever um script, analisar como um programa funciona, projetar um diagrama para nanofabricação, quebrar uma proteção de copyright, consertar uma vulnerabilidade de software, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
+Use Programação para escrever um script, analisar como um programa funciona, projetar um diagrama para nanofabricação, quebrar uma proteção de copyright, consertar uma vulnerabilidade de um programa, programar um vírus, ou criar um ambiente de RV, ilusão de RA ou estado mental de infomorfo.
 
 - **Especializações:** IAs, Infomorfos, Malware, Nanofabricação, Pirataria, RV
 

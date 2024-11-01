@@ -74,7 +74,7 @@ Monte envolveu Tierslay em seus braços com um assovio de alegria. “Dividimos 
 
 Monte arrumou para Tierslay um barraco improvisado na esquina feito com lona desfiada azul e paletes de construção quebrados. O lugar criava um pouco de sombra na tarde, dando um descanso do sol forte para o cérebro poder se concentrar. Tierslay tinha vinte minutos para hackear o EEL 3 antes do comprador chegar.
 
-Ela voou na programação. Como ela imaginava, foi complicado. As travas proprietárias de cibercérebros Go-nin eram notoriamente difíceis de quebrar. O mercado para cérebros de bot hackeados sem os códigos padrões de fábrica estava explodindo, ainda que, nos dois lados dos muros, então Tierslay gastou muito do seu tempo fazendo engenharia reversa das restrições de copyright e apps de controle de acesso de qualquer peça de bot que ela colocasse as mãos. Distorcer a saída ou rodar um esquema de depuração sofisticado estavam fora de questão. Não havia tempo. Sua única esperança era encontrar e violar uma das poucas vulnerabilidades ocultas que ela tinha descoberto nos modelos de Go-nin antigos. Depois de quinze minutos, ela achou — era uma controladora que ela podia enganar para fornecer as chaves de criptografia necessárias. O suor pingou em seus olhos enquanto ela rodava a violação e o software de segurança era quebrado. Acesso root garantido. O cérebro de bot agora obedecia suas ordens. _Talento sempre dá um jeito, Go-nin. E com tempo de sobra._
+Ela voou na programação. Como ela imaginava, foi complicado. As travas proprietárias de cibercérebros Go-nin eram notoriamente difíceis de quebrar. O mercado para cérebros de bot hackeados sem os códigos padrões de fábrica estava explodindo, ainda que, nos dois lados dos muros, então Tierslay gastou muito do seu tempo fazendo engenharia reversa das restrições de copyright e apps de controle de acesso de qualquer aparelhagem de bot que ela colocasse as mãos. Distorcer a saída ou rodar um esquema de depuração sofisticado estavam fora de questão. Não havia tempo. Sua única esperança era encontrar e violar uma das poucas vulnerabilidades ocultas que ela tinha descoberto nos modelos de Go-nin antigos. Depois de quinze minutos, ela achou — era uma controladora que ela podia enganar para fornecer as chaves de criptografia necessárias. O suor pingou em seus olhos enquanto ela rodava a violação e o programa de segurança era quebrado. Acesso root garantido. O cérebro de bot agora obedecia suas ordens. _Talento sempre dá um jeito, Go-nin. E com tempo de sobra._
 
 Mas depois, tiros.
 
@@ -312,7 +312,7 @@ Um formigamento percorreu o corpo sintético de Tierslay, começando pela cabeç
 
 “Uau. Estou lisonjeada.”
 
-“Não fique. O lula entende de hardware, mas software não é a praia dele. Ainda assim, ele tem um bom olho pra talento.” Elis estava pendurada num tubo iluminado agarrado por seus pés grossos, seu cabelo se remexia em zero-g como cobras roxas e pretas recém-alimentadas. Tierslay olhou para ela, inquieta.
+“Não fique. O lula entende de aparelhagem, mas programas não são a praia dele. Ainda assim, ele tem um bom olho pra talento.” Elis estava pendurada num tubo iluminado agarrado por seus pés grossos, seu cabelo se remexia em zero-g como cobras roxas e pretas recém-alimentadas. Tierslay olhou para ela, inquieta.
 
 “Não fique tão nervosa, Tierslay. Pivo e eu somos próximos. A palavra dele tem peso por aqui.” Elis balançou pela sala, reorientando-se de frente para Tierslay, numa aterragem perfeita marcada por um sorriso pretensioso. A oficina de sintemorfos personalizados de Elis, Bateaux, era uma bagunça elaborada, a área de trabalho de uma verdadeira artista sem tempo para organização. “Vamos direto ao assunto. Eu construo e modifico sintes, mas também recebo um monte de gente vindo para o enxame atrás de suplementos específicos para cibercérebros. É aí que preciso de ajuda. Qual a sua experiência programando narcos?”
 
@@ -328,7 +328,7 @@ Elis interrompeu Tierslay e sorriu. “Ah, estou bem familiarizada com o Fizzee6
 
 “Não me interprete mal. Eu adorei Fizzee. É sublime. Só vi algumas oportunidades de ampliá-lo nas coisas que gostei.”
 
-“Tá bom, sabe-tudo. Chega de conversa. Me deixa provar”, Elis piscou para Tierslay. “Esta é uma biocapa, mas o cérebro é hardware. Me ajuda a verificar o código nos cibercérebros que eu instalo.” As pupilas de Elis dilataram-se em discos azul-real, lágrimas encheram seus olhos e depois escorreram por suas bochechas. Alguns segundos dentro do abraço de Zyzzee66 foi o bastante para Elis perceber o talento na sua frente. Ela matou o processo e tomou um momento para se recompor. “Impressionante. Não perfeito, claro — você precisa checar os limiares de pseudodopamina, uma viagem inicial assim pode criar vertigem — mas não tão ruim para alguém uma década atrasada nos desenvolvimentos da programação.”
+“Tá bom, sabe-tudo. Chega de conversa. Me deixa provar”, Elis piscou para Tierslay. “Esta é uma biocapa, mas o cérebro é aparelhagem. Me ajuda a verificar o código nos cibercérebros que eu instalo.” As pupilas de Elis dilataram-se em discos azul-real, lágrimas encheram seus olhos e depois escorreram por suas bochechas. Alguns segundos dentro do abraço de Zyzzee66 foi o bastante para Elis perceber o talento na sua frente. Ela matou o processo e tomou um momento para se recompor. “Impressionante. Não perfeito, claro — você precisa checar os limiares de pseudodopamina, uma viagem inicial assim pode criar vertigem — mas não tão ruim para alguém uma década atrasada nos desenvolvimentos da programação.”
 
 Ela olhou bem para Tierslay e então aumentou a rep dela. “Bem-vinda à família Bateaux, minha gloriosa narcohacker.”
 
@@ -348,7 +348,7 @@ Uma libélula do tamanho de um gato gordo passou por Tierslay e desceu pela pass
 
 Zum. Foi-se Bixbee.
 
-Tierslay cruzou a entrada do seu novo lar. Ela pairou até a única mobília do seu quarto simples, uma estrutura como casulo para segurá-la no lugar. O software do quarto falou, perguntando o que ela desejava experimentar. “Chuva”, disse ela, e o ambiente mudou, o quarto se escureceu enquanto nuvens de RA pingavam água imaginária para o outro lado do quarto. Ela suspirou, diminuiu sua visão para a meditativa, e se concentrou no som da água caindo. Tierslay buscou sua musa, ativou sua voz e perguntou: _Como você deseja ser chamada?_
+Tierslay cruzou a entrada do seu novo lar. Ela pairou até a única mobília do seu quarto simples, uma estrutura como casulo para segurá-la no lugar. O programa do quarto falou, perguntando o que ela desejava experimentar. “Chuva”, disse ela, e o ambiente mudou, o quarto se escureceu enquanto nuvens de RA pingavam água imaginária para o outro lado do quarto. Ela suspirou, diminuiu sua visão para a meditativa, e se concentrou no som da água caindo. Tierslay buscou sua musa, ativou sua voz e perguntou: _Como você deseja ser chamada?_
 
 \[Essa decisão é sua, Tierslay. Como você prefere?\]
 
@@ -502,7 +502,7 @@ Tierslay respirou fundo. Seu coração estava acelerado. “Precisa de mim pra q
 
 “Qual é a carga?”
 
-“Morfos prods, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de hardware, como bots. Lixo barato, mas mesmo aqui com a ralé, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
+“Morfos prods, como este.” Ele bateu no peito. “Uma dúzia. Biológicos, mas com cérebros de aparelhagem, como bots. Lixo barato, mas mesmo aqui com a ralé, morfos tem valor. Não deve levantar suspeitas. Talvez você possa me arrumar um daqueles narcos que te deram rep, deixar pré-carregado, aumentar um pouco o valor.”
 
 “É isso?” Tierslay sabia que o favor não era só isso, mas perguntou mesmo assim. Seu irmão nunca começava com o grande pedido. Sempre havia outra coisa.
 

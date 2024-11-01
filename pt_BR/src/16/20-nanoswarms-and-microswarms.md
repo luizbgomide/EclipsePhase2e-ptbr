@@ -2,7 +2,7 @@
 
 Enxames são colônias de nanobots ou microbots maiores criados em uma colmeia, programados com instruções específicas, e então liberados para realizar uma tarefa definida. Os enxames variam entre milhares de microbots do tamanho de um pequeno inseto até milhões de nanobots que não são maiores que um micróbio. Os nanobots são invisíveis a olho nu, embora eles possam ser detectados com um nanodetector ou visão nanoscópica. Uma presença concentrada de nanoenxames cria uma efeito turvo visível no ar. Da mesma forma, grandes quantidades de nanobots desativados deixam uma poeira como a de toner em superfícies próximas. Os microbots são visíveis mas ainda bastante pequenos, do tamanho de um grão de areia ou um cisco de poeira, ou ocasionalmente do tamanho de um pulga.
 
-Os "ácaros" individuais em um enxame são dirigidos por nanocomputadores, com rotinas comportamentais modeladas em insetos biológicos e enxames de animais. Eles são alimentados por minúsculas baterias ou células solares. Os enxames ficam juntos e trabalham como um todo, comunicando-se por rádio ou ligação laser. Eles podem ser encarregados com instruções específicas ou configurados para seguir rotinas predefinidas. Eles também podem ser teleoperados ou reprogramados depois de serem liberados.
+Os “ácaros” individuais em um enxame são dirigidos por nanocomputadores, com rotinas comportamentais modeladas em insetos biológicos e enxames de animais. Eles são alimentados por minúsculas baterias ou células solares. Os enxames ficam juntos e trabalham como um todo, comunicando-se por rádio ou ligação laser. Eles podem ser encarregados com instruções específicas ou configurados para seguir rotinas predefinidas. Eles também podem ser teleoperados ou reprogramados depois de serem liberados.
 
 ## Regras de Enxames
 
@@ -26,7 +26,7 @@ Enxames dispersos podem ser recolhidos e reutilizados. Coletar todos os ácaros 
 
 ### Comandando Enxames
 
-A maioria dos enxames está na mesh, geralmente como escravos da colmeia ou diretamente do liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripting).
+A maioria dos enxames está na mesh, geralmente subordinadas à sua colmeia ou diretamente ao seu liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripting).
 
 Para evitar que um enxame seja detectado por seus sinais da mesh, você pode instrui-lo para só transmitir mensagens/gravações compactadas em intervalos predefinidos, ou para apenas responder a sinais de autorização específicos.
 
@@ -48,9 +48,9 @@ Em seu volume total, as unidades de enxame são consideradas alvos muito grandes
 
 Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evitar carregar parte do enxame com você.
 
-### Ware
+### Wares
 
-Enxamenoides e enxames podem ser equipados com ware, como os robôs. Os MJs devem usar o bom senso quando decidir qual ware é permitido; a maioria dos meshware e nanoware é aceitável, mas hardware como pneumáticos não é.
+Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs devem usar o bom senso quando decidir quais wares são permitidos; a maioria dos meshwares e nanowares são aceitáveis, mas equipawares como pneumáticos não são.
 
 ### Desgaste
 
@@ -93,8 +93,8 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 
 **Sabotador:** Os nanobots sabotadores infiltram eletrônicos ou maquinários e os sabotam de formas simples e difíceis de notar: conexões cortadas, componentes desativados, partes móveis travadas, etc. Você pode configurá-los para mirar em um dispositivo específico, um tipo de dispositivo (ex.: todos os morfos chapeados), ou qualquer eletrônico ou maquinário que encontrarem. Uma vez que um objeto seja exposto, os sabotadores têm 50% de chance de infligir um ferimento (e o VD equivalente) a cada (Limiar de Ferimento) turnos de ação. Isso vai continuar até que o alvo tenha sofrido 5 ferimentos e esteja incapacitado. A armadura não tem efeito, mas os ferimentos podem ser reparados normalmente. Os sabotadores não podem sabotar outros nanoenxames.
 
-**Esquadrinhador:** Um nanoenxame esquadrinhador vai mapear e explorar sistematicamente uma área, tirando amostras e analisando quimicamente todos os materiais e substâncias que encontrar. Os esquadrinhadores podem mapear detalhadamente uma sala, identificar todos os objetos, e coletar evidências forenses sobre quem a visitou recentemente e o que aconteceu lá. Os esquadrinhadores têm Saber: Química em 60 e Medicina: Ciência Forense em 60. Eles podem identificar DNA, resíduos de pólvora de armas de fogo, fibras de roupas, pelos de animais inteligentes, e evidências similares de até 2 semanas atrás. Os esquadrinhadores pode penetrar dentro de gavetas, armários, roupas e outras áreas não herméticas.
+**Esquadrinhador:** Um nanoenxame esquadrinhador vai mapear e explorar sistematicamente uma área, tirando amostras e analisando quimicamente todos os materiais e substâncias que encontrar. Os esquadrinhadores podem mapear detalhadamente uma sala, identificar todos os objetos, e coletar evidências forenses sobre quem a visitou recentemente e o que aconteceu lá. Os esquadrinhadores têm Saber: Química em 60 e Medicina: Ciência Forense em 60. Eles podem identificar DNA, resíduos de pólvora de armas de fogo, fibras de roupas, pelos de animais inteligentes, e evidências similares de até 2 semanas atrás. Os esquadrinhadores podem penetrar dentro de gavetas, armários, roupas e outras áreas não herméticas.
 
-**Espião:** Também conhecido como "poeira inteligente", os enxames espiões são nuvens invisíveis de vigilância. Os ácaros espiões são carregados com câmeras (comprimentos de ondas visuais comuns), microfones e sensores químicos. Eles oferecem vigilância generalizada de uma área. Cada enxame tem Percepção 60.
+**Espião:** Também conhecido como “poeira inteligente”, os enxames espiões são nuvens invisíveis de vigilância. Os ácaros espiões são carregados com câmeras (comprimentos de ondas visuais comuns), microfones e sensores químicos. Eles oferecem vigilância generalizada de uma área. Cada enxame tem Percepção 60.
 
 **Marcador:** Os marcadores se agarram e prendem-se em tudo no seu volume de dispersão. Cada um carrega um identificador único, para que se for encontrado, a pessoa ou objeto marcado possa ser vinculado ao ponto em que foi marcado. Os marcadores podem ser programados para ficar em silêncio, respondendo a transmissões de consulta feitas com os códigos criptográficos apropriados, ou eles podem ser programados para transmitir sua localização de volta para o liberador através da mesh. Algumas instalações de alta segurança liberam marcadores em seus pontos de saída quando alarmes são disparados para marcar invasores.

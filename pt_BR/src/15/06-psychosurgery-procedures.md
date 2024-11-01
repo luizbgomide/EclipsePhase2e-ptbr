@@ -56,7 +56,7 @@ O prazo e o VE para o interrogatório psicocirúrgico é variável, dependendo d
 
 Ao monitorar a recordação de memórias (invocadas a força se necessário), psicocirurgiões podem identificar onde memórias estão armazenadas no cérebro e selecioná-las para remoção. No entanto, o armazenamento da memória é complexo e difuso, e frequentemente ligado a outras memórias. É extremamente difícil selecionar uma memória específica para remoção; em vez disso, agrupamentos gerais de memórias devem ser selecionados, como períodos de tempo aproximados ou tópicos. Remover uma memória quase sempre afetará outras (a critério do MJ).
 
-Adicionar ou substituir memórias é uma operação muito mais complicada e requer que tais memórias	sejam copiadas de alguém que as vivenciou ou sejam fabricadas com software de XP. Quando são implantadas com sucesso, memórias falsas podem conflitar com outras memórias (reais) a não ser que estas também sejam apagadas. Personagens que receberam uma memória falsa podem fazer uma Prova de INT para identificar uma memória como fabricada ou incorreta, se eles tiverem uma razão para duvidar dela.
+Adicionar ou substituir memórias é uma operação muito mais complicada e requer que tais memórias sejam copiadas de alguém que as vivenciou ou sejam fabricadas com programas de XP. Quando são implantadas com sucesso, memórias falsas podem conflitar com outras memórias (reais) a não ser que estas também sejam apagadas. Personagens que receberam uma memória falsa podem fazer uma Prova de INT para identificar uma memória como fabricada ou incorreta, se eles tiverem uma razão para duvidar dela.
 
 ## Avaliação Mental
 

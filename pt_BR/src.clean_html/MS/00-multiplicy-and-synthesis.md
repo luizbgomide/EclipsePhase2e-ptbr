@@ -1,3 +1,0 @@
-# Multiplicidade & Síntese
-
-<!-- TOC PLACEHOLDER -->

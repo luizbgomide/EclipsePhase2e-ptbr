@@ -28,7 +28,7 @@ As contas de segurança destinam-se ao pessoal de segurança e ILAs que vigiam o
 
 ### Contas de Administrador
 
-As contas de administrador fornecem controle completo ("root") sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer software. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e dispositivos de hardware, esta conta root geralmente pertence à pessoa na qual eles estão incorporados.
+As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer programa. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e aparelhos, esta conta root geralmente pertence à pessoa a qual eles estão incorporados.
 
 ## Métodos de Autenticação
 
@@ -52,7 +52,7 @@ Alguns sistemas aceitam sua mesh ID como autenticação. Isso é extremamente co
 
 ### Outra Conta
 
-Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Esse também é o método usados para [dispositivos escravos](../13/02-mesh-topology.md#slaved-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos escravos. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
+Se você tem acesso a uma conta em um sistema ou serviço, e está logado, isso pode dar acesso automático a contas em sistemas ou serviços relacionados. Por exemplo, ter uma conta com um portal de rede social pode dar acesso gratuito a determinados fluxos de notícias online ou arquivos de dados comerciais. Esse também é o método usados por [dispositivos subordinados](../13/02-mesh-topology.md#puppeted-devices), em que o acesso ao dispositivo mestre automaticamente fornece acesso aos dispositivos subordinados. Os hackers preferem it atrás de contas de mestre como uma forma de acessar outros sistemas.
 
 ### Senha
 
@@ -60,7 +60,7 @@ O método de autenticação mais comum é a senha — uma sequência de caracter
 
 ### Chave de Acesso
 
-Sistema de chave de acesso pedem um código criptografado que está incorporado em um dispositivo físico (que está implantado ou fisicamente conectado a um ecto) ou extraído de um software especializado. As chaves de acesso avançadas combinam criptografia integrada com nanotecnologia de gravação física para criar uma chave única. Para acessar esses sistemas, a chave de acesso deve ser adquirida ou de alguma forma mascarada.
+Sistema de chave de acesso pedem um código criptografado que está incorporado em um dispositivo físico (que está implantado ou fisicamente conectado a um ecto) ou extraído de um programa especializado. As chaves de acesso avançadas combinam criptografia integrada com nanotecnologia de gravação física para criar uma chave única. Para acessar esses sistemas, a chave de acesso deve ser adquirida ou de alguma forma mascarada.
 
 ### Chave Quântica
 
@@ -92,7 +92,7 @@ Existem dois tipos de criptografia comumente usadas em Eclipse Phase: chave púb
 
 ### Criptografia de Chave Pública
 
-Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Criptoanálise Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps de farejamento exploram falhas na implementação do protocolo que lhes permite capturar, contornar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
+Em sistemas de chave pública, você gera duas chaves, uma chave pública e uma chave secreta. Você dá a chave pública aos seus amigos ou simplesmente posta-a na mesh. Os outros podem usar sua chave pública para criptografar mensagens para você que somente a sua chave secreta — controlada por você — pode descriptografar. A criptografia de chave pública é amplamente utilizada para criptografar arquivos. Devido à força dos algoritmos de sistemas de chaves públicas, essas criptografias são essencialmente inquebráveis sem um computador quântico ([Quebra de Código Quântica](../13/05-authentication-and-encryption.md#quantum-codebreaking)). Criptografia de chave pública também é usada em VPNs, mas apps de farejamento exploram falhas na implementação do protocolo que lhes permite capturar, contornar, ou mascarar as chaves de criptografia sem realmente quebrá-las.
 
 ### Criptografia de Chave Quântica
 
@@ -100,10 +100,10 @@ Sistema de distribuição de chave quântica usam mecânica quântica para permi
 
 Embora os sistemas de chaves quânticas tenham uma vantagem sobre os sistemas de chave pública, eles são mais caros e menos práticos. Para gerar uma chave quântica, os dois dispositivos de comunicação devem estar entrelaçados em nível quântico no mesmo local, e depois separados. Isso significa que os canais de comunicação com criptografia quântica exigem algum esforço de preparação, especialmente se longas distâncias estiverem envolvidas. Como resultado, os protocolos de criptografia quântica são reservados para ligações de comunicação de alta segurança.
 
-### Criptoanálise
+### Quebra de Código
 
-O que isto significa é que os arquivos criptografados com chaves públicas são relativamente seguros e as comunicações com criptografia quântica são completamente seguras. Os MJs devem reparar que isso pode ser útil para os PCs, mas também pode atrapalhá-los. Se os PCs precisarem de algo que está criptografado, eles podem precisar implementar métodos sem hackeamento para obter a chave secreta/senha ou encontrar alguma maneira de contornar completamente a criptografia.
+O que tudo isso significa é que os arquivos criptografados com chaves públicas são relativamente seguros e as comunicações com criptografia quântica são completamente seguras. Os MJs devem reparar que isso pode ser útil para os PCs, mas também pode atrapalhá-los. Se os PCs precisarem de algo que está criptografado, eles podem precisar implementar métodos além de hackeamento para obter a chave secreta/senha ou encontrar alguma maneira de contornar completamente a criptografia.
 
-### Criptoanálise Quântica
+### Quebra de Código Quântica
 
 Os computadores quânticos podem ser usados para quebrar a criptografia de chave pública. Essa é uma ação de tarefa de Infoseg com um prazo de 1 semana. Uma vez iniciado, o computador quântico finaliza o trabalho por conta própria; não é necessária uma supervisão constante. Esse processo não se beneficia de simulespaços de tempo acelerado. Os MJs devem modificar esse prazo para se encaixar nas necessidades de seus jogos. Observe que os computadores quânticos não podem quebrar as comunicações com criptografia quântica, somente arquivos criptografados com chaves públicas.

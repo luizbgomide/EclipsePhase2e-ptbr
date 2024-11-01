@@ -1,6 +1,6 @@
 # Contramedidas
 
-A luta contínua entre hackers e a segurança eletrônica é melhor descrita como uma corrida armamentista em constante evolução. Os hackers continuamente encontram e compartilham novas violações que permitem subverter novos sistemas, os fornecedores de software lançam atualizações de correções instaladas automaticamente para tapar os buracos, em uma repetição sem fim. Os administradores de sistema e hackers de segurança possuem várias de opções para lidar com invasores, mas o nível de segurança de um sistema pode variar desde inexistente até extremamente hostil.
+A luta contínua entre hackers e a segurança eletrônica é melhor descrita como uma corrida armamentista em constante evolução. Os hackers continuamente encontram e compartilham novas violações que permitem subverter novos sistemas, os fornecedores de programas lançam atualizações de correções instaladas automaticamente para tapar os buracos, em uma repetição sem fim. Os administradores de sistema e hackers de segurança possuem várias de opções para lidar com invasores, mas o nível de segurança de um sistema pode variar desde inexistente até extremamente hostil.
 
 ## Firewall
 
@@ -30,7 +30,7 @@ Os MJs pode pedir um Teste de Hackeamento sempre que sentirem que um hacker pode
 
 ## Defensor do Sistema
 
-O firewall é apenas a primeira linha de defesa. Quase todos os sistemas também são monitorados por um ente conhecido como _defendor do sistema_. Para a maioria dos dispositivos, este é a ILA residente. Personagens com perícia em Infoseg geralmente protegem suas próprias PANs; os que não têm, dependem de suas musas. Equipes operacionais dedicadas muitas vezes deixam suas PANs escravas ao hacker do grupo, que pode supervisionar a segurança do grupo todo.
+O firewall é apenas a primeira linha de defesa. Quase todos os sistemas também são monitorados por um ente conhecido como _defendor do sistema_. Para a maioria dos dispositivos, este é a ILA residente. Personagens com perícia em Infoseg geralmente protegem suas próprias PANs; os que não têm, dependem de suas musas. Equipes operacionais dedicadas muitas vezes subordinam suas PANs ao hacker do grupo, que pode supervisionar a segurança do grupo todo.
 
 Os defensores do sistema têm privilégios de segurança, ou até de administrador. Se um alerta passivo ou ativo for acionado, eles são informados. Os defensores são responsáveis por ativar contramedidas não automáticas.
 
@@ -104,19 +104,19 @@ O defensor pode tentar travar o console de conta de um invasor que foi descobert
 
 ### Reinicializar/Desligar
 
-A opção nuclear para lidar com um intruso é reinicializar ou desligar o sistema. Nesse caso, o sistema fecha todas as conexões com outros sistemas, desloga os usuários, encerra todos os processos e se desliga — expulsando assim o invasor (pelo menos temporariamente). A desvantagem, é claro, é que o sistema deve interromper suas atividades. Por exemplo, desligar seus insertos da mesh significa perder toda a comunicação com os companheiros de equipe, acesso à realidade aumentada e controle sobre dispositivos escravos/vinculados. O invasor pode tentar acessar o sistema quando ele for reinicializado, mas se ele não tiver credenciais de conta ou uma brecha, ele vai precisar hackear novamente. Os defensores remotos também precisarão fazer uma ação para logar de volta.
+A opção nuclear para lidar com um intruso é reinicializar ou desligar o sistema. Nesse caso, o sistema fecha todas as conexões com outros sistemas, desloga os usuários, encerra todos os processos e se desliga — expulsando assim o invasor (pelo menos temporariamente). A desvantagem, é claro, é que o sistema deve interromper suas atividades. Por exemplo, desligar seus insertos da mesh significa perder toda a comunicação com os companheiros de equipe, acesso à realidade aumentada e controle sobre dispositivos subordinados/vinculados. O invasor pode tentar acessar o sistema quando ele for reinicializado, mas se ele não tiver credenciais de conta ou uma brecha, ele vai precisar hackear novamente. Os defensores remotos também precisarão fazer uma ação para logar de volta.
 
 Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o processo de desligamento real leva 1d6 turnos de ação (ciscos e terminais) ou 1d6 minutos (servidores). A reinicialização demora uma quantidade de tempo equivalente.
 
 Os usuários logados (incluindo invasores) são avisados quando uma reinicialização ou desligamento foi iniciada. Uma vez iniciado, o processo de desligamento não pode ser interrompido, mas pode ser prolongado por 1d6 turnos de ação com uma ação complexa; isso requer privilégios de segurança/administrador ou um Teste de Infoseg.
 
-**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento "direto" também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
+**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento “direto” também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
 
 ### Encerrar Conexões
 
 **\[Automática\]**
 
-Uma alternativa para o desligamento ou reinicialização é simplesmente cortar todas as conexões (geralmente desativando temporariamente as capacidades sem fio do dispositivo e indo para "modo avião"). O sistema perde todas as conexões ativas, mas quaisquer invasores são removidos. O encerramento usa uma ação complexa para ser iniciado e finaliza no fim deste turno de ação. A conectividade pode ser configurada para ser restaurada no próximo turno de ação, em um período de tempo definido, ou apenas quando iniciada por um administrador local. Reiniciar a conectividade leva um turno de ação. Qualquer usuário remoto precisará logar de novo; invasores sem credenciais adequadas precisarão hackear o sistema novamente. Enquanto as conexões estão encerradas, o sistema não pode se comunicar e interagir com outros sistemas.
+Uma alternativa para o desligamento ou reinicialização é simplesmente cortar todas as conexões (geralmente desativando temporariamente as capacidades sem fio do dispositivo e indo para “modo avião”). O sistema perde todas as conexões ativas, mas quaisquer invasores são removidos. O encerramento usa uma ação complexa para ser iniciado e finaliza no fim deste turno de ação. A conectividade pode ser configurada para ser restaurada no próximo turno de ação, em um período de tempo definido, ou apenas quando iniciada por um administrador local. Reiniciar a conectividade leva um turno de ação. Qualquer usuário remoto precisará logar de novo; invasores sem credenciais adequadas precisarão hackear o sistema novamente. Enquanto as conexões estão encerradas, o sistema não pode se comunicar e interagir com outros sistemas.
 
 ### Rastrear
 
@@ -134,7 +134,7 @@ Os sistemas preocupados com sua segurança são submetidos a auditorias regularm
 
 Cada sistema é único e lida com a segurança de forma diferente. O MJ determina as configurações de cada sistema.
 
-**Ciscos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são escravos de um nodo controlador "gargalo" com melhor segurança (esse é o caso na maioria das PANs).
+**Ciscos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são subordinados de um nodo controlador de "gargalo" com melhor segurança (esse é o caso na maioria das PANs).
 
 **Terminais** têm defesas que dependem em grande parte da consciência de segurança de seu proprietário. As musas agem como defensoras do sistema para insertos da mesh e ectos.
 

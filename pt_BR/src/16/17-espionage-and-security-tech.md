@@ -19,7 +19,7 @@ Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 | Máscara de Prisioneiro                 |                 Men/1                 | Bloqueia visão/audição aprimorada, bloqueia sinais de mesh/radio.                                     |
 | Cápsula Privativa                      |                 Mai/3                 | Bloqueia sons e sinais da mesh, inclui fritador, enxame guardião, suporte vital (24 horas).           |
 | Bloqueador de Psi                      |                 Mod/2                 | Bloqueia frequências de ondas cerebrais a até 20&nbsp;m, −30 em Testes Psi.                           |
-| Computador Quântico                    |                 Mai/3                 | Usado para [criptoanálise](../13/05-authentication-and-encryption.md#codebreaking).                   |
+| Computador Quântico                    |                 Mai/3                 | Usado para [quebra de código](../13/05-authentication-and-encryption.md#codebreaking).                |
 | Devassador                             |                Mod/R/2                | PEM a cada 5 turnos, VD 3d10 em nanoenxames/microenxames.                                             |
 | Túnica                                 |                Mod/R/2                | Bloqueia métodos de identificação, sinais da mesh.                                                    |
 | Almofadas de Tração                    |                 Mod/2                 | +30 em Testes de Atletismo para escalada.                                                             |
@@ -46,7 +46,7 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 
 **Desativador:** Este dispositivo prático emite um surto de sobrecarga que incapacita completamente um morfo com cibercérebro quando ele é plugado em um soquete de acesso e ativado. Para plugar um desativador em um alvo involuntário, você primeiro deve agarrá-lo ou fazer um ataque preciso em combate de luta. Este dispositivo não funciona em morfos, bots ou veículos sem cibercérebros.
 
-**Olho de Fibra:** Isto é cabo flexível de fibra óptica de 5 metros com uma câmera em uma ponta e um visualizador na outra. Ele pode ser manejado através de fendas, por baixo de portas, e por trás de quinas para espiar discretamente. Ele pode ser controlado remotamente/eletronicamente, embora o seu movimento seja limitado.
+**Olho de Fibra:** Isto é cabo flexível de fibra óptica de 5 metros com uma câmera em uma ponta e um visualizador na outra. Ele pode ser conduzido através de fendas, por baixo de portas, e por trás de quinas para espiar discretamente. Ele pode ser controlado remotamente/eletronicamente, embora o seu movimento seja limitado.
 
 **Caixa Cinza:** Esta interface sem fio de tamanho micro é usada para criar uma ligação da mesh sem fio com um dispositivo desconectado, cabeado ou isolado. As caixas cinza automaticamente [camuflam seus sinais](../13/04-devices-apps-and-links.md#stealthed-signals).
 
@@ -62,9 +62,9 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 
 **Bloqueador de Psi:** Este dispositivo bloqueia as frequências usadas pelas ondas cerebrais em um raio de 20 metros. Isso não tem efeito nas funções cerebrais, mas ele inflige um modificador −30 no uso de qualquer truque psi de distância dentro da área de efeito.
 
-**Computador Quântico:** Estes dispositivos de mesa avançados usam computação quântica, permitindo que eles trabalhem com números extremamente grandes com facilidade. Isso os torna úteis especialmente para [criptoanálise](../13/05-authentication-and-encryption.md#codebreaking).
+**Computador Quântico:** Estes dispositivos de mesa avançados usam computação quântica, permitindo que eles trabalhem com números extremamente grandes com facilidade. Isso os torna úteis especialmente para [quebra de código](../13/05-authentication-and-encryption.md#codebreaking).
 
-**Devassador:** Quando ativado, este dispositivo portátil de contravigilância gera um pulso eletromagnético a cada 5 turnos de ação, projetado para danificar as antenas de ciscos e nanoenxames. Ele é usado para "devassar" os sensores em uma área, destruindo sua habilidade de comunicação sem fio e criando [zonas mortas](../13/19-surveillance-hacking.md#dead-zones). Os devassadores afetam todos os ciscos/enxames em um raio de 20 metros. Os ciscos devem ser reparados/substituídos; nanoenxames e microenxames (incluindo enxamenoides) sofrem VD 3d10 por pulso.
+**Devassador:** Quando ativado, este dispositivo portátil de contravigilância gera um pulso eletromagnético a cada 5 turnos de ação, projetado para danificar as antenas de ciscos e nanoenxames. Ele é usado para “devassar” os sensores em uma área, destruindo sua habilidade de comunicação sem fio e criando [zonas mortas](../13/19-surveillance-hacking.md#dead-zones). Os devassadores afetam todos os ciscos/enxames em um raio de 20 metros. Os ciscos devem ser reparados/substituídos; nanoenxames e microenxames (incluindo enxamenoides) sofrem VD 3d10 por pulso.
 
 **Túnica:** Este manto de privacidade de tecido inteligente oculta você como uma burca, ele endurece e relaxa aleatoriamente para confundir análise da maneira de andar, e altera aleatoriamente os padrões de calor. Ele emite feromônios, odorantes, e ruído branco, dissuadindo a identificação pelo cheiro e a escuta de conversas. Ela também funciona como uma gaiola de Faraday, bloqueando sinais da mesh e impedindo as transmissões de qualquer rastreador que você esteja carregando. As túnicas são uma forma aceitável de privacidade em alguns habitats, mas consideradas rudes ou ilegais em outros.
 

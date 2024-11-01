@@ -24,7 +24,7 @@ No espaço não há atmosfera para propagar a onda de choque explosiva; reduza o
 
 ### Desvio
 
-Armas como granadas devem ir para algum lugar quando elas erram, e você pode ainda pode pegar seu alvo dentro do raio de explosão. Para determinar onde cai um ataque falhado de área de efeito, role um d10. A direção que a ponta de cima do dado está apontando é a direção de desvio do ataque, considerando você como o alvo para fins de orientação. O resultado da rolagem do dado é a distância onde o ataque cai, em metros. Para cada falha maior, dobre a distância de desvio. Isso determina o epicentro da explosão; resolva o dano contra qualquer um pego dentro de seu raio de efeito da forma normal. Você pode precisar ajustar esse resultado em microgravidade ou outras situações onde as três dimensões importam, ou você pode rolar outro d10 para determinar a orientação no eixo z (sendo 1 "acima" do alvo, e 10 "abaixo").
+Armas como granadas devem ir para algum lugar quando elas erram, e você pode ainda pode pegar seu alvo dentro do raio de explosão. Para determinar onde cai um ataque falhado de área de efeito, role um d10. A direção que a ponta de cima do dado está apontando é a direção de desvio do ataque, considerando você como o alvo para fins de orientação. O resultado da rolagem do dado é a distância onde o ataque cai, em metros. Para cada falha maior, dobre a distância de desvio. Isso determina o epicentro da explosão; resolva o dano contra qualquer um pego dentro de seu raio de efeito da forma normal. Você pode precisar ajustar esse resultado em microgravidade ou outras situações onde as três dimensões importam, ou você pode rolar outro d10 para determinar a orientação no eixo z (sendo 1 “acima” do alvo, e 10 “abaixo”).
 
 ## Ataques Contra Indefesos
 
@@ -60,7 +60,7 @@ Um ataque preciso pode ser usado para atacar um local específico em seu oponent
 
 ## Armas Revestidas
 
-Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por ware como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#application-methods)).
+Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#application-methods)).
 
 ## Demolições
 

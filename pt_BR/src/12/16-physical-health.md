@@ -18,7 +18,7 @@ Para simplificar, uma quantia estática também está indicado entre parênteses
 
 Sua saúde física é medida pelo atribute Durabilidade do seu morfo. Para biomorfos, isso representa o ponto em que as lesões acumuladas o sobrecarregam e incapacitam. Quando o seu total de pontos de dano igualar ou exceder sua Durabilidade, você imediatamente cai de exaustão e abuso físico. Você ganha a [condição inconsciente](../12/21-other-action-factors.md#conditions) e não pode ser revivido até que seus pontos de dano sejam reduzidos abaixo de sua Durabilidade, seja por cuidados médicos ou cura natural.
 
-Para sintemorfos, a Durabilidade representa a integridade estrutural. Você se torna fisicamente desativado quando pontos de dano acumulados atingem sua Durabilidade e seu estado mental de software trava.
+Para sintemorfos, a Durabilidade representa a integridade estrutural. Você fica desativado fisicamente quando pontos de dano acumulados atingem sua Durabilidade e seu estado mental programático trava.
 
 Mesmo se você estiver inconsciente/desativado, seus insertos da mesh ainda podem funcionar ([Danos e Caronas Infomorfos](../13/15-hardware-damage.md#damage-and-infomorph-riders)).
 

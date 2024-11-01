@@ -39,7 +39,7 @@ Como um simulespaço é um mundo alternativo com sua própria realidade, o MJ es
 Os MJs também devem ter as seguintes regras em mente:
 
 - Os assincros não podem usar suas habilidades psi no simulespaço, embora tais habilidades possam ser simuladas.
-- Qualquer dano recebido no simulespaço é virtual. Lesões e ferimentos virtuais podem usar as mesmas mecânicas, mas personagens que morrem em um simulespaço geralmente são simplesmente ejetados da simulação. Em alguns casos, personagens "mortos" são trazidos para uma sala branca e podem entrar novamente ou apenas assistir a simulação, dependendo das regras de domínio.
+- Qualquer dano recebido no simulespaço é virtual. Lesões e ferimentos virtuais podem usar as mesmas mecânicas, mas personagens que morrem em um simulespaço geralmente são simplesmente ejetados da simulação. Em alguns casos, personagens “mortos” são trazidos para uma sala branca e podem entrar novamente ou apenas assistir a simulação, dependendo das regras de domínio.
 - O estresse mental ou o trauma infligido durante uma simulação é levado para o ego. O MJ pode querer reduzir as penalidades de VE em situações em que o personagem está ciente que ele está em uma simulação.
 - A parada de Vigor não pode ser usada no simulespaço.
 - A distorção temporal não tem efeito nas taxas de recarga das paradas — as paradas recarregam nos períodos normais, não importa se sua mente está sendo executada em velocidades mais rápidas ou mais lentas.

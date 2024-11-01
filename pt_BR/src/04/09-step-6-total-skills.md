@@ -38,7 +38,7 @@ As descrições completas das perícias estão em [Perícias](../04/18-skills.md
 
 **Infoseg (COG):** Hackear ou proteger dispositivos e redes.
 
-**Interface (COG):** Usar e compreender dispositivos eletrônicos, softwares, redes e sistemas de armas.
+**Interface (COG):** Usar e compreender dispositivos eletrônicos, programas, redes e sistemas de armas.
 
 **Cinésica (SAG):** Percepção da linguagem corporal, reações, sinais sociais e comunicação não verbal.
 
@@ -54,7 +54,7 @@ As descrições completas das perícias estão em [Perícias](../04/18-skills.md
 
 **Pilotagem (REF, Área):** Movimentação em um veículo ou morfo não humanoide ou não biomimético.
 
-**Programação (COG):** Escrever e modificar códigos de software. Usado também para nanofabricação, criação de ambientes de RV ou ilusões de RA.
+**Programação (COG):** Escrever e modificar códigos de programas. Usado também para nanofabricação, criação de ambientes de RV ou ilusões de RA.
 
 **Provocação (SAG):** Intimidação, zombaria, sedução ou qualquer uso da emoção para manipulação social.
 

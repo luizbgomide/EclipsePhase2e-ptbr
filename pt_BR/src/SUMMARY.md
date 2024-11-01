@@ -99,7 +99,7 @@
   - [Contramedidas](13/12-countermeasures.md)
   - [Subversão de Sistema](13/13-system-subversion.md)
   - [Combate na Mesh](13/14-mesh-combat.md)
-  - [Dano em Hardware](13/15-hardware-damage.md)
+  - [Dano em Aparelhos](13/15-hardware-damage.md)
   - [Defeitos](13/16-glitches.md)
   - [Hackeamento de Ware Mental](13/17-mindware-hacking.md)
   - [Realidade Virtual](13/18-virtual-reality.md)
@@ -137,7 +137,7 @@
   - [Ampliações Sociais](16/09-social-augmentations.md)
   - [Ampliações de Combate](16/10-combat-augmentations.md)
   - [Ampliações Físicas](16/11-physical-augmentations.md)
-  - [Meshware](16/12-meshware.md)
+  - [Meshwares](16/12-meshware.md)
   - [Apps & ILAs](16/13-apps-and-alis.md)
   - [Criaturas](16/14-creatures.md)
   - [Químicos, Drogas & Toxinas](16/15-chemicals-drugs-and-toxins.md)
@@ -149,6 +149,7 @@
   - [Robôs](16/21-robots.md)
   - [Veículos](16/22-vehicles.md)
 - [Conduzindo o Jogo](17/00-running-the-game.md)
+  - [Ad Astra](17/01-ad-astra.md)
 - [Ameaças & Riscos X](18/00-threats-and-x-risks.md)
 - [Apêndices](19/00-appendices.md)
   - [Glossário](19/01-glossary.md)
@@ -158,9 +159,12 @@
   - [Lista Completa de Morfos](19/05-complete-list-of-morphs.md)
   - [Regras Básicas](19/06-rules-primmer.md)
   - [Ficha de Personagem](19/07-character-sheet.md)
-- [Multiplicidade & Síntese](MS/00-multiplicy-and-synthesis.md)
+- [Compre o livro!](buy-the-book.md)
+- [Licença & Créditos](license.md)
 
----
+# Suplementos
 
-[Compre o livro!](buy-the-book.md)
-[Licença & Créditos](license.md)
+- [Multiplicidade & Síntese](SUPP/01-MS/00-multiplicy-and-synthesis.md)
+- [Opções para Personagens](SUPP/02-CO/00-character-options.md)
+  - [Trajetória de Vida](SUPP/02-CO/01/00-life-path-character.md)
+  - [Guia de Reconhecimento de Morfos](SUPP/02-CO/03/00-morph-recognition-guide.md)

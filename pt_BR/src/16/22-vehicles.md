@@ -9,7 +9,7 @@ Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots
 | TODOS OS VEÍCULOS                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A menos que indicado o contrário, todos os veículos estão equipados com os seguintes hardwares, além daqueles listados em suas descrições específicas:                                               |
-| <ul class="stat-list indent"><li>**Ware:** Insertos da Mesh, Luva de Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
+| <ul class="stat-list indent"><li>**Wares:** Insertos da Mesh, Manípulo Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
 | Além disso, veículos com compartimentos fechados são selados/pressionados e possuem um Respirador (submerso ou atmosfera com dióxido de carbono) ou Suporte Vital (48 horas).                        |
 | Os veículos projetados para Mercúrio possuem Proteção Termogênica, os veículos venusianos possuem Adaptação de Pressão e Proteção Termogênica, e os veículos titanianos possuem Proteção Criogênica. |
 
@@ -41,7 +41,7 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 <tr><td>Jato Pequeno<td>Raro/—<td>6<td>2<td>0<td>12/10<td>40<td>200<td>400<td>—<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Ware:** Autocozedor, Sinalizador de Emergência
+- **Wares:** Autocozedor, Sinalizador de Emergência
 
 </div></tr>
 <tr><td>Helicóptero Utilitário<td>Raro/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rotor 8/32<td>MG</tr>
@@ -101,7 +101,7 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 <tr><td>Rover<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Ware:** Autocozedor, Fabro Grande, Laboratório de Bolso
+- **Wares:** Autocozedor, Fabro Grande, Laboratório de Bolso
 
 </div></tr>
 </table>
@@ -128,28 +128,28 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta, dobra distância de salto
-- **Ware:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Suporte de Arma (2 Articulados/Ocultos, 2 Estáticos/Ocultos), Suporte Vital (1 semana), Utilimod, Visor
+- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Suporte de Arma (2 Articulados/Ocultos, 2 Estáticos/Ocultos), Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
 <tr><td>Traje Ambiental<td>Mai/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>Marcha 4/20, Submerso 8/32<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
-- **Ware:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Proteção Criogênica, Proteção Termogênica, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod, Visor
+- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Proteção Criogênica, Proteção Termogênica, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
 <tr><td>Traje de Mergulho Espacial<td>Mai/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
-- **Ware:** Absorção de Radar, Amplificador de Rádio, Proteção Termogênica, Suporte Vital (1 semana), Visor
+- **Wares:** Absorção de Radar, Amplificador de Rádio, Proteção Termogênica, Suporte Vital (1 semana), Visor
 
 </div></tr>
 <tr><td>Traje Rígido Padrão<td>Raro/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20<td>G</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta
-- **Ware:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod
+- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod
 
 </div></tr>
 </table>
@@ -171,7 +171,7 @@ Estes veículos desafiam as classificações, pois são projetados para lidar co
  <tr><td>VEG<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20, Rodas 8/40, Submerso 8/32<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Ware:** Autocozedor, Farejador Químico, Audição Aprimorada, Visão Aprimorada, Fabro Grande, Suporte Vital (1 mês), Tanque de Cura, Adaptação de Pressão, Sensor Portátil (Telescópio)
+- **Wares:** Autocozedor, Farejador Químico, Audição Aprimorada, Visão Aprimorada, Fabro Grande, Suporte Vital (1 mês), Tanque de Cura, Adaptação de Pressão, Sensor Portátil (Telescópio)
 
 </div></tr>
 <tr><td>Buggy-Foguete<td>Mai/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Rodas 8/40<td>G</tr>
@@ -190,7 +190,7 @@ Dentro do Sistema Solar, as embarcações náuticas são usadas para os mares me
  <tr><td>Mini-Sub<td>Raro/—<td>4<td>1<td>0<td>12/10<td>50<td>250<td>500<td>8/32 Submerso<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Ware:** Adaptação de Pressão, Autocozedor, Proteção Criogênica, Respirador, Sonar
+- **Wares:** Adaptação de Pressão, Autocozedor, Proteção Criogênica, Respirador, Sonar
 
 </div></tr>
 </table>
@@ -219,7 +219,7 @@ Apesar da egoprojeção e nanofabricação terem reduzido a necessidade, as espa
 
 Espaçonaves são pilotadas com Pilotagem: Espacial e reparadas com Aparelhagem: Aeroespacial.
 
-As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas principalmente como ambientação em vez de veículos. Observe também que nenhum atributo é dado para o armamento das espaçonaves. É altamente recomendável que o combate espacial seja tratado como um dispositivo da trama em vez de uma cena de combate, dada a extrema letalidade e o perigo envolvidos. Se você precisa saber o VD de uma arma de espaçonave, trate-a como uma arma padrão com um multiplicador de VD x3 para naves pequenas (caças e ônibus), x5 para naves médias, e x10 para naves grandes.
+As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas principalmente como ambientes em vez de veículos. Observe também que nenhum atributo é dado para o armamento das espaçonaves. É altamente recomendável que o combate espacial seja tratado como um dispositivo da trama em vez de uma cena de combate, dada a extrema letalidade e o perigo envolvidos. Se você precisa saber o VD de uma arma de espaçonave, trate-a como uma arma padrão com um multiplicador de VD x3 para naves pequenas (caças e ônibus), x5 para naves médias, e x10 para naves grandes.
 
 | ESPAÇONAVES      | Comp/<wbr>PE |   Pass   | Vigor | Flex | Armadura | LF  |  DUR  |  GD   |                    Movimento                    |
 |:---------------- |:-------------------------------------:|:--------:|:-----:|:----:|:--------:|:---:|:-----:|:-----:|:-----------------------------------------------:|
@@ -233,7 +233,7 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 | Ônibus (Pequeno) |                Raro/—                 |   5–20   |   0   |  0   |  20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
 | Transporte       |                Raro/—                 |   100+   |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
 
-**Graneleiro:** Esta nave é longa e estreita, com foguetes de fusão em um ponta e o cockpit e alojamento da tripulação na outra. Os módulos de frete contendo carga são presos ao longo da espinha. Um par de elevadores de carga com câmaras de ar se movem dentro da espinha. Os graneleiros transportam minérios refinados, gelo, e cargas similares grandes e úteis mas de baixa prioridade em velocidades relativamente baixas. Eles também são um método barato, confiável e lento para passageiros viajarem de um habitat para outro, e são usados ocasionalmente por indivíduos que desejam desaparecer por um tempo. Os graneleiros não possuem anéis de habitação rotativos, e são tripulados principalmente por hibernoides, ricochetes e sintemorfos.
+**Graneleiro:** Esta nave é longa e estreita, com foguetes de fusão em um ponta e o cockpit e alojamento da tripulação na outra. Os módulos de frete contendo carga são presos ao longo da espinha. Um par de elevadores de carga com câmaras de ar se movem dentro da espinha. Os graneleiros transportam minérios refinados, gelo, e cargas similares grandes e úteis mas de baixa prioridade em velocidades relativamente baixas. Eles também são um método barato, confiável e lento para passageiros viajarem de um habitat para outro, e são usados ocasionalmente por indivíduos que desejam desaparecer por um tempo. Os graneleiros não possuem anéis de habitação rotativos, e são tripulados principalmente por hibernoides, quicantes e sintemorfos.
 
 **Expresso:** Com seu motores de antimatéria, estes entregadores expressos podem cruzar o Sistema Solar em questão de dias ou semanas. Eles são reservados para cargas críticas e de alto valor.
 

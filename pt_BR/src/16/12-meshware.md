@@ -1,8 +1,8 @@
-# Meshware
+# Meshwares
 
-Meshware se refere a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioware e hardware para morfos físicos. Um meshware exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshware permanece com o infomorfo quando ele é movido ou copiado. Os meshwares também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshware, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshwares não podem ser usados por não infomorfos ou usuários sem cibercérebros.
+Meshwares referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como biowares e equipawares para morfos físicos. Um meshware exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshware permanece com o infomorfo quando ele é movido ou copiado. Os meshwares também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshwares, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshwares não podem ser usados por não infomorfos ou usuários sem cibercérebros.
 
-| MESHWARE             | Comp/<wbr>PE | Descrição                                                                                          |
+| MESHWARES            | Comp/<wbr>PE | Descrição                                                                                          |
 |:-------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                  |
 | Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                           |

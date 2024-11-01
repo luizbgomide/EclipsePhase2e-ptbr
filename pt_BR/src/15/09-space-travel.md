@@ -2,7 +2,7 @@
 
 Viagens espaciais de longa distância levam tempo e são entediantes. Você vai preferir egoprojetar na maioria das vezes, a menos que você seja um bioconservador, esteja tentando ser discreto, ou em uma região com habitats próximos.
 
-Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambientação em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circunstâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
+Em Eclipse Phase, uma espaçonave é tratada principalmente como um ambiente do cenário em vez de um veículo/equipamento para ser usado. A maioria das naves é pilotada por ILA e mantidas automaticamente por robôs. No entanto, em certas circunstâncias você pode ser chamado para navegar ou pilotar uma nave com Pilotagem: Espacial, repará-la com Aparelhagem: Aeroespacial, ou controlar sensores, funções da nave e armamentos com Interface.
 
 ## Viagem Local
 
@@ -18,7 +18,7 @@ Espaçonaves usam motores a reação ([Propulsão de Espaçonaves](../15/09-spac
 
 Apesar de algumas naves queimarem aproximadamente metade da sua massa de reação para obterem a melhor velocidade possível, isso não deixa muita margem para manobras adicionais ou emergências. Então, muitas naves queimam apenas uma fração do seu combustível nas acelerações iniciais, para que elas tenham alguma reserva caso precisem. Alguns truques podem ser usados para economizar combustível e aumentar a velocidade, como manobras de estilingue ao redor de poços gravitacionais de grandes planetas ou aerofrenagem na atmosfera superior de um planeta.
 
-As naves operam em zero-g, com exceção de módulos de habitat (geralmente transportados apenas por grandes naves) que são rotacionados para ter uma baixa gravidade simulada. Períodos de alta aceleração/desaceleração também podem produzir "gravidade" temporária para baixo, em direção à queima.
+As naves operam em zero-g, com exceção de módulos de habitat (geralmente transportados apenas por grandes naves) que são rotacionados para ter uma baixa gravidade simulada. Períodos de alta aceleração/desaceleração também podem produzir “gravidade” temporária para baixo, em direção à queima.
 
 O espaço é uma mercadoria valiosa a bordo de uma espaçonave, então os cômodos são apertados. Quartos pessoais e de dormir raramente são maiores que armários grandes, com espaço suficiente para um saco de dormir e objetos pessoais. Dependendo do tamanho da nave, pode haver uma área comum de recreação. A tripulação tende ficar ocupada apenas no início e no final da viagem, quando eles devem lidar com a aceleração/desaceleração e manobrar no tráfego espacial. O resto da viagem eles passam cuidando de reparos ou matando o tempo com XP, simulações em RV ou jogos de RA. A espaçonave possui sua própria mesh local, mas elas geralmente estão longes demais para interagir com as redes mesh de outros habitats sem um atraso significativo nas comunicações, então eles precisam se virar com seu próprio arquivo de opções de entretenimento. Muitas naves de longa distância são tripuladas por morfos hibernoides, que se aquietam em longos cochilos entres os serviços.
 

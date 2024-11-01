@@ -8,7 +8,7 @@ Além de exceder seus privilégios, há algumas técnicas que são explicitament
 
 ## Quebrar Criptografia
 
-Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Criptoanálise](../13/05-authentication-and-encryption.md#codebreaking)).
+Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
 
 ## Controlar Ware
 
@@ -32,7 +32,7 @@ Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a
 
 ## Esconder Arquivo ou Processo
 
-É possível ocultar a presença de um arquivo, elemento de código ou até mesmo um app, script ou outro processo de software ativo. Isso usa uma ação complexa e um Teste de Infoseg; anote o resultado. Qualquer um que tente encontrar esse arquivo ou processo posteriormente deve vencer o seu resultado com um Teste Oposto de Pesquisa com −30.
+É possível ocultar a presença de um arquivo, elemento de código ou até mesmo um app, script ou outro processo programático ativo. Isso usa uma ação complexa e um Teste de Infoseg; anote o resultado. Qualquer um que tente encontrar esse arquivo ou processo posteriormente deve vencer o seu resultado com um Teste Oposto de Pesquisa com −30.
 
 ## Debilitar os Sentidos
 
@@ -84,7 +84,7 @@ Você pode tentar desligar um alerta passivo vencendo um Teste de Hackeamento. O
 
 ## Suprimir Processo
 
-Muitas técnicas de hackeamento são imediatas — você desativa uma função, mata o app, encerra a conexão, etc. — e depois segue em frente. A interrupção é temporária; o defensor do sistema ou outro usuário pode simplesmente reiniciar o processo. Alguns sistemas são projetados para automaticamente reiniciar certos processos por conta própria (a critério do MJ). Para evitar que o processo seja reiniciado, você precisa excluir o software subjacente do sistema (geralmente exigindo privilégios de administrador; [Modificar Software](../13/06-mesh-actions.md#admin-actions)) ou você deve suprimir ativamente o processo.
+Muitas técnicas de hackeamento são imediatas — você desativa uma função, mata o app, encerra a conexão, etc. — e depois segue em frente. A interrupção é temporária; o defensor do sistema ou outro usuário pode simplesmente reiniciar o processo. Alguns sistemas são projetados para automaticamente reiniciar certos processos por conta própria (a critério do MJ). Para evitar que o processo seja reiniciado, você precisa excluir o programa subjacente do sistema (geralmente exigindo privilégios de administrador; [Modificar Programa](../13/06-mesh-actions.md#admin-actions)) ou você deve suprimir ativamente o processo.
 
 Suprimir um processo requer uma ação complexa a cada turno de ação. Isso vai combater as tentativas automáticas do sistema de reiniciar o processo. Qualquer um que deseje reiniciar o processo deve derrotá-lo com sucesso em um Teste Oposto de Infoseg, embora o processo possa ser encerrado novamente… a menos que o encerramento seja restringido.
 

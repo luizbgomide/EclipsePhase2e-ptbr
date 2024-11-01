@@ -1,6 +1,6 @@
 # Ações de Recesso
 
-Nem todos as ações do seu personagem acontecem em missões ou aventuras. Entre os momentos de investigação, tensões e violência, você pode querer se melhorar, trabalhar em projetos ou construir uma vida social. Esta seção cobre uma série de possíveis ações de recesso que você pode realizar, embora você possa discutir com seu MJ outras opções.
+Nem todas as ações do seu personagem acontecem em missões ou aventuras. Entre os momentos de investigação, tensões e violência, você pode querer se melhorar, trabalhar em projetos ou construir uma vida social. Esta seção cobre uma série de possíveis ações de recesso que você pode realizar, embora você possa discutir com seu MJ outras opções.
 
 O recesso normalmente é contado em semanas. A cada semana, escolha uma ação de recesso. Isso assume que seu personagem também está ocupado com outras atividades: socializando, trabalhos domésticos, vida noturna, relaxando, jogando jogos, e perseguindo outras atividades mundanas da vida. Se você está focado completamente excluindo todo o resto e/ou está usando simulespaço de tempo acelerado, o MJ pode diminuir essa duração, ao mínimo de 1 dia por ação de recesso.
 
@@ -8,7 +8,7 @@ O recesso normalmente é contado em semanas. A cada semana, escolha uma ação d
 
 ## Adquirir/Fazer Coisas
 
-Você pode querer estocar equipamento para a próxima missão, ou simplesmente preparar depósitos de equipamento, bolsas de fuga e provisões de emergência. Se você tem o traço Recursos, use sua cota semanal de Pontos de Equipamento. Se não, você tem 2&nbsp;PE para gastar. Itens Raros e Restritos só estão disponíveis a critério do MJ. Se estabelecer depósitos ("partições temporárias" na Firewall), certifique-se de combinar com seu MJ onde e como eles estão escondidos.
+Você pode querer estocar equipamento para a próxima missão, ou simplesmente preparar depósitos de equipamento, bolsas de fuga e provisões de emergência. Se você tem o traço Recursos, use sua cota semanal de Pontos de Equipamento. Se não, você tem 2&nbsp;PE para gastar. Itens Raros e Restritos só estão disponíveis a critério do MJ. Se estabelecer depósitos (“partições temporárias” na Firewall), certifique-se de combinar com seu MJ onde e como eles estão escondidos.
 
 Enquanto estar preparado é um coisa inteligente, os MJs devem conter os jogadores que tentam acumular tudo o que puderem adquirir. Tal comportamento não é realista e certamente levaria o personagem a se afastar de seus amigos ou queimar rep ou Recursos.
 
@@ -18,7 +18,7 @@ Enquanto estar preparado é um coisa inteligente, os MJs devem conter os jogador
 
 ## Cumprir Responsabilidades
 
-Você não pode gastar todo o seu tempo salvando o Sistema Solar. Você pode ter dívidas para pagar, contatos para manter, e obrigações a cumprir. Talvez você tenha família e amigos para se relacionar, um chefe para responder, ou trampos freelancer que estão se acumulando. Embora não haja um efeito direto de jogo para esse tipo de atividade, ela ajuda a amarrar pontas soltas de cenários anteriores e manter os relacionamentos com PNJs. A critério do MJ, isso pode ser o trabalho necessário para adquirir um [traço Contato](../04/28-traits.md#contact).
+Você não pode gastar todo o seu tempo salvando o Sistema Solar. Você pode ter dívidas para pagar, contatos para manter, e obrigações a cumprir. Talvez você tenha família e amigos para se relacionar, um chefe para responder, ou trampos freelancer que estão se acumulando. Embora não haja um efeito direto de jogo para esse tipo de atividade, ela ajuda a amarrar pontas soltas de aventuras anteriores e manter os relacionamentos com PNJs. A critério do MJ, isso pode ser o trabalho necessário para adquirir um [traço Contato](../04/28-traits.md#contact).
 
 ## Gerenciar Sua Rep
 
@@ -28,13 +28,13 @@ Alternativamente, você pode evitar esse teste e apenas gastar Pontos de Rez. Ca
 
 ## Modificar-se
 
-Você tem a opção de aprimorar um morfo existente com ware. Você pode usar ware adquirido previamente mas não instalado, ou escolher novos wares (1 de complexidade Moderada ou 2 de complexidade Menor). A modificação inclui o tempo necessário em um tanque de cura com profissionais médicos supervisionando ou com o nanofabro e os técnicos de uma oficina de mods.
+Você tem a opção de aprimorar um morfo existente com wares. Você pode usar wares adquiridos previamente e não instalados, ou escolher novos wares (1 de complexidade Moderada ou 2 de complexidade Menor). A modificação inclui o tempo necessário em um tanque de cura com profissionais médicos supervisionando ou com o nanofabro e os técnicos de uma oficina de mods.
 
-Tenha em mente que um de seus próximos cenários pode requerer um reencape — verifique com seu MJ antes de escolher essa opção.
+Tenha em mente que uma de suas próximas aventuras pode exigir um reencape — verifique com seu MJ antes de escolher essa opção.
 
 ## Treinar e Melhorar
 
-Conforme você completa cenários e acumula experiência durante o jogo, você acumula [Pontos de Rez](../17/08-rez-and-rep-rewards.md#rez-points). Você pode gastar seu tempo de recesso treinando e usar esses Pontos de Rez para melhorar os atributos do seu personagem. Você não pode gastar mais de 1&nbsp;PR em melhorias por semana de recesso.
+Conforme você completa aventuras e acumula experiência durante o jogo, você acumula [Pontos de Rez](../17/08-rez-and-rep-rewards.md#rez-points). Você pode gastar seu tempo de recesso treinando e usar esses Pontos de Rez para melhorar os atributos do seu personagem. Você não pode gastar mais de 1&nbsp;PR em melhorias por semana de recesso.
 
 <blockquote class="table">
 

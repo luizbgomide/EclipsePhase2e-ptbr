@@ -1,12 +1,12 @@
-# Dano em Hardware
+# Dano em Aparelhos
 
 Os equipamentos da mesh variam de ciscos baratos e vulneráveis a servidores duráveis e autorreparáveis. Eles são tratados exatamente como outros objetos para fins de combate físico ([Objetos & Estruturas](../12/26-objects-and-structures.md)).
 
 Se um dispositivo estiver danificado fisicamente, há uma chance de 10% de sofrer um [defeito](../13/16-glitches.md). Se o dispositivo sofrer um ferimento, ela automaticamente dá defeito. Além disso, os modificadores de ferimento se aplicam a todos os testes na mesh envolvendo esse dispositivo.
 
-Ataques de choque vão interromper temporariamente os dispositivos de hardware. Nenhuma ação da mesh pode ser feita com ou em um dispositivo chocado por um turno de ação. A critério do MJ, os ataques de choque também podem cortar ligações de comunicação ou infligir danos extras.
+Ataques de choque vão interromper temporariamente os aparelhos. Nenhuma ação da mesh pode ser feita com ou em um dispositivo chocado por um turno de ação. A critério do MJ, os ataques de choque também podem cortar ligações de comunicação ou infligir danos extras.
 
-Quando danos excede o Grau de Destruição de um dispositivo, ele deixa de funcionar imediatamente. Qualquer um acessando o sistema perde a conexão. Se o hardware era o dispositivo habitado de quaisquer infomorfos, eles estão efetivamente mortos.
+Quando danos excede o Grau de Destruição de um dispositivo, ele deixa de funcionar imediatamente. Qualquer um acessando o sistema perde a conexão. Se o aparelho era o dispositivo habitado de quaisquer infomorfos, eles estão efetivamente mortos.
 
 Às vezes, é possível recuperar dados, incluindo infomorfos latentes, de dispositivos desativados. Isso requer, no mínimo, Testes difíceis (−30) de Aparelhagem: Eletrônica e Interface.
 

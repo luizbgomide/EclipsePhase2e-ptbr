@@ -1,6 +1,6 @@
 # Reputação
 
-> **"Era uma vez, um planeta tão incrivelmente primitivo que seus habitantes ainda usavam dinheiro. Aquele planeta é chamado 'Marte'".**
+> **"Era uma vez, um planeta tão incrivelmente primitivo que seus habitantes ainda usavam dinheiro. Aquele planeta é chamado ‘Marte’”.**
 > 
 > <p class="right-aligned">Professor Magnus Ming, Universidade Autônoma de Titã</p>
 Reputação é um aspecto inerente da ordem social hierárquica no sistema interior — e um componente vital do tecido social igualitário do sistema exterior.
