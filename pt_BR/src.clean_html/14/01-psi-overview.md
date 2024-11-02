@@ -1,6 +1,6 @@
 # Resumo do Psi
 
-Em Eclipse Phase, capacidades psi são o resultado da infecção pela cepa Watts-MacLeod do [vírus exsurgente](../18/13-exsurgent-strains.md#watts-macleod). Esta praga modifica fisicamente a arquitetura e as funções cerebrais do seu assincro. Essas alterações são copiadas quando você faz upload, forque e reencape, o que significa que a infecção e as capacidades psi ficam com você quando você troca de um morfo para outro. As capacidades assincro são inerentes ao ego e não um predisposição biológica ou genética do morfo.
+Em Eclipse Phase, capacidades psi são o resultado da infecção pela cepa Watts-MacLeod do [vírus exsurgente](../18/13-exsurgent-strains.md#watts-macleod). Essa praga modifica fisicamente a arquitetura e as funções cerebrais do seu assincro. Essas alterações são copiadas quando você faz upload, forque e reencape, o que significa que a infecção e as capacidades psi ficam com você quando você troca de um morfo para outro. As capacidades assincro são inerentes ao ego e não um predisposição biológica ou genética do morfo.
 
 ## Pré-Requisitos
 
