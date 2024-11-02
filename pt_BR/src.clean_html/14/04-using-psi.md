@@ -85,7 +85,7 @@ Você pode não gastar paradas para afetar o Teste de Infeção, mas você pode 
 
 Sempre que um Teste de Infecção for bem-sucedido, o exovírus exerce um pouco mais de controle sobre sua psique. Cada assincro sente isso diferentemente, dependendo da subcepa específica dele.
 
-Role 1d6 e consulte os [efeitos de influência](05-influence-effects.md) da sua subcepa, aplicando +1 por sucesso maior rolado no Teste de Infecção. Durante a criação de personagem (ou quando seu PJ for infectado pela Watts-MacLeod), você deve escrever estes seis efeitos de influência na sua ficha de personagem.
+Role 1d6 e consulte os [efeitos de influência](05-influence-effects.md) da sua subcepa, aplicando +1 por sucesso maior rolado no Teste de Infecção. Durante a criação de personagem (ou quando seu PJ for infectado pela Watts-MacLeod), você deve escrever esses seis efeitos de influência na sua ficha de personagem.
 
 Os efeitos de influência ocorrem imediatamente quando o truque é ativado.
 
