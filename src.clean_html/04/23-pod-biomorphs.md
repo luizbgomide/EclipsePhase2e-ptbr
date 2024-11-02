@@ -2,14 +2,12 @@
 
 Pods (a colloquialism derived from “pod people”) were originally designed as biological androids. Their parts are vat-grown separately using accelerated-growth processes and assembled with a number of cybernetic system “short-cuts;” this entire process producing a functional body in a fraction of the time it takes to clone a standard biomorph. Cyberbrains replace their undeveloped gray matter. The first generations of pods were operated by ALIs and primarily used in service industries where a biological aesthetic was preferred to robots, in hazardous labor industries, and for sex work. They were visually distinguished from normal humans by stylized seamlined patterns in their skin, a designation that remains common today. In the wake of the Fall and the subsequent demand for more biomorphs, pods are now commonly sleeved by transhumans, especially indentures, but they still often suffer a classist stigma. Pods lack reproductive functions and are usually neuter. Non-human pods are increasingly common.
 
-<!--sorted-->
 ### Basic Pod
 
 These original general-purpose models are designed to keep the buyer/user dependent on the manufacturer.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Basic Pod
 
 - **Cost:** 1&nbsp;MP • **Avail:** 80
@@ -33,7 +31,6 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Worker Pod
 
 - **Cost:** 3&nbsp;MP • **Avail:** 70
@@ -56,7 +53,6 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Novacrab
 
 - **Cost:** 4&nbsp;MP • **Avail:** 50
@@ -81,7 +77,6 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Pleasure Pod
 
 - **Cost:** 4&nbsp;MP • **Avail:** 70
@@ -105,7 +100,6 @@ Security pods were originally manufactured as mass-produced AI-operated soldiers
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Security Pod
 
 - **Cost:** 5&nbsp;MP • **Avail:** 60
@@ -129,7 +123,6 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Shaper
 
 - **Cost:** 5&nbsp;MP • **Avail:** 40
@@ -145,5 +138,3 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 - **Ware:** Access Jacks, Biomods, Chameleon Skin, Cortical Stack, Cyberbrain, Mesh Inserts, Mnemonics, Nanotat ID Flux, Puppet Sock, Sex Switch, Skinflex
 
 <!-- CLEANED /blockquote -->
-
-<!--end-sort-->

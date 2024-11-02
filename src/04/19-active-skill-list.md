@@ -31,6 +31,7 @@ Active skills represent things your character does. They usually require some so
 | [Psi](#psi)                                     | Willpower                | Active, Mental, Psi      |
 | [Research](#research)                           | Intuition                | Active, Technical        |
 | [Survival](#survival)                           | Intuition                | Active, Mental           |
+
 <!--end-sort-->
 
 </blockquote>

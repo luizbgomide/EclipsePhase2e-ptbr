@@ -2,14 +2,12 @@
 
 These biomorphs are the original bodies of various sapient non-humans. Though uncommon and sometimes stigmatized, they are also sleeved by non-uplifts.
 
-<!--sorted-->
 ### Neo-Avian
 
 Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence. Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size. Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1&nbsp;g, but giving them a more bat-like physiology so they can bend and fold better and adding primitive digits for basic tool manipulation. Their toes are also more articulated and now accompanied with an opposable thumb. Neo-avians have adapted well to microgravity environments, and are favored for their small size and reduced resource use.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Avian
 
 - **Cost:** 0&nbsp;MP • **Avail:** 50
@@ -34,7 +32,6 @@ Like other neo-hominids, uplifted bonobo and chimpanzee morphs feature enhanced 
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Bonobo/Neo-Chimpanzee
 
 - **Cost:** 1&nbsp;MP • **Avail:** 50
@@ -58,7 +55,6 @@ This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to 
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Neanderthal
 
 - **Cost:** 2&nbsp;MP • **Avail:** 35
@@ -82,7 +78,6 @@ Neo-gorillas benefit from enhanced cognition and upright stances like other neo-
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Gorilla
 
 - **Cost:** 3&nbsp;MP • **Avail:** 40
@@ -106,7 +101,6 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Octopus
 
 - **Cost:** 3&nbsp;MP • **Avail:** 35
@@ -131,7 +125,6 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Neo-Orangutan
 
 - **Cost:** 3&nbsp;MP • **Avail:** 35
@@ -149,5 +142,3 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 - **Notes:** Reach (+10)
 
 <!-- CLEANED /blockquote -->
-
-<!--end-sort-->

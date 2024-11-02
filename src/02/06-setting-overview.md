@@ -58,6 +58,7 @@ Transhumans carve out safety from the dangers of space with these common habitat
 - **Swarms** are flotillas of nomadic spacecraft, sometimes interlinked or towing habitats. They are favored by the scum.
 - **Tin Cans** are small, cramped modules, frequently little more than a pressure shell and life support. They are cheap and common, especially among brinkers.
 - **Toruses** are ring-shaped and spun for gravity, sometimes with multiple tori spinning in opposite directions, sometimes linked to microgravity structures.
+
 <!--end-sort-->
 
 </blockquote>

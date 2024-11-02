@@ -32,14 +32,12 @@ Synthetic shells are made to last — a fact reflected in their higher Durabilit
 
 </blockquote>
 
-<!--sorted-->
 ### Case
 
 Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client’s taste. Most case morphs are anthropomorphic, with a thin framework body standing just shorter than an average human.
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Case
 
 - **Cost:** 0&nbsp;MP • **Avail:** 100
@@ -64,7 +62,6 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Spare
 
 - **Cost:** 0&nbsp;MP • **Avail:** 80
@@ -89,7 +86,6 @@ The dragonfly takes the shape of a meter-long flexible shell with eight wings, f
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Dragonfly
 
 - **Cost:** 1&nbsp;MP • **Avail:** 70
@@ -114,7 +110,6 @@ Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each indi
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Swarmanoid
 
 - **Cost:** 3&nbsp;MP • **Avail:** 60
@@ -139,7 +134,6 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Synth
 
 - **Cost:** 3&nbsp;MP • **Avail:** 80
@@ -164,7 +158,6 @@ Developed by brinker hardware hackers, savants feature neural-state enhancements
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Savant
 
 - **Cost:** 4&nbsp;MP • **Avail:** 50
@@ -189,7 +182,6 @@ This high-end shell was designed to increase the appeal and social acceptance of
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Galatea
 
 - **Cost:** 5&nbsp;MP • **Avail:** 50
@@ -214,7 +206,6 @@ Slitheroid shells take the form of a humanoid torso with retractable arms atop a
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Slitheroid
 
 - **Cost:** 5&nbsp;MP • **Avail:** 50
@@ -239,7 +230,6 @@ Like the galatea, this upscale shell was designed to counter biochauvinist attit
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Steel Morph
 
 - **Cost:** 5&nbsp;MP • **Avail:** 50
@@ -264,7 +254,6 @@ Arachnoid shells mimic the shapes of spiders, termites, ants, beetles, and other
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Arachnoid
 
 - **Cost:** 6&nbsp;MP • **Avail:** 40
@@ -289,7 +278,6 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Reaper
 
 - **Cost:** 12&nbsp;MP • **Avail:** 10
@@ -308,7 +296,6 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 
 </blockquote>
 
-<!--end-sort-->
 
 ## Flexbot
 
@@ -349,14 +336,12 @@ All flexbots have the following stats, plus the stats for their module type:
 
 </blockquote>
 
-<!--sorted-->
 ### Crafter Module
 
 Crafters are engineer modules, specialized in construction and fabrication.
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Crafter Module
 
 - **Cost:** 2&nbsp;MP • **Avail:** 60
@@ -379,7 +364,6 @@ These modules are combat-oriented.
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Fighter Module
 
 - **Cost:** 3&nbsp;MP • **Avail:** 60
@@ -402,7 +386,6 @@ Rogues are optimized for stealth and covert activities.
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Rogue Module
 
 - **Cost:** 2&nbsp;MP • **Avail:** 60
@@ -425,7 +408,6 @@ Wizard modules specialize in infosec and communications tasks.
 
 <blockquote class="indent stat-list">
 
-<!--ignore-sort-->
 ### Wizard Module
 
 - **Cost:** 2&nbsp;MP • **Avail:** 60
@@ -441,5 +423,3 @@ Wizard modules specialize in infosec and communications tasks.
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
 
 </blockquote>
-
-<!--end-sort-->

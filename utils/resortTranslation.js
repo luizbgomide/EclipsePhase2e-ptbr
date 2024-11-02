@@ -68,20 +68,25 @@ function processFile(file) {
                             block.push("\r")
                     });
                 }
+
                 unsortedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
+                if (sortDelimiter === "|" || sortDelimiter === "-") {
+                    unsortedBlocks = unsortedBlocks.filter(block => block[0].trim !== "");
+                    unsortedBlocks.push([""]);
+                }
                 result.push(...unsortedBlocks.flat());
                 result.push(line);
                 sorting = false;
                 continue;
             }
 
-            if (line.indexOf(ingoresortTag) >= 0) {
+            if (line.indexOf(ignoresortTag) >= 0) {
                 unsortedBlocks[unsortedBlocks.length - 1].push(line);
                 i++;
                 unsortedBlocks[unsortedBlocks.length - 1].push(line);
                 continue;
             }
-            
+
             if (line.trim() !== "" && line.startsWith(sortDelimiter)) {
                 unsortedBlocks.push([line]);
             } else {
