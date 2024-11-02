@@ -47,8 +47,8 @@ Os transumanos conquistam a segurança dos perigos do espaço com esses tipos co
 <!--sorted-->
 - **Aeróstatos** flutuam como balões em atmosferas densas; eles são comuns em Vênus e Urano.
 - **Batiscafos** são habitats subaquáticos amarrados à superfície terrestre ou de gelo. Eles são usados em Europa, Ceres e outros mares subterrâneos.
-- **Formigueiro** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
-- **Agrupamento** são módulos interconectados funcionando em microgravidade.
+- **Formigueiros** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
+- **Agrupamentos** são módulos interconectados funcionando em microgravidade.
 - **Cilindros** são grandes latas ocas com quilômetros de comprimento, com gravidade por rotação e interiores terraformados. Os cilindros Hamilton são parcialmente orgânicos e usam nanotecnologia avançada para se autoconstruir. Os cilindros Reagan são projetos mais velhos e ineficientes usando asteroides ocos na República Joviana.
 - **Domos** são estruturas infláveis temporárias ou pressurizadas permanentes construídas na superfície de um asteroide, lua ou corpo planetário.
 - **Loci Processadores** são apenas servidores protegidos flutuando em órbita, usados por comunidades de infomorfos.
