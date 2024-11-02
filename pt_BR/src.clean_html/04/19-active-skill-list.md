@@ -6,7 +6,7 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 
 ### Lista de Perícias
 
-<!--sorted-->
+<!--start-order-->
 | Perícia                                            | Aptidão Vinculada                               | Tipo                  |
 |:-------------------------------------------------- |:----------------------------------------------- |:--------------------- |
 | [Atletismo](#athletics)                            | Somática                                        | Ativa, Física         |
@@ -32,11 +32,11 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 | [Pesquisa](#research)                              | Intuição                                        | Ativa, Técnica        |
 | [Sobrevivência](#survival)                         | Intuição                                        | Ativa, Mental         |
 
-<!--end-sort-->
+<!--end-order-->
 
 <!-- CLEANED /blockquote -->
 
-<!--sorted-->
+<!--start-order-->
 ## Atletismo
 
 <!-- CLEANED div class="stat-list" -->
@@ -361,4 +361,4 @@ Use Sobrevivência para navegar, rastrear uma pessoa ou animal na natureza, obte
 
 <!-- CLEANED /div -->
 
-<!--end-sort-->
+<!--end-order-->
