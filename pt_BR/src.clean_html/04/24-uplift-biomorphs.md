@@ -2,12 +2,14 @@
 
 Estes biomorfos são os corpos originais de vários não humanos sapientes. Apesar de incomuns e às vezes estigmatizados, eles também são encapados por não elevados.
 
+<!--sorted-->
 ### Neo-Ave
 
 Os neo-aves incluem corvos, gralhas e papagaios-cinzentos elevados a níveis humanos de inteligência. Seus tamanhos são muito maiores do que seus primos não elevados (até o tamanho de uma criança humana), com cabeças maiores devido aos cérebros aumentados. Várias modificações transgênicas foram feitas às suas asas, permitindo que eles mantenham capacidades limitadas de voo em 1&nbsp;g, mas dando a eles uma fisiologia mais parecida com um morcego para curvar e dobrar melhor e adicionando dedos primitivos para manipulação básica de ferramentas. Seus dedos dos pés também são mais articulados e agora possuem um polegar opositor. Neo-aves se adaptaram bem a ambientes de microgravidade, e são preferidos por seu menor tamanho e uso reduzido de recursos.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Ave
 
 - **Custo:** 0&nbsp;PM • **Disp:** 50
@@ -32,6 +34,7 @@ Como outros neo-hominídeos, morfos de bonobo e chimpanzé elevados apresentam i
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Bonobo/Neo-Chimpanzé
 
 - **Custo:** 1&nbsp;PM • **Disp:** 50
@@ -55,6 +58,7 @@ Este morfo é derivado de DNA neandertal fossilizado, elevado e aprimorado à eq
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Neandertal
 
 - **Custo:** 2&nbsp;PM • **Disp:** 35
@@ -78,6 +82,7 @@ Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como out
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Gorila
 
 - **Custo:** 3&nbsp;PM • **Disp:** 40
@@ -101,6 +106,7 @@ Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Polvo
 
 - **Custo:** 3&nbsp;PM • **Disp:** 35
@@ -125,6 +131,7 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--ignore-sort-->
 ### Neo-Orangutango
 
 - **Custo:** 3&nbsp;PM • **Disp:** 35
@@ -142,3 +149,5 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 - **Notas:** Extensão (+10)
 
 <!-- CLEANED /blockquote -->
+
+<!--end-sort-->
