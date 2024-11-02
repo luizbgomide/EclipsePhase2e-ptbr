@@ -7,9 +7,9 @@ const readline = require('readline');
 
 // div and blockquotes messes up with crowdin format
 // wbr forces crowdin to rebuild the MD tables as HTML tables
-const sortedTag = "<!--sorted-->";
-const endsortTag = "<!--end-sort-->";
-const ignoresortTag = "<!--ignore-sort-->";
+const startOrderTag = "<!--start-order-->";
+const endOrderTag = "<!--end-order-->";
+const skipOrderTag = "<!--skip-order-->";
 
 function readDirectory(dir) {
     fs.readdirSync(dir, { withFileTypes: true }).forEach((item) => {
@@ -36,22 +36,22 @@ function processFile(file) {
     let contents = fs.readFileSync(file, 'utf8');
 
     let lines = contents.split('\n');
-    let sorting = false;
-    let sortDelimiter = ""; // text: "", list: "-", table: "|", title: "#+ "
+    let ordering = false;
+    let delimiter = ""; // text: "", list: "-", table: "|", title: "#+ "
     let result = [];
-    let unsortedBlocks = [];
+    let unorderedBlocks = [];
     for (let i = 0; i < lines.length; i++) {
         let line = lines[i];
-        if (line.indexOf(sortedTag) >= 0) {
-            if (sorting)
-                throw new Error(`Duplicate sorted tag. File: ${file} -  Line: ${i}`);
+        if (line.indexOf(startOrderTag) >= 0) {
+            if (ordering)
+                throw new Error(`Duplicate ordered tag. File: ${file} -  Line: ${i}`);
             result.push(line);
             i++;
             line = lines[i];
-            sortDelimiter = line?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
-            sorting = true;
-            unsortedBlocks = [];
-            if (sortDelimiter === "|") {
+            delimiter = line?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
+            ordering = true;
+            unorderedBlocks = [];
+            if (delimiter === "|") {
                 result.push(lines[i]);
                 i++
                 result.push(lines[i]);
@@ -59,38 +59,39 @@ function processFile(file) {
                 line = lines[i];
             }
         }
-        if (sorting) {
-            if (line.indexOf(endsortTag) >= 0) {
-                // if sorting title or text, make sure the last line is empty
-                if (sortDelimiter === "" || sortDelimiter.startsWith("#")) {
-                    unsortedBlocks.forEach(block => {
+        if (ordering) {
+            if (line.indexOf(endOrderTag) >= 0) {
+                // if ordering by title or text, make sure the last line of each block is empty
+                if (delimiter === "" || delimiter.startsWith("#")) {
+                    unorderedBlocks.forEach(block => {
                         if (block[block.length - 1].trim() !== "")
-                            block.push("\r")
+                            block.push("")
                     });
                 }
 
-                unsortedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
-                if (sortDelimiter === "|" || sortDelimiter === "-") {
-                    unsortedBlocks = unsortedBlocks.filter(block => block[0].trim !== "");
-                    unsortedBlocks.push([""]);
+                unorderedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
+                let orderedResult = unorderedBlocks.flat();
+                if (delimiter === "|" || delimiter === "-") {
+                    orderedResult = orderedResult.filter(line => line.trim() !== "");
+                    orderedResult.push("");
                 }
-                result.push(...unsortedBlocks.flat());
+                result.push(...orderedResult);
                 result.push(line);
-                sorting = false;
+                ordering = false;
                 continue;
             }
 
-            if (line.indexOf(ignoresortTag) >= 0) {
-                unsortedBlocks[unsortedBlocks.length - 1].push(line);
+            if (line.indexOf(skipOrderTag) >= 0) {
+                unorderedBlocks[unorderedBlocks.length - 1].push(line);
                 i++;
-                unsortedBlocks[unsortedBlocks.length - 1].push(line);
+                unorderedBlocks[unorderedBlocks.length - 1].push(line);
                 continue;
             }
 
-            if (line.trim() !== "" && line.startsWith(sortDelimiter)) {
-                unsortedBlocks.push([line]);
+            if (line.trim() !== "" && line.startsWith(delimiter)) {
+                unorderedBlocks.push([line]);
             } else {
-                unsortedBlocks[unsortedBlocks.length - 1].push(line);
+                unorderedBlocks[unorderedBlocks.length - 1].push(line);
             }
             continue;
         }
@@ -107,7 +108,7 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     process.exit(1);
 }
 var sourceDir = path.resolve(process.argv[2]);
-var outputDir = sourceDir + ".sorted";
+var outputDir = sourceDir + ".ordered";
 
 if (fs.statSync(outputDir, { throwIfNoEntry: false })?.isDirectory()) {
     console.log(`Target directory "${outputDir}" already exists.`);

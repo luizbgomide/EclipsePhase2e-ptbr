@@ -6,7 +6,7 @@ Like your background, your career package provides you with skills. You might lo
 
 Your career also determines your starting [gear packs](27-gear-packs.md).
 
-<!--sorted-->
+<!--start-order-->
 ## Academic
 
 You devote your efforts to the pursuit of knowledge.
@@ -177,7 +177,7 @@ You make and fix things. You might be a roboticist, habitat tech, or artifex nan
 | Know: (Choose One)<p class="indent">_Common Fields: Construction, Habitat Ops, Mining, Nanofacturing_</p> |   60 |
 | Know: (Choose One)<p class="indent">_Common Fields: Computer Science, Engineering, Nanotechnology_</p>    |   30 |
 
-<!--end-sort-->
+<!--end-order-->
 
 <!-- CLEANED blockquote class="table" -->
 

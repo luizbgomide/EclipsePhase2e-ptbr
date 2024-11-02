@@ -24,7 +24,7 @@ For more interactive motivations, have each player choose one of the goals of an
 
 <!-- CLEANED div class="two-columns-text" -->
 
-<!--sorted-->
+<!--start-order-->
 - Acceptance
 - AGI Personhood
 - Alien Contact
@@ -72,7 +72,7 @@ For more interactive motivations, have each player choose one of the goals of an
 - Venusian Sovereignty
 - Wealth
 
-<!--end-sort-->
+<!--end-order-->
 
 <!-- CLEANED /div -->
 
