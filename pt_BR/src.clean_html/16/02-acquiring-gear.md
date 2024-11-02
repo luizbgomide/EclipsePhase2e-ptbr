@@ -50,7 +50,7 @@ Nenhuma missão sobrevive o primeiro contato com o inimigo, e nenhum plano de lo
 
 - **Usar Rep:** Tenha sucesso em um Teste de Rep e use um favor apropriado. O favor é Menor para itens de complexidade Menor, Moderado para itens Moderados, e Maior para itens Maiores ([Socialização](../15/13-networking.md)).
 - **Usar o Traço Recursos:** Gaste moeda para comprá-lo ([Recursos](../04/28-traits.md#resources)).
-- **Use um Nanofabricador:** Faça você mesmo. Isto requer diagramas (ou a perícia Programação para fazer você mesmo) e acesso a um nanofabro funcional ([Nanofabricação](03-nanofabrication.md)).
+- **Use um Nanofabricador:** Faça você mesmo. Isso requer diagramas (ou a perícia Programação para fazer você mesmo) e acesso a um nanofabro funcional ([Nanofabricação](03-nanofabrication.md)).
 
 ### Prazo de Aquisição
 
