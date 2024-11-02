@@ -14,9 +14,9 @@ Motivações são boas para direcionar o seu personagem, mas elas são bem gerai
 
 Se seu MJ tem uma ideia preparada de uma campanha detalhada, você pode aguardar e decidir seus objetivos até você ter sido completamente introduzido no cenário, para você poder integrá-los ao contexto do arco da história. Por exemplo, se o seu MJ estabelece uma campanha sobre a libertação de Marte do controle hipercorporativo, e você tem +Interesses Mercuriais, seu primeiro objetivo pode ser conectar o grupo mercurial que você apoia com os barsoomianos e estabelecer pontos em comum.
 
-Se seu grupo prefere um estilo mais cooperativo de desenvolvimento de campanha, objetivos motivacionais podem fornecer muito material para o MJ construir aventuras relacionadas. Com este estilo de jogo, você pode preferir escolher uma motivação como sua primária e estabelecer múltiplos objetivos relacionados a ela. Esses objetivos podem servir como pontos de partida para o arco pessoal do seu personagem.
+Se seu grupo prefere um estilo mais cooperativo de desenvolvimento de campanha, objetivos motivacionais podem fornecer muito material para o MJ construir aventuras relacionadas. Com esse estilo de jogo, você pode preferir escolher uma motivação como sua primária e estabelecer múltiplos objetivos relacionados a ela. Esses objetivos podem servir como pontos de partida para o arco pessoal do seu personagem.
 
-Para motivações mais interativas, faça cada jogador escolher um dos objetivos de outro personagem. Quando fizerem isso, eles devem tentar construir o objetivo de forma que ele se conecte com o seus próprios personagens. Esta é uma ótima oportunidade de estabelecer interesses, histórias e passados compartilhados entre os personagens.
+Para motivações mais interativas, faça cada jogador escolher um dos objetivos de outro personagem. Quando fizerem isso, eles devem tentar construir o objetivo de forma que ele se conecte com o seus próprios personagens. Essa é uma ótima oportunidade de estabelecer interesses, histórias e passados compartilhados entre os personagens.
 
 <!-- CLEANED blockquote -->
 
