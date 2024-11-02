@@ -2,13 +2,13 @@
 
 Os truques psi-qui estão disponíveis para qualquer um com o traço Psi. Os truques psi-gama só estão disponíveis para personagens com o traço Psi no Nível 2. Salvo indicação, os truques só podem ser adquiridos uma vez.
 
-**Alcance:** Pessoal, Queima-Roupa ou Perto ([Alcance Psi](../14/04-using-psi.md#psi-range)).
+**Alcance:** Pessoal, Queima-Roupa ou Perto ([Alcance Psi](04-using-psi.md#psi-range)).
 
 **Ação:** Automática, Rápida, Complexa ou Tarefa ([Ações & Tempo](../03/03-actions-and-time.md)).
 
-**Duração:** Constante, Instantânea, Sustentada ou sua VON ÷ 5 em turnos de ação, minutos ou horas ([Duração](../14/04-using-psi.md#duration)).
+**Duração:** Constante, Instantânea, Sustentada ou sua VON ÷ 5 em turnos de ação, minutos ou horas ([Duração](04-using-psi.md#duration)).
 
-**Mod de Infecção:** Adicionado ao seu Grau de Infecção ([Modificadores de Infecção](../14/04-using-psi.md#infection-modifiers)).
+**Mod de Infecção:** Adicionado ao seu Grau de Infecção ([Modificadores de Infecção](04-using-psi.md#infection-modifiers)).
 
 ## Truques Psi-Qui
 
@@ -20,28 +20,28 @@ Truques psi-qui são habilidades subconscientes passivas e sempre ativas dispon�
 
 Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** Pessoal • **Duração:** Constante • sem Modificador de Infecção.
 
-| Truque                                                                             | Descrição                                                                            |
-|:---------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------ |
-| [Carisma](../14/06-psi-sleight-summaries.md#charisma)                              | Diminui as inibições, aumenta o charme. +1 na parada de Manha.                       |
-| [Controle Comportamental](../14/06-psi-sleight-summaries.md#control-behavior)      | Aplique/reduza um traço Comportamento Acentuado ou Comportamento Restrito (Nível 2). |
-| [Ecoempatia](../14/06-psi-sleight-summaries.md#eco-empathy)                        | Pode usar Prova de COG para entender plantas alienígenas e análogos de fungos.       |
-| [Criatividade Ampliada](../14/06-psi-sleight-summaries.md#enhanced-creativity)     | +10 em Testes de Saber ou Técnicos envolvendo criatividade ou pensar fora da caixa.  |
-| [Memória Ampliada](../14/06-psi-sleight-summaries.md#enhanced-memory)              | Recuperação de memória perfeita.                                                     |
-| [Engenho](../14/06-psi-sleight-summaries.md#grok)                                  | Pode usar Prova de COG para entender como usar objetos/dispositivos estranhos.       |
-| [Consciência Elevada](../14/06-psi-sleight-summaries.md#heightened-awareness)      | Sentir área/ameaças. +10 em Testes de Percepção, nega modificadores de distração.    |
-| [Alto Limiar à Dor](../14/06-psi-sleight-summaries.md#high-pain-threshold)         | Ignorar modificadores de 1 ferimento.                                                |
-| [Centelha Interior](../14/06-psi-sleight-summaries.md#inner-spark)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
-| [Reconhecimento de Padrões](../14/06-psi-sleight-summaries.md#pattern-recognition) | Detectar padrões. +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados.       |
-| [Impulso Preditivo](../14/06-psi-sleight-summaries.md#predictive-boost)            | +2 em Iniciativa.                                                                    |
-| [Armadura Psi](../14/06-psi-sleight-summaries.md#psi-armor)                        | Armadura mental igual a VON ÷ 3.                                                     |
-| [Qualia](../14/06-psi-sleight-summaries.md#qualia)                                 | Discernimento aumentado. +1 na parada de Inspiração.                                 |
-| [Cálculo Savant](../14/06-psi-sleight-summaries.md#savant-calculation)             | Pode usar Prova de COG para responder questões matemáticas complexas.                |
-| [Embaralhamento](../14/06-psi-sleight-summaries.md#scramble)                       | Esconder-se do truque sentido de ego; modificador −30.                               |
-| [Autocontrole](../14/06-psi-sleight-summaries.md#self-control)                     | +10 em Provas de VON.                                                                |
-| [Astúcia Social](../14/06-psi-sleight-summaries.md#social-cunning)                 | Mais manipulativo. +10 em Testes de Persuasão e Provocação.                          |
-| [Controle Somático](../14/06-psi-sleight-summaries.md#somatic-control)             | Melhor controle fisiológico. +1 na parada de Vigor.                                  |
-| [Cinésica Superior](../14/06-psi-sleight-summaries.md#superior-kinesics)           | +10 em Testes de Enganação e Cinésica.                                               |
-| [Xenoempatia](../14/06-psi-sleight-summaries.md#xeno-empathy)                      | Pode usar Prova de SAG para obter compreensão de vida não terrestre.                 |
+| Truque                                            | Descrição                                                                            |
+|:------------------------------------------------- |:------------------------------------------------------------------------------------ |
+| [Carisma](#charisma)                              | Diminui as inibições, aumenta o charme. +1 na parada de Manha.                       |
+| [Controle Comportamental](#control-behavior)      | Aplique/reduza um traço Comportamento Acentuado ou Comportamento Restrito (Nível 2). |
+| [Ecoempatia](#eco-empathy)                        | Pode usar Prova de COG para entender plantas alienígenas e análogos de fungos.       |
+| [Criatividade Ampliada](#enhanced-creativity)     | +10 em Testes de Saber ou Técnicos envolvendo criatividade ou pensar fora da caixa.  |
+| [Memória Ampliada](#enhanced-memory)              | Recuperação de memória perfeita.                                                     |
+| [Engenho](#grok)                                  | Pode usar Prova de COG para entender como usar objetos/dispositivos estranhos.       |
+| [Consciência Elevada](#heightened-awareness)      | Sentir área/ameaças. +10 em Testes de Percepção, nega modificadores de distração.    |
+| [Alto Limiar à Dor](#high-pain-threshold)         | Ignorar modificadores de 1 ferimento.                                                |
+| [Centelha Interior](#inner-spark)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
+| [Reconhecimento de Padrões](#pattern-recognition) | Detectar padrões. +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados.       |
+| [Impulso Preditivo](#predictive-boost)            | +2 em Iniciativa.                                                                    |
+| [Armadura Psi](#psi-armor)                        | Armadura mental igual a VON ÷ 3.                                                     |
+| [Qualia](#qualia)                                 | Discernimento aumentado. +1 na parada de Inspiração.                                 |
+| [Cálculo Savant](#savant-calculation)             | Pode usar Prova de COG para responder questões matemáticas complexas.                |
+| [Embaralhamento](#scramble)                       | Esconder-se do truque sentido de ego; modificador −30.                               |
+| [Autocontrole](#self-control)                     | +10 em Provas de VON.                                                                |
+| [Astúcia Social](#social-cunning)                 | Mais manipulativo. +10 em Testes de Persuasão e Provocação.                          |
+| [Controle Somático](#somatic-control)             | Melhor controle fisiológico. +1 na parada de Vigor.                                  |
+| [Cinésica Superior](#superior-kinesics)           | +10 em Testes de Enganação e Cinésica.                                               |
+| [Xenoempatia](#xeno-empathy)                      | Pode usar Prova de SAG para obter compreensão de vida não terrestre.                 |
 
 <!-- CLEANED /blockquote -->
 
@@ -109,7 +109,7 @@ Você não sabe as equações que está resolvendo, simplesmente sabe a soluçã
 
 ### Embaralhamento
 
-O embaralhamento ajuda você a se esconder de outro assincro usando o [truque Sentido de Ego](../14/06-psi-sleight-summaries.md#ego-sense). Aplique um modificador −30 no Teste de Psi do assincro.
+O embaralhamento ajuda você a se esconder de outro assincro usando o truque [Sentido de Ego](#ego-sense). Aplique um modificador −30 no Teste de Psi do assincro.
 
 ### Autocontrole
 
@@ -133,51 +133,51 @@ Você tem uma compreensão intuitiva de organismos não humanos e não terrestre
 
 ## Truques Psi-Gama
 
-Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um biomorfo, mas também a vida animal). Os psi-gama só estão disponíveis para personagens com Nível 2 no traço Psi. Os truques psi-gama devem ser ativados, exigindo uma ação rápida, complexa ou de tarefa e um teste da perícia Psi. Os truques que tenham como alvo outros seres sencientes ou formas de vida são sempre testes opostos, enquanto os outros são tratados como testes de sucesso. Os truques ativos exigem um esforço significativo do assincro e podem provocar crises de infecção do exovírus ([Modificadores de Infecção](../14/04-using-psi.md#infection-modifiers)).
+Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um biomorfo, mas também a vida animal). Os psi-gama só estão disponíveis para personagens com Nível 2 no traço Psi. Os truques psi-gama devem ser ativados, exigindo uma ação rápida, complexa ou de tarefa e um teste da perícia Psi. Os truques que tenham como alvo outros seres sencientes ou formas de vida são sempre testes opostos, enquanto os outros são tratados como testes de sucesso. Os truques ativos exigem um esforço significativo do assincro e podem provocar crises de infecção do exovírus ([Modificadores de Infecção](04-using-psi.md#infection-modifiers)).
 
 <!-- CLEANED blockquote class="framed-table" -->
 
 ### Truques Psi-Gama
 
-| Truque                                                                          |   Ação   |    Duração     | Mod de infecção | Descrição                                                                                                                                                         |
-|:------------------------------------------------------------------------------- |:--------:|:--------------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Alteração de Efeito](../14/06-psi-sleight-summaries.md#alter-effect)           | Complexa |  Instantânea   |        2        | Aumente ou reduza a duração de uma droga ou toxina afetando o alvo pela metade.                                                                                   |
-| [Controle Animal](../14/06-psi-sleight-summaries.md#animal-control)             | Complexa |   Sustentada   |        6        | Domine a mente de um animal não sapiente, teleoperando-o como um drone.                                                                                           |
-| [Afasia](../14/06-psi-sleight-summaries.md#aphasia)                             | Complexa |    Minutos     |        6        | Alvo não pode falar, se comunicar ou ler.                                                                                                                         |
-| [Olhar do Basilisco](../14/06-psi-sleight-summaries.md#basilisk-stare)          |  Tarefa  |   Sustentada   |        6        | Alvo não pode romper contato visual com o assincro, ambos estão imobilizados.                                                                                     |
-| [Bloqueio da Dor](../14/06-psi-sleight-summaries.md#block-pain)                 | Complexa |    Minutos     |        4        | Alvo pode ignorar modificadores de ferimentos.                                                                                                                    |
-| [Bloqueio do Sentido](../14/06-psi-sleight-summaries.md#block-sense)            | Complexa | Turnos de Ação |        4        | Nega um dos sentidos do alvo (audição, visão, olfato, paladar, tato).                                                                                             |
-| [Bloqueio da Perícia](../14/06-psi-sleight-summaries.md#block-skill)            | Complexa |    Minutos     |        6        | Alvo não pode utilizar uma perícia especificada.                                                                                                                  |
-| [Vislumbre de Pensamentos](../14/06-psi-sleight-summaries.md#browse-thoughts)   | Complexa |   Sustentada   |        4        | Escaneie os pensamentos superficiais do alvo.                                                                                                                     |
-| [Explosão de Adrenalina](../14/06-psi-sleight-summaries.md#burst-of-adrenaline) | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Vigor.                                                                                                                                |
-| [Explosão de Clareza](../14/06-psi-sleight-summaries.md#burst-of-clarity)       | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Inspiração.                                                                                                                           |
-| [Explosão de Confiança](../14/06-psi-sleight-summaries.md#burst-of-confidence)  | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Manha.                                                                                                                                |
-| [Memória Nebulosa](../14/06-psi-sleight-summaries.md#cloud-memory)              | Complexa |    Minutos     |        6        | Alvo não retém memórias de longo prazo.                                                                                                                           |
-| [Varredura Profunda](../14/06-psi-sleight-summaries.md#deep-scan)               | Complexa |   Sustentada   |        6        | Recupere 2 itens da mente do alvo, +2 por sucesso maior.                                                                                                          |
-| [Déjà-Vu](../14/06-psi-sleight-summaries.md#deja-vu)                            | Complexa |    Minutos     |        8        | Alvo é forçado a repetir suas ações dos últimos 15–30 segundos.                                                                                                   |
-| [Inatividade](../14/06-psi-sleight-summaries.md#downtime)                       |  Tarefa  |   Sustentada   |        2        | Estado de fuga de 4 horas, cura 1d6 de estresse, +1d6 por sucesso maior, recebe efeito de influência.                                                             |
-| [Sentido de Ego](../14/06-psi-sleight-summaries.md#ego-sense)                   | Complexa | Turnos de Ação |        2        | Detecta vida biológica; informações extras sobre distância, tamanho, tipo, etc. com sucessos maiores.                                                             |
-| [Varredura Empática](../14/06-psi-sleight-summaries.md#empathic-scan)           | Complexa | Turnos de Ação |        4        | Conheça as emoções do alvo. +10 em testes de perícias sociais contra ele, +10 por sucesso maior.                                                                  |
-| [Ilusão](../14/06-psi-sleight-summaries.md#illusion)                            | Complexa |   Sustentada   |        8        | Alvo vivencia uma ilusão de todos os sentidos, criada pelo assincro.                                                                                              |
-| [Implante de Memória](../14/06-psi-sleight-summaries.md#implant-memory)         | Complexa |  Instantânea   |        6        | Implante memórias falsas permanentemente no alvo.                                                                                                                 |
-| [Implante de Perícia](../14/06-psi-sleight-summaries.md#implant-skill)          | Complexa |     Horas      |        6        | Implante uma perícia possuída pelo assincro na mente do alvo com metade do valor.                                                                                 |
-| [Indução ao Erro](../14/06-psi-sleight-summaries.md#induce-error)               | Complexa |    Minutos     |        6        | Alvo falha automaticamente no próximo teste que fizer usando a perícia escolhida pelo assincro.                                                                   |
-| [Mente Infecciosa](../14/06-psi-sleight-summaries.md#infectious-mind)           | Complexa |   Sustentada   |        4        | Compartilhe um transtorno desencadeado ou efeito de influência com o alvo.                                                                                        |
-| [Influência](../14/06-psi-sleight-summaries.md#influence)                       | Complexa | Turnos de Ação |        4        | Aplique um traço Comportamento Acentuado ou Comportamento Restrito (Nível 2).                                                                                     |
-| [Revigoração](../14/06-psi-sleight-summaries.md#invigorate)                     | Complexa |  Instantânea   |        4        | Alvo pode usar a sua próxima ação complexa como uma recarga curta.                                                                                                |
-| [Imitação](../14/06-psi-sleight-summaries.md#mimic)                             |  Rápida  |  Instantânea   |        4        | Registra os maneirismos dos alvo; +10 na perícia Enganação se passar pelo alvo, +10 por sucesso maior.                                                            |
-| [Ligação Mental](../14/06-psi-sleight-summaries.md#mindlink)                    |  Rápida  |   Sustentada   |        2        | Telepatia.                                                                                                                                                        |
-| [Fortalecimento Neural](../14/06-psi-sleight-summaries.md#neural-hardening)     | Complexa |    Minutos     |        4        | Alvo recebe um modificador +10 para resistir a hacks basiliscos.                                                                                                  |
-| [Pesadelo](../14/06-psi-sleight-summaries.md#nightmare)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
-| [Dor](../14/06-psi-sleight-summaries.md#pain)                                   | Complexa |  Instantânea   |        6        | Alvo é infligido com dor (como um agonizador), deve fugir com movimento total em sua próxima ação.                                                                |
-| [Escudo Psi](../14/06-psi-sleight-summaries.md#psi-shield)                      | Complexa |   Sustentada   |        4        | Armadura mental aumentada em +1d6 (cumulativo com o truque Armadura Psi).                                                                                         |
-| [Punhalada Psíquica](../14/06-psi-sleight-summaries.md#psychic-stab)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
-| [Senso de Infecção](../14/06-psi-sleight-summaries.md#sense-infection)          | Complexa |  Instantânea   |        2        | Detecta a infecção exsurgente em vida biológica.                                                                                                                  |
-| [Curto-Circuito](../14/06-psi-sleight-summaries.md#short-circuit)               | Complexa |  Instantânea   |        6        | Sinapses do alvo falham, ele fica incapacitado por 1 turno de ação e atordoado por 3 minutos.                                                                     |
-| [Spam](../14/06-psi-sleight-summaries.md#spam)                                  | Complexa | Turnos de Ação |        6        | Alvo é sobrecarregado pela entrada sensorial, −10 em todas as ações, com −10 adicional por sucesso maior.                                                         |
-| [Estática](../14/06-psi-sleight-summaries.md#static)                            | Complexa |   Sustentada   |        4        | −30 em todos os truques dentro do alcance Perto.                                                                                                                  |
-| [Sugestão](../14/06-psi-sleight-summaries.md#subliminal)                        | Complexa |     Horas      |       10        | Implante uma ação sugestionada na mente do alvo que ele deve executar.                                                                                            |
-| [Tranquilidade](../14/06-psi-sleight-summaries.md#tranquility)                  | Complexa |    Minutos     |        4        | Alvo é aliviado de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado. Não pode ser usado em si mesmo. |
+| Truque                                         |   Ação   |    Duração     | Mod de infecção | Descrição                                                                                                                                                         |
+|:---------------------------------------------- |:--------:|:--------------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Alteração de Efeito](#alter-effect)           | Complexa |  Instantânea   |        2        | Aumente ou reduza a duração de uma droga ou toxina afetando o alvo pela metade.                                                                                   |
+| [Controle Animal](#animal-control)             | Complexa |   Sustentada   |        6        | Domine a mente de um animal não sapiente, teleoperando-o como um drone.                                                                                           |
+| [Afasia](#aphasia)                             | Complexa |    Minutos     |        6        | Alvo não pode falar, se comunicar ou ler.                                                                                                                         |
+| [Olhar do Basilisco](#basilisk-stare)          |  Tarefa  |   Sustentada   |        6        | Alvo não pode romper contato visual com o assincro, ambos estão imobilizados.                                                                                     |
+| [Bloqueio da Dor](#block-pain)                 | Complexa |    Minutos     |        4        | Alvo pode ignorar modificadores de ferimentos.                                                                                                                    |
+| [Bloqueio do Sentido](#block-sense)            | Complexa | Turnos de Ação |        4        | Nega um dos sentidos do alvo (audição, visão, olfato, paladar, tato).                                                                                             |
+| [Bloqueio da Perícia](#block-skill)            | Complexa |    Minutos     |        6        | Alvo não pode utilizar uma perícia especificada.                                                                                                                  |
+| [Vislumbre de Pensamentos](#browse-thoughts)   | Complexa |   Sustentada   |        4        | Escaneie os pensamentos superficiais do alvo.                                                                                                                     |
+| [Explosão de Adrenalina](#burst-of-adrenaline) | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Vigor.                                                                                                                                |
+| [Explosão de Clareza](#burst-of-clarity)       | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Inspiração.                                                                                                                           |
+| [Explosão de Confiança](#burst-of-confidence)  | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Manha.                                                                                                                                |
+| [Memória Nebulosa](#cloud-memory)              | Complexa |    Minutos     |        6        | Alvo não retém memórias de longo prazo.                                                                                                                           |
+| [Varredura Profunda](#deep-scan)               | Complexa |   Sustentada   |        6        | Recupere 2 itens da mente do alvo, +2 por sucesso maior.                                                                                                          |
+| [Déjà-Vu](#deja-vu)                            | Complexa |    Minutos     |        8        | Alvo é forçado a repetir suas ações dos últimos 15–30 segundos.                                                                                                   |
+| [Inatividade](#downtime)                       |  Tarefa  |   Sustentada   |        2        | Estado de fuga de 4 horas, cura 1d6 de estresse, +1d6 por sucesso maior, recebe efeito de influência.                                                             |
+| [Sentido de Ego](#ego-sense)                   | Complexa | Turnos de Ação |        2        | Detecta vida biológica; informações extras sobre distância, tamanho, tipo, etc. com sucessos maiores.                                                             |
+| [Varredura Empática](#empathic-scan)           | Complexa | Turnos de Ação |        4        | Conheça as emoções do alvo. +10 em testes de perícias sociais contra ele, +10 por sucesso maior.                                                                  |
+| [Ilusão](#illusion)                            | Complexa |   Sustentada   |        8        | Alvo vivencia uma ilusão de todos os sentidos, criada pelo assincro.                                                                                              |
+| [Implante de Memória](#implant-memory)         | Complexa |  Instantânea   |        6        | Implante memórias falsas permanentemente no alvo.                                                                                                                 |
+| [Implante de Perícia](#implant-skill)          | Complexa |     Horas      |        6        | Implante uma perícia possuída pelo assincro na mente do alvo com metade do valor.                                                                                 |
+| [Indução ao Erro](#induce-error)               | Complexa |    Minutos     |        6        | Alvo falha automaticamente no próximo teste que fizer usando a perícia escolhida pelo assincro.                                                                   |
+| [Mente Infecciosa](#infectious-mind)           | Complexa |   Sustentada   |        4        | Compartilhe um transtorno desencadeado ou efeito de influência com o alvo.                                                                                        |
+| [Influência](#influence)                       | Complexa | Turnos de Ação |        4        | Aplique um traço Comportamento Acentuado ou Comportamento Restrito (Nível 2).                                                                                     |
+| [Revigoração](#invigorate)                     | Complexa |  Instantânea   |        4        | Alvo pode usar a sua próxima ação complexa como uma recarga curta.                                                                                                |
+| [Imitação](#mimic)                             |  Rápida  |  Instantânea   |        4        | Registra os maneirismos dos alvo; +10 na perícia Enganação se passar pelo alvo, +10 por sucesso maior.                                                            |
+| [Ligação Mental](#mindlink)                    |  Rápida  |   Sustentada   |        2        | Telepatia.                                                                                                                                                        |
+| [Fortalecimento Neural](#neural-hardening)     | Complexa |    Minutos     |        4        | Alvo recebe um modificador +10 para resistir a hacks basiliscos.                                                                                                  |
+| [Pesadelo](#nightmare)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
+| [Dor](#pain)                                   | Complexa |  Instantânea   |        6        | Alvo é infligido com dor (como um agonizador), deve fugir com movimento total em sua próxima ação.                                                                |
+| [Escudo Psi](#psi-shield)                      | Complexa |   Sustentada   |        4        | Armadura mental aumentada em +1d6 (cumulativo com o truque Armadura Psi).                                                                                         |
+| [Punhalada Psíquica](#psychic-stab)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
+| [Senso de Infecção](#sense-infection)          | Complexa |  Instantânea   |        2        | Detecta a infecção exsurgente em vida biológica.                                                                                                                  |
+| [Curto-Circuito](#short-circuit)               | Complexa |  Instantânea   |        6        | Sinapses do alvo falham, ele fica incapacitado por 1 turno de ação e atordoado por 3 minutos.                                                                     |
+| [Spam](#spam)                                  | Complexa | Turnos de Ação |        6        | Alvo é sobrecarregado pela entrada sensorial, −10 em todas as ações, com −10 adicional por sucesso maior.                                                         |
+| [Estática](#static)                            | Complexa |   Sustentada   |        4        | −30 em todos os truques dentro do alcance Perto.                                                                                                                  |
+| [Sugestão](#subliminal)                        | Complexa |     Horas      |       10        | Implante uma ação sugestionada na mente do alvo que ele deve executar.                                                                                            |
+| [Tranquilidade](#tranquility)                  | Complexa |    Minutos     |        4        | Alvo é aliviado de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado. Não pode ser usado em si mesmo. |
 
 <!-- CLEANED /blockquote -->
 
@@ -229,7 +229,7 @@ Você coloca um bloqueio temporário no cérebro do alvo, impedindo-o de usar um
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 4
 
-Você escaneia os pensamentos superficiais do alvo, obtendo um sentido geral do que está se passando na mente dele. Os sucessos maiores fornecem mais detalhes. Isso não é uma exploração invasiva na mente do alvo por informações específicas como a [Varredura Profunda](../14/06-psi-sleight-summaries.md#deep-scan); em vez disso, você apenas sabe o que o alvo está pensando no momento.
+Você escaneia os pensamentos superficiais do alvo, obtendo um sentido geral do que está se passando na mente dele. Os sucessos maiores fornecem mais detalhes. Isto não é uma exploração invasiva na mente do alvo por informações específicas como a [Varredura Profunda](#deep-scan); em vez disso, você apenas sabe o que o alvo está pensando no momento.
 
 ### Explosão de Adrenalina
 
@@ -259,7 +259,7 @@ Você interrompe temporariamente a capacidade do alvo de formar memórias de lon
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 6
 
-A Varredura Profunda é uma versão invasiva do [Vislumbre de Pensamentos](../14/06-psi-sleight-summaries.md#browse-thoughts). Você telepaticamente invade a mente do alvo, sondando por informações. Você extrai duas informações (ex.: um nome, uma imagem, uma senha, uma descrição ou resumo de poucas frases, ou uma memória com menos de um minuto) mais duas para cada sucesso maior. Cada item leva um turno de ação completo para recuperar, durante o qual o truque o deve ser sustentado.
+A Varredura Profunda é uma versão invasiva do [Vislumbre de Pensamentos](#browse-thoughts). Você telepaticamente invade a mente do alvo, sondando por informações. Você extrai duas informações (ex.: um nome, uma imagem, uma senha, uma descrição ou resumo de poucas frases, ou uma memória com menos de um minuto) mais duas para cada sucesso maior. Cada item leva um turno de ação completo para recuperar, durante o qual o truque o deve ser sustentado.
 
 ### Déjà-Vu
 
@@ -271,7 +271,7 @@ Você força a mente do alvo em uma repetição recursiva. Ele vai repetir as me
 
 **Ação:** Tarefa • **Duração:** Sustentada • **Mod de Infecção:** 2
 
-Você coloca a mente do alvo em um estado de fuga de inatividade regenerativa, para reparar sua psique. Você deve sustentar esse truque por 4 horas durante as quais você não pode fazer nenhuma outra ação complexa. A inatividade não pode ser simultânea com uma recarga longa. Esse processo cura 1d6 de estresse, +1d6 por superior maior. Traumas e transtornos não são afetados por esse truque. Se interrompido, nenhum estresse é curado. Para todos os fins sensoriais, você e o alvo estão catatônicos durante a inatividade, completamente alheios ao mundo exterior. Apenas perturbações severas ou abalo físico (como sofrer um ferimento ou ser atingido por uma arma de choque) tirarão você ou alvo disso. Qualquer alvo desse truque que não seja você deve fazer uma Prova de VON; se ele falhar, em algum momento nas próximas 24 horas ele estará sujeito a um dos seus [efeitos de influência](../14/05-influence-effects.md).
+Você coloca a mente do alvo em um estado de fuga de inatividade regenerativa, para reparar sua psique. Você deve sustentar esse truque por 4 horas durante as quais você não pode fazer nenhuma outra ação complexa. A inatividade não pode ser simultânea com uma recarga longa. Esse processo cura 1d6 de estresse, +1d6 por superior maior. Traumas e transtornos não são afetados por esse truque. Se interrompido, nenhum estresse é curado. Para todos os fins sensoriais, você e o alvo estão catatônicos durante a inatividade, completamente alheios ao mundo exterior. Apenas perturbações severas ou abalo físico (como sofrer um ferimento ou ser atingido por uma arma de choque) tirarão você ou alvo disso. Qualquer alvo desse truque que não seja você deve fazer uma Prova de VON; se ele falhar, em algum momento nas próximas 24 horas ele estará sujeito a um dos seus [efeitos de influência](05-influence-effects.md).
 
 ### Sentido de Ego
 
