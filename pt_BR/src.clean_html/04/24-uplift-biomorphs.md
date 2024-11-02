@@ -1,6 +1,6 @@
 # Biomorfos Elevados
 
-Estes biomorfos são os corpos originais de vários não humanos sapientes. Apesar de incomuns e às vezes estigmatizados, eles também são encapados por não elevados.
+Esses biomorfos são os corpos originais de vários não humanos sapientes. Apesar de incomuns e às vezes estigmatizados, eles também são encapados por não elevados.
 
 ### Neo-Ave
 
@@ -51,7 +51,7 @@ Como outros neo-hominídeos, morfos de bonobo e chimpanzé elevados apresentam i
 
 ### Neo-Neandertal
 
-Este morfo é derivado de DNA neandertal fossilizado, elevado e aprimorado à equivalência transumana. Os morfos de neandertais são musculosos com uma estrutura óssea pesada, crânios nitidamente longos, saliências nas sombracelhas e queixos retraídos. Pele clara e cabelos vermelhos são características comuns.
+Esse morfo é derivado de DNA neandertal fossilizado, elevado e aprimorado à equivalência transumana. Os morfos de neandertais são musculosos com uma estrutura óssea pesada, crânios nitidamente longos, saliências nas sombracelhas e queixos retraídos. Pele clara e cabelos vermelhos são características comuns.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
