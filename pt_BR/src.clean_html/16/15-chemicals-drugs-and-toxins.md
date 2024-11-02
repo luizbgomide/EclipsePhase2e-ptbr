@@ -55,7 +55,7 @@ Se você for exposto a uma droga ou toxina através do seu método de aplicaçã
 
 Não há teste de resistência para ignorar os efeitos de uma droga ou toxina, mas alguns podem pedir uma prova de aptidão para determinar a gravidade do efeito.
 
-**Ware Defensivo:** [Filtros de toxina](../16/10-combat-augmentations.md) permitem uma Prova de SOM para ignorar completamente os efeitos de uma droga ou toxina bioquímica (eles não têm efeito em nanodrogas ou nanotoxinas). Se um efeito pedir uma prova de aptidão, os filtros de toxina aplicam um modificador +30. Os filtros de toxina ou medicadores reduzirão os efeitos de uma droga ou toxina bioquímica (dano, modificadores, etc.) e sua duração à metade; juntos eles anulam completamente os efeitos. Nanófagos reduzem os efeitos/duração de nanodrogas e nanotoxinas à metade.
+**Ware Defensivo:** [Filtros de toxina](10-combat-augmentations.md) permitem uma Prova de SOM para ignorar completamente os efeitos de uma droga ou toxina bioquímica (eles não têm efeito em nanodrogas ou nanotoxinas). Se um efeito pedir uma prova de aptidão, os filtros de toxina aplicam um modificador +30. Os filtros de toxina ou medicadores reduzirão os efeitos de uma droga ou toxina bioquímica (dano, modificadores, etc.) e sua duração à metade; juntos eles anulam completamente os efeitos. Nanófagos reduzem os efeitos/duração de nanodrogas e nanotoxinas à metade.
 
 ## Vício e Abuso
 
@@ -299,7 +299,7 @@ As propriedades tóxicas de substâncias biológicas e químicas podem ser usada
 
 **Temoral:** Esta droga é derivada de feromônios liberados pelo medo e usada para provocar a inquietação e até o terror. Faça uma Prova de VON ou sofra um ataque de pânico, infligindo VE 1d10. Você também sofre um modificador −30 para resistir a intimidação e manipulações emocionais baseadas em medo por 1 hora.
 
-**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, esta toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](../16/15-chemicals-drugs-and-toxins.md#chemicals)) seja aplicado.
+**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, esta toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](#chemicals)) seja aplicado.
 
 **Oxitocina-A:** Esta é uma variante geneticamente aprimorada de oxitocina, que induz confiança. Aplique um modificador −30 em Provas de VON e Testes de Cinésica em que confiança for um fator.
 
