@@ -73,11 +73,11 @@ As verificações de aptidão são atributos derivados, baseado na sua aptidão 
 
 ## Perícias
 
-As perícias representam habilidades aprendidas e aperfeiçoadas através de educação e prática. Elas são descritas em detalhes em [Perícias](../04/18-skills.md).
+As perícias representam habilidades aprendidas e aperfeiçoadas através de educação e prática. Elas são descritas em detalhes em [Perícias](18-skills.md).
 
 ## Morfo
 
-Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Este pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](../04/21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Aquisição de Morfos](../15/03-acquiring-morphs.md).
+Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Este pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Aquisição de Morfos](../15/03-acquiring-morphs.md).
 
 ## Atributos Derivados
 
@@ -112,7 +112,7 @@ Vários dos seus atributos são derivados de outros atributos ou aspectos do seu
 
 ## Traços
 
-Traços são qualidades inerentes, características ou falhas que ajudam a definir o seu personagem. Traços positivos lhe dão bônus em algumas situações; traços negativos criam inconvenientes para o seu personagem. Traços pertencem ao seu ego ou seu morfo. [Traços](../04/28-traits.md).
+Traços são qualidades inerentes, características ou falhas que ajudam a definir o seu personagem. Traços positivos lhe dão bônus em algumas situações; traços negativos criam inconvenientes para o seu personagem. Traços pertencem ao seu ego ou seu morfo. [Traços](28-traits.md).
 
 ## Rep
 
@@ -128,8 +128,8 @@ Seu personagem tem nível de reputação em diferentes redes sociais. Essa rep v
 
 ## Equipamentos
 
-Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, armaduras, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](../04/27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
+Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, armaduras, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
 
 ## Motivações
 
-Suas motivações definem a agenda pessoal, as crenças e os objetivos a longo prazo do seu personagem. Elas ajudam você a ganhar Pontos de Rez para avanço do personagem e a lidar com o trauma mental. [Passo 13: Motivações](../04/16-step-13-motivations.md).
+Suas motivações definem a agenda pessoal, as crenças e os objetivos a longo prazo do seu personagem. Elas ajudam você a ganhar Pontos de Rez para avanço do personagem e a lidar com o trauma mental. [Passo 13: Motivações](16-step-13-motivations.md).
