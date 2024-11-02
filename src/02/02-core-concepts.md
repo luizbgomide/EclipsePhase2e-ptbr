@@ -20,7 +20,7 @@ Uplifts and AGIs are collectively called _mercurials._ Many hypercorps and polit
 
 ## Defeating Death
 
-In Eclipse Phase, your mind can be digitally copied, stored, and altered like software. Almost everyone _uploads_ their mind to a secure storage service, as well as to a tiny device implanted at the base of the skull called a _cortical stack._ If you are killed, you can be restored from these backups. Only if all copies of yourself are destroyed will you be dead forever.
+In Eclipse Phase, your mind can be digitally copied, stored, and altered like software. Almost everyone _uploads_ their mind to a secure storage service, as well as to a tiny device implanted at the base of the skull called a _cortical stack_. If you are killed, you can be restored from these backups. Only if all copies of yourself are destroyed will you be dead forever.
 
 Backing up brings its own set of challenges. When your mind is recovered, it includes your memories up to the last moment of backing up. If you died horribly, that final experience is recorded in your cortical stack. Characters surviving traumatic experiences may opt to destroy their most recent backup and instead restore an older copy, losing weeks or months of experiences and memories (called lack), rather than deal with the psychological harm they’d suffered. Copies can also be stolen. You may live your life not knowing a copy of yourself has been resleeved on the far side of the Solar System to be tortured for information or sold into slavery. Fork-nappers and “soul traders” are the lowest of the low, profiting off of transhuman suffering.
 
