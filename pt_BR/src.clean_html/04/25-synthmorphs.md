@@ -296,6 +296,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 <!-- CLEANED /blockquote -->
 
+
 ## Flexbot
 
 Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais módulos que se interconectam em várias formas e configurações. Os módulos individuais são especializados para funções específicas e também conseguem se transformar em uma variedade de formas e mecanismos. Eles têm 4 membros em suas configurações padrão. Os módulos independentes são apenas do tamanho de um cão grande, mas múltiplos flexbots podem se unir para grandes operações em massa, até mesmo assumindo tarefas pesadas como demolição, escavação, fabricação, construção ou montagem de robótica. Flexbots também podem incorporar qualquer robô que tenha o ware Projeto Modular como módulo.

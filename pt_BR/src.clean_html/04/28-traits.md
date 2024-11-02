@@ -14,39 +14,39 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Ego
 
-| Traço                                                               | Custo PP | Efeito                                                                                                                                                                                                               |
-|:------------------------------------------------------------------- |:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Perspicácia](../04/28-traits.md#acumen)                            |  1/2/3   | +5 por nível em Provas de COG.                                                                                                                                                                                       |
-| [Adaptabilidade](../04/28-traits.md#adaptability)                   |   2/4    | Reencape facilitado. +10 por nível em Testes de Integração e de Estresse de Reencape.                                                                                                                                |
-| [Aliados](../04/28-traits.md#allies)                                |    4     | Um grupo apoia você. Um favor moderado gratuito por sessão.                                                                                                                                                          |
-| [Empatia com Animais](../04/28-traits.md#animal-empathy)            |    1     | +10 na Perícia Exótica: Trato Animal e testes semelhantes.                                                                                                                                                           |
-| [Bom Senso](../04/28-traits.md#common-sense)                        |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                       |
-| [Compostura](../04/28-traits.md#composure)                          |    2     | +5 em LUC, +1 em Limiar de Trauma, +10 em Grau de Insanidade.                                                                                                                                                        |
-| [Contato](../04/28-traits.md#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                |
-| [Senso de Perigo](../04/28-traits.md#danger-sense)                  |    1     | +10 em Testes de Percepção para evitar surpresa.                                                                                                                                                                     |
-| [Sentido Direcional](../04/28-traits.md#direction-sense)            |    1     | Sempre sabe onde é o norte/para cima/etc. +10 em testes envolvendo navegação.                                                                                                                                        |
-| [Cepa Dominante](../04/28-traits.md#dominant-strain)                |    2     | Apenas assincros. +10 vs. vírus exsurgente, ou mais dependendo do Grau de Infecção.                                                                                                                                  |
-| [Afinidade com Drones](../04/28-traits.md#drone-affinity)           |    1     | Sem Testes de Integração quando encarnar drones.                                                                                                                                                                     |
-| [Empatia](../04/28-traits.md#empathy)                               |  1/2/3   | +5 por nível em Provas de SAG.                                                                                                                                                                                       |
-| [Treinamento Especializado](../04/28-traits.md#expert-training)     |    2     | Pode começar com um perícia acima de 80, até o máximo de 90.                                                                                                                                                         |
-| [Alto Desempenho](../04/28-traits.md#fitness)                       |  1/2/3   | +5 por nível em Provas de SOM.                                                                                                                                                                                       |
-| [Bons Instintos](../04/28-traits.md#good-instincts)                 |  1/2/3   | +5 por nível em Provas de INT.                                                                                                                                                                                       |
-| [Calejamento](../04/28-traits.md#hardening)                         |    1     | Imune a estresse de [alienação, desamparo ou violência](../12/18-mental-health.md#stress-categories). −10 em Provas de VON e Testes de Persuasão. Pode ser escolhido várias vezes para diferentes tipos de estresse. |
-| [Hiperlinguística](../04/28-traits.md#hyper-linguistics)            |  1/2/3   | +10 por nível em Provas de INT para entender idiomas que você não conhece.                                                                                                                                           |
-| [Familiaridade com Morfo](../04/28-traits.md#morph-familiarity)     |    1     | Sem Testes de Integração quando encapar um tipo de morfo escolhido.                                                                                                                                                  |
-| [Tolerância à Dor](../04/28-traits.md#pain-tolerance)               |   2/4    | Ignore 1 modificador de ferimento por nível.                                                                                                                                                                         |
-| [Patrono](../04/28-traits.md#patron)                                |    6     | Uma pessoa influente apoia você. Um favor maior gratuito por arco de história.                                                                                                                                       |
-| [Psi](../04/28-traits.md#psi)                                       |   2/4    | Pode usar a perícia e truques Psi. Veja o texto para regras adicionais.                                                                                                                                              |
-| [Camuflagem Psi](../04/28-traits.md#psi-camouflage)                 |   1/2    | −10 por nível para ser detectado com psi.                                                                                                                                                                            |
-| [Defesa Psi](../04/28-traits.md#psi-defense)                        |   1/2    | +10 por nível para resistir a psi.                                                                                                                                                                                   |
-| [Rapidez](../04/28-traits.md#quickness)                             |  1/2/3   | +5 por nível em Provas de REF.                                                                                                                                                                                       |
-| [Determinação](../04/28-traits.md#resolve)                          |  1/2/3   | +5 por nível em Provas de VON.                                                                                                                                                                                       |
-| [Recursos](../04/28-traits.md#resources)                            | 2/4/6/8  | Riqueza para adquirir equipamentos. Veja o texto.                                                                                                                                                                    |
-| [Consciência Situacional](../04/28-traits.md#situational-awareness) |    1     | Nega modificadores de distração.                                                                                                                                                                                     |
-| [Visualização Espacial](../04/28-traits.md#spatial-visualization)   |    2     | +10 em Testes de Saber e Técnicos envolvendo visualização 3D.                                                                                                                                                        |
-| [Intrépido](../04/28-traits.md#stalwart)                            |  1/2/3   | +10 por nível em Provas de VON vs. medo.                                                                                                                                                                             |
-| [Facilidade com Números](../04/28-traits.md#superior-numeracy)      |   2/4    | +10 por nível em Testes de Saber e Técnicos envolvendo matemática.                                                                                                                                                   |
-| [Zoosemiótica](../04/28-traits.md#zoosemiotics)                     |    1     | Sem modificadores ao usar psi em animais não ou parcialmente sapientes.                                                                                                                                              |
+| Traço                                             | Custo PP | Efeito                                                                                                                                                                                                               |
+|:------------------------------------------------- |:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Perspicácia](#acumen)                            |  1/2/3   | +5 por nível em Provas de COG.                                                                                                                                                                                       |
+| [Adaptabilidade](#adaptability)                   |   2/4    | Reencape facilitado. +10 por nível em Testes de Integração e de Estresse de Reencape.                                                                                                                                |
+| [Aliados](#allies)                                |    4     | Um grupo apoia você. Um favor moderado gratuito por sessão.                                                                                                                                                          |
+| [Empatia com Animais](#animal-empathy)            |    1     | +10 na Perícia Exótica: Trato Animal e testes semelhantes.                                                                                                                                                           |
+| [Bom Senso](#common-sense)                        |    2     | Uma vez por sessão, pode pedir conselho ao MJ.                                                                                                                                                                       |
+| [Compostura](#composure)                          |    2     | +5 em LUC, +1 em Limiar de Trauma, +10 em Grau de Insanidade.                                                                                                                                                        |
+| [Contato](#contact)                               |    1     | +10 em Testes de Rep com uma rede ao usar o contato. Pode ser escolhido várias vezes.                                                                                                                                |
+| [Senso de Perigo](#danger-sense)                  |    1     | +10 em Testes de Percepção para evitar surpresa.                                                                                                                                                                     |
+| [Sentido Direcional](#direction-sense)            |    1     | Sempre sabe onde é o norte/para cima/etc. +10 em testes envolvendo navegação.                                                                                                                                        |
+| [Cepa Dominante](#dominant-strain)                |    2     | Apenas assincros. +10 vs. vírus exsurgente, ou mais dependendo do Grau de Infecção.                                                                                                                                  |
+| [Afinidade com Drones](#drone-affinity)           |    1     | Sem Testes de Integração quando encarnar drones.                                                                                                                                                                     |
+| [Empatia](#empathy)                               |  1/2/3   | +5 por nível em Provas de SAG.                                                                                                                                                                                       |
+| [Treinamento Especializado](#expert-training)     |    2     | Pode começar com um perícia acima de 80, até o máximo de 90.                                                                                                                                                         |
+| [Alto Desempenho](#fitness)                       |  1/2/3   | +5 por nível em Provas de SOM.                                                                                                                                                                                       |
+| [Bons Instintos](#good-instincts)                 |  1/2/3   | +5 por nível em Provas de INT.                                                                                                                                                                                       |
+| [Calejamento](#hardening)                         |    1     | Imune a estresse de [alienação, desamparo ou violência](../12/18-mental-health.md#stress-categories). −10 em Provas de VON e Testes de Persuasão. Pode ser escolhido várias vezes para diferentes tipos de estresse. |
+| [Hiperlinguística](#hyper-linguistics)            |  1/2/3   | +10 por nível em Provas de INT para entender idiomas que você não conhece.                                                                                                                                           |
+| [Familiaridade com Morfo](#morph-familiarity)     |    1     | Sem Testes de Integração quando encapar um tipo de morfo escolhido.                                                                                                                                                  |
+| [Tolerância à Dor](#pain-tolerance)               |   2/4    | Ignore 1 modificador de ferimento por nível.                                                                                                                                                                         |
+| [Patrono](#patron)                                |    6     | Uma pessoa influente apoia você. Um favor maior gratuito por arco de história.                                                                                                                                       |
+| [Psi](#psi)                                       |   2/4    | Pode usar a perícia e truques Psi. Veja o texto para regras adicionais.                                                                                                                                              |
+| [Camuflagem Psi](#psi-camouflage)                 |   1/2    | −10 por nível para ser detectado com psi.                                                                                                                                                                            |
+| [Defesa Psi](#psi-defense)                        |   1/2    | +10 por nível para resistir a psi.                                                                                                                                                                                   |
+| [Rapidez](#quickness)                             |  1/2/3   | +5 por nível em Provas de REF.                                                                                                                                                                                       |
+| [Determinação](#resolve)                          |  1/2/3   | +5 por nível em Provas de VON.                                                                                                                                                                                       |
+| [Recursos](#resources)                            | 2/4/6/8  | Riqueza para adquirir equipamentos. Veja o texto.                                                                                                                                                                    |
+| [Consciência Situacional](#situational-awareness) |    1     | Nega modificadores de distração.                                                                                                                                                                                     |
+| [Visualização Espacial](#spatial-visualization)   |    2     | +10 em Testes de Saber e Técnicos envolvendo visualização 3D.                                                                                                                                                        |
+| [Intrépido](#stalwart)                            |  1/2/3   | +10 por nível em Provas de VON vs. medo.                                                                                                                                                                             |
+| [Facilidade com Números](#superior-numeracy)      |   2/4    | +10 por nível em Testes de Saber e Técnicos envolvendo matemática.                                                                                                                                                   |
+| [Zoosemiótica](#zoosemiotics)                     |    1     | Sem modificadores ao usar psi em animais não ou parcialmente sapientes.                                                                                                                                              |
 
 <!-- CLEANED /blockquote -->
 
@@ -54,27 +54,27 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Morfo
 
-| Traço                                                                   | Custo PM | Efeito                                                                                |
-|:----------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------- |
-| [Perspicácia](../04/28-traits.md#acumen)                                |  1/2/3   | +5 por nível em Provas de COG.                                                        |
-| [Velocidade Digital](../04/28-traits.md#digital-speed)                  |    1     | Prazos de tarefas da mesh reduzidos em 25%. Apenas infomorfos.                        |
-| [Empatia](../04/28-traits.md#empathy)                                   |  1/2/3   | +5 por nível em Provas de SAG.                                                        |
-| [Alto Desempenho](../04/28-traits.md#fitness)                           |  1/2/3   | +5 por nível em Provas de SOM.                                                        |
-| [Bons Instintos](../04/28-traits.md#good-instincts)                     |  1/2/3   | +5 por nível em Provas de INT.                                                        |
-| [Sistema Imune Aperfeiçoado](../04/28-traits.md#improved-immune-system) |   1/2    | +10 por nível para resistir a químicos, doenças, drogas e toxinas. Apenas biomorfos.  |
-| [Aparência Genérica](../04/28-traits.md#innocuous-looks)                |    1     | Mundano. −10 para ser identificado/avistado/lembrado.                                 |
-| [Letalidade](../04/28-traits.md#lethal)                                 |    1     | +1d6&nbsp;VD in luta.                                                                 |
-| [Flexibilidade](../04/28-traits.md#limberness)                          |   1/2    | +10 por nível para escapar de amarras, caber em espaços estreitos, contorcer-se, etc. |
-| [Imunidade Natural](../04/28-traits.md#natural-immunity)                |    1     | Imunidade a uma determinada droga, químico ou toxina. Apenas biomorfos.               |
-| [Tolerância à Dor](../04/28-traits.md#pain-tolerance)                   |   2/4    | Ignore 1 modificador de ferimento por nível.                                          |
-| [Camuflagem Psi](../04/28-traits.md#psi-camouflage)                     |   1/2    | −10 por nível para ser detectado com psi. Apenas morfos com biocérebros.              |
-| [Defesa Psi](../04/28-traits.md#psi-defense)                            |   1/2    | +10 por nível para resistir a psi. Apenas morfos com biocérebros.                     |
-| [Rapidez](../04/28-traits.md#quickness)                                 |  1/2/3   | +5 por nível em Provas de REF.                                                        |
-| [Cura Rápida](../04/28-traits.md#rapid-healing)                         |    1     | Cura-se duas vezes mais rápido. Apenas biomorfos.                                     |
-| [Determinação](../04/28-traits.md#resolve)                              |  1/2/3   | +5 por nível em Provas de VON.                                                        |
-| [Resíduo Pericial](../04/28-traits.md#skill-artifact)                   |   1/2    | +10 por nível em uma perícia escolhida pelo MJ.                                       |
-| [Aparência Marcante](../04/28-traits.md#striking-looks)                 |   1/2    | +10 em Testes de Persuasão e Provocação quando a aparência importar.                  |
-| [Resistência](../04/28-traits.md#toughness)                             |   2/4    | +5 em DUR, também impacta LF e GD, veja o texto.                                      |
+| Traço                                                 | Custo PM | Efeito                                                                                |
+|:----------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------- |
+| [Perspicácia](#acumen)                                |  1/2/3   | +5 por nível em Provas de COG.                                                        |
+| [Velocidade Digital](#digital-speed)                  |    1     | Prazos de tarefas da mesh reduzidos em 25%. Apenas infomorfos.                        |
+| [Empatia](#empathy)                                   |  1/2/3   | +5 por nível em Provas de SAG.                                                        |
+| [Alto Desempenho](#fitness)                           |  1/2/3   | +5 por nível em Provas de SOM.                                                        |
+| [Bons Instintos](#good-instincts)                     |  1/2/3   | +5 por nível em Provas de INT.                                                        |
+| [Sistema Imune Aperfeiçoado](#improved-immune-system) |   1/2    | +10 por nível para resistir a químicos, doenças, drogas e toxinas. Apenas biomorfos.  |
+| [Aparência Genérica](#innocuous-looks)                |    1     | Mundano. −10 para ser identificado/avistado/lembrado.                                 |
+| [Letalidade](#lethal)                                 |    1     | +1d6&nbsp;VD in luta.                                                                 |
+| [Flexibilidade](#limberness)                          |   1/2    | +10 por nível para escapar de amarras, caber em espaços estreitos, contorcer-se, etc. |
+| [Imunidade Natural](#natural-immunity)                |    1     | Imunidade a uma determinada droga, químico ou toxina. Apenas biomorfos.               |
+| [Tolerância à Dor](#pain-tolerance)                   |   2/4    | Ignore 1 modificador de ferimento por nível.                                          |
+| [Camuflagem Psi](#psi-camouflage)                     |   1/2    | −10 por nível para ser detectado com psi. Apenas morfos com biocérebros.              |
+| [Defesa Psi](#psi-defense)                            |   1/2    | +10 por nível para resistir a psi. Apenas morfos com biocérebros.                     |
+| [Rapidez](#quickness)                                 |  1/2/3   | +5 por nível em Provas de REF.                                                        |
+| [Cura Rápida](#rapid-healing)                         |    1     | Cura-se duas vezes mais rápido. Apenas biomorfos.                                     |
+| [Determinação](#resolve)                              |  1/2/3   | +5 por nível em Provas de VON.                                                        |
+| [Resíduo Pericial](#skill-artifact)                   |   1/2    | +10 por nível em uma perícia escolhida pelo MJ.                                       |
+| [Aparência Marcante](#striking-looks)                 |   1/2    | +10 em Testes de Persuasão e Provocação quando a aparência importar.                  |
+| [Resistência](#toughness)                             |   2/4    | +5 em DUR, também impacta LF e GD, veja o texto.                                      |
 
 <!-- CLEANED /blockquote -->
 
@@ -242,7 +242,7 @@ O patrono fornece um [favor](../15/13-networking.md#favors) maior gratuito por a
 
 **Traço de ▲ Ego • Custo PP: 2/4**
 
-Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender [perícia Psi](../04/19-active-skill-list.md#psi) e comprar habilidades psi, chamadas [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
+Você está infectado com a cepa Watts-MacLeod do vírus exsurgente, o que alterou sua estrutura cerebral e aprimorou suas habilidades cognitivas. Você pode aprender a [perícia Psi](19-active-skill-list.md#psi) e comprar habilidades psi chamadas [truques](../14/06-psi-sleight-summaries.md). No Nível 1, você pode usar apenas truques psi-qui. No Nível 2, o personagem pode usar truques psi-qui e psi-gama.
 
 Psi tem suas desvantagens. Você também deve pegar um traço negativo de acordo com a sua [subcepa](../14/02-watts-macleod-sub-strains.md) sem nenhum bônus de PP. Esse traço obrigatório não conta no limite de PP de traços.
 
@@ -280,7 +280,7 @@ Você é firme e inabalável. Receba +5 por nível em Provas de VON.
 
 **Traço de ▲ Ego • Custo PP: 2/4/6/8**
 
-Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e governos jovianos e extropianos. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço para [aquisição de morfos](../15/03-acquiring-morphs.md) e [de equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
+Você tem uma quantia de dinheiro, ativos e/ou outra riqueza, conforme usado pelo sistema interior, hipercorps, e governos jovianos e extropianos. Isso fornece Pontos de Morfo e Pontos de Equipamento de bônus iguais ao nível do traço para [aquisição de morfos](../15/03-acquiring-morphs.md) e de [equipamentos](../16/02-acquiring-gear.md). Ele também lhe fornece um valor regular de renda disponível para comprar equipamentos durante missões.
 
 No Nível 1, você pode gastar até 2&nbsp;PE por semana em itens de complexidade de Menor, dado o prazo adequado.
 
@@ -358,35 +358,35 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 
 ### Traços Negativos de Ego
 
-| Traço                                                                | Bônus PP | Efeito                                                                                           |
-|:-------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------ |
-| [Vício](../04/28-traits.md#addiction)                                |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais.                   |
-| [Má Sorte](../04/28-traits.md#bad-luck)                              |    6     | Não pode usar paradas para inverter rolagens de dados.                                           |
-| [Rep Bloqueada](../04/28-traits.md#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
-| [Mácula](../04/28-traits.md#black-mark)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
-| [Paralisia de Combate](../04/28-traits.md#combat-paralysis)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
-| [Memórias Editadas](../04/28-traits.md#edited-memories)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
-| [Inimigo](../04/28-traits.md#enemy)                                  |    2     | Um PNJ inimigo assombra você.                                                                    |
-| [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)      |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                              |
-| [Fraqueza](../04/28-traits.md#feebleness)                            |  1/2/3   | −5 por nível em Provas de SOM.                                                                   |
-| [Crise de Identidade](../04/28-traits.md#identity-crisis)            |    1     | Problemas de adaptação às novas fisiologias de morfo, −10 quando aplicável.                      |
-| [Indiferença](../04/28-traits.md#indifference)                       |  1/2/3   | −5 por nível em Provas de SAG.                                                                   |
-| [Instabilidade](../04/28-traits.md#instability)                      |   2/4    | −5 em LUC, −1 em Limiar de Trauma, e −10 em Grau de Insanidade por nível.                        |
-| [Baixa Tolerância à Dor](../04/28-traits.md#low-pain-tolerance)      |    4     | Modificador −10 adicional por ferimento.                                                         |
-| [Transtorno Mental](../04/28-traits.md#mental-disorder)              |    2     | Escolha um [transtorno](../12/20-disorders.md).                                                  |
-| [Transtorno Mórfico](../04/28-traits.md#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
-| [Dano Neural](../04/28-traits.md#neural-damage)                      |    2     | Você tem algum tipo de dano neural incurável; veja o texto.                                      |
-| [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
-| [Desatenção](../04/28-traits.md#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
-| [Estupidez](../04/28-traits.md#obtuseness)                           |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
-| [Baixa Coordenação](../04/28-traits.md#poor-coordination)            |  1/2/3   | −5 por nível em Provas de REF.                                                                   |
-| [Maus Instintos](../04/28-traits.md#poor-instincts)                  |  1/2/3   | −5 por nível em Provas de INT.                                                                   |
-| [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
-| [Inexperiência no Mundo Real](../04/28-traits.md#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
-| [Comportamento Restrito](../04/28-traits.md#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
-| [Sensitividade](../04/28-traits.md#sensitive)                        |   1/2    | −10 por nível em Provas de INT para resistir a hacks basiliscos.                                 |
-| [Timidez](../04/28-traits.md#timidity)                               |  1/2/3   | −5 por nível em Provas de VON.                                                                   |
-| [Vertigem de RV](../04/28-traits.md#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Prova de SOM ou incapacitado.                     |
+| Traço                                              | Bônus PP | Efeito                                                                                           |
+|:-------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------ |
+| [Vício](#addiction)                                |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais.                   |
+| [Má Sorte](#bad-luck)                              |    6     | Não pode usar paradas para inverter rolagens de dados.                                           |
+| [Rep Bloqueada](#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
+| [Mácula](#black-mark)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
+| [Paralisia de Combate](#combat-paralysis)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
+| [Memórias Editadas](#edited-memories)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
+| [Inimigo](#enemy)                                  |    2     | Um PNJ inimigo assombra você.                                                                    |
+| [Comportamento Acentuado](#enhanced-behavior)      |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                              |
+| [Fraqueza](#feebleness)                            |  1/2/3   | −5 por nível em Provas de SOM.                                                                   |
+| [Crise de Identidade](#identity-crisis)            |    1     | Problemas de adaptação às novas fisiologias de morfo, −10 quando aplicável.                      |
+| [Indiferença](#indifference)                       |  1/2/3   | −5 por nível em Provas de SAG.                                                                   |
+| [Instabilidade](#instability)                      |   2/4    | −5 em LUC, −1 em Limiar de Trauma, e −10 em Grau de Insanidade por nível.                        |
+| [Baixa Tolerância à Dor](#low-pain-tolerance)      |    4     | Modificador −10 adicional por ferimento.                                                         |
+| [Transtorno Mental](#mental-disorder)              |    2     | Escolha um [transtorno](../12/20-disorders.md).                                                  |
+| [Transtorno Mórfico](#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
+| [Dano Neural](#neural-damage)                      |    2     | Você tem algum tipo de dano neural incurável; veja o texto.                                      |
+| [Nenhum Seguro de Backup](#no-backup-insurance)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
+| [Desatenção](#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
+| [Estupidez](#obtuseness)                           |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
+| [Baixa Coordenação](#poor-coordination)            |  1/2/3   | −5 por nível em Provas de REF.                                                                   |
+| [Maus Instintos](#poor-instincts)                  |  1/2/3   | −5 por nível em Provas de INT.                                                                   |
+| [Vulnerabilidade Psi](#psi-vulnerability)          |   1/2    | −10 por nível para resistir a psi.                                                               |
+| [Inexperiência no Mundo Real](#real-world-naiveté) |    2     | O MJ pode fornecer informações falsas uma vez por sessão.                                        |
+| [Comportamento Restrito](#restricted-behavior)     |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                               |
+| [Sensitividade](#sensitive)                        |   1/2    | −10 por nível em Provas de INT para resistir a hacks basiliscos.                                 |
+| [Timidez](#timidity)                               |  1/2/3   | −5 por nível em Provas de VON.                                                                   |
+| [Vertigem de RV](#vr-vertigo)                      |    2     | Modificador −30 ao usar XP/RV; −10 ao usar RA. Prova de SOM ou incapacitado.                     |
 
 <!-- CLEANED /blockquote -->
 
@@ -394,36 +394,36 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 
 ### Traços Negativos de Morfo
 
-| Traço                                                               | Bônus PM | Efeito                                                                                                                          |
-|:------------------------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
-| [Vício](../04/28-traits.md#addiction)                               |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais. Apenas biomorfos.                                |
-| [Velhice](../04/28-traits.md#age)                                   |    4     | −10 em ações físicas. Apenas intocados e tratados.                                                                              |
-| [Membro Dominante](../04/28-traits.md#dominant-limb)                |    1     | −20 em testes feitos com membros não dominantes.                                                                                |
-| [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
-| [Morfologia Exótica](../04/28-traits.md#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
-| [Fraqueza](../04/28-traits.md#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
-| [Fragilidade](../04/28-traits.md#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
-| [Defeito Genético](../04/28-traits.md#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas intocados.                                                      |
-| [Hipersensibilidade](../04/28-traits.md#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
-| [Indiferença](../04/28-traits.md#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
-| [Risco de Infecção](../04/28-traits.md#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
-| [Falhas Inerentes](../04/28-traits.md#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
-| [Baixa Tolerância à Dor](../04/28-traits.md#low-pain-tolerance)     |    4     | Modificador −10 adicional por ferimento.                                                                                        |
-| [Resíduo Memorial](../04/28-traits.md#memory-artifact)              |    1     | Recordar lembranças de outro ego uma vez por sessão; Prova de COG ou VE 1d6.                                                    |
-| [Bioquímica Não Humana](../04/28-traits.md#non-human-biochemistry)  |   2/4    | −10 em Testes de Medicina, −20 se não mamífero. Apenas biomorfos.                                                               |
-| [Estupidez](../04/28-traits.md#obtuseness)                          |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
-| [Obsolescência Programada](../04/28-traits.md#planned-obsolescence) |    1     | Perda de parada/ferimento cumulativos por mês sem manutenção.                                                                   |
-| [Baixa Coordenação](../04/28-traits.md#poor-coordination)           |  1/2/3   | −5 por nível em Provas de REF.                                                                                                  |
-| [Maus Instintos](../04/28-traits.md#poor-instincts)                 |  1/2/3   | −5 por nível em Provas de INT.                                                                                                  |
-| [Tecnologia Proprietária](../04/28-traits.md#proprietary-tech)      |    2     | −20 em Testes de Aparelhagem, reparadores não funcionam. Apenas sintemorfos.                                                    |
-| [Comportamento Restrito](../04/28-traits.md#restricted-behavior)    |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                                                              |
-| [Vulnerabilidade Psi](../04/28-traits.md#psi-vulnerability)         |   1/2    | −10 por nível para resistir a psi. Apenas morfos com biocérebros.                                                               |
-| [Alergia Grave](../04/28-traits.md#severe-allergy)                  |   2/4    | −30 quando exposto a alérgenos mais Prova de SOM ou choque anafilático; morte em 2d10 minutos sem tratamento. Apenas biomorfos. |
-| [Defeito Pericial](../04/28-traits.md#skill-glitch)                 |   1/2    | −10 por nível em uma perícia escolhida pelo MJ.                                                                                 |
-| [Timidez](../04/28-traits.md#timidity)                              |  1/2/3   | −5 por nível em Provas de VON.                                                                                                  |
-| [Feiura](../04/28-traits.md#unattractiveness)                       |   1/2    | −10 em Testes de Persuasão e Provocação quando a aparência importar.                                                            |
-| [Sistema Imune Debilitado](../04/28-traits.md#weak-immune-system)   |   1/2    | −10 por nível para resistir a químicos, doenças, drogas e toxinas. Apenas biomorfos.                                            |
-| [Náusea em Zero-G](../04/28-traits.md#zero-g-nausea)                |    2     | −10 em microgravidade; Prova de SOM ou incapacitado na primeira hora. Apenas biomorfos.                                         |
+| Traço                                             | Bônus PM | Efeito                                                                                                                          |
+|:------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
+| [Vício](#addiction)                               |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais. Apenas biomorfos.                                |
+| [Velhice](#age)                                   |    4     | −10 em ações físicas. Apenas intocados e tratados.                                                                              |
+| [Membro Dominante](#dominant-limb)                |    1     | −20 em testes feitos com membros não dominantes.                                                                                |
+| [Comportamento Acentuado](#enhanced-behavior)     |  1/2/4   | Comportamento/emoções acentuados psicocirurgicamente. Veja o texto.                                                             |
+| [Morfologia Exótica](#exotic-morphology)          |  2/4/6   | −10 por nível em Testes de Integração.                                                                                          |
+| [Fraqueza](#feebleness)                           |  1/2/3   | −5 por nível em Provas de SOM.                                                                                                  |
+| [Fragilidade](#frailty)                           |   2/4    | −5 em DUR, também impacta LF e GD, veja o texto.                                                                                |
+| [Defeito Genético](#genetic-defect)               |   1/2    | O morfo possui complicações de saúde pequenas ou graves. Apenas intocados.                                                      |
+| [Hipersensibilidade](#hypersensitivity)           |    3     | Nenhum implante permitido. Apenas biomorfos.                                                                                    |
+| [Indiferença](#indifference)                      |  1/2/3   | −5 por nível em Provas de SAG.                                                                                                  |
+| [Risco de Infecção](#infection-risk)              |   1/2    | −10 por nível em Provas de SOM para resistir ao vírus exsurgente biológico.                                                     |
+| [Falhas Inerentes](#inherent-flaws)               |    2     | 10% de chance de adquirir um ferimento cada vez que uma falha crítica é rolada. Apenas sintemorfos.                             |
+| [Baixa Tolerância à Dor](#low-pain-tolerance)     |    4     | Modificador −10 adicional por ferimento.                                                                                        |
+| [Resíduo Memorial](#memory-artifact)              |    1     | Recordar lembranças de outro ego uma vez por sessão; Prova de COG ou VE 1d6.                                                    |
+| [Bioquímica Não Humana](#non-human-biochemistry)  |   2/4    | −10 em Testes de Medicina, −20 se não mamífero. Apenas biomorfos.                                                               |
+| [Estupidez](#obtuseness)                          |  1/2/3   | −5 por nível em Provas de COG.                                                                                                  |
+| [Obsolescência Programada](#planned-obsolescence) |    1     | Perda de parada/ferimento cumulativos por mês sem manutenção.                                                                   |
+| [Baixa Coordenação](#poor-coordination)           |  1/2/3   | −5 por nível em Provas de REF.                                                                                                  |
+| [Maus Instintos](#poor-instincts)                 |  1/2/3   | −5 por nível em Provas de INT.                                                                                                  |
+| [Tecnologia Proprietária](#proprietary-tech)      |    2     | −20 em Testes de Aparelhagem, reparadores não funcionam. Apenas sintemorfos.                                                    |
+| [Comportamento Restrito](#restricted-behavior)    |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                                                              |
+| [Vulnerabilidade Psi](#psi-vulnerability)         |   1/2    | −10 por nível para resistir a psi. Apenas morfos com biocérebros.                                                               |
+| [Alergia Grave](#severe-allergy)                  |   2/4    | −30 quando exposto a alérgenos mais Prova de SOM ou choque anafilático; morte em 2d10 minutos sem tratamento. Apenas biomorfos. |
+| [Defeito Pericial](#skill-glitch)                 |   1/2    | −10 por nível em uma perícia escolhida pelo MJ.                                                                                 |
+| [Timidez](#timidity)                              |  1/2/3   | −5 por nível em Provas de VON.                                                                                                  |
+| [Feiura](#unattractiveness)                       |   1/2    | −10 em Testes de Persuasão e Provocação quando a aparência importar.                                                            |
+| [Sistema Imune Debilitado](#weak-immune-system)   |   1/2    | −10 por nível para resistir a químicos, doenças, drogas e toxinas. Apenas biomorfos.                                            |
+| [Náusea em Zero-G](#zero-g-nausea)                |    2     | −10 em microgravidade; Prova de SOM ou incapacitado na primeira hora. Apenas biomorfos.                                         |
 
 <!-- CLEANED /blockquote -->
 

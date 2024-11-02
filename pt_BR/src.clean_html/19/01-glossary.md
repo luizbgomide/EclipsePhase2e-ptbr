@@ -112,7 +112,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** A conspiração secreta interfaccional que trabalha para proteger a transumanidade dos riscos X.
 - **Firewall:** O programa que defende um sistema de invasões.
 - **Hab Fisher:** Uma variante de hab cilíndrico que usa módulos independentes.
-- **Facilitador:** Alguém que negocia tratos para adquirir bens ou informações.
+- **Agenciador:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Intocado:** Um humano comum, sem genecorreções ou modificações.
 - **Planetista:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
@@ -247,7 +247,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Reinstanciado:** Ser reencapado. Também se refere a infugiados reencapados.
 - **Refeito:** Um biomorfo criado como um upgrade humano, humano 2.0.
 - **Reencapar:** Fazer download em um novo morfo. Também chamado de remorfar.
-- **Bordárea:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
+- **Limiárea:** A metade exterior do Sistema Solar, do Cinturão Principal até a Nuvem de Oort.
 - **Aneleiro:** Habitantes dos anéis de Saturno.
 - **Devassamento:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Conta Root:** A única conta em um sistema que pode não ter seus privilégios de administrador revogados.

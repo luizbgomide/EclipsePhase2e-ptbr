@@ -60,7 +60,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 <!-- CLEANED /blockquote -->
 
-**Negociadores:** Este personagem tem o dom do papo e a rep para usá-lo. Facilitadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
+**Negociadores:** Este personagem tem o dom do papo e a rep para usá-lo. Agenciadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
 
 <!-- CLEANED blockquote class="indent" -->
 

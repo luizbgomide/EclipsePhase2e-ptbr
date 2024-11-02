@@ -50,7 +50,7 @@ Nenhuma missão sobrevive o primeiro contato com o inimigo, e nenhum plano de lo
 
 - **Usar Rep:** Tenha sucesso em um Teste de Rep e use um favor apropriado. O favor é Menor para itens de complexidade Menor, Moderado para itens Moderados, e Maior para itens Maiores ([Socialização](../15/13-networking.md)).
 - **Usar o Traço Recursos:** Gaste moeda para comprá-lo ([Recursos](../04/28-traits.md#resources)).
-- **Use um Nanofabricador:** Faça você mesmo. Isso requer diagramas (ou a perícia Programação para fazer você mesmo) e acesso a um nanofabro funcional ([Nanofabricação](../16/03-nanofabrication.md)).
+- **Use um Nanofabricador:** Faça você mesmo. Isto requer diagramas (ou a perícia Programação para fazer você mesmo) e acesso a um nanofabro funcional ([Nanofabricação](03-nanofabrication.md)).
 
 ### Prazo de Aquisição
 
@@ -72,7 +72,7 @@ Se o teste (se houver) for bem-sucedido, você adquire/compra/faz o equipamento 
 
 ### Físico vs. Diagrama
 
-Quando usar rep ou Recursos para adquirir equipamentos, você escolhe entre um item físico ou um diagrama de uso único acessado através de uma plataforma de distribuição digital ([Obtendo Diagramas](../16/03-nanofabrication.md#getting-blueprints)). Diagramas de uso único tem um prazo muito mais rápido (1 minuto). Se o MJ permitir, você pode adquirir um diagrama de uso limitado, em vez de uso único. Diagramas de uso múltiplo também estão disponíveis, mas são mais difíceis de conseguir; aumente a complexidade em um grau (ou seja, Menor se torna Moderada). Para simplificar, assume-se que diagramas de uso múltiplo venham com uma cópia física do item.
+Quando usar rep ou Recursos para adquirir equipamentos, você escolhe entre um item físico ou um diagrama de uso único acessado através de uma plataforma de distribuição digital ([Obtendo Diagramas](03-nanofabrication.md#getting-blueprints)). Diagramas de uso único tem um prazo muito mais rápido (1 minuto). Se o MJ permitir, você pode adquirir um diagrama de uso limitado, em vez de uso único. Diagramas de uso múltiplo também estão disponíveis, mas são mais difíceis de conseguir; aumente a complexidade em um grau (ou seja, Menor se torna Moderada). Para simplificar, assume-se que diagramas de uso múltiplo venham com uma cópia física do item.
 
 Quando adquirir programas ou outros produtos puramente digitais, o prazo de 1 minuto também se aplica.
 
@@ -94,7 +94,7 @@ O sistema de Pontos de Equipamento para missão é ideal para estilos episódico
 
 ### Quando e Onde?
 
-Embora esse sistema torne a aquisição de equipamentos um processo abstrato, ele ainda pode ser incorporado à história. Também pode ser importante saber exatamente como, quando, e onde você pode colocar as mãos em seus novos brinquedos. Se você egoprojetar para um novo hab, você pode ter um agente aguardando por você no banco de corpos, ou você pode ter que esperar alguns dias até uma reunião com o facilitador local para pegar os produtos. A Firewall pode ter dado os detalhes de um depósito de partição temporária secreto, mas ele está localizado em uma parte do habitat que agora é controlada por uma gangue que odeia forasteiros. Ou talvez seu patrono esteja esperando uma demonstração de lealdade antes de dar prosseguimento, ou talvez os anarquistas locais não confiem o suficiente em você para compartilhar todos os recursos deles imediatamente. Talvez um grupo rival saiba que você está chegando, e decida emboscar você antes que você esteja equipado ou assaltar seu depósito de suprimentos. Embora os MJs e jogadores possam decidir nos elementos logísticos juntos, essa também é uma boa oportunidade para interpretação, introdução de novos PNJs, e o surgimento de algumas surpresas.
+Embora esse sistema torne a aquisição de equipamentos um processo abstrato, ele ainda pode ser incorporado à história. Também pode ser importante saber exatamente como, quando, e onde você pode colocar as mãos em seus novos brinquedos. Se você egoprojetar para um novo hab, você pode ter um agente aguardando por você no banco de corpos, ou você pode ter que esperar alguns dias até uma reunião com o agenciador local para pegar os produtos. A Firewall pode ter dado os detalhes de um depósito de partição temporária secreto, mas ele está localizado em uma parte do habitat que agora é controlada por uma gangue que odeia forasteiros. Ou talvez seu patrono esteja esperando uma demonstração de lealdade antes de dar prosseguimento, ou talvez os anarquistas locais não confiem o suficiente em você para compartilhar todos os recursos deles imediatamente. Talvez um grupo rival saiba que você está chegando, e decida emboscar você antes que você esteja equipado ou assaltar seu depósito de suprimentos. Embora os MJs e jogadores possam decidir nos elementos logísticos juntos, essa também é uma boa oportunidade para interpretação, introdução de novos PNJs, e o surgimento de algumas surpresas.
 
 ### Bibliotecas de Diagramas
 

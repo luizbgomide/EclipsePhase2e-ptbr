@@ -4,9 +4,9 @@ Transtornos são distúrbios psicológicos duradouros que geralmente exigem sema
 
 **Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou acumulando estresse que iguala ou excede sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
 
-**Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
+**Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
+**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
 
 ### Transtorno de Comportamento Alienígena
 
@@ -52,7 +52,7 @@ Esse transtorno de ansiedade, caracterizado pelo autocanibalismo dos membros, ge
 
 **Gatilhos:** Desamparo, privação de sono, tristeza, violência
 
-Com a depressão maníaca, seus períodos de depressão são interrompidos por breves (alguns dias, no máximo) períodos de obsessão com bastante energia e um desprezo geral pelas consequências. Os estágios depressivos são semelhantes de todas as formas a [depressão](../12/20-disorders.md#depression). Quando está maníaco, você corre riscos, gasta freneticamente, e se envolve em comportamentos sem prudência ou consideração às consequências a longo prazo.
+Com a depressão maníaca, seus períodos de depressão são interrompidos por breves (alguns dias, no máximo) períodos de obsessão com bastante energia e um desprezo geral pelas consequências. Os estágios depressivos são semelhantes de todas as formas a [depressão](#depression). Quando está maníaco, você corre riscos, gasta freneticamente, e se envolve em comportamentos sem prudência ou consideração às consequências a longo prazo.
 
 **Efeito:** Semelhante à depressão, mas quando maníaco você deve fazer uma Prova de VON para evitar que você realize atividades arriscadas. Você também tentará convencer os outros a seguirem sua ideia.
 

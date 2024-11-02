@@ -48,7 +48,7 @@ Receber um ataque em combate de naves podem ser devastador. Até mesmo pequenos 
 
 ### Abordagem
 
-Devido às velocidades e trajetórias, abordar outras naves geralmente não é viável. Método delicados de abordar envolvem hackear ou arrombar uma [câmara de ar](../15/11-ship-and-habitat-hacking.md#airlocks). Métodos indelicados envolvem cortar o casco e descomprimir o interior.
+Devido às velocidades e trajetórias, abordar outras naves geralmente não é viável. Método delicados de abordar envolvem hackear ou arrombar uma [câmara de ar](11-ship-and-habitat-hacking.md#airlocks). Métodos indelicados envolvem cortar o casco e descomprimir o interior.
 
 ## Outras Opções Narrativas
 

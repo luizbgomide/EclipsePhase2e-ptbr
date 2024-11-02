@@ -8,7 +8,7 @@ A RA sobrepõe dados e entradas sensoriais da mesh nos seus sentidos físicos. I
 
 A maioria dos habitats e empresas transmitem dados em canais de RA públicos. Diretórios, sinais, mapas, guias de ajuda, informações turísticas, serviços disponíveis e alertas públicos podem ser ligados e vistos facilmente. Corporações e grupos privados também oferecem seus próprios canais de RA para usuários autenticados, variando de transmissões de música e jogos em rede até o submundo da vida noturna e serviços do mercado negro.
 
-A RA também tem suas desvantagens: se você for hackeado, ela pode ser usada contra você ([Editar Fluxo de RA](../13/13-system-subversion.md#edit-ar-feed)). A entrada sensorial de RA também é um vetor potencial para os chamados [hacks mentais basiliscos](../18/10-exsurgent-infection.md#basilisk-hacks).
+A RA também tem suas desvantagens: se você for hackeado, ela pode ser usada contra você ([Editar Fluxo de RA](13-system-subversion.md#edit-ar-feed)). A entrada sensorial de RA também é um vetor potencial para os chamados [hacks mentais basiliscos](../18/10-exsurgent-infection.md#basilisk-hacks).
 
 ### Névoa de RA e Filtros
 
@@ -22,7 +22,7 @@ Já que a realidade pode ser sobreposta com entópticos hiper-reais, você pode 
 
 ## Backup, Foqueamento, Egoprojeção
 
-A maioria das pessoas faz backups e cria forques em bancos de corpos confiáveis. A santidade dos egos é muito valorizada, então a segurança da mesh tende a ser de primeira linha. Até mesmo os bancos de corpos e furtiprojetores do mercado negro tem reputações a zelar. Se você tem um cibercérebro ou acesso a uma ponte de ego, você pode fazer backups e forques a qualquer momento, mas depende da sua própria segurança. Backups/forques/egos inativos são simplesmente grandes arquivos que podem ser armazenados em qualquer dispositivo. No entanto, infomorfos ativados só podem ser executados em terminais ou servidores ([Infomorfos](../13/08-infomorphs.md)).
+A maioria das pessoas faz backups e cria forques em bancos de corpos confiáveis. A santidade dos egos é muito valorizada, então a segurança da mesh tende a ser de primeira linha. Até mesmo os bancos de corpos e furtiprojetores do mercado negro tem reputações a zelar. Se você tem um cibercérebro ou acesso a uma ponte de ego, você pode fazer backups e forques a qualquer momento, mas depende da sua própria segurança. Backups/forques/egos inativos são simplesmente grandes arquivos que podem ser armazenados em qualquer dispositivo. No entanto, infomorfos ativados só podem ser executados em terminais ou servidores ([Infomorfos](08-infomorphs.md)).
 
 ## Transações Bancárias
 
@@ -30,7 +30,7 @@ A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro imp
 
 ## Comunicações
 
-Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](04-devices-apps-and-links.md#sniffing)).
 
 Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de eremitas e autonomistas.
 
@@ -52,7 +52,7 @@ Os JRAMs funcionam como VPNs. Assim como as redes sociais, eles tratam seus clie
 
 Você pode quase sempre determinar sua localização em um mundo habitado ou em um habitat, medindo os sinais de satélites GPS em órbita ou nodos próximos da mesh. Encontrar seu caminho é fácil com dicas de RA como trilhas ou setas visuais ou orientações por áudio. Os serviços de localização podem informar onde encontrar o autocozedor local mais próximo, dar as avaliações de cafeterias próximas, e dizer quem na área combina com seu perfil de encontros, interesses pessoais, ou está procurando um partida de jogo.
 
-Um efeito colateral dos serviços de localização é que seus movimentos são logados por cada nodo próximo da mesh devido às conexões automáticas e sua atividade física pode ser correlacionada com sua atividade online e mesh ID ([Rastreamento](../13/10-tracking.md)). Esse recurso é considerado é uma vantagem para pais cuidando de seus filhos, empresas monitorando seus empregados, e amigos procurando outros amigos, mas pode ser um problema para aqueles querendo discrição.
+Um efeito colateral dos serviços de localização é que seus movimentos são logados por cada nodo próximo da mesh devido às conexões automáticas e sua atividade física pode ser correlacionada com sua atividade online e mesh ID ([Rastreamento](10-tracking.md)). Esse recurso é considerado é uma vantagem para pais cuidando de seus filhos, empresas monitorando seus empregados, e amigos procurando outros amigos, mas pode ser um problema para aqueles querendo discrição.
 
 ## Mídia e Notícias
 
@@ -62,7 +62,7 @@ Muitos espaços transmitem seus próprios canais de mídia local em RA, para man
 
 ## Escritórios Móveis
 
-Ferramentas de colaboração online, redes remotas e assistentes de ILA significam que o trabalho raramente está atrelado a um local físico — a maioria das pessoas carrega seus empregos com elas. Para fins de segurança, as [VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks) são obrigatórias. Implantes de módulo de dados criptografados muitas vezes são obrigatórios para empregados que carregam dados confidenciais da empresa em suas cabeças, possivelmente protegidos por uma IA de segurança corporativa dedicada. Muitas hipercorps retêm privilégios de acesso remoto aos insertos da mesh e implantes dos seus trabalhadores.
+Ferramentas de colaboração online, redes remotas e assistentes de ILA significam que o trabalho raramente está atrelado a um local físico — a maioria das pessoas faz seus trabalhos com elas. Para fins de segurança, as [VPNs](02-mesh-topology.md#vpns-virtual-private-networks) são obrigatórias. Implantes de módulo de dados criptografados muitas vezes são obrigatórios para empregados que carregam dados confidenciais da empresa em suas cabeças, possivelmente protegidos por uma IA de segurança corporativa dedicada. Muitas hipercorps retêm privilégios de acesso remoto aos insertos da mesh e implantes dos seus trabalhadores.
 
 ## Psicocirurgia
 
@@ -70,11 +70,11 @@ Por razões de segurança, os psicocirugiões preferem trabalhar em forques que 
 
 ## Pesquisa
 
-Na mesh, você tem acesso a vastas — quase avassaladoras — quantidades de informação. Isso é coberto de detalhes em [Pesquisa Online](../13/09-online-research.md).
+Na mesh, você tem acesso a vastas — quase avassaladoras — quantidades de informação. Isso é tratado com detalhes em [Pesquisa Online](09-online-research.md).
 
 ## Fluxos de Sensores e Covigilância
 
-Os fluxos dos sensores públicos estão disponíveis para qualquer um na mesh — todos são observados por todos. Esses sensores fornecem cobertura em tempo real da maioria das áreas públicas dentro de um habitat, mas eles estão sujeitos a vandalismo e sabotagem. Muitas redes privadas também estão disponíveis, algumas delas são acessíveis por um taxa ou se você conhecer as pessoas certas. Os sensores e covigilância são cobertos em detalhes em [Hackeamento de Vigilância](../13/19-surveillance-hacking.md).
+Os fluxos dos sensores públicos estão disponíveis para qualquer um na mesh — todos são observados por todos. Esses sensores fornecem cobertura em tempo real da maioria das áreas públicas dentro de um habitat, mas eles estão sujeitos a vandalismo e sabotagem. Muitas redes privadas também estão disponíveis, algumas delas são acessíveis por um taxa ou se você conhecer as pessoas certas. Os sensores e covigilância são cobertos em detalhes em [Hackeamento de Vigilância](19-surveillance-hacking.md).
 
 ## Redes Sociais
 
@@ -90,10 +90,10 @@ Se você for hackeado, suas contas das redes sociais podem estar em risco. Seu p
 
 As tags entópticas são uma forma para as pessoas “marcarem” uma pessoa, lugar ou objeto físico com dados virtuais. Essas e-tags são armazenadas em redes locais ao item marcado e se movem com o item quando ele muda de local. As e-tags são visíveis em RA e podem conter praticamente qualquer tipo de dado, embora anotações curtas e imagens sejam os mais comuns. Frequentemente, as e-tags estão vinculadas a redes sociais específicas, ou círculos dentro dessas redes, para que as pessoas possam deixar observações, avaliações, recordações, mídias e outras coisas similares para amigos e colegas.
 
-Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](../13/05-authentication-and-encryption.md#encryption).
+Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](05-authentication-and-encryption.md#encryption).
 
 ## Realidade Virtual (RV)
 
-Apenas [servidores](../13/04-devices-apps-and-links.md#servers) tem a largura de banda e processamento necessários para executar simulespaços completos de RV, especialmente aqueles com múltiplos usuários. Para maior estabilidade, a maioria dos serviços de RV são oferecidos em locais com redes físicas cabeadas. São fornecidas poltronas fechadas confortáveis para os usuários, pois os seus sentidos físicos são cortados.
+Apenas [servidores](04-devices-apps-and-links.md#servers) tem a largura de banda e processamento necessários para executar simulespaços completos de RV, especialmente aqueles com múltiplos usuários. Para maior estabilidade, a maioria dos serviços de RV são oferecidos em locais com redes físicas cabeadas. São fornecidas poltronas fechadas confortáveis para os usuários, pois os seus sentidos físicos são cortados.
 
-A RV é coberta em mais detalhes em [Realidade Virtual](../13/18-virtual-reality.md).
+A RV é coberta em mais detalhes em [Realidade Virtual](18-virtual-reality.md).

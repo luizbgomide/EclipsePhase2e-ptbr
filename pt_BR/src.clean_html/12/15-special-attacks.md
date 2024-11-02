@@ -48,7 +48,7 @@ Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros memb
 
 ### Derrubar
 
-Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
+Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
 
 ### Redirecionar
 
@@ -56,7 +56,7 @@ Um ataque preciso pode ser usado para empurrar seu oponente em uma direção esp
 
 ### Alvo Específico
 
-Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](../12/21-other-action-factors.md#conditions), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
+Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#conditions), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
 
 ## Armas Revestidas
 
@@ -64,7 +64,7 @@ Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas 
 
 ## Demolições
 
-Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermite](../16/18-mission-gear.md#salvage-tools) ou [granadas](../12/10-seeker-weapons-and-grenades.md).
+Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermite](../16/18-mission-gear.md#salvage-tools) ou [granadas](10-seeker-weapons-and-grenades.md).
 
 ### Instalando Explosivos
 
@@ -105,7 +105,7 @@ Você pode empunhar duas armas de uma vez em combate — ou até mais se estiver
 
 ### Armas de Luta Extras
 
-Se atacar múltiplos alvos em luta com a mesma ação complexa, simplesmente faça cada ataque separadamente ([Múltiplos Alvos](../12/02-melee-combat.md#multiple-targets)).
+Se atacar múltiplos alvos em luta com a mesma ação complexa, simplesmente faça cada ataque separadamente ([Múltiplos Alvos](02-melee-combat.md#multiple-targets)).
 
 Trate o uso de duas ou mais armas de luta contra um alvo como um único ataque, em vez de múltiplos. Cada arma adicional aplica +1d6&nbsp;VD ao ataque (até o máximo de +3d6). A penalidade para o [traço negativo Membro Dominante](../04/28-traits.md#dominant-limb) é ignorada neste caso.
 

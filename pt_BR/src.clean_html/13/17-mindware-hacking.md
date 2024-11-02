@@ -1,6 +1,6 @@
 # Hackeamento de Ware Mental
 
-Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Esta tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são hardwares especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
+Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Esta tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são aparelhos especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
 
 ## Precondições
 
@@ -26,7 +26,7 @@ Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, 
 
 ### Controlar Ware (Cibercérebro)
 
-Como [Controlar Ware](../13/13-system-subversion.md#control-ware).
+Como em [Controlar Ware](13-system-subversion.md#control-ware).
 
 ### Copiar Ego
 
@@ -62,11 +62,11 @@ O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para t
 
 ### Desligar
 
-Cibercérebros e infomorfos podem ser desativados, assim como outros sistemas ([Reinicializar/Desligar](../13/12-countermeasures.md#rebootshutdown)) — isso inclui desligamentos diretos. Se um cibercérebro é desligado, seu morfo vai congelar no lugar ou cairá. Morfos desligados não podem ser manipulados como fantoche.
+Cibercérebros e infomorfos podem ser desativados, assim como outros sistemas ([Reinicializar/Desligar](12-countermeasures.md#rebootshutdown)) — isso inclui desligamentos diretos. Se um cibercérebro é desligado, seu morfo vai congelar no lugar ou cairá. Morfos desligados não podem ser manipulados como fantoche.
 
 ### Grampear Sentidos
 
-Como [Grampear Sentidos](../13/13-system-subversion.md#tap-senses).
+Como em [Grampear Sentidos](13-system-subversion.md#tap-senses).
 
 ### Encerrar Fluxo da Pilha Cortical
 

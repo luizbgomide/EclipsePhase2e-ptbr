@@ -22,7 +22,7 @@ Algumas pessoas preferem usar forques de si mesmo ou de entes queridos em vez de
 
 O processo de fazer um forque varia de acordo com o tipo:
 
-Novos forques devem fazer [Testes de Integração e de Estresse de Reencape](../15/02-resleeving.md#resleeving-tests) quando eles são criados, embora o MJ possa ignorar isso para forques que são tem muito importância para a história ou trama.
+Novos forques devem fazer [Testes de Integração e de Estresse de Reencape](02-resleeving.md#resleeving-tests) quando eles são criados, embora o MJ possa ignorar isso para forques que são tem muito importância para a história ou trama.
 
 Forques são instanciados como [digimorfos](../04/26-infomorphs.md#digimorph), a mesmo que outro tipo de infomorfo esteja disponível. Eles também pode ser encapados em morfos físicos.
 
@@ -41,7 +41,7 @@ Você cria um forque beta ao passar um forque alfa por um processo chamado de _d
 - A parada de Flex do ego tem um valor máximo de 1.
 - O traço Psi é removido. A critério do MJ, outros traços de ego também podem não ser aplicáveis.
 
-Alterações adicionais podem ser aplicadas como indicado no [teste de desbaste neural](../15/06-psychosurgery-procedures.md#neural-pruning).
+Alterações adicionais podem ser aplicadas como indicado no teste de [desbaste neural](06-psychosurgery-procedures.md#neural-pruning).
 
 ### Forques Gama
 
@@ -59,13 +59,13 @@ O entendimento de neurociência da transumanidade se estende ao escaneamento e c
 
 Memórias específicas não podem ser extraídas ou escolhidas — no melhor dos casos, memórias podem ser tratadas em grandes blocos, tipicamente agrupadas em períodos de tempo não menores que 6 meses. Para simplificar, a maioria dos forques beta são criados removendo todas as memórias com mais de 1 ano.
 
-As regras de desbaste neural são detalhadas em [Desbaste Neural](../15/06-psychosurgery-procedures.md#neural-pruning).
+As regras de desbaste neural são detalhadas em [Desbaste Neural](06-psychosurgery-procedures.md#neural-pruning).
 
 ### Desbaste Cuidadoso
 
 Em vez de gerar um forque rapidamente, você pode querer criar cuidadosamente um forque beta com psicocirurgia de longo prazo, o que significa que ele sofre menos inconvenientes. Estes forques cuidadosamente desbastados podem ficar à disposição, armazenados como arquivos inertes que podem ser requisitados, copiados e executados quando necessário. A desvantagem de forques cuidadosamente desbastados é que eles não são baseados em uma versão recente de você — as memórias dele não estarão atualizadas. Eles também são mais difíceis de mesclar, pois eles são baseados em versões significativamente mais antigas de você mesmo. Eles são ideias para tarefas sem retorno, onde o forque é abandonado ou excluído em seguida.
 
-O desbaste cuidadoso usa as mesmas regras do [desbaste neural](../15/06-psychosurgery-procedures.md#neural-pruning), mas com um prazo de 30 dias e um modificar +30.
+O desbaste cuidadoso usa as mesmas regras do [desbaste neural](06-psychosurgery-procedures.md#neural-pruning), mas com um prazo de 30 dias e um modificar +30.
 
 ## Lidando com Forques
 
@@ -79,4 +79,4 @@ Isso significa que o MJ não deve ter receio tirar um forque das mãos de um jog
 
 Mesclagem é o processo de reintegrar um forque com o ego originário. A mesclagem é realizada em egos/forques conscientes, transferindo ambos para um único ego mesclado. O processo não é difícil de ser realizado quando dois forques só foram separados por pouco tempo. Conforme os forques passam mais tempo separados, a mesclagem se torna uma grande provação mental.
 
-A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. O resultado do processo é um ego unificado, independentemente do Teste de Mesclagem ser bem-sucedido. A psicocirurgia pode solucionar problemas de mesclagens ruins com o tempo. As regras de mesclagem estão detalhadas em [Mesclagem](../15/06-psychosurgery-procedures.md#merging).
+A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. O resultado do processo é um ego unificado, independentemente do Teste de Mesclagem ser bem-sucedido. A psicocirurgia pode solucionar problemas de mesclagens ruins com o tempo. As regras de mesclagem estão detalhadas em [Mesclagem](06-psychosurgery-procedures.md#merging).

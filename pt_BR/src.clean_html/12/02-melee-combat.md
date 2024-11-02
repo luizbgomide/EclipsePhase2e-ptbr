@@ -2,7 +2,7 @@
 
 Em uma era de armamentos à distância incapacitantes e letais, alguém equipado para combate próximo geralmente está em desvantagem. Ainda assim, até mesmo combatentes experientes receiam ficar ao alcance de certos sintemorfos ou biomorfos bastante ampliados.
 
-Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e wares de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
+Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e wares de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
 
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
@@ -109,7 +109,7 @@ Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponente
 
 ## Extensão
 
-Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](../12/21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
+Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
 
 ## Ataques de Toque Simples
 

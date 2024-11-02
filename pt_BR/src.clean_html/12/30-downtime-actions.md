@@ -4,7 +4,7 @@ Nem todas as ações do seu personagem acontecem em missões ou aventuras. Entre
 
 O recesso normalmente é contado em semanas. A cada semana, escolha uma ação de recesso. Isso assume que seu personagem também está ocupado com outras atividades: socializando, trabalhos domésticos, vida noturna, relaxando, jogando jogos, e perseguindo outras atividades mundanas da vida. Se você está focado completamente excluindo todo o resto e/ou está usando simulespaço de tempo acelerado, o MJ pode diminuir essa duração, ao mínimo de 1 dia por ação de recesso.
 
-**Cura/Reparo:** A recuperação da [saúde mental](../12/19-mental-healing-and-psychosurgery.md) e [física](../12/17-healing-and-repair.md) é uma parte importante do recesso, mas ela não consome todo o seu tempo de folga. Considere que a cura/reparo acontece em conjunto com as seguintes ações de recesso.
+**Cura/Reparo:** A recuperação da [saúde mental](19-mental-healing-and-psychosurgery.md) e [física](17-healing-and-repair.md) é uma parte importante do recesso, mas ela não consome todo o seu tempo de folga. Considere que a cura/reparo acontece em conjunto com as seguintes ações de recesso.
 
 ## Adquirir/Fazer Coisas
 

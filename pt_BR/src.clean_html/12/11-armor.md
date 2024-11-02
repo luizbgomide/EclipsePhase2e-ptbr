@@ -91,6 +91,6 @@ Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de a
 
 **Capacete:** Capacetes existem em vários estilos abertos e fechados, todos protegendo a cabeça. Se forem alvo de um ataque preciso, os capacetes têm VA 4/10. Capacetes já estão inclusos em armaduras corporais e de combate, e todos os trajes (use o VA total dessas armaduras contra golpes na cabeça).
 
-**Escudo Antimotim:** Usado para supressão de tumultos, os escudos antimotim são leves, resistentes e podem ser eletrificados quando necessário (trate como um [ataque de choque em luta](../12/15-special-attacks.md#shock-attacks)).
+**Escudo Antimotim:** Usado para supressão de tumultos, os escudos antimotim são leves, resistentes e podem ser eletrificados quando necessário (trate como um [ataque de choque em luta](15-special-attacks.md#shock-attacks)).
 
 **Segunda Pele:** Este macacão justo e leve, tecido com seda de aranha e fulerenos, é tipicamente usado como uma primeira camada de vestuário, apesar de alguns atletas o utilizarem como uniforme.

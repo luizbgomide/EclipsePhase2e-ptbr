@@ -1,22 +1,22 @@
 # Subversão de Sistema
 
-Assim que você tenha penetrado com sucesso um sistema, suas opções dependerão de seus privilégios de acesso e da natureza do sistema. Muitas das ações que você faz como invasor não são tão diferentes das de um usuário regular: procurar arquivos, operar dispositivos, etc. Veja [Ações da Mesh](../13/06-mesh-actions.md).
+Assim que você tenha penetrado com sucesso um sistema, suas opções dependerão de seus privilégios de acesso e da natureza do sistema. Muitas das ações que você faz como invasor não são tão diferentes das de um usuário regular: procurar arquivos, operar dispositivos, etc. Veja [Ações da Mesh](06-mesh-actions.md).
 
-Sempre que você tentar fazer algo que seus [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) não permitem, você precisa hackear o sistema para isso. Na maioria dos casos, isso requer um [Teste de Hackeamento](../13/11-hacking.md#hacking-tests). Aplique os modificadores de [alertas do sistema](../13/12-countermeasures.md#security-alerts) em andamento. Se você vencer a disputa, você tem sucesso, mas cada tentativa coloca você em risco de ser descoberto se você rolar uma falha maior ou crítica ([Exposição](../13/11-hacking.md#exposure)).
+Sempre que você tentar fazer algo que seus [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) não permitem, você precisa hackear o sistema para isso. Na maioria dos casos, isso requer um [Teste de Hackeamento](11-hacking.md#hacking-tests). Aplique os modificadores de [alertas do sistema](12-countermeasures.md#security-alerts) em andamento. Se você vencer a disputa, você tem sucesso, mas cada tentativa coloca você em risco de ser descoberto se você rolar uma falha maior ou crítica ([Exposição](11-hacking.md#exposure)).
 
 Além de exceder seus privilégios, há algumas técnicas que são explicitamente subversivas. Uma amostra de subversões comuns estão descritas abaixo; os MJs devem usá-las como orientação para julgar outras.
 
 ## Quebrar Criptografia
 
-Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
+Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](05-authentication-and-encryption.md#codebreaking)).
 
 ## Controlar Ware
 
-Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](../13/17-mindware-hacking.md)), ou o nodo mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](../13/06-mesh-actions.md#scripting) para manipular esse ware no futuro, entre outros usos criativos.
+Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nodo mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripting) para manipular esse ware no futuro, entre outros usos criativos.
 
 ## Desativar Mecanismos de Segurança
 
-Muitos sistemas têm recursos de segurança em vigor para evitar que pessoas acidentalmente (ou intencionalmente) prejudicam a si mesmas ou a outras. Você pode anular os avisos e mecanismos de sistemas de segurança se vencer um Teste de Hackeamento. Aplica-se um modificador −30, uma vez que tais sistemas são construídos com recursos redundantes. Isso pode ser usado para abrir os dois lados de uma câmara de ar simultaneamente, silenciar o alerta de colisão iminente em uma espaçonave, ou para evitar que usuários autorizados sejam notificados de equipamentos adulterados ou circunstâncias perigosas. A critério do MJ, alguns recursos de segurança podem reiniciar automaticamente, exigindo supressão ([Suprimir Processo](../13/13-system-subversion.md#suppress-process)).
+Muitos sistemas têm recursos de segurança em vigor para evitar que pessoas acidentalmente (ou intencionalmente) prejudicam a si mesmas ou a outras. Você pode anular os avisos e mecanismos de sistemas de segurança se vencer um Teste de Hackeamento. Aplica-se um modificador −30, uma vez que tais sistemas são construídos com recursos redundantes. Isso pode ser usado para abrir os dois lados de uma câmara de ar simultaneamente, silenciar o alerta de colisão iminente em uma espaçonave, ou para evitar que usuários autorizados sejam notificados de equipamentos adulterados ou circunstâncias perigosas. A critério do MJ, alguns recursos de segurança podem reiniciar automaticamente, exigindo supressão ([Suprimir Processo](#suppress-process)).
 
 ## Editar Fluxo de RA
 
@@ -24,11 +24,11 @@ Se hackear um dispositivo de transmissão de RA, você pode bloquear ou editar d
 
 ## Eliminar Rastros
 
-Para atrapalhar [auditorias de segurança](../13/12-countermeasures.md#security-audits), você pode limpar evidências de sua invasão antes de sair de um sistema. Isso envolve apagar dados incriminatórios nos logs de acesso e de segurança e ocultar qualquer evidência de adulteração do sistema. Use uma ação complexa e faça um Teste de Hackeamento. Se bem-sucedido, você elimina detalhes que poderiam ser usados para rastrear você ou revelar o que você fez, incluindo sua mesh ID.
+Para atrapalhar [auditorias de segurança](12-countermeasures.md#security-audits), você pode limpar evidências de sua invasão antes de sair de um sistema. Isso envolve apagar dados incriminatórios nos logs de acesso e de segurança e ocultar qualquer evidência de adulteração do sistema. Use uma ação complexa e faça um Teste de Hackeamento. Se bem-sucedido, você elimina detalhes que poderiam ser usados para rastrear você ou revelar o que você fez, incluindo sua mesh ID.
 
 ## Forçar Reautenticação
 
-Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a se autenticar novamente para você poder capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Isso requer vencer um Teste de Hackeamento contra o firewall fazendo autenticação.
+Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a se autenticar novamente para você poder capturar as credenciais de login ([Farejamento](04-devices-apps-and-links.md#sniffing)). Isso requer vencer um Teste de Hackeamento contra o firewall fazendo autenticação.
 
 ## Esconder Arquivo ou Processo
 
@@ -52,7 +52,7 @@ As brechas são entradas para um sistema que contornam a autenticação normal e
 
 A maioria das brechas são instaladas substituindo um app existente com uma cópia modificada para incorporar uma vulnerabilidade que permite acesso remoto instantâneo ao sistema. O truque está em fazer o aplicativo copiado parecer com o original não modificado, para que ele não seja detectado durante as auditorias de segurança.
 
-Para instalar uma brecha, você deve ter acesso ao sistema, fazer uma ação complexa e vencer um Teste de Hackeamento. Aplique um modificador −20 se você quiser que a brecha forneça privilégios de acesso de segurança, −30 para privilégios de administrador. Se você tiver sucesso, a brecha está instalada — você pode usá-la para acessar o sistema sem fazer um teste até que ela seja removida; você automaticamente adquire status infiltrado. Cada sucesso maior aplica um modificador −10 nas tentativas de descobrir a brecha posteriormente ([Auditorias de Segurança](../13/12-countermeasures.md#security-audits)). Com um sucesso crítico, a brecha fornece status oculto.
+Para instalar uma brecha, você deve ter acesso ao sistema, fazer uma ação complexa e vencer um Teste de Hackeamento. Aplique um modificador −20 se você quiser que a brecha forneça privilégios de acesso de segurança, −30 para privilégios de administrador. Se você tiver sucesso, a brecha está instalada — você pode usá-la para acessar o sistema sem fazer um teste até que ela seja removida; você automaticamente adquire status infiltrado. Cada sucesso maior aplica um modificador −10 nas tentativas de descobrir a brecha posteriormente ([Auditorias de Segurança](12-countermeasures.md#security-audits)). Com um sucesso crítico, a brecha fornece status oculto.
 
 ## Instalar Restrição
 
@@ -64,7 +64,7 @@ As restrições não são onipotentes; os MJs devem usar seu bom senso para defi
 
 Você pode transmitir sinais de rádio que interferem deliberadamente com outros sinais de rádio para interromper as comunicações. Você pode escolher bloquear seletivamente um ou mais dispositivos específicos, ou bloquear universalmente todos os sinais de rádio. O bloqueio requer uma ação complexa e um Teste de Interface para ser iniciado. Se bem-sucedido, os dispositivos afetados dentro do alcance têm suas comunicações de rádio interrompidas — eles são cortados da mesh e não podem usar comunicação sem fio até que o bloqueio termine ou eles se movam para fora do alcance. Os dispositivos cabeados não são afetados.
 
-O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](../13/06-mesh-actions.md#security-actions)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
+O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](06-mesh-actions.md#security-actions)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
 
 ## Repetir Fluxo de Sensor
 
@@ -76,7 +76,7 @@ Se hackear um sistema compatível com tacnet, você pode altear, bloquear, ou in
 
 ## Farejar Tráfego
 
-Você pode interceptar e monitorar o tráfego sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+Você pode interceptar e monitorar o tráfego sem fio ([Farejamento](04-devices-apps-and-links.md#sniffing)).
 
 ## Suprimir Alarme
 
@@ -84,7 +84,7 @@ Você pode tentar desligar um alerta passivo vencendo um Teste de Hackeamento. O
 
 ## Suprimir Processo
 
-Muitas técnicas de hackeamento são imediatas — você desativa uma função, mata o app, encerra a conexão, etc. — e depois segue em frente. A interrupção é temporária; o defensor do sistema ou outro usuário pode simplesmente reiniciar o processo. Alguns sistemas são projetados para automaticamente reiniciar certos processos por conta própria (a critério do MJ). Para evitar que o processo seja reiniciado, você precisa excluir o programa subjacente do sistema (geralmente exigindo privilégios de administrador; [Modificar Programa](../13/06-mesh-actions.md#admin-actions)) ou você deve suprimir ativamente o processo.
+Muitas técnicas de hackeamento são imediatas — você desativa uma função, mata o app, encerra a conexão, etc. — e depois segue em frente. A interrupção é temporária; o defensor do sistema ou outro usuário pode simplesmente reiniciar o processo. Alguns sistemas são projetados para automaticamente reiniciar certos processos por conta própria (a critério do MJ). Para evitar que o processo seja reiniciado, você precisa excluir o programa subjacente do sistema (geralmente exigindo privilégios de administrador; [Modificar Programa](06-mesh-actions.md#admin-actions)) ou você deve suprimir ativamente o processo.
 
 Suprimir um processo requer uma ação complexa a cada turno de ação. Isso vai combater as tentativas automáticas do sistema de reiniciar o processo. Qualquer um que deseje reiniciar o processo deve derrotá-lo com sucesso em um Teste Oposto de Infoseg, embora o processo possa ser encerrado novamente… a menos que o encerramento seja restringido.
 
@@ -96,7 +96,7 @@ Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuár
 
 ## Grampear Sentidos
 
-Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](../13/17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
+Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
 
 Os dados sensoriais também podem ser gravados ou transmitidos como XP.
 

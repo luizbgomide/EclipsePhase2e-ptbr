@@ -2,8 +2,9 @@
 
 Qual é a origem do seu personagem? Você nasceu em uma favela na Terra antes da Queda ou foi criado em um enclave protegido? Você foi um dos primeiros colono espaciais ou um trabalhador arrendado?
 
-Cada antecedente fornece a você um pacote de perícias ativas e de conhecimento. Anote-as na sua ficha de personagem. Não perca muito tempo na sua escolha — você terá a oportunidade de adquirir outras perícias e trocar algumas perícias em passos posteriores. Para perícias de área, uma seleção breve de áreas comuns é listada, mas você pode escolher a que quiser ([Perícias](../04/18-skills.md)). Como alternativa, deixe a área não atribuída agora e decida durante a partida.
+Cada antecedente fornece a você um pacote de perícias ativas e de conhecimento. Anote-as na sua ficha de personagem. Não perca muito tempo na sua escolha — você terá a oportunidade de adquirir outras perícias e trocar algumas perícias em passos posteriores. Para perícias de área, uma seleção breve de áreas comuns é listada, mas você pode escolher a que quiser ([Perícias](18-skills.md)). Como alternativa, deixe a área não atribuída agora e decida durante a partida.
 
+<!--sorted-->
 ## Colono
 
 Você era um colono original da órbita da Terra, Lua, Marte, ou um posto menor em outro lugar, antes da Queda.
@@ -18,7 +19,7 @@ Você era um colono original da órbita da Terra, Lua, Marte, ou um posto menor 
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Administração, Operações de Habitat, Operações de Tripulação de Voo_</p>       | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Botânica, Engenharia, Física, Química_</p>       | 30 |
 
-## Enclavo
+## Enclavado
 
 Na Terra, você vivia uma vida de estabilidade precária, mas protegida, em um enclave defendido.
 
@@ -147,6 +148,8 @@ Você é um elevado: a última geração de bonobo, cetáceo, chimpanzé, corví
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Cultura de Elevados, Direitos de Elevados_</p> | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Genética, Sociologia, Zoologia_</p> | 30 |
 
+<!--end-sort-->
+
 <!-- CLEANED blockquote class="table" -->
 
 ### Antecedente Aleatório
@@ -156,7 +159,7 @@ Se você preferir determinar o seu antecedente aleatoriamente, role 1d10:
 | Rolagem | Antecedente | Rolagem | Antecedente |
 |:-------:|:-----------:|:-------:|:-----------:|
 |    1    |   Colono    |    6    |  Infovida   |
-|    2    |   Enclavo   |    7    |   Isolado   |
+|    2    |  Enclavado  |    7    |   Isolado   |
 |    3    | Freelancer  |    8    |   Perdido   |
 |    4    | Hiperelite  |    9    |  Miserável  |
 |    5    |  Arrendado  |   10    |   Elevado   |

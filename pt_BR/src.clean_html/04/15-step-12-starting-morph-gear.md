@@ -1,10 +1,10 @@
 # Passo 12: Morfo & Equipamentos Iniciais
 
-Seu personagem começa recebendo equipamentos baseado na carreira escolhida no Passo 2 e no tipo de campanha que você está jogando (Firewall, desbravamento ou criminal). Veja [Pacotes de Equipamentos](../04/27-gear-packs.md).
+Seu personagem começa recebendo equipamentos baseado na carreira escolhida no Passo 2 e no tipo de campanha que você está jogando (Firewall, desbravamento ou criminal). Veja [Pacotes de Equipamentos](27-gear-packs.md).
 
-Você também escolhe o [morfo inicial](../04/21-morphs.md) do personagem. Cada morfo tem um custo em Pontos de Morfo (PM). Seu MJ dirá quantos pontos você tem para usar. O valor sugerido padrão é 6&nbsp;PM. Se você comprou o [traço Recursos](../04/28-traits.md#resources), aumente seus PM disponíveis pelo nível do traço.
+Você também escolhe o [morfo inicial](21-morphs.md) do personagem. Cada morfo tem um custo em Pontos de Morfo (PM). Seu MJ dirá quantos pontos você tem para usar. O valor sugerido padrão é 6&nbsp;PM. Se você comprou o [traço Recursos](28-traits.md#resources), aumente seus PM disponíveis pelo nível do traço.
 
-Você também pode gastar seus Pontos de Morfo em [traços de morfo](../04/28-traits.md#positive-morph-traits) ou equipamentos extras. Os PM que você não gastar são convertidos em pontos de Flex.
+Você também pode gastar seus Pontos de Morfo em [traços de morfo](28-traits.md#positive-morph-traits) ou equipamentos extras. Os PM que você não gastar são convertidos em pontos de Flex.
 
 ## Morfos Iniciais
 

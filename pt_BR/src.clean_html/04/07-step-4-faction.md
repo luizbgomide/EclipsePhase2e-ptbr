@@ -1,6 +1,6 @@
 # Passo 4: Facção
 
-Agora que você tem um direcionamento dos antecedentes e conjuntos de perícia do seu personagem, é hora de escolher a qual facção ele se alia. Cada escolha fornece uma [motivação](../04/16-step-13-motivations.md) e uma perícia Saber: \[Facção\] 30. O quadro de Facções fornece um breve resumo de cada grupo; detalhes adicionais podem ser encontrados em [Facções](../10/00-factions.md).
+Agora que você tem um direcionamento dos antecedentes e conjuntos de perícia do seu personagem, é hora de escolher a qual facção ele se alia. Cada escolha fornece uma [motivação](16-step-13-motivations.md) e uma perícia Saber: \[Facção\] 30. O quadro de Facções fornece um breve resumo de cada grupo; detalhes adicionais podem ser encontrados em [Facções](../10/00-factions.md).
 
 Se você não sabe qual facção escolher neste momento, você pode pular esta seção por enquanto e determinar sua facção, motivação e perícia de Saber durante o jogo. Você também pode escolher não ter uma facção — nem todos escolhem um lado. Se não tiver uma facção, basta escolher a sua própria motivação e pegar qualquer perícia de Saber que quiser com 30.
 
@@ -10,6 +10,7 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 ## Facções
 
+<!--sorted-->
 **Anarquista:** Você acredita que o poder é corrupto e apoia organizações voluntárias, não hierarquizadas, baseadas na democracia direta.
 
 **Argonauta:** Você busca soluções tecnoprogressivas para as injustiças e desigualdades da transumanidade.
@@ -39,6 +40,8 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 **Titaniano:** Você é um tecnossocialista, acreditando que a ciência e a tecnologia podem proporcionar o bem-estar de todos.
 
 **Venusiano:** Você adere à visão da Constelação Estrela d'Alva para um hipercapitalismo mais socializado e amigável.
+
+<!--end-sort-->
 
 **Regional:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
 

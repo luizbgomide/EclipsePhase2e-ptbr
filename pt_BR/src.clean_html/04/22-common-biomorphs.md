@@ -28,7 +28,7 @@ Intocados são humanos simples não modificados, nascidos com todos os defeitos 
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Extras Comuns:** Muitos têm o traço [Defeito Genético](../04/28-traits.md#genetic-defect)
+- **Extras Comuns:** Muitos têm o traço [Defeito Genético](28-traits.md#genetic-defect)
 
 <!-- CLEANED /blockquote -->
 
@@ -119,7 +119,7 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
-- **Extras Comuns:** Muitos têm o traço de [Obsolescência Programada](../04/28-traits.md#planned-obsolescence)
+- **Extras Comuns:** Muitos têm o traço [Obsolescência Programada](28-traits.md#planned-obsolescence)
 
 <!-- CLEANED /blockquote -->
 
@@ -253,7 +253,7 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
-- **Extras Comuns:** Muitos têm o traço [Aparência Marcante](../04/28-traits.md#striking-looks)
+- **Extras Comuns:** Muitos têm o traço [Aparência Marcante](28-traits.md#striking-looks)
 
 <!-- CLEANED /blockquote -->
 

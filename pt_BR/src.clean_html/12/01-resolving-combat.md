@@ -30,7 +30,7 @@ O atacante usa uma ação complexa para atacar no seu turno na ordem de Iniciati
 
 ## Passo 2: Declarar a Defesa
 
-A defesa é uma ação automática. A menos que esteja [surpreso](../12/21-other-action-factors.md#surprise) ou [incapacitado](../12/21-other-action-factors.md#conditions), o defensor sempre tem a opção de responder.
+A defesa é uma ação automática. A menos que esteja [surpreso](21-other-action-factors.md#surprise) ou [incapacitado](21-other-action-factors.md#conditions), o defensor sempre tem a opção de responder.
 
 **Defesa de Luta:** Contra um ataque de luta, o defensor pode escolher bloquear ou aparar usando sua própria perícia Luta, ou esquivar usando Evasão.
 
@@ -38,7 +38,7 @@ A defesa é uma ação automática. A menos que esteja [surpreso](../12/21-other
 
 **Defesa de Psi:** Truques Psi são resistidos com uma Prova de VON.
 
-**Defesa Total:** Personagens que declararam que estão usando [defesa total](../12/21-other-action-factors.md#full-defense) podem se defender como acima com um modificador +30.
+**Defesa Total:** Personagens que declararam que estão usando [defesa total](21-other-action-factors.md#full-defense) podem se defender como acima com um modificador +30.
 
 ## Passo 3: Aplicar os Modificadores
 
@@ -50,20 +50,20 @@ Aplique qualquer modificador situacional, de ferimento/trauma, ou outros necess�
 
 Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataque.
 
-| Situação                                                                                   |         Modificadores         |
-|:------------------------------------------------------------------------------------------ |:-----------------------------:|
-| Atacante usando [movimento total](../12/24-movement.md#full-move)                          |              −20              |
-| Posição vantajosa                                                                          |              +20              |
-| Ferido/traumatizado                                                                        |   −10 por ferimento/trauma    |
-| [Ataque preciso](../12/15-special-attacks.md#called-shots) (sucesso maior necessário)      |              −10              |
-| Empunhando [arma de duas mãos](../12/15-special-attacks.md#two-handed-weapons) com uma mão |              −20              |
-| Alvo muito pequeno (rato ou inseto)                                                        |              −30              |
-| Alvo pequeno (tamanho de criança)                                                          |              −10              |
-| Alvo grande (tamanho de carro)                                                             |              +10              |
-| Alvo muito grande (tamanho de um celeiro)                                                  |              +30              |
-| Visibilidade ruim (menor: clarão, fumaça leve, luz fraca)                                  |              −10              |
-| Visibilidade ruim (maior: fumaça pesada, escuro)                                           |              −20              |
-| [Ataque às cegas](../12/15-special-attacks.md#blind-attacks)                               | −30 ou 50% de chance de errar |
+| Situação                                                                             |         Modificadores         |
+|:------------------------------------------------------------------------------------ |:-----------------------------:|
+| Atacante usando [movimento total](24-movement.md#full-move)                          |              −20              |
+| Posição vantajosa                                                                    |              +20              |
+| Ferido/traumatizado                                                                  |   −10 por ferimento/trauma    |
+| [Ataque preciso](15-special-attacks.md#called-shots) (sucesso maior necessário)      |              −10              |
+| Empunhando [arma de duas mãos](15-special-attacks.md#two-handed-weapons) com uma mão |              −20              |
+| Alvo muito pequeno (rato ou inseto)                                                  |              −30              |
+| Alvo pequeno (tamanho de criança)                                                    |              −10              |
+| Alvo grande (tamanho de carro)                                                       |              +10              |
+| Alvo muito grande (tamanho de um celeiro)                                            |              +30              |
+| Visibilidade ruim (menor: clarão, fumaça leve, luz fraca)                            |              −10              |
+| Visibilidade ruim (maior: fumaça pesada, escuro)                                     |              −20              |
+| [Ataque às cegas](15-special-attacks.md#blind-attacks)                               | −30 ou 50% de chance de errar |
 
 <!-- CLEANED /blockquote -->
 
@@ -89,11 +89,11 @@ Todo ataque tem um Valor de Dano (VD). Se o ataque acertar, role os dados e some
 
 Alguns ataques tem efeitos adicionais, conforme indicado na descrição e nos traços de arma/munição. Esses podem exigir que o defensor faça testes adicionais.
 
-Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](../12/18-mental-health.md)). Neste caso, o Valor de Estresse (VE) é tratado da mesma forma que VD.
+Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](18-mental-health.md)). Neste caso, o Valor de Estresse (VE) é tratado da mesma forma que VD.
 
 ## Passo 7: Aplicar a Armadura
 
-Se o defensor estiver usando armadura, ela vai protegê-lo. Determine qual parte do Valor de Armadura (VA) do defensor é aplicável — armadura energética ou armadura cinética ([Armadura](../12/11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a armadura foi efetiva e o ataque não conseguiu ferir o alvo.
+Se o defensor estiver usando armadura, ela vai protegê-lo. Determine qual parte do Valor de Armadura (VA) do defensor é aplicável — armadura energética ou armadura cinética ([Armadura](11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a armadura foi efetiva e o ataque não conseguiu ferir o alvo.
 
 Observe que ataques que perfuram armadura reduzem o VA à metade.
 
@@ -101,11 +101,11 @@ Observe que ataques que perfuram armadura reduzem o VA à metade.
 
 O dano infligido que exceder a armadura é aplicado ao defensor.
 
-Registre esse total na ficha de personagem. Se o dano acumulado igualar o exceder a Durabilidade do defensor, ele está incapacitado e pode morrer ([Saúde Física](../12/16-physical-health.md)). Se ele igualar ou exceder seu Grau de Destruição, ele está morto/destruído.
+Registre esse total na ficha de personagem. Se o dano acumulado igualar o exceder a Durabilidade do defensor, ele está incapacitado e pode morrer ([Saúde Física](16-physical-health.md)). Se ele igualar ou exceder seu Grau de Destruição, ele está morto/destruído.
 
 ## Passo 9: Determinar os Ferimentos
 
-Se o dano infligido, menos a armadura, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](../12/16-physical-health.md#wounds). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
+Se o dano infligido, menos a armadura, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](16-physical-health.md#wounds). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
 
 <!-- CLEANED blockquote -->
 
@@ -119,11 +119,11 @@ O ex-humano tem 60 de Evasão, mas contra um ataque de distância isso é reduzi
 
 O MJ rola contra o alvo de 30. Ele consegue um 07, o que seria um sucesso, mas Jinx rolou 69 que é mais alto. Jinx acerta!
 
-A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](../12/04-ranged-combat.md#firing-modes) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
+A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](04-ranged-combat.md#firing-modes) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
 
-O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](../12/16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
+O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
-Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](../12/02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
+Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 
 O ex-humano tem Luta 80, −10 pela investida, e mais −10 pelo ferimento, para um número alvo de 60. Ele rola 07. A Jinx tem Evasão 60, mais a MJ dá a ela um bônus de posição vantajosa por voar perto do teto, para o número alvo de 80. Ela rola um 00. Isso é mais baixo do que o resultado do ex-humano, mas é um sucesso crítico, o que supera a rolagem do ex-humano! O MJ diz que Jinx se esquiva de tal forma que o ex-humano se estende demais e perde o controle. Jinx sobreviveu para o próximo turno de ação!
 

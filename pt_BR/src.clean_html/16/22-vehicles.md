@@ -2,26 +2,26 @@
 
 Em Eclipse Phase, a maioria dos veículos é pilotada por ILA. Você simplesmente entra em um veículo e diz para onde quer ir. A pilotagem manual é para emergências, malucos por controle, e pessoas que não gostam de máquinas. Como robôs, os veículos podem ser operados remotamente. No entanto, eles não estão equipados para serem encapados, a não ser que você adicione um sistema de cibercérebro.
 
-## Ware de Veículos
+## Wares Veiculares
 
 Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots: visão padrão, audição, tato, propriocepção, equilíbrio, etc. Eles também são equipados com um conjunto padrão de wares necessários, listados abaixo, além daqueles listados com suas descrições específicas. Você também pode modificar um veículo com ware adicional, assim como um sintemorfo.
 
 | TODOS OS VEÍCULOS                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes hardwares, além daqueles listados em suas descrições específicas:                                               |
+| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes equipaware, além daqueles listados em suas descrições específicas:                                              |
 | <ul class="stat-list indent"><li>**Wares:** Insertos da Mesh, Manípulo Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
 | Além disso, veículos com compartimentos fechados são selados/pressionados e possuem um Respirador (submerso ou atmosfera com dióxido de carbono) ou Suporte Vital (48 horas).                        |
 | Os veículos projetados para Mercúrio possuem Proteção Termogênica, os veículos venusianos possuem Adaptação de Pressão e Proteção Termogênica, e os veículos titanianos possuem Proteção Criogênica. |
 
-### Hardware de Veículos
+### Equipawares Veiculares
 
 Alguns aprimoramentos são projetados especificamente para veículos, embora alguns robôs também os utilizem:
 
-| HARDWARE DE VEÍCULOS | Comp/<!-- CLEANED wbr -->PE |
-|:-------------------- |:-------------------------------------:|
-| Manobra Aprimorada   |                 Mod/2                 |
-| Suporte Vital        |                Men+/1+                |
-| Aríete               |                Mod/R/2                |
+| EQUIPAWARES VEICULARES | Comp/<!-- CLEANED wbr -->PE |
+|:---------------------- |:-------------------------------------:|
+| Manobra Aprimorada     |                 Mod/2                 |
+| Suporte Vital          |                Men+/1+                |
+| Aríete                 |                Mod/R/2                |
 
 **Manobra Aprimorada:** Este veículo é mais manobrável e responsivo aos controles. Aplique um modificador +10 em Testes de Pilotagem.
 

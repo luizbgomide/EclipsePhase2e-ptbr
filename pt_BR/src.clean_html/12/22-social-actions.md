@@ -4,7 +4,7 @@
 
 ## Manipulação Social
 
-Assim como a perícia Provocação pode ser usada para [ataques sociais](../12/22-social-actions.md#social-attacks), as perícias Cinésica, Enganação, Persuasão e Provocação ([Perícias](../04/18-skills.md)) podem ser usadas para vários fins, seja você usando lábia para sair de uma enrascada, extraindo informações de um suspeito, ou determinando se alguém está armando contra você.
+Assim como a perícia Provocação pode ser usada para [ataques sociais](#social-attacks), as perícias Cinésica, Enganação, Persuasão e Provocação ([Perícias](../04/18-skills.md)) podem ser usadas para vários fins, seja você usando lábia para sair de uma enrascada, extraindo informações de um suspeito, ou determinando se alguém está armando contra você.
 
 Quase todas as perícias sociais são tratadas como testes opostos, conforme indicado nas descrições das perícias. Há vários outros fatores que podem fornecer modificadores para esses testes:
 

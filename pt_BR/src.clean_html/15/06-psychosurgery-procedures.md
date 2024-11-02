@@ -64,7 +64,7 @@ A psicocirurgia pode ser usada para detectar edições prévias na sua mente. Es
 
 ## Mesclagem
 
-Mesclagem é o processo de recombinar um forque com seu ego originário ([Forqueamento](../15/04-forking-and-merging.md)). A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. Um teste bem-sucedido vai reduzir o VE; use os números listados depois da barra na tabela de Mesclagem. Cada sucesso maior reduzirá a quantidade de memórias perdidas em um nível, cada falha maior vai aumentar em um nível. A perda de memória geralmente só afeta as memórias do forque (não do alfa); aplique um modificador em Provas de COG relacionadas à memória (−10 para perda Menor, −20 para Moderada, −30 para Maior).
+Mesclagem é o processo de recombinar um forque com seu ego originário ([Forqueamento](04-forking-and-merging.md)). A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. Um teste bem-sucedido vai reduzir o VE; use os números listados depois da barra na tabela de Mesclagem. Cada sucesso maior reduzirá a quantidade de memórias perdidas em um nível, cada falha maior vai aumentar em um nível. A perda de memória geralmente só afeta as memórias do forque (não do alfa); aplique um modificador em Provas de COG relacionadas à memória (−10 para perda Menor, −20 para Moderada, −30 para Maior).
 
 O processo de mesclagem também integra qualquer estresse, traumas e traços de ego adquiridos pelo forque no ego original.
 
@@ -84,7 +84,7 @@ O processo de mesclagem também integra qualquer estresse, traumas e traços de 
 
 ## Desbaste Neural
 
-O desbaste neural é o processo de criar um [forque beta](../15/04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
+O desbaste neural é o processo de criar um [forque beta](04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
 
 - 1 perícia é diminuída em −30.
 - O forque adquire um traço Negativo de ego.
@@ -110,7 +110,7 @@ A psicocirurgia terapêutica é benéfica para personagens que sofrem de estress
 
 ## Remoção de Infecção
 
-Esse procedimento envolve o rastreamento e a remoção das alterações que o vírus exsurgente fez na mente do indivíduo. Ela só pode ser aplicada àqueles que se encontram nas fases iniciais da infecção; é ineficaz contra aqueles que já são completamente exsurgentes ou assincros. O Teste de Medicina: Psicocirurgia é oposto pelo Grau de Infecção do vírus. Se bem-sucedido, o exovírus é removido. Esse procedimento é considerado arriscado devido a vários casos do vírus infectar a RV de psicocirurgia e os próprios psicocirurgiões.
+Este procedimento envolve o rastreamento e a remoção das alterações que o vírus exsurgente fez na mente do indivíduo. Ela só pode ser aplicada àqueles que se encontram nas fases iniciais da infecção; é ineficaz contra aqueles que já são completamente exsurgentes ou assincros. O Teste de Medicina: Psicocirurgia é oposto pelo Grau de Infecção do vírus. Se bem-sucedido, o exovírus é removido. Esse procedimento é considerado arriscado devido a vários casos do vírus infectar a RV de psicocirurgia e os próprios psicocirurgiões.
 
 ## Impressão de Perícia
 
