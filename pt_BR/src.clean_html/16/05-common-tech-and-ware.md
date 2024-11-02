@@ -26,8 +26,8 @@ A maioria dos morfos inclui as seguintes ampliações.
 
 **Insertos da Mesh:** Essa rede de implantes é obrigatória para as pessoas que queiram usar realidade aumentada e ligar-se sem fio com a mesh. Os vários componentes incluem:
 
-- **Computador Cranial:** Este terminal serve como central para a sua rede de área pessoal e é a habitação da sua musa. Ele gerencia sua entrada de realidade aumentada e processa dados de XP, permitindo que você compartilhe seu sensório com os outros em tempo real. Ele está carregado com apps básicos e fornece todas as funções que você esperaria de um dispositivo móvel: armazenamento de arquivos, sistema de busca, tocador de mídia, navegador da mesh, livro de endereços, e-mail, mensagens, e assim por diante.
-- **Sensores Médicos/Diagnósticos:** Este conjunto monitora a sua saúde, incluindo frequência cardíaca, respiração, pressão arterial, temperatura, atividade neural, status dos wares e muito mais. Em sintemorfos, esse sistema monitora relatórios do sistema e logs de erros, aquecimento, falhas por desgaste, e status semelhantes de aparelhagem.
+- **Computador Cranial:** Esse terminal serve como central para a sua rede de área pessoal e é a habitação da sua musa. Ele gerencia sua entrada de realidade aumentada e processa dados de XP, permitindo que você compartilhe seu sensório com os outros em tempo real. Ele está carregado com apps básicos e fornece todas as funções que você esperaria de um dispositivo móvel: armazenamento de arquivos, sistema de busca, tocador de mídia, navegador da mesh, livro de endereços, e-mail, mensagens, e assim por diante.
+- **Sensores Médicos/Diagnósticos:** Esse conjunto monitora a sua saúde, incluindo frequência cardíaca, respiração, pressão arterial, temperatura, atividade neural, status dos wares e muito mais. Em sintemorfos, esse sistema monitora relatórios do sistema e logs de erros, aquecimento, falhas por desgaste, e status semelhantes de aparelhagem.
 - **Transceptor de Rádio:** Isso conecta seu ware mental com outros dispositivos da mesh dentro do alcance (5&nbsp;km em áreas urbanas/50&nbsp;km em áreas abertas).
 - Você pode acessar qualquer dessas funções simplesmente pensando.
 
@@ -68,17 +68,17 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 
 **Fita Aderente:** Uma nanofita adesiva que pode ser usada para aderir equipamentos em qualquer superfície, e que depois é removida facilmente puxando na direção certa (perpendicularmente).
 
-**Projetor Holográfico:** Este dispositivo pode projetar imagens e filmes tridimensionais ultrarrealistas em alta definição. De longe (20+ metros), esses hologramas são difíceis de identificar como falsos, mas de perto é mais fácil perceber o que eles são (modificador +20 em Testes de Percepção). Os hologramas não aparecem em comprimentos de onda diferentes da luz visível, e portanto são facilmente identificados por qualquer pessoa com visão aprimorada.
+**Projetor Holográfico:** Esse dispositivo pode projetar imagens e filmes tridimensionais ultrarrealistas em alta definição. De longe (20+ metros), esses hologramas são difíceis de identificar como falsos, mas de perto é mais fácil perceber o que eles são (modificador +20 em Testes de Percepção). Os hologramas não aparecem em comprimentos de onda diferentes da luz visível, e portanto são facilmente identificados por qualquer pessoa com visão aprimorada.
 
 **Sapatos de Microgravidade:** Esses sapatos são equipados com velcro e/ou sistemas magnéticos, permitindo que o usuário ande normalmente em superfícies apropriadas em ambientes de microgravidade ou zero-g, em vez de flutuar ou saltitar.
 
 **Bateria Nuclear:** Essas microbaterias geram energia através do decaimento de radioisótopos, armazenando-as para uso posterior. Elas podem produzir energia por anos ou até décadas. Elas são frequentemente usadas para recarregar baterias comuns.
 
-**Sensor Portátil:** Este é um pequeno sistema (possivelmente vestível) de sensores portáteis. O tipo de sensor deve ser escolhido (por exemplo: infravermelho, lidar, radar, raio X). Sistemas de sensores combinados também estão disponíveis, com um custo cumulativo. Veja [Sentidos e Sensores](07-senses-and-sensors.md) e [Alcances de Rádios e Sensores](16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
+**Sensor Portátil:** Esse é um pequeno sistema (possivelmente vestível) de sensores portáteis. O tipo de sensor deve ser escolhido (por exemplo: infravermelho, lidar, radar, raio X). Sistemas de sensores combinados também estão disponíveis, com um custo cumulativo. Veja [Sentidos e Sensores](07-senses-and-sensors.md) e [Alcances de Rádios e Sensores](16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
 
 **Vestuário inteligente:** Por ser feito com materiais inteligentes, você pode alterar a cor/padrões do vestuário inteligente imediatamente, e a textura e modelo em 1d6 minutos. Quando usado para fins de camuflagem, o vestuário inteligente aplica um modificador +10 em Teste de Infiltração, +30 se você estiver completamente coberto (ou usando pele camaleão) e permanecer parado. Essa camuflagem não se aplica contra radar, raios X, raios gama ou sensores de calor infravermelhos (incluindo visão aprimorada). Você pode usar vestuário inteligente para se destacar (+10 a +30 em Percepção contra você). O vestuário inteligente mantém você confortável em ambientes de −40 até 70&nbsp;°C.
 
-**Carregador Solar:** Esta pequena unidade portátil se desdobra em painéis solares altamente eficientes, úteis para coletar luz solar e carregar eletrônicos ou recarregar baterias. Ele é comum em operações de desbravamento e mineração de asteroides, embora a produção de energia dependa da proximidade com o sol/estrela.
+**Carregador Solar:** Essa pequena unidade portátil se desdobra em painéis solares altamente eficientes, úteis para coletar luz solar e carregar eletrônicos ou recarregar baterias. Ele é comum em operações de desbravamento e mineração de asteroides, embora a produção de energia dependa da proximidade com o sol/estrela.
 
 **Visor:** O visor é um óculos ou máscara de aprimoramento de visão. Ele fornece todos os benefícios de [visão aprimorada](06-sensory-augmentations.md) e inclui um [emissor de raios T](06-sensory-augmentations.md). Ele fornece um bônus +10 em Testes de Percepção.
 
@@ -90,4 +90,4 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 
 **Visualizador:** Visualizadores são a versão de longa distância dos visores, parecidos com binóculos avançados. Eles fornecem ampliação de 50x e incorporam um microfone direcional que amplifica o som da direção que você está apontando por um fator de 50. Visualizadores não são úteis a curtas distâncias.
 
-**Transmissor de Energia Sem Fio:** Quando plugado em uma fonte de energia, este transmissor transferirá energia para dispositivos a até 20 metros via acoplamento indutivo ressonante de campo próximo. Eles são comuns nas áreas de habitats, públicas e privadas.
+**Transmissor de Energia Sem Fio:** Quando plugado em uma fonte de energia, esse transmissor transferirá energia para dispositivos a até 20 metros via acoplamento indutivo ressonante de campo próximo. Eles são comuns nas áreas de habitats, públicas e privadas.
