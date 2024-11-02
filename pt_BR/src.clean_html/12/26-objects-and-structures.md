@@ -24,7 +24,7 @@ Para as regras de nanofabricação de objetos, veja [Aquisição de Equipamentos
 
 ## Reparando Objetos
 
-Itens danificados podem ser reparados, veja [Reparo de Sintemorfos/Objetos](../12/17-healing-and-repair.md#synthmorphobject-repair).
+Itens danificados podem ser reparados, veja [Reparo de Sintemorfos/Objetos](17-healing-and-repair.md#synthmorphobject-repair).
 
 ## Modificando Objetos
 
