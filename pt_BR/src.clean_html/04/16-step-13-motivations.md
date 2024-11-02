@@ -4,7 +4,7 @@ Agora que seu personagem está praticamente completo, você deve escolher 3 moti
 
 As motivações são listadas na ficha de personagem como uma única palavras ou frase curta, junto do símbolo + ou − para denotar se eles apoiam ou se opõem a causa. Por exemplo, “+Fama” indicaria que o seu personagem busca se tornar uma personalidade de mídia famosa, enquanto que “−Reivindicação da Terra” significa que seu personagem se opõe ao objetivo de reivindicar a Terra.
 
-Sua primeira motivação é baseada na sua escolha de facção, conforme determinado no [Passo 4](../04/07-step-4-faction.md). Anote isso na sua ficha como "+Interesses \[Facção\]”. Suas outras duas motivações são baseadas nos interesses pessoais do personagem; veja o quadro Motivações de Exemplo para ter ideias.
+Sua primeira motivação é baseada na sua escolha de facção, conforme determinado no [Passo 4](07-step-4-faction.md). Anote isso na sua ficha como "+Interesses \[Facção\]”. Suas outras duas motivações são baseadas nos interesses pessoais do personagem; veja o quadro Motivações de Exemplo para ter ideias.
 
 Se você não escolheu uma facção, em vez disso apenas escolha uma terceira motivação pessoal. Se você ainda não tem certeza de quais motivações escolher, você sempre pode deixar isso em branco e preenchê-las durante o jogo.
 
@@ -24,6 +24,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 
 <!-- CLEANED div class="two-columns-text" -->
 
+<!--sorted-->
 - Aceitação
 - Pessoas IGA
 - Contato Alienígena
@@ -70,6 +71,8 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 - Direitos de Elevados
 - Soberania Venusiana
 - Riqueza
+
+<!--end-sort-->
 
 <!-- CLEANED /div -->
 
