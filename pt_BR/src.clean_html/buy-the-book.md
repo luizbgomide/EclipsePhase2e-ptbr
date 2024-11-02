@@ -2,7 +2,7 @@
 
 Apoie os criadores do jogo e compre o livro.
 
-É belíssimo e muito mais prazeroso de ler do que esse site entendiante.
+É belíssimo e muito mais prazeroso de ler do que este site entendiante.
 
 [Posthuman Studios Online Store](https://posthuman.shop/)
 
