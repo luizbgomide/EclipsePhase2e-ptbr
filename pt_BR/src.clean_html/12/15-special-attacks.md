@@ -14,7 +14,7 @@ Armas de explosão como granadas, minas e outros explosivos se expandem para for
 
 ### Cone
 
-Ataques com área de efeito de cone começam na ponta da arma e se expandem em um cone. À queima-roupa e perto, este ataque afeta 1 alvo; ao alcance, ele afeta 2 alvos a até um metro um do outro, além do alcance ele afeta 3 alvos a até um metro um do outro. Ataques em cone que causam dano infligem +1d10&nbsp;VD à queima-roupa e perto e −1d10&nbsp;VD além do alcance.
+Ataques com área de efeito de cone começam na ponta da arma e se expandem em um cone. À queima-roupa e perto, esse ataque afeta 1 alvo; ao alcance, ele afeta 2 alvos a até um metro um do outro, além do alcance ele afeta 3 alvos a até um metro um do outro. Ataques em cone que causam dano infligem +1d10&nbsp;VD à queima-roupa e perto e −1d10&nbsp;VD além do alcance.
 
 ### Explosão Uniforme
 
@@ -28,7 +28,7 @@ Armas como granadas devem ir para algum lugar quando elas erram, e você pode ai
 
 ## Ataques Contra Indefesos
 
-Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destrói. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; estes ataques são feitos normalmente, sem defesa.
+Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destrói. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; esses ataques são feitos normalmente, sem defesa.
 
 ## Ataques às Cegas
 
@@ -83,7 +83,7 @@ A maioria dos explosivos pode ser desarmada com um teste bem-sucedido de Aparelh
 
 ### Fabricando Explosivos
 
-Um personagem treinado em Aparelhagem: Demolições pode fazer explosivos a partir de matérias-primas. Estes materiais podem ser conseguidos de forma tradicional ou fabricados usando um nanofabricador. Até mesmo nanofabros com configurações restritas podem ser usados, pois explosivos podem ser construídos com todo tipo de químicos e materiais mundanos.
+Um personagem treinado em Aparelhagem: Demolições pode fazer explosivos a partir de matérias-primas. Esses materiais podem ser conseguidos de forma tradicional ou fabricados usando um nanofabricador. Até mesmo nanofabros com configurações restritas podem ser usados, pois explosivos podem ser construídos com todo tipo de químicos e materiais mundanos.
 
 Fazer explosivos é uma ação de tarefa com uma prazo de 1 hora por 1d10&nbsp;VD. Em caso de falha, os recursos são usados mas nenhum explosivo é feito. Com uma falha maior, uma mistura parece ter sucesso, mas é extremamente fraca ou mais potente que o esperado (o que provavelmente for mais problemático). Se uma falha crítica for rolada, o demolidor acidentalmente detona uma explosão.
 
@@ -107,7 +107,7 @@ Você pode empunhar duas armas de uma vez em combate — ou até mais se estiver
 
 Se atacar múltiplos alvos em luta com a mesma ação complexa, simplesmente faça cada ataque separadamente ([Múltiplos Alvos](02-melee-combat.md#multiple-targets)).
 
-Trate o uso de duas ou mais armas de luta contra um alvo como um único ataque, em vez de múltiplos. Cada arma adicional aplica +1d6&nbsp;VD ao ataque (até o máximo de +3d6). A penalidade para o [traço negativo Membro Dominante](../04/28-traits.md#dominant-limb) é ignorada neste caso.
+Trate o uso de duas ou mais armas de luta contra um alvo como um único ataque, em vez de múltiplos. Cada arma adicional aplica +1d6&nbsp;VD ao ataque (até o máximo de +3d6). A penalidade para o [traço negativo Membro Dominante](../04/28-traits.md#dominant-limb) é ignorada nesse caso.
 
 Membros extras (além de 4) contam como armas extras para fins de combate desarmado, mas eles são contados em pares. Um biomorfo com um conjunto extra de braços, por exemplo, causaria VD 2d6 em combate desarmado, em vez do 1d6 padrão. Algumas outras armas (garras, luvas densiplast) também são contadas em pares nesse caso.
 
@@ -115,6 +115,6 @@ Quando se defender contra ataques de luta com múltiplas armas/membros, você re
 
 ### Armas de Distância Extras
 
-Você pode empunhar uma pistola em cada mão em combate de distância, ou armas maiores se você tiver mais membros (por exemplo, um octomorfo com oito membros poderia segurar 4 fuzis de assalto). Estas armas podem ser disparadas todas de uma vez contra o mesmo alvo, usando uma única ação complexa. Trate cada arma como um ataque separado, com um modificador de ataque múltiplo −20 cumulativo para cada ataque depois do primeiro (ex.: nenhum modificador no primeiro ataque, −20 no segundo, −40 no terceiro, etc.).
+Você pode empunhar uma pistola em cada mão em combate de distância, ou armas maiores se você tiver mais membros (por exemplo, um octomorfo com oito membros poderia segurar 4 fuzis de assalto). Essas armas podem ser disparadas todas de uma vez contra o mesmo alvo, usando uma única ação complexa. Trate cada arma como um ataque separado, com um modificador de ataque múltiplo −20 cumulativo para cada ataque depois do primeiro (ex.: nenhum modificador no primeiro ataque, −20 no segundo, −40 no terceiro, etc.).
 
 Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque requer uma ação complexa separada.

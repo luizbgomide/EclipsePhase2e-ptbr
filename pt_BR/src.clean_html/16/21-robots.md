@@ -68,15 +68,15 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 
 **Anjo da Guarda:** Similares a mosquitos, os anjos da guarda são drones maiores com rotores e usados para fins defensivos. Eles pairam ao redor dos seus encargos, mantendo um olhar atento para protegê-los de ameaças.
 
-**Parisfera:** Tendo o nome do herói troiano Páris, que matou Aquiles com uma flecha, esta espaçonave tipo orbe não é muito mais do que uma cápsula de armas construída ao redor de um foguete. Sem ter um piloto, estes drones de combate podem realizar manobras de alto-g.
+**Parisfera:** Tendo o nome do herói troiano Páris, que matou Aquiles com uma flecha, essa espaçonave tipo orbe não é muito mais do que uma cápsula de armas construída ao redor de um foguete. Sem ter um piloto, esses drones de combate podem realizar manobras de alto-g.
 
 **Sentinela:** Muitas variedades de bots sentinelas existem, mas modelos comuns manobram usando quatro esteiras inteligentes multidirecionais. Usados em todo Sistema Solar para fins de policiamento e segurança, eles estão repletos de armaduras e armas.
 
-**Drone Escudo:** Estes drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VA +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).
+**Drone Escudo:** Esses drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VA +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).
 
 ## Bots de Exploração
 
-Projetados para desbravamento, estes bots também são úteis em outras funções.
+Projetados para desbravamento, esses bots também são úteis em outras funções.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS DE EXPLORAÇÃO<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
@@ -96,9 +96,9 @@ Projetados para desbravamento, estes bots também são úteis em outras funçõe
 <!-- CLEANED /div --></tr>
 </table>
 
-**Exploranauta:** Estes bots de tamanho pequeno viajam em esteiras inteligentes ou com jatos de empuxo vetorial. Eles estão repletos de sensores e são usados para desbravamento e operações similares de exploração. Um par de braços manipuladores são usados para recolher amostras.
+**Exploranauta:** Esses bots de tamanho pequeno viajam em esteiras inteligentes ou com jatos de empuxo vetorial. Eles estão repletos de sensores e são usados para desbravamento e operações similares de exploração. Um par de braços manipuladores são usados para recolher amostras.
 
-**Amoebot:** Estes pequenos bots amorfos são macios com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.
+**Amoebot:** Esses pequenos bots amorfos são macios com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.
 
 ## Bots Médicos
 
@@ -122,9 +122,9 @@ Estes bots são verdadeiros salva-vidas.
 <!-- CLEANED /div --></tr>
 </table>
 
-**Medibot:** Estes robôs médicos com rodas são projetados para cuidar e transportar pessoas feridas e doentes. Eles carregam um fabro para suprimentos médicos e farmacêuticos, equipamentos médicos diversos, um recipiente seguro para carregar cabeças, e 4–8 braços articulados para conduzir cirurgias remotas. Eles são geralmente carregados com spray curativo e xarope (adquiridos separadamente).
+**Medibot:** Esses robôs médicos com rodas são projetados para cuidar e transportar pessoas feridas e doentes. Eles carregam um fabro para suprimentos médicos e farmacêuticos, equipamentos médicos diversos, um recipiente seguro para carregar cabeças, e 4–8 braços articulados para conduzir cirurgias remotas. Eles são geralmente carregados com spray curativo e xarope (adquiridos separadamente).
 
-**Resgatador:** Projetado como um carro voador menor com um par de braços manipuladores, este bot cuida de operações de busca e resgate. Ele rastreia sobreviventes e os resgata de perigos, carregando os feridos para a segurança. Ele pode conter um transumano de tamanho médio.
+**Resgatador:** Projetado como um carro voador menor com um par de braços manipuladores, esse bot cuida de operações de busca e resgate. Ele rastreia sobreviventes e os resgata de perigos, carregando os feridos para a segurança. Ele pode conter um transumano de tamanho médio.
 
 ## Bots Pessoais
 
@@ -163,11 +163,11 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 **Bichinho:** Os bichinhos vêm em uma variedade eclética de formatos, desde esquilos-robôs até insectoides ou criaturas mecânicas bizarras e artísticas. Os bichinhos foram originalmente projetados como mascotes robóticos, mas são bastante usados como um lacaio doméstico de uso geral, como um servente mais adorado. Muitas pessoas carregam o bichinho consigo, soltando-o para cuidar de pequenas tarefas para elas e deixando-o escalar seu corpo para cima e para baixo.
 
-**Manipulador:** Este bot assume a forma de um membro extra e uma cinta de suporte, armação de sustentação, arnês, ou braçadeira para vesti-lo. O manipulador pode ficar em mesh e ser tratado como uma extensão do seu corpo ou destacado para operação autônoma ou controle remoto. Embora projetos de braços humanos sejam comuns, uma variedade de projetos de membros estão disponíveis, desde garras até tentáculos. Trate como [cibermembro extra](11-physical-augmentations.md) quando vestido.
+**Manipulador:** Esse bot assume a forma de um membro extra e uma cinta de suporte, armação de sustentação, arnês, ou braçadeira para vesti-lo. O manipulador pode ficar em mesh e ser tratado como uma extensão do seu corpo ou destacado para operação autônoma ou controle remoto. Embora projetos de braços humanos sejam comuns, uma variedade de projetos de membros estão disponíveis, desde garras até tentáculos. Trate como [cibermembro extra](11-physical-augmentations.md) quando vestido.
 
 **Servente:** Os serventes são os robôs mais comuns, atuando como cozinheiros, zeladores, ajudantes genéricos, carregadores e assistentes pessoais. Cada casa tem pelo menos um. Eles têm uma variedade de formatos e tamanhos não humanoides, embora a maioria seja de tamanho médio, com 4–8 membros em média.
 
-**Aracnomão:** Este bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas “pernas” são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
+**Aracnomão:** Esse bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas “pernas” são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
 
 ## Bots de Reconhecimento/Vigilância
 
@@ -216,7 +216,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Mosquito:** Os mosquitos são pequenos drones de câmera/vigilância com rotores. Muitas pessoas usam mosquitos para lifelogs pessoais, enquanto socialites e a mídia os usam para capturar o glamour e últimas novidades.
 
-**Disco:** Estes drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
+**Disco:** Esses drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
 
 **Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um “pontinho na parede”. Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
 
@@ -260,8 +260,8 @@ Estes bots ajudam a fazer as coisas.
 
 **Automecânico:** Os automecânicos são drones de reparo de uso geral, encontrados em praticamente todos os lugares. Cada um é especializado em um tipo específico de trabalho de reparo e está equipado com as ferramentas e perícias de ILA apropriadas, seja para reparo eletrônico, de sistemas de habitats ou de espaçonaves. Os automecânicos padrões são cubos com rodas com 4–8 membros retráteis e articulados, embora eles também sejam equipados com motores de empuxo vetorial para trabalho em zero-g.
 
-**Barracuda:** Este drone utilitário submarino é usado para funções de exploração, serviço e reparo. Ele tem o formato de um submarino em miniatura com um par de braços retráteis.
+**Barracuda:** Esse drone utilitário submarino é usado para funções de exploração, serviço e reparo. Ele tem o formato de um submarino em miniatura com um par de braços retráteis.
 
-**Anão:** Estes grandes bots industriais são chamados não só pelo seu uso primário — mineração, escavação, túneis e construção — mas porque as IAs padrões equipadas neles tinham a tendência programada de assobiar felizmente enquanto trabalhavam. Os anões são andadores quadrúpedes, equipados com enormes ferramentas modulares industriais como brocas de perfuração, pás, macacos hidráulicos, britadeiras, braços carregadores, jatos de ácido e assim por diante.
+**Anão:** Esses grandes bots industriais são chamados não só pelo seu uso primário — mineração, escavação, túneis e construção — mas porque as IAs padrões equipadas neles tinham a tendência programada de assobiar felizmente enquanto trabalhavam. Os anões são andadores quadrúpedes, equipados com enormes ferramentas modulares industriais como brocas de perfuração, pás, macacos hidráulicos, britadeiras, braços carregadores, jatos de ácido e assim por diante.
 
-**Mula-Robô:** Estes drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
+**Mula-Robô:** Esses drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.

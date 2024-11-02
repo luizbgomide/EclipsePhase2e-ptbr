@@ -4,7 +4,7 @@ A galáxia é um lugar perigoso, e quando você enfrenta os riscos, inevitavelme
 
 ## Pontos de Dano
 
-Todo dano físico é medido em pontos de dano. Estes pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provavelmente terá efeitos mais graves ([Ferimentos](#wounds)).
+Todo dano físico é medido em pontos de dano. Esses pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provavelmente terá efeitos mais graves ([Ferimentos](#wounds)).
 
 Pontos de dano são reduzidos com descanso, cuidados médicos, e/ou reparo ([Cura & Reparo](17-healing-and-repair.md)).
 

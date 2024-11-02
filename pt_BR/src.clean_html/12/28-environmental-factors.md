@@ -4,7 +4,7 @@ Os transumanos se adaptaram a muitos ambientes, mas há muitos riscos que devem 
 
 ## Asfixia
 
-O transumano médio pode segurar a respiração por dois minutos antes de desmaiar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Destruição e morra ou consiga respirar de novo. Este dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.
+O transumano médio pode segurar a respiração por dois minutos antes de desmaiar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Destruição e morra ou consiga respirar de novo. Esse dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.
 
 A asfixia é um processo terrível, que frequentemente leva ao pânico. Os personagens sofrendo asfixia devem fazer uma Prova de VON a cada 30 segundos. Se você falhar, você sofre VD 1d6 e não pode realizar qualquer ação efetiva para se salvar neste turno de ação; você pode fazer uma Prova de VON adicional a cada turno para recuperar o juízo. No entanto, mesmo se tiver sucesso você deve fazer uma Prova de VON para realizar qualquer outra ação não relacionada diretamente com se salvar (atacar alguém segurando você embaixo d'água está isento dessa regra).
 
@@ -60,7 +60,7 @@ O movimento e as manobras em microgravidade são feitos usando a [perícia Queda
 
 A maioria dos habitats em microgravidade estão equipados com laços elásticos para se agarrar, bolsos de malha para manter objetos presos, e esteiras rolantes com alças para as mãos em vias de grande movimentação. Sapatos magnéticos ou com velcro são comumente usados para caminhar, em vez de escalar ou voar. No entanto, os ambientes em zero-g são projetados para fazer uso máximo do espaço, aproveitando-se da ausência de tetos e pisos. Como os objetos não tem peso, os personagens podem mover até mesmo objetos enormes com facilidade.
 
-**Velocidade de Escape:** Não é difícil atingir velocidade de escape em pequenos asteroides ou corpos semelhantes — algo para se ter em mente quando com objetos arremessados e armas de projéteis. Em alguns casos, os personagens que se movam rápido depois e saltem podem alcançar eles mesmo a velocidade de escape, mas estas situações ficam a cargo do MJ.
+**Velocidade de Escape:** Não é difícil atingir velocidade de escape em pequenos asteroides ou corpos semelhantes — algo para se ter em mente quando com objetos arremessados e armas de projéteis. Em alguns casos, os personagens que se movam rápido depois e saltem podem alcançar eles mesmo a velocidade de escape, mas essas situações ficam a cargo do MJ.
 
 ### Baixa Gravidade
 

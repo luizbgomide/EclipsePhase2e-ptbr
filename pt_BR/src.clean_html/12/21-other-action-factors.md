@@ -14,7 +14,7 @@ Alguns ataques, drogas, e truques psi infligem condições temporárias específ
 - **Imobilizado:** Você não pode fazer nenhuma ação física, incluindo Testes de Evasão, até se recuperar. Você pode fazer ações mentais e da mesh.
 - **Debilitado:** Suas capacidades estão prejudicadas. Você sofre −10, −20, ou −30 em todas as ações, conforme indicado pela condição (ex.: debilitado (−10)).
 - **Incapacitado:** Você não pode fazer ações até se recuperar. Isso inclui ações mentais e Testes de Evasão; você não pode se defender contra ataques.
-- **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para este turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
+- **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para esse turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
 - **Atordoado:** Você perdeu completamente o fôlego. Você sofre −30 em todas as ações físicas e −10 em ações mentais.
 - **Inconsciente:** Você perdeu a consciência (ou seu estado mental programático travou) e está indefeso. Você pode ser acordado/reinicializado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
 
@@ -30,7 +30,7 @@ O modo padrão de observação para os personagens é chamado _percepção bási
 
 Use _percepção detalhada_ para concentrar sua atenção em uma pessoa, coisa ou área específica. Essa é uma ação rápida, mas não impõe modificadores. Use isso quando estiver atento para emboscadas, procurando pistas, ou avaliando uma situação.
 
-_Investigação minuciosa_ envolve a aplicação ativa e cuidadosa dos seus sentidos em uma pessoa, coisa ou área específica. Esta é uma ação de tarefa, com um prazo definido pelo MJ. Examinar uma artefato alienígena pode ter uma prazo de 1 minuto, enquanto revistar uma sala metodicamente poderia demorar uma hora.
+_Investigação minuciosa_ envolve a aplicação ativa e cuidadosa dos seus sentidos em uma pessoa, coisa ou área específica. Essa é uma ação de tarefa, com um prazo definido pelo MJ. Examinar uma artefato alienígena pode ter uma prazo de 1 minuto, enquanto revistar uma sala metodicamente poderia demorar uma hora.
 
 Em certas circunstâncias, apenas sentidos específicos — e modificadores associados — podem ser aplicáveis. Olfato aprimorado, por exemplo, não vai ajudá-lo a perceber um assassino escondido em uma emboscada, mas certamente poderia ajudá-lo a localizar a toca fedorenta de um animal alienígena.
 
@@ -86,6 +86,6 @@ Você podem levar a melhor contra um oponente se esgueirando até ele, aguardand
 
 Se o alvo perder, ele está surpreso pelo ataque e não podem reagir ou se defender contra ele. Cada emboscador bem-sucedido recebe uma ação de iniciativa gratuita; ele não pode gastar Vigor para ter ações adicionais. Assim que os atacantes tenham feito suas ações, role Iniciativa normalmente.
 
-Se o alvo vencer, ele está alerta de algo por uma fração de segundo antes de ser emboscado, dando a ele uma chance de reagir. Neste caso, role a Iniciativa normalmente, mas o personagem emboscado sofre um modificador −3 no Teste de Iniciativa. O personagem emboscado ainda pode agir e se defender normalmente.
+Se o alvo vencer, ele está alerta de algo por uma fração de segundo antes de ser emboscado, dando a ele uma chance de reagir. Nesse caso, role a Iniciativa normalmente, mas o personagem emboscado sofre um modificador −3 no Teste de Iniciativa. O personagem emboscado ainda pode agir e se defender normalmente.
 
 Em uma situação com vários combatentes, alguns personagens podem ser surpresos e outros não. Role a Iniciativa normalmente, com os não emboscadores sofrendo o modificador −3. Ninguém pode usar Vigor durante o primeiro turno de surpresa para ter ações extras. No entanto, personagens surpresos estão incapazes de agir ou se defender durante o primeiro turno de ação, pois eles foram pegos desprevenidos e precisam de um momento para avaliar o que está acontecendo.

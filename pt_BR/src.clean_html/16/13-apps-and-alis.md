@@ -23,25 +23,25 @@ Esses programas podem ser executados em qualquer dispositivo computadorizado.
 
 **Ilusão de RA:** Uma biblioteca de mídia e um pacote de edição que você pode usar para criar ilusões entópticas realistas.
 
-**Comparação Biométrica:** Este app pega qualquer padrão biométrico — rosto, postura, morfo, voz, etc. — e executa uma pesquisa por padrões correspondentes ([Rastreando por Biometria](../13/10-tracking.md#tracking-by-biometrics)).
+**Comparação Biométrica:** Esse app pega qualquer padrão biométrico — rosto, postura, morfo, voz, etc. — e executa uma pesquisa por padrões correspondentes ([Rastreando por Biometria](../13/10-tracking.md#tracking-by-biometrics)).
 
-**Criptografia:** Este app gera pares de chaves, criptografa mensagens usando chaves públicas e descriptografa com chaves secretas ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
+**Criptografia:** Esse app gera pares de chaves, criptografa mensagens usando chaves públicas e descriptografa com chaves secretas ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 
 **Violação:** Uma biblioteca e ferramenta hacker para se aproveitar de vulnerabilidades conhecidas de programas. Necessário para hackear.
 
-**Firewall:** Este app protege um dispositivo de uma invasão hostil. Todo dispositivo tem um por padrão.
+**Firewall:** Esse app protege um dispositivo de uma invasão hostil. Todo dispositivo tem um por padrão.
 
-**Caixa-Forte:** Este malware aprisiona infomorfos ([Prender Ego](../13/17-mindware-hacking.md#trap-ego)).
+**Caixa-Forte:** Esse malware aprisiona infomorfos ([Prender Ego](../13/17-mindware-hacking.md#trap-ego)).
 
-**Psicocirurgia:** Este app é usado para editar mentes ([Psicocirurgia](../15/05-psychosurgery.md)).
+**Psicocirurgia:** Esse app é usado para editar mentes ([Psicocirurgia](../15/05-psychosurgery.md)).
 
 **Farejamento:** Apps de farejamento coletam todo tráfego passando entre ou através dos sistemas alvos ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
 **Mascaramento:** Use apps de mascaramento para falsificar transmissões e mesh IDs ([Mascaramento](../13/05-authentication-and-encryption.md#spoofing)).
 
-**Rastreamento:** Este app rastreia as conexões das pessoas online até sua origem ([Rastreamento](../13/10-tracking.md)).
+**Rastreamento:** Esse app rastreia as conexões das pessoas online até sua origem ([Rastreamento](../13/10-tracking.md)).
 
-**VPN:** Este app possibilita que você se comunique em uma rede privada virtual ([VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks)). As VPNs fornecem um modificador −30 em ataques de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+**VPN:** Esse app possibilita que você se comunique em uma rede privada virtual ([VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks)). As VPNs fornecem um modificador −30 em ataques de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
 **XP:** Clipes das experiências de outra pessoa. Dependendo do conteúdo, alguns XP (pornô, morte, crime, etc.) são restritos em certas jurisdições. Os clipes de XP são frequentemente modificados para que as faixas emotivas sejam mais intensas, dando mais emoção ao espectador.
 
@@ -58,13 +58,13 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 | ILA de Segurança   |                 Mod/2                 | Aparelhagem: Eletrônica 30, Infoseg 60, Interface 40, Percepção 30, Pesquisa 20, Programação 30, Saber: Sistemas de Segurança 80, Tiro 30                                                                                                                              |
 | ILA de Sentinela   |                Mai/R/3                | Aparelhagem: \[área apropriada\] 30, Cinésica 40, Evasão 30, Interface 30, Percepção 40, Pilotagem: \[área apropriada\] 40, Provocação 30, Saber: Especificações de \[bot/veículo\] 80, Saber: Operações de Segurança 80, Tiro 60                                |
 
-**ILA de Bot/Veículo:** Estas IAs podem pilotar e controlar o bot/veículo para o qual elas foram projetadas sem assistência transumana.
+**ILA de Bot/Veículo:** Essas IAs podem pilotar e controlar o bot/veículo para o qual elas foram projetadas sem assistência transumana.
 
-**ILA de Dispositivo:** Estas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
+**ILA de Dispositivo:** Essas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
 
 **ILA Kaos:** As ILAs Kaos (também chamadas KALI) são usadas por hackers e equipes de operações de infiltração para criar distrações e sabotar sistemas.
 
-**Musa:** Estas são assistentes digitais e companheiros para toda vida.
+**Musa:** Essas são assistentes digitais e companheiros para toda vida.
 
 **ILA de Segurança:** Fornece vigilância para sistemas eletrônicos.
 

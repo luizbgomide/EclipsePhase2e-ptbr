@@ -22,7 +22,7 @@ Os simulespaços incluem simulações do mundo real, recriações históricas, e
 
 Seu simulmorfo é sua representação digital em RV. Para todos os propósitos, ele parece um morfo físico real — ou talvez um infomorfo ou alguma coisa mais estranha, dependendo das regras de domínio.
 
-Embora seu simulmorfo possa sentir dor e danos em RV, esta é mera uma entrada sensorial — o seu morfo físico (ou infomorfo) permanece ileso. Tais experiências ainda podem ter um forte impacto psicológico em um ego, já que a simulação é tão próxima da realidade quanto possível. A tortura em RV parece tão real quanto a tortura física verdadeira. Seu ego ainda pode sofrer estresse mental e traumas como resultado de experiências de simulespaço.
+Embora seu simulmorfo possa sentir dor e danos em RV, essa é mera uma entrada sensorial — o seu morfo físico (ou infomorfo) permanece ileso. Tais experiências ainda podem ter um forte impacto psicológico em um ego, já que a simulação é tão próxima da realidade quanto possível. A tortura em RV parece tão real quanto a tortura física verdadeira. Seu ego ainda pode sofrer estresse mental e traumas como resultado de experiências de simulespaço.
 
 ## Imersão
 
@@ -50,9 +50,9 @@ Como qualquer sistema com regras, há formas de trapacear. Muitos jogos de simul
 
 ## Hackeando Simulespaços
 
-Os simulespaços são ambientes virtuais complexos e frequentemente são executados em dilatação temporal, o que significa que hackers não podem hackeá-los da maneira normal quando estão participando da simulação. Existem maneiras de afetar e influenciar a simulação de dentro, mas o grau de subversão que é alcançável é limitado. Por esta razão, os hackers raramente entram em RV para hackear.
+Os simulespaços são ambientes virtuais complexos e frequentemente são executados em dilatação temporal, o que significa que hackers não podem hackeá-los da maneira normal quando estão participando da simulação. Existem maneiras de afetar e influenciar a simulação de dentro, mas o grau de subversão que é alcançável é limitado. Por essa razão, os hackers raramente entram em RV para hackear.
 
-Dentro de um simulespaço, sua única opção para hackear é através da interface padrão que qualquer simulmorfo pode usar. Isso é usado para recursos padrões de usuários como personalizar seu simulmorfo, conversar com outros usuários, ver mapas/FAQs, ou verificar o status do sistema ou de outros usuários. As opções para usar essa interface para hackear o sistema são geralmente bastante limitadas, pois ela é projetada para que os controles e processos do sistema não possam ser acessados e manipulados por dentro, a não ser que você tenha as credenciais de uma conta de administrador. A critério do MJ, um simulespaço mal projetado pode ter formas ocultas para acessar opções de administrador ou até mesmo acessar um painel de comandos de dentro do simulespaço; encontrar estes truques podem exigir um favor de rep, um Teste de Pesquisa antecipado, ou um sucesso crítico em um Teste de Interface.
+Dentro de um simulespaço, sua única opção para hackear é através da interface padrão que qualquer simulmorfo pode usar. Isso é usado para recursos padrões de usuários como personalizar seu simulmorfo, conversar com outros usuários, ver mapas/FAQs, ou verificar o status do sistema ou de outros usuários. As opções para usar essa interface para hackear o sistema são geralmente bastante limitadas, pois ela é projetada para que os controles e processos do sistema não possam ser acessados e manipulados por dentro, a não ser que você tenha as credenciais de uma conta de administrador. A critério do MJ, um simulespaço mal projetado pode ter formas ocultas para acessar opções de administrador ou até mesmo acessar um painel de comandos de dentro do simulespaço; encontrar esses truques podem exigir um favor de rep, um Teste de Pesquisa antecipado, ou um sucesso crítico em um Teste de Interface.
 
 Hackear externamente em um servidor executando um simulespaço é igual invadir qualquer outro sistema; use todas as regras padrões para invasão e subversão. Os hackers externos podem manipular um simulespaço da mesma forma que um administrador ou código de trapaça podem por dentro.
 
@@ -60,7 +60,7 @@ Hackear externamente em um servidor executando um simulespaço é igual invadir 
 
 As opções de usuário padrão dentro de um simulespaço se resumem a algumas ações:
 
-- **Acessar as Funções do Simulespaço:** Esta ação abrangente engloba tudo que um usuário normal poderia fazer em um simulespaço. Isso inclui coisas como personalizar seu simulmorfo, conversar com outros usuários, editar parâmetros do usuário, iniciar minijogos, trocar itens virtuais, ver perfis de usuário, acessar mapas ou arquivos de fundo, e assim por diante. Alguns recursos podem exigir um Teste de Interface.
+- **Acessar as Funções do Simulespaço:** Essa ação abrangente engloba tudo que um usuário normal poderia fazer em um simulespaço. Isso inclui coisas como personalizar seu simulmorfo, conversar com outros usuários, editar parâmetros do usuário, iniciar minijogos, trocar itens virtuais, ver perfis de usuário, acessar mapas ou arquivos de fundo, e assim por diante. Alguns recursos podem exigir um Teste de Interface.
 - **Ativar Código de Trapaça:** Se você conhece um código de trapaça, você pode ativá-lo para adquirir o benefício que ele fornece.
 - **Ver Regras de Domínio:** Você pode analisar os parâmetros, regras e controles da simulação. Com um Teste de Interface, isso pode lhe fornecer um entendimento das coisas que você pode fazer que não são totalmente intuitivas ou uma forma de superar um obstáculo, desafio ou quebra-cabeças específico.
 

@@ -14,7 +14,7 @@ Na maioria das sociedades, as ILAs são consideradas coisas ou bens em vez de pe
 
 As matrizes de personalidade de ILA são codificadas com identidades individuais e traços de personalidade. Elas parecem conscientes e autoconscientes, embora uma sondagem detalhada revelará personalidades superficiais e outras limitações. Eles não têm interesse próprio e iniciativa, e a sua programação emocional é estreita (baseada apenas em empatia) ou inexistente, embora possam ser programados para antecipar as necessidades e os desejos dos usuários e fazer ações preventivas em seu nome. Apesar de senciente, ainda é ponto de debate se ILAs são totalmente sapientes.
 
-Dada a sua personalidade limitada, as ILAs são menos emotivas e mais difíceis de ler. Aplique um modificador −30 em Testes de Cinésica feitos contra elas. Quando combinadas com morfos sintéticos sem expressão, aumente este modificador para −60. Algumas ILAs não tem nenhuma capacidade emotiva e são simplesmente impossíveis de serem lidas.
+Dada a sua personalidade limitada, as ILAs são menos emotivas e mais difíceis de ler. Aplique um modificador −30 em Testes de Cinésica feitos contra elas. Quando combinadas com morfos sintéticos sem expressão, aumente esse modificador para −60. Algumas ILAs não tem nenhuma capacidade emotiva e são simplesmente impossíveis de serem lidas.
 
 ### Comandando ILAs
 

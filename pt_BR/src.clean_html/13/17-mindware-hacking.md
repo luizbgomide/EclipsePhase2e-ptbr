@@ -1,12 +1,12 @@
 # Hackeamento de Ware Mental
 
-Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Esta tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são aparelhos especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
+Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Essa tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são aparelhos especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
 
 ## Precondições
 
 Para hackear um cibercérebro, você deve ser capaz de acessar o cibercérebro em si. A maioria dos cibercérebros estão ligados aos insertos da mesh e subordinados à PAN do usuário, então eles podem ser acessados sem fios se a PAN for hackeada primeiro. Os cibercérebros também são equipados como soquetes de acesso no exterior do morfo, então, se você tem acesso físico ao morfo, você pode plugar e acessar através de uma conexão cabeada. Se o indivíduo não quiser ou não estiver incapacitado, você deve primeiro [agarrar](../12/02-melee-combat.md#grappling) o alvo com sucesso.
 
-Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu dispositivo habitado. Isto pode significar que você precisa primeiro hackear o dispositivo no qual o infomorfo está sendo executado.
+Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu dispositivo habitado. Isso pode significar que você precisa primeiro hackear o dispositivo no qual o infomorfo está sendo executado.
 
 ## Segurança Codificada
 
@@ -50,7 +50,7 @@ Qualquer [meshware](../16/12-meshware.md) conhecido instalado em um infomorfo ou
 
 ### Modificar Entrada Sensorial (Cibercérebro)
 
-Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro residente. Sentidos bloqueados simplesmente param de funcionar até que sejam reativados. Em vez disso, uma entrada sensorial gravada pode ser inserida no cibercérebro, substituindo um único sentido ou todo o sensório (o mesmo que XP). A não ser que a entrada sensorial tenha sido grava previamente neste morfo, estas entradas sensoriais injetadas são facilmente percebidas como artificiais (Teste de Percepção com +30). Também é possível fornecer entradas sensoriais contraditórias para um cibercérebro, provocando uma sinestesia severa com a intenção de distrair ou confundir; aplique um modificador entre −10 e −30 (escolha do hacker). A exposição prolongada a entradas sensoriais hostis deve ser tratada como [psicocirurgia](../15/05-psychosurgery.md) de tortura e pode infligir estresse mental.
+Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro residente. Sentidos bloqueados simplesmente param de funcionar até que sejam reativados. Em vez disso, uma entrada sensorial gravada pode ser inserida no cibercérebro, substituindo um único sentido ou todo o sensório (o mesmo que XP). A não ser que a entrada sensorial tenha sido gravada previamente nesse morfo, essas entradas sensoriais injetadas são facilmente percebidas como artificiais (Teste de Percepção com +30). Também é possível fornecer entradas sensoriais contraditórias para um cibercérebro, provocando uma sinestesia severa com a intenção de distrair ou confundir; aplique um modificador entre −10 e −30 (escolha do hacker). A exposição prolongada a entradas sensoriais hostis deve ser tratada como [psicocirurgia](../15/05-psychosurgery.md) de tortura e pode infligir estresse mental.
 
 ### Manipular Fantoche (Cibercérebro)
 

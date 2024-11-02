@@ -18,7 +18,7 @@ Se você acha que seus jogadores potenciais podem estar interessados em ler sobr
 
 ## A Primeira Sessão
 
-É muito mais fácil fazer um personagem em Eclipse Phase depois de jogar o jogo uma vez. Nós sugerimos que novos grupos comecem com uma das aventuras introdutórias publicados pelo Posthuman Studios e joguem usando as equipes de [personagens prontos](../05/00-sample-characters.md) deste livro. Alguns jogadores podem ficar apegados a estes personagens e vão querer continuar jogando com eles, enquanto outros vão preferir fazer seus próprios para a próxima campanha.
+É muito mais fácil fazer um personagem em Eclipse Phase depois de jogar o jogo uma vez. Nós sugerimos que novos grupos comecem com uma das aventuras introdutórias publicados pelo Posthuman Studios e joguem usando as equipes de [personagens prontos](../05/00-sample-characters.md) deste livro. Alguns jogadores podem ficar apegados a esses personagens e vão querer continuar jogando com eles, enquanto outros vão preferir fazer seus próprios para a próxima campanha.
 
 ### Usando Equipes de Personagens Prontos
 

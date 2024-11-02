@@ -42,7 +42,7 @@ Se você tiver hackeado com sucesso o sistema uma vez, você receberá um bônus
 
 ## Status do Invasor
 
-O status do invasor é uma maneira simples de medir a situação de um hacker enquanto invadem um sistema — ele chamou a atenção das defesas ou ele continua discreto? O status do invasor é determinado pela primeira vez quando você acessa um sistema, embora ele possa mudar de acordo com os eventos. Observe que o status do invasor é uma coisa separada dos [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) da conta. Este último representa suas permissões e o que você está autorizado a fazer em um sistema. O primeiro indica a consciência do sistema sobre a sua verdadeira natureza como um invasor.
+O status do invasor é uma maneira simples de medir a situação de um hacker enquanto invadem um sistema — ele chamou a atenção das defesas ou ele continua discreto? O status do invasor é determinado pela primeira vez quando você acessa um sistema, embora ele possa mudar de acordo com os eventos. Observe que o status do invasor é uma coisa separada dos [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) da conta. Esse último representa suas permissões e o que você está autorizado a fazer em um sistema. O primeiro indica a consciência do sistema sobre a sua verdadeira natureza como um invasor.
 
 ### Oculto
 

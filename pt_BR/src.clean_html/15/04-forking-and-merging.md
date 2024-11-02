@@ -28,7 +28,7 @@ Forques são instanciados como [digimorfos](../04/26-infomorphs.md#digimorph), a
 
 ### Forques Alfa
 
-Alfas são facilmente criados tirando um registro do ego de um infomorfo existente, de um cibercérebro, ou da rede de laço neural da pilha cortical. Esse processo leva um turno de ação. Forques alfa também podem ser gerados a partir de cérebros de biomorfos usando uma ponto de ego e o mesmo processo do upload, mas este é um processo mais longo.
+Alfas são facilmente criados tirando um registro do ego de um infomorfo existente, de um cibercérebro, ou da rede de laço neural da pilha cortical. Esse processo leva um turno de ação. Forques alfa também podem ser gerados a partir de cérebros de biomorfos usando uma ponto de ego e o mesmo processo do upload, mas esse é um processo mais longo.
 
 Os forques alfa possuem as mesmas perícias, memórias, atributos de ego, traços de ego e personalidade que o original.
 
@@ -63,7 +63,7 @@ As regras de desbaste neural são detalhadas em [Desbaste Neural](06-psychosurge
 
 ### Desbaste Cuidadoso
 
-Em vez de gerar um forque rapidamente, você pode querer criar cuidadosamente um forque beta com psicocirurgia de longo prazo, o que significa que ele sofre menos inconvenientes. Estes forques cuidadosamente desbastados podem ficar à disposição, armazenados como arquivos inertes que podem ser requisitados, copiados e executados quando necessário. A desvantagem de forques cuidadosamente desbastados é que eles não são baseados em uma versão recente de você — as memórias dele não estarão atualizadas. Eles também são mais difíceis de mesclar, pois eles são baseados em versões significativamente mais antigas de você mesmo. Eles são ideias para tarefas sem retorno, onde o forque é abandonado ou excluído em seguida.
+Em vez de gerar um forque rapidamente, você pode querer criar cuidadosamente um forque beta com psicocirurgia de longo prazo, o que significa que ele sofre menos inconvenientes. Esses forques cuidadosamente desbastados podem ficar à disposição, armazenados como arquivos inertes que podem ser requisitados, copiados e executados quando necessário. A desvantagem de forques cuidadosamente desbastados é que eles não são baseados em uma versão recente de você — as memórias dele não estarão atualizadas. Eles também são mais difíceis de mesclar, pois eles são baseados em versões significativamente mais antigas de você mesmo. Eles são ideias para tarefas sem retorno, onde o forque é abandonado ou excluído em seguida.
 
 O desbaste cuidadoso usa as mesmas regras do [desbaste neural](06-psychosurgery-procedures.md#neural-pruning), mas com um prazo de 30 dias e um modificar +30.
 

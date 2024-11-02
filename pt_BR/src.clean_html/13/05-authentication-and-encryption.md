@@ -4,7 +4,7 @@ A segurança da mesh depende fortemente de autenticação e criptografia para id
 
 ## Mesh ID
 
-Sua mesh ID é um código identificador único que distingue você de todos os outros usuários e dispositivos na mesh. Seu computador cranial ou ecto automaticamente associa esse endereço de ID com suas contas e nomes de usuário, permitindo que você receba mensagens e outras transmissões. Essa ID é gerada automaticamente sempre que você fica online e é exigida para quase todas as interações online. Estas interações são logadas universalmente, deixando uma trilha de dados que pode ser usada para rastrear sua atividade ([Rastreamento](10-tracking.md)). Felizmente, [serviços de anonimização](../16/04-services.md#mesh-services) estão disponíveis para aqueles que valorizam a sua privacidade.
+Sua mesh ID é um código identificador único que distingue você de todos os outros usuários e dispositivos na mesh. Seu computador cranial ou ecto automaticamente associa esse endereço de ID com suas contas e nomes de usuário, permitindo que você receba mensagens e outras transmissões. Essa ID é gerada automaticamente sempre que você fica online e é exigida para quase todas as interações online. Essas interações são logadas universalmente, deixando uma trilha de dados que pode ser usada para rastrear sua atividade ([Rastreamento](10-tracking.md)). Felizmente, [serviços de anonimização](../16/04-services.md#mesh-services) estão disponíveis para aqueles que valorizam a sua privacidade.
 
 Muitos mesh IDs são registrados publicamente (e em algumas jurisdições, isso é uma obrigação legal). Consultar uma mesh ID registrada é trivial. Os dados de registro podem incluir um nome, endereço físico, e perfil de mídia social se desejado.
 
@@ -28,7 +28,7 @@ As contas de segurança destinam-se ao pessoal de segurança e ILAs que vigiam o
 
 ### Contas de Administrador
 
-As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer programa. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e aparelhos, esta conta root geralmente pertence à pessoa a qual eles estão incorporados.
+As contas de administrador fornecem controle completo (“root”) sobre o sistema. Os privilégios de administrador permitem que você acesse e altere todos os recursos e dados. Eles podem fazer tudo que as contas de segurança podem, assim como alterar privilégios de acesso de outras contas, encerrar ou reinicializar o sistema, parar e iniciar quaisquer apps ou serviços, além de adicionar ou excluir qualquer programa. Cada sistema tem uma conta de administrador root que não pode ser excluída ou perder seus privilégios; para implantes e aparelhos, essa conta root geralmente pertence à pessoa a qual eles estão incorporados.
 
 ## Métodos de Autenticação
 
@@ -36,11 +36,11 @@ A maioria dos sistemas requer algum tipo de autenticação (um processo pelo qua
 
 ### Leitura Biométrica
 
-Estes sistemas escaneiam uma ou mais das assinaturas biométricas do seu morfo (impressão digital, impressão palmar, leitura de retina, amostra de DNA, etc.). Populares antes da Queda, estes sistemas caíram em desuso já que são impraticáveis com sintemorfos ou usuários que fazem reencapes frequentemente.
+Esses sistemas escaneiam uma ou mais das assinaturas biométricas do seu morfo (impressão digital, impressão palmar, leitura de retina, amostra de DNA, etc.). Populares antes da Queda, esses sistemas caíram em desuso já que são impraticáveis com sintemorfos ou usuários que fazem reencapes frequentemente.
 
 ### Escaneamento de Ego
 
-Esse sistema autentica a [ego ID](../15/07-identity-systems.md#ego-id) do usuário, verificada através do escaneamento de ondas cerebrais. Como ela exige uma escaneador de impressão cerebral cabeado e inviolável, estes sistemas geralmente são encontrados apenas em ambientes de alta segurança.
+Esse sistema autentica a [ego ID](../15/07-identity-systems.md#ego-id) do usuário, verificada através do escaneamento de ondas cerebrais. Como ela exige uma escaneador de impressão cerebral cabeado e inviolável, esses sistemas geralmente são encontrados apenas em ambientes de alta segurança.
 
 ### Interface Neural Direta
 
@@ -82,7 +82,7 @@ Não tendo as credenciais reais, você pode tentar falsificá-las. Sistemas biom
 
 Você pode tentar disfarçar a sua conexão como se ela viesse de um usuário ou sistema legítimo. Se tiver sucesso, o sistema de destino é enganado pela farsa e trata seus comandos e outros tráfegos como legítimos.
 
-Para mascarar sinais, você precisa primeiro monitorar com sucesso uma conexão ativa entre os dois sistemas usando um app de farejamento ([Farejamento](04-devices-apps-and-links.md#sniffing)). Armado com esses dados, você pode usá-los para mascarar seus próprios sinais com um app de mascaramento. Isto requer uma ação complexa e um [Teste de Hackeamento](11-hacking.md#hacking-tests) entre você o sistema alvo (o que está _recebendo_ os sinais). Se os sistemas estão se comunicando via VPN, esse teste sofre um modificador −30. Se você vencer, suas comunicações são tratadas como se viessem do sistema legítimo. Se o firewall perder a disputa mas também tiver sucesso, ele está ciente que há discrepâncias com a transmissão (o que não é tão incomum). Ele pode investigar mais; isso requer outro Teste de Hackeamento (o mascaramento sofre −30 contra uma VPN); se o defensor vencer, ele detecta evidências que as comunicações recebidas estão sendo adulteradas e pode responder de acordo ([Contramedidas](12-countermeasures.md)).
+Para mascarar sinais, você precisa primeiro monitorar com sucesso uma conexão ativa entre os dois sistemas usando um app de farejamento ([Farejamento](04-devices-apps-and-links.md#sniffing)). Armado com esses dados, você pode usá-los para mascarar seus próprios sinais com um app de mascaramento. Isso requer uma ação complexa e um [Teste de Hackeamento](11-hacking.md#hacking-tests) entre você o sistema alvo (o que está _recebendo_ os sinais). Se os sistemas estão se comunicando via VPN, esse teste sofre um modificador −30. Se você vencer, suas comunicações são tratadas como se viessem do sistema legítimo. Se o firewall perder a disputa mas também tiver sucesso, ele está ciente que há discrepâncias com a transmissão (o que não é tão incomum). Ele pode investigar mais; isso requer outro Teste de Hackeamento (o mascaramento sofre −30 contra uma VPN); se o defensor vencer, ele detecta evidências que as comunicações recebidas estão sendo adulteradas e pode responder de acordo ([Contramedidas](12-countermeasures.md)).
 
 Observe que o mascaramento só permite que você falsifique sinais de um sistema para outro. Para falsificar sinais no outro sentido, você deve ter sucesso em um [Teste de Hackeamento](11-hacking.md#hacking-tests) contra o outro sistema também. Um ataque de intermediário contra os dois sistemas pode ser desafiador, mas bastante devastador.
 

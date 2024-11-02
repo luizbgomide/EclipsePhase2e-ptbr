@@ -77,7 +77,7 @@ As perícias representam habilidades aprendidas e aperfeiçoadas através de edu
 
 ## Morfo
 
-Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Este pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Aquisição de Morfos](../15/03-acquiring-morphs.md).
+Seu morfo é a sua forma atual biológica, sintética ou digital do seu personagem. Esse pode ser o corpo em que nasceu ou um que você encapou. Os morfos vêm pré-carregados com traços e implantes específicos, anotados na descrição do morfo. [Morfos](21-morphs.md). Não se apegue ao seu morfo: é provável que você mude para um novo em algum momento durante o jogo! [Aquisição de Morfos](../15/03-acquiring-morphs.md).
 
 ## Atributos Derivados
 

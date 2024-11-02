@@ -2,7 +2,7 @@
 
 Cada personagem recebe dois pacotes de equipamentos durante a criação de personagem. O primeiro depende do tipo de campanha: Firewall, criminal ou desbravamento. O segundo é baseado na profissão escolhida no Passo 2.
 
-Os equipamentos fornecidos nestes pacotes são opcionais. Se houver outro equipamento que você quer que o seu personagem tenha — seja de outro pacote de equipamentos ou das listagens no capítulo [Equipamentos](../16/00-gear.md) — então simplesmente troque-o por equipamentos dos seus pacotes com valor de PE equivalente.
+Os equipamentos fornecidos nesses pacotes são opcionais. Se houver outro equipamento que você quer que o seu personagem tenha — seja de outro pacote de equipamentos ou das listagens no capítulo [Equipamentos](../16/00-gear.md) — então simplesmente troque-o por equipamentos dos seus pacotes com valor de PE equivalente.
 
 Esses pacotes de equipamentos também podem ser usados como uma forma fácil de atribuir equipamentos para novas missões durante o jogo ([Aquisição de Equipamentos](../16/02-acquiring-gear.md)).
 
@@ -10,7 +10,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#muses) de graça.
 
-**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Neste caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshwares, apps, serviços, bots, etc. de valor de PE equivalente.
+**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Nesse caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshwares, apps, serviços, bots, etc. de valor de PE equivalente.
 
 ## Pacotes de Campanha
 

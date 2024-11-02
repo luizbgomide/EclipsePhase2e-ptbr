@@ -16,8 +16,8 @@ Um resumo rápido sobre materiais futuristas comuns:
 
 **Metamateriais:** Devido a sua estrutura, os metamateriais interagem com ondas eletromagnéticas ou som de formas incomuns, tais como tendo um índice refrativo negativo. Os metamateriais são usados em antenas, sensores e óptica, projetos absorventes de som ou radar, mantos de invisibilidade, superlentes, e projetores holográficos ultrarrealistas.
 
-**Metais Refratários:** Estas ligas metálicas tem pontos de fusão extremamente altos, tornando-as ideais para sistemas de motores de alta temperatura, veículos de entrada atmosférica, habitats e bots venusianos, veículos hipersônicos.
+**Metais Refratários:** Essas ligas metálicas tem pontos de fusão extremamente altos, tornando-as ideais para sistemas de motores de alta temperatura, veículos de entrada atmosférica, habitats e bots venusianos, veículos hipersônicos.
 
 **Materiais Inteligentes:** Os equipamentos feitos com materiais inteligentes incorporam nanomáquinas que podem alterar a forma, cor e textura do objeto. Por exemplo, vestuário inteligente pode se transformar de vestuário especializado para ambiente frios, adequado para os polos marcianos no inverno, em roupa estilosa da última moda. Da mesma forma, uma ferramenta de material inteligente pode alternar de uma chave de fenda elétrica para um alicate ou um martelo, conforme as nanomáquinas remodelam a ferramenta. A remodelação leva 1d6 minutos.
 
-**Alumínio Transparente:** Esta cerâmica mais dura que aço, também conhecida como safira, é usada em superfícies resistentes a riscos e armaduras transparentes. As técnicas de fundição em zero-g permitem a construção de desenhos transparentes intrigantes, contanto que sua baixa resistência a tração seja respeitada.
+**Alumínio Transparente:** Essa cerâmica mais dura que aço, também conhecida como safira, é usada em superfícies resistentes a riscos e armaduras transparentes. As técnicas de fundição em zero-g permitem a construção de desenhos transparentes intrigantes, contanto que sua baixa resistência a tração seja respeitada.
