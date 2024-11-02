@@ -6,7 +6,7 @@
 
 “Você sempre quer alguma coisa, Taernen. Você é assim.”
 
-“Claro. Mas neste caso, o que eu quero é cuidar da minha maninha.”
+“Claro. Mas nesse caso, o que eu quero é cuidar da minha maninha.”
 
 Tierslay queria acreditar em seu irmão. Ela ansiava por um pingo de esperança. A vida nas favelas de barracas do Mojave na periferia do enclave de Los Angeles era dura – afligida pelo sol e fedorenta. A brutalidade da sua juventude nas favelas de São Paulo, cheias de gangues e tufões, fazia o Mojave parecer um passeio de fim de semana num spa orbital luxuoso. Vinte e cinco anos de existência e Tierslay não conseguiu nada além de continuar pobre e constantemente desesperada. Taernen, por outro lado, conquistou na malandragem seu caminho pra fora da sarjeta, chegou até a Califórnia e esculpiu uma vida próspera. De algum jeito, a dez mil quilômetros de distância, ele tirou Tierslay de São Paulo pouco antes da maior parte da cidade ficar debaixo d'água. Taernen não explicou como ele conseguiu garantir a passagem dela para Los Angeles, amontoada num contêiner com uma centena de refugiados climáticos desgrenhados, e Tierslay nunca forçou uma resposta dele. Ela só estava grata de estar viva. Praticamente todo mundo que ela conhecia em São Paulo não teve a mesma sorte.
 
@@ -14,7 +14,7 @@ Já em Los Angeles, Taernen deu a ela o suficiente para sobreviver por algumas s
 
 Taernen vivia além das concertinas, entre os privilegiados, entre aqueles que trocaram de corpo e diziam ter derrotado a morte. Sua lábia e suas conexões questionáveis lhe garantiram um estilo de vida que poucos com sua criação aprovariam, e menos ainda teriam acesso — as ampliações, a pilha cortical, os backups frequentes. A infância deles foi mergulhada em fanatismo católico e uma adesão rígida ao bioconservadorismo, doutrinados pela pregação incessante da sua mãe, “Seu corpo é um presente precioso de Deus. Poluí-lo com bugigangas criadas pelo homem é um pecado imperdoável.” Com Tierslay a doutrina pegou, firmemente enraizada na sua visão de mundo. Taernen a ignorou de cara no início da adolescência, o que o jogou para fora do casebre da família. Um ano depois, a mãe deles foi atingida por uma bala perdida no caminho de volta do mercado, outra estatística da violência de gangues. Tierslay tinha nove anos. Ela segurava a mão da mãe quando aconteceu.
 
-Taernen continuou com a ideia. “A Terra é uma perda de tempo, Tierslay. Todas as corps com influência, visão ou ambição já fugiram. Pra Marte, pra Lua, porra, até pra Vênus. Estes são os lugares onde gente como nós pode viver de verdade. E quando eu for, eu não vou voltar. Você vai ficar onde? Mendigando nas ruas com aquele patife do Monte porque você está atolada na tradição?”
+Taernen continuou com a ideia. “A Terra é uma perda de tempo, Tierslay. Todas as corps com influência, visão ou ambição já fugiram. Pra Marte, pra Lua, porra, até pra Vênus. Esses são os lugares onde gente como nós pode viver de verdade. E quando eu for, eu não vou voltar. Você vai ficar onde? Mendigando nas ruas com aquele patife do Monte porque você está atolada na tradição?”
 
 “Monte não é um patife. Ele sofreu bastante, igual a gente.”
 
@@ -58,7 +58,7 @@ O desespero de Monte estava estampado no seu rosto magricela e na forma com sua 
 
 “Como você conseguiu o 3, Monte? Isso é alta qualidade.”
 
-“A gente não tem tempo pra discutir estes detalhes, Tier. Eu preciso de você aí, detonando, fazendo sua mágica.”
+“A gente não tem tempo pra discutir esses detalhes, Tier. Eu preciso de você aí, detonando, fazendo sua mágica.”
 
 “Alguém se machucou, Monte?”
 
@@ -100,15 +100,15 @@ Tierslay suprimiu o desejo de correr e respondeu: “Sim. Você deve ser Ukku. M
 
 A cabeça de olho gigante finalmente se mexeu, inclinando ligeiramente. “Eu sou o melhor, 18 horas. Você deveria ser infinitamente grata por seu irmão se preocupar tanto contigo. Meus serviços, embora possam ser considerados baratos por aqueles que têm meios de pagar por instalações mais respeitáveis, são, ainda assim, de primeira qualidade.” Ukku se afastou com um floreio, chamando Tierslay para entrar. “Vamos ao trabalho, 18 horas. Nosso tempo juntos é curto.”
 
-Ukku conduziu Tierslay através de um labirinto de máquinas coloridas do século 20 com luzes piscando, estalos e cliques analógicos, e promessas de bolas grátis. Apesar do nervosismo pelo procedimento iminente, estas engenhocas simples de outra época a fizeram sorrir. Ela já havia visto fliperamas em filmes antigos, mas nunca pessoalmente, e a presença de tantas juntas num só lugar, literalmente centenas, era como desenterrar uma tumba desconhecida cheia de tesouros.
+Ukku conduziu Tierslay através de um labirinto de máquinas coloridas do século 20 com luzes piscando, estalos e cliques analógicos, e promessas de bolas grátis. Apesar do nervosismo pelo procedimento iminente, essas engenhocas simples de outra época a fizeram sorrir. Ela já havia visto fliperamas em filmes antigos, mas nunca pessoalmente, e a presença de tantas juntas num só lugar, literalmente centenas, era como desenterrar uma tumba desconhecida cheia de tesouros.
 
-No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, este com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de escaneamento se desdobrou como pétalas em torno da sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
+No canto mais distante e mais escuro do edifício, o labirinto de fliperamas abriu-se num pequeno espaço fechado com plásticos. Ela viu uma mesa de metal cheia de instrumentos cirúrgicos. Ukku apresentou outro globo ocular, esse com íris violeta e com o corpo do tamanho de uma criança, como seu assistente, ToXxot. ToXxot trouxe uma cama cirúrgica coberta de plástico, jogou um travesseiro em cima dela, em seguida, pegou Tierslay pela mão e indicou para que ela se deitasse de barriga para baixo com o rosto no travesseiro. Uma máquina estranha foi colocada ao lado dela, um mecanismo arredondado de escaneamento se desdobrou como pétalas em torno da sua cabeça. Quando tudo estava no lugar, o olho de ToXxot se iluminou e jorrou uma intensa luz branca em todas as direções. Ukku se abaixou sobre Tierslay com um dispositivo de injeção ameaçador na mão.
 
 “Isso está acontecendo tão rápido”, disse Tierslay. “Não sei o que você está fazendo. Nem sei quem vou me tornar.”
 
 ToXxot acariciou as costas de Tierslay e fez sons que pareciam os pios de um passarinho faminto enquanto Ukku falava. “Calma, calma, 18 horas. Não se assuste. Você está com Ukku. Quando o das 19 horas chegar, você será eterna.”
 
-Estes momentos permaneceriam com Tierslay para sempre. Os globos oculares. O terror. O medo penetrante de uma decisão de mudar a vida como metal frio pressionando sua nuca. A sensação de centopeias metálicas se desenrolando e rastejando por sua cabeça e se fixando nela.
+Esses momentos permaneceriam com Tierslay para sempre. Os globos oculares. O terror. O medo penetrante de uma decisão de mudar a vida como metal frio pressionando sua nuca. A sensação de centopeias metálicas se desenrolando e rastejando por sua cabeça e se fixando nela.
 
 ---
 
@@ -122,7 +122,7 @@ Ela já não estava na oficina do Ukku, isso estava claro. Ela prestou atenção
 
 O pânico tomou conta. _O procedimento. Alguma coisa deu muito errado. Eu fiquei louca. Oh Deus. Ou pior. Eu sou um cadáver. Atormentado por tantos pecados. Quando foi minha última confissão?_
 
-A voz respondeu. \[Infelizmente, Tierslay, esta informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava hackeando seus pensamentos.
+A voz respondeu. \[Infelizmente, Tierslay, essa informação não está disponível. Sua agenda está totalmente vazia antes de hoje. Você gostaria que eu criasse um evento anterior chamado “Última Confissão”?\] Seja qual fosse a fonte da voz, ela estava hackeando seus pensamentos.
 
 Seu corpo parecia estranho, meio rígido. As sensações de temperatura, do tecido contra a pele, pareciam erradas. Ela não conseguia sentir a pele ou os músculos se esticando. Ela controlava seus membros, mas as amarras seguravam-na firmemente.
 
@@ -132,13 +132,13 @@ A voz desconhecida retornou, agradável. \[Um grito é desnecessário, Tierslay.
 
 _Vai se foder, diabo. Com ou sem boca, vou berrar até não poder mais._ A palavra “Ajuda!” soou de algum lugar na parte de baixo do rosto de Tierslay, criada por uma voz que era feminina e rouca, mas artificial e definitivamente não era a dela. Seu pânico aumentou mil vezes e ela enunciou a palavra uma segunda vez, alongada e com um aumento de volume.
 
-Um homem flutuou no campo de visão limitado de Tierslay. A pele dele era branca e lisa, seus olhos círculos perfeitos de cor lavanda. Ele sorriu gentilmente. “Bem-vinda ao Returno Zentrópico. Meu nome é Badal”, disse o homem. Tierslay tomou um momento para avaliar Badal antes de responder, para determinar se esta última aberração era amigo ou inimigo, demônio ou anjo.
+Um homem flutuou no campo de visão limitado de Tierslay. A pele dele era branca e lisa, seus olhos círculos perfeitos de cor lavanda. Ele sorriu gentilmente. “Bem-vinda ao Returno Zentrópico. Meu nome é Badal”, disse o homem. Tierslay tomou um momento para avaliar Badal antes de responder, para determinar se essa última aberração era amigo ou inimigo, demônio ou anjo.
 
 A voz interrompeu. \[Não há necessidade de ter medo, Tierslay. Você está segura aqui. A instalação de Badal tem @-rep acima de 95% da flotilha. De acordo com as resenhas, ela é a melhor escolha para aqueles buscando uma experiência de reencape tranquila. Você deveria se apresentar.\]
 
 Apesar das suas desconfianças, pela primeira vez, Tierslay decidiu ouvir a voz. “Meu nome é Tierslay.”
 
-“Eu sei. Vamos tirar estas amarras. Deixar você solta.” As amarras se afrouxaram e retraíram. Tierslay se viu flutuando livremente, sem saber que lado era para cima. Seus braços balançaram conforme ela começou a girar.
+“Eu sei. Vamos tirar essas amarras. Deixar você solta.” As amarras se afrouxaram e retraíram. Tierslay se viu flutuando livremente, sem saber que lado era para cima. Seus braços balançaram conforme ela começou a girar.
 
 Badal ajudou Tierslay a se orientar. “Peço desculpa pelas amarras. São estritamente para garantir a segurança do cliente. Um pouco oposto à estética zen que buscamos, eu sei. Espero sinceramente que elas não tenham estragado a experiência.”
 
@@ -172,7 +172,7 @@ Tierslay tinha ouvido falar de musas. Elas eram comuns entre os privilegiados. E
 
 “Ela está me irritando. Posso desligá-la?”
 
-“Você pode silenciá-la, claro. Sua musa é totalmente personalizável. Mas eu recomendaria que você se abrisse à experiência. Dê-lhe um nome. Module a voz para um tom e cadência que você preferir. Com o tempo, vai se acostumar. Eu prometo. Você pode até considerá-la uma amiga, eventualmente. Não consigo imaginar a minha vida sem Rikita. Rikita lhe deseja prosperidade e alegria neste novo caminho, a propósito.”
+“Você pode silenciá-la, claro. Sua musa é totalmente personalizável. Mas eu recomendaria que você se abrisse à experiência. Dê-lhe um nome. Module a voz para um tom e cadência que você preferir. Com o tempo, vai se acostumar. Eu prometo. Você pode até considerá-la uma amiga, eventualmente. Não consigo imaginar a minha vida sem Rikita. Rikita lhe deseja prosperidade e alegria nesse novo caminho, a propósito.”
 
 “Agradeça a Rikita.”
 
@@ -208,7 +208,7 @@ O seu sorriso já tinha as presas. “Ei, maninha. Há quanto tempo.”
 
 “Como chego a casa?”
 
-“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocozedor todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não esta porcaria de impressora líquida.”
+“Você está em casa. Então poderia tentar aproveitar, certo?” Taernen abriu o tubo da sua esfera de Americano, com um toque de creme, e sugou-a. Ele fez uma careta para o autocozedor todo grafitado montado na parede. “Merda anarquista barata!” Ele voltou sua atenção para a irmã. “Isto é água suja comparado com o café em Marte. Coisa real, cultivado numa fazenda hidropônica. Não essa porcaria de impressora líquida.”
 
 “Esta não é a minha casa, Taernen. Este não é o meu corpo. Nem sequer estou convencida de que eu ainda sou _eu_. Num segundo, estou cagando de medo com a sua aberração do globo ocular. No seguinte, estou aqui, a meio bilhão de quilômetros da Terra…”
 
@@ -228,17 +228,17 @@ Taernen sorriu, incapaz de resistir a uma chance para cavar fundo e distorcer ve
 
 “Não quero mais entrar nos seus negócios, Taernen. Nem sequer sei quem sou, como a vida ainda funciona, e aqui está você falando de negócios…”
 
-“Tier, Tier, olhe para mim.” Tierslay virou sua visão para os desconhecidos olhos negros e vazios de Taernen, sem saber se o olhar dele estava encontrando com o formato que seus olhos tomaram nesta forma metálica estranha. Pelo que ela sabia, a cara dela não era mais que uma chapa lisa de aço com dois pontos e uma linha. “Você está pirando. Eu entendo. Isto é muito para absorver.”
+“Tier, Tier, olhe para mim.” Tierslay virou sua visão para os desconhecidos olhos negros e vazios de Taernen, sem saber se o olhar dele estava encontrando com o formato que seus olhos tomaram nesta forma metálica estranha. Pelo que ela sabia, a cara dela não era mais que uma chapa lisa de aço com dois pontos e uma linha. “Você está pirando. Eu entendo. Isso é muito para absorver.”
 
 “Só quero ser eu outra vez.”
 
-“Acha que estou feliz nesta merda emprestada em que estou? Estou chocado que nenhum dos braços tenha caído. Veja. Podemos criar algo parecido com o você original, se é isso que você quer, assim que eu tiver alguns recursos e estivermos de volta em Marte, onde eu tenho alguma influência. Aqui? Com estes babacas da ralé? Eu valho tanto quanto uma bosta ressecada de cachorro chutada na velha sarjeta de São Paulo. Mas a boa notícia é que tenho um plano. Podemos contornar esta treta da rep e manter este trato na mesa. E é aqui que você entra.” Taernen entrelaçou suas mãos ossudas, apertando os dedos finos. “Preciso que se recomponha e se adapte. Rápido. Não posso ficar por aqui muito mais tempo. Tenho uma transmissão agendada de volta a Marte em uma hora.”
+“Acha que estou feliz nesta merda emprestada em que estou? Estou chocado que nenhum dos braços tenha caído. Veja. Podemos criar algo parecido com o você original, se é isso que você quer, assim que eu tiver alguns recursos e estivermos de volta em Marte, onde eu tenho alguma influência. Aqui? Com estes babacas da ralé? Eu valho tanto quanto uma bosta ressecada de cachorro chutada na velha sarjeta de São Paulo. Mas a boa notícia é que tenho um plano. Podemos contornar essa treta da rep e manter esse trato na mesa. E é aqui que você entra.” Taernen entrelaçou suas mãos ossudas, apertando os dedos finos. “Preciso que se recomponha e se adapte. Rápido. Não posso ficar por aqui muito mais tempo. Tenho uma transmissão agendada de volta a Marte em uma hora.”
 
 “Vai me deixar aqui?”
 
 “É. Faz parte do trato. Você, aqui, conhecendo o lugar, criando algumas relações, contribuindo para a merda coletiva deles, o que for preciso para criar confiança. Precisamos disto, Tier. Volto daqui um mês, talvez dois. Isso deve lhe dar um tempo para usar seu charme, conseguir a rep que precisamos para pedir alguns favores. Depois o trato é feito, e nós caímos fora desse show de aberrações e voltamos para o sistema interno, onde as pessoas apreciam o poder da porra de um cred honesto.” A testa de Taernen se enrugou de raiva e seu olho esquerdo se mexia com tiques, uma expressão familiar num rosto desconhecido. Estranhamente, ela achou reconfortante.
 
-“Então, suponho que não vai me dar detalhes sobre este trato.”
+“Então, suponho que não vai me dar detalhes sobre esse trato.”
 
 Taernen sorriu. Sua irmã indo na dele, como sempre. “Não. É melhor assim. Quanto mais você souber, mais chance de dar errado. Eu te enrolei alguma vez?”
 
@@ -276,7 +276,7 @@ Ela respondeu ao olhar questionador, “Estou aqui faz pouco tempo.” _Que eufe
 
 Tierslay sondou a área ao redor do quiosque, procurando olhares curiosos. Alguns elevados voavam, balançavam ou passavam rapidamente, todos cuidando da própria vida. _Deixa de ser paranoica, Tier. Siga o fluxo._ “Me parece ótimo.”
 
-Conforme Pivo levava o bot embora, Tierslay percebeu que esta foi a primeira vez que ela falou com um elevado. Sua igreja, sua mãe, os consideravam um crime contra Deus, um dos maiores pecados. Ela balançou a cabeça, envergonhada pela sua própria intolerância. Bastou apenas uma conversa.
+Conforme Pivo levava o bot embora, Tierslay percebeu que essa foi a primeira vez que ela falou com um elevado. Sua igreja, sua mãe, os consideravam um crime contra Deus, um dos maiores pecados. Ela balançou a cabeça, envergonhada pela sua própria intolerância. Bastou apenas uma conversa.
 
 ---
 
@@ -298,7 +298,7 @@ A risada rouca de Berk estava em sintonia perfeita com a música extravagante. �
 
 “Não tenho dinheiro.”
 
-A cara do oni sorriu. “Nem eu. Esta é uma economia de oferta, Tierslay. O dinheiro é para oligarcas e serviçais.” Após uma reverência, Berk virou-se e saiu para outra conversa.
+A cara do oni sorriu. “Nem eu. Esta é uma economia de doações, Tierslay. O dinheiro é para oligarcas e serviçais.” Após uma reverência, Berk virou-se e saiu para outra conversa.
 
 A musa de Tierslay avisou-a que o executável estava limpo e o que uma pesquisa rápida na mesh revelou sobre o arquivo. Diziam que os efeitos do narcoalgoritmo eram muito agradáveis. _Estou gostando desse negócio de musa_, ela pensou e sua musa respondeu com uma suave tremulação de alegria nas bordas da sua visão. _Foda-se, vamos rodar isso._
 
@@ -338,7 +338,7 @@ Ela olhou bem para Tierslay e então aumentou a rep dela. “Bem-vinda à famíl
 
 No nono dia, Tierslay chegou em seu quarto no Tall Red.
 
-Ela flutuou até a vidraça uns metros além da sua porta e olhou para a área central do Tall Red, para os quatro pilares enormes revestidos de veludo vermelho ondulante, a característica que dava o nome ao distrito. Corpos se agitavam, abaixo, acima, lentos ou apressados, alguns sintéticos, alguns de carne, formas que ela nunca havia visto ou poderia ter imaginado. _Este lugar está vivo_, pensou ela. Sem sol escaldante e implacável, sem asfalto ardente, sem patifarias para sobreviver. O desespero parecia magicamente não existir. De alguma forma, ela tinha escapado do inferno. Os anarquistas que ela conheceu na Terra eram revolucionários apáticos e sem deus. Até vir para cá, ela nunca tinha entendido o objetivo da luta deles. Agora estava começando a fazer sentido.
+Ela flutuou até a vidraça uns metros além da sua porta e olhou para a área central do Tall Red, para os quatro pilares enormes revestidos de veludo vermelho ondulante, a característica que dava o nome ao distrito. Corpos se agitavam, abaixo, acima, lentos ou apressados, alguns sintéticos, alguns de carne, formas que ela nunca havia visto ou poderia ter imaginado. _Esse lugar está vivo_, pensou ela. Sem sol escaldante e implacável, sem asfalto ardente, sem patifarias para sobreviver. O desespero parecia magicamente não existir. De alguma forma, ela tinha escapado do inferno. Os anarquistas que ela conheceu na Terra eram revolucionários apáticos e sem deus. Até vir para cá, ela nunca tinha entendido o objetivo da luta deles. Agora estava começando a fazer sentido.
 
 Doutrinação bateu e Tierslay começou a fazer o sinal da cruz por gratidão, mas ela parou em “em nome do” quando seus dedos metálicos tocaram em sua testa metálica. Ela olhou para o seu reflexo, apenas um fantasma no vidro. Os detalhes do seu rosto estranho se turvavam sobre a atividade ao fundo do outro lado. Ela podia sentir a musa silenciosa absorvendo seu desejo, e a característica da sua visão mudou. Tudo além do vidro se escureceu e o reflexo de Tierslay se polarizou em foco. Pela primeira vez, ela viu seu rosto. Olhos vazios, feitos sem expressão. Sem curvas do nariz, apenas metal liso escovado. Sua boca era uma malha oval fina, imóvel; sem sorrisos, beicinhos, lambidas ou beijinhos. Era apenas um emissor de ondas sonoras. Num profundo segundo, uma vida de crença se dissipou no nada, sua alma esmagou-se na não existência. Agora ela era Tierslay, o ser artificial, formado pelas ambições dos transumanos, e não pelas mãos de qualquer deus. A revelação fez ela rir. _Vida. Que confusão fodida e esplendorosa._
 
@@ -372,23 +372,23 @@ Quatro meses e nenhuma palavra do Taernen. Será que ele morreu? Será que a aba
 
 O medo tomou conta de Tierslay enquanto os seus últimos momentos na Terra brotavam da escuridão profundamente reprimida e consumiam seus pensamentos. Globos oculares. Fliperamas. Plástico.
 
-O pedido do morfo seguia informando que o Ukku seria longiprojetado para o enxame em uma semana, para umas longas e proveitosas férias no sistema exterior, e Ukku ficou sabendo que Bateaux era a melhor oficina de sintemorfo de lá. “Ukku trabalha só com o melhor”, Elis leu com desdém. “Que acha? Devemos aceitar esta honra sublime?”
+O pedido do morfo seguia informando que o Ukku seria longiprojetado para o enxame em uma semana, para umas longas e proveitosas férias no sistema exterior, e Ukku ficou sabendo que Bateaux era a melhor oficina de sintemorfo de lá. “Ukku trabalha só com o melhor”, Elis leu com desdém. “Que acha? Devemos aceitar essa honra sublime?”
 
 Tierslay fez o seu melhor para fingir desinteresse, mesmo com o asco se espalhando dentro dela. “Não sei, Elis. Parece uma dor de cabeça.”
 
-“Talvez uma dor de cabeça seja o que esta oficina precisa. Dar uma sacudida. Aqui anda um tédio.”
+“Talvez uma dor de cabeça seja o que essa oficina precisa. Dar uma sacudida. Aqui anda um tédio.”
 
-Tierslay soltou o braço da Elis, tentando não se ofender com a pequena cutucada enquanto ela flutuava. “Certo. Fazemos assim. Vou dizer sim para este trampo estúpido do Ukku, com uma condição.”
+Tierslay soltou o braço da Elis, tentando não se ofender com a pequena cutucada enquanto ela flutuava. “Certo. Fazemos assim. Vou dizer sim para esse trampo estúpido do Ukku, com uma condição.”
 
 Elis se animou e esfregou as mãos vigorosamente, ansiando a diversão. “Óóóóóó! Uma negociação. Então tá, não curto condições, mas qual será?”
 
-“A condição é: eu coloco um pequeno presente secreto nos narcos que este Ukku pediu pra gente instalar na sua carcaça. Nada de mais, apenas uma zueirinha indetectável.”
+“A condição é: eu coloco um pequeno presente secreto nos narcos que esse Ukku pediu pra gente instalar na sua carcaça. Nada de mais, apenas uma zueirinha indetectável.”
 
 Elis gostava de zueiras. “Sacana! Poderia prejudicar nossa rep se alguém souber…”
 
 “É um risco, eu sei. E tem outra condição: a gente fica de olho no Ukku enquanto ele estiver no enxame.”
 
-Elis deixou o silêncio assentar um pouco enquanto estudava o rosto de Tierslay. “Agora estou intrigada. O que é isto, Tier? Algum tipo de rolo? Uma vingança pessoal? Conhece este cara?”
+Elis deixou o silêncio assentar um pouco enquanto estudava o rosto de Tierslay. “Agora estou intrigada. O que é isto, Tier? Algum tipo de rolo? Uma vingança pessoal? Conhece esse cara?”
 
 “Pode-se dizer que sim.”
 
@@ -456,11 +456,11 @@ Nesse momento, Bixbee pairou perto demais da cabine do Taernen. Taernen virou-se
 
 Quando Tierslay chegou na cabine, Taernen segurava Bixbee na mesa pelas asas e Ukku mexia uma vibrolâmina a alguns centímetros do tronco exposto de Bixbee. Elis estava de braço esticado, pressionando uma arma de fogo assustadora contra cabeça costurada de Taernen. _Porque ela tem uma arma?_ Pivo e Berk estavam por perto, ameaçadores, braços tensos, armas sacadas.
 
-“Calma aí. Não precisam espalhar meu cérebro nervosinho pelas paredes.” Taernen deu um sorriso, sem medo, acostumado com estas negociações.
+“Calma aí. Não precisam espalhar meu cérebro nervosinho pelas paredes.” Taernen deu um sorriso, sem medo, acostumado com essas negociações.
 
 “Se o Globo Ocular soltar a lâmina e recuar, não será preciso.” Elis também sorriu, estava habituada.
 
-“Todo mundo, calma aí!” Tierslay exclamou, agitada. O Taernen olhou para ela, disfarçando que a reconheceu. Ela olhou nos olhos dele. “Ninguém além de mim deveria ter que lidar com este babaca.”
+“Todo mundo, calma aí!” Tierslay exclamou, agitada. O Taernen olhou para ela, disfarçando que a reconheceu. Ela olhou nos olhos dele. “Ninguém além de mim deveria ter que lidar com esse babaca.”
 
 ---
 
@@ -474,11 +474,11 @@ Quando Tierslay chegou na cabine, Taernen segurava Bixbee na mesa pelas asas e U
 
 “Do que está falando?”
 
-“Dane-se. Não importa agora. Ia acabar chegando nisto. Não pode fugir para sempre, Tier. Às vezes, temos que tomar uma posição. E a hora é agora.” Os olhos do Taernen olharam ao redor, procurando ameaças e curiosos. _Ele está nervoso. Mais que o normal_, Tierslay pensou. Ela escolheu redirecionar.
+“Dane-se. Não importa agora. Ia acabar chegando nisso. Não pode fugir para sempre, Tier. Às vezes, temos que tomar uma posição. E a hora é agora.” Os olhos do Taernen olharam ao redor, procurando ameaças e curiosos. _Ele está nervoso. Mais que o normal_, Tierslay pensou. Ela escolheu redirecionar.
 
 “Já passaram meses, Taernen. Eu tinha descartado você. Onde você esteve?”
 
-“Por aí. Fazendo o que eu faço. Fiz algumas aquisições. Evitei alguns problemas inesperados. Mas agora estou aqui. Para começar uma vida nova. Assim como você. Não é pra isso que serve este lugar?” O Taernen deu um sorriso falso. Os olhos vazios do seu morfo não entregavam nada.
+“Por aí. Fazendo o que eu faço. Fiz algumas aquisições. Evitei alguns problemas inesperados. Mas agora estou aqui. Para começar uma vida nova. Assim como você. Não é pra isso que serve esse lugar?” O Taernen deu um sorriso falso. Os olhos vazios do seu morfo não entregavam nada.
 
 “Acho que é uma maneira de ver as coisas. Não tive escolha.”
 
@@ -540,7 +540,7 @@ Taernen sorriu. “Relaxa, Ukku. Tierslay vai se comportar. Certo, Tier?”
 
 “Certo, Taer.” Tierslay, por um segundo, considerou tacar o cubo na parede, só para ver a cara dele. Mas ela estava intrigada.
 
-Ukku voltou-se para o morfo prod com a cabeça vazia. Uma dúzia de outros como este flutuavam dentro de tanques de nutrientes, amarrados aos montes no depósito de carga, todos presos nas paredes. Ukku voltou a cortar a carne, desta vez manobrando um bisturi numa espiral estreita no peito do prod, onde normalmente teria um mamilo. Tierslay conseguia ouvi-lo rindo baixinho para si mesmo.
+Ukku voltou-se para o morfo prod com a cabeça vazia. Uma dúzia de outros como ele flutuavam em tanques de nutrientes, amarrados aos montes no depósito de carga, todos presos nas paredes. Ukku voltou a cortar a carne, desta vez manobrando um bisturi numa espiral estreita no peito do prod, onde normalmente teria um mamilo. Tierslay conseguia ouvi-lo rindo baixinho para si mesmo.
 
 “Vai lá, Tier. Quanto mais cedo soubermos o que temos aqui, mais cedo dizemos adios, e você pode voltar para sua vidinha feliz”, disse Taernen.
 
@@ -568,7 +568,7 @@ A presença que fora Monte se expandiu, agigantando-se, preenchendo cada cantinh
 
 Sons gorgolejantes interromperam a tensão. Elis percebeu que os sons vinham dos tanques de prods e tentou entender o que aconteceu. O gel nutritivo estava vazando rápido, descobrindo os incubados.
 
-“Tenho que admitir, mana!” Taernen gritou, com clara satisfação na voz rouca. “Eu sabia que ia conseguir! Você trouxe estes putos da Firewall direto pra mim. Detona eles, ToXxot!”
+“Tenho que admitir, mana!” Taernen gritou, com clara satisfação na voz rouca. “Eu sabia que ia conseguir! Você trouxe esses putos da Firewall direto pra mim. Detona eles, ToXxot!”
 
 De trás de um brilho de pixels Bixbee apareceu em cima de Elis, abandonando a camuflagem. “Os prods!” ele gritou. “Ele está ativando os prods!”
 
@@ -576,7 +576,7 @@ Elis, Berk e Pivo viraram sua mira, mas já era tarde. Uma dúzia de morfos prod
 
 Tierslay flutuava imóvel enquanto o combate acontecia. Ele não deu atenção, estava focada nas janelas internas, na presença que era o Monte. Ela conhecia os sinais, isso estava procurando vulnerabilidades, tentando hackear _tudo_ ao redor. Desesperada, ela viu isso se focando na vulnerabilidade que quase todos ego no porão de carga tinham — a brecha que Tierslay colocou em cada instância dos seus narcoalgoritmos.
 
-Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou da sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Estas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
+Balas perdidas acertaram os membros de Tierslay, levando-a a um giro nauseante. O cubo se soltou da sua mão, girando para longe junto com vários dedos dela. Ela não sentiu dor, apenas observou, mal compreendendo, conforme o fio obsidiano do cubo se desenrolava e esticava, sendo torcido de forma impossível em duas cordas entrelaçadas. Essas se curvavam em direções opostas, se encontrando alguns segundos depois para formar um círculo com vários metros de diâmetro.
 
 Um redemoinho de devastação abriu espaço em torno círculo negro entrelaçado conforme ele começava a vibrar com força e violência. O chiado logo se tornou um ensurdecedor zumbido que levava cada tímpano no porão de carga à beira do colapso. Mãos nos ouvidos, pessoas encolhidas, armas flutuando soltas.
 
@@ -584,7 +584,7 @@ Um funil se formou no centro círculo, um redemoinho curvando e desfiando o espa
 
 Pivo foi o primeiro a se recuperar. “Por Poseidon, é um portal! A porra dum portal de pandora!”
 
-Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por este consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas brechas nos narcos, invadindo cada cérebro cibernético na sala.
+Um vasto volume atravessou do buraco de minhoca para o estrato digital sem fio do porão de carga, um fardo de inteligência tão densa que cada operação ao redor começou a travar, esmagadas por esse consumo de banda. A presença surgiu através dos sistemas de mesh violados de Tierslay. Toda sua mente fervilhava num ciclo, prazer e dor além do que qualquer linguagem poderia expressar. Monte cresceu. Ele foi além dela, pelas brechas nos narcos, invadindo cada cérebro cibernético na sala.
 
 O terror de Tierslay transformou-se numa alegria inexplicável. Sua criação estava prestes a ser abraçada por um ser divino, transformada em arma por uma entidade de poder quase ilimitado. Ela sabia que devia temer por seu irmão, seus amigos… mas em meio ao caos, ela encontrou clareza. Ela não sabia em quem confiar. Eles tinham seus próprios interesses. Seu coração buscou simpatia que não pode encontrar. Em vez disso, ele encheu-se de orgulho. Isso era uma TITAN, ela tinha certeza. Ela abriu o caminho para isso, abriu a porta. Ela _importava_.
 
@@ -626,7 +626,7 @@ Um som, movimento. Ela girou para ver Pivo do outro lado do porão, agarrado à 
 
 “O meu irmão morreu. Assim como os outros.”
 
-A estrutura começou a se contrair, lentamente encolhendo a esfera do buraco de minhoca. Em segundos, ela desapareceria no nada. _Ficar ou ir?_ Não importa o que ela dissesse, a culpa pelo que aconteceu no porão de carga cairia sobre ela. Quem quer que fosse esta Firewall, eles certamente viriam atrás dela. Agora eles eram seus inimigos. O pensamento moldou um sorriso em seus lábios. _É fácil. Começar de novo. Não confiar em ninguém. É nisso que você é boa, não é? Mas agora, pelo menos uma vez, eu não seria a presa desavisada._
+A estrutura começou a se contrair, lentamente encolhendo a esfera do buraco de minhoca. Em segundos, ela desapareceria no nada. _Ficar ou ir?_ Não importa o que ela dissesse, a culpa pelo que aconteceu no porão de carga cairia sobre ela. Quem quer que fosse essa Firewall, eles certamente viriam atrás dela. Agora eles eram seus inimigos. O pensamento moldou um sorriso em seus lábios. _É fácil. Começar de novo. Não confiar em ninguém. É nisso que você é boa, não é? Mas agora, pelo menos uma vez, eu não seria a presa desavisada._
 
 Ela hesitou, ainda incerta se deveria entrar no redemoinho para o desconhecido sombrio. Taernen veio à mente, um dos poucos momentos quando eram crianças e ele estava vulnerável, quando ela arriscou sua vida para salvá-lo, a primeira grande enchente na favela de Heliópolis. Então ela considerou as memórias que ela tinha experimentado, como ele também a tinha traído. Ela riu. “Que sacana de merda.”
 
