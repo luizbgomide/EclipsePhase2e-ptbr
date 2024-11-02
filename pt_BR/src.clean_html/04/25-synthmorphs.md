@@ -360,7 +360,7 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 ### Módulo Guerreiro
 
-Esses módulos são feitos para o combate.
+Estes módulos são feitos para o combate.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
