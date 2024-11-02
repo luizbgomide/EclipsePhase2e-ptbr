@@ -34,7 +34,7 @@ As ILAs não recebem paradas, a menos que sejam fornecidas pelo morfo, bot, veí
 
 Por projeto, as ILAs são incapazes de se autoaperfeiçoar. Para adquirir ou melhorar uma perícia, elas devem ser reprogramadas ou usar um carregador pericial. Elas não ganham Pontos de Rez.
 
-Para todas as outras regras, as ILAs são tratadas como [infomorfos](../13/08-infomorphs.md).
+Para todas as outras regras, as ILAs são tratadas como [infomorfos](08-infomorphs.md).
 
 ### Traços
 
@@ -60,7 +60,7 @@ Os transumanos desenvolvem fortes laços com suas musas devido à sua onipresen�
 
 ### O Que Sua Musa Pode Fazer por Você
 
-O uso primário para musas é lidar com tarefas online triviais, liberando você para as coisas mais importantes. Isso pode ser bastante prático no momentos corridos ou situações caóticas — do contrário seria bastante inconveniente quando você precisar googlar alguma coisa no meio de um tiroteio. Se você não tiver perícia em Infoseg e não tiver, ou não confiar, um hacker na equipe, sua musa pode agir como [defensor do sistema](../13/12-countermeasures.md#system-defender) da sua PAN. É importante lembrar que as musas também podem ajudá-lo em certas tarefas, proporcionando um [bônus de trabalho em equipe.](../03/01-how-to-play.md#teamwork).
+O uso primário para musas é lidar com tarefas online triviais, liberando você para as coisas mais importantes. Isso pode ser bastante prático no momentos corridos ou situações caóticas — do contrário seria bastante inconveniente quando você precisar googlar alguma coisa no meio de um tiroteio. Se você não tiver perícia em Infoseg e não tiver, ou não confiar, um hacker na equipe, sua musa pode agir como [defensor do sistema](12-countermeasures.md#system-defender) da sua PAN. É importante lembrar que as musas também podem ajudá-lo em certas tarefas, proporcionando um [bônus de trabalho em equipe.](../03/01-how-to-play.md#teamwork).
 
 Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 
@@ -84,7 +84,7 @@ Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 
 As musas não dormem, permanecendo ativas enquanto você descansa ou hiberna.
 
-Da mesma forma, se você for incapacitado ou agarrado, sua musa ainda pode agir ([Danos e Caronas Infomorfos](../13/15-hardware-damage.md#damage-and-infomorph-riders)). No entanto, os ataques de choque interrompem temporariamente sistemas implantados, então sua musa ficará incapacitada assim como você.
+Da mesma forma, se você for incapacitado ou agarrado, sua musa ainda pode agir ([Danos e Caronas Infomorfos](15-hardware-damage.md#damage-and-infomorph-riders)). No entanto, os ataques de choque interrompem temporariamente sistemas implantados, então sua musa ficará incapacitada assim como você.
 
 ### Backups de Musa
 
