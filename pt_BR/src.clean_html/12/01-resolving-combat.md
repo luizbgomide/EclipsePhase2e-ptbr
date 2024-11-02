@@ -89,7 +89,7 @@ Todo ataque tem um Valor de Dano (VD). Se o ataque acertar, role os dados e some
 
 Alguns ataques tem efeitos adicionais, conforme indicado na descrição e nos traços de arma/munição. Esses podem exigir que o defensor faça testes adicionais.
 
-Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](18-mental-health.md)). Neste caso, o Valor de Estresse (VE) é tratado da mesma forma que VD.
+Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](18-mental-health.md)). Nesse caso, o Valor de Estresse (VE) é tratado da mesma forma que VD.
 
 ## Passo 7: Aplicar a Armadura
 
