@@ -6,7 +6,7 @@ Assim como seu antecedente, seu pacote de carreira lhe fornece perícias. Você 
 
 Sua carreira também determina seus [pacotes de equipamentos](27-gear-packs.md) iniciais.
 
-<!--sorted-->
+<!--start-order-->
 ## Acadêmico
 
 Você dedica seus esforços na busca do conhecimento.
@@ -177,7 +177,7 @@ Você cria e conserta as coisas. Você pode ser um roboticista, técnico de habi
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Construção, Mineração, Nanofabricação, Operações de Habitat_</p>       | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Ciência da Computação, Engenharia, Nanotecnologia_</p>       | 30 |
 
-<!--end-sort-->
+<!--end-order-->
 
 <!-- CLEANED blockquote class="table" -->
 
