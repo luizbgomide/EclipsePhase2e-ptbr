@@ -1,6 +1,6 @@
 # Movimento de Veículos
 
-As [regras de Taxa de Movimento](../12/24-movement.md#movement-rate) se aplicam ao combate tático e interações entre personagens, bots e outras entidades. No entanto, a maioria das carcaças possui sistemas de mobilidade que permitem velocidades muito maiores. As seguintes regras se aplicam nessas situações.
+As [regras de Taxa de Movimento](24-movement.md#movement-rate) se aplicam ao combate tático e interações entre personagens, bots e outras entidades. No entanto, a maioria das carcaças possui sistemas de mobilidade que permitem velocidades muito maiores. As seguintes regras se aplicam nessas situações.
 
 ## Controle
 
