@@ -18,7 +18,7 @@ Você pode atacar os sistemas operacionais de dispositivos remotos, inundando-os
 
 Você ataca um alvo local ou remoto, tentando desestabilizar seus processos programáticos subjacentes. Faça um ação complexa e role a perícia Infoseg. Para um ataque local, se você não tiver privilégios de administrador, você sofre um modificador −30.
 
-Se o defensor do sistema estiver ativamente protegendo o alvo ([Proteger Programa](06-mesh-actions.md#universal-actions)), este é o um teste oposto contra a perícia Infoseg dele. Se não, é um teste de sucesso padrão. Ataques remotos são opostos pela graduação do Firewall (ou a perícia Infoseg do defensor se estiver defendendo ativamente).
+Se o defensor do sistema estiver ativamente protegendo o alvo ([Proteger Programa](06-mesh-actions.md#universal-actions)), esse é o um teste oposto contra a perícia Infoseg dele. Se não, é um teste de sucesso padrão. Ataques remotos são opostos pela graduação do Firewall (ou a perícia Infoseg do defensor se estiver defendendo ativamente).
 
 **Consciência de Ataques:** Não é automaticamente aparente de onde um ataque da mesh se origina — ou mesmo que ele está acontecendo. Se você, seu programa, ou o sistema operacional do dispositivo que você está acessando/executando recebe dano ou ferimentos, você perceberá isso como mau funcionamento do programa — uma ocorrência infelizmente comum, até mesmo em Eclipse Phase. Se você desconfiar que está sob ataque, você pode usar uma ação complexa e fazer um Teste de Infoseg para identificar o atacante e sua mesh ID.
 
@@ -73,4 +73,4 @@ Programas (exceto consoles de contas) ainda podem ser atacados depois de serem t
 
 ## Reparo de Dano da Mesh
 
-Danos e ferimentos em apps não podem ser reparados; o app deve ser reinicializado para remover erros. Infomorfos, cibercérebros, consoles de contas e sistemas operacionais possuem configurações de redundância embutidas que corrigirão processos quebrados e erros ao longo do tempo. Estes programas vão reparar 1d10 de dano ou 1 ferimento por minuto; todo dano deve ser corrigido primeiro.
+Danos e ferimentos em apps não podem ser reparados; o app deve ser reinicializado para remover erros. Infomorfos, cibercérebros, consoles de contas e sistemas operacionais possuem configurações de redundância embutidas que corrigirão processos quebrados e erros ao longo do tempo. Esses programas vão reparar 1d10 de dano ou 1 ferimento por minuto; todo dano deve ser corrigido primeiro.
