@@ -1,17 +1,17 @@
 # Robôs
 
-Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](../16/21-robots.md#remote-operations). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](../16/05-common-tech-and-ware.md#standard-augmentations).
+Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](#remote-operations). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](05-common-tech-and-ware.md#standard-augmentations).
 
 A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de “rosto” abstrato para interagir, de modo a não serem “máquinas” demais.
 
-## Ware de Robôs
+## Wares Robóticos
 
-Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam [hardware de veículos](../16/22-vehicles.md#vehicle-hardware).
+Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam [equipawares veiculares](22-vehicles.md#vehicle-hardware).
 
-| TODOS OS ROBÔS                                                                                                                                      |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes hardwares, além daqueles listados em suas descrições específicas: |
-| <ul class="stat-list indent"><li>**Wares:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                           |
+| TODOS OS ROBÔS                                                                                                                                        |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes equipawares, além daqueles listados em suas descrições específicas: |
+| <ul class="stat-list indent"><li>**Wares:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                             |
 
 ## Operação Remota
 
@@ -21,7 +21,7 @@ Você pode controlar um drone em _modo autônomo_ ou diretamente por _encarnaç�
 
 ### Modo Autônomo
 
-As carcaças de bots e veículos estão equipadas com [ILA de Bot/Veículo](../16/13-apps-and-alis.md#alis-and-muses). Em modo autônomo, a IA do drone opera por conta própria, embora ela também siga comandos dados verbalmente ou através de uma ligação de comunicação ou painel de controle entóptico por uma entidade autorizada. Emitir um comando de uma frase é uma ação rápida mental; comandos podem ser emitidos para vários drones de uma só vez. Comandos mais complexos podem demorar mais, ou podem ser preparados com antecedência com um Teste de Programação. Talvez a IA precise passar em uma Prova de COG para entender comandos particularmente confusos ou incompletos.
+As carcaças de bots e veículos estão equipadas com [ILA de Bot/Veículo](13-apps-and-alis.md#alis-and-muses). Em modo autônomo, a IA do drone opera por conta própria, embora ela também siga comandos dados verbalmente ou através de uma ligação de comunicação ou painel de controle entóptico por uma entidade autorizada. Emitir um comando de uma frase é uma ação rápida mental; comandos podem ser emitidos para vários drones de uma só vez. Comandos mais complexos podem demorar mais, ou podem ser preparados com antecedência com um Teste de Programação. Talvez a IA precise passar em uma Prova de COG para entender comandos particularmente confusos ou incompletos.
 
 Drones autônomos usam sua própria Iniciativa, perícias e paradas.
 
@@ -29,7 +29,7 @@ Drones autônomos usam sua própria Iniciativa, perícias e paradas.
 
 Você encarna um drone imergindo em uma sobreposição de RA do corpo e sensório do drone, incluindo propriocepção — você essencialmente se torna o drone. Engajar ou desengajar do modo encarnação é uma ação rápida. Enquanto imerso, você sofre um modificador −30 em Testes de Percepção e ações físicas envolvendo seu próprio morfo. A encarnação se parece muito com um reencape, e você deve fazer um [Teste de Integração](../15/02-resleeving.md#integration-test) para aclimatar a forma do drone.
 
-Trate a encarnação da mesma forma como se tivesse encapado o drone; use as paradas do drone em vez das do seu morfo. No entanto, como a encarnação é um pouco inferior ao encape real, você sofre um modificador −10 em todas as ações (a não ser que esteja equipado com [acoplagem drone](../16/08-mental-augmentations.md)).
+Trate a encarnação da mesma forma como se tivesse encapado o drone; use as paradas do drone em vez das do seu morfo. No entanto, como a encarnação é um pouco inferior ao encape real, você sofre um modificador −10 em todas as ações (a não ser que esteja equipado com [acoplagem drone](08-mental-augmentations.md)).
 
 ## Bots de Combate
 
@@ -163,7 +163,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 **Bichinho:** Os bichinhos vêm em uma variedade eclética de formatos, desde esquilos-robôs até insectoides ou criaturas mecânicas bizarras e artísticas. Os bichinhos foram originalmente projetados como mascotes robóticos, mas são bastante usados como um lacaio doméstico de uso geral, como um servente mais adorado. Muitas pessoas carregam o bichinho consigo, soltando-o para cuidar de pequenas tarefas para elas e deixando-o escalar seu corpo para cima e para baixo.
 
-**Manipulador:** Este bot assume a forma de um membro extra e uma cinta de suporte, armação de sustentação, arnês, ou braçadeira para vesti-lo. O manipulador pode ficar em mesh e ser tratado como uma extensão do seu corpo ou destacado para operação autônoma ou controle remoto. Embora projetos de braços humanos sejam comuns, uma variedade de projetos de membros estão disponíveis, desde garras até tentáculos. Trate como [cibermembro extra](../16/11-physical-augmentations.md) quando vestido.
+**Manipulador:** Este bot assume a forma de um membro extra e uma cinta de suporte, armação de sustentação, arnês, ou braçadeira para vesti-lo. O manipulador pode ficar em mesh e ser tratado como uma extensão do seu corpo ou destacado para operação autônoma ou controle remoto. Embora projetos de braços humanos sejam comuns, uma variedade de projetos de membros estão disponíveis, desde garras até tentáculos. Trate como [cibermembro extra](11-physical-augmentations.md) quando vestido.
 
 **Servente:** Os serventes são os robôs mais comuns, atuando como cozinheiros, zeladores, ajudantes genéricos, carregadores e assistentes pessoais. Cada casa tem pelo menos um. Eles têm uma variedade de formatos e tamanhos não humanoides, embora a maioria seja de tamanho médio, com 4–8 membros em média.
 
