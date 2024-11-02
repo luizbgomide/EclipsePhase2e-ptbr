@@ -15,7 +15,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 
 ### Lista de Morfos
 
-<!--sorted-->
+<!--start-order-->
 | Morfo                                                                                                     | Tipo       |   Custo    |
 |:--------------------------------------------------------------------------------------------------------- |:---------- |:----------:|
 | [Agente](26-infomorphs.md#agent)                                                                          | Infomorfo  | 2&nbsp;PM  |
@@ -61,6 +61,6 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Sinte](25-synthmorphs.md#synth)                                                                          | Sintemorfo | 3&nbsp;PM  |
 | [Prod de Trabalho](23-pod-biomorphs.md#worker-pod)                                                        | Prod       | 3&nbsp;PM  |
 
-<!--end-sort-->
+<!--end-order-->
 
 <!-- CLEANED /blockquote -->
