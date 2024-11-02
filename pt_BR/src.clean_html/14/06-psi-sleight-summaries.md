@@ -51,7 +51,7 @@ Suas inibições são reduzidas, a intuição social expandida e a inteligência
 
 ### Controle Comportamental
 
-Você pode ajustar seu estado emocional. Aplique um traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) (Nível 2) de sua escolha à vontade. Você pode não alterá-lo até que tenha feito uma ação de recarga. A critério do MJ, esse traço pode aplicar um modificador +/−10 em algumas situações. Como alternativa, use isto para reduzir um traço de Comportamento Acentuado/Restrito imposto a você em até dois níveis. Você pode forçar este truque para aumentar o efeito para o Nível 3 (ou três níveis de redução).
+Você pode ajustar seu estado emocional. Aplique um traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) (Nível 2) de sua escolha à vontade. Você pode não alterá-lo até que tenha feito uma ação de recarga. A critério do MJ, esse traço pode aplicar um modificador +/−10 em algumas situações. Como alternativa, use isso para reduzir um traço de Comportamento Acentuado/Restrito imposto a você em até dois níveis. Você pode forçar esse truque para aumentar o efeito para o Nível 3 (ou três níveis de redução).
 
 ### Ecoempatia
 
@@ -229,7 +229,7 @@ Você coloca um bloqueio temporário no cérebro do alvo, impedindo-o de usar um
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 4
 
-Você escaneia os pensamentos superficiais do alvo, obtendo um sentido geral do que está se passando na mente dele. Os sucessos maiores fornecem mais detalhes. Isto não é uma exploração invasiva na mente do alvo por informações específicas como a [Varredura Profunda](#deep-scan); em vez disso, você apenas sabe o que o alvo está pensando no momento.
+Você escaneia os pensamentos superficiais do alvo, obtendo um sentido geral do que está se passando na mente dele. Os sucessos maiores fornecem mais detalhes. Isso não é uma exploração invasiva na mente do alvo por informações específicas como a [Varredura Profunda](#deep-scan); em vez disso, você apenas sabe o que o alvo está pensando no momento.
 
 ### Explosão de Adrenalina
 
@@ -253,7 +253,7 @@ Você instila o alvo determinação e empoderamento renovados. Ele recebe +1 na 
 
 **Ação:** Complexa • **Duração:** Minutos • **Mod de Infecção:** 6
 
-Você interrompe temporariamente a capacidade do alvo de formar memórias de longo prazo. O alvo retém memórias de curto prazo durante a duração (VON ÷ 5 minutos), mas logo (após 1d6 + 4 turnos de ação) esquece qualquer coisa que ocorre enquanto este truque está em vigor.
+Você interrompe temporariamente a capacidade do alvo de formar memórias de longo prazo. O alvo retém memórias de curto prazo durante a duração (VON ÷ 5 minutos), mas logo (após 1d6 + 4 turnos de ação) esquece qualquer coisa que ocorre enquanto esse truque está em vigor.
 
 ### Varredura Profunda
 
@@ -283,7 +283,7 @@ Você detecta a presença e localização (direção aproximada em relação a v
 
 **Ação:** Complexa • **Duração:** Turnos de Ação • **Mod de Infecção:** 4
 
-Você sente o estado emocional do alvo por VON ÷ 5 turnos de ação. Isso lhe fornece um modificador +10 em testes de perícias socias contra o alvo, +10 por sucesso maior. Este truque não vai detectar enganações automaticamente, mas vai captar nervosismo, dúvida, ansiedade, etc. e fornecer um bônus em Testes de Cinésica contra Enganação.
+Você sente o estado emocional do alvo por VON ÷ 5 turnos de ação. Isso lhe fornece um modificador +10 em testes de perícias socias contra o alvo, +10 por sucesso maior. Esse truque não vai detectar enganações automaticamente, mas vai captar nervosismo, dúvida, ansiedade, etc. e fornecer um bônus em Testes de Cinésica contra Enganação.
 
 ### Ilusão
 
@@ -291,7 +291,7 @@ Você sente o estado emocional do alvo por VON ÷ 5 turnos de ação. Isso lhe f
 
 Você cria uma ilusão e a impõe sobre o alvo. A ilusão pode variar de uma simples impressão de um único sentido até uma realidade falsa completamente imersiva e que pode substituir as entradas sensoriais reais. A ilusão não pode prejudicar diretamente o alvo, mas pode provocar reações perigosas ou até mesmo fatais (ou seja, enganar alguém para andar para fora de um telhado). Como a ilusão é insubstancial, ela também não pode parar ou iniciar movimentos, segurar pesos, fornecer proteção, etc. Se o alvo examinar cuidadosamente a ilusão ou interagir fisicamente com ela, ele faz uma Prova de INT para ver através dela. Da mesma forma, se a ilusão desafiar a realidade de qualquer forma ou inspirar descrença no senso comum, ou se o ambiente real interferir com a ilusão (barulhos altos repentinos, paredes ocultas atrás da ilusão impedem movimentos, etc.), o alvo faz uma Prova de INT para deixar de acreditar. Alvos que tenham sucesso em sua Prova de INT vão sentir a entrada ilusória de forma tênue, mas reconhecê-la como irreal. Nenhuma Prova é necessária se o alvo tiver provas de que a ilusão é falsa. Ilusões complexas ou longas são difíceis de sustentar; o MJ pode pedir Provas de INT ou testes de perícias apropriadas para manter a fachada artificial.
 
-As ilusões exigem um poder mental intenso para serem sustentadas. Você não pode fazer nenhuma ação complexa enquanto sustenta este truque, senão a ilusão falhará.
+As ilusões exigem um poder mental intenso para serem sustentadas. Você não pode fazer nenhuma ação complexa enquanto sustenta esse truque, senão a ilusão falhará.
 
 ### Implante de Memória
 
@@ -321,7 +321,7 @@ Você compartilha um transtorno desencadeado ou um efeito de influência ativo d
 
 **Ação:** Complexa • **Duração:** Turnos de Ação • **Mod de Infecção:** 4
 
-Esta é uma versão ofensiva do truque Controle Comportamental. Você manipula os córtex e as emoções do alvo. Aplique um traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) (Nível 2). Você pode forçar esse traço para o Nível 3.
+Essa é uma versão ofensiva do truque Controle Comportamental. Você manipula os córtex e as emoções do alvo. Aplique um traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) (Nível 2). Você pode forçar esse traço para o Nível 3.
 
 ### Revigoração
 
