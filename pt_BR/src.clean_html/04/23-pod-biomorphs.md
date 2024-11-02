@@ -90,7 +90,7 @@ Os prods de prazer são imitações de humanos para fins de entretenimento ínti
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
-- **Extras Comuns:** Muitos têm [Aparência Marcante](../04/28-traits.md#striking-looks) ou [Vício](../04/28-traits.md#addiction)
+- **Extras Comuns:** Muitos têm [Aparência Marcante](28-traits.md#striking-looks) ou [Vício](28-traits.md#addiction)
 
 <!-- CLEANED /blockquote -->
 
