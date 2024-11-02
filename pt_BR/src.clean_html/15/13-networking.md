@@ -42,7 +42,7 @@ Em situações extremas, pode ser mais importante conseguir o que você precisa,
 Você pode queimar rep para dois propósitos:
 
 - **Favor Adicional.** Se você tiver usado todos os seus favores permitidos, você pode queimar rep para conseguir mais um. O custo na sua rep depende do tipo de favor, conforme indicado na coluna Custo de Queima na tabela Testes de Rep.
-- **Modificador de Bônus.** Isto indica que você está mexendo os pauzinhos e usando indicações para conseguir o favor que deseja. Isso é particularmente útil quando você está tentando obter um favor maior. Você recebe um modificador no seu Teste de Rep igual aos pontos de rep que você queimar × 2. O modificador máximo que você pode conseguir é +30 (15 pontos de rep).
+- **Modificador de Bônus.** Isso indica que você está mexendo os pauzinhos e usando indicações para conseguir o favor que deseja. Isso é particularmente útil quando você está tentando obter um favor maior. Você recebe um modificador no seu Teste de Rep igual aos pontos de rep que você queimar × 2. O modificador máximo que você pode conseguir é +30 (15 pontos de rep).
 
 ### Mantendo a Discrição
 
