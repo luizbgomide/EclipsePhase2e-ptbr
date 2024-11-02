@@ -56,7 +56,7 @@ Alguns movimentos são bem mais desafiadores: escalar uma parede íngreme, esgue
 
 ### Movimento em Gravidades Diferentes
 
-As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](../12/28-environmental-factors.md#gravity)), as coisas mudam.
+As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](28-environmental-factors.md#gravity)), as coisas mudam.
 
 Se você está escalando, puxando ou empurrando para se mover em microgravidade, você se move com metade da sua Taxa de Movimento de marcha (ex.: 4/20 se torna 2/10). Você também pode saltar qualquer distância, embora você cruze em uma taxa de movimento igual a ação de movimento de quando você saltou.
 
@@ -70,7 +70,7 @@ Está fora do escopo deste livro avaliar o impacto de diferentes gravidades em t
 
 As regras acima são direcionadas para morfos humanoides, mas há muitos morfos, carcaças e criaturas com formas corporais e/ou sistemas de mobilidade diferentes. Sintemorfos podem adicionar sistemas de mobilidade como [ware](../16/11-physical-augmentations.md). Os tipos de movimento abaixo listam a perícia usada para manobrar e uma Taxa de Movimento padrão, mas o MJ deve ajustar isso levando em conta o tamanho, volume, membros extras, etc.
 
-Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](../12/25-vehicle-movement.md).
+Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](25-vehicle-movement.md).
 
 ### Barca
 
