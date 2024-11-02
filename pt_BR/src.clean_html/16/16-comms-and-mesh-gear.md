@@ -38,7 +38,7 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 
 **Gravador de Missão:** Este dispositivo de armazenamento grava todos os dados de uma missão — lifelogs, XP, fluxos de sensores, e assim por diante — para recuperação posterior. Isso serve como backup de todos os dados em locais remotos e para equipes de busca e resgate analisarem se alguma coisa deu errado. Os desbravadores geralmente os conectam em amplificadores de rádio e os deixam próximos do portão de pandora.
 
-**Amplificador de Rádio:** Este dispositivo portátil aumenta o alcance e sensibilidade de rádios de curto alcance, como aqueles de implantes, ectos e microescutas. O amplificador deve estar ao alcance do dispositivo de menor alcance (ou ligado diretamente via cabo de fibra óptica). Ele vai repetir quaisquer transmissões recebidas desse dispositivo, mas com um alcance estendido de 25 quilômetros em áreas urbanas e 250 quilômetros em áreas remotas ([Alcances de Rádios e Sensores](../16/16-comms-and-mesh-gear.md#radio-and-sensor-ranges)). Os amplificadores são comumente usados por personagens viajando para longe de habitats ou outras regiões civilizadas.
+**Amplificador de Rádio:** Este dispositivo portátil aumenta o alcance e sensibilidade de rádios de curto alcance, como aqueles de implantes, ectos e microescutas. O amplificador deve estar ao alcance do dispositivo de menor alcance (ou ligado diretamente via cabo de fibra óptica). Ele vai repetir quaisquer transmissões recebidas desse dispositivo, mas com um alcance estendido de 25 quilômetros em áreas urbanas e 250 quilômetros em áreas remotas ([Alcances de Rádios e Sensores](#radio-and-sensor-ranges)). Os amplificadores são comumente usados por personagens viajando para longe de habitats ou outras regiões civilizadas.
 
 **Pacote de Satélites:** Esse míssil hidrogênio metálico de tamanho médio pode ser lançado em qualquer mundo com 2&nbsp;g de gravidade ou menos. Um tubo de lançamento de material inteligente automaticamente estende suportes e aponta para a trajetória adequada. Ele coloca 32 pequenos satélites em órbita, que depois de 1–2 dias estarão em posição para cobrir o planeta com dados de GPS, imagens hiperespectrais de baixa resolução (até 100 metros), e uma rede de comunicação/mesh para qualquer um no planeta com um amplificador de rádio. Os satélites podem mapear o planeta e fornecer dados meteorológicos usando Saber: Meteorologia 60.
 
@@ -85,11 +85,11 @@ Como o processo de entrelaçamento requer um equipamento especial, equipamentos 
 
 **Reservatório de Qubits:** Este par de reservatórios de tamanho pequeno mantém qubits suficientes para 10 horas de vídeo de alta resolução, ou 100 horas de voz, ou comunicações apenas de texto.
 
-## Hardware da Mesh
+## Aparelhos da Mesh
 
 Estes equipamentos formam os componentes fundamentais da mesh ([Dispositivos, Apps, & Ligações](../13/04-devices-apps-and-links.md)).
 
-| HARDWARE DA MESH       | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                  |
+| APARELHOS DA MESH      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                  |
 |:---------------------- |:-------------------------------------:|:-------------------------------------------------------------------------- |
 | Cabo de Fibra Óptica   |                 Men/1                 | Conexão cabeada para dispositivos.                                         |
 | Ciscos                 |                 Men/1                 | Cria mesh sem fio e redes de vigilância sobre uma área.                    |
