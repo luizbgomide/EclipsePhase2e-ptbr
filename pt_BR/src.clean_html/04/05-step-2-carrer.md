@@ -4,8 +4,9 @@ Qual é a principal área de experiência do seu personagem? Você é um cientis
 
 Assim como seu antecedente, seu pacote de carreira lhe fornece perícias. Você pode procurar um pacote que lhe dê mais diversidade ou um que complemente as perícias que você já adquiriu. Não se preocupe com perícias duplicadas — você pode ajustar isso em um passo posterior.
 
-Sua carreira também determina seus [pacotes de equipamentos](../04/27-gear-packs.md) iniciais.
+Sua carreira também determina seus [pacotes de equipamentos](27-gear-packs.md) iniciais.
 
+<!--sorted-->
 ## Acadêmico
 
 Você dedica seus esforços na busca do conhecimento.
@@ -175,6 +176,8 @@ Você cria e conserta as coisas. Você pode ser um roboticista, técnico de habi
 | Programação                                          | 30 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Construção, Mineração, Nanofabricação, Operações de Habitat_</p>       | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Ciência da Computação, Engenharia, Nanotecnologia_</p>       | 30 |
+
+<!--end-sort-->
 
 <!-- CLEANED blockquote class="table" -->
 
