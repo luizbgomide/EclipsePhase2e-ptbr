@@ -22,7 +22,7 @@ Isso significa que embora a arquitetura geral e topografia das redes neurais pos
 
 Para usar psicocirurgia, você deve ter acesso ao ego digitalizado do algo (adquirido da mesma forma que um upload ou forque). Você também deve ter um app de psicocirurgia e acesso a um servidor para executar um simulespaço de RV.
 
-A psicocirurgia é conduzida com um Teste de Medicina: Psicocirurgia. Esta é uma ação de tarefa, com um prazo dependente do procedimento específico, como indicado abaixo. O tempo contraído pode reduzir drasticamente a quantidade de tempo real necessário ([Realidade Virtual](../13/18-virtual-reality.md)). O indivíduo não pode fazer outras ações enquanto o procedimento está em andamento.
+A psicocirurgia é conduzida com um Teste de Medicina: Psicocirurgia. Essa é uma ação de tarefa, com um prazo dependente do procedimento específico, como indicado abaixo. O tempo contraído pode reduzir drasticamente a quantidade de tempo real necessário ([Realidade Virtual](../13/18-virtual-reality.md)). O indivíduo não pode fazer outras ações enquanto o procedimento está em andamento.
 
 Se você tiver sucesso, a psicocirurgia é efetiva e permanente. A alteração se torna uma parte duradora do ego do indivíduo e é copiada com uploads, forqueamentos, reencapes, etc. Se você falhar, a tentativa não funciona. Com um sucesso crítico, nenhum estresse é infligido. Com uma falha crítica, você inflige danos permanentes no indivíduo na forma de Dano Neural, Transtorno Mental, ou outro traço negativo de ego (a critério do MJ).
 
