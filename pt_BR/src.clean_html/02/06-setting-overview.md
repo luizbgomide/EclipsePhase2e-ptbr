@@ -58,6 +58,7 @@ Os transumanos conquistam a segurança dos perigos do espaço com esses tipos co
 - **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela ralé.
 - **Enlatados** são pequenos módulos apertados, em geral não mais do que um envoltório pressurizado e suporte vital. Eles são baratos e comuns, especialmente entre os eremitas.
 - **Toroides** tem forma de anel e gravidade por rotação, às vezes com múltiplos toroides rotacionando em direções opostas, às vezes ligados a estruturas de microgravidade.
+
 <!--end-sort-->
 
 <!-- CLEANED /blockquote -->
