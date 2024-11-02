@@ -4,9 +4,9 @@ Quando o seu corpo é substituível, o dano infligido em sua psique é muitas ve
 
 ## Pontos de Estresse
 
-Pontos de estresse representam fraturas na integridade do seu ego, defeitos no funcionamento coeso da sua mente. Este dano mental é sentido como choques cerebrais, desorientação, desconexões cognitivas, falhas sinápticas, ou um enfraquecimento das faculdades intelectuais.
+Pontos de estresse representam fraturas na integridade do seu ego, defeitos no funcionamento coeso da sua mente. Esse dano mental é sentido como choques cerebrais, desorientação, desconexões cognitivas, falhas sinápticas, ou um enfraquecimento das faculdades intelectuais.
 
-Por si só, estes pontos de estresse não prejudicam significativamente o funcionamento do personagem, mas se eles se acumularem, eles podem ter graves repercussões. Além disso, qualque fonte que infligir uma grande quantidade de pontos de estresse de uma vez provavelmente terá um impacto mais grave ([Traumas](#trauma)).
+Por si só, esses pontos de estresse não prejudicam significativamente o funcionamento do personagem, mas se eles se acumularem, eles podem ter graves repercussões. Além disso, qualque fonte que infligir uma grande quantidade de pontos de estresse de uma vez provavelmente terá um impacto mais grave ([Traumas](#trauma)).
 
 Pontos de Estresse podem ser reduzidos com psicocirurgia, descanso de longo prazo, e/ou alcançando objetivos motivacionais.
 
