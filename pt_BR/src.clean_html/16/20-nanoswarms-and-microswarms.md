@@ -54,7 +54,7 @@ Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs dev
 
 ### Desgaste
 
-Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](../16/19-nanotech.md#hives) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
+Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](19-nanotech.md#hives) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
 
 ## Enxames
 
