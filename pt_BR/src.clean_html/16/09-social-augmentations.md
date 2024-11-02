@@ -23,19 +23,19 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 
 **Metabolismo Limpo:** As bactérias simbióticas, flora intestinal e glândulas do morfo são geneticamente modificadas para manter o morfo “limpo”. O morfo também produz antibióticos inteligentes que previnem o crescimento de qualquer bactéria ou fungo no corpo ou na pele. Devido a isso, o seu morfo é completamente imune às infecções, cáries dentárias e mau hálito, seu suor não tem odor, e a digestão eficiente do morfo produz um pouco menos de resíduos sólidos e menos químicos com odor.
 
-**Controle Endócrino:** Isto modifica o sistema endócrino (ou a simulação programática dele) do morfo, dando-lhe algum controle sobre seus hormônios. Você pode influenciar o seu apetite, a sua sede e permanecer acordado por 48 horas sem penalidades. Você também tem um bom controle sobre seus estados emocionais, e pode “glandulizar” felicidade, tristeza, agressão, excitação, confiança, suspeita, e assim por diante. Aumente sua parada de Manha em 2.
+**Controle Endócrino:** Isso modifica o sistema endócrino (ou a simulação programática dele) do morfo, dando-lhe algum controle sobre seus hormônios. Você pode influenciar o seu apetite, a sua sede e permanecer acordado por 48 horas sem penalidades. Você também tem um bom controle sobre seus estados emocionais, e pode “glandulizar” felicidade, tristeza, agressão, excitação, confiança, suspeita, e assim por diante. Aumente sua parada de Manha em 2.
 
 **Feromônios Aprimorados:** A bioquímica do morfo produz sinais de feromônios personalizados e sintéticos que afetam subconscientemente o comportamento de outros biomorfos da mesma espécie. Esses feromônios influenciam outros que podem cheirar você a tratá-lo cordialmente e com confiança. Aplique um modificador +10 em Testes de Persuasão e Provocação. Essa ampliação não tem efeito em não biomorfos ou outras espécies.
 
 **Nanotats:** Sua pele/carcaça é uma tela artística. Tatuagens criadas com nanobots podem se mover pelo seu corpo, mudar de forma, cor, brilho, textura, trocar textos e imagens, e/ou até mesmo criar efeitos holográficos pequenos na superfície da pele, tudo controlável pelos seus insertos da mesh.
 
-**Neuromodulação:** Este sistema de nanoware possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
+**Neuromodulação:** Esse sistema de nanoware possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
 
 **Alteração de Odor:** Mudanças pequenas na bioquímica de um corpo podem alterar seu cheiro natural. Você pode suar baunilha, ter gosto de laranja, ou deixar um rastro de sândalo por onde passa. Ou você seguir a linha da ralé, e secretar o sabor ferroso de sangue, o aroma metálico de ferrugem, ou o odor almiscarado de uma xenocriatura específica.
 
 **Mudança Sexual:** Um conjunto complexo de alterações permite que você mude seu sexo físico para masculino, feminino, intersexo ou assexuado. Essa mudança é acionada mentalmente, mas leva aproximadamente 1 por semana para ser concluída.
 
-**Pele-Flex:** Este implante de disfarce lhe permite reestruturar suas características faciais e musculatura, e alterar o tom de pele e cor do cabelo. Esse processo leva 1d6 minutos. Pele-Flex adiciona +30 em Testes da Perícia Exótica: Disfarce ou de Enganação para se disfarçar ou imitar alguém.
+**Pele-Flex:** Esse implante de disfarce lhe permite reestruturar suas características faciais e musculatura, e alterar o tom de pele e cor do cabelo. Esse processo leva 1d6 minutos. Pele-Flex adiciona +30 em Testes da Perícia Exótica: Disfarce ou de Enganação para se disfarçar ou imitar alguém.
 
 **Cobertura Sintética:** Uma máscara sintética, mas para cibermembros.
 
