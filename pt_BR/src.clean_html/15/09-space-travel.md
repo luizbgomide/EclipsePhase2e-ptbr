@@ -26,7 +26,7 @@ O espaço é uma mercadoria valiosa a bordo de uma espaçonave, então os cômod
 
 ## Propulsão de Espaçonaves
 
-**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, estes ainda são os mesmos foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
+**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, esses ainda são os mesmos foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
 
 **Foguete de Hidrogênio Metálico (HM):** Hidrogênio metálico é uma forma sólida mas instável de hidrogênio criada em pressões extremamente altas. Ele pode ser estabilizado em tanques com campos elétricos e magnéticos cuidadosamente controlados. Pequenas quantidades podem ser rápida e explosivamente revertidas em gás hidrogênio convencional, impulsionando o foguete com grande força. Os motores de hidrogênio metálico são necessários para escapar os poços gravitacionais da maioria do planetas, graças a sua alta relação empuxo-peso, então eles são comuns em aterrissadores planetários e veículos de curto alcance.
 
