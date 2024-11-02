@@ -4,7 +4,7 @@ Prods (uma abreviação de “pessoas produzidas”) foram originalmente projeta
 
 ### Prod Básico
 
-Estes modelos originais de uso geral são projetados para manter o comprador/usuário dependente do fabricante.
+Esses modelos originais de uso geral são projetados para manter o comprador/usuário dependente do fabricante.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
