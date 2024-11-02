@@ -70,7 +70,7 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 
 ### Operador
 
-Esse infomorfo é ideal para profissões que envolvem operação remota de drones, sejam frotas de bots de manutenção, drones de vigilância, ou caças e máquinas de combate.
+Este infomorfo é ideal para profissões que envolvem operação remota de drones, sejam frotas de bots de manutenção, drones de vigilância, ou caças e máquinas de combate.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
