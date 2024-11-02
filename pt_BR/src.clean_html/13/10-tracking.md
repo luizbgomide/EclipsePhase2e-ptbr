@@ -55,7 +55,7 @@ Rastrear as atividades de alguém em um único sistema é muito mais fácil, exi
 
 ### Monitoramento Ativo
 
-De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isto pode ser feito remotamente e requer apenas mesh ID dela e um app de farejamento ([Farejamento](04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
+De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isso pode ser feito remotamente e requer apenas mesh ID dela e um app de farejamento ([Farejamento](04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
 
 ## Contramedidas de Rastreamento
 
