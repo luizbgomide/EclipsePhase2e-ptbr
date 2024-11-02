@@ -73,7 +73,7 @@ Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém
 
 - **Tipo:** Ativa, Área
 
-Esta é uma categoria genérica para perícias menos comuns. Isto inclui proficiência com armamento incomum e arcaico e perícias que têm um foco muito estreito, mas requerem educação, treinamento e experiência para serem usadas.
+Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico, e perícias que têm uma aplicação muito restrita, mas requerem educação, treinamento e experiência para serem usadas.
 
 Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
 
@@ -230,7 +230,7 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para ser esquivada ou pela perícia Luta do oponente se ele bloquear ou defender.
 
 - **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
