@@ -38,7 +38,7 @@ Se o assincro vencer com um sucesso crítico, dobre a potência do efeito do tru
 
 ## Armadura Mental
 
-Os truques [Armadura Psi](../14/06-psi-sleight-summaries.md#psi-armor) e [Escudo Psi](../14/06-psi-sleight-summaries.md#psi-shield) fornecem uma armadura mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma armadura física, essa armadura mental reduz a quantidade de dano infligida por uma agressão psíquica.
+Os truques [Armadura Psi](06-psi-sleight-summaries.md#psi-armor) e [Escudo Psi](06-psi-sleight-summaries.md#psi-shield) fornecem uma armadura mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma armadura física, essa armadura mental reduz a quantidade de dano infligida por uma agressão psíquica.
 
 ## Consciência do Alvo
 
@@ -54,7 +54,7 @@ Os truques psi possuem uma das seguintes durações: _constante_, _instantânea_
 
 **Instantânea:** Os truques instantâneos causam um efeito imediato e permanente que dura sem esforço.
 
-**Temporária:** Os truques temporários têm uma duração limitada sem nenhum esforço extra. A duração temporária é determinada por sua VON ÷ 5 e é medida em turnos de ação, minutos ou horas, conforme indicado. [Efeitos de influência](../14/05-influence-effects.md) são aplicados imediatamente quando o truque é ativado, e não no final da duração.
+**Temporária:** Os truques temporários têm uma duração limitada sem nenhum esforço extra. A duração temporária é determinada por sua VON ÷ 5 e é medida em turnos de ação, minutos ou horas, conforme indicado. [Efeitos de influência](05-influence-effects.md) são aplicados imediatamente quando o truque é ativado, e não no final da duração.
 
 **Sustentada:** Os truques sustentados duram o tempo que você quiser, mas exigem esforço e concentração ativos: aplique um modificador −10 em todos os outros testes de perícia enquanto o truque for sustentado. O assincro também deve estar dentro de um alcance Perto + 10 metros do alvo, do contrário o truque termina imediatamente. Mais do que um truques pode ser sustentado por vez, com um modificador cumulativo. Efeitos de influência são aplicados imediatamente quando o truque é ativado, e não no final da duração. A critério do MJ, truques que sejam sustentados por longos períodos podem implicar em Modificadores de Infecção e Testes de Infecção adicionais.
 
@@ -64,11 +64,11 @@ Sempre que você tira proveito das suas habilidades psíquicas, há um custo a p
 
 Sempre que você usa truques psi-gama, duas coisas acontecem. Primeiro, o seu Grau de Infecção aumenta pelo modificador de Infecção do truque. Isso representa a infecção temporariamente dominando um pouco mais a sua mente. Segundo, o exovírus deve fazer um Teste de Infecção. Sendo o infectado, o jogador assincro rola esse teste.
 
-Assincros que usam apenas truques psi-qui não precisam se preocupar sobre crises de infecção, a não ser que [forcem](../14/04-using-psi.md#pushing-sleights).
+Assincros que usam apenas truques psi-qui não precisam se preocupar sobre crises de infecção, a não ser que [forcem](#pushing-sleights).
 
 ### Teste de Infecção
 
-O número alvo para seu Teste de Infecção é igual seu Grau de Infecção atual (incluindo o modificador do truque que está usando). Se esse teste falhar, nada acontece, e você executa o truque sem efeitos negativos. Se tiver sucesso, você sofre um efeito de influência apropriado à subcepa ([Efeitos de Influência](../14/05-influence-effects.md)).
+O número alvo para seu Teste de Infecção é igual seu Grau de Infecção atual (incluindo o modificador do truque que está usando). Se esse teste falhar, nada acontece, e você executa o truque sem efeitos negativos. Se tiver sucesso, você sofre um efeito de influência apropriado à subcepa ([Efeitos de Influência](05-influence-effects.md)).
 
 Você pode não gastar paradas para afetar o Teste de Infeção, mas você pode gastar Manha para evitar ter que fazer o Teste de Infeção, conduzindo o truque através da pura força de vontade. No entanto, seu Grau de Infecção ainda aumenta.
 
@@ -85,7 +85,7 @@ Você pode não gastar paradas para afetar o Teste de Infeção, mas você pode 
 
 Sempre que um Teste de Infecção for bem-sucedido, o exovírus exerce um pouco mais de controle sobre sua psique. Cada assincro sente isso diferentemente, dependendo da subcepa específica dele.
 
-Role 1d6 e consulte os [efeitos de influência](../14/05-influence-effects.md) da sua subcepa, aplicando +1 por sucesso maior rolado no Teste de Infecção. Durante a criação de personagem (ou quando seu PJ for infectado pela Watts-MacLeod), você deve escrever estes seis efeitos de influência na sua ficha de personagem.
+Role 1d6 e consulte os [efeitos de influência](05-influence-effects.md) da sua subcepa, aplicando +1 por sucesso maior rolado no Teste de Infecção. Durante a criação de personagem (ou quando seu PJ for infectado pela Watts-MacLeod), você deve escrever estes seis efeitos de influência na sua ficha de personagem.
 
 Os efeitos de influência ocorrem imediatamente quando o truque é ativado.
 
