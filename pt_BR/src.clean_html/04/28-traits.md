@@ -204,7 +204,7 @@ Graças os designs produzidos em massa e os semblantes esculpidos de estrelas da
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Esse morfo causa mais dano em combate de luta. Adicione +1d6&nbsp;VD em todas as rolagens de dano de luta.
+Este morfo causa mais dano em combate de luta. Adicione +1d6&nbsp;VD em todas as rolagens de dano de luta.
 
 ### Flexibilidade
 
@@ -330,7 +330,7 @@ Você ri do medo. Aplique um modificador +10 por nível em Provas de VON e outro
 
 **Traço de ▼ Morfo • Custo PM: 1/2**
 
-Uma boa aparência esculpida é barata e comum, mas esse morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. Sintemorfos e morfos elevados só podem ter esse traço no Nível 1.
+Uma boa aparência esculpida é barata e comum, mas este morfo possui uma aparência física que só pode ser descrita como marcante, fascinante e incomum — até mesmo os belos e deslumbrantes glitterati a percebem. Aplique um modificador +10 em testes de Persuasão e Provocação onde seu fascínio possa ter um impacto. Sintemorfos e morfos elevados só podem ter esse traço no Nível 1.
 
 ### Facilidade com Números
 
@@ -515,7 +515,7 @@ Esse traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 **Traço de ▼ Morfo • Bônus PM: 2/4/6**
 
-Esse morfo é bastante diferente fisiologicamente (e possivelmente neurologicamente) das formas humanoides comuns que a maioria dos transumanos estão acostumados a encapar. Você recebe um modificador −10 por nível em [Testes de Integração](../15/02-resleeving.md#integration-test) quando encapar esse morfo. Esse modificador não se aplica ao morfo original de personagens elevados ou infovida. Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
+Este morfo é bastante diferente fisiologicamente (e possivelmente neurologicamente) das formas humanoides comuns que a maioria dos transumanos estão acostumados a encapar. Você recebe um modificador −10 por nível em [Testes de Integração](../15/02-resleeving.md#integration-test) quando encapar esse morfo. Esse modificador não se aplica ao morfo original de personagens elevados ou infovida. Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
 ### Fraqueza
 
@@ -539,7 +539,7 @@ Esse traço só está disponível para intocados. O morfo não foi genecorrigido
 
 **Traço de ▼ Morfo • Bônus PM: 3**
 
-Esse traço só está disponível para biomorfos. Esse morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser melhorado com nenhum bioware, cyberware, ou nanoware adicional.
+Esse traço só está disponível para biomorfos. Este morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser melhorado com nenhum bioware, cyberware, ou nanoware adicional.
 
 ### Crise de Identidade
 
@@ -563,7 +563,7 @@ Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Esse traço só está disponível para sintemorfos. Esse morfo específico tem algumas falhas irreparáveis e inevitavelmente se degrada. Sempre que rolar uma falha crítica, há 10% de probabilidade de que o morfo também adquira um ferimento.
+Esse traço só está disponível para sintemorfos. Este morfo específico tem algumas falhas irreparáveis e inevitavelmente se degrada. Sempre que rolar uma falha crítica, há 10% de probabilidade de que o morfo também adquira um ferimento.
 
 ### Instabilidade
 
@@ -635,7 +635,7 @@ Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem 
 
 **Traço de ▼ Morfo • Bônus PM: 2/4**
 
-Esse traço só está disponível para biomorfos. Esse morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
+Esse traço só está disponível para biomorfos. Este morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
 ### Desatenção
 
@@ -671,7 +671,7 @@ Seus instintos não lá são grande coisa. Sofra −5 por nível em Provas de IN
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Esse traço só está disponível para sintemorfos. Esse morfo foi construído com especificações não padronizadas, tornando a maioria das ferramentas e programas modernos incompatíveis. Essa é uma decisão consciente do projeto para tornar o usuário dependente do fabricante para reparos e atualizações. Os nanoenxames reparadores não funcionam nesse morfo e Testes de Aparelhagem: Robótica sofrem um modificador −20.
+Esse traço só está disponível para sintemorfos. Este morfo foi construído com especificações não padronizadas, tornando a maioria das ferramentas e programas modernos incompatíveis. Essa é uma decisão consciente do projeto para tornar o usuário dependente do fabricante para reparos e atualizações. Os nanoenxames reparadores não funcionam nesse morfo e Testes de Aparelhagem: Robótica sofrem um modificador −20.
 
 ### Vulnerabilidade Psi
 
@@ -729,7 +729,7 @@ Sua força de vontade é fraca e você é facilmente intimidado. Aplique um modi
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Embora uma boa aparência esculpida seja facilmente adquirida, esse morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência horrenda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
+Embora uma boa aparência esculpida seja facilmente adquirida, este morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência horrenda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
 
 ### Vertigem de RV
 
@@ -747,4 +747,4 @@ Esse traço só está disponível para biomorfos. O sistema imune do morfo é fa
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Esse traço só está disponível para biomorfos. Esse morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
+Esse traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
