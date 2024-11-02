@@ -63,9 +63,9 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 **Enxame Polinizador:** Variações geneticamente modificadas e mescladas de abelhas e vespas polinizam os jardins dos habitats. Eles também produzem mel, caçam outros insetos, aparam folhas e coletam detritos. Embora não sejam agressivos, alguns foram modificados para serem assassinos ou guardiões. Eles seguem as [regras de enxames](20-nanoswarms-and-microswarms.md#swarm-rules).
 
-**Barata Espacial:** Crescidas até o tamanho de um cachorro pequeno, estes insetos geralmente são bioesculpidos para terem cores e padrões brilhantes. Eles são usados como animais de estimação e úteis para pequenas funções de zeladoria.
+**Barata Espacial:** Crescidas até o tamanho de um cachorro pequeno, esses insetos geralmente são bioesculpidos para terem cores e padrões brilhantes. Eles são usados como animais de estimação e úteis para pequenas funções de zeladoria.
 
-**Lulinha:** Estas pequenas lulas são adaptadas para respirar ar e manobrar em microgravidade com jatos naturais de ar. Elas são usadas como animais de estimação e lanchinhos por neo-polvos.
+**Lulinha:** Essas pequenas lulas são adaptadas para respirar ar e manobrar em microgravidade com jatos naturais de ar. Elas são usadas como animais de estimação e lanchinhos por neo-polvos.
 
 ## Animais Inteligentes
 
@@ -156,11 +156,11 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 </table>
 
-**Cão de Guarda:** Estes cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com biowares ou cibernéticos de combate.
+**Cão de Guarda:** Esses cães inteligentes são treinados para fins de segurança e policiamento, e às vezes aprimorados com biowares ou cibernéticos de combate.
 
-**Babuíno Policial:** Usados para trabalho policial em Marte, estes babuínos do Cabo parcialmente elevados podem ser cruéis, especialmente em bando.
+**Babuíno Policial:** Usados para trabalho policial em Marte, esses babuínos-do-cabo parcialmente elevados podem ser cruéis, especialmente em bando.
 
-**Farejador Ferroso:** Estes cães farejadores transgênicos de tamanho médio são modificados para respirar a atmosfera marciana e lidar com o ambiente frio. Eles são excelentes rastreadores.
+**Farejador Ferroso:** Esses cães farejadores transgênicos de tamanho médio são modificados para respirar a atmosfera marciana e lidar com o ambiente frio. Eles são excelentes rastreadores.
 
 **Gavião Inteligente:** Versões aprimoradas de falcões peregrinos e outras aves predatórias são comuns em grandes habitats abertos. A arte da falcoaria voltou a moda, com aves treinadas para vigilância e rastreamento.
 
@@ -168,7 +168,7 @@ Animais inteligentes são parcialmente elevados e bioprojetados. Eles possuem in
 
 **Guaxinim inteligente:** Semelhantes aos macacos, os guaxinins inteligentes são usados como assistentes pessoais.
 
-**Rato Inteligente:** Estas atualizações do rato norueguês comum são espertas e habilidosas, e cabem facilmente em um bolso ou capuz.
+**Rato Inteligente:** Essas atualizações do rato norueguês comum são espertas e habilidosas, e cabem facilmente em um bolso ou capuz.
 
 **Gato de Enxame:** Produzidos nos enxames da ralé para companhia, competições, e bizarrices, os gatos de enxame são bastante modificados com traços transgênicos. Não há dois parecidos, com alguns incorporando traços de outros animais da subordem _Feliformia_, incluindo mangustos, civetas e até hienas. Um gato de enxame pode parecer um siamês com pelo bioluminescente roxo e seis pernas, e outro pode parecer com um leopardo-das-neves com quatro olhos, escamas cibernéticas e asas.
 
@@ -203,6 +203,6 @@ Algumas criaturas descobertas em exoplanetas têm entrado em coleções privadas
 
 </table>
 
-**Duende Palhaço:** Encontrados no sistema Eco, estes avianos-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
+**Duende Palhaço:** Encontrados no sistema Eco, esses avianos-primatas alados, onívoros e coloridos normalmente vivem em uma relação simbiótica com anêmonas terrestres carnívoras. Essas criaturas travessas se apegaram com alguns transumanos. Elas são inteligentes, brincalhonas e propensas a travessuras.
 
-**Hexalamandra:** Suspeita-se que estes anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
+**Hexalamandra:** Suspeita-se que esses anfíbios de seis patas foram parcialmente elevados pelos alienígenas extintos do exoplaneta Gota. Às vezes elas andam eretas em 2 patas, e às vezes rastejam com as 6. Elas são bastante perspicazes e aprenderam a imitar comportamentos transumanos e usar ferramentas.
