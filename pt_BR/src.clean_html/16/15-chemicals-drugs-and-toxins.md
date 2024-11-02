@@ -2,7 +2,7 @@
 
 O desejo transumano de aprimorar o corpo e a mente combina perfeitamente com a história do abuso de substâncias recreativas da nossa espécie. Drogas de todos os tipos — químicas, nano, ou eletrônicas — não são apenas populares, mas de uso generalizado. Os avanços em biotecnologia eliminaram muitos dos efeitos colaterais, mas os corpos transumanos são ambientes complicados, então eles continuam sendo um fator, especialmente com o uso a longo prazo.
 
-As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando estas como modelos.
+As drogas estão disponíveis em uma variedade de formas: pílulas, adesivos dérmicos, inaladores, injetores descartáveis, líquidos, pós, etc. As drogas listadas aqui são apenas uma amostra representativa. Há milhares se não milhões de drogas em circulação em Eclipse Phase — encorajamos os MJs a introduzirem suas próprias, usando essas como modelos.
 
 Observe que algumas drogas podem ter efeitos diferentes em morfos com o traço Bioquímica Não Humana (a critério do MJ).
 
@@ -41,13 +41,13 @@ O método de aplicação determina a rapidez com que a substância é absorvida 
 
 **App:** As substâncias eletrônicas são executadas como outros programas.
 
-**Dérmico (D):** Esta droga/toxina é absorvida através da pele como um gás, líquido, ou sólido (ex.: pasta). Adesivos dérmicos ou armas aspersoras são comumente usadas, carregadas com o químico DMSO, que transfere a droga através da pele. Os adesivos dérmicos podem ser aplicados nos outros em combate de luta com um ataque de toque simples (+20). Armas de luta também podem ser revestidas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
+**Dérmico (D):** Essa droga/toxina é absorvida através da pele como um gás, líquido, ou sólido (ex.: pasta). Adesivos dérmicos ou armas aspersoras são comumente usadas, carregadas com o químico DMSO, que transfere a droga através da pele. Os adesivos dérmicos podem ser aplicados nos outros em combate de luta com um ataque de toque simples (+20). Armas de luta também podem ser revestidas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
 
-**Inalação (Ina):** Isto é um gás que é respirado nos pulmões ou aspirado nasalmente. Usado para inaladores, aerossóis, pós, e granadas/buscadores de gás.
+**Inalação (Ina):** Isso é um gás que é respirado nos pulmões ou aspirado nasalmente. Usado para inaladores, aerossóis, pós, e granadas/buscadores de gás.
 
-**Injetado (Inj):** Este líquido é aplicado através de uma injeção intramuscular ou intravenosa. Usado para agulhas e armas de perfurantes ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
+**Injetado (Inj):** Esse líquido é aplicado através de uma injeção intramuscular ou intravenosa. Usado para agulhas e armas de perfurantes ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
 
-**Oral (O):** Este é um líquido ou sólido que é absorvido através do estômago ou cavidade oral (comendo ou bebendo). Usado para pílulas e líquidos.
+**Oral (O):** Esse é um líquido ou sólido que é absorvido através do estômago ou cavidade oral (comendo ou bebendo). Usado para pílulas e líquidos.
 
 ### Efeitos
 
@@ -77,17 +77,17 @@ Apenas alguns dos químicos com usos interessantes em Eclipse Phase:
 
 **Atropina:** Embora seja venenosa em grandes doses, a atropina é um antídoto eficaz contra agentes nervosos como BTX<sup>2</sup> e Nervex. A atropina vai anular o efeito se tomada logo antes ou depois da exposição.
 
-**DMSO:** Este produto químico atua como suporte, permitindo que outros químicos sejam absorvidos através da pele. Ele permite que qualquer químico, droga ou toxina seja aplicada por via dérmica.
+**DMSO:** Esse produto químico atua como suporte, permitindo que outros químicos sejam absorvidos através da pele. Ele permite que qualquer químico, droga ou toxina seja aplicada por via dérmica.
 
 **Termite Líquida:** A termite líquida é apresentada em forma de gel que é facilmente aplicada em todas as condições ambientais (pela natureza de sua reação química, a termite é oxigenada e queimará debaixo d'água ou no espaço). Ela é acesa com uma carga elétrica, queimando em temperaturas que excedem 2.500&nbsp;°C e derretendo qualquer coisa que toque. A termite líquida inflige VD 3d10 + 10 \[27\] por turno de ação por 3 turnos em qualquer que estiver tocando. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
 
 **Água-Nada:** Água-Nada é um líquido retardante de chamas que não molha os objetos, não importa o quão absorventes eles sejam — isso simplesmente se acumula e é facilmente removido.
 
-**Gel Removedor:** Esta pasta torna-se um ácido poderoso quando recebe uma carga elétrica. Ela é apresentada em forma gelatinosa e pode ser espalhada como um gel na maioria das condições ambientais, até mesmo no espaço. Na forma ácida, o gel removedor inflige VD 2d10 +5 \[16\] por turno de ação por 3 turnos em qualquer coisa que estiver tocando, a não ser que o material tenha sido tratado contra a ação de ácidos. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
+**Gel Removedor:** Essa pasta torna-se um ácido poderoso quando recebe uma carga elétrica. Ela é apresentada em forma gelatinosa e pode ser espalhada como um gel na maioria das condições ambientais, até mesmo no espaço. Na forma ácida, o gel removedor inflige VD 2d10 +5 \[16\] por turno de ação por 3 turnos em qualquer coisa que estiver tocando, a não ser que o material tenha sido tratado contra a ação de ácidos. A armadura também é derretida, reduza o VA pelo dano tomado. Trate os danos como cumulativos para determinar ferimentos.
 
-**Lubri:** Este líquido é quase totalmente sem atrito. Quando espalhado ao redor de uma área (com uma mangueira ou granada aspersora), qualquer um que tente andar ou correr na superfície afetada deve fazer uma Prova de REF ou cair no chão. As superfícies revestidas são extremamente difíceis de segurar, exigindo uma Prova de SOM para manter nas mãos. Qualquer um que tente agarrar um personagem molhado com lubri sofre um modificador −30.
+**Lubri:** Esse líquido é quase totalmente sem atrito. Quando espalhado ao redor de uma área (com uma mangueira ou granada aspersora), qualquer um que tente andar ou correr na superfície afetada deve fazer uma Prova de REF ou cair no chão. As superfícies revestidas são extremamente difíceis de segurar, exigindo uma Prova de SOM para manter nas mãos. Qualquer um que tente agarrar um personagem molhado com lubri sofre um modificador −30.
 
-**Corante Rastreador:** Este líquido é incolor em luz normal, mas reconhecível em outros comprimentos de onda pré-especificados (como infravermelho ou UV).
+**Corante Rastreador:** Esse líquido é incolor em luz normal, mas reconhecível em outros comprimentos de onda pré-especificados (como infravermelho ou UV).
 
 ## Drogas Cognitivas
 
@@ -100,9 +100,9 @@ Nootrópicos e drogas similares melhoram as faculdades mentais do usuário.
 | Klar              | Bioquímica | Qualquer  | 8 horas  |                    —/Mental                     |                 Men/1                 | +10 em Percepção, nega modificadores por distração.                           |
 | Neme              | Bioquímica | Qualquer  | 12 horas |                    —/Mental                     |                 Men/1                 | +20 em Provas de COG para se lembrar de coisas aprendidas sob efeito de Neme. |
 
-**Gana:** Este nootrópico acelera a comunicação entre os hemisférios esquerdo e direito do cérebro, estimula a produção de ideias, e melhora a concentração. +1 na parada de Inspiração por 8 horas.
+**Gana:** Esse nootrópico acelera a comunicação entre os hemisférios esquerdo e direito do cérebro, estimula a produção de ideias, e melhora a concentração. +1 na parada de Inspiração por 8 horas.
 
-**Fokus:** Esta droga ativa o hiperfoco e a concentração. Adquira o traço Comportamento Acentuado: Obsessivo (Nível 2) pela duração e reduza os prazos das ações de tarefa em 25%.
+**Fokus:** Essa droga ativa o hiperfoco e a concentração. Adquira o traço Comportamento Acentuado: Obsessivo (Nível 2) pela duração e reduza os prazos das ações de tarefa em 25%.
 
 **Klar:** A klar aumenta sua prontidão e melhora a clareza e a percepção. Os usuários relatam um sentimento de estar “elevado” a um nível superior. Você recebe +10 em Percepção e não sofre modificadores de distração por 8 horas.
 
@@ -122,9 +122,9 @@ Drogas de combate são uma forma fácil de melhorar suas chances em uma luta.
 | Fluidal           | Bioquímica | Qualquer  |  3 horas   |                        —                        |                 Mai/3                 | +1 em Vigor, pode usar Vigor duas vezes no mesmo teste.                                                                      |
 | Rebite            | Bioquímica | Qualquer  |   1 hora   |                   −20/Físico                    |                 Mod/2                 | Recarga curta leva apenas uma ação complexa.                                                                                 |
 
-**Agrestia:** Esta droga estimula uma grande explosão de feromônios de agressão. Isso fornece um modificador +20 quando usar Provocação para intimidar ou zombar ([Ataques Sociais](../12/22-social-actions.md#social-attacks)), mas um modificador −20 em todos os outros testes de perícias sociais. Esses modificadores só são eficazes quando lidar com biomorfos da mesma espécie e que podem cheirar você.
+**Agrestia:** Essa droga estimula uma grande explosão de feromônios de agressão. Isso fornece um modificador +20 quando usar Provocação para intimidar ou zombar ([Ataques Sociais](../12/22-social-actions.md#social-attacks)), mas um modificador −20 em todos os outros testes de perícias sociais. Esses modificadores só são eficazes quando lidar com biomorfos da mesma espécie e que podem cheirar você.
 
-**Brutchá:** Frequentemente servido como um delicioso chá, esta droga de combate eleva a resistência e tolerância às lesões. Aumente sua Durabilidade em 5, Limiar de Ferimento em 1, e Grau de Destruição em 8 por 3 horas.
+**Brutchá:** Frequentemente servido como um delicioso chá, essa droga de combate eleva a resistência e tolerância às lesões. Aumente sua Durabilidade em 5, Limiar de Ferimento em 1, e Grau de Destruição em 8 por 3 horas.
 
 **Sorriso:** O sorriso é um opiáceo e inibidor de dor eficaz. Você ignora os modificadores de 1 ferimento (cumulativo com outros mods de negação de dor, até o máximo de 3 ferimentos).
 
@@ -134,7 +134,7 @@ Drogas de combate são uma forma fácil de melhorar suas chances em uma luta.
 
 **Fluidal:** O fluidal aumenta sua coordenação e controle muscular, tornando seus movimentos suaves, graciosos e precisos. +1 em Vigor. Além disso, você pode usar a parada de Vigor duas vezes no mesmo teste, se necessário.
 
-**Rebite:** Este estimulante aumenta sua resistência. Você pode fazer uma recarga curta com uma ação complexa, em vez de 10 minutos.
+**Rebite:** Esse estimulante aumenta sua resistência. Você pode fazer uma recarga curta com uma ação complexa, em vez de 10 minutos.
 
 ## Drogas de Saúde
 
@@ -145,7 +145,7 @@ Alimentos farmacêuticos que melhoram a saúde e estado físico do consumidor.
 | Bananas Furiosas | Bioquímica | Qualquer  | 8 horas  |                        —                        |                 Men/1                 | Reduz a severidade da exposição à radiação. |
 | Confurte         | Bioquímica | Qualquer  | 12 horas |                   −10/Mental                    |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.              |
 
-**Bananas Furiosas:** Esta droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cintureiros preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
+**Bananas Furiosas:** Essa droga reverte os efeitos da radiação ionizante nas células do seu corpo. Ele geralmente se apresenta como um cacho de bananas brilhantes vermelho-alaranjadas. Os cintureiros preferem a droga em forma de cigarro, por ironia. As bananas permitem que você reduza à metade o dano e ignora modificadores de debilitação por envenenamento radioativo por 8 horas.
 
 **Confurte:** Geralmente servido como um delicioso iogurte, o confurte bloqueia os hormônios de estresse, estabiliza o humor e alivia a ansiedade. Ele temporariamente aumenta a Lucidez em 5, Limiar de Trauma em 1 e Grau de Insanidade em 5. O uso excessivo de confurte pode levar a coceira crônica causada pela liberação de histamina.
 
@@ -163,7 +163,7 @@ Nanodrogas são infestações temporárias de nanobots que aplicam um efeito esp
 | Esquizo    | Nano |  Inj, O   |  3 horas   |                        —                        |                Men/R/1                | Transtorno Mental: Esquizofrenia, Comportamento Acentuado: Violência (2), DV 1d10. |
 | X-Senso    | Nano |  Inj, O   |   1 dia    |                        —                        |                 Men/1                 | Adquire um novo sentido ou outra função dos órgãos.                                |
 
-**Onda:** Originalmente chamada frequência, esta droga foi projetada como uma ferramenta para a visualização científica. Ela libera nanobots na corrente sanguínea que se instalam na epiderme, onde elas podem agir como sensores de radiação eletromagnética. Essa entrada sensorial é então injetada em seus sensórios visuais e táteis como uma sequência de novos estímulos, tipicamente um show de luzes ou sensações táteis esquisitas. Além de seus usos recreativos, a onda é boa para captar campos de radiação localizados, permitindo que você encontre ciscos, sensores e eletrônicos ocultos com um Teste de Percepção, dependendo do alcance e força do sinal deles (a critério do MJ).
+**Onda:** Originalmente chamada frequência, essa droga foi projetada como uma ferramenta para a visualização científica. Ela libera nanobots na corrente sanguínea que se instalam na epiderme, onde elas podem agir como sensores de radiação eletromagnética. Essa entrada sensorial é então injetada em seus sensórios visuais e táteis como uma sequência de novos estímulos, tipicamente um show de luzes ou sensações táteis esquisitas. Além de seus usos recreativos, a onda é boa para captar campos de radiação localizados, permitindo que você encontre ciscos, sensores e eletrônicos ocultos com um Teste de Percepção, dependendo do alcance e força do sinal deles (a critério do MJ).
 
 **Caldo:** O caldo ajuda na aclimatação em ambientes de alta gravidade. Ele é frequentemente adicionado à comida e existe em uma variedade de sabores. Para que o caldo seja 100% eficaz, você deve começar a usá-lo com pelo menos 8 horas de antecedência. Reduz em 20 as penalidades de aclimatação em alta gravidade.
 
@@ -189,9 +189,9 @@ Conhecidos coloquialmente como dopeware, narcos e zapps, os narcoalgoritmos são
 
 **DDR:** Originalmente distribuído como um vírus para bots feito por hackers sacanas, o DDR (“Dança Dança Robô”) ativa impulsos em seus circuitos de controle motor. O efeito faz sua carcaça “dançar” com movimentos irregulares e automáticos. Os receptores de prazer também são ativados para que a dança — e movimentos de todos os tipos — proporcionem uma sensação fantástica. Variantes provocam movimentos e estilos diferentes. Enquanto dança, você sofre um modificador −20 nas outras ações. Você pode anular a dança com uma Prova de VON. Infomorfos sem corpos sentem a necessidade de dançar, mas não sofrem outros efeitos.
 
-**Ligadaço:** Este app conecta você com outros usuários de ligadaço via VPN, e compila fluxos de XP e memórias acessadas aleatoriamente deles — geralmente o bastante para fornecer contexto, mas não o suficiente para adquirir detalhes pessoais particulares. Essas entradas são combinadas, as entradas emocionais amplificadas, e o pacote inteiro é recheado com gatilhos de circuitos hormonais e sinestesia artificial. O efeito é uma compilação remixada alucinante das vidas das pessoas, misturada em uma sopa sensorial que golpeia a mente com uma torrente eufórica. Você fica catatônico enquanto está sob o efeito de ligadaço, mas depois você pode sentir flashbacks dos eventos das vidas das outras pessoas.
+**Ligadaço:** Esse app conecta você com outros usuários de ligadaço via VPN, e compila fluxos de XP e memórias acessadas aleatoriamente deles — geralmente o bastante para fornecer contexto, mas não o suficiente para adquirir detalhes pessoais particulares. Essas entradas são combinadas, as entradas emocionais amplificadas, e o pacote inteiro é recheado com gatilhos de circuitos hormonais e sinestesia artificial. O efeito é uma compilação remixada alucinante das vidas das pessoas, misturada em uma sopa sensorial que golpeia a mente com uma torrente eufórica. Você fica catatônico enquanto está sob o efeito de ligadaço, mas depois você pode sentir flashbacks dos eventos das vidas das outras pessoas.
 
-**Randomizador:** Este app ativa, intensifica e suprime aleatoriamente as funções dos neurotransmissores, para criar o efeito de oscilações de humor repentinas e aleatórias. Você pode passar de deprimido para exuberante para melancólico em questão de minutos. Embora a montanha-russa emocional seja desgastante para alguns, outros acham isso emocionante ou gostam do desafio de se adaptar a isso. A qualquer momento você tem 50% de chance de receber um modificador +10 em testes de perícias sociais e 50% de chance de um modificador −10.
+**Randomizador:** Esse app ativa, intensifica e suprime aleatoriamente as funções dos neurotransmissores, para criar o efeito de oscilações de humor repentinas e aleatórias. Você pode passar de deprimido para exuberante para melancólico em questão de minutos. Embora a montanha-russa emocional seja desgastante para alguns, outros acham isso emocionante ou gostam do desafio de se adaptar a isso. A qualquer momento você tem 50% de chance de receber um modificador +10 em testes de perícias sociais e 50% de chance de um modificador −10.
 
 ## Pétalas
 
@@ -213,7 +213,7 @@ Do lado negativo, algumas viagens de pétalas dão errado, infligindo VE 1d10 ou
 
 **Verde Curioso:** Coisas de certas cores (geralmente verde, mas nem sempre) tomam vida própria. A cor em si atinge sapiência e busca aprender sobre o universo. Ela pede sua ajuda, no começo. Outros viajantes encontrar e trabalham com outras cores. Eventualmente, ela aprende a espalhar sua cor para outras coisas, tomando o controle. Outras cores conspiram contra ela. Você escolhe um lado ou encontra uma forma para as cores cooperarem em viverem em harmonia? E então, chega o Branco. Todas as cores temem o Branco.
 
-**Cajado de Almas:** Esta pétala discretamente copia forques do seu ego. Você se encontra em um reino mágico, cheio de monstros perigosos e itens mágicos poderosos. Os itens são todos possuídos por espíritos inteligentes — forques incorporados de outros viajantes. Estranhas criaturas etéreas lhe fornecem missões. Por fim, você busca adquirir os itens que contém seus forques — e o ritual que vai mesclá-los novamente. Mas um forque caiu nas garras de um mago maligno, cujo cajado negro consome todos os espíritos. Rumores sugerem que há muitos níveis na experiência dessa pétala, e que você só pode derrotar o mago se aprender o poder sombrio dele e consumir os espíritos para dentro de você.
+**Cajado de Almas:** Essa pétala discretamente copia forques do seu ego. Você se encontra em um reino mágico, cheio de monstros perigosos e itens mágicos poderosos. Os itens são todos possuídos por espíritos inteligentes — forques incorporados de outros viajantes. Estranhas criaturas etéreas lhe fornecem missões. Por fim, você busca adquirir os itens que contém seus forques — e o ritual que vai mesclá-los novamente. Mas um forque caiu nas garras de um mago maligno, cujo cajado negro consome todos os espíritos. Rumores sugerem que há muitos níveis na experiência dessa pétala, e que você só pode derrotar o mago se aprender o poder sombrio dele e consumir os espíritos para dentro de você.
 
 **Os Simulacros:** Você sente um membro fantasma — de um membro que você nunca teve. Essa parte desaparecida se move e sente, mas você não pode vê-la. Ela acha algumas coisas/pessoas/lugares agradáveis e outras repulsivas. Você sente isso tentando agarrar, escrever e manipular. Você vê novos membros em outros viajantes, que eles não podem sentir. Eles descrevem membros em você, que você não sente nem percebe. Você pode trocar membros uns com os outros para experimentá-los, mas eles geralmente não são o seu membro perdido. Para encontrar seu membro fantasma, você deve explorar seus desejos invisíveis. Os novos membros que você experimenta possuem mentes próprias e podem enganar você.
 
@@ -228,11 +228,11 @@ Pesquisando a cepa Watts-MacLeod resultou em várias descobertas excepcionais co
 | Psicador     | Bioquímica | Qualquer  | 8 horas |                   −10/Mental                    |                Mai/R/3                | +10 na perícia Psi.                                        |
 | Psi-Coice    | Bioquímica | Qualquer  | 1 hora  |                   −10/Mental                    |                Raro/—                 | Efeitos de 1 truque psi-gama específico. VE 1d10 + 2.      |
 
-**Inibidor:** O inibidor é um coquetel de neuroquímicos que bloqueiam algumas funções receptoras e transmissoras do cérebro para tentar reduzir as ondas psi e bloquear ou debilitar os truques. Esta droga é geralmente usada para evitar que prisioneiros assincros usem suas habilidades. Faça uma Prova de VON com −20. Se você falhar, você perde todas as habilidades psi pela duração da droga. Se tiver sucesso, você ainda sofre um modificador −30 em Testes de Psi. Personagens sob efeito do inibidor têm uma expressão vidrada e dopada, e dificuldade para ficarem animados ou emotivos.
+**Inibidor:** O inibidor é um coquetel de neuroquímicos que bloqueiam algumas funções receptoras e transmissoras do cérebro para tentar reduzir as ondas psi e bloquear ou debilitar os truques. Essa droga é geralmente usada para evitar que prisioneiros assincros usem suas habilidades. Faça uma Prova de VON com −20. Se você falhar, você perde todas as habilidades psi pela duração da droga. Se tiver sucesso, você ainda sofre um modificador −30 em Testes de Psi. Personagens sob efeito do inibidor têm uma expressão vidrada e dopada, e dificuldade para ficarem animados ou emotivos.
 
 **Psi-Abertura:** As drogas de psi-abertura são variantes da cepa Watts-MacLeod com um efeito temporário que não altera permanentemente o cérebro do usuário. A psi-abertura temporariamente lhe dá o efeito de um truque psi-qui específico; cada tipo de psi-abertura é personalizado para um truque específico. No entanto, os usuários frequentemente estão sujeitos a alucinações (a critério do MJ). Quando o efeito acabar, sofra VE 1d6.
 
-**Psi-Coice:** O psi-coice funciona como uma psi-abertura, exceto que ele copia a função de um truque psi-gama específico. Ele também aumenta sua habilidade psíquica latente. Os não assincro sem a perícia Psi podem recorrer com VON × 2. Por esta razão, psi-coice é geralmente usado em conjunto com psicador. Usar psi-coice é uma experiência alucinante. Receba VE 1d10 + 2 depois que o efeito acabar.
+**Psi-Coice:** O psi-coice funciona como uma psi-abertura, exceto que ele copia a função de um truque psi-gama específico. Ele também aumenta sua habilidade psíquica latente. Os não assincro sem a perícia Psi podem recorrer com VON × 2. Por essa razão, psi-coice é geralmente usado em conjunto com psicador. Usar psi-coice é uma experiência alucinante. Receba VE 1d10 + 2 depois que o efeito acabar.
 
 **Psicador:** O psicador reforça as habilidades psi do assincro. Aplique um modificador +10 em testes da perícia Psi pela duração da droga.
 
@@ -247,9 +247,9 @@ Essas drogas competem com pétalas e XP como passatempos populares.
 | Haxixe Orbital     | Bioquímica | Qualquer  | 3 horas  |                        —                        |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.          |
 | CBD                | Bioquímica | Qualquer  | 3 horas  |                        —                        |                 Mod/2                 | Ignore 1 trauma e 1 ferimento, +10 em Provas de VON, Comportamento Acentuado: Calma (2). |
 
-**Buzz:** Esta variante geneticamente modificada de BZ é um alucinógeno inodoro, invisível e poderoso. Por toda sua duração, você sofre alucinações extremamente realistas. Suas alucinações são suscetíveis às sugestões dos outros (−30 em Provas de SAG/VON para se opor a Persuasão ou Provocação); usuário frequentemente “compartilham” alucinações descritas uns com os outros. Em seguida, você sofre um modificador −30 em Provas de COG para recordar o que aconteceu enquanto estava sob o efeito.
+**Buzz:** Essa variante geneticamente modificada de BZ é um alucinógeno inodoro, invisível e poderoso. Por toda sua duração, você sofre alucinações extremamente realistas. Suas alucinações são suscetíveis às sugestões dos outros (−30 em Provas de SAG/VON para se opor a Persuasão ou Provocação); usuário frequentemente “compartilham” alucinações descritas uns com os outros. Em seguida, você sofre um modificador −30 em Provas de COG para recordar o que aconteceu enquanto estava sob o efeito.
 
-**Mono No Aware:** Chamada pelo termo japonês para a tristeza pela efemeridade das coisas mundanas, esta droga, geralmente consumida como um chá, é um depressivo que induz um estado meditativo. Mono no aware fornece um modificador +10 em perícias de Artes. Com uso frequente, mono no aware reage com os pigmentos da pele criando uma palidez com toque levemente azulado, mesmo em morfos com pele escura.
+**Mono No Aware:** Chamada pelo termo japonês para a tristeza pela efemeridade das coisas mundanas, essa droga, geralmente consumida como um chá, é um depressivo que induz um estado meditativo. Mono no aware fornece um modificador +10 em perícias de Artes. Com uso frequente, mono no aware reage com os pigmentos da pele criando uma palidez com toque levemente azulado, mesmo em morfos com pele escura.
 
 **Haxixe Orbital:** O Sr. H é maconha cultivada no espaço utilizando iluminação poderosa e hidroponia avançada. Como o espaço é um luxo em habitats e barcaças da ralé, blocos de haxixe são o modo preferido de transporte e uso. No entanto, para os ricos e nos planetas, botões em forma de folha não são incomuns. Quando está chapado, você ignora os efeitos de 1 trauma, mas sofre uma penalidade −10 em Testes de Saber e Provas de COG relacionadas à memória. Usuários de haxixe exibem olhos injetados, comportamento letárgico e larica.
 
@@ -257,7 +257,7 @@ Essas drogas competem com pétalas e XP como passatempos populares.
 
 ## Drogas Sociais
 
-Estes lubrificantes sociais modificam suas interações com os outros.
+Esses lubrificantes sociais modificam suas interações com os outros.
 
 | DROGAS SOCIAIS |    Tipo    | Aplicação | Duração  | Mod/<!-- CLEANED wbr -->Tipo de Vício | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:-------------- |:----------:|:---------:|:--------:|:-----------------------------------------------:|:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
@@ -274,11 +274,11 @@ Estes lubrificantes sociais modificam suas interações com os outros.
 
 **Sumo:** Esse potente antidepressivo torna quase impossível ter sentimentos ruins ou pensamentos negativos. Você fica incrivelmente feliz e positivo — geralmente de forma irritante ou estranha. Você recebe um modificador +30 em Provas de SAG/VON contra medo ou tentativas de manipular suas emoções para a negatividade. Você ganha o traço Comportamento Acentuado: Felicidade (Nível 3). Sob a influência do sumo, você pode agir inapropriadamente, como dar risadinhas a respeito de uma enorme quantidade de sangue derramado ou alegremente mudar de assunto para tópicos fúteis quando alguém está pirando.
 
-**Não-Fode:** Esta droga diminui suas inibições e eleva sua determinação. Os usuários de não-fode sabem o que querem e estão determinados a conseguirem. Ganhe 1 na parada de Manha pela duração.
+**Não-Fode:** Essa droga diminui suas inibições e eleva sua determinação. Os usuários de não-fode sabem o que querem e estão determinados a conseguirem. Ganhe 1 na parada de Manha pela duração.
 
-**Firmeza:** Geralmente usado como uma pastilha de menta, esta droga deixa você mais confiante e decidido. Você recebe um modificador +10 em Provas de SAG/VON contra Persuasão e Provocação. Você também adquire o traço Comportamento Acentuado: Teimosia (Nível 2).
+**Firmeza:** Geralmente usado como uma pastilha de menta, essa droga deixa você mais confiante e decidido. Você recebe um modificador +10 em Provas de SAG/VON contra Persuasão e Provocação. Você também adquire o traço Comportamento Acentuado: Teimosia (Nível 2).
 
-**Tongzhi:** Chamada pelo antigo termo em mandarim para “camarada”, a tongzhi encoraja a cooperação e o encorajamento, enquanto minimiza atitudes competitivas. Ela era uma droga popular em muitas hipercorps antes da Queda e obrigatória para sua mão de obra. Esta droga fornece +10 em Cinésica, assim como +10 em Persuasão quando trabalhar para interesses em comum. Você ganha o traço Comportamento Acentuado: Cooperação (Nível 2).
+**Tongzhi:** Chamada pelo antigo termo em mandarim para “camarada”, a tongzhi encoraja a cooperação e o encorajamento, enquanto minimiza atitudes competitivas. Ela era uma droga popular em muitas hipercorps antes da Queda e obrigatória para sua mão de obra. Essa droga fornece +10 em Cinésica, assim como +10 em Persuasão quando trabalhar para interesses em comum. Você ganha o traço Comportamento Acentuado: Cooperação (Nível 2).
 
 ## Toxinas
 
@@ -295,13 +295,13 @@ As propriedades tóxicas de substâncias biológicas e químicas podem ser usada
 
 **BTX<sup>2</sup>:** Também chamada “mordida de sapo”, a BTX<sup>2</sup> é uma variante geneticamente aprimorada da batracotoxina, uma cardiotoxina e neurotoxina extremamente potente. Ela leva a uma rápida paralisia e parada cardíaca, que geralmente mata o alvo em alguns turnos de ação. Os personagens afetados sofrem VD 2d10 + 10 por 3 turnos de ação; os medicadores reduzem esse dano à metade. Você também deve fazer uma Prova de SOM ou ficar imobilizado por 1 hora.
 
-**Gás CR:** Este potente agente incapacitante causa tremor ocular e cegueira temporária, tosse forte e dificuldade respiratória, irritação da pele, e pânico. Personagens afetados sofrem VD 1d6, um modificador −30 em Testes de Percepção baseados em visão, e um modificador −20 de debilitação em todas as outras ações por 20 minutos.
+**Gás CR:** Esse potente agente incapacitante causa tremor ocular e cegueira temporária, tosse forte e dificuldade respiratória, irritação da pele, e pânico. Personagens afetados sofrem VD 1d6, um modificador −30 em Testes de Percepção baseados em visão, e um modificador −20 de debilitação em todas as outras ações por 20 minutos.
 
-**Temoral:** Esta droga é derivada de feromônios liberados pelo medo e usada para provocar a inquietação e até o terror. Faça uma Prova de VON ou sofra um ataque de pânico, infligindo VE 1d10. Você também sofre um modificador −30 para resistir a intimidação e manipulações emocionais baseadas em medo por 1 hora.
+**Temoral:** Essa droga é derivada de feromônios liberados pelo medo e usada para provocar a inquietação e até o terror. Faça uma Prova de VON ou sofra um ataque de pânico, infligindo VE 1d10. Você também sofre um modificador −30 para resistir a intimidação e manipulações emocionais baseadas em medo por 1 hora.
 
-**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, esta toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](#chemicals)) seja aplicado.
+**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, essa toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](#chemicals)) seja aplicado.
 
-**Oxitocina-A:** Esta é uma variante geneticamente aprimorada de oxitocina, que induz confiança. Aplique um modificador −30 em Provas de VON e Testes de Cinésica em que confiança for um fator.
+**Oxitocina-A:** Essa é uma variante geneticamente aprimorada de oxitocina, que induz confiança. Aplique um modificador −30 em Provas de VON e Testes de Cinésica em que confiança for um fator.
 
 **Espástico:** O espástico é um agente convulsivo, um gás nervoso não letal. Aplique um modificador −20 em todas as ações e faça um Prova de SOM ou fique incapacitado com fortes tremores musculares por 10 minutos.
 
@@ -320,10 +320,10 @@ Estas infestações temporárias de nanobots causam danos ou debilitação.
 | Neuropatia   | Nano | D, Inj, O | 8 horas  |                Mod/R/2                | Agonia, −30 em ações, Prova de VON vs. incapacitação. |
 | Quebra-Nozes | Nano |  Inj, O   | 6 horas  |                Mai/R/3                | Destrói a pilha cortical.                             |
 
-**Disrupção:** Esta nanotoxina ataca as bainhas de mielina dos nervos, interrompendo os impulsos nervosos e infligindo sintomas de esclerose múltipla (visão, força muscular e coordenação debilitadas). A cada hora, você sofre um modificador −5 cumulativo em todas as ações. Se o modificador total atingir ou exceder sua Durabilidade, você está paralisado e catatônico (incapacitado). Esses modificadores só podem ser reduzidos com um tempo regenerativo em um tanque de cura (1 hora por −5).
+**Disrupção:** Essa nanotoxina ataca as bainhas de mielina dos nervos, interrompendo os impulsos nervosos e infligindo sintomas de esclerose múltipla (visão, força muscular e coordenação debilitadas). A cada hora, você sofre um modificador −5 cumulativo em todas as ações. Se o modificador total atingir ou exceder sua Durabilidade, você está paralisado e catatônico (incapacitado). Esses modificadores só podem ser reduzidos com um tempo regenerativo em um tanque de cura (1 hora por −5).
 
 **Necrose:** Os nanobots de necrose atacam as paredes das células dentro do corpo, matando tecidos. Essa nanotoxina inflige VD 1d6 por turno de ação por um minuto, depois disso os nanobots são desativados e saem do corpo.
 
-**Neuropatia:** Estes nanobots estimulam receptores de dor em um nível sistêmico, infligindo agonia. Sofra −30 em todas as ações pela agonia infligida e faça uma Prova de VON ou fique incapacitado por 8 horas. Qualquer coisa que permita que você ignore modificadores de ferimentos pode ser usada para reduzir o modificador de dor em 10.
+**Neuropatia:** Esses nanobots estimulam receptores de dor em um nível sistêmico, infligindo agonia. Sofra −30 em todas as ações pela agonia infligida e faça uma Prova de VON ou fique incapacitado por 8 horas. Qualquer coisa que permita que você ignore modificadores de ferimentos pode ser usada para reduzir o modificador de dor em 10.
 
 **Quebra-Nozes:** Os quebra-nozes são nanobots projetados para localizar sua pilha cortical e desmantelar a estrutura diamantada. Esse processo leva aproximadamente 6 horas, depois disso a pilha cortical está destruída. Esses nanobots também atacam as conexões da pilha cortical com o (ciber)cérebro e os nanobots de mapeamento cerebral. Após 1 hora, você estará ciente de que sua pilha cortical e laço neural estão sofrendo danos. Após 3 horas, todas as conexões estarão cortadas e a pilha cortical não registrará mais backups.
