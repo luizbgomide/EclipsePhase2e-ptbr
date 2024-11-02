@@ -40,7 +40,7 @@ Armamentos implantados podem ser combinados com enguiware para produzir choques 
 
 **Enguiware:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (equipaware) permitem que você atordoe com um toque chocante. Enguiwares podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
-**Espeto de Pistão:** Este espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
+**Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
 
 **Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por orifícos ocultos.
 
@@ -50,11 +50,11 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Bastão:** Bastões englobam uma grande variedade de objetos contundentes de uma mão, desde cassetetes até porretes e canos.
 
-**Luvas Densiplast:** Estas luvas ficam super-rígidas quando ativadas, para um soco mais potente. Uma luva em cada mão conta como uma única arma.
+**Luvas Densiplast:** Essas luvas ficam super-rígidas quando ativadas, para um soco mais potente. Uma luva em cada mão conta como uma única arma.
 
 **Machado Diamantado:** Comum em muitos habitats para fins de incêndios e emergências, machados precisam de duas mãos para serem usados. Suas lâminas são revestidas de diamante para uma melhor capacidade de corte.
 
-**Bastão Extensível:** Este bastão composto endurecido retrai em sua empunhadura para facilitar o transporte, armazenamento e ocultação. Estendê-lo requer apenas um movimento de pulso ou sinal eletrônico.
+**Bastão Extensível:** Esse bastão composto endurecido retrai em sua empunhadura para facilitar o transporte, armazenamento e ocultação. Estendê-lo requer apenas um movimento de pulso ou sinal eletrônico.
 
 **Cortador Flex:** A lâmina dessa arma parecida com um facão é feita de um polímero de memória. Quando desativada, a lâmina é cega e flexível, e pode ser enrolada ou ocultada facilmente. Quando ativada, a lâmida fica rígida e afiada tornando-se uma terrível arma de corte.
 
@@ -70,7 +70,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Luva de Choque:** Quando ativada, essa luva provoca um choque incapacitante junto com cada soco, agarramento ou toque.
 
-**Vibrolâmina:** Estas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
+**Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
 
 **Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
@@ -88,7 +88,7 @@ Um personagem que faz um movimento total e ataque de luta no mesmo turno de aç�
 
 ### Agarramentos
 
-Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Extensão. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora neste caso você possa optar não causar).
+Você deve declarar sua intenção de agarrar um oponente antes de fazer a rolagem. Você pode agarrar com uma arma na mão, mas você não recebe o modificador de Extensão. Se o seu oponente for de uma categoria maior/menor de tamanho e/ou tiver 2 membros a mais/menos do que você, aplique um modificador +/−20 conforme apropriado. Você não pode agarrar alvos maiores que você por duas ou mais categorias de tamanho. Ataques de agarramento não causam dano a não ser que você role um sucesso crítico (embora nesse caso você possa optar não causar).
 
 Se você tiver sucesso em seu ataque com um sucesso maior, você subjuga seu oponente (ele adquire a condição agarrado). Um oponente agarrado está temporariamente preso e sua Taxa de Movimento é 0. Ele pode se comunicar, usar perícias mentais/psi e fazer ações da mesh, mas ele não pode fazer qualquer ação física além de tentar se libertar. (A critério do MJ, ele pode fazer ações físicas pequenas e contidas, como pegar algo no bolso ou nas proximidades, mas isso pode exigir uma Prova de SOM ou outro teste).
 
@@ -105,7 +105,7 @@ Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer
 
 ## Múltiplos Alvos
 
-Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Estes ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
+Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Esses ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
 
 ## Extensão
 
