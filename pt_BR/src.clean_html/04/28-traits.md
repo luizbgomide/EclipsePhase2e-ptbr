@@ -94,9 +94,9 @@ Você se ajusta a novos morfos rapidamente. Aplique um modificador +10 por níve
 
 **Traço de ▲ Ego • Custo PP: 4**
 
-Você ou faz parte ou tem uma relação com um grupo que o apoia. Este pode ser a sua velha equipe de desbravamento, ex-colegas do laboratório de pesquisa, uma gangue criminosa, um esquadrão mercenário, uma panelinha social da elite, ou algo similar. O grupo em si deve ser pequeno — 5 a 20 membros é o ideal, mas certamente não mais que 50 — embora ele possa fazer parte de uma organização maior (como um cartel ou hipercorp). Ele também não deve ser excessivamente influente ou poderoso (sem líderes do Ozma ou uma liga secreta de oligarcas). Trabalhe com seu MJ para estabelecer sua história e relacionamento com este grupo e por que você pedir auxílio a eles.
+Você ou faz parte ou tem uma relação com um grupo que o apoia. Ele pode ser a sua velha equipe de desbravamento, ex-colegas do laboratório de pesquisa, uma gangue criminosa, um esquadrão mercenário, uma panelinha social da elite, ou algo similar. O grupo em si deve ser pequeno — 5 a 20 membros é o ideal, mas certamente não mais que 50 — embora ele possa fazer parte de uma organização maior (como um cartel ou hipercorp). Ele também não deve ser excessivamente influente ou poderoso (sem líderes do Ozma ou uma liga secreta de oligarcas). Trabalhe com seu MJ para estabelecer sua história e relacionamento com esse grupo e por que você pode pedir auxílio a eles.
 
-Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como um [favor](../15/13-networking.md#favors) de rep moderado com sucesso automático. Sua conexão com este grupo é uma mão dupla — espera-se que você também faça tarefas para o grupo ocasionalmente. Os MJs deve ter cuidado para que ou uso dos aliados não sejam exagerado ou abusado, e eles podem servir como fonte de ganchos para trama e missões secundárias.
+Uma vez por sessão, você pode contar com o apoio desse grupo. Trate isso como um [favor](../15/13-networking.md#favors) de rep moderado com sucesso automático. Sua conexão com esse grupo é uma mão dupla — espera-se que você também faça tarefas para o grupo ocasionalmente. Os MJs deve ter cuidado para que ou uso dos aliados não sejam exagerado ou abusado, e eles podem servir como fonte de ganchos para trama e missões secundárias.
 
 ### Empatia com Animais
 
@@ -132,7 +132,7 @@ Você possui um sexto sentido intuitivo que o alerta para ameaças iminentes. El
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Este traço só está disponível para infomorfos. Sem as restrições do mundo físico, você reduz prazos para ações de tarefas baseadas na mesh em 25%; isso é cumulativo com os prazos reduzidos de sucessos maiores.
+Esse traço só está disponível para infomorfos. Sem as restrições do mundo físico, você reduz prazos para ações de tarefas baseadas na mesh em 25%; isso é cumulativo com os prazos reduzidos de sucessos maiores.
 
 ### Sentido Direcional
 
@@ -162,7 +162,7 @@ Você se conecta instintivamente com os outros. Aplique +5 por nível em Provas 
 
 **Traço de ▲ Ego • Custo PP: 2**
 
-Você recebeu treinamento extensivo em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Este traço não aumenta a perícia, ele apenas aumenta o máximo.
+Você recebeu treinamento extensivo em um assunto específico. Você pode elevar uma perícia acima de 80, até o máximo de 90, durante a criação de personagem. Esse traço não aumenta a perícia, ele apenas aumenta o máximo.
 
 ### Alto Desempenho
 
@@ -186,25 +186,25 @@ Você está acostumado a traumas, mas isso marcou você. Você é imune ao estre
 
 **Traço de ▲ Ego • Custo PP: 1/2/3**
 
-Você tem um dom natural com estruturas linguísticas e sintaxe. Você recebe um modificador +10 em Provas de INT por nível para captar o sentido geral ou intenção de comunicação falada em línguas que você não conhece — até mesmo línguas alienígenas. Este traço não fornece bônus a textos escritos ou comunicações não verbais (como os esporos de Factores).
+Você tem um dom natural com estruturas linguísticas e sintaxe. Você recebe um modificador +10 em Provas de INT por nível para captar o sentido geral ou intenção de comunicação falada em línguas que você não conhece — até mesmo línguas alienígenas. Esse traço não fornece bônus a textos escritos ou comunicações não verbais (como os esporos de Factores).
 
 ### Sistema Imune Aperfeiçoado
 
 **Traço de ▼ Morfo • Custo PM: 1/2**
 
-Este traço só está disponível para biomorfos. Seu sistema imune é robusto. Aplique um modificador +10 por nível para resistir aos efeitos de químicos, doenças, drogas e toxinas.
+Esse traço só está disponível para biomorfos. Seu sistema imune é robusto. Aplique um modificador +10 por nível para resistir aos efeitos de químicos, doenças, drogas e toxinas.
 
 ### Aparência Genérica
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Graças os designs produzidos em massa e os semblantes esculpidos de estrelas da mídia, sua aparência padronizada é tão mundana que chega a ser indistinguível. É difícil perceber o seu rosto comum na multidão, descrever sua aparência, ou lembrar seus detalhes físicos. Aplique um modificador −10 em testes feitos para detectar, descrever ou lembrar-se de você; isso não se aplica a pesquisas psi ou da mesh. Este traço não pode ser aplicado a qualquer morfo com uma Disponibilidade menor que 50.
+Graças os designs produzidos em massa e os semblantes esculpidos de estrelas da mídia, sua aparência padronizada é tão mundana que chega a ser indistinguível. É difícil perceber o seu rosto comum na multidão, descrever sua aparência, ou lembrar seus detalhes físicos. Aplique um modificador −10 em testes feitos para detectar, descrever ou lembrar-se de você; isso não se aplica a pesquisas psi ou da mesh. Esse traço não pode ser aplicado a qualquer morfo com uma Disponibilidade menor que 50.
 
 ### Letalidade
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Este morfo causa mais dano em combate de luta. Adicione +1d6&nbsp;VD em todas as rolagens de dano de luta.
+Esse morfo causa mais dano em combate de luta. Adicione +1d6&nbsp;VD em todas as rolagens de dano de luta.
 
 ### Flexibilidade
 
@@ -222,19 +222,19 @@ Você está acostumado a um tipo específico de morfo (ex.: quicantes, ferrosos,
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Este traço só está disponível para biomorfos. O morfo tem uma imunidade natural a uma droga, doença ou toxina específica. Quando afligido por esse químico, veneno ou patógeno específico, você não é afetado. Trabalhe com o seu MJ para selecionar um agente adequado; essa imunidade pode não ser aplicada a nanodrogas ou nanotoxinas.
+Esse traço só está disponível para biomorfos. O morfo tem uma imunidade natural a uma droga, doença ou toxina específica. Quando afligido por esse químico, veneno ou patógeno específico, você não é afetado. Trabalhe com o seu MJ para selecionar um agente adequado; essa imunidade pode não ser aplicada a nanodrogas ou nanotoxinas.
 
 ### Tolerância à Dor
 
 **Traço de ▲ Ego ou ▼ Morfo • Custo PP/PM: 2/4**
 
-Você tem um limiar alto para dor, possibilitando que você ignore os efeitos da dor nas suas habilidades e concentração. Você ignora o modificador −10 por 1 ferimento por nível. Este traço é compatível com outros efeitos de resistência à dor, mas um máximo de 3 efeitos de ferimentos pode ser ignorado.
+Você tem um limiar alto para dor, possibilitando que você ignore os efeitos da dor nas suas habilidades e concentração. Você ignora o modificador −10 por 1 ferimento por nível. Esse traço é compatível com outros efeitos de resistência à dor, mas um máximo de 3 efeitos de ferimentos pode ser ignorado.
 
 ### Patrono
 
 **Traço de ▲ Ego • Custo PP: 6**
 
-Há uma pessoa influente na sua vida em que você pode confiar para apoio ocasional. Ela pode ser uma familiar rico da hiperelite, um chefão da tríade, ou um socializador anarquista com uma reputação imbatível. Quando chamado, esse patrono mexer os pauzinhos, fornecer recursos, fazer apresentações, ou tirar você de uma enrascada. Trabalhe com o seu MJ para definir este PNJ, sua relação e por que ele o apoia (obrigação familiar? amigos de infância? você salvou a vida dele?).
+Há uma pessoa influente na sua vida em que você pode confiar para apoio ocasional. Ela pode ser uma familiar rico da hiperelite, um chefão da tríade, ou um socializador anarquista com uma reputação imbatível. Quando chamado, esse patrono mexer os pauzinhos, fornecer recursos, fazer apresentações, ou tirar você de uma enrascada. Trabalhe com o seu MJ para definir esse PNJ, sua relação e por que ele o apoia (obrigação familiar? amigos de infância? você salvou a vida dele?).
 
 O patrono fornece um [favor](../15/13-networking.md#favors) maior gratuito por arco de história, nenhum teste é necessário. Os MJs devem ter cuidado para que esse traço não seja abusado. Favores pequenos estão abaixo da preocupação do patrono. Se o personagem pedir demais ou muito frequentemente, o apoio do patrono pode se esgotar. Às vezes, o patrono também pode pedir favores ao personagem.
 
@@ -268,7 +268,7 @@ Ou seu morfo é veloz ou você se aproveita ao máximo da agilidade dele. Apliqu
 
 **Traço de ▼ Morfo • Custo PM: 1**
 
-Este traço só está disponível para biomorfos. O morfo se recupera de danos mais rapidamente. Reduza os prazos de [cura](../12/17-healing-and-repair.md) à metade.
+Esse traço só está disponível para biomorfos. O morfo se recupera de danos mais rapidamente. Reduza os prazos de [cura](../12/17-healing-and-repair.md) à metade.
 
 ### Determinação
 
@@ -342,7 +342,7 @@ Você é muito bom com números. Aplique um modificador +10 por nível em Testes
 
 **Traço de ▼ Morfo • Custo PM: 2/4**
 
-Esta morfo aguenta mais abuso físico do que outros de seu tipo. Para cada nível, aumente a Durabilidade em 5. Isso também aumentará o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
+Este morfo aguenta mais abuso físico do que outros de seu tipo. Para cada nível, aumente a Durabilidade em 5. Isso também aumentará o Limiar de Ferimento (igual a DUR ÷ 5) e o Grau de Destruição (DUR × 1,5 para biomorfos, DUR × 2 para sintemorfos).
 
 ### Zoosemiótica
 
@@ -447,13 +447,13 @@ Cada vício assume formas diferentes, dependendo do personagem e da fonte. O ví
 
 Você pode se livrar da dependência ficando limpo por 1 semana por nível. No entanto, resistir à fissura requer uma Prova de VON todos os dias, modificada pelo modificador de vício da fonte. Mesmo quando estiver livre do vício, sempre há a possibilidade de uma recaída. O MJ pode pedir Provas de VON sempre que você passar por tentação direta, ou por um estresse substancial ou trauma mental.
 
-Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanecem com seu ego/forque; vícios físicos permanecem com o morfo. Este traço pode ser escolhido mais de uma vez para vícios diferentes. A versão de morfo desse traço só se aplica a biomorfos.
+Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanecem com seu ego/forque; vícios físicos permanecem com o morfo. Esse traço pode ser escolhido mais de uma vez para vícios diferentes. A versão de morfo desse traço só se aplica a biomorfos.
 
 ### Velhice
 
 **Traço de ▼ Morfo • Bônus PM: 4**
 
-Este traço só pode ser aplicado em morfos intocados e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
+Esse traço só pode ser aplicado em morfos intocados e tratados. O morfo está fisicamente envelhecido e não foi rejuvenescido. Morfos idosos são cada vez mais incomuns, apesar de algumas pessoas os utilizarem esperando obter um ar de senioridade e respeitabilidade. Aplique um modificador −10 em todas as ações físicas.
 
 ### Má Sorte
 
@@ -465,13 +465,13 @@ O universo parece puni-lo com uma frequência surpreendente. Você não pode usa
 
 **Traço de ▲ Ego • Bônus PP: 1/4**
 
-Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Este traço pode ser escolhido mais de uma vez para redes de rep diferentes.
+Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Esse traço pode ser escolhido mais de uma vez para redes de rep diferentes.
 
 ### Mácula
 
 **Traço de ▲ Ego • Bônus PP: 1/2/3**
 
-Você fez algo em seu passado que maculou sua reputação com uma facção específica, e que continua a assombrar suas interações. Aplique um modificador −10 por nível para interações de redes de rep e testes de perícias sociais envolvendo essa facção. Este traço pode ser escolhido mais de uma vez para facções diferentes.
+Você fez algo em seu passado que maculou sua reputação com uma facção específica, e que continua a assombrar suas interações. Aplique um modificador −10 por nível para interações de redes de rep e testes de perícias sociais envolvendo essa facção. Esse traço pode ser escolhido mais de uma vez para facções diferentes.
 
 ### Paralisia de Combate
 
@@ -509,13 +509,13 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 3:** O comportamento é forçado; emoções são compulsórias e contínuas. Se a conduta ou a emoção forem reprimidas, sofra VE 1d6.
 
-Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
+Esse traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 ### Morfologia Exótica
 
 **Traço de ▼ Morfo • Bônus PM: 2/4/6**
 
-Este morfo é bastante diferente fisiologicamente (e possivelmente neurologicamente) das formas humanoides comuns que a maioria dos transumanos estão acostumados a encapar. Você recebe um modificador −10 por nível em [Testes de Integração](../15/02-resleeving.md#integration-test) quando encapar esse morfo. Esse modificador não se aplica ao morfo original de personagens elevados ou infovida. Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
+Esse morfo é bastante diferente fisiologicamente (e possivelmente neurologicamente) das formas humanoides comuns que a maioria dos transumanos estão acostumados a encapar. Você recebe um modificador −10 por nível em [Testes de Integração](../15/02-resleeving.md#integration-test) quando encapar esse morfo. Esse modificador não se aplica ao morfo original de personagens elevados ou infovida. Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
 ### Fraqueza
 
@@ -533,13 +533,13 @@ O morfo não é tão resistente quanto modelos similares. Reduza a Durabilidade 
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Este traço só está disponível para intocados. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
+Esse traço só está disponível para intocados. O morfo não foi genecorrigido e sofre de um transtorno genético ou de outra mutação debilitante. Trabalhe com o seu MJ para definir um defeito apropriado ao seu jogo. Algumas possibilidades incluem: doença cardíaca, diabetes, fibrose cística, anemia falciforme, hipertensão, hemofilia ou daltonismo. O Nível 1 se aplica a transtornos genéticas que criam pequenas complicações e/ou problemas de saúde ocasionais (aplique um modificador de debilitação −10 em certas circunstâncias). O Nível 2 é para defeitos que prejudicam significativamente o funcionamento ou causam problemas crônicos de saúde (um modificador de debilitação −10 contínuo ou −20 ocasional). O MJ determina os efeitos exatos do transtorno em jogo.
 
 ### Hipersensibilidade
 
 **Traço de ▼ Morfo • Bônus PM: 3**
 
-Este traço só está disponível para biomorfos. Este morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser melhorado com nenhum bioware, cyberware, ou nanoware adicional.
+Esse traço só está disponível para biomorfos. Esse morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser melhorado com nenhum bioware, cyberware, ou nanoware adicional.
 
 ### Crise de Identidade
 
@@ -557,13 +557,13 @@ Sua consciência social geralmente é falha. Você sofre −5 por nível em Prov
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Este traço só está disponível para biomorfos.
+Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Esse traço só está disponível para biomorfos.
 
 ### Falhas Inerentes
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Este traço só está disponível para sintemorfos. Este morfo específico tem algumas falhas irreparáveis e inevitavelmente se degrada. Sempre que rolar uma falha crítica, há 10% de probabilidade de que o morfo também adquira um ferimento.
+Esse traço só está disponível para sintemorfos. Esse morfo específico tem algumas falhas irreparáveis e inevitavelmente se degrada. Sempre que rolar uma falha crítica, há 10% de probabilidade de que o morfo também adquira um ferimento.
 
 ### Instabilidade
 
@@ -585,7 +585,7 @@ Além disso, você sofre um modificador de −30 em Provas de SOM e outros teste
 
 As memórias de um ego anterior de alguma forma sobreviveram ao processo de limpeza e persistem no cérebro ou na aparelhagem deste morfo. Uma vez por sessão, uma memória do ocupante anterior ressurge em sua mente. Essas lembranças muitas vezes são carregadas emocionalmente e desconcertantes; faça uma Prova de COG ou sofra VE 1d6. Essas memórias estão integradas às suas, embora possam ser apagadas com psicocirurgia.
 
-Trabalhe com seu MJ para decidir as particularidades das memórias. Os MJs devem usar estes incidentes de lembranças na trama; eles podem revelar dados confidenciais, evidências incriminatórias, segredos ocultos do público, ou detalhes que o ego anterior não queria divulgar.
+Trabalhe com seu MJ para decidir as particularidades das memórias. Os MJs devem usar esses incidentes de lembranças na trama; eles podem revelar dados confidenciais, evidências incriminatórias, segredos ocultos do público, ou detalhes que o ego anterior não queria divulgar.
 
 ### Transtorno Mental
 
@@ -635,7 +635,7 @@ Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem 
 
 **Traço de ▼ Morfo • Bônus PM: 2/4**
 
-Este traço só está disponível para biomorfos. Este morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
+Esse traço só está disponível para biomorfos. Esse morfo possui diferenças fisiológicas e genéticas substanciais dos morfos humanos. O Nível 1 se aplica a morfos não humanos. O Nível 2 se aplica a morfos não mamíferos. Aplique um modificador −10 por nível em Testes de Medicina. Certas drogas, toxinas, químicos ou procedimentos médicos podem não funcionar ou podem ter um efeito diferente (a critério do MJ). Esse traço não pode ser aplicado em morfos que não o possuem por padrão.
 
 ### Desatenção
 
@@ -653,7 +653,7 @@ Você não é lá muito esperto. Aplique um modificador −5 por nível em Prova
 
 **Traço de ▼ Morfo • Bônus PM: 1**
 
-O morfo é projetado de tal forma que necessita de serviços de geneterapia ou manutenção proprietária para seu desempenho não se degradar. Trate isso como um serviço de Complexidade Moderada necessário a cada mês. Para cada mês sem o serviço, reduza as paradas do morfo em 1 (o MJ escolhe qual parada). Se as paradas forem reduzidas a 0, o morfo recebe 1 ferimento por mês que pode não ser reparado ou curado. Estes se manifestam como uma dores nas juntas, degradação neural, tumores e outros males. Quando 4 ferimentos forem acumulados, o morfo estará incapacitado. Uma geneterapia ou sessão de manutenção de um provedor de serviços licenciado da hipercorp (ou um pirata do mercado negro) vai restaurar o morfo à funcionalidade total.
+O morfo é projetado de tal forma que necessita de serviços de geneterapia ou manutenção proprietária para seu desempenho não se degradar. Trate isso como um serviço de Complexidade Moderada necessário a cada mês. Para cada mês sem o serviço, reduza as paradas do morfo em 1 (o MJ escolhe qual parada). Se as paradas forem reduzidas a 0, o morfo recebe 1 ferimento por mês que pode não ser reparado ou curado. Esses se manifestam como uma dores nas juntas, degradação neural, tumores e outros males. Quando 4 ferimentos forem acumulados, o morfo estará incapacitado. Uma geneterapia ou sessão de manutenção de um provedor de serviços licenciado da hipercorp (ou um pirata do mercado negro) vai restaurar o morfo à funcionalidade total.
 
 ### Baixa Coordenação
 
@@ -671,7 +671,7 @@ Seus instintos não lá são grande coisa. Sofra −5 por nível em Provas de IN
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Este traço só está disponível para sintemorfos. Este morfo foi construído com especificações não padronizadas, tornando a maioria das ferramentas e programas modernos incompatíveis. Essa é uma decisão consciente do projeto para tornar o usuário dependente do fabricante para reparos e atualizações. Os nanoenxames reparadores não funcionam nesse morfo e Testes de Aparelhagem: Robótica sofrem um modificador −20.
+Esse traço só está disponível para sintemorfos. Esse morfo foi construído com especificações não padronizadas, tornando a maioria das ferramentas e programas modernos incompatíveis. Essa é uma decisão consciente do projeto para tornar o usuário dependente do fabricante para reparos e atualizações. Os nanoenxames reparadores não funcionam nesse morfo e Testes de Aparelhagem: Robótica sofrem um modificador −20.
 
 ### Vulnerabilidade Psi
 
@@ -699,7 +699,7 @@ Sua conduta ou humor foram modificados. Isso pode ser devido ao condicionamento 
 
 **Nível 3:** Você é incapaz de tentar o comportamento; emoções são erradicadas. Se forçado a desempenhar a conduta ou a experimentar a emoção, sofra VE 1d6.
 
-Este traço pode ser escolhido mais de uma vez para comportamentos diferentes.
+Esse traço pode ser escolhido mais de uma vez para comportamentos diferentes.
 
 ### Sensitividade
 
@@ -711,7 +711,7 @@ O sistema operacional do seu cérebro possui vulnerabilidades que podem ser abus
 
 **Traço de ▼ Morfo • Bônus PM: 2/4**
 
-Este traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se for exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilitação −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Prova de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que receba cuidados médicos na forma de um Teste de Medicina: Paramedicina bem-sucedido).
+Esse traço só está disponível para biomorfos. A bioquímica do morfo sofre uma reação alérgica grave (anafilaxia) quando entra em contato (tocado, inalado ou ingerido) com um alérgeno específico. No Nível 1, o alérgeno pode ser incomum (certas drogas, picadas de insetos). No Nível 2, ele deve ser comum (poeira, pelos, pólen de planta, certos alimentos, nanoenxames, látex). Trabalhe com o seu MJ para selecionar um alérgeno que se encaixe no jogo. Se for exposto ao alérgeno, você desenvolve urticárias, tem dificuldade para respirar (modificador de debilitação −30 enquanto exposto e por 10 minutos depois), e deve fazer uma Prova de SOM ou entrar em choque anafilático (incapacitação, morrerá de insuficiência respiratória em 2d10 minutos, a menos que receba cuidados médicos na forma de um Teste de Medicina: Paramedicina bem-sucedido).
 
 ### Defeito Pericial
 
@@ -729,7 +729,7 @@ Sua força de vontade é fraca e você é facilmente intimidado. Aplique um modi
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Embora uma boa aparência esculpida seja facilmente adquirida, este morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência horrenda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
+Embora uma boa aparência esculpida seja facilmente adquirida, esse morfo é visivelmente feio ou mal desenhado, inspirando desgosto ou até mesmo repulsa nos outros. Aplique um modificador −10 em Testes de Persuasão e Provocação no qual sua aparência horrenda possa ser um fator. O Nível 1 desse traço só se aplica aos elevados e sintemorfos; o Nível 2 é para biomorfos humanoides.
 
 ### Vertigem de RV
 
@@ -741,10 +741,10 @@ Você sente uma vertigem intensa e náusea quando utiliza qualquer tipo de reali
 
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
-Este traço só está disponível para biomorfos. O sistema imune do morfo é facilmente comprometido. Aplique um modificador −10 por nível para resistir aos efeitos de doenças, drogas, químicos e toxinas.
+Esse traço só está disponível para biomorfos. O sistema imune do morfo é facilmente comprometido. Aplique um modificador −10 por nível para resistir aos efeitos de doenças, drogas, químicos e toxinas.
 
 ### Náusea em Zero-G
 
 **Traço de ▼ Morfo • Bônus PM: 2**
 
-Este traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
+Esse traço só está disponível para biomorfos. Esse morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
