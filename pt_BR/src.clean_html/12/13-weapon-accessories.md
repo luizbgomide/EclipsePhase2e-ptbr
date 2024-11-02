@@ -18,7 +18,7 @@ Os seguintes acessórios estão disponíveis para armas.
 
 **Deslizante de Braço:** Esse suporte deslizante pode segurar um arma de uma mão sob sua manga, levando a arma para sua mão com um sinal eletrônico ou sequência específica de movimentos do braço. Você pode sacar a arma e atacar com uma única ação complexa.
 
-**Pente Essendido:** Esse estojo de munição tem uma capacidade ampliada. Aumente a capacidade de munição da arma em 50%. Isso só está disponível para armas de fogo e de buscadores.
+**Pente Estendido:** Esse estojo de munição tem uma capacidade ampliada. Aumente a capacidade de munição da arma em 50%. Isso só está disponível para armas de fogo e de buscadores.
 
 **Giro-Suporte:** Esse arnês possui um suporte giro-estabilizado para arma que mantém a arma estável. Negando todos os modificadores de movimento.
 
