@@ -4,7 +4,7 @@ O que mais o seu personagem faz? Ele tinha uma carreira anterior, tem uma segund
 
 Seu interesse proporciona a você um pacote de perícias, assim como o seu antecedente e sua carreira.
 
-Este será o seu último pacote de perícias, embora você possa adquirir perícias extras ou ajustar as que você já adquiriu em passos posteriores.
+Esse será o seu último pacote de perícias, embora você possa adquirir perícias extras ou ajustar as que você já adquiriu em passos posteriores.
 
 <!--sorted-->
 ## Tratador de Animais
