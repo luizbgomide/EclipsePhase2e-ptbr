@@ -2,7 +2,7 @@
 
 Perícias de Saber representam informações que seu personagem adquiriu, coisas que eles sabem. Elas desempenham um papel menos dramático, mas são críticas para ajudar seu personagem a solucionar mistérios, compreender as situações, e descobrir o que fazer.
 
-Pontos atribuídos às perícias Ativas e de Saber não são intercambiáveis. Se você decidiu tirar pontos de uma perícia de Saber durante a criação de personagem, você só pode aplicar estes pontos extras em outra perícia de Saber.
+Pontos atribuídos às perícias Ativas e de Saber não são intercambiáveis. Se você decidiu tirar pontos de uma perícia de Saber durante a criação de personagem, você só pode aplicar esses pontos extras em outra perícia de Saber.
 
 ## Saber: \[Área\]
 
@@ -35,11 +35,11 @@ Use Acadêmicas para recorrer à sua educação. Por exemplo, Saber: Química po
 
 - **Aptidão Vinculada:** Intuição
 
-As áreas das Artes incluem vários modos de expressão artística e avaliação. Esta é uma perícia particularmente útil nas economias e clados onde a criatividade e a visão podem ser um componente chave da sua reputação.
+As áreas das Artes incluem vários modos de expressão artística e avaliação. Essa é uma perícia particularmente útil nas economias e clados onde a criatividade e a visão podem ser um componente chave da sua reputação.
 
 Use as áreas das Artes para dar vida à sua imaginação, criar uma obra de arte, criticar o estilo ou a performance de um artista, ou avaliar o valor de um projeto artístico.
 
-Observe que as áreas das Artes não devem ser usadas no lugar de perícias Ativas para enganar, influenciar ou convencer os outros. Criar uma ilusão de realidade aumentada realista requer a perícia Programação, incorporar uma mensagem subliminar em uma música ou discurso precisaria da perícia Enganação, fazer um discurso para convencer uma banca ou agitar uma multidão requer Persuasão ou Provocação. No entanto, as áreas das Artes podem ser usadas como [perícias complementares](#complementary-skills) nestes casos.
+Observe que as áreas das Artes não devem ser usadas no lugar de perícias Ativas para enganar, influenciar ou convencer os outros. Criar uma ilusão de realidade aumentada realista requer a perícia Programação, incorporar uma mensagem subliminar em uma música ou discurso precisaria da perícia Enganação, fazer um discurso para convencer uma banca ou agitar uma multidão requer Persuasão ou Provocação. No entanto, as áreas das Artes podem ser usadas como [perícias complementares](#complementary-skills) nesses casos.
 
 - **Exemplos de Áreas:** Arquitetura, Canto, Crítica, Dança, Desenho, Design de RA, Design de RV, Escultura, Escrita, Música, Oratória, Performance, Pintura, Teatro
 - **Especializações:** Conforme apropriado para a área
@@ -80,7 +80,7 @@ Use áreas Profissionais para lembrar de conhecimentos especializados disponíve
 
 Pode parecer que perícias de Saber tem menos aplicações no jogo do que perícias Ativas, mas elas não devem ser subestimadas. Elas possuem três grandes usos, o primeiro é analisar pistas e solucionar mistérios. Muitas aventuras de Eclipse Phase giram em torno dos perigos tecnológicos, encontros alienígenas e fenômenos científicos, e os personagens precisarão de uma boa variedade de perícias de Saber para desvendar o problema e encontrar soluções.
 
-Não menos importante, perícias de Saber são valiosas para ajudar os personagens — e os jogadores — a compreenderem o mundo de Eclipse Phase. Estas perícias podem ser usadas para avaliar uma situação, identificar pontos fortes e fracos, fazer planos, estimar valores, fazer comparações, prever resultados possíveis, ou compreender as ciências aplicadas, fatores socioeconômicos ou contextos culturais ou históricos. Dito isso, as perícias de Saber são ferramentas valiosas para os MJs ajudarem os jogadores, pedindo rolagens de perícias de Saber para ajudar a desenvolver detalhes do cenário do jogo que poderiam passar despercebidos ou não serem aparentes.
+Não menos importante, perícias de Saber são valiosas para ajudar os personagens — e os jogadores — a compreenderem o mundo de Eclipse Phase. Essas perícias podem ser usadas para avaliar uma situação, identificar pontos fortes e fracos, fazer planos, estimar valores, fazer comparações, prever resultados possíveis, ou compreender as ciências aplicadas, fatores socioeconômicos ou contextos culturais ou históricos. Dito isso, as perícias de Saber são ferramentas valiosas para os MJs ajudarem os jogadores, pedindo rolagens de perícias de Saber para ajudar a desenvolver detalhes do cenário do jogo que poderiam passar despercebidos ou não serem aparentes.
 
 Por exemplo, um grupo de jogadores novatos em Eclipse Phase poderiam não entender as pequenas distinções entres as diferentes facções, a relevância cultural de certas tecnologias ou o impacto potencial de uma nova descoberta científica no cenário — e poderiam nem pensar em perguntar. Os MJs podem e devem pedir Testes de Saber para fornecer informações relevantes.
 
