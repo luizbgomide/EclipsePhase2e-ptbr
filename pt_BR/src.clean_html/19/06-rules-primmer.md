@@ -189,7 +189,7 @@ Flex é uma parada curinga. Ela pode ser usada para afetar rolagens de dados de 
 - **Introduzir PNJ:** Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc.
 - **Introduzir um Item:** Um item previamente despercebido é adicionado à cena. A presença dele deve ser plausível. O item não pode ser ofensivo (nenhuma arma) e deve ser de Complexidade Menor (nem Raro e nem Restrito). Pode ser uma ferramenta útil, um equipamento necessário, ou até mesmo uma pista.
 - **Definir o Ambiente:** Você pode introduzir um fator ambiental à cena. A presença dele deve ser plausível. Ele deverá fornecer um novo detalhe que não altere drasticamente a cena. Exemplos incluem esconderijos, coberturas, distrações, abrigos ou elementos exploráveis, como uma escada ou janela.
-- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta conexão deve ser mais distante ou menor do que íntima ou séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga mas pequena.
+- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Essa conexão deve ser mais leve ou superficial do que próxima ou séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga, mas pequena.
 
 <!-- CLEANED /blockquote -->
 
