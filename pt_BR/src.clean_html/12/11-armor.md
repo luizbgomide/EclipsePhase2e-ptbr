@@ -37,7 +37,7 @@ A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo nív
 
 Cada tipo de armadura tem um Valor de Armadura (VA) com duas graduações — energética e cinética — representando a proteção que ela oferece contra o tipo respectivo de ataque. Essas estão listadas no formato de “armadura energética/armadura cinética”. Por exemplo, um item com armadura listada de “5/10” fornece 5 pontos de armadura contra ataques energéticos e 10 pontos de armadura contra ataques cinéticos.
 
-_Armadura energética_ protege contra armas de feixe (laser, micro-ondas, feixes de partículas, etc.), plasma, fogo, e explosivos de alta energia. Uma armadura que protege contra estes danos é feita de materiais que refletem ou dispersam tais energias, dissipam e transferem o calor, ou sofrem ablação.
+_Armadura energética_ protege contra armas de feixe (laser, micro-ondas, feixes de partículas, etc.), plasma, fogo, e explosivos de alta energia. Uma armadura que protege contra esses danos é feita de materiais que refletem ou dispersam tais energias, dissipam e transferem o calor, ou sofrem ablação.
 
 _Armadura cinética_ protege contra a transferência danosa de energia quando um objeto em movimento (um punho, faca, bastão ou bala, por exemplo) impacta com outro objeto (o alvo). A maioria dos ataques de luta e armas de fogo infligem danos cinéticos, assim como uma rocha rolando, um pêndulo balançando ou fragmentos lançados por explosões. Armaduras cinéticas incluem placas resistentes ao impacto, líquidos e géis dilatantes que endurecem com o impacto, e fibras balísticas e à prova de corte.
 
@@ -63,11 +63,11 @@ Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará sus
 
 **Blindagem Dérmica:** O morfo está equipado com uma camada densa de fibras balísticas e placas subdérmicos flexíveis. Isso não reduz a mobilidade, mas deixa a pele mais lisa e menos flexível (exceto nas juntas), e as áreas com placas são visivelmente levantadas. A percepção de tato do morfo sofre um modificador −20.
 
-**Blindagem de Combate Pesada:** Estas placas de blindagem volumosas e evidentes protegem contra armamento pesado para operações de combate intenso. Os sistemas de mobilidade e produção de energia da carcaça também são modificados para lidar com a massa extra.
+**Blindagem de Combate Pesada:** Essas placas de blindagem volumosas e evidentes protegem contra armamento pesado para operações de combate intenso. Os sistemas de mobilidade e produção de energia da carcaça também são modificados para lidar com a massa extra.
 
 **Blindagem Industrial:** Essa blindagem é projetada para proteger carcaças de colisões, climas extremos, acidentes industriais e desgastes semelhantes.
 
-**Blindagem de Combate Leve:** Este revestimento leve é comum em carcaças usadas para funções de segurança e policiamento.
+**Blindagem de Combate Leve:** Esse revestimento leve é comum em carcaças usadas para funções de segurança e policiamento.
 
 **Blindagem de Escamas/Carapaça:** Como a blindagem dérmica, mas combinada com escamas e/ou placas externas quitinosas rígidas, mas flexíveis, baseada nos exoesqueletos artrópodes. Essa armadura é óbvia e a pele tem a aparência de um crocodilo, inseto, pangolim, cobra ou outra criatura couraçada.
 
@@ -77,13 +77,13 @@ Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de a
 
 **Vestuário Reforçado:** Fibras resistentes e fulerenos são entrelaçados com materiais inteligentes normais para fornecer um pouco de proteção. Essas vestimentas são indistinguíveis de vestuários inteligentes normais e são feitas em todos os estilos e modelos.
 
-**Casaco Reforçado:** Assim como vestuário reforçado, este casaco ligeiramente mais grosso fornece uma camada de proteção sutil com tecidos e materiais inteligentes.
+**Casaco Reforçado:** Assim como vestuário reforçado, esse casaco ligeiramente mais grosso fornece uma camada de proteção sutil com tecidos e materiais inteligentes.
 
 **Colete de Proteção:** Coletes de proteção protegem as áreas vitais do corpo. Coletes leves cobrem o abdômen e o torso e podem ser ocultados sob outras roupas. Coletes pesados são volumosos e evidentes, protegendo o pescoço com um colar rígido e fornecendo proteção para a virilha.
 
-**Escudo Balístico:** Este escudo pesado é essencialmente uma barreira portátil equipada com holofotes. Ele precisa ser carregado com as duas mãos.
+**Escudo Balístico:** Esse escudo pesado é essencialmente uma barreira portátil equipada com holofotes. Ele precisa ser carregado com as duas mãos.
 
-**Armadura Corporal:** Estes uniformes de proteção de alta performance, são tipicamente usados por forças de segurança e policiais, protegendo o usuário da cabeça aos pés. O colete de proteção, capacete, manoplas e proteções para os membros são confortáveis, flexíveis e não restritivos. A armadura inclui um ecto, câmeras, e monitores de saúde incorporados.
+**Armadura Corporal:** Esses uniformes de proteção de alta performance, são tipicamente usados por forças de segurança e policiais, protegendo o usuário da cabeça aos pés. O colete de proteção, capacete, manoplas e proteções para os membros são confortáveis, flexíveis e não restritivos. A armadura inclui um ecto, câmeras, e monitores de saúde incorporados.
 
 **Armadura de Combate:** Uma versão mais robusta da armadura corporal usada por soldados. Essa armadura é selada ambientalmente com controle climático para proteger o usuário contra ambientes hostis e químicos, ela contém 1 hora de ar.
 
@@ -93,4 +93,4 @@ Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de a
 
 **Escudo Antimotim:** Usado para supressão de tumultos, os escudos antimotim são leves, resistentes e podem ser eletrificados quando necessário (trate como um [ataque de choque em luta](15-special-attacks.md#shock-attacks)).
 
-**Segunda Pele:** Este macacão justo e leve, tecido com seda de aranha e fulerenos, é tipicamente usado como uma primeira camada de vestuário, apesar de alguns atletas o utilizarem como uniforme.
+**Segunda Pele:** Esse macacão justo e leve, tecido com seda de aranha e fulerenos, é tipicamente usado como uma primeira camada de vestuário, apesar de alguns atletas o utilizarem como uniforme.
