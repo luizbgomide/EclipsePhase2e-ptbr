@@ -32,14 +32,12 @@ Carcaças sintéticas são feitas para durar — um fato refletido em sua maior 
 
 <!-- CLEANED /blockquote -->
 
-<!--sorted-->
 ### Chapeado
 
 Os chapeados são carcaças robóticas produzidas em massa, um opção acessível de reencape para os pobres, apesar da notória baixa qualidade. Eles estão disponíveis em muitas variedades para atender ao gosto do cliente. A maioria dos morfos chapeados são antropomórficos, com uma estrutura corporal fina e um pouco mais baixo que a média humana.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Chapeado
 
 - **Custo:** 0&nbsp;PM • **Disp:** 100
@@ -64,7 +62,6 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Sobressalente
 
 - **Custo:** 0&nbsp;PM • **Disp:** 80
@@ -89,7 +86,6 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Libélula
 
 - **Custo:** 1&nbsp;PM • **Disp:** 70
@@ -114,7 +110,6 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Enxamenoide
 
 - **Custo:** 3&nbsp;PM • **Disp:** 60
@@ -139,7 +134,6 @@ Os sintes são ainda mais humanoides que os chapeados e de melhor qualidade. Ele
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Sinte
 
 - **Custo:** 3&nbsp;PM • **Disp:** 80
@@ -164,7 +158,6 @@ Desenvolvidos por eremitas hackers de aparelhagem, os savants possuem aprimorame
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Savant
 
 - **Custo:** 4&nbsp;PM • **Disp:** 50
@@ -189,7 +182,6 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Galateia
 
 - **Custo:** 5&nbsp;PM • **Disp:** 50
@@ -214,7 +206,6 @@ As carcaças serpentoides tem a forma de um torso humanoide com braços retráte
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Serpentoide
 
 - **Custo:** 5&nbsp;PM • **Disp:** 50
@@ -239,7 +230,6 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Morfo de Aço
 
 - **Custo:** 5&nbsp;PM • **Disp:** 50
@@ -264,7 +254,6 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Aracnoide
 
 - **Custo:** 6&nbsp;PM • **Disp:** 40
@@ -289,7 +278,6 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Ceifeiro
 
 - **Custo:** 12&nbsp;PM • **Disp:** 10
@@ -308,7 +296,6 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 <!-- CLEANED /blockquote -->
 
-<!--end-sort-->
 
 ## Flexbot
 
@@ -349,14 +336,12 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 
 <!-- CLEANED /blockquote -->
 
-<!--sorted-->
 ### Módulo Construtor
 
 Os construtores são módulos de engenharia, especializados em construção e fabricação.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Módulo Construtor
 
 - **Custo:** 2&nbsp;PM • **Disp:** 60
@@ -379,7 +364,6 @@ Estes módulos são feitos para o combate.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Módulo Guerreiro
 
 - **Custo:** 3&nbsp;PM • **Disp:** 60
@@ -402,7 +386,6 @@ Os ladinos são otimizados para furtividade e atividades ocultas.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Módulo Ladino
 
 - **Custo:** 2&nbsp;PM • **Disp:** 60
@@ -425,7 +408,6 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-<!--ignore-sort-->
 ### Módulo Feiticeiro
 
 - **Custo:** 2&nbsp;PM • **Disp:** 60
@@ -441,5 +423,3 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 <!-- CLEANED /blockquote -->
-
-<!--end-sort-->
