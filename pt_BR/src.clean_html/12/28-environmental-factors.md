@@ -10,9 +10,9 @@ A asfixia é um processo terrível, que frequentemente leva ao pânico. Os perso
 
 ## Descompressão
 
-Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](../12/28-environmental-factors.md#asphyxiation).
+Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](#asphyxiation).
 
-A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](../12/29-hostile-environments.md#vacuum)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
+A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](29-hostile-environments.md#vacuum)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
 
 ## Queda
 
@@ -64,11 +64,11 @@ A maioria dos habitats em microgravidade estão equipados com laços elásticos 
 
 ### Baixa Gravidade
 
-A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](../12/24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](../12/04-ranged-combat.md#range)).
+A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](04-ranged-combat.md#range)).
 
 ### Alta Gravidade
 
-A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+&nbsp;g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2&nbsp;g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas ([Movimento](../12/24-movement.md)) e até mesmo sintemorfos podem se sentir forçados.
+A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+&nbsp;g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2&nbsp;g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas ([Movimento](24-movement.md)) e até mesmo sintemorfos podem se sentir forçados.
 
 ## Clima
 
