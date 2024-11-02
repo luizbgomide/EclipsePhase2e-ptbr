@@ -1,6 +1,6 @@
 # Subcepas Watts-MacLeod
 
-Como um assincro, você está afetado por uma subcepa específica do vírus Watts-MacLeod. Esta subcepa determina como o exovírus afeta sua personalidade. Ela influencia qual traço de Transtorno Mental você começa e lhe fornece um truque gratuito de bônus. Ela também impacta as compulsões comportamentais e motivações incitadas que a infecção inflige a você ([Efeitos de Influência](05-influence-effects.md)). A subcepa é escolhida durante a criação de personagem (ou quando seu personagem for infectado durante o jogo).
+Como um assincro, você está afetado por uma subcepa específica do vírus Watts-MacLeod. Essa subcepa determina como o exovírus afeta sua personalidade. Ela influencia qual traço de Transtorno Mental você começa e lhe fornece um truque gratuito de bônus. Ela também impacta as compulsões comportamentais e motivações incitadas que a infecção inflige a você ([Efeitos de Influência](05-influence-effects.md)). A subcepa é escolhida durante a criação de personagem (ou quando seu personagem for infectado durante o jogo).
 
 ## A Arquiteta
 
