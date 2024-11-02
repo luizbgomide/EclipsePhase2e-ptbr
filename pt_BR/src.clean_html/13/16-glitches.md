@@ -1,6 +1,6 @@
 # Defeitos
 
-Os defeitos representam erros e anomalias que podem afetar programas e dispositivos. Os defeitos ocorrem devido a sistemas sobrecarregados, dano em hardware ou ferimentos infligidos em combate na mesh.
+Os defeitos representam erros e anomalias que podem afetar programas e dispositivos. Os defeitos ocorrem devido a sistemas sobrecarregados, dano em aparelhos ou ferimentos infligidos em combate na mesh.
 
 Quando um defeito for infligido, role 1d6, consulte a Tabela de Defeitos e aplique o resultado.
 
