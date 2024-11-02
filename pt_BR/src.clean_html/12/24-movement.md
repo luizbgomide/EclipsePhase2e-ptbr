@@ -32,7 +32,7 @@ Uma disparada é dar o máximo para se mover o mais longe possível. Ela requer 
 
 **\[Rápida\]**
 
-Você pode saltar uma vez por turno com uma ação rápida enquanto também faz outra ação de movimento. Você pode cruzar 2 metros com salto horizontal parado, e 6 metros com um salto correndo. A altura de salto vertical é 1 metro. Estas distâncias são reduzidas à metade para morfos de tamanho pequeno e aumentadas pela metade para morfos de tamanho grande.
+Você pode saltar uma vez por turno com uma ação rápida enquanto também faz outra ação de movimento. Você pode cruzar 2 metros com salto horizontal parado, e 6 metros com um salto correndo. A altura de salto vertical é 1 metro. Essas distâncias são reduzidas à metade para morfos de tamanho pequeno e aumentadas pela metade para morfos de tamanho grande.
 
 Se usar disparada, você pode fazer uma rolagem de Atletismo, Queda Livre ou Pilotagem (conforme o caso) para cruzar mais distância com seu salto. Se tiver sucesso, você cruza mais um metro (salto correndo), 0,5 metros (salto parado), ou 0,25 metros (salto vertical), mais uma quantidade adicional igual por sucesso maior.
 
@@ -94,7 +94,7 @@ Os impulsores de veículos de flutuação empurram ar em alta pressão para repe
 
 **\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Carcaças iônicas usam a magneto-hidrodinâmica para levitar e voar, ionizando o ar ao redor em plasma para criar sustentação e impulso enquanto gira para ter estabilidade. Este sistema não funciona no vácuo, mas uma versão subaquática sua a mesma mecânica para ter propulsão em ambientes líquidos (use Pilotagem: Náutica).
+Carcaças iônicas usam a magneto-hidrodinâmica para levitar e voar, ionizando o ar ao redor em plasma para criar sustentação e impulso enquanto gira para ter estabilidade. Esse sistema não funciona no vácuo, mas uma versão subaquática sua a mesma mecânica para ter propulsão em ambientes líquidos (use Pilotagem: Náutica).
 
 ### Microleve
 
