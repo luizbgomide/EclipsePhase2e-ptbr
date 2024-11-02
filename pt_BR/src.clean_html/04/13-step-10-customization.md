@@ -54,7 +54,7 @@ Truques Psi custam 1&nbsp;PP por truque. Você só pode comprar truques psi-gama
 
 **\[1&nbsp;PP por especialização\]**
 
-As especializações de perícias custam 1&nbsp;PP. Elas dão um bônus de +10 nessa perícia quando a especialização for aplicável. (Este bônus de especialização não conta para o máximo de 80 em perícias.)
+As especializações de perícias custam 1&nbsp;PP. Elas dão um bônus de +10 nessa perícia quando a especialização for aplicável. (Esse bônus de especialização não conta para o máximo de 80 em perícias.)
 
 <!-- CLEANED blockquote class="table" -->
 
