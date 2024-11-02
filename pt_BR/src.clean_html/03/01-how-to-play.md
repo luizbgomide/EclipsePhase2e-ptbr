@@ -6,7 +6,7 @@ Eclipse Phase é jogado como uma contação de histórias colaborativa que ocorr
 
 Eclipse Phase usa dois dados de dez lados para testes de perícia e a maioria das outras rolagens. Os dados rolados são lidos como porcentagens (d100), como o primeiro dado representando as dezenas e o segundo as unidades. Rolagens dados de porcentagem resultam em um número entre 0 e 99 (00 é lido como zero). Uma rolagem de 5 e 3, por exemplo, é lido como 53. Use dados de cores diferentes para saber qual ler primeiro ou use dados de dezenas feitos para rolagens de porcentagem.
 
-Para algumas outras rolagens (dano, estresse, recarga de paradas), Eclipse Phase utiliza dados de seis lados (d6) e de dez lados (d10). Estes dados são somados, às vezes com um modificador, para obter o resultado. Uma rolagem de dano 2d10 + 3 com valores 5 e 3 resultaria em 11.
+Para algumas outras rolagens (dano, estresse, recarga de paradas), Eclipse Phase utiliza dados de seis lados (d6) e de dez lados (d10). Esses dados são somados, às vezes com um modificador, para obter o resultado. Uma rolagem de dano 2d10 + 3 com valores 5 e 3 resultaria em 11.
 
 Em alguns casos raros, as regras pode pedir uma divisão. Nesse caso, sempre arredonde normalmente (ou seja, um resultado de 1,5 ou mais é arredondado para 2).
 
@@ -24,11 +24,11 @@ Apesar de você precisar rolar igual ou menos que o número alvo, você também 
 
 Os jogadores rolam os dados ao fazer testes para seus personagens; os MJs rolam para os PNJs. Às vezes, o MJ faz testes para PJs em segredo, para não alertar os jogadores para algo que os seus personagens não saberiam, como se eles veem ou não uma pista. É recomendável que MJs tenham uma cópia das fichas de personagem dos PJs a mão.
 
-Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentando acalmar uma multidão — como uma única entidade. Neste caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](#teamwork).
+Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentando acalmar uma multidão — como uma única entidade. Nesse caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](#teamwork).
 
 ## Dificuldade e Modificadores
 
-Consertar um defeito comum em seu robô favorito não é tão difícil quanto reparar uma anomalia desconhecida em um modelo estranho. Estes graus de dificuldade são representados por _modificadores_ — ajustes que aumentam ou diminuem o número alvo. Um teste fácil fornece um modificador positivo, aumentando o número alvo. Um teste difícil inflige um modificador negativo.
+Consertar um defeito comum em seu robô favorito não é tão difícil quanto reparar uma anomalia desconhecida em um modelo estranho. Esses graus de dificuldade são representados por _modificadores_ — ajustes que aumentam ou diminuem o número alvo. Um teste fácil fornece um modificador positivo, aumentando o número alvo. Um teste difícil inflige um modificador negativo.
 
 Modificadores são designados em múltiplos de dez, indo de +10 a +30 e −10 a −30, conforme indicado na tabela de Modificadores.
 
@@ -86,7 +86,7 @@ Se você não tiver a perícia necessária para fazer o teste, você pode recorr
 
 Não há nenhum modificador por recorrer em um teste de perícia, mas sucessos críticos são ignorados.
 
-Em alguns casos, o MJ pode permitir que você recorra à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia recorrer à sua perícia Tiro. Neste caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
+Em alguns casos, o MJ pode permitir que você recorra à uma perícia relacionada. Por exemplo, alguém tentando reparar uma pistola sem qualquer perícia de Aparelhagem poderia recorrer à sua perícia Tiro. Nesse caso, um modificador −10 a −30 é aplicável, dependendo de quão relacionadas são as perícias.
 
 O MJ pode decidir que alguns testes exigem conhecimento ou treinamento especializado e portanto não é possível recorrer neles.
 
