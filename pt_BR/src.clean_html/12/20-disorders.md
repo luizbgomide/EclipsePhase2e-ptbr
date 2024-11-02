@@ -12,7 +12,7 @@ Transtornos são distúrbios psicológicos duradouros que geralmente exigem sema
 
 **Gatilhos:** Alienação, exsurgentes, o desconhecido
 
-Este transtorno afeta principalmente os assincros. Você sente estranhos desejos de se comportar de forma alienígena ou usar membros fantasmas ou outras partes corporais que não fazem parte da sua forma transumana.
+Esse transtorno afeta principalmente os assincros. Você sente estranhos desejos de se comportar de forma alienígena ou usar membros fantasmas ou outras partes corporais que não fazem parte da sua forma transumana.
 
 **Efeito:** Você deve fazer uma Prova de VON ou ser compelido a manifestar comportamento alienígena. Os exemplos de compulsão listados nas [tabelas de Efeitos de Influência](../14/05-influence-effects.md) fornecem várias possibilidades.
 
@@ -68,7 +68,7 @@ Você acredita que você é irrevogavelmente feio ou defeituoso, impedindo-o de 
 
 **Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
 
-Este transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
+Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
 
 **Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
 
@@ -108,7 +108,7 @@ Você entra em um estado de fuga em que demonstra pouca atenção para estímulo
 
 **Gatilhos:** Desamparo, foco do impulso, o desconhecido, violência
 
-Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar este comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
+Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar esse comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
 
 **Efeito:** Você deve fazer uma Prova de VON para não fazer a atividade impulsiva. Se impedido de fazer a atividade por muito tempo, você sofre modificadores entre −10 e −30.
 
