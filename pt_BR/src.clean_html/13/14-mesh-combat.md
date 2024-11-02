@@ -18,7 +18,7 @@ Você pode atacar os sistemas operacionais de dispositivos remotos, inundando-os
 
 Você ataca um alvo local ou remoto, tentando desestabilizar seus processos programáticos subjacentes. Faça um ação complexa e role a perícia Infoseg. Para um ataque local, se você não tiver privilégios de administrador, você sofre um modificador −30.
 
-Se o defensor do sistema estiver ativamente protegendo o alvo ([Proteger Programa](../13/06-mesh-actions.md#universal-actions)), este é o um teste oposto contra a perícia Infoseg dele. Se não, é um teste de sucesso padrão. Ataques remotos são opostos pela graduação do Firewall (ou a perícia Infoseg do defensor se estiver defendendo ativamente).
+Se o defensor do sistema estiver ativamente protegendo o alvo ([Proteger Programa](06-mesh-actions.md#universal-actions)), este é o um teste oposto contra a perícia Infoseg dele. Se não, é um teste de sucesso padrão. Ataques remotos são opostos pela graduação do Firewall (ou a perícia Infoseg do defensor se estiver defendendo ativamente).
 
 **Consciência de Ataques:** Não é automaticamente aparente de onde um ataque da mesh se origina — ou mesmo que ele está acontecendo. Se você, seu programa, ou o sistema operacional do dispositivo que você está acessando/executando recebe dano ou ferimentos, você perceberá isso como mau funcionamento do programa — uma ocorrência infelizmente comum, até mesmo em Eclipse Phase. Se você desconfiar que está sob ataque, você pode usar uma ação complexa e fazer um Teste de Infoseg para identificar o atacante e sua mesh ID.
 
@@ -36,13 +36,13 @@ Se o dano infligido exceder o Limiar de Ferimento do seu programa, um ferimento 
 
 Ao contrário dos ferimentos físicos, os ferimentos na mesh não provocam provas contra derrubada ou inconsciência.
 
-**Regra Opcional:** Para cada ferimento, há uma chance de 10% cumulativa de você sofre um [defeito](../13/16-glitches.md); role sempre que um ferimento for infligido.
+**Regra Opcional:** Para cada ferimento, há uma chance de 10% cumulativa de você sofre um [defeito](16-glitches.md); role sempre que um ferimento for infligido.
 
 ## Durabilidade na Mesh
 
 Se o programa acumular dano que iguala ou excede sua Durabilidade ele imediatamente trava e deixa de funcionar. Todas as transferências de dados e outros processos em andamento imediatamente param. Se o seu console de conta travar, você é expulso do sistema (embora você possa tentar fazer login ou hackeá-lo novamente). Os infomorfos travados não podem mais agir. Se um cibercérebro trava, o morfo fica congelado ou cai. Se um serviço ou sistema operacional trava, todos os usuários são desconectados (incluindo o atacante) e quaisquer outros processos em andamento no sistema são interrompidos.
 
-Infomorfos, cibercérebros, serviços e sistemas operacionais [reinicializam](../13/12-countermeasures.md#rebootshutdown) automaticamente, o que leva 1d6 turnos de ação. A reinicialização elimina todos os danos e ferimentos acumulados na mesh.
+Infomorfos, cibercérebros, serviços e sistemas operacionais [reinicializam](12-countermeasures.md#rebootshutdown) automaticamente, o que leva 1d6 turnos de ação. A reinicialização elimina todos os danos e ferimentos acumulados na mesh.
 
 Programas (exceto consoles de contas) ainda podem ser atacados depois de serem travados. Isso representa tentativas de danificar irremediavelmente o código para que ele não possa mais ser executado. Se o programa acumular dano que iguala ou excede seu Grau de Destruição, ele é permanentemente corrompido. Apps e serviços devem ser reinstalados. Os cibercérebros e dispositivos devem ser reparados ou substituídos. Infomorfos e egos dentro de cibercérebros estão efetivamente mortos. Danos e ferimentos infligidos em programas travados são aplicados quando eles reinicializam.
 
