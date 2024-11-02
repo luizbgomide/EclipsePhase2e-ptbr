@@ -307,7 +307,7 @@ Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais
 
 Cada flexbot é considerada uma única entidade para fins de regras, não importa quantos módulos ele tenha. Embora a gama completa de possibilidades de flexbots esteja além do escopo deste livro, aplique as seguintes regras e fique de olho em suplementos antigos e novos de Eclipse Phase:
 
-- Escolha um módulo para conter o ego — este módulo controla os outros.
+- Escolha um módulo para conter o ego — esse módulo controla os outros.
 - (Des)conectar um módulo é uma ação complexa e requer um [Teste de Integração](../15/02-resleeving.md#integration-test). Os módulos não conectados fisicamente são tratados como em [operação remota](../16/21-robots.md#remote-operations).
 - Quando os módulos são combinados, use suas paradas combinadas.
 - Os módulos devem estar todos usando o mesmo sistema de mobilidade ou a Taxa de Movimento é reduzida à metade.
@@ -360,7 +360,7 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 ### Módulo Guerreiro
 
-Estes módulos são feitos para o combate.
+Esses módulos são feitos para o combate.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
