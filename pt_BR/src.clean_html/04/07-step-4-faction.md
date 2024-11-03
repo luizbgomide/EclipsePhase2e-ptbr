@@ -33,7 +33,7 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Reivindicadores:** Você acredita que a transumanidade deve se focar na reivindicação, terraformação e repovoamento da Terra.
 
-**Ralés:** Você empurra os limites da experimentação, testando completamente o que significa ser transumano.
+**Ralé:** Você empurra os limites da experimentação, testando completamente o que significa ser transumano.
 
 **Socialites:** Você faz parte do glitterati, definindo e definido através da cultura midiática do sistema interior.
 
