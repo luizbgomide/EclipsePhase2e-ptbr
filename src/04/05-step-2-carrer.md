@@ -6,7 +6,7 @@ Like your background, your career package provides you with skills. You might lo
 
 Your career also determines your starting [gear packs](27-gear-packs.md).
 
-<!--start-order-->
+<!--order-->
 ## Academic
 
 You devote your efforts to the pursuit of knowledge.
@@ -177,7 +177,7 @@ You make and fix things. You might be a roboticist, habitat tech, or artifex nan
 | Know: (Choose One)<p class="indent">_Common Fields: Construction, Habitat Ops, Mining, Nanofacturing_</p> |   60 |
 | Know: (Choose One)<p class="indent">_Common Fields: Computer Science, Engineering, Nanotechnology_</p>    |   30 |
 
-<!--end-order-->
+<!--order-end-->
 
 <blockquote class="table">
 
@@ -190,15 +190,16 @@ If you’d rather determine your career randomly, roll 1d10:
 |  1–5  | Roll on Group 1 |
 | 6–10  | Roll on Group 2 |
 
-| Roll  |     Group 1      |   Group 2    |
-| :---: | :--------------: | :----------: |
-|   1   |     Academic     | Investigator |
-|   2   | Covert Operative |    Medic     |
-|   3   |     Enforcer     |  Mindhacker  |
-|   4   |     Explorer     |  Scavenger   |
-|   5   |       Face       |  Scientist   |
-|   6   |    Genehacker    |   Soldier    |
-|   7   |      Hacker      |    Techie    |
-| 8–10  |     Re-roll      |   Re-roll    |
+<!--order-->
+|         Roll         | Group 1<!--order-cells--> | Group 2<!--order-cells--> |
+| :------------------: | :-----------------------: | :-----------------------: |
+|          1           |         Academic          |       Investigator        |
+|          2           |     Covert Operative      |           Medic           |
+|          3           |         Enforcer          |        Mindhacker         |
+|          4           |         Explorer          |         Scavenger         |
+|          5           |           Face            |         Scientist         |
+|          6           |        Genehacker         |          Soldier          |
+|          7           |          Hacker           |          Techie           |
+| 8–10<!--order-end--> |          Re-roll          |          Re-roll          |
 
 </blockquote>

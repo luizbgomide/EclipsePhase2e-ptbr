@@ -4,12 +4,12 @@ const fs = require("fs");
 const path = require("path");
 const readline = require('readline');
 
-
-// div and blockquotes messes up with crowdin format
-// wbr forces crowdin to rebuild the MD tables as HTML tables
-const startOrderTag = "<!--start-order-->";
-const endOrderTag = "<!--end-order-->";
-const skipOrderTag = "<!--skip-order-->";
+const orderTag = "<!--order-->"; // must be on a single line right before the first item, can happen after an end-order
+const orderByTag = "<!--order-by-->"; // on table column header: columns to use for ordering
+const orderCellsTag = "<!--order-cells-->"; // on table column header: ignore table and sort cell content from selected columns
+const orderEndTag = "<!--order-end-->"; // must be on a single line after a blank line
+const orderUnionTag = "<!--order-union-->"; // join with the previous item, use on empty line between text and titles. Can be used at the start to skip the fir
+const tableColumnRE = /(?<!\\)\|/;
 
 function readDirectory(dir) {
     fs.readdirSync(dir, { withFileTypes: true }).forEach((item) => {
@@ -21,7 +21,6 @@ function readDirectory(dir) {
             console.log("Something wrong: {}", item.name);
         }
     });
-    process.stdout.write("\n");
 }
 
 function processFile(file) {
@@ -30,77 +29,17 @@ function processFile(file) {
         // here we copy everything
         fs.mkdirSync(path.dirname(target), { recursive: true });
         fs.copyFileSync(file, target)
-        process.stdout.write("-");
         return;
     }
     let contents = fs.readFileSync(file, 'utf8');
-
-    let lines = contents.split('\n');
-    let ordering = false;
-    let delimiter = ""; // text: "", list: "-", table: "|", title: "#+ "
-    let result = [];
-    let unorderedBlocks = [];
-    for (let i = 0; i < lines.length; i++) {
-        let line = lines[i];
-        if (line.indexOf(startOrderTag) >= 0) {
-            if (ordering)
-                throw new Error(`Duplicate ordered tag. File: ${file} -  Line: ${i}`);
-            result.push(line);
-            i++;
-            line = lines[i];
-            delimiter = line?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
-            ordering = true;
-            unorderedBlocks = [];
-            if (delimiter === "|") {
-                result.push(lines[i]);
-                i++
-                result.push(lines[i]);
-                i++;
-                line = lines[i];
-            }
-        }
-        if (ordering) {
-            if (line.indexOf(endOrderTag) >= 0) {
-                // if ordering by title or text, make sure the last line of each block is empty
-                if (delimiter === "" || delimiter.startsWith("#")) {
-                    unorderedBlocks.forEach(block => {
-                        if (block[block.length - 1].trim() !== "")
-                            block.push("")
-                    });
-                }
-
-                unorderedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
-                let orderedResult = unorderedBlocks.flat();
-                if (delimiter === "|" || delimiter === "-") {
-                    orderedResult = orderedResult.filter(line => line.trim() !== "");
-                    orderedResult.push("");
-                }
-                result.push(...orderedResult);
-                result.push(line);
-                ordering = false;
-                continue;
-            }
-
-            if (line.indexOf(skipOrderTag) >= 0) {
-                unorderedBlocks[unorderedBlocks.length - 1].push(line);
-                i++;
-                unorderedBlocks[unorderedBlocks.length - 1].push(line);
-                continue;
-            }
-
-            if (line.trim() !== "" && line.startsWith(delimiter)) {
-                unorderedBlocks.push([line]);
-            } else {
-                unorderedBlocks[unorderedBlocks.length - 1].push(line);
-            }
-            continue;
-        }
-        result.push(line);
+    if (contents.includes(orderTag)) {
+        console.log(`> ${file}`)
+        let result = reorderFile(contents);
+        contents = result.join('\n');
     }
 
     fs.mkdirSync(path.dirname(target), { recursive: true });
-    fs.writeFileSync(target, result.join('\n'));
-    process.stdout.write(".");
+    fs.writeFileSync(target, contents);
 }
 
 if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: false })?.isDirectory()) {
@@ -120,7 +59,7 @@ if (fs.statSync(outputDir, { throwIfNoEntry: false })?.isDirectory()) {
     rl.question('Overwrite [y/n]? ', (answer) => {
         if (answer == "y") {
             fs.rmdirSync(outputDir, { recursive: true });
-            cleanHTML();
+            reorderFiles();
             process.exit(0)
         }
         else {
@@ -130,10 +69,113 @@ if (fs.statSync(outputDir, { throwIfNoEntry: false })?.isDirectory()) {
     });
 }
 else {
-    cleanHTML();
+    reorderFiles();
 }
 
-function cleanHTML() {
-    readDirectory(sourceDir);
-    console.log(`\n\nProcess complete.\nHTML-clean files written to: "${outputDir}"`);
+function reorderFile(contents) {
+    let lines = contents.split('\n');
+    let ordering = false;
+    let orderBy = 1;
+    let cellCols = [];
+    let delimiter = ""; // text: "", list: "-", table: "|", title: "#+ "
+    let result = [];
+    let unorderedBlocks = [];
+    for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
+        let line = lines[lineIndex];
+        if (line.includes(orderTag)) {
+            if (ordering)
+                throw new Error(`${lineIndex}: Duplicate ordered tag.`);
+            ordering = true;
+            result.push(line);
+            lineIndex++;
+            line = lines[lineIndex];
+            delimiter = line?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
+            unorderedBlocks = [];
+            if (delimiter === "|") {
+                let cols = line.split(tableColumnRE); // index 0 and last should be empty
+                cellCols = cols.map((value, index) => value.includes(orderCellsTag) ? index : -1).filter(index => index > 0);
+                orderBy = cols.findIndex(value => value.includes(orderByTag));
+                if (orderBy >= 0 && cellCols.length > 0) {
+                    throw new Error(`${lineIndex}: Cannot use order-by with order-cells.`);
+                }
+                orderBy = orderBy >= 0 ? orderBy : 1;
+                result.push(lines[lineIndex]);
+                lineIndex++;
+                result.push(lines[lineIndex]);
+                lineIndex++;
+                line = lines[lineIndex];
+            }
+        }
+
+        if (ordering) {
+            if (line.includes(orderEndTag) || ((delimiter === "|" || delimiter === "-") && line.trim() === "")) {
+                // if ordering by title or text, make sure the last line of each block is empty
+                if (delimiter === "" || delimiter.startsWith("#")) {
+                    unorderedBlocks.forEach(block => {
+                        if (block[block.length - 1].trim() !== "")
+                            block.push("");
+                    });
+                }
+                if (delimiter === "|") {
+                    unorderedBlocks.map(block => block[0] = block[0].split(tableColumnRE));
+                    if (cellCols.length > 0) {
+                        let cellContent = [];
+                        cellCols.forEach(colIndex => cellContent.push(...unorderedBlocks.map(block => block[0][colIndex])));
+                        cellContent.sort((a, b) => a.trimStart().localeCompare(b.trimStart(), undefined, { numeric: true, sensitivity: "base" }));
+                        cellContent.reverse();
+                        cellCols.forEach(colIndex => unorderedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
+                    } else {
+                        unorderedBlocks.sort((a, b) => a[0][orderBy].trimStart().localeCompare(b[0][orderBy].trimStart(), undefined, { numeric: true, sensitivity: "base" }));
+                    }
+                    unorderedBlocks.forEach(block => block[0] = block[0].join("|"));
+                } else {
+                    unorderedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
+                }
+                let orderedResult = unorderedBlocks.flat();
+                result.push(...orderedResult);
+                result.push(line);
+                ordering = false;
+                continue;
+            }
+
+            if (line.includes(orderUnionTag)) {
+                if (unorderedBlocks.length === 0) {
+                    result.push(line);
+                    continue;
+                }
+                unorderedBlocks[unorderedBlocks.length - 1].push(line);
+                if (delimiter === "" || delimiter.startsWith("#")) {
+                    lineIndex++;
+                    unorderedBlocks[unorderedBlocks.length - 1].push(line);
+                }
+                continue;
+            }
+
+            if (line.trim() !== "" && line.startsWith(delimiter)) {
+                unorderedBlocks.push([line]);
+            } else {
+                if (unorderedBlocks.length === 0) {
+                    result.push(line);
+                    continue;
+                }
+                unorderedBlocks[unorderedBlocks.length - 1].push(line);
+            }
+            continue;
+        }
+        result.push(line);
+    }
+    if (ordering) {
+        throw new Error(`End of file while ordering. The <!--order-end--> tag is mandatory for text and title ordering.`);
+    }
+
+    return result;
+}
+
+function reorderFiles() {
+    try {
+        readDirectory(sourceDir);
+        console.log(`\n\nProcess complete.\nReordered files written to: "${outputDir}"`);
+    } catch (error) {
+        console.error(error.message);
+    }
 }
