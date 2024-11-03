@@ -6,7 +6,7 @@ Assim como seu antecedente, seu pacote de carreira lhe fornece perícias. Você 
 
 Sua carreira também determina seus [pacotes de equipamentos](27-gear-packs.md) iniciais.
 
-<!--start-order-->
+<!--order-->
 ## Acadêmico
 
 Você dedica seus esforços na busca do conhecimento.
@@ -177,7 +177,7 @@ Você cria e conserta as coisas. Você pode ser um roboticista, técnico de habi
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Construção, Mineração, Nanofabricação, Operações de Habitat_</p>       | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Ciência da Computação, Engenharia, Nanotecnologia_</p>       | 30 |
 
-<!--end-order-->
+<!--order-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -190,15 +190,16 @@ Se você preferir determinar a sua carreira aleatoriamente, role 1d10:
 |   1–5   | Role no Grupo 1 |
 |  6–10   | Role no Grupo 2 |
 
-| Rolagem |      Grupo 1      |    Grupo 2    |
-|:-------:|:-----------------:|:-------------:|
-|    1    |     Acadêmico     | Investigador  |
-|    2    | Agente Infiltrado |    Médico     |
-|    3    |      Capanga      | Hacker Mental |
-|    4    |    Explorador     |   Sucateiro   |
-|    5    |     Malandro      |   Cientista   |
-|    6    |  Hacker Genético  |    Soldado    |
-|    7    |      Hacker       |    Técnico    |
-|  8–10   |     Rerrolar      |   Rerrolar    |
+<!--order-->
+|            Rolagem             | Grupo 1<!--order-cells--> | Grupo 2<!--order-cells--> |
+|:------------------------------:|:-----------------------------------:|:-----------------------------------:|
+|               1                |              Acadêmico              |            Investigador             |
+|               2                |          Agente Infiltrado          |               Médico                |
+|               3                |               Capanga               |            Hacker Mental            |
+|               4                |             Explorador              |              Sucateiro              |
+|               5                |              Malandro               |              Cientista              |
+|               6                |           Hacker Genético           |               Soldado               |
+|               7                |               Hacker                |               Técnico               |
+| 8–10<!--order-end--> |              Rerrolar               |              Rerrolar               |
 
 <!-- CLEANED /blockquote -->
