@@ -24,7 +24,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 
 <!-- CLEANED div class="two-columns-text" -->
 
-<!--sorted-->
+<!--order-->
 - Aceitação
 - Pessoas IGA
 - Contato Alienígena
@@ -71,8 +71,6 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 - Direitos de Elevados
 - Soberania Venusiana
 - Riqueza
-
-<!--end-sort-->
 
 <!-- CLEANED /div -->
 

@@ -6,7 +6,7 @@ Apesar de conceitualmente as perícias serem construídas sobre os valores de ap
 
 **Gastando PP:** Pontos de aptidão extra custam 1&nbsp;PP cada. Se você vai aumentar uma aptidão, nós recomendamos fazê-lo agora, antes de você calcular suas perícias no Passo 6.
 
-<!--sorted-->
+<!--order-->
 ### Operativo
 
 Você está mais confortável com a fisicalidade do que falar ou pensar.
@@ -35,13 +35,13 @@ Você tem a vontade e a energia para se safar em situações difíceis.
 
 Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápido compensam a sua falta de visão.
 
-<!--end-sort-->
+<!--order-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
 ### Modelo de Aptidões
 
-<!--sorted-->
+<!--order-->
 | Modelo       | COG | INT | REF | SAG | SOM | VON |
 |:------------ |:---:|:---:|:---:|:---:|:---:|:---:|
 | Operativo    | 10  | 15  | 20  | 10  | 20  | 15  |
@@ -51,7 +51,5 @@ Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápi
 | Inquisidor   | 20  | 20  | 10  | 15  | 10  | 15  |
 | Sobrevivente | 15  | 10  | 15  | 10  | 20  | 20  |
 | Aventureiro  | 20  | 10  | 20  | 15  | 15  | 10  |
-
-<!--end-sort-->
 
 <!-- CLEANED /blockquote -->

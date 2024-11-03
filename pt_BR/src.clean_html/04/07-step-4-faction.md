@@ -10,39 +10,39 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 ## Facções
 
-<!--sorted-->
-**Anarquista:** Você acredita que o poder é corrupto e apoia organizações voluntárias, não hierarquizadas, baseadas na democracia direta.
+<!--order-->
+**Anarquistas:** Você acredita que o poder é corrupto e apoia organizações voluntárias, não hierarquizadas, baseadas na democracia direta.
 
-**Argonauta:** Você busca soluções tecnoprogressivas para as injustiças e desigualdades da transumanidade.
+**Argonautas:** Você busca soluções tecnoprogressivas para as injustiças e desigualdades da transumanidade.
 
-**Barsoomiano:** Você quer ver Marte livre do controle hipercorporativo.
+**Barsoomianos:** Você quer ver Marte livre do controle hipercorporativo.
 
-**Eremita:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
+**Eremitas:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
 
-**Criminoso:** Você está associado ao submundo, seja parte de um grande cartel, gangue menor, ou como operador independente.
+**Criminosos:** Você está associado ao submundo, seja parte de um grande cartel, gangue menor, ou como operador independente.
 
-**Extropiano:** Você acredita em livres mercados irrestritos e que assumir riscos proativos com a tecnologia é melhor do que não se arriscar.
+**Extropianos:** Você acredita em livres mercados irrestritos e que assumir riscos proativos com a tecnologia é melhor do que não se arriscar.
 
-**Hipercorp:** Você apoia a expansão hipercapitalista e a ordem social impulsionada pela economia competitiva. Você aceita que certos direitos devem ser restritos por segurança e liberdade.
+**Hipercorps:** Você apoia a expansão hipercapitalista e a ordem social impulsionada pela economia competitiva. Você aceita que certos direitos devem ser restritos por segurança e liberdade.
 
-**Joviano:** Você é um bioconservador preocupado com tecnologias transumanas fora de controle.
+**Jovianos:** Você é um bioconservador preocupado com tecnologias transumanas fora de controle.
 
-**Lunar/Orbital:** Você apoia a economia conservadora, o nacionalismo atrelado a Terra, e o tradicionalismo da Aliança Lunar-Lagrange.
+**Lunares/Orbitais:** Você apoia a economia conservadora, o nacionalismo atrelado a Terra, e o tradicionalismo da Aliança Lunar-Lagrange.
 
-**Mercurial:** Você se opõe à assimilação e à opressão das IGAs e dos elevados, apoiando a autodeterminação para o seu povo.
+**Mercuriais:** Você se opõe à assimilação e à opressão das IGAs e dos elevados, apoiando a autodeterminação para o seu povo.
 
-**Reivindicador:** Você acredita que a transumanidade deve se focar na reivindicação, terraformação e repovoamento da Terra.
+**Reivindicadores:** Você acredita que a transumanidade deve se focar na reivindicação, terraformação e repovoamento da Terra.
 
 **Ralé:** Você empurra os limites da experimentação, testando completamente o que significa ser transumano.
 
-**Socialite:** Você faz parte do glitterati, definindo e definido através da cultura midiática do sistema interior.
+**Socialites:** Você faz parte do glitterati, definindo e definido através da cultura midiática do sistema interior.
 
-**Titaniano:** Você é um tecnossocialista, acreditando que a ciência e a tecnologia podem proporcionar o bem-estar de todos.
+**Titanianos:** Você é um tecnossocialista, acreditando que a ciência e a tecnologia podem proporcionar o bem-estar de todos.
 
-**Venusiano:** Você adere à visão da Constelação Estrela d'Alva para um hipercapitalismo mais socializado e amigável.
+**Venusianos:** Você adere à visão da Constelação Estrela d'Alva para um hipercapitalismo mais socializado e amigável.
 
-<!--end-sort-->
+<!--order-end-->
 
-**Regional:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
+**Regionais:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
 
 <!-- CLEANED /blockquote -->
