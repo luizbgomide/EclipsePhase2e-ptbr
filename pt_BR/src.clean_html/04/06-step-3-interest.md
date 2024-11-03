@@ -6,7 +6,7 @@ Seu interesse proporciona a você um pacote de perícias, assim como o seu antec
 
 Esse será o seu último pacote de perícias, embora você possa adquirir perícias extras ou ajustar as que você já adquiriu em passos posteriores.
 
-<!--start-order-->
+<!--order-->
 ## Tratador de Animais
 
 Você aprendeu a criar, treinar e cuidar de animais, especialmente animais inteligentes, parcialmente elevados.
@@ -184,7 +184,7 @@ A Queda reforçou a noção de que você precisa estar preparado.
 | Sobrevivência          | 30 |
 | Saber: (Escolha Uma)   | 40 |
 
-<!--end-order-->
+<!--order-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
