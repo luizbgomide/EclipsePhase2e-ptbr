@@ -20,7 +20,7 @@ Sugerimos manter aptidões e perícias em múltiplos de 5 para simplificar, mas 
 
 As descrições completas das perícias estão em [Perícias](18-skills.md).
 
-<!--start-order-->
+<!--order-->
 **Atletismo (SOM):** Atividade física em gravidade com um morfo humanoide, elevado ou biomimético, incluindo escalada, corrida, natação, ginástica, arremessos e voo alado.
 
 **Enganação (SAG):** Mentira, blefe, golpismo, lábia, imitação, atuação e outras tentativas de dissimular ou esconder a verdade com palavras e gestos.
@@ -65,6 +65,6 @@ As descrições completas das perícias estão em [Perícias](18-skills.md).
 
 **Sobrevivência (INT):** Navegação, rastreamento, obtenção de comida e abrigo seguros, e defesa contra ambientes planetários hostis.
 
-<!--end-order-->
+<!--order-end-->
 
 <!-- CLEANED /blockquote -->
