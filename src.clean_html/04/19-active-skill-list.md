@@ -6,7 +6,7 @@ Active skills represent things your character does. They usually require some so
 
 ### Skill List
 
-<!--start-order-->
+<!--order-->
 | Skill                                           | Linked Aptitude          | Type                     |
 | :---------------------------------------------- | :----------------------- | :----------------------- |
 | [Athletics](#athletics)                         | Somatics                 | Active, Physical         |
@@ -32,11 +32,9 @@ Active skills represent things your character does. They usually require some so
 | [Research](#research)                           | Intuition                | Active, Technical        |
 | [Survival](#survival)                           | Intuition                | Active, Mental           |
 
-<!--end-order-->
-
 <!-- CLEANED /blockquote -->
 
-<!--start-order-->
+<!--order-->
 ## Athletics
 
 <!-- CLEANED div class="stat-list" -->
@@ -361,4 +359,4 @@ Use Survival to navigate, track a person or animal in the wild, find safe food a
 
 <!-- CLEANED /div -->
 
-<!--end-order-->
+<!--order-end-->

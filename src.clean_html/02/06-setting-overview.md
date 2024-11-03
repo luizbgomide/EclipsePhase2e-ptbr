@@ -44,7 +44,7 @@ The five known gates within the Solar System are contested and tightly controlle
 
 Transhumans carve out safety from the dangers of space with these common habitat types ([Habitats](../07/06-habitats.md)).
 
-<!--start-order-->
+<!--order-->
 - **Aerostats** float like balloons in dense atmospheres; they are common on Venus and Uranus.
 - **Bathyscaphes** are underwater habitats tethered to the ground or ice surface. These are used on Europa, Ceres, and other subterranean seas.
 - **Beehives** are warrens of tunnels cut into an asteroid or small moon. They are rarely spun for simulated gravity.
@@ -58,8 +58,6 @@ Transhumans carve out safety from the dangers of space with these common habitat
 - **Swarms** are flotillas of nomadic spacecraft, sometimes interlinked or towing habitats. They are favored by the scum.
 - **Tin Cans** are small, cramped modules, frequently little more than a pressure shell and life support. They are cheap and common, especially among brinkers.
 - **Toruses** are ring-shaped and spun for gravity, sometimes with multiple tori spinning in opposite directions, sometimes linked to microgravity structures.
-
-<!--end-order-->
 
 <!-- CLEANED /blockquote -->
 
