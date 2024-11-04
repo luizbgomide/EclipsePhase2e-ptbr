@@ -34,7 +34,15 @@ function processFile(file) {
     let contents = fs.readFileSync(file, 'utf8');
     if (contents.includes(orderTag)) {
         console.log(`> ${file}`)
-        let result = reorderFile(contents);
+        let reversedLines = contents.split('\n').reverse();
+        let result = [];
+        while (reversedLines.length > 0) {
+            const line = reversedLines.pop();
+            result.push(line);
+            if (line.includes(orderTag)) {
+                result.push(...reorderContent(reversedLines));
+            }
+        }
         contents = result.join('\n');
     }
 
@@ -78,102 +86,81 @@ function compare(a, b) {
     return a.replace(specialPunctuation, " ").trimStart().localeCompare(b.replace(specialPunctuation, " ").trimStart(), undefined, compareOptions);
 }
 
-function reorderFile(contents) {
-    let lines = contents.split('\n');
-    let ordering = false;
+function reorderContent(reversedLines) {
+    let result = [];
     let orderBy = 1;
     let cellCols = [];
-    let delimiter = ""; // text: "", list: "-", table: "|", title: "#+ "
-    let result = [];
-    let unorderedBlocks = [];
-    for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
-        let line = lines[lineIndex];
-        if (line.includes(orderTag)) {
-            if (ordering)
-                throw new Error(`${lineIndex}: Duplicate ordered tag.`);
-            ordering = true;
-            result.push(line);
-            lineIndex++;
-            line = lines[lineIndex];
-            delimiter = line?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
-            unorderedBlocks = [];
-            if (delimiter === "|") {
-                let cols = line.split(tableColumnRE); // index 0 and last should be empty
-                cellCols = cols.map((value, index) => value.includes(orderCellsTag) ? index : -1).filter(index => index > 0);
-                orderBy = cols.findIndex(value => value.includes(orderByTag));
-                if (orderBy >= 0 && cellCols.length > 0) {
-                    throw new Error(`${lineIndex}: Cannot use order-by with order-cells.`);
-                }
-                orderBy = orderBy >= 0 ? orderBy : 1;
-                result.push(lines[lineIndex]);
-                lineIndex++;
-                result.push(lines[lineIndex]);
-                lineIndex++;
-                line = lines[lineIndex];
-            }
+    // text: "", list: "-", table: "|", title: "#+ "
+    let delimiter = reversedLines.at(-1)?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
+    if (delimiter === "|") {
+        let headerLine = reversedLines.pop();
+        let cols = headerLine.split(tableColumnRE); // index 0 and last should be empty
+        cellCols = cols.map((value, index) => value.includes(orderCellsTag) ? index : -1).filter(index => index > 0);
+        orderBy = cols.findIndex(value => value.includes(orderByTag));
+        if (orderBy >= 0 && cellCols.length > 0) {
+            throw new Error(`Cannot use order-by with order-cells.`);
         }
-
-        if (ordering) {
-            if (line.includes(orderEndTag) || ((delimiter === "|" || delimiter === "-") && line.trim() === "")) {
-                // if ordering by title or text, make sure the last line of each block is empty
-                if (delimiter === "" || delimiter.startsWith("#")) {
-                    unorderedBlocks.forEach(block => {
-                        if (block[block.length - 1].trim() !== "")
-                            block.push("");
-                    });
-                }
-                if (delimiter === "|") {
-                    unorderedBlocks.map(block => block[0] = block[0].split(tableColumnRE));
-                    if (cellCols.length > 0) {
-                        let cellContent = [];
-                        cellCols.forEach(colIndex => cellContent.push(...unorderedBlocks.map(block => block[0][colIndex])));
-                        cellContent.sort((a, b) => compare(a, b));
-                        cellContent.reverse();
-                        cellCols.forEach(colIndex => unorderedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
-                    } else {
-                        unorderedBlocks.sort((a, b) => compare(a[0][orderBy], b[0][orderBy]));
-                    }
-                    unorderedBlocks.forEach(block => block[0] = block[0].join("|"));
-                } else {
-                    unorderedBlocks.sort((a, b) => compare(a[0], b[0]));
-                }
-                let orderedResult = unorderedBlocks.flat();
-                result.push(...orderedResult);
-                result.push(line);
-                ordering = false;
-                continue;
-            }
-
-            if (line.includes(orderUnionTag)) {
-                if (unorderedBlocks.length === 0) {
-                    result.push(line);
-                    continue;
-                }
-                unorderedBlocks[unorderedBlocks.length - 1].push(line);
-                if (delimiter === "" || delimiter.startsWith("#")) {
-                    lineIndex++;
-                    unorderedBlocks[unorderedBlocks.length - 1].push(line);
-                }
-                continue;
-            }
-
-            if (line.trim() !== "" && line.startsWith(delimiter)) {
-                unorderedBlocks.push([line]);
-            } else {
-                if (unorderedBlocks.length === 0) {
-                    result.push(line);
-                    continue;
-                }
-                unorderedBlocks[unorderedBlocks.length - 1].push(line);
+        orderBy = orderBy >= 0 ? orderBy : 1;
+        result.push(headerLine);
+        headerLine = reversedLines.pop();
+        result.push(headerLine);
+    }
+    let unorderedBlocks = [];
+    let currTarget = result;
+    while (reversedLines.length > 0) {
+        const line = reversedLines.pop();
+        if (line.includes(orderTag)) {
+            currTarget.push(line);
+            currTarget.push(...reorderContent(reversedLines));
+            continue;
+        }
+        if (line.includes(orderUnionTag)) {
+            currTarget.push(line);
+            // add the next line with text and titles, this tag is usually on an empty line
+            if (delimiter === "" || delimiter.startsWith("#")) {
+                const nextLine = reversedLines.pop();
+                currTarget.push(nextLine);
             }
             continue;
         }
-        result.push(line);
+        if (line.includes(orderEndTag) || ((delimiter === "|" || delimiter === "-") && line.trim() === "")) {
+            // if ordering by title or text, make sure the last line of each block is empty
+            if (delimiter === "" || delimiter.startsWith("#")) {
+                unorderedBlocks.forEach(block => {
+                    if (block[block.length - 1].trim() !== "")
+                        block.push("");
+                });
+            }
+            if (delimiter === "|") {
+                unorderedBlocks.map(block => block[0] = block[0].split(tableColumnRE));
+                if (cellCols.length > 0) {
+                    let cellContent = [];
+                    cellCols.forEach(colIndex => cellContent.push(...unorderedBlocks.map(block => block[0][colIndex])));
+                    cellContent.sort((a, b) => compare(a, b));
+                    cellContent.reverse();
+                    cellCols.forEach(colIndex => unorderedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
+                } else {
+                    unorderedBlocks.sort((a, b) => compare(a[0][orderBy], b[0][orderBy]));
+                }
+                unorderedBlocks.forEach(block => block[0] = block[0].join("|"));
+            } else {
+                unorderedBlocks.sort((a, b) => compare(a[0], b[0]));
+            }
+            let orderedResult = unorderedBlocks.flat();
+            result.push(...orderedResult);
+            result.push(line);
+            break;
+        }
+        if (line.trim() !== "" && line.startsWith(delimiter)) {
+            unorderedBlocks.push([line]);
+            currTarget = unorderedBlocks[unorderedBlocks.length - 1];
+            continue;
+        }
+        currTarget.push(line);
     }
-    if (ordering) {
+    if (result.length === 0) {
         throw new Error(`End of file while ordering. The <!--order-end--> tag is mandatory for text and title ordering.`);
     }
-
     return result;
 }
 

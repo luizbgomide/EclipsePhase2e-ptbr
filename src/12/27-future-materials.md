@@ -2,6 +2,7 @@
 
 A quick primer to common futuristic materials:
 
+<!--order-->
 **Aerogel:** “Frozen smoke” is made by replacing the liquid in a gel or foam with a gas. The result is a low-density, lightweight, semi-transparent solid with a styrofoam feel, made from a number of chemical compounds. It is used for windows and as an insulator in habitats, particularly aerostats, and to capture space dust on spacecraft hulls. Can be combined with reinforcing fibers to make light, flexible blankets.
 
 **Amorphous Metals:** Also known as metallic glass, amorphous metals are metal alloys with a disordered (rather than crystalline) atomic structure, making it tougher, less brittle, and more resistant to wear and corrosion. They soften and flow when heated, and so can be injection-molded. They are used for armor, implants, robotic frames, and harsh environments.
@@ -21,3 +22,5 @@ A quick primer to common futuristic materials:
 **Smart Materials:** Gear made from smart materials incorporates nanomachines that can alter the object’s shape, color, and texture. For example, smart clothing can transform from specialized cold weather clothing suitable for the Martian poles in winter to a fashionable suit in the latest style. Similarly, a smart material tool can switch from a powered screwdriver to a wrench or a hammer, as the nanomachines reshape the tool. Reshaping takes 1d6 minutes.
 
 **Transparent Alumina:** This harder-than-steel ceramic, also known as sapphire, is used for scratch-resistant surfacing and transparent armor needs. Zero-g casting techniques enable intriguing transparent construction designs, so long as its poor tensile strength is respected.
+
+<!--order-end-->

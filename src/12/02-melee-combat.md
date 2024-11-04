@@ -137,7 +137,7 @@ These modifiers apply to close-combat attacks.
 | Aggressive                                                          | +10 or +1d10&nbsp;DV, −10 Fray |
 | Charging                                                            |       −10, +1d6&nbsp;DV        |
 | Extra Weapon (Attack)                                               |          +1d6&nbsp;DV          |
-| Extra Weapon (Defense)                                              |              +10               |
+| <!--order-union-->Extra Weapon (Defense)                            |              +10               |
 | Grappling                                                           |                                |
 | <!--order-union--><div class="indent">» Smaller-Size Opponent</div> |       +20 per size step        |
 | <!--order-union--><div class="indent">» Larger-Size Opponent</div>  |       −20 per size step        |

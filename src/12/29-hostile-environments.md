@@ -2,6 +2,7 @@
 
 The Solar System might be friendly to life on a grand scale, but if you’re stranded in the gravity well of Jupiter during a magnetic storm, trying to breathe without a respirator on Mars, or floating in hard vacuum without a vacsuit, it doesn’t seem so friendly.
 
+<!--order-->
 ## Atmospheric Contamination
 
 Habitats sometimes fall ill. The effects of a habitat suffering from ecological imbalance or out-of-control pathogens can range from mildly allergenic habitat atmospheres to rampaging environmental sepsis. Biomorphs without breathing or filtration gear in a contaminated environment should suffer penalties ranging from −10 (mild contamination) to −30 (severely septic atmosphere). Depending on the contamination, other effects may apply, as the GM sees fit.
@@ -60,3 +61,5 @@ In general, any physical skill performed underwater suffers a −20 penalty due 
 Biomorphs without [vacuum sealing](../16/11-physical-augmentations.md) can spend one minute in the vacuum of space with no ill effects, provided you curl up into a ball, empty your lungs of air, and keep your eyes closed (something kids in space habitats learn at a very young age). Contrary to popular depictions in pre-Fall media, a character exposed to hard vacuum does not explosively decompress, nor do their internal fluids boil (other than relatively exposed liquids such as saliva on the tongue). Rather, the primary danger for characters on EVA sans vacsuit is asphyxiation due to lack of oxygen and associated complications such as edema in the lungs.
 
 After one minute in space, you begin to suffer from [asphyxiation](28-environmental-factors.md#asphyxiation). Damage is doubled if you hold air in your lungs or are not curled up in a vacuum-survival position. Additionally, characters trapped in space without adequate thermal protection suffer a −10 modifier to all actions and 2&nbsp;DV per minute.
+
+<!--order-end-->

@@ -34,6 +34,7 @@ Altering an object’s design and function follows the same basic rules as build
 
 ### Sample Objects and Structures
 
+<!--order-->
 | Object/<wbr>Structure/<wbr>Material            | Armor (E/K) | Destruction Rating | Wound Threshold |
 | :--------------------------------------------- | :---------: | :----------------: | :-------------: |
 | Airlock Door (Standard, 2 person)              |    25/15    |        150         |       15        |
@@ -49,9 +50,9 @@ Altering an object’s design and function follows the same basic rules as build
 | Hull, Standard (Advanced Composites)           |   80/60+    |        750+        |       75+       |
 | Hull, Heavy (Reinforced)                       |  100/100+   |       1,500+       |      150+       |
 | Tree                                           |    6/8+     |        80+         |       8+        |
-| Wall (Aerogel, 3 × 3&nbsp;m²)                  |    10/5     |        150         |       15        |
-| Wall (Concrete, 3 × 3&nbsp;m²)                 |    6/10     |        200         |       20        |
-| Wall (Metal Alloys, 3 × 3&nbsp;m²)             |    25/15    |        300         |       30        |
+| Wall  (Aerogel, 3 × 3&nbsp;m²)                 |    10/5     |        150         |       15        |
+| Wall  (Concrete, 3 × 3&nbsp;m²)                |    6/10     |        200         |       20        |
+| Wall  (Metal Alloys, 3 × 3&nbsp;m²)            |    25/15    |        300         |       30        |
 | Wall, Reinforced (Metal Alloys, 3 × 3&nbsp;m²) |    40/30    |        500         |       50        |
 | Window (Aerogel, 1 × 3&nbsp;m²)                |     7/5     |         50         |        5        |
 | Window (Transparent Aluminum, 1 × 3&nbsp;m²)   |    10/15    |        100         |       10        |

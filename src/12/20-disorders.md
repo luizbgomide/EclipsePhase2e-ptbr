@@ -8,6 +8,7 @@ Disorders are long-lasting psychological afflictions that typically require week
 
 **Triggering a Disorder:** Each disorder is triggered by certain circumstances, as determined by your GM. Example triggers are given with each listing; disorders are also triggered by [traumas](18-mental-health.md#trauma). When a trigger condition occurs, make a WIL check; if you fail, the disorder is triggered. When activated, the disorder directly affects your actions and what you can and cannot do, as fitting the affliction. The GM may direct your character’s behavior or apply modifiers as they see fit. The episode lasts for as long as your character is affected by the triggering condition. Others can assess your state or bring you out of it with successful Know: Psychology or Medicine: Psychosurgery Tests.
 
+<!--order-->
 ### Alien Behavior Disorder
 
 **Triggers:** Alienation, exsurgents, the unknown
@@ -167,3 +168,5 @@ PTSD results from life-threatening incidents. You develop an acute fixation on w
 Not to be confused with the genetic disorder, reiterative schizophrenia has similar symptoms but develops in egos that undergo frequent resleeving, possibly due to some sort of repetitive error in the download process. Schizophrenics lose their ability to discern reality from unreality. You experience delusions, hallucinations (often in support of the delusions), and fragmented or disorganized speech. You experience your behavior as perfectly normal, to the point of becoming paranoid that others are involved in a grand deception.
 
 **Effect:** You experience delusions and hallucinations as determined by the GM and are prone to conspiratorial thinking. You suffer a −20 modifier to tests that require coherent communication.
+
+<!--order-end-->

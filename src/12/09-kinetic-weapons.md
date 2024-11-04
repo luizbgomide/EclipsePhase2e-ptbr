@@ -49,6 +49,7 @@ Ammunition is defined by its various types (regular, armor-piercing, capsule, et
 
 The ammunition’s Damage Value modifiers are added to the weapon’s base DV.
 
+<!--order-->
 | KINETIC AMMO   | Damage Value Modifier | Comp/<wbr>GP (per 100) | Notes                       |
 | :------------- | :-------------------: | :--------------------: | :-------------------------- |
 | Accushot       |           —           |        Min/R/1         | Steady                      |
@@ -76,6 +77,7 @@ Firearm smart ammo is made from programmable matter. In addition to its standard
 
 This ammunition can only be used with firearms, not railguns. It is acquired in lots of 100 rounds and must be tracked separately.
 
+<!--order-->
 **Accushot:** Accushot bullets change shape during flight to keep dead on course, countering the effects of wind, drag, and gravity over distance. Attacks made with Accushots ignore all range modifiers.
 
 **Armor-Piercing:** This tungsten-carbide ammunition penetrates armor effectively.
@@ -103,3 +105,5 @@ This ammunition can only be used with firearms, not railguns. It is acquired in 
 **Splash:** Splash rounds carry a payload (acquired separately) like capsule ammo, but are designed to break upon impact rather than penetrating, splashing their contents on the target’s exterior. Splash rounds are typically loaded with paint, taggant nanobots, tracker dye, and similar substances.
 
 **Zap:** Zap rounds are rubber or gel bullets that shock the target with a piezoelectric charge.
+
+<!--order-end-->

@@ -2,6 +2,7 @@
 
 Transhumans have adapted to many environments, but there are many risks that must be accounted for.
 
+<!--order-->
 ## Asphyxiation
 
 The average transhuman can hold their breath for two minutes before blacking out. Strenuous activity reduces this amount of time (GM discretion). For every 30 seconds after the first minute your biomorph is prevented from breathing, you must make a SOM Check. Apply a cumulative −10 modifier each time you roll. If you fail, you immediately fall unconscious, are treated as if you have taken temporary damage equal to your Durability, and suffer 10 temporary DV per minute until you reach your Death Rating and die or manage to breathe again. This temporary damage does not cause wounds. Once revived, the temporary damage is removed, but you need 1 minute of recovery before you can act.
@@ -73,3 +74,5 @@ High gravity is anything significantly stronger than standard Earth gravity (1.2
 ## Weather
 
 Weather phenomena are a recurring danger on various exoplanets, depending on local atmospheric conditions. Hurricanes, tornadoes, flash floods, blizzards, ice storms, acidic rain, and similar conditions can arise rapidly, damage gear, and hinder mobility, sensors, and communications. Mars still suffers from blinding and choking dust storms, blasting dust particles that somehow get into everything and jam it up. Venus and the gas giants all feature massive windstorms and cyclones that are devastating to flying craft and aerostats.
+
+<!--order-end-->
