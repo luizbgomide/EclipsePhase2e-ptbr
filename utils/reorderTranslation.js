@@ -72,6 +72,12 @@ else {
     reorderFiles();
 }
 
+function compare(a, b) {
+    const compareOptions = { numeric: true, sensitivity: "base" };
+    const specialPunctuation = /[\u2000-\u206F\u2E00-\u2E7F!"#$%&'()*+,./:;<=>?@[\\\]^_`{|}~‘’“”]/g
+    return a.replace(specialPunctuation, " ").trimStart().localeCompare(b.replace(specialPunctuation, " ").trimStart(), undefined, compareOptions);
+}
+
 function reorderFile(contents) {
     let lines = contents.split('\n');
     let ordering = false;
@@ -121,15 +127,15 @@ function reorderFile(contents) {
                     if (cellCols.length > 0) {
                         let cellContent = [];
                         cellCols.forEach(colIndex => cellContent.push(...unorderedBlocks.map(block => block[0][colIndex])));
-                        cellContent.sort((a, b) => a.trimStart().localeCompare(b.trimStart(), undefined, { numeric: true, sensitivity: "base" }));
+                        cellContent.sort((a, b) => compare(a, b));
                         cellContent.reverse();
                         cellCols.forEach(colIndex => unorderedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
                     } else {
-                        unorderedBlocks.sort((a, b) => a[0][orderBy].trimStart().localeCompare(b[0][orderBy].trimStart(), undefined, { numeric: true, sensitivity: "base" }));
+                        unorderedBlocks.sort((a, b) => compare(a[0][orderBy], b[0][orderBy]));
                     }
                     unorderedBlocks.forEach(block => block[0] = block[0].join("|"));
                 } else {
-                    unorderedBlocks.sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true, sensitivity: "base" }));
+                    unorderedBlocks.sort((a, b) => compare(a[0], b[0]));
                 }
                 let orderedResult = unorderedBlocks.flat();
                 result.push(...orderedResult);

@@ -4,6 +4,7 @@ In an era of lethal and incapacitating ranged weaponry, someone equipped for clo
 
 Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins ([Coated Weapons](15-special-attacks.md#coated-weapons)) such as poison or nanotoxins secreted from a [poison gland](../16/10-combat-augmentations.md) or implanted [nanotoxins](../16/15-chemicals-drugs-and-toxins.md#nanotoxins).
 
+<!--order-->
 | MELEE ATTACKS      | Ware Type | Damage Value \[Average\] | Comp/<wbr>GP | Notes                                               |
 | :----------------- | :-------: | :----------------------: | :----------: | :-------------------------------------------------- |
 | Claws              |    BCH    |        2d6 \[7\]         |    Min/1     | Concealable                                         |
@@ -36,6 +37,7 @@ Except as noted, all melee implements are wielded with Melee skill. Melee ware a
 
 Implanted weaponry can be combined with eelware to deliver electric shocks.
 
+<!--order-->
 **Claws:** The morph has retractable claws like those of a cat. These claws do not interfere with manual dexterity and are razor sharp. They are legal in most habitats and considered tools as much as weapons. A set of claws in each hand counts as a single weapon.
 
 **Eelware:** A combination of electric eel genetics and bioconductors in the hands/feet/limbs (bioware) or electrified panel placement (hardware) allow you to stun with a shocking touch. Eelware can be used to recharge standard batteries or power specially modified devices by touch (treat as a standard battery).
@@ -44,10 +46,13 @@ Implanted weaponry can be combined with eelware to deliver electric shocks.
 
 **Spur:** A smart-material blade is bonded to the bones on the back of the morph’s hand, foot, or other strategic place. This blade extends up to 6 inches through concealed ports.
 
+<!--order-end-->
+
 ## Melee Weapons
 
 Melee weapons range from the archaic to high tech:
 
+<!--order-->
 **Club:** Clubs encompasses a wide range of one-handed blunt objects, from saps to sticks to pipes.
 
 **Densiplast Gloves:** These gloves extra-harden when activated, for extra punch. A set of gloves on each hand counts as a single weapon.
@@ -74,10 +79,13 @@ Melee weapons range from the archaic to high tech:
 
 **Wasp Knife:** Wasp knives are equipped with a single-use compressed-air canister in their handle. When stabbing a target in vacuum or a pressurized environment (like underwater), you can trigger the gas to release so that it bursts out of the victim’s body cavity, inflicting +2d10&nbsp;DV. Wasp knives may also be loaded with chemicals, drugs, or nanobots. The target must be damaged for the canister’s contents to affect them.
 
+<!--order-end-->
+
 ## Melee Rules
 
 These rules apply specifically to close combat.
 
+<!--order-->
 ### Aggressive Attacks
 
 Aggressive attacks go all-out, regardless of consequences. You choose either +10 to hit or +1d10&nbsp;DV when aggressive, but you also suffer −10 to Fray Tests until your next action.
@@ -103,6 +111,8 @@ On each subsequent action turn, a grappling character must spend a complex actio
 - **Knockdown:** Grappled victims must make a Melee Test or SOM Check at −30 or be knocked prone. They remain grappled and cannot stand up/re-orient until they are released or break free.
 - **Move:** The grappler can move themselves and the subdued opponent at half their Movement Rate.
 
+<!--order-end-->
+
 ## Multiple Targets
 
 When engaging in a melee attack, you may choose to attack two or more opponents with the same complex action. Each opponent must be within one meter of another attacked opponent. These attacks must be declared before the dice are rolled for the first attack. Each attack suffers a cumulative −20 modifier for each extra target. So if you attack three characters with the same action, you take −40 on each attack. Roll each attack and damage separately.
@@ -121,19 +131,20 @@ Some attacks simply require you to touch your target, rather than injure them, a
 
 These modifiers apply to close-combat attacks.
 
-| Situation                                         |           Modifiers            |
-| :------------------------------------------------ | :----------------------------: |
-| Aggressive                                        | +10 or +1d10&nbsp;DV, −10 Fray |
-| Charging                                          |       −10, +1d6&nbsp;DV        |
-| Extra Weapon (Attack)                             |          +1d6&nbsp;DV          |
-| Extra Weapon (Defense)                            |              +10               |
-| Grappling                                         |                                |
-| <div class="indent">» Smaller-Size Opponent</div> |       +20 per size step        |
-| <div class="indent">» Larger-Size Opponent</div>  |       −20 per size step        |
-| <div class="indent">» 2+ Limbs Advantage</div>    |              +20               |
-| <div class="indent">» 2+ Limbs Disadvantage</div> |              −20               |
-| Multiple Targets                                  |      −20 per extra target      |
-| Reach                                             |          +10 or more           |
-| Touch-Only                                        |         +20, no damage         |
+<!--order-->
+| Situation                                                           |           Modifiers            |
+| :------------------------------------------------------------------ | :----------------------------: |
+| Aggressive                                                          | +10 or +1d10&nbsp;DV, −10 Fray |
+| Charging                                                            |       −10, +1d6&nbsp;DV        |
+| Extra Weapon (Attack)                                               |          +1d6&nbsp;DV          |
+| Extra Weapon (Defense)                                              |              +10               |
+| Grappling                                                           |                                |
+| <!--order-union--><div class="indent">» Smaller-Size Opponent</div> |       +20 per size step        |
+| <!--order-union--><div class="indent">» Larger-Size Opponent</div>  |       −20 per size step        |
+| <!--order-union--><div class="indent">» 2+ Limbs Advantage</div>    |              +20               |
+| <!--order-union--><div class="indent">» 2+ Limbs Disadvantage</div> |              −20               |
+| Multiple Targets                                                    |      −20 per extra target      |
+| Reach                                                               |          +10 or more           |
+| Touch-Only                                                          |         +20, no damage         |
 
 </blockquote>
