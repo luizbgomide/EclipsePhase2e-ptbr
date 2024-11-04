@@ -21,6 +21,7 @@ Psi-chi sleights are passive, always-on, subconscious abilities available to any
 All psi-chi sleights are automatic actions and have:<br>
 **Range:** Self • **Duration:** Constant • no Infection Modifier.
 
+<!--order-->
 | Sleight                                       | Description                                                                      |
 | :-------------------------------------------- | :------------------------------------------------------------------------------- |
 | [Charisma](#charisma)                         | Lowers inhibitions, boosts charm. +1 Moxie Pool.                                 |
@@ -46,6 +47,7 @@ All psi-chi sleights are automatic actions and have:<br>
 
 </blockquote>
 
+<!--order-->
 ### Charisma
 
 Your inhibitions are lowered, social intuition expanded, and emotional intelligence augmented. This enhances your ability to navigate social situations and process emotional information. Increase Moxie pool by 1.
@@ -132,6 +134,8 @@ You haver finer control over your emotive signals, body language, and micro-expr
 
 You have an intuitive understanding of non-human, non-terrestrial organisms (animal analogues). You can make a SAV Check to acquire insight into the creature’s ecological niche, motivations, needs, and likely behavioral responses (if non-sapient) or mental/emotional state (if sapient).
 
+<!--order-end-->
+
 ## Psi-Gamma Sleights
 
 Psi-gamma sleights influence the function of biological minds (egos within a biomorph, but also including animal life). Psi-gamma is only available to characters with Level 2 of the Psi trait. Psi-gamma sleights must be activated, requiring a quick, complex, or task action and a Psi skill test. Sleights that target other sentient beings or life forms are always opposed tests, while others are handled as success tests. Active sleights require significant effort from the async and may cause their exovirus infection to flare up ([Infection Modifiers](04-using-psi.md#infection-modifiers)).
@@ -140,6 +144,7 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 ### Psi-Gamma Sleights
 
+<!--order-->
 | Sleight                                     | Action  |   Duration   | Infection Mod | Description                                                                                                                                       |
 | :------------------------------------------ | :-----: | :----------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Alter Effect](#alter-effect)               | Complex |   Instant    |       2       | Increase or reduce the duration of a drug or toxin affecting the target by half.                                                                  |
@@ -182,6 +187,7 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 </blockquote>
 
+<!--order-->
 ### Alter Effect
 
 **Action:** Complex • **Duration:** Instant • **Infection Mod:** 2
@@ -407,3 +413,5 @@ You implant a single post-hypnotic suggestion into the target’s mind which the
 **Action:** Complex • **Duration:** Minutes • **Infection Mod:** 4
 
 You calm the target, relieving stress and anxiety. The target is relieved of the effects of an [acute stress response](../12/18-mental-health.md#acute-stress-responses) or triggered disorder for WIL ÷ 5 minutes. You may not use this sleight on yourself.
+
+<!--order-end-->

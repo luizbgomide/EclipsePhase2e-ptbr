@@ -14,6 +14,7 @@ Many Eclipse Phase campaigns focus around x-risks: dangers to transhumanity’s 
 
 Some of the x-risks that characters are liable to encounter (or cause).
 
+<!--order-->
 ## Alien Conflict
 
 Conflict with the Factors has been a fear since first contact. The Factors possess advanced technology, keep their full tactical capabilities secret, have at least one hidden facility in the Solar System — and they know where transhumanity lives. Open hostilities may be one diplomatic incident away. PCs may be tasked with intercepting Factor technology, tracking Factor assets, defusing attacks against the Factors, or even infiltrating Factor spacecraft.
@@ -65,3 +66,5 @@ As the team chases TITAN weapons, make exoplanet discoveries, or navigate underw
 ## Unforeseen Threats
 
 There are some dangers that might be so beyond our understanding that we don’t even recognize the peril. Advanced technology/beings, physics experiment mistakes, rifts between our universe and the next, a shift in the underlying physics of the universe — how can we plan for something so beyond our frame of reference? Such black swans and outside-context problems cannot be predicted or discounted, but we can at least make some limited contingencies. Unfortunately, such situations are likely going to resort to a hard scrabble for survival.
+
+<!--order-end-->

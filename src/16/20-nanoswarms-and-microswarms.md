@@ -60,6 +60,7 @@ Individual mites are very vulnerable. They fail and get stepped on, breathed in,
 
 Swarms are released directly from a hive or from pre-packaged programmable canisters.
 
+<!--order-->
 | SWARMS             |     Comp/<wbr>GP     | Description                                                                        |
 | :----------------- | :------------------: | :--------------------------------------------------------------------------------- |
 | Cleaner Swarm      |        Min/1         | Cleans, eliminates forensic evidence.                                              |
@@ -75,6 +76,7 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | Spy Swarm          |        Min/1         | Surveillance, Perceive 60.                                                         |
 | Taggant Swarm      |        Min/1         | Tag everything in area for tracking purposes.                                      |
 
+<!--order-->
 **Cleaner:** This nanoswarm cleans, polishes, and removes dirt and stains. You may deploy it to sanitize an area, specific objects, or people. Some facilities employ permanent cleaner swarms to keep their area spotless. Cleaners are especially useful for decontaminating an area of hazardous toxins or chemicals. Covert operatives and criminals use cleaners to eliminate potential forensic evidence, such as blood, hair, or anything that could be DNA-typed.
 
 **Disassembler:** Also known as smart corrosives, these nanobots break down matter. They can be programmed to take apart specific materials while ignoring others, leaving them intact. They are sometimes used as an anti-matériel weapon, eating away at synthmorphs, weapons, and gear while ignoring biomorphs (or vice versa). Upon contact, disassemblers inflict DV 1d6 per action turn. Accumulated damage counts as a wound when your Wound Threshold is reached. Worn armor (both energy and kinetic) protects against this damage (unless the swarm is programmed to ignore it), but is also eaten away; reduce the AV by the damage inflicted, splitting it between armor types (i.e., a disassembler inflicting DV 2 turns AV 4/2 into 3/1).
@@ -98,3 +100,5 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 **Spy:** Also known as “smart dust,” spy swarms are invisible clouds of surveillance. Spy mites are loaded with cameras (standard visual wavelengths), microphones, and chemical sensors. They offer blanket surveillance of an area. Each swarm has Perceive 60.
 
 **Taggant:** Taggants grip onto and lodge themselves into everything in their dispersal volume. Each carries a unique identifier, so that if it is found, the tagged person or object can be linked to the point they were tagged. Taggants can be programmed to remain silent, responding to query broadcasts made with the proper crypto codes, or they can be programmed to broadcast their location back to the deployer via the mesh. Some high-security facilities deploy taggants at their egress points when alarms are triggered to mark intruders.
+
+<!--order-end-->

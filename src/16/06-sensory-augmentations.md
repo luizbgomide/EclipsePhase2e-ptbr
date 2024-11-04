@@ -2,6 +2,7 @@
 
 This ware improves your morph’s sensory capabilities.
 
+<!--order-->
 | SENSORY AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                      |
 | :-------------------- | :-------: | :----------: | :------------------------------------------------------------------------------- |
 | 360° Vision           |    BCH    |    Min/1     | See in all directions at once.                                                   |
@@ -21,6 +22,7 @@ This ware improves your morph’s sensory capabilities.
 | Sonar                 |    BCH    |    Min/1     | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                     |
 | T-Ray Emitter         |    CH     |    Min/1     | Use enhanced vision to see through materials.                                    |
 
+<!--order-->
 **360° Vision:** The morph’s eyes/visual sensors are situated for a 360-degree field of vision.
 
 **Anti-Glare:** This mod eliminates penalties for glare. If you have enhanced vision, this works for all wavelengths you can perceive.
@@ -52,3 +54,5 @@ This ware improves your morph’s sensory capabilities.
 **Sonar:** You possess echolocation like a bat or dolphin. You bounce ultrasonic pulses off your surroundings and measure the echoes to build an image of the environment ([Senses and Sensors](07-senses-and-sensors.md)). This augmentation works in both air and water, out to a range of 20 (air) or 100 (water) meters.
 
 **T-Ray Emitter:** Mounted under the skin of the user’s forehead, this implant generates low-powered beams of terahertz radiation (t-rays). Characters with enhanced vision can use reflected t-rays to see effectively see through walls and other materials ([Senses and Sensors](07-senses-and-sensors.md)). This implant allows the user to see using reflected t-rays for 20 meters in a normal atmosphere and for 100 meters in vacuum.
+
+<!--order-end-->

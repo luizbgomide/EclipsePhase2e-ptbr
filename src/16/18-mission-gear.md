@@ -2,39 +2,49 @@
 
 These tools are useful for a wide variety of missions.
 
+<!--order-->
 ## Exploration Tools
 
 Gatecrashers and other explorers rely on these.
 
+<!--order-->
 | EXPLORATION TOOLS | Comp/<wbr>GP | Description                                                                   |
 | :---------------- | :----------: | :---------------------------------------------------------------------------- |
 | Blue Box          |    Rare/—    | Portable pandora gate interface.                                              |
 | Mapping Missile   |    Mod/2     | Maps planet from low polar orbit in 24–48 hours.                              |
 | Scout Missile     |    Mod/2     | Maps 5&nbsp;km radius or 10&nbsp;km one direction in 20 minutes, Perceive 60. |
 
+<!--order-->
 **Blue Box:** Named for the cobalt shade in which they were originally manufactured, blue boxes are small-sized pandora gate control devices. They must be physically attached to a gate to control it; this requires a Hardware: Electronics task action at −10 with a timeframe of 1 hour. Blue boxes have built-in self-destruct mechanisms, so that you can destroy the device in the event it might fall into alien hands.
 
 **Mapping Missile:** This medium-sized portable rocket extends struts, aims itself, and launches into a low polar orbit on any planet with gravity below 2&nbsp;g. Over a 1–2 day period, it uses a variety of sensors (radar, visual, infrared, mass, spectrographic) to map the planet and beam this information back. The maps are low resolution, showing nothing less than 100 meters across, but it will identify large masses, cities, lights on the planet’s dark side, atmospheric conditions, and data on the planet’s rotation and gravity.
 
 **Scout Missile:** These small-sized missiles are easy to set up and launch from a disposable tube. They map the area in a 5-kilometer radius from their launch point, or out to 10 kilometers in a specified direction, in 20 minutes. Carrying visual, infrared, radar, and lidar sensors, and flying at an altitude of 100 meters, they can map terrain, locate structures, identify features of interest, and search for anything you specify with a Perceive 60. They transmit their sensor and telemetry data in real-time.
 
+<!--order-end-->
+
 ## Salvage Tools
 
 This technology is often employed by gatecrashers, space scavengers, and Firewall teams during missions.
 
+<!--order-->
 | SALVAGE TOOLS         |        Comp/<wbr>GP        | Description                                                                      |
 | :-------------------- | :------------------------: | :------------------------------------------------------------------------------- |
 | Disassembly Tools     |           Mod/2            | Heavy and smart tools for taking things apart.                                   |
 | Superthermite Charges | Maj/R/3<br>(per 5 charges) | Nanometal explosive. DV 6d10 + 10 \[43\], set/shaped with Hardware: Demolitions. |
 
+<!--order-->
 **Disassembly Tools:** This collection of tools is useful for salvage ops, breaking down wrecks, or dissembling anything from a habitat room to a vehicle or synthmorph. They include plasma torches, laser cutters, pneumatic jaws, and smart-material tools like spanners and wrenches that can be adapted to a wide array of connections and fittings. Together, these tools are medium sized, usually ported by robomule.
 
 **Superthermite Charges:** These powerful and highly stable demolition charges are made from a combination of nanometals and metal oxides. A single charge can be used to create an explosive blast inflicting DV 6d10 + 10 \[43\] when set with Hardware: Demolitions. A charge can be shaped with a successful Hardware: Demolitions Test, focusing the blast in a particular 90-degree direction (for example, to blow through a door). This triples the damage of the blast in the focused direction; in all other directions, the damage is reduced to 1/3rd. Multiple charges apply a cumulative effect.
+
+<!--order-end-->
 
 ## Science Tools
 
 When scientists take to the field, this is what they use.
 
+<!--order-->
 | SCIENCE TOOLS       | Comp/<wbr>GP | Description                                                               |
 | :------------------ | :----------: | :------------------------------------------------------------------------ |
 | Adaptive Interface  |    Maj/3     | Smart connectors for accessing/analyzing relics. Interface 60, more.      |
@@ -43,6 +53,7 @@ When scientists take to the field, this is what they use.
 | Portable SolArchive |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh. |
 | Specimen Container  |    Min/1     | Holds samples in stasis conditions.                                       |
 
+<!--order-->
 **Adaptive Interface:** If the event you must interact with ancient technology — perhaps even a still-functioning alien relic — the adaptive interface features smart-material connectors that can connect to almost any conceivable piece of technology. It is also equipped with nano-probe sensors that can analyze the device’s structure and map out its internal functions. The interface’s ALI is equipped with Know: Computer Science, Know: Electrical Engineering, Know: Xenodata, and Interface skills at 60, as well as Infosec and Program at 40. Connecting to and analyzing relics is a task action with a timeframe of 1 hour, possibly longer (GM discretion). This interface severs mesh connections when analyzing unknown devices, so as not to unwittingly spread infections. It is not compatible with biological technology or nanotech more advanced than transhumanity’s.
 
 **Fractal Gloves:** These gloves mimic the function of [fractal digits](11-physical-augmentations.md). The digits include micro-cameras that provide the function of [nanoscopic vision](06-sensory-augmentations.md).
@@ -53,10 +64,13 @@ When scientists take to the field, this is what they use.
 
 **Specimen Container:** This capsule container is designed to hold samples of any sort (chemical, biological, etc.) in near stasis. It can be programmed to reproduce whatever conditions the user specifies, from cryogenic freezing to extreme heat, or even vacuum or high-pressure atmosphere. The containers are also encased in a superconductive wire mesh that acts as a faraday cage and blocks mesh and radio signals and similar electromagnetic radiation.
 
+<!--order-end-->
+
 ## Survival Tools
 
 The following gear is often critical to the survival of soldiers, spies, criminals, gatecrashers, emergency service personnel, and others who regularly venture into unsafe or unfamiliar regions.
 
+<!--order-->
 | SURVIVAL TOOLS       | Comp/<wbr>GP | Description                                                     |
 | :------------------- | :----------: | :-------------------------------------------------------------- |
 | Electrogravitics Net |    Min/1     | Slows falls with electric fields. Reduce distance by 50&nbsp;m. |
@@ -67,6 +81,7 @@ The following gear is often critical to the survival of soldiers, spies, crimina
 | Spindle              |    Mod/2     | Fullerene cable fabber, supports 5,000&nbsp;kg.                 |
 | Spindle Climber      |    Min/1     | Launcher and powered ascender, Movement 12.                     |
 
+<!--order-->
 **Electrogravitics Net:** Also called a safety net, this failsafe system uses electric fields to counter gravity when falling. While the system is not able to actually levitate heavy objects, it will slow down a fall enough that the user can land safely if the gravitational force is not too high (less than 50 meters in 1&nbsp;g). Reduce the distance of longer falls by 50 meters when calculating damage. Generating these electric fields consumes a lot of energy, so the net is only good for one use before it must be recharged, taking 4 hours.
 
 **Electronic Rope:** This rope’s fibers can be controlled electronically: making it move in a snakelike fashion, stiffen up, and wrap around objects. It comes in a 50-meter length capable of supporting 250&nbsp;kg. An e-rope can be cut by inflicting 20 points of damage.
@@ -80,6 +95,8 @@ The following gear is often critical to the survival of soldiers, spies, crimina
 **Spindle:** Spindles are wound lengths of thin (0.2 millimeters) but super-strong fullerene cable. It can extend 250 meters of cable capable of supporting 5,000 kilograms of weight at 1&nbsp;g. The spindle also contains a specialized fabber that can manufacture more cable and extend it indefinitely, at a rate of 1 meter per minute, as long as it is fed with raw materials. The spindle can cut the cables it produces at any length. If fixed in place with built-in grip pads, it can also retract the cable at a rate of 50 meters per action turn, or re-absorb cables at the rate of 5 meters per minute. Spindle cables can be cut by inflicting 30 points of damage.
 
 **Spindle Climber:** This device attaches to a spindle and transforms it into a highly effective climbing device. The spindle climber has two functions. First, it attaches hardened tips to the spindle’s cable and fires it at high speed, up to 50 meters, with sufficient force to imbed the tip into almost any sufficiently durable surface (if used as a weapon, it inflicts DV 2d10). Second, the spindle climber can pull itself and up to 250&nbsp;kg up the cable at a speed of 12 meters per turn.
+
+<!--order-end-->
 
 ## Vacsuits
 
@@ -99,3 +116,5 @@ Unless specifically noted, assume characters have newer models that function the
 **Light Vacsuit:** Both smart-fabric and legacy light vacsuit models are ideal for less harsh environments such as Mars, the Venusian clouds, or exoplanets with moderate but unbreathable atmospheres. Their rebreathers provide 8 hours of air. All models include a headlight, an ecto, and atmospheric sensors. They protect you from temperatures from −75 to 100&nbsp;°C. These vacuum suits also provide an Armor Value of 5/2 and instantly self-seal breaches unless more than 20 points of damage are inflicted at once.
 
 **Standard Vacsuit:** Made from thicker and more durable materials, standard vacsuits provide 48 hours of air and incorporate an autocook capable of recycling all wastes and producing food and water indefinitely. Each suit is equipped with an ecto, a radio booster, specs, and atmospheric sensors. These suits have an Armor Value of 8/6 and protect you from temperatures from −175 to 140&nbsp;°C. They instantly seal any hole unless more than 30 points of damage are inflicted at once.
+
+<!--order-end-->

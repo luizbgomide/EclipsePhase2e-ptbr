@@ -6,6 +6,7 @@ Any time you attempt to do something that your [access privileges](05-authentica
 
 Aside from exceeding your privileges, there are some techniques that are explicitly subversive. A sampling of common subversions are described below; GMs should use these as guidelines for arbitrating others.
 
+<!--order-->
 ## Break Encryption
 
 You can attempt to decrypt an encrypted file without proper authorization ([Codebreaking](05-authentication-and-encryption.md#codebreaking)).
@@ -99,6 +100,8 @@ You can access and monitor any augmented reality experienced by a user as if it 
 If hacking mesh inserts or a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), you can tap into the target’s sensorium for surveillance purposes.
 
 Sensory data may also be recorded or broadcast as XP.
+
+<!--order-end-->
 
 <blockquote>
 

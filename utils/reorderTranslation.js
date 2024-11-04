@@ -2,14 +2,17 @@
 
 const fs = require("fs");
 const path = require("path");
+const { constrainedMemory } = require("process");
 const readline = require('readline');
 
 const orderTag = "<!--order-->"; // must be on a single line right before the first item, can happen after an end-order
 const orderByTag = "<!--order-by-->"; // on table column header: columns to use for ordering
+const orderRollTag = "<!--order-roll-->"; // on table column header: columns to use for ordering
 const orderCellsTag = "<!--order-cells-->"; // on table column header: ignore table and sort cell content from selected columns
 const orderEndTag = "<!--order-end-->"; // must be on a single line after a blank line
-const orderUnionTag = "<!--order-union-->"; // join with the previous item, use on empty line between text and titles. Can be used at the start to skip the fir
+const orderUnionTag = "<!--order-union-->"; // join with the previous item during ordering
 const tableColumnRE = /(?<!\\)\|/;
+const rollDash = '–';
 
 function readDirectory(dir) {
     fs.readdirSync(dir, { withFileTypes: true }).forEach((item) => {
@@ -88,42 +91,32 @@ function compare(a, b) {
 
 function reorderContent(reversedLines) {
     let result = [];
-    let orderBy = 1;
+    let colBy = 1;
+    let colRoll = -1;
     let cellCols = [];
     // text: "", list: "-", table: "|", title: "#+ "
-    let delimiter = reversedLines.at(-1)?.match(/^(\s*-|\||#+ )/)?.[0] ?? "";
+    let delimiter = reversedLines.at(-1)?.match(/^\s*(-|\||#+ )/)?.[0] ?? "";
     if (delimiter === "|") {
         let headerLine = reversedLines.pop();
         let cols = headerLine.split(tableColumnRE); // index 0 and last should be empty
         cellCols = cols.map((value, index) => value.includes(orderCellsTag) ? index : -1).filter(index => index > 0);
-        orderBy = cols.findIndex(value => value.includes(orderByTag));
-        if (orderBy >= 0 && cellCols.length > 0) {
+        colBy = cols.findIndex(value => value.includes(orderByTag));
+        colRoll = cols.findIndex(value => value.includes(orderRollTag));
+        if (colBy >= 0 && cellCols.length > 0) {
             throw new Error(`Cannot use order-by with order-cells.`);
         }
-        orderBy = orderBy >= 0 ? orderBy : 1;
+        colBy = colBy >= 0 ? colBy : 1;
         result.push(headerLine);
         headerLine = reversedLines.pop();
         result.push(headerLine);
     }
     let unorderedBlocks = [];
     let currTarget = result;
+    let newBlockReady = true;
     while (reversedLines.length > 0) {
         const line = reversedLines.pop();
-        if (line.includes(orderTag)) {
-            currTarget.push(line);
-            currTarget.push(...reorderContent(reversedLines));
-            continue;
-        }
-        if (line.includes(orderUnionTag)) {
-            currTarget.push(line);
-            // add the next line with text and titles, this tag is usually on an empty line
-            if (delimiter === "" || delimiter.startsWith("#")) {
-                const nextLine = reversedLines.pop();
-                currTarget.push(nextLine);
-            }
-            continue;
-        }
-        if (line.includes(orderEndTag) || ((delimiter === "|" || delimiter === "-") && line.trim() === "")) {
+        const emptyLine = line.trim() === "";
+        if (line.includes(orderEndTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
             // if ordering by title or text, make sure the last line of each block is empty
             if (delimiter === "" || delimiter.startsWith("#")) {
                 unorderedBlocks.forEach(block => {
@@ -132,7 +125,9 @@ function reorderContent(reversedLines) {
                 });
             }
             if (delimiter === "|") {
-                unorderedBlocks.map(block => block[0] = block[0].split(tableColumnRE));
+                unorderedBlocks = unorderedBlocks.map(block => block.map(row => row.split(tableColumnRE)));
+                let currRollValue = Number.parseInt(unorderedBlocks[0][0][colRoll]?.trim().split(rollDash)[0]);
+                const rollColWidth = unorderedBlocks[0][0][colRoll]?.length;
                 if (cellCols.length > 0) {
                     let cellContent = [];
                     cellCols.forEach(colIndex => cellContent.push(...unorderedBlocks.map(block => block[0][colIndex])));
@@ -140,20 +135,47 @@ function reorderContent(reversedLines) {
                     cellContent.reverse();
                     cellCols.forEach(colIndex => unorderedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
                 } else {
-                    unorderedBlocks.sort((a, b) => compare(a[0][orderBy], b[0][orderBy]));
+                    unorderedBlocks.sort((a, b) => compare(a[0][colBy], b[0][colBy]));
                 }
-                unorderedBlocks.forEach(block => block[0] = block[0].join("|"));
+                const orderedRows = unorderedBlocks.flat();
+                if (colRoll >= 0) {
+                    orderedRows.forEach(row => {
+                        const values = row[colRoll].trim().split(rollDash).map(v => Number.parseInt(v));
+                        const extraRange = values.length > 1 ? values[1] - values[0] : 0;
+                        const newRollCellValues = ` ${currRollValue}${extraRange > 0 ? `${rollDash}${currRollValue + extraRange}` : ""} `;
+                        // I'm assuming the cell content is centered
+                        row[colRoll] = " ".repeat((rollColWidth - newRollCellValues.length) / 2).concat(newRollCellValues).padEnd(rollColWidth);
+                        currRollValue += extraRange + 1;
+                    });
+                };
+                result.push(...orderedRows.map(row => row.join("|")));
             } else {
                 unorderedBlocks.sort((a, b) => compare(a[0], b[0]));
+                const orderedLines = unorderedBlocks.flat();
+                result.push(...orderedLines);
             }
-            let orderedResult = unorderedBlocks.flat();
-            result.push(...orderedResult);
             result.push(line);
             break;
         }
-        if (line.trim() !== "" && line.startsWith(delimiter)) {
+        if (emptyLine) {
+            currTarget.push(line);
+            newBlockReady = true;
+            continue;
+        }
+        if (line.includes(orderTag)) {
+            currTarget.push(line);
+            currTarget.push(...reorderContent(reversedLines));
+            continue;
+        }
+        if (line.includes(orderUnionTag)) {
+            currTarget.push(line);
+            newBlockReady = false;
+            continue;
+        }
+        if (newBlockReady && line.startsWith(delimiter)) {
             unorderedBlocks.push([line]);
             currTarget = unorderedBlocks[unorderedBlocks.length - 1];
+            newBlockReady = delimiter === "|" || delimiter === "-";
             continue;
         }
         currTarget.push(line);
@@ -165,10 +187,6 @@ function reorderContent(reversedLines) {
 }
 
 function reorderFiles() {
-    try {
-        readDirectory(sourceDir);
-        console.log(`\n\nProcess complete.\nReordered files written to: "${outputDir}"`);
-    } catch (error) {
-        console.error(error.message);
-    }
+    readDirectory(sourceDir);
+    console.log(`\n\nProcess complete.\nReordered files written to: "${outputDir}"`);
 }
