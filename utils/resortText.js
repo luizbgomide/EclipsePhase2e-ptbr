@@ -11,6 +11,8 @@ const sortRollTag = "<!--sort-roll-->"; // on table column header: columns to us
 const sortCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns
 const sortEndTag = "<!--sort-end-->"; // must be on a single line after a blank line
 const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
+const sortFixedTag = "<!--sort-fixed-->"; // on tables and lists those rows have keep a fixed positon
+const sortRestartTag = "<!--sort-restart-->" // on tables and lists end the previous sort and restart a new one
 const sortSkipTagRE = /<span[^>]*class="[^"]*sort-skip[^"]*"[^>]*>.*?<\/span>/gi; // use <span class="sort-skip"> to ignore articles like The
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
@@ -85,7 +87,7 @@ else {
 }
 
 function compare(a, b) {
-    return compareText(a.replace(sortSkipTagRE,''), b.replace(sortSkipTagRE,''));
+    return compareText(a.replace(sortSkipTagRE, ''), b.replace(sortSkipTagRE, ''));
 }
 
 function resortContent(reversedLines) {
@@ -93,6 +95,7 @@ function resortContent(reversedLines) {
     let tableByCol = 1;
     let tableRollCol = -1;
     let tableCells = [];
+    let tableFixed = [];
     // text: "", list: "-", table: "|", title: "#+ "
     let delimiter = reversedLines.at(-1)?.match(/^\s*(-|\||#+ )/)?.[0] ?? "";
     const sortBlockMode = reversedLines.at(-1)?.trim() === sortBlockTag;
@@ -134,9 +137,10 @@ function resortContent(reversedLines) {
                         block.push("");
                 });
             }
+            // TODO extract fixed and then add them again on result??? will work for block mode???
             if (delimiter === "|") {
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.split(tableColumnRE)));
-                let currRollValue = Number.parseInt(unsortedBlocks[0][0][tableRollCol]?.trim().split(rollDash)[0]);
+                const firstValueText = unsortedBlocks[0][0][tableRollCol]?.split(rollDash)[0].trim();
                 const rollColWidth = unsortedBlocks[0][0][tableRollCol]?.length;
                 if (tableCells.length > 0) { // sort only cell content
                     let cellContent = [];
@@ -150,10 +154,13 @@ function resortContent(reversedLines) {
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
                     const sortedRows = unsortedBlocks.flat();
                     if (tableRollCol >= 0) {
+                        const rollNumberMinWidth = firstValueText.length;
+                        let currRollValue = Number.parseInt(firstValueText);
                         sortedRows.forEach(row => {
                             const values = row[tableRollCol].trim().split(rollDash).map(v => Number.parseInt(v));
                             const extraRange = values.length > 1 ? values[1] - values[0] : 0;
-                            const newRollCellValues = ` ${currRollValue}${extraRange > 0 ? `${rollDash}${currRollValue + extraRange}` : ""} `;
+                            const newRollCellValues = currRollValue.toString().padStart(rollNumberMinWidth, '0').concat(
+                                extraRange > 0 ? rollDash + (currRollValue + extraRange).toString().padStart(rollNumberMinWidth, '0') : "");
                             // I'm assuming the cell content is centered
                             row[tableRollCol] = newRollCellValues.padStart((rollColWidth + newRollCellValues.length) / 2).padEnd(rollColWidth);
                             currRollValue += extraRange + 1;
@@ -189,8 +196,12 @@ function resortContent(reversedLines) {
         }
         if (line.includes(sortUnionTag)) {
             currTarget.push(line);
-            newBlockReady = false;
+            newBlockReady = delimiter === "|" || delimiter === "-";
             continue;
+        }
+        if (line.includes(sortFixedTag)) {
+            tableFixed = unsortedBlocks.length
+            newBlockReady = true;
         }
         if (newBlockReady && line.trimStart().startsWith(delimiter)) {
             unsortedBlocks.push([]);
