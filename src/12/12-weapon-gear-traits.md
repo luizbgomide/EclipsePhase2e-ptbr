@@ -2,7 +2,7 @@
 
 A number of weapons and some gear items list specific traits that indicate special effects. Some of these inflict specific [conditions](21-other-action-factors.md#conditions) on the target:
 
-<!--order-->
+<!--sort-->
 - **Armor-Piercing:** This weapon penetrates armor. The attack inflicts −1d10&nbsp;DV, but armor is halved. Weapons and ammo types listed as armor-piercing already incorporate the DV modifier. Additional armor-piercing effects are ignored.
 - **Blinding:** Targets must make a REF Check or be [blinded](21-other-action-factors.md#conditions) for 1 action turns, +1 per superior failure. A critical failure results in permanent blindness until repaired or they spend time in a healing vat. Anti-glare ware protects against blinding based on light.
 - **Concealable:** This item is easily hidden. You receive a +30 to Infiltrate Tests to hide this item on your person (or elsewhere).

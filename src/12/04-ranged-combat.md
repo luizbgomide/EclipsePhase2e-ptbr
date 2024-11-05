@@ -8,7 +8,7 @@ Most ranged weapons are constructed from lightweight but hardy ceramic hybrids a
 
 The following rules apply to all types of ranged attacks.
 
-<!--order-->
+<!--sort-->
 ### Aiming
 
 If firing in single-shot or semi-auto mode, you can expend your quick action to aim. Apply a +10 modifier to your attack.
@@ -41,7 +41,7 @@ Ranged weapons have one or more firing modes that determines their rate of fire:
 
 <blockquote class="table">
 
-<!--order-union-->
+<!--sort-union-->
 ### Firing Modes
 
 | Mode                                               | Effect                                                |
@@ -75,7 +75,7 @@ Every ranged weapon has a range rating, indicating the distance to which it is o
 
 To provide cover for an ally, you can lay down suppressive fire over an area rather than targeting anyone specifically, with the intent of making everyone in the suppressed area keep their heads down. This takes a complex action, full-auto mode, and uses up 20 shots. The suppressed area extends out in a cone, with the widest diameter of the cone being up to 20 meters across. Any character who is not behind cover or who does not immediately move behind cover on their action is at risk of getting hit by the suppressive fire. Make one attack roll with no modifiers except for range and wounds. Apply it to anyone moving out of cover inside the suppressed area; they defend as normal. If struck, they resist damage as if from a single shot.
 
-<!--order-end-->
+<!--sort-end-->
 
 <blockquote class="table">
 
@@ -83,29 +83,29 @@ To provide cover for an ally, you can lay down suppressive fire over an area rat
 
 These modifiers apply to ranged combat attacks.
 
-<!--order-->
+<!--sort-->
 | Situation                                                               |                                      Modifiers                                       |
 | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------: |
 | Aim (Quick Action)                                                      |                                         +10                                          |
-| <!--order-union-->Aim (Complex Action)                                  |                                         +30                                          |
+| <!--sort-union-->Aim (Complex Action)                                  |                                         +30                                          |
 | Attacker Behind/Coming Out of Cover                                     |                                         −10                                          |
 | Attacker In Melee                                                       |                                −10 (−30 long weapons)                                |
 | Attacker Not Using Smartlink or Laser Sight                             |                                         −10                                          |
 | Attacker Firing Multiple Weapons At Once                                |                             −20 cumulative (after first)                             |
 | Defender Behind Minor Cover                                             |                                         −10                                          |
-| <!--order-union-->Defender Behind Moderate Cover                        |                                         −20                                          |
-| <!--order-union-->Defender Behind Major Cover                           |                                         −30                                          |
+| <!--sort-union-->Defender Behind Moderate Cover                        |                                         −20                                          |
+| <!--sort-union-->Defender Behind Major Cover                           |                                         −30                                          |
 | Defender Hidden                                                         | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
 | Defender Prone and at Range (10+ m)                                     |                                         −10                                          |
 | Firing Mode                                                             |                                                                                      |
-| <!--order-union--><div class="indent">» Single-Shot/Semi-Auto</div>     |                                          +0                                          |
-| <!--order-union--><div class="indent">» Burst Fire (Concentrated)</div> |                                 +10 or +1d10&nbsp;DV                                 |
-| <!--order-union--><div class="indent">» Full Auto (Concentrated)</div>  |                                 +30 or +2d10&nbsp;DV                                 |
+| <!--sort-union--><div class="indent">» Single-Shot/Semi-Auto</div>     |                                          +0                                          |
+| <!--sort-union--><div class="indent">» Burst Fire (Concentrated)</div> |                                 +10 or +1d10&nbsp;DV                                 |
+| <!--sort-union--><div class="indent">» Full Auto (Concentrated)</div>  |                                 +30 or +2d10&nbsp;DV                                 |
 | Indirect Fire                                                           |                                         −20                                          |
 | Range                                                                   |                                                                                      |
-| <!--order-union--><div class="indent">» Point-Blank (2&nbsp;m)</div>    |                                         +10                                          |
-| <!--order-union--><div class="indent">» Close (10&nbsp;m)</div>         |                                          +0                                          |
-| <!--order-union--><div class="indent">» Range</div>                     |                                         −10                                          |
-| <!--order-union--><div class="indent">» Beyond Range</div>              |             −10 per Range increment<br>−1d10&nbsp;DV for kinetic weapons             |
+| <!--sort-union--><div class="indent">» Point-Blank (2&nbsp;m)</div>    |                                         +10                                          |
+| <!--sort-union--><div class="indent">» Close (10&nbsp;m)</div>         |                                          +0                                          |
+| <!--sort-union--><div class="indent">» Range</div>                     |                                         −10                                          |
+| <!--sort-union--><div class="indent">» Beyond Range</div>              |             −10 per Range increment<br>−1d10&nbsp;DV for kinetic weapons             |
 
 </blockquote>

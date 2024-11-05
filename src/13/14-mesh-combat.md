@@ -52,23 +52,23 @@ Software (except for account shells) may still be attacked after it has crashed.
 
 ### Mesh Durability
 
-<!--order-->
+<!--sort-->
 | Software                                                   | Wound Threshold | Durability | Death Rating |
 | :--------------------------------------------------------- | :-------------: | :--------: | :----------: |
 | Account Shell                                              |        3        |     15     |      NA      |
 | ALI                                                        |        4        |     20     |      40      |
 | App                                                        |        2        |     10     |      20      |
-| <!--order-union--><div class="indent">» Firewall App</div> |        6        |     30     |      60      |
+| <!--sort-union--><div class="indent">» Firewall App</div> |        6        |     30     |      60      |
 | Cyberbrain                                                 |        7        |     35     |      70      |
 | Infomorph                                                  |                 |            |              |
-| <!--order-union--><div class="indent">» Digimorph</div>    |        5        |     25     |      50      |
-| <!--order-union--><div class="indent">» Agent</div>        |        8        |     40     |      80      |
-| <!--order-union--><div class="indent">» Ikon</div>         |        6        |     30     |      60      |
-| <!--order-union--><div class="indent">» Operator</div>     |        7        |     35     |      70      |
+| <!--sort-union--><div class="indent">» Digimorph</div>    |        5        |     25     |      50      |
+| <!--sort-union--><div class="indent">» Agent</div>        |        8        |     40     |      80      |
+| <!--sort-union--><div class="indent">» Ikon</div>         |        6        |     30     |      60      |
+| <!--sort-union--><div class="indent">» Operator</div>     |        7        |     35     |      70      |
 | Operating System                                           |                 |            |              |
-| <!--order-union--><div class="indent">» Mote</div>         |        4        |     20     |      40      |
-| <!--order-union--><div class="indent">» Host</div>         |        8        |     40     |      80      |
-| <!--order-union--><div class="indent">» Server</div>       |       12        |     60     |     120      |
+| <!--sort-union--><div class="indent">» Mote</div>         |        4        |     20     |      40      |
+| <!--sort-union--><div class="indent">» Host</div>         |        8        |     40     |      80      |
+| <!--sort-union--><div class="indent">» Server</div>       |       12        |     60     |     120      |
 
 </blockquote>
 

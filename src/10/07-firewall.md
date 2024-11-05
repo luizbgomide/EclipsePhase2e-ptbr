@@ -56,7 +56,7 @@ Cells and servers can expect material support from the broader network when nece
 
 Here’s a handy reference to Firewall jargon:
 
-<!--order-->
+<!--sort-->
 - **Backups:** The Firewall faction that creates bunkers, caches, and contingency plans to survive an extinction event.
 - **Cell:** A clandestine group of Firewall sentinels.
 - **Conservatives:** The Firewall faction that argues using AGIs, asyncs, and alien/TITAN tech is too risky.

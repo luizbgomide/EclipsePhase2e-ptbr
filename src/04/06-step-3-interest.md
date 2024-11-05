@@ -6,7 +6,7 @@ Your interest provides you with a package of skills, just like your background a
 
 This will be your final skills package, though you might purchase extra skills or tweak the ones you’ve already acquired in later steps.
 
-<!--order-->
+<!--sort-->
 ## Animal Handler
 
 You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.
@@ -184,7 +184,7 @@ The Fall reinforced the notion that you need to be prepared.
 | Survival            |   30 |
 | Know: (Choose One)  |   40 |
 
-<!--order-end-->
+<!--sort-end-->
 
 <blockquote class="table">
 
@@ -197,8 +197,8 @@ If you’d rather determine your interest randomly, roll 1d10:
 |  1–5  | Roll on Group 1 |
 | 6–10  | Roll on Group 2 |
 
-<!--order-->
-|         Roll         | Group 1<!--order-cells--> | Group 2<!--order-cells--> |
+<!--sort-->
+|         Roll         | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |
 | :------------------: | :-----------------------: | :-----------------------: |
 |          1           |      Animal Handler       |         Networker         |
 |          2           |        Artist/Icon        |         Paramedic         |
@@ -208,6 +208,6 @@ If you’d rather determine your interest randomly, roll 1d10:
 |          6           |   Forensics Specialist    |          Spacer           |
 |          7           |    Jack-of-All-Trades     |          Student          |
 |          8           |          Jammer           |        Survivalist        |
-| 9–10<!--order-end--> |          Re-roll          |          Re-roll          |
+| 9–10<!--sort-end--> |          Re-roll          |          Re-roll          |
 
 </blockquote>

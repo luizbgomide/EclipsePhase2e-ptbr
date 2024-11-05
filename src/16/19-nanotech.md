@@ -2,7 +2,7 @@
 
 Nanotechnology is widespread throughout the Solar System, with the exception of the Jovian Republic and similar bioconservative habitats. For decades, nanofabrication has been the primary manufacturing method. Though the technology is advancing, most nanobots used for manufacturing/replication require specially maintained environments like the insides of cornucopia machines or healing vats and cannot operate elsewhere.
 
-<!--order-->
+<!--sort-->
 | NANOTECH GEAR | Comp/<wbr>GP | Description                                                                                                             |
 | :------------ | :----------: | :---------------------------------------------------------------------------------------------------------------------- |
 | Ego Bridge    |    Mod/2     | Upload from/download to biological brains.                                                                              |
@@ -12,13 +12,13 @@ Nanotechnology is widespread throughout the Solar System, with the exception of 
 | Nanodetector  |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60.                         |
 | Repair Spray  |    Min/1     | Heals 1d10 \[6\] damage an hour for 12 hours for synthmorphs. Single use.                                               |
 
-<!--order-->
+<!--sort-->
 **Ego Bridge:** Ego bridges are devices used for uploading from and downloading to biological brains ([Backups & Uploading](../15/01-backups-and-uploading.md)). The bridge’s cranial sensors unfold around your head when in use, imaging and scanning your brain. Needles in the neck rest deploy nanobots that either measure your mind and neural connections (uploading) or physically re-map them (downloading).
 
 **Healing Spray:** This very small canister contains a single-use application of medical nanobots for healing biomorphs. You simply spray it on an open wound or inject it into a damaged area. It heals 1d10 \[6\] damage an hour ([Recovery](../12/17-healing-and-repair.md#recovery)) for 12 hours.
 
 **Healing Vat:** Healing vats may be the most powerful medical devices in common use. Vats preserve biomorphs in nutrient gel crawling with medical nanobots, while injection lines pump the body full of medichine swarms. They quickly assess your health, mend bones, heal wounds, regenerate limbs, and otherwise repair your biological form ([Healing & Repair](../12/17-healing-and-repair.md)). With the exception of a few exceptionally deadly nanoplagues and certain kinds of neurological damage, a healing vat can cure any disease and heal any injury. As long as you are alive when you are placed in the healing vat, you will not only survive, but emerge without a scratch, given enough time. A healing vat can even take your severed head (as long as it has been stabilized by medichines or nanotech first aid) and regrow an entire body based on your head’s genetics.
-<!--order-union-->
+<!--sort-union-->
 Medical care is not all that healing vats are used for — they are also the safest way to sculpt your body or install various bioware, cyberware, and nanoware systems. Specialized nanomachines are used to grow the ware inside your body or otherwise customize your form. Every hospital, clinic, body bank, chop shop, and augmentation parlor has several healing vats.
 
 **Med Scanner:** You can use this very small device to take a small range of bio samples from a biomorph, which are then scanned and analyzed at the nanoscale. The process takes 1 minute and can identify the presence of diseases, toxins, nanobots, and other infections (including most exsurgent virus strains). It also provides vital signs and an analysis of the person’s overall health. Treat the scanner as having Medicine: Forensics, Medicine: Paramedic, and Medicine: Veterinary at 60 for diagnosis purposes only. It also has Exotic Skill: Nanobot Detection 40 for detecting nanobots, +30 if the target is currently affected by nanoware, nanodrugs, or nanotoxins.
@@ -27,7 +27,7 @@ Medical care is not all that healing vats are used for — they are also the saf
 
 **Repair Spray:** Similar to healing spray, this single-use application of fixer nanobots repairs 1d10 \[6\] damage an hour for 12 hours for synthmorphs, bots, and other shells. The spray must have access to the shell’s blueprint or have an hour to scan a similar design.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Hives
 

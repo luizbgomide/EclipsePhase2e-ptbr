@@ -2,7 +2,7 @@
 
 Armor technology has kept pace with weapons development, providing unprecedented levels of protection.
 
-<!--order-->
+<!--sort-->
 | ARMOR TYPE                | Ware Type | Energy | Kinetic | Comp/<wbr>GP | Notes                  |
 | :------------------------ | :-------: | :----: | :-----: | :----------: | :--------------------- |
 | Armor Clothing            |     —     |   +1   |   +3    |    Min/1     | Concealable            |
@@ -60,7 +60,7 @@ Any armor with an AV of 11 or more is obvious and visible and will raise questio
 
 ## Armor Ware
 
-<!--order-->
+<!--sort-->
 **Bioweave:** The morph’s dermal layers are laced with spidersilk fibers, providing protection without changing the appearance, texture, or sensitivity of the skin.
 
 **Dermal Armor:** The morph is equipped with a dense layer of ballistic fibers and flexible subdermal plates. This does not reduce mobility, but it does make the skin smoother and less flexible (except at the joints), and the plated areas are visibly raised. The morph’s touch-based perception suffers a −20 modifier.
@@ -73,13 +73,13 @@ Any armor with an AV of 11 or more is obvious and visible and will raise questio
 
 **Scale/Carapace:** As dermal armor, but combined with hard but flexible external chitinous scales and/or plates, modeled on arthropod exoskeletons. This armor is obvious and the skin has the appearance of a crocodile, insect, pangolin, snake, or similarly armored creature.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Armor Gear
 
 Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-grown plates, shock-absorbing fullerenes, diamond coatings, self-repairing ablative materials, and shear-resistant fluids that harden against impacts. These materials protect against (armorpiercing) bullets and kinetic impacts as well as bladed weapons and piercing, sharp objects. They also insulate against both the explosive heating of energy weapons and electrical shocks. While such armor protects against bullets, the layers simply catch the bullet and redistribute its kinetic energy across the body, which can still result in severe blunt force trauma.
 
-<!--order-->
+<!--sort-->
 **Armor Clothing:** Resilient fibers and fullerenes are interwoven with normal smart materials to provide a subtle level of security. Such garments are indistinguishable from regular smart clothing and come in all styles and designs.
 
 **Armor Coat:** Like armor clothing, this slightly bulkier coat provides a layer of discreet protection with smart material fabrics.
@@ -100,4 +100,4 @@ Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-g
 
 **Second Skin:** This lightweight bodysuit, woven from spider silks and fullerenes, is typically worn as an underlayer, though some athletes use it as a uniform.
 
-<!--order-end-->
+<!--sort-end-->

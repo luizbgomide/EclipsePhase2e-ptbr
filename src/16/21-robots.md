@@ -31,7 +31,7 @@ You jam a drone by immersing yourself in an AR overlay of the drone’s body and
 
 Treat jamming the same as if you sleeved the drone; use the drone’s pools instead of your own morph’s. However, since jamming is slightly inferior to actual sleeving, you suffer a −10 modifier to all actions (unless you are equipped with [drone rig ware](08-mental-augmentations.md)).
 
-<!--order-->
+<!--sort-->
 ## Combat Bots
 
 These bots are useful for security, defense, and combat applications.
@@ -39,50 +39,50 @@ These bots are useful for security, defense, and combat applications.
 <table class="centered stat-list tl1">
 <thead><tr><th>COMBAT ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Guardian Angel<td>Mod/2<td>0&nbsp;(1)<td>1<td>16/12<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Rotor 8/32
 - **Ware:** Chameleon Skin, Eelware, Enhanced Hearing, Enhanced Smell, Enhanced Vision, Light Combat Armor, Radar, Smart Actuators,T-Ray Emitter, Weapon Mount (Articulated)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Parisphere<td>Rare/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Rocket) 8/40
 - **Ware:** Enhanced Vision, Heavy Combat Armor, Radar Absorbent, Structural Enhancement, Weapon Mounts (2 Static, 2 Articulated/Concealed)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Sentry<td>Rare/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Tracked 4/12
 - **Ware:** Anti-Glare, Eelware, Enhanced Hearing, Enhanced Vision, Light Combat Armor, Smart Actuators, T-Ray Emitter, Weapon Mounts (2 Articulated/Concealed)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Shield Drone<td>Min/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Tracked 4/12
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Guardian Angel:** Similar to gnats, guardian angels are larger rotorcraft used for defensive purposes. They hover around their charges, keeping a watchful eye out to protect them from threats.
 
 **Parisphere:** Named after the Trojan hero Paris, who slew Achilles with an arrow, this orb-like spacecraft is little more than a weapons pod built around a rocket. Lacking a pilot, these fighter drones can pull high-g maneuvers.
@@ -91,7 +91,7 @@ These bots are useful for security, defense, and combat applications.
 
 **Shield Drone:** These tracked drones essentially function as large ballistic shields and movable cover for special ops teams. They provide AV +6/+12 to anyone using them for cover. The bot itself is little more than a platform (treat as small size if targeted directly).
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Exploration Bots
 
@@ -100,36 +100,36 @@ Designed for gatecrashing, these bots are also handy in other places.
 <table class="centered stat-list tl1">
 <thead><tr><th>EXPLORATION ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Explorenaut<td>Maj/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Tracked 4/12, Thrust Vector (Gas Jet) 8/40
 - **Ware:** Chem Sniffer, Electrical Sense, Enhanced Hearing, Enhanced Vision, Pocket Lab, Radar, Specimen Container, Sonar, T-Ray Emitter, Utilimod
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Squishbot<td>Min/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/12, Roller 8/40
 - **Ware:** Retracting Limbs, Shape Adjusting
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Explorenaut:** These small-sized bots travel on smart treads or with thrust-vector jets. They are loaded with sensors and favored for gatecrashing and similar exploration ops. A pair of manipulator arms are used for taking samples.
 
 **Squishbot:** These small, amorphous bots are soft, with a smart-material liquid matrix interior and extensible skin. They can extrude tentacle-like limbs for walking and manipulating, roll as a ball, and squeeze through tight, confining spaces.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Medical Bots
 
@@ -138,36 +138,36 @@ These bots are literal life savers.
 <table class="centered stat-list tl1">
 <thead><tr><th>MEDICAL ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Docbot<td>Maj/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Gas Jet)/Wheeled 8/40
 - **Ware:** Enhanced Smell, Fractal Digits, Guardian Hive, Medium Fabber, Nanoscopic Vision, Specimen Container, Tool Kit (Medicine: Biotech or Paramedic)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Retriever<td>Maj/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Wheeled 8/40, Rotor 8/32
 - **Ware:** Diamond Axe, Disassembly Tools, Enhanced Smell, Enhanced Hearing, Enhanced Vision, Healing Spray (2), Repair Spray (2), Tool Kit (Medicine: Paramedic), Weapon Mount (Articulated/Concealed, Sprayer with NotWater)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Docbot:** These wheeled medical robots are designed to tend to and transport injured or sick people. They carry a fabber for medical supplies and pharmaceuticals, miscellaneous medical gear, a secure container for carrying heads, and 4–8 articulated arms for conducting remote surgery. They are often loaded up with healing spray and meds (acquired separately).
 
 **Retriever:** Designed much like a smaller flying car with a pair of manipulator arms, this bot handles search-and-rescue ops. It tracks down survivors and rescues them from dangers, carrying the injured back to safety. It can hold one medium-sized transhuman.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Personal Bots
 
@@ -176,50 +176,50 @@ Personal bots are worn or found throughout transhuman habitats.
 <table class="centered stat-list tl1">
 <thead><tr><th>PERSONAL ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Creepy<td>Min/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>VS</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Hopper/Walker 4/12
 - **Ware:** Chameleon Skin, Grip Pads
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Manipulator<td>Maj/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Grip Pads, Magnetic System, Telescoping Limb, Utilimod
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Servitor<td>Min/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Spider Hand<td>Min/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Claws, Grip Pads, Magnetic System
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Creepy:** Creepies come in an eclectic variety of forms, from robo-squirrels to insectoids to bizarre artsy mechanical creatures. Creepies were originally designed as a robotic pet, but are commonly used as a general-purpose household minion, like a more beloved servitor. Many people wear a creepy on their person, dropping it to handle small tasks for them and letting it crawl up, down, and over their body.
 
 **Manipulator:** This bot takes the form of an extra limb and a supportive band, bracing frame, rig, or cuff for wearing it. The manipulator can be meshed and treated as an extension of your body or detached for autonomous operation or remote control. Though human arm designs are common, a variety of limb designs are available, from claws to tentacles. Treat as a [cyberlimb plus](11-physical-augmentations.md) when worn.
@@ -228,7 +228,7 @@ Personal bots are worn or found throughout transhuman habitats.
 
 **Spider Hand:** This hand-shaped bot scurries like a spider. It functions as a detachable hand for a cyberarm, though it is sometimes used by uplifts or other morphs who need a hand design for certain tasks. Its “legs” are more articulated than human fingers and can rotate/bend in any direction. Though this bot does not have the leverage of a full arm/body behind it, it can extend a meter-long brace for stabilization and support.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Recon/Surveillance Bots
 
@@ -237,61 +237,61 @@ Eyes in the sky remain one of the main uses of robots.
 <table class="centered stat-list tl1">
 <thead><tr><th>RECON/<wbr>SURVEILLANCE ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Aerostat<td>Mod/2<td>0<td>0<td>6/4<td>4<td>20<td>40<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Microlight 8/32
 - **Ware:** Chem Sniffer, Enhanced Vision, Laser Link, Radar, T-Ray Emitter
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Gnat<td>Min/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Rotor 8/32
 - **Ware:** Chameleon Skin, Enhanced Hearing, Enhanced Vision, Radar
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Saucer<td>Min/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Ionic 8/40
 - **Ware:** Chameleon Skin, Enhanced Hearing, Enhanced Vision, Radar
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Speck<td>Min/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>VS</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Hopper 4/12, Winged 8/32
 - **Ware:** Enhanced Hearing, Enhanced Vision, Grip Pads, Synthetic Mask
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Zephyr<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Winged 8/32
 - **Ware:** Chameleon Skin, Enhanced Vision, Laser Link, Radar, Radar Absorbent, T-Ray Emitter, Weapon Mount (2 Static)
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Aerostat:** Aerostats are balloons, relying on buoyant gases for lift in atmospheres, maneuvering with turbofans. Their low signature and longevity make them ideal for high-altitude surveillance, research, or gas mining.
 
 **Gnat:** Gnats are small rotorcraft camera/surveillance drones. Many people use gnats for personal lifelogging, while socialites and media use them to capture the glamour or hottest news.
@@ -302,7 +302,7 @@ Eyes in the sky remain one of the main uses of robots.
 
 **Zephyr:** Zephyrs are medium-sized but light stealth planes, often thrown to launch, used for long-distance recon or missile strikes.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Utility Bots
 
@@ -311,51 +311,51 @@ These bots help get things done.
 <table class="centered stat-list tl1">
 <thead><tr><th>UTILITY ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
-<!--order-->
+<!--sort-->
 <tr><td>Automech<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Gas Jet)/Wheeled 8/40
 - **Ware:** Electrical Sense, Magnetic System, Radiation Sense, Retracting Limbs, Tool Kit, Utilimod
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Submarine 8/32
 - **Ware:** Cryonic Protection, Enhanced Hearing, Pressure Adaptation, Retracting Limbs, Sonar, Utilimod
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Dwarf<td>Maj/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Disassembly Tools, Electrical Sense, Industrial Armor, Radar, Sonar, Tool Kit
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
 <tr><td>Robomule<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--order-union-->
+<!--sort-union-->
 - **Movement Rate:** Walker 4/20, Thrust Vector (Gas Jet) 8/40
 - **Ware:** Autocook
 
-<!--order-union-->
+<!--sort-union-->
 </div></tr>
 
-<!--order-end-->
+<!--sort-end-->
 </table>
 
-<!--order-->
+<!--sort-->
 **Automech:** Automechs are general-purpose repair drones, found just about everywhere. Each specializes in a particular type of repair work and is equipped with the appropriate tools and ALI skills, whether it be electronics, habitat systems, or spacecraft repair. Standard automechs are wheeled cubes with 4–8 retractable and articulated limbs, though they are also equipped with vectored-thrust drives for zero-g work.
 
 **Barracuda:** This undersea utility drone is fielded for exploration, service, and repair functions. It is shaped like a miniature submarine, with a pair of retractable arms.
@@ -364,6 +364,6 @@ These bots help get things done.
 
 **Robomule:** These six-legged cargo drones are designed to carry large, non-portable gear, such as servers, healing vats, tool shops, etc. They also serve as general-purpose supply drones, with smart-material straps and webbing to hold items and an envirosealed pod to protect its load from the environment.
 
-<!--order-end-->
+<!--sort-end-->
 
-<!--order-end-->
+<!--sort-end-->

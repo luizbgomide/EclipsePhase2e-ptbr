@@ -72,7 +72,7 @@ The rules above are biased towards humanoid morphs, but there are many morphs, s
 
 To keep the movement rates simple for GMs handling action scenes abstractly, we have mapped each movement type to a speed range: very slow (2/8), slow (4/12), medium (4/20), fast (8/32), and very fast (8/40). Many shells are capable of even faster movement; this is discussed under [Vehicle Movement](25-vehicle-movement.md).
 
-<!--order-->
+<!--sort-->
 ### Boat
 
 **\[Pilot: Nautical • Fast 8/32\]**
@@ -163,4 +163,4 @@ Most wheeled shells feature smart spokes that allow the wheels to conform their 
 
 Winged morphs and shells use limbs that produce lift when moving through air (they do not function in vacuum). Systems with multiple independently controlled wings can hover or move rapidly in any direction. Fixed-wing propeller-driven planes use Pilot: Air instead.
 
-<!--order-end-->
+<!--sort-end-->

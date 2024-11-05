@@ -2,7 +2,7 @@
 
 Most headware augmentations enhance the brain and mental functions.
 
-<!--order-->
+<!--sort-->
 | MENTAL AUGMENTATIONS   | Ware Type | Comp/<wbr>GP | Description                                                                              |
 | :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------------------- |
 | Cybercortex            |     C     |    Mod/2     | Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling. |
@@ -18,7 +18,7 @@ Most headware augmentations enhance the brain and mental functions.
 | Remote Backup Link     |    CH     |    Maj/3     | Quantum farcaster for remote backup every 48 hrs.                                        |
 | Skillware              |    CHM    |    Maj/3     | Can use 120 points of skillsofts.                                                        |
 
-<!--order-->
+<!--sort-->
 **Cybercortex:** Designed for smart animals, this artificial cortex aid increases the creature’s ability to learn, comprehend instructions, and reason. It also overrides some instinctive behaviors that would be undesirable in a service animal. Apply a +10 modifier to Exotic Skill: Animal Handling Tests made against this creature, and apply a +10 modifier for COG Checks to understand commands.
 
 **Data Module:** This is an encrypted data storage device, used for carrying confidential information that shouldn't be mesh-transmitted. You may install multiple modules.
@@ -36,9 +36,9 @@ Most headware augmentations enhance the brain and mental functions.
 **Mind Amp:** Mind amp alters your neural architecture and augments neuronal functions. This accelerates your mental faculties and ability to receive and process sensory information. Time subjectively slows down for you, allowing you to discern things happening too quickly for others to perceive, such as the individual frames of an old analog film or an accelerated audio recording. Mind amp increases your Insight pool by 2.
 
 **Multiple Personalities:** Your brain is intentionally partitioned to accommodate an extra personality. This multiplicity is not viewed as a disorder, but as a cognitive tool to help people deal with their hypercomplex environments. This extra personality can be a separate character (in ego form only), an NPC run by the GM, or the downloaded fork of another character. For all intents and purposes, the extra personality is treated as a separate ego (i.e., it may backup and fork separately), except that both personalities are backed up in the same cortical stack and if downloaded they must be placed in separate morphs or in another morph with this implant.
-<!--order-union-->
+<!--sort-union-->
 Only one ego can be in control of the morph at a time. The other resides in the background, still active, but not on a surface level. Subsumed egos may still act while the other is dominant, but can only take mental/mesh actions. Each ego is completely aware of what the other is doing, thinking, etc. If for some reason the subsumed personality wants to come to the fore, but the other personality won’t relinquish control, make an opposed WIL Check. Each ego has its own Lucidity, Trauma Threshold, and Insanity Rating, and they track stress and trauma separately. The morph’s pools are shared. Psi sleights or social/mental influences only affect the personality at the fore.
-<!--order-union-->
+<!--sort-union-->
 You can take this augmentation more than once (to a maximum of 3 times) to incorporate multiple egos into the same mind.
 
 **Multi-Tasking:** This cybernetic or software module enables your brain to focus on two things at the same time — something our minds cannot usually handle — without any context-switching confusion or increased error rates from inattention. Multi-Tasking increases your Insight Pool by 1.
@@ -47,7 +47,7 @@ You can take this augmentation more than once (to a maximum of 3 times) to incor
 
 **Skillware:** Your brain is laced with a network of artificial neurons that can be formatted with information. This allows you to download [skillsofts](#skillsofts) into your brain, gaining the use of those programmed skills until the skillsoft is erased or replaced. Skillware systems are only capable of handling 120 total skill points worth of skillsofts at a time. Switching out a skillsoft is a complex action.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Skillsofts
 

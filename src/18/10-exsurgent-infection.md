@@ -28,7 +28,7 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 ### Infection Test
 
-<!--order-->
+<!--sort-->
 |        Type         | Infection Rating Opposed By  |          Cooldown          |
 | :-----------------: | :--------------------------: | :------------------------: |
 |    Basilisk Hack    |             INT              | Check 1 action turn–1 hour |
@@ -38,12 +38,12 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 </blockquote>
 
-<!--order-->
+<!--sort-->
 ## Basilisk Hacks
 
 Each type of basilisk hack functions differently.
 
-<!--order-->
+<!--sort-->
 ### Blocking Basilisks
 
 If you are on guard or aware that a basilisk hack attempt is imminent, you can attempt to block out the sensory input by closing your eyes, covering your ears, or disabling your AR feeds. This requires a REF Check. If successful, you are quick enough to avoid the effect — as long as you continue to block it out. Operating blind may impose modifiers, and certain circumstances (such as being struck in combat) may require you to make a REF Check again to maintain the block.
@@ -54,11 +54,11 @@ These basilisks do not infect you, they crash your brain. You suffer SV 1d10 and
 
 <blockquote class="table">
 
-<!--order-union-->
+<!--sort-union-->
 ### Incapacitators
 
-<!--order-->
-| 1D10 Roll<!--order-roll--> | Type<!--order-by--> | Description                                                                                                                                                                                                                                                                                                             |
+<!--sort-->
+| 1D10 Roll<!--sort-roll--> | Type<!--sort-by--> | Description                                                                                                                                                                                                                                                                                                             |
 | :------------------------: | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |             1              | Cataplexy           | You lose control of your body and collapse. You are [immobilized](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                         |
 |             2              | Catatonic Stupor    | Your brain checks out and is non-responsive. Though conscious, you are mentally “not there” — the basilisk has crashed your brain functions. You are [incapacitated](../12/21-other-action-factors.md#conditions).                                                                                                      |
@@ -88,7 +88,7 @@ Most subliminals re-program their targets immediately; at the GM’s discretion,
 
 Subliminal commands are triggered according to a pre-set time or other predesignated conditions. Once triggered, you carry out the action with the conviction that it is your own idea. Implanted suggestions may be as simple as “kill the Firewall agent” to as complex as “manufacture an explosive device and plant it in the cargo hold of any ship heading to Mars, set to explode one day after they disembark.” Subliminal commands are designed to convert you into a temporary tool or weapon and are not designed to last long. If the conditions have not been met within 1d6 days, the subliminal command dissipates, with the victim none the wiser.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Biological Infection
 
@@ -114,7 +114,7 @@ Any morph that comes into contact with a nanoplague is considered infected. The 
 
 **Contagion:** Nanoplague-infected targets are not contagious themselves … usually. However, the infecting nanoplague itself may linger in the original area, hitchhike along to new locations, or split and do both.
 
-<!--order-end-->
+<!--sort-end-->
 
 ## Infection, Resleeving, & Backups
 

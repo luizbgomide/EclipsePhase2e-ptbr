@@ -34,7 +34,7 @@ Altering an object’s design and function follows the same basic rules as build
 
 ### Sample Objects and Structures
 
-<!--order-->
+<!--sort-->
 | Object/<wbr>Structure/<wbr>Material            | Armor (E/K) | Destruction Rating | Wound Threshold |
 | :--------------------------------------------- | :---------: | :----------------: | :-------------: |
 | Airlock Door (Standard, 2 person)              |    25/15    |        150         |       15        |

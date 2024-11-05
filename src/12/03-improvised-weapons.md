@@ -2,7 +2,7 @@
 
 Sometimes you’re caught off-guard and must use whatever is at hand — or maybe you just think you look cool whaling on someone with a meter of chain. The Improvised Weapons table offers statistics for a few likely ad-hoc items. GMs can use these as guidelines for handling items that aren’t listed. These weapons are wielded with Melee skill, though the GM may rule in some cases that an Exotic Skill is necessary.
 
-<!--order-->
+<!--sort-->
 | IMPROVISED WEAPONS                    | Damage Value \[Average\] | Complexity | Notes                 |
 | :------------------------------------ | :----------------------: | :--------: | :-------------------- |
 | Baseball                              |      1d6 + 1 \[5\]       |    Min     | Concealable           |
@@ -17,6 +17,6 @@ Sometimes you’re caught off-guard and must use whatever is at hand — or mayb
 | Rock                                  |      1d6 + 2 \[6\]       |    Min     | Concealable           |
 | Shiv                                  |      1d10 − 1 \[5\]      |    Min     | Concealable           |
 | Synthmorph (Small)                    |        1d6 \[4\]         |            |                       |
-| Synthmorph (Medium)<!--order-union--> |        2d6 \[7\]         |            | Knockdown, Two-Handed |
+| Synthmorph (Medium)<!--sort-union--> |        2d6 \[7\]         |            | Knockdown, Two-Handed |
 | Utilitool                             |        1d10 \[6\]        |            |                       |
 | Wrench                                |        1d10 \[6\]        |    Min     |                       |
