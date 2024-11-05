@@ -4,6 +4,7 @@ Here’s a list of terms we use throughout Eclipse Phase.
 
 <div class="stat-list">
 
+<!--sort-->
 - **Account:** What you use to log on to a system. Determines your access privileges.
 - **Account Shell:** The software interface that represents your presence on the system.
 - **Aerostat:** A habitat designed to float like a balloon on a planet with a dense atmosphere.
@@ -56,11 +57,11 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Cislunar:** Between the Earth and the Moon.
 - **Clade:** A species or group of organisms with common features. Used to refer to transhuman cultural groups and subspecies.
 - **Clanking Masses:** The underclass of cheap synthmorphs.
-- **The Cloud:** Other devices on the mesh that offer software services.
+- **Cloud, The:** Other devices on the mesh that offer software services.
 - **Cluster:** A micrograv habitat of interconnected modules.
 - **CME:** Coronal mass ejection; a solar flare.
 - **Codeline:** The code “family” from which an AGI is derived.
-- **The Complaints:** The list of grievances shared by the Barsoomians.
+- **Complaints, The:** The list of grievances shared by the Barsoomians.
 - **Conservatives:** The Firewall faction opposed to using AGIs, asyncs, and alien/TITAN technology.
 - **Cornucopia Machine:** A general-purpose nanofabricator.
 - **Cortical Stack:** An implant that records your up-to-date ego.
@@ -99,14 +100,14 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Exsurgent:** Someone infected by the exsurgent virus and likely transformed into an alien creature.
 - **Exsurgent Virus:** A multi-vector virus spread during the Fall that transforms victims and subverts their minds.
 - **Extrasolar:** Outside the Solar System.
-- **The Eye:** Firewall’s internal social and data-sharing network.
+- **Eye, The:** Firewall’s internal social and data-sharing network.
 - **Face:** A negotiator or networker.
 - **Factors:** A species of evolved slime molds, the only living sapient aliens transumanity has encountered so far.
-- **The Fall:** The war with the TITANs that devastated Earth and nearly made transhumanity extinct.
+- **Fall, The:** The war with the TITANs that devastated Earth and nearly made transhumanity extinct.
 - **Farcast:** Intrasolar communication using classical communication technologies (radio, laser, etc.) and quantum teleportation.
 - **Farhauler:** Long-distance space shipper.
 - **Feedstock:** The raw matter used to nanofabricate.
-- **The Fence:** The interdiction cordon of killsats around Earth.
+- **Fence, The:** The interdiction cordon of killsats around Earth.
 - **Fetch:** A beta fork or agent of an ASI like a TITAN.
 - **Filter:** A proxy that handles social engineering, media manipulation, and cover-ups.
 - **Firewall:** The secret cross-faction conspiracy that works to protect transhumanity from x-risks.
@@ -119,7 +120,7 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Fork:** A copy of an ego.
 - **Forknapping:** Kidnapping a backup or fork.
 - **Fractal:** A “bush robot” TITAN machine with fractal appendages and advanced nanofab capabilities.
-- **The Fringe:** The remote and unpopulated areas of the Solar System.
+- **Fringe, The:** The remote and unpopulated areas of the Solar System.
 - **FTL:** Faster-Than-Light.
 - **Fury:** A transhuman combat biomorph.
 - **Futura:** A biomorph designed for the Lost Generation.
@@ -163,7 +164,7 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **ITN:** The interplanetary transport network; using gravity to move between planets using minimal fuel.
 - **Jamming:** Teleoperating a bot via an immersive AR overlay and “becoming” the drone.
 - **JSFI:** Jovian Space Force Intelligence.
-- **The Junkyard:** The layer of junk and debris in low Earth orbit.
+- **Junkyard, The:** The layer of junk and debris in low Earth orbit.
 - **Junta:** The military regime that dictates the Jovian Republic.
 - **KBO:** Kuiper Belt object.
 - **Kuiper Belt:** A region extending from Neptune’s orbit to about 55&nbsp;AU, lightly populated with asteroids, comets, and dwarf planets.
@@ -193,7 +194,7 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Morph:** A physical body. AKA sleeve, shell, suit, jacket, form.
 - **Morphological Freedom:** The autonomy to modify and enhance your own body.
 - **Mote:** Smaller devices, peripherals, and sensors. May run only a single dedicated ALI.
-- **The Movement:** The Barsoomian movement to free Mars.
+- **Movement, The:** The Barsoomian movement to free Mars.
 - **Muse:** An ALI personal assistant.
 - **Mutualist:** An Extropian sub-faction favoring cooperatives.
 - **Nanobot:** A nano-scale machine, usually deployed as a swarm.

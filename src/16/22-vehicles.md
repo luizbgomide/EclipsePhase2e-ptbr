@@ -42,21 +42,24 @@ On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habi
 <thead><tr><th>AIRCRAFT<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead> 
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Flying Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Thrust Vector (Rocket)/<wbr>Wheeled 8/40<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Microlight<td>Mod/2<td>1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>Microlight 8/32<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Portable Plane<td>Maj/3<td>2<td>0<td>0<td>6/4<td>10<td>50<td>100<td>—<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Small Jet<td>Rare/—<td>6<td>2<td>0<td>12/10<td>40<td>200<td>400<td>—<td>VL</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Ware:** Autocook, Emergency Beacon
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Utility Helicopter<td>Rare/—<td>8<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Rotor 8/32<td>VL</tr>
 
 <!--sort-end-->
@@ -83,26 +86,26 @@ Exoskeletons are worn powered mechatronic frames that enhance your physical capa
 <thead><tr><th>EXOSKELETONS<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Atlas Loader<td>Rare/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>Walker 4/20<td>VL</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +2 Vigor, +2d10 melee, armor-piercing
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Exowalker<td>Maj/3<td>1<td>+1<td>0<td>+0/+2<td>4<td>20<td>40<td>Walker 8/32<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +1 Vigor, +1d6 melee, double jump distance
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Transporter<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Thrust Vector (Rocket) 8/40<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Trike<td>Mod/2<td>1<td>0<td>0<td>+0/+4<td>10<td>50<td>100<td>Wheeled 8/40<td>L</tr>
 
 <!--sort-end-->
@@ -127,23 +130,27 @@ While trains and bicycles remain the most common form of ground transportation i
 <thead><tr><th>GROUNDCRAFT<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Wheeled 8/40<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Cargo Hauler<td>Rare/—<td>3<td>2<td>0<td>12/10<td>50<td>250<td>500<td>Wheeled 8/40<td>VL</tr>
 
+<!--sort-block-->
 <tr><td>Cycle<td>Mod/2<td>1<td>0<td>0<td>8/6<td>10<td>50<td>100<td>Wheeled 8/40<td>M</tr>
 
+<!--sort-block-->
 <tr><td>Ground Car<td>Maj/3<td>4<td>2<td>1<td>12/10<td>30<td>150<td>300<td>Wheeled 8/40<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Microcar<td>Mod/2<td>1<td>0<td>1<td>8/6<td>12<td>60<td>120<td>Wheeled 8/40<td>L</tr>
 
+<!--sort-block-->
 <tr><td>Rover<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Wheeled 8/40<td>VL</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Ware:** Autocook, Large Fabber, Pocket Lab
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -172,44 +179,40 @@ Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuit
 <thead><tr><th>HARDSUITS<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Battlesuit<td>Rare/R/—<td>1<td>+2<td>0<td>25/25<td>20<td>100<td>200<td>Walker 8/32, Thrust Vector (Rocket) 8/40<td>L</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +1d10 melee damage, double jump distance
 - **Ware:** Autocook, Breather, Fixer Hive, Life Support (1 week), Pressure Adaptation, Radio Booster, Specs, Utilimod, Weapon Mounts (2 Articulated/Concealed, 2 Static/Concealed)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Envirosuit<td>Maj/3<td>1<td>0<td>0<td>25/16<td>16<td>80<td>160<td>Walker 4/20, Submarine 8/32<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +1d6 melee damage
 - **Ware:** Autocook, Breather, Cryogenic Protection, Emergency Beacon, Life Support (1 week), Pressure Adaptation, Radio Booster, Specs, Thermogenic Protection, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>High-Dive Suit<td>Maj/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +1d6 melee damage
 - **Ware:** Life Support (1 week), Radar Absorbent, Radio Booster, Specs, Thermogenic Protection
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Standard Hardsuit<td>Rare/6<td>1<td>+1<td>0<td>20/18<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>L</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Notes:** +1d10 melee damage
 - **Ware:** Autocook, Breather, Emergency Beacon, Fixer Hive, Life Support (1 week), Pressure Adaptation, Radio Booster, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -234,16 +237,16 @@ These vehicles defy classification as they are designed to handle multiple envir
 <thead><tr><th>HYBRIDS<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>GEV<td>Rare/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Submarine 8/32, Thrust Vector (Rocket) 8/40,
 Walker 4/20, Wheeled 8/40<td>VL</tr>
 <tr><td colspan="11"><div class="indent">
 
-<!--sort-union-->
 - **Ware:** Autocook, Chem Sniffer, Enhanced Hearing, Enhanced Vision, Large Fabber, Life Support (1 month), Healing Vat, Pressure Adaptation, Portable Sensor (Telescope)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Rocket Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Wheeled 8/40<td>L</tr>
 
 <!--sort-end-->

@@ -15,54 +15,51 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 </thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Dino Pet<td>Min/1<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12 or Winged 8/32
 - **Ware:** Dermal Armor, Enhanced Smell, Enhanced Vision, some have Poison Glands
 - **Skills:** Athletics 40, Fray 30, Infiltrate 30, Melee 40, Perceive 30, Provoke 30 (Intimidate 40)
 - **Notes:** Bite/Horn/Tail DV 1d6 \[4\], Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Fur Coat<td>Min/1<td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1<td>0<td>—<td>3/15/23<td>—</tr>
 
+<!--sort-block-->
 <tr><td>Pollinator Swarm<td>Min/1<td>1&nbsp;<sup>3</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>7<td>1<td>—<td>—/25/50<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Winged 8/32
 - **Ware:** Enhanced Smell, Enhanced Vision, some have Poison Glands
 - **Skills:** Athletics 60, Fray 50, Infiltrate 50, Melee 40, Perceive 30
 - **Notes:** Swarm sting DV 1d10 \[6\] (ignores non-sealed armor)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Space Roach<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5<td>0<td>—<td>1/5/8<td>2/10/20</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Grip Pads
 - **Skills:** Athletics 30, Fray 30, Free Fall 30, Infiltrate 50, Perceive 20
 - **Notes:** Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Squidling<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Gas Jet) 4/12
 - **Ware:** Enhanced Smell
 - **Skills:** Athletics 30, Fray 40, Free Fall 30, Infiltrate 30, Melee 30, Perceive 20
 - **Notes:** Bite DV 1d6 \[4\], Small size
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -91,98 +88,90 @@ Smart animals are partially uplifted and bio-engineered. These have rudimentary 
 </thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Guard Dog<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>20&nbsp;<sup>60</sup><td>10&nbsp;<sup>30</sup><td>10<td>1<td>4/5<td>6/30/45<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Claws, Cybercortex, Dermal Armor, Enhanced Hearing, Enhanced Smell, Enhanced Vision, Mesh Inserts, Muscle Augmentation, Puppet Sock, Reflex Boosters
 - **Skills:** Athletics 30, Fray 40, Melee 50, Perceive 40, Provoke 30 (Intimidate 40)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Police Baboon<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>6<td>2<td>2/3<td>6/30/45<td>2/10/20</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Bioweave, Cold Tolerance, Enhanced Vision, Enhanced Respiration, Novacardium, Toxin Filters
 - **Skills:** Athletics 50, Fray 40, Melee 50, Perceive 40, Provoke 40 (Intimidate 50)
 - **Traits:** Enhanced Behavior: Obedient (Level 2)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Rust Hound<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Bioweave, Cold Tolerance, Enhanced Hearing, Enhanced Respiration, Enhanced Smell, Toxin Filters
 - **Skills:** Athletics 30, Fray 40, Melee 40, Perceive 50, Provoke 30 (Intimidate 40)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Smart Hawk<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>0<td>—<td>3/15/23<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Winged 8/32
 - **Ware:** Claws, Enhanced Hearing, Enhanced Vision
 - **Skills:** Athletics 60, Fray 50, Infiltrate 30, Melee 40, Perceive 50
 - **Notes:** Beak/claws DV 1d6 \[4\], Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Smart Monkey<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>6<td>0<td>—<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Grip Pads, Prehensile Feet, Prehensile Tail
 - **Skills:** Athletics 60, Exotic Skill: Sleight of Hand 50, Fray 40, Infiltrate 40, Melee 30, Perceive 40
 - **Notes:** Bite DV 1d6 \[4\], Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Smart Raccoon<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Enhanced Hearing, Enhanced Smell, Grip Pads
 - **Skills:** Athletics 40, Fray 40, Infiltrate 50, Melee 30, Perceive 40
 - **Notes:** Bite DV 1d6 \[4\], Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Smart Rat<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>6<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Enhanced Smell, Grip Pads, Prehensile Tail
 - **Skills:** Athletics 50, Fray 40, Infiltrate 60, Perceive 40
 - **Notes:** Very Small size
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Swarm Cat<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>4/5<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Claws, Cybercortex, Dermal Armor, Enhanced Smell, Enhanced Vision, Grip Pads, Mesh Inserts, Prehensile Tail, more
 - **Skills:** Athletics 50, Fray 40, Free Fall 30, Infiltrate 60, Melee 50, Perceive 40
 - **Notes:** Some are small size
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -217,28 +206,26 @@ A few creatures discovered on exoplanets have been finding their way into privat
 </thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Clown Sprite<td>Rare/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>7<td>1<td>—<td>4/20/30<td>2/10/20</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Winged 8/32, Walker 4/12
 - **Ware:** Chameleon Skin, Enhanced Hearing, Enhanced Smell, Grip Pads, Prehensile Feet, Prehensile Tail
 - **Skills:** Athletics 50, Fray 40, Infiltrate 60, Melee 30, Perceive 40
 - **Notes:** Bite DV 1d6 \[4\], Small size, Immune to land anemone venom
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Hexanewt<td>Rare/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Bioweave, Chameleon Skin, Cryogenic Protection, Gills
 - **Skills:** Athletics 50, Fray 30, Infiltrate 30, Melee 30, Perceive 60
 - **Notes:** Bite DV 1d10 \[6\]
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->

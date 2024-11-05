@@ -2,6 +2,7 @@
 
 As an async, you are affected by a specific sub-strain of the Watts-MacLeod virus. This sub-strain determines how the exovirus affects you personally. It influences what Mental Disorder trait you start with and provides you with a free bonus sleight. It also impacts the behavioral compulsions and spurred motivations that infection inflicts upon you ([Influence Effects](05-influence-effects.md)). The sub-strain is chosen during character creation (or when your character is infected during gameplay).
 
+<!--sort-->
 ## The Architect
 
 Your infection possesses a distinct curiosity and sense of intelligence. You often see things from a perspective that is different. It drives you to delve into the inner mechanics of things and examine how they work — whether they be machines or biological entities. The urges push beyond exploration and learning — you are often compelled to build and construct new things: architecture with inexplicable functions, strange devices, or even new forms of life. Though the virus’s exact motivation and intent remains unclear, it leaves you with an unmistakable sense of purpose.
@@ -41,3 +42,5 @@ An alien presence lives inside of you. Your instinctual responses are different 
 **Negative Trait (Choose one):** Mental Disorder (Alien Behavioral Disorder, Atavism, Body Dysmorphia, or Conversion Disorder)
 
 **Free Sleight (Choose One):** Somatic Control, Eco-Empathy, or Xeno-Empathy
+
+<!--sort-end-->

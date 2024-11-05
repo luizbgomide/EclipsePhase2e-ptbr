@@ -44,6 +44,7 @@ Though the Factors claim to come from another system, all transhumanity knows fo
 
 Transhumanity has nicknamed the known Factor ships by appearance, though all appear to be of unique construction and design.
 
+<!--sort-->
 - **Hammerhead:** First contact at Luna. Only Factors to meet with Jovians.
 - **Jellyfish:** First contact at Titan. Interest in biological sciences. Rivalry with Stub-Nose.
 - **Needle-Nose:** Newer, smaller. Limited contact, interests unknown.

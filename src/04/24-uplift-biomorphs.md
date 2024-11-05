@@ -72,6 +72,8 @@ This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to 
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Neo-Gorilla
 
 Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames.
@@ -95,6 +97,7 @@ Neo-gorillas benefit from enhanced cognition and upright stances like other neo-
 
 </blockquote>
 
+<!--sort-block-->
 ### Neo-Octopus
 
 Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite useful in zero-gravity environments. They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak. They also have increased brain mass and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces. Octomorphs typically crawl along in zero gravity using their arm suckers and expelling air for propulsion; in low gravity they walk on two of their arms. Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and rotationally adjust to keep the slitshaped pupil aligned with “up.” A transgenic vocal system allows them to speak.
@@ -119,6 +122,7 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 </blockquote>
 
+<!--sort-block-->
 ### Neo-Orangutan
 
 Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social.
@@ -142,3 +146,5 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 - **Notes:** Reach (+10)
 
 </blockquote>
+
+<!--sort-end-->

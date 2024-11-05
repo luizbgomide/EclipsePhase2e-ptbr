@@ -40,43 +40,39 @@ These bots are useful for security, defense, and combat applications.
 <thead><tr><th>COMBAT ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Guardian Angel<td>Mod/2<td>0&nbsp;(1)<td>1<td>16/12<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Rotor 8/32
 - **Ware:** Chameleon Skin, Eelware, Enhanced Hearing, Enhanced Smell, Enhanced Vision, Light Combat Armor, Radar, Smart Actuators,T-Ray Emitter, Weapon Mount (Articulated)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Parisphere<td>Rare/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Rocket) 8/40
 - **Ware:** Enhanced Vision, Heavy Combat Armor, Radar Absorbent, Structural Enhancement, Weapon Mounts (2 Static, 2 Articulated/Concealed)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Sentry<td>Rare/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Tracked 4/12
 - **Ware:** Anti-Glare, Eelware, Enhanced Hearing, Enhanced Vision, Light Combat Armor, Smart Actuators, T-Ray Emitter, Weapon Mounts (2 Articulated/Concealed)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Shield Drone<td>Min/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Tracked 4/12
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -101,24 +97,22 @@ Designed for gatecrashing, these bots are also handy in other places.
 <thead><tr><th>EXPLORATION ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Explorenaut<td>Maj/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Tracked 4/12, Thrust Vector (Gas Jet) 8/40
 - **Ware:** Chem Sniffer, Electrical Sense, Enhanced Hearing, Enhanced Vision, Pocket Lab, Radar, Specimen Container, Sonar, T-Ray Emitter, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Squishbot<td>Min/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12, Roller 8/40
 - **Ware:** Retracting Limbs, Shape Adjusting
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -139,24 +133,22 @@ These bots are literal life savers.
 <thead><tr><th>MEDICAL ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Docbot<td>Maj/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Gas Jet)/Wheeled 8/40
 - **Ware:** Enhanced Smell, Fractal Digits, Guardian Hive, Medium Fabber, Nanoscopic Vision, Specimen Container, Tool Kit (Medicine: Biotech or Paramedic)
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Retriever<td>Maj/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Wheeled 8/40, Rotor 8/32
 - **Ware:** Diamond Axe, Disassembly Tools, Enhanced Smell, Enhanced Hearing, Enhanced Vision, Healing Spray (2), Repair Spray (2), Tool Kit (Medicine: Paramedic), Weapon Mount (Articulated/Concealed, Sprayer with NotWater)
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -177,43 +169,39 @@ Personal bots are worn or found throughout transhuman habitats.
 <thead><tr><th>PERSONAL ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Creepy<td>Min/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>VS</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Hopper/Walker 4/12
 - **Ware:** Chameleon Skin, Grip Pads
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Manipulator<td>Maj/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Grip Pads, Magnetic System, Telescoping Limb, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Servitor<td>Min/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Spider Hand<td>Min/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/12
 - **Ware:** Claws, Grip Pads, Magnetic System
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -238,54 +226,49 @@ Eyes in the sky remain one of the main uses of robots.
 <thead><tr><th>RECON/<wbr>SURVEILLANCE ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Aerostat<td>Mod/2<td>0<td>0<td>6/4<td>4<td>20<td>40<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Microlight 8/32
 - **Ware:** Chem Sniffer, Enhanced Vision, Laser Link, Radar, T-Ray Emitter
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Gnat<td>Min/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Rotor 8/32
 - **Ware:** Chameleon Skin, Enhanced Hearing, Enhanced Vision, Radar
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Saucer<td>Min/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>S</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Ionic 8/40
 - **Ware:** Chameleon Skin, Enhanced Hearing, Enhanced Vision, Radar
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Speck<td>Min/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>VS</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Hopper 4/12, Winged 8/32
 - **Ware:** Enhanced Hearing, Enhanced Vision, Grip Pads, Synthetic Mask
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Zephyr<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Winged 8/32
 - **Ware:** Chameleon Skin, Enhanced Vision, Laser Link, Radar, Radar Absorbent, T-Ray Emitter, Weapon Mount (2 Static)
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->
@@ -312,44 +295,40 @@ These bots help get things done.
 <thead><tr><th>UTILITY ROBOTS<th>Comp/<wbr>GP<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Size</tr></thead>
 
 <!--sort-->
+<!--sort-block-->
 <tr><td>Automech<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Thrust Vector (Gas Jet)/Wheeled 8/40
 - **Ware:** Electrical Sense, Magnetic System, Radiation Sense, Retracting Limbs, Tool Kit, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Submarine 8/32
 - **Ware:** Cryonic Protection, Enhanced Hearing, Pressure Adaptation, Retracting Limbs, Sonar, Utilimod
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Dwarf<td>Maj/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>L</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20
 - **Ware:** Disassembly Tools, Electrical Sense, Industrial Armor, Radar, Sonar, Tool Kit
 
-<!--sort-union-->
 </div></tr>
 
+<!--sort-block-->
 <tr><td>Robomule<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
-<!--sort-union-->
 - **Movement Rate:** Walker 4/20, Thrust Vector (Gas Jet) 8/40
 - **Ware:** Autocook
 
-<!--sort-union-->
 </div></tr>
 
 <!--sort-end-->

@@ -32,6 +32,8 @@ Synthetic shells are made to last — a fact reflected in their higher Durabilit
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Case
 
 Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client’s taste. Most case morphs are anthropomorphic, with a thin framework body standing just shorter than an average human.
@@ -56,6 +58,7 @@ Cases are mass-produced robotic shells, an affordable resleeving option for the 
 
 </blockquote>
 
+<!--sort-block-->
 ### Spare
 
 Spares are small, portable shells designed as a temporary replacement sleeve should your primary morph be killed/destroyed. They are common gear for gatecrashing missions. Packed as a flat 15-centimeter disc, when activated they pop into a six-limbed spherical shape. Just plug your original cortical stack in and you are ready to go. Built-in stress-management systems help survivors handle the trauma of their recent death.
@@ -79,6 +82,8 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 - **Notes:** Light Frame (Armor 6/4), [Small size](../12/21-other-action-factors.md#small-size)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Dragonfly
 
@@ -104,6 +109,8 @@ The dragonfly takes the shape of a meter-long flexible shell with eight wings, f
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Swarmanoid
 
 Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each individual “bug” is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift. The cyberbrain, cortical stack, and sensor systems are distributed throughout the swarm. Though the swarm can “meld” together into various loose shapes, it is incapable of physical tasks like grabbing, lifting, or holding. Individual bots are linked by radio and laser and are quite capable of interfacing with electronics. Swarmanoids follow [swarm rules](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
@@ -128,6 +135,7 @@ Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each indi
 
 </blockquote>
 
+<!--sort-block-->
 ### Synth
 
 Synths are even more humanoid than cases and of better quality. They are commonly deployed for labor-intensive tasks in environments not suited for biomorphs or for people who need a body quickly and cheaply or simply on a transient basis. Most designs are anthropomorphic, though various alternatives exist, including some based on uplift physiology.
@@ -151,6 +159,8 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 - **Notes:** Light Frame (Armor 6/4)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Savant
 
@@ -176,6 +186,8 @@ Developed by brinker hardware hackers, savants feature neural-state enhancements
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Galatea
 
 This high-end shell was designed to increase the appeal and social acceptance of synthmorphs. Galateas look expensive and their mental architecture is crafted to enhance the wearer’s personality and charm. Though many media icons have embraced this morph’s novelty, biochauvinists still view it as a monstrosity.
@@ -200,6 +212,7 @@ This high-end shell was designed to increase the appeal and social acceptance of
 
 </blockquote>
 
+<!--sort-block-->
 ### Slitheroid
 
 Slitheroid shells take the form of a humanoid torso with retractable arms atop a 2-meter-long segmented metallic snake. Slitheroids use lateral undulation to move, though they can also pull themselves along by their arms or coil, twist, and roll their bodies like a ball or hoop.
@@ -224,6 +237,7 @@ Slitheroid shells take the form of a humanoid torso with retractable arms atop a
 
 </blockquote>
 
+<!--sort-block-->
 ### Steel Morph
 
 Like the galatea, this upscale shell was designed to counter biochauvinist attitudes and make synthmorphs more appealing. Where the galatea is optimized for social interaction, steel morphs provide enhanced physical capabilities for both work and recreation.
@@ -247,6 +261,8 @@ Like the galatea, this upscale shell was designed to counter biochauvinist attit
 - **Notes:** Medium Frame (Armor 8/6)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Arachnoid
 
@@ -296,7 +312,6 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 
 </blockquote>
 
-
 ## Flexbot
 
 Flexbots are modular and customizable, each composed of one or more modules that interlock in various shapes and configurations. Individual modules are specialized towards specific functions and also capable of transforming into a variety of shapes and mechanisms. They have 4 limbs in their default configurations. Independent modules are only the size of a large dog, but multiple flexbots can join together for larger mass operations, even taking on heavy-duty tasks such as demolition, excavation, manufacturing, construction, or robotics assembly. Flexbots can also incorporate any robot with Modular Design ware as modules.
@@ -336,6 +351,8 @@ All flexbots have the following stats, plus the stats for their module type:
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Crafter Module
 
 Crafters are engineer modules, specialized in construction and fabrication.
@@ -358,28 +375,7 @@ Crafters are engineer modules, specialized in construction and fabrication.
 
 </blockquote>
 
-### Fighter Module
-
-These modules are combat-oriented.
-
-<blockquote class="indent stat-list">
-
-### Fighter Module
-
-- **Cost:** 3&nbsp;MP • **Avail:** 60
-
----
-
-- **WT:** 6 • **DUR:** 30 • **DR:** 60
-- **Insight** 0, **Moxie** 0, **Vigor** 1, **Flex** 0
-
----
-
-- **Ware:** Pneumatics, Weapon Mount (2)
-- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
-
-</blockquote>
-
+<!--sort-block-->
 ### Rogue Module
 
 Rogues are optimized for stealth and covert activities.
@@ -402,6 +398,7 @@ Rogues are optimized for stealth and covert activities.
 
 </blockquote>
 
+<!--sort-block-->
 ### Wizard Module
 
 Wizard modules specialize in infosec and communications tasks.
@@ -421,5 +418,29 @@ Wizard modules specialize in infosec and communications tasks.
 
 - **Ware:** Radio Booster, Sniffer App, Tracker App
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
+
+</blockquote>
+
+<!--sort-end-->
+
+### Fighter Module
+
+These modules are combat-oriented.
+
+<blockquote class="indent stat-list">
+
+### Fighter Module
+
+- **Cost:** 3&nbsp;MP • **Avail:** 60
+
+---
+
+- **WT:** 6 • **DUR:** 30 • **DR:** 60
+- **Insight** 0, **Moxie** 0, **Vigor** 1, **Flex** 0
+
+---
+
+- **Ware:** Pneumatics, Weapon Mount (2)
+- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
 
 </blockquote>

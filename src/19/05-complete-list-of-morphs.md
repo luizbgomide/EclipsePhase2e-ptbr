@@ -17,6 +17,9 @@
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Exalt<td>2&nbsp;MP<td>70<td>7<td>35<td>53<td>1<td>1<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -24,6 +27,8 @@
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Neotenic<td>2&nbsp;MP<td>50<td>6<td>30<td>45<td>2<td>1<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -33,6 +38,9 @@
 - **Notes:** [Small size](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Ruster<td>3&nbsp;MP<td>70<td>7<td>35<td>53<td>0<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -40,6 +48,9 @@
 - **Ware:** Biomods, Cold Tolerance, Cortical Stack, Enhanced Respiration, Mesh Inserts, Radiation Sense
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Bouncer<td>4&nbsp;MP<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -48,6 +59,8 @@
 - **Morph Traits:** Limberness (Level 1)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Futura<td>4&nbsp;MP<td>25<td>7<td>35<td>53<td>2<td>4<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -55,6 +68,8 @@
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Hibernoid<td>4&nbsp;MP<td>70<td>7<td>35<td>53<td>1<td>1<td>0<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -62,6 +77,8 @@
 - **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Cortical Stack, Hibernation, Mesh Inserts
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Menton<td>4&nbsp;MP<td>60<td>7<td>35<td>53<td>3<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -69,6 +86,8 @@
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts, Mnemonics
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Olympian<td>4&nbsp;MP<td>60<td>8<td>40<td>60<td>1<td>1<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -76,6 +95,8 @@
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Sylph<td>4&nbsp;MP<td>60<td>6<td>30<td>45<td>1<td>3<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -83,6 +104,11 @@
 - **Ware:** Biomods, Clean Metabolism, Cortical Stack, Enhanced Pheromones, Mesh Inserts
 
 </div></tr>
+
+<!--sort-end-->
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Fury<td>6&nbsp;MP<td>40<td>10<td>50<td>75<td>1<td>1<td>4<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -91,6 +117,8 @@
 - **Morph Traits:** Enhanced Behavior (Aggressiveness, Level 2; Cooperation, Level 2)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Ghost<td>6&nbsp;MP<td>40<td>9<td>45<td>68<td>2<td>1<td>3<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -99,6 +127,9 @@
 - **Morph Traits:** Enhanced Behavior (Patience, Level 2)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Remade<td>7&nbsp;MP<td>30<td>9<td>45<td>68<td>2<td>2<td>2<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -122,6 +153,7 @@
 - **Morph Traits:** Planned Obsolescence
 
 </div></tr>
+
 <tr><td>Worker Pod<td>3&nbsp;MP<td>70<td>7<td>35<td>53<td>0<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -129,6 +161,9 @@
 - **Ware:** Access Jacks, Biomods, Cortical Stack, Cyberbrain, Mesh Inserts, Mnemonics, Puppet Sock
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Novacrab<td>4&nbsp;MP<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -138,6 +173,8 @@
 - **Notes:** Claw Attack (DV 2d10)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Pleasure Pod<td>4&nbsp;MP<td>70<td>6<td>30<td>45<td>0<td>3<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -145,6 +182,11 @@
 - **Ware:** Access Jacks, Biomods, Clean Metabolism, Cortical Stack, Cyberbrain, Enhanced Pheromones, Mesh Inserts, Mnemonics, Puppet Sock, Scent Alteration, Sex Switch
 
 </div></tr>
+
+<!--sort-end-->
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Security Pod<td>5&nbsp;MP<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -152,6 +194,8 @@
 - **Ware:** Access Jacks, Biomods, Bioweave Armor (+2/+3), Claws, Cortical Stack, Cyberbrain, Eelware, Enhanced Hearing, Enhanced Vision, Mesh Inserts, Mnemonics, Puppet Sock
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Shaper<td>5&nbsp;MP<td>40<td>7<td>35<td>53<td>1<td>2<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -159,6 +203,8 @@
 - **Ware:** Access Jacks, Biomods, Chameleon Skin, Cortical Stack, Cyberbrain, Mesh Inserts, Mnemonics, Nanotat ID Flux, Puppet Sock, Sex Switch, Skinflex
 
 </div></tr>
+
+<!--sort-end-->
 </table>
 
 ---
@@ -175,6 +221,7 @@
 - **Notes:** Beak/Claw Attack (DV 2d6), [Small size](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
 <tr><td>Neo-Bonobo/<wbr>Neo-Chimpanzee<td>1&nbsp;MP<td>50<td>6<td>30<td>45<td>0<td>2<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -183,6 +230,7 @@
 - **Morph Traits:** Exotic Morphology (Level 1) Non-Human Biochemistry (Level 1)
 
 </div></tr>
+
 <tr><td>Neo-Neanderthal<td>2&nbsp;MP<td>35<td>7<td>35<td>53<td>0<td>1<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -191,6 +239,9 @@
 - **Morph Traits:** Non-Human Biochemistry (Level 1)
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Neo-Gorilla<td>3&nbsp;MP<td>40<td>9<td>45<td>68<td>0<td>0<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -199,6 +250,8 @@
 - **Morph Traits:** Exotic Morphology (Level 1), Non-Human Biochemistry (Level 1)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Neo-Octopus<td>3&nbsp;MP<td>35<td>6<td>30<td>45<td>1<td>1<td>1<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -208,6 +261,8 @@
 - **Notes:** 8 prehensile arms, Beak Attack (DV 1d10), Ink Attack (use Athletics, blinding, 5-meter uniform area-effect in water and micrograv)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Neo-Orangutan<td>3&nbsp;MP<td>35<td>7<td>35<td>53<td>1<td>1<td>2<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -218,6 +273,7 @@
 
 </div></tr>
 
+<!--sort-end-->
 </table>
 
 ---
@@ -225,6 +281,8 @@
 <table class="stat-list centered tl1">
 <thead><tr><th>SYNTHMORPHS<th>Cost<th>Avail<th>WT<th>DUR<th>DR<th>Insight<th>Moxie<th>Vigor<th>Flex</tr></thead>
 
+<!--sort-->
+<!--sort-block-->
 <tr><td>Case<td>0&nbsp;MP<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -234,6 +292,8 @@
 - **Notes:** Light Frame (Armor 6/4)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Spare<td>0&nbsp;MP<td>80<td>3<td>15<td>30<td>0<td>1<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -243,6 +303,9 @@
 - **Notes:** Light Frame (Armor 6/4), [Small size](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Dragonfly<td>1&nbsp;MP<td>70<td>5<td>25<td>50<td>1<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -252,6 +315,9 @@
 - **Notes:** Light Frame (Armor 6/4), [Small size](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Swarmanoid<td>3&nbsp;MP<td>60<td>—<td>50<td>100<td>2<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -261,6 +327,8 @@
 - **Notes:** Swarm Attack (DV 1d6, ignores armor, blinding), comes with [specialized swarmanoid hive](../16/19-nanotech.md#hives)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Synth<td>3&nbsp;MP<td>80<td>8<td>40<td>80<td>0<td>0<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -270,6 +338,9 @@
 - **Notes:** Light Frame (Armor 6/4)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Savant<td>4&nbsp;MP<td>50<td>7<td>35<td>70<td>3<td>0<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -279,6 +350,9 @@
 - **Notes:** Light Frame (Armor 6/4)
 
 </div></tr>
+
+<!--sort-->
+<!--sort-block-->
 <tr><td>Galatea<td>5&nbsp;MP<td>50<td>8<td>40<td>80<td>1<td>2<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -288,6 +362,8 @@
 - **Notes:** Light Frame (Armor 6/4)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Slitheroid<td>5&nbsp;MP<td>50<td>9<td>45<td>90<td>0<td>1<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -297,6 +373,8 @@
 - **Notes:** Medium Frame (Armor 8/6)
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Steel Morph<td>5&nbsp;MP<td>50<td>8<td>40<td>80<td>0<td>1<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -306,6 +384,9 @@
 - **Notes:** Medium Frame (Armor 8/6)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Arachnoid<td>6&nbsp;MP<td>40<td>11<td>55<td>110<td>1<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -344,6 +425,8 @@
 <table class="stat-list centered tl1">
 <thead><tr><th>MODULES<th>Cost<th>Avail<th>WT<th>DUR<th>DR<th>Insight<th>Moxie<th>Vigor<th>Flex</tr></thead>
 
+<!--sort-->
+<!--sort-block-->
 <tr><td>Crafter Module<td>2&nbsp;MP<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -351,13 +434,8 @@
 - **Common Shape Adjustments:** Enhanced Vision, Disassembly Tools, Fractal Digits, Nanoscopic Vision, Tool Kit, T-Ray Emitter, and Utilitool
 
 </div></tr>
-<tr><td>Fighter Module<td>3&nbsp;MP<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
-<tr><td colspan="10"><div class="indent">
 
-- **Ware:** Pneumatics, Weapon Mount (2)
-- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
-
-</div></tr>
+<!--sort-block-->
 <tr><td>Rogue Module<td>2&nbsp;MP<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -365,11 +443,23 @@
 - **Common Shape Adjustments:** Dazzler, Enhanced Vision, Fiber Eye, Fractal Digits, Magnetic System, Nanoscopic Vision, T-Ray Emitter, Weapon Mount
 
 </div></tr>
+
+<!--sort-block-->
 <tr><td>Wizard Modules<td>2&nbsp;MP<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Ware:** Radio Booster, Sniffer App, Tracker App
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
+
+</div></tr>
+
+<!--sort-end-->
+
+<tr><td>Fighter Module<td>3&nbsp;MP<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Ware:** Pneumatics, Weapon Mount (2)
+- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
 
 </div></tr>
 </table>

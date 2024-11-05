@@ -8,6 +8,7 @@ A few of the more common exsurgent strains are here. GMs are encouraged to devis
 
 **Damage/Stress:** Damage and/or stress inflicted by the infection on your body or mind at that stage. Armor does not apply to this damage.
 
+<!--sort-->
 ## Alter
 
 <div class="stat-list">
@@ -177,3 +178,5 @@ During this period, you acquire the Enhanced Behavior (Nest, Level 3) trait. You
 ### Stage 3
 
 In this final stage, you emerge as a fully transformed exsurgent NPC.
+
+<!--sort-end-->

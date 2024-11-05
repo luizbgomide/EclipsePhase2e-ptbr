@@ -54,6 +54,8 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Exalt
 
 Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on ever-evolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.
@@ -76,6 +78,7 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 
 </blockquote>
 
+<!--sort-block-->
 ### Neotenic
 
 Neotenics are transhumans modified to retain a child-like form. They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft. Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities, but most are designed to be neuter-gendered.
@@ -100,6 +103,8 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 </blockquote>
 
+<!--sort-end-->
+
 ### Ruster
 
 Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods.
@@ -123,6 +128,8 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 </blockquote>
 
+<!--sort-->
+<!--sort-block-->
 ### Bouncer
 
 Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats.
@@ -146,6 +153,7 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 
 </blockquote>
 
+<!--sort-block-->
 ### Futura
 
 Futura morphs were specially crafted for the “Lost Generation” of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities.
@@ -168,6 +176,7 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 
 </blockquote>
 
+<!--sort-block-->
 ### Hibernoid
 
 Hibernoids are transgenic-modified humans with heavily altered sleep patterns and metabolic processes. Hibernoids have a decreased need for sleep, requiring only 1–2 hours a day on average. They can also trigger a form of voluntary hibernation, effectively halting their metabolism and need for oxygen. Hibernoids make excellent long-duration space travelers, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.
@@ -190,6 +199,7 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 
 </blockquote>
 
+<!--sort-block-->
 ### Menton
 
 Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.
@@ -212,6 +222,7 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 
 </blockquote>
 
+<!--sort-block-->
 ### Olympian
 
 Olympians are human upgrades with improved athletic capabilities like endurance, hand-eye coordination, and cardiovascular functions. Olympians are common among athletes, dancers, freerunners, gatecrashers, and soldiers.
@@ -234,6 +245,7 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 
 </blockquote>
 
+<!--sort-block-->
 ### Sylph
 
 Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.
@@ -257,6 +269,10 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 </blockquote>
 
+<!--sort-end-->
+
+<!--sort-->
+<!--sort-block-->
 ### Fury
 
 Furies are combat morphs. These transgenic humans are upgraded for endurance, strength, reflexes, and capacity to handle physical trauma. Behavioral modifications for aggressiveness are offset by gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female.
@@ -281,6 +297,7 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 </blockquote>
 
+<!--sort-block-->
 ### Ghost
 
 Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.
@@ -304,6 +321,8 @@ Ghosts are partially designed for combat applications, but their primary focus i
 - **Common Extras:** Many are equipped with [adrenal surge](../16/10-combat-augmentations.md), [skinflex](../16/09-social-augmentations.md)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Remade
 
