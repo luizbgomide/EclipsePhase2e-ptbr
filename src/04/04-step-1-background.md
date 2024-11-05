@@ -158,11 +158,11 @@ If you’d rather determine your background randomly, roll 1d10:
 
 <!--sort-->
 | Roll  | Background<!--sort-cells--> | Roll  | Background<!--sort-cells--> |
-| :---: | :--------------------------: | :---: | :--------------------------: |
-|   1   |           Colonist           |   6   |           Infolife           |
-|   2   |           Enclaver           |   7   |           Isolate            |
-|   3   |          Freelancer          |   8   |             Lost             |
-|   4   |          Hyperelite          |   9   |          Underclass          |
-|   5   |          Indenture           |  10   |            Uplift            |
+| :---: | :-------------------------: | :---: | :-------------------------: |
+|   1   |          Colonist           |   6   |          Infolife           |
+|   2   |          Enclaver           |   7   |           Isolate           |
+|   3   |         Freelancer          |   8   |            Lost             |
+|   4   |         Hyperelite          |   9   |         Underclass          |
+|   5   |          Indenture          |  10   |           Uplift            |
 
 </blockquote>

@@ -200,6 +200,6 @@ If you’d rather determine your career randomly, roll 1d10:
 |           5           |           Face           |        Scientist         |
 |           6           |        Genehacker        |         Soldier          |
 |           7           |          Hacker          |          Techie          |
-| 8–10<!--sort-fixed-->|         Re-roll          |         Re-roll          |
+| 8–10<!--sort-fixed--> |         Re-roll          |         Re-roll          |
 
 </blockquote>

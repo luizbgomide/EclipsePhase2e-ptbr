@@ -44,26 +44,26 @@ Most morphs include the following augmentations.
 These devices are easily available in almost all habitats.
 
 <!--sort-->
-| EVERYDAY TECH                      | Comp/<wbr>GP | Description                                                                              |
-| :--------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
-| Breather                           |    Min/1     | Converts CO2 into oxygen or provides 2 hours of air.                                     |
-| Cold Suit                          |    Min/1     | Protects against −100&nbsp;°C.                                                           |
-| Ecto                               |    Min/1     | External version of mesh inserts, minus the internal medical sensors.                    |
-| Grip Tape                          |    Min/1     | Sticky nanotape used to adhere gear to any surface.                                      |
-| Holographic Projector              |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
-| Micrograv Shoes                    |    Min/1     | Shoes with velcro or magnetics to walk in micrograv.                                     |
-| Nuclear Battery                    |    Min/1     | Power from radio-isotope decay for years.                                                |
-| Portable Sensor                    |    Mod/2     | Portable/wearable sensor system of one type (lidar, radar, x-ray, etc.).                 |
-| Smart Clothing                     |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary.          |
-| Solar Charger                      |    Min/1     | Portable unit unfolds into solar panels for (re)charging electronics/batteries.          |
-| Specs                              |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
-| Standard Battery                   |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
-| Tools (Kit)                        |    Min/1     | Portable, applies to specific skill.                                                     |
+| EVERYDAY TECH                     | Comp/<wbr>GP | Description                                                                              |
+| :-------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| Breather                          |    Min/1     | Converts CO2 into oxygen or provides 2 hours of air.                                     |
+| Cold Suit                         |    Min/1     | Protects against −100&nbsp;°C.                                                           |
+| Ecto                              |    Min/1     | External version of mesh inserts, minus the internal medical sensors.                    |
+| Grip Tape                         |    Min/1     | Sticky nanotape used to adhere gear to any surface.                                      |
+| Holographic Projector             |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
+| Micrograv Shoes                   |    Min/1     | Shoes with velcro or magnetics to walk in micrograv.                                     |
+| Nuclear Battery                   |    Min/1     | Power from radio-isotope decay for years.                                                |
+| Portable Sensor                   |    Mod/2     | Portable/wearable sensor system of one type (lidar, radar, x-ray, etc.).                 |
+| Smart Clothing                    |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary.          |
+| Solar Charger                     |    Min/1     | Portable unit unfolds into solar panels for (re)charging electronics/batteries.          |
+| Specs                             |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
+| Standard Battery                  |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
+| Tools (Kit)                       |    Min/1     | Portable, applies to specific skill.                                                     |
 | <!--sort-union-->Tools (Shop)     |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
 | <!--sort-union-->Tools (Facility) |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
-| Utilitool                          |    Min/1     | All-purpose smart-material tool.                                                         |
-| Viewers                            |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
-| Wireless Energy Transmitter        |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
+| Utilitool                         |    Min/1     | All-purpose smart-material tool.                                                         |
+| Viewers                           |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
+| Wireless Energy Transmitter       |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
 
 <!--sort-->
 **Breather:** Ideal for Mars and exoplanets where you need air but not a full vacsuit, breathers consist of a face masks and a backpack or side pouch unit. It converts carbon dioxide into breathable oxygen indefinitely. For environments without convertible CO2 atmospheres (such as Titan), a small air tank provides 2 hours of breathable air.

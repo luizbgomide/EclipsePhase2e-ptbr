@@ -251,12 +251,12 @@ On the negative side, some petal trips go bad, inflicting SV 1d10 or worse. Some
 Research into the Watts-MacLeod strain has resulted in several exceptional breakthroughs with psi-impacting drugs. Each of these drugs is in the experimental stage, but they are already finding some use among Firewall and similar secretive groupings.
 
 <!--sort-->
-| PSI DRUGS                  |  Type   | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                           |
-| :------------------------- | :-----: | :---------: | :------: | :------------------: | :----------: | :---------------------------------------------------- |
-| Inhibitor                  | Biochem |     Any     | 6 hours  |      +20/Mental      |    Maj/3     | −30 Psi, −20&nbsp;WIL Check or lose psi abilities.    |
-| Psi-Opener                 | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-chi sleight. SV 1d6.        |
+| PSI DRUGS                 |  Type   | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                           |
+| :------------------------ | :-----: | :---------: | :------: | :------------------: | :----------: | :---------------------------------------------------- |
+| Inhibitor                 | Biochem |     Any     | 6 hours  |      +20/Mental      |    Maj/3     | −30 Psi, −20&nbsp;WIL Check or lose psi abilities.    |
+| Psi-Opener                | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-chi sleight. SV 1d6.        |
 | <!--sort-union-->Psi-Kick | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-gamma sleight. SV 1d10 + 2. |
-| Psike-Out                  | Biochem |     Any     | 8 hours  |      −10/Mental      |   Maj/R/3    | +10 Psi skill.                                        |
+| Psike-Out                 | Biochem |     Any     | 8 hours  |      −10/Mental      |   Maj/R/3    | +10 Psi skill.                                        |
 
 <!--sort-->
 **Inhibitor:** Inhibitor is a cocktail of neurochemicals that block some brain receptor and transmitter functions in an attempt to reduce psi-waves and block or impair sleights. This drug is commonly used to restrain async prisoners from using their abilities. Make a WIL Check at −20. If you fail, lose all psi abilities for the drug’s duration. If you succeed, you still suffer a −30 modifier to Psi Tests. Inhibitor-influenced characters have a glazed, dopey expression and difficulty getting excited or emotional.
