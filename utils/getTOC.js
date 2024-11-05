@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { getValidAnchor } = require("./helpers");
 
 const tocMarker = "<!-- TOC PLACEHOLDER -->";
 const headerRE = /^(\#+)\s+(.+)$/gm;
@@ -31,8 +32,6 @@ function readDirectory(dir) {
 }
 
 function processFile(file) {
-    var whitespace = /\s/g
-    var specialPunctuation = /[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~’]/g
     let result = '';
     // just process files start with ##-
     let filename = path.basename(file);
@@ -50,7 +49,7 @@ function processFile(file) {
     let slugList = []
     for (const h of headers) {
         let level = h[1].length;
-        let slug = h[2].toLowerCase().trim().replace(specialPunctuation, '').replace(whitespace, '-');
+        let slug = getValidAnchor(h[2]);
         let indexSuffix = 0;
         while (slugList.includes(slug + (indexSuffix === 0 ? "" : `-${indexSuffix}`))) {
             indexSuffix++;

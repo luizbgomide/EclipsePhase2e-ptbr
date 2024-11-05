@@ -41,8 +41,8 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     console.log("You must inform a valid source directory.");
     process.exit(1);
 }
-var sourceDir = path.resolve(process.argv[2]);
-var outputDir = sourceDir + ".clean_html";
+const sourceDir = path.resolve(process.argv[2]);
+const outputDir = sourceDir + ".clean_html";
 
 if (fs.statSync(outputDir, { throwIfNoEntry: false })?.isDirectory()) {
     console.log(`Target directory "${outputDir}" already exists.`);

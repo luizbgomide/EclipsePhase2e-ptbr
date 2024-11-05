@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-const srcFolder = "src";
 const validFile = "valid-links.txt";
 
 const linkRE = /(?!\\)\[.+?\]\((.+?)\)/gm;

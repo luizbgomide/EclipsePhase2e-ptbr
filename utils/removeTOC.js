@@ -2,8 +2,6 @@
 
 const fs = require("fs");
 const path = require("path");
-const { stringify } = require("querystring");
-const readline = require('readline');
 
 const summaryFile = "SUMMARY.md";
 

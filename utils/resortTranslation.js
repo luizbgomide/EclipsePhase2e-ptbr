@@ -1,9 +1,8 @@
 // resort content based on paragraphs, table, lists and titles
-
 const fs = require("fs");
 const path = require("path");
-const { constrainedMemory } = require("process");
 const readline = require('readline');
+const { compareText } = require('./helpers')
 
 const sortTag = "<!--sort-->"; // must be on a single line right before the first item
 const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are trimmed and have all HTML removed for sorting purposes, must be placed before each block
@@ -12,9 +11,9 @@ const sortRollTag = "<!--sort-roll-->"; // on table column header: columns to us
 const sortCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns
 const sortEndTag = "<!--sort-end-->"; // must be on a single line after a blank line
 const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
+const sortSkipTagRE = /<span[^>]*class="[^"]*sort-skip[^"]*"[^>]*>.*?<\/span>/gi; // use <span class="sort-skip"> to ignore articles like The
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
-const htmlTagsRE = /<[^>]*>/g;
 
 function readDirectory(dir) {
     fs.readdirSync(dir, { withFileTypes: true }).forEach((item) => {
@@ -86,13 +85,7 @@ else {
 }
 
 function compare(a, b) {
-    const compareOptions = { numeric: true, sensitivity: "base" };
-    const specialPunctuation = /[\u2000-\u206F\u2E00-\u2E7F!"#$%&'()*+,./:;<=>?@[\\\]^_`{|}~‘’“”]/g
-    return a.replace(specialPunctuation, " ").trimStart().localeCompare(b.replace(specialPunctuation, " ").trimStart(), undefined, compareOptions);
-}
-
-function removeHTML(block) {
-    return block.replace(htmlTagsRE, '').trim();
+    return compareText(a.replace(sortSkipTagRE,''), b.replace(sortSkipTagRE,''));
 }
 
 function resortContent(reversedLines) {
@@ -129,7 +122,7 @@ function resortContent(reversedLines) {
         if (line.includes(sortEndTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
             if (sortBlockMode) {
                 unsortedBlocks = unsortedBlocks.map(lines => lines.join("\n"));
-                unsortedBlocks.sort((a, b) => compare(removeHTML(a), removeHTML(b)));
+                unsortedBlocks.sort((a, b) => compare(a, b));
                 result.push(...unsortedBlocks);
                 result.push(line);
                 break;

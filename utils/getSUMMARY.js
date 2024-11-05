@@ -66,7 +66,7 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     console.log("You must inform a valid source directory.");
     process.exit(1);
 }
-var sourceDir = path.posix.normalize(process.argv[2]);
+const sourceDir = path.posix.normalize(process.argv[2]);
 let list = "# Summary\n\n" + readDirectory(sourceDir);
 let targetFile = path.join(sourceDir, summaryFile);
 fs.writeFileSync(targetFile, list);
