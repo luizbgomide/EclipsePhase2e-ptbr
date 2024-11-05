@@ -4,6 +4,7 @@
 
 Transhumanity has adopted a bewildering variety of approaches to the practice of forking.
 
+<!--sort-->
 ## Artists
 
 Artists pursue forking for unique cultural and social events. Brilliant dance compositions by the artist Dominique LeStrange have deployed up to a dozen forks simultaneously, and the recent performance of the show “One’s Self ” at Noctis is widely regarded as one of the most significant artistic events on Mars in the last five years. As more people with cultural caché explore forking for art and entertainment, they help improve public perception and counteract the stories of narcissistic pleasure-seeking. Forking for artistic endeavors is almost universally short-term and is coming to be seen as only the start of what can be accomplished.
@@ -72,10 +73,13 @@ Twins run and maintain a single fork of themselves. Most often instanced as an i
 
 So-called “parasitic twins” are far less equitable, keeping one instance limited or dependent on the other. This is usually a beta fork, but some prefer the efficiency of alpha forks, modified to be subservient and seek affection from the primary ego. The dependent fork is most often kept as a muse or virtual minion.
 
+<!--sort-end-->
+
 <blockquote>
 
 ## Summary of Fork Legalities
 
+<!--sort-->
 ### Anarchists/Extropians/Scum
 
 - No limitations
@@ -107,5 +111,7 @@ So-called “parasitic twins” are far less equitable, keeping one instance lim
 - No time limit, forks may apply for emancipation/citizenship
 
 **\* Varies by habitat; these are common legalities**
+
+<!--sort-end-->
 
 </blockquote>

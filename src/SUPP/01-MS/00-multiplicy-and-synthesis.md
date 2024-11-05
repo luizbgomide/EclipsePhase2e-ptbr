@@ -71,7 +71,7 @@ Markdown formatting and adaptation done by Luiz Borges Gomide.
   - [Neo-Synergists](05-synthesis.md#neo-synergists)
   - [Soul Eaters](05-synthesis.md#soul-eaters)
   - [Splits](05-synthesis.md#splits)
-  - [The Swarm](05-synthesis.md#the-swarm)
+  - [<span class="sort-skip">The </span>Swarm](05-synthesis.md#the-swarm)
 - [Game Information](06-game-information.md)
   - [Characters As Forks](06-game-information.md#characters-as-forks)
   - [Characters As Group Minds](06-game-information.md#characters-as-group-minds)

@@ -4,6 +4,7 @@
 
 As transhumanity explores this new collaborative mindscape, a multitude of practices, applications, and lifestyles are emerging.
 
+<!--sort-->
 ## Aggregates
 
 Crossing the line between synthesis and multiplicity is the increasingly common practice of aggregation. Multiple forks are instanced and maintained under the direction of the primary ego, maintaining synchronicity and unity through regular use of merging to share experiences and information and then forking out again. Alphas are preferred to minimize the risk of complication during mergers, though betas are used for menial tasks or for work focused on a very narrow activity.
@@ -74,10 +75,12 @@ When a new ego takes control of the split’s morph, their kinesics change along
 
 Splits avoid calling their distinct egos “alters” so as not to confuse their partitioning with a disassociative identity disorder diagnosis.
 
-## The Swarm
+## <span class="sort-skip">The </span>Swarm
 
 The network known as the Swarm may be our first example of a group mind not faciliated by transhuman technology. The Swarm is composed of asyncs infected by a particular sub-strain of the Watts-MacLeod exsurgent virus. Each member of the Swarm automatically links up to other Swarm asyncs within physical proximity, establishing a telepathic connection. While the range of this link is limited, it seems to reach much farther than most other remote async capabilities. This link allows Swarm members to mentally communicate, aid each other, and even use their sleights through each other.
 
 Members of the Swarm exhibit behaviors not seen in other asyncs. Though they conceptually grasp the idea of individual identity, they universally refer to themselves in the plural sense and do little to distinguish between individuals when acting with other Swarm members. When together, they seem to react in unison and automatically rush to aid each other when in need.
 
 We have recently learned that when a number of asyncs within the Swarm occupy the same habitat/area, they have used their own spit to facilitate the growth of an apparent xenobiological fungus throughout the area. These fungal growths work as a sort of mental repeater or mesh, allowing each Swarm async within proximity of the fungal network to be linked to any other Swarm async also in range. Attempts to sample and analyze these growths have so far failed—the Swarm seems aware when the fungus has been collected and the samples rapidly die and liquefy. The Swarm hides this fungal network within ventilation systems and maintenance areas to prevent detection.
+
+<!--sort-end-->

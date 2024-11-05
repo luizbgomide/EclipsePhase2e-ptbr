@@ -377,12 +377,12 @@
 04/25-synthmorphs.md#all-flexbots-1
 04/25-synthmorphs.md#crafter-module
 04/25-synthmorphs.md#crafter-module-1
-04/25-synthmorphs.md#fighter-module
-04/25-synthmorphs.md#fighter-module-1
 04/25-synthmorphs.md#rogue-module
 04/25-synthmorphs.md#rogue-module-1
 04/25-synthmorphs.md#wizard-module
 04/25-synthmorphs.md#wizard-module-1
+04/25-synthmorphs.md#fighter-module
+04/25-synthmorphs.md#fighter-module-1
 04/26-infomorphs.md
 04/26-infomorphs.md#infomorphs
 04/26-infomorphs.md#digimorph
@@ -470,8 +470,8 @@
 04/28-traits.md#addiction
 04/28-traits.md#age
 04/28-traits.md#bad-luck
-04/28-traits.md#blocklisted-rep
 04/28-traits.md#black-mark
+04/28-traits.md#blocklisted-rep
 04/28-traits.md#combat-paralysis
 04/28-traits.md#dominant-limb
 04/28-traits.md#edited-memories

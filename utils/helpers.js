@@ -19,3 +19,4 @@ function compareText(a, b) {
 
 exports.getValidAnchor = getValidAnchor;
 exports.specialPunctuation = specialPunctuation;
+exports.compareText = compareText;
