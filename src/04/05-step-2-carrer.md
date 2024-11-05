@@ -191,15 +191,15 @@ If you’d rather determine your career randomly, roll 1d10:
 | 6–10  | Roll on Group 2 |
 
 <!--sort-->
-|         Roll         | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |
-| :------------------: | :-----------------------: | :-----------------------: |
-|          1           |         Academic          |       Investigator        |
-|          2           |     Covert Operative      |           Medic           |
-|          3           |         Enforcer          |        Mindhacker         |
-|          4           |         Explorer          |         Scavenger         |
-|          5           |           Face            |         Scientist         |
-|          6           |        Genehacker         |          Soldier          |
-|          7           |          Hacker           |          Techie           |
-| 8–10<!--sort-end--> |          Re-roll          |          Re-roll          |
+|         Roll          | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |
+| :-------------------: | :----------------------: | :----------------------: |
+|           1           |         Academic         |       Investigator       |
+|           2           |     Covert Operative     |          Medic           |
+|           3           |         Enforcer         |        Mindhacker        |
+|           4           |         Explorer         |        Scavenger         |
+|           5           |           Face           |        Scientist         |
+|           6           |        Genehacker        |         Soldier          |
+|           7           |          Hacker          |          Techie          |
+| 8–10<!--sort-fixed-->|         Re-roll          |         Re-roll          |
 
 </blockquote>

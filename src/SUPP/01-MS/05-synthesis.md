@@ -75,7 +75,7 @@ When a new ego takes control of the split’s morph, their kinesics change along
 
 Splits avoid calling their distinct egos “alters” so as not to confuse their partitioning with a disassociative identity disorder diagnosis.
 
-## <span class="sort-skip">The </span>Swarm
+## <!--sort-skip-->The <!--/-->Swarm
 
 The network known as the Swarm may be our first example of a group mind not faciliated by transhuman technology. The Swarm is composed of asyncs infected by a particular sub-strain of the Watts-MacLeod exsurgent virus. Each member of the Swarm automatically links up to other Swarm asyncs within physical proximity, establishing a telepathic connection. While the range of this link is limited, it seems to reach much farther than most other remote async capabilities. This link allows Swarm members to mentally communicate, aid each other, and even use their sleights through each other.
 

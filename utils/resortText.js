@@ -8,12 +8,12 @@ const sortTag = "<!--sort-->"; // must be on a single line right before the firs
 const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are trimmed and have all HTML removed for sorting purposes, must be placed before each block
 const sortByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
 const sortRollTag = "<!--sort-roll-->"; // on table column header: columns to use for sorting
-const sortCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns
+const sortCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
 const sortEndTag = "<!--sort-end-->"; // must be on a single line after a blank line
 const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
 const sortFixedTag = "<!--sort-fixed-->"; // on tables and lists those rows have keep a fixed positon
 const sortRestartTag = "<!--sort-restart-->" // on tables and lists end the previous sort and restart a new one
-const sortSkipTagRE = /<span[^>]*class="[^"]*sort-skip[^"]*"[^>]*>.*?<\/span>/gi; // use <span class="sort-skip"> to ignore articles like The
+const sortSkipTagRE = /<!--sort-skip-->.*?<!--\/-->/g; // use <!--sort-skip-->...<!--\/--> to ignore parts of text
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
 
@@ -95,7 +95,7 @@ function resortContent(reversedLines) {
     let tableByCol = 1;
     let tableRollCol = -1;
     let tableCells = [];
-    let tableFixed = [];
+    let fixedBlockIndexes = [];
     // text: "", list: "-", table: "|", title: "#+ "
     let delimiter = reversedLines.at(-1)?.match(/^\s*(-|\||#+ )/)?.[0] ?? "";
     const sortBlockMode = reversedLines.at(-1)?.trim() === sortBlockTag;
@@ -122,14 +122,7 @@ function resortContent(reversedLines) {
     while (reversedLines.length > 0) {
         const line = reversedLines.pop();
         const emptyLine = line.trim() === "";
-        if (line.includes(sortEndTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
-            if (sortBlockMode) {
-                unsortedBlocks = unsortedBlocks.map(lines => lines.join("\n"));
-                unsortedBlocks.sort((a, b) => compare(a, b));
-                result.push(...unsortedBlocks);
-                result.push(line);
-                break;
-            }
+        if (line.includes(sortEndTag) || line.includes(sortRestartTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
             // if sorting by title or text, make sure the last line of each block is empty
             if (delimiter === "" || delimiter.startsWith("#")) {
                 unsortedBlocks.forEach(block => {
@@ -137,44 +130,52 @@ function resortContent(reversedLines) {
                         block.push("");
                 });
             }
-            // TODO extract fixed and then add them again on result??? will work for block mode???
-            if (delimiter === "|") {
+            const fixedBlocks = fixedBlockIndexes.map(blockIndex => unsortedBlocks[blockIndex]);
+            unsortedBlocks = unsortedBlocks.filter((_, index) => !fixedBlockIndexes.includes(index));
+
+            if (sortBlockMode) {
+                unsortedBlocks = unsortedBlocks.map(lines => lines.join("\n"));
+                unsortedBlocks.sort((a, b) => compare(a, b));
+            } else if (delimiter === "|") {
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.split(tableColumnRE)));
-                const firstValueText = unsortedBlocks[0][0][tableRollCol]?.split(rollDash)[0].trim();
-                const rollColWidth = unsortedBlocks[0][0][tableRollCol]?.length;
                 if (tableCells.length > 0) { // sort only cell content
                     let cellContent = [];
                     tableCells.forEach(colIndex => cellContent.push(...unsortedBlocks.map(block => block[0][colIndex])));
                     cellContent.sort((a, b) => compare(a, b));
                     cellContent.reverse();
                     tableCells.forEach(colIndex => unsortedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
-                    const sortedRows = unsortedBlocks.flat();
-                    result.push(...sortedRows.map(row => row.join("|")));
-                } else { // regular sort
+                } else { // regular table sort
+                    const firstValueText = unsortedBlocks[0][0][tableRollCol]?.split(rollDash)[0].trim();
+                    const rollColWidth = unsortedBlocks[0][0][tableRollCol]?.length;
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
-                    const sortedRows = unsortedBlocks.flat();
                     if (tableRollCol >= 0) {
                         const rollNumberMinWidth = firstValueText.length;
                         let currRollValue = Number.parseInt(firstValueText);
-                        sortedRows.forEach(row => {
+                        unsortedBlocks.forEach(block => block.forEach(row => {
                             const values = row[tableRollCol].trim().split(rollDash).map(v => Number.parseInt(v));
                             const extraRange = values.length > 1 ? values[1] - values[0] : 0;
                             const newRollCellValues = currRollValue.toString().padStart(rollNumberMinWidth, '0').concat(
                                 extraRange > 0 ? rollDash + (currRollValue + extraRange).toString().padStart(rollNumberMinWidth, '0') : "");
-                            // I'm assuming the cell content is centered
+                            // centering the cell content
                             row[tableRollCol] = newRollCellValues.padStart((rollColWidth + newRollCellValues.length) / 2).padEnd(rollColWidth);
                             currRollValue += extraRange + 1;
-                        });
+                        }));
                     }
-                    result.push(...sortedRows.map(row => row.join("|")));
                 }
+                unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
             } else {
                 unsortedBlocks.sort((a, b) => compare(a[0], b[0]));
-                const sortedLines = unsortedBlocks.flat();
-                result.push(...sortedLines);
             }
-            result.push(line);
-            break;
+            fixedBlockIndexes.forEach((blockIndex, index) => unsortedBlocks.splice(blockIndex, 0, fixedBlocks[index]));
+            unsortedBlocks = unsortedBlocks.flat();
+            result.push(...unsortedBlocks);
+            if (!line.includes(sortRestartTag)) {
+                result.push(line);
+                break;
+            }
+            unsortedBlocks = [];
+            currTarget = result;
+            newBlockReady = true;
         }
         if (emptyLine) {
             currTarget.push(line);
@@ -200,7 +201,7 @@ function resortContent(reversedLines) {
             continue;
         }
         if (line.includes(sortFixedTag)) {
-            tableFixed = unsortedBlocks.length
+            fixedBlockIndexes.push(unsortedBlocks.length);
             newBlockReady = true;
         }
         if (newBlockReady && line.trimStart().startsWith(delimiter)) {

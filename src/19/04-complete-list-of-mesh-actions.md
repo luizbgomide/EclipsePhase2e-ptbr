@@ -113,7 +113,7 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 <div class="stat-list">
 
 <!--sort-->
-- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<!--sort-union-->
+- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<!--sort-fixed-->
 - **aControl Ware:** As above.
 - **Copy Ego:** Make an alpha fork ([Forking](../15/04-forking-and-merging.md)).
 - **Delete Ego:** Erase the mind.
