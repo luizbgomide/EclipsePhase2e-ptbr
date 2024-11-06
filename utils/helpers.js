@@ -7,7 +7,7 @@ function getValidAnchor(title) {
 }
 
 function stripHtml(text) {
-    text.replace(htmlTagsRE, '');
+    return text.replace(htmlTagsRE, '');
 }
 
 const compareOptions = { numeric: true, sensitivity: "base" };
@@ -20,3 +20,4 @@ function compareText(a, b) {
 exports.getValidAnchor = getValidAnchor;
 exports.specialPunctuation = specialPunctuation;
 exports.compareText = compareText;
+exports.stripHtml = stripHtml;
