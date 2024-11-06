@@ -230,7 +230,7 @@ function resortContent(lines) {
             currTarget.push(...resortContent(lines));
             continue;
         }
-        if (line.includes(sortBlockTag)) {
+        if (sortBlockMode && line.includes(sortBlockTag)) {
             newBlockReady = true;
         }
         if (line.includes(sortFixedTag)) {
@@ -245,7 +245,7 @@ function resortContent(lines) {
         if (newBlockReady && line.trimStart().startsWith(delimiter)) {
             unsortedBlocks.push([]);
             currTarget = unsortedBlocks[unsortedBlocks.length - 1];
-            newBlockReady = delimiter === "|" || delimiter === "-";
+            newBlockReady = delimiter !== "";
         }
         currTarget.push(line);
     }
