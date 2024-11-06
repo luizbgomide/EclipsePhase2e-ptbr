@@ -7,7 +7,8 @@ const { compareText } = require('./helpers')
 const sortTag = "<!--sort-->"; // must be on a single line right before the first item
 const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are trimmed and have all HTML removed for sorting purposes, must be placed before each block
 const sortByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
-const sortRollTag = "<!--sort-roll-->"; // on table column header: columns to use for sorting
+const sortD10Tag = "<!--sort-d10-->"; // on table column header: distribute d10 values
+const sortD100Tag = "<!--sort-d100-->"; // on table column header: distribute d100 values
 const sortCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
 const sortEndTag = "<!--sort-end-->"; // must be on a single line after a blank line
 const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
@@ -93,9 +94,8 @@ function compare(a, b) {
 function resortContent(reversedLines) {
     let result = [];
     let tableByCol = 1;
-    let tableRollCol = -1;
+    let tableD10Cols = [];
     let tableCells = [];
-    let fixedBlockIndexes = [];
     // text: "", list: "-", table: "|", title: "#+ "
     let delimiter = reversedLines.at(-1)?.match(/^\s*(-|\||#+ )/)?.[0] ?? "";
     const sortBlockMode = reversedLines.at(-1)?.trim() === sortBlockTag;
@@ -106,8 +106,9 @@ function resortContent(reversedLines) {
         let headerLine = reversedLines.pop();
         let cols = headerLine.split(tableColumnRE); // index 0 and last should be empty
         tableCells = cols.map((value, index) => value.includes(sortCellsTag) ? index : -1).filter(index => index > 0);
+        tableD10Cols = cols.map((value, index) => value.includes(sortD10Tag) ? index : -1).filter(index => index > 0);
+        tableD100Cols = cols.map((value, index) => value.includes(sortD100Tag) ? index : -1).filter(index => index > 0);
         tableByCol = cols.findIndex(value => value.includes(sortByTag));
-        tableRollCol = cols.findIndex(value => value.includes(sortRollTag));
         if (tableByCol >= 0 && tableCells.length > 0) {
             throw new Error(`Cannot use sort-by with sort-cells.`);
         }
@@ -119,6 +120,7 @@ function resortContent(reversedLines) {
     let unsortedBlocks = [];
     let currTarget = result;
     let newBlockReady = true;
+    let fixedBlockIndexes = [];
     while (reversedLines.length > 0) {
         const line = reversedLines.pop();
         const emptyLine = line.trim() === "";
@@ -145,21 +147,41 @@ function resortContent(reversedLines) {
                     cellContent.reverse();
                     tableCells.forEach(colIndex => unsortedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
                 } else { // regular table sort
-                    const firstValueText = unsortedBlocks[0][0][tableRollCol]?.split(rollDash)[0].trim();
-                    const rollColWidth = unsortedBlocks[0][0][tableRollCol]?.length;
+                    console.log (unsortedBlocks);
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
-                    if (tableRollCol >= 0) {
-                        const rollNumberMinWidth = firstValueText.length;
-                        let currRollValue = Number.parseInt(firstValueText);
-                        unsortedBlocks.forEach(block => block.forEach(row => {
-                            const values = row[tableRollCol].trim().split(rollDash).map(v => Number.parseInt(v));
-                            const extraRange = values.length > 1 ? values[1] - values[0] : 0;
-                            const newRollCellValues = currRollValue.toString().padStart(rollNumberMinWidth, '0').concat(
-                                extraRange > 0 ? rollDash + (currRollValue + extraRange).toString().padStart(rollNumberMinWidth, '0') : "");
-                            // centering the cell content
-                            row[tableRollCol] = newRollCellValues.padStart((rollColWidth + newRollCellValues.length) / 2).padEnd(rollColWidth);
-                            currRollValue += extraRange + 1;
-                        }));
+
+                    // TODO implement roll after fixed detected based on width???
+                    if (tableD10Cols.length > 0) {
+                        tableD10Cols.forEach(rollCol => {
+                            const rollColWidth = unsortedBlocks[0][0][rollCol]?.length;
+                            let minValue = Infinity;
+                            let rollNumberWidth = minValue.length;
+                            unsortedBlocks.forEach(block => block.forEach(row => {
+                                const rollText = row[rollCol].trim().split(rollDash).map(s => s.trim());
+                                let rollValues = rollText.map(v => Number.parseInt(v));
+                                if (Number.isFinite(rollValues[0])) {
+                                    if (rollValues[1] === 0) rollValues[1] = 10;
+                                    const range = rollValues.length > 1 ? rollValues[1] - rollValues[0] : 0;
+                                    //console.log(row);
+                                    if (rollValues[0] < minValue) {
+                                        minValue = rollValues[0];
+                                        rollNumberWidth = rollText[0].length;
+                                    }
+                                    row[rollCol] = range;
+                                }
+
+                            }));
+                            unsortedBlocks.forEach(block => block.forEach(row => {
+                                const range = row[rollCol];
+                                if (Number.isFinite(range)) {
+                                    const newRollCellValues = minValue.toString().padStart(rollNumberWidth, '0').concat(
+                                        range > 0 ? rollDash + (minValue + range).toString().padStart(rollNumberWidth, '0') : "");
+                                    // centering the cell content
+                                    row[rollCol] = newRollCellValues.padStart((rollColWidth + newRollCellValues.length) / 2).padEnd(rollColWidth);
+                                    minValue += range + 1;
+                                }
+                            }));
+                        });
                     }
                 }
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
@@ -176,6 +198,7 @@ function resortContent(reversedLines) {
             unsortedBlocks = [];
             currTarget = result;
             newBlockReady = true;
+            fixedBlockIndexes = [];
         }
         if (emptyLine) {
             currTarget.push(line);
