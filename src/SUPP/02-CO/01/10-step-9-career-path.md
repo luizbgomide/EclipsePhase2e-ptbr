@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**Step 9 is where your character really starts to come together. In this step you determine your character’s primary profession. Choose or roll on Table 9 to define this career path, roll on the appropriate sub-table, and then move on to Step 10.**
+**Step 9 is where your character really starts to come together. In this step you determine your character’s primary profession. Choose or roll on the Random Career Path table to define this career path, roll on the appropriate sub-table, and then move on to Step 10.**
 
 </blockquote>
 
@@ -18,39 +18,39 @@ The career decided here is either the one you practiced most notably during your
 
 <blockquote class="table">
 
-## 9.0 Random Career Path \[d10 & d10\]
+## Random Career Path \[d10 & d10\]
 
 ### d10 #1 = \{1–5\}
 
-| d10&nbsp;#2 | Career                                        | Description                                                                  |
-| :---------: | :-------------------------------------------- | :--------------------------------------------------------------------------- |
-|      1      | [Academic](#91-academic-d100)                 | You devote your efforts to the pursuit of knowledge.                         |
-|      2      | [Covert Operative](#92-covert-operative-d100) | You are skilled at accessing places you don’t belong.                        |
-|      3      | [Enforcer](#93-enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                    |
-|      4      | [Explorer](#94-explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.             |
-|      5      | [Face](#95-face-d100)                         | You excel at convincing others, even when it is not in their best interests. |
-|      6      | [Genehacker](#96-genehacker-d100)             | DNA is your artistic medium.                                                 |
-|      7      | [Hacker](#97-hacker-d100)                     | Software heeds your beck and call.                                           |
-|    8–10     |                                               | **RE-ROLL #2**                                                               |
+| d10&nbsp;#2 | Career                                     | Description                                                                  |
+| :---------: | :----------------------------------------- | :--------------------------------------------------------------------------- |
+|      1      | [Academic](#academic-d100)                 | You devote your efforts to the pursuit of knowledge.                         |
+|      2      | [Covert Operative](#covert-operative-d100) | You are skilled at accessing places you don’t belong.                        |
+|      3      | [Enforcer](#enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                    |
+|      4      | [Explorer](#explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.             |
+|      5      | [Face](#face-d100)                         | You excel at convincing others, even when it is not in their best interests. |
+|      6      | [Genehacker](#genehacker-d100)             | DNA is your artistic medium.                                                 |
+|      7      | [Hacker](#hacker-d100)                     | Software heeds your beck and call.                                           |
+|    8–10     |                                            | **RE-ROLL #2**                                                               |
 
 ### d10 #1 = \{6–0\}
 
-| d10&nbsp;#2 | Career                                | Description                                                                         |
-| :---------: | :------------------------------------ | :---------------------------------------------------------------------------------- |
-|      1      | [Investigator](#98-investigator-d100) | Few details escape your scrutiny.                                                   |
-|      2      | [Medic](#99-medic-d100)               | You have a background in medicine.                                                  |
-|      3      | [Mindhacker](#910-mindhacker-d100)    | You meld minds and memories.                                                        |
-|      4      | [Scavenger](#911-scavenger-d100)      | You scrounge through wrecks and ruins, seeking value in destruction.                |
-|      5      | [Scientist](#912-scientist-d100)      | You seek to understand how the universe works — or at least certain elements of it. |
-|      6      | [Soldier](#913-soldier-d100)          | You deploy violence — or the threat of it.                                          |
-|      7      | [Techie](#914-techie-d100)            | You make and fix things.                                                            |
-|    8–10     |                                       | **RE-ROLL #2**                                                                      |
+| d10&nbsp;#2 | Career                             | Description                                                                         |
+| :---------: | :--------------------------------- | :---------------------------------------------------------------------------------- |
+|      1      | [Investigator](#investigator-d100) | Few details escape your scrutiny.                                                   |
+|      2      | [Medic](#medic-d100)               | You have a background in medicine.                                                  |
+|      3      | [Mindhacker](#mindhacker-d100)     | You meld minds and memories.                                                        |
+|      4      | [Scavenger](#scavenger-d100)       | You scrounge through wrecks and ruins, seeking value in destruction.                |
+|      5      | [Scientist](#scientist-d100)       | You seek to understand how the universe works — or at least certain elements of it. |
+|      6      | [Soldier](#soldier-d100)           | You deploy violence — or the threat of it.                                          |
+|      7      | [Techie](#techie-d100)             | You make and fix things.                                                            |
+|    8–10     |                                    | **RE-ROLL #2**                                                                      |
 
 </blockquote>
 
 <blockquote class="framed-table">
 
-## 9.1 Academic \[d100\]
+## Academic \[d100\]
 
 **You devote your efforts to the pursuit of knowledge.**
 
@@ -137,7 +137,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.2 Covert Operative \[d100\]
+## Covert Operative \[d100\]
 
 **You are skilled at accessing places you don’t belong.**
 
@@ -222,7 +222,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.3 Enforcer \[d100\]
+## Enforcer \[d100\]
 
 **You’re a thug, whether for hire or for a dedicated cause.**
 
@@ -309,7 +309,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.4 Explorer \[d100\]
+## Explorer \[d100\]
 
 **You walk on alien worlds and see things others wouldn’t believe.**
 
@@ -398,7 +398,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.5 Face \[d100\]
+## Face \[d100\]
 
 **You excel at convincing others, even when it is not in their best interests.**
 
@@ -483,7 +483,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.6 Genehacker \[d100\]
+## Genehacker \[d100\]
 
 **DNA is your artistic medium.**
 
@@ -571,7 +571,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.7 Hacker \[d100\]
+## Hacker \[d100\]
 
 **Software heeds your beck and call.**
 
@@ -656,7 +656,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.8 Investigator \[d100\]
+## Investigator \[d100\]
 
 **Few details escape your scrutiny.**
 
@@ -743,7 +743,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.9 Medic \[d100\]
+## Medic \[d100\]
 
 **You have a background in medicine.**
 
@@ -830,7 +830,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.10 Mindhacker \[d100\]
+## Mindhacker \[d100\]
 
 **You meld minds and memories.**
 
@@ -918,7 +918,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.11 Scavenger \[d100\]
+## Scavenger \[d100\]
 
 **You scrounge through wrecks and ruins, seeking value in destruction.**
 
@@ -1007,7 +1007,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.12 Scientist \[d100\]
+## Scientist \[d100\]
 
 **You excel at convincing others, even when it is not in their best interests.**
 
@@ -1098,7 +1098,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.13 Soldier \[d100\]
+## Soldier \[d100\]
 
 **You deploy violence — or the threat of it.**
 
@@ -1184,7 +1184,7 @@ Roll 1d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10
 
 <blockquote class="framed-table">
 
-## 9.14 Techie \[d100\]
+## Techie \[d100\]
 
 **You make and fix things.**
 

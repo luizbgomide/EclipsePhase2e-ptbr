@@ -22,14 +22,14 @@ This step introduces an incident or ongoing situation that shapes your early lif
 
 <blockquote class="table">
 
-## 5.0 Youth Event \[d100\]
+## Youth Event \[d100\]
 
 <div class="tnw1">
 
 | d100  | Result                                                                                                                                                                                                                                            |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 00–19 | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#140-story-event-d100).                                                                                                                                    |
-| 20–21 | One of your parents is bilingual (or both). Gain an extra language (your choice or [roll randomly](04-step-3-native-tongue.md#30-random-language-d100)).                                                                                          |
+| 00–19 | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#story-event-d100).                                                                                                                                        |
+| 20–21 | One of your parents is bilingual (or both). Gain an extra language (your choice or [roll randomly](04-step-3-native-tongue.md#random-language-d100)).                                                                                             |
 | 22–23 | You leave home at an early age and forge your own path. Choose a new motivation (or [roll for one](01-life-path-character-creation.md#random-motivations-d100)).                                                                                  |
 | 24–25 | The quality of your childhood education is poor. −10 to one Know skill of your choice.                                                                                                                                                            |
 | 26–27 | You are glued to the mesh from an early age. Gain the [Online Obsession trait](../04/07-new-ego-traits.md#online-obsession).                                                                                                                      |

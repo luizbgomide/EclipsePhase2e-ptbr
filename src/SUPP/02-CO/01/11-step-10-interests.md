@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**Step 10 is where your define your character’s additional interests and skills. Choose or roll one from Table 10, take the results from the appropriate sub-table, and proceed to Step 11.**
+**Step 10 is where your define your character’s additional interests and skills. Choose or roll one from the Random Interest table, take the results from the appropriate sub-table, and proceed to Step 11.**
 
 </blockquote>
 
@@ -18,7 +18,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 <blockquote class="table">
 
-## 10.0 Random Interest \[d10 & d10\]
+## Random Interest \[d10 & d10\]
 
 ### d10 #1 = \{1–5\}
 

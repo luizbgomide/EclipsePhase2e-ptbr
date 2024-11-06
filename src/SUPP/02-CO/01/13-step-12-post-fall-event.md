@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**Now you get to see what major event influenced your life after the Fall. Roll on Table 12 and apply results, then proceed to Step 13.**
+**Now you get to see what major event influenced your life after the Fall. Roll on the Post-Fall Event table and apply results, then proceed to Step 13.**
 
 </blockquote>
 
@@ -18,13 +18,13 @@ This step deals with more recent changes to your character’s life. Did you run
 
 <blockquote class="table">
 
-## 12.0 Post-Fall Event \[d100\]
+## Post-Fall Event \[d100\]
 
 <div class="tnw1">
 
 | d100  | Result                                                                                                                                                                                                                                                                                          |
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  00   | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#140-story-event-d100).                                                                                                                                                                                  |
+|  00   | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#story-event-d100).                                                                                                                                                                                      |
 | 01–02 | You win the gatecrashing lottery and a free ticket to Pandora. Roll on the [Gatecrashing Event table](14-step-13-campaign-event.md#gatecrashing-event-d100).                                                                                                                                    |
 |  03   | You are embroiled in underworld affairs. Roll on the [Crime Event table](14-step-13-campaign-event.md#crime-event-d100).                                                                                                                                                                        |
 |  04   | You find a morph that fits you like a glove. Gain the [Morph Attunement trait](../04/07-new-ego-traits.md#morph-attunement). Roll on the [Random Morph tables](20-morph-tables.md).                                                                                                             |
@@ -46,7 +46,7 @@ This step deals with more recent changes to your character’s life. Did you run
 |  25   | An unknown party leaves you a portable QE comm unit with a [qubit reservoir](../../../16/16-comms-and-mesh-gear.md#quantum-entangled-communication) (_EP2_), telling you only to expect a call in the future.                                                                                   |
 |  26   | You travel extensively. Gain a new language and roll on the [Random Morph tables](20-morph-tables.md).                                                                                                                                                                                          |
 |  27   | You’ve gotten really good at resleeving. Roll on the [Random Morph tables](20-morph-tables.md) and gain the [Adaptability (Level 2) trait](../../../04/28-traits.md#adaptability) (_EP2_).                                                                                                      |
-|  28   | You create a major diplomatic incident. Gain the [Black Mark (Level 2) trait](../../../04/28-traits.md#black-mark) (_EP2_). Roll on the [Faction table](12-step-11-faction.md#110-faction-d100) to determine which.                                                                             |
+|  28   | You create a major diplomatic incident. Gain the [Black Mark (Level 2) trait](../../../04/28-traits.md#black-mark) (_EP2_). Roll on the [Faction table](12-step-11-faction.md#faction-d100) to determine which.                                                                                 |
 |  29   | You barely survive a murder attempt. Increase INT by 5.                                                                                                                                                                                                                                         |
 |  30   | A close-call with people out to get you puts you on the defensive. Gain the [Data Control (Level 2) trait](../04/07-new-ego-traits.md#data-control).                                                                                                                                            |
 |  31   | You come into possession of 5 doses of the [psi-opener drug](../../../16/15-chemicals-drugs-and-toxins.md#psi-drugs) (_EP2_). Roll on the [Sleights table](21-sleight-tables.md#type-of-sleight-d10) to determine effects.                                                                      |
@@ -73,7 +73,7 @@ This step deals with more recent changes to your character’s life. Did you run
 |  52   | You have an accident with a drone, so you get really good at making them obey you. Gain the [Drone Whisperer trait](../04/07-new-ego-traits.md#drone-whisperer).                                                                                                                                |
 |  53   | You decide to take a risk and let the universe decide your fate. Gain the [No Backup Insurance trait](../../../04/28-traits.md#no-backup-insurance) (_EP2_).                                                                                                                                    |
 |  54   | Someone impersonates you. Gain the [Stolen Identity trait](../04/07-new-ego-traits.md#stolen-identity).                                                                                                                                                                                         |
-|  55   | You switch factional allegiances. Roll for your new [faction](12-step-11-faction.md#110-faction-d100). Gain Know: [New Faction] Interests 10 skill.                                                                                                                                             |
+|  55   | You switch factional allegiances. Roll for your new [faction](12-step-11-faction.md#faction-d100). Gain Know: [New Faction] Interests 10 skill.                                                                                                                                                 |
 |  56   | You spend a significant portion of your life in one habitat. Gain the [Home Turf trait](../04/07-new-ego-traits.md#home-turf).                                                                                                                                                                  |
 |  57   | You are hired to work on a ship and eventually become the captain. Gain the [Spacecraft trait](../04/07-new-ego-traits.md#spacecraft).                                                                                                                                                          |
 |  58   | You do the right thing but piss off someone with power. −10 f-rep or c-rep.                                                                                                                                                                                                                     |

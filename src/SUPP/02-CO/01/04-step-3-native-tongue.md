@@ -18,12 +18,12 @@ Your native language is an indication of your character’s ethnic background an
 
 <blockquote class="table">
 
-## 3.0 Random Language \[d100\]
+## Random Language \[d100\]
 
 <div class="tnw1">
 
 <!--sort-->
-| d100<!--sort-roll--> | Language<!--sort-by--> |
+| d100<!--sort-d100--> | Language<!--sort-by--> |
 | :------------------: | :--------------------- |
 |        00–05         | Arabic                 |
 |        06–08         | Bengali                |

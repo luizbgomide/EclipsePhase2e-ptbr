@@ -91,7 +91,7 @@ You should never have more than 3 motivations; if you want to add a new one, you
 <div class="tnw1">
 
 <!--sort-->
-| Roll<!--sort-roll--> |          Motivation<!--sort-by-->          |
+| Roll<!--sort-d100--> |          Motivation<!--sort-by-->          |
 | :------------------: | :----------------------------------------: |
 |          00          |          Acceptance/Assimilation           |
 |        01–02         |          Adventure/Thrill-Seeking          |

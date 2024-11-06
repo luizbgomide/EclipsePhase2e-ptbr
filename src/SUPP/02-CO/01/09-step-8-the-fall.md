@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**Roll once on the 8.0 Fall Event table, follow the instructions, and then proceed to Step 9.**
+**Roll once on the Fall Event table, follow the instructions, and then proceed to Step 9.**
 
 </blockquote>
 
@@ -18,13 +18,13 @@ The Fall affected everyone in _Eclipse Phase_. You are part of the small but luc
 
 <blockquote class="table">
 
-## 8.0 Fall Event \[d100\]
+## Fall Event \[d100\]
 
 <div class="tnw1">
 
 | d100  | Result                                                                                                                                                                                                                                                                                                                      |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 00–09 | Gain +1 Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#140-story-event-d100).                                                                                                                                                                                                                  |
+| 00–09 | Gain +1 Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#story-event-d100).                                                                                                                                                                                                                      |
 | 10–11 | An unseen nanoswarm infects you with the [Watts-MacLeod exsurgent virus](../../../14/00-psi.md) (_EP2_). You must take the Async path in Step 10.                                                                                                                                                                           |
 | 12–13 | You rack up a major debt to get yourself off-world. Gain the [Debt trait](../04/07-new-ego-traits.md#debt).                                                                                                                                                                                                                 |
 | 14–15 | You assume that you died on Earth, but you don’t know for sure. Roll on the [Random Morph tables](20-morph-tables.md) and gain the [Edited Memories trait](../../../04/28-traits.md#edited-memories) (_EP2_).                                                                                                               |
