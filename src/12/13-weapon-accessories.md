@@ -2,7 +2,8 @@
 
 The following accessories are available for weapons.
 
-<!--sort-->
+<sort>
+
 | WEAPON ACCESSORIES             | Comp/<wbr>GP | Description                                                      |
 | :----------------------------- | :----------: | :--------------------------------------------------------------- |
 | Arm Slide                      |    Min/1     | Draw and attack with single complex action.                      |
@@ -17,7 +18,8 @@ The following accessories are available for weapons.
 | Smartlink                      |    Mod/2     | Assisted targeting, enhanced weapon control.                     |
 | Smart Magazine                 |    Min/1     | Select ammo with each shot, reduce ammo capacity −50%.           |
 
-<!--sort-->
+<sort>
+
 **Arm Slide:** This slide-mount can hold a one-handed weapon under your sleeve, pushing the weapon into your hand with an electronic signal or specific sequence of arm movements. You can draw the weapon and attack with a single complex action.
 
 **Extended Magazine:** This ammunition case has an enhanced capacity. Increase the weapon’s ammo capacity by +50%. This is only available for firearms and seekers.
@@ -40,4 +42,5 @@ The following accessories are available for weapons.
 
 **Smart Magazine:** A smart magazine allows you to pick and choose what ammo round will be fired with each shot. This system leaves less room for bullets, however, so reduce the weapon’s ammunition capacity by half (round up). Smart magazines can be combined with extended magazines, in which case ammo capacity is normal.
 
-<!--sort-end-->
+</sort>
+

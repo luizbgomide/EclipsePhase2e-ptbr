@@ -2,7 +2,8 @@
 
 A few of the known exsurgent types are detailed here.
 
-<!--sort-->
+<sort>
+
 ## Creeper
 
 <div class="stat-list">
@@ -551,4 +552,5 @@ Named for their habit of worming their way into people’s minds, worms retain t
 
 </blockquote>
 
-<!--sort-end-->
+</sort>
+

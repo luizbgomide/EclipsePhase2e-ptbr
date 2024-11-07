@@ -12,7 +12,8 @@ These actions apply to motes, hosts, servers, and most other electronics.
 
 Any user can take these actions, though high-security systems may restrict some of these to users with security or admin privileges.
 
-<!--sort-->
+<sort>
+
 - **Access Another System:** You can [authenticate](05-authentication-and-encryption.md#authentication-methods) and access an account on another system. This creates an [account shell](05-authentication-and-encryption.md#accounts--access-privileges), representing your presence on that system.
 - **Apply Tag:** You can mark a physical person, place, or thing with an e-tag viewable in AR ([Tagging](03-common-mesh-uses.md#tagging)).
 - **Communicate:** You can email, text, and voice or video chat others online, as long as you have their mesh ID.
@@ -44,7 +45,8 @@ Any user can take these actions, though high-security systems may restrict some 
 
 Actions reserved for accounts with security or admin privileges.
 
-<!--sort-->
+<sort>
+
 - **Acquire Mesh ID:** You can acquire the mesh ID of anyone accessing the system.
 - **Activate Countermeasure:** You may initiate an active [countermeasures](12-countermeasures.md) against an intruder, such as locking them out, tracing them, or initiating a reboot.
 - **Attack:** You can attempt to crash software, including account shells, apps, firewalls, infomorphs, operating systems, and services ([Mesh Combat](14-mesh-combat.md)).
@@ -62,7 +64,8 @@ Actions reserved for accounts with security or admin privileges.
 
 Only admin accounts are allowed to take these actions.
 
-<!--sort-->
+<sort>
+
 - **Disable Sensors or Device Functions:** You can turn off sensors or other physical functions. This may keep someone with physical access to the device from using it.
 - **Modify Accounts:** You can add new accounts and remove old ones. You cannot remove accounts that are currently being accessed — the user must completely log off first (or have their account shell crashed in mesh combat). Every device has a root admin account that cannot be removed (short of wiping the system).
 - **Modify Privileges:** You can add or remove specific privileges, such as allowing access to certain directories, files, sensors, or apps. You can also downgrade security accounts to user privileges or elevate users to security accounts and security accounts to admins. You can remove or downgrade admin privileges from other accounts, however every device has a root admin account that cannot be modified (with ware, this usually means the person they are installed in).

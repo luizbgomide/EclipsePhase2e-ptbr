@@ -2,7 +2,8 @@
 
 Using the mesh is an everyday, intuitive affair for most transhumans. This section details some of the most common uses and any considerations when it comes to security or hacking.
 
-<!--sort-->
+<sort>
+
 ## Augmented Reality (AR)
 
 AR overlays data and sensory input from the mesh on your physical senses. This allows you to experience images and video, text, sounds, physical sensations, and even tastes and smells as you go about your day. AR sensory input is high-resolution and seemingly real, though usually tinged with a ghostly quality so as not to be confused with real-world interactions. AR data can be customized, filtered, and layered as you see fit.
@@ -99,4 +100,5 @@ Only [servers](04-devices-apps-and-links.md#servers) have the bandwidth and proc
 
 VR is covered in more detail on [Virtual Reality](18-virtual-reality.md).
 
-<!--sort-end-->
+</sort>
+

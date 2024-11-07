@@ -6,7 +6,8 @@ Credit and mutual aid can get you many things in Eclipse Phase.
 
 These software services are available as a per-month subscription from cloud-based servers. All apps are also available as mesh services.
 
-<!--sort-->
+<sort>
+
 | MESH SERVICES            |  Comp/<wbr>GP  | Description                                                          |
 | :----------------------- | :------------: | :------------------------------------------------------------------- |
 | Anonymizer               |     Min/1      | Masks your mesh ID.                                                  |
@@ -17,7 +18,8 @@ These software services are available as a per-month subscription from cloud-bas
 | Private Server           | Min/1 or Mod/2 | Private server, self-administrated (Min) or managed by others (Mod). |
 | Simulspace               |     Min/1      | Access to a VR space.                                                |
 
-<!--sort-->
+<sort>
+
 **Anonymizer:** You have an account with an anonymizing proxy service that masks your [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
 **Archive:** Each archive has a different focus (as Know skill fields). Using a relevant archive provides a +10 modifier to Research Tests involving that subject.
@@ -32,13 +34,14 @@ These software services are available as a per-month subscription from cloud-bas
 
 **Simulspace:** You have access to a virtual game environment, private meeting space, interactive media service, unreal vacation library, or other simulspace environment.
 
-<!--sort-end-->
+</sort>
 
 ## Physical Services
 
 These services are available on some habitats.
 
-<!--sort-->
+<sort>
+
 | PHYSICAL SERVICES         | Comp/<wbr>GP | Description                                                         |
 | :------------------------ | :----------: | :------------------------------------------------------------------ |
 | Bot/Vehicle Rental        |    Min/1     | Rent a bot for 1 week.                                              |
@@ -55,7 +58,8 @@ These services are available on some habitats.
 | Recovery Bond (Hazardous) |    Rare/—    | A team will seek to retrieve your stack despite threats/legalities. |
 | Space Travel              |   Mod+/2+    | Transport on a spacecraft.                                          |
 
-<!--sort-->
+<sort>
+
 **Bot/Vehicle Rental:** In some locations, bots and vehicles can be rented on a weekly basis, though you are liable for damages/replacement. The GM determines availability.
 
 **Dead Zone Map:** This map shows areas in a neighborhood or small habitat that lack public and/or private surveillance coverage.
@@ -82,4 +86,5 @@ These services are available on some habitats.
 
 **Space Travel:** Space transport cost depends on a number of factors like distance, quality of lodgings, and how much cargo you’re bringing with. At the low end, an intra-habitat shuttle trip within the same cluster, or a trip to or from a planetary body’s surface and orbit, is not cheap but affordable. Just about anything else is progressively more costly.
 
-<!--sort-end-->
+</sort>
+

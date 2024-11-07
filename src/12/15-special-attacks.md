@@ -2,7 +2,8 @@
 
 Use the following rules for special melee or ranged strikes.
 
-<!--sort-->
+<sort>
+
 ## Area-effect Attacks
 
 Attacks that affect more than one target or an area are classified as centered blast, cone, or uniform blast.
@@ -39,7 +40,8 @@ Attacking a target that you cannot see is difficult at best and a matter of luck
 
 Sometimes it’s not enough to just hit your target — you need to shoot out a window, knock the knife out of their hand, or hit that hole in their armor. You can declare a called shot before you initiate an attack, choosing one of the outcomes noted below. Called shots suffer a −10 modifier. If you succeed with a superior success, the results below apply instead of the superior success result. If you hit but do not score a superior success, you simply strike your target as normal. You cannot make called shots with area-effect attacks.
 
-<!--sort-->
+<sort>
+
 ### Bypass Armor
 
 Called shots can be used to target a hole or weak point in your opponent’s armor. If you score a superior success, you strike an armor-defeating hit, and their armor is halved. The GM may rule that an opponent’s armor doesn’t have a weak spot or unprotected area and disallow such called shots, or they may require a successful Perceive or Hardware: Armorer Test to spot one first.
@@ -60,7 +62,7 @@ A called shot can be used to push your opponent in a specific direction. A redir
 
 A called shot can be used to strike a specific location on your opponent: disable a tool on a bot, strike someone in the eyes, or injure their leg. The GM determines the result. For example, the opponent may be blinded or [dazed](21-other-action-factors.md#conditions), have their movement hindered by half, or may lose the use of a specific component.
 
-<!--sort-end-->
+</sort>
 
 ## Coated Weapons
 
@@ -123,4 +125,5 @@ You can wield a pistol in each hand for ranged combat, or larger weapons if you 
 
 You cannot fire multiple weapons against separate targets at once; each attack requires a separate complex action.
 
-<!--sort-end-->
+</sort>
+

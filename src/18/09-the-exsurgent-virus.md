@@ -16,7 +16,8 @@ The exsurgent virus is polymorphic. There are dozens of unique strains, each spr
 
 The defining characteristic of these different vectors and strains is the ability to transform transhuman bodies, machines, and minds into _exsurgents_ — pawns of the exovirus, often taking on monstrous [alien forms](14-exsurgent-types.md).
 
-<!--sort-->
+<sort>
+
 ### Basilisk Hacks
 
 The use of basilisk hacks is indicative of the TITANs’ super-intelligence. They absorbed the entirety of transhumanity’s neuroscience knowledge and crafted this into a method of attack that will take us decades to understand.
@@ -56,7 +57,8 @@ The digital exsurgent virus adopts common avatar appearances.
 
 <blockquote class="ep-stats indent stat-list">
 
-<!--sort-union-->
+<sort-union>
+
 ### Exsurgent Virus AI
 
 - **Stress Test:** SV 1d6
@@ -94,7 +96,7 @@ The digital exsurgent virus adopts common avatar appearances.
 
 Exsurgent nanoplagues are advanced, self-replicating nanoswarms with the intent purposes of infecting biological life and/or synthmorphs and other machines. Many are created by nanofabbers infected by the digital virus or by transhumans infected by AOK basilisk hacks or other means. Nanoplagues physically restructure both people and things at the molecular level.
 
-<!--sort-end-->
+</sort>
 
 ## Countermeasures
 

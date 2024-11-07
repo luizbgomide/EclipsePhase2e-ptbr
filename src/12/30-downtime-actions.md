@@ -6,7 +6,8 @@ Downtime is normally counted in weeks. Each week, choose one downtime action. Th
 
 **Healing/Repair:** Recovering [mental](19-mental-healing-and-psychosurgery.md) and [physical health](17-healing-and-repair.md) is an important part of downtime, but it does not consume all of your time off. Consider healing/repair to happen in conjunction with the following downtime actions.
 
-<!--sort-->
+<sort>
+
 ## Acquire/Make Things
 
 You may wish to stock up on gear for the next mission, or simply prepare equipment caches, go-bags, and emergency provisions. If you have the Resources trait, use your weekly allotment of Gear Points. If not, you get 2&nbsp;GP to spend. Restricted and Rare items are only available at the GM’s discretion. If establishing caches (“scratch spaces” to Firewall), be sure to note with your GM where and how these are hidden away.
@@ -54,7 +55,8 @@ As you complete scenarios and gather experience during gameplay, you accumulate 
 
 </blockquote>
 
-<!--sort-->
+<sort>
+
 ### Gain a Positive Ego Trait
 
 You may spend RP to purchase a positive ego trait of an equivalent CP Cost. You can also upgrade existing traits to higher levels. The GM must approve this transaction. New traits should only be acquired as a consequence of the storyline and unfolding events in the game. For example, a character that discovered a cache of wealth might be allowed to buy the Resources trait. Note that you must pay RP for any positive ego traits you gain, whether or not you wanted them. If you have no unspent RP available, you must pay out immediately from any future RP you earn until the debt is paid off.
@@ -93,9 +95,9 @@ You can eliminate the handicap of a negative ego trait through hard work and dil
 
 You can specialize in an existing skill, as long as that skill is at least rating 30. The cost to learn a specialization is 1RP. Only 1 specialization can be purchased per skill.
 
-<!--sort-end-->
+</sort>
 
-<!--sort-end-->
+</sort>
 
 <blockquote>
 

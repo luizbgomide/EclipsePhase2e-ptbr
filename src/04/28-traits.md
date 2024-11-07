@@ -14,7 +14,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Ego Traits
 
-<!--sort-->
+<sort>
+
 | Trait                                           | CP Cost | Effect                                                                                                                                                                                                              |
 | :---------------------------------------------- | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Acumen](#acumen)                               |  1/2/3  | +5 per level to COG Checks.                                                                                                                                                                                         |
@@ -55,7 +56,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Morph Traits
 
-<!--sort-->
+<sort>
+
 | Trait                                             | MP Cost | Effect                                                                         |
 | :------------------------------------------------ | :-----: | :----------------------------------------------------------------------------- |
 | [Acumen](#acumen)                                 |  1/2/3  | +5 per level to COG Checks.                                                    |
@@ -80,7 +82,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 </blockquote>
 
-<!--sort-->
+<sort>
+
 ### Acumen
 
 **▲ Ego or ▼ Morph Trait • CP/MP Cost: 1/2/3**
@@ -353,7 +356,7 @@ This morph can take more physical abuse than others of its type. For each level,
 
 This trait is only available to characters possessing the Psi trait. You do not suffer modifiers when using psi sleights on non-sapient or partly sapient animal species.
 
-<!--sort-end-->
+</sort>
 
 ## Negative Traits
 
@@ -363,7 +366,8 @@ Negative traits provide a CP or MP bonus and impair you.
 
 ### Negative Ego Traits
 
-<!--sort-->
+<sort>
+
 | Trait                                       | CP Bonus | Effect                                                                        |
 | :------------------------------------------ | :------: | :---------------------------------------------------------------------------- |
 | [Addiction](#addiction)                     |  1/2/4   | −10 per level if no regular fix; see text for additional effects.             |
@@ -400,7 +404,8 @@ Negative traits provide a CP or MP bonus and impair you.
 
 ### Negative Morph Traits
 
-<!--sort-->
+<sort>
+
 | Trait                                             | MP Bonus | Effect                                                                                                                      |
 | :------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------- |
 | [Addiction](#addiction)                           |  1/2/4   | −10 per level if no regular fix; see text for additional effects. Biomorphs only.                                           |
@@ -434,7 +439,8 @@ Negative traits provide a CP or MP bonus and impair you.
 
 </blockquote>
 
-<!--sort-->
+<sort>
+
 ### Addiction
 
 **▲ Ego or ▼ Morph Trait • CP/MP Bonus: 1/2/4**
@@ -757,4 +763,5 @@ This trait is only available to biomorphs. The morph’s immune system is easily
 
 This trait is only available to biomorphs. This morph suffers from space sickness and does not fare well in zero gravity. Apply a −10 impairment modifier in any microgravity climate. Additionally, the first time you must acclimate or endure excessive movement in microgravity, you must make a SOM Check or spend 1 hour incapacitated by nausea.
 
-<!--sort-end-->
+</sort>
+

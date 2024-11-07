@@ -4,7 +4,8 @@ What is your character’s origin? Were you born in a slum on Earth before the F
 
 Each background provides you with a package of active and knowledge skills. Note these on your character sheet. Don’t dwell too long on your choice — you’ll have an opportunity to acquire other skills and switch some skills around in later steps. For field skills, a short selection of common fields is listed, but you can choose your own ([Skills](18-skills.md)). Alternatively, leave the field unassigned for now and decide on it during game play.
 
-<!--sort-->
+<sort>
+
 ## Colonist
 
 You were an original settler of Earth orbit, Luna, Mars, or a smaller outpost elsewhere, before the Fall.
@@ -148,7 +149,7 @@ You are an uplift: the latest generation of bonobo, cetacean, chimpanzee, corvid
 | Know: (Choose One)<p class="indent">_Common Fields: Uplift Culture, Uplift Rights_</p> |   60 |
 | Know: (Choose One)<p class="indent">_Common Fields: Genetics, Sociology, Zoology_</p>  |   30 |
 
-<!--sort-end-->
+</sort>
 
 <blockquote class="table">
 
@@ -156,13 +157,14 @@ You are an uplift: the latest generation of bonobo, cetacean, chimpanzee, corvid
 
 If you’d rather determine your background randomly, roll 1d10:
 
-<!--sort-->
-| Roll  | Background<!--sort-cells--> | Roll  | Background<!--sort-cells--> |
-| :---: | :-------------------------: | :---: | :-------------------------: |
-|   1   |          Colonist           |   6   |          Infolife           |
-|   2   |          Enclaver           |   7   |           Isolate           |
-|   3   |         Freelancer          |   8   |            Lost             |
-|   4   |         Hyperelite          |   9   |         Underclass          |
-|   5   |          Indenture          |  10   |           Uplift            |
+<sort>
+
+| Roll  | Background<sort-cells> | Roll  | Background<sort-cells> |
+| :---: | :--------------------: | :---: | :--------------------: |
+|   1   |        Colonist        |   6   |        Infolife        |
+|   2   |        Enclaver        |   7   |        Isolate         |
+|   3   |       Freelancer       |   8   |          Lost          |
+|   4   |       Hyperelite       |   9   |       Underclass       |
+|   5   |       Indenture        |  10   |         Uplift         |
 
 </blockquote>

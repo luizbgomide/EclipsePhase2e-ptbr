@@ -6,7 +6,8 @@ Exhumans engage in radical modifications, transforming their bodies and minds us
 
 A few examples of exhumans are described below, though GMs are encouraged to develop their own.
 
-<!--sort-->
+<sort>
+
 ## Limbwalker
 
 <div class="stat-list">
@@ -166,4 +167,5 @@ Predators aim to become the ultimate warriors, to reach the apex of the hunter-p
 
 </blockquote>
 
-<!--sort-end-->
+</sort>
+

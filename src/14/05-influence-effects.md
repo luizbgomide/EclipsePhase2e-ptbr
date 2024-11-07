@@ -4,8 +4,10 @@ Influence effects — in particular, the impulses and compulsions — provide ch
 
 In this vein, the influence effects provided for each sub-strain should be considered customizable. Perhaps you envision an async that is so traumatized and confused by the haunter sub-strain that one of their influence effects is to fly into an uncontrollable rage, lashing out at whatever is around them, even their allies and loved ones. Or perhaps you ascribe a motivation of focused self-interest to the stranger and so devise an influence effect that compels your async to act in completely selfish and narcissistic ways, no matter the detriment to others. Maybe your idea for the xenomorph is that it stems from a hive-mind perspective, and so the async might fail to understand the concept of the individual or lash out at behavior divergent from perceived collective goals. Use the effects as listed for guidelines, while also considering options such as temporary [disorders](../12/20-disorders.md), [enhanced behaviors](../04/28-traits.md#enhanced-behavior), [restricted behaviors](../04/28-traits.md#restricted-behavior), or even negative traits such as [Neural Damage](../04/28-traits.md#neural-damage).
 
-<!--sort-->
-<!--sort-block-->
+<sort>
+
+<sort-block>
+
 <blockquote class="table">
 
 ### Architect Sub-Strain
@@ -30,7 +32,8 @@ In this vein, the influence effects provided for each sub-strain should be consi
 
 </blockquote>
 
-<!--sort-block-->
+<sort-block>
+
 <blockquote class="table">
 
 ### Beast Sub-Strain
@@ -56,7 +59,8 @@ In this vein, the influence effects provided for each sub-strain should be consi
 
 </blockquote>
 
-<!--sort-block-->
+<sort-block>
+
 <blockquote class="table">
 
 ### Haunter Sub-Strain
@@ -82,7 +86,8 @@ In this vein, the influence effects provided for each sub-strain should be consi
 
 </blockquote>
 
-<!--sort-block-->
+<sort-block>
+
 <blockquote class="table">
 
 ### Stranger Sub-Strain
@@ -108,7 +113,8 @@ In this vein, the influence effects provided for each sub-strain should be consi
 
 </blockquote>
 
-<!--sort-block-->
+<sort-block>
+
 <blockquote class="table">
 
 ### Xenomorph Sub-Strain
@@ -133,4 +139,5 @@ In this vein, the influence effects provided for each sub-strain should be consi
 
 </blockquote>
 
-<!--sort-end-->
+</sort>
+

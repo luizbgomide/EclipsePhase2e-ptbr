@@ -6,7 +6,8 @@ Your interest provides you with a package of skills, just like your background a
 
 This will be your final skills package, though you might purchase extra skills or tweak the ones you’ve already acquired in later steps.
 
-<!--sort-->
+<sort>
+
 ## Animal Handler
 
 You’ve learned to raise, train, and care for animals, particularly partially uplifted smart animals.
@@ -184,7 +185,7 @@ The Fall reinforced the notion that you need to be prepared.
 | Survival            |   30 |
 | Know: (Choose One)  |   40 |
 
-<!--sort-end-->
+</sort>
 
 <blockquote class="table">
 
@@ -197,17 +198,18 @@ If you’d rather determine your interest randomly, roll 1d10:
 |  1–5  | Roll on Group 1 |
 | 6–10  | Roll on Group 2 |
 
-<!--sort-->
-|         Roll          | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |
-| :-------------------: | :----------------------: | :----------------------: |
-|           1           |      Animal Handler      |        Networker         |
-|           2           |       Artist/Icon        |        Paramedic         |
-|           3           |          Async           |          Pilot           |
-|           4           |        Commander         |          Rogue           |
-|           5           |         Fighter          |         Slacker          |
-|           6           |   Forensics Specialist   |          Spacer          |
-|           7           |    Jack-of-All-Trades    |         Student          |
-|           8           |          Jammer          |       Survivalist        |
-| 9–10<!--sort-fixed--> |         Re-roll          |         Re-roll          |
+<sort>
+
+|       Roll       | Group 1<sort-cells>  | Group 2<sort-cells> |
+| :--------------: | :------------------: | :-----------------: |
+|        1         |    Animal Handler    |      Networker      |
+|        2         |     Artist/Icon      |      Paramedic      |
+|        3         |        Async         |        Pilot        |
+|        4         |      Commander       |        Rogue        |
+|        5         |       Fighter        |       Slacker       |
+|        6         | Forensics Specialist |       Spacer        |
+|        7         |  Jack-of-All-Trades  |       Student       |
+|        8         |        Jammer        |     Survivalist     |
+| 9–10<sort-fixed> |       Re-roll        |       Re-roll       |
 
 </blockquote>

@@ -8,7 +8,8 @@ Actions usually available to all users.
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Access Another System:** Authenticate and log on. Creates account shell.
 - **Apply Tag:** Mark a physical person, place, or thing with an AR e-tag.
 - **Communicate:** Email, text, voice, or video chat others online.
@@ -46,7 +47,8 @@ Actions reserved for accounts with security or admin privileges.
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Acquire Mesh ID:** Acquire the mesh ID of anyone accessing the system.
 - **Activate Countermeasure:** Initiate active countermeasures against a spotted intruder ([Active Countermeasures](../13/12-countermeasures.md#active-countermeasures)).
 - **Attack:** Attempt to crash an account shell, app, firewall, infomorph, operating system, or service ([Mesh Combat](../13/14-mesh-combat.md)).
@@ -68,7 +70,8 @@ Only admin accounts are allowed to take these actions.
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Disable Sensors or Device Functions:** Turn off sensors or other physical functions.
 - **Modify Accounts:** Add new accounts and remove old ones.
 - **Modify Privileges:** Add or remove specific privileges.
@@ -83,7 +86,8 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Break Encryption \[T\]:** Decrypt an encrypted file ([Codebreaking](../13/05-authentication-and-encryption.md#codebreaking)).
 - **Brute-Force Intrusion:** Barrage your target with a library of exploits ([Brute-Force Attacks](../13/11-hacking.md#brute-force-attacks)).
 - **Control Ware:** Manipulate a target’s ware.
@@ -112,8 +116,9 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 
 <div class="stat-list">
 
-<!--sort-->
-- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<!--sort-fixed-->
+<sort>
+
+- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<sort-fixed>
 - **aControl Ware:** As above.
 - **Copy Ego:** Make an alpha fork ([Forking](../15/04-forking-and-merging.md)).
 - **Delete Ego:** Erase the mind.
@@ -135,7 +140,8 @@ Standard user options within a simulspace boil down to a few simple actions:
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Access Simulspace Functions:** Do anything a normal user can do. May require an Interface Test.
 - **Activate Cheat Code:** Activate a cheat code and acquire its benefit.
 - **View Domain Rules:** Analyze the simulation’s parameters, rules, and controls.
@@ -148,7 +154,8 @@ Admins and users with cheat codes have more options.
 
 <div class="stat-list">
 
-<!--sort-->
+<sort>
+
 - **Add/Remove Cheat Codes:** Either install a new cheat code or edit/remove an existing one.
 - **Alter Domain Rules:** Tweak the system settings within certain parameters; may require a Program Test.
 - **Control NPCs:** Dictate what responses NPCs give to certain actions or direct them outright.

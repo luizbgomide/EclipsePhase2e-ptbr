@@ -4,10 +4,6 @@ const path = require("path");
 const readline = require('readline');
 const { compareText, stripHtml } = require('./helpers')
 
-
-// TODO <sort> </sort> <sort-block> single line surronded by spaces
-// TODO <sort-by><sort-cells><sort-union><sort-fixed><sort-restart><sort-n></sort-n><sort-skip></sort-skip>
-
 // those must be on a single line by themselves surronded by empty lines to prevent issues with MD parsing
 const sortTag = "<sort>"; // start sorting
 const sortEndTag = "</sort>"; // end sorting, not used with tables or lists that end of the first empty line
@@ -16,14 +12,14 @@ const sortBlockTag = "<sort-block>"; // delimits blocks that are joined, trimmed
 // those should be placed on the table header cells
 const sortTableByTag = "<sort-by>"; // on table column header: columns to use for sorting
 const sortTableCellsTag = "<sort-cells>"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
-const sortTableNumberTagRE = /<sort-n (d10|d100|count) (?:offset=(\d+))?>/; // on table column header: distribute values based of d10 (1-0) or d100 (00-99), they aren't affected by restarts
+const sortTableNumberTagRE = /<sort-n (d10|d100|count)(?: offset=(\d+))?>/; // on table column header: distribute values based of d10 (1-0) or d100 (00-99), they aren't affected by restarts
 const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 
 // those should be placed on the item affected by them
 const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
 const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
 const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
-const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+) (?:offset=(\d+))?>)(\d+)(?:[-–](\d+))?<\/sort-n>/g;
+const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?<\/sort-n>/g;
 const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
@@ -168,12 +164,11 @@ function resortContent(lines) {
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
                 }
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
-            } else {
-                unsortedBlocks.sort((a, b) => compare(a[0], b[0]));
+            } else { // regular sort, remove delimiter
+                unsortedBlocks.sort((a, b) => compare(a[0].substring(a[0].indexOf(delimiter) + delimiter.length), b[0].substring(b[0].indexOf(delimiter + delimiter.length))));
             }
             fixedBlockIndexes.forEach((blockIndex, index) => unsortedBlocks.splice(blockIndex, 0, fixedBlocks[index]));
             let sortedLines = unsortedBlocks.flat();
-
             if (tableNumberCols.size > 0) {
                 let tableRows = sortedLines.map(row => row.split(tableColumnRE));
                 for (const [colIndex, countSettings] of tableNumberCols) {
@@ -251,6 +246,12 @@ function resortContent(lines) {
         }
         if (line.includes(sortUnionTag)) {
             currTarget.push(line);
+            // if on a single line, add the following content too
+            if (line.trim() === sortUnionTag) {
+                while (lines[0].trim() === "") {
+                    currTarget.push(lines.shift());
+                }
+            }
             newBlockReady = delimiter === "|" || delimiter === "-";
             continue;
         }
