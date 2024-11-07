@@ -4,6 +4,10 @@ const path = require("path");
 const readline = require('readline');
 const { compareText, stripHtml } = require('./helpers')
 
+
+// TODO <sort> </sort> <sort-block> single line surronded by spaces
+// TODO <sort-by><sort-cells><sort-union><sort-fixed><sort-restart><sort-n></sort-n><sort-skip></sort-skip>
+
 const sortTag = "<!--sort-->"; // must be on a single line right before the first item
 const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are trimmed and have all HTML removed for sorting purposes, must be placed before each block
 const sortTableByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
