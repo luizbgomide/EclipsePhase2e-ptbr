@@ -10,50 +10,50 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 <table class="centered tl1 ep-stats stat-list">
 <thead>
-<tr><th>GMOs<th>Comp/<cleaned-wbr>GP<th>COG<th>INT<th>REF<th>SAV<th>SOM<th>WIL<th>INIT<th>TP<th>AV<th>WT/<cleaned-wbr>DUR/<cleaned-wbr>DR<th>TT/<cleaned-wbr>LUC/<cleaned-wbr>IR</tr>
+<tr><th>GMOs<th>Comp/<!-- CLEANED wbr -->GP<th>COG<th>INT<th>REF<th>SAV<th>SOM<th>WIL<th>INIT<th>TP<th>AV<th>WT/<!-- CLEANED wbr -->DUR/<!-- CLEANED wbr -->DR<th>TT/<!-- CLEANED wbr -->LUC/<!-- CLEANED wbr -->IR</tr>
 </thead>
 
 <tr><td>Dino Pet<td>Min/1<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
-<tr><td colspan="13"><cleaned-div class="indent">
+<tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** Walker 4/12 or Winged 8/32
 - **Ware:** Dermal Armor, Enhanced Smell, Enhanced Vision, some have Poison Glands
 - **Skills:** Athletics 40, Fray 30, Infiltrate 30, Melee 40, Perceive 30, Provoke 30 (Intimidate 40)
 - **Notes:** Bite/Horn/Tail DV 1d6 \[4\], Small size
 
-<cleaned-/div></tr>
+<!-- CLEANED /div --></tr>
 
 <tr><td>Fur Coat<td>Min/1<td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1<td>0<td>—<td>3/15/23<td>—</tr>
 
 <tr><td>Pollinator Swarm<td>Min/1<td>1&nbsp;<sup>3</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>7<td>1<td>—<td>—/25/50<td>6/30/60</tr>
-<tr><td colspan="13"><cleaned-div class="indent">
+<tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** Winged 8/32
 - **Ware:** Enhanced Smell, Enhanced Vision, some have Poison Glands
 - **Skills:** Athletics 60, Fray 50, Infiltrate 50, Melee 40, Perceive 30
 - **Notes:** Swarm sting DV 1d10 \[6\] (ignores non-sealed armor)
 
-<cleaned-/div></tr>
+<!-- CLEANED /div --></tr>
 
 <tr><td>Space Roach<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5<td>0<td>—<td>1/5/8<td>2/10/20</tr>
-<tr><td colspan="13"><cleaned-div class="indent">
+<tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** Walker 4/12
 - **Ware:** Grip Pads
 - **Skills:** Athletics 30, Fray 30, Free Fall 30, Infiltrate 50, Perceive 20
 - **Notes:** Small size
 
-<cleaned-/div></tr>
+<!-- CLEANED /div --></tr>
 
 <tr><td>Squidling<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
-<tr><td colspan="13"><cleaned-div class="indent">
+<tr><td colspan="13"><!-- CLEANED div class="indent" -->
 
 - **Movement Rate:** Thrust Vector (Gas Jet) 4/12
 - **Ware:** Enhanced Smell
 - **Skills:** Athletics 30, Fray 40, Free Fall 30, Infiltrate 30, Melee 30, Perceive 20
 - **Notes:** Bite DV 1d6 \[4\], Small size
 
-<cleaned-/div></tr>
+<!-- CLEANED /div --></tr>
 
 </table>
 
