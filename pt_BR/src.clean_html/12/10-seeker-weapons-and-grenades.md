@@ -27,7 +27,7 @@ Buscadores e granadas são dispositivos explosivos multifuncionais e compactos. 
 
 Minigranadas e micromísseis são a linha padrão para os efeitos listados. Ajuste os efeitos para minimísseis ou granadas/mísseis padrão conforme indicado na tabela. A maioria são [armas de área de efeito](15-special-attacks.md#area-effect-attacks). Cada uma pode ser configurada para diferentes [condições de acionamento](#trigger-conditions) ou ter o [raio de explosão ajustado](#adjusting-blast-radius). Buscadores/granadas que errem ou acertem, mas não são [aderentes](#sticky-coating) e não estão configurados para explosão aérea ou impacto sofrerão [desvio](15-special-attacks.md#scatter). A complexidade listada é para 5 granadas/mísseis.
 
-Cada míssil buscador pode funcionar como munição [tirocerto ou guiada](09-kinetic-weapons.md#specialty-firearm-ammo).
+Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kinetic-weapons.md#specialty-firearm-ammo).
 
 **_ATRIBUTOS PADRÃO SÃO PARA MICROMÍSSEIS E MINIGRANADAS._**
 
