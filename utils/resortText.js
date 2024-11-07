@@ -8,20 +8,25 @@ const { compareText, stripHtml } = require('./helpers')
 // TODO <sort> </sort> <sort-block> single line surronded by spaces
 // TODO <sort-by><sort-cells><sort-union><sort-fixed><sort-restart><sort-n></sort-n><sort-skip></sort-skip>
 
-const sortTag = "<!--sort-->"; // must be on a single line right before the first item
-const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are trimmed and have all HTML removed for sorting purposes, must be placed before each block
-const sortTableByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
-const sortTableNumberTagRE = /<!--sort-(d10|d100|count)(?:\+(\d+))?-->/; // on table column header: distribute values based of d10 (1-0) or d100 (00-99), they aren't affected by restarts
-const sortTableCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
-const sortEndTag = "<!--sort-end-->"; // must be on a single line after a blank line
-const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
-const sortFixedTag = "<!--sort-fixed-->"; // on tables and lists those rows have keep a fixed positon
-const sortRestartTag = "<!--sort-restart-->" // on tables and lists end the previous sort and restart a new one
-const sortNumberTagRE = /(<!--sort-(d10|d100|count)(?:\+(\d+))?-(\w+)-->)(\d+)(?:[-–](\d+))?<!--\/-->/g;
-const sortSkipTagRE = /<!--sort-skip-->.*?<!--\/-->/g; // use <!--sort-skip-->...<!--\/--> to ignore parts of text
+// those must be on a single line by themselves surronded by empty lines to prevent issues with MD parsing
+const sortTag = "<sort>"; // start sorting
+const sortEndTag = "</sort>"; // end sorting, not used with tables or lists that end of the first empty line
+const sortBlockTag = "<sort-block>"; // delimits blocks that are joined, trimmed and have all HTML removed for sorting purposes, must be placed before each block
+
+// those should be placed on the table header cells
+const sortTableByTag = "<sort-by>"; // on table column header: columns to use for sorting
+const sortTableCellsTag = "<sort-cells>"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
+const sortTableNumberTagRE = /<sort-n (d10|d100|count) (?:offset=(\d+))?>/; // on table column header: distribute values based of d10 (1-0) or d100 (00-99), they aren't affected by restarts
+const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
+
+// those should be placed on the item affected by them
+const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
+const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
+const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
+const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+) (?:offset=(\d+))?>)(\d+)(?:[-–](\d+))?<\/sort-n>/g;
+const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
-const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 
 function readDirectory(dir) {
     fs.readdirSync(dir, { withFileTypes: true }).forEach((item) => {
@@ -93,7 +98,7 @@ else {
 }
 
 function compare(a, b) {
-    return compareText(a.replace(sortSkipTagRE, ''), b.replace(sortSkipTagRE, ''));
+    return compareText(a.replace(sortHereTagRE, ''), b.replace(sortHereTagRE, ''));
 }
 
 function resortContent(lines) {
@@ -101,6 +106,9 @@ function resortContent(lines) {
     let tableByCol = 1;
     let tableNumberCols = new Map();
     let tableCells = [];
+    while (lines[0].trim() === "") {
+        result.push(lines.shift());
+    }
     // text: "", list: "-", table: "|", title: "#+ "
     let delimiter = lines[0].match(/^\s*(-|\||#+ )/)?.[1] ?? "";
     const sortBlockMode = lines[0].includes(sortBlockTag);
@@ -136,7 +144,7 @@ function resortContent(lines) {
         const line = lines.shift();
         const emptyLine = line.trim() === "";
         if (line.includes(sortEndTag) || line.includes(sortRestartTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
-            // if sorting by title or text, make sure the last line of each block is empty
+            // if sorting by block, title or text, make sure the last line of each block is empty
             if (delimiter === "" || delimiter.startsWith("#")) {
                 unsortedBlocks.forEach(block => {
                     if (block[block.length - 1].trim() !== "")
@@ -229,7 +237,7 @@ function resortContent(lines) {
             newBlockReady = !sortBlockMode;
             continue;
         }
-        if (line.trim() === sortTag) { // sort tag should always be on single line before the content
+        if (line.trim() === sortTag) { // sort tag should always be on single line surronded by empty lines
             currTarget.push(line);
             currTarget.push(...resortContent(lines));
             continue;
