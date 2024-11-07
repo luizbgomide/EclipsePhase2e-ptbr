@@ -19,7 +19,7 @@ const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
 const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
 const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
-const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?<\/sort-n>/g;
+const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?(<\/sort-n>)/g;
 const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
@@ -52,7 +52,7 @@ function processFile(file) {
         while (lines.length > 0) {
             const line = lines.shift();
             result.push(line);
-            if (line.includes(sortTag)) {
+            if (line.trim() === sortTag) {
                 result.push(...resortContent(lines));
             }
         }
@@ -107,7 +107,7 @@ function resortContent(lines) {
     }
     // text: "", list: "-", table: "|", title: "#+ "
     let delimiter = lines[0].match(/^\s*(-|\||#+ )/)?.[1] ?? "";
-    const sortBlockMode = lines[0].includes(sortBlockTag);
+    const sortBlockMode = lines[0].trim() === sortBlockTag;
     if (delimiter === "|") {
         let headerLine = lines.shift();
         let cols = headerLine.split(tableColumnRE); // index 0 and last should be empty
@@ -116,7 +116,7 @@ function resortContent(lines) {
                 tableCells.push(index);
             const numberTagMatch = col.match(sortTableNumberTagRE);
             if (numberTagMatch) {
-                const countSettings = { type: numberTagMatch[1], value: 1 };
+                const countSettings = { type: numberTagMatch[1], value: 0 };
                 if (numberTagMatch[2]) {
                     countSettings.value += parseInt(numberTagMatch[2]);
                 }
@@ -136,6 +136,7 @@ function resortContent(lines) {
     let currTarget = result;
     let newBlockReady = true;
     let fixedBlockIndexes = [];
+    let ended = false;
     while (lines.length > 0) {
         const line = lines.shift();
         const emptyLine = line.trim() === "";
@@ -178,14 +179,14 @@ function resortContent(lines) {
                         if (rollMatch === null)
                             continue;
                         let range = rollMatch[2] ? Number.parseInt(rollMatch[2]) - Number.parseInt(rollMatch[1]) : 0;
-                        if (range < 0 && countSettings.type === "d10")
-                            range += 10; // n-0 in d10
+                        if (Number.parseInt(rollMatch[2]) === 0 && countSettings.type === "d10")
+                            range += 10; // range in formate n-0
 
                         const modValue = countSettings.type === "d100" ? 100 :
                             countSettings.type === "d10" ? 10 : Infinity;
-                        const offset = countSettings.type === "d100" ? -1 : 0
-                        const startValue = (countSettings.value + offset) % modValue;
-                        const endValue = (startValue + range) % modValue;
+                        const zeroIndex = countSettings.type !== "d100" ? 1 : 0;
+                        const startValue = (countSettings.value % modValue) + zeroIndex;
+                        const endValue = startValue + range;
                         const numberWidth = countSettings.type === "d100" ? 2 : 1;
                         const newRollValues = startValue.toString().padStart(numberWidth, '0')
                             .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberWidth, '0') : "");
@@ -198,28 +199,31 @@ function resortContent(lines) {
 
             // checks for closed number tags in the text
             let numberValues = new Map();
-            sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, bonus, id, start, end) => {
+            sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, id, offset, start, end, closeTag) => {
                 let range = end ? Number.parseInt(end) - Number.parseInt(start) : 0;
                 if (range < 0 && type === "d10")
                     range += 10; // n-0 in d10
                 if (!numberValues.has(id)) {
-                    numberValues.set(id, 1);
+                    numberValues.set(id, 0);
                 }
                 const modValue = type === "d100" ? 100 :
                     type === "d10" ? 10 : Infinity;
-                const offset = (type === "d100" ? -1 : 0) + parseInt(bonus ?? "0");
-                const startValue = (numberValues.get(id) + offset) % modValue;
-                const endValue = (startValue + range) % modValue;
+                // d10/count starts at 1 and d100 at 0
+                const zeroIndex = type !== "d100" ? 1 : 0;
+                const offsetValue = parseInt(offset ?? "0");
+                const startValue = ((numberValues.get(id) + offsetValue) % modValue) + zeroIndex;
+                const endValue = startValue + range;
                 const numberWidth = type === "d100" ? 2 : 1;
                 const newRollValues = startValue.toString().padStart(numberWidth, '0')
                     .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberWidth, '0') : "");
                 numberValues.set(id, numberValues.get(id) + 1 + range);
-                return `${openTag}${newRollValues}<!--/-->`;
+                return `${openTag}${newRollValues}${closeTag}`;
             }));
 
             result.push(...sortedLines);
             if (!line.includes(sortRestartTag)) {
                 result.push(line);
+                ended = true;
                 break;
             }
             unsortedBlocks = [];
@@ -237,7 +241,7 @@ function resortContent(lines) {
             currTarget.push(...resortContent(lines));
             continue;
         }
-        if (sortBlockMode && line.includes(sortBlockTag)) {
+        if (sortBlockMode && line.trim() === sortBlockTag) {
             newBlockReady = true;
         }
         if (line.includes(sortFixedTag)) {
@@ -262,8 +266,8 @@ function resortContent(lines) {
         }
         currTarget.push(line);
     }
-    if (result.length === 0) {
-        throw new Error(`End of file while sorting. The <!--sort-end--> tag is mandatory for text, title and block sorting.`);
+    if (!ended) {
+        throw new Error(`End of file while sorting. Text, title and block must end with </sort>, lists and tables with empty line.`);
     }
     return result;
 }

@@ -60,7 +60,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Happiness
 
 </div>
-<div class="vcenter">
+<div>
 
 |                                                                         |      |
 | :---------------------------------------------------------------------- | ---: |
@@ -83,7 +83,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Fame
 
 </div>
-<div class="vcenter">
+<div>
 
 |             |      |
 | :---------- | ---: |
@@ -105,7 +105,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Acceptance
 
 </div>
-<div class="vcenter">
+<div>
 
 |                                                             |      |
 | :---------------------------------------------------------- | ---: |
@@ -127,7 +127,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Leadership
 
 </div>
-<div class="vcenter">
+<div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -149,7 +149,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Protect Others
 
 </div>
-<div class="vcenter">
+<div>
 
 |                    |      |
 | :----------------- | ---: |
@@ -170,7 +170,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Solve Crimes
 
 </div>
-<div class="vcenter">
+<div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -192,7 +192,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Be Prepared
 
 </div>
-<div class="vcenter">
+<div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -218,7 +218,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Skill Mastery
 
 </div>
-<div class="vcenter">
+<div>
 
 |                    |      |
 | :----------------- | ---: |
@@ -240,7 +240,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Expand Influence
 
 </div>
-<div class="vcenter">
+<div>
 
 |                |      |
 | :------------- | ---: |
@@ -262,7 +262,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Help Others
 
 </div>
-<div class="vcenter">
+<div>
 
 |                          |      |
 | :----------------------- | ---: |
@@ -283,7 +283,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Self-Reliance
 
 </div>
-<div class="vcenter">
+<div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -305,7 +305,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Self-Reliance
 
 </div>
-<div class="vcenter">
+<div>
 
 |                               |      |
 | :---------------------------- | ---: |
@@ -327,7 +327,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Happiness
 
 </div>
-<div class="vcenter">
+<div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -349,7 +349,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Exploration
 
 </div>
-<div class="vcenter">
+<div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -372,7 +372,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Education
 
 </div>
-<div class="vcenter">
+<div>
 
 |                   |      |
 | :---------------- | ---: |
@@ -394,7 +394,7 @@ The interests determined here represent hobbies you have delved into over the ye
 - **Motivation:** +Survival
 
 </div>
-<div class="vcenter">
+<div>
 
 |                      |      |
 | :------------------- | ---: |

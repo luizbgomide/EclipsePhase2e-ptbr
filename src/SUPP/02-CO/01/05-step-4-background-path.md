@@ -26,21 +26,25 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 ## Random Background Path \[d10\]
 
-|  d10  | Background                     | Description                                                                                          |
-| :---: | :----------------------------- | :--------------------------------------------------------------------------------------------------- |
-|   1   | [Colonist](#colonist-d100)     | You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.                        |
-|   2   | [Enclaver](#enclaver-d100)     | On Earth, you live a life of precarious but protected stability in a defended enclave.               |
-|   3   | [Freelancer](#freelancer-d100) | You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.                        |
-|   4   | [Hyperelite](#hyperelite-d100) | You live in the top percent, with abundant wealth and resources.                                     |
-|   5   | [Indenture](#indenture-d100)   | With nothing to lose, you sell yourself into a work contract to off-world hypercorps.                |
-|   6   | [Infolife](#infolife-d100)     | You are an AGI, a digital consciousness born of software code.                                       |
-|   7   | [Isolate](#isolate-d100)       | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        |
-|   8   | [Lost](#lost-d100)             | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. |
-|   9   | [Underclass](#underclass-d100) | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      |
-|   0   | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
+<sort>
+
+| d10<sort-n d10> | Background<sort-by>            | Description                                                                                          |
+| :-------------: | :----------------------------- | :--------------------------------------------------------------------------------------------------- |
+|        1        | [Colonist](#colonist-d100)     | You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.                        |
+|        2        | [Enclaver](#enclaver-d100)     | On Earth, you live a life of precarious but protected stability in a defended enclave.               |
+|        3        | [Freelancer](#freelancer-d100) | You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.                        |
+|        4        | [Hyperelite](#hyperelite-d100) | You live in the top percent, with abundant wealth and resources.                                     |
+|        5        | [Indenture](#indenture-d100)   | With nothing to lose, you sell yourself into a work contract to off-world hypercorps.                |
+|        6        | [Infolife](#infolife-d100)     | You are an AGI, a digital consciousness born of software code.                                       |
+|        7        | [Isolate](#isolate-d100)       | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        |
+|        8        | [Lost](#lost-d100)             | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. |
+|        9        | [Underclass](#underclass-d100) | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      |
+|        0        | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
 
 </blockquote>
 
+<sort>
+<sort-block>
 <blockquote class="framed-table">
 
 ## Colonist \[d100\]
@@ -49,10 +53,14 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-14\} Lunar
+### Lunar
+
+**{<sort-n d100=rnd>00–14</sort-n>}**
 
 - **Bio**: You remember the Moon before it was crowded.
 
@@ -68,10 +76,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Flat
   - 6–9 Splicer
-  - 0 Synth
+  - 10 Synth
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -91,10 +98,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{15-39\} Martian
+### Martian
+
+**{<sort-n d100=rnd>15–39</sort-n>}**
 
 - **Bio**: You help establish the red planet’s colony cities.
 
@@ -110,10 +120,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Ruster
   - 6–9 Splicer
-  - 0 Alpiner
+  - 10 Alpiner
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -132,10 +141,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-54\} Orbital
+### Orbital
+
+**{<sort-n d100=rnd>40–54</sort-n>}**
 
 - **Bio**: You overlook the Earth.
 
@@ -151,10 +163,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Flat
   - 6–9 Splicer
-  - 0 Bouncer
+  - 10 Bouncer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -173,10 +184,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{55-64\} Rimward Colonist
+### Rimward Colonist
+
+**{<sort-n d100=rnd>55–64</sort-n>}**
 
 - **Bio**: You settle Titan, the Main Belt, or an outer-system moon.
 
@@ -192,10 +206,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Splicer
   - 6–9 Bouncer
-  - 0 Hazer
+  - 10 Hazer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                    |      |
 | :----------------- | ---: |
@@ -213,10 +226,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{65-79\} Rural Martian
+### Rural Martian
+
+**{<sort-n d100=rnd>65–79</sort-n>}**
 
 - **Bio**: You homestead the Martian outback.
 
@@ -232,10 +248,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–6 Ruster
   - 7–9 Splicer
-  - 0 Alpiner
+  - 10 Alpiner
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                    |      |
 | :----------------- | ---: |
@@ -253,10 +268,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-89\} Spacer
+### Spacer
+
+**{<sort-n d100=rnd>80–89</sort-n>}**
 
 - **Bio**: You grow up on or work the ships that bring life to the colonies.
 
@@ -272,10 +290,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Splicer
   - 6–9 Hibernoid
-  - 0 Bouncer
+  - 10 Bouncer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |         |
 | :------------------------ | ------: |
@@ -294,10 +311,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{90-99\} Sunward Colonist
+### Sunward Colonist
+
+**{<sort-n d100=rnd>90–99</sort-n>}**
 
 - **Bio**: You settle on Venus, Mercury, or a smaller inner-system hab.
 
@@ -313,10 +333,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–3 Flat
   - 4–9 Splicer
-  - 0 Exalt
+  - 10 Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -334,20 +353,26 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Enclaver \[d100\]
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
-Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-19\} Ascendor
+### Ascendor
+
+**{<sort-n d100=rnd>00–19</sort-n>}**
 
 - **Bio**: Against the odds, you work your way up from the poverty of the underclasses.
 
@@ -362,10 +387,9 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 - **Morph \[d10\]:**
   - 1–8 Splicer
-  - 9–0 Exalt
+  - 9–10 Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -384,10 +408,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{20-39\} Corporate Drifter
+### Corporate Drifter
+
+**{<sort-n d100=rnd>20–39</sort-n>}**
 
 - **Bio**: You bounce between hypercorp positions.
 
@@ -403,8 +430,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 - **Morph:**
   - Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                             |      |
 | :-------------------------- | ---: |
@@ -423,10 +449,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-59\} Corporate Favorite
+### Corporate Favorite
+
+**{<sort-n d100=rnd>40–59</sort-n>}**
 
 - **Bio**: You enjoy a steady corporate gig.
 
@@ -442,8 +471,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 - **Morph:**
   - Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -462,10 +490,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-79\} Inheritor
+### Inheritor
+
+**{<sort-n d100=rnd>60–79</sort-n>}**
 
 - **Bio**: You benefit from generational wealth.
 
@@ -481,8 +512,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 - **Morph:**
   - Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                            |      |
 | :------------------------- | ---: |
@@ -502,10 +532,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-99\} Opportunist
+### Opportunist
+
+**{<sort-n d100=rnd>80–99</sort-n>}**
 
 - **Bio**: You claw your way into the enclaves via criminal endeavors.
 
@@ -520,10 +553,9 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 - **Morph \[d10\]:**
   - 1–5 Flat
-  - 6–0 Exalt
+  - 6–10 Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -544,20 +576,26 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Freelancer \[d100\]
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
-Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-19\} Nomad
+### Nomad
+
+**{<sort-n d100=rnd>00–19</sort-n>}**
 
 - **Bio**: You move a lot, chasing work and avoiding climate problems and unrest.
 
@@ -572,10 +610,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 - **Morph \[d10\]:**
   - 1–7 Flat
-  - 8–0 Splicer
+  - 8–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -594,10 +631,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{20-39\} Precarious
+### Precarious
+
+**{<sort-n d100=rnd>20–39</sort-n>}**
 
 - **Bio**: You get by, but work and simple existence are tenuous.
 
@@ -612,10 +652,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 - **Morph \[d10\]:**
   - 1–7 Flat
-  - 8–0 Splicer
+  - 8–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -635,10 +674,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-59\} Self-Reliant
+### Self-Reliant
+
+**{<sort-n d100=rnd>40–59</sort-n>}**
 
 - **Bio**: You survive by DIY means.
 
@@ -654,8 +696,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 - **Morph:**
   - Flat
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -674,10 +715,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-79\} Steady
+### Steady
+
+**{<sort-n d100=rnd>60–79</sort-n>}**
 
 - **Bio**: You live in relative stability.
 
@@ -692,10 +736,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 - **Morph \[d10\]:**
   - 1–5 Flat
-  - 6–0 Splicer
+  - 6–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -714,10 +757,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-99\} Surrounded by Wolves
+### Surrounded by Wolves
+
+**{<sort-n d100=rnd>80–99</sort-n>}**
 
 - **Bio**: You live and work in an area rife with corruption and lawlessness.
 
@@ -732,10 +778,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 - **Morph \[d10\]:**
   - 1–7 Flat
-  - 8–0 Splicer
+  - 8–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -755,20 +800,26 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Hyperelite \[d100\]
 
 **You live in the top percent, with abundant wealth and resources.**
 
-Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-19\} Breakthrough
+### Breakthrough
+
+**{<sort-n d100=rnd>00–19</sort-n>}**
 
 - **Bio**: You have the right idea at the right time.
 
@@ -784,10 +835,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 - **Morph \[d10\]:**
   - 1–2 Exalt
   - 3–7 Menton
-  - 8–0 Olympian
+  - 8–10 Olympian
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -805,10 +855,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{20-39\} Hypercorp Royalty
+### Hypercorp Royalty
+
+**{<sort-n d100=rnd>20–39</sort-n>}**
 
 - **Bio**: Your family is among the business elites.
 
@@ -825,10 +878,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
   - 1–2 Splicer
   - 3–6 Exalt
   - 7–8 Menton
-  - 9–0 Sylph
+  - 9–10 Sylph
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -846,10 +898,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-59\} Media Famous
+### Media Famous
+
+**{<sort-n d100=rnd>40–59</sort-n>}**
 
 - **Bio**: Your family is often in the spotlight.
 
@@ -865,10 +920,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 - **Morph \[d10\]:**
   - 1–2 Exalt
   - 3–6 Olympian
-  - 7–0 Sylph
+  - 7–10 Sylph
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -886,10 +940,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-79\} Oligarch Dynasty
+### Oligarch Dynasty
+
+**{<sort-n d100=rnd>60–79</sort-n>}**
 
 - **Bio**: Your family is rich, well-connected, and private.
 
@@ -906,10 +963,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
   - 1–2 Exalt
   - 3–5 Menton
   - 6–7 Olympian
-  - 8–0 Sylph
+  - 8–10 Sylph
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -927,10 +983,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-99\} Space Entrepreneur
+### Space Entrepreneur
+
+**{<sort-n d100=rnd>80–99</sort-n>}**
 
 - **Bio**: Your family makes its fortunes off-worlds.
 
@@ -947,10 +1006,9 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
   - 1–2 Exalt
   - 3–6 Menton
   - 7–8 Neotenic
-  - 9–0 Bouncer
+  - 9–10 Bouncer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -969,20 +1027,26 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Indenture \[d100\]
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
-Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06–step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-14\} Drone Operator
+### Drone Operator
+
+**{<sort-n d100=rnd>00–14</sort-n>}**
 
 - **Bio**: You manipulate machines from afar.
 
@@ -997,10 +1061,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–7 Digimorph
-  - 8–0 Operator
+  - 8–10 Operator
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1019,10 +1082,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{15-24\} Educator
+### Educator
+
+**{<sort-n d100=rnd>15–24</sort-n>}**
 
 - **Bio**: You teach or train others.
 
@@ -1037,10 +1103,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Flat
-  - 6–0 Digimorph
+  - 6–10 Digimorph
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1059,10 +1124,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{25-39\} Emancipated
+### Emancipated
+
+**{<sort-n d100=rnd>25–39</sort-n>}**
 
 - **Bio**: You work your way to freedom off-world.
 
@@ -1077,10 +1145,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Case
-  - 7–0 Sylph
+  - 7–10 Sylph
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1099,10 +1166,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-59\} Labor Camps
+### Labor Camps
+
+**{<sort-n d100=rnd>40–59</sort-n>}**
 
 - **Bio**: You toil off-world.
 
@@ -1119,10 +1189,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
   - 1–7 Case
   - 8 Synth
   - 9 Worker Pod
-  - 0 Vac Pod
+  - 10 Vac Pod
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -1142,10 +1211,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-69\} Private Staff
+### Private Staff
+
+**{<sort-n d100=rnd>60–69</sort-n>}**
 
 - **Bio**: You serve the hyperelites or corporate leadership.
 
@@ -1161,10 +1233,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Flat
   - 6–8 Splicer
-  - 9–0 Worker Pod
+  - 9–10 Worker Pod
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                         |      |
 | :---------------------- | ---: |
@@ -1182,10 +1253,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{70-84\} Vac Worker
+### Vac Worker
+
+**{<sort-n d100=rnd>70–84</sort-n>}**
 
 - **Bio**: You build habitats or ships.
 
@@ -1202,10 +1276,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
   - 1–5 Case
   - 6 Synth
   - 7 Worker Pod
-  - 8–0 Vac Pod
+  - 8–10 Vac Pod
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1224,10 +1297,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{85-99\} Virtual Worker
+### Virtual Worker
+
+**{<sort-n d100=rnd>85–99</sort-n>}**
 
 - **Bio**: You wrangle data in corporate systems.
 
@@ -1242,10 +1318,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–7 Neo
-  - 8–0 Sage
+  - 8–10 Sage
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                          |      |
 | :----------------------- | ---: |
@@ -1263,8 +1338,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Infolife \[d100\]
@@ -1273,10 +1350,14 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-09\} Anomaly
+### Anomaly
+
+**{<sort-n d100=rnd>00–09</sort-n>}**
 
 - **Bio**: Your codebase is not based on standard human mind patterns.
 
@@ -1291,10 +1372,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Digimorph
-  - 6–0 Neo
+  - 6–10 Neo
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                         |      |
 | :---------------------- | ---: |
@@ -1313,10 +1393,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{10-24\} Emergent Uplift
+### Emergent Uplift
+
+**{<sort-n d100=rnd>10–24</sort-n>}**
 
 - **Bio**: You are a smart machine that was on the cusp of achieving intelligence when the programmers reshaped you.
 
@@ -1331,10 +1414,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Digimorph
-  - 6–0 Operator
+  - 6–10 Operator
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                   |      |
 | :-------------------------------- | ---: |
@@ -1353,10 +1435,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{25-49\} Humanities AGI
+### Humanities AGI
+
+**{<sort-n d100=rnd>25–49</sort-n>}**
 
 - **Bio**: You are designed to understand and interact with humans.
 
@@ -1372,10 +1457,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Flat
   - 6–9 Splicer
-  - 0 Synth
+  - 10 Synth
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                            |      |
 | :------------------------- | ---: |
@@ -1394,10 +1478,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{50-74\} Machine AGI
+### Machine AGI
+
+**{<sort-n d100=rnd>50–74</sort-n>}**
 
 - **Bio**: Your mind is optimized for controlling apps and hardware.
 
@@ -1412,10 +1499,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Digimorph
-  - 6–0 Operator
+  - 6–10 Operator
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                         |      |
 | :---------------------- | ---: |
@@ -1433,10 +1519,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{75-84\} Part Human
+### Part Human
+
+**{<sort-n d100=rnd>75–84</sort-n>}**
 
 - **Bio**: Your codeline is merged with the neural patterns of a human fork.
 
@@ -1452,10 +1541,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–5 Digimorph
   - 6–8 Neo
-  - 9–0 Sage
+  - 9–10 Sage
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                          |      |
 | :----------------------- | ---: |
@@ -1473,10 +1561,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{85-99\} Research AGI
+### Research AGI
+
+**{<sort-n d100=rnd>85–99</sort-n>}**
 
 - **Bio**: You are optimized for investigation, data analysis, and scientific endeavors.
 
@@ -1491,10 +1582,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–5 Digimorph
-  - 6–0 Sage
+  - 6–10 Sage
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                    |      |
 | :----------------- | ---: |
@@ -1511,8 +1601,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Isolate \[d100\]
@@ -1521,10 +1613,14 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-24\} Drifter
+### Drifter
+
+**{<sort-n d100=rnd>00–24</sort-n>}**
 
 - **Bio**: You wander the outskirts of transhuman space.
 
@@ -1540,10 +1636,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–7 Flat
   - 8–9 Splicer
-  - 0 Bouncer
+  - 10 Bouncer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                             |      |
 | :-------------------------- | ---: |
@@ -1563,10 +1658,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{25-49\} Religious Sect
+### Religious Sect
+
+**{<sort-n d100=rnd>25–49</sort-n>}**
 
 - **Bio**: Your cult or religious group establishes an off-world haven.
 
@@ -1582,8 +1680,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Flat
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                           |      |
 | :------------------------ | ---: |
@@ -1603,10 +1700,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{50-74\} Separatist
+### Separatist
+
+**{<sort-n d100=rnd>50–74</sort-n>}**
 
 - **Bio**: Your people are dissidents, persecuted minorities, refugees, or others who seek safety on the fringes.
 
@@ -1622,10 +1722,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–7 Flat
   - 8–9 Splicer
-  - 0 Bouncer
+  - 10 Bouncer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -1645,10 +1744,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{75-99\} Survivalist
+### Survivalist
+
+**{<sort-n d100=rnd>75–99</sort-n>}**
 
 - **Bio**: Your family fears trouble on Earth and bunkers down off-world.
 
@@ -1663,10 +1765,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–8 Flat
-  - 9–0 Splicer
+  - 9–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                       |      |
 | :-------------------- | ---: |
@@ -1684,8 +1785,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Lost \[d100\]
@@ -1694,10 +1797,14 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-09\} Alien Mind
+### Alien Mind
+
+**{<sort-n d100=rnd>00–09</sort-n>}**
 
 - **Bio**: Your mind is nothing like those around you.
 
@@ -1713,8 +1820,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Futura
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                   |      |
 | :-------------------------------- | ---: |
@@ -1733,10 +1839,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{10-34\} Disturbed Child
+### Disturbed Child
+
+**{<sort-n d100=rnd>10–34</sort-n>}**
 
 - **Bio**: You bear permanent mental scars that are often apparent to others.
 
@@ -1752,8 +1861,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Futura
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                              |      |
 | :------------------------------------------- | ---: |
@@ -1774,10 +1882,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{35-59\} Long Past Normal
+### Long Past Normal
+
+**{<sort-n d100=rnd>35–59</sort-n>}**
 
 - **Bio**: You pass yourself as normal, but there are deep cracks in your foundation.
 
@@ -1793,8 +1904,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Futura
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                   |      |
 | :-------------------------------- | ---: |
@@ -1812,10 +1922,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-79\} Masked Monster
+### Masked Monster
+
+**{<sort-n d100=rnd>60–79</sort-n>}**
 
 - **Bio**: You are a sociopath, but you hide it well.
 
@@ -1831,8 +1944,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Futura
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                              |      |
 | :------------------------------------------- | ---: |
@@ -1854,10 +1966,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-99\} Twisted Experiment
+### Twisted Experiment
+
+**{<sort-n d100=rnd>80–99</sort-n>}**
 
 - **Bio**: Your oddness is palpable.
 
@@ -1873,8 +1988,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Futura
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                           |      |
 | :---------------------------------------- | ---: |
@@ -1895,8 +2009,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Underclass \[d100\]
@@ -1905,10 +2021,14 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-19\} Criminal
+### Criminal
+
+**{<sort-n d100=rnd>00–19</sort-n>}**
 
 - **Bio**: You make a living by the only means available to you.
 
@@ -1924,10 +2044,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–7 Flat
   - 8–9 Splicer
-  - 0 Exalt
+  - 10 Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -1947,10 +2066,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{20-39\} Radical
+### Radical
+
+**{<sort-n d100=rnd>20–39</sort-n>}**
 
 - **Bio**: You fight against oppressive systems.
 
@@ -1965,10 +2087,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–7 Flat
-  - 8–0 Splicer
+  - 8–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -1987,10 +2108,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{40-59\} Refugee
+### Refugee
+
+**{<sort-n d100=rnd>40–59</sort-n>}**
 
 - **Bio**: You are forced to flee war or climate catastrophe.
 
@@ -2005,10 +2129,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–9 Flat
-  - 0 Splicer
+  - 10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -2026,10 +2149,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{60-79\} Street Rat
+### Street Rat
+
+**{<sort-n d100=rnd>60–79</sort-n>}**
 
 - **Bio**: You navigate the challenges of your class with deftness.
 
@@ -2045,10 +2171,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph \[d10\]:**
   - 1–8 Flat
   - 9 Splicer
-  - 0 Exalt
+  - 10 Exalt
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                             |      |
 | :-------------------------- | ---: |
@@ -2069,10 +2194,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{80-99\} Survivor
+### Survivor
+
+**{<sort-n d100=rnd>80–99</sort-n>}**
 
 - **Bio**: You do what it takes to get by.
 
@@ -2087,10 +2215,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 - **Morph \[d10\]:**
   - 1–8 Flat
-  - 9–0 Splicer
+  - 9–10 Splicer
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -2110,8 +2237,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
 
+<sort-block>
 <blockquote class="framed-table">
 
 ## Uplift \[d100\]
@@ -2120,10 +2249,14 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
+<sort>
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{00-24\} Escapee
+### Escapee
+
+**{<sort-n d100=rnd>00–24</sort-n>}**
 
 - **Bio**: You escape or are liberated from your patron hypercorp.
 
@@ -2139,8 +2272,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Roll on the [Uplift Biomorphs table](20-morph-tables.md#uplift-biomorphs-d100)
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                     |      |
 | :------------------ | ---: |
@@ -2159,10 +2291,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{25-44\} Feral
+### Feral
+
+**{<sort-n d100=rnd>25–44</sort-n>}**
 
 - **Bio**: You are not as humanized as other uplifts.
 
@@ -2178,8 +2313,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Roll on the [Uplift Biomorphs table](20-morph-tables.md#uplift-biomorphs-d100)
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                            |      |
 | :------------------------- | ---: |
@@ -2200,10 +2334,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{45-69\} Lab Rat
+### Lab Rat
+
+**{<sort-n d100=rnd>45–69</sort-n>}**
 
 - **Bio**: You are a test subject or corporate slave.
 
@@ -2219,8 +2356,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Roll on the [Uplift Biomorphs table](20-morph-tables.md#uplift-biomorphs-d100)
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                                |      |
 | :----------------------------- | ---: |
@@ -2241,10 +2377,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+<sort-block>
 <blockquote class="header-bg multi-column">
-<div class="stat-list vcenter title-margin">
+<div class="stat-list title-margin">
 
-### \{70-99\} Model Specimen
+### Model Specimen
+
+**{<sort-n d100=rnd>70–99</sort-n>}**
 
 - **Bio**: You are proof of the success of transhumanity’s uplift project.
 
@@ -2260,8 +2399,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 - **Morph:**
   - Roll on the [Uplift Biomorphs table](20-morph-tables.md#uplift-biomorphs-d100)
 
-</div>
-<div class="vcenter">
+</div><div>
 
 |                      |      |
 | :------------------- | ---: |
@@ -2280,4 +2418,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 </div>
 </blockquote>
 
+</sort>
 </blockquote>
+
+</sort>

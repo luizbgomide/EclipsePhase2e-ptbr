@@ -15,7 +15,7 @@
   text-align: right;
 }
 
-.nowrap {
+.no-wrap {
   white-space: nowrap;
 }
 
@@ -191,6 +191,11 @@ h2 {
 
 .multi-column > .vcenter {
   align-self: center;
+}
+
+.multi-column.balanced > * {
+  width: fit-content;
+  flex-grow: 1;
 }
 
 /* eclipse phase aptitude superscripts */
