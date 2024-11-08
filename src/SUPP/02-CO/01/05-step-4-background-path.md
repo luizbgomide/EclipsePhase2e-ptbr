@@ -28,7 +28,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 <sort>
 
-| d10<sort-n d10> | Background<sort-by>            | Description                                                                                          |
+| d10<sort-fixed> | Background<sort-by>            | Description                                                                                          |
 | :-------------: | :----------------------------- | :--------------------------------------------------------------------------------------------------- |
 |        1        | [Colonist](#colonist-d100)     | You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.                        |
 |        2        | [Enclaver](#enclaver-d100)     | On Earth, you live a life of precarious but protected stability in a defended enclave.               |
@@ -39,7 +39,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 |        7        | [Isolate](#isolate-d100)       | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        |
 |        8        | [Lost](#lost-d100)             | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. |
 |        9        | [Underclass](#underclass-d100) | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      |
-|        0        | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
+|        10        | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
 
 </blockquote>
 

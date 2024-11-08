@@ -101,7 +101,8 @@ function resortContent(lines) {
     let result = [];
     let tableByCol = 1;
     let tableNumberCols = new Map();
-    let tableCells = [];
+    let tableCellCols = [];
+    let tableFixedCols = [];
     while (lines[0].trim() === "") {
         result.push(lines.shift());
     }
@@ -112,8 +113,10 @@ function resortContent(lines) {
         let headerLine = lines.shift();
         let cols = headerLine.split(tableColumnRE); // index 0 and last should be empty
         for (const [index, col] of cols.entries()) {
+            if (col.includes(sortFixedTag))
+                tableFixedCols.push(index);
             if (col.includes(sortTableCellsTag))
-                tableCells.push(index);
+                tableCellCols.push(index);
             const numberTagMatch = col.match(sortTableNumberTagRE);
             if (numberTagMatch) {
                 const countSettings = { type: numberTagMatch[1], value: 0 };
@@ -124,7 +127,7 @@ function resortContent(lines) {
             }
         }
         tableByCol = cols.findIndex(value => value.includes(sortTableByTag));
-        if (tableByCol >= 0 && tableCells.length > 0) {
+        if (tableByCol >= 0 && tableCellCols.length > 0) {
             throw new Error(`Cannot use sort-by with sort-cells.`);
         }
         tableByCol = tableByCol >= 0 ? tableByCol : 1;
@@ -137,7 +140,7 @@ function resortContent(lines) {
     let newBlockReady = true;
     let fixedBlockIndexes = [];
     let ended = false;
-    let isRestart = false;
+    let restartTagCol = -1;
     while (lines.length > 0) {
         let line = lines.shift();
         const emptyLine = line.trim() === "";
@@ -156,22 +159,36 @@ function resortContent(lines) {
                 unsortedBlocks.sort((a, b) => compare(a, b));
             } else if (delimiter === "|") {
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.split(tableColumnRE)));
-                if (tableCells.length > 0) { // sort only cell content
+                if (tableCellCols.length > 0) { // sort only cell content
                     let cellContent = [];
-                    tableCells.forEach(colIndex => cellContent.push(...unsortedBlocks.map(block => block[0][colIndex])));
+                    tableCellCols.forEach(colIndex => cellContent.push(...unsortedBlocks.map(block => block[0][colIndex])));
                     cellContent.sort((a, b) => compare(a, b));
                     cellContent.reverse();
-                    tableCells.forEach(colIndex => unsortedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
+                    tableCellCols.forEach(colIndex => unsortedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
                 } else { // regular table sort
+                    const tempFixedTable = unsortedBlocks.flat().map(row => [...row]);
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
+                    for (const colIndex of tableFixedCols) {
+                        let index = 0;
+                        unsortedBlocks.forEach(block => block.forEach(row => {
+                            row[colIndex] = tempFixedTable[index][colIndex];
+                            index++;
+                        }));
+                    }
                 }
-                if (isRestart)
-                    unsortedBlocks[0][0][1] = ` ${sortRestartTag}${unsortedBlocks[0][0][1].trimStart()}`;
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
             } else { // regular sort, remove delimiter
                 unsortedBlocks.sort((a, b) => compare(a[0].substring(a[0].indexOf(delimiter) + delimiter.length), b[0].substring(b[0].indexOf(delimiter + delimiter.length))));
             }
             fixedBlockIndexes.forEach((blockIndex, index) => unsortedBlocks.splice(blockIndex, 0, fixedBlocks[index]));
+            // reinsert the restart tag at the col it was found
+            if (restartTagCol >= 0) {
+                const tempRow = unsortedBlocks[0][0].split("|");
+                const originalLength = tempRow[restartTagCol].length;
+                tempRow[restartTagCol] = ` ${sortRestartTag}${tempRow[restartTagCol].trim()} `.padEnd(originalLength);
+                unsortedBlocks[0][0] = tempRow.join("|");
+            }
+
             let sortedLines = unsortedBlocks.flat();
             if (tableNumberCols.size > 0) {
                 let tableRows = sortedLines.map(row => row.split(tableColumnRE));
@@ -233,8 +250,11 @@ function resortContent(lines) {
             currTarget = result;
             newBlockReady = true;
             fixedBlockIndexes = [];
-            isRestart = true;
-            line = line.replace(sortRestartTag, '');
+            tempRow = line.split("|");
+            restartTagCol = tempRow.findIndex(col => col.includes(sortRestartTag));
+            const originalLength = tempRow[restartTagCol].length
+            tempRow[restartTagCol] = tempRow[restartTagCol].replace(sortRestartTag, '').padEnd(originalLength);
+            line = tempRow.join("|");
         }
         if (emptyLine) {
             currTarget.push(line);
