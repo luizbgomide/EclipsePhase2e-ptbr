@@ -137,8 +137,9 @@ function resortContent(lines) {
     let newBlockReady = true;
     let fixedBlockIndexes = [];
     let ended = false;
+    let isRestart = false;
     while (lines.length > 0) {
-        const line = lines.shift();
+        let line = lines.shift();
         const emptyLine = line.trim() === "";
         if (line.includes(sortEndTag) || line.includes(sortRestartTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
             // if sorting by block, title or text, make sure the last line of each block is empty
@@ -164,6 +165,8 @@ function resortContent(lines) {
                 } else { // regular table sort
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
                 }
+                if (isRestart)
+                    unsortedBlocks[0][0][1] = ` ${sortRestartTag}${unsortedBlocks[0][0][1].trimStart()}`;
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
             } else { // regular sort, remove delimiter
                 unsortedBlocks.sort((a, b) => compare(a[0].substring(a[0].indexOf(delimiter) + delimiter.length), b[0].substring(b[0].indexOf(delimiter + delimiter.length))));
@@ -230,6 +233,8 @@ function resortContent(lines) {
             currTarget = result;
             newBlockReady = true;
             fixedBlockIndexes = [];
+            isRestart = true;
+            line = line.replace(sortRestartTag, '');
         }
         if (emptyLine) {
             currTarget.push(line);

@@ -20,31 +20,27 @@ The career decided here is either the one you practiced most notably during your
 
 ## Random Career Path \[d10 & d10\]
 
-### d10 #1 = \{1–5\}
+<sort>
 
-| d10&nbsp;#2 | Career                                     | Description                                                                  |
-| :---------: | :----------------------------------------- | :--------------------------------------------------------------------------- |
-|      1      | [Academic](#academic-d100)                 | You devote your efforts to the pursuit of knowledge.                         |
-|      2      | [Covert Operative](#covert-operative-d100) | You are skilled at accessing places you don’t belong.                        |
-|      3      | [Enforcer](#enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                    |
-|      4      | [Explorer](#explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.             |
-|      5      | [Face](#face-d100)                         | You excel at convincing others, even when it is not in their best interests. |
-|      6      | [Genehacker](#genehacker-d100)             | DNA is your artistic medium.                                                 |
-|      7      | [Hacker](#hacker-d100)                     | Software heeds your beck and call.                                           |
-|    8–10     |                                            | **RE-ROLL #2**                                                               |
-
-### d10 #1 = \{6–0\}
-
-| d10&nbsp;#2 | Career                             | Description                                                                         |
-| :---------: | :--------------------------------- | :---------------------------------------------------------------------------------- |
-|      1      | [Investigator](#investigator-d100) | Few details escape your scrutiny.                                                   |
-|      2      | [Medic](#medic-d100)               | You have a background in medicine.                                                  |
-|      3      | [Mindhacker](#mindhacker-d100)     | You meld minds and memories.                                                        |
-|      4      | [Scavenger](#scavenger-d100)       | You scrounge through wrecks and ruins, seeking value in destruction.                |
-|      5      | [Scientist](#scientist-d100)       | You seek to understand how the universe works — or at least certain elements of it. |
-|      6      | [Soldier](#soldier-d100)           | You deploy violence — or the threat of it.                                          |
-|      7      | [Techie](#techie-d100)             | You make and fix things.                                                            |
-|    8–10     |                                    | **RE-ROLL #2**                                                                      |
+ | d10&nbsp;#1 | d10&nbsp;#2 | Career                                     | Description                                                                         |
+ | :---------: | :---------: | :----------------------------------------- | :---------------------------------------------------------------------------------- |
+ |     1–5     |      1      | [Academic](#academic-d100)                 | You devote your efforts to the pursuit of knowledge.                                |
+ |             |      2      | [Covert Operative](#covert-operative-d100) | You are skilled at accessing places you don’t belong.                               |
+ |             |      3      | [Enforcer](#enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                           |
+ |             |      4      | [Explorer](#explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.                    |
+ |             |      5      | [Face](#face-d100)                         | You excel at convincing others, even when it is not in their best interests.        |
+ |             |      6      | [Genehacker](#genehacker-d100)             | DNA is your artistic medium.                                                        |
+ |             |      7      | [Hacker](#hacker-d100)                     | Software heeds your beck and call.                                                  |
+ |             |    8–10     | **RE-ROLL #2**                             |                                                                                     |
+ |    <hr>     |    <hr>     | <hr>                                       | <hr>                                                                                |
+ |    6–10     |      1      | [Investigator](#investigator-d100)         | Few details escape your scrutiny.                                                   |
+ |             |      2      | [Medic](#medic-d100)                       | You have a background in medicine.                                                  |
+ |             |      3      | [Mindhacker](#mindhacker-d100)             | You meld minds and memories.                                                        |
+ |             |      4      | [Scavenger](#scavenger-d100)               | You scrounge through wrecks and ruins, seeking value in destruction.                |
+ |             |      5      | [Scientist](#scientist-d100)               | You seek to understand how the universe works — or at least certain elements of it. |
+ |             |      6      | [Soldier](#soldier-d100)                   | You deploy violence — or the threat of it.                                          |
+ |             |      7      | [Techie](#techie-d100)                     | You make and fix things.                                                            |
+ |             |    8–10     | **RE-ROLL #2**                             |                                                                                     |
 
 </blockquote>
 

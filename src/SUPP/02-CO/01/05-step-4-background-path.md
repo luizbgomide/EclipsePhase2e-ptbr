@@ -57,11 +57,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Lunar
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–14</sort-n>}**
 
@@ -87,20 +87,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| c-rep                |   20 |
-| Indian Language      |      |
-| Athletics            |   20 |
-| Free Fall            |   20 |
-| Hardware: Industrial |   30 |
-| Interface            |   40 |
-| Kinesics             |   20 |
-| Pilot: Ground        |   30 |
-| Survival             |   25 |
-| Know: Habitat Ops    |   40 |
-| Know: Lunars         |   40 |
-| Know: Physics        |   30 |
+<sort>
+
+|                                 |      |
+| :------------------------------ | ---: |
+| c-rep                           |   20 |
+| <sort-restart>Indian Language   |      |
+| <sort-restart>Athletics         |   20 |
+| Free Fall                       |   20 |
+| Hardware: Industrial            |   30 |
+| Interface                       |   40 |
+| Kinesics                        |   20 |
+| Pilot: Ground                   |   30 |
+| Survival                        |   25 |
+| <sort-restart>Know: Habitat Ops |   40 |
+| Know: Lunars                    |   40 |
+| Know: Physics                   |   30 |
 
 </div>
 </blockquote>
@@ -108,11 +110,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Martian
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>15–39</sort-n>}**
 
@@ -138,19 +140,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   20 |
-| Mandarin language     |      |
-| Athletics             |   40 |
-| Hardware: Electronics |   40 |
-| Interface             |   40 |
-| Persuade              |   20 |
-| Pilot: Ground         |   25 |
-| Survival              |   20 |
-| Know: Administration  |   40 |
-| Know: Botany          |   40 |
-| Know: Hypercorps      |   30 |
+<sort>
+
+|                                    |      |
+| :--------------------------------- | ---: |
+| c-rep                              |   20 |
+| <sort-restart>Mandarin language    |      |
+| <sort-restart>Athletics            |   40 |
+| Hardware: Electronics              |   40 |
+| Interface                          |   40 |
+| Persuade                           |   20 |
+| Pilot: Ground                      |   25 |
+| Survival                           |   20 |
+| <sort-restart>Know: Administration |   40 |
+| Know: Botany                       |   40 |
+| Know: Hypercorps                   |   30 |
 
 </div>
 </blockquote>
@@ -158,11 +162,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Orbital
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–54</sort-n>}**
 
@@ -188,19 +192,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| c-rep                |   20 |
-| English language     |      |
-| Free Fall            |   40 |
-| Hardware: Industrial |   40 |
-| Interface            |   30 |
-| Perceive             |   25 |
-| Pilot: Space         |   30 |
-| Survival             |   20 |
-| Know: Administration |   30 |
-| Know: Habitat Ops    |   50 |
-| Know: Orbitals       |   30 |
+<sort>
+
+|                                    |      |
+| :--------------------------------- | ---: |
+| c-rep                              |   20 |
+| <sort-restart>English language     |      |
+| <sort-restart>Free Fall            |   40 |
+| Hardware: Industrial               |   40 |
+| Interface                          |   30 |
+| Perceive                           |   25 |
+| Pilot: Space                       |   30 |
+| Survival                           |   20 |
+| <sort-restart>Know: Administration |   30 |
+| Know: Habitat Ops                  |   50 |
+| Know: Orbitals                     |   30 |
 
 </div>
 </blockquote>
@@ -208,11 +214,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Rimward Colonist
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>55–64</sort-n>}**
 
@@ -238,18 +244,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                    |      |
-| :----------------- | ---: |
-| @-rep              |   10 |
-| r-rep              |   10 |
-| Free Fall          |   40 |
-| Hardware: Robotics |   40 |
-| Interface          |   30 |
-| Pilot: Space       |   50 |
-| Survival           |   30 |
-| Know: Autonomists  |   20 |
-| Know: Chemistry    |   60 |
-| Know: Habitat Ops  |   30 |
+<sort>
+
+|                                 |      |
+| :------------------------------ | ---: |
+| @-rep                           |   10 |
+| r-rep                           |   10 |
+| <sort-restart>Free Fall         |   40 |
+| Hardware: Robotics              |   40 |
+| Interface                       |   30 |
+| Pilot: Space                    |   50 |
+| Survival                        |   30 |
+| <sort-restart>Know: Autonomists |   20 |
+| Know: Chemistry                 |   60 |
+| Know: Habitat Ops               |   30 |
 
 </div>
 </blockquote>
@@ -257,11 +265,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Rural Martian
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>65–79</sort-n>}**
 
@@ -287,18 +295,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                    |      |
-| :----------------- | ---: |
-| @-rep              |   20 |
-| Mandarin language  |
-| Athletics          |   40 |
-| Hardware: Robotics |   55 |
-| Interface          |   30 |
-| Pilot: Air         |   30 |
-| Survival           |   30 |
-| Know: Barsoomians  |   30 |
-| Know: Hypercorps   |   20 |
-| Know: Terraforming |   60 |
+<sort>
+
+|                                 |      |
+| :------------------------------ | ---: |
+| @-rep                           |   20 |
+| <sort-restart>Mandarin language |
+| <sort-restart>Athletics         |   40 |
+| Hardware: Robotics              |   55 |
+| Interface                       |   30 |
+| Pilot: Air                      |   30 |
+| Survival                        |   30 |
+| <sort-restart>Know: Barsoomians |   30 |
+| Know: Hypercorps                |   20 |
+| Know: Terraforming              |   60 |
 
 </div>
 </blockquote>
@@ -306,11 +316,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Spacer
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–89</sort-n>}**
 
@@ -336,19 +346,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                           |         |
-| :------------------------ | ------: |
-| c-rep                     |      20 |
-| g-rep                     |      10 |
-| 1 language of your choice |
-| Free Fall                 |      40 |
-| Hardware: Aerospace       |      40 |
-| Interface                 |      30 |
-| Pilot: Space              |      30 |
-| Survival (Navigate)       | 30 (40) |
-| Know: Flight Crew Ops     |      60 |
-| Know: Spacers             |      30 |
-| Know: Spaceships          |      20 |
+<sort>
+
+|                                         |         |
+| :-------------------------------------- | ------: |
+| c-rep                                   |      20 |
+| g-rep                                   |      10 |
+| <sort-restart>1 language of your choice |
+| <sort-restart>Free Fall                 |      40 |
+| Hardware: Aerospace                     |      40 |
+| Interface                               |      30 |
+| Pilot: Space                            |      30 |
+| Survival (Navigate)                     | 30 (40) |
+| <sort-restart>Know: Flight Crew Ops     |      60 |
+| Know: Spacers                           |      30 |
+| Know: Spaceships                        |      20 |
 
 </div>
 </blockquote>
@@ -356,11 +368,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Sunward Colonist
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>90–99</sort-n>}**
 
@@ -386,18 +398,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   20 |
-| Athletics             |   30 |
-| Free Fall             |   30 |
-| Hardware: Industrial  |   40 |
-| Interface             |   30 |
-| Pilot: Air            |   30 |
-| Survival              |   30 |
-| Know: Asteroid Mining |   60 |
-| Know: Terraforming    |   20 |
-| Know: Venusians       |   30 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   20 |
+| <sort-restart>Athletics             |   30 |
+| Free Fall                           |   30 |
+| Hardware: Industrial                |   40 |
+| Interface                           |   30 |
+| Pilot: Air                          |   30 |
+| Survival                            |   30 |
+| <sort-restart>Know: Asteroid Mining |   60 |
+| Know: Terraforming                  |   20 |
+| Know: Venusians                     |   30 |
 
 </div>
 </blockquote>
@@ -418,11 +432,11 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Ascendor
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–19</sort-n>}**
 
@@ -447,19 +461,21 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   10 |
-| Resources (Level 1) trait |
-| Athletics                 |   20 |
-| Interface                 |   40 |
-| Kinesics                  |   20 |
-| Persuade                  |   40 |
-| Pilot: Ground             |   20 |
-| Program                   |   40 |
-| Know: Administration      |   60 |
-| Know: Data Processing     |   30 |
-| Know: Sports              |   30 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   10 |
+| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Athletics                 |   20 |
+| Interface                               |   40 |
+| Kinesics                                |   20 |
+| Persuade                                |   40 |
+| Pilot: Ground                           |   20 |
+| Program                                 |   40 |
+| <sort-restart>Know: Administration      |   60 |
+| Know: Data Processing                   |   30 |
+| Know: Sports                            |   30 |
 
 </div>
 </blockquote>
@@ -467,11 +483,11 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Corporate Drifter
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>20–39</sort-n>}**
 
@@ -495,19 +511,21 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 </div><div>
 
-|                             |      |
-| :-------------------------- | ---: |
-| c-rep                       |   20 |
-| Resources (Level 2) trait   |
-| Athletics                   |   30 |
-| Interface                   |   40 |
-| Kinesics                    |   30 |
-| Persuade                    |   20 |
-| Pilot: Ground               |   20 |
-| Program                     |   30 |
-| Know: Hypercorps            |   30 |
-| Know: System Administration |   40 |
-| Know: VR Games              |   40 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Athletics                 |   30 |
+| Interface                               |   40 |
+| Kinesics                                |   30 |
+| Persuade                                |   20 |
+| Pilot: Ground                           |   20 |
+| Program                                 |   30 |
+| <sort-restart>Know: Hypercorps          |   30 |
+| Know: System Administration             |   40 |
+| Know: VR Games                          |   40 |
 
 </div>
 </blockquote>
@@ -515,11 +533,11 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Corporate Favorite
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–59</sort-n>}**
 
@@ -543,19 +561,21 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   20 |
-| Resources (Level 2) trait |
-| Athletics                 |   20 |
-| Interface                 |   40 |
-| Kinesics                  |   40 |
-| Persuade                  |   30 |
-| Pilot: Ground             |   20 |
-| Program                   |   20 |
-| Know: Administration      |   30 |
-| Know: Data Science        |   60 |
-| Know: Hypercorps          |   20 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Athletics                 |   20 |
+| Interface                               |   40 |
+| Kinesics                                |   40 |
+| Persuade                                |   30 |
+| Pilot: Ground                           |   20 |
+| Program                                 |   20 |
+| <sort-restart>Know: Administration      |   30 |
+| Know: Data Science                      |   60 |
+| Know: Hypercorps                        |   20 |
 
 </div>
 </blockquote>
@@ -563,11 +583,11 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Inheritor
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–79</sort-n>}**
 
@@ -591,20 +611,22 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 </div><div>
 
-|                            |      |
-| :------------------------- | ---: |
-| c-rep                      |   10 |
-| f-rep                      |   10 |
-| Resources (Level 2) trait  |
-| Athletics                  |   30 |
-| Interface                  |   40 |
-| Kinesics                   |   30 |
-| Perceive                   |   20 |
-| Pilot: Ground              |   20 |
-| Program                    |   30 |
-| Know: History              |   30 |
-| Know: Pop Culture          |   40 |
-| Know: Procedural Sculpture |   40 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   10 |
+| f-rep                                   |   10 |
+| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Athletics                 |   30 |
+| Interface                               |   40 |
+| Kinesics                                |   30 |
+| Perceive                                |   20 |
+| Pilot: Ground                           |   20 |
+| Program                                 |   30 |
+| <sort-restart>Know: History             |   30 |
+| Know: Pop Culture                       |   40 |
+| Know: Procedural Sculpture              |   40 |
 
 </div>
 </blockquote>
@@ -612,11 +634,11 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Opportunist
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–99</sort-n>}**
 
@@ -641,21 +663,23 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   10 |
-| g-rep                     |   20 |
-| Resources (Level 1) trait |
-| Athletics                 |   20 |
-| Deceive                   |   20 |
-| Interface                 |   30 |
-| Kinesics                  |   30 |
-| Perceive                  |   30 |
-| Persuade                  |   20 |
-| Pilot: Ground             |   20 |
-| Know: Black Markets       |   40 |
-| Know: Drugs               |   30 |
-| Know: Underground XP      |   40 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   10 |
+| g-rep                                   |   20 |
+| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Athletics                 |   20 |
+| Deceive                                 |   20 |
+| Interface                               |   30 |
+| Kinesics                                |   30 |
+| Perceive                                |   30 |
+| Persuade                                |   20 |
+| Pilot: Ground                           |   20 |
+| <sort-restart>Know: Black Markets       |   40 |
+| Know: Drugs                             |   30 |
+| Know: Underground XP                    |   40 |
 
 </div>
 </blockquote>
@@ -676,11 +700,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Nomad
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–19</sort-n>}**
 
@@ -705,19 +729,21 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   15 |
-| 1 language of your choice |
-| Infiltrate                |   20 |
-| Interface                 |   40 |
-| Kinesics                  |   30 |
-| Persuade                  |   20 |
-| Pilot: Ground             |   20 |
-| Program                   |   30 |
-| Research                  |   40 |
-| Know: Freelancing         |   50 |
-| Know: Hypercorps          |   50 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   15 |
+| <sort-restart>1 language of your choice |
+| <sort-restart>Infiltrate                |   20 |
+| Interface                               |   40 |
+| Kinesics                                |   30 |
+| Persuade                                |   20 |
+| Pilot: Ground                           |   20 |
+| Program                                 |   30 |
+| Research                                |   40 |
+| <sort-restart>Know: Freelancing         |   50 |
+| Know: Hypercorps                        |   50 |
 
 </div>
 </blockquote>
@@ -725,11 +751,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Precarious
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>20–39</sort-n>}**
 
@@ -754,20 +780,22 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Interface             |   40 |
-| Kinesics              |   30 |
-| Melee                 |   10 |
-| Perceive              |   10 |
-| Persuade              |   40 |
-| Pilot: Ground         |   10 |
-| Program               |   30 |
-| Research              |   30 |
-| Survival              |   20 |
-| Know: Data Processing |   60 |
-| Know: Social Services |   30 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Interface             |   40 |
+| Kinesics                            |   30 |
+| Melee                               |   10 |
+| Perceive                            |   10 |
+| Persuade                            |   40 |
+| Pilot: Ground                       |   10 |
+| Program                             |   30 |
+| Research                            |   30 |
+| Survival                            |   20 |
+| <sort-restart>Know: Data Processing |   60 |
+| Know: Social Services               |   30 |
 
 </div>
 </blockquote>
@@ -775,11 +803,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Self-Reliant
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–59</sort-n>}**
 
@@ -803,19 +831,21 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| @-rep                 |   10 |
-| c-rep                 |   10 |
-| Hardware: Electronics |   20 |
-| Interface             |   40 |
-| Kinesics              |   20 |
-| Persuade              |   40 |
-| Pilot: Ground         |   20 |
-| Program               |   30 |
-| Research              |   40 |
-| Know: Scavenging      |   60 |
-| Know: Strategy Games  |   30 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| @-rep                               |   10 |
+| c-rep                               |   10 |
+| <sort-restart>Hardware: Electronics |   20 |
+| Interface                           |   40 |
+| Kinesics                            |   20 |
+| Persuade                            |   40 |
+| Pilot: Ground                       |   20 |
+| Program                             |   30 |
+| Research                            |   40 |
+| <sort-restart>Know: Scavenging      |   60 |
+| Know: Strategy Games                |   30 |
 
 </div>
 </blockquote>
@@ -823,11 +853,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Steady
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–79</sort-n>}**
 
@@ -852,19 +882,21 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   20 |
-| Resources (Level 1) trait |
-| Interface                 |   40 |
-| Kinesics                  |   20 |
-| Persuade                  |   40 |
-| Pilot: Ground             |   10 |
-| Program                   |   30 |
-| Research                  |   40 |
-| Know: Craft Beers         |   20 |
-| Know: Freelancing         |   60 |
-| Know: Hypercorps          |   30 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Interface                 |   40 |
+| Kinesics                                |   20 |
+| Persuade                                |   40 |
+| Pilot: Ground                           |   10 |
+| Program                                 |   30 |
+| Research                                |   40 |
+| <sort-restart>Know: Craft Beers         |   20 |
+| Know: Freelancing                       |   60 |
+| Know: Hypercorps                        |   30 |
 
 </div>
 </blockquote>
@@ -872,11 +904,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Surrounded by Wolves
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–99</sort-n>}**
 
@@ -901,20 +933,22 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| c-rep                |   10 |
-| g-rep                |   10 |
-| Guns                 |   20 |
-| Interface            |   40 |
-| Kinesics             |   20 |
-| Perceive             |   10 |
-| Persuade             |   40 |
-| Program              |   30 |
-| Research             |   30 |
-| Know: Criminals      |   20 |
-| Know: Service Work   |   60 |
-| Know: Underground XP |   30 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| c-rep                         |   10 |
+| g-rep                         |   10 |
+| <sort-restart>Guns            |   20 |
+| Interface                     |   40 |
+| Kinesics                      |   20 |
+| Perceive                      |   10 |
+| Persuade                      |   40 |
+| Program                       |   30 |
+| Research                      |   30 |
+| <sort-restart>Know: Criminals |   20 |
+| Know: Service Work            |   60 |
+| Know: Underground XP          |   30 |
 
 </div>
 </blockquote>
@@ -935,11 +969,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Breakthrough
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–19</sort-n>}**
 
@@ -965,18 +999,20 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   20 |
-| Resources (Level 3) trait |
-| Athletics                 |   30 |
-| Hardware: Robotics        |   30 |
-| Kinesics                  |   50 |
-| Persuade                  |   30 |
-| Provoke                   |   30 |
-| Know: Engineering         |   30 |
-| Know: Nanofacturing       |   50 |
-| Know: Stock Market        |   20 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Athletics                 |   30 |
+| Hardware: Robotics                      |   30 |
+| Kinesics                                |   50 |
+| Persuade                                |   30 |
+| Provoke                                 |   30 |
+| <sort-restart>Know: Engineering         |   30 |
+| Know: Nanofacturing                     |   50 |
+| Know: Stock Market                      |   20 |
 
 </div>
 </blockquote>
@@ -984,11 +1020,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Hypercorp Royalty
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>20–39</sort-n>}**
 
@@ -1015,18 +1051,20 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   20 |
-| Resources (Level 3) trait |
-| Athletics                 |   30 |
-| Deceive                   |   20 |
-| Kinesics                  |   50 |
-| Persuade                  |   40 |
-| Provoke                   |   30 |
-| Know: Fine Art            |   10 |
-| Know: Hypercorps          |   60 |
-| Know: Hypercorp Politics  |   30 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Athletics                 |   30 |
+| Deceive                                 |   20 |
+| Kinesics                                |   50 |
+| Persuade                                |   40 |
+| Provoke                                 |   30 |
+| <sort-restart>Know: Fine Art            |   10 |
+| Know: Hypercorps                        |   60 |
+| Know: Hypercorp Politics                |   30 |
 
 </div>
 </blockquote>
@@ -1034,11 +1072,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Media Famous
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–59</sort-n>}**
 
@@ -1064,18 +1102,20 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| f-rep                     |   20 |
-| Resources (Level 3) trait |
-| Athletics                 |   30 |
-| Deceive                   |   40 |
-| Kinesics                  |   40 |
-| Persuade                  |   30 |
-| Provoke                   |   30 |
-| Know: Celebrities         |   10 |
-| Know: Media               |   60 |
-| Know: Performance         |   30 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| f-rep                                   |   20 |
+| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Athletics                 |   30 |
+| Deceive                                 |   40 |
+| Kinesics                                |   40 |
+| Persuade                                |   30 |
+| Provoke                                 |   30 |
+| <sort-restart>Know: Celebrities         |   10 |
+| Know: Media                             |   60 |
+| Know: Performance                       |   30 |
 
 </div>
 </blockquote>
@@ -1083,11 +1123,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Oligarch Dynasty
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–79</sort-n>}**
 
@@ -1114,18 +1154,20 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   20 |
-| Resources (Level 4) trait |
-| Athletics                 |   30 |
-| Deceive                   |   30 |
-| Kinesics                  |   50 |
-| Persuade                  |   30 |
-| Provoke                   |   30 |
-| Know: Fine Art            |   30 |
-| Know: Law                 |   30 |
-| Know: Oligarchs           |   30 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   20 |
+| <sort-restart>Resources (Level 4) trait |
+| <sort-restart>Athletics                 |   30 |
+| Deceive                                 |   30 |
+| Kinesics                                |   50 |
+| Persuade                                |   30 |
+| Provoke                                 |   30 |
+| <sort-restart>Know: Fine Art            |   30 |
+| Know: Law                               |   30 |
+| Know: Oligarchs                         |   30 |
 
 </div>
 </blockquote>
@@ -1133,11 +1175,11 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Space Entrepreneur
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–99</sort-n>}**
 
@@ -1164,19 +1206,21 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   10 |
-| f-rep                     |   10 |
-| Resources (Level 3) trait |
-| Athletics                 |   30 |
-| Deceive                   |   30 |
-| Kinesics                  |   50 |
-| Persuade                  |   30 |
-| Provoke                   |   30 |
-| Know: Asteroid Mining     |   60 |
-| Know: Economics           |   30 |
-| Know: Hypercorps          |   10 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   10 |
+| f-rep                                   |   10 |
+| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Athletics                 |   30 |
+| Deceive                                 |   30 |
+| Kinesics                                |   50 |
+| Persuade                                |   30 |
+| Provoke                                 |   30 |
+| <sort-restart>Know: Asteroid Mining     |   60 |
+| Know: Economics                         |   30 |
+| Know: Hypercorps                        |   10 |
 
 </div>
 </blockquote>
@@ -1197,11 +1241,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Drone Operator
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–14</sort-n>}**
 
@@ -1226,19 +1270,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Fray                  |   20 |
-| Free Fall             |   20 |
-| Hardware: Robotics    |   50 |
-| Interface             |   40 |
-| Perceive              |   20 |
-| Pilot: Space          |   20 |
-| Program               |   30 |
-| Know: Asteroid Mining |   30 |
-| Know: Bot Models      |   60 |
-| Know: Gambling        |   20 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Fray                  |   20 |
+| Free Fall                           |   20 |
+| Hardware: Robotics                  |   50 |
+| Interface                           |   40 |
+| Perceive                            |   20 |
+| Pilot: Space                        |   20 |
+| Program                             |   30 |
+| <sort-restart>Know: Asteroid Mining |   30 |
+| Know: Bot Models                    |   60 |
+| Know: Gambling                      |   20 |
 
 </div>
 </blockquote>
@@ -1246,11 +1292,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Educator
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>15–24</sort-n>}**
 
@@ -1275,19 +1321,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Fray                  |   20 |
-| Free Fall             |   20 |
-| Hardware: Industrial  |   40 |
-| Interface             |   50 |
-| Perceive              |   20 |
-| Program               |   40 |
-| Provoke               |   10 |
-| Know: AR Games        |   20 |
-| Know: Instruction     |   60 |
-| Know: Social Services |   30 |
+<sort>
+
+|                              |      |
+| :--------------------------- | ---: |
+| c-rep                        |   10 |
+| <sort-restart>Fray           |   20 |
+| Free Fall                    |   20 |
+| Hardware: Industrial         |   40 |
+| Interface                    |   50 |
+| Perceive                     |   20 |
+| Program                      |   40 |
+| Provoke                      |   10 |
+| <sort-restart>Know: AR Games |   20 |
+| Know: Instruction            |   60 |
+| Know: Social Services        |   30 |
 
 </div>
 </blockquote>
@@ -1295,11 +1343,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Emancipated
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>25–39</sort-n>}**
 
@@ -1324,19 +1372,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Fray                  |   20 |
-| Free Fall             |   30 |
-| Hardware: Electronics |   50 |
-| Infosec               |   20 |
-| Interface             |   40 |
-| Perceive              |   20 |
-| Program               |   20 |
-| Know: Data Processing |   30 |
-| Know: Habitat Ops     |   50 |
-| Know: Hypercorps      |   30 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Fray                  |   20 |
+| Free Fall                           |   30 |
+| Hardware: Electronics               |   50 |
+| Infosec                             |   20 |
+| Interface                           |   40 |
+| Perceive                            |   20 |
+| Program                             |   20 |
+| <sort-restart>Know: Data Processing |   30 |
+| Know: Habitat Ops                   |   50 |
+| Know: Hypercorps                    |   30 |
 
 </div>
 </blockquote>
@@ -1344,11 +1394,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Labor Camps
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–59</sort-n>}**
 
@@ -1375,20 +1425,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| c-rep                |   10 |
-| Athletics            |   20 |
-| Free Fall            |   20 |
-| Hardware: Industrial |   30 |
-| Hardware: Robotics   |   50 |
-| Interface            |   30 |
-| Melee                |   20 |
-| Perceive             |   20 |
-| Survival             |   10 |
-| Know: Hypercorps     |   20 |
-| Know: Terraforming   |   60 |
-| Know: XP Dealers     |   30 |
+<sort>
+
+|                                |      |
+| :----------------------------- | ---: |
+| c-rep                          |   10 |
+| <sort-restart>Athletics        |   20 |
+| Free Fall                      |   20 |
+| Hardware: Industrial           |   30 |
+| Hardware: Robotics             |   50 |
+| Interface                      |   30 |
+| Melee                          |   20 |
+| Perceive                       |   20 |
+| Survival                       |   10 |
+| <sort-restart>Know: Hypercorps |   20 |
+| Know: Terraforming             |   60 |
+| Know: XP Dealers               |   30 |
 
 </div>
 </blockquote>
@@ -1396,11 +1448,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Private Staff
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–69</sort-n>}**
 
@@ -1426,18 +1478,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                         |      |
-| :---------------------- | ---: |
-| c-rep                   |   20 |
-| Deceive                 |   20 |
-| Fray                    |   20 |
-| Free Fall               |   40 |
-| Hardware: Robotics      |   50 |
-| Interface               |   40 |
-| Perceive                |   20 |
-| Persuade                |   20 |
-| Know: Etiquette         |   60 |
-| Know: Hyperelite Gossip |   30 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| c-rep                         |   20 |
+| <sort-restart>Deceive         |   20 |
+| Fray                          |   20 |
+| Free Fall                     |   40 |
+| Hardware: Robotics            |   50 |
+| Interface                     |   40 |
+| Perceive                      |   20 |
+| Persuade                      |   20 |
+| <sort-restart>Know: Etiquette |   60 |
+| Know: Hyperelite Gossip       |   30 |
 
 </div>
 </blockquote>
@@ -1445,11 +1499,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Vac Worker
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>70–84</sort-n>}**
 
@@ -1476,19 +1530,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Melee                 |   20 |
-| Free Fall             |   40 |
-| Hardware: Electronics |   20 |
-| Hardware: Aerospace   |   50 |
-| Interface             |   40 |
-| Perceive              |   20 |
-| Survival              |   10 |
-| Know: Black Markets   |   20 |
-| Know: Habitat Ops     |   60 |
-| Know: Spacecraft      |   30 |
+<sort>
+
+|                                   |      |
+| :-------------------------------- | ---: |
+| c-rep                             |   10 |
+| <sort-restart>Melee               |   20 |
+| Free Fall                         |   40 |
+| Hardware: Electronics             |   20 |
+| Hardware: Aerospace               |   50 |
+| Interface                         |   40 |
+| Perceive                          |   20 |
+| Survival                          |   10 |
+| <sort-restart>Know: Black Markets |   20 |
+| Know: Habitat Ops                 |   60 |
+| Know: Spacecraft                  |   30 |
 
 </div>
 </blockquote>
@@ -1496,11 +1552,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Virtual Worker
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>85–99</sort-n>}**
 
@@ -1525,18 +1581,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 </div><div>
 
-|                          |      |
-| :----------------------- | ---: |
-| c-rep                    |   10 |
-| Free Fall                |   30 |
-| Hardware: Electronics    |   40 |
-| Infosec                  |   20 |
-| Interface                |   50 |
-| Perceive                 |   20 |
-| Program                  |   40 |
-| Know: Data Processing    |   60 |
-| Know: Social Engineering |   30 |
-| Know: VR Games           |   20 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Free Fall             |   30 |
+| Hardware: Electronics               |   40 |
+| Infosec                             |   20 |
+| Interface                           |   50 |
+| Perceive                            |   20 |
+| Program                             |   40 |
+| <sort-restart>Know: Data Processing |   60 |
+| Know: Social Engineering            |   30 |
+| Know: VR Games                      |   20 |
 
 </div>
 </blockquote>
@@ -1557,11 +1615,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Anomaly
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–09</sort-n>}**
 
@@ -1586,19 +1644,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                         |      |
-| :---------------------- | ---: |
-| Ego Flex                |    1 |
-| Anomalous Mind trait    |
-| Deceive                 |   40 |
-| Infosec                 |   50 |
-| Interface               |   40 |
-| Perceive                |   30 |
-| Program                 |   50 |
-| Provoke                 |   20 |
-| Research                |   20 |
-| Know: Data Science      |   60 |
-| Know: Financial Systems |   30 |
+<sort>
+
+|                                    |      |
+| :--------------------------------- | ---: |
+| Ego Flex                           |    1 |
+| <sort-restart>Anomalous Mind trait |
+| <sort-restart>Deceive              |   40 |
+| Infosec                            |   50 |
+| Interface                          |   40 |
+| Perceive                           |   30 |
+| Program                            |   50 |
+| Provoke                            |   20 |
+| Research                           |   20 |
+| <sort-restart>Know: Data Science   |   60 |
+| Know: Financial Systems            |   30 |
 
 </div>
 </blockquote>
@@ -1606,11 +1666,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Emergent Uplift
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>10–24</sort-n>}**
 
@@ -1635,19 +1695,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| c-rep                             |   10 |
-| Emotive Blindness trait           |
-| Real World Naiveté trait          |
-| Superior Numeracy (Level 2) trait |
-| Infosec                           |   60 |
-| Interface                         |   60 |
-| Program                           |   60 |
-| Research                          |   20 |
-| Know: Apps                        |   30 |
-| Know: Astrophysics                |   50 |
-| Know: Data Processing             |   30 |
+<sort>
+
+|                                       |      |
+| :------------------------------------ | ---: |
+| c-rep                                 |   10 |
+| <sort-restart>Emotive Blindness trait |
+| Real World Naiveté trait              |
+| Superior Numeracy (Level 2) trait     |
+| <sort-restart>Infosec                 |   60 |
+| Interface                             |   60 |
+| Program                               |   60 |
+| Research                              |   20 |
+| <sort-restart>Know: Apps              |   30 |
+| Know: Astrophysics                    |   50 |
+| Know: Data Processing                 |   30 |
 
 </div>
 </blockquote>
@@ -1655,11 +1717,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Humanities AGI
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>25–49</sort-n>}**
 
@@ -1685,19 +1747,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                            |      |
-| :------------------------- | ---: |
-| c-rep                      |   10 |
-| 2 languages of your choice |
-| Infosec                    |   20 |
-| Interface                  |   50 |
-| Kinesics                   |   40 |
-| Persuade                   |   20 |
-| Program                    |   20 |
-| Research                   |   40 |
-| Know: History              |   20 |
-| Know: Psychology           |   60 |
-| Know: Sociology            |   30 |
+<sort>
+
+|                                          |      |
+| :--------------------------------------- | ---: |
+| c-rep                                    |   10 |
+| <sort-restart>2 languages of your choice |
+| <sort-restart>Infosec                    |   20 |
+| Interface                                |   50 |
+| Kinesics                                 |   40 |
+| Persuade                                 |   20 |
+| Program                                  |   20 |
+| Research                                 |   40 |
+| <sort-restart>Know: History              |   20 |
+| Know: Psychology                         |   60 |
+| Know: Sociology                          |   30 |
 
 </div>
 </blockquote>
@@ -1705,11 +1769,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Machine AGI
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>50–74</sort-n>}**
 
@@ -1734,18 +1798,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                         |      |
-| :---------------------- | ---: |
-| c-rep                   |   10 |
-| Composure trait         |
-| Emotive Blindness trait |
-| Hardware: Electronics   |   30 |
-| Infosec                 |   40 |
-| Interface               |   60 |
-| Program                 |   70 |
-| Research                |   20 |
-| Know: Bot Models        |   30 |
-| Know: Computer Science  |   60 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Composure trait       |
+| Emotive Blindness trait             |
+| <sort-restart>Hardware: Electronics |   30 |
+| Infosec                             |   40 |
+| Interface                           |   60 |
+| Program                             |   70 |
+| Research                            |   20 |
+| <sort-restart>Know: Bot Models      |   30 |
+| Know: Computer Science              |   60 |
 
 </div>
 </blockquote>
@@ -1753,11 +1819,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Part Human
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>75–84</sort-n>}**
 
@@ -1783,18 +1849,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                          |      |
-| :----------------------- | ---: |
-| c-rep                    |   10 |
-| Infosec                  |   40 |
-| Interface                |   50 |
-| Kinesics                 |   25 |
-| Perceive                 |   25 |
-| Program                  |   30 |
-| Research                 |   30 |
-| Know: Administration     |   60 |
-| Know: Mercurial Activism |   20 |
-| Know: Psychometrics      |   30 |
+<sort>
+
+|                                    |      |
+| :--------------------------------- | ---: |
+| c-rep                              |   10 |
+| <sort-restart>Infosec              |   40 |
+| Interface                          |   50 |
+| Kinesics                           |   25 |
+| Perceive                           |   25 |
+| Program                            |   30 |
+| Research                           |   30 |
+| <sort-restart>Know: Administration |   60 |
+| Know: Mercurial Activism           |   20 |
+| Know: Psychometrics                |   30 |
 
 </div>
 </blockquote>
@@ -1802,11 +1870,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Research AGI
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>85–99</sort-n>}**
 
@@ -1831,17 +1899,19 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                    |      |
-| :----------------- | ---: |
-| c-rep              |   10 |
-| Infosec            |   30 |
-| Interface          |   50 |
-| Perceive           |   30 |
-| Program            |   40 |
-| Research           |   50 |
-| Know: Chemistry    |   20 |
-| Know: Data Science |   60 |
-| Know: Mathematics  |   30 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| c-rep                         |   10 |
+| <sort-restart>Infosec         |   30 |
+| Interface                     |   50 |
+| Perceive                      |   30 |
+| Program                       |   40 |
+| Research                      |   50 |
+| <sort-restart>Know: Chemistry |   20 |
+| Know: Data Science            |   60 |
+| Know: Mathematics             |   30 |
 
 </div>
 </blockquote>
@@ -1862,11 +1932,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Drifter
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–24</sort-n>}**
 
@@ -1892,20 +1962,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                             |      |
-| :-------------------------- | ---: |
-| @-rep                       |   10 |
-| g-rep                       |   10 |
-| Free Fall                   |   40 |
-| Guns                        |   20 |
-| Hardware: Aerospace         |   40 |
-| Medicine: Paramedic         |   20 |
-| Perceive                    |   20 |
-| Pilot: Space                |   30 |
-| Survival                    |   20 |
-| Know: Brinker Habs          |   20 |
-| Know: Flight Crew Ops       |   60 |
-| Know: Outer System Politics |   30 |
+<sort>
+
+|                                  |      |
+| :------------------------------- | ---: |
+| @-rep                            |   10 |
+| g-rep                            |   10 |
+| <sort-restart>Free Fall          |   40 |
+| Guns                             |   20 |
+| Hardware: Aerospace              |   40 |
+| Medicine: Paramedic              |   20 |
+| Perceive                         |   20 |
+| Pilot: Space                     |   30 |
+| Survival                         |   20 |
+| <sort-restart>Know: Brinker Habs |   20 |
+| Know: Flight Crew Ops            |   60 |
+| Know: Outer System Politics      |   30 |
 
 </div>
 </blockquote>
@@ -1913,11 +1985,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Religious Sect
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>25–49</sort-n>}**
 
@@ -1941,20 +2013,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                           |      |
-| :------------------------ | ---: |
-| c-rep                     |   10 |
-| Resources (Level 1) trait |
-| Free Fall                 |   40 |
-| Guns                      |   20 |
-| Hardware: Industrial      |   40 |
-| Medicine: Paramedic       |   20 |
-| Pilot: Space              |   30 |
-| Provoke                   |   20 |
-| Survival                  |   20 |
-| Know: Bioconservatism     |   20 |
-| Know: Gas Mining          |   40 |
-| Know: Religion            |   50 |
+<sort>
+
+|                                         |      |
+| :-------------------------------------- | ---: |
+| c-rep                                   |   10 |
+| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Free Fall                 |   40 |
+| Guns                                    |   20 |
+| Hardware: Industrial                    |   40 |
+| Medicine: Paramedic                     |   20 |
+| Pilot: Space                            |   30 |
+| Provoke                                 |   20 |
+| Survival                                |   20 |
+| <sort-restart>Know: Bioconservatism     |   20 |
+| Know: Gas Mining                        |   40 |
+| Know: Religion                          |   50 |
 
 </div>
 </blockquote>
@@ -1962,11 +2036,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Separatist
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>50–74</sort-n>}**
 
@@ -1992,20 +2066,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| @-rep                |   10 |
-| Free Fall            |   40 |
-| Guns                 |   20 |
-| Hardware: Industrial |   40 |
-| Medicine: Paramedic  |   20 |
-| Perceive             |   20 |
-| Persuade             |   10 |
-| Pilot: Space         |   30 |
-| Survival             |   20 |
-| Know: Brinker Habs   |   20 |
-| Know: Habitat Ops    |   60 |
-| Know: Politics       |   30 |
+<sort>
+
+|                                  |      |
+| :------------------------------- | ---: |
+| @-rep                            |   10 |
+| <sort-restart>Free Fall          |   40 |
+| Guns                             |   20 |
+| Hardware: Industrial             |   40 |
+| Medicine: Paramedic              |   20 |
+| Perceive                         |   20 |
+| Persuade                         |   10 |
+| Pilot: Space                     |   30 |
+| Survival                         |   20 |
+| <sort-restart>Know: Brinker Habs |   20 |
+| Know: Habitat Ops                |   60 |
+| Know: Politics                   |   30 |
 
 </div>
 </blockquote>
@@ -2013,11 +2089,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Survivalist
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>75–99</sort-n>}**
 
@@ -2042,18 +2118,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                       |      |
-| :-------------------- | ---: |
-| c-rep                 |   10 |
-| Free Fall             |   40 |
-| Guns                  |   30 |
-| Hardware: Aerospace   |   40 |
-| Medicine: Paramedic   |   20 |
-| Pilot: Space          |   30 |
-| Survival              |   40 |
-| Know: Bioconservatism |   20 |
-| Know: Conspiracies    |   40 |
-| Know: Habitat Ops     |   50 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Free Fall             |   40 |
+| Guns                                |   30 |
+| Hardware: Aerospace                 |   40 |
+| Medicine: Paramedic                 |   20 |
+| Pilot: Space                        |   30 |
+| Survival                            |   40 |
+| <sort-restart>Know: Bioconservatism |   20 |
+| Know: Conspiracies                  |   40 |
+| Know: Habitat Ops                   |   50 |
 
 </div>
 </blockquote>
@@ -2074,11 +2152,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Alien Mind
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–09</sort-n>}**
 
@@ -2102,19 +2180,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| Dominant Strain trait             |
-| Hardening (the Unknown) trait     |
-| Psi (Level 2) trait               |
-| 5 psi sleights (random or choose) |
-| Deceive                           |   40 |
-| Infiltrate                        |   20 |
-| Kinesics                          |   30 |
-| Perceive                          |   20 |
-| Psi                               |   60 |
-| Know: Psychology                  |   60 |
-| Know: Xenolinguistics             |   30 |
+<sort>
+
+|                                                 |      |
+| :---------------------------------------------- | ---: |
+| Dominant Strain trait                           |
+| Hardening (the Unknown) trait                   |
+| Psi (Level 2) trait                             |
+| <sort-restart>5 psi sleights (random or choose) |
+| <sort-restart>Deceive                           |   40 |
+| Infiltrate                                      |   20 |
+| Kinesics                                        |   30 |
+| Perceive                                        |   20 |
+| Psi                                             |   60 |
+| <sort-restart>Know: Psychology                  |   60 |
+| Know: Xenolinguistics                           |   30 |
 
 </div>
 </blockquote>
@@ -2122,11 +2202,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Disturbed Child
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>10–34</sort-n>}**
 
@@ -2150,21 +2230,23 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                              |      |
-| :------------------------------------------- | ---: |
-| INT                                          |    5 |
-| Enhanced Behavior (Impulsive, Level 2) trait |
-| Mental Disorder [Choose One] trait           |
-| Psi Camouflage (Level 1) trait               |
-| Psi (Level 2) trait                          |
-| 4 psi sleights (random or choose)            |
-| Deceive                                      |   30 |
-| Infiltrate                                   |   40 |
-| Kinesics                                     |   40 |
-| Perceive                                     |   20 |
-| Psi                                          |   50 |
-| Know: Drug Dealers                           |   60 |
-| Know: Underground XP                         |   30 |
+<sort>
+
+|                                                            |      |
+| :--------------------------------------------------------- | ---: |
+| INT                                                        |    5 |
+| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |
+| Mental Disorder [Choose One] trait                         |
+| Psi Camouflage (Level 1) trait                             |
+| Psi (Level 2) trait                                        |
+| <sort-restart>4 psi sleights (random or choose)            |
+| Deceive                                                    |   30 |
+| Infiltrate                                                 |   40 |
+| Kinesics                                                   |   40 |
+| Perceive                                                   |   20 |
+| Psi                                                        |   50 |
+| <sort-restart>Know: Drug Dealers                           |   60 |
+| Know: Underground XP                                       |   30 |
 
 </div>
 </blockquote>
@@ -2172,11 +2254,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Long Past Normal
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>35–59</sort-n>}**
 
@@ -2200,18 +2282,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| WIL                               |    5 |
-| Psi (Level 2) trait               |
-| 3 psi sleights (random or choose) |
-| Deceive                           |   40 |
-| Infiltrate                        |   20 |
-| Kinesics                          |   40 |
-| Perceive                          |   20 |
-| Psi                               |   50 |
-| Know: Privacy                     |   50 |
-| Know: Sociology                   |   40 |
+<sort>
+
+|                                                 |      |
+| :---------------------------------------------- | ---: |
+| WIL                                             |    5 |
+| <sort-restart>Psi (Level 2) trait               |
+| <sort-restart>3 psi sleights (random or choose) |
+| <sort-restart>Deceive                           |   40 |
+| Infiltrate                                      |   20 |
+| Kinesics                                        |   40 |
+| Perceive                                        |   20 |
+| Psi                                             |   50 |
+| <sort-restart>Know: Privacy                     |   50 |
+| Know: Sociology                                 |   40 |
 
 </div>
 </blockquote>
@@ -2219,11 +2303,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Masked Monster
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–79</sort-n>}**
 
@@ -2247,22 +2331,24 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                              |      |
-| :------------------------------------------- | ---: |
-| SAV                                          |    5 |
-| Enhanced Behavior (Impulsive, Level 2) trait |
-| Hardening (Violence) trait                   |
-| Psi (Level 2) trait                          |
-| Restricted Behavior (Empathy, Level 3) trait |
-| 4 psi sleights (random or choose)            |
-| Deceive                                      |   40 |
-| Infiltrate                                   |   20 |
-| Kinesics                                     |   30 |
-| Melee                                        |   30 |
-| Perceive                                     |   20 |
-| Psi                                          |   50 |
-| Know: Biology                                |   60 |
-| Know: Serial Killers                         |   30 |
+<sort>
+
+|                                                            |      |
+| :--------------------------------------------------------- | ---: |
+| SAV                                                        |    5 |
+| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |
+| Hardening (Violence) trait                                 |
+| Psi (Level 2) trait                                        |
+| Restricted Behavior (Empathy, Level 3) trait               |
+| <sort-restart>4 psi sleights (random or choose)            |
+| <sort-restart>Deceive                                      |   40 |
+| Infiltrate                                                 |   20 |
+| Kinesics                                                   |   30 |
+| Melee                                                      |   30 |
+| Perceive                                                   |   20 |
+| Psi                                                        |   50 |
+| <sort-restart>Know: Biology                                |   60 |
+| Know: Serial Killers                                       |   30 |
 
 </div>
 </blockquote>
@@ -2270,11 +2356,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Twisted Experiment
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–99</sort-n>}**
 
@@ -2298,21 +2384,23 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                           |      |
-| :---------------------------------------- | ---: |
-| Hardening (Alienation, the Unknown) trait |
-| Psi (Level 2) trait                       |
-| Real World Naiveté trait                  |
-| Zoosemiotics trait                        |
-| 4 psi sleights (random or choose)         |
-| Deceive                                   |   20 |
-| Infiltrate                                |   30 |
-| Kinesics                                  |   40 |
-| Perceive                                  |   30 |
-| Provoke                                   |   30 |
-| Psi                                       |   40 |
-| Know: Astrobiology                        |   60 |
-| Know: Xenogenetics                        |   30 |
+<sort>
+
+|                                                 |      |
+| :---------------------------------------------- | ---: |
+| Hardening (Alienation, the Unknown) trait       |
+| Psi (Level 2) trait                             |
+| Real World Naiveté trait                        |
+| Zoosemiotics trait                              |
+| <sort-restart>4 psi sleights (random or choose) |
+| <sort-restart>Deceive                           |   20 |
+| Infiltrate                                      |   30 |
+| Kinesics                                        |   40 |
+| Perceive                                        |   30 |
+| Provoke                                         |   30 |
+| Psi                                             |   40 |
+| <sort-restart>Know: Astrobiology                |   60 |
+| Know: Xenogenetics                              |   30 |
 
 </div>
 </blockquote>
@@ -2333,11 +2421,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Criminal
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–19</sort-n>}**
 
@@ -2363,20 +2451,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                     |      |
-| :------------------ | ---: |
-| g-rep               |   20 |
-| Deceive             |   30 |
-| Fray                |   20 |
-| Guns                |   20 |
-| Kinesics            |   30 |
-| Melee               |   30 |
-| Perceive            |   20 |
-| Persuade            |   20 |
-| Provoke             |   20 |
-| Know: Black Markets |   50 |
-| Know: Drugs         |   30 |
-| Know: Smuggling     |   30 |
+<sort>
+
+|                                   |      |
+| :-------------------------------- | ---: |
+| g-rep                             |   20 |
+| <sort-restart>Deceive             |   30 |
+| Fray                              |   20 |
+| Guns                              |   20 |
+| Kinesics                          |   30 |
+| Melee                             |   30 |
+| Perceive                          |   20 |
+| Persuade                          |   20 |
+| Provoke                           |   20 |
+| <sort-restart>Know: Black Markets |   50 |
+| Know: Drugs                       |   30 |
+| Know: Smuggling                   |   30 |
 
 </div>
 </blockquote>
@@ -2384,11 +2474,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Radical
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>20–39</sort-n>}**
 
@@ -2413,19 +2503,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                     |      |
-| :------------------ | ---: |
-| @-rep               |   20 |
-| Deceive             |   30 |
-| Fray                |   20 |
-| Guns                |   40 |
-| Infiltrate          |   20 |
-| Kinesics            |   40 |
-| Perceive            |   20 |
-| Persuade            |   20 |
-| Know: Anarchism     |   60 |
-| Know: Black Markets |   20 |
-| Know: Police Ops    |   30 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| @-rep                         |   20 |
+| <sort-restart>Deceive         |   30 |
+| Fray                          |   20 |
+| Guns                          |   40 |
+| Infiltrate                    |   20 |
+| Kinesics                      |   40 |
+| Perceive                      |   20 |
+| Persuade                      |   20 |
+| <sort-restart>Know: Anarchism |   60 |
+| Know: Black Markets           |   20 |
+| Know: Police Ops              |   30 |
 
 </div>
 </blockquote>
@@ -2433,11 +2525,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Refugee
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>40–59</sort-n>}**
 
@@ -2462,18 +2554,20 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                     |      |
-| :------------------ | ---: |
-| c-rep               |   10 |
-| Deceive             |   30 |
-| Fray                |   40 |
-| Kinesics            |   40 |
-| Melee               |   20 |
-| Perceive            |   30 |
-| Persuade            |   30 |
-| Know: Black Markets |   30 |
-| Know: Scavenging    |   40 |
-| Know: Smuggling     |   40 |
+<sort>
+
+|                                   |      |
+| :-------------------------------- | ---: |
+| c-rep                             |   10 |
+| <sort-restart>Deceive             |   30 |
+| Fray                              |   40 |
+| Kinesics                          |   40 |
+| Melee                             |   20 |
+| Perceive                          |   30 |
+| Persuade                          |   30 |
+| <sort-restart>Know: Black Markets |   30 |
+| Know: Scavenging                  |   40 |
+| Know: Smuggling                   |   40 |
 
 </div>
 </blockquote>
@@ -2481,11 +2575,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Street Rat
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>60–79</sort-n>}**
 
@@ -2511,21 +2605,23 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                             |      |
-| :-------------------------- | ---: |
-| @-rep                       |   10 |
-| g-rep                       |   10 |
-| Situational Awareness trait |
-| 1 language of your choice   |
-| Deceive                     |   40 |
-| Fray                        |   30 |
-| Kinesics                    |   40 |
-| Melee                       |   20 |
-| Perceive                    |   20 |
-| Persuade                    |   30 |
-| Know: Black Markets         |   40 |
-| Know: Con Artistry          |   30 |
-| Know: Criminals             |   40 |
+<sort>
+
+|                                           |      |
+| :---------------------------------------- | ---: |
+| @-rep                                     |   10 |
+| g-rep                                     |   10 |
+| <sort-restart>Situational Awareness trait |
+| <sort-restart>1 language of your choice   |
+| <sort-restart>Deceive                     |   40 |
+| Fray                                      |   30 |
+| Kinesics                                  |   40 |
+| Melee                                     |   20 |
+| Perceive                                  |   20 |
+| Persuade                                  |   30 |
+| <sort-restart>Know: Black Markets         |   40 |
+| Know: Con Artistry                        |   30 |
+| Know: Criminals                           |   40 |
 
 </div>
 </blockquote>
@@ -2533,11 +2629,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Survivor
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>80–99</sort-n>}**
 
@@ -2562,20 +2658,22 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                     |      |
-| :------------------ | ---: |
-| c-rep               |   10 |
-| g-rep               |   10 |
-| Deceive             |   30 |
-| Fray                |   20 |
-| Guns                |   40 |
-| Kinesics            |   40 |
-| Melee               |   20 |
-| Perceive            |   20 |
-| Persuade            |   20 |
-| Know: Black Markets |   20 |
-| Know: Criminals     |   60 |
-| Know: Security Ops  |   30 |
+<sort>
+
+|                                   |      |
+| :-------------------------------- | ---: |
+| c-rep                             |   10 |
+| g-rep                             |   10 |
+| <sort-restart>Deceive             |   30 |
+| Fray                              |   20 |
+| Guns                              |   40 |
+| Kinesics                          |   40 |
+| Melee                             |   20 |
+| Perceive                          |   20 |
+| Persuade                          |   20 |
+| <sort-restart>Know: Black Markets |   20 |
+| Know: Criminals                   |   60 |
+| Know: Security Ops                |   30 |
 
 </div>
 </blockquote>
@@ -2596,11 +2694,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Escapee
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>00–24</sort-n>}**
 
@@ -2624,19 +2722,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                     |      |
-| :------------------ | ---: |
-| @-rep               |   10 |
-| Athletics           |   40 |
-| Fray                |   20 |
-| Deceive             |   25 |
-| Infiltrate          |   25 |
-| Kinesics            |   30 |
-| Perceive            |   40 |
-| Provoke             |   20 |
-| Survival            |   20 |
-| Know: Smuggling     |   40 |
-| Know: Uplift Rights |   50 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| @-rep                         |   10 |
+| <sort-restart>Athletics       |   40 |
+| Fray                          |   20 |
+| Deceive                       |   25 |
+| Infiltrate                    |   25 |
+| Kinesics                      |   30 |
+| Perceive                      |   40 |
+| Provoke                       |   20 |
+| Survival                      |   20 |
+| <sort-restart>Know: Smuggling |   40 |
+| Know: Uplift Rights           |   50 |
 
 </div>
 </blockquote>
@@ -2644,11 +2744,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Feral
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>25–44</sort-n>}**
 
@@ -2672,21 +2772,23 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                            |      |
-| :------------------------- | ---: |
-| c-rep                      |   10 |
-| Danger Instinct trait      |
-| Domineering Impulses trait |
-| Emotive Blindness trait    |
-| Athletics                  |   40 |
-| Fray                       |   40 |
-| Kinesics                   |   10 |
-| Melee                      |   40 |
-| Perceive                   |   40 |
-| Provoke                    |   35 |
-| Survival                   |   30 |
-| Know: Smart Animals        |   30 |
-| Know: Uplift Culture       |   60 |
+<sort>
+
+|                                     |      |
+| :---------------------------------- | ---: |
+| c-rep                               |   10 |
+| <sort-restart>Danger Instinct trait |
+| Domineering Impulses trait          |
+| Emotive Blindness trait             |
+| <sort-restart>Athletics             |   40 |
+| Fray                                |   40 |
+| Kinesics                            |   10 |
+| Melee                               |   40 |
+| Perceive                            |   40 |
+| Provoke                             |   35 |
+| Survival                            |   30 |
+| <sort-restart>Know: Smart Animals   |   30 |
+| Know: Uplift Culture                |   60 |
 
 </div>
 </blockquote>
@@ -2694,11 +2796,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Lab Rat
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>45–69</sort-n>}**
 
@@ -2722,21 +2824,23 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                                |      |
-| :----------------------------- | ---: |
-| c-rep                          |   10 |
-| Submissiveness (Level 1) trait |
-| Athletics                      |   40 |
-| Deceive                        |   10 |
-| Fray                           |   20 |
-| Interface                      |   25 |
-| Kinesics                       |   30 |
-| Perceive                       |   40 |
-| Provoke                        |   20 |
-| Survival                       |   20 |
-| Know: Genetics                 |   20 |
-| Know: Service Work             |   60 |
-| Know: Uplift Rights            |   30 |
+<sort>
+
+|                                              |      |
+| :------------------------------------------- | ---: |
+| c-rep                                        |   10 |
+| <sort-restart>Submissiveness (Level 1) trait |
+| <sort-restart>Athletics                      |   40 |
+| Deceive                                      |   10 |
+| Fray                                         |   20 |
+| Interface                                    |   25 |
+| Kinesics                                     |   30 |
+| Perceive                                     |   40 |
+| Provoke                                      |   20 |
+| Survival                                     |   20 |
+| <sort-restart>Know: Genetics                 |   20 |
+| Know: Service Work                           |   60 |
+| Know: Uplift Rights                          |   30 |
 
 </div>
 </blockquote>
@@ -2744,11 +2848,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="multi-column balanced"><div>
+<div class="spread-line">
 
 ### Model Specimen
 
-</div><div class="right-aligned no-wrap">
+<div class="no-wrap">
 
 **{<sort-n d100=rnd>70–99</sort-n>}**
 
@@ -2772,19 +2876,21 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 </div><div>
 
-|                      |      |
-| :------------------- | ---: |
-| c-rep                |   10 |
-| Athletics            |   40 |
-| Fray                 |   20 |
-| Interface            |   30 |
-| Kinesics             |   30 |
-| Perceive             |   40 |
-| Provoke              |   20 |
-| Survival             |   20 |
-| Know: Sociology      |   40 |
-| Know: Uplift Culture |   40 |
-| Know: Uplift Rights  |   30 |
+<sort>
+
+|                               |      |
+| :---------------------------- | ---: |
+| c-rep                         |   10 |
+| <sort-restart>Athletics       |   40 |
+| Fray                          |   20 |
+| Interface                     |   30 |
+| Kinesics                      |   30 |
+| Perceive                      |   40 |
+| Provoke                       |   20 |
+| Survival                      |   20 |
+| <sort-restart>Know: Sociology |   40 |
+| Know: Uplift Culture          |   40 |
+| Know: Uplift Rights           |   30 |
 
 </div>
 </blockquote>

@@ -15,7 +15,7 @@
   text-align: right;
 }
 
-.nowrap {
+.no-wrap {
   white-space: nowrap;
 }
 
@@ -177,6 +177,20 @@ h2 {
   margin-bottom: 0;
 }
 
+.spread-line {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+}
+
+.spread-line > :first-child {
+  text-align: left;
+}
+
+.spread-line > :last-child {
+  text-align: right;
+}
+
 .multi-column {
   display: flex;
 }
@@ -191,6 +205,11 @@ h2 {
 
 .multi-column > .vcenter {
   align-self: center;
+}
+
+.multi-column.balanced > * {
+  width: fit-content;
+  flex-grow: 1;
 }
 
 /* eclipse phase aptitude superscripts */
