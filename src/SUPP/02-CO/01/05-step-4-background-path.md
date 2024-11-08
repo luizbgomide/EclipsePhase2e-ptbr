@@ -57,13 +57,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Lunar
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–14</sort-n> ❮**
+**❯ <sort-n d100=colonist>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -110,13 +110,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Martian
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>15–39</sort-n> ❮**
+**❯ <sort-n d100=colonist>15–39</sort-n> ❮**
 
 </div></div>
 
@@ -162,13 +162,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Orbital
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–54</sort-n> ❮**
+**❯ <sort-n d100=colonist>40–54</sort-n> ❮**
 
 </div></div>
 
@@ -214,13 +214,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Rimward Colonist
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>55–64</sort-n> ❮**
+**❯ <sort-n d100=colonist>55–64</sort-n> ❮**
 
 </div></div>
 
@@ -265,13 +265,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Rural Martian
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>65–79</sort-n> ❮**
+**❯ <sort-n d100=colonist>65–79</sort-n> ❮**
 
 </div></div>
 
@@ -316,13 +316,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Spacer
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–89</sort-n> ❮**
+**❯ <sort-n d100=colonist>80–89</sort-n> ❮**
 
 </div></div>
 
@@ -368,13 +368,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Sunward Colonist
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>90–99</sort-n> ❮**
+**❯ <sort-n d100=colonist>90–99</sort-n> ❮**
 
 </div></div>
 
@@ -432,13 +432,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Ascendor
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
+**❯ <sort-n d100=enclaver>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -483,13 +483,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Corporate Drifter
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
+**❯ <sort-n d100=enclaver>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -533,13 +533,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Corporate Favorite
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
+**❯ <sort-n d100=enclaver>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -583,13 +583,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Inheritor
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
+**❯ <sort-n d100=enclaver>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -634,13 +634,13 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Opportunist
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
+**❯ <sort-n d100=enclaver>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -700,13 +700,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Nomad
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
+**❯ <sort-n d100=freelancer>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -751,13 +751,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Precarious
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
+**❯ <sort-n d100=freelancer>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -803,13 +803,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Self-Reliant
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
+**❯ <sort-n d100=freelancer>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -853,13 +853,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Steady
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
+**❯ <sort-n d100=freelancer>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -904,13 +904,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Surrounded by Wolves
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
+**❯ <sort-n d100=freelancer>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -969,13 +969,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Breakthrough
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
+**❯ <sort-n d100=hyperelite>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -1020,13 +1020,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Hypercorp Royalty
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
+**❯ <sort-n d100=hyperelite>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -1072,13 +1072,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Media Famous
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
+**❯ <sort-n d100=hyperelite>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1123,13 +1123,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Oligarch Dynasty
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
+**❯ <sort-n d100=hyperelite>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -1175,13 +1175,13 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Space Entrepreneur
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
+**❯ <sort-n d100=hyperelite>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -1241,13 +1241,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Drone Operator
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–14</sort-n> ❮**
+**❯ <sort-n d100=indenture>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -1292,13 +1292,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Educator
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>15–24</sort-n> ❮**
+**❯ <sort-n d100=indenture>15–24</sort-n> ❮**
 
 </div></div>
 
@@ -1343,13 +1343,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Emancipated
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>25–39</sort-n> ❮**
+**❯ <sort-n d100=indenture>25–39</sort-n> ❮**
 
 </div></div>
 
@@ -1394,13 +1394,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Labor Camps
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
+**❯ <sort-n d100=indenture>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1448,13 +1448,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Private Staff
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–69</sort-n> ❮**
+**❯ <sort-n d100=indenture>60–69</sort-n> ❮**
 
 </div></div>
 
@@ -1499,13 +1499,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Vac Worker
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>70–84</sort-n> ❮**
+**❯ <sort-n d100=indenture>70–84</sort-n> ❮**
 
 </div></div>
 
@@ -1552,13 +1552,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Virtual Worker
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>85–99</sort-n> ❮**
+**❯ <sort-n d100=indenture>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1615,13 +1615,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Anomaly
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–09</sort-n> ❮**
+**❯ <sort-n d100=infolife>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -1666,13 +1666,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Emergent Uplift
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>10–24</sort-n> ❮**
+**❯ <sort-n d100=infolife>10–24</sort-n> ❮**
 
 </div></div>
 
@@ -1717,13 +1717,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Humanities AGI
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>25–49</sort-n> ❮**
+**❯ <sort-n d100=infolife>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -1769,13 +1769,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Machine AGI
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>50–74</sort-n> ❮**
+**❯ <sort-n d100=infolife>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -1819,13 +1819,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Part Human
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>75–84</sort-n> ❮**
+**❯ <sort-n d100=infolife>75–84</sort-n> ❮**
 
 </div></div>
 
@@ -1870,13 +1870,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Research AGI
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>85–99</sort-n> ❮**
+**❯ <sort-n d100=infolife>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1932,13 +1932,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Drifter
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–24</sort-n> ❮**
+**❯ <sort-n d100=isolate>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -1985,13 +1985,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Religious Sect
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>25–49</sort-n> ❮**
+**❯ <sort-n d100=isolate>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -2036,13 +2036,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Separatist
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>50–74</sort-n> ❮**
+**❯ <sort-n d100=isolate>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -2089,13 +2089,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Survivalist
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>75–99</sort-n> ❮**
+**❯ <sort-n d100=isolate>75–99</sort-n> ❮**
 
 </div></div>
 
@@ -2152,13 +2152,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Alien Mind
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–09</sort-n> ❮**
+**❯ <sort-n d100=lost>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -2202,13 +2202,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Disturbed Child
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>10–34</sort-n> ❮**
+**❯ <sort-n d100=lost>10–34</sort-n> ❮**
 
 </div></div>
 
@@ -2254,13 +2254,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Long Past Normal
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>35–59</sort-n> ❮**
+**❯ <sort-n d100=lost>35–59</sort-n> ❮**
 
 </div></div>
 
@@ -2303,13 +2303,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Masked Monster
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
+**❯ <sort-n d100=lost>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2356,13 +2356,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Twisted Experiment
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
+**❯ <sort-n d100=lost>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2421,13 +2421,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Criminal
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
+**❯ <sort-n d100=underclass>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -2474,13 +2474,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Radical
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
+**❯ <sort-n d100=underclass>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -2525,13 +2525,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Refugee
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
+**❯ <sort-n d100=underclass>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -2575,13 +2575,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Street Rat
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
+**❯ <sort-n d100=underclass>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2629,13 +2629,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Survivor
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
+**❯ <sort-n d100=underclass>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2694,13 +2694,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Escapee
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>00–24</sort-n> ❮**
+**❯ <sort-n d100=uplift>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -2744,13 +2744,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Feral
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>25–44</sort-n> ❮**
+**❯ <sort-n d100=uplift>25–44</sort-n> ❮**
 
 </div></div>
 
@@ -2796,13 +2796,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Lab Rat
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>45–69</sort-n> ❮**
+**❯ <sort-n d100=uplift>45–69</sort-n> ❮**
 
 </div></div>
 
@@ -2848,13 +2848,13 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="spread-line">
+<div class="line-spread">
 
 ### Model Specimen
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=rnd>70–99</sort-n> ❮**
+**❯ <sort-n d100=uplift>70–99</sort-n> ❮**
 
 </div></div>
 

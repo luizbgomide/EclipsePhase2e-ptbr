@@ -181,21 +181,21 @@ h2 {
   margin-bottom: 0;
 }
 
-.spread-line {
+.line-spread {
   display: flex;
   justify-content: space-between;
   margin: 1em 0;
 }
 
-.spread-line > :first-child {
+.line-spread > :first-child {
   text-align: left;
 }
 
-.spread-line > :last-child {
+.line-spread > :last-child {
   text-align: right;
 }
 
-.spread-line > * {
+.line-spread > * {
   margin-top: 0;
 }
 
