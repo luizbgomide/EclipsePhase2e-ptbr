@@ -46,8 +46,15 @@ In most cases, your starting morph indicates the one with which you were born. C
 <sort>
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Colonist ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.**
 
@@ -421,8 +428,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Enclaver ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
@@ -689,8 +703,15 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Freelancer ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
@@ -958,8 +979,15 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Hyperelite ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You live in the top percent, with abundant wealth and resources.**
 
@@ -1230,8 +1258,15 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Indenture ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
@@ -1604,8 +1639,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Infolife ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You are an AGI, a digital consciousness born of software code.**
 
@@ -1921,8 +1963,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Isolate ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.**
 
@@ -2141,8 +2190,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Lost ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters.**
 
@@ -2410,8 +2466,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Underclass ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You’re a veteran of Earth’s slums, favelas, and flooded cities.**
 
@@ -2683,8 +2746,15 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Uplift ❮d100❯
+
+<div class="no-wrap">
+
+**❯ <sort-n d10=background>1</sort-n> ❮**
+
+</div></div>
 
 **You are an uplifted animal raised to human levels of intelligence.**
 

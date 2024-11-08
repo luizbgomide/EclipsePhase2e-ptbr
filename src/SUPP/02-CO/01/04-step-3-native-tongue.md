@@ -24,7 +24,7 @@ Your native language is an indication of your character’s ethnic background an
 
 <sort>
 
-| d100<sort-n d100> | Language<sort-by> |
+| d100<sort-n n00> | Language<sort-by> |
 | :---------------: | :---------------- |
 |       00–05       | Arabic            |
 |       06–08       | Bengali           |

@@ -12,14 +12,14 @@ const sortBlockTag = "<sort-block>"; // delimits blocks that are joined, trimmed
 // those should be placed on the table header cells
 const sortTableByTag = "<sort-by>"; // on table column header: columns to use for sorting
 const sortTableCellsTag = "<sort-cells>"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
-const sortTableNumberTagRE = /<sort-n (d10|d100|count)(?: offset=(\d+))?>/; // on table column header: distribute values based of d10 (1-0) or d100 (00-99), they aren't affected by restarts
+const sortTableNumberTagRE = /<sort-n ([nd]\d+)(?: offset=(\d+))?>/; // on table column header: distribute values based of dN (1-N) or d00 (00-99), they aren't affected by restarts
 const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 
 // those should be placed on the item affected by them
 const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
 const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
 const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
-const sortNumberTagRE = /(<sort-n (d10|d100|count)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?(<\/sort-n>)/g;
+const sortNumberTagRE = /(<sort-n ([nd]\d+)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?(<\/sort-n>)/g;
 const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
 const tableColumnRE = /(?<!\\)\|/;
 const rollDash = '–';
@@ -119,11 +119,13 @@ function resortContent(lines) {
                 tableCellCols.push(index);
             const numberTagMatch = col.match(sortTableNumberTagRE);
             if (numberTagMatch) {
-                const countSettings = { type: numberTagMatch[1], value: 0 };
-                if (numberTagMatch[2]) {
-                    countSettings.value += parseInt(numberTagMatch[2]);
-                }
-                tableNumberCols.set(index, countSettings);
+                const type = numberTagMatch[1];
+                const mod = parseInt(type.substring(1));
+                const size = mod === 0 ? type.length - 1 : 1;
+                const value = (type[0] === "d" ? 1 : 0) + (numberTagMatch[2] ? parseInt(numberTagMatch[2]) : 0);
+                const numberSettings = { type, mod, size, value };
+                tableNumberCols.set(index, numberSettings);
+                console.log(numberSettings)
             }
         }
         tableByCol = cols.findIndex(value => value.includes(sortTableByTag));
@@ -192,26 +194,22 @@ function resortContent(lines) {
             let sortedLines = unsortedBlocks.flat();
             if (tableNumberCols.size > 0) {
                 let tableRows = sortedLines.map(row => row.split(tableColumnRE));
-                for (const [colIndex, countSettings] of tableNumberCols) {
+                for (const [colIndex, numberSettings] of tableNumberCols) {
                     for (const row of tableRows) {
                         const cell = row[colIndex];
                         const rollMatch = stripHtml(cell).match(rollCellRE);
                         if (rollMatch === null)
                             continue;
                         let range = rollMatch[2] ? Number.parseInt(rollMatch[2]) - Number.parseInt(rollMatch[1]) : 0;
-                        if (Number.parseInt(rollMatch[2]) === 0 && countSettings.type === "d10")
-                            range += 10; // range in formate n-0
-
-                        const modValue = countSettings.type === "d100" ? 100 :
-                            countSettings.type === "d10" ? 10 : Infinity;
-                        const zeroIndex = countSettings.type !== "d100" ? 1 : 0;
-                        const startValue = (countSettings.value % modValue) + zeroIndex;
+                        let startValue = numberSettings.value % (numberSettings.mod === 0 ? 10 ** numberSettings.size : numberSettings.mod);
+                        if (startValue === 0 && numberSettings.mod !== 0) {
+                            startValue = numberSettings.mod;
+                        }
                         const endValue = startValue + range;
-                        const numberWidth = countSettings.type === "d100" ? 2 : 1;
-                        const newRollValues = startValue.toString().padStart(numberWidth, '0')
-                            .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberWidth, '0') : "");
+                        const newRollValues = startValue.toString().padStart(numberSettings.size, '0')
+                            .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberSettings.size, '0') : "");
                         row[colIndex] = newRollValues.padStart((cell.length + newRollValues.length) / 2).padEnd(cell.length);
-                        countSettings.value += 1 + range;
+                        numberSettings.value = endValue + 1;
                     }
                 }
                 sortedLines = tableRows.map(row => row.join("|"));
@@ -219,6 +217,7 @@ function resortContent(lines) {
 
             // checks for closed number tags in the text
             let numberValues = new Map();
+            // TODO redo this as the col type
             sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, id, offset, start, end, closeTag) => {
                 let range = end ? Number.parseInt(end) - Number.parseInt(start) : 0;
                 if (range < 0 && type === "d10")
