@@ -18,7 +18,7 @@ The Fall affected everyone in _Eclipse Phase_. You are part of the small but luc
 
 <blockquote class="table">
 
-## Fall Event \[d100\]
+## Fall Event ❮d100❯
 
 <div class="tnw1">
 

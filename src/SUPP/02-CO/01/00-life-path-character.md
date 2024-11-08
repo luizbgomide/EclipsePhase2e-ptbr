@@ -58,5 +58,5 @@
 - [Sleight Tables](21-sleight-tables.md)
 - [Faction/Rep Tables](23-faction-rep-tables.md)
 - [Skill Tables](24-skill-tables.md)
-  - [Random Skills \[d100\]](24-skill-tables.md#random-skills-d100)
-  - [Know Fields \[d100\]](24-skill-tables.md#know-fields-d100)
+  - [Random Skills ❮d100❯](24-skill-tables.md#random-skills-d100)
+  - [Know Fields ❮d100❯](24-skill-tables.md#know-fields-d100)

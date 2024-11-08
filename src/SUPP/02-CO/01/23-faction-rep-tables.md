@@ -2,7 +2,7 @@
 
 <blockquote class="table">
 
-## Faction \[d100\]
+## Faction ❮d100❯
 
 <div class="tnw1">
 
@@ -36,7 +36,7 @@
 
 <blockquote class="table">
 
-## Rep Networks \[d100\]
+## Rep Networks ❮d100❯
 
 <div class="tnw1">
 

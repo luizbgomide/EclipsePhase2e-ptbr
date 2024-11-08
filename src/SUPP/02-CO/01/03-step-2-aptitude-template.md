@@ -20,7 +20,7 @@ Were you a rough-and-tumble type from birth? Did you always have the gleam of cu
 
 <blockquote class=table>
 
-## Random Aptitude Template \[d10\]
+## Random Aptitude Template ❮d10❯
 
 <div class="tnw1 tnw2">
 

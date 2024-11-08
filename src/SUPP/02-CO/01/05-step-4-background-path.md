@@ -24,7 +24,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 <blockquote class="table">
 
-## Random Background Path \[d10\]
+## Random Background Path ❮d10❯
 
 <sort>
 
@@ -47,7 +47,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 <sort-block>
 <blockquote class="framed-table">
 
-## Colonist \[d100\]
+## Colonist ❮d100❯
 
 **You are an original settler of Earth orbit, Luna, Mars, or a smaller outpost.**
 
@@ -63,7 +63,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–14</sort-n>}**
+**❯ <sort-n d100=rnd>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -80,7 +80,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–9 Splicer
   - 10 Synth
@@ -116,7 +116,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>15–39</sort-n>}**
+**❯ <sort-n d100=rnd>15–39</sort-n> ❮**
 
 </div></div>
 
@@ -133,7 +133,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Ruster
   - 6–9 Splicer
   - 10 Alpiner
@@ -168,7 +168,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–54</sort-n>}**
+**❯ <sort-n d100=rnd>40–54</sort-n> ❮**
 
 </div></div>
 
@@ -185,7 +185,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–9 Splicer
   - 10 Bouncer
@@ -220,7 +220,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>55–64</sort-n>}**
+**❯ <sort-n d100=rnd>55–64</sort-n> ❮**
 
 </div></div>
 
@@ -237,7 +237,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Splicer
   - 6–9 Bouncer
   - 10 Hazer
@@ -271,7 +271,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>65–79</sort-n>}**
+**❯ <sort-n d100=rnd>65–79</sort-n> ❮**
 
 </div></div>
 
@@ -288,7 +288,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–6 Ruster
   - 7–9 Splicer
   - 10 Alpiner
@@ -322,7 +322,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–89</sort-n>}**
+**❯ <sort-n d100=rnd>80–89</sort-n> ❮**
 
 </div></div>
 
@@ -339,7 +339,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Splicer
   - 6–9 Hibernoid
   - 10 Bouncer
@@ -374,7 +374,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>90–99</sort-n>}**
+**❯ <sort-n d100=rnd>90–99</sort-n> ❮**
 
 </div></div>
 
@@ -391,7 +391,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–3 Flat
   - 4–9 Splicer
   - 10 Exalt
@@ -422,7 +422,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="framed-table">
 
-## Enclaver \[d100\]
+## Enclaver ❮d100❯
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
@@ -438,7 +438,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–19</sort-n>}**
+**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -455,7 +455,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–8 Splicer
   - 9–10 Exalt
 
@@ -489,7 +489,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>20–39</sort-n>}**
+**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -539,7 +539,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–59</sort-n>}**
+**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -589,7 +589,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–79</sort-n>}**
+**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -640,7 +640,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–99</sort-n>}**
+**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -657,7 +657,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–10 Exalt
 
@@ -690,7 +690,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 <sort-block>
 <blockquote class="framed-table">
 
-## Freelancer \[d100\]
+## Freelancer ❮d100❯
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
@@ -706,7 +706,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–19</sort-n>}**
+**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -723,7 +723,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–10 Splicer
 
@@ -757,7 +757,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>20–39</sort-n>}**
+**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -774,7 +774,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–10 Splicer
 
@@ -809,7 +809,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–59</sort-n>}**
+**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -859,7 +859,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–79</sort-n>}**
+**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -876,7 +876,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–10 Splicer
 
@@ -910,7 +910,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–99</sort-n>}**
+**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -927,7 +927,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–10 Splicer
 
@@ -959,7 +959,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="framed-table">
 
-## Hyperelite \[d100\]
+## Hyperelite ❮d100❯
 
 **You live in the top percent, with abundant wealth and resources.**
 
@@ -975,7 +975,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–19</sort-n>}**
+**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -992,7 +992,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–2 Exalt
   - 3–7 Menton
   - 8–10 Olympian
@@ -1026,7 +1026,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>20–39</sort-n>}**
+**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -1043,7 +1043,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–2 Splicer
   - 3–6 Exalt
   - 7–8 Menton
@@ -1078,7 +1078,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–59</sort-n>}**
+**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1095,7 +1095,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–2 Exalt
   - 3–6 Olympian
   - 7–10 Sylph
@@ -1129,7 +1129,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–79</sort-n>}**
+**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -1146,7 +1146,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–2 Exalt
   - 3–5 Menton
   - 6–7 Olympian
@@ -1181,7 +1181,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–99</sort-n>}**
+**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -1198,7 +1198,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–2 Exalt
   - 3–6 Menton
   - 7–8 Neotenic
@@ -1231,7 +1231,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 <sort-block>
 <blockquote class="framed-table">
 
-## Indenture \[d100\]
+## Indenture ❮d100❯
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
@@ -1247,7 +1247,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–14</sort-n>}**
+**❯ <sort-n d100=rnd>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -1264,7 +1264,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Digimorph
   - 8–10 Operator
 
@@ -1298,7 +1298,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>15–24</sort-n>}**
+**❯ <sort-n d100=rnd>15–24</sort-n> ❮**
 
 </div></div>
 
@@ -1315,7 +1315,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–10 Digimorph
 
@@ -1349,7 +1349,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>25–39</sort-n>}**
+**❯ <sort-n d100=rnd>25–39</sort-n> ❮**
 
 </div></div>
 
@@ -1366,7 +1366,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Case
   - 7–10 Sylph
 
@@ -1400,7 +1400,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–59</sort-n>}**
+**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1417,7 +1417,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Case
   - 8 Synth
   - 9 Worker Pod
@@ -1454,7 +1454,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–69</sort-n>}**
+**❯ <sort-n d100=rnd>60–69</sort-n> ❮**
 
 </div></div>
 
@@ -1471,7 +1471,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–8 Splicer
   - 9–10 Worker Pod
@@ -1505,7 +1505,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>70–84</sort-n>}**
+**❯ <sort-n d100=rnd>70–84</sort-n> ❮**
 
 </div></div>
 
@@ -1522,7 +1522,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Case
   - 6 Synth
   - 7 Worker Pod
@@ -1558,7 +1558,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>85–99</sort-n>}**
+**❯ <sort-n d100=rnd>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1575,7 +1575,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Neo
   - 8–10 Sage
 
@@ -1605,7 +1605,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 <sort-block>
 <blockquote class="framed-table">
 
-## Infolife \[d100\]
+## Infolife ❮d100❯
 
 **You are an AGI, a digital consciousness born of software code.**
 
@@ -1621,7 +1621,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–09</sort-n>}**
+**❯ <sort-n d100=rnd>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -1638,7 +1638,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Digimorph
   - 6–10 Neo
 
@@ -1672,7 +1672,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>10–24</sort-n>}**
+**❯ <sort-n d100=rnd>10–24</sort-n> ❮**
 
 </div></div>
 
@@ -1689,7 +1689,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Digimorph
   - 6–10 Operator
 
@@ -1723,7 +1723,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>25–49</sort-n>}**
+**❯ <sort-n d100=rnd>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -1740,7 +1740,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Flat
   - 6–9 Splicer
   - 10 Synth
@@ -1775,7 +1775,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>50–74</sort-n>}**
+**❯ <sort-n d100=rnd>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -1792,7 +1792,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Digimorph
   - 6–10 Operator
 
@@ -1825,7 +1825,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>75–84</sort-n>}**
+**❯ <sort-n d100=rnd>75–84</sort-n> ❮**
 
 </div></div>
 
@@ -1842,7 +1842,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Digimorph
   - 6–8 Neo
   - 9–10 Sage
@@ -1876,7 +1876,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>85–99</sort-n>}**
+**❯ <sort-n d100=rnd>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1893,7 +1893,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–5 Digimorph
   - 6–10 Sage
 
@@ -1922,7 +1922,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="framed-table">
 
-## Isolate \[d100\]
+## Isolate ❮d100❯
 
 **You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.**
 
@@ -1938,7 +1938,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–24</sort-n>}**
+**❯ <sort-n d100=rnd>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -1955,7 +1955,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–9 Splicer
   - 10 Bouncer
@@ -1991,7 +1991,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>25–49</sort-n>}**
+**❯ <sort-n d100=rnd>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -2042,7 +2042,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>50–74</sort-n>}**
+**❯ <sort-n d100=rnd>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -2059,7 +2059,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–9 Splicer
   - 10 Bouncer
@@ -2095,7 +2095,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>75–99</sort-n>}**
+**❯ <sort-n d100=rnd>75–99</sort-n> ❮**
 
 </div></div>
 
@@ -2112,7 +2112,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–8 Flat
   - 9–10 Splicer
 
@@ -2142,7 +2142,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="framed-table">
 
-## Lost \[d100\]
+## Lost ❮d100❯
 
 **You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters.**
 
@@ -2158,7 +2158,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–09</sort-n>}**
+**❯ <sort-n d100=rnd>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -2208,7 +2208,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>10–34</sort-n>}**
+**❯ <sort-n d100=rnd>10–34</sort-n> ❮**
 
 </div></div>
 
@@ -2260,7 +2260,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>35–59</sort-n>}**
+**❯ <sort-n d100=rnd>35–59</sort-n> ❮**
 
 </div></div>
 
@@ -2309,7 +2309,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–79</sort-n>}**
+**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2362,7 +2362,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–99</sort-n>}**
+**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2411,7 +2411,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="framed-table">
 
-## Underclass \[d100\]
+## Underclass ❮d100❯
 
 **You’re a veteran of Earth’s slums, favelas, and flooded cities.**
 
@@ -2427,7 +2427,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–19</sort-n>}**
+**❯ <sort-n d100=rnd>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -2444,7 +2444,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–9 Splicer
   - 10 Exalt
@@ -2480,7 +2480,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>20–39</sort-n>}**
+**❯ <sort-n d100=rnd>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -2497,7 +2497,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–7 Flat
   - 8–10 Splicer
 
@@ -2531,7 +2531,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>40–59</sort-n>}**
+**❯ <sort-n d100=rnd>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -2548,7 +2548,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–9 Flat
   - 10 Splicer
 
@@ -2581,7 +2581,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>60–79</sort-n>}**
+**❯ <sort-n d100=rnd>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2598,7 +2598,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–8 Flat
   - 9 Splicer
   - 10 Exalt
@@ -2635,7 +2635,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>80–99</sort-n>}**
+**❯ <sort-n d100=rnd>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2652,7 +2652,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 ---
 
-- **Morph \[d10\]:**
+- **Morph ❮d10❯:**
   - 1–8 Flat
   - 9–10 Splicer
 
@@ -2684,7 +2684,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 <sort-block>
 <blockquote class="framed-table">
 
-## Uplift \[d100\]
+## Uplift ❮d100❯
 
 **You are an uplifted animal raised to human levels of intelligence.**
 
@@ -2700,7 +2700,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>00–24</sort-n>}**
+**❯ <sort-n d100=rnd>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -2750,7 +2750,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>25–44</sort-n>}**
+**❯ <sort-n d100=rnd>25–44</sort-n> ❮**
 
 </div></div>
 
@@ -2802,7 +2802,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>45–69</sort-n>}**
+**❯ <sort-n d100=rnd>45–69</sort-n> ❮**
 
 </div></div>
 
@@ -2854,7 +2854,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**{<sort-n d100=rnd>70–99</sort-n>}**
+**❯ <sort-n d100=rnd>70–99</sort-n> ❮**
 
 </div></div>
 

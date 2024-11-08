@@ -2,7 +2,7 @@
 
 <blockquote class="table">
 
-## Morph Type \[d100\]
+## Morph Type ❮d100❯
 
 <div class="tnw1">
 
@@ -20,7 +20,7 @@
 
 <blockquote class="table">
 
-## Biomorphs \[d100\]
+## Biomorphs ❮d100❯
 
 <div class="tnw1">
 
@@ -71,7 +71,7 @@
 
 <blockquote class="table">
 
-## Uplift Biomorphs \[d100\]
+## Uplift Biomorphs ❮d100❯
 
 <div class="tnw1">
 
@@ -95,7 +95,7 @@
 
 <blockquote class="table">
 
-## Pod Biomorphs \[d100\]
+## Pod Biomorphs ❮d100❯
 
 <div class="tnw1">
 
@@ -131,7 +131,7 @@
 
 <blockquote class="table">
 
-## Synthmorphs \[d100\]
+## Synthmorphs ❮d100❯
 
 <div class="tnw1">
 
@@ -188,7 +188,7 @@
 
 <blockquote class="table">
 
-## Flexbot Modules \[d100\]
+## Flexbot Modules ❮d100❯
 
 <div class="tnw1">
 
@@ -209,7 +209,7 @@
 
 <blockquote class="table">
 
-## Info/Core Morphs \[d100\]
+## Info/Core Morphs ❮d100❯
 
 <div class="tnw1">
 
@@ -233,7 +233,7 @@
 
 <blockquote class="table">
 
-## Axles \[d100\]
+## Axles ❮d100❯
 
 <div class="tnw1">
 

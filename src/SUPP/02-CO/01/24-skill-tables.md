@@ -1,6 +1,6 @@
 # Skill Tables
 
-## Random Skills \[d100\]
+## Random Skills ❮d100❯
 
 <blockquote class="table">
 
@@ -110,7 +110,7 @@
 </div>
 </blockquote>
 
-## Know Fields \[d100\]
+## Know Fields ❮d100❯
 
 <blockquote class="table">
 

@@ -18,7 +18,7 @@ This step deals with more recent changes to your character’s life. Did you run
 
 <blockquote class="table">
 
-## Post-Fall Event \[d100\]
+## Post-Fall Event ❮d100❯
 
 <div class="tnw1">
 

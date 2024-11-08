@@ -14,9 +14,9 @@ For the rest of the steps, you roll on an _event table_ that details something t
 
 <blockquote class="framed-table centered">
 
-**\[d100\] Square brackets indicate rolls to make.**
+**❮d100❯ chevrons indicate rolls to make.**
 
-**\{1\} Curly brackets indicate die roll results.**
+**❯ 1 ❮ inverted chevrons die roll results.**
 
 </blockquote>
 
@@ -86,7 +86,7 @@ You should never have more than 3 motivations; if you want to add a new one, you
 
 <blockquote class="table">
 
-### Random Motivations \[d100\]
+### Random Motivations ❮d100❯
 
 <div class="tnw1">
 

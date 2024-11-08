@@ -18,7 +18,7 @@ Your native language is an indication of your character’s ethnic background an
 
 <blockquote class="table">
 
-## Random Language \[d100\]
+## Random Language ❮d100❯
 
 <div class="tnw1">
 

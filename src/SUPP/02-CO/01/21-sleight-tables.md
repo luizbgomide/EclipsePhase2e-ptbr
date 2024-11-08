@@ -2,7 +2,7 @@
 
 <blockquote class="table">
 
-## Type of Sleight \[d10\]
+## Type of Sleight ❮d10❯
 
 <div class="tnw1">
 
@@ -16,7 +16,7 @@
 
 <blockquote class="table">
 
-## Psi-Chi Sleights \[d100\]
+## Psi-Chi Sleights ❮d100❯
 
 <div class="tnw1">
 
@@ -48,7 +48,7 @@
 
 <blockquote class="table">
 
-## Psi-Gamma Sleights \[d100\]
+## Psi-Gamma Sleights ❮d100❯
 
 <div class="tnw1">
 
@@ -97,7 +97,7 @@
 
 <blockquote class="table">
 
-## Watts-Macleod Sub-Strains \[d100\]
+## Watts-Macleod Sub-Strains ❮d100❯
 
 <div class="tnw1">
 
@@ -117,7 +117,7 @@
 
 <blockquote class="table">
 
-## Disorders \[d100\]
+## Disorders ❮d100❯
 
 <div class="tnw1">
 

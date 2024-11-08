@@ -20,7 +20,7 @@ For younger characters, this step represents only a handful of years immediately
 
 <blockquote class="table">
 
-## Pre-Fall Event \[d100\]
+## Pre-Fall Event ❮d100❯
 
 <div class="tnw1">
 

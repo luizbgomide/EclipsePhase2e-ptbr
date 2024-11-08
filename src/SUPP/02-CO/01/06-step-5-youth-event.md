@@ -22,7 +22,7 @@ This step introduces an incident or ongoing situation that shapes your early lif
 
 <blockquote class="table">
 
-## Youth Event \[d100\]
+## Youth Event ❮d100❯
 
 <div class="tnw1">
 

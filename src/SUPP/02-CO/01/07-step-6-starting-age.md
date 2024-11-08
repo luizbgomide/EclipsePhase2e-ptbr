@@ -22,7 +22,7 @@ If you acquired the Uplift background, your character’s age may not exceed 50.
 
 <blockquote class="table">
 
-## Age \[d100\]
+## Age ❮d100❯
 
 <div class="tnw1">
 
@@ -43,7 +43,7 @@ If you acquired the Uplift background, your character’s age may not exceed 50.
 
 <blockquote class="table">
 
-## Advanced Age \[d10\]
+## Advanced Age ❮d10❯
 
 <div class="tnw1">
 

@@ -22,7 +22,7 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 
 <blockquote class="table">
 
-## Faction \[d100\]
+## Faction ❮d100❯
 
 <div class="tnw1">
 

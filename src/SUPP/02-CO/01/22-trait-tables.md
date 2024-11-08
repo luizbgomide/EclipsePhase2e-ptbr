@@ -1,6 +1,6 @@
 <blockquote class="table">
 
-## Traits \[d10\]
+## Traits ❮d10❯
 
 <div class="tnw1">
 
@@ -16,7 +16,7 @@
 
 <blockquote class="table">
 
-## Positive Morph Traits \[d100\]
+## Positive Morph Traits ❮d100❯
 
 <div class="tnw1">
 
@@ -47,7 +47,7 @@
 
 <blockquote class="table">
 
-## Negative Morph Traits \[d100\]
+## Negative Morph Traits ❮d100❯
 
 <div class="tnw1">
 
@@ -101,7 +101,7 @@
 
 <blockquote class="table">
 
-## Positive Ego Traits \[d100\]
+## Positive Ego Traits ❮d100❯
 
 <div class="tnw1">
 
@@ -191,7 +191,7 @@
 
 <blockquote class="table">
 
-## Negative Ego Traits \[d100\]
+## Negative Ego Traits ❮d100❯
 
 <div class="tnw1">
 

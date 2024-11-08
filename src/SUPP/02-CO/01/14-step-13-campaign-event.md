@@ -20,7 +20,7 @@ This event provides backhistory you can use to detail how your character became 
 
 <blockquote class="table">
 
-## Firewall Event \[d100\]
+## Firewall Event ❮d100❯
 
 <div class="tnw1">
 
@@ -93,7 +93,7 @@ This event provides backhistory you can use to detail how your character became 
 
 <blockquote class="table">
 
-## Gatecrashing Event \[d100\]
+## Gatecrashing Event ❮d100❯
 
 <div class="tnw1">
 
@@ -184,7 +184,7 @@ This event provides backhistory you can use to detail how your character became 
 
 <blockquote class="table">
 
-## Crime Event \[d100\]
+## Crime Event ❮d100❯
 
 <div class="tnw1">
 

@@ -14,7 +14,7 @@
 
 <blockquote class="table">
 
-## Story Event \[d100\]
+## Story Event ❮d100❯
 
 <div class="tnw1">
 
