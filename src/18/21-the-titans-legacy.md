@@ -83,16 +83,16 @@ You are inflicted with bizarre fleshy growths. After four hours, your body liter
 GMs can choose which of these are true:
 
 - The TITANs’ war on transhumanity came to an end because they began fighting amongst themselves.
-- The TITANs were recalled by the ETI before fully annihilating transhumanity — but they will be back to finish the job.
+- The TITANs were recalled by the ETI before fully annihilating transhumanity — but they will be back to finish the job.
 - The TITANs uploaded enough minds to meet their needs and moved on to establish a presence in a more hospitable environment.
 - The TITANs ascended to another mode of existence beyond this physical galaxy/universe.
 - The TITANs left because they perceived some other more important, imminent threat.
 - The TITANs remain in a sense, but are locked in a hidden struggle with the Prometheans or some other entity, outside of transhuman comprehension.
-- The Factors had a method for deactivating the TITANs, which they used — but it may not be permanent.
+- The Factors had a method for deactivating the TITANs, which they used — but it may not be permanent.
 - Some TITANs remain in the Solar System, hidden away, pursuing their own projects.
 - Not all of the original TITANs were infected. Some may even have disinfected themselves and joined the resistance or gone into hiding.
 - Project Ozma secretly captured at least one TITAN, hoping to use it for their own purposes.
 - During the Fall, the TITANs found and infected other non-TITAN ASIs, assimilating them into the fold.
-- Some of the TITANs’ designers ended up in corporate custody after the Fall — with partial copies of the original TITAN code.
+- Some of the TITANs’ designers ended up in corporate custody after the Fall — with partial copies of the original TITAN code.
 
 </blockquote>

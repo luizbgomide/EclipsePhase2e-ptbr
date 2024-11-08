@@ -47,7 +47,7 @@ It is not uncommon to see people interacting with their AR on the street or in h
 - **Cloak & Dagger:** Spy games and secret missions. Rumors that players are recruited for real-life espionage are unconfirmed but persistent.
 - **Footy:** Football club team play. An expansion pack allows you to sabotage other clubs between matches.
 - **Innsmouth Nights:** The Cthulhu mythos and all its nightmare tentacle goodness lives on.
-- **MechaMash!** Giant fighting robots  —  in space! A popular mod re-skins mecha as kaiju.
+- **MechaMash!** Giant fighting robots  —  in space! A popular mod re-skins mecha as kaiju.
 - **The Weald:** This multiplayer fantasy RPG is set in a unique sylvan artificial world. It is a strong competitor to ongoing classic games such as Wyrmwood and War of Wizards.
 
 </blockquote>

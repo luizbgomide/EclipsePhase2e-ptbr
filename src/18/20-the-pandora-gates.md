@@ -39,14 +39,14 @@ It is possible to instruct a gate not to accept connections from specific or all
 Due to the inherent risks involved, first-in procedures are heavily emphasized and repeatedly drilled in the gatecrashing community, much like firearm safety is among responsible gun owners and armed professionals. These rules are strictly followed with most gate operation centers, and anyone who has received any sort of gatecrashing training will be familiar with the routine.
 
 - Before establishing a connection, create a defensive perimeter around the gate in case anything hostile comes through.
-- Create only a small wormhole on a first link — you never know what might come through.
+- Create only a small wormhole on a first link — you never know what might come through.
 - Always probe the environment on the other side with tethered sensors first.
 - Always send a tethered recon bot through second.
 - Don’t bring blue boxes on first-in missions or where encountering sapient life is a possibility. Transhumanity doesn’t want to accidentally give another species the means to control the gates.
 - Don’t bring anything that could give away the location of the Solar System in the galaxy to an alien species.
 - Map everything. Mapping missiles are your friend.
 - Record everything.
-- Never take your vacsuit off until you are sure the environment is safe — breathable, non-toxic, etc.
+- Never take your vacsuit off until you are sure the environment is safe — breathable, non-toxic, etc.
 - Don’t touch anything unless you’re sure it won’t kill you.
 - If you encounter sapient life, keep contact minimal, be polite and non-threatening, back out quickly, and call in first-contact specialists.
 - Don’t forget to mark and register your claim.
@@ -90,11 +90,11 @@ Anything left stationary on the threshold will be pulled to one side or the othe
 
 GMs determine which if any of the following are true:
 
-- The TITANs (or some other entity) make copies of anyone that passes through a wormhole for their own purposes — the next step in the TITANs’ bid to collect/upload all egos.
+- The TITANs (or some other entity) make copies of anyone that passes through a wormhole for their own purposes — the next step in the TITANs’ bid to collect/upload all egos.
 - Some wormholes lead to pocket or mirror universes.
-- Wormhole transitions are not “real” — everything perceived is part of a vast virtual-reality sim run on a galactic network.
-- There is a gate on Earth — perhaps hidden under the Antarctic.
-- The Factors have a gate on the fringe of the Solar System — though they may be too afraid to use it.
+- Wormhole transitions are not “real” — everything perceived is part of a vast virtual-reality sim run on a galactic network.
+- There is a gate on Earth — perhaps hidden under the Antarctic.
+- The Factors have a gate on the fringe of the Solar System — though they may be too afraid to use it.
 - Project Ozma secretly built the gates, based on communication with the TITANs or some other unknown entity.
 - The ETI has direct control over the gate network; it suits its purpose to have transhumanity occupy a small but limited galactic area.
 - The gate network is simply the next layer in the ETI’s mousetrap efforts. The more transhumanity uses the gates, the stronger the likelihood we will attract its attention.
