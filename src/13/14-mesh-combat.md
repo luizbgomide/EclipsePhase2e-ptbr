@@ -54,22 +54,22 @@ Software (except for account shells) may still be attacked after it has crashed.
 
 <sort>
 
-| Software                                             | Wound Threshold | Durability | Death Rating |
-| :--------------------------------------------------- | :-------------: | :--------: | :----------: |
-| Account Shell                                        |        3        |     15     |      NA      |
-| ALI                                                  |        4        |     20     |      40      |
-| App                                                  |        2        |     10     |      20      |
-| <sort-union><div class="indent">» Firewall App</div> |        6        |     30     |      60      |
-| Cyberbrain                                           |        7        |     35     |      70      |
-| Infomorph                                            |                 |            |              |
-| <sort-union><div class="indent">» Digimorph</div>    |        5        |     25     |      50      |
-| <sort-union><div class="indent">» Agent</div>        |        8        |     40     |      80      |
-| <sort-union><div class="indent">» Ikon</div>         |        6        |     30     |      60      |
-| <sort-union><div class="indent">» Operator</div>     |        7        |     35     |      70      |
-| Operating System                                     |                 |            |              |
-| <sort-union><div class="indent">» Mote</div>         |        4        |     20     |      40      |
-| <sort-union><div class="indent">» Host</div>         |        8        |     40     |      80      |
-| <sort-union><div class="indent">» Server</div>       |       12        |     60     |     120      |
+| Software                                         | Wound Threshold | Durability | Death Rating |
+| :----------------------------------------------- | :-------------: | :--------: | :----------: |
+| Account Shell                                    |        3        |     15     |      NA      |
+| ALI                                              |        4        |     20     |      40      |
+| App                                              |        2        |     10     |      20      |
+| <sort-union><p class="indent">» Firewall App</p> |        6        |     30     |      60      |
+| Cyberbrain                                       |        7        |     35     |      70      |
+| Infomorph                                        |                 |            |              |
+| <sort-union><p class="indent">» Digimorph</p>    |        5        |     25     |      50      |
+| <sort-union><p class="indent">» Agent</p>        |        8        |     40     |      80      |
+| <sort-union><p class="indent">» Ikon</p>         |        6        |     30     |      60      |
+| <sort-union><p class="indent">» Operator</p>     |        7        |     35     |      70      |
+| Operating System                                 |                 |            |              |
+| <sort-union><p class="indent">» Mote</p>         |        4        |     20     |      40      |
+| <sort-union><p class="indent">» Host</p>         |        8        |     40     |      80      |
+| <sort-union><p class="indent">» Server</p>       |       12        |     60     |     120      |
 
 </blockquote>
 

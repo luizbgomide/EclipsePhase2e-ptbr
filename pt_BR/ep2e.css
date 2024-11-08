@@ -72,6 +72,10 @@ table {
   margin-right: 0;
 }
 
+table p {
+  line-height: normal !important;
+}
+
 table td,
 table thead th {
   padding-left: 5px;
@@ -191,6 +195,10 @@ h2 {
   text-align: right;
 }
 
+.spread-line > * {
+  margin-top: 0;
+}
+
 .multi-column {
   display: flex;
 }
@@ -241,6 +249,21 @@ td * {
 
 th:empty {
   padding: 0;
+}
+
+tr:has(hr.table-header) {
+  background: var(--table-header-bg) !important;
+  font-weight: bold;
+}
+
+tr:has(hr.table-split) {
+  background: currentColor !important;
+  font-weight: bold;
+}
+
+hr.table-header,
+hr.table-split {
+  display: none;
 }
 
 .morph-images img {

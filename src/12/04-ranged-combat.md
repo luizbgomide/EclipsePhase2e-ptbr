@@ -46,17 +46,17 @@ Ranged weapons have one or more firing modes that determines their rate of fire:
 
 ### Firing Modes
 
-| Mode                                               | Effect                                                |
-| :------------------------------------------------- | :---------------------------------------------------- |
-| Single Shot                                        | Standard DV                                           |
-| Semi-Auto                                          | Standard DV                                           |
-| Burst Fire                                         |                                                       |
-| <div class="indent">» Single Target</div>          | +10 to hit or +1d10&nbsp;DV                           |
-| <div class="indent">» Two Adjacent Targets</div>   | Standard DV to both                                   |
-| Full Auto                                          |                                                       |
-| <div class="indent">» Single Target</div>          | +30 to hit or +2d10&nbsp;DV                           |
-| <div class="indent">» Three Adjacent Targets</div> | Standard DV to all three                              |
-| <div class="indent">» Suppressive Fire</div>       | Standard DV to anyone moving out of cover within cone |
+| Mode                                           | Effect                                                |
+| :--------------------------------------------- | :---------------------------------------------------- |
+| Single Shot                                    | Standard DV                                           |
+| Semi-Auto                                      | Standard DV                                           |
+| Burst Fire                                     |                                                       |
+| <p class="indent">» Single Target</p>          | +10 to hit or +1d10&nbsp;DV                           |
+| <p class="indent">» Two Adjacent Targets</p>   | Standard DV to both                                   |
+| Full Auto                                      |                                                       |
+| <p class="indent">» Single Target</p>          | +30 to hit or +2d10&nbsp;DV                           |
+| <p class="indent">» Three Adjacent Targets</p> | Standard DV to all three                              |
+| <p class="indent">» Suppressive Fire</p>       | Standard DV to anyone moving out of cover within cone |
 
 </blockquote>
 
@@ -87,28 +87,28 @@ These modifiers apply to ranged combat attacks.
 
 <sort>
 
-| Situation                                                         |                                      Modifiers                                       |
-| :---------------------------------------------------------------- | :----------------------------------------------------------------------------------: |
-| Aim (Quick Action)                                                |                                         +10                                          |
-| <sort-union>Aim (Complex Action)                                  |                                         +30                                          |
-| Attacker Behind/Coming Out of Cover                               |                                         −10                                          |
-| Attacker In Melee                                                 |                                −10 (−30 long weapons)                                |
-| Attacker Not Using Smartlink or Laser Sight                       |                                         −10                                          |
-| Attacker Firing Multiple Weapons At Once                          |                             −20 cumulative (after first)                             |
-| Defender Behind Minor Cover                                       |                                         −10                                          |
-| <sort-union>Defender Behind Moderate Cover                        |                                         −20                                          |
-| <sort-union>Defender Behind Major Cover                           |                                         −30                                          |
-| Defender Hidden                                                   | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
-| Defender Prone and at Range (10+ m)                               |                                         −10                                          |
-| Firing Mode                                                       |                                                                                      |
-| <sort-union><div class="indent">» Single-Shot/Semi-Auto</div>     |                                          +0                                          |
-| <sort-union><div class="indent">» Burst Fire (Concentrated)</div> |                                 +10 or +1d10&nbsp;DV                                 |
-| <sort-union><div class="indent">» Full Auto (Concentrated)</div>  |                                 +30 or +2d10&nbsp;DV                                 |
-| Indirect Fire                                                     |                                         −20                                          |
-| Range                                                             |                                                                                      |
-| <sort-union><div class="indent">» Point-Blank (2&nbsp;m)</div>    |                                         +10                                          |
-| <sort-union><div class="indent">» Close (10&nbsp;m)</div>         |                                          +0                                          |
-| <sort-union><div class="indent">» Range</div>                     |                                         −10                                          |
-| <sort-union><div class="indent">» Beyond Range</div>              |             −10 per Range increment<br>−1d10&nbsp;DV for kinetic weapons             |
+| Situation                                                     |                                      Modifiers                                       |
+| :------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| Aim (Quick Action)                                            |                                         +10                                          |
+| <sort-union>Aim (Complex Action)                              |                                         +30                                          |
+| Attacker Behind/Coming Out of Cover                           |                                         −10                                          |
+| Attacker In Melee                                             |                                −10 (−30 long weapons)                                |
+| Attacker Not Using Smartlink or Laser Sight                   |                                         −10                                          |
+| Attacker Firing Multiple Weapons At Once                      |                             −20 cumulative (after first)                             |
+| Defender Behind Minor Cover                                   |                                         −10                                          |
+| <sort-union>Defender Behind Moderate Cover                    |                                         −20                                          |
+| <sort-union>Defender Behind Major Cover                       |                                         −30                                          |
+| Defender Hidden                                               | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
+| Defender Prone and at Range (10+ m)                           |                                         −10                                          |
+| Firing Mode                                                   |                                                                                      |
+| <sort-union><p class="indent">» Single-Shot/Semi-Auto</p>     |                                          +0                                          |
+| <sort-union><p class="indent">» Burst Fire (Concentrated)</p> |                                 +10 or +1d10&nbsp;DV                                 |
+| <sort-union><p class="indent">» Full Auto (Concentrated)</p>  |                                 +30 or +2d10&nbsp;DV                                 |
+| Indirect Fire                                                 |                                         −20                                          |
+| Range                                                         |                                                                                      |
+| <sort-union><p class="indent">» Point-Blank (2&nbsp;m)</p>    |                                         +10                                          |
+| <sort-union><p class="indent">» Close (10&nbsp;m)</p>         |                                          +0                                          |
+| <sort-union><p class="indent">» Range</p>                     |                                         −10                                          |
+| <sort-union><p class="indent">» Beyond Range</p>              |             −10 per Range increment<br>−1d10&nbsp;DV for kinetic weapons             |
 
 </blockquote>

@@ -137,19 +137,19 @@ These modifiers apply to close-combat attacks.
 
 <sort>
 
-| Situation                                                     |           Modifiers            |
-| :------------------------------------------------------------ | :----------------------------: |
-| Aggressive                                                    | +10 or +1d10&nbsp;DV, −10 Fray |
-| Charging                                                      |       −10, +1d6&nbsp;DV        |
-| Extra Weapon (Attack)                                         |          +1d6&nbsp;DV          |
-| <sort-union>Extra Weapon (Defense)                            |              +10               |
-| Grappling                                                     |                                |
-| <sort-union><div class="indent">» Smaller-Size Opponent</div> |       +20 per size step        |
-| <sort-union><div class="indent">» Larger-Size Opponent</div>  |       −20 per size step        |
-| <sort-union><div class="indent">» 2+ Limbs Advantage</div>    |              +20               |
-| <sort-union><div class="indent">» 2+ Limbs Disadvantage</div> |              −20               |
-| Multiple Targets                                              |      −20 per extra target      |
-| Reach                                                         |          +10 or more           |
-| Touch-Only                                                    |         +20, no damage         |
+| Situation                                                 |           Modifiers            |
+| :-------------------------------------------------------- | :----------------------------: |
+| Aggressive                                                | +10 or +1d10&nbsp;DV, −10 Fray |
+| Charging                                                  |       −10, +1d6&nbsp;DV        |
+| Extra Weapon (Attack)                                     |          +1d6&nbsp;DV          |
+| <sort-union>Extra Weapon (Defense)                        |              +10               |
+| Grappling                                                 |                                |
+| <sort-union><p class="indent">» Smaller-Size Opponent</p> |       +20 per size step        |
+| <sort-union><p class="indent">» Larger-Size Opponent</p>  |       −20 per size step        |
+| <sort-union><p class="indent">» 2+ Limbs Advantage</p>    |              +20               |
+| <sort-union><p class="indent">» 2+ Limbs Disadvantage</p> |              −20               |
+| Multiple Targets                                          |      −20 per extra target      |
+| Reach                                                     |          +10 or more           |
+| Touch-Only                                                |         +20, no damage         |
 
 </blockquote>

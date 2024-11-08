@@ -30,24 +30,24 @@ Whether negotiating or picking fights, it is helpful to know what drives the per
 
 ### Social Modifiers
 
-| Situation                                     |    Modifier    |
-| :-------------------------------------------- | :------------: |
-| NPC Attitude                                  |                |
-| <div class="indent">» Hostile</div>           |      −30       |
-| <div class="indent">» Antagonistic</div>      |      −20       |
-| <div class="indent">» Unfriendly</div>        |      −10       |
-| <div class="indent">» Indifferent</div>       |       +0       |
-| <div class="indent">» Friendly</div>          |      +10       |
-| <div class="indent">» Cooperative</div>       |      +20       |
-| <div class="indent">» Supportive</div>        |      +30       |
-| Request                                       |                |
-| <div class="indent">» Simple/Short</div>      |      +10       |
-| <div class="indent">» Complex/Long</div>      |      −10       |
-| <div class="indent">» Beneficial to NPC</div> |      +30       |
-| <div class="indent">» Dangerous to NPC</div>  |      −30       |
-| Appeal to/Violate NPC’s Motivation            | +/−10 to +/−30 |
-| Social Stigma/Status                          | +/−10 to +/−30 |
-| High Rep (60+) in Favored Network             |      +10       |
+| Situation                                 |    Modifier    |
+| :---------------------------------------- | :------------: |
+| NPC Attitude                              |                |
+| <p class="indent">» Hostile</p>           |      −30       |
+| <p class="indent">» Antagonistic</p>      |      −20       |
+| <p class="indent">» Unfriendly</p>        |      −10       |
+| <p class="indent">» Indifferent</p>       |       +0       |
+| <p class="indent">» Friendly</p>          |      +10       |
+| <p class="indent">» Cooperative</p>       |      +20       |
+| <p class="indent">» Supportive</p>        |      +30       |
+| Request                                   |                |
+| <p class="indent">» Simple/Short</p>      |      +10       |
+| <p class="indent">» Complex/Long</p>      |      −10       |
+| <p class="indent">» Beneficial to NPC</p> |      +30       |
+| <p class="indent">» Dangerous to NPC</p>  |      −30       |
+| Appeal to/Violate NPC’s Motivation        | +/−10 to +/−30 |
+| Social Stigma/Status                      | +/−10 to +/−30 |
+| High Rep (60+) in Favored Network         |      +10       |
 
 </blockquote>
 

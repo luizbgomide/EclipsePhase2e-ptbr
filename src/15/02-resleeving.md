@@ -50,14 +50,14 @@ The Resleeving Stress Test incorporates all of the mentally challenging aspects 
 
 ### Resleeving Tests
 
-| **Integration Test:**                |                                                  SOM Check |
-| :----------------------------------- | ---------------------------------------------------------: |
-| <div class="indent">» Failure:</div> | −10 to all actions for 1 day, +1 day per superior failure. |
+| **Integration Test:**            |                                                  SOM Check |
+| :------------------------------- | ---------------------------------------------------------: |
+| <p class="indent">» Failure:</p> | −10 to all actions for 1 day, +1 day per superior failure. |
 
-| **Resleeving Stress Test:**                                               | WIL Check |
-| :------------------------------------------------------------------------ | --------: |
-| <div class="indent">» Standard alienation/continuity loss/lack:</div>     |    SV 1d6 |
-| <div class="indent">» Remember your death/lengthy lack (3+ months):</div> | SV 1d10/1 |
+| **Resleeving Stress Test:**                                           | WIL Check |
+| :-------------------------------------------------------------------- | --------: |
+| <p class="indent">» Standard alienation/continuity loss/lack:</p>     |    SV 1d6 |
+| <p class="indent">» Remember your death/lengthy lack (3+ months):</p> | SV 1d10/1 |
 
 </blockquote>
 

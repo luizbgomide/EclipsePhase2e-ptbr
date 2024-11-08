@@ -46,29 +46,29 @@ Just because you’ve acquired the data doesn’t mean you understand it. You ma
 
 ### Online Research
 
-| Situation                                                                   |   Modifiers    |
-| :-------------------------------------------------------------------------- | :------------: |
-| Conflicting Sources                                                         |      −10       |
-| Possess Hints, Traces, or Corroborating Details                             |   +10 to +30   |
-| Availability                                                                |                |
-| <div class="indent">» Widespread Information</div>                          | timeframe ÷ 2  |
-| <div class="indent">» Buried Within Other Details</div>                     | timeframe × 2  |
-| <div class="indent">» Obscure or Unusual Data</div>                         |   −10 to −30   |
-| <div class="indent">» Private or Proprietary Data</div>                     |   −30 or NA    |
-| Analysis/Comparison of Data Sets                                            |                |
-| <div class="indent">» Small Data Set (single scientific study/sample)</div> | timeframe ÷ 2  |
-| <div class="indent">» Medium Data Set (multiple studies/samples)</div>      |       —        |
-| <div class="indent">» Large Data Set (dozens of studies/samples)</div>      | timeframe × 4  |
-| <div class="indent">» Massive Data Sets (hundreds of studies/samples)</div> | timeframe × 20 |
-| Real-Time Biometric Scanning                                                |                |
-| <div class="indent">» Facility/Small Habitat</div>                          |       —        |
-| <div class="indent">» Neighborhood/Medium Habitat</div>                     |      −10       |
-| <div class="indent">» City/Large Habitat</div>                              |      −30       |
-| Forecasting                                                                 |                |
-| <div class="indent">» Small Data Set (1 week)</div>                         |      −30       |
-| <div class="indent">» Medium Data Set (1 month)</div>                       |       —        |
-| <div class="indent">» Large Data Set (1 year)</div>                         |      +10       |
-| <div class="indent">» Massive Data Set (5 years+)</div>                     |      +30       |
+| Situation                                                               |   Modifiers    |
+| :---------------------------------------------------------------------- | :------------: |
+| Conflicting Sources                                                     |      −10       |
+| Possess Hints, Traces, or Corroborating Details                         |   +10 to +30   |
+| Availability                                                            |                |
+| <p class="indent">» Widespread Information</p>                          | timeframe ÷ 2  |
+| <p class="indent">» Buried Within Other Details</p>                     | timeframe × 2  |
+| <p class="indent">» Obscure or Unusual Data</p>                         |   −10 to −30   |
+| <p class="indent">» Private or Proprietary Data</p>                     |   −30 or NA    |
+| Analysis/Comparison of Data Sets                                        |                |
+| <p class="indent">» Small Data Set (single scientific study/sample)</p> | timeframe ÷ 2  |
+| <p class="indent">» Medium Data Set (multiple studies/samples)</p>      |       —        |
+| <p class="indent">» Large Data Set (dozens of studies/samples)</p>      | timeframe × 4  |
+| <p class="indent">» Massive Data Sets (hundreds of studies/samples)</p> | timeframe × 20 |
+| Real-Time Biometric Scanning                                            |                |
+| <p class="indent">» Facility/Small Habitat</p>                          |       —        |
+| <p class="indent">» Neighborhood/Medium Habitat</p>                     |      −10       |
+| <p class="indent">» City/Large Habitat</p>                              |      −30       |
+| Forecasting                                                             |                |
+| <p class="indent">» Small Data Set (1 week)</p>                         |      −30       |
+| <p class="indent">» Medium Data Set (1 month)</p>                       |       —        |
+| <p class="indent">» Large Data Set (1 year)</p>                         |      +10       |
+| <p class="indent">» Massive Data Set (5 years+)</p>                     |      +30       |
 
 </blockquote>
 
