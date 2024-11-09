@@ -2,7 +2,7 @@
 
 A quick primer to common futuristic materials:
 
-<sort>
+<!--sort-->
 
 **Aerogel:** “Frozen smoke” is made by replacing the liquid in a gel or foam with a gas. The result is a low-density, lightweight, semi-transparent solid with a styrofoam feel, made from a number of chemical compounds. It is used for windows and as an insulator in habitats, particularly aerostats, and to capture space dust on spacecraft hulls. Can be combined with reinforcing fibers to make light, flexible blankets.
 
@@ -24,5 +24,5 @@ A quick primer to common futuristic materials:
 
 **Transparent Alumina:** This harder-than-steel ceramic, also known as sapphire, is used for scratch-resistant surfacing and transparent armor needs. Zero-g casting techniques enable intriguing transparent construction designs, so long as its poor tensile strength is respected.
 
-</sort>
+<!--sort-end-->
 

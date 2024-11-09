@@ -6,7 +6,7 @@ Any time you attempt to do something that your [access privileges](05-authentica
 
 Aside from exceeding your privileges, there are some techniques that are explicitly subversive. A sampling of common subversions are described below; GMs should use these as guidelines for arbitrating others.
 
-<sort>
+<!--sort-->
 
 ## Break Encryption
 
@@ -102,7 +102,7 @@ If hacking mesh inserts or a cyberbrain ([Mindware Hacking](17-mindware-hacking.
 
 Sensory data may also be recorded or broadcast as XP.
 
-</sort>
+<!--sort-end-->
 
 <blockquote>
 

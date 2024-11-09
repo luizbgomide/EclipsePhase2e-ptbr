@@ -6,7 +6,7 @@ Software is not a tangible good, so it cannot be nanofabricated.
 
 This software can be run on any computerized device.
 
-<sort>
+<!--sort-->
 
 | APPS              | Comp/<wbr>GP | Description                               |
 | :---------------- | :----------: | :---------------------------------------- |
@@ -23,7 +23,7 @@ This software can be run on any computerized device.
 | VPN               |    Min/1     | Creates virtual private network.          |
 | XP                |   Min+/1+    | Clips of others’ recorded sensorium       |
 
-<sort>
+<!--sort-->
 
 **AR Illusion:** A media library and editing suite you can use to create realistic entoptic illusions.
 
@@ -49,13 +49,13 @@ This software can be run on any computerized device.
 
 **XP:** Clips of someone else’s experiences. Depending on the content, some XP (porn, snuff, crime, etc.) is restricted in certain jurisdictions. XP clips are frequently modified so that their emotive tracks are more intense, giving the viewer a greater thrill.
 
-</sort>
+<!--sort-end-->
 
 ## ALIs and Muses
 
 Everyone has a muse, and every device has a built-in ALI ([AIs & Muses](../13/07-ais-and-muses.md)). All ALI infomorphs have Wound Threshold 4, Durability 20, and Death Rating 40 for mesh combat.
 
-<sort>
+<!--sort-->
 
 | ALIs & MUSES    | Comp/<wbr>GP | Skills                                                                                                                                                                                                                                               |
 | :-------------- | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ Everyone has a muse, and every device has a built-in ALI ([AIs & Muses](../13/07
 | Security ALI    |    Mod/2     | Guns 30, Hardware: Electronics 30, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 30, Research 20                                                                                                                         |
 | Sentry ALI      |   Maj/R/3    | Fray 30, Guns 60, Hardware: \[appropriate field\] 30, Interface 30, Kinesics 40, Know: \[bot/vehicle\] Specs 80, Know: Security Ops 80, Perceive 40, Pilot: \[appropriate field\] 40, Provoke 30                                                     |
 
-<sort>
+<!--sort-->
 
 **Bot/Vehicle ALI:** These AIs can pilot and control the bot/vehicle they are designed for without transhuman assistance.
 
@@ -80,13 +80,13 @@ Everyone has a muse, and every device has a built-in ALI ([AIs & Muses](../13/07
 
 **Sentry ALI:** Combat ALIs for physical security.
 
-</sort>
+<!--sort-end-->
 
 ## Scorchers
 
 Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrains.
 
-<sort>
+<!--sort-->
 
 | SCORCHERS  | Comp/<wbr>GP | Description                                                                                 |
 | :--------- | :----------: | :------------------------------------------------------------------------------------------ |
@@ -95,7 +95,7 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 | Nightmare  |   Mod/R/2    | Trigger anxiety/panic, WIL Check or SV 1d6 \[4\] and acute stress response for 1d6 minutes. |
 | Spasm      |   Mod/R/2    | Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.         |
 
-<sort>
+<!--sort-->
 
 **Bedlam:** Bedlam assaults the ego with traumatic mental input, inflicting mental stress. Victims are overwhelmed with horrific, monstrous, sanity-ripping sensory and emotional tracks. Each attack inflicts SV 1d10, +1d6 per superior success.
 
@@ -105,7 +105,7 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 
 **Spasm:** Spasm scorchers incapacitate the ego with excruciating pain. Affected targets must immediately make a WIL Check. If they fail, they fall down and are incapacitated for 1 action turn (+2 turns per superior failure) and stunned for 3 minutes. Success means they are stunned for 3 action turns. Due to the nature of the delivery, pain tolerance of any sort has no effect.
 
-</sort>
+<!--sort-end-->
 
 ## Tactical Networks
 

@@ -4,7 +4,7 @@
 
 Transhumanity has adopted a bewildering variety of approaches to the practice of forking.
 
-<sort>
+<!--sort-->
 
 ## Artists
 
@@ -74,13 +74,13 @@ Twins run and maintain a single fork of themselves. Most often instanced as an i
 
 So-called “parasitic twins” are far less equitable, keeping one instance limited or dependent on the other. This is usually a beta fork, but some prefer the efficiency of alpha forks, modified to be subservient and seek affection from the primary ego. The dependent fork is most often kept as a muse or virtual minion.
 
-</sort>
+<!--sort-end-->
 
 <blockquote>
 
 ## Summary of Fork Legalities
 
-<sort>
+<!--sort-->
 
 ### Anarchists/Extropians/Scum
 
@@ -114,6 +114,6 @@ So-called “parasitic twins” are far less equitable, keeping one instance lim
 
 **\* Varies by habitat; these are common legalities**
 
-</sort>
+<!--sort-end-->
 
 </blockquote>

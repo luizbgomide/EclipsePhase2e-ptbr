@@ -21,7 +21,7 @@ Psi-chi sleights are passive, always-on, subconscious abilities available to any
 All psi-chi sleights are automatic actions and have:<br>
 **Range:** Self • **Duration:** Constant • no Infection Modifier.
 
-<sort>
+<!--sort-->
 
 | Sleight                                       | Description                                                                      |
 | :-------------------------------------------- | :------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ All psi-chi sleights are automatic actions and have:<br>
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
 ### Charisma
 
@@ -136,7 +136,7 @@ You haver finer control over your emotive signals, body language, and micro-expr
 
 You have an intuitive understanding of non-human, non-terrestrial organisms (animal analogues). You can make a SAV Check to acquire insight into the creature’s ecological niche, motivations, needs, and likely behavioral responses (if non-sapient) or mental/emotional state (if sapient).
 
-</sort>
+<!--sort-end-->
 
 ## Psi-Gamma Sleights
 
@@ -146,7 +146,7 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 ### Psi-Gamma Sleights
 
-<sort>
+<!--sort-->
 
 | Sleight                                     | Action  |   Duration   | Infection Mod | Description                                                                                                                                       |
 | :------------------------------------------ | :-----: | :----------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -190,7 +190,7 @@ Psi-gamma sleights influence the function of biological minds (egos within a bio
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
 ### Alter Effect
 
@@ -418,5 +418,5 @@ You implant a single post-hypnotic suggestion into the target’s mind which the
 
 You calm the target, relieving stress and anxiety. The target is relieved of the effects of an [acute stress response](../12/18-mental-health.md#acute-stress-responses) or triggered disorder for WIL ÷ 5 minutes. You may not use this sleight on yourself.
 
-</sort>
+<!--sort-end-->
 

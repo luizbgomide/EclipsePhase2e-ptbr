@@ -31,7 +31,7 @@ Each seeker missile can function as either [accushot or homing ammunition](09-ki
 
 **_BASELINE STATS ARE FOR MICROMISSILES AND MINIGRENADES._**
 
-<sort>
+<!--sort-->
 
 | SEEKER/<wbr>GRENADE TYPE                           | Area-Effect Type (Radius) |   Damage Value \[Average\]    | Armor Used | Comp/<wbr>GP (per 5) | Notes                       |
 | :------------------------------------------------- | :-----------------------: | :---------------------------: | :--------: | :------------------: | :-------------------------- |
@@ -42,10 +42,10 @@ Each seeker missile can function as either [accushot or homing ammunition](09-ki
 | Plasmaburst                                        |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |       Maj/R/3        | Armor-Piercing              |
 | Splash                                             |    Uniform (10&nbsp;m)    |               —               |     —      |      As payload      |                             |
 | Stun                                               |    Uniform (10&nbsp;m)    |         1d6 + 2 \[5\]         |     K      |        Mod/2         | Blinding, Knockdown, Shock  |
-| <sort-union><p class="indent">» Overload</p>       |    Uniform (10&nbsp;m)    |               —               |     —      |                      | Blinding, Pain              |
+| <!--sort-union--><p class="indent">» Overload</p>       |    Uniform (10&nbsp;m)    |               —               |     —      |                      | Blinding, Pain              |
 | Tactical Multipurpose (TMP)                        |                           |                               |            |       Mod/R/2        |
-| <sort-union><p class="indent">» Frag</p>           |  Centered (−2&nbsp;DV/m)  |        3d10 + 6 \[23\]        |     K      |                      | Knockdown (5 meter radius)  |
-| <sort-union><p class="indent">» High-Explosive</p> |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |                      | Knockdown (10 meter radius) |
+| <!--sort-union--><p class="indent">» Frag</p>           |  Centered (−2&nbsp;DV/m)  |        3d10 + 6 \[23\]        |     K      |                      | Knockdown (5 meter radius)  |
+| <!--sort-union--><p class="indent">» High-Explosive</p> |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |                      | Knockdown (10 meter radius) |
 | Thermobaric                                        |    Uniform (10&nbsp;m)    |        2d10 + 6 \[17\]        |     E      |       Maj/R/3        | Armor-Piercing, Knockdown   |
 
 | SIZE             | Area-Effect Type (Radius) | Damage Value \[Average\] | Armor Used | Comp/<wbr>GP | Notes    |
@@ -54,7 +54,7 @@ Each seeker missile can function as either [accushot or homing ammunition](09-ki
 | Minimissile      |       x2 (Uniform)        | +1d10 \[+5\] (Centered)  |  As above  |    Per 3     | As above |
 | Standard Missile |       x2 (Uniform)        |      x2 (Centered)       |  As above  |    Per 1     | As above |
 
-<sort>
+<!--sort-->
 
 **Dazzler:** Dazzlers are spinning laser devices, designed to blind targets and defeat surveillance. Anyone within line of sight in the radius of effect (50 meters) who is not equipped with anti-glare mods must succeed in a REF Check or be [blinded](21-other-action-factors.md#conditions) for 1 action turn, +1 per superior failure. A critical failure results in permanent blindness (until repaired/healed). Any visual light/infrared cameras are overloaded for the dazzler’s duration. Unless set to a timed deactivation, dazzlers continue to blind for 1 hour or until wirelessly turned off or physically destroyed (DUR 10, AV 5/10).
 
@@ -74,13 +74,13 @@ Each seeker missile can function as either [accushot or homing ammunition](09-ki
 
 **Thermobaric:** Thermobaric munitions disperse a cloud of aerosol explosive over an area and then ignite, literally setting the air on fire, generating a devastating pressure wave, and sucking the oxygen out of the area.
 
-</sort>
+<!--sort-end-->
 
 ## Seeker and Grenade Rules
 
 These rules apply to grenades, seeker missiles, and similar weapons.
 
-<sort>
+<!--sort-->
 
 ### Adjusting Blast Radius
 
@@ -98,7 +98,7 @@ Grenades and some seekers have a special adhesive coating that sticks to almost 
 
 Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target. The user sets the trigger option when deploying the weapon and can alter it via wireless link. Missed attacks or attacks that do not explode in transit or when they strike are subject to [scatter](15-special-attacks.md#scatter).
 
-<sort>
+<!--sort-->
 
 **Airburst:** Airburst means that the device explodes in mid-air as soon as it travels a distance programmed at launch. Resolve such attacks immediately when fired. At the GM’s discretion, such attacks ignore cover modifiers. Note that airburst munitions are programmed with a safety feature that will prevent detonation if they fail to travel a minimum precautionary distance from the launcher, though this can be hacked or overridden with Hardware: Demolitions.
 
@@ -110,11 +110,11 @@ Modern grenades, seekers, and similar explosives do not necessarily detonate the
 
 **Timer:** The device has a built-in timer allowing the user to adjust exactly when it detonates. This can be anywhere from 1 second to days, months, or even years later, effectively making the device a bomb, but also increasing the likelihood it will be discovered and neutralized. Timed explosives go off at the end of the turn. The minimum detonation period is 1 action turn, meaning the device will detonate at the end of the next turn.
 
-</sort>
+<!--sort-end-->
 
 ### Throwing Back a Grenade
 
 You can reach a grenade before it detonates and throw it back or away in a safe direction. You must be within movement range of the grenade’s location, take a complex action, and succeed in a REF Check at −20 to catch the rolling, sliding grenade. If successful, you can throw the grenade in a direction of your choice with the same action (treat as a standard throwing attack at −20). If you fail, however, you may find yourself at ground zero when it detonates.
 
-</sort>
+<!--sort-end-->
 

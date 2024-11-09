@@ -28,7 +28,7 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 ### Infection Test
 
-<sort>
+<!--sort-->
 
 |        Type         | Infection Rating Opposed By  |          Cooldown          |
 | :-----------------: | :--------------------------: | :------------------------: |
@@ -39,13 +39,13 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
 ## Basilisk Hacks
 
 Each type of basilisk hack functions differently.
 
-<sort>
+<!--sort-->
 
 ### Blocking Basilisks
 
@@ -57,13 +57,13 @@ These basilisks do not infect you, they crash your brain. You suffer SV 1d10 and
 
 <blockquote class="table">
 
-<sort-union>
+<!--sort-union-->
 
 ### Incapacitators
 
-<sort>
+<!--sort-->
 
-| 1D10 Roll<sort-n d10> | Type<sort-by>       | Description                                                                                                                                                                                                                                                                                                             |
+| 1D10 Roll<!--sort-d10--> | Type<!--sort-by-->       | Description                                                                                                                                                                                                                                                                                                             |
 | :-------------------: | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           1           | Cataplexy           | You lose control of your body and collapse. You are [immobilized](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                         |
 |           2           | Catatonic Stupor    | Your brain checks out and is non-responsive. Though conscious, you are mentally “not there” — the basilisk has crashed your brain functions. You are [incapacitated](../12/21-other-action-factors.md#conditions).                                                                                                      |
@@ -93,7 +93,7 @@ Most subliminals re-program their targets immediately; at the GM’s discretion,
 
 Subliminal commands are triggered according to a pre-set time or other predesignated conditions. Once triggered, you carry out the action with the conviction that it is your own idea. Implanted suggestions may be as simple as “kill the Firewall agent” to as complex as “manufacture an explosive device and plant it in the cargo hold of any ship heading to Mars, set to explode one day after they disembark.” Subliminal commands are designed to convert you into a temporary tool or weapon and are not designed to last long. If the conditions have not been met within 1d6 days, the subliminal command dissipates, with the victim none the wiser.
 
-</sort>
+<!--sort-end-->
 
 ## Biological Infection
 
@@ -119,7 +119,7 @@ Any morph that comes into contact with a nanoplague is considered infected. The 
 
 **Contagion:** Nanoplague-infected targets are not contagious themselves … usually. However, the infecting nanoplague itself may linger in the original area, hitchhike along to new locations, or split and do both.
 
-</sort>
+<!--sort-end-->
 
 ## Infection, Resleeving, & Backups
 

@@ -2,7 +2,7 @@
 
 The Solar System might be friendly to life on a grand scale, but if you’re stranded in the gravity well of Jupiter during a magnetic storm, trying to breathe without a respirator on Mars, or floating in hard vacuum without a vacsuit, it doesn’t seem so friendly.
 
-<sort>
+<!--sort-->
 
 ## Atmospheric Contamination
 
@@ -63,5 +63,5 @@ Biomorphs without [vacuum sealing](../16/11-physical-augmentations.md) can spend
 
 After one minute in space, you begin to suffer from [asphyxiation](28-environmental-factors.md#asphyxiation). Damage is doubled if you hold air in your lungs or are not curled up in a vacuum-survival position. Additionally, characters trapped in space without adequate thermal protection suffer a −10 modifier to all actions and 2&nbsp;DV per minute.
 
-</sort>
+<!--sort-end-->
 

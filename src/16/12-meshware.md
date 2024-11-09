@@ -2,7 +2,7 @@
 
 Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much like the bioware and hardware for physical morphs. Meshware takes only a complex action to install or uninstall. Once installed, meshware remains with the infomorph when it moves or copies. Meshware can also be installed within cyberbrains. Other apps can also be installed as meshware, so they are embedded within the infomorph. Unlike other apps, meshware cannot be used by non-infomorph/cyberbrained users.
 
-<sort>
+<!--sort-->
 
 | MESHWARE          | Comp/<wbr>GP | Description                                                                      |
 | :---------------- | :----------: | :------------------------------------------------------------------------------- |
@@ -14,7 +14,7 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 | Fault Tolerance   |    Mod/2     | AV 5 vs. mesh attacks                                                            |
 | Persistence       |    Mod/2     | Keeps infomorph running, +10&nbsp;DUR, +2&nbsp;WT.                               |
 
-<sort>
+<!--sort-->
 
 **App-Lock:** App-lock makes it more difficult for an installed app to be removed without proper authentication (apply a −30 modifier). This is useful for infomorphs/cyberbrains that are brainhacked and modified against their will. The protected apps must be designated in advance (when app-lock is installed or reconfigured).
 
@@ -24,7 +24,7 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 
 **Enhanced Security:** This meshware installs additional firewall and security layers, making the infomorph/cyberbrain harder to hack. Apply a −10 modifier to attempts to brainhack your digital mind.
 
-<sort-union>
+<!--sort-union-->
 
 You can also use this meshware to enter a heightened state of security — Defensive Mode. When activated with a quick action, the modifier to brainhack you is increased to −30. This lock-down status impairs your functions, however; you cannot use Insight pool while it is active and suffer a −3 Initiative modifier.
 
@@ -34,5 +34,5 @@ You can also use this meshware to enter a heightened state of security — Defen
 
 **Persistence:** This meshware uses rootkit techniques to keep the digital mind active despite attempts to crash it. Increase the infomorph’s Durability by 10 and Wound Threshold by 2.
 
-</sort>
+<!--sort-end-->
 

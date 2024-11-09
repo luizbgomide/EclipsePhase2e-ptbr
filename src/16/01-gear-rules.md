@@ -71,7 +71,7 @@ In short, power should rarely be an issue in Eclipse Phase games, unless it happ
 
 Ware is a catch-all category for augmentations of different kinds:
 
-<sort>
+<!--sort-->
 
 - **Bioware (B)** includes genetic modifications, nanosurgical tissue alterations, and implantation of bio-engineered organs. It is only available for biomorphs (including pods and uplifts). Because of its organic nature, bioware is hard to detect in scans; genetic testing or other bio-sampling is required. Use Medicine: Biotech to diagnose, implant, or repair.
 - **Cyberware (C)** is synthetic devices either implanted within a biological body or “grown” within using nanobots. It is only available for biomorphs (including pods and uplifts). Cyberware is detectable with x-ray and radar scans. It can also be hacked like other electronics. Use Medicine: Biotech to implant, Hardware: Electronics to repair the ware itself.

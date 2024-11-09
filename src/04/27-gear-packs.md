@@ -16,7 +16,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Firewall Agent/Criminal
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                     | Comp/<wbr>GP | Description                                                                     |
 | :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------ |
@@ -32,7 +32,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
-<sort>
+<!--sort-->
 
 | GEAR                                             | Comp/<wbr>GP | Description         |
 | :----------------------------------------------- | :----------: | :------------------ |
@@ -43,7 +43,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Gatecrashing
 
-<sort>
+<!--sort-->
 
 | GEAR                                                           | Comp/<wbr>GP | Description                                                               |
 | :------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
@@ -59,7 +59,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
-<sort>
+<!--sort-->
 
 | GEAR                                             | Comp/<wbr>GP | Description                                                     |
 | :----------------------------------------------- | :----------: | :-------------------------------------------------------------- |
@@ -71,7 +71,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Optional Pack: Infomorph
 
-<sort>
+<!--sort-->
 
 | GEAR                                                 | Comp/<wbr>GP | Description                                                                      |
 | :--------------------------------------------------- | :----------: | :------------------------------------------------------------------------------- |
@@ -84,9 +84,11 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ## Profession Packs
 
+<!--sort-->
+
 ### Academic
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                          | Comp/<wbr>GP | Description                                                                              |
 | :---------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -101,7 +103,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Covert Operative
 
-<sort>
+<!--sort-->
 
 | GEAR                                                              | Comp/<wbr>GP | Description                                                                              |
 | :---------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -116,7 +118,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
-<sort>
+<!--sort-->
 
 | GEAR                                               | Comp/<wbr>GP | Description                                                 |
 | :------------------------------------------------- | :----------: | :---------------------------------------------------------- |
@@ -126,7 +128,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Enforcer
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                   | Comp/<wbr>GP | Description                                                               |
 | :--------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
@@ -140,7 +142,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Explorer
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                | Comp/<wbr>GP | Description                                                                            |
 | :------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------------- |
@@ -154,7 +156,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Face/Dealer
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                   | Comp/<wbr>GP | Description                                                                                     |
 | :--------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
@@ -168,7 +170,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Genehacker
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                      |     Comp/<wbr>GP     | Description                                                     |
 | :------------------------------------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
@@ -183,7 +185,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Hacker
 
-<sort>
+<!--sort-->
 
 | GEAR                                                            | Comp/<wbr>GP | Description                               |
 | :-------------------------------------------------------------- | :----------: | :---------------------------------------- |
@@ -196,7 +198,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Investigator
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                     | Comp/<wbr>GP | Description                                                                        |
 | :----------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
@@ -212,7 +214,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Medic
 
-<sort>
+<!--sort-->
 
 | GEAR                                                               | Comp/<wbr>GP | Description                                                                   |
 | :----------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------- |
@@ -224,7 +226,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Mindhacker
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                     | Comp/<wbr>GP | Description                                |
 | :----------------------------------------------------------------------- | :----------: | :----------------------------------------- |
@@ -237,7 +239,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Scavenger
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                                | Comp/<wbr>GP | Description                                                                                     |
 | :---------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
@@ -251,7 +253,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Scientist
 
-<sort>
+<!--sort-->
 
 | GEAR                                                               | Comp/<wbr>GP | Description                                                                            |
 | :----------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
@@ -264,7 +266,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Soldier
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                  | Comp/<wbr>GP | Description                                                                            |
 | :-------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
@@ -278,7 +280,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
-<sort>
+<!--sort-->
 
 | GEAR                                                         | Comp/<wbr>GP | Description                                                 |
 | :----------------------------------------------------------- | :----------: | :---------------------------------------------------------- |
@@ -288,7 +290,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Techie
 
-<sort>
+<!--sort-->
 
 | GEAR                                                                      | Comp/<wbr>GP | Description                                              |
 | :------------------------------------------------------------------------ | :----------: | :------------------------------------------------------- |
@@ -299,3 +301,5 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Medium Fabber](../16/19-nanotech.md#nanofabricators)                     |    Mod/2     | Fab small items.                                         |
 | [Tools (Kit)](../16/05-common-tech-and-ware.md#everyday-technology)       |    Min/1     | Portable, applies to specific skill.                     |
 | [Utilitool](../16/05-common-tech-and-ware.md#everyday-technology)         |    Min/1     | All-purpose smart-material tool.                         |
+
+<!--sort-end-->

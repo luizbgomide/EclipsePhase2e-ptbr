@@ -2,7 +2,7 @@
 
 Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once ([Area Effect](15-special-attacks.md#area-effect-attacks)). They are fired using Guns skill.
 
-<sort>
+<!--sort-->
 
 | SPRAY WEAPONS   | Area Effect | Damage Value \[Average\] | Firing Modes | Ammo  | Range | Armor Used |    Comp/<wbr>GP     | Notes                             |
 | :-------------- | :---------: | :----------------------: | :----------: | :---: | :---: | :--------: | :-----------------: | :-------------------------------- |
@@ -17,7 +17,7 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 
 **Ammunition:** With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the [ammunition and reloading rules](04-ranged-combat.md#ammunition-and-reloading).
 
-<sort>
+<!--sort-->
 
 **Buzzer:** Buzzers are used to deploy a particular type of nanoswarm, either at a target or over an area. They carry a limited number of swarms, but contain a [specialized hive](../16/19-nanotech.md#hives) that can construct new swarms.
 
@@ -35,5 +35,5 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 
 **Vortex Ring Gun:** This less-lethal weapon detonates a blank cartridge and accelerates the explosive pressure down a widening barrel so that it develops into a high-speed vortex ring. This spinning, donut-shaped, concussive blast knocks down and stuns close-range targets. Drugs, chemicals, and similar agents can be loaded into the charge as well.
 
-</sort>
+<!--sort-end-->
 

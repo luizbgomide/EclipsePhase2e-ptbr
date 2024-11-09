@@ -6,7 +6,7 @@ Firewall agents routinely need to get into places they are not supposed to be. P
 
 Basic measures to keep unwanted people out include walls, locks, fencing, defensive landscaping, security lighting, and entoptic warnings. Given modern technology, these are ineffective against a determined intruder. Barriers are treated just like other inanimate objects for purposes of attacks and damage ([Objects & Structures](../12/26-objects-and-structures.md)).
 
-<sort>
+<!--sort-->
 
 ### Bug Zappers
 
@@ -39,7 +39,7 @@ Lockbots are robot guardians physically emplaced to protect portals. A lockbotâ€
 
 <blockquote class="indent stat-list">
 
-<sort-union>
+<!--sort-union-->
 
 ### Lockbot
 
@@ -71,7 +71,7 @@ High-security installations use walls and doors capable of rapidly repairing the
 
 On planetary surfaces, high walls and fences are still common as a first line of defense against interlopers. Slip walls are surface-treated with [slip](../16/15-chemicals-drugs-and-toxins.md#chemicals), creating a virtually frictionless surface that is exceptionally difficult to climb (âˆ’60 to Athletics Tests).
 
-</sort>
+<!--sort-end-->
 
 ### Wireless Inhibitors
 
@@ -85,7 +85,7 @@ When an operator is perceiving through the sensor (like watching a video), use P
 
 A few specific sensor types deserve mention here:
 
-<sort>
+<!--sort-->
 
 **Chemical Sniffers:** In addition to detecting explosives and weapons, sniffers can be set to detect the carbon dioxide exhaled in transhuman breaths. This is useful for detecting intruding biomorphs in areas that are abandoned/off-limits.
 
@@ -97,7 +97,7 @@ A few specific sensor types deserve mention here:
 
 **Seismic Sensors:** Embedded in flooring, these sensors pick up the pressure and vibration of weight and movement.
 
-</sort>
+<!--sort-end-->
 
 ### Weapon Scanners
 

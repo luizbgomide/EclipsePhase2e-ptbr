@@ -22,7 +22,7 @@ Though rules are provided for each sleight, GMs should alter these as they see f
 
 Observing psi-epsilon sleights may trigger a [Stress Test](../12/23-stressful-situations.md#willpower-stress-tests).
 
-<sort>
+<!--sort-->
 
 | PSI-EPSILON SLEIGHT     | Action  | Duration  | Description                                                      |
 | :---------------------- | :-----: | :-------: | :--------------------------------------------------------------- |
@@ -38,7 +38,7 @@ Observing psi-epsilon sleights may trigger a [Stress Test](../12/23-stressful-si
 | Pyrokinesis             | Complex | Sustained | Raises heat around target; DV 1d10 per action turn, pain.        |
 | Strip Memory            | Complex |   Days    | Removes target memories.                                         |
 
-<sort>
+<!--sort-->
 
 ### Anti-Electronics Field
 
@@ -84,5 +84,5 @@ The exsurgent rapidly accelerates the molecules and focuses heat around a specif
 
 The exsurgent suppresses certain memories in your mind. This can be used to block memories of certain events (up to ~WIL hours) or of specific concepts or things (GM discretion). For example, it could be used to wipe your memory of an important clandestine meeting or to make you forget everything you have learned about a TITAN artifact, including even hearing about it in the first place. The process is not exact, and so the memories may not be fully suppressed and/or related memories may also be blocked.
 
-</sort>
+<!--sort-end-->
 

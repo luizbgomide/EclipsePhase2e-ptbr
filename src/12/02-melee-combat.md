@@ -4,7 +4,7 @@ In an era of lethal and incapacitating ranged weaponry, someone equipped for clo
 
 Except as noted, all melee implements are wielded with Melee skill. Melee ware and weapons may be coated with drugs or toxins ([Coated Weapons](15-special-attacks.md#coated-weapons)) such as poison or nanotoxins secreted from a [poison gland](../16/10-combat-augmentations.md) or implanted [nanotoxins](../16/15-chemicals-drugs-and-toxins.md#nanotoxins).
 
-<sort>
+<!--sort-->
 
 | MELEE ATTACKS      | Ware Type | Damage Value \[Average\] | Comp/<wbr>GP | Notes                                               |
 | :----------------- | :-------: | :----------------------: | :----------: | :-------------------------------------------------- |
@@ -38,7 +38,7 @@ Except as noted, all melee implements are wielded with Melee skill. Melee ware a
 
 Implanted weaponry can be combined with eelware to deliver electric shocks.
 
-<sort>
+<!--sort-->
 
 **Claws:** The morph has retractable claws like those of a cat. These claws do not interfere with manual dexterity and are razor sharp. They are legal in most habitats and considered tools as much as weapons. A set of claws in each hand counts as a single weapon.
 
@@ -48,13 +48,13 @@ Implanted weaponry can be combined with eelware to deliver electric shocks.
 
 **Spur:** A smart-material blade is bonded to the bones on the back of the morph’s hand, foot, or other strategic place. This blade extends up to 6 inches through concealed ports.
 
-</sort>
+<!--sort-end-->
 
 ## Melee Weapons
 
 Melee weapons range from the archaic to high tech:
 
-<sort>
+<!--sort-->
 
 **Club:** Clubs encompasses a wide range of one-handed blunt objects, from saps to sticks to pipes.
 
@@ -82,13 +82,13 @@ Melee weapons range from the archaic to high tech:
 
 **Wasp Knife:** Wasp knives are equipped with a single-use compressed-air canister in their handle. When stabbing a target in vacuum or a pressurized environment (like underwater), you can trigger the gas to release so that it bursts out of the victim’s body cavity, inflicting +2d10&nbsp;DV. Wasp knives may also be loaded with chemicals, drugs, or nanobots. The target must be damaged for the canister’s contents to affect them.
 
-</sort>
+<!--sort-end-->
 
 ## Melee Rules
 
 These rules apply specifically to close combat.
 
-<sort>
+<!--sort-->
 
 ### Aggressive Attacks
 
@@ -115,7 +115,7 @@ On each subsequent action turn, a grappling character must spend a complex actio
 - **Knockdown:** Grappled victims must make a Melee Test or SOM Check at −30 or be knocked prone. They remain grappled and cannot stand up/re-orient until they are released or break free.
 - **Move:** The grappler can move themselves and the subdued opponent at half their Movement Rate.
 
-</sort>
+<!--sort-end-->
 
 ## Multiple Targets
 
@@ -135,19 +135,19 @@ Some attacks simply require you to touch your target, rather than injure them, a
 
 These modifiers apply to close-combat attacks.
 
-<sort>
+<!--sort-->
 
 | Situation                                                 |           Modifiers            |
 | :-------------------------------------------------------- | :----------------------------: |
 | Aggressive                                                | +10 or +1d10&nbsp;DV, −10 Fray |
 | Charging                                                  |       −10, +1d6&nbsp;DV        |
 | Extra Weapon (Attack)                                     |          +1d6&nbsp;DV          |
-| <sort-union>Extra Weapon (Defense)                        |              +10               |
+| <!--sort-union-->Extra Weapon (Defense)                        |              +10               |
 | Grappling                                                 |                                |
-| <sort-union><p class="indent">» Smaller-Size Opponent</p> |       +20 per size step        |
-| <sort-union><p class="indent">» Larger-Size Opponent</p>  |       −20 per size step        |
-| <sort-union><p class="indent">» 2+ Limbs Advantage</p>    |              +20               |
-| <sort-union><p class="indent">» 2+ Limbs Disadvantage</p> |              −20               |
+| <!--sort-union--><p class="indent">» Smaller-Size Opponent</p> |       +20 per size step        |
+| <!--sort-union--><p class="indent">» Larger-Size Opponent</p>  |       −20 per size step        |
+| <!--sort-union--><p class="indent">» 2+ Limbs Advantage</p>    |              +20               |
+| <!--sort-union--><p class="indent">» 2+ Limbs Disadvantage</p> |              −20               |
 | Multiple Targets                                          |      −20 per extra target      |
 | Reach                                                     |          +10 or more           |
 | Touch-Only                                                |         +20, no damage         |

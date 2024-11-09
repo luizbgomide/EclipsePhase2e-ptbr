@@ -6,24 +6,25 @@ const crypto = require("crypto");
 const { compareText, stripHtml } = require('./helpers')
 
 // those must be on a single line by themselves surronded by empty lines to prevent issues with MD parsing
-const sortTag = "<sort>"; // start sorting
-const sortEndTag = "</sort>"; // end sorting, not used with tables or lists that end of the first empty line
-const sortBlockTag = "<sort-block>"; // delimits blocks that are joined, trimmed and have all HTML removed for sorting purposes, must be placed before each block
+const sortTag = "<!--sort-->"; // start sorting
+const sortEndTag = "<!--sort-end-->"; // end sorting, not used with tables or lists that end of the first empty line
+const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are joined, trimmed and have all HTML removed for sorting purposes, must be placed before each block
 
 // those should be placed on the table header cells
-const sortTableByTag = "<sort-by>"; // on table column header: columns to use for sorting
-const sortTableCellsTag = "<sort-cells>"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
-const sortTableNumberTagRE = /<sort-n ([nd]\d+)(?: offset=(\d+))?>/; // on table column header: distribute values based of dN (1-N) or d00 (00-99), they aren't affected by restarts
+const sortTableByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
+const sortTableCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
+const sortTableNumberTagRE = /<!--sort-([nd]\d+)(?: offset=(\d+))?-->/; // on table column header: distribute values based of dN (1-N) or d00 (00-99), they aren't affected by restarts
 const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 
 // those should be placed on the item affected by them
-const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
-const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
-const sortStaticTag = "<sort-static>"; // the lines marked as static will be redistributed in the same original order after sorting
-const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
-const sortNumberTagRE = /(<sort-n ([nd]\d+)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?(<\/sort-n>)/g;
-const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
+const sortUnionTag = "<!--sort-union-->"; // join with the previous item during sorting
+const sortFixedTag = "<!--sort-fixed-->"; // keep this on a fixed position (start a new block if needed)
+const sortStaticTag = "<!--sort-static-->"; // the lines marked as static will be redistributed in the same original order after sorting
+const sortRestartTag = "<!--sort-restart-->" // on tables and lists end the previous sort and restart a new one
+const sortNumberTagRE = /(<!--sort-([nd]\d+) (\w+)(?: offset=(\d+))?-->)(\d+)(?:[-–](\d+))?/g;
+const sortHereTagRE = /.*<!--sort-here-->/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
 const tableColumnRE = /(?<!\\)\|/;
+const sortedRE = /<!--sorted-(.+)?-->/g;
 const rollDash = '–';
 
 function readDirectory(dir) {
@@ -151,12 +152,12 @@ function resortContent(lines) {
         const emptyLine = line.trim() === "";
         if (line.includes(sortEndTag) || line.includes(sortRestartTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
             // if sorting by block, title or text, make sure the last line of each block is empty
-            if (delimiter === "" || delimiter.startsWith("#")) {
-                unsortedBlocks.forEach(block => {
-                    if (block[block.length - 1].trim() !== "")
-                        block.push("");
-                });
-            }
+            // if (delimiter === "" || delimiter.startsWith("#")) {
+            //     unsortedBlocks.forEach(block => {
+            //         if (block[block.length - 1].trim() !== "")
+            //             block.push("");
+            //     });
+            // }
             const fixedBlocks = fixedBlockIndexes.map(blockIndex => unsortedBlocks[blockIndex]);
             unsortedBlocks = unsortedBlocks.filter((_, index) => !fixedBlockIndexes.includes(index));
             if (sortBlockMode) {
@@ -189,7 +190,7 @@ function resortContent(lines) {
             fixedBlockIndexes.forEach((blockIndex, index) => unsortedBlocks.splice(blockIndex, 0, fixedBlocks[index]));
             // reinsert the restart tag at the col it was found
             if (restartTagCol >= 0) {
-                const tempRow = unsortedBlocks[0][0].split("|");
+                const tempRow = unsortedBlocks[0][0].split(tableColumnRE);
                 const originalLength = tempRow[restartTagCol].length;
                 tempRow[restartTagCol] = ` ${sortRestartTag}${tempRow[restartTagCol].trim()} `.padEnd(originalLength);
                 unsortedBlocks[0][0] = tempRow.join("|");
@@ -229,7 +230,7 @@ function resortContent(lines) {
             // checks for closed number tags in the text
             let numberValues = new Map();
 
-            sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, id, offset, start, end, closeTag) => {
+            sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, id, offset, start, end) => {
                 const mod = parseInt(type.substring(1));
                 const size = mod === 0 ? type.length - 1 : 1;
                 const zeroOneBased = (type[0] === "d" ? 1 : 0);
@@ -246,11 +247,11 @@ function resortContent(lines) {
                 const newRollValues = startValue.toString().padStart(size, '0')
                     .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(size, '0') : "");
                 numberValues.set(id, numberValues.get(id) + 1 + range);
-                return `${openTag}${newRollValues}${closeTag}`;
+                return `${openTag}${newRollValues}`;
             }));
 
             // reinsert previously sorted
-            sortedLines = sortedLines.map(line => line.replace(/\[SORTED-(.+)?\]/g, (match, uuid) => innerSortedBlocks.get(uuid)));
+            sortedLines = sortedLines.map(line => line.replace(sortedRE, (match, uuid) => innerSortedBlocks.get(uuid)));
 
             result.push(...sortedLines);
             if (!line.includes(sortRestartTag)) {
@@ -262,12 +263,13 @@ function resortContent(lines) {
             currTarget = result;
             newBlockReady = true;
             fixedBlockIndexes = [];
-            tempRow = line.split("|");
+            tempRow = line.split(tableColumnRE);
             restartTagCol = tempRow.findIndex(col => col.includes(sortRestartTag));
             const originalLength = tempRow[restartTagCol].length
             tempRow[restartTagCol] = tempRow[restartTagCol].replace(sortRestartTag, '').padEnd(originalLength);
             line = tempRow.join("|");
         }
+
         if (emptyLine) {
             currTarget.push(line);
             newBlockReady = !sortBlockMode;
@@ -277,7 +279,7 @@ function resortContent(lines) {
             currTarget.push(line);
             const uuid = crypto.randomUUID();
             innerSortedBlocks.set(uuid, resortContent(lines).join('\n'));
-            currTarget.push(`[SORTED-${uuid}]`);
+            currTarget.push(`<!--sorted-${uuid}-->`);
             continue;
         }
         if (sortBlockMode && line.trim() === sortBlockTag) {

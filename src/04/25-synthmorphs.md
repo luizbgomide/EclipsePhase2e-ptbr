@@ -32,9 +32,9 @@ Synthetic shells are made to last — a fact reflected in their higher Durabilit
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Case
 
@@ -60,7 +60,7 @@ Cases are mass-produced robotic shells, an affordable resleeving option for the 
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Spare
 
@@ -86,7 +86,7 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Dragonfly
 
@@ -112,9 +112,9 @@ The dragonfly takes the shape of a meter-long flexible shell with eight wings, f
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Swarmanoid
 
@@ -140,7 +140,7 @@ Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each indi
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Synth
 
@@ -166,7 +166,7 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Savant
 
@@ -192,9 +192,9 @@ Developed by brinker hardware hackers, savants feature neural-state enhancements
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Galatea
 
@@ -220,7 +220,7 @@ This high-end shell was designed to increase the appeal and social acceptance of
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Slitheroid
 
@@ -246,7 +246,7 @@ Slitheroid shells take the form of a humanoid torso with retractable arms atop a
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Steel Morph
 
@@ -272,7 +272,7 @@ Like the galatea, this upscale shell was designed to counter biochauvinist attit
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Arachnoid
 
@@ -361,9 +361,9 @@ All flexbots have the following stats, plus the stats for their module type:
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Crafter Module
 
@@ -387,7 +387,7 @@ Crafters are engineer modules, specialized in construction and fabrication.
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Rogue Module
 
@@ -411,7 +411,7 @@ Rogues are optimized for stealth and covert activities.
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Wizard Module
 
@@ -435,7 +435,7 @@ Wizard modules specialize in infosec and communications tasks.
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Fighter Module
 

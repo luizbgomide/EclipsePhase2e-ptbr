@@ -105,7 +105,7 @@ This cyberbrain enhancement allows more than one ego to control a single morph s
 
 For hacking and control purposes, the ego in the primary cyberbrain is considered the controller node, with each ghostrider module puppeted to it.
 
-<sort>
+<!--sort-->
 
 | MENTAL WARE        | Ware Type | Comp/<wbr>GP | Description                                                     |
 | :----------------- | :-------: | :----------: | :-------------------------------------------------------------- |
@@ -148,7 +148,7 @@ You are no longer alone. Your mind is inextricably linked with others in a vast,
 
 Conjoin and Synchroneity are new sleights available to all asyncs. The others sleights listed here are only available to asyncs with the Swarm sub-strain.
 
-<sort>
+<!--sort-->
 
 ### Conjoin (Psi-Chi)
 
@@ -182,4 +182,4 @@ When you are within 40 meters of a fork of yourself in a biomorph who also has t
 
 Asyncs with the Swarm Mind sleight may use this sleight to synchronize with any other async they are linked to who also has this sleight.
 
-</sort>
+<!--sort-end-->

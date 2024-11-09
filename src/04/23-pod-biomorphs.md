@@ -47,9 +47,9 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Novacrab
 
@@ -75,7 +75,7 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Pleasure Pod
 
@@ -100,11 +100,11 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Security Pod
 
@@ -129,7 +129,7 @@ Security pods were originally manufactured as mass-produced AI-operated soldiers
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Shaper
 
@@ -153,5 +153,5 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 

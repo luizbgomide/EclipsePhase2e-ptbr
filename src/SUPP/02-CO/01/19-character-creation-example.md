@@ -64,6 +64,8 @@ Now Adam adds all of the linked aptitudes to each of the skills. He remembers th
 
 ### Step 15 Skill List — Beginning
 
+<!--sort-->
+
 |                       |                            |
 | :-------------------- | :------------------------- |
 | Fray                  | 0 + (REF 15 x 2) = 30      |

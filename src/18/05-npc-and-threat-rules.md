@@ -6,7 +6,7 @@ The following rules apply to NPCs and other threats the GM uses.
 
 Each threat is given a classification:
 
-<sort>
+<!--sort-->
 
 - **AI:** Infolife and other digital entities primarily found in infomorph form (not including TITAN constructs). These follow the rules for [infomorphs](../13/08-infomorphs.md).
 - **Alien:** Sapient biological alien life. These have the Non-Human Biochemistry (Level 2) trait. Psi sleights might not work against these creatures or may be more difficult.

@@ -6,7 +6,7 @@ Downtime is normally counted in weeks. Each week, choose one downtime action. Th
 
 **Healing/Repair:** Recovering [mental](19-mental-healing-and-psychosurgery.md) and [physical health](17-healing-and-repair.md) is an important part of downtime, but it does not consume all of your time off. Consider healing/repair to happen in conjunction with the following downtime actions.
 
-<sort>
+<!--sort-->
 
 ## Acquire/Make Things
 
@@ -55,7 +55,7 @@ As you complete scenarios and gather experience during gameplay, you accumulate 
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
 ### Gain a Positive Ego Trait
 
@@ -95,9 +95,9 @@ You can eliminate the handicap of a negative ego trait through hard work and dil
 
 You can specialize in an existing skill, as long as that skill is at least rating 30. The cost to learn a specialization is 1RP. Only 1 specialization can be purchased per skill.
 
-</sort>
+<!--sort-end-->
 
-</sort>
+<!--sort-end-->
 
 <blockquote>
 

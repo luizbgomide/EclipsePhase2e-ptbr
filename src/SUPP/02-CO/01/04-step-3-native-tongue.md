@@ -22,9 +22,9 @@ Your native language is an indication of your character’s ethnic background an
 
 <div class="tnw1">
 
-<sort>
+<!--sort-->
 
-| d100<sort-n n00> | Language<sort-by> |
+| d100<!--sort-n00--> | Language<!--sort-by--> |
 | :--------------: | :---------------- |
 |      00–05       | Arabic            |
 |      06–08       | Bengali           |
@@ -52,7 +52,7 @@ Your native language is an indication of your character’s ethnic background an
 |      89–91       | Urdu              |
 |      92–93       | Vietnamese        |
 |      94–97       | Wu                |
-|      98–99       | Other<sort-fixed> |
+|      98–99       | Other<!--sort-fixed--> |
 
 </div>
 </blockquote>

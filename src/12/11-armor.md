@@ -2,7 +2,7 @@
 
 Armor technology has kept pace with weapons development, providing unprecedented levels of protection.
 
-<sort>
+<!--sort-->
 
 | ARMOR TYPE                | Ware Type | Energy | Kinetic | Comp/<wbr>GP | Notes                  |
 | :------------------------ | :-------: | :----: | :-----: | :----------: | :--------------------- |
@@ -61,7 +61,7 @@ Any armor with an AV of 11 or more is obvious and visible and will raise questio
 
 ## Armor Ware
 
-<sort>
+<!--sort-->
 
 **Bioweave:** The morph’s dermal layers are laced with spidersilk fibers, providing protection without changing the appearance, texture, or sensitivity of the skin.
 
@@ -75,13 +75,13 @@ Any armor with an AV of 11 or more is obvious and visible and will raise questio
 
 **Scale/Carapace:** As dermal armor, but combined with hard but flexible external chitinous scales and/or plates, modeled on arthropod exoskeletons. This armor is obvious and the skin has the appearance of a crocodile, insect, pangolin, snake, or similarly armored creature.
 
-</sort>
+<!--sort-end-->
 
 ## Armor Gear
 
 Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-grown plates, shock-absorbing fullerenes, diamond coatings, self-repairing ablative materials, and shear-resistant fluids that harden against impacts. These materials protect against (armorpiercing) bullets and kinetic impacts as well as bladed weapons and piercing, sharp objects. They also insulate against both the explosive heating of energy weapons and electrical shocks. While such armor protects against bullets, the layers simply catch the bullet and redistribute its kinetic energy across the body, which can still result in severe blunt force trauma.
 
-<sort>
+<!--sort-->
 
 **Armor Clothing:** Resilient fibers and fullerenes are interwoven with normal smart materials to provide a subtle level of security. Such garments are indistinguishable from regular smart clothing and come in all styles and designs.
 
@@ -103,5 +103,5 @@ Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-g
 
 **Second Skin:** This lightweight bodysuit, woven from spider silks and fullerenes, is typically worn as an underlayer, though some athletes use it as a uniform.
 
-</sort>
+<!--sort-end-->
 

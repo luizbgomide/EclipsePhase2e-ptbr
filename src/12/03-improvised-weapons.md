@@ -2,7 +2,7 @@
 
 Sometimes you’re caught off-guard and must use whatever is at hand — or maybe you just think you look cool whaling on someone with a meter of chain. The Improvised Weapons table offers statistics for a few likely ad-hoc items. GMs can use these as guidelines for handling items that aren’t listed. These weapons are wielded with Melee skill, though the GM may rule in some cases that an Exotic Skill is necessary.
 
-<sort>
+<!--sort-->
 
 | IMPROVISED WEAPONS  | Damage Value \[Average\] | Complexity | Notes                 |
 | :------------------ | :----------------------: | :--------: | :-------------------- |

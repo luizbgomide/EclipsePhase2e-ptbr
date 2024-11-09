@@ -72,9 +72,9 @@ This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to 
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Neo-Gorilla
 
@@ -99,7 +99,7 @@ Neo-gorillas benefit from enhanced cognition and upright stances like other neo-
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Neo-Octopus
 
@@ -125,7 +125,7 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Neo-Orangutan
 
@@ -151,5 +151,5 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 

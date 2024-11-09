@@ -46,9 +46,9 @@ Designed for online performers, media icons, and social networkers, this infomor
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Agent
 
@@ -72,7 +72,7 @@ Popular with network security specialists, penetration testers, and hackers, thi
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Operator
 
@@ -96,5 +96,5 @@ This infomorph is ideal for professions that involve drone remote operation, whe
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 

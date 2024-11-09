@@ -54,9 +54,9 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Exalt
 
@@ -80,7 +80,7 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Neotenic
 
@@ -106,7 +106,7 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Ruster
 
@@ -131,9 +131,9 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Bouncer
 
@@ -158,7 +158,7 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Futura
 
@@ -182,7 +182,7 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Hibernoid
 
@@ -206,7 +206,7 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Menton
 
@@ -230,7 +230,7 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Olympian
 
@@ -254,7 +254,7 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Sylph
 
@@ -279,11 +279,11 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
-<sort>
+<!--sort-->
 
-<sort-block>
+<!--sort-block-->
 
 ### Fury
 
@@ -309,7 +309,7 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 </blockquote>
 
-<sort-block>
+<!--sort-block-->
 
 ### Ghost
 
@@ -335,7 +335,7 @@ Ghosts are partially designed for combat applications, but their primary focus i
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 
 ### Remade
 

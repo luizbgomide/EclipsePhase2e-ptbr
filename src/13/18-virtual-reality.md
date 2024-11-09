@@ -60,7 +60,7 @@ Externally hacking into a server running a simulspace is just like breaking into
 
 Standard user options in a simulspace boil down to a few actions:
 
-<sort>
+<!--sort-->
 
 - **Access Simulspace Functions:** This catch-all action encompasses everything a normal user is meant to do in a simulspace. This includes things like customizing your simulmorph, chatting with other users, editing user-defined parameters, initiating mini-games, trading virtual items, viewing user profiles, accessing maps or background files, and so on. Some features may require an Interface Test.
 - **Activate Cheat Code:** If you know a cheat code, you can activate it to acquire what benefit it provides.
@@ -70,7 +70,7 @@ Standard user options in a simulspace boil down to a few actions:
 
 Admins and users with cheat codes have more options. The following represent just a few of the potential options — many others are possible, depending on the simulspace in question. Most simulspaces are monitored to prevent cheating and abuse, though admins are typically pre-occupied with maintaining the simulspace as a whole, dealing with other users, etc. At the gamemaster’s discretion, an admin might get to make an Interface Test (possibly with a modifier for distraction) to notice the use of unauthorized cheat codes.
 
-<sort>
+<!--sort-->
 
 - **Add/Remove Cheat Codes:** Either install a new cheat code or edit/remove an existing one. Writing or editing a cheat may require a Program Test with a timeframe set by the GM. Finding an existing cheat may require a Research Test. Installing a cheat code hidden from other admins requires a Hacking Test.
 - **Alter Domain Rules:** Most simulspaces have control interfaces that let you tweak the system settings within certain parameters; adjusting these does not require a test. Drastically altering a domain’s environment or underlying rules, however, will require a Program Test with a timeframe set by the GM.

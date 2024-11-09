@@ -15,7 +15,7 @@ The morphs here represent a fraction of the sleeves and shells available to char
 
 ### Morph List
 
-<sort>
+<!--sort-->
 
 | Morph                                                                             | Type       |    Cost    |
 | :-------------------------------------------------------------------------------- | :--------- | :--------: |

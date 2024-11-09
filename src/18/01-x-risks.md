@@ -14,7 +14,7 @@ Many Eclipse Phase campaigns focus around x-risks: dangers to transhumanity’s 
 
 Some of the x-risks that characters are liable to encounter (or cause).
 
-<sort>
+<!--sort-->
 
 ## Alien Conflict
 
@@ -68,5 +68,5 @@ As the team chases TITAN weapons, make exoplanet discoveries, or navigate underw
 
 There are some dangers that might be so beyond our understanding that we don’t even recognize the peril. Advanced technology/beings, physics experiment mistakes, rifts between our universe and the next, a shift in the underlying physics of the universe — how can we plan for something so beyond our frame of reference? Such black swans and outside-context problems cannot be predicted or discounted, but we can at least make some limited contingencies. Unfortunately, such situations are likely going to resort to a hard scrabble for survival.
 
-</sort>
+<!--sort-end-->
 

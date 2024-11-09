@@ -60,7 +60,7 @@ Individual mites are very vulnerable. They fail and get stepped on, breathed in,
 
 Swarms are released directly from a hive or from pre-packaged programmable canisters.
 
-<sort>
+<!--sort-->
 
 | SWARMS             |     Comp/<wbr>GP     | Description                                                                        |
 | :----------------- | :------------------: | :--------------------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | Spy Swarm          |        Min/1         | Surveillance, Perceive 60.                                                         |
 | Taggant Swarm      |        Min/1         | Tag everything in area for tracking purposes.                                      |
 
-<sort>
+<!--sort-->
 
 **Cleaner:** This nanoswarm cleans, polishes, and removes dirt and stains. You may deploy it to sanitize an area, specific objects, or people. Some facilities employ permanent cleaner swarms to keep their area spotless. Cleaners are especially useful for decontaminating an area of hazardous toxins or chemicals. Covert operatives and criminals use cleaners to eliminate potential forensic evidence, such as blood, hair, or anything that could be DNA-typed.
 
@@ -103,5 +103,5 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 
 **Taggant:** Taggants grip onto and lodge themselves into everything in their dispersal volume. Each carries a unique identifier, so that if it is found, the tagged person or object can be linked to the point they were tagged. Taggants can be programmed to remain silent, responding to query broadcasts made with the proper crypto codes, or they can be programmed to broadcast their location back to the deployer via the mesh. Some high-security facilities deploy taggants at their egress points when alarms are triggered to mark intruders.
 
-</sort>
+<!--sort-end-->
 

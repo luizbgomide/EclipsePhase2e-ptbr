@@ -6,7 +6,7 @@ Though conceptually skills are built on the aptitude values, this step is placed
 
 **Spending CP:** Extra aptitude points cost 1&nbsp;CP each. If you’re going to bump an aptitude, we recommend doing it now, before you calculate your skills in Step 6.
 
-<sort>
+<!--sort-->
 
 ### Actioneer
 
@@ -36,13 +36,13 @@ You have the will and stamina to scrape by in tough situations.
 
 You’ve never said no to a dare, but your fast reaction time and quick thinking compensate for your lack of foresight.
 
-</sort>
+<!--sort-end-->
 
 <blockquote class="table">
 
 ### Aptitude Template
 
-<sort>
+<!--sort-->
 
 | Template      |  COG  |  INT  |  REF  |  SAV  |  SOM  |  WIL  |
 | :------------ | :---: | :---: | :---: | :---: | :---: | :---: |

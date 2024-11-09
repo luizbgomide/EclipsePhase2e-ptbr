@@ -2,7 +2,7 @@
 
 The TITANs deployed numerous minions and deadly machines during the Fall, many of which remain and are still hostile.
 
-<sort>
+<!--sort-->
 
 ## Fetch
 
@@ -352,5 +352,5 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 
 </blockquote>
 
-</sort>
+<!--sort-end-->
 

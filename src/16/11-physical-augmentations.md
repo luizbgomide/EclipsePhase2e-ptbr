@@ -2,7 +2,7 @@
 
 Less combat-oriented, but no less useful, these body mods increase capabilities and provide new abilities. Note that many other pieces of equipment can be attached to a synthmorph’s shell and linked to their power systems and mesh inserts (GM discretion).
 
-<sort>
+<!--sort-->
 
 | PHYSICAL AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                                              |
 | :--------------------- | :-------: | :----------: | :------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 | Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |
 | Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).          |
 
-<sort>
+<!--sort-->
 
 **Circadian Regulation:** Your morph only requires 2 hours of sleep to maintain health and function at peak mental capacity. You dream constantly while asleep and can both fall asleep and wake up almost instantly. You can also easily shift to a 2-day cycle, awake for 44 hours then sleeping for 4, with no ill effects. You need only 2 hours for a long recharge of your pools ([Recharging Pools](../03/05-pools.md#recharging-pools)).
 
@@ -93,5 +93,5 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Wings:** Your morph is equipped with a pair of wings; either additional limbs or restructured arms. For small morphs, this allows gliding and limited flight in Earth-like gravities. Medium-sized morphs can fly in gravity less than 0.15&nbsp;g; in higher gravity they may be used to glide. Large and very large morphs may not use this augmentation. Most wing designs are transgenic and based on bat physiology, so that they may be easily folded when not in use. If combined with the retracting limb ware, these wings may be folded into your arms or back.
 
-</sort>
+<!--sort-end-->
 

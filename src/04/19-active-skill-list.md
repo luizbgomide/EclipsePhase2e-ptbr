@@ -6,7 +6,7 @@ Active skills represent things your character does. They usually require some so
 
 ### Skill List
 
-<sort>
+<!--sort-->
 
 | Skill                                           | Linked Aptitude          | Type                     |
 | :---------------------------------------------- | :----------------------- | :----------------------- |
@@ -35,7 +35,7 @@ Active skills represent things your character does. They usually require some so
 
 </blockquote>
 
-<sort>
+<!--sort-->
 
 ## Athletics
 
@@ -361,5 +361,5 @@ Use Survival to navigate, track a person or animal in the wild, find safe food a
 
 </div>
 
-</sort>
+<!--sort-end-->
 

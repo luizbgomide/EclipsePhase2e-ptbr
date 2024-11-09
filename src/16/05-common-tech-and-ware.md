@@ -6,7 +6,7 @@ The following equipment is ubiquitous throughout the Solar System.
 
 Most morphs include the following augmentations.
 
-<sort>
+<!--sort-->
 
 | STANDARD AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                             |
 | :--------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ Most morphs include the following augmentations.
 | Mnemonics              |    CHM    |    Min/1     | Enhanced memory; +20 memory-related COG checks.                         |
 | Puppet Sock            |    CH     |    Mod/2     | Allows morph to be remote controlled.                                   |
 
-<sort>
+<!--sort-->
 
 **Access Jacks:** Usually placed at the base of the skull, this external socket allows a direct neural interface with a cyberbrain or mesh inserts. A retractable fiberoptic cable enables you to plug into devices to access them directly, or to create a direct wired link to another person, allowing you to speak mind-to-mind and exchange data without fear of wireless sniffing. Access jacks are installed with all cyberbrains (and thus all pods and synthmorphs) by default.
 
@@ -30,7 +30,7 @@ Most morphs include the following augmentations.
 
 **Mesh Inserts:** This network of implants is mandatory for people who want to use augmented reality and link wirelessly to the mesh. The various components include:
 
-<sort-union>
+<!--sort-union-->
 
 - **Cranial Computer:** This host serves as the hub for your personal area network and is home to your muse. It manages your augmented reality input and processes XP data, enabling you to share your sensorium with others in real-time. It is loaded with basic apps and provides all the functions you would expect from a mobile device: file storage, search engine, media player, mesh browser, address book, e-mail, messaging, and so forth.
 - **Medical/Diagnostic Sensors:** This array monitors your health, including heart rate, respiration, blood pressure, temperature, neural activity, ware status, and more. In synthmorphs, this system monitors system reports and error logs, heat, stress faults, and similar hardware statuses.
@@ -41,13 +41,13 @@ Most morphs include the following augmentations.
 
 **Puppet Sock:** Puppet socks allow a morph to be remotely controlled, just like a drone ([Remote Operations](21-robots.md#remote-operations)). While active, the puppet has no control over their body and is simply along for the ride. Too long in this situation can lead to stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)). Morphs with damage that reaches/exceeds their Durability cannot be puppeted.
 
-</sort>
+<!--sort-end-->
 
 ## Everyday Technology
 
 These devices are easily available in almost all habitats.
 
-<sort>
+<!--sort-->
 
 | EVERYDAY TECH                | Comp/<wbr>GP | Description                                                                              |
 | :--------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -64,13 +64,13 @@ These devices are easily available in almost all habitats.
 | Specs                        |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
 | Standard Battery             |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
 | Tools (Kit)                  |    Min/1     | Portable, applies to specific skill.                                                     |
-| <sort-union>Tools (Shop)     |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
-| <sort-union>Tools (Facility) |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
+| <!--sort-union-->Tools (Shop)     |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
+| <!--sort-union-->Tools (Facility) |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
 | Utilitool                    |    Min/1     | All-purpose smart-material tool.                                                         |
 | Viewers                      |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
 | Wireless Energy Transmitter  |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
 
-<sort>
+<!--sort-->
 
 **Breather:** Ideal for Mars and exoplanets where you need air but not a full vacsuit, breathers consist of a face masks and a backpack or side pouch unit. It converts carbon dioxide into breathable oxygen indefinitely. For environments without convertible CO2 atmospheres (such as Titan), a small air tank provides 2 hours of breathable air.
 
@@ -104,5 +104,5 @@ These devices are easily available in almost all habitats.
 
 **Wireless Energy Transmitter:** When plugged into an energy source, this transmitter will transfer power to devices within 20 meters via near-field resonant inductive coupling. These are common in habitat areas, both public and private.
 
-</sort>
+<!--sort-end-->
 
