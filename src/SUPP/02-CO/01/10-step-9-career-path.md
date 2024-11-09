@@ -47,8 +47,15 @@ The career decided here is either the one you practiced most notably during your
 <sort>
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Academic ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 1 ❮**<sort-static>
+
+</div></div>
 
 **You devote your efforts to the pursuit of knowledge.**
 
@@ -64,7 +71,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=academic offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -101,7 +108,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=academic offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -138,7 +145,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=academic offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -171,8 +178,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Covert Operative ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 2 ❮**<sort-static>
+
+</div></div>
 
 **You are skilled at accessing places you don’t belong.**
 
@@ -188,7 +202,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=covert offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -225,7 +239,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=covert offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -261,7 +275,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=covert offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -293,8 +307,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Enforcer ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 3 ❮**<sort-static>
+
+</div></div>
 
 **You’re a thug, whether for hire or for a dedicated cause.**
 
@@ -310,7 +331,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enforcer offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -347,7 +368,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enforcer offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -384,7 +405,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enforcer offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -417,8 +438,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Explorer ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 4 ❮**<sort-static>
+
+</div></div>
 
 **You walk on alien worlds and see things others wouldn’t believe.**
 
@@ -434,7 +462,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=explorer offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -471,7 +499,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=explorer offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -509,7 +537,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=explorer offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -543,8 +571,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Face ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 5 ❮**<sort-static>
+
+</div></div>
 
 **You excel at convincing others, even when it is not in their best interests.**
 
@@ -560,7 +595,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=face offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -596,7 +631,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=face offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -632,7 +667,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=face offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -665,8 +700,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Genehacker ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 6 ❮**<sort-static>
+
+</div></div>
 
 **DNA is your artistic medium.**
 
@@ -682,7 +724,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=genehacker offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -720,7 +762,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=genehacker offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -757,7 +799,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=genehacker offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -790,8 +832,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Hacker ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 1–5 & 7 ❮**<sort-static>
+
+</div></div>
 
 **Software heeds your beck and call.**
 
@@ -807,7 +856,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hacker offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -843,7 +892,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hacker offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -879,7 +928,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hacker offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -912,8 +961,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Investigator ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 1 ❮**<sort-static>
+
+</div></div>
 
 **Few details escape your scrutiny.**
 
@@ -929,7 +985,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=investigator offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -966,7 +1022,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=investigator offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1003,7 +1059,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=investigator offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1036,8 +1092,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Medic ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 2 ❮**<sort-static>
+
+</div></div>
 
 **You have a background in medicine.**
 
@@ -1053,7 +1116,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=medic offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1090,7 +1153,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=medic offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1127,7 +1190,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=medic offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1160,8 +1223,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Mindhacker ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 3 ❮**<sort-static>
+
+</div></div>
 
 **You meld minds and memories.**
 
@@ -1177,7 +1247,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=mindhacker offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1214,7 +1284,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=mindhacker offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1251,7 +1321,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=mindhacker offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1285,8 +1355,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Scavenger ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 4 ❮**<sort-static>
+
+</div></div>
 
 **You scrounge through wrecks and ruins, seeking value in destruction.**
 
@@ -1302,7 +1379,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scavenger offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1340,7 +1417,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scavenger offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1378,7 +1455,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scavenger offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1411,8 +1488,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Scientist ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 5 ❮**<sort-static>
+
+</div></div>
 
 **You excel at convincing others, even when it is not in their best interests.**
 
@@ -1428,7 +1512,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scientist offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1466,7 +1550,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scientist offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1503,7 +1587,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=scientist offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1539,8 +1623,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Soldier ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 6 ❮**<sort-static>
+
+</div></div>
 
 **You deploy violence — or the threat of it.**
 
@@ -1556,7 +1647,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=soldier offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1591,7 +1682,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=soldier offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1629,7 +1720,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=soldier offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 
@@ -1662,8 +1753,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
+<div class="line-spread">
 
 ## Techie ❮d100❯
+
+<div class="no-wrap">
+
+**❯ 6–10 & 7 ❮**<sort-static>
+
+</div></div>
 
 **You make and fix things.**
 
@@ -1679,7 +1777,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=techie offset=1>01–33</sort-n> ❮**
+**❯ 00–32 ❮**<sort-static>
 
 </div></div>
 
@@ -1714,7 +1812,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=techie offset=1>34–66</sort-n> ❮**
+**❯ 33–66 ❮**<sort-static>
 
 </div></div>
 
@@ -1752,7 +1850,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=techie offset=1>67–99</sort-n> ❮**
+**❯ 67–99 ❮**<sort-static>
 
 </div></div>
 

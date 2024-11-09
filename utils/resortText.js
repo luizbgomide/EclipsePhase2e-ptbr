@@ -2,6 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 const readline = require('readline');
+const crypto = require("crypto");
 const { compareText, stripHtml } = require('./helpers')
 
 // those must be on a single line by themselves surronded by empty lines to prevent issues with MD parsing
@@ -18,6 +19,7 @@ const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
 // those should be placed on the item affected by them
 const sortUnionTag = "<sort-union>"; // join with the previous item during sorting
 const sortFixedTag = "<sort-fixed>"; // keep this on a fixed position (start a new block if needed)
+const sortStaticTag = "<sort-static>"; // the lines marked as static will be redistributed in the same original order after sorting
 const sortRestartTag = "<sort-restart>" // on tables and lists end the previous sort and restart a new one
 const sortNumberTagRE = /(<sort-n ([nd]\d+)=(\w+)(?: offset=(\d+))?>)(\d+)(?:[-–](\d+))?(<\/sort-n>)/g;
 const sortHereTagRE = /.*<sort-here>/; // mark where the line should start for sorting purposes, eg, to skip articles like "the"
@@ -125,7 +127,6 @@ function resortContent(lines) {
                 const value = (type[0] === "d" ? 1 : 0) + (numberTagMatch[2] ? parseInt(numberTagMatch[2]) : 0);
                 const numberSettings = { type, mod, size, value };
                 tableNumberCols.set(index, numberSettings);
-                console.log(numberSettings)
             }
         }
         tableByCol = cols.findIndex(value => value.includes(sortTableByTag));
@@ -141,6 +142,8 @@ function resortContent(lines) {
     let currTarget = result;
     let newBlockReady = true;
     let fixedBlockIndexes = [];
+    let staticLines = [];
+    let innerSortedBlocks = new Map();
     let ended = false;
     let restartTagCol = -1;
     while (lines.length > 0) {
@@ -159,6 +162,7 @@ function resortContent(lines) {
             if (sortBlockMode) {
                 unsortedBlocks = unsortedBlocks.map(lines => lines.join("\n"));
                 unsortedBlocks.sort((a, b) => compare(a, b));
+                unsortedBlocks = unsortedBlocks.map(blocks => blocks.split("\n"));
             } else if (delimiter === "|") {
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.split(tableColumnRE)));
                 if (tableCellCols.length > 0) { // sort only cell content
@@ -192,6 +196,13 @@ function resortContent(lines) {
             }
 
             let sortedLines = unsortedBlocks.flat();
+
+            // reinsert static lines
+            if (staticLines.length > 0) {
+                sortedLines = sortedLines.map(line => line.includes(sortStaticTag) ? staticLines.shift() : line);
+            }
+
+            // run sorted cols
             if (tableNumberCols.size > 0) {
                 let tableRows = sortedLines.map(row => row.split(tableColumnRE));
                 for (const [colIndex, numberSettings] of tableNumberCols) {
@@ -209,7 +220,7 @@ function resortContent(lines) {
                         const newRollValues = startValue.toString().padStart(numberSettings.size, '0')
                             .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberSettings.size, '0') : "");
                         row[colIndex] = newRollValues.padStart((cell.length + newRollValues.length) / 2).padEnd(cell.length);
-                        numberSettings.value = endValue + 1;
+                        numberSettings.value += 1 + range;
                     }
                 }
                 sortedLines = tableRows.map(row => row.join("|"));
@@ -217,27 +228,29 @@ function resortContent(lines) {
 
             // checks for closed number tags in the text
             let numberValues = new Map();
-            // TODO redo this as the col type
+
             sortedLines = sortedLines.map(line => line.replace(sortNumberTagRE, (match, openTag, type, id, offset, start, end, closeTag) => {
+                const mod = parseInt(type.substring(1));
+                const size = mod === 0 ? type.length - 1 : 1;
+                const zeroOneBased = (type[0] === "d" ? 1 : 0);
+                const offsetValue = offset ? parseInt(offset) : 0;
                 let range = end ? Number.parseInt(end) - Number.parseInt(start) : 0;
-                if (range < 0 && type === "d10")
-                    range += 10; // n-0 in d10
                 if (!numberValues.has(id)) {
                     numberValues.set(id, 0);
                 }
-                const modValue = type === "d100" ? 100 :
-                    type === "d10" ? 10 : Infinity;
-                // d10/count starts at 1 and d100 at 0
-                const zeroIndex = type !== "d100" ? 1 : 0;
-                const offsetValue = parseInt(offset ?? "0");
-                const startValue = ((numberValues.get(id) + offsetValue) % modValue) + zeroIndex;
+                let startValue = (numberValues.get(id) + offsetValue + zeroOneBased) % (mod === 0 ? 10 ** size : mod);
+                if (startValue === 0 && mod !== 0) {
+                    startValue = mod;
+                }
                 const endValue = startValue + range;
-                const numberWidth = type === "d100" ? 2 : 1;
-                const newRollValues = startValue.toString().padStart(numberWidth, '0')
-                    .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(numberWidth, '0') : "");
+                const newRollValues = startValue.toString().padStart(size, '0')
+                    .concat(startValue !== endValue ? rollDash + endValue.toString().padStart(size, '0') : "");
                 numberValues.set(id, numberValues.get(id) + 1 + range);
                 return `${openTag}${newRollValues}${closeTag}`;
             }));
+
+            // reinsert previously sorted
+            sortedLines = sortedLines.map(line => line.replace(/\[SORTED-(.+)?\]/g, (match, uuid) => innerSortedBlocks.get(uuid)));
 
             result.push(...sortedLines);
             if (!line.includes(sortRestartTag)) {
@@ -262,7 +275,9 @@ function resortContent(lines) {
         }
         if (line.trim() === sortTag) { // sort tag should always be on single line surronded by empty lines
             currTarget.push(line);
-            currTarget.push(...resortContent(lines));
+            const uuid = crypto.randomUUID();
+            innerSortedBlocks.set(uuid, resortContent(lines).join('\n'));
+            currTarget.push(`[SORTED-${uuid}]`);
             continue;
         }
         if (sortBlockMode && line.trim() === sortBlockTag) {
@@ -287,6 +302,9 @@ function resortContent(lines) {
             unsortedBlocks.push([]);
             currTarget = unsortedBlocks[unsortedBlocks.length - 1];
             newBlockReady = delimiter !== "";
+        }
+        if (line.includes(sortStaticTag)) {
+            staticLines.push(line);
         }
         currTarget.push(line);
     }

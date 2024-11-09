@@ -39,7 +39,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 |        7        | [Isolate](#isolate-d100)       | You eke out a self-exiled existence in a remote hab or ship on the fringes of occupied space.        |
 |        8        | [Lost](#lost-d100)             | You undergo an accelerated-growth childhood that turns most of your peers into sociopathic monsters. |
 |        9        | [Underclass](#underclass-d100) | You’re a veteran of Earth’s slums, favelas, and flooded cities.                                      |
-|        10        | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
+|       10        | [Uplift](#uplift-d100)         | You are an uplifted animal raised to human levels of intelligence.                                   |
 
 </blockquote>
 
@@ -52,7 +52,7 @@ In most cases, your starting morph indicates the one with which you were born. C
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 1 ❮**<sort-static>
 
 </div></div>
 
@@ -70,7 +70,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>00–14</sort-n> ❮**
+**❯ <sort-n n00=colonist>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -123,7 +123,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>15–39</sort-n> ❮**
+**❯ <sort-n n00=colonist>15–39</sort-n> ❮**
 
 </div></div>
 
@@ -175,7 +175,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>40–54</sort-n> ❮**
+**❯ <sort-n n00=colonist>40–54</sort-n> ❮**
 
 </div></div>
 
@@ -227,7 +227,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>55–64</sort-n> ❮**
+**❯ <sort-n n00=colonist>55–64</sort-n> ❮**
 
 </div></div>
 
@@ -278,7 +278,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>65–79</sort-n> ❮**
+**❯ <sort-n n00=colonist>65–79</sort-n> ❮**
 
 </div></div>
 
@@ -307,7 +307,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                 |      |
 | :------------------------------ | ---: |
 | @-rep                           |   20 |
-| <sort-restart>Mandarin language |
+| <sort-restart>Mandarin language |      |
 | <sort-restart>Athletics         |   40 |
 | Hardware: Robotics              |   55 |
 | Interface                       |   30 |
@@ -329,7 +329,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>80–89</sort-n> ❮**
+**❯ <sort-n n00=colonist>80–89</sort-n> ❮**
 
 </div></div>
 
@@ -359,7 +359,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 | :-------------------------------------- | ------: |
 | c-rep                                   |      20 |
 | g-rep                                   |      10 |
-| <sort-restart>1 language of your choice |
+| <sort-restart>1 language of your choice |         |
 | <sort-restart>Free Fall                 |      40 |
 | Hardware: Aerospace                     |      40 |
 | Interface                               |      30 |
@@ -381,7 +381,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=colonist>90–99</sort-n> ❮**
+**❯ <sort-n n00=colonist>90–99</sort-n> ❮**
 
 </div></div>
 
@@ -434,7 +434,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 2 ❮**<sort-static>
 
 </div></div>
 
@@ -452,7 +452,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enclaver>00–19</sort-n> ❮**
+**❯ <sort-n n00=enclaver>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -480,7 +480,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   10 |
-| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Resources (Level 1) trait |      |
 | <sort-restart>Athletics                 |   20 |
 | Interface                               |   40 |
 | Kinesics                                |   20 |
@@ -503,7 +503,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enclaver>20–39</sort-n> ❮**
+**❯ <sort-n n00=enclaver>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -530,7 +530,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Resources (Level 2) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Interface                               |   40 |
 | Kinesics                                |   30 |
@@ -553,7 +553,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enclaver>40–59</sort-n> ❮**
+**❯ <sort-n n00=enclaver>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -580,7 +580,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Resources (Level 2) trait |      |
 | <sort-restart>Athletics                 |   20 |
 | Interface                               |   40 |
 | Kinesics                                |   40 |
@@ -603,7 +603,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enclaver>60–79</sort-n> ❮**
+**❯ <sort-n n00=enclaver>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -631,7 +631,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 | :-------------------------------------- | ---: |
 | c-rep                                   |   10 |
 | f-rep                                   |   10 |
-| <sort-restart>Resources (Level 2) trait |
+| <sort-restart>Resources (Level 2) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Interface                               |   40 |
 | Kinesics                                |   30 |
@@ -654,7 +654,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=enclaver>80–99</sort-n> ❮**
+**❯ <sort-n n00=enclaver>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -683,7 +683,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 | :-------------------------------------- | ---: |
 | c-rep                                   |   10 |
 | g-rep                                   |   20 |
-| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Resources (Level 1) trait |      |
 | <sort-restart>Athletics                 |   20 |
 | Deceive                                 |   20 |
 | Interface                               |   30 |
@@ -709,7 +709,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 3 ❮**<sort-static>
 
 </div></div>
 
@@ -727,7 +727,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=freelancer>00–19</sort-n> ❮**
+**❯ <sort-n n00=freelancer>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -755,7 +755,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   15 |
-| <sort-restart>1 language of your choice |
+| <sort-restart>1 language of your choice |      |
 | <sort-restart>Infiltrate                |   20 |
 | Interface                               |   40 |
 | Kinesics                                |   30 |
@@ -778,7 +778,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=freelancer>20–39</sort-n> ❮**
+**❯ <sort-n n00=freelancer>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -830,7 +830,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=freelancer>40–59</sort-n> ❮**
+**❯ <sort-n n00=freelancer>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -880,7 +880,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=freelancer>60–79</sort-n> ❮**
+**❯ <sort-n n00=freelancer>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -908,7 +908,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Resources (Level 1) trait |      |
 | <sort-restart>Interface                 |   40 |
 | Kinesics                                |   20 |
 | Persuade                                |   40 |
@@ -931,7 +931,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=freelancer>80–99</sort-n> ❮**
+**❯ <sort-n n00=freelancer>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -985,7 +985,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 4 ❮**<sort-static>
 
 </div></div>
 
@@ -1003,7 +1003,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hyperelite>00–19</sort-n> ❮**
+**❯ <sort-n n00=hyperelite>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -1032,7 +1032,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Resources (Level 3) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Hardware: Robotics                      |   30 |
 | Kinesics                                |   50 |
@@ -1054,7 +1054,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hyperelite>20–39</sort-n> ❮**
+**❯ <sort-n n00=hyperelite>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -1084,7 +1084,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Resources (Level 3) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Deceive                                 |   20 |
 | Kinesics                                |   50 |
@@ -1106,7 +1106,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hyperelite>40–59</sort-n> ❮**
+**❯ <sort-n n00=hyperelite>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1135,7 +1135,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | f-rep                                   |   20 |
-| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Resources (Level 3) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Deceive                                 |   40 |
 | Kinesics                                |   40 |
@@ -1157,7 +1157,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hyperelite>60–79</sort-n> ❮**
+**❯ <sort-n n00=hyperelite>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -1187,7 +1187,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
-| <sort-restart>Resources (Level 4) trait |
+| <sort-restart>Resources (Level 4) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Deceive                                 |   30 |
 | Kinesics                                |   50 |
@@ -1209,7 +1209,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=hyperelite>80–99</sort-n> ❮**
+**❯ <sort-n n00=hyperelite>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -1240,7 +1240,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 | :-------------------------------------- | ---: |
 | c-rep                                   |   10 |
 | f-rep                                   |   10 |
-| <sort-restart>Resources (Level 3) trait |
+| <sort-restart>Resources (Level 3) trait |      |
 | <sort-restart>Athletics                 |   30 |
 | Deceive                                 |   30 |
 | Kinesics                                |   50 |
@@ -1264,7 +1264,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 5 ❮**<sort-static>
 
 </div></div>
 
@@ -1282,7 +1282,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>00–14</sort-n> ❮**
+**❯ <sort-n n00=indenture>00–14</sort-n> ❮**
 
 </div></div>
 
@@ -1333,7 +1333,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>15–24</sort-n> ❮**
+**❯ <sort-n n00=indenture>15–24</sort-n> ❮**
 
 </div></div>
 
@@ -1384,7 +1384,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>25–39</sort-n> ❮**
+**❯ <sort-n n00=indenture>25–39</sort-n> ❮**
 
 </div></div>
 
@@ -1435,7 +1435,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>40–59</sort-n> ❮**
+**❯ <sort-n n00=indenture>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -1489,7 +1489,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>60–69</sort-n> ❮**
+**❯ <sort-n n00=indenture>60–69</sort-n> ❮**
 
 </div></div>
 
@@ -1540,7 +1540,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>70–84</sort-n> ❮**
+**❯ <sort-n n00=indenture>70–84</sort-n> ❮**
 
 </div></div>
 
@@ -1593,7 +1593,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=indenture>85–99</sort-n> ❮**
+**❯ <sort-n n00=indenture>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1645,7 +1645,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06�
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 6 ❮**<sort-static>
 
 </div></div>
 
@@ -1663,7 +1663,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>00–09</sort-n> ❮**
+**❯ <sort-n n00=infolife>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -1691,7 +1691,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                    |      |
 | :--------------------------------- | ---: |
 | Ego Flex                           |    1 |
-| <sort-restart>Anomalous Mind trait |
+| <sort-restart>Anomalous Mind trait |      |
 | <sort-restart>Deceive              |   40 |
 | Infosec                            |   50 |
 | Interface                          |   40 |
@@ -1714,7 +1714,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>10–24</sort-n> ❮**
+**❯ <sort-n n00=infolife>10–24</sort-n> ❮**
 
 </div></div>
 
@@ -1742,9 +1742,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                       |      |
 | :------------------------------------ | ---: |
 | c-rep                                 |   10 |
-| <sort-restart>Emotive Blindness trait |
-| Real World Naiveté trait              |
-| Superior Numeracy (Level 2) trait     |
+| <sort-restart>Emotive Blindness trait |      |
+| Real World Naiveté trait              |      |
+| Superior Numeracy (Level 2) trait     |      |
 | <sort-restart>Infosec                 |   60 |
 | Interface                             |   60 |
 | Program                               |   60 |
@@ -1765,7 +1765,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>25–49</sort-n> ❮**
+**❯ <sort-n n00=infolife>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -1794,7 +1794,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                          |      |
 | :--------------------------------------- | ---: |
 | c-rep                                    |   10 |
-| <sort-restart>2 languages of your choice |
+| <sort-restart>2 languages of your choice |      |
 | <sort-restart>Infosec                    |   20 |
 | Interface                                |   50 |
 | Kinesics                                 |   40 |
@@ -1817,7 +1817,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>50–74</sort-n> ❮**
+**❯ <sort-n n00=infolife>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -1845,8 +1845,8 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                     |      |
 | :---------------------------------- | ---: |
 | c-rep                               |   10 |
-| <sort-restart>Composure trait       |
-| Emotive Blindness trait             |
+| <sort-restart>Composure trait       |      |
+| Emotive Blindness trait             |      |
 | <sort-restart>Hardware: Electronics |   30 |
 | Infosec                             |   40 |
 | Interface                           |   60 |
@@ -1867,7 +1867,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>75–84</sort-n> ❮**
+**❯ <sort-n n00=infolife>75–84</sort-n> ❮**
 
 </div></div>
 
@@ -1918,7 +1918,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=infolife>85–99</sort-n> ❮**
+**❯ <sort-n n00=infolife>85–99</sort-n> ❮**
 
 </div></div>
 
@@ -1969,7 +1969,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 7 ❮**<sort-static>
 
 </div></div>
 
@@ -1987,7 +1987,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=isolate>00–24</sort-n> ❮**
+**❯ <sort-n n00=isolate>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -2040,7 +2040,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=isolate>25–49</sort-n> ❮**
+**❯ <sort-n n00=isolate>25–49</sort-n> ❮**
 
 </div></div>
 
@@ -2067,7 +2067,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                         |      |
 | :-------------------------------------- | ---: |
 | c-rep                                   |   10 |
-| <sort-restart>Resources (Level 1) trait |
+| <sort-restart>Resources (Level 1) trait |      |
 | <sort-restart>Free Fall                 |   40 |
 | Guns                                    |   20 |
 | Hardware: Industrial                    |   40 |
@@ -2091,7 +2091,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=isolate>50–74</sort-n> ❮**
+**❯ <sort-n n00=isolate>50–74</sort-n> ❮**
 
 </div></div>
 
@@ -2144,7 +2144,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=isolate>75–99</sort-n> ❮**
+**❯ <sort-n n00=isolate>75–99</sort-n> ❮**
 
 </div></div>
 
@@ -2196,7 +2196,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 8 ❮**<sort-static>
 
 </div></div>
 
@@ -2214,7 +2214,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=lost>00–09</sort-n> ❮**
+**❯ <sort-n n00=lost>00–09</sort-n> ❮**
 
 </div></div>
 
@@ -2240,10 +2240,10 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 |                                                 |      |
 | :---------------------------------------------- | ---: |
-| Dominant Strain trait                           |
-| Hardening (the Unknown) trait                   |
-| Psi (Level 2) trait                             |
-| <sort-restart>5 psi sleights (random or choose) |
+| Dominant Strain trait                           |      |
+| Hardening (the Unknown) trait                   |      |
+| Psi (Level 2) trait                             |      |
+| <sort-restart>5 psi sleights (random or choose) |      |
 | <sort-restart>Deceive                           |   40 |
 | Infiltrate                                      |   20 |
 | Kinesics                                        |   30 |
@@ -2264,7 +2264,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=lost>10–34</sort-n> ❮**
+**❯ <sort-n n00=lost>10–34</sort-n> ❮**
 
 </div></div>
 
@@ -2291,11 +2291,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                                            |      |
 | :--------------------------------------------------------- | ---: |
 | INT                                                        |    5 |
-| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |
-| Mental Disorder [Choose One] trait                         |
-| Psi Camouflage (Level 1) trait                             |
-| Psi (Level 2) trait                                        |
-| <sort-restart>4 psi sleights (random or choose)            |
+| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |      |
+| Mental Disorder [Choose One] trait                         |      |
+| Psi Camouflage (Level 1) trait                             |      |
+| Psi (Level 2) trait                                        |      |
+| <sort-restart>4 psi sleights (random or choose)            |      |
 | Deceive                                                    |   30 |
 | Infiltrate                                                 |   40 |
 | Kinesics                                                   |   40 |
@@ -2316,7 +2316,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=lost>35–59</sort-n> ❮**
+**❯ <sort-n n00=lost>35–59</sort-n> ❮**
 
 </div></div>
 
@@ -2343,8 +2343,8 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                                 |      |
 | :---------------------------------------------- | ---: |
 | WIL                                             |    5 |
-| <sort-restart>Psi (Level 2) trait               |
-| <sort-restart>3 psi sleights (random or choose) |
+| <sort-restart>Psi (Level 2) trait               |      |
+| <sort-restart>3 psi sleights (random or choose) |      |
 | <sort-restart>Deceive                           |   40 |
 | Infiltrate                                      |   20 |
 | Kinesics                                        |   40 |
@@ -2365,7 +2365,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=lost>60–79</sort-n> ❮**
+**❯ <sort-n n00=lost>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2392,11 +2392,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                                            |      |
 | :--------------------------------------------------------- | ---: |
 | SAV                                                        |    5 |
-| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |
-| Hardening (Violence) trait                                 |
-| Psi (Level 2) trait                                        |
-| Restricted Behavior (Empathy, Level 3) trait               |
-| <sort-restart>4 psi sleights (random or choose)            |
+| <sort-restart>Enhanced Behavior (Impulsive, Level 2) trait |      |
+| Hardening (Violence) trait                                 |      |
+| Psi (Level 2) trait                                        |      |
+| Restricted Behavior (Empathy, Level 3) trait               |      |
+| <sort-restart>4 psi sleights (random or choose)            |      |
 | <sort-restart>Deceive                                      |   40 |
 | Infiltrate                                                 |   20 |
 | Kinesics                                                   |   30 |
@@ -2418,7 +2418,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=lost>80–99</sort-n> ❮**
+**❯ <sort-n n00=lost>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2444,11 +2444,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 |                                                 |      |
 | :---------------------------------------------- | ---: |
-| Hardening (Alienation, the Unknown) trait       |
-| Psi (Level 2) trait                             |
-| Real World Naiveté trait                        |
-| Zoosemiotics trait                              |
-| <sort-restart>4 psi sleights (random or choose) |
+| Hardening (Alienation, the Unknown) trait       |      |
+| Psi (Level 2) trait                             |      |
+| Real World Naiveté trait                        |      |
+| Zoosemiotics trait                              |      |
+| <sort-restart>4 psi sleights (random or choose) |      |
 | <sort-restart>Deceive                           |   20 |
 | Infiltrate                                      |   30 |
 | Kinesics                                        |   40 |
@@ -2472,7 +2472,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 9 ❮**<sort-static>
 
 </div></div>
 
@@ -2490,7 +2490,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=underclass>00–19</sort-n> ❮**
+**❯ <sort-n n00=underclass>00–19</sort-n> ❮**
 
 </div></div>
 
@@ -2543,7 +2543,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=underclass>20–39</sort-n> ❮**
+**❯ <sort-n n00=underclass>20–39</sort-n> ❮**
 
 </div></div>
 
@@ -2594,7 +2594,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=underclass>40–59</sort-n> ❮**
+**❯ <sort-n n00=underclass>40–59</sort-n> ❮**
 
 </div></div>
 
@@ -2644,7 +2644,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=underclass>60–79</sort-n> ❮**
+**❯ <sort-n n00=underclass>60–79</sort-n> ❮**
 
 </div></div>
 
@@ -2674,8 +2674,8 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 | :---------------------------------------- | ---: |
 | @-rep                                     |   10 |
 | g-rep                                     |   10 |
-| <sort-restart>Situational Awareness trait |
-| <sort-restart>1 language of your choice   |
+| <sort-restart>Situational Awareness trait |      |
+| <sort-restart>1 language of your choice   |      |
 | <sort-restart>Deceive                     |   40 |
 | Fray                                      |   30 |
 | Kinesics                                  |   40 |
@@ -2698,7 +2698,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=underclass>80–99</sort-n> ❮**
+**❯ <sort-n n00=underclass>80–99</sort-n> ❮**
 
 </div></div>
 
@@ -2752,7 +2752,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d10=background>1</sort-n> ❮**
+**❯ 10 ❮**<sort-static>
 
 </div></div>
 
@@ -2770,7 +2770,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=uplift>00–24</sort-n> ❮**
+**❯ <sort-n n00=uplift>00–24</sort-n> ❮**
 
 </div></div>
 
@@ -2820,7 +2820,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=uplift>25–44</sort-n> ❮**
+**❯ <sort-n n00=uplift>25–44</sort-n> ❮**
 
 </div></div>
 
@@ -2847,9 +2847,9 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                     |      |
 | :---------------------------------- | ---: |
 | c-rep                               |   10 |
-| <sort-restart>Danger Instinct trait |
-| Domineering Impulses trait          |
-| Emotive Blindness trait             |
+| <sort-restart>Danger Instinct trait |      |
+| Domineering Impulses trait          |      |
+| Emotive Blindness trait             |      |
 | <sort-restart>Athletics             |   40 |
 | Fray                                |   40 |
 | Kinesics                            |   10 |
@@ -2872,7 +2872,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=uplift>45–69</sort-n> ❮**
+**❯ <sort-n n00=uplift>45–69</sort-n> ❮**
 
 </div></div>
 
@@ -2899,7 +2899,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                              |      |
 | :------------------------------------------- | ---: |
 | c-rep                                        |   10 |
-| <sort-restart>Submissiveness (Level 1) trait |
+| <sort-restart>Submissiveness (Level 1) trait |      |
 | <sort-restart>Athletics                      |   40 |
 | Deceive                                      |   10 |
 | Fray                                         |   20 |
@@ -2924,7 +2924,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 <div class="no-wrap">
 
-**❯ <sort-n d100=uplift>70–99</sort-n> ❮**
+**❯ <sort-n n00=uplift>70–99</sort-n> ❮**
 
 </div></div>
 
