@@ -141,18 +141,18 @@ This division to a quarter of the CP total is made under the assumption that the
 
 | Step                                          |                                                                                        |                 CP Cost |
 | :-------------------------------------------- | :------------------------------------------------------------------------------------- | ----------------------: |
-| <p class="no-wrap">**1. Set Pools.**</p>      | The default pools are 0.                                                               |
-|                                               | <p class="indent">» Each pool point</p>                                           |                      +2 |
-| <p class="no-wrap">**2. Set Durability.**</p> | The default DUR is 35. Calculate WT and DR.                                            |
-|                                               | <p class="indent">» Every 5 points above DUR 35</p>                               |                      +2 |
-|                                               | <p class="indent">» Every 5 points below DUR 35</p>                               |                      −2 |
-| <p class="no-wrap">**3. Choose Traits.**</p>  | Take special note of Exotic Morphology, Non-Human Biochemistry, and synthmorph frames. |
-|                                               | <p class="indent">» Traits</p>                                                    | Per Trait CP Cost/Bonus |
-| <p class="no-wrap">**4. Add Ware.**</p>       | Take note of default ware for that type of morph.                                      |
-|                                               | <p class="indent">» Each Minor complexity ware</p>                                |                      +1 |
-|                                               | <p class="indent">» Each Moderate complexity ware</p>                             |                      +2 |
-|                                               | <p class="indent">» Each Major complexity ware</p>                                |                      +3 |
-| <p class="no-wrap">**5. Total CP.**</p>       | Total all CP spent in Steps 1–4                                                        |
-|                                               | Divide by 4 to get the final MP Cost of the morph.                                     |
+| <p class="no-wrap">**1. Set Pools.**</p>      | The default pools are 0.                                                               |                         |
+|                                               | <p class="indent">» Each pool point</p>                                                |                      +2 |
+| <p class="no-wrap">**2. Set Durability.**</p> | The default DUR is 35. Calculate WT and DR.                                            |                         |
+|                                               | <p class="indent">» Every 5 points above DUR 35</p>                                    |                      +2 |
+|                                               | <p class="indent">» Every 5 points below DUR 35</p>                                    |                      −2 |
+| <p class="no-wrap">**3. Choose Traits.**</p>  | Take special note of Exotic Morphology, Non-Human Biochemistry, and synthmorph frames. |                         |
+|                                               | <p class="indent">» Traits</p>                                                         | Per Trait CP Cost/Bonus |
+| <p class="no-wrap">**4. Add Ware.**</p>       | Take note of default ware for that type of morph.                                      |                         |
+|                                               | <p class="indent">» Each Minor complexity ware</p>                                     |                      +1 |
+|                                               | <p class="indent">» Each Moderate complexity ware</p>                                  |                      +2 |
+|                                               | <p class="indent">» Each Major complexity ware</p>                                     |                      +3 |
+| <p class="no-wrap">**5. Total CP.**</p>       | Total all CP spent in Steps 1–4                                                        |                         |
+|                                               | Divide by 4 to get the final MP Cost of the morph.                                     |                         |
 
 </blockquote>

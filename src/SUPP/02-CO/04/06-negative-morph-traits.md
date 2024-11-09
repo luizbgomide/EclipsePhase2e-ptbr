@@ -13,10 +13,10 @@
 | [Impaired Balance](#impaired-balance)               |   1/2    | −10 modifier per level to Athletics or Pilot Tests involving balance or upright movement.                                                          |                  Neo-pigs |
 | [Impaired Hearing](#impaired-hearing)               |    1     | −30 to hearing-based Perceive Tests.                                                                                                               |                Neo-octopi |
 | [Impaired Proprioception](#impaired-proprioception) |    2     | −10 to Fray Tests.                                                                                                                                 | Flying squid & neo-octopi |
-| [Lack of Manipulators](#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                                 |
-| [Lack of Smell](#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                                           |
-| [Neurochemical Imbalance](#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                                             |
-| [Personality Artifact](#personality-artifact)       |    2     | Once per session, apply random Enhanced Behavior trait or new motivation; Stress Test vs. SV 1d6.                                                  |
+| [Lack of Manipulators](#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                                 |                           |
+| [Lack of Smell](#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                                           |                           |
+| [Neurochemical Imbalance](#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                                             |                           |
+| [Personality Artifact](#personality-artifact)       |    2     | Once per session, apply random Enhanced Behavior trait or new motivation; Stress Test vs. SV 1d6.                                                  |                           |
 | [Whole Body Apoptosis](#whole-body-apoptosis)       |    1     | GM can substitute critical failure with biological death within 24 hours.                                                                          |                 Biomorphs |
 
 </blockquote>
