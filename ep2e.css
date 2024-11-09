@@ -220,6 +220,12 @@ h2 {
   flex-grow: 1;
 }
 
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 16px;
+}
+
 /* eclipse phase aptitude superscripts */
 .ep-stats sup {
   padding-left: 0.2em;
