@@ -45,7 +45,7 @@ blockquote > :last-child {
 }
 
 /* blockquote table */
-.table > :is(p, h2, h3, h4) {
+.table > :is(p, h2, h3, h4, .heading) {
   text-align: center;
   background: var(--table-header-bg);
   margin-top: 0;
@@ -147,22 +147,40 @@ table tr > :last-child {
   white-space: nowrap;
 }
 
+.line-spread {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+}
+
+.line-spread > :first-child {
+  text-align: left;
+}
+
+.line-spread > :last-child {
+  text-align: right;
+}
+
+.line-spread * {
+  margin: 0;
+}
+
 /* title formatting */
 h1,
 h2 {
   text-transform: uppercase;
 }
 
-:is(h2, h3, h4) {
+:is(h2, h3, h4, .heading) {
   margin-bottom: 0;
 }
 
-.title-margin > :first-child:is(h2, h3, h4) {
+.title-margin > :first-child:is(h2, h3, h4, .heading) {
   margin-bottom: 16px;
 }
 
-:is(h2, h3, h4) + *,
-:is(h2, h3, h4) + * > :first-child {
+:is(h2, h3, h4, .heading) + *,
+:is(h2, h3, h4, .heading) + * > :first-child {
   margin-top: 0 !important;
 }
 
@@ -179,24 +197,6 @@ h2 {
 .two-columns-text > :last-child,
 .multi-column > div > :last-child {
   margin-bottom: 0;
-}
-
-.line-spread {
-  display: flex;
-  justify-content: space-between;
-  margin: 1em 0;
-}
-
-.line-spread > :first-child {
-  text-align: left;
-}
-
-.line-spread > :last-child {
-  text-align: right;
-}
-
-.line-spread > * {
-  margin-top: 0;
 }
 
 .multi-column {
@@ -271,4 +271,8 @@ hr.table-split {
   max-height: 30rem;
   max-width: 50%;
   margin: 0.5rem;
+}
+
+.large-text {
+  font-size: large;
 }

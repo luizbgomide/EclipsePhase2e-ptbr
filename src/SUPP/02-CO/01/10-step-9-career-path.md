@@ -47,11 +47,11 @@ The career decided here is either the one you practiced most notably during your
 <sort>
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Academic ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 1 ❮**<sort-static>
 
@@ -65,17 +65,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Archivist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You store and maintain transhumanity’s collective knowledge.
 - **Motivation:** +Protect Knowledge
@@ -102,17 +100,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Researcher
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You find secrets hidden within the data.
 - **Motivation:** +Research
@@ -139,17 +135,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Professor
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You educate the next generation of transhumans.
 - **Motivation:** +Education
@@ -178,11 +172,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Covert Operative ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 2 ❮**<sort-static>
 
@@ -196,17 +190,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Smuggler
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You ghost your way past habitat security restrictions.
 - **Motivation:** +Wealth
@@ -233,17 +225,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Spy
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You infiltrate organizations to ferret out secrets or destroy them from within.
 - **Motivation:** +Uncover Secrets
@@ -269,17 +259,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Thief
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You have your way with security systems in the cause of redistributing wealth.
 - **Motivation:** +Don’t Get Caught
@@ -307,11 +295,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Enforcer ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 3 ❮**<sort-static>
 
@@ -325,17 +313,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Autonomist Militia
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You’re part of a volunteer group that defends your hab and handles conflict resolution.
 - **Motivation:** +Protect Community
@@ -362,17 +348,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Cartel Goon
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You serve the criminal whims of your syndicate’s leaders.
 - **Motivation:** +Wealth
@@ -399,17 +383,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Gang Member
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You and your gang band together for safety and weight of numbers.
 - **Motivation:** +Thrill-Seeking
@@ -438,11 +420,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Explorer ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 4 ❮**<sort-static>
 
@@ -456,17 +438,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Crew
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You handle the grunt work of exploration: base camps, field tests, and support.
 - **Motivation:** +Adventure
@@ -493,17 +473,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Scout
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You specialize in survey and recon.
 - **Motivation:** +Exploration
@@ -531,17 +509,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Search and Rescue
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You seek out gatecrashers that are lost or in trouble.
 - **Motivation:** +Help Others
@@ -571,11 +547,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Face ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 5 ❮**<sort-static>
 
@@ -589,17 +565,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Con Artist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You deceive others for fun and profit. Or you work in advertising/marketing. Same thing.
 - **Motivation:** +Wealth
@@ -625,17 +599,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Fixer
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You work your connections to make sure everyone gets what they are after.
 - **Motivation:** +Wealth
@@ -661,17 +633,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Negotiator
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You work deals and deploy leverage to get your way.
 - **Motivation:** +Skill Mastery
@@ -700,11 +670,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Genehacker ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 6 ❮**<sort-static>
 
@@ -718,17 +688,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Astrobiologist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You are fascinated with alien life and what makes it tick.
 - **Motivation:** +Research
@@ -756,17 +724,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Bio Tinkerer
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You dabble: body mods, neogenetics, gene therapies, smart drugs, and more.
 - **Motivation:** +Science!
@@ -793,17 +759,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Uplift Specialist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - Your veterinary science background extends to smart animals and uplifts.
 - **Motivation:** +Uplift
@@ -832,11 +796,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Hacker ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 1–5 & 7 ❮**<sort-static>
 
@@ -850,17 +814,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Blue Team
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You specialize in defending systems from intruders.
 - **Motivation:** +Protect Systems
@@ -886,17 +848,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Digital Intruder
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You penetrate systems to liberate their secrets.
 - **Motivation:** +Thrill-Seeking
@@ -922,17 +882,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Hacktivist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You hack hypercorp/gov sites and reverse engineer tech in support of social causes.
 - **Motivation:** +Solidarity
@@ -961,11 +919,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Investigator ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 1 ❮**<sort-static>
 
@@ -979,17 +937,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Detective
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You attempt to solve crimes.
 - **Motivation:** +Solve Mysteries
@@ -1016,17 +972,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Ego Hunter
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You track down escaped and wanted egos.
 - **Motivation:** +Locate Fugitives
@@ -1053,17 +1007,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Journalist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You bring important subjects to the public’s attention.
 - **Motivation:** +Uncover Secrets
@@ -1092,11 +1044,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Medic ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 2 ❮**<sort-static>
 
@@ -1110,17 +1062,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Morph Tech
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You tweak and modify biomorphs and assist with resleeving.
 - **Motivation:** +Creative Expression
@@ -1147,17 +1097,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Paramedic
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You provide emergency medical services.
 - **Motivation:** +Help Others
@@ -1184,17 +1132,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Physician
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You are a general practice doctor with a few unusual specializations.
 - **Motivation:** +Solve Problems
@@ -1223,11 +1169,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Mindhacker ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 3 ❮**<sort-static>
 
@@ -1241,17 +1187,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Memeticist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - Whether a viral marketer or culture hacker, you specialize in infectious ideas.
 - **Motivation:** +Go Viral
@@ -1278,17 +1222,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Psychosurgeron
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You are a mindshaper, helping people sculpt their mental palaces.
 - **Motivation:** +Skill Mastery
@@ -1315,17 +1257,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Psychotherapist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You help people cope with mental trauma and improve their cognitive skills.
 - **Motivation:** +Help Others
@@ -1355,11 +1295,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Scavenger ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 4 ❮**<sort-static>
 
@@ -1373,17 +1313,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Junk Dealer
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You making a living by resurrecting abandoned tech.
 - **Motivation:** +Prosperity
@@ -1411,17 +1349,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Salvage Crew
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You strip abandoned ships and habs for anything of value.
 - **Motivation:** +Wealth
@@ -1449,17 +1385,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Zone Stalker
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You raid quarantine zones for artifacts.
 - **Motivation:** +Thrill-Seeking
@@ -1488,11 +1422,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Scientist ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 5 ❮**<sort-static>
 
@@ -1506,17 +1440,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Field Scientist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You use your training in the life sciences to study exoplanets.
 - **Motivation:** +Discovery
@@ -1544,17 +1476,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Physicist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You excel in the hard sciences.
 - **Motivation:** +Science!
@@ -1581,17 +1511,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Xeno-Archeologist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You investigate the remains of dead alien civilizations.
 - **Motivation:** +Uncover Secrets
@@ -1623,11 +1551,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Soldier ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 6 ❮**<sort-static>
 
@@ -1641,17 +1569,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Bodyguard
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You place yourself between your client and potential harm.
 - **Motivation:** +Protect Client
@@ -1676,17 +1602,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Mercenary
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You’re a gun for hire.
 - **Motivation:** +Survival
@@ -1714,17 +1638,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Operative
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You’re an assassin, street ronin, special ops, or general badass.
 - **Motivation:** +Current Objective
@@ -1753,11 +1675,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <sort-block>
 <blockquote class="framed-table">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ## Techie ❮d100❯
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 6–10 & 7 ❮**<sort-static>
 
@@ -1771,17 +1693,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Artifex
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 00–32 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You’re a nano-engineer.
 - **Motivation:** +Creative Expression
@@ -1806,17 +1726,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Hab Tech
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 33–66 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You keep the life support running.
 - **Motivation:** +Solve Problems
@@ -1844,17 +1762,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <sort-block>
 <blockquote class="header-bg multi-column">
 <div class="stat-list title-margin">
-<div class="line-spread">
+<div class="line-spread heading">
 
 ### Robotocist
 
-<div class="no-wrap">
+<div class="no-wrap large-text">
 
 **❯ 67–99 ❮**<sort-static>
 
 </div></div>
-
----
 
 - You operate drones and repair synths.
 - **Motivation:** +Skill Mastery
