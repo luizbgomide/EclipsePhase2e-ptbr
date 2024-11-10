@@ -4,7 +4,8 @@ Qual é a origem do seu personagem? Você nasceu em uma favela na Terra antes da
 
 Cada antecedente fornece a você um pacote de perícias ativas e de conhecimento. Anote-as na sua ficha de personagem. Não perca muito tempo na sua escolha — você terá a oportunidade de adquirir outras perícias e trocar algumas perícias em passos posteriores. Para perícias de área, uma seleção breve de áreas comuns é listada, mas você pode escolher a que quiser ([Perícias](18-skills.md)). Como alternativa, deixe a área não atribuída agora e decida durante a partida.
 
-<!--order-->
+<!--sort-->
+
 ## Colono
 
 Você era um colono original da órbita da Terra, Lua, Marte, ou um posto menor em outro lugar, antes da Queda.
@@ -148,7 +149,7 @@ Você é um elevado: a última geração de bonobo, cetáceo, chimpanzé, corví
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Cultura de Elevados, Direitos de Elevados_</p> | 60 |
 | Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Genética, Sociologia, Zoologia_</p> | 30 |
 
-<!--order-end-->
+<!--sort-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -156,13 +157,14 @@ Você é um elevado: a última geração de bonobo, cetáceo, chimpanzé, corví
 
 Se você preferir determinar o seu antecedente aleatoriamente, role 1d10:
 
-<!--order-->
-| Rolagem | Antecedente<!--order-cells--> | Rolagem | Antecedente<!--order-cells--> |
-|:-------:|:---------------------------------------:|:-------:|:---------------------------------------:|
-|    1    |                 Colono                  |    6    |                Infovida                 |
-|    2    |                Enclavado                |    7    |                 Isolado                 |
-|    3    |               Freelancer                |    8    |                 Perdido                 |
-|    4    |               Hiperelite                |    9    |                Miserável                |
-|    5    |                Arrendado                |   10    |                 Elevado                 |
+<!--sort-->
+
+| Rolagem | Antecedente<!--sort-cells--> | Rolagem | Antecedente<!--sort-cells--> |
+|:-------:|:--------------------------------------:|:-------:|:--------------------------------------:|
+|    1    |                 Colono                 |    6    |                Infovida                |
+|    2    |               Enclavado                |    7    |                Isolado                 |
+|    3    |               Freelancer               |    8    |                Perdido                 |
+|    4    |               Hiperelite               |    9    |               Miserável                |
+|    5    |               Arrendado                |   10    |                Elevado                 |
 
 <!-- CLEANED /blockquote -->
