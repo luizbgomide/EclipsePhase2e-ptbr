@@ -14,6 +14,8 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Ego
 
+<!--sort-->
+
 | Traço                                             | Custo PP | Efeito                                                                                                                                                                                                               |
 |:------------------------------------------------- |:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Perspicácia](#acumen)                            |  1/2/3   | +5 por nível em Provas de COG.                                                                                                                                                                                       |
@@ -54,6 +56,8 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 
 ### Traços Positivos de Morfo
 
+<!--sort-->
+
 | Traço                                                 | Custo PM | Efeito                                                                                |
 |:----------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------- |
 | [Perspicácia](#acumen)                                |  1/2/3   | +5 por nível em Provas de COG.                                                        |
@@ -77,6 +81,8 @@ Traços positivos têm Custo de PP ou PM e fornecem bônus.
 | [Resistência](#toughness)                             |   2/4    | +5 em DUR, também impacta LF e GD, veja o texto.                                      |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Perspicácia
 
@@ -350,6 +356,8 @@ Este morfo aguenta mais abuso físico do que outros de seu tipo. Para cada níve
 
 Esse traço só está disponível para personagens com o traço Psi. Você não sofre modificadores ao usar truques psi em espécies animais não sapientes ou parcialmente sapientes.
 
+<!--sort-end-->
+
 ## Traços Negativos
 
 Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
@@ -358,12 +366,14 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 
 ### Traços Negativos de Ego
 
+<!--sort-->
+
 | Traço                                              | Bônus PP | Efeito                                                                                           |
 |:-------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------ |
 | [Vício](#addiction)                                |  1/2/4   | −10 por nível se não tiver consumo regular; ver texto para efeitos adicionais.                   |
 | [Má Sorte](#bad-luck)                              |    6     | Não pode usar paradas para inverter rolagens de dados.                                           |
-| [Rep Bloqueada](#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
 | [Mácula](#black-mark)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
+| [Rep Bloqueada](#blocklisted-rep)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
 | [Paralisia de Combate](#combat-paralysis)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
 | [Memórias Editadas](#edited-memories)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
 | [Inimigo](#enemy)                                  |    2     | Um PNJ inimigo assombra você.                                                                    |
@@ -393,6 +403,8 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 <!-- CLEANED blockquote class="framed-table" -->
 
 ### Traços Negativos de Morfo
+
+<!--sort-->
 
 | Traço                                             | Bônus PM | Efeito                                                                                                                          |
 |:------------------------------------------------- |:--------:|:------------------------------------------------------------------------------------------------------------------------------- |
@@ -426,6 +438,8 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Náusea em Zero-G](#zero-g-nausea)                |    2     | −10 em microgravidade; Prova de SOM ou incapacitado na primeira hora. Apenas biomorfos.                                         |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Vício
 
@@ -461,17 +475,17 @@ Esse traço só pode ser aplicado em morfos intocados e tratados. O morfo está 
 
 O universo parece puni-lo com uma frequência surpreendente. Você não pode usar paradas para inverter rolagens de dados.
 
-### Rep Bloqueada
-
-**Traço de ▲ Ego • Bônus PP: 1/4**
-
-Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Esse traço pode ser escolhido mais de uma vez para redes de rep diferentes.
-
 ### Mácula
 
 **Traço de ▲ Ego • Bônus PP: 1/2/3**
 
 Você fez algo em seu passado que maculou sua reputação com uma facção específica, e que continua a assombrar suas interações. Aplique um modificador −10 por nível para interações de redes de rep e testes de perícias sociais envolvendo essa facção. Esse traço pode ser escolhido mais de uma vez para facções diferentes.
+
+### Rep Bloqueada
+
+**Traço de ▲ Ego • Bônus PP: 1/4**
+
+Você está bloqueado de certos círculos, quer tenha feito algo para merecer isso ou não. Você está impedido de ter um nível de Rep maior que 0 em uma rede de reputação específica. Para redes de rep fora da sua facção, isso conta como Nível 1. Para a rede de rep central à sua facção, isso conta como Nível 2. Pessoas dentro dessa rede se recusarão a ajudá-lo, por medo de represálias e de arruinar a própria reputação. Esse traço pode ser escolhido mais de uma vez para redes de rep diferentes.
 
 ### Paralisia de Combate
 
@@ -748,3 +762,6 @@ Esse traço só está disponível para biomorfos. O sistema imune do morfo é fa
 **Traço de ▼ Morfo • Bônus PM: 2**
 
 Esse traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
+
+<!--sort-end-->
+
