@@ -428,8 +428,8 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Baixa Coordenação](#poor-coordination)           |  1/2/3   | −5 por nível em Provas de REF.                                                                                                  |
 | [Maus Instintos](#poor-instincts)                 |  1/2/3   | −5 por nível em Provas de INT.                                                                                                  |
 | [Tecnologia Proprietária](#proprietary-tech)      |    2     | −20 em Testes de Aparelhagem, reparadores não funcionam. Apenas sintemorfos.                                                    |
-| [Comportamento Restrito](#restricted-behavior)    |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                                                              |
 | [Vulnerabilidade Psi](#psi-vulnerability)         |   1/2    | −10 por nível para resistir a psi. Apenas morfos com biocérebros.                                                               |
+| [Comportamento Restrito](#restricted-behavior)    |  1/2/4   | Comportamento/emoções limitados psicocirurgicamente. Veja o texto.                                                              |
 | [Alergia Grave](#severe-allergy)                  |   2/4    | −30 quando exposto a alérgenos mais Prova de SOM ou choque anafilático; morte em 2d10 minutos sem tratamento. Apenas biomorfos. |
 | [Defeito Pericial](#skill-glitch)                 |   1/2    | −10 por nível em uma perícia escolhida pelo MJ.                                                                                 |
 | [Timidez](#timidity)                              |  1/2/3   | −5 por nível em Provas de VON.                                                                                                  |
