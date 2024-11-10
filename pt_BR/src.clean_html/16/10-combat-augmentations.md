@@ -2,6 +2,8 @@
 
 As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Ware de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Armaduras](../12/14-armor-mods.md)).
 
+<!--sort-->
+
 | AMPLIAÇÕES DE COMBATE    | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                 |
 |:------------------------ |:------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------- |
 | Surto Adrenal            |      B       |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                         |
@@ -28,6 +30,8 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 | Membro Telescópico       |      CH      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
 | Filtros de Toxina        |      B       |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.          |
 | Suporte de Arma          |      CH      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
+
+<!--sort-->
 
 **Surto Adrenal:** Esse aprimoramento glandular sobrecarrega sua resposta adrenal às situações que provocam estresse, dor ou emoções fortes (medo, raiva, luxúria, ódio). Quando ativado (mentalmente ou por estresse/emoções), o surto concentrado de norepinefrina acelera a frequência cardíaca, a circulação do sangue, e queima carboidratos. Você recebe +1 em sua parada de Vigor e ignora os modificadores de 1 ferimento. O uso extensivo desse mod sem interrupções pode levar à fadiga adrenal (modificador de debilitação −20 em todas as ações; a critério do MJ).
 
@@ -78,3 +82,6 @@ Os medicadores para sintemorfos e bots consistem de nanobots que monitoram e rep
 **Filtros de Toxina:** O seu morfo possui fígado e rins melhorados, e filtros biológicos em seus pulmões. Isso torna você excepcionalmente resistente a drogas e toxinas, incluindo tudo, desde químicos recreativos até agentes nervosos e comida estragada. Você pode até respirar fumaça e beber água salgada com segurança e confortavelmente. Faça uma Prova de SOM quando sofrer uma droga ou toxina bioquímica; ela só afeta você se falhar. Se for afetado, aplique um modificador +30 em todas as provas de aptidão feitas para resistir efeitos específicos. Além disso, todos os efeitos e durações da droga/toxina são reduzidos à metade (se você também tiver medicadores, eles são negados completamente). Essa ampliação não oferece nenhuma resistência a ácidos concentrados, ataques nanotecnológicos, patógenos ou agentes destrutivos similares.
 
 **Suporte de Arma:** O morfo está equipado com um ponto de fixação para carregar uma arma. Suportes _estáticos_ apontam para apenas uma direção, suportes _giratórios_ têm um campo de fogo limitado de 90°, pontos de fixação _articulados_ permitem que a arma aponte em qualquer direção. Além disso, qualquer um dos suportes pode ser ocultado internamente (supondo que haja espaço na armação do morfo). Alguns são projetados para ficarem internos e atirarem através de camadas de ocultação (deixando um furo), outros saltam para fora, como uma torre de artilharia, e podem ser retraídos. Vários suportes podem ser instalados, mas morfos pequenos estão limitados a 2, e morfos médios a 4. Nem morfos pequenos nem médios podem ter suportes de armas com traço Longa. Versões cibernéticas desse mod são estáticas e só podem ser instaladas em cibermembros (máximo 1 por membro).
+
+<!--sort-end-->
+
