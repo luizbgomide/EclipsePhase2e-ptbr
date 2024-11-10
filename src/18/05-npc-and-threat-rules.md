@@ -14,8 +14,8 @@ Each threat is given a classification:
 - **Exsurgent:** Manifestations of exsurgent virus transformations. The specific strain of the [exovirus](13-exsurgent-strains.md) is noted. These have the Non-Human Biochemistry trait.
 - **Neogenetic:** New life forms created from scratch. Some have the Non-Human Biochemistry trait.
 - **Tech:** Autonomous robots, nanoswarms, and nanoplagues — sometimes of alien origin. These follow the rules for [synthmorphs and bots](../04/25-synthmorphs.md).
-- **Transhuman:** NPCs that follow normal character rules.
 - **TITAN:** Machines, AIs, and biological entities controlled by the TITANs. Digital entities are treated as [infomorphs](../13/08-infomorphs.md), machines are treated as [synthmorphs and bots](../04/25-synthmorphs.md).
+- **Transhuman:** NPCs that follow normal character rules.
 - **Xenofauna:** Non-sapient biological alien life. These have the Non-Human Biochemistry trait.
 
 ## Niche

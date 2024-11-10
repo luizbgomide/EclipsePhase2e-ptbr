@@ -192,7 +192,9 @@ function resortContent(lines) {
                 }
                 unsortedBlocks = unsortedBlocks.map(block => block.map(row => row.join("|")));
             } else { // regular sort, remove delimiter
-                unsortedBlocks.sort((a, b) => compare(a[0].substring(a[0].indexOf(delimiter) + delimiter.length), b[0].substring(b[0].indexOf(delimiter + delimiter.length))));
+                unsortedBlocks.sort((a, b) => compare(
+                    a[0].substring(a[0].indexOf(delimiter) + delimiter.length),
+                    b[0].substring(b[0].indexOf(delimiter) + delimiter.length)));
             }
             fixedBlockIndexes.forEach((blockIndex, index) => unsortedBlocks.splice(blockIndex, 0, fixedBlocks[index]));
             // reinsert the restart tag at the col it was found

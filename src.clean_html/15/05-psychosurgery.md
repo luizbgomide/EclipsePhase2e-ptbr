@@ -32,8 +32,6 @@ Every psychosurgery procedure lists a Stress Value (SV) that is inflicted on the
 
 ### Psychosurgery Modifiers
 
-<!--sort-->
-
 | Situation                             | Modifier    |
 | :------------------------------------ | :---------- |
 | Improper Preparation/<!-- CLEANED wbr -->Diagnostics | −30         |

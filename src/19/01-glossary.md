@@ -18,9 +18,9 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Amphibs:** An extinct sapient alien species that once thrived on the exoplanet Droplet.
 - **Anarchists:** A faction that opposes power and hierarchy and embraces self-organized individual and collective action.
 - **App:** Software that performs a specific function for a user.
+- **AR:** Augmented Reality. Information from the mesh that is overlaid on your real-world senses. AR data is usually visual but can also be audio, tactile, olfactory, kinesthetic, emotional, or other senses.
 - **Arachnoid:** A spider-like robotic synthmorph.
 - **Argonauts:** A union of technoprogressive scientists that promote responsible and ethical use of technology.
-- **AR:** Augmented Reality. Information from the mesh that is overlaid on your real-world senses. AR data is usually visual but can also be audio, tactile, olfactory, kinesthetic, emotional, or other senses.
 - **Artifex:** A nano-engineer.
 - **Artificial:** Martian slang for embodied artificial life.
 - **Async:** A person with psi abilities resulting from the Watts-MacLeod strain of the exsurgent virus.
@@ -87,8 +87,8 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Ecto:** A mobile device for accessing the mesh and AR.
 - **Ego:** The part of you that switches from body to body.
 - **Ego Bridge:** A device for scanning and copying a biological brain for backup, resleeving, or psychosurgery.
-- **Ego ID:** The ID code tied to your ego, imprinted in uploads.
 - **Ego Hunter:** A bounty hunter that tracks down resleeved egos.
+- **Ego ID:** The ID code tied to your ego, imprinted in uploads.
 - **Egocast:** Term for transmitting an ego to a remote location.
 - **Entoptics:** Augmented reality that you “see” in your mind’s eye.
 - **Eraser:** Heavily armed proxies that are called to contain threats beyond the capabilities of a normal sentinel cell.
@@ -198,26 +198,26 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **The <!--sort-here-->Movement:** The Barsoomian movement to free Mars.
 - **Muse:** An ALI personal assistant.
 - **Mutualist:** An Extropian sub-faction favoring cooperatives.
-- **Nanobot:** A nano-scale machine, usually deployed as a swarm.
 - **Nano-Ecology:** A pro-tech ecological movement.
+- **Nanobot:** A nano-scale machine, usually deployed as a swarm.
 - **Nanofabber:** A device that manufactures items from the molecular level with an appropriate blueprint. AKA compiler, cornucopia machine, fabber, forge, maker, printer, replicator.
 - **Nanoswarm:** A mass of nanobots that act in concert.
 - **Nanotat ID:** The ID nano-encoded on your morph’s index finger.
 - **Nanoware:** Nanosystems implanted within a morph.
 - **Narcoalgorithm:** An app that mimics the effects of a drug for an infomorph or cyberbrain.
 - **Neo-Avians:** Uplifted ravens, crows, and gray parrots.
-- **Neogenesis:** The creation of new life forms via genetic manipulation and biotechnology.
 - **Neo-Hominids:** Uplifted bonobos, chimpanzees, gorillas, and orangutans.
 - **Neo-Neanderthal:** Uplifted neanderthals.
+- **Neogenesis:** The creation of new life forms via genetic manipulation and biotechnology.
 - **Neotenics:** Biomorphs modified to retain a child-like form.
 - **Neurodiversity:** The acceptance of atypical neurologies.
 - **Night Cartel:** A progressive criminal cartel evolved from several old-Earth ethnic mafias.
 - **Nine Lives:** A cartel of forknappers and soul traders.
 - **Novacrab:** A pod created from genetically engineered spider crabs.
 - **Nuestro Shell:** A shell hab using symmetrical radiating spars and rings for stability.
+- **O’Neill Cylinder:** A soda-can shaped habitat, spun for gravity.
 - **Oligarchs:** The powerful immortal rich.
 - **Olympian:** A biomorph enhanced for fitness and athleticism.
-- **O’Neill Cylinder:** A soda-can shaped habitat, spun for gravity.
 - **Oort Cloud:** An area about one light year from the sun, mostly populated by comets.
 - **Operator:** An infomorph optimized for piloting drones.
 - **Oversight:** The Planetary Consortium agency that polices financial matters and protects the Consortium from external threats.
@@ -240,13 +240,13 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Puppet:** Someone mindhacked and controlled by another.
 - **Pychosurgery:** The selective and surgical alteration of a mind.
 - **QE Comms:** Quantum-entangled FTL communications.
+- **Re-instantiated:** To be resleeved. Also refers to resleeved infugees.
 - **Reagan Cylinder:** Crude cylinder habs made from hollowed asteroids in the Jovian Republic. AKA sarcophagus hab.
 - **Reaper:** A warbot synthmorph.
 - **Reclaimers:** A faction that seeks to retake the Earth.
 - **Red Market:** The trade of anti-social and coercive activities in autonomist space.
 - **Redneck:** A rural Martian, often a Barsoomian. AKA Reds.
 - **Register:** A proxy that handles logistics and finances.
-- **Re-instantiated:** To be resleeved. Also refers to resleeved infugees.
 - **Remade:** A biomorph intended as a human upgrade, human 2.0.
 - **Resleeving:** Downloading into a new morph. AKA remorphing.
 - **Rimward:** The outer half of the Solar System, from the Main Belt to the Oort Cloud.
@@ -270,8 +270,8 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Service:** An app run on a remote cloud device rather than locally.
 - **Shanzhai:** The copying/counterfeiting of goods.
 - **Shaper:** A pod morph optimized for changing its appearance.
-- **Shell:** A synthetic form; used for bots, vehicles, and synthmorphs.
 - **Shell:** A cluster habitat with a protective outer layer or framework of rings and spars. AKA Nuestro shell.
+- **Shell:** A synthetic form; used for bots, vehicles, and synthmorphs.
 - **Sifters:** Denizens of Mercury.
 - **Simulmorph:** The avatar you use in a VR simulspace.
 - **Simulspace:** Full-immersion virtual reality environments.
@@ -294,8 +294,8 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **Structuralists:** The Firewall faction that seeks more formal organization and to go public.
 - **Sunward:** The inner system, from Sol to Mars.
 - **Super-Earth:** A terrestrial planet much larger than Earth with a higher surface gravity.
-- **Swarm:** A mass of nano- or microbots acting in concert.
 - **Swarm:** A flotilla of ships, sometimes interlinked or towing habs.
+- **Swarm:** A mass of nano- or microbots acting in concert.
 - **Swarmanoid:** A synthmorph composed of a swarm of microbots.
 - **Sylphs:** Biomorphs enhanced for charisma and beauty.
 - **Synthmorph:** Robotic shells sleeved by transhuman egos.
@@ -329,10 +329,10 @@ Here’s a list of terms we use throughout Eclipse Phase.
 - **WMD:** Weapon of mass destruction.
 - **Worm:** An exsurgent async.
 - **X-Caster:** Someone who transmits/sells XP livefeeds and recordings of their experiences.
+- **X-Risk:** Existential Risk. Something that threatens the very existence of transhumanity.
 - **Xenomorph:** An alien life form.
 - **Xer:** As in “X-er” — someone addicted or obsessed with XP. Sometime also used to refer to people making XP.
 - **XP:** Experience Playback. Experiencing someone else’s sensory input (real-time or recorded). AKA sim, simsense, playback.
-- **X-Risk:** Existential Risk. Something that threatens the very existence of transhumanity.
 - **Zero-Day:** A previously unknown exploit against which computer systems are not yet defended. AKA 0-day.
 - **Zeroes:** People without mesh access. Common with indentures.
 - **Zone Stalker:** A collector of artifacts from quarantine zones.

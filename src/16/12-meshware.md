@@ -22,13 +22,13 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 
 **Copylock:** Copylock prevents an infomorph (or ego within a cyberbrain) from copying, whether voluntarily or not, without proper authorization. This is used to restrict forks, indentures, and people who don’t trust themselves. It also defends against forknappers: brainhackers that attempt to copy the infomorph suffer −30 to their Infosec Tests. Copylock also prevents an infomorph from moving between devices or sleeving into a morph.
 
+**E-Veil:** E-veil obfuscates the presence of designated apps within the infomorph’s code. Any attempt to scan the infomorph using Interface is opposed with a Program skill of 80. The hidden apps must be designated when e-veil is activated.
+
 **Enhanced Security:** This meshware installs additional firewall and security layers, making the infomorph/cyberbrain harder to hack. Apply a −10 modifier to attempts to brainhack your digital mind.
 
 <!--sort-union-->
 
 You can also use this meshware to enter a heightened state of security — Defensive Mode. When activated with a quick action, the modifier to brainhack you is increased to −30. This lock-down status impairs your functions, however; you cannot use Insight pool while it is active and suffer a −3 Initiative modifier.
-
-**aE-Veil:** E-veil obfuscates the presence of designated apps within the infomorph’s code. Any attempt to scan the infomorph using Interface is opposed with a Program skill of 80. The hidden apps must be designated when e-veil is activated.
 
 **Fault Tolerance:** This module provides redundancy and loadsharing functions. You receive AV 5 against mesh attacks.
 
