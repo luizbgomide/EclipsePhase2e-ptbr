@@ -78,9 +78,9 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Acoplagem Drone](../16/08-mental-augmentations.md)    |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                          |
 | [Segurança Aprimorada](../16/12-meshware.md)           |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo, mas sem parada de Inspiração e com −3 em INIC. |
 | [App de Violação](../16/13-apps-and-alis.md#apps)      |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.                                                         |
-| [Servidor Privado](../16/04-services.md#mesh-services) |                 Men/1                 | Servidor privado, autoadministrado.                                                                |
 | [Mosquito](../16/21-robots.md#reconsurveillance-bots)  |                 Men/1                 | Drone de vigilância. Tamanho pequeno.                                                              |
 | [Anjo da Guarda](../16/21-robots.md#combat-bots)       |                 Mod/2                 | Drone de defesa pessoal. Tamanho pequeno.                                                          |
+| [Servidor Privado](../16/04-services.md#mesh-services) |                 Men/1                 | Servidor privado, autoadministrado.                                                                |
 
 ## Pacotes de Profissão
 
@@ -221,8 +221,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Medibot](../16/21-robots.md#medical-bots)                           |                 Mai/3                 | Bot médico.                                                                      |
 | [Spray Curativo](../16/19-nanotech.md)                               |                 Men/1                 | Cura 1d10 de dano por hora por 12 horas.                                         |
 | [Tanque de Cura](../16/19-nanotech.md)                               |                 Mai/3                 | Cura/trata biomorfos, personaliza/aprimora morfo.                                |
-| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |                 Mod/2                 | Cura 1d10 de dano por hora ou 1 ferimento por dia.                               |
 | [Escaneador Médico](../16/19-nanotech.md)                            |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots igual nanodetector. |
+| [Xarope (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |                 Mod/2                 | Cura 1d10 de dano por hora ou 1 ferimento por dia.                               |
 
 ### Hacker Mental
 
