@@ -2,6 +2,8 @@
 
 O Sistema Solar pode ser amigável à vida em larga escala, mas se você está encalhado no poço gravitacional de Júpiter durante uma tempestade magnética, tentando respirar sem um respirador em Marte, ou flutuando pelo vácuo sem um traje de vácuo, ele não parece tão amigável.
 
+<!--sort-->
+
 ## Contaminação Atmosférica
 
 Os habitats as vezes ficam doentes. Os efeitos de um habitat sofrendo por desequilíbrio ecológico ou patógenos fora de controle podem variar de uma atmosfera de habitat levemente alergênica até septicemia ambiental desenfreada. Os biomorfos sem equipamento de respiração ou filtragem em um ambiente contaminado podem sofrer penalidades de −10 (contaminação leve) a −30 (atmosfera altamente séptica). Dependendo da contaminação, outros efeitos podem ser aplicáveis, de acordo com o MJ.
@@ -60,3 +62,6 @@ Em geral, qualquer perícia física realizada debaixo d'água sofre uma penalida
 Os biomorfos sem [vedação de vácuo](../16/11-physical-augmentations.md) podem passar um minuto no vácuo do espaço sem efeitos nocivos, contanto que você se encolha em uma bola, esvazie o ar dos seus pulmões, e mantenha os olhos fechados (algo que crianças em habitats espaciais aprendem bem cedo). Ao contrário das representações populares na mídia pré-Queda, um personagem exposto ao vácuo total não sofre uma descompressão explosiva, seus fluidos internos também não fervem (além de líquidos relativamente expostos, como saliva na língua). Em vez disso, o perigo principal para personagens em atividades extraveiculares sem um traje de vácuo é asfixia devido a falta de oxigênio e as complicações associadas, tais como edemas nos pulmões.
 
 Após um minuto no espaço, você começa a sofrer [asfixia](28-environmental-factors.md#asphyxiation). Os danos são dobrados se você segurar ar em seus pulmões ou não estiver enrolado em uma posição de sobrevivência no vácuo. Além disso, personagens presos no espaço sem proteção térmica adequada sofrem de um modificador −10 em todas as ações e 2&nbsp;VD por minuto.
+
+<!--sort-end-->
+
