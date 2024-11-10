@@ -28,8 +28,8 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 | Pressure Adaptation    |    BH     |    Min/1     | Handle extreme pressure.                                                                                 |
 | Retracting Limbs       |     H     |    Min/1     | Limb retracts, can hold 1 small item.                                                                    |
 | Shape Adjusting        |     H     |    Maj/3     | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                   |
-| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                 |
 | Skin Pocket            |     B     |    Min/1     | Concealment for very small (and some small) items (+30 Infiltrate).                                      |
+| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                 |
 | Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C.                                                                   |
 | Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                     |
 | Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |
@@ -81,9 +81,9 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Shape Adjusting:** This shell is made from smart materials that allow it to alter its shape, height, width, circumference, and external features, while retaining the same mass. The ability to change shape is not completely unlimited, due to the shell’s internal components; work with the GM to establish what is possible. This mod is primarily used to reshape the morph into special pre-set configurations adapted to specific tasks (for example, lengthening to crawl through a tunnel, widening its base for stability, expanding to reach out and attach to multiple access points simultaneously, and so on). Shapechanging allows you to change your composition to function as any 2 Minor complexity items/ware or 1 Moderate complexity item/ware allowed by the GM (no blueprint needed). Extra sets of limbs count as Minor ware. Simple shapes and mechanical designs are easy to create, but advanced electronics, complex designs, and specialized components are beyond the scope of this mod. Altering shape takes at minimum 1d6 minutes, and can take as long as 1d6 hours for substantial changes. This mod also allows the morph to change its features for disguise purposes; apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.
 
-**Skinlink:** Skinlink nanobots live on the morph’s external skin or shell, automatically swarming over and creating a physical connection with any electronics you touch. They also take advantage of the electrical field in a biomorph’s skin for communication. They allow you to communicate and mesh with skinlink-equipped devices, devices with external access ports, devices with exposed electronics, or other skinlinked characters merely by touching them. This is considered a wired link, and so is not subject to sniffing or jamming.
-
 **Skin Pocket:** A pocket within your skin layer provides concealment (+30 Infiltrate) for very small items.
+
+**Skinlink:** Skinlink nanobots live on the morph’s external skin or shell, automatically swarming over and creating a physical connection with any electronics you touch. They also take advantage of the electrical field in a biomorph’s skin for communication. They allow you to communicate and mesh with skinlink-equipped devices, devices with external access ports, devices with exposed electronics, or other skinlinked characters merely by touching them. This is considered a wired link, and so is not subject to sniffing or jamming.
 
 **Thermogenic Protection:** The synthmorph can operate in high-temperature environments with heat sinks and coolant systems, able to withstand up to 1,000&nbsp;°C. This also provides AV +5/0.
 

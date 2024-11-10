@@ -159,8 +159,8 @@ The interests determined here represent hobbies you have delved into over the ye
 | :-------------------------------------- | ---: |
 | c-rep                                   |   20 |
 | <!--sort-restart-->Interface            |   20 |
-| Persuade                                |   40 |
 | Kinesics                                |   20 |
+| Persuade                                |   40 |
 | Provoke                                 |   40 |
 | <!--sort-restart-->Know: Administration |   40 |
 

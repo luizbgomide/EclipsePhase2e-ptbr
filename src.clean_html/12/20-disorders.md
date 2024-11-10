@@ -66,14 +66,6 @@ You believe that you are irrevocably ugly or defective, making you unable to int
 
 **Effect:** −30 to Resleeving Stress Tests.
 
-### Cosmic Anxiety Disorder
-
-**Triggers:** Alien/TITAN technology, the unknown, x-risks
-
-This disorder arises from facing x-risks, aliens, and incomprehensibly advanced technology. It functions much like anxiety; you are helpless in the face of an uncaring and dangerous universe.
-
-**Effect:** Like anxiety, but when faced with an alien or TITAN threat, make a WIL Check or either flee or collapse in panic.
-
 ### Conversion Disorder
 
 **Triggers:** Alienation, the unknown, violence
@@ -81,6 +73,14 @@ This disorder arises from facing x-risks, aliens, and incomprehensibly advanced 
 You suffer a neurological condition such as blindness, deafness, inability to speak, loss of balance, seizures, or paralysis in high-stress situations. Some asyncs suffer from a similar condition, alien sensory disorder, where attempts to use phantom alien sensory organs disrupt one or more of their actual physical senses.
 
 **Effect:** WIL Check or suffer from one of the chosen conditions.
+
+### Cosmic Anxiety Disorder
+
+**Triggers:** Alien/TITAN technology, the unknown, x-risks
+
+This disorder arises from facing x-risks, aliens, and incomprehensibly advanced technology. It functions much like anxiety; you are helpless in the face of an uncaring and dangerous universe.
+
+**Effect:** Like anxiety, but when faced with an alien or TITAN threat, make a WIL Check or either flee or collapse in panic.
 
 ### Depression
 

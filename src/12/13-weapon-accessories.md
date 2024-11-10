@@ -8,15 +8,15 @@ The following accessories are available for weapons.
 | :----------------------------- | :----------: | :--------------------------------------------------------------- |
 | Arm Slide                      |    Min/1     | Draw and attack with single complex action.                      |
 | Extended Magazine              |    Min/1     | Increase ammo capacity +50%.                                     |
+| Flash Suppressor               |    Min/1     | −30 Perceive to locate by flash.                                 |
 | Gyromount                      |    Mod/2     | Negate movement modifiers.                                       |
 | Imaging Scope                  |    Min/1     | As specs, can target around corners.                             |
-| Flash Suppressor               |    Min/1     | −30 Perceive to locate by flash.                                 |
 | Laser Sight                    |    Min/1     | Assisted targeting.                                              |
 | Safety System                  |    Min/1     | Weapon requires biometric authorization to use.                  |
 | Shock Safety                   |    Mod/2     | As safety system, DV 1d6 and shock effect to unauthorized users. |
 | Silencer/<wbr>Sound Suppressor |    Min/1     | −30 Perceive to locate by sound.                                 |
-| Smartlink                      |    Mod/2     | Assisted targeting, enhanced weapon control.                     |
 | Smart Magazine                 |    Min/1     | Select ammo with each shot, reduce ammo capacity −50%.           |
+| Smartlink                      |    Mod/2     | Assisted targeting, enhanced weapon control.                     |
 
 <!--sort-->
 

@@ -73,6 +73,7 @@
 | [Menton](../03/01-biomorphs.md#menton)                                                 |      Biomorph      |   4   |
 | [Mimic](../03/05-synthmorphs.md#mimic)                                                 |     Synthmorph     |   4   |
 | [Nautiloid](../03/05-synthmorphs.md#nautiloid)                                         |     Synthmorph     |  25   |
+| [Neo](../03/06-infomorphs.md#neo)                                                      |     Infomorph      |   2   |
 | [Neo-Avian](../03/02-uplift-biomorphs.md#neo-avian)                                    |  Uplift Biomorph   |   0   |
 | [Neo-Beluga](../03/02-uplift-biomorphs.md#neo-beluga)                                  |  Uplift Biomorph   |   3   |
 | [Neo-Bonobo/Chimp](../03/02-uplift-biomorphs.md#neo-bonoboneo-chimp)                   |  Uplift Biomorph   |   1   |
@@ -85,7 +86,6 @@
 | [Neo-Pig](../03/02-uplift-biomorphs.md#neo-pig)                                        |  Uplift Biomorph   |   1   |
 | [Neo-Porpoise](../03/02-uplift-biomorphs.md#neo-porpoise)                              |  Uplift Biomorph   |   1   |
 | [Neo-Whale](../03/02-uplift-biomorphs.md#neo-whale)                                    |  Uplift Biomorph   |   5   |
-| [Neo](../03/06-infomorphs.md#neo)                                                      |     Infomorph      |   2   |
 | [Neotenic](../03/01-biomorphs.md#neotenic)                                             |      Biomorph      |   2   |
 | [Nishakara (Surya)](../03/01-biomorphs.md#nishakara-variant)                           |      Biomorph      |   6   |
 | [Nomad](../03/01-biomorphs.md#nomad)                                                   |      Biomorph      |   3   |

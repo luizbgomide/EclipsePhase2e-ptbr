@@ -349,8 +349,8 @@ Spacecraft have few stats in Eclipse Phase, as they are primarily handled as set
 | SPACECRAFT      | Comp/<wbr>GP |  Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |        Movement         |
 | :-------------- | :----------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---------------------: |
 | Bulk Carrier    |    Rare/—    |   5+   |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
-| Courier         |    Rare/—    |   13   |   0   |   0   | 30/20 |  100  |  500  | 1,000 |       Anti-matter       |
 | Corvette        |    Rare/—    | 20–30  |   0   |   0   | 50/40 |  150  |  750  | 1,500 | Fusion/<wbr>Anti-matter |
+| Courier         |    Rare/—    |   13   |   0   |   0   | 30/20 |  100  |  500  | 1,000 |       Anti-matter       |
 | Destroyer       |    Rare/—    |   90   |   0   |   0   | 50/40 |  400  | 2,000 | 4,000 | Fusion/<wbr>Anti-matter |
 | Fighter         |    Rare/—    |  0/1   |   3   |   2   | 30/20 |  50   |  250  |  500  |         Fusion          |
 | Scum Barge      |    Rare/—    | 5k–25k |   0   |   0   | 40/30 |  300  | 1,500 | 3,000 |   Plasma/<wbr>Fusion    |
@@ -362,9 +362,9 @@ Spacecraft have few stats in Eclipse Phase, as they are primarily handled as set
 
 **Bulk Carrier:** This vessel is long and thin, with fusion rockets at one end and the cockpit and crew quarters at the other. Freight modules carrying cargo are grappled all along the spine. A pair of airlocked freight elevators move inside the spine. Carriers haul refined ores, ice, and similar large, useful, but low priority cargo at relatively low velocities. They also offer an inexpensive, reliable, and slow method for passengers to travel from one habitat to another and are not infrequently used by individuals who wish to disappear for a while. Bulk carriers lack rotating habitation rings, and are primary crewed by hibernoids, bouncers, and synthmorphs.
 
-**Courier:** With their anti-matter drives, these fast couriers can cross the Solar System in a matter of days or weeks. They are reserved for high value and critical cargo.
-
 **Corvette:** Corvettes are light warships and fast-attack craft. They primarily rely on fusion drives but also carry anti-matter for highspeed propulsion and devastating warheads. They are armed with railguns, lasers, drones, and missile systems.
+
+**Courier:** With their anti-matter drives, these fast couriers can cross the Solar System in a matter of days or weeks. They are reserved for high value and critical cargo.
 
 **Destroyer:** The largest military spacecraft in common use, destroyers alternate between fusion and antimatter drives like corvettes. They are armed with railguns, nuclear and high explosive missiles, point-defense lasers, and a contingent of 20 fighters.
 

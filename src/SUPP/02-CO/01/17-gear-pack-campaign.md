@@ -64,6 +64,6 @@
 | [Drone Rig](../../../16/08-mental-augmentations.md)        |    Mod/2     | Ignore the −10 modifier when jamming.                                            |
 | [Enhanced Security](../../../16/12-meshware.md)            |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
 | [Exploit App](../../../16/13-apps-and-alis.md#apps)        |   Mod/R/2    | Hacking library tool.                                                            |
-| [Private Server](../../../16/04-services.md#mesh-services) |    Min/1     | Private server, self-administrated.                                              |
 | [Gnat](../../../16/21-robots.md#reconsurveillance-bots)    |    Min/1     | Surveillance rotorcraft. Small size.                                             |
 | [Guardian Angel](../../../16/21-robots.md#combat-bots)     |    Mod/2     | Personal defense rotorcraft. Small size.                                         |
+| [Private Server](../../../16/04-services.md#mesh-services) |    Min/1     | Private server, self-administrated.                                              |

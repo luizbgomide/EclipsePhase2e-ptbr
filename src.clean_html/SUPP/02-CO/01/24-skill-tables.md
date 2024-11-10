@@ -132,8 +132,8 @@
 
 | d100<!--sort-n00--> | Field<!--sort-by-->  |
 | :-----------------: | :------------------- |
-|        00–04        | Architecture         |
-|        05–09        | AR Design            |
+|        00–04        | AR Design            |
+|        05–09        | Architecture         |
 |        10–14        | Bodysculpting        |
 |        15–18        | Cooking              |
 |        19–22        | Criticism            |
@@ -190,8 +190,8 @@
 |        53–55        | History             |
 |        56–57        | Law                 |
 |        58–59        | Linguistics         |
-|        60–61        | Mathematics         |
-|        62–63        | Materials Science   |
+|        60–61        | Materials Science   |
+|        62–63        | Mathematics         |
 |        64–65        | Memetics            |
 |        66–67        | Microbiology        |
 |        68–69        | Military Science    |
@@ -236,8 +236,8 @@
 |        22–23        | Drugs/Petals/Narcos                           |
 |        24–25        | Earth Relics                                  |
 |        26–27        | Exhumans                                      |
-|        28–29        | Exoplanets                                    |
-|        30–31        | Exoplanet Colonies                            |
+|        28–29        | Exoplanet Colonies                            |
+|        30–31        | Exoplanets                                    |
 |        32–33        | Factors                                       |
 |         34          | Food                                          |
 |        35–36        | Gambling                                      |
@@ -267,8 +267,8 @@
 |         75          | Sports                                        |
 |         76          | Stock Market                                  |
 |        77–79        | Strategy Games                                |
-|        80–81        | TITANs                                        |
-|        82–83        | TITAN Tech                                    |
+|        80–81        | TITAN Tech                                    |
+|        82–83        | TITANs                                        |
 |        84–86        | Transhuman Factions                           |
 |         87          | Trivia                                        |
 |        88–89        | Underground XP                                |
@@ -300,8 +300,8 @@ Many of these interests can be further specialized by adding a faction or place 
 |        07–08        | Biodesign                     |
 |        09–11        | Body Bank Ops                 |
 |         12          | Bodyguarding                  |
-|         13          | Cool Hunting                  |
-|        14–15        | Con Artistry                  |
+|        13–14        | Con Artistry                  |
+|         15          | Cool Hunting                  |
 |         16          | Culture Jamming               |
 |        17–18        | Customs Ops                   |
 |        19–20        | Darknet Ops                   |
@@ -338,8 +338,8 @@ Many of these interests can be further specialized by adding a faction or place 
 |        73–74        | Psychotherapy                 |
 |        75–76        | Public Relations/Spin Control |
 |        77–78        | Racketeering                  |
-|        79–80        | Scavenging                    |
-|        81–82        | Salvage Ops                   |
+|        79–80        | Salvage Ops                   |
+|        81–82        | Scavenging                    |
 |        83–84        | Security Ops                  |
 |         85          | Service Work                  |
 |        86–87        | Skipjacking                   |
@@ -350,7 +350,7 @@ Many of these interests can be further specialized by adding a faction or place 
 |         94          | Surveying                     |
 |        95–96        | Terraforming                  |
 |         97          | Viral Marketing               |
-|        97–98        | XP Production                 |
+|        98–99        | XP Production                 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->

@@ -36,26 +36,26 @@ Altering an object’s design and function follows the same basic rules as build
 
 <!--sort-->
 
-| Object/<wbr>Structure/<wbr>Material            | Armor (E/K) | Destruction Rating | Wound Threshold |
-| :--------------------------------------------- | :---------: | :----------------: | :-------------: |
-| Airlock Door (Standard, 2 person)              |    25/15    |        150         |       15        |
-| Airlock Door (Service, 10 person)              |    25/20    |        300         |       30        |
-| Electronics Console                            |     6/4     |         80         |        8        |
-| Cortical Stacks                                |    20/20    |         40         |                 |
-| Dome, Inflated (Spiderweave, 3 × 3&nbsp;m²)    |    10/20    |         60         |        6        |
-| Dome, Structural (3 × 3&nbsp;m²)               |    30/40    |        100         |       10        |
-| Door (Metallic Foam)                           |    25/20    |        100         |       10        |
-| Door (Polymer)                                 |     4/8     |         60         |        6        |
-| Furniture (Polymer)                            |     4/6     |         50         |        5        |
-| Hull, Aerostat/<wbr>Light (Metallic Foam)      |   70/50+    |        500+        |       50+       |
-| Hull, Standard (Advanced Composites)           |   80/60+    |        750+        |       75+       |
-| Hull, Heavy (Reinforced)                       |  100/100+   |       1,500+       |      150+       |
-| Tree                                           |    6/8+     |        80+         |       8+        |
-| Wall  (Aerogel, 3 × 3&nbsp;m²)                 |    10/5     |        150         |       15        |
-| Wall  (Concrete, 3 × 3&nbsp;m²)                |    6/10     |        200         |       20        |
-| Wall  (Metal Alloys, 3 × 3&nbsp;m²)            |    25/15    |        300         |       30        |
-| Wall, Reinforced (Metal Alloys, 3 × 3&nbsp;m²) |    40/30    |        500         |       50        |
-| Window (Aerogel, 1 × 3&nbsp;m²)                |     7/5     |         50         |        5        |
-| Window (Transparent Aluminum, 1 × 3&nbsp;m²)   |    10/15    |        100         |       10        |
+| Object/<wbr>Structure/<wbr>Material                             | Armor (E/K) | Destruction Rating | Wound Threshold |
+| :-------------------------------------------------------------- | :---------: | :----------------: | :-------------: |
+| Airlock Door (Standard, 2 person)                               |    25/15    |        150         |       15        |
+| <!--sort-union-->Airlock Door (Service, 10 person)              |    25/20    |        300         |       30        |
+| Cortical Stacks                                                 |    20/20    |         40         |                 |
+| Dome, Inflated (Spiderweave, 3 × 3&nbsp;m²)                     |    10/20    |         60         |        6        |
+| <!--sort-union-->Dome, Structural (3 × 3&nbsp;m²)               |    30/40    |        100         |       10        |
+| Door (Polymer)                                                  |     4/8     |         60         |        6        |
+| <!--sort-union-->Door (Metallic Foam)                           |    25/20    |        100         |       10        |
+| Electronics Console                                             |     6/4     |         80         |        8        |
+| Furniture (Polymer)                                             |     4/6     |         50         |        5        |
+| Hull, Aerostat/<wbr>Light (Metallic Foam)                       |   70/50+    |        500+        |       50+       |
+| <!--sort-union-->Hull, Standard (Advanced Composites)           |   80/60+    |        750+        |       75+       |
+| <!--sort-union-->Hull, Heavy (Reinforced)                       |  100/100+   |       1,500+       |      150+       |
+| Tree                                                            |    6/8+     |        80+         |       8+        |
+| Wall (Aerogel, 3 × 3&nbsp;m²)                                   |    10/5     |        150         |       15        |
+| <!--sort-union-->Wall (Concrete, 3 × 3&nbsp;m²)                 |    6/10     |        200         |       20        |
+| <!--sort-union-->Wall (Metal Alloys, 3 × 3&nbsp;m²)             |    25/15    |        300         |       30        |
+| <!--sort-union-->Wall, Reinforced (Metal Alloys, 3 × 3&nbsp;m²) |    40/30    |        500         |       50        |
+| Window (Aerogel, 1 × 3&nbsp;m²)                                 |     7/5     |         50         |        5        |
+| <!--sort-union-->Window (Transparent Aluminum, 1 × 3&nbsp;m²)   |    10/15    |        100         |       10        |
 
 </blockquote>

@@ -14,8 +14,8 @@ These software services are available as a per-month subscription from cloud-bas
 | Archive                  |     Min/1      | +10 Research Tests related to one Know skill.                        |
 | Data Broker              |     Min/1      | +10 Research Tests.                                                  |
 | Private Sensor Feed      |     Min/1      | +10 Perceive for that area.                                          |
-| Private Server Partition |     Min/1      | Private space on a cloud server.                                     |
 | Private Server           | Min/1 or Mod/2 | Private server, self-administrated (Min) or managed by others (Mod). |
+| Private Server Partition |     Min/1      | Private space on a cloud server.                                     |
 | Simulspace               |     Min/1      | Access to a VR space.                                                |
 
 <!--sort-->
@@ -28,9 +28,9 @@ These software services are available as a per-month subscription from cloud-bas
 
 **Private Sensor Feed:** Each private sensor feed covers an area equivalent to a neighborhood or small habitat. Using it provides a +10 bonus to Perceive Tests when surveiling that area.
 
-**Private Server Partition:** Home space for an infomorph on a protected cloud server.
-
 **Private Server:** Capable of running simulspace and 50 infomorphs.
+
+**Private Server Partition:** Home space for an infomorph on a protected cloud server.
 
 **Simulspace:** You have access to a virtual game environment, private meeting space, interactive media service, unreal vacation library, or other simulspace environment.
 

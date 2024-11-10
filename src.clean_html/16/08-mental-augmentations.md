@@ -14,8 +14,8 @@ Most headware augmentations enhance the brain and mental functions.
 | Ghostrider Module      |    CH     |    Min/1     | Carries an infomorph.                                                                    |
 | Memory Lock            |    CHM    |    Min/1     | Blocks memory retention/recording when activated.                                        |
 | Mind Amp               |    HMN    |    Maj/3     | Accelerates mind. +2 Insight.                                                            |
-| Multiple Personalities |    BM     |    Maj/3     | Brain holds multiple egos.                                                               |
 | Multi-Tasking          |    CHM    |    Mod/2     | Focus on 2 things at once. +1 Insight.                                                   |
+| Multiple Personalities |    BM     |    Maj/3     | Brain holds multiple egos.                                                               |
 | Remote Backup Link     |    CH     |    Maj/3     | Quantum farcaster for remote backup every 48 hrs.                                        |
 | Skillware              |    CHM    |    Maj/3     | Can use 120 points of skillsofts.                                                        |
 
@@ -37,6 +37,8 @@ Most headware augmentations enhance the brain and mental functions.
 
 **Mind Amp:** Mind amp alters your neural architecture and augments neuronal functions. This accelerates your mental faculties and ability to receive and process sensory information. Time subjectively slows down for you, allowing you to discern things happening too quickly for others to perceive, such as the individual frames of an old analog film or an accelerated audio recording. Mind amp increases your Insight pool by 2.
 
+**Multi-Tasking:** This cybernetic or software module enables your brain to focus on two things at the same time — something our minds cannot usually handle — without any context-switching confusion or increased error rates from inattention. Multi-Tasking increases your Insight Pool by 1.
+
 **Multiple Personalities:** Your brain is intentionally partitioned to accommodate an extra personality. This multiplicity is not viewed as a disorder, but as a cognitive tool to help people deal with their hypercomplex environments. This extra personality can be a separate character (in ego form only), an NPC run by the GM, or the downloaded fork of another character. For all intents and purposes, the extra personality is treated as a separate ego (i.e., it may backup and fork separately), except that both personalities are backed up in the same cortical stack and if downloaded they must be placed in separate morphs or in another morph with this implant.
 
 <!--sort-union-->
@@ -46,8 +48,6 @@ Only one ego can be in control of the morph at a time. The other resides in the 
 <!--sort-union-->
 
 You can take this augmentation more than once (to a maximum of 3 times) to incorporate multiple egos into the same mind.
-
-**Multi-Tasking:** This cybernetic or software module enables your brain to focus on two things at the same time — something our minds cannot usually handle — without any context-switching confusion or increased error rates from inattention. Multi-Tasking increases your Insight Pool by 1.
 
 **Remote Backup Link:** Your morph’s cortical stack is linked to an implanted [quantum farcaster](16-comms-and-mesh-gear.md#quantum-farcasters) linked to a highly secure storage facility. Using standard radio and quantum [encryption](../13/05-authentication-and-encryption.md#encryption), the farcaster broadcasts full backups of your ego (pulled from your cortical stack’s neural lace network) once every 48 hours. This transfer takes a single action turn. At the GM’s discretion, the backup interval may be scheduled more or less frequently, keeping in mind that ego broadcasts are limited for security purposes and because they hog bandwidth. Broadcast egos must be within range of the recipient to be received; for this reason the system’s usefulness is limited to select habitats or situations where you have arranged for secure storage in a nearby vicinity, such as onboard a nearby spaceship. If the radio broadcasts are blocked or jammed, this device cannot save remote backups.
 

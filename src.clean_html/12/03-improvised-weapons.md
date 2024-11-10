@@ -17,7 +17,7 @@ Sometimes you’re caught off-guard and must use whatever is at hand — or mayb
 | Robot (Very Small)  |      1d6 + 1 \[5\]       |            | Concealable           |
 | Rock                |      1d6 + 2 \[6\]       |    Min     | Concealable           |
 | Shiv                |      1d10 − 1 \[5\]      |    Min     | Concealable           |
-| Synthmorph (Small)  |        1d6 \[4\]         |            |                       |
 | Synthmorph (Medium) |        2d6 \[7\]         |            | Knockdown, Two-Handed |
+| Synthmorph (Small)  |        1d6 \[4\]         |            |                       |
 | Utilitool           |        1d10 \[6\]        |            |                       |
 | Wrench              |        1d10 \[6\]        |    Min     |                       |

@@ -80,15 +80,15 @@
 |        50–51        | [Lack of Smell](../04/06-negative-morph-traits.md#lack-of-smell)*                                |    1     |
 |        52–54        | [Low Pain Tolerance](../../../04/28-traits.md#low-pain-tolerance) (Biomorphs Only)               |    4     |
 |        55–57        | [Neurochemical Imbalance](../04/06-negative-morph-traits.md#neurochemical-imbalance)*            |    3     |
-|        58–60        | [Personality Artifact](../04/06-negative-morph-traits.md#personality-artifact)*                  |    2     |
-|        61–63        | [Non-Human Biochemistry](../../../04/28-traits.md#non-human-biochemistry) (Biomorphs Only)       |   2/4    |
-|        64–65        | [Obtuseness](../../../04/28-traits.md#obtuseness)                                                |  1/2/3   |
+|        58–60        | [Non-Human Biochemistry](../../../04/28-traits.md#non-human-biochemistry) (Biomorphs Only)       |   2/4    |
+|        61–62        | [Obtuseness](../../../04/28-traits.md#obtuseness)                                                |  1/2/3   |
+|        63–65        | [Personality Artifact](../04/06-negative-morph-traits.md#personality-artifact)*                  |    2     |
 |        66–68        | [Planned Obsolescence](../../../04/28-traits.md#planned-obsolescence)                            |    1     |
 |        69–71        | [Poor Coordination](../../../04/28-traits.md#poor-coordination)                                  |  1/2/3   |
 |        72–74        | [Poor Instincts](../../../04/28-traits.md#poor-instincts)                                        |  1/2/3   |
 |        75–77        | [Proprietary Tech](../../../04/28-traits.md#proprietary-tech) (Synthmorphs Only)                 |    2     |
-|        78–79        | [Restricted Behavior](../../../04/28-traits.md#restricted-behavior) (Biomorphs Only)             |   1/2    |
-|        80–82        | [Psi Vulnerability](../../../04/28-traits.md#psi-vulnerability)                                  |  1/2/4   |
+|        78–80        | [Psi Vulnerability](../../../04/28-traits.md#psi-vulnerability)                                  |  1/2/4   |
+|        81–82        | [Restricted Behavior](../../../04/28-traits.md#restricted-behavior) (Biomorphs Only)             |   1/2    |
 |        83–84        | [Severe Allergy](../../../04/28-traits.md#severe-allergy) (Biomorphs Only)                       |   2/4    |
 |        85–87        | [Skill Glitch](../../../04/28-traits.md#skill-glitch)                                            |   1/2    |
 |        88–90        | [Timidity](../../../04/28-traits.md#timidity)                                                    |  1/2/3   |
@@ -144,8 +144,8 @@
 |         38          | [Gold Star](../04/07-new-ego-traits.md#gold-star)*                                    |   1/2   |
 |         39          | [Good Instincts](../../../04/28-traits.md#good-instincts)                             |  1/2/3  |
 |         40          | [Habitat Tranquility](../04/07-new-ego-traits.md#habitat-tranquility)*                |    1    |
-|        41–42        | [Hardening](../../../04/28-traits.md#hardening)                                       |    1    |
-|         43          | [Hard Knocks](../04/07-new-ego-traits.md#hard-knocks)*                                |    6    |
+|         41          | [Hard Knocks](../04/07-new-ego-traits.md#hard-knocks)*                                |    6    |
+|        42–43        | [Hardening](../../../04/28-traits.md#hardening)                                       |    1    |
 |        44–45        | [Home Turf](../04/07-new-ego-traits.md#home-turf)*                                    |    1    |
 |        46–47        | [Hyper Linguistics](../../../04/28-traits.md#hyper-linguistics)                       |  1/2/3  |
 |         48          | [Improved Beta](../04/07-new-ego-traits.md#improved-beta)*                            |    1    |
@@ -210,8 +210,8 @@
 |         05          | [Anomalous Mind](../04/07-new-ego-traits.md#anomalous-mind)*                               |    6     |
 |         06          | [Bad Luck](../../../04/28-traits.md#bad-luck)                                              |    6     |
 |         07          | [Beta](../04/07-new-ego-traits.md#beta)*                                                   |    2     |
-|         08          | [Blocklisted Rep](../../../04/28-traits.md#blocklisted-rep)                                |   1/4    |
-|        09–10        | [Black Mark](../../../04/28-traits.md#black-mark)                                          |  1/2/3   |
+|        08–09        | [Black Mark](../../../04/28-traits.md#black-mark)                                          |  1/2/3   |
+|         10          | [Blocklisted Rep](../../../04/28-traits.md#blocklisted-rep)                                |   1/4    |
 |         11          | [Botched Merge](../04/07-new-ego-traits.md#botched-merge)*                                 |    2     |
 |         12          | [Brittle Psyche](../04/07-new-ego-traits.md#brittle-psyche)* (Asyncs Only)                 |    2     |
 |         13          | [Combat Paralysis](../../../04/28-traits.md#combat-paralysis)                              |    4     |
@@ -261,8 +261,8 @@
 |         91          | [Stress Vulnerability](../04/07-new-ego-traits.md#stress-vulnerability)*                   |    1     |
 |         92          | [Submissiveness](../04/07-new-ego-traits.md#submissiveness)*                               |  1/2/3   |
 |         93          | [Subverted Mind](../04/07-new-ego-traits.md#subverted-mind)*                               |    6     |
-|         94          | [Timidity](../../../04/28-traits.md#timidity)                                              |  1/2/3   |
-|         95          | [Thorough Infection](../04/07-new-ego-traits.md#thorough-infection)* (Asyncs Only)         |    4     |
+|         94          | [Thorough Infection](../04/07-new-ego-traits.md#thorough-infection)* (Asyncs Only)         |    4     |
+|         95          | [Timidity](../../../04/28-traits.md#timidity)                                              |  1/2/3   |
 |         96          | [Uncooperative Tendencies](../04/07-new-ego-traits.md#uncooperative-tendencies)*           |    2     |
 |         97          | [Unreliability](../04/07-new-ego-traits.md#unreliability)*                                 |    4     |
 |         98          | [Unusual Aura](../04/07-new-ego-traits.md#unusual-aura)* (Asyncs Only)                     |    4     |

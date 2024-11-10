@@ -122,8 +122,8 @@
 |        42–53        | [Pleasure Pod](../03/03-pod-biomorphs.md#pleasure-pod)                                 |    4    |
 |         54          | [Ripwing](../03/03-pod-biomorphs.md#ripwing)                                           |    4    |
 |        55–56        | [Samsa](../03/03-pod-biomorphs.md#samsa)                                               |    5    |
-|         57          | [Scurrier (Quadruped)](../03/04-exomorph-biomorphs.md#quadruped-variant)               |    2    |
-|         58          | [Scurrier](../03/04-exomorph-biomorphs.md#scurrier)                                    |    2    |
+|         57          | [Scurrier](../03/04-exomorph-biomorphs.md#scurrier)                                    |    2    |
+|         58          | [Scurrier (Quadruped)](../03/04-exomorph-biomorphs.md#quadruped-variant)               |    2    |
 |        59–66        | [Security Pod](../03/03-pod-biomorphs.md#security-pod)                                 |    5    |
 |        67–70        | [Shaper](../03/03-pod-biomorphs.md#shaper)                                             |    5    |
 |        71–74        | [Space Marine (Security Pod)](../03/03-pod-biomorphs.md#space-marine-variant)          |    6    |

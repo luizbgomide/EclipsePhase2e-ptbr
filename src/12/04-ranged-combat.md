@@ -22,12 +22,6 @@ Every weapon lists an ammunition capacity that indicates how many shots the weap
 
 Reloading aside, you are assumed to carry enough standard ammo or batteries that you will not run out. You should, however, keep track of smart and specialty ammo, seeker missiles, and larger ammunition. Likewise, in remote locations or situations where you are isolated from resources, the GM may have you track the ammo you use.
 
-### Indirect Fire
-
-With the help of a spotter, you can target an enemy that you can’t see using indirect fire. Indirect attacks are primarily made with seekers, grenades, and other projectiles that do not follow a direct-line trajectory to the target. You must be meshed with a character, bot, tactical network, or sensor system that has the target in its sights and which feeds you targeting data. Indirect attacks suffer a −20 modifier.
-
-[Seeker missiles](10-seeker-weapons-and-grenades.md) can home in on a target that is “painted” with reflected energy from a [laser sight](13-weapon-accessories.md) or similar target designator system. An “attack” must first be made to paint the target with the laser sight using Guns skill. If successful, the target acquisition negates the −20 indirect fire modifier for the seeker launcher’s attack test. The target must be held in the spotter’s sights (requiring a complex action each turn) until the seeker strikes.
-
 ### Firing Modes
 
 Ranged weapons have one or more firing modes that determines their rate of fire:
@@ -59,6 +53,12 @@ Ranged weapons have one or more firing modes that determines their rate of fire:
 | <p class="indent">» Suppressive Fire</p>       | Standard DV to anyone moving out of cover within cone |
 
 </blockquote>
+
+### Indirect Fire
+
+With the help of a spotter, you can target an enemy that you can’t see using indirect fire. Indirect attacks are primarily made with seekers, grenades, and other projectiles that do not follow a direct-line trajectory to the target. You must be meshed with a character, bot, tactical network, or sensor system that has the target in its sights and which feeds you targeting data. Indirect attacks suffer a −20 modifier.
+
+[Seeker missiles](10-seeker-weapons-and-grenades.md) can home in on a target that is “painted” with reflected energy from a [laser sight](13-weapon-accessories.md) or similar target designator system. An “attack” must first be made to paint the target with the laser sight using Guns skill. If successful, the target acquisition negates the −20 indirect fire modifier for the seeker launcher’s attack test. The target must be held in the spotter’s sights (requiring a complex action each turn) until the seeker strikes.
 
 ### Range
 
@@ -92,9 +92,9 @@ These modifiers apply to ranged combat attacks.
 | Aim (Quick Action)                                                 |                                         +10                                          |
 | <!--sort-union-->Aim (Complex Action)                              |                                         +30                                          |
 | Attacker Behind/Coming Out of Cover                                |                                         −10                                          |
+| Attacker Firing Multiple Weapons At Once                           |                             −20 cumulative (after first)                             |
 | Attacker In Melee                                                  |                                −10 (−30 long weapons)                                |
 | Attacker Not Using Smartlink or Laser Sight                        |                                         −10                                          |
-| Attacker Firing Multiple Weapons At Once                           |                             −20 cumulative (after first)                             |
 | Defender Behind Minor Cover                                        |                                         −10                                          |
 | <!--sort-union-->Defender Behind Moderate Cover                    |                                         −20                                          |
 | <!--sort-union-->Defender Behind Major Cover                       |                                         −30                                          |

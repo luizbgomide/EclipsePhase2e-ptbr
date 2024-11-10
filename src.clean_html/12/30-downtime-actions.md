@@ -63,17 +63,17 @@ You may spend RP to purchase a positive ego trait of an equivalent CP Cost. You 
 
 Note that you do not gain RP from any positive ego traits you lose as a consequence of your actions, nor any negative ego traits you acquire during gameplay — you are simply saddled with the new flaw.
 
-### Improve Aptitudes
-
-Raise aptitudes at the cost of 1&nbsp;RP per aptitude point. Aptitudes cannot be raised above 30.
-
-Raising the value of an aptitude also raises the value of all linked skills by an equivalent amount (double in the case of Fray/Perceive).
-
 ### Improve and Learn Skills
 
 To improve an existing skill or learn a new one, you must actively practice it, study, and/or seek instruction. Each RP spent gives you 5 skill points to allocate. New skills are raised up from the linked aptitude rating.
 
 Once you have achieved a level of expertise in a skill (60+), you reach a plateau where improvement progresses more slowly and even consistent practice and study have diminished returns. You cannot spend more than 1 skill point on skills that are 60 or over per downtime week. No skill may be raised over 100 (and even then, 99 is still a critical failure).
+
+### Improve Aptitudes
+
+Raise aptitudes at the cost of 1&nbsp;RP per aptitude point. Aptitudes cannot be raised above 30.
+
+Raising the value of an aptitude also raises the value of all linked skills by an equivalent amount (double in the case of Fray/Perceive).
 
 ### Increase Flex
 

@@ -135,8 +135,8 @@
 | [Docbot](../../../16/21-robots.md#medical-bots)                          |    Maj/3     | Medical bot.                                                                  |
 | [Healing Spray](../../../16/19-nanotech.md)                              |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                      |
 | [Healing Vat](../../../16/19-nanotech.md)                                |    Maj/3     | Heal/cure biomorphs, customize/augment morph.                                 |
-| [Meds (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
 | [Med Scanner](../../../16/19-nanotech.md)                                |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
+| [Meds (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
 
 ## Mindhacker
 

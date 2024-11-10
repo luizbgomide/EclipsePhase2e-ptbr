@@ -108,9 +108,9 @@ You should never have more than 3 motivations; if you want to add a new one, you
 |        17–18        |             DIY/Self-Reliance              |
 |         19          |                 Education                  |
 |         20          |                   Escape                   |
-|        21–22        |              Expand Influence              |
-|        23–24        |                Exploration                 |
-|         25          |           Exoplanet Colonization           |
+|         21          |           Exoplanet Colonization           |
+|        22–23        |              Expand Influence              |
+|        24–25        |                Exploration                 |
 |        26–27        |           \[Faction\] Interests            |
 |        28–29        |              Fame/Recognition              |
 |         30          |                   Family                   |

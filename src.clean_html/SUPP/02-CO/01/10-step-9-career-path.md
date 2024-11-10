@@ -102,46 +102,11 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-### Researcher
-
-<!-- CLEANED div class="no-wrap large-text" -->
-
-**❯ 33–66 ❮**<!--sort-static-->
-
-<!-- CLEANED /div --><!-- CLEANED /div -->
-
-- You find secrets hidden within the data.
-- **Motivation:** +Research
-
-<!-- CLEANED /div -->
-<!-- CLEANED div -->
-<!--sort-->
-
-|                                       |      |
-| :------------------------------------ | ---: |
-| COG                                   |    5 |
-| <!--sort-restart-->r-rep              |   20 |
-| <!--sort-restart-->Interface          |   30 |
-| Perceive                              |   25 |
-| Program                               |   20 |
-| Research                              |   60 |
-| <!--sort-restart-->Know: Data Science |   30 |
-| Know: Lab Ops                         |   30 |
-| Know: Mathematics                     |   50 |
-
-<!-- CLEANED /div -->
-<!-- CLEANED /blockquote -->
-
-<!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
-<!-- CLEANED div class="stat-list title-margin" -->
-<!-- CLEANED div class="line-spread heading" -->
-
 ### Professor
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
-**❯ 67–99 ❮**<!--sort-static-->
+**❯ 33–66 ❮**<!--sort-static-->
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
@@ -163,6 +128,41 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | <!--sort-restart-->Know: Anthropology |   30 |
 | Know: History                         |   50 |
 | Know: Instruction                     |   40 |
+
+<!-- CLEANED /div -->
+<!-- CLEANED /blockquote -->
+
+<!--sort-block-->
+<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED div class="stat-list title-margin" -->
+<!-- CLEANED div class="line-spread heading" -->
+
+### Researcher
+
+<!-- CLEANED div class="no-wrap large-text" -->
+
+**❯ 67–99 ❮**<!--sort-static-->
+
+<!-- CLEANED /div --><!-- CLEANED /div -->
+
+- You find secrets hidden within the data.
+- **Motivation:** +Research
+
+<!-- CLEANED /div -->
+<!-- CLEANED div -->
+<!--sort-->
+
+|                                       |      |
+| :------------------------------------ | ---: |
+| COG                                   |    5 |
+| <!--sort-restart-->r-rep              |   20 |
+| <!--sort-restart-->Interface          |   30 |
+| Perceive                              |   25 |
+| Program                               |   20 |
+| Research                              |   60 |
+| <!--sort-restart-->Know: Data Science |   30 |
+| Know: Lab Ops                         |   30 |
+| Know: Mathematics                     |   50 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
@@ -957,14 +957,14 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 |                                        |      |
 | :------------------------------------- | ---: |
 | c-rep                                  |   20 |
-| <!--sort-restart-->Infosec             |   20 |
+| <!--sort-restart-->Guns                |   20 |
+| Infosec                                |   20 |
 | Kinesics                               |   30 |
-| Guns                                   |   20 |
 | Medicine: Forensics                    |   20 |
 | Perceive                               |   40 |
 | Research                               |   50 |
-| <!--sort-restart-->Know: Investigation |   60 |
-| Know: Cartels                          |   30 |
+| <!--sort-restart-->Know: Cartels       |   30 |
+| Know: Investigation                    |   60 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
@@ -1033,8 +1033,8 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | Persuade                            |   20 |
 | Provoke                             |   20 |
 | Research                            |   60 |
-| <!--sort-restart-->Know: Journalism |   60 |
-| Know: Current Events                |   30 |
+| <!--sort-restart-->Know: Current Events |   30 |
+| Know: Journalism                    |   60 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
@@ -1087,9 +1087,9 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | Medicine: Pharmacology               |   50 |
 | Medicine: Psychosurgery              |   40 |
 | Research                             |   30 |
-| <!--sort-restart-->Know: Genetics    |   30 |
+| <!--sort-restart-->Know: Cognitive Science |   20 |
+| Know: Genetics                       |   30 |
 | Know: Morphs                         |   40 |
-| Know: Cognitive Science              |   20 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
@@ -1157,9 +1157,9 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | Medicine: Pharmacology               |   50 |
 | Medicine: Psychosurgery              |   40 |
 | Research                             |   30 |
-| <!--sort-restart-->Know: Genetics    |   20 |
+| <!--sort-restart-->Know: Cognitive Science |   30 |
+| Know: Genetics                       |   20 |
 | Know: Infectious Diseases            |   40 |
-| Know: Cognitive Science              |   30 |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->
@@ -1210,8 +1210,8 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | <!--sort-restart-->Infosec           |   20 |
 | Medicine: Psychosurgery              |   40 |
 | Persuade                             |   60 |
-| Provoke                              |   40 |
 | Program                              |   20 |
+| Provoke                              |   40 |
 | <!--sort-restart-->Know: Influencers |   20 |
 | Know: Memetics                       |   40 |
 | Know: Psychology                     |   30 |
@@ -1244,8 +1244,8 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | COG                                        |    5 |
 | <!--sort-restart-->c-rep                   |   20 |
 | <!--sort-restart-->Infosec                 |   20 |
-| Medicine: Psychosurgery                    |   60 |
 | Medicine: Pharmacology                     |   30 |
+| Medicine: Psychosurgery                    |   60 |
 | Program                                    |   20 |
 | <!--sort-restart-->Know: Cognitive Science |   60 |
 | Know: Psychiatry                           |   30 |
@@ -1279,8 +1279,8 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | SAV                                 |    5 |
 | <!--sort-restart-->c-rep            |   20 |
 | <!--sort-restart-->Kinesics         |   40 |
-| Medicine: Psychosurgery             |   40 |
 | Medicine: Pharmacology              |   40 |
+| Medicine: Psychosurgery             |   40 |
 | Persuade                            |   20 |
 | Research                            |   15 |
 | <!--sort-restart-->Know: Psychiatry |   30 |
@@ -1405,8 +1405,8 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 |                                           |      |
 | :---------------------------------------- | ---: |
 | g-rep                                     |   20 |
-| <!--sort-restart-->Hardware: Electronics  |   40 |
-| Hardware: Demolitions                     |   40 |
+| <!--sort-restart-->Hardware: Demolitions  |   40 |
+| Hardware: Electronics                     |   40 |
 | Hardware: Robotics                        |   50 |
 | Infosec                                   |   20 |
 | Pilot: Ground                             |   30 |
@@ -1660,9 +1660,9 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 | REF                                    |    5 |
 | <!--sort-restart-->g-rep               |   20 |
 | <!--sort-restart-->Fray                |   30 |
+| Guns                                   |   50 |
 | Hardware: Demolitions                  |   15 |
 | Infiltrate                             |   30 |
-| Guns                                   |   50 |
 | Melee                                  |   30 |
 | <!--sort-restart-->Know: Black Markets |   50 |
 | Know: Security Ops                     |   40 |

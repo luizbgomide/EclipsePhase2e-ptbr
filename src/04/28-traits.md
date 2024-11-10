@@ -428,8 +428,8 @@ Negative traits provide a CP or MP bonus and impair you.
 | [Poor Coordination](#poor-coordination)           |  1/2/3   | −5 per level to REF Checks.                                                                                                 |
 | [Poor Instincts](#poor-instincts)                 |  1/2/3   | −5 per level to INT Checks.                                                                                                 |
 | [Proprietary Tech](#proprietary-tech)             |    2     | −20 Hardware Tests, fixers do not work. Synthmorphs only.                                                                   |
-| [Restricted Behavior](#restricted-behavior)       |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                                                                       |
 | [Psi Vulnerability](#psi-vulnerability)           |   1/2    | −10 per level to resist psi. Bio-brained morphs only.                                                                       |
+| [Restricted Behavior](#restricted-behavior)       |  1/2/4   | Psychosurgically limited behavior/emotions. See text.                                                                       |
 | [Severe Allergy](#severe-allergy)                 |   2/4    | −30 when exposed to allergen plus SOM Check or anaphylactic shock; death in 2d10 minutes without treatment. Biomorphs only. |
 | [Skill Glitch](#skill-glitch)                     |   1/2    | −10 per level to one GM-chosen skill                                                                                        |
 | [Timidity](#timidity)                             |  1/2/3   | −5 per level to WIL Checks.                                                                                                 |

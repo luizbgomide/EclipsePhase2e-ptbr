@@ -1053,8 +1053,8 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 | Persuade                                     |   40 |
 | Provoke                                      |   30 |
 | <!--sort-restart-->Know: Fine Art            |   10 |
-| Know: Hypercorps                             |   60 |
 | Know: Hypercorp Politics                     |   30 |
+| Know: Hypercorps                             |   60 |
 
 </div>
 </blockquote>
@@ -1514,11 +1514,11 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 |                                        |      |
 | :------------------------------------- | ---: |
 | c-rep                                  |   10 |
-| <!--sort-restart-->Melee               |   20 |
-| Free Fall                              |   40 |
-| Hardware: Electronics                  |   20 |
+| <!--sort-restart-->Free Fall           |   40 |
 | Hardware: Aerospace                    |   50 |
+| Hardware: Electronics                  |   20 |
 | Interface                              |   40 |
+| Melee                                  |   20 |
 | Perceive                               |   20 |
 | Survival                               |   10 |
 | <!--sort-restart-->Know: Black Markets |   20 |
@@ -2211,8 +2211,8 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 | INT                                                             |    5 |
 | <!--sort-restart-->Enhanced Behavior (Impulsive, Level 2) trait |      |
 | Mental Disorder [Choose One] trait                              |      |
-| Psi Camouflage (Level 1) trait                                  |      |
 | Psi (Level 2) trait                                             |      |
+| Psi Camouflage (Level 1) trait                                  |      |
 | <!--sort-restart-->4 psi sleights (random or choose)            |      |
 | Deceive                                                         |   30 |
 | Infiltrate                                                      |   40 |
@@ -2698,8 +2698,8 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 | :--------------------------------- | ---: |
 | @-rep                              |   10 |
 | <!--sort-restart-->Athletics       |   40 |
-| Fray                               |   20 |
 | Deceive                            |   25 |
+| Fray                               |   20 |
 | Infiltrate                         |   25 |
 | Kinesics                           |   30 |
 | Perceive                           |   40 |

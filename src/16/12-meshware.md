@@ -9,8 +9,8 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 | App-Lock          |    Min/1     | −30 Infosec to remove apps without authorization.                                |
 | Auto-Erase        |    Min/1     | Auto-erases infomorph when conditions are met.                                   |
 | Copylock          |    Min/1     | Prevents copying/forking, −30 Infosec to copy.                                   |
-| Enhanced Security |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
 | E-Veil            |   Min/R/1    | Obfuscates apps, opposes Interface with Program 80.                              |
+| Enhanced Security |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
 | Fault Tolerance   |    Mod/2     | AV 5 vs. mesh attacks                                                            |
 | Persistence       |    Mod/2     | Keeps infomorph running, +10&nbsp;DUR, +2&nbsp;WT.                               |
 
@@ -28,11 +28,10 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 
 You can also use this meshware to enter a heightened state of security — Defensive Mode. When activated with a quick action, the modifier to brainhack you is increased to −30. This lock-down status impairs your functions, however; you cannot use Insight pool while it is active and suffer a −3 Initiative modifier.
 
-**E-Veil:** E-veil obfuscates the presence of designated apps within the infomorph’s code. Any attempt to scan the infomorph using Interface is opposed with a Program skill of 80. The hidden apps must be designated when e-veil is activated.
+**aE-Veil:** E-veil obfuscates the presence of designated apps within the infomorph’s code. Any attempt to scan the infomorph using Interface is opposed with a Program skill of 80. The hidden apps must be designated when e-veil is activated.
 
 **Fault Tolerance:** This module provides redundancy and loadsharing functions. You receive AV 5 against mesh attacks.
 
 **Persistence:** This meshware uses rootkit techniques to keep the digital mind active despite attempts to crash it. Increase the infomorph’s Durability by 10 and Wound Threshold by 2.
 
 <!--sort-end-->
-

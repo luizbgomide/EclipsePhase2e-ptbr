@@ -78,9 +78,9 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Drone Rig](../16/08-mental-augmentations.md)        |    Mod/2     | Ignore the −10 modifier when jamming.                                            |
 | [Enhanced Security](../16/12-meshware.md)            |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
 | [Exploit App](../16/13-apps-and-alis.md#apps)        |   Mod/R/2    | Hacking library tool.                                                            |
-| [Private Server](../16/04-services.md#mesh-services) |    Min/1     | Private server, self-administrated.                                              |
 | [Gnat](../16/21-robots.md#reconsurveillance-bots)    |    Min/1     | Surveillance rotorcraft. Small size.                                             |
 | [Guardian Angel](../16/21-robots.md#combat-bots)     |    Mod/2     | Personal defense rotorcraft. Small size.                                         |
+| [Private Server](../16/04-services.md#mesh-services) |    Min/1     | Private server, self-administrated.                                              |
 
 ## Profession Packs
 
@@ -221,8 +221,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Docbot](../16/21-robots.md#medical-bots)                          |    Maj/3     | Medical bot.                                                                  |
 | [Healing Spray](../16/19-nanotech.md)                              |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                      |
 | [Healing Vat](../16/19-nanotech.md)                                |    Maj/3     | Heal/cure biomorphs, customize/augment morph.                                 |
-| [Meds (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
 | [Med Scanner](../16/19-nanotech.md)                                |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
+| [Meds (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
 
 ### Mindhacker
 

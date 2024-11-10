@@ -94,6 +94,10 @@ You can take one for the team and throw yourself on top of a grenade to protect 
 
 Grenades and some seekers have a special adhesive coating that sticks to almost any surface when activated. Sticky munitions that hit their target do not scatter. They can even be stuck to an opponent with a successful melee attack to be detonated later.
 
+### Throwing Back a Grenade
+
+You can reach a grenade before it detonates and throw it back or away in a safe direction. You must be within movement range of the grenade’s location, take a complex action, and succeed in a REF Check at −20 to catch the rolling, sliding grenade. If successful, you can throw the grenade in a direction of your choice with the same action (treat as a standard throwing attack at −20). If you fail, however, you may find yourself at ground zero when it detonates.
+
 ### Trigger Conditions
 
 Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target. The user sets the trigger option when deploying the weapon and can alter it via wireless link. Missed attacks or attacks that do not explode in transit or when they strike are subject to [scatter](15-special-attacks.md#scatter).
@@ -111,10 +115,6 @@ Modern grenades, seekers, and similar explosives do not necessarily detonate the
 **Timer:** The device has a built-in timer allowing the user to adjust exactly when it detonates. This can be anywhere from 1 second to days, months, or even years later, effectively making the device a bomb, but also increasing the likelihood it will be discovered and neutralized. Timed explosives go off at the end of the turn. The minimum detonation period is 1 action turn, meaning the device will detonate at the end of the next turn.
 
 <!--sort-end-->
-
-### Throwing Back a Grenade
-
-You can reach a grenade before it detonates and throw it back or away in a safe direction. You must be within movement range of the grenade’s location, take a complex action, and succeed in a REF Check at −20 to catch the rolling, sliding grenade. If successful, you can throw the grenade in a direction of your choice with the same action (treat as a standard throwing attack at −20). If you fail, however, you may find yourself at ground zero when it detonates.
 
 <!--sort-end-->
 

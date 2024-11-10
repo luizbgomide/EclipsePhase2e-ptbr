@@ -212,8 +212,8 @@ Use the following MP for the bots and vehicles listed in _EP2_. These costs assu
 | Aerostat*           |   0   |
 | Atlas Loader        |   8   |
 | Automech            |   3   |
-| Battlesuit          |  15   |
 | Barracuda           |   3   |
+| Battlesuit          |  15   |
 | Buggy*              |  14   |
 | Cargo Hauler*       |  23   |
 | Creepy              | 0/NA  |
@@ -235,10 +235,10 @@ Use the following MP for the bots and vehicles listed in _EP2_. These costs assu
 | Mini-Sub*           |  24   |
 | Parisphere*         |  16   |
 | Portable Plane*     |   1   |
-| Rocket Pack*        |   0   |
 | Retriever           |   9   |
 | Robomule*           |   2   |
 | Rocket Buggy*       |   9   |
+| Rocket Pack*        |   0   |
 | Rover*              |  26   |
 | Saucer*             |   0   |
 | Sentry              |   9   |
