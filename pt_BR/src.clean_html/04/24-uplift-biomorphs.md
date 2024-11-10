@@ -72,6 +72,10 @@ Este morfo é derivado de DNA neandertal fossilizado, elevado e aprimorado à eq
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Neo-Gorila
 
 Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como outros neo-hominídeos, embora não sejam tão adeptos a escalar. Eles têm praticamente a mesma altura que os humanos e possuem uma estrutura mais forte e robusta.
@@ -94,6 +98,8 @@ Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como out
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Morfologia Exótica (Nível 1)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Neo-Polvo
 
@@ -119,6 +125,8 @@ Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Neo-Orangutango
 
 Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-hominídeos. Em comparação com os humanos, suas pernas são mais curtas e braços mais longos. Os neo-orangotangos tendem a ser mais solitários do que sociais.
@@ -142,3 +150,6 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 - **Notas:** Extensão (+10)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
