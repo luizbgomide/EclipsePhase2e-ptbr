@@ -11,7 +11,8 @@ const sortEndTag = "<!--sort-end-->"; // end sorting, not used with tables or li
 const sortBlockTag = "<!--sort-block-->"; // delimits blocks that are joined, trimmed and have all HTML removed for sorting purposes, must be placed before each block
 
 // those should be placed on the table header cells
-const sortTableByTag = "<!--sort-by-->"; // on table column header: columns to use for sorting
+const sortTableByTag = "<!--sort-by-->"; // on table column header: primary sort column
+const sortTableBySubTag = "<!--sort-bysub-->"; // on table column header: secondary sort column
 const sortTableCellsTag = "<!--sort-cells-->"; // on table column header: ignore table and sort cell content from selected columns, incompatible with sort-by, sort-roll and sort-union
 const sortTableNumberTagRE = /<!--sort-([nd]\d+)(?: offset=(\d+))?-->/; // on table column header: distribute values based of dN (1-N) or d00 (00-99), they aren't affected by restarts
 const rollCellRE = /\s*(\d+)(?:[-–](\d+))?\s*/
@@ -103,6 +104,7 @@ function compare(a, b) {
 function resortContent(lines) {
     let result = [];
     let tableByCol = 1;
+    let tableBySubCol = -1;
     let tableNumberCols = new Map();
     let tableCellCols = [];
     let tableFixedCols = [];
@@ -131,6 +133,7 @@ function resortContent(lines) {
             }
         }
         tableByCol = cols.findIndex(value => value.includes(sortTableByTag));
+        tableBySubCol = cols.findIndex(value => value.includes(sortTableBySubTag));
         if (tableByCol >= 0 && tableCellCols.length > 0) {
             throw new Error(`Cannot use sort-by with sort-cells.`);
         }
@@ -174,6 +177,10 @@ function resortContent(lines) {
                     tableCellCols.forEach(colIndex => unsortedBlocks.forEach(block => block[0][colIndex] = cellContent.pop()));
                 } else { // regular table sort
                     const tempFixedTable = unsortedBlocks.flat().map(row => [...row]);
+                    // if there is a secondary sort column, sort by it first so that it become the sub order later
+                    if (tableBySubCol >= 0) {
+                        unsortedBlocks.sort((a, b) => compare(a[0][tableBySubCol], b[0][tableBySubCol]));
+                    }
                     unsortedBlocks.sort((a, b) => compare(a[0][tableByCol], b[0][tableByCol]));
                     for (const colIndex of tableFixedCols) {
                         let index = 0;
