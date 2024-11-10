@@ -66,14 +66,6 @@ Você acredita que você é irrevogavelmente feio ou defeituoso, impedindo-o de 
 
 **Efeito:** −30 em Testes de Estresse de Reencape.
 
-### Transtorno de Ansiedade Cósmica
-
-**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
-
-Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
-
-**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
-
 ### Transtorno de Conversão
 
 **Gatilhos:** Alienação, o desconhecido, violência
@@ -81,6 +73,14 @@ Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias in
 Você sofre uma condição neurológica como cegueira, surdez, incapacidade de falar, perda de equilíbrio, convulsões ou paralisia em situações muito estressantes. Alguns assincros sofrem de uma condição similar, transtorno sensorial alienígena, em que as tentativas de usar órgãos sensoriais alienígenas atrapalham um ou mais dos seus sentidos físicos reais.
 
 **Efeito:** Prova de VON ou sofra uma das condições escolhidas.
+
+### Transtorno de Ansiedade Cósmica
+
+**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
+
+Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
+
+**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
 
 ### Depressão
 
