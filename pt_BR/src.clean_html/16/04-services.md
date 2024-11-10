@@ -14,8 +14,8 @@ Esses serviços programáticos estão disponíveis como uma assinatura mensal de
 | Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados a uma perícia de Saber.           |
 | Banco de Registros           |                 Men/1                 | +10 em Testes de Pesquisa.                                               |
 | Fluxo de Sensor Privado      |                 Men/1                 | +10 em Percepção nesta área.                                             |
-| Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |
 | Servidor Privado             |            Men/1 ou Mod/2             | Servidor privado, autoadministrado (Men) ou gerenciado por outros (Mod). |
+| Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |
 | Simulespaço                  |                 Men/1                 | Acesso a um espaço de RV.                                                |
 
 <!--sort-->
@@ -28,9 +28,9 @@ Esses serviços programáticos estão disponíveis como uma assinatura mensal de
 
 **Fluxo de Sensor Privado:** Cada fluxo de sensor privado cobre uma área equivalente a um bairro ou um pequeno habitat. Usá-lo fornece um bônus +10 em Testes de Percepção quando vigiar essa área.
 
-**Partição em Servidor Privado:** Espaço de habitação para um infomorfo em um servidor protegido na nuvem.
-
 **Servidor Privado:** Capaz de executar simulespaços e 50 infomorfos.
+
+**Partição em Servidor Privado:** Espaço de habitação para um infomorfo em um servidor protegido na nuvem.
 
 **Simulespaço:** Você tem acesso a um ambiente de jogo virtual, espaço de reunião privada, serviço de mídia interativa, biblioteca de férias virtuais ou outro ambiente de simulespaço.
 
