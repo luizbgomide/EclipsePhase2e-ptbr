@@ -4,6 +4,10 @@ Os efeitos de influência — especialmente os impulsos e compulsões — fornec
 
 Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser considerados personalizáveis. Talvez você imagine um assincro que é tão traumatizado e confuso pela subcepa assombração que um dos seus efeitos de influência é cair num surto de fúria incontrolável, descontando em quem estiver perto, até mesmo aliados e entes queridos. Ou talvez você atribua uma motivação de autointeresse focado à estranha, e então cria um efeito de influência que compele seu assincro a agir de formas completamente egoístas e narcisistas, ignorando os prejuízos aos outros. Talvez sua ideia para a xenomorfa é que ela se origina de uma perspectiva de mente de colmeia, e portanto, o assincro pode não entender o conceito de indivíduo ou atacar comportamentos divergentes dos objetivos vistos como coletivos. Use os efeitos como listados para diretrizes, enquanto também considera opções temporárias como [transtornos](../12/20-disorders.md), [comportamentos acentuados](../04/28-traits.md#enhanced-behavior), [comportamentos restritos](../04/28-traits.md#restricted-behavior), ou até traços negativos como [Dano Neural](../04/28-traits.md#neural-damage).
 
+<!--sort-->
+
+<!--sort-block-->
+
 <!-- CLEANED blockquote class="table" -->
 
 ### Subcepa Arquiteta
@@ -27,6 +31,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 <!-- CLEANED /div -->
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -53,6 +59,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 <!-- CLEANED blockquote class="table" -->
 
 ### Subcepa Assombração
@@ -77,6 +85,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 <!-- CLEANED /div -->
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -103,6 +113,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 <!-- CLEANED blockquote class="table" -->
 
 ### Subcepa Xenomorfa
@@ -126,3 +138,6 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 <!-- CLEANED /div -->
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
