@@ -2,6 +2,8 @@
 
 Menos orientados ao combate, mas não menos úteis, esses mods corporais aumentam suas capacidades e fornecem novas habilidades. Observe que muitos outros equipamentos podem ser fixados na carcaça de sintemorfo e ligados aos seus sistemas se energia e insertos da mesh (a critério do MJ).
 
+<!--sort-->
+
 | AMPLIAÇÕES FÍSICAS      | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                |
 |:----------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------ |
 | Regulação Circadiana    |      BM      |                 Mod/2                 | Precisa de apenas 2 horas de sono. Recargas longas demoram 2 horas.                                                      |
@@ -32,6 +34,8 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 | Utilimod                |      CH      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
 | Vedação de Vácuo        |      B       |                 Men/1                 | Pode sobreviver à exposição ao vácuo.                                                                                    |
 | Asas                    |     BCH      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
+
+<!--sort-->
 
 **Regulação Circadiana:** Seu morfo exige apenas 2 horas de sono para manter a saúde e funcionar no ápice da capacidade mental. Você sonha constantemente enquanto dorme, e pode tanto adormecer quanto acordar quase que instantaneamente. Você também pode facilmente mudar para um ciclo de 2 dias, acordado por 44 horas e dormindo 4 horas, sem efeitos negativos. Você precisa de apenas 2 horas para uma recarga longa de suas paradas ([Recarregando Paradas](../03/05-pools.md#recharging-pools)).
 
@@ -88,3 +92,6 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 **Vedação de Vácuo:** Seu morfo é modificado para sobreviver aos efeitos do vácuo. Você pode vedar sua boca, nariz e outros orifícios para evitar o congelamento de fluidos corporais por resfriamento evaporativo. Uma membrana especial protege seus olhos, permitindo que você veja no vácuo sem distorções ou danos. Seu sistema também está protegido dos efeitos da doença de descompressão e hipóxia. Você ainda está vulnerável a asfixia, radiação e possivelmente calor (na luz solar) ou perda de calor (na sombra), por isso, esse mod é frequentemente acompanhado de cyberware de reserva de oxigênio, respirócitos e/ou tolerância ao frio.
 
 **Asas:** Seu morfo está equipado com um par de asas; sejam membros adicionais ou braços reestruturados. Para morfos pequenos, isso permite planar e voo limitado em gravidades semelhantes à Terra. Morfos de tamanho médio podem voar em gravidades menores que 0,15&nbsp;g; em gravidades maiores eles podem planar. Morfos grandes e muito grandes não podem usar essa ampliação. A maioria dos projetos de asas são transgênicos e baseados na fisiologia de morcegos, para que elas possam ser dobradas facilmente quando não são usadas. Se combinadas com ware de membros retráteis, essas asas podem ser dobradas para dentro dos braços ou das costas.
+
+<!--sort-end-->
+
