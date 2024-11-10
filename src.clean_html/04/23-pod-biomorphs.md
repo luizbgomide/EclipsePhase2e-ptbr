@@ -47,6 +47,10 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Novacrab
 
 Bioengineered from coconut crab and spider crab stock and grown to a larger (human) size, novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties. They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea. They are equipped with ten 2-meter long legs, massive claws, chitinous armor, compound eyes (with human-equivalent image resolution), gills, dexterous manipulatory digits on their fifth set of limbs, and transgenic vocal cords.
@@ -71,6 +75,8 @@ Bioengineered from coconut crab and spider crab stock and grown to a larger (hum
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Pleasure Pod
 
 Pleasure pods are faux humans intended for intimate entertainment purposes and indulgent hedonism. Their biology includes extra nerve clusters in their erogenous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the capability to purr. They are capable of switching between multiple sex configurations and are often enhanced in other areas.
@@ -93,6 +99,12 @@ Pleasure pods are faux humans intended for intimate entertainment purposes and i
 - **Common Extras:** Many have [Striking Looks](28-traits.md#striking-looks) or [Addiction](28-traits.md#addiction)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Security Pod
 
@@ -117,6 +129,8 @@ Security pods were originally manufactured as mass-produced AI-operated soldiers
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Shaper
 
 Shapers are designed for infiltration and disguise. They lack the seamlines common to pods and incorporate ware that allows them to alter their appearance. Favored by spies and criminals, they are illegal in many habitats.
@@ -138,3 +152,6 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 - **Ware:** Access Jacks, Biomods, Chameleon Skin, Cortical Stack, Cyberbrain, Mesh Inserts, Mnemonics, Nanotat ID Flux, Puppet Sock, Sex Switch, Skinflex
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+

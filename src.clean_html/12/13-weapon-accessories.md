@@ -2,6 +2,8 @@
 
 The following accessories are available for weapons.
 
+<!--sort-->
+
 | WEAPON ACCESSORIES             | Comp/<!-- CLEANED wbr -->GP | Description                                                      |
 | :----------------------------- | :----------: | :--------------------------------------------------------------- |
 | Arm Slide                      |    Min/1     | Draw and attack with single complex action.                      |
@@ -15,6 +17,8 @@ The following accessories are available for weapons.
 | Silencer/<!-- CLEANED wbr -->Sound Suppressor |    Min/1     | −30 Perceive to locate by sound.                                 |
 | Smartlink                      |    Mod/2     | Assisted targeting, enhanced weapon control.                     |
 | Smart Magazine                 |    Min/1     | Select ammo with each shot, reduce ammo capacity −50%.           |
+
+<!--sort-->
 
 **Arm Slide:** This slide-mount can hold a one-handed weapon under your sleeve, pushing the weapon into your hand with an electronic signal or specific sequence of arm movements. You can draw the weapon and attack with a single complex action.
 
@@ -37,3 +41,6 @@ The following accessories are available for weapons.
 **Smartlink:** Smartlinks are automatically included in most weapons. It connects the weapon to your mesh inserts, placing a targeting bracket in your field of vision and providing range and targeting information (negating the −10 modifier for not using a smartlink or laser sight). Smartlinks also incorporate a microcamera that allows the user to see what the weapon is pointed at, fire around corners, etc. Smartlinks also allow certain other types of weapon system control, such as changing [smart ammo](09-kinetic-weapons.md#smart-ammo) or programming seeker [trigger conditions](10-seeker-weapons-and-grenades.md#trigger-conditions).
 
 **Smart Magazine:** A smart magazine allows you to pick and choose what ammo round will be fired with each shot. This system leaves less room for bullets, however, so reduce the weapon’s ammunition capacity by half (round up). Smart magazines can be combined with extended magazines, in which case ammo capacity is normal.
+
+<!--sort-end-->
+

@@ -54,6 +54,10 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Exalt
 
 Exalts are the common, non-specialized “enhanced human” model. They are genetically upgraded to make them healthier, smarter, and more attractive (based on ever-evolving beauty standards). A modified metabolism keeps them fit and athletic for the duration of an extended lifespan.
@@ -75,6 +79,8 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Neotenic
 
@@ -100,6 +106,8 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-end-->
+
 ### Ruster
 
 Adapted for survival with minimum gear in the not-fully-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxide, among other mods.
@@ -122,6 +130,10 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 - **Common Extras:** Many have the [Planned Obsolescence trait](28-traits.md#planned-obsolescence)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Bouncer
 
@@ -146,6 +158,8 @@ Bouncers are genetically adapted for microgravity. Their legs are more limber an
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Futura
 
 Futura morphs were specially crafted for the “Lost Generation” of accelerated-growth children. Adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold. These programs proved disastrous and the line was discontinued, but some models and various spin-offs remain, viewed by some with distaste and others as collectibles or exotic oddities.
@@ -167,6 +181,8 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Hibernoid
 
@@ -190,6 +206,8 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Menton
 
 Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.
@@ -211,6 +229,8 @@ Mentons are genetically modified to increase cognitive abilities, particularly l
 - **Ware:** Biomods, Cortical Stack, Mesh Inserts, Mnemonics
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Olympian
 
@@ -234,6 +254,8 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Sylph
 
 Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and narcissists. Sylph gene sequences are tailored for distinctive good looks, ethereal and elfin features, and slim and lithe bodies. Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.
@@ -256,6 +278,12 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 - **Common Extras:** Many have the [Striking Looks trait](28-traits.md#striking-looks)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Fury
 
@@ -281,6 +309,8 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Ghost
 
 Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.
@@ -304,6 +334,8 @@ Ghosts are partially designed for combat applications, but their primary focus i
 - **Common Extras:** Many are equipped with [adrenal surge](../16/10-combat-augmentations.md), [skinflex](../16/09-social-augmentations.md)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
 
 ### Remade
 

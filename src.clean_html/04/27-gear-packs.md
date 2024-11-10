@@ -16,6 +16,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Firewall Agent/Criminal
 
+<!--sort-->
+
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                                                     |
 | :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------ |
 | [Anonymizer](../16/04-services.md#mesh-services)                         |    Min/1     | Masks your mesh ID.                                                             |
@@ -30,6 +32,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                             | Comp/<!-- CLEANED wbr -->GP | Description         |
 | :----------------------------------------------- | :----------: | :------------------ |
 | [Anti-Glare](../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers. |
@@ -38,6 +42,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 <!-- CLEANED /blockquote -->
 
 ### Gatecrashing
+
+<!--sort-->
 
 | GEAR                                                           | Comp/<!-- CLEANED wbr -->GP | Description                                                               |
 | :------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
@@ -53,6 +59,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                             | Comp/<!-- CLEANED wbr -->GP | Description                                                     |
 | :----------------------------------------------- | :----------: | :-------------------------------------------------------------- |
 | [Anti-Glare](../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers.                                             |
@@ -62,6 +70,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 <!-- CLEANED /blockquote -->
 
 ### Optional Pack: Infomorph
+
+<!--sort-->
 
 | GEAR                                                 | Comp/<!-- CLEANED wbr -->GP | Description                                                                      |
 | :--------------------------------------------------- | :----------: | :------------------------------------------------------------------------------- |
@@ -74,7 +84,11 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ## Profession Packs
 
+<!--sort-->
+
 ### Academic
+
+<!--sort-->
 
 | GEAR                                                                          | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :---------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -89,6 +103,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Covert Operative
 
+<!--sort-->
+
 | GEAR                                                              | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :---------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
 | [Chameleon Cloak](../16/17-espionage-and-security-tech.md)        |    Mod/2     | Camouflage, +10 Infiltrate, +30 stationary.                                              |
@@ -102,6 +118,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                               | Comp/<!-- CLEANED wbr -->GP | Description                                                 |
 | :------------------------------------------------- | :----------: | :---------------------------------------------------------- |
 | [Synthetic Mask](../16/09-social-augmentations.md) |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests. |
@@ -109,6 +127,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 <!-- CLEANED /blockquote -->
 
 ### Enforcer
+
+<!--sort-->
 
 | GEAR                                                                   | Comp/<!-- CLEANED wbr -->GP | Description                                                               |
 | :--------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
@@ -122,6 +142,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Explorer
 
+<!--sort-->
+
 | GEAR                                                                | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------------- |
 | [Breadcrumb System](../16/16-comms-and-mesh-gear.md#communications) |    Min/1     | Leaves mote trail for meshing/positioning.                                             |
@@ -134,6 +156,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Face/Dealer
 
+<!--sort-->
+
 | GEAR                                                                   | Comp/<!-- CLEANED wbr -->GP | Description                                                                                     |
 | :--------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
 | [Enhanced Hearing](../16/06-sensory-augmentations.md)                  |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                                  |
@@ -145,6 +169,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Stiff (5 doses)](../16/15-chemicals-drugs-and-toxins.md#social-drugs) |    Min/1     | +10&nbsp;SAV/WIL Checks vs. Persuade/Provoke, Enhanced Behavior: Stubborn (Level 2).            |
 
 ### Genehacker
+
+<!--sort-->
 
 | GEAR                                                                      |     Comp/<!-- CLEANED wbr -->GP     | Description                                                     |
 | :------------------------------------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
@@ -159,6 +185,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Hacker
 
+<!--sort-->
+
 | GEAR                                                            | Comp/<!-- CLEANED wbr -->GP | Description                               |
 | :-------------------------------------------------------------- | :----------: | :---------------------------------------- |
 | [Exploit App](../16/13-apps-and-alis.md#apps)                   |   Mod/R/2    | Hacking library tool.                     |
@@ -169,6 +197,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Tracker App](../16/13-apps-and-alis.md#apps)                   |    Mod/2     | Trace connections.                        |
 
 ### Investigator
+
+<!--sort-->
 
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                                                        |
 | :----------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
@@ -184,6 +214,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Medic
 
+<!--sort-->
+
 | GEAR                                                               | Comp/<!-- CLEANED wbr -->GP | Description                                                                   |
 | :----------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------- |
 | [Docbot](../16/21-robots.md#medical-bots)                          |    Maj/3     | Medical bot.                                                                  |
@@ -193,6 +225,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Med Scanner](../16/19-nanotech.md)                                |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
 
 ### Mindhacker
+
+<!--sort-->
 
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                |
 | :----------------------------------------------------------------------- | :----------: | :----------------------------------------- |
@@ -204,6 +238,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Psychosurgery App](../16/13-apps-and-alis.md#apps)                      |    Mod/2     | Edit minds.                                |
 
 ### Scavenger
+
+<!--sort-->
 
 | GEAR                                                                                | Comp/<!-- CLEANED wbr -->GP | Description                                                                                     |
 | :---------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
@@ -217,6 +253,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Scientist
 
+<!--sort-->
+
 | GEAR                                                               | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :----------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
 | [Enhanced Vision](../16/06-sensory-augmentations.md)               |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
@@ -227,6 +265,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Specimen Container](../16/18-mission-gear.md#science-tools)       |    Min/1     | Holds samples in stasis conditions.                                                    |
 
 ### Soldier
+
+<!--sort-->
 
 | GEAR                                                                  | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :-------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
@@ -240,6 +280,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 #### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                                         | Comp/<!-- CLEANED wbr -->GP | Description                                                 |
 | :----------------------------------------------------------- | :----------: | :---------------------------------------------------------- |
 | [Fixer Swarm](../16/20-nanoswarms-and-microswarms.md#swarms) |    Mod/2     | Repairs 1d10 damage per hour or 1 wound per day for 4 days. |
@@ -247,6 +289,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 <!-- CLEANED /blockquote -->
 
 ### Techie
+
+<!--sort-->
 
 | GEAR                                                                      | Comp/<!-- CLEANED wbr -->GP | Description                                              |
 | :------------------------------------------------------------------------ | :----------: | :------------------------------------------------------- |
@@ -257,3 +301,5 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Medium Fabber](../16/19-nanotech.md#nanofabricators)                     |    Mod/2     | Fab small items.                                         |
 | [Tools (Kit)](../16/05-common-tech-and-ware.md#everyday-technology)       |    Min/1     | Portable, applies to specific skill.                     |
 | [Utilitool](../16/05-common-tech-and-ware.md#everyday-technology)         |    Min/1     | All-purpose smart-material tool.                         |
+
+<!--sort-end-->

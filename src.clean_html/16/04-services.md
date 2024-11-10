@@ -6,6 +6,8 @@ Credit and mutual aid can get you many things in Eclipse Phase.
 
 These software services are available as a per-month subscription from cloud-based servers. All apps are also available as mesh services.
 
+<!--sort-->
+
 | MESH SERVICES            |  Comp/<!-- CLEANED wbr -->GP  | Description                                                          |
 | :----------------------- | :------------: | :------------------------------------------------------------------- |
 | Anonymizer               |     Min/1      | Masks your mesh ID.                                                  |
@@ -15,6 +17,8 @@ These software services are available as a per-month subscription from cloud-bas
 | Private Server Partition |     Min/1      | Private space on a cloud server.                                     |
 | Private Server           | Min/1 or Mod/2 | Private server, self-administrated (Min) or managed by others (Mod). |
 | Simulspace               |     Min/1      | Access to a VR space.                                                |
+
+<!--sort-->
 
 **Anonymizer:** You have an account with an anonymizing proxy service that masks your [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
@@ -30,9 +34,13 @@ These software services are available as a per-month subscription from cloud-bas
 
 **Simulspace:** You have access to a virtual game environment, private meeting space, interactive media service, unreal vacation library, or other simulspace environment.
 
+<!--sort-end-->
+
 ## Physical Services
 
 These services are available on some habitats.
+
+<!--sort-->
 
 | PHYSICAL SERVICES         | Comp/<!-- CLEANED wbr -->GP | Description                                                         |
 | :------------------------ | :----------: | :------------------------------------------------------------------ |
@@ -49,6 +57,8 @@ These services are available on some habitats.
 | Recovery Bond             |    Maj/3     | An agent will seek to recover your stack via safe/legal means.      |
 | Recovery Bond (Hazardous) |    Rare/—    | A team will seek to retrieve your stack despite threats/legalities. |
 | Space Travel              |   Mod+/2+    | Transport on a spacecraft.                                          |
+
+<!--sort-->
 
 **Bot/Vehicle Rental:** In some locations, bots and vehicles can be rented on a weekly basis, though you are liable for damages/replacement. The GM determines availability.
 
@@ -75,3 +85,6 @@ These services are available on some habitats.
 **Recovery Bond (Hazardous):** As a regular bond, except that a team of agents will seek out your stack even against adverse and hostile conditions, including infiltrating war zones and running rescue ops on unknown exoplanets. This may include stealing the stack back from hostile parties.
 
 **Space Travel:** Space transport cost depends on a number of factors like distance, quality of lodgings, and how much cargo you’re bringing with. At the low end, an intra-habitat shuttle trip within the same cluster, or a trip to or from a planetary body’s surface and orbit, is not cheap but affordable. Just about anything else is progressively more costly.
+
+<!--sort-end-->
+

@@ -6,6 +6,8 @@ Firewall agents routinely need to get into places they are not supposed to be. P
 
 Basic measures to keep unwanted people out include walls, locks, fencing, defensive landscaping, security lighting, and entoptic warnings. Given modern technology, these are ineffective against a determined intruder. Barriers are treated just like other inanimate objects for purposes of attacks and damage ([Objects & Structures](../12/26-objects-and-structures.md)).
 
+<!--sort-->
+
 ### Bug Zappers
 
 Nanoswarms and microbots pose a serious threat to security; bug zapper systems are deployed to keep them out. Bug zappers create minute EMP pulses that are harmless to most electronic equipment and implants but wreak havoc on nanobot swarms, microbugs, specks, and similar nano- and micro-sized electronics. Zapper systems come in many forms, including mats, strips, and micro-sized generators that may be thrown around an area to stick to every surface. Portal zappers are deployed in strips around doorways, ducts, and other entrances, creating a field that zaps every device that passes through (inflicting DV 3d10). Secure installations make use of zapper panels with conductive surfaces on walls, floors, etc., thus only damaging swarms and microbots that crawl or land upon them. In areas that are remote or have heavily shielded electronics, zappers may be installed to destroy all free-crawling or flying nanoswarms and microbots in an entire room (DV 3d10 per turn). Zappers do not damage larger electronics or implanted devices, though they may cause disruptions to communications and mesh activity.
@@ -37,6 +39,8 @@ Lockbots are robot guardians physically emplaced to protect portals. A lockbot�
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
+<!--sort-union-->
+
 ### Lockbot
 
 - **Complexity/GP:** Maj/3
@@ -67,6 +71,8 @@ High-security installations use walls and doors capable of rapidly repairing the
 
 On planetary surfaces, high walls and fences are still common as a first line of defense against interlopers. Slip walls are surface-treated with [slip](../16/15-chemicals-drugs-and-toxins.md#chemicals), creating a virtually frictionless surface that is exceptionally difficult to climb (−60 to Athletics Tests).
 
+<!--sort-end-->
+
 ### Wireless Inhibitors
 
 Wireless inhibitors are simple paint jobs or construction materials that block radio signals. They are used to create a contained area in which a wireless network may operate freely without worry that the signals will escape out of the area, where they can be intercepted. Wireless inhibitors allow the convenience of using wireless links within a secure area rather than the clumsier hardwired connections. If an intruder manages to gain access inside the area, however, they can intercept, sniff, and hack wireless devices as normal.
@@ -79,6 +85,8 @@ When an operator is perceiving through the sensor (like watching a video), use P
 
 A few specific sensor types deserve mention here:
 
+<!--sort-->
+
 **Chemical Sniffers:** In addition to detecting explosives and weapons, sniffers can be set to detect the carbon dioxide exhaled in transhuman breaths. This is useful for detecting intruding biomorphs in areas that are abandoned/off-limits.
 
 **Electrical Sensors:** Sensors set in portals can detect a biomorph’s electromagnetic field in addition to the electrical fields of synthmorphs.
@@ -88,6 +96,8 @@ A few specific sensor types deserve mention here:
 **Radiation Sensors:** Sensors that detect the presence of nukes and other radioactive and destructive materials are common in every habitat and spaceport.
 
 **Seismic Sensors:** Embedded in flooring, these sensors pick up the pressure and vibration of weight and movement.
+
+<!--sort-end-->
 
 ### Weapon Scanners
 

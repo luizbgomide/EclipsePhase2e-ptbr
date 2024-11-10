@@ -44,7 +44,8 @@ The five known gates within the Solar System are contested and tightly controlle
 
 Transhumans carve out safety from the dangers of space with these common habitat types ([Habitats](../07/06-habitats.md)).
 
-<!--order-->
+<!--sort-->
+
 - **Aerostats** float like balloons in dense atmospheres; they are common on Venus and Uranus.
 - **Bathyscaphes** are underwater habitats tethered to the ground or ice surface. These are used on Europa, Ceres, and other subterranean seas.
 - **Beehives** are warrens of tunnels cut into an asteroid or small moon. They are rarely spun for simulated gravity.

@@ -2,6 +2,8 @@
 
 <!-- CLEANED div class=morph-images -->
 
+<!--sort-->
+
 ## Alpiner
 
 ![Alpiner](PNG/alpiner.png)
@@ -1209,5 +1211,7 @@ Theseus morphs are designed to protect against the dangers of biohazards and hos
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stitch:** I get sentinels asking for this morph every time they go on a new op. Theseus’s don’t grow on trees, though; they’re still pretty rare. |
 | **Cacophonous:** Maybe Firewall should initiate a project to propagate more of them.                                                                |
+
+<!--sort-end-->
 
 <!-- CLEANED /div -->

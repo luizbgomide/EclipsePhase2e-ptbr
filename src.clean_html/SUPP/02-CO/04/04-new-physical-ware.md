@@ -1,5 +1,7 @@
 # New Physical Ware
 
+<!--sort-->
+
 | PHYSICAL WARE          | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                  |
 | :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------- |
 | Brachiating Adaptation |    BH     |    Mod/2     | Brachiate 8/32, +10 Reach.                                                   |
@@ -20,6 +22,8 @@
 | Refractive Coating     |     N     |    Maj/3     | Protection from heat/radiation; AV +10/+0.                                   |
 | Swarm Shape            |     H     |    Mod/2     | Create physical shapes and manipulate Very Small objects. Swarm morphs only. |
 | Swim Bladder           |    BCH    |    Min/1     | Control buoyancy to float/ascend/descend.                                    |
+
+<!--sort-->
 
 ### Brachiating Adaptation
 
@@ -106,3 +110,5 @@ The modular drones in this swarm can link together and create larger physical fo
 ### Swim Bladder
 
 A series of gas-filled sacs enable you to control your buoyancy, either underwater or in thick atmospheres. This allows you to float at the same depth without exerting energy and helps to ascend or descend to other depths. This bladder is also linked to the inner-ear or internal sensors so that you can accurately gauge pressure/depth.
+
+<!--sort-end-->

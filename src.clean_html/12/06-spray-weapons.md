@@ -2,6 +2,8 @@
 
 Spray weapons blast their ammunition in a widening cone, allowing the firer to strike several targets at once ([Area Effect](15-special-attacks.md#area-effect-attacks)). They are fired using Guns skill.
 
+<!--sort-->
+
 | SPRAY WEAPONS   | Area Effect | Damage Value \[Average\] | Firing Modes | Ammo  | Range | Armor Used |    Comp/<!-- CLEANED wbr -->GP     | Notes                             |
 | :-------------- | :---------: | :----------------------: | :----------: | :---: | :---: | :--------: | :-----------------: | :-------------------------------- |
 | Buzzer          |    Cone     |         As swarm         |      SS      |   3   |  15   |  As swarm  | As specialized hive | Long, Two-Handed                  |
@@ -14,6 +16,8 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 | Vortex Ring Gun |    Cone     |        1d6 \[4\]         |      SA      |  20   |  15   |     E      |        Min/1        | Knockdown, Long, Stun, Two-Handed |
 
 **Ammunition:** With the exception of buzzers (which use nanoswarms) and sprayers (which use chemicals/drugs, 3 doses per shot), spray weapons follow the [ammunition and reloading rules](04-ranged-combat.md#ammunition-and-reloading).
+
+<!--sort-->
 
 **Buzzer:** Buzzers are used to deploy a particular type of nanoswarm, either at a target or over an area. They carry a limited number of swarms, but contain a [specialized hive](../16/19-nanotech.md#hives) that can construct new swarms.
 
@@ -30,3 +34,6 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 **Torch:** This modern flamethrower uses condensed ammunition capsules rather than fuel tanks, scorching targets and setting them on fire. A superior success sets the target on fire; they will continue to take DV 2d10 per action turn (armor does not apply) until extinguished. These chemical fires are particularly difficult to put out unless they are deprived of oxygen.
 
 **Vortex Ring Gun:** This less-lethal weapon detonates a blank cartridge and accelerates the explosive pressure down a widening barrel so that it develops into a high-speed vortex ring. This spinning, donut-shaped, concussive blast knocks down and stuns close-range targets. Drugs, chemicals, and similar agents can be loaded into the charge as well.
+
+<!--sort-end-->
+

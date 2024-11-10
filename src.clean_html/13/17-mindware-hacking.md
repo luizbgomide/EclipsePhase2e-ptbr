@@ -24,6 +24,8 @@ As an intruder, the first action you may wish to take will be to install a lockb
 
 Egos trapped within a lockbox are quite vulnerable. They could, for example, be subject to enforced uploading, simulspaces, forking, or psychosurgery. Egos trapped for extended periods may suffer stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)).
 
+<!--sort-->
+
 ### Control Ware (Cyberbrain)
 
 As [Control Ware](13-system-subversion.md#control-ware).
@@ -71,6 +73,8 @@ As [Tap Senses](13-system-subversion.md#tap-senses).
 ### Terminate Cortical Stack Feed
 
 The cyberbrain feeds backup data to the cortical stack. This is a one-way connection, so the cortical stack itself may not be hacked, but the transfer of data may be cut off. Likewise, an infomorph’s ongoing updates to its inactive backup files may be terminated. This can be done for a temporary period or it can be indefinitely severed. A restored backup will be missing memories from the period when the feed was terminated.
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote -->
 

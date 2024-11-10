@@ -2,6 +2,8 @@
 
 <!-- CLEANED div class=morph-images -->
 
+<!--sort-->
+
 ## Agent
 
 ![Agent](PNG/agent.png)
@@ -265,5 +267,7 @@ Spectres are the top tier of infosec infomorphs.
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Yemaja:** Maybe uploads don’t feel it as much as infolife, but the type of infomorph you choose to process your mind-state makes a drastic difference. The difference between a digimorph and a spectre is like that between a case and a savant. |
 | **Qi:** In my experience, if you run into spectre defenders while hacking a system, you’re in for a lot of trouble.                                                                                                                                 |
+
+<!--sort-end-->
 
 <!-- CLEANED /div -->

@@ -5,7 +5,7 @@
 
 **Next we see what major event impacted your life before the Fall.**
 
-**Roll once on the 7.0 Pre-Fall Event table, apply the results, and then proceed to Step 8.**
+**Roll once on the Pre-Fall Event table, apply the results, and then proceed to Step 8.**
 
 <!-- CLEANED /blockquote -->
 
@@ -20,14 +20,14 @@ For younger characters, this step represents only a handful of years immediately
 
 <!-- CLEANED blockquote class="table" -->
 
-## 7.0 Pre-Fall Event \[d100\]
+## Pre-Fall Event ❮d100❯
 
 <!-- CLEANED div class="tnw1" -->
 
 | d100  | Result                                                                                                                                                                                                                                               |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 00–19 | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#140-story-event-d100).                                                                                                                                       |
-|  20   | You travel extensively. Learn an additional language (your choice or [roll randomly](04-step-3-native-tongue.md#30-random-language-d100)).                                                                                                           |
+| 00–19 | Gain +1 ego Flex and roll on the [Story Event table](15-step-14-story-event-optional.md#story-event-d100).                                                                                                                                           |
+|  20   | You travel extensively. Learn an additional language (your choice or [roll randomly](04-step-3-native-tongue.md#random-language-d100)).                                                                                                              |
 | 21–23 | You experiment with a new body. Roll on the [Random Morph tables](20-morph-tables.md), but ignore pods.                                                                                                                                              |
 | 24–25 | An unfortunate accident ends your life. Roll on the [Random Morph tables](20-morph-tables.md), but ignore pods and uplifts.                                                                                                                          |
 | 26–27 | You simply are not very comfortable with this whole resleeving thing. Gain the [Morphing Disorder (Level 2) trait](../../../04/28-traits.md#morphing-disorder) (_EP2_).                                                                              |

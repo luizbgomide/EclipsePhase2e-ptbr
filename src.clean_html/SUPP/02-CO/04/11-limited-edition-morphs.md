@@ -10,6 +10,8 @@ GMs are encouraged to present limited-edition morphs as rare and unique items. T
 
 A few examples of limited editions are included below.
 
+<!--sort-->
+
 ## Antifa Supersoldier
 
 The autonomist robotics collective All Cases Are Beautiful (ACAB) first made a name for itself by reverse-engineering popular innersystem case models and widely releasing open-source prints for better, improved models free of built-in design flaws. More recently, they are known for gifting versions of their prototype antifa supersoldier morph to individuals around the Solar System who have been subject to heavy persecution, imprisoned for supporting just causes, or have otherwise advanced the autonomist agenda. Most of these morphs are designed to appear as any other case morph except to the most detailed observation, allowing them to easily blend in and pursue a subversive agenda.
@@ -58,7 +60,7 @@ Scum genetic engineers are known to create parody heirlooms of despised historic
 
 <!-- CLEANED /blockquote -->
 
-## The Jabberwock
+## The <!--sort-here-->Jabberwock
 
 Created by genetic artiste Salvador Giger for the smash-hit Lunar horror series _Moonbeast_, the Jabberwock is a monstrous design frequently spotted by paparazzi flying across Lunar caves. The actor who plays the creature, Ami Andi, has refused to surrender the sleeve between XP productions. Over 2 meters tall, the Jabberwock features a long neck, leathery wings, a serpentine tail, glistening scales, fierce fangs, and wicked curved claws. Rumors that an exhuman managed to steal and recreate Giger’s designs have been thoroughly quashed.
 
@@ -78,7 +80,7 @@ Created by genetic artiste Salvador Giger for the smash-hit Lunar horror series 
 
 <!-- CLEANED /blockquote -->
 
-## The Pantheon
+## The <!--sort-here-->Pantheon
 
 Hyperelite designer Venturi Ballard created the ultimate limited- edition line of morphs: a series of unique skins, each themed after a different celestial object. Currently, there is one morph for every inhabited planet and most of the heavily populated moons in the Solar System. Ballard goes to great lengths to build each morph on the planet or moon it represents, using only resources from that location. They also employ strict legal and technological safeguards to ensure the morph stays there. Wearers of pantheon morphs must sign contracts agreeing never to take the morph off their planet/ moon of origin. Rumors suggest that Ballard also employs Ultimate mercenaries and other extreme measures to make sure these obligations are met. This quirk has made the Pantheon even more famous and sparked debates over whether Ballard has the legal authority to enforce such restrictions on morphs he designs.
 
@@ -123,3 +125,5 @@ The Barsoomian TITAN Busters collective fights the good fight against the remnan
 - **Notes:** At the GM’s discretion, bearers of a TITAN Buster morph may receive a +10 to +30 modifier on @-rep tests.
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->

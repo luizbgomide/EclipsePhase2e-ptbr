@@ -28,6 +28,8 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 ### Infection Test
 
+<!--sort-->
+
 |        Type         | Infection Rating Opposed By  |          Cooldown          |
 | :-----------------: | :--------------------------: | :------------------------: |
 |    Basilisk Hack    |             INT              | Check 1 action turn–1 hour |
@@ -37,9 +39,13 @@ If you beat the virus, you have resisted exposure — for now. Repeated exposure
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
 ## Basilisk Hacks
 
 Each type of basilisk hack functions differently.
+
+<!--sort-->
 
 ### Blocking Basilisks
 
@@ -51,19 +57,23 @@ These basilisks do not infect you, they crash your brain. You suffer SV 1d10 and
 
 <!-- CLEANED blockquote class="table" -->
 
+<!--sort-union-->
+
 ### Incapacitators
 
-| 1D10 Roll | Type                | Description                                                                                                                                                                                                                                                                                                             |
-| :-------: | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1     | Cataplexy           | You lose control of your body and collapse. You are [immobilized](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                         |
-|     2     | Catatonic Stupor    | Your brain checks out and is non-responsive. Though conscious, you are mentally “not there” — the basilisk has crashed your brain functions. You are [incapacitated](../12/21-other-action-factors.md#conditions).                                                                                                      |
-|     3     | Disorientation      | You gain the [dazed condition](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                                                            |
-|    4–5    | Grand Mal Seizures  | You fall to the ground and convulse, suffering DV 1d6 (armor does not protect). You are [incapacitated and prone](../12/21-other-action-factors.md#conditions). Afterwards, you remain [stunned](../12/21-other-action-factors.md#conditions) for 1d6 action turns.                                                     |
-|     6     | Hallucinations      | Your mind wanders off on a mental trip, leaving you disconnected from reality and your physical body. You only respond to the hallucinated reality the GM describes to you.                                                                                                                                             |
-|     7     | Impaired Cognition  | Your mental faculties bottom out. You gain the [confused condition](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                       |
-|     8     | Knockout            | You pass out. You are [unconscious](../12/21-other-action-factors.md#conditions) and cannot be woken short of medical intervention.                                                                                                                                                                                     |
-|     9     | Nausea/<!-- CLEANED wbr -->Vertigo | You are overcome with head-spinning dizziness and a desire to vomit. You suffer an impaired (−30) modifier.                                                                                                                                                                                                             |
-|    10     | Sensory Glitch      | Your brain glitches and you lose access to one or more senses. Roll 1d6; on a 1–3, you gain the [blinded condition](../12/21-other-action-factors.md#conditions), on a 4–6 you gain the [deafened condition](../12/21-other-action-factors.md#conditions). Alternatively the GM may choose other senses to be affected. |
+<!--sort-->
+
+| 1D10 Roll<!--sort-d10--> | Type<!--sort-by-->  | Description                                                                                                                                                                                                                                                                                                             |
+| :----------------------: | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            1             | Cataplexy           | You lose control of your body and collapse. You are [immobilized](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                         |
+|            2             | Catatonic Stupor    | Your brain checks out and is non-responsive. Though conscious, you are mentally “not there” — the basilisk has crashed your brain functions. You are [incapacitated](../12/21-other-action-factors.md#conditions).                                                                                                      |
+|            3             | Disorientation      | You gain the [dazed condition](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                                                            |
+|           4–5            | Grand Mal Seizures  | You fall to the ground and convulse, suffering DV 1d6 (armor does not protect). You are [incapacitated and prone](../12/21-other-action-factors.md#conditions). Afterwards, you remain [stunned](../12/21-other-action-factors.md#conditions) for 1d6 action turns.                                                     |
+|            6             | Hallucinations      | Your mind wanders off on a mental trip, leaving you disconnected from reality and your physical body. You only respond to the hallucinated reality the GM describes to you.                                                                                                                                             |
+|            7             | Impaired Cognition  | Your mental faculties bottom out. You gain the [confused condition](../12/21-other-action-factors.md#conditions).                                                                                                                                                                                                       |
+|            8             | Knockout            | You pass out. You are [unconscious](../12/21-other-action-factors.md#conditions) and cannot be woken short of medical intervention.                                                                                                                                                                                     |
+|            9             | Nausea/<!-- CLEANED wbr -->Vertigo | You are overcome with head-spinning dizziness and a desire to vomit. You suffer an impaired (−30) modifier.                                                                                                                                                                                                             |
+|            10            | Sensory Glitch      | Your brain glitches and you lose access to one or more senses. Roll 1d6; on a 1–3, you gain the [blinded condition](../12/21-other-action-factors.md#conditions), on a 4–6 you gain the [deafened condition](../12/21-other-action-factors.md#conditions). Alternatively the GM may choose other senses to be affected. |
 
 <!-- CLEANED /blockquote -->
 
@@ -82,6 +92,8 @@ Rather than completely reprogramming you, subliminals plant subconscious command
 Most subliminals re-program their targets immediately; at the GM’s discretion, subliminals with complex instructions or that require accessing the victim’s knowledge/memories may take several action turns or even minutes to complete and are subject to interruption the same as reprogrammers. If you are implanted with a subliminal, make an INT Check; failure means the subliminal is implanted without your knowledge, success means only that you are aware of a brief amount of visual or auditory noise; those inexperienced with basilisks usually suspect nothing but a glitch with the mesh.
 
 Subliminal commands are triggered according to a pre-set time or other predesignated conditions. Once triggered, you carry out the action with the conviction that it is your own idea. Implanted suggestions may be as simple as “kill the Firewall agent” to as complex as “manufacture an explosive device and plant it in the cargo hold of any ship heading to Mars, set to explode one day after they disembark.” Subliminal commands are designed to convert you into a temporary tool or weapon and are not designed to last long. If the conditions have not been met within 1d6 days, the subliminal command dissipates, with the victim none the wiser.
+
+<!--sort-end-->
 
 ## Biological Infection
 
@@ -106,6 +118,8 @@ Exsurgent nanoplagues follow the rules given for [nanoswarms](../16/20-nanoswarm
 Any morph that comes into contact with a nanoplague is considered infected. The GM determines when this occurs or uses the options for chance exposure given under the biological pathogen description. Guardian swarms defend against nanoplagues, though such battles are a war of attrition (each losing 5&nbsp;DUR an action turn), with the larger swarm winning. Nanoplagues typically have a DUR of 2d6 × 10. If focused on replenishing its numbers, a nanoplague increases its DUR by its current DUR ÷ 2 every hour, assuming ample matter is available.
 
 **Contagion:** Nanoplague-infected targets are not contagious themselves … usually. However, the infecting nanoplague itself may linger in the original area, hitchhike along to new locations, or split and do both.
+
+<!--sort-end-->
 
 ## Infection, Resleeving, & Backups
 

@@ -14,6 +14,8 @@ To simulate this, GMs can allow the following mod packages, which each bundle to
 
 ## Enhanced Ware Packages
 
+<!--sort-->
+
 ### Academic Essentials
 
 **(+1 MP)**<br>+1 Insight, Multi-Tasking
@@ -126,9 +128,13 @@ To simulate this, GMs can allow the following mod packages, which each bundle to
 
 **(+1 MP)**<br>Data Module, Remote Backup Link
 
+<!--sort-end-->
+
 ## Elite Ware Packages
 
 Elite packages are oﬀered as add-ons to their corresponding enhancement packages, but they can also be acquired separately.
+
+<!--sort-->
 
 ### Academic Elite
 
@@ -157,3 +163,5 @@ Elite packages are oﬀered as add-ons to their corresponding enhancement packag
 ### Sensory Elite
 
 **(+1 MP)**<br>Enhanced Smell, Oracles, Sonar
+
+<!--sort-end-->

@@ -14,6 +14,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Ego Traits
 
+<!--sort-->
+
 | Trait                                           | CP Cost | Effect                                                                                                                                                                                                              |
 | :---------------------------------------------- | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Acumen](#acumen)                               |  1/2/3  | +5 per level to COG Checks.                                                                                                                                                                                         |
@@ -54,6 +56,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 
 ### Positive Morph Traits
 
+<!--sort-->
+
 | Trait                                             | MP Cost | Effect                                                                         |
 | :------------------------------------------------ | :-----: | :----------------------------------------------------------------------------- |
 | [Acumen](#acumen)                                 |  1/2/3  | +5 per level to COG Checks.                                                    |
@@ -77,6 +81,8 @@ Positive traits have a CP or MP Cost and provide bonuses.
 | [Toughness](#toughness)                           |   2/4   | +5&nbsp;DUR, also impacts WT and DR, see text.                                 |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Acumen
 
@@ -350,6 +356,8 @@ This morph can take more physical abuse than others of its type. For each level,
 
 This trait is only available to characters possessing the Psi trait. You do not suffer modifiers when using psi sleights on non-sapient or partly sapient animal species.
 
+<!--sort-end-->
+
 ## Negative Traits
 
 Negative traits provide a CP or MP bonus and impair you.
@@ -358,12 +366,14 @@ Negative traits provide a CP or MP bonus and impair you.
 
 ### Negative Ego Traits
 
+<!--sort-->
+
 | Trait                                       | CP Bonus | Effect                                                                        |
 | :------------------------------------------ | :------: | :---------------------------------------------------------------------------- |
 | [Addiction](#addiction)                     |  1/2/4   | −10 per level if no regular fix; see text for additional effects.             |
 | [Bad Luck](#bad-luck)                       |    6     | May not use pools to flip-flop dice rolls.                                    |
-| [Blocklisted Rep](#blocklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
 | [Black Mark](#black-mark)                   |  1/2/3   | −10 modifier per level to interactions with one faction.                      |
+| [Blocklisted Rep](#blocklisted-rep)         |   1/4    | Cannot have rep score in one rep net (higher value if own faction’s rep net). |
 | [Combat Paralysis](#combat-paralysis)       |    4     | WIL Check to act in each action turn of combat.                               |
 | [Edited Memories](#edited-memories)         |    1     | You have lost some memories, deliberately or not.                             |
 | [Enemy](#enemy)                             |    2     | Enemy NPC haunts you.                                                         |
@@ -393,6 +403,8 @@ Negative traits provide a CP or MP bonus and impair you.
 <!-- CLEANED blockquote class="framed-table" -->
 
 ### Negative Morph Traits
+
+<!--sort-->
 
 | Trait                                             | MP Bonus | Effect                                                                                                                      |
 | :------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------- |
@@ -426,6 +438,8 @@ Negative traits provide a CP or MP bonus and impair you.
 | [Zero-G Nausea](#zero-g-nausea)                   |    2     | −10 in micrograv; SOM Check or incapacitated for first hour. Biomorphs only.                                                |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Addiction
 
@@ -461,17 +475,17 @@ This trait may only be applied to flat and splicer morphs. The morph is physical
 
 The universe seems to punish you with startling frequency. You may not use pools to flip-flop dice rolls.
 
-### Blocklisted Rep
-
-**▲ Ego Trait • CP Bonus: 1/4**
-
-You are blocklisted in certain circles, whether you did something to deserve it or not. You are barred from having a Rep score higher than 0 in one particular reputation network. For rep nets outside your faction, this counts as Level 1. For the rep net central to your faction, this counts as Level 2. People within that network will refuse to help you out of fear of reprisals and ruining their own reputation. This trait may be taken more than once for different rep nets.
-
 ### Black Mark
 
 **▲ Ego Trait • CP Bonus: 1/2/3**
 
 You did something in your past to earn a black mark on your reputation with one particular faction that continues to haunt your interactions. Apply a −10 modifier per level to rep net interactions and social skill tests involving that faction. This trait may be taken more than once for different factions.
+
+### Blocklisted Rep
+
+**▲ Ego Trait • CP Bonus: 1/4**
+
+You are blocklisted in certain circles, whether you did something to deserve it or not. You are barred from having a Rep score higher than 0 in one particular reputation network. For rep nets outside your faction, this counts as Level 1. For the rep net central to your faction, this counts as Level 2. People within that network will refuse to help you out of fear of reprisals and ruining their own reputation. This trait may be taken more than once for different rep nets.
 
 ### Combat Paralysis
 
@@ -748,3 +762,6 @@ This trait is only available to biomorphs. The morph’s immune system is easily
 **▼ Morph Trait • MP Bonus: 2**
 
 This trait is only available to biomorphs. This morph suffers from space sickness and does not fare well in zero gravity. Apply a −10 impairment modifier in any microgravity climate. Additionally, the first time you must acclimate or endure excessive movement in microgravity, you must make a SOM Check or spend 1 hour incapacitated by nausea.
+
+<!--sort-end-->
+

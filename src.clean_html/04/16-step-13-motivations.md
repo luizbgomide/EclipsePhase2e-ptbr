@@ -24,7 +24,8 @@ For more interactive motivations, have each player choose one of the goals of an
 
 <!-- CLEANED div class="two-columns-text" -->
 
-<!--order-->
+<!--sort-->
+
 - Acceptance
 - AGI Personhood
 - Alien Contact

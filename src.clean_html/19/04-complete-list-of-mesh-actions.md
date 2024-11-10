@@ -8,6 +8,8 @@ Actions usually available to all users.
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Access Another System:** Authenticate and log on. Creates account shell.
 - **Apply Tag:** Mark a physical person, place, or thing with an AR e-tag.
 - **Communicate:** Email, text, voice, or video chat others online.
@@ -45,6 +47,8 @@ Actions reserved for accounts with security or admin privileges.
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Acquire Mesh ID:** Acquire the mesh ID of anyone accessing the system.
 - **Activate Countermeasure:** Initiate active countermeasures against a spotted intruder ([Active Countermeasures](../13/12-countermeasures.md#active-countermeasures)).
 - **Attack:** Attempt to crash an account shell, app, firewall, infomorph, operating system, or service ([Mesh Combat](../13/14-mesh-combat.md)).
@@ -66,6 +70,8 @@ Only admin accounts are allowed to take these actions.
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Disable Sensors or Device Functions:** Turn off sensors or other physical functions.
 - **Modify Accounts:** Add new accounts and remove old ones.
 - **Modify Privileges:** Add or remove specific privileges.
@@ -79,6 +85,8 @@ Only admin accounts are allowed to take these actions.
 These actions usually require a Hacking Test. Most are detailed under [System Subversion](../13/13-system-subversion.md).
 
 <!-- CLEANED div class="stat-list" -->
+
+<!--sort-->
 
 - **Break Encryption \[T\]:** Decrypt an encrypted file ([Codebreaking](../13/05-authentication-and-encryption.md#codebreaking)).
 - **Brute-Force Intrusion:** Barrage your target with a library of exploits ([Brute-Force Attacks](../13/11-hacking.md#brute-force-attacks)).
@@ -108,8 +116,10 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 
 <!-- CLEANED div class="stat-list" -->
 
-- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.
-- **Control Ware:** As above.
+<!--sort-->
+
+- **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<!--sort-fixed-->
+- **aControl Ware:** As above.
 - **Copy Ego:** Make an alpha fork ([Forking](../15/04-forking-and-merging.md)).
 - **Delete Ego:** Erase the mind.
 - **Freeze Morph (Cyberbrain):** Paralyze the morph.
@@ -130,6 +140,8 @@ Standard user options within a simulspace boil down to a few simple actions:
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Access Simulspace Functions:** Do anything a normal user can do. May require an Interface Test.
 - **Activate Cheat Code:** Activate a cheat code and acquire its benefit.
 - **View Domain Rules:** Analyze the simulation’s parameters, rules, and controls.
@@ -141,6 +153,8 @@ Standard user options within a simulspace boil down to a few simple actions:
 Admins and users with cheat codes have more options.
 
 <!-- CLEANED div class="stat-list" -->
+
+<!--sort-->
 
 - **Add/Remove Cheat Codes:** Either install a new cheat code or edit/remove an existing one.
 - **Alter Domain Rules:** Tweak the system settings within certain parameters; may require a Program Test.
@@ -169,7 +183,7 @@ If these rules at first seem intimidating, keep in mind that the core hacking ru
 - By default, you get in with standard user privileges. Superior successes get you better privileges.
 - Once in, you can take any action that your privileges allow without making a test.
 - If your privileges don’t allow it, make a Hacking Test (Infosec vs. Firewall) to pull it off.
-- Use your imagination! If you want to do something  —  loop sensors, jam weapons, steal files, open a door, crash an opposing AI  —  your GM will tell if you need to make a test.
+- Use your imagination! If you want to do something — loop sensors, jam weapons, steal files, open a door, crash an opposing AI — your GM will tell if you need to make a test.
 - Don’t forget to use Insight pool for extra mesh actions or to modify rolls!
 
 <!-- CLEANED /blockquote -->

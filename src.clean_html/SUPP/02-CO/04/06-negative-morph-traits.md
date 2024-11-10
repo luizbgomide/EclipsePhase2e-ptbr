@@ -4,6 +4,8 @@
 
 ### Negative Morph Traits
 
+<!--sort-->
+
 | Trait                                               | MP Bonus | Effect                                                                                                                                             |             Restricted To |
 | :-------------------------------------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
 | [Aggressive GRM](#aggressive-grm)                   |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                                                                        |                 Biomorphs |
@@ -13,13 +15,15 @@
 | [Impaired Balance](#impaired-balance)               |   1/2    | −10 modifier per level to Athletics or Pilot Tests involving balance or upright movement.                                                          |                  Neo-pigs |
 | [Impaired Hearing](#impaired-hearing)               |    1     | −30 to hearing-based Perceive Tests.                                                                                                               |                Neo-octopi |
 | [Impaired Proprioception](#impaired-proprioception) |    2     | −10 to Fray Tests.                                                                                                                                 | Flying squid & neo-octopi |
-| [Lack of Manipulators](#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                                 |
-| [Lack of Smell](#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                                           |
-| [Neurochemical Imbalance](#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                                             |
-| [Personality Artifact](#personality-artifact)       |    2     | Once per session, apply random Enhanced Behavior trait or new motivation; Stress Test vs. SV 1d6.                                                  |
+| [Lack of Manipulators](#lack-of-manipulators)       |    2     | Lack manipulative limbs. Some actions not allowed or −30 modifier.                                                                                 |                           |
+| [Lack of Smell](#lack-of-smell)                     |    1     | May not make smell-based Perceive Tests.                                                                                                           |                           |
+| [Neurochemical Imbalance](#neurochemical-imbalance) |    3     | Each time you spend a pool point or make a WIL Check, roll a random Enhanced Behavior (Level 2) trait.                                             |                           |
+| [Personality Artifact](#personality-artifact)       |    2     | Once per session, apply random Enhanced Behavior trait or new motivation; Stress Test vs. SV 1d6.                                                  |                           |
 | [Whole Body Apoptosis](#whole-body-apoptosis)       |    1     | GM can substitute critical failure with biological death within 24 hours.                                                                          |                 Biomorphs |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Aggressive GRM
 
@@ -102,3 +106,5 @@ Each time an artifact is invoked, make a Willpower Stress Test against SV 1d6 (m
 **▼ Morph Trait • MP Bonus: 1**
 
 This trait may only be applied to biomorphs. This morph is genetically programmed to suffer a sudden and lethal massive cellular failure at some point in the future, usually within a given 10-year period, though it is possible to target a specific date, give or take a few months. Bioconservatives favor this ware to die quickly and naturally. The cellular failure takes about 10 minutes to complete, giving you just enough time to send final messages. It only applies an MP Bonus if you agree that the GM may at any point turn a critical failure you roll into a regular failure and then trigger the apoptosis within the next 24 hours (in-game).
+
+<!--sort-end-->

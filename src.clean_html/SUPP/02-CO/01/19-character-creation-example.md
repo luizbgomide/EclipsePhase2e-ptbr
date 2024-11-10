@@ -8,9 +8,9 @@ Adam is making a few characters for a game he’s about to run. The players want
 
 Adam’s taking notes in a spreadsheet so he jots down **1 Flex** the standard that every character gets in Step 1.
 
-He then rolls d10 on **Table 2.0 Random Aptitude Template** with a result of **6: Survivor**. This character has a strong base with Somatics and Willpower but will be weaker with Intuition and Savvy.
+He then rolls d10 on **Random Aptitude Template** with a result of **6: Survivor**. This character has a strong base with Somatics and Willpower but will be weaker with Intuition and Savvy.
 
-Next is **3.0 Random Language** and Adam rolls a d100: 52 for **Korean** as his native language. This means the character most likely comes from a Korean cultural background.
+Next is **Random Language** and Adam rolls a d100: 52 for **Korean** as his native language. This means the character most likely comes from a Korean cultural background.
 
 <!-- CLEANED /blockquote -->
 
@@ -18,15 +18,15 @@ Next is **3.0 Random Language** and Adam rolls a d100: 52 for **Korean** as his 
 
 ## Steps: 4. 5. 6. 7. 8.
 
-His first d100 roll on **4.0 Random Background Path** is 1 for **Colonist**, and so he jumps to [4.1 Colonist](05-step-4-background-path.md#41-colonist-d100) and rolls d100 with a result of 81 — a **Spacer**. This character grew up on or worked on spaceships at a young age. Spacers roll a d10 for Morph and Adam hits a 5 for a **Splicer**.
+His first d100 roll on **Random Background Path** is 1 for **Colonist**, and so he jumps to [Colonist](05-step-4-background-path.md#colonist-d100) and rolls d100 with a result of 81 — a **Spacer**. This character grew up on or worked on spaceships at a young age. Spacers roll a d10 for Morph and Adam hits a 5 for a **Splicer**.
 
-So far we know that this character is Korean and was a spacer before the Fall. Let’s fill in some more of those background details with **5.0 Youth Event** where a d100 roll of 45 says that this character “grew up in a melting-pot, polyglot culture” and gives them the **Hyper Linguistics (Level 0) trait**. It makes sense that some spacer crews would be multicultural, so this is a good fit.
+So far we know that this character is Korean and was a spacer before the Fall. Let’s fill in some more of those background details with **Youth Event** table where a d100 roll of 45 says that this character “grew up in a melting-pot, polyglot culture” and gives them the **Hyper Linguistics (Level 0) trait**. It makes sense that some spacer crews would be multicultural, so this is a good fit.
 
-With that jotted down, Adam determines the character’s starting age on **6.0 Age**: in their 40s, on a roll of 56 Another d10 roll of 4 makes them 44. Since the game takes place 10 years after the Fall, and the Fall itself was a 2-year process, they were roughly 32–34 when the Fall occurred.
+With that jotted down, Adam determines the character’s starting age on the **Age table**: in their 40s, on a roll of 56 Another d10 roll of 4 makes them 44. Since the game takes place 10 years after the Fall, and the Fall itself was a 2-year process, they were roughly 32–34 when the Fall occurred.
 
-Moving on to the **7.0 Pre-Fall Life Event** table, Adam rolls d100 and gains a **free specialization** for training hard. He’ll figure this out later after all of the character’s skills are sorted. He’s beginning to think this character might be a bit of a goody two-shoes, which is a step down from being a goody eight-suckers.
+Moving on to the **Pre-Fall Life Event** table, Adam rolls d100 and gains a **free specialization** for training hard. He’ll figure this out later after all of the character’s skills are sorted. He’s beginning to think this character might be a bit of a goody two-shoes, which is a step down from being a goody eight-suckers.
 
-Then it’s time for the Fall itself. A roll of 32 on **8.0 Fall Event** means that this character stashed their original splicer morph on Earth and farcasted off planet. Since this character was an off-world spacer, Adam likes the idea that they returned to Earth to help out but got trapped there. Adam hits up the Random Morph Table to find out what kind of morph they acquired next: d100 hits 39 for **Biomorph** and a d100 on the Biomorph table resleeves this character into a **Bruiser**, post-fall. There’s probably a story there in how they ended up with a bruiser morph but Adam will save those details for later.
+Then it’s time for the Fall itself. A roll of 32 on the **Fall Event** table means that this character stashed their original splicer morph on Earth and farcasted off planet. Since this character was an off-world spacer, Adam likes the idea that they returned to Earth to help out but got trapped there. Adam hits up the Random Morph Table to find out what kind of morph they acquired next: d100 hits 39 for **Biomorph** and a d100 on the Biomorph table resleeves this character into a **Bruiser**, post-fall. There’s probably a story there in how they ended up with a bruiser morph but Adam will save those details for later.
 
 <!-- CLEANED /blockquote -->
 
@@ -34,11 +34,11 @@ Then it’s time for the Fall itself. A roll of 32 on **8.0 Fall Event** means t
 
 ## Steps: 9. 10. 11.
 
-This bruiser is now looking for work, so two consecutive d10 rolls (8,1) on the **9.0 Random Career Path** table turns them into an **Investigator**. Adam jumps to the **9.8 Investigator** table and rolls a 98, which would make the character a **Journalist**. Not quite the Sturdy Gumshoe that Adam had started to picture, but still a cool idea, and there are a lot of ways to get a journalist-type character into the thick of things. Adam writes down the skills, rep, and motivation.
+This bruiser is now looking for work, so two consecutive d10 rolls (8,1) on the **Random Career Path** table turns them into an **Investigator**. Adam jumps to the **Investigator** table and rolls a 98, which would make the character a **Journalist**. Not quite the Sturdy Gumshoe that Adam had started to picture, but still a cool idea, and there are a lot of ways to get a journalist-type character into the thick of things. Adam writes down the skills, rep, and motivation.
 
-We’re getting close to knowing the most important things, and **10.0 Random Interest** will help solidify that. It’s a pair of d10 rolls again: 8, 3 — **Pilot**. That ties in nicely with the spacer background from back in Step 1. Adam makes notes of the additional skills and rep.
+We’re getting close to knowing the most important things, and **Random Interest** will help solidify that. It’s a pair of d10 rolls again: 8, 3 — **Pilot**. That ties in nicely with the spacer background from back in Step 1. Adam makes notes of the additional skills and rep.
 
-Moving on to a d100 roll for **11.0 Faction**, and the niceness continues with a roll of 69, aligning this character with a **Scum** faction. It makes sense that a spacer would fall in with the scum post-Fall. Adam notes the Know skill, rep, and motivations.
+Moving on to a d100 roll for **Faction**, and the niceness continues with a roll of 69, aligning this character with a **Scum** faction. It makes sense that a spacer would fall in with the scum post-Fall. Adam notes the Know skill, rep, and motivations.
 
 <!-- CLEANED /blockquote -->
 
@@ -46,11 +46,11 @@ Moving on to a d100 roll for **11.0 Faction**, and the niceness continues with a
 
 ## Steps: 12. 13. 14.
 
-The **12.0 Post-Fall Event** is a d100 roll of 47, and this one feels a little surprising for this character: **“You have difficulty coming to grips with regular resleeving. Gain the Identity Crisis trait”**. The scum are normally very into resleeving, but that doesn’t work for everybody. This event also requires rolling for a new morph. Adam says goodbye to the Bruiser, rolls again on the Random Morph tables, and this time gets a **Sylph**.
+The **Post-Fall Event** is a d100 roll of 47, and this one feels a little surprising for this character: **“You have difficulty coming to grips with regular resleeving. Gain the Identity Crisis trait”**. The scum are normally very into resleeving, but that doesn’t work for everybody. This event also requires rolling for a new morph. Adam says goodbye to the Bruiser, rolls again on the Random Morph tables, and this time gets a **Sylph**.
 
 Moving to **Step 13: Campaign Events** Adam decides to roll on the Crime Event table — even though this campaign is going to veer towards Firewall, it feels more likely that this scum journalist has had some criminal run-ins. A d100 roll on that table comes up 71: **“For a while at least, you go full Robin Hood with your crime, taking from the rich and giving to the poor. +10 @-rep.”** So it sounds like this journalist may have sometimes gotten their hands dirty. The rep bonus gets jotted down.
 
-And the final random event, **14.0 Story Event**, is an 81 on the d100 table: **“You lose yourself in the hedonism of a scum warm for several months.”** This is a near-perfect event to help get this character into a campaign!
+And the final random event, **Story Event**, is an 81 on the d100 table: **“You lose yourself in the hedonism of a scum warm for several months.”** This is a near-perfect event to help get this character into a campaign!
 
 <!-- CLEANED /blockquote -->
 
@@ -63,6 +63,8 @@ And the final random event, **14.0 Story Event**, is an 81 on the d100 table: **
 Now Adam adds all of the linked aptitudes to each of the skills. He remembers that Fray and Perceive get their base aptitudes added twice. **Fray** is REF (15) x 2 for a total of **30**, and **Perceive** is INT (10) x 2 for **20**, which Adam combines with the 20 that was part of the Journalist career path for a total of **40** in Perceive. The skill list for this character now looks like this:
 
 ### Step 15 Skill List — Beginning
+
+<!--sort-->
 
 |                       |                            |
 | :-------------------- | :------------------------- |

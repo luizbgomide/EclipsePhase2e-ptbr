@@ -2,6 +2,8 @@
 
 Social ware, including cosmetic mods impacts your interactions with others and also includes cosmetic modifications.
 
+<!--sort-->
+
 | SOCIAL AUGMENTATIONS | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                             |
 | :------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |
 | Bodysculpting        |    BCH    |    Min/1     | Customized body mods.                                                   |
@@ -16,6 +18,8 @@ Social ware, including cosmetic mods impacts your interactions with others and a
 | Skinflex             |     N     |    Mod/2     | Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests. |
 | Synthetic Cover      |     C     |    Min/1     | Faux skin covering for cyberlimb.                                       |
 | Synthetic Mask       |     H     |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests.             |
+
+<!--sort-->
 
 **Bodysculpting:** Customizing your looks is easy. Elongated ears or fingers, nose alteration, hair addition/removal, feathers, exotic eyes, snakeskin, endowed genitalia, enlarged canines, whiskers, eyestalks, fur, frills, scarification, piercings, skin dyes, and stranger things are common sights on many habitats. Subdermal implants can create bumps, ridges, piercing anchors, and similar textures and alterations. Synthmorphs get in on the fun too, with stylized chassis, oddly shaped heads, exposed interiors, sculpted frames, lights, sound systems, and other after-market mods.
 
@@ -40,3 +44,6 @@ Social ware, including cosmetic mods impacts your interactions with others and a
 **Synthetic Cover:** A synthetic mask, but for cyberlimbs.
 
 **Synthetic Mask:** Your shell is equipped with a realistic faux-skin casing and carefully sculpted to pass as a biomorph (perhaps even a particular person). The morph can cry, spit, have sex, and will even bleed if cut. Only a detailed physical examination at −30 or a radar or x-ray scan will detect the synthmorph’s true nature. If disguised as a particular person, apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.
+
+<!--sort-end-->
+

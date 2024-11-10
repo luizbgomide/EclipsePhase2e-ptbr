@@ -22,6 +22,8 @@ Once a trap is identified, it can potentially be disarmed using an appropriate s
 
 The following devious devices should provide GMs with plenty of fuel for devising their own traps.
 
+<!--sort-->
+
 ### Adhesive Surface
 
 <!-- CLEANED div class="stat-list" -->
@@ -165,3 +167,6 @@ This trap is a common trick deployed by TITAN self-replicating nanoswarms. The s
 <!-- CLEANED /div -->
 
 These traps are variations on a theme. They all involve confining the victim in an air-tight space and then altering the atmosphere. Vacuum traps suck all of the air out of the room, asphyxiating biomorphs without their own air supply. Water traps flood the room, drowning biomorphs without air. Gas traps replace the atmosphere with non-breathable gases or chemicals ([Dangerous Atmosphere](../12/29-hostile-environments.md#dangerous-atmosphere)).
+
+<!--sort-end-->
+

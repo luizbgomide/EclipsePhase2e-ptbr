@@ -46,29 +46,29 @@ Just because you’ve acquired the data doesn’t mean you understand it. You ma
 
 ### Online Research
 
-| Situation                                                                   |   Modifiers    |
-| :-------------------------------------------------------------------------- | :------------: |
-| Conflicting Sources                                                         |      −10       |
-| Possess Hints, Traces, or Corroborating Details                             |   +10 to +30   |
-| Availability                                                                |                |
-| <!-- CLEANED div class="indent" -->» Widespread Information<!-- CLEANED /div -->                          | timeframe ÷ 2  |
-| <!-- CLEANED div class="indent" -->» Buried Within Other Details<!-- CLEANED /div -->                     | timeframe × 2  |
-| <!-- CLEANED div class="indent" -->» Obscure or Unusual Data<!-- CLEANED /div -->                         |   −10 to −30   |
-| <!-- CLEANED div class="indent" -->» Private or Proprietary Data<!-- CLEANED /div -->                     |   −30 or NA    |
-| Analysis/Comparison of Data Sets                                            |                |
-| <!-- CLEANED div class="indent" -->» Small Data Set (single scientific study/sample)<!-- CLEANED /div --> | timeframe ÷ 2  |
-| <!-- CLEANED div class="indent" -->» Medium Data Set (multiple studies/samples)<!-- CLEANED /div -->      |       —        |
-| <!-- CLEANED div class="indent" -->» Large Data Set (dozens of studies/samples)<!-- CLEANED /div -->      | timeframe × 4  |
-| <!-- CLEANED div class="indent" -->» Massive Data Sets (hundreds of studies/samples)<!-- CLEANED /div --> | timeframe × 20 |
-| Real-Time Biometric Scanning                                                |                |
-| <!-- CLEANED div class="indent" -->» Facility/Small Habitat<!-- CLEANED /div -->                          |       —        |
-| <!-- CLEANED div class="indent" -->» Neighborhood/Medium Habitat<!-- CLEANED /div -->                     |      −10       |
-| <!-- CLEANED div class="indent" -->» City/Large Habitat<!-- CLEANED /div -->                              |      −30       |
-| Forecasting                                                                 |                |
-| <!-- CLEANED div class="indent" -->» Small Data Set (1 week)<!-- CLEANED /div -->                         |      −30       |
-| <!-- CLEANED div class="indent" -->» Medium Data Set (1 month)<!-- CLEANED /div -->                       |       —        |
-| <!-- CLEANED div class="indent" -->» Large Data Set (1 year)<!-- CLEANED /div -->                         |      +10       |
-| <!-- CLEANED div class="indent" -->» Massive Data Set (5 years+)<!-- CLEANED /div -->                     |      +30       |
+| Situation                                                               |   Modifiers    |
+| :---------------------------------------------------------------------- | :------------: |
+| Conflicting Sources                                                     |      −10       |
+| Possess Hints, Traces, or Corroborating Details                         |   +10 to +30   |
+| Availability                                                            |                |
+| <p class="indent">» Widespread Information</p>                          | timeframe ÷ 2  |
+| <p class="indent">» Buried Within Other Details</p>                     | timeframe × 2  |
+| <p class="indent">» Obscure or Unusual Data</p>                         |   −10 to −30   |
+| <p class="indent">» Private or Proprietary Data</p>                     |   −30 or NA    |
+| Analysis/Comparison of Data Sets                                        |                |
+| <p class="indent">» Small Data Set (single scientific study/sample)</p> | timeframe ÷ 2  |
+| <p class="indent">» Medium Data Set (multiple studies/samples)</p>      |       —        |
+| <p class="indent">» Large Data Set (dozens of studies/samples)</p>      | timeframe × 4  |
+| <p class="indent">» Massive Data Sets (hundreds of studies/samples)</p> | timeframe × 20 |
+| Real-Time Biometric Scanning                                            |                |
+| <p class="indent">» Facility/Small Habitat</p>                          |       —        |
+| <p class="indent">» Neighborhood/Medium Habitat</p>                     |      −10       |
+| <p class="indent">» City/Large Habitat</p>                              |      −30       |
+| Forecasting                                                             |                |
+| <p class="indent">» Small Data Set (1 week)</p>                         |      −30       |
+| <p class="indent">» Medium Data Set (1 month)</p>                       |       —        |
+| <p class="indent">» Large Data Set (1 year)</p>                         |      +10       |
+| <p class="indent">» Massive Data Set (5 years+)</p>                     |      +30       |
 
 <!-- CLEANED /blockquote -->
 

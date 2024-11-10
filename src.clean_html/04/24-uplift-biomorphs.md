@@ -72,6 +72,10 @@ This morph is derived from fossilized Neanderthal DNA, uplifted and enhanced to 
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Neo-Gorilla
 
 Neo-gorillas benefit from enhanced cognition and upright stances like other neo-hominids, though they are not as adept at climbing. They stand roughly as tall as humans and have stronger and larger frames.
@@ -94,6 +98,8 @@ Neo-gorillas benefit from enhanced cognition and upright stances like other neo-
 - **Morph Traits:** Exotic Morphology (Level 1), Non-Human Biochemistry (Level 1)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Neo-Octopus
 
@@ -119,6 +125,8 @@ Colloquially known as “octomorphs,” these uplifted octopus sleeves are quite
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Neo-Orangutan
 
 Neo-orangutans have the same uplifted features as their neo-hominid cousins. Compared to humans, their legs are shorter and arms longer. Neo-orangutans tend to be more solitary than social.
@@ -142,3 +150,6 @@ Neo-orangutans have the same uplifted features as their neo-hominid cousins. Com
 - **Notes:** Reach (+10)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+

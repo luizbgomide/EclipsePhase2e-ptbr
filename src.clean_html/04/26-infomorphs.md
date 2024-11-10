@@ -46,6 +46,10 @@ Designed for online performers, media icons, and social networkers, this infomor
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Agent
 
 Popular with network security specialists, penetration testers, and hackers, this infomorph is optimized for infosec roles.
@@ -68,6 +72,8 @@ Popular with network security specialists, penetration testers, and hackers, thi
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Operator
 
 This infomorph is ideal for professions that involve drone remote operation, whether maintenance bot fleets, surveillance drones, or fighter craft and combat machines.
@@ -89,3 +95,6 @@ This infomorph is ideal for professions that involve drone remote operation, whe
 - **Morph Traits:** Digital Speed, Exotic Morphology (Level 3)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+

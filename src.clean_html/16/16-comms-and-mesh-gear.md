@@ -20,15 +20,19 @@ In a networked world, keeping in touch is key.
 
 A variety of technologies are useful for keeping communication lines open, even on alien worlds.
 
-| COMMUNICATIONS GEAR          | Comp/<!-- CLEANED wbr -->GP | Description                                                                       |
-| :--------------------------- | :----------: | :-------------------------------------------------------------------------------- |
-| Breadcrumb System            |    Min/1     | Leaves mote trail for meshing/positioning.                                        |
-| Emergency Distress Beacon    |    Min/1     | Powerful radio transmitter, 50/500&nbsp;km range.                                 |
-| Laser/Microwave Link (Micro) |    Min/1     | Tight-beam communication links, line-of-sight 500&nbsp;m range.                   |
-| Laser/Microwave Link (Small) |    Mod/2     | Tight-beam communication links, line-of-sight 50/500&nbsp;km range.               |
-| Mission Recorder             |    Min/1     | Backs up all mission data.                                                        |
-| Radio Booster                |    Min/1     | Extends radio ranges, 25/250km range.                                             |
-| Satnet-in-a-Can              |    Maj/3     | Deploys satellites into orbit for GPS, imaging, comms relay, Know: Metereology 60 |
+<!--sort-->
+
+| COMMUNICATIONS GEAR                           | Comp/<!-- CLEANED wbr -->GP | Description                                                                       |
+| :-------------------------------------------- | :----------: | :-------------------------------------------------------------------------------- |
+| Breadcrumb System                             |    Min/1     | Leaves mote trail for meshing/positioning.                                        |
+| Emergency Distress Beacon                     |    Min/1     | Powerful radio transmitter, 50/500&nbsp;km range.                                 |
+| Laser/Microwave Link (Micro)                  |    Min/1     | Tight-beam communication links, line-of-sight 500&nbsp;m range.                   |
+| <!--sort-union-->Laser/Microwave Link (Small) |    Mod/2     | Tight-beam communication links, line-of-sight 50/500&nbsp;km range.               |
+| Mission Recorder                              |    Min/1     | Backs up all mission data.                                                        |
+| Radio Booster                                 |    Min/1     | Extends radio ranges, 25/250km range.                                             |
+| Satnet-in-a-Can                               |    Maj/3     | Deploys satellites into orbit for GPS, imaging, comms relay, Know: Metereology 60 |
+
+<!--sort-->
 
 **Breadcrumb System:** This worn device leaves micro-sized “breadcrumb” motes behind as you move, roughly every 25 meters. These devices mesh with each other and other devices, allowing you to map your position in relation to the breadcrumb trail, and creating a mesh connection all the way back to the trail’s source. This is for tracking your movement, finding your way back, and keeping meshed with your camp or ship in derelict habitats, wilderness, and other areas where there is no local functioning mesh.
 
@@ -41,6 +45,8 @@ A variety of technologies are useful for keeping communication lines open, even 
 **Radio Booster:** This portable device boosts the range and sensitivity of short-range radios, like those from implants, ectos, or microbugs. The booster must be within the shorter-ranged device’s range (or directly linked via fiberoptic cable). It will repeat any transmissions received from that device, but at its extended range of 25 kilometers in urban areas or 250 kilometers in remote areas ([Radio and Sensor Ranges](#radio-and-sensor-ranges)). Boosters are commonly used by characters traveling far from habitats or other civilized regions.
 
 **Satnet-in-a-Can:** This medium-sized metallic-hydrogen missile can be launched on any world with a gravity of 2&nbsp;g or less. A smart-material launch tube automatically extends struts and aims it at the proper trajectory. It deploys 32 small satellites into orbit, which after 1–2 days will be in position to cover the planet with GPS data, low-resolution hyperspectral imaging (down to 100 meters), and communication/mesh relay between anyone on the planet with a radio booster. The satellites can map the planet and provide weather data using Know: Meteorology 60.
+
+<!--sort-end-->
 
 ## Neutrino Communicators
 

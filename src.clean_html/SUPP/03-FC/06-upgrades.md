@@ -4,11 +4,15 @@
 
 The following augmentations are available only to flexbots or other morphs with the shape adjusting enhancement.
 
+<!--sort-->
+
 | Flexbot Ware | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                           |
 | :----------- | :-------: | :----------: | :------------------------------------------------------------------------------------ |
 | Boomscatter  |     H     |    Min/1     | Scatter apart to halve damage from impact/explosion. Requires shape adjusting.        |
 | Omni-joints  |     H     |    Maj/3     | +10 Athletics, Fray, and Melee. Requires shape adjusting.                             |
 | Smart Mass   |     H     |    Mod/2     | Transfer DUR between modules that have this ware; also transfer/discard damage/wounds |
+
+<!--sort-->
 
 ### Boomscatter
 
@@ -26,14 +30,20 @@ Your module has the capability to share its smart matter with other modules that
 
 Damaged smart matter can be transferred or discarded, at the cost of reduced DUR. If the damaged DUR exceeds your module’s Wound Threshold, you may also transfer/discard 1 wound. If the damaged DUR exceeds Wound Threshold × 2, you may discard 2 wounds, and so on. A module with smart mass and medichines can repair damaged smart mass taken from other modules.
 
+<!--sort-end-->
+
 ## Other Ware
 
 This ware is useful to flexbots, but not limited to them.
+
+<!--sort-->
 
 | Other Ware       | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                |
 | :--------------- | :-------: | :----------: | :--------------------------------------------------------- |
 | Convertible Form |     H     |    Min/1     | Transform into a pre-set configuration in 3 action turns.  |
 | Oozeware         |     H     |    Maj/3     | Limited but faster (1d6 turns) shape adjusting, AV 4/half. |
+
+<!--sort-->
 
 ### Convertible Form
 
@@ -48,6 +58,8 @@ This ware functions much like shape adjusting, but with some key differences. Ra
 Some of the ware/gear it can form includes: claws, digging claws, disassembly tools, extra limbs, gliding membrane, grasping tendril, hidden compartment, mobility system (boat, hopper, roller, snake, walker, swimmer), prehensile feet, prehensile tail, retracting limbs, skin pocket, telescoping limb, weapon mount, wings. Others may be allowed at GM discretion.
 
 Synthmorphs with this mod do not have a frame, but they receive AV 4/0 and only take half damage from kinetic projectiles such as firearms and railguns. Morphs with this gear may not use synthetic mask or shape adjusting ware.
+
+<!--sort-end-->
 
 ## Modularized Gear
 

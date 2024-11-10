@@ -2,6 +2,8 @@
 
 The following augmentations have specific applications for combat and dangerous circumstances, in addition to non-combat uses. Weapon/armor ware is listed with the combat rules (from [Melee Combat](../12/02-melee-combat.md) to [Armor Mods](../12/14-armor-mods.md)).
 
+<!--sort-->
+
 | COMBAT AUGMENTATIONS   | Ware Type |    Comp/<!-- CLEANED wbr -->GP     | Description                                                                          |
 | :--------------------- | :-------: | :-----------------: | :----------------------------------------------------------------------------------- |
 | Adrenal Surge          |     B     |        Maj/3        | Supercharged adrenal response. +1 Vigor, ignore 1 wound.                             |
@@ -28,6 +30,8 @@ The following augmentations have specific applications for combat and dangerous 
 | Telescoping Limb       |    CH     |        Mod/2        | Extending limbs. +1 Reach.                                                           |
 | Toxin Filters          |     B     |        Maj/3        | +30 to apt checks to resist drugs/toxins, effect/duration halved.                    |
 | Weapon Mount           |    CH     |       Min/R/1       | Hardpoint holds one static/swiveling/articulated weapon. Concealable.                |
+
+<!--sort-->
 
 **Adrenal Surge:** This gland enhancement supercharges your adrenal response to situations that invoke stress, pain, or strong emotions (fear, anger, lust, hate). When activated (mentally or by stress/emotions), the concentrated burst of norepinephrine accelerates heart rate and blood flow and burns carbohydrates. You receive +1 Vigor pool and ignore the modifiers from 1 wound. Extensive use of this mod without a break can lead to adrenal fatigue (−20 impairment modifier to all actions; GM discretion).
 
@@ -78,3 +82,6 @@ Medichines for synthmorphs and bots consist of nanobots that monitor and repair 
 **Toxin Filters:** Your morph features an improved liver and kidneys and biological filters in its lungs. This makes you exceptionally resistant to drugs and toxins, including everything from recreational chemicals to nerve agents to spoiled food. You can even safely and comfortably breathe smoke and drink salt water. Make a SOM Check when dosed with a biochem drug or toxin; it only affects you if you fail. If affected, apply a +30 modifier to all aptitude checks made to resist specific effects. Additionally, all drug/toxin effects and durations are reduced by half (if you also have medichines, they are negated entirely). This augmentation provides no resistance to concentrated acid, nanotechnological attacks, pathogens, or similar destructive agents.
 
 **Weapon Mount:** The morph is equipped with a hardpoint for carrying a weapon. _Static_ mounts face one direction only, _swiveling_ mounts have a limited 90° field of fire, _articulated_ hardpoints allow the mounted weapon to face all directions. Additionally, any of the mounts can be internally concealed (assuming room within the morph’s frame). Some are designed to stay internal and fire through their concealing layers (leaving a hole), others pop up, like a turret, and can be retracted. Multiple mounts may be installed, but small morphs are limited to 2, medium morphs 4. Neither small nor medium morphs can mount weapons with the Long trait. Cybernetic versions of this mod are static and can only be mounted in cyberlimbs (max 1 per limb).
+
+<!--sort-end-->
+

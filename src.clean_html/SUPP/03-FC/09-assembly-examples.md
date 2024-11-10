@@ -4,6 +4,8 @@
 
 Everything on this list can be assembled by any flexbot module.
 
+<!--sort-->
+
 - [Brachiating Adaptation](../02-CO/04/04-new-physical-ware.md#brachiating-adaptation) (_CO_)
 - [Chameleon Skin](../../16/09-social-augmentations.md) (_EP2_)
 - [Claws](../../12/02-melee-combat.md#melee-ware) (_EP2_)
@@ -44,11 +46,15 @@ Everything on this list can be assembled by any flexbot module.
 - [Weapon Mount](../../16/10-combat-augmentations.md) (_EP2_)
 - [Wings](../../16/11-physical-augmentations.md) (_EP2_)
 
+<!--sort-end-->
+
 ## Gear Flexbots Can’t Assemble
 
 Items on this list can never be assembled by a flexbot.
 
-- Anything with a Complexity of Major
+<!--sort-->
+
+- Anything with a Complexity of Major<!--sort-fixed-->
 - [Cortical Stacks](../../16/05-common-tech-and-ware.md#standard-augmentations) (_EP2_)
 - [Cryogenic Protection](../../16/11-physical-augmentations.md) (_EP2_)
 - [Cyberbrains](../../16/05-common-tech-and-ware.md#standard-augmentations) (_EP2_)

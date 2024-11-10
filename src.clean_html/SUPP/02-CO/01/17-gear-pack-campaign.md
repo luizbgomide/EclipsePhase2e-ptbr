@@ -2,6 +2,8 @@
 
 ## Firewall Agent/Criminal
 
+<!--sort-->
+
 | GEAR                                                                           | Comp/<!-- CLEANED wbr -->GP | Description                                                                     |
 | :----------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------ |
 | [Anonymizer](../../../16/04-services.md#mesh-services)                         |    Min/1     | Masks your mesh ID.                                                             |
@@ -16,6 +18,8 @@
 
 ### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                                   | Comp/<!-- CLEANED wbr -->GP | Description         |
 | :----------------------------------------------------- | :----------: | :------------------ |
 | [Anti-Glare](../../../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers. |
@@ -24,6 +28,8 @@
 <!-- CLEANED /blockquote -->
 
 ## Gatecrashing
+
+<!--sort-->
 
 | GEAR                                                                 | Comp/<!-- CLEANED wbr -->GP | Description                                                               |
 | :------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
@@ -39,6 +45,8 @@
 
 ### \* Synthmorph Alternative
 
+<!--sort-->
+
 | GEAR                                                   | Comp/<!-- CLEANED wbr -->GP | Description                                                     |
 | :----------------------------------------------------- | :----------: | :-------------------------------------------------------------- |
 | [Anti-Glare](../../../16/06-sensory-augmentations.md)  |    Min/1     | No glare modifiers.                                             |
@@ -48,6 +56,8 @@
 <!-- CLEANED /blockquote -->
 
 ## Infomorph
+
+<!--sort-->
 
 | GEAR                                                       | Comp/<!-- CLEANED wbr -->GP | Description                                                                      |
 | :--------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------- |

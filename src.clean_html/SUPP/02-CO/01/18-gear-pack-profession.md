@@ -1,6 +1,10 @@
 # Gear Packs: Profession
 
+<!--sort-->
+
 ## Academic
+
+<!--sort-->
 
 | GEAR                                                                                | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :---------------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -14,6 +18,8 @@
 | [Simulspace](../../../16/04-services.md#mesh-services)                              |    Min/1     | Access to a VR space.                                                                    |
 
 ## Covert Operative
+
+<!--sort-->
 
 | GEAR                                                                    | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :---------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
@@ -36,6 +42,8 @@
 
 ## Enforcer
 
+<!--sort-->
+
 | GEAR                                                                         | Comp/<!-- CLEANED wbr -->GP | Description                                                               |
 | :--------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
 | [Aggro (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#combat-drugs) |    Min/1     | +20 Provoke to intimidate/taunt, −20 other social tests.                  |
@@ -47,6 +55,8 @@
 | [Shredder](../../../12/06-spray-weapons.md)                                  |   Mod/R/2    | Flechette gun, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, Two-Handed.     |
 
 ## Explorer
+
+<!--sort-->
 
 | GEAR                                                                      | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :------------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------------- |
@@ -60,6 +70,8 @@
 
 ## Face/Dealer
 
+<!--sort-->
+
 | GEAR                                                                         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                     |
 | :--------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
 | [Enhanced Hearing](../../../16/06-sensory-augmentations.md)                  |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                                  |
@@ -71,6 +83,8 @@
 | [Stiff (5 doses)](../../../16/15-chemicals-drugs-and-toxins.md#social-drugs) |    Min/1     | +10&nbsp;SAV/WIL Checks vs. Persuade/Provoke, Enhanced Behavior: Stubborn (Level 2).            |
 
 ## Genehacker
+
+<!--sort-->
 
 | GEAR                                                                            |     Comp/<!-- CLEANED wbr -->GP     | Description                                                     |
 | :------------------------------------------------------------------------------ | :------------------: | :-------------------------------------------------------------- |
@@ -85,6 +99,8 @@
 
 ## Hacker
 
+<!--sort-->
+
 | GEAR                                                                  | Comp/<!-- CLEANED wbr -->GP | Description                               |
 | :-------------------------------------------------------------------- | :----------: | :---------------------------------------- |
 | [Exploit App](../../../16/13-apps-and-alis.md#apps)                   |   Mod/R/2    | Hacking library tool.                     |
@@ -95,6 +111,8 @@
 | [Tracker App](../../../16/13-apps-and-alis.md#apps)                   |    Mod/2     | Trace connections.                        |
 
 ## Investigator
+
+<!--sort-->
 
 | GEAR                                                                           | Comp/<!-- CLEANED wbr -->GP | Description                                                                        |
 | :----------------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
@@ -110,6 +128,8 @@
 
 ## Medic
 
+<!--sort-->
+
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                                                   |
 | :----------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------- |
 | [Docbot](../../../16/21-robots.md#medical-bots)                          |    Maj/3     | Medical bot.                                                                  |
@@ -119,6 +139,8 @@
 | [Med Scanner](../../../16/19-nanotech.md)                                |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
 
 ## Mindhacker
+
+<!--sort-->
 
 | GEAR                                                                           | Comp/<!-- CLEANED wbr -->GP | Description                                |
 | :----------------------------------------------------------------------------- | :----------: | :----------------------------------------- |
@@ -130,6 +152,8 @@
 | [Psychosurgery App](../../../16/13-apps-and-alis.md#apps)                      |    Mod/2     | Edit minds.                                |
 
 ## Scavenger
+
+<!--sort-->
 
 | GEAR                                                                                      | Comp/<!-- CLEANED wbr -->GP | Description                                                                                     |
 | :---------------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
@@ -143,6 +167,8 @@
 
 ## Scientist
 
+<!--sort-->
+
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
 | [Enhanced Vision](../../../16/06-sensory-augmentations.md)               |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive Tests. |
@@ -153,6 +179,8 @@
 | [Specimen Container](../../../16/18-mission-gear.md#science-tools)       |    Min/1     | Holds samples in stasis conditions.                                                    |
 
 ## Soldier
+
+<!--sort-->
 
 | GEAR                                                                        | Comp/<!-- CLEANED wbr -->GP | Description                                                                            |
 | :-------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------- |
@@ -174,6 +202,8 @@
 
 ## Techie
 
+<!--sort-->
+
 | GEAR                                                                            | Comp/<!-- CLEANED wbr -->GP | Description                                              |
 | :------------------------------------------------------------------------------ | :----------: | :------------------------------------------------------- |
 | [Automech](../../../16/21-robots.md#utility-bots)                               |    Mod/2     | Repair bot.                                              |
@@ -183,3 +213,5 @@
 | [Medium Fabber](../../../16/19-nanotech.md#nanofabricators)                     |    Mod/2     | Fab small items.                                         |
 | [Tools (Kit)](../../../16/05-common-tech-and-ware.md#everyday-technology)       |    Min/1     | Portable, applies to specific skill.                     |
 | [Utilitool](../../../16/05-common-tech-and-ware.md#everyday-technology)         |    Min/1     | All-purpose smart-material tool.                         |
+
+<!--sort-end-->

@@ -32,6 +32,10 @@ Synthetic shells are made to last — a fact reflected in their higher Durabilit
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Case
 
 Cases are mass-produced robotic shells, an affordable resleeving option for the poor, though of notoriously poor quality. They are available in many varieties to suit a client’s taste. Most case morphs are anthropomorphic, with a thin framework body standing just shorter than an average human.
@@ -55,6 +59,8 @@ Cases are mass-produced robotic shells, an affordable resleeving option for the 
 - **Notes:** Light Frame (Armor 6/4)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Spare
 
@@ -80,6 +86,8 @@ Spares are small, portable shells designed as a temporary replacement sleeve sho
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-end-->
+
 ### Dragonfly
 
 The dragonfly takes the shape of a meter-long flexible shell with eight wings, four manipulator limbs, and a prehensile tail. Capable of near-silent flight in Earth gravity, dragonfly bots fare even better in microgravity. Their wings operate independently and can rotate, allowing for graceful maneuvering, hovering, and tight turns.
@@ -103,6 +111,10 @@ The dragonfly takes the shape of a meter-long flexible shell with eight wings, f
 - **Notes:** Light Frame (Armor 6/4), [Small size](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Swarmanoid
 
@@ -128,6 +140,8 @@ Swarmanoids are swarms composed of hundreds of insect-sized microbots. Each indi
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Synth
 
 Synths are even more humanoid than cases and of better quality. They are commonly deployed for labor-intensive tasks in environments not suited for biomorphs or for people who need a body quickly and cheaply or simply on a transient basis. Most designs are anthropomorphic, though various alternatives exist, including some based on uplift physiology.
@@ -151,6 +165,8 @@ Synths are even more humanoid than cases and of better quality. They are commonl
 - **Notes:** Light Frame (Armor 6/4)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
 
 ### Savant
 
@@ -176,6 +192,10 @@ Developed by brinker hardware hackers, savants feature neural-state enhancements
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Galatea
 
 This high-end shell was designed to increase the appeal and social acceptance of synthmorphs. Galateas look expensive and their mental architecture is crafted to enhance the wearer’s personality and charm. Though many media icons have embraced this morph’s novelty, biochauvinists still view it as a monstrosity.
@@ -199,6 +219,8 @@ This high-end shell was designed to increase the appeal and social acceptance of
 - **Notes:** Light Frame (Armor 6/4)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-block-->
 
 ### Slitheroid
 
@@ -224,6 +246,8 @@ Slitheroid shells take the form of a humanoid torso with retractable arms atop a
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Steel Morph
 
 Like the galatea, this upscale shell was designed to counter biochauvinist attitudes and make synthmorphs more appealing. Where the galatea is optimized for social interaction, steel morphs provide enhanced physical capabilities for both work and recreation.
@@ -247,6 +271,8 @@ Like the galatea, this upscale shell was designed to counter biochauvinist attit
 - **Notes:** Medium Frame (Armor 8/6)
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
 
 ### Arachnoid
 
@@ -296,7 +322,6 @@ The reaper is a combat morph in the form of an armored disc, so that it can turn
 
 <!-- CLEANED /blockquote -->
 
-
 ## Flexbot
 
 Flexbots are modular and customizable, each composed of one or more modules that interlock in various shapes and configurations. Individual modules are specialized towards specific functions and also capable of transforming into a variety of shapes and mechanisms. They have 4 limbs in their default configurations. Independent modules are only the size of a large dog, but multiple flexbots can join together for larger mass operations, even taking on heavy-duty tasks such as demolition, excavation, manufacturing, construction, or robotics assembly. Flexbots can also incorporate any robot with Modular Design ware as modules.
@@ -336,6 +361,10 @@ All flexbots have the following stats, plus the stats for their module type:
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Crafter Module
 
 Crafters are engineer modules, specialized in construction and fabrication.
@@ -358,27 +387,7 @@ Crafters are engineer modules, specialized in construction and fabrication.
 
 <!-- CLEANED /blockquote -->
 
-### Fighter Module
-
-These modules are combat-oriented.
-
-<!-- CLEANED blockquote class="indent stat-list" -->
-
-### Fighter Module
-
-- **Cost:** 3&nbsp;MP • **Avail:** 60
-
----
-
-- **WT:** 6 • **DUR:** 30 • **DR:** 60
-- **Insight** 0, **Moxie** 0, **Vigor** 1, **Flex** 0
-
----
-
-- **Ware:** Pneumatics, Weapon Mount (2)
-- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
-
-<!-- CLEANED /blockquote -->
+<!--sort-block-->
 
 ### Rogue Module
 
@@ -402,6 +411,8 @@ Rogues are optimized for stealth and covert activities.
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Wizard Module
 
 Wizard modules specialize in infosec and communications tasks.
@@ -421,5 +432,29 @@ Wizard modules specialize in infosec and communications tasks.
 
 - **Ware:** Radio Booster, Sniffer App, Tracker App
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
+
+<!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
+### Fighter Module
+
+These modules are combat-oriented.
+
+<!-- CLEANED blockquote class="indent stat-list" -->
+
+### Fighter Module
+
+- **Cost:** 3&nbsp;MP • **Avail:** 60
+
+---
+
+- **WT:** 6 • **DUR:** 30 • **DR:** 60
+- **Insight** 0, **Moxie** 0, **Vigor** 1, **Flex** 0
+
+---
+
+- **Ware:** Pneumatics, Weapon Mount (2)
+- **Common Shape Adjustments:** Enhanced Vision, Light Combat Armor, Radar, T-Ray Emitter, and ranged weapons
 
 <!-- CLEANED /blockquote -->

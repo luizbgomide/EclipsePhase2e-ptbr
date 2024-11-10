@@ -3,7 +3,7 @@
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->
 
-**Your character’s factional allegiance determines which faction your character associates with at the start of gameplay. Choose or roll a faction on Table 11.**
+**Your character’s factional allegiance determines which faction your character associates with at the start of gameplay. Choose or roll a faction on the Faction table.**
 
 **You acquire the Know: \[Faction\] Interests 20 skill, as appropriate to the faction. Though not required, you may also want to consider changing one of your motivations to fit this faction’s ideologies and goals. Then move on Step 12. If you end up with no faction or split allegiances, you may apply the 20 Know skill points to a Know skill of your choice (or [roll](24-skill-tables.md#know-fields-d100)).**
 
@@ -22,34 +22,36 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 
 <!-- CLEANED blockquote class="table" -->
 
-## 11.0 Faction \[d100\]
+## Faction ❮d100❯
 
 <!-- CLEANED div class="tnw1" -->
 
-| d100  | Faction       | Know Skill                 | Motivation                                               | Rep                          |
-| :---: | :------------ | :------------------------- | :------------------------------------------------------- | :--------------------------- |
-| 00–05 | Anarchist     | Anarchist Interests 20     | +Anarchism, +Mutual Aid, −Hypercapitalism                | @-rep 40                     |
-| 06–09 | Argonaut      | Argonaut Interests 20      | +Open Source, +Science!, +Scientific Responsibility      | r-rep 40                     |
-| 10–15 | Barsoomian    | Barsoomian Interests 20    | +Martian Liberation, −Hypercorps, −Indenture             | @-rep 20, c-rep 20           |
-| 16–20 | Brinker       | Brinker Interests 20       | +Independence, +Religion, −X-Risks                       | c-rep 40                     |
-| 21–27 | Criminal      | Criminal Interests 20      | +Expand Influence, +Wealth, −Law and Order               | g-rep 40                     |
-| 28–32 | Extropian     | Extropian Interests 20     | +Extropianism, +Independence, +Mutualism                 | @-rep 20, c-rep 20           |
-| 33–44 | Hypercorp     | Hypercorp Interests 20     | +Extrasolar Colonization, +Hypercapitalism, +Security    | c-rep 40                     |
-| 45–50 | Jovian        | Jovian Interests 20        | +Bioconservatism, +Religion, −X-Risks                    | c-rep 40                     |
-| 51–56 | Lunar/Orbital | Lunar/Orbital Interests 20 | +Biochauvinism, +Capitalism, +Reclaim Earth              | c-rep 40                     |
-| 57–60 | Mercurial     | Mercurial Interests 20     | +Autonomy, +Uplift Liberation, −Anthropocentrism         | @-rep 20, c-rep 20           |
-| 61–64 | Reclaimer     | Reclaimer Interests 20     | +Reclaim Earth, +Survival, −TITANs                       | c-rep 40                     |
-| 65–70 | Scum          | Scum Interests 20          | +Hedonism, +Morphological Freedom, +Neurodiversity       | @-rep 20, g-rep 20           |
-| 71–76 | Socialite     | Socialite Interests 20     | +Creative Expression, +Fame, +Hedonism                   | f-rep 40                     |
-| 77–83 | Titanian      | Titanian Interests 20      | +Science!, +Technosocialism, −Hypercapitalism            | @-rep 40                     |
-| 84–90 | Venusian      | Venusian Interests 20      | +Prosperity, +Technoprogressivism, +Venusian Sovereignty | c-rep 30, f-rep 10           |
-| 91–92 | Belter        | Belter Interests 20        | +Hypercapitalism, +Extropianism, +Independence           | c-rep 30, g-rep 10           |
-|  93   | Europan       | Europan Interests 20       | +Independence, +Technoprogressivism, −Bioconservatism    | @-rep 10, c-rep 20, f-rep 10 |
-|  94   | Ringer        | Ringer Interests 20        | +Autonomy, +Creative Expression, +Independence           | @-rep 40                     |
-| 95–96 | Sapient       | Sapient Interests 20       | +Assimilation, +Neurodiversity, +Uplift Rights           | c-rep 40                     |
-|  97   | Sifter        | Sifter Interests 20        | +Survival, +Independence, −Indenture                     | c-rep 40                     |
-|  98   | Skimmer       | Skimmer Interests 20       | +Autonomy, +Independence, +Survival                      | @-rep 20, c-rep 20           |
-|  99   | Solarian      | Solarian Interests 20      | +Autonomy, +Creative Expression, +Independence           | @-rep 10, c-rep 30           |
+<!--sort-->
+
+| d100<!--sort-n00--> | Faction<!--sort-by-->     | Know Skill                 | Motivation                                               | Rep                          |
+| :-----------------: | :------------------------ | :------------------------- | :------------------------------------------------------- | :--------------------------- |
+|        00–05        | Anarchist                 | Anarchist Interests 20     | +Anarchism, +Mutual Aid, −Hypercapitalism                | @-rep 40                     |
+|        06–09        | Argonaut                  | Argonaut Interests 20      | +Open Source, +Science!, +Scientific Responsibility      | r-rep 40                     |
+|        10–15        | Barsoomian                | Barsoomian Interests 20    | +Martian Liberation, −Hypercorps, −Indenture             | @-rep 20, c-rep 20           |
+|        16–20        | Brinker                   | Brinker Interests 20       | +Independence, +Religion, −X-Risks                       | c-rep 40                     |
+|        21–27        | Criminal                  | Criminal Interests 20      | +Expand Influence, +Wealth, −Law and Order               | g-rep 40                     |
+|        28–32        | Extropian                 | Extropian Interests 20     | +Extropianism, +Independence, +Mutualism                 | @-rep 20, c-rep 20           |
+|        33–44        | Hypercorp                 | Hypercorp Interests 20     | +Extrasolar Colonization, +Hypercapitalism, +Security    | c-rep 40                     |
+|        45–50        | Jovian                    | Jovian Interests 20        | +Bioconservatism, +Religion, −X-Risks                    | c-rep 40                     |
+|        51–56        | Lunar/Orbital             | Lunar/Orbital Interests 20 | +Biochauvinism, +Capitalism, +Reclaim Earth              | c-rep 40                     |
+|        57–60        | Mercurial                 | Mercurial Interests 20     | +Autonomy, +Uplift Liberation, −Anthropocentrism         | @-rep 20, c-rep 20           |
+|        61–64        | Reclaimer                 | Reclaimer Interests 20     | +Reclaim Earth, +Survival, −TITANs                       | c-rep 40                     |
+|        65–70        | Scum                      | Scum Interests 20          | +Hedonism, +Morphological Freedom, +Neurodiversity       | @-rep 20, g-rep 20           |
+|        71–76        | Socialite                 | Socialite Interests 20     | +Creative Expression, +Fame, +Hedonism                   | f-rep 40                     |
+|        77–83        | Titanian                  | Titanian Interests 20      | +Science!, +Technosocialism, −Hypercapitalism            | @-rep 40                     |
+|        84–90        | Venusian                  | Venusian Interests 20      | +Prosperity, +Technoprogressivism, +Venusian Sovereignty | c-rep 30, f-rep 10           |
+|        91–92        | <!--sort-restart-->Belter | Belter Interests 20        | +Hypercapitalism, +Extropianism, +Independence           | c-rep 30, g-rep 10           |
+|         93          | Europan                   | Europan Interests 20       | +Independence, +Technoprogressivism, −Bioconservatism    | @-rep 10, c-rep 20, f-rep 10 |
+|         94          | Ringer                    | Ringer Interests 20        | +Autonomy, +Creative Expression, +Independence           | @-rep 40                     |
+|        95–96        | Sapient                   | Sapient Interests 20       | +Assimilation, +Neurodiversity, +Uplift Rights           | c-rep 40                     |
+|         97          | Sifter                    | Sifter Interests 20        | +Survival, +Independence, −Indenture                     | c-rep 40                     |
+|         98          | Skimmer                   | Skimmer Interests 20       | +Autonomy, +Independence, +Survival                      | @-rep 20, c-rep 20           |
+|         99          | Solarian                  | Solarian Interests 20      | +Autonomy, +Creative Expression, +Independence           | @-rep 10, c-rep 30           |
 
 <!-- CLEANED /div -->
 <!-- CLEANED /blockquote -->

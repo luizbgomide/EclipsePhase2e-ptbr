@@ -11,6 +11,8 @@ All flexbot except conjurers have the following stats plus the stats for their m
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
 ### Apiary Module
 
 Apiary modules are carriers for nanoswarm hives.
@@ -193,6 +195,8 @@ Wizard modules specialize in infosec and communications tasks.
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote -->
 

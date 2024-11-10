@@ -6,6 +6,8 @@ The following equipment is ubiquitous throughout the Solar System.
 
 Most morphs include the following augmentations.
 
+<!--sort-->
+
 | STANDARD AUGMENTATIONS | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                             |
 | :--------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |
 | Access Jacks           |    CH     |    Min/1     | External sockets for direct interface with mesh inserts/cyberbrains.    |
@@ -15,6 +17,8 @@ Most morphs include the following augmentations.
 | Mesh Inserts           |    CH     |    Min/1     | Cranial computer, wireless transceiver, muse home, and medical sensors. |
 | Mnemonics              |    CHM    |    Min/1     | Enhanced memory; +20 memory-related COG checks.                         |
 | Puppet Sock            |    CH     |    Mod/2     | Allows morph to be remote controlled.                                   |
+
+<!--sort-->
 
 **Access Jacks:** Usually placed at the base of the skull, this external socket allows a direct neural interface with a cyberbrain or mesh inserts. A retractable fiberoptic cable enables you to plug into devices to access them directly, or to create a direct wired link to another person, allowing you to speak mind-to-mind and exchange data without fear of wireless sniffing. Access jacks are installed with all cyberbrains (and thus all pods and synthmorphs) by default.
 
@@ -26,6 +30,8 @@ Most morphs include the following augmentations.
 
 **Mesh Inserts:** This network of implants is mandatory for people who want to use augmented reality and link wirelessly to the mesh. The various components include:
 
+<!--sort-union-->
+
 - **Cranial Computer:** This host serves as the hub for your personal area network and is home to your muse. It manages your augmented reality input and processes XP data, enabling you to share your sensorium with others in real-time. It is loaded with basic apps and provides all the functions you would expect from a mobile device: file storage, search engine, media player, mesh browser, address book, e-mail, messaging, and so forth.
 - **Medical/Diagnostic Sensors:** This array monitors your health, including heart rate, respiration, blood pressure, temperature, neural activity, ware status, and more. In synthmorphs, this system monitors system reports and error logs, heat, stress faults, and similar hardware statuses.
 - **Radio Transceiver:** This connects your headware with other mesh devices within range (5&nbsp;km urban areas/50&nbsp;km open areas).
@@ -35,30 +41,36 @@ Most morphs include the following augmentations.
 
 **Puppet Sock:** Puppet socks allow a morph to be remotely controlled, just like a drone ([Remote Operations](21-robots.md#remote-operations)). While active, the puppet has no control over their body and is simply along for the ride. Too long in this situation can lead to stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)). Morphs with damage that reaches/exceeds their Durability cannot be puppeted.
 
+<!--sort-end-->
+
 ## Everyday Technology
 
 These devices are easily available in almost all habitats.
 
-| EVERYDAY TECH               | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
-| :-------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
-| Breather                    |    Min/1     | Converts CO2 into oxygen or provides 2 hours of air.                                     |
-| Cold Suit                   |    Min/1     | Protects against −100&nbsp;°C.                                                           |
-| Ecto                        |    Min/1     | External version of mesh inserts, minus the internal medical sensors.                    |
-| Grip Tape                   |    Min/1     | Sticky nanotape used to adhere gear to any surface.                                      |
-| Holographic Projector       |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
-| Micrograv Shoes             |    Min/1     | Shoes with velcro or magnetics to walk in micrograv.                                     |
-| Nuclear Battery             |    Min/1     | Power from radio-isotope decay for years.                                                |
-| Portable Sensor             |    Mod/2     | Portable/wearable sensor system of one type (lidar, radar, x-ray, etc.).                 |
-| Smart Clothing              |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary.          |
-| Solar Charger               |    Min/1     | Portable unit unfolds into solar panels for (re)charging electronics/batteries.          |
-| Specs                       |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
-| Standard Battery            |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
-| Tools (Kit)                 |    Min/1     | Portable, applies to specific skill.                                                     |
-| Tools (Shop)                |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
-| Tools (Facility)            |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
-| Utilitool                   |    Min/1     | All-purpose smart-material tool.                                                         |
-| Viewers                     |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
-| Wireless Energy Transmitter |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
+<!--sort-->
+
+| EVERYDAY TECH                     | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
+| :-------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| Breather                          |    Min/1     | Converts CO2 into oxygen or provides 2 hours of air.                                     |
+| Cold Suit                         |    Min/1     | Protects against −100&nbsp;°C.                                                           |
+| Ecto                              |    Min/1     | External version of mesh inserts, minus the internal medical sensors.                    |
+| Grip Tape                         |    Min/1     | Sticky nanotape used to adhere gear to any surface.                                      |
+| Holographic Projector             |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
+| Micrograv Shoes                   |    Min/1     | Shoes with velcro or magnetics to walk in micrograv.                                     |
+| Nuclear Battery                   |    Min/1     | Power from radio-isotope decay for years.                                                |
+| Portable Sensor                   |    Mod/2     | Portable/wearable sensor system of one type (lidar, radar, x-ray, etc.).                 |
+| Smart Clothing                    |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary.          |
+| Solar Charger                     |    Min/1     | Portable unit unfolds into solar panels for (re)charging electronics/batteries.          |
+| Specs                             |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
+| Standard Battery                  |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
+| Tools (Kit)                       |    Min/1     | Portable, applies to specific skill.                                                     |
+| <!--sort-union-->Tools (Shop)     |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
+| <!--sort-union-->Tools (Facility) |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
+| Utilitool                         |    Min/1     | All-purpose smart-material tool.                                                         |
+| Viewers                           |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
+| Wireless Energy Transmitter       |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
+
+<!--sort-->
 
 **Breather:** Ideal for Mars and exoplanets where you need air but not a full vacsuit, breathers consist of a face masks and a backpack or side pouch unit. It converts carbon dioxide into breathable oxygen indefinitely. For environments without convertible CO2 atmospheres (such as Titan), a small air tank provides 2 hours of breathable air.
 
@@ -91,3 +103,6 @@ These devices are easily available in almost all habitats.
 **Viewers:** Viewers are a long-range version of specs, akin to advanced binoculars. They provide 50x magnification and incorporate a directional microphone that magnifies sound from the direction you are facing by a factor of 50. Viewers are not useful at short ranges.
 
 **Wireless Energy Transmitter:** When plugged into an energy source, this transmitter will transfer power to devices within 20 meters via near-field resonant inductive coupling. These are common in habitat areas, both public and private.
+
+<!--sort-end-->
+

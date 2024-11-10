@@ -2,6 +2,8 @@
 
 This technology has many applications for Firewall agents.
 
+<!--sort-->
+
 | ESPIONAGE GEAR         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                  |
 | :--------------------- | :----------: | :------------------------------------------------------------------------------------------- |
 | Brainprint Scanner     |    Min/1     | Scans brainprint in 5 minutes.                                                               |
@@ -26,6 +28,8 @@ This technology has many applications for Firewall agents.
 | White Noise Machine    |    Min/1     | Masks conversations from being recorded.                                                     |
 | X-Ray Emitter          |    Min/1     | Transmits x-rays for use with enhanced vision.                                               |
 
+<!--sort-->
+
 **Brainprint Scanner:** This portable skullcap extrudes nanoelectrodes into your scalp, then plays media to you via a visor and ear plugs. It takes 5 minutes to scan your brainprint, which can be authenticated against a database entry.
 
 **Bugzapper Strips:** You can install these reusable strips around doorways and other portals up to 2 meters across. They create an EMP field that inflicts DV 3d10 on any nanoswarms or microbots (including swarmanoids) that pass through ([Bug Zappers](../18/03-security-systems.md#bug-zappers)). Includes 20 meters of strips (enough for 3 standard doorways).
@@ -34,9 +38,15 @@ This technology has many applications for Firewall agents.
 
 **Covert Operations Tool (COT):** This handheld device is the ultimate in infiltration technology. It contains smart matter micromanipulators, cutting tools, and an advanced nanotechnology generator capable of producing nanobots that can bore or cut through almost any material and infiltrate the inner workings of electronic locks to disable or open them.
 
+<!--sort-union-->
+
 Cutting out a lock/bolt or boring a 10-centimeter-diameter hole in a wall with a COT requires (Wound Threshold ÷ 5) action turns. The COT’s nanobots can repair this damage so that it is invisible to any but the most careful and detailed examination. Cutting out a larger, 1-meter diameter hole in a wall requires (Wound Threshold ÷ 10) minutes and cannot be repaired.
 
+<!--sort-union-->
+
 A COT can easily open any old-fashioned mechanical lock simply by analyzing it and shaping an appropriate key, though this takes a full action turn.
+
+<!--sort-union-->
 
 The tool’s nanobots can also circumvent the security of electronic locks. Make a test using the COT’s Hardware: Electronics 60. This is a task action with a timeframe of 4 action turns, whether opening or disabling the lock. On a superior/critical failure, an alarm is triggered. On a critical success, the opening is not logged. If the electronic lock is protected by a guardian nanoswarm, the COT has a 60% chance of opening the lock before its nanobots are disabled.
 
@@ -73,3 +83,6 @@ The tool’s nanobots can also circumvent the security of electronic locks. Make
 **White Noise Machine:** This small and wearable device generates masking sounds that protect a conversation from being audibly recorded or overheard by anyone not in the immediate vicinity.
 
 **X-Ray Emitter:** This small device emits a focused beam of low-powered x-rays, designed to be used with enhanced vision augmentation, specs, or similar vision enhancers. It allows you to image objects via x-rays and see through walls, into containers, and through objects by measuring backscatter x-ray radiation ([Senses and Sensors](07-senses-and-sensors.md)).
+
+<!--sort-end-->
+

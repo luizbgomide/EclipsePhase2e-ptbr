@@ -2,6 +2,8 @@
 
 Armor modifications add extra materials or coatings that either enhance resistance to certain dangers or provide other effects. Listings are for temporary coatings, which can be applied to clothing, armor, or even directly to a morph’s skin or shell with a spray-on nanobot applicator, are easily removed, and last 1 day. Permanent coatings require a [specialized hive](../16/19-nanotech.md#hives). With the exception of chameleon coating, armor mods are visible and easily identified. Only one mod can be applied at a time.
 
+<!--sort-->
+
 | ARMOR MODS          | Energy | Kinetic | Comp/<!-- CLEANED wbr -->GP | Description                                                                              |
 | :------------------ | :----: | :-----: | :----------: | :--------------------------------------------------------------------------------------- |
 | Ablative            |   +4   |   +0    |    Min/1     | 5 uses. Hive restores 1 use per hour.                                                    |
@@ -16,6 +18,8 @@ Armor modifications add extra materials or coatings that either enhance resistan
 | Refractive Glazing  |   +3   |   +0    |    Min/1     |                                                                                          |
 | Self-Healing        |   +0   |   +0    |    Min/1     | Repairs 1d10 damage to armor per hour.                                                   |
 | Shock Proof         |   +0   |   +0    |    Min/1     | +20 to SOM Checks vs. shock.                                                             |
+
+<!--sort-->
 
 **Ablative:** This coating absorbs heat and energy from beams and explosions, safely vaporizing and blowing hot gas away. Ablative patches increase the Armor Value by +4/+0, but each hit reduces the value of the ablative armor by 1 (a specialized hive repairs this at the rate of 1 point per hour).
 
@@ -40,3 +44,6 @@ Armor modifications add extra materials or coatings that either enhance resistan
 **Self-Healing:** This mod can only be applied to armor. When activated, it repairs the armor at a rate of 1d10 per hour.
 
 **Shock Proof:** Shock proof mods are electronically insulated to discharge and reduce the effect of shock weapons. Apply a +20 modifier to SOM Checks made to resist shock effects.
+
+<!--sort-end-->
+

@@ -205,6 +205,8 @@ The ALI that came with a bot or vehicle is typically deactivated and stored whil
 
 Use the following MP for the bots and vehicles listed in _EP2_. These costs assume the axle has a cyberbrain, cortical stack, Exotic Morphology (Level 3) trait, and Lack of Smell trait. Axles with an asterisk (*) also have the Lack of Manipulators trait.
 
+<!--sort-->
+
 | Bot/Vehicle         |  MP   |
 | :------------------ | :---: |
 | Aerostat*           |   0   |

@@ -62,6 +62,8 @@ When a system is on active alert, all intruders suffer a −10 modifier to Infos
 
 Passive countermeasures are launched as a precaution whenever there is unusual activity or other signs that there may be an intruder or malware at work. Some of these countermeasures are automatically triggered by the system or firewall whenever a passive or active alert is initiated.
 
+<!--sort-->
+
 ### Backup
 
 **\[Automatic\]**
@@ -90,9 +92,13 @@ System firewalls can be set to automatically re-authenticate all active users wh
 
 As a protective measure, the system temporarily reduces access privileges available to standard users — and sometimes security accounts as well. This means that legitimate users may be unable to perform certain functions, use some apps/services, or access certain directories without authorization from an admin account.
 
+<!--sort-end-->
+
 ## Active Countermeasures
 
 Active countermeasures are initiated when an intruder is fully detected (spotted status). Systems/firewalls can be set to immediately trigger automatic countermeasures; others may be pursued at the defender’s discretion.
+
+<!--sort-->
 
 ### Counter-intrusion
 
@@ -123,6 +129,8 @@ An alternative to shutdown or rebooting is simply to sever all connections (usua
 **\[Automatic\]**
 
 Defenders can initiate a trace on a spotted intruder. Most hackers are careful to use an anonymizing service to mask their mesh ID and location, but this is not always the case. If an intruder is physically located, the standard procedure is to alert habitat security or other local or private police, who will mobilize to apprehend the suspect.
+
+<!--sort-end-->
 
 ## Security Audits
 

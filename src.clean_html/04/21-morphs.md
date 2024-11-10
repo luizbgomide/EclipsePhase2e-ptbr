@@ -15,7 +15,8 @@ The morphs here represent a fraction of the sleeves and shells available to char
 
 ### Morph List
 
-<!--order-->
+<!--sort-->
+
 | Morph                                                                             | Type       |    Cost    |
 | :-------------------------------------------------------------------------------- | :--------- | :--------: |
 | [Agent](26-infomorphs.md#agent)                                                   | Infomorph  | 2&nbsp;MP  |

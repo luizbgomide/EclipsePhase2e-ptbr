@@ -52,22 +52,24 @@ Software (except for account shells) may still be attacked after it has crashed.
 
 ### Mesh Durability
 
-| Software                                 | Wound Threshold | Durability | Death Rating |
-| :--------------------------------------- | :-------------: | :--------: | :----------: |
-| Account Shell                            |        3        |     15     |      NA      |
-| ALI                                      |        4        |     20     |      40      |
-| App                                      |        2        |     10     |      20      |
-| <!-- CLEANED div class="indent" -->» Firewall App<!-- CLEANED /div --> |        6        |     30     |      60      |
-| Cyberbrain                               |        7        |     35     |      70      |
-| Infomorph                                |                 |            |              |
-| <!-- CLEANED div class="indent" -->» Digimorph<!-- CLEANED /div -->    |        5        |     25     |      50      |
-| <!-- CLEANED div class="indent" -->» Agent<!-- CLEANED /div -->        |        8        |     40     |      80      |
-| <!-- CLEANED div class="indent" -->» Ikon<!-- CLEANED /div -->         |        6        |     30     |      60      |
-| <!-- CLEANED div class="indent" -->» Operator<!-- CLEANED /div -->     |        7        |     35     |      70      |
-| Operating System                         |                 |            |              |
-| <!-- CLEANED div class="indent" -->» Mote<!-- CLEANED /div -->         |        4        |     20     |      40      |
-| <!-- CLEANED div class="indent" -->» Host<!-- CLEANED /div -->         |        8        |     40     |      80      |
-| <!-- CLEANED div class="indent" -->» Server<!-- CLEANED /div -->       |       12        |     60     |     120      |
+<!--sort-->
+
+| Software                                              | Wound Threshold | Durability | Death Rating |
+| :---------------------------------------------------- | :-------------: | :--------: | :----------: |
+| Account Shell                                         |        3        |     15     |      NA      |
+| ALI                                                   |        4        |     20     |      40      |
+| App                                                   |        2        |     10     |      20      |
+| <!--sort-union--><p class="indent">» Firewall App</p> |        6        |     30     |      60      |
+| Cyberbrain                                            |        7        |     35     |      70      |
+| Infomorph                                             |                 |            |              |
+| <!--sort-union--><p class="indent">» Digimorph</p>    |        5        |     25     |      50      |
+| <!--sort-union--><p class="indent">» Agent</p>        |        8        |     40     |      80      |
+| <!--sort-union--><p class="indent">» Ikon</p>         |        6        |     30     |      60      |
+| <!--sort-union--><p class="indent">» Operator</p>     |        7        |     35     |      70      |
+| Operating System                                      |                 |            |              |
+| <!--sort-union--><p class="indent">» Mote</p>         |        4        |     20     |      40      |
+| <!--sort-union--><p class="indent">» Host</p>         |        8        |     40     |      80      |
+| <!--sort-union--><p class="indent">» Server</p>       |       12        |     60     |     120      |
 
 <!-- CLEANED /blockquote -->
 

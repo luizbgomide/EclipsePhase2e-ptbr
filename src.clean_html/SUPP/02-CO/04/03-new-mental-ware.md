@@ -1,5 +1,7 @@
 # New Mental Ware
 
+<!--sort-->
+
 | MENTAL WARE         | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                                    |
 | :------------------ | :-------: | :----------: | :--------------------------------------------------------------------------------------------- |
 | Asymmetric Sleep    |    BM     |    Min/1     | Remain vigilant, maintain position while sleeping.                                             |
@@ -15,6 +17,8 @@
 | Optogenetics Module |     C     |    Min/1     | Trigger one pre-specified neural function.                                                     |
 | Possum Cache        |    CH     |    Min/1     | Cyberbrain/ghostrider/mesh functions after hibernation/death.                                  |
 | Stabilizer          |     M     |    Mod/2     | Heal 1 stress per day.                                                                         |
+
+<!--sort-->
 
 ### Asymmetric Sleep
 
@@ -74,6 +78,8 @@ This mod is available to morphs with multi-tasking ware. You can either focus yo
 
 This implant is designed to be used in biomorphs like the [freeman](../03/01-biomorphs.md#freeman) that are genetically modified to make their neurons sensitive to light. This module establishes a network within the brain to manipulate these neurons with selective pulses of light. Whomever controls the optogenetics module (usually a monitor ALI or meshed overseer) can trigger a specific set of neuronal activity. Each module can trigger one effect from the options below (chosen when installed).
 
+<!--sort-->
+
 **Knockout:** The module triggers unconsciousness in the target ego. The target can resist with a WIL Check at −30 to resist; if successful they are immune to this module function for 1 hour.
 
 **Modified Behavior:** The module compels or restricts one specific behavior in the same manner as either the [Enhanced Behavior](../../../04/28-traits.md#enhanced-behavior) or [Restricted Behavior traits](../../../04/28-traits.md#restricted-behavior) (_EP2_) at Level 2.
@@ -81,6 +87,8 @@ This implant is designed to be used in biomorphs like the [freeman](../03/01-bio
 **Sensory Modification:** The modules impedes, cuts off, or modifies one specific source of sensory input. For example, the ego can be made blind, unable to hear specific frequencies, or fed tailored sensory input. Treat as the [Modify Sensory Input mindware hacking technique](../../../13/17-mindware-hacking.md#modify-sensory-input-cyberbrain) (_EP2_).
 
 **Tasping:** The module triggers the brain’s pleasure centers, in the same manner as [tasping psychosurgery](../../../15/06-psychosurgery-procedures.md#tasping) (_EP2_).
+
+<!--sort-end-->
 
 Multiple modules can be installed within a morph. Installation of this module includes the genetic modification to make the targeted neurons sensitive to light.
 
@@ -95,3 +103,5 @@ Egos that are active via possum cache do not have access to any of the morph’s
 ### Stabilizer
 
 Your digital mind-state is constantly monitored, analyzed, and adjusted with error-correction routines. You automatically heal 1 point of stress per day. If you benefit from psychosurgery or another effect that reduces stress, you do not receive the bonus that day. This meshware has no effect on trauma or disorders.
+
+<!--sort-end-->

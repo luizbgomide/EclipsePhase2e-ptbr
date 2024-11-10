@@ -2,6 +2,8 @@
 
 The TITANs deployed numerous minions and deadly machines during the Fall, many of which remain and are still hostile.
 
+<!--sort-->
+
 ## Fetch
 
 <!-- CLEANED div class="stat-list" -->
@@ -349,3 +351,6 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 - **Shockwave Shield:** Warbots can calculate the impact point of an explosive projectile or shockwave and create a temporary superheated pocket of air with a laser-generated electric arc that will absorb the blast. This provides 20 points of energy armor against blast effects, including seekers and grenades. This is only effective against attacks the warbot has spotted, and may only be used against one attack per action turn. This shockwave shield has 20 uses before it must be recharged, which takes 2 hours.
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+
