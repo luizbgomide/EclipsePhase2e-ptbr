@@ -64,7 +64,6 @@ Arachnikoma’s are vehicle-sized arachnoids, with a hinged-top capsule/compartm
 
 ![Biocore](PNG/biocore.png)
 
-
 The biocore is a synthmorph with a biological brain. This design is favored by those who wish to enjoy the advantages of sleeving in a synthmorph without the risk of brainhacking or who simply dislike the idea of using a cyberbrain. It is popular with asyncs, as they retain their psi abilities. Some models feature a stylized but transparent braincase, to show off the biocore’s main feature, but others appear to be ordinary synthmorphs from the outside; only a detailed physical examination can determine that it actually contains a living brain.
 
 <blockquote class="indent stat-list">

@@ -151,13 +151,13 @@ function resortContent(lines) {
         let line = lines.shift();
         const emptyLine = line.trim() === "";
         if (line.includes(sortEndTag) || line.includes(sortRestartTag) || (emptyLine && (delimiter === "|" || delimiter === "-"))) {
-            // if sorting by block, title or text, make sure the last line of each block is empty
-            // if (delimiter === "" || delimiter.startsWith("#")) {
-            //     unsortedBlocks.forEach(block => {
-            //         if (block[block.length - 1].trim() !== "")
-            //             block.push("");
-            //     });
-            // }
+            //if sorting by block, title or text, make sure the last line of each block is empty
+            if (delimiter === "" || delimiter.startsWith("#")) {
+                unsortedBlocks.forEach(block => {
+                    if (block[block.length - 1].trim() !== "")
+                        block.push("");
+                });
+            }
             const fixedBlocks = fixedBlockIndexes.map(blockIndex => unsortedBlocks[blockIndex]);
             unsortedBlocks = unsortedBlocks.filter((_, index) => !fixedBlockIndexes.includes(index));
             if (sortBlockMode) {
@@ -255,7 +255,12 @@ function resortContent(lines) {
 
             result.push(...sortedLines);
             if (!line.includes(sortRestartTag)) {
-                result.push(line);
+                // if it was the end of a table, give the line back to the source block
+                if (emptyLine) {
+                    lines.unshift(line);
+                } else {
+                    result.push(line);
+                }
                 ended = true;
                 break;
             }
