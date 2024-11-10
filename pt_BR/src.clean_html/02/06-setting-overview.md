@@ -44,7 +44,8 @@ Os cinco portões conhecidos dentro do Sistema Solar são disputados e rigidamen
 
 Os transumanos conquistam a segurança dos perigos do espaço com esses tipos comuns de habitats ([Habitats](../07/06-habitats.md)).
 
-<!--order-->
+<!--sort-->
+
 - **Aeróstatos** flutuam como balões em atmosferas densas; eles são comuns em Vênus e Urano.
 - **Batiscafos** são habitats subaquáticos amarrados à superfície terrestre ou de gelo. Eles são usados em Europa, Ceres e outros mares subterrâneos.
 - **Formigueiros** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
