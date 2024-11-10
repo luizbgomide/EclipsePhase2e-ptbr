@@ -17,7 +17,7 @@ Algumas vezes você é pego desprevinido e deve usar o que estiver a mão — ou
 | Robô (Muito Pequeno) |      1d6 + 1 \[5\]      |              | Ocultável            |
 | Pedra                |      1d6 + 2 \[6\]      |     Men      | Ocultável            |
 | Navalha              |     1d10 − 1 \[5\]      |     Men      | Ocultável            |
-| Sintemorfo (Pequeno) |        1d6 \[4\]        |              |                      |
 | Sintemorfo (Médio)   |        2d6 \[7\]        |              | Derrubada, Duas Mãos |
+| Sintemorfo (Pequeno) |        1d6 \[4\]        |              |                      |
 | Utiliferramenta      |       1d10 \[6\]        |              |                      |
 | Chave Inglesa        |       1d10 \[6\]        |     Men      |                      |
