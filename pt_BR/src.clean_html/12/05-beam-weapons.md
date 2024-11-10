@@ -4,22 +4,26 @@ A maioria das armas de energia coerente são utilizadas para fins menos letais, 
 
 Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear](../16/05-common-tech-and-ware.md#everyday-technology). A bateria comum alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria comum completamente em 4 horas. Baterias comuns podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
 
-| ARMAS DE FEIXE                   | Tipo de Ware | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<!-- CLEANED wbr -->PE | Notas                                                         |
-|:-------------------------------- |:------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |
-| Laser de Batalha                 |      —       |     3d10 +4 \[21\]      |     SA/DR/TA     |   50    |   150   |                Mai/R/3                | Fixa, Longa                                                   |
-| Laser de Mão                     |      CH      |    1d10 + 1d6 \[9\]     |        SA        |   10    |   75    |                Mod/R/2                | Ocultável                                                     |
-| Pulsador Laser (Letal)           |      —       |     2d10 + 2 \[13\]     |     SA/DR/TA     |   30    |   100   |                Mod/R/2                | Derrubada, Duas Mãos, Longa                                   |
-| Pulsador Laser (Atordoante)      |      —       |        1d6 \[4\]        |        TU        |         |         |                                       | Área de Efeito (uniforme, 1&nbsp;m), Choque, Duas Mãos, Longa |
-| Agonizador MO (Dor)              |      —       |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
-| Agonizador MO (Torradeira)       |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Dor (apenas biomorfos), Perfura-Armadura                      |
-| Lançador de Feixes de Partículas |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
-| Atordoador                       |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
+<!--sort-->
+
+| ARMAS DE FEIXE                                         | Tipo de Ware | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<!-- CLEANED wbr -->PE | Notas                                                         |
+|:------------------------------------------------------ |:------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |
+| Laser de Batalha                                       |      —       |     3d10 +4 \[21\]      |     SA/DR/TA     |   50    |   150   |                Mai/R/3                | Fixa, Longa                                                   |
+| Laser de Mão                                           |      CH      |    1d10 + 1d6 \[9\]     |        SA        |   10    |   75    |                Mod/R/2                | Ocultável                                                     |
+| Pulsador Laser (Letal)                                 |      —       |     2d10 + 2 \[13\]     |     SA/DR/TA     |   30    |   100   |                Mod/R/2                | Derrubada, Duas Mãos, Longa                                   |
+| <!--sort-union-->Pulsador Laser (Atordoante) |      —       |        1d6 \[4\]        |        TU        |         |         |                                       | Área de Efeito (uniforme, 1&nbsp;m), Choque, Duas Mãos, Longa |
+| Agonizador MO (Dor)                                    |      —       |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
+| <!--sort-union-->Agonizador MO (Torradeira)  |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Dor (apenas biomorfos), Perfura-Armadura                      |
+| Lançador de Feixes de Partículas                       |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
+| Atordoador                                             |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
 
 ## Wares de Armas de Feixe
 
 **Laser de Mão:** O morfo tem uma arma laser implantada em seu antebraço, com um guia de onda flexível chegando até uma lente localizada entre os dois primeiros nós da mão dominante do morfo. As baterias do laser são implantadas e não são trocadas facilmente em biomorfos.
 
 ## Armas de Feixe
+
+<!--sort-->
 
 **Laser de Batalha:** Esse pulsador laser pesado geralmente é instalado em um suporte e usado como apoio no campo de batalha, disparando feixes mais poderosos do que o pulsador laser padrão.
 
@@ -31,9 +35,13 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 
 **Atordoador:** O atordoador é um eletrolaser que cria um canal de plasma eletricamente condutivo para transmitir uma poderosa corrente elétrica, chocando o alvo. Atordoadores não funcionam no vácuo.
 
+<!--sort-end-->
+
 ## Regras de Armas de Feixes
 
 As seguintes regras se aplicam apenas às armas de feixe.
+
+<!--sort-->
 
 ### Cegueira Laser
 
@@ -42,3 +50,6 @@ Apesar dos feixes do pulsador laser não aparecerem no espectro visível, eles p
 ### Disparo em Varredura
 
 Quando você erra com um ataque de feixe, você ainda pode usar esse feixe desviado para “localizar” o alvo. Se você fizer outro ataque contra o mesmo alvo na sua próxima ação, conte o ataque falhado como uma ação de pontaria (+10 para acertar). Como a maioria das armas de feixe são invisíveis à visão normal, você deve ter aprimoramentos de visão que permitam que você veja o feixe na atmosfera ou estar em mesh com a RA de mira entóptica da arma.
+
+<!--sort-end-->
+
