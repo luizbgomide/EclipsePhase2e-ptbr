@@ -6,6 +6,8 @@ Sempre que você tentar fazer algo que seus [privilégios de acesso](05-authenti
 
 Além de exceder seus privilégios, há algumas técnicas que são explicitamente subversivas. Uma amostra de subversões comuns estão descritas abaixo; os MJs devem usá-las como orientação para julgar outras.
 
+<!--sort-->
+
 ## Quebrar Criptografia
 
 Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](05-authentication-and-encryption.md#codebreaking)).
@@ -99,6 +101,8 @@ Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuár
 Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
 
 Os dados sensoriais também podem ser gravados ou transmitidos como XP.
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote -->
 
