@@ -2,6 +2,8 @@
 
 Modificações de armaduras adicionam materiais ou revestimentos extras que melhoram a resistência a certos perigos ou fornecem outros efeitos. As listagens são para revestimentos temporários, que podem ser aplicados a vestuários, armaduras ou até mesmo diretamente na pele ou carcaça do morfo com um aplicador nanobot em spray, eles são facilmente removidos e duram 1 dia. Revestimentos permanentes requerem uma [colmeia especializada](../16/19-nanotech.md#hives). Com a exceção do revestimento camaleão, os mods de armadura são visíveis e facilmente identificados. Apenas um mod pode ser aplicado por vez.
 
+<!--sort-->
+
 | MODS DE ARMADURAS                              | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                              |
 |:---------------------------------------------- |:----------:|:--------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------ |
 | Ablativo                                       |     +4     |    +0    |                 Men/1                 | 5 usos. Colmeia restaura 1 uso por hora.                                                               |
@@ -16,6 +18,8 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 | Esmalte Refrativo                              |     +3     |    +0    |                 Men/1                 |                                                                                                        |
 | Autorreparação                                 |     +0     |    +0    |                 Men/1                 | Repara 1d10 de dano à armadura por hora.                                                               |
 | Antichoques                                    |     +0     |    +0    |                 Men/1                 | +20 em Provas de SOM vs. choque.                                                                       |
+
+<!--sort-->
 
 **Ablativo:** Esse revestimento absorve o calor e energia de feixes e explosões, vaporizando e expelindo gases quentes com segurança. As áreas ablativas aumentam o Valor de Armadura em +4/+0, mas cada golpe reduz o valor da armadura ablativa em 1 (uma colmeia especializada repara isso à taxa de 1 ponto por hora).
 
@@ -40,3 +44,6 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 **Autorreparação:** Esse mod só pode ser aplicado em armaduras. Quando ativado, ele repara a armadura a uma taxa de 1d10 por hora.
 
 **Antichoques:** Mods antichoques têm isolação eletrônica contra descargas e reduzem o efeito de armas de choque. Aplique um modificador +20 em Provas de SOM para resistir a efeitos de choque.
+
+<!--sort-end-->
+
