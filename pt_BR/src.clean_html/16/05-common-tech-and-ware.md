@@ -6,6 +6,8 @@ Os seguintes equipamentos são ubíquos em todo o Sistema Solar.
 
 A maioria dos morfos inclui as seguintes ampliações.
 
+<!--sort-->
+
 | AMPLIAÇÕES COMUNS | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                      |
 |:----------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------ |
 | Soquete de Acesso |      CH      |                 Men/1                 | Soquetes externos para interface direta com insertos da mesh/cibercérebros.    |
@@ -15,6 +17,8 @@ A maioria dos morfos inclui as seguintes ampliações.
 | Insertos da Mesh  |      CH      |                 Men/1                 | Computador cranial, transceptor sem fio, habitação da musa e sensores médicos. |
 | Mnemônicos        |     CHM      |                 Men/1                 | Memória aprimorada; +20 em Provas de COG relacionadas à memória.               |
 | Manípulo Fantoche |      CH      |                 Mod/2                 | Permite que o morfo seja controlado remotamente.                               |
+
+<!--sort-->
 
 **Soquetes de Acesso:** Geralmente colocados na base do crânio, esse soquete externo permite uma interface neural direta com um cibercérebro ou insertos da mesh. Um cabo de fibra óptica retrátil permite que você plugue em dispositivos para acessá-los diretamente, ou para criar uma ligação cabeada direta com outra pessoa, permitindo que você fale mente a mente e troquem dados sem receio de farejamento sem fio. Os soquetes de acesso são instalados com todos os cibercérebros (e portanto todos os prods e sintemorfos) por padrão.
 
@@ -26,6 +30,8 @@ A maioria dos morfos inclui as seguintes ampliações.
 
 **Insertos da Mesh:** Essa rede de implantes é obrigatória para as pessoas que queiram usar realidade aumentada e ligar-se sem fio com a mesh. Os vários componentes incluem:
 
+<!--sort-union-->
+
 - **Computador Cranial:** Esse terminal serve como central para a sua rede de área pessoal e é a habitação da sua musa. Ele gerencia sua entrada de realidade aumentada e processa dados de XP, permitindo que você compartilhe seu sensório com os outros em tempo real. Ele está carregado com apps básicos e fornece todas as funções que você esperaria de um dispositivo móvel: armazenamento de arquivos, sistema de busca, tocador de mídia, navegador da mesh, livro de endereços, e-mail, mensagens, e assim por diante.
 - **Sensores Médicos/Diagnósticos:** Esse conjunto monitora a sua saúde, incluindo frequência cardíaca, respiração, pressão arterial, temperatura, atividade neural, status dos wares e muito mais. Em sintemorfos, esse sistema monitora relatórios do sistema e logs de erros, aquecimento, falhas por desgaste, e status semelhantes de aparelhagem.
 - **Transceptor de Rádio:** Isso conecta seu ware mental com outros dispositivos da mesh dentro do alcance (5&nbsp;km em áreas urbanas/50&nbsp;km em áreas abertas).
@@ -35,30 +41,36 @@ A maioria dos morfos inclui as seguintes ampliações.
 
 **Manípulo Fantoche:** O manípulo fantoche permitem que um morfo seja remotamente controlado, assim com um drone ([Operações Remotas](21-robots.md#remote-operations)). Enquanto ativo, o fantoche não tem controle sobre seu corpo e simplesmente vai como carona. Ficar muito tempo nessa situação pode levar ao estresse de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)). Morfos com danos que atinjam/excedam sua Durabilidade não podem ser manipulados como fantoches.
 
+<!--sort-end-->
+
 ## Tecnologia Cotidiana
 
 Estes dispositivos são facilmente encontrados em quase todos os habitats.
 
-| TECNOLOGIA COTIDIANA           | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                 |
-|:------------------------------ |:-------------------------------------:|:--------------------------------------------------------------------------------------------------------- |
-| Respirador                     |                 Men/1                 | Converte CO<sub>2</sub> em oxigênio ou fornece 2 horas de ar.                                             |
-| Traje Frio                     |                 Men/1                 | Protege contra −100&nbsp;°C.                                                                              |
-| Ecto                           |                 Men/1                 | Versão externa de insertos da mesh, menos os sensores médicos internos.                                   |
-| Fita Aderente                  |                 Men/1                 | Nanofita adesiva usada para aderir equipamentos a qualquer superfície.                                    |
-| Projetor Holográfico           |                 Men/1                 | Projeta imagens/vídeos 3D ultrarrealistas em HD. +20 em Percepção para notar que é falso a até 20&nbsp;m. |
-| Sapatos de Microgravidade      |                 Men/1                 | Sapatos com velcro ou magnéticos para andar em microgravidade.                                            |
-| Bateria Nuclear                |                 Men/1                 | Energia do decaimento de radioisótopos por anos.                                                          |
-| Sensor Portátil                |                 Mod/2                 | Sistema de sensor portátil/vestível de um tipo (lidar, radar, raio X, etc.).                              |
-| Vestuário Inteligente          |                 Men/1                 | Pode alterar as cores, texturas e modelo. +10 em Infiltração, +30 se estiver coberto e parado.            |
-| Carregador Solar               |                 Men/1                 | Unidade portátil se desdobra em painéis solares para (re)carregar eletrônicos/baterias.                   |
-| Visor                          |                 Mod/2                 | Óculos/máscara que fornece visão aprimorada. +10 em Percepção.                                            |
-| Bateria Comum                  |                 Men/1                 | Recarregável, funciona por centenas de horas.                                                             |
-| Ferramentas (Kit)              |                 Men/1                 | Portátil, aplicável à perícia específica.                                                                 |
-| Ferramentas (Oficina)          |                 Mod/2                 | Cabe em um veículo grande, aplicável à perícia específica.                                                |
-| Ferramentas (Instalação)       |                 Mai/3                 | Não móvel, aplicável à perícia específica.                                                                |
-| Utiliferramenta                |                 Men/1                 | Ferramenta de uso geral de materiais inteligentes.                                                        |
-| Visualizador                   |                 Mod/2                 | Versão de longo alcance do visor. Ampliação de 50x, microfone direcional. +10 em Percepção.               |
-| Transmissor de Energia Sem Fio |                 Men/1                 | Carregue dispositivos a até 20&nbsp;m.                                                                    |
+<!--sort-->
+
+| TECNOLOGIA COTIDIANA                                | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                 |
+|:--------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------------------------- |
+| Respirador                                          |                 Men/1                 | Converte CO<sub>2</sub> em oxigênio ou fornece 2 horas de ar.                                             |
+| Traje Frio                                          |                 Men/1                 | Protege contra −100&nbsp;°C.                                                                              |
+| Ecto                                                |                 Men/1                 | Versão externa de insertos da mesh, menos os sensores médicos internos.                                   |
+| Fita Aderente                                       |                 Men/1                 | Nanofita adesiva usada para aderir equipamentos a qualquer superfície.                                    |
+| Projetor Holográfico                                |                 Men/1                 | Projeta imagens/vídeos 3D ultrarrealistas em HD. +20 em Percepção para notar que é falso a até 20&nbsp;m. |
+| Sapatos de Microgravidade                           |                 Men/1                 | Sapatos com velcro ou magnéticos para andar em microgravidade.                                            |
+| Bateria Nuclear                                     |                 Men/1                 | Energia do decaimento de radioisótopos por anos.                                                          |
+| Sensor Portátil                                     |                 Mod/2                 | Sistema de sensor portátil/vestível de um tipo (lidar, radar, raio X, etc.).                              |
+| Vestuário Inteligente                               |                 Men/1                 | Pode alterar as cores, texturas e modelo. +10 em Infiltração, +30 se estiver coberto e parado.            |
+| Carregador Solar                                    |                 Men/1                 | Unidade portátil se desdobra em painéis solares para (re)carregar eletrônicos/baterias.                   |
+| Visor                                               |                 Mod/2                 | Óculos/máscara que fornece visão aprimorada. +10 em Percepção.                                            |
+| Bateria Comum                                       |                 Men/1                 | Recarregável, funciona por centenas de horas.                                                             |
+| Ferramentas (Kit)                                   |                 Men/1                 | Portátil, aplicável à perícia específica.                                                                 |
+| <!--sort-union-->Ferramentas (Oficina)    |                 Mod/2                 | Cabe em um veículo grande, aplicável à perícia específica.                                                |
+| <!--sort-union-->Ferramentas (Instalação) |                 Mai/3                 | Não móvel, aplicável à perícia específica.                                                                |
+| Utiliferramenta                                     |                 Men/1                 | Ferramenta de uso geral de materiais inteligentes.                                                        |
+| Visualizador                                        |                 Mod/2                 | Versão de longo alcance do visor. Ampliação de 50x, microfone direcional. +10 em Percepção.               |
+| Transmissor de Energia Sem Fio                      |                 Men/1                 | Carregue dispositivos a até 20&nbsp;m.                                                                    |
+
+<!--sort-->
 
 **Respirador:** Ideais para Marte e exoplanetas onde você precisa de ar, mas não um traje de vácuo completo, os respiradores consistem de uma máscara facial e uma mochila ou unidade de bolsa lateral. Ele converte dióxido de carbono em oxigênio respirável indefinidamente. Para ambientes com atmosferas sem CO<sub>2</sub> convertível (como Titã), um pequeno tanque de ar fornece 2 horas de ar respirável.
 
@@ -91,3 +103,6 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 **Visualizador:** Visualizadores são a versão de longa distância dos visores, parecidos com binóculos avançados. Eles fornecem ampliação de 50x e incorporam um microfone direcional que amplifica o som da direção que você está apontando por um fator de 50. Visualizadores não são úteis a curtas distâncias.
 
 **Transmissor de Energia Sem Fio:** Quando plugado em uma fonte de energia, esse transmissor transferirá energia para dispositivos a até 20 metros via acoplamento indutivo ressonante de campo próximo. Eles são comuns nas áreas de habitats, públicas e privadas.
+
+<!--sort-end-->
+
