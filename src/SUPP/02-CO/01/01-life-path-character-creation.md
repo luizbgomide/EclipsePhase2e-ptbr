@@ -92,76 +92,76 @@ You should never have more than 3 motivations; if you want to add a new one, you
 
 <!--sort-->
 
-| Roll<!--sort-n00--> |            Motivation<!--sort-by-->             |
-| :--------------: | :----------------------------------------: |
-|        00        |          Acceptance/Assimilation           |
-|      01–02       |          Adventure/Thrill-Seeking          |
-|      03–04       |               AGI Personhood               |
-|        05        |               Alien Contact                |
-|      06–07       |            Anarchism/Autonomism            |
-|        08        |                 Asceticism                 |
-|      09–10       |           Autonomy/Independence            |
-|      11–12       |       Biochauvinism/Bioconservatism        |
-|        13        |         \[Create/Preserve\] Legacy         |
-|      14–15       |            Creative Expression             |
-|        16        |           Discover \[Past/Self\]           |
-|      17–18       |             DIY/Self-Reliance              |
-|        19        |                 Education                  |
-|        20        |                   Escape                   |
-|      21–22       |              Expand Influence              |
-|      23–24       |                Exploration                 |
-|        25        |           Exoplanet Colonization           |
-|      26–27       |           \[Faction\] Interests            |
-|      28–29       |              Fame/Recognition              |
-|        30        |                   Family                   |
-|      31–32       |   Find a \[Home/Purpose/Tribe/Partner\]    |
-|        33        |                Forget Past                 |
-|        34        |                Friendly ASI                |
-|      35–36       |             Happiness/Serenity             |
-|        37        |                 Hard Work                  |
-|      38–39       |               Hedonism/Vice                |
-|      40–41       |           \[Help/Serve\] Others            |
-|        42        |              Hypercapitalism               |
-|        43        |                Immortality                 |
-|        44        |              Indenture Rights              |
-|        45        |               Individualism                |
-|        46        |               Law and Order                |
-|      47–48       |              Leadership/Power              |
-|        49        | Locate Lost \[Friend/Item/Lover/Relative\] |
-|      50–51       |             Martian Liberation             |
-|        52        |           Morphological Freedom            |
-|      53–54       |                Multiplicity                |
-|      55–56       |               Neurodiversity               |
-|        57        |                Open Source                 |
-|      58–59       |   Oppose \[Asyncs/TITANs/Fascism/Other\]   |
-|      60–61       |              Personal Career               |
-|      62–63       |            Personal Improvement            |
-|        64        |      Posthumanism/Singularity Seeking      |
-|        65        |                  Privacy                   |
-|      66–67       |                 Prosperity                 |
-|        68        |   Protect \[Person/Place/Transhumanity\]   |
-|        69        |             Prove Others Wrong             |
-|      70–71       |               Reclaim Earth                |
-|        72        |  Reconnect with \[Person/Transhumanity\]   |
-|        73        |           Religion/Spirituality            |
-|      74–75       |             Research \[Topic\]             |
-|      76–77       |                  Revenge                   |
-|        78        |                 Revolution                 |
-|      79–80       |              Safety/Security               |
-|      81–82       |       Science!/Scientific Discovery        |
-|        83        |               Skill Mastery                |
-|        84        |                 Socialism                  |
-|        85        |               Sousveillance                |
-|        86        |                 Stability                  |
-|      87–88       |                  Survival                  |
-|        89        |            Technoprogressivism             |
-|        90        |        Terraforming \[Mars/Venus\]         |
-|        91        |                Transparency                |
-|      92–93       |              Uncover Secrets               |
-|      94–95       |               Uplift Rights                |
-|        96        |            Venusian Sovereignty            |
-|      97–98       |                   Wealth                   |
-|        99        |                  X-Risks                   |
+| Roll<!--sort-n00--> |          Motivation<!--sort-by-->          |
+| :-----------------: | :----------------------------------------: |
+|         00          |          Acceptance/Assimilation           |
+|        01–02        |          Adventure/Thrill-Seeking          |
+|        03–04        |               AGI Personhood               |
+|         05          |               Alien Contact                |
+|        06–07        |            Anarchism/Autonomism            |
+|         08          |                 Asceticism                 |
+|        09–10        |           Autonomy/Independence            |
+|        11–12        |       Biochauvinism/Bioconservatism        |
+|         13          |         \[Create/Preserve\] Legacy         |
+|        14–15        |            Creative Expression             |
+|         16          |           Discover \[Past/Self\]           |
+|        17–18        |             DIY/Self-Reliance              |
+|         19          |                 Education                  |
+|         20          |                   Escape                   |
+|        21–22        |              Expand Influence              |
+|        23–24        |                Exploration                 |
+|         25          |           Exoplanet Colonization           |
+|        26–27        |           \[Faction\] Interests            |
+|        28–29        |              Fame/Recognition              |
+|         30          |                   Family                   |
+|        31–32        |   Find a \[Home/Purpose/Tribe/Partner\]    |
+|         33          |                Forget Past                 |
+|         34          |                Friendly ASI                |
+|        35–36        |             Happiness/Serenity             |
+|         37          |                 Hard Work                  |
+|        38–39        |               Hedonism/Vice                |
+|        40–41        |           \[Help/Serve\] Others            |
+|         42          |              Hypercapitalism               |
+|         43          |                Immortality                 |
+|         44          |              Indenture Rights              |
+|         45          |               Individualism                |
+|         46          |               Law and Order                |
+|        47–48        |              Leadership/Power              |
+|         49          | Locate Lost \[Friend/Item/Lover/Relative\] |
+|        50–51        |             Martian Liberation             |
+|         52          |           Morphological Freedom            |
+|        53–54        |                Multiplicity                |
+|        55–56        |               Neurodiversity               |
+|         57          |                Open Source                 |
+|        58–59        |   Oppose \[Asyncs/TITANs/Fascism/Other\]   |
+|        60–61        |              Personal Career               |
+|        62–63        |            Personal Improvement            |
+|         64          |      Posthumanism/Singularity Seeking      |
+|         65          |                  Privacy                   |
+|        66–67        |                 Prosperity                 |
+|         68          |   Protect \[Person/Place/Transhumanity\]   |
+|         69          |             Prove Others Wrong             |
+|        70–71        |               Reclaim Earth                |
+|         72          |  Reconnect with \[Person/Transhumanity\]   |
+|         73          |           Religion/Spirituality            |
+|        74–75        |             Research \[Topic\]             |
+|        76–77        |                  Revenge                   |
+|         78          |                 Revolution                 |
+|        79–80        |              Safety/Security               |
+|        81–82        |       Science!/Scientific Discovery        |
+|         83          |               Skill Mastery                |
+|         84          |                 Socialism                  |
+|         85          |               Sousveillance                |
+|         86          |                 Stability                  |
+|        87–88        |                  Survival                  |
+|         89          |            Technoprogressivism             |
+|         90          |        Terraforming \[Mars/Venus\]         |
+|         91          |                Transparency                |
+|        92–93        |              Uncover Secrets               |
+|        94–95        |               Uplift Rights                |
+|         96          |            Venusian Sovereignty            |
+|        97–98        |                   Wealth                   |
+|         99          |                  X-Risks                   |
 
 </div>
 </blockquote>

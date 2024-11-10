@@ -6,16 +6,14 @@
 
 <div class="tnw1">
 
-<!--sort-->
-
-| d100  | Result                                           |
-| :---: | :----------------------------------------------- |
-| 00–39 | [Biomorph](#biomorphs-d100)                      |
-| 40–44 | [Uplift Biomorph](#uplift-biomorphs-d100)        |
-| 45–54 | [Pod or Exomorph Biomorph](#pod-biomorphs-d100)  |
-| 55–89 | [Synthmorph](#synthmorphs-d100)                  |
-| 90–98 | [Infomorph or Core Morph](#infocore-morphs-d100) |
-|  99   | [Axle](#axles-d100)                              |
+| d100  | Type                                                        |
+| :---: | :---------------------------------------------------------- |
+| 00–39 | [Biomorph](#biomorphs-d100)                                 |
+| 40–44 | [Uplift Biomorph](#uplift-biomorphs-d100)                   |
+| 45–54 | [Pod or Exomorph Biomorph](#pod-or-exomorph-biomorphs-d100) |
+| 55–89 | [Synthmorph](#synthmorphs-d100)                             |
+| 90–98 | [Infomorph or Core Morph](#infomorphs-or-core-morphs-d100)  |
+|  99   | [Axle](#axles-d100)                                         |
 
 </div>
 </blockquote>
@@ -28,7 +26,7 @@
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                                             | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                                              | MP Cost |
 | :-----------------: | :--------------------------------------------------------------- | :-----: |
 |        00–01        | [Alpiner](../03/01-biomorphs.md#alpiner)                         |    4    |
 |         02          | [Aquanaut](../03/01-biomorphs.md#aquanaut)                       |    3    |
@@ -81,7 +79,7 @@
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                                                 | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                                                  | MP Cost |
 | :-----------------: | :------------------------------------------------------------------- | :-----: |
 |        00–19        | [Neo-Avian](../03/02-uplift-biomorphs.md#neo-avian)                  |    0    |
 |        20–22        | [Neo-Beluga](../03/02-uplift-biomorphs.md#neo-beluga)                |    3    |
@@ -101,13 +99,13 @@
 
 <blockquote class="table">
 
-## Pod Biomorphs ❮d100❯
+## Pod or Exomorph Biomorphs ❮d100❯
 
 <div class="tnw1">
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                                                                   | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                                                                    | MP Cost |
 | :-----------------: | :------------------------------------------------------------------------------------- | :-----: |
 |        00–07        | [Augur](../03/03-pod-biomorphs.md#augur)                                               |    3    |
 |        08–12        | [Ayah](../03/03-pod-biomorphs.md#ayah)                                                 |    3    |
@@ -145,7 +143,7 @@
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                                                         | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                                                          | MP Cost |
 | :-----------------: | :--------------------------------------------------------------------------- | :-----: |
 |         00          | [Arachnikoma (Arachnoid)](../03/05-synthmorphs.md#arachnikoma-variant)       |    9    |
 |        01–03        | [Arachnoid](../03/05-synthmorphs.md#arachnoid)                               |    6    |
@@ -221,13 +219,13 @@
 
 <blockquote class="table">
 
-## Info/Core Morphs ❮d100❯
+## Infomorphs or Core Morphs ❮d100❯
 
 <div class="tnw1">
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                          | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                           | MP Cost |
 | :-----------------: | :-------------------------------------------- | :-----: |
 |        00–10        | [Agent](../03/06-infomorphs.md#agent)         |    2    |
 |        11–30        | [Digimorph](../03/06-infomorphs.md#digimorph) |    0    |
@@ -253,7 +251,7 @@
 
 <!--sort-->
 
-| d100<!--sort-n00--> | Result<!--sort-by-->                                      | MP Cost |
+| d100<!--sort-n00--> | Morph<!--sort-by-->                                       | MP Cost |
 | :-----------------: | :-------------------------------------------------------- | :-----: |
 |        00–05        | [Automech](../../../16/21-robots.md#utility-bots)         |    3    |
 |        06–09        | [Barracuda](../../../16/21-robots.md#utility-bots)        |    3    |

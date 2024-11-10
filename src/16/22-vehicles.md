@@ -42,7 +42,7 @@ A few enhancements are designed specifically for vehicles, though some robots al
 On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habitats, aircraft of various kinds see regular use. This includes modern versions of rotorcraft (helicopters, autogyros, tilt-rotors), fixed-wing planes, zeppelins, and other lighter-than-air craft. These are typically propelled by turbofan or jet engines, rotors, or vectored thrust. Aircraft are flown with Pilot: Air and repaired with Hardware: Aerospace.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>AIRCRAFT<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead> 
+<thead><tr><th>AIRCRAFT<th>Comp/<wbr>GP<th>Pass<th>Vigor<th>Flex<th>Armor<th>WT<th>DUR<th>DR<th>Movement<th>Size</tr></thead>
 
 <!--sort-->
 
