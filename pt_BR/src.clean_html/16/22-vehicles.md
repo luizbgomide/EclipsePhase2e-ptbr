@@ -348,8 +348,8 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 | ESPAÇONAVES      | Comp/<!-- CLEANED wbr -->PE |   Pass   | Vigor | Flex | Armadura | LF  |  DUR  |  GD   |                    Movimento                    |
 |:---------------- |:-------------------------------------:|:--------:|:-----:|:----:|:--------:|:---:|:-----:|:-----:|:-----------------------------------------------:|
 | Graneleiro       |                Raro/—                 |    5+    |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
-| Expresso         |                Raro/—                 |    13    |   0   |  0   |  30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
 | Corveta          |                Raro/—                 |  20–30   |   0   |  0   |  50/40   | 150 |  750  | 1.500 | Fusão/<!-- CLEANED wbr -->Antimatéria |
+| Expresso         |                Raro/—                 |    13    |   0   |  0   |  30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
 | Destróier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
 | Caça             |                Raro/—                 |   0/1    |   3   |  2   |  30/20   | 50  |  250  |  500  |                      Fusão                      |
 | Barcaça da Ralé  |                Raro/—                 | 5–25 mil |   0   |  0   |  40/30   | 300 | 1.500 | 3.000 |   Plasma/<!-- CLEANED wbr -->Fusão    |
@@ -361,9 +361,9 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 
 **Graneleiro:** Essa nave é longa e estreita, com foguetes de fusão em um ponta e o cockpit e alojamento da tripulação na outra. Os módulos de frete contendo carga são presos ao longo da espinha. Um par de elevadores de carga com câmaras de ar se movem dentro da espinha. Os graneleiros transportam minérios refinados, gelo, e cargas similares grandes e úteis mas de baixa prioridade em velocidades relativamente baixas. Eles também são um método barato, confiável e lento para passageiros viajarem de um habitat para outro, e são usados ocasionalmente por indivíduos que desejam desaparecer por um tempo. Os graneleiros não possuem anéis de habitação rotativos, e são tripulados principalmente por hibernoides, quicantes e sintemorfos.
 
-**Expresso:** Com seu motores de antimatéria, esses entregadores expressos podem cruzar o Sistema Solar em questão de dias ou semanas. Eles são reservados para cargas críticas e de alto valor.
-
 **Corveta:** As corvetas são naves de guerra leves e de ataque rápido. Elas dependem principalmente de motores de fusão, mas também carregam antimatéria para propulsão em alta velocidade e ogivas devastadoras. Eles estão armados como railguns, lasers, drones e sistemas de mísseis.
+
+**Expresso:** Com seu motores de antimatéria, esses entregadores expressos podem cruzar o Sistema Solar em questão de dias ou semanas. Eles são reservados para cargas críticas e de alto valor.
 
 **Destróier:** A maior espaçonave militar em uso geral, os destróieres alternam entre motores de fusão e antimatéria como corvetas. Eles estão armados com railguns, mísseis nucleares e alto-explosivos, lasers de defesa pontal, e um contingente de 20 caças.
 
