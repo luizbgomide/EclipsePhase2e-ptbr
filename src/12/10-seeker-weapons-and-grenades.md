@@ -33,20 +33,20 @@ Each seeker missile can function as either [accushot or homing ammunition](09-ki
 
 <!--sort-->
 
-| SEEKER/<wbr>GRENADE TYPE                           | Area-Effect Type (Radius) |   Damage Value \[Average\]    | Armor Used | Comp/<wbr>GP (per 5) | Notes                       |
-| :------------------------------------------------- | :-----------------------: | :---------------------------: | :--------: | :------------------: | :-------------------------- |
-| Dazzler                                            |    Uniform (50&nbsp;m)    |               —               |     —      |       Mod/R/2        | Blinding                    |
-| EMP                                                |    Uniform (50&nbsp;m)    | 3d10 \[17\] (nanoswarms only) |     —      |       Maj/R/3        | Disables radios             |
-| Gas/Smoke                                          |    Uniform (20&nbsp;m)    |               —               |     —      |        Min/1         |                             |
-| HEAP                                               |             —             |       3d10 + 12 \[29\]        |     K      |       Maj/R/3        | Armor-Piercing, Knockdown   |
-| Plasmaburst                                        |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |       Maj/R/3        | Armor-Piercing              |
-| Splash                                             |    Uniform (10&nbsp;m)    |               —               |     —      |      As payload      |                             |
-| Stun                                               |    Uniform (10&nbsp;m)    |         1d6 + 2 \[5\]         |     K      |        Mod/2         | Blinding, Knockdown, Shock  |
+| SEEKER/<wbr>GRENADE TYPE                                | Area-Effect Type (Radius) |   Damage Value \[Average\]    | Armor Used | Comp/<wbr>GP (per 5) | Notes                       |
+| :------------------------------------------------------ | :-----------------------: | :---------------------------: | :--------: | :------------------: | :-------------------------- |
+| Dazzler                                                 |    Uniform (50&nbsp;m)    |               —               |     —      |       Mod/R/2        | Blinding                    |
+| EMP                                                     |    Uniform (50&nbsp;m)    | 3d10 \[17\] (nanoswarms only) |     —      |       Maj/R/3        | Disables radios             |
+| Gas/Smoke                                               |    Uniform (20&nbsp;m)    |               —               |     —      |        Min/1         |                             |
+| HEAP                                                    |             —             |       3d10 + 12 \[29\]        |     K      |       Maj/R/3        | Armor-Piercing, Knockdown   |
+| Plasmaburst                                             |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |       Maj/R/3        | Armor-Piercing              |
+| Splash                                                  |    Uniform (10&nbsp;m)    |               —               |     —      |      As payload      |                             |
+| Stun                                                    |    Uniform (10&nbsp;m)    |         1d6 + 2 \[5\]         |     K      |        Mod/2         | Blinding, Knockdown, Shock  |
 | <!--sort-union--><p class="indent">» Overload</p>       |    Uniform (10&nbsp;m)    |               —               |     —      |                      | Blinding, Pain              |
-| Tactical Multipurpose (TMP)                        |                           |                               |            |       Mod/R/2        |
+| Tactical Multipurpose (TMP)                             |                           |                               |            |       Mod/R/2        |
 | <!--sort-union--><p class="indent">» Frag</p>           |  Centered (−2&nbsp;DV/m)  |        3d10 + 6 \[23\]        |     K      |                      | Knockdown (5 meter radius)  |
 | <!--sort-union--><p class="indent">» High-Explosive</p> |  Centered (−2&nbsp;DV/m)  |       3d10 + 10 \[27\]        |     E      |                      | Knockdown (10 meter radius) |
-| Thermobaric                                        |    Uniform (10&nbsp;m)    |        2d10 + 6 \[17\]        |     E      |       Maj/R/3        | Armor-Piercing, Knockdown   |
+| Thermobaric                                             |    Uniform (10&nbsp;m)    |        2d10 + 6 \[17\]        |     E      |       Maj/R/3        | Armor-Piercing, Knockdown   |
 
 | SIZE             | Area-Effect Type (Radius) | Damage Value \[Average\] | Armor Used | Comp/<wbr>GP | Notes    |
 | :--------------- | :-----------------------: | :----------------------: | :--------: | :----------: | :------- |

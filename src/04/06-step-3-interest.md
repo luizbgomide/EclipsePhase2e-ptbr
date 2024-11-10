@@ -200,16 +200,16 @@ If you’d rather determine your interest randomly, roll 1d10:
 
 <!--sort-->
 
-|       Roll       | Group 1<!--sort-cells-->  | Group 2<!--sort-cells--> |
-| :--------------: | :------------------: | :-----------------: |
-|        1         |    Animal Handler    |      Networker      |
-|        2         |     Artist/Icon      |      Paramedic      |
-|        3         |        Async         |        Pilot        |
-|        4         |      Commander       |        Rogue        |
-|        5         |       Fighter        |       Slacker       |
-|        6         | Forensics Specialist |       Spacer        |
-|        7         |  Jack-of-All-Trades  |       Student       |
-|        8         |        Jammer        |     Survivalist     |
-| 9–10<!--sort-fixed--> |       Re-roll        |       Re-roll       |
+|         Roll          | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |
+| :-------------------: | :----------------------: | :----------------------: |
+|           1           |      Animal Handler      |        Networker         |
+|           2           |       Artist/Icon        |        Paramedic         |
+|           3           |          Async           |          Pilot           |
+|           4           |        Commander         |          Rogue           |
+|           5           |         Fighter          |         Slacker          |
+|           6           |   Forensics Specialist   |          Spacer          |
+|           7           |    Jack-of-All-Trades    |         Student          |
+|           8           |          Jammer          |       Survivalist        |
+| 9–10<!--sort-fixed--> |         Re-roll          |         Re-roll          |
 
 </blockquote>

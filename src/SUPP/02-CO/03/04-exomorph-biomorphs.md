@@ -2,6 +2,8 @@
 
 <div class=morph-images>
 
+<!--sort-->
+
 ## Scurrier
 
 ![Scurrier](PNG/scurrier.png)
@@ -96,5 +98,7 @@ Although whiplash morphs are unusual even by transhuman standards, they are gain
 | **Lovelace:** I know I was told that in the future I could be anything, but I never really imagined that would including being a houseplant.                                                                                                                                                    |
 | **Nova Vida:** In all seriousness, these don’t see much use outside of certain gatecrashing ops. I’ve used one once and it has a lot more synthetic interface elements than most pods, not sure if this is because of the plant or the alien aspects though.                                    |
 | **Plasmid:** I did a bit of spec consulting on the whiplash and IIRC it’s the plant elements; the sensory elements of flora are so much different from ours that it required major work.                                                                                                        |
+
+<!--sort-end-->
 
 </div>

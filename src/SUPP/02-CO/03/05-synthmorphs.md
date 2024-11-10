@@ -2,6 +2,8 @@
 
 <div class=morph-images>
 
+<!--sort-->
+
 ## Arachnoid
 
 ![Arachnoid](PNG/arachnoid.png)
@@ -370,6 +372,8 @@ All flexbot modules have the following stats, plus the stats for their module ty
 | **Stitch:** Before you go crazy ordering different modules, be warned that different manufacturers don’t always play well together. Each flexbot manufacturer wants you to use their modules only, so they quite often incorporate proprietary design elements that mean they won’t work so great — or at all — with modules of another make, including any you nanofab yourself. So, read the fine print and the reviews. |
 | **Pivo:** Annoying, yes, but not a deal breaker. Just make sure you or someone on your team knows a little robotics and programming and you should be fine. Of course, you’ll void the warranty, but when it’s a choice between a warranty and my life, my life wins every time.                                                                                                                                           |
 
+<!--sort-->
+
 ### Apiary Module
 
 Apiary modules are carriers for nanoswarm hives.
@@ -552,6 +556,8 @@ Wizard modules specialize in infosec and communications tasks.
 - **Common Shape Adjustments:** Electrical Sense, Enhanced Vision, Laser Link, Nanodetector, Skinlink, Utilitool
 
 </blockquote>
+
+<!--sort-end-->
 
 ## Galatea
 
@@ -1539,5 +1545,7 @@ Named after a historical Chinese explorer, many gatecrashers consider xu fus the
 | **XU FU**                                                                                                                                                 |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nova Vida:** Though it’s designed for gate ops, this shell is getting a lot of traction within the Solar System. It’s just a useful, utilitarian morph. |
+
+<!--sort-end-->
 
 </div>

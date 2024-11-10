@@ -152,7 +152,7 @@ This division to a quarter of the CP total is made under the assumption that the
 |                                               | <p class="indent">» Each Minor complexity ware</p>                                     |                      +1 |
 |                                               | <p class="indent">» Each Moderate complexity ware</p>                                  |                      +2 |
 |                                               | <p class="indent">» Each Major complexity ware</p>                                     |                      +3 |
-| <p class="no-wrap">**5. Total CP.**</p>       | Total all CP spent in Steps 1–4                                                        |                         |
+| <p class="no-wrap">**5. Total CP.**</p>       | Total all CP spent in Steps 1–4.                                                       |                         |
 |                                               | Divide by 4 to get the final MP Cost of the morph.                                     |                         |
 
 </blockquote>

@@ -2,6 +2,8 @@
 
 <div class=morph-images>
 
+<!--sort-->
+
 ## Neo-Avian
 
 ![Neo-Avian](PNG/neo-avian.png)
@@ -380,5 +382,7 @@ Less than several hundred neo-whale morphs exist, and the majority remain occupi
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Skinwalker:** It’s a rare privilege to take a swim in one of these. Anyone had a chance?                                                                                                                                                                                   |
 | **Ruqinzhe:** I have. I won a bet in an online gambling tournament where my opponent had put his morph on the table. Turns out I beat a neo-whale. I didn’t have the heart to tell him I cheated, so I simply took it for a spin for a week before giving it back. Majestic. |
+
+<!--sort-end-->
 
 </div>

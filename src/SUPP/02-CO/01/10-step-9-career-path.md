@@ -22,25 +22,25 @@ The career decided here is either the one you practiced most notably during your
 
 <!--sort-->
 
- |       d10&nbsp;#1<!--sort-fixed-->        | d10&nbsp;#2<!--sort-fixed--> | Career<!--sort-by-->                            | Description                                                                         |
- | :----------------------------------: | :---------------------: | :----------------------------------------- | :---------------------------------------------------------------------------------- |
- |                 1–5                  |            1            | [Academic](#academic-d100)                 | You devote your efforts to the pursuit of knowledge.                                |
- |                                      |            2            | [Covert Operative](#covert-operative-d100) | You are skilled at accessing places you don’t belong.                               |
- |                                      |            3            | [Enforcer](#enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                           |
- |                                      |            4            | [Explorer](#explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.                    |
- |                                      |            5            | [Face](#face-d100)                         | You excel at convincing others, even when it is not in their best interests.        |
- |                                      |            6            | [Genehacker](#genehacker-d100)             | DNA is your artistic medium.                                                        |
- |                                      |            7            | [Hacker](#hacker-d100)                     | Software heeds your beck and call.                                                  |
- |             <!--sort-fixed-->             |          8–10           | **RE-ROLL #2**                             |                                                                                     |
- | <hr class="table-split"><!--sort-fixed--> |                         |                                            |                                                                                     |
- |                 6–10                 |            1            | [Investigator](#investigator-d100)         | Few details escape your scrutiny.                                                   |
- |                                      |            2            | [Medic](#medic-d100)                       | You have a background in medicine.                                                  |
- |                                      |            3            | [Mindhacker](#mindhacker-d100)             | You meld minds and memories.                                                        |
- |                                      |            4            | [Scavenger](#scavenger-d100)               | You scrounge through wrecks and ruins, seeking value in destruction.                |
- |                                      |            5            | [Scientist](#scientist-d100)               | You seek to understand how the universe works — or at least certain elements of it. |
- |                                      |            6            | [Soldier](#soldier-d100)                   | You deploy violence — or the threat of it.                                          |
- |                                      |            7            | [Techie](#techie-d100)                     | You make and fix things.                                                            |
- |             <!--sort-fixed-->             |          8–10           | **RE-ROLL #2**                             |                                                                                     |
+ |       d10&nbsp;#1<!--sort-fixed-->        | d10&nbsp;#2<!--sort-fixed--> | Career<!--sort-by-->                       | Description                                                                         |
+ | :---------------------------------------: | :--------------------------: | :----------------------------------------- | :---------------------------------------------------------------------------------- |
+ |                    1–5                    |              1               | [Academic](#academic-d100)                 | You devote your efforts to the pursuit of knowledge.                                |
+ |                                           |              2               | [Covert Operative](#covert-operative-d100) | You are skilled at accessing places you don’t belong.                               |
+ |                                           |              3               | [Enforcer](#enforcer-d100)                 | You’re a thug, whether for hire or for a dedicated cause.                           |
+ |                                           |              4               | [Explorer](#explorer-d100)                 | You walk on alien worlds and see things others wouldn’t believe.                    |
+ |                                           |              5               | [Face](#face-d100)                         | You excel at convincing others, even when it is not in their best interests.        |
+ |                                           |              6               | [Genehacker](#genehacker-d100)             | DNA is your artistic medium.                                                        |
+ |                                           |              7               | [Hacker](#hacker-d100)                     | Software heeds your beck and call.                                                  |
+ |             <!--sort-fixed-->             |             8–10             | **RE-ROLL #2**                             |                                                                                     |
+ | <hr class="table-split"><!--sort-fixed--> |                              |                                            |                                                                                     |
+ |                   6–10                    |              1               | [Investigator](#investigator-d100)         | Few details escape your scrutiny.                                                   |
+ |                                           |              2               | [Medic](#medic-d100)                       | You have a background in medicine.                                                  |
+ |                                           |              3               | [Mindhacker](#mindhacker-d100)             | You meld minds and memories.                                                        |
+ |                                           |              4               | [Scavenger](#scavenger-d100)               | You scrounge through wrecks and ruins, seeking value in destruction.                |
+ |                                           |              5               | [Scientist](#scientist-d100)               | You seek to understand how the universe works — or at least certain elements of it. |
+ |                                           |              6               | [Soldier](#soldier-d100)                   | You deploy violence — or the threat of it.                                          |
+ |                                           |              7               | [Techie](#techie-d100)                     | You make and fix things.                                                            |
+ |             <!--sort-fixed-->             |             8–10             | **RE-ROLL #2**                             |                                                                                     |
 
 </blockquote>
 
@@ -82,17 +82,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                    |      |
-| :--------------------------------- | ---: |
-| r-rep                              |   30 |
+|                                         |      |
+| :-------------------------------------- | ---: |
+| r-rep                                   |   30 |
 | <!--sort-restart-->Infosec              |   20 |
-| Interface                          |   40 |
-| Perceive                           |   20 |
-| Program                            |   30 |
-| Research                           |   50 |
+| Interface                               |   40 |
+| Perceive                                |   20 |
+| Program                                 |   30 |
+| Research                                |   50 |
 | <!--sort-restart-->Know: Administration |   30 |
-| Know: Computational Archeology     |   40 |
-| Know: Data Science                 |   30 |
+| Know: Computational Archeology          |   40 |
+| Know: Data Science                      |   30 |
 
 </div>
 </blockquote>
@@ -117,17 +117,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| COG                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| COG                                   |    5 |
 | <!--sort-restart-->r-rep              |   20 |
 | <!--sort-restart-->Interface          |   30 |
-| Perceive                         |   25 |
-| Program                          |   20 |
-| Research                         |   60 |
+| Perceive                              |   25 |
+| Program                               |   20 |
+| Research                              |   60 |
 | <!--sort-restart-->Know: Data Science |   30 |
-| Know: Lab Ops                    |   30 |
-| Know: Mathematics                |   50 |
+| Know: Lab Ops                         |   30 |
+| Know: Mathematics                     |   50 |
 
 </div>
 </blockquote>
@@ -152,17 +152,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| INT                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| INT                                   |    5 |
 | <!--sort-restart-->r-rep              |   20 |
 | <!--sort-restart-->Interface          |   30 |
-| Kinesics                         |   25 |
-| Persuade                         |   30 |
-| Research                         |   40 |
+| Kinesics                              |   25 |
+| Persuade                              |   30 |
+| Research                              |   40 |
 | <!--sort-restart-->Know: Anthropology |   30 |
-| Know: History                    |   50 |
-| Know: Instruction                |   40 |
+| Know: History                         |   50 |
+| Know: Instruction                     |   40 |
 
 </div>
 </blockquote>
@@ -207,17 +207,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| g-rep                            |   20 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| g-rep                                 |   20 |
 | <!--sort-restart-->Athletics          |   10 |
-| Deceive                          |   40 |
-| Infiltrate                       |   50 |
-| Infosec                          |   30 |
-| Perceive                         |   20 |
-| Pilot: Spacecraft                |   30 |
+| Deceive                               |   40 |
+| Infiltrate                            |   50 |
+| Infosec                               |   30 |
+| Perceive                              |   20 |
+| Pilot: Spacecraft                     |   30 |
 | <!--sort-restart-->Know: Security Ops |   30 |
-| Know: Smuggling                  |   60 |
+| Know: Smuggling                       |   60 |
 
 </div>
 </blockquote>
@@ -242,16 +242,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                |      |
-| :----------------------------- | ---: |
-| SAV                            |    5 |
+|                                     |      |
+| :---------------------------------- | ---: |
+| SAV                                 |    5 |
 | <!--sort-restart-->c-rep            |   20 |
 | <!--sort-restart-->Deceive          |   50 |
-| Infiltrate                     |   40 |
-| Infosec                        |   40 |
-| Persuade                       |   25 |
+| Infiltrate                          |   40 |
+| Infosec                             |   40 |
+| Persuade                            |   25 |
 | <!--sort-restart-->Know: Hypercorps |   30 |
-| Know: Spycraft                 |   60 |
+| Know: Spycraft                      |   60 |
 
 </div>
 </blockquote>
@@ -276,16 +276,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| REF                               |    5 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| REF                                    |    5 |
 | <!--sort-restart-->g-rep               |   20 |
 | <!--sort-restart-->Deceive             |   35 |
-| Hardware: Electronics             |   30 |
-| Infiltrate                        |   60 |
-| Infosec                           |   30 |
+| Hardware: Electronics                  |   30 |
+| Infiltrate                             |   60 |
+| Infosec                                |   30 |
 | <!--sort-restart-->Know: Black Markets |   30 |
-| Know: Security Ops                |   60 |
+| Know: Security Ops                     |   60 |
 
 </div>
 </blockquote>
@@ -330,17 +330,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                         |      |
-| :-------------------------------------- | ---: |
-| @-rep                                   |   20 |
+|                                              |      |
+| :------------------------------------------- | ---: |
+| @-rep                                        |   20 |
 | <!--sort-restart-->Fray                      |   30 |
-| Guns                                    |   30 |
-| Kinesics                                |   30 |
-| Melee                                   |   40 |
-| Perceive                                |   20 |
-| Persuade                                |   30 |
+| Guns                                         |   30 |
+| Kinesics                                     |   30 |
+| Melee                                        |   40 |
+| Perceive                                     |   20 |
+| Persuade                                     |   30 |
 | <!--sort-restart-->Know: Conflict Resolution |   50 |
-| Know: Security Ops                      |   40 |
+| Know: Security Ops                           |   40 |
 
 </div>
 </blockquote>
@@ -365,17 +365,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| SOM                                 |    5 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| SOM                                      |    5 |
 | <!--sort-restart-->g-rep                 |   20 |
 | <!--sort-restart-->Deceive               |   20 |
-| Fray                                |   25 |
-| Guns                                |   30 |
-| Melee                               |   50 |
-| Provoke                             |   30 |
+| Fray                                     |   25 |
+| Guns                                     |   30 |
+| Melee                                    |   50 |
+| Provoke                                  |   30 |
 | <!--sort-restart-->Know: Cartel Politics |   40 |
-| Know: Racketeering                  |   50 |
+| Know: Racketeering                       |   50 |
 
 </div>
 </blockquote>
@@ -400,17 +400,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                           |      |
-| :------------------------ | ---: |
-| g-rep                     |   20 |
+|                                |      |
+| :----------------------------- | ---: |
+| g-rep                          |   20 |
 | <!--sort-restart-->Deceive     |   20 |
-| Fray                      |   30 |
-| Guns                      |   20 |
-| Melee                     |   50 |
-| Perceive                  |   30 |
-| Provoke                   |   30 |
+| Fray                           |   30 |
+| Guns                           |   20 |
+| Melee                          |   50 |
+| Perceive                       |   30 |
+| Provoke                        |   30 |
 | <!--sort-restart-->Know: Gangs |   50 |
-| Know: Police Ops          |   40 |
+| Know: Police Ops               |   40 |
 
 </div>
 </blockquote>
@@ -455,17 +455,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| x-rep                            |   20 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| x-rep                                 |   20 |
 | <!--sort-restart-->Athletics          |   30 |
-| Hardware: Groundcraft            |   30 |
-| Hardware: Industrial             |   20 |
-| Medicine: Forensics              |   20 |
-| Pilot: Ground                    |   20 |
-| Survival                         |   60 |
+| Hardware: Groundcraft                 |   30 |
+| Hardware: Industrial                  |   20 |
+| Medicine: Forensics                   |   20 |
+| Pilot: Ground                         |   20 |
+| Survival                              |   60 |
 | <!--sort-restart-->Know: Astrobiology |   30 |
-| Know: Gatecrashing               |   60 |
+| Know: Gatecrashing                    |   60 |
 
 </div>
 </blockquote>
@@ -490,18 +490,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                             |      |
-| :-------------------------- | ---: |
-| INT                         |    5 |
+|                                  |      |
+| :------------------------------- | ---: |
+| INT                              |    5 |
 | <!--sort-restart-->x-rep         |   20 |
 | <!--sort-restart-->Athletics     |   30 |
-| Hardware: Robotics          |   20 |
-| Infiltrate                  |   20 |
-| Perceive                    |   30 |
-| Pilot: Air                  |   25 |
-| Survival                    |   30 |
+| Hardware: Robotics               |   20 |
+| Infiltrate                       |   20 |
+| Perceive                         |   30 |
+| Pilot: Air                       |   25 |
+| Survival                         |   30 |
 | <!--sort-restart-->Know: Geology |   30 |
-| Know: Surveying             |   60 |
+| Know: Surveying                  |   60 |
 
 </div>
 </blockquote>
@@ -526,18 +526,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                        |      |
-| :------------------------------------- | ---: |
-| x-rep                                  |   20 |
+|                                             |      |
+| :------------------------------------------ | ---: |
+| x-rep                                       |   20 |
 | <!--sort-restart-->Athletics                |   20 |
-| Fray                                   |   30 |
-| Guns                                   |   20 |
-| Medicine: Paramedic                    |   40 |
-| Perceive                               |   20 |
-| Pilot: Ground                          |   20 |
-| Survival                               |   30 |
+| Fray                                        |   30 |
+| Guns                                        |   20 |
+| Medicine: Paramedic                         |   40 |
+| Perceive                                    |   20 |
+| Pilot: Ground                               |   20 |
+| Survival                                    |   30 |
 | <!--sort-restart-->Know: Emergency Services |   60 |
-| Know: Gatecrashing                     |   30 |
+| Know: Gatecrashing                          |   30 |
 
 </div>
 </blockquote>
@@ -582,16 +582,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| SAV                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| SAV                                   |    5 |
 | <!--sort-restart-->g-rep              |   20 |
 | <!--sort-restart-->Deceive            |   60 |
-| Kinesics                         |   30 |
-| Persuade                         |   40 |
-| Provoke                          |   25 |
+| Kinesics                              |   30 |
+| Persuade                              |   40 |
+| Provoke                               |   25 |
 | <!--sort-restart-->Know: Con Artistry |   60 |
-| Know: Skipjacking                |   30 |
+| Know: Skipjacking                     |   30 |
 
 </div>
 </blockquote>
@@ -616,16 +616,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| SAV                               |    5 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| SAV                                    |    5 |
 | <!--sort-restart-->g-rep               |   20 |
 | <!--sort-restart-->Deceive             |   40 |
-| Infosec                           |   25 |
-| Kinesics                          |   30 |
-| Persuade                          |   60 |
+| Infosec                                |   25 |
+| Kinesics                               |   30 |
+| Persuade                               |   60 |
 | <!--sort-restart-->Know: Black Markets |   60 |
-| Know: Smuggling                   |   30 |
+| Know: Smuggling                        |   30 |
 
 </div>
 </blockquote>
@@ -650,17 +650,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                |      |
-| :----------------------------- | ---: |
-| WIL                            |    5 |
+|                                     |      |
+| :---------------------------------- | ---: |
+| WIL                                 |    5 |
 | <!--sort-restart-->c-rep            |   20 |
 | <!--sort-restart-->Deceive          |   20 |
-| Kinesics                       |   50 |
-| Persuade                       |   60 |
-| Provoke                        |   25 |
+| Kinesics                            |   50 |
+| Persuade                            |   60 |
+| Provoke                             |   25 |
 | <!--sort-restart-->Know: Hypercorps |   30 |
-| Know: Politics                 |   30 |
-| Know: Psychology               |   30 |
+| Know: Politics                      |   30 |
+| Know: Psychology                    |   30 |
 
 </div>
 </blockquote>
@@ -705,18 +705,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| r-rep                            |   20 |
-| x-rep                            |   20 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| r-rep                                 |   20 |
+| x-rep                                 |   20 |
 | <!--sort-restart-->Medicine: Biotech  |   30 |
-| Medicine: Forensics              |   60 |
-| Medicine: Veterinary             |   30 |
-| Program                          |   20 |
-| Research                         |   20 |
+| Medicine: Forensics                   |   60 |
+| Medicine: Veterinary                  |   30 |
+| Program                               |   20 |
+| Research                              |   20 |
 | <!--sort-restart-->Know: Astrobiology |   40 |
-| Know: Computational Biology      |   20 |
-| Know: Zoology                    |   30 |
+| Know: Computational Biology           |   20 |
+| Know: Zoology                         |   30 |
 
 </div>
 </blockquote>
@@ -741,17 +741,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                 |      |
-| :------------------------------ | ---: |
-| COG                             |    5 |
+|                                      |      |
+| :----------------------------------- | ---: |
+| COG                                  |    5 |
 | <!--sort-restart-->r-rep             |   20 |
 | <!--sort-restart-->Medicine: Biotech |   50 |
-| Medicine: Pharmacology          |   50 |
-| Program                         |   30 |
-| Research                        |   25 |
+| Medicine: Pharmacology               |   50 |
+| Program                              |   30 |
+| Research                             |   25 |
 | <!--sort-restart-->Know: Lab Ops     |   30 |
-| Know: Neogenetics               |   40 |
-| Know: Smart Drugs               |   20 |
+| Know: Neogenetics                    |   40 |
+| Know: Smart Drugs                    |   20 |
 
 </div>
 </blockquote>
@@ -776,17 +776,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                             |      |
-| :------------------------------------------ | ---: |
-| r-rep                                       |   20 |
+|                                                  |      |
+| :----------------------------------------------- | ---: |
+| r-rep                                            |   20 |
 | <!--sort-restart-->Exotic Skill: Animal Handling |   30 |
-| Kinesics                                    |   20 |
-| Medicine: Biotech                           |   30 |
-| Medicine: Pharmacology                      |   40 |
-| Medicine: Veterinary                        |   60 |
+| Kinesics                                         |   20 |
+| Medicine: Biotech                                |   30 |
+| Medicine: Pharmacology                           |   40 |
+| Medicine: Veterinary                             |   60 |
 | <!--sort-restart-->Know: Genetics                |   30 |
-| Know: Smart Animals                         |   20 |
-| Know: Zoology                               |   40 |
+| Know: Smart Animals                              |   20 |
+| Know: Zoology                                    |   40 |
 
 </div>
 </blockquote>
@@ -831,16 +831,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                      |      |
-| :----------------------------------- | ---: |
-| c-rep                                |   20 |
+|                                           |      |
+| :---------------------------------------- | ---: |
+| c-rep                                     |   20 |
 | <!--sort-restart-->Hardware: Electronics  |   30 |
-| Infosec                              |   50 |
-| Interface                            |   40 |
-| Program                              |   40 |
-| Research                             |   20 |
+| Infosec                                   |   50 |
+| Interface                                 |   40 |
+| Program                                   |   40 |
+| Research                                  |   20 |
 | <!--sort-restart-->Know: Computer Science |   30 |
-| Know: System Administration          |   60 |
+| Know: System Administration               |   60 |
 
 </div>
 </blockquote>
@@ -865,16 +865,16 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| COG                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| COG                                   |    5 |
 | <!--sort-restart-->g-rep              |   20 |
 | <!--sort-restart-->Infosec            |   60 |
-| Interface                        |   40 |
-| Program                          |   30 |
-| Research                         |   25 |
+| Interface                             |   40 |
+| Program                               |   30 |
+| Research                              |   25 |
 | <!--sort-restart-->Know: Info Brokers |   40 |
-| Know: Mesh Security              |   50 |
+| Know: Mesh Security                   |   50 |
 
 </div>
 </blockquote>
@@ -899,17 +899,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| @-rep                               |   20 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| @-rep                                    |   20 |
 | <!--sort-restart-->Hardware: Electronics |   30 |
-| Infosec                             |   50 |
-| Interface                           |   40 |
-| Program                             |   40 |
-| Research                            |   20 |
+| Infosec                                  |   50 |
+| Interface                                |   40 |
+| Program                                  |   40 |
+| Research                                 |   20 |
 | <!--sort-restart-->Know: Hypercorps      |   30 |
-| Know: Mesh Security                 |   30 |
-| Know: Politics                      |   30 |
+| Know: Mesh Security                      |   30 |
+| Know: Politics                           |   30 |
 
 </div>
 </blockquote>
@@ -954,17 +954,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| c-rep                             |   20 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| c-rep                                  |   20 |
 | <!--sort-restart-->Infosec             |   20 |
-| Kinesics                          |   30 |
-| Guns                              |   20 |
-| Medicine: Forensics               |   20 |
-| Perceive                          |   40 |
-| Research                          |   50 |
+| Kinesics                               |   30 |
+| Guns                                   |   20 |
+| Medicine: Forensics                    |   20 |
+| Perceive                               |   40 |
+| Research                               |   50 |
 | <!--sort-restart-->Know: Investigation |   60 |
-| Know: Cartels                     |   30 |
+| Know: Cartels                          |   30 |
 
 </div>
 </blockquote>
@@ -989,17 +989,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                 |      |
-| :------------------------------ | ---: |
-| c-rep                           |   20 |
+|                                      |      |
+| :----------------------------------- | ---: |
+| c-rep                                |   20 |
 | <!--sort-restart-->Guns              |   20 |
-| Infosec                         |   20 |
-| Kinesics                        |   60 |
-| Melee                           |   30 |
-| Perceive                        |   20 |
-| Research                        |   30 |
+| Infosec                              |   20 |
+| Kinesics                             |   60 |
+| Melee                                |   30 |
+| Perceive                             |   20 |
+| Research                             |   30 |
 | <!--sort-restart-->Know: Ego Hunting |   60 |
-| Know: Smuggling                 |   30 |
+| Know: Smuggling                      |   30 |
 
 </div>
 </blockquote>
@@ -1024,17 +1024,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                |      |
-| :----------------------------- | ---: |
-| f-rep                          |   20 |
+|                                     |      |
+| :---------------------------------- | ---: |
+| f-rep                               |   20 |
 | <!--sort-restart-->Infosec          |   20 |
-| Kinesics                       |   40 |
-| Perceive                       |   20 |
-| Persuade                       |   20 |
-| Provoke                        |   20 |
-| Research                       |   60 |
+| Kinesics                            |   40 |
+| Perceive                            |   20 |
+| Persuade                            |   20 |
+| Provoke                             |   20 |
+| Research                            |   60 |
 | <!--sort-restart-->Know: Journalism |   60 |
-| Know: Current Events           |   30 |
+| Know: Current Events                |   30 |
 
 </div>
 </blockquote>
@@ -1079,17 +1079,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                 |      |
-| :------------------------------ | ---: |
-| c-rep                           |   10 |
-| f-rep                           |   10 |
+|                                      |      |
+| :----------------------------------- | ---: |
+| c-rep                                |   10 |
+| f-rep                                |   10 |
 | <!--sort-restart-->Medicine: Biotech |   60 |
-| Medicine: Pharmacology          |   50 |
-| Medicine: Psychosurgery         |   40 |
-| Research                        |   30 |
+| Medicine: Pharmacology               |   50 |
+| Medicine: Psychosurgery              |   40 |
+| Research                             |   30 |
 | <!--sort-restart-->Know: Genetics    |   30 |
-| Know: Morphs                    |   40 |
-| Know: Cognitive Science         |   20 |
+| Know: Morphs                         |   40 |
+| Know: Cognitive Science              |   20 |
 
 </div>
 </blockquote>
@@ -1114,17 +1114,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                           |      |
-| :------------------------ | ---: |
-| @-rep                     |   10 |
-| c-rep                     |   10 |
+|                                |      |
+| :----------------------------- | ---: |
+| @-rep                          |   10 |
+| c-rep                          |   10 |
 | <!--sort-restart-->Kinesics    |   30 |
-| Medicine: Biotech         |   30 |
-| Medicine: Paramedic       |   60 |
-| Medicine: Pharmacology    |   30 |
-| Research                  |   30 |
+| Medicine: Biotech              |   30 |
+| Medicine: Paramedic            |   60 |
+| Medicine: Pharmacology         |   30 |
+| Research                       |   30 |
 | <!--sort-restart-->Know: Drugs |   40 |
-| Know: Emergency Services  |   50 |
+| Know: Emergency Services       |   50 |
 
 </div>
 </blockquote>
@@ -1149,17 +1149,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                 |      |
-| :------------------------------ | ---: |
-| c-rep                           |   10 |
-| r-rep                           |   10 |
+|                                      |      |
+| :----------------------------------- | ---: |
+| c-rep                                |   10 |
+| r-rep                                |   10 |
 | <!--sort-restart-->Medicine: Biotech |   60 |
-| Medicine: Pharmacology          |   50 |
-| Medicine: Psychosurgery         |   40 |
-| Research                        |   30 |
+| Medicine: Pharmacology               |   50 |
+| Medicine: Psychosurgery              |   40 |
+| Research                             |   30 |
 | <!--sort-restart-->Know: Genetics    |   20 |
-| Know: Infectious Diseases       |   40 |
-| Know: Cognitive Science         |   30 |
+| Know: Infectious Diseases            |   40 |
+| Know: Cognitive Science              |   30 |
 
 </div>
 </blockquote>
@@ -1204,17 +1204,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                 |      |
-| :------------------------------ | ---: |
-| f-rep                           |   20 |
+|                                      |      |
+| :----------------------------------- | ---: |
+| f-rep                                |   20 |
 | <!--sort-restart-->Infosec           |   20 |
-| Medicine: Psychosurgery         |   40 |
-| Persuade                        |   60 |
-| Provoke                         |   40 |
-| Program                         |   20 |
+| Medicine: Psychosurgery              |   40 |
+| Persuade                             |   60 |
+| Provoke                              |   40 |
+| Program                              |   20 |
 | <!--sort-restart-->Know: Influencers |   20 |
-| Know: Memetics                  |   40 |
-| Know: Psychology                |   30 |
+| Know: Memetics                       |   40 |
+| Know: Psychology                     |   30 |
 
 </div>
 </blockquote>
@@ -1239,17 +1239,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                       |      |
-| :------------------------------------ | ---: |
-| COG                                   |    5 |
+|                                            |      |
+| :----------------------------------------- | ---: |
+| COG                                        |    5 |
 | <!--sort-restart-->c-rep                   |   20 |
 | <!--sort-restart-->Infosec                 |   20 |
-| Medicine: Psychosurgery               |   60 |
-| Medicine: Pharmacology                |   30 |
-| Program                               |   20 |
+| Medicine: Psychosurgery                    |   60 |
+| Medicine: Pharmacology                     |   30 |
+| Program                                    |   20 |
 | <!--sort-restart-->Know: Cognitive Science |   60 |
-| Know: Psychiatry                      |   30 |
-| Know: Psychology                      |   25 |
+| Know: Psychiatry                           |   30 |
+| Know: Psychology                           |   25 |
 
 </div>
 </blockquote>
@@ -1274,18 +1274,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                |      |
-| :----------------------------- | ---: |
-| SAV                            |    5 |
+|                                     |      |
+| :---------------------------------- | ---: |
+| SAV                                 |    5 |
 | <!--sort-restart-->c-rep            |   20 |
 | <!--sort-restart-->Kinesics         |   40 |
-| Medicine: Psychosurgery        |   40 |
-| Medicine: Pharmacology         |   40 |
-| Persuade                       |   20 |
-| Research                       |   15 |
+| Medicine: Psychosurgery             |   40 |
+| Medicine: Pharmacology              |   40 |
+| Persuade                            |   20 |
+| Research                            |   15 |
 | <!--sort-restart-->Know: Psychiatry |   30 |
-| Know: Psychology               |   40 |
-| Know: Social Services          |   20 |
+| Know: Psychology                    |   40 |
+| Know: Social Services               |   20 |
 
 </div>
 </blockquote>
@@ -1330,18 +1330,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| @-rep                             |   10 |
-| g-rep                             |   10 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| @-rep                                  |   10 |
+| g-rep                                  |   10 |
 | <!--sort-restart-->Hardware: Armorer   |   40 |
-| Hardware: Electronics             |   40 |
-| Hardware: Robotics                |   50 |
-| Infosec                           |   30 |
-| Pilot: Air                        |   20 |
+| Hardware: Electronics                  |   40 |
+| Hardware: Robotics                     |   50 |
+| Infosec                                |   30 |
+| Pilot: Air                             |   20 |
 | <!--sort-restart-->Know: Black Markets |   30 |
-| Know: Bot Models                  |   40 |
-| Know: Proprietary Tech            |   20 |
+| Know: Bot Models                       |   40 |
+| Know: Proprietary Tech                 |   20 |
 
 </div>
 </blockquote>
@@ -1366,18 +1366,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| c-rep                               |   10 |
-| g-rep                               |   10 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| c-rep                                    |   10 |
+| g-rep                                    |   10 |
 | <!--sort-restart-->Hardware: Aerospace   |   40 |
-| Hardware: Demolitions               |   40 |
-| Hardware: Industrial                |   50 |
-| Interface                           |   20 |
-| Pilot: Space                        |   30 |
+| Hardware: Demolitions                    |   40 |
+| Hardware: Industrial                     |   50 |
+| Interface                                |   20 |
+| Pilot: Space                             |   30 |
 | <!--sort-restart-->Know: Flight Crew Ops |   30 |
-| Know: Scavenging                    |   40 |
-| Know: Spacecraft                    |   20 |
+| Know: Scavenging                         |   40 |
+| Know: Spacecraft                         |   20 |
 
 </div>
 </blockquote>
@@ -1402,17 +1402,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                      |      |
-| :----------------------------------- | ---: |
-| g-rep                                |   20 |
+|                                           |      |
+| :---------------------------------------- | ---: |
+| g-rep                                     |   20 |
 | <!--sort-restart-->Hardware: Electronics  |   40 |
-| Hardware: Demolitions                |   40 |
-| Hardware: Robotics                   |   50 |
-| Infosec                              |   20 |
-| Pilot: Ground                        |   30 |
+| Hardware: Demolitions                     |   40 |
+| Hardware: Robotics                        |   50 |
+| Infosec                                   |   20 |
+| Pilot: Ground                             |   30 |
 | <!--sort-restart-->Know: Quarantine Zones |   30 |
-| Know: Smuggling                      |   40 |
-| Know: TITAN Tech                     |   20 |
+| Know: Smuggling                           |   40 |
+| Know: TITAN Tech                          |   20 |
 
 </div>
 </blockquote>
@@ -1457,18 +1457,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| COG                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| COG                                   |    5 |
 | <!--sort-restart-->r-rep              |   20 |
 | <!--sort-restart-->Hardware: Robotics |   40 |
-| Medicine: Forensics              |   25 |
-| Program                          |   20 |
-| Research                         |   30 |
-| Survival                         |   40 |
+| Medicine: Forensics                   |   25 |
+| Program                               |   20 |
+| Research                              |   30 |
+| Survival                              |   40 |
 | <!--sort-restart-->Know: Botany       |   30 |
-| Know: Ecology                    |   40 |
-| Know: Geology                    |   20 |
+| Know: Ecology                         |   40 |
+| Know: Geology                         |   20 |
 
 </div>
 </blockquote>
@@ -1493,17 +1493,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| COG                              |    5 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| COG                                   |    5 |
 | <!--sort-restart-->r-rep              |   20 |
 | <!--sort-restart-->Hardware: Robotics |   30 |
-| Pilot: Space                     |   20 |
-| Program                          |   30 |
-| Research                         |   50 |
+| Pilot: Space                          |   20 |
+| Program                               |   30 |
+| Research                              |   50 |
 | <!--sort-restart-->Know: Astronomy    |   25 |
-| Know: Chemistry                  |   40 |
-| Know: Physics                    |   50 |
+| Know: Chemistry                       |   40 |
+| Know: Physics                         |   50 |
 
 </div>
 </blockquote>
@@ -1528,20 +1528,20 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| r-rep                               |   10 |
-| x-rep                               |   10 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| r-rep                                    |   10 |
+| x-rep                                    |   10 |
 | <!--sort-restart-->Hardware: Demolitions |   30 |
-| Hardware: Electronics               |   30 |
-| Infosec                             |   20 |
-| Perceive                            |   30 |
-| Program                             |   30 |
-| Research                            |   30 |
-| Survival                            |   10 |
+| Hardware: Electronics                    |   30 |
+| Infosec                                  |   20 |
+| Perceive                                 |   30 |
+| Program                                  |   30 |
+| Research                                 |   30 |
+| Survival                                 |   10 |
 | <!--sort-restart-->Know: Astrobiology    |   30 |
-| Know: Surveying                     |   20 |
-| Know: Xeno-Archeology               |   40 |
+| Know: Surveying                          |   20 |
+| Know: Xeno-Archeology                    |   40 |
 
 </div>
 </blockquote>
@@ -1586,15 +1586,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                  |      |
-| :------------------------------- | ---: |
-| c-rep                            |   20 |
+|                                       |      |
+| :------------------------------------ | ---: |
+| c-rep                                 |   20 |
 | <!--sort-restart-->Fray               |   40 |
-| Guns                             |   40 |
-| Kinesics                         |   50 |
-| Melee                            |   50 |
+| Guns                                  |   40 |
+| Kinesics                              |   50 |
+| Melee                                 |   50 |
 | <!--sort-restart-->Know: Bodyguarding |   50 |
-| Know: Security Ops               |   40 |
+| Know: Security Ops                    |   40 |
 
 </div>
 </blockquote>
@@ -1619,18 +1619,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                    |      |
-| :--------------------------------- | ---: |
-| SOM                                |    5 |
+|                                         |      |
+| :-------------------------------------- | ---: |
+| SOM                                     |    5 |
 | <!--sort-restart-->c-rep                |   10 |
-| g-rep                              |   10 |
+| g-rep                                   |   10 |
 | <!--sort-restart-->Fray                 |   40 |
-| Guns                               |   60 |
-| Melee                              |   30 |
-| Perceive                           |   25 |
+| Guns                                    |   60 |
+| Melee                                   |   30 |
+| Perceive                                |   25 |
 | <!--sort-restart-->Know: Conflict Zones |   20 |
-| Know: Mercenary Groups             |   30 |
-| Know: Military Ops                 |   40 |
+| Know: Mercenary Groups                  |   30 |
+| Know: Military Ops                      |   40 |
 
 </div>
 </blockquote>
@@ -1655,17 +1655,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| REF                               |    5 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| REF                                    |    5 |
 | <!--sort-restart-->g-rep               |   20 |
 | <!--sort-restart-->Fray                |   30 |
-| Hardware: Demolitions             |   15 |
-| Infiltrate                        |   30 |
-| Guns                              |   50 |
-| Melee                             |   30 |
+| Hardware: Demolitions                  |   15 |
+| Infiltrate                             |   30 |
+| Guns                                   |   50 |
+| Melee                                  |   30 |
 | <!--sort-restart-->Know: Black Markets |   50 |
-| Know: Security Ops                |   40 |
+| Know: Security Ops                     |   40 |
 
 </div>
 </blockquote>
@@ -1710,15 +1710,15 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| c-rep                               |   20 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| c-rep                                    |   20 |
 | <!--sort-restart-->Hardware: Electronics |   60 |
-| Infosec                             |   30 |
-| Interface                           |   30 |
-| Program                             |   60 |
+| Infosec                                  |   30 |
+| Interface                                |   30 |
+| Program                                  |   60 |
 | <!--sort-restart-->Know: Nanofacturing   |   40 |
-| Know: Nanotechnology                |   50 |
+| Know: Nanotechnology                     |   50 |
 
 </div>
 </blockquote>
@@ -1743,18 +1743,18 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| @-rep                               |   10 |
-| c-rep                               |   10 |
+|                                          |      |
+| :--------------------------------------- | ---: |
+| @-rep                                    |   10 |
+| c-rep                                    |   10 |
 | <!--sort-restart-->Hardware: Electronics |   40 |
-| Hardware: Groundcraft               |   20 |
-| Hardware: Industrial                |   50 |
-| Interface                           |   30 |
-| Pilot: Ground                       |   20 |
-| Program                             |   20 |
+| Hardware: Groundcraft                    |   20 |
+| Hardware: Industrial                     |   50 |
+| Interface                                |   30 |
+| Pilot: Ground                            |   20 |
+| Program                                  |   20 |
 | <!--sort-restart-->Know: Engineering     |   40 |
-| Know: Habitat Ops                   |   50 |
+| Know: Habitat Ops                        |   50 |
 
 </div>
 </blockquote>
@@ -1779,17 +1779,17 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <div>
 <!--sort-->
 
-|                                   |      |
-| :-------------------------------- | ---: |
-| c-rep                             |   20 |
+|                                        |      |
+| :------------------------------------- | ---: |
+| c-rep                                  |   20 |
 | <!--sort-restart-->Hardware: Aerospace |   20 |
-| Hardware: Electronics             |   30 |
-| Hardware: Robotics                |   50 |
-| Pilot: Air                        |   20 |
-| Pilot: Ground                     |   20 |
-| Program                           |   40 |
+| Hardware: Electronics                  |   30 |
+| Hardware: Robotics                     |   50 |
+| Pilot: Air                             |   20 |
+| Pilot: Ground                          |   20 |
+| Program                                |   40 |
 | <!--sort-restart-->Know: Bot Models    |   60 |
-| Know: Synthmorphs                 |   30 |
+| Know: Synthmorphs                      |   30 |
 
 </div>
 </blockquote>

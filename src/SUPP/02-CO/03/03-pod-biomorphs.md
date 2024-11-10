@@ -2,6 +2,8 @@
 
 <div class=morph-images>
 
+<!--sort-->
+
 ## Augur
 
 ![Augur](PNG/augur.png)
@@ -621,5 +623,7 @@ Heavily feature in menial-labor jobs that involve interaction with other transhu
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nezumi:** Despite being pods, these are often favored as cheap morphs over synths. They’re especially popular with criminal and radical groups whose members identify as working class.                                       |
 | **Ammonite:** There’s a shadow war going on between two inner-system pod production houses: Replicant and Ota Lifeworks. It’s grown from patent infringement to black ops and tailored viruses targeting each other’s products. |
+
+<!--sort-end-->
 
 </div>

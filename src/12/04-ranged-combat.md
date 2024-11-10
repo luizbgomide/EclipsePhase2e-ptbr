@@ -87,25 +87,25 @@ These modifiers apply to ranged combat attacks.
 
 <!--sort-->
 
-| Situation                                                     |                                      Modifiers                                       |
-| :------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| Aim (Quick Action)                                            |                                         +10                                          |
+| Situation                                                          |                                      Modifiers                                       |
+| :----------------------------------------------------------------- | :----------------------------------------------------------------------------------: |
+| Aim (Quick Action)                                                 |                                         +10                                          |
 | <!--sort-union-->Aim (Complex Action)                              |                                         +30                                          |
-| Attacker Behind/Coming Out of Cover                           |                                         −10                                          |
-| Attacker In Melee                                             |                                −10 (−30 long weapons)                                |
-| Attacker Not Using Smartlink or Laser Sight                   |                                         −10                                          |
-| Attacker Firing Multiple Weapons At Once                      |                             −20 cumulative (after first)                             |
-| Defender Behind Minor Cover                                   |                                         −10                                          |
+| Attacker Behind/Coming Out of Cover                                |                                         −10                                          |
+| Attacker In Melee                                                  |                                −10 (−30 long weapons)                                |
+| Attacker Not Using Smartlink or Laser Sight                        |                                         −10                                          |
+| Attacker Firing Multiple Weapons At Once                           |                             −20 cumulative (after first)                             |
+| Defender Behind Minor Cover                                        |                                         −10                                          |
 | <!--sort-union-->Defender Behind Moderate Cover                    |                                         −20                                          |
 | <!--sort-union-->Defender Behind Major Cover                       |                                         −30                                          |
-| Defender Hidden                                               | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
-| Defender Prone and at Range (10+ m)                           |                                         −10                                          |
-| Firing Mode                                                   |                                                                                      |
+| Defender Hidden                                                    | −30 and/or 50% miss chance<br>([Blind Attacks](15-special-attacks.md#blind-attacks)) |
+| Defender Prone and at Range (10+ m)                                |                                         −10                                          |
+| Firing Mode                                                        |                                                                                      |
 | <!--sort-union--><p class="indent">» Single-Shot/Semi-Auto</p>     |                                          +0                                          |
 | <!--sort-union--><p class="indent">» Burst Fire (Concentrated)</p> |                                 +10 or +1d10&nbsp;DV                                 |
 | <!--sort-union--><p class="indent">» Full Auto (Concentrated)</p>  |                                 +30 or +2d10&nbsp;DV                                 |
-| Indirect Fire                                                 |                                         −20                                          |
-| Range                                                         |                                                                                      |
+| Indirect Fire                                                      |                                         −20                                          |
+| Range                                                              |                                                                                      |
 | <!--sort-union--><p class="indent">» Point-Blank (2&nbsp;m)</p>    |                                         +10                                          |
 | <!--sort-union--><p class="indent">» Close (10&nbsp;m)</p>         |                                          +0                                          |
 | <!--sort-union--><p class="indent">» Range</p>                     |                                         −10                                          |

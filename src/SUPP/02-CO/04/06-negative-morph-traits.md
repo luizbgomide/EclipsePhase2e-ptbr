@@ -4,6 +4,8 @@
 
 ### Negative Morph Traits
 
+<!--sort-->
+
 | Trait                                               | MP Bonus | Effect                                                                                                                                             |             Restricted To |
 | :-------------------------------------------------- | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
 | [Aggressive GRM](#aggressive-grm)                   |    1     | Sterile, rejects all bioware, cyberware, and nanoware mods.                                                                                        |                 Biomorphs |
@@ -20,6 +22,8 @@
 | [Whole Body Apoptosis](#whole-body-apoptosis)       |    1     | GM can substitute critical failure with biological death within 24 hours.                                                                          |                 Biomorphs |
 
 </blockquote>
+
+<!--sort-->
 
 ### Aggressive GRM
 
@@ -102,3 +106,5 @@ Each time an artifact is invoked, make a Willpower Stress Test against SV 1d6 (m
 **▼ Morph Trait • MP Bonus: 1**
 
 This trait may only be applied to biomorphs. This morph is genetically programmed to suffer a sudden and lethal massive cellular failure at some point in the future, usually within a given 10-year period, though it is possible to target a specific date, give or take a few months. Bioconservatives favor this ware to die quickly and naturally. The cellular failure takes about 10 minutes to complete, giving you just enough time to send final messages. It only applies an MP Bonus if you agree that the GM may at any point turn a critical failure you roll into a regular failure and then trigger the apoptosis within the next 24 hours (in-game).
+
+<!--sort-end-->

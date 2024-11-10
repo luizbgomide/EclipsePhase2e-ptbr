@@ -267,12 +267,12 @@ Research into the Watts-MacLeod strain has resulted in several exceptional break
 
 <!--sort-->
 
-| PSI DRUGS            |  Type   | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                           |
-| :------------------- | :-----: | :---------: | :------: | :------------------: | :----------: | :---------------------------------------------------- |
-| Inhibitor            | Biochem |     Any     | 6 hours  |      +20/Mental      |    Maj/3     | −30 Psi, −20&nbsp;WIL Check or lose psi abilities.    |
-| Psi-Opener           | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-chi sleight. SV 1d6.        |
+| PSI DRUGS                 |  Type   | Application | Duration | Addict Mod/<wbr>Type | Comp/<wbr>GP | Description                                           |
+| :------------------------ | :-----: | :---------: | :------: | :------------------: | :----------: | :---------------------------------------------------- |
+| Inhibitor                 | Biochem |     Any     | 6 hours  |      +20/Mental      |    Maj/3     | −30 Psi, −20&nbsp;WIL Check or lose psi abilities.    |
+| Psi-Opener                | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-chi sleight. SV 1d6.        |
 | <!--sort-union-->Psi-Kick | Biochem |     Any     |  1 hour  |      −10/Mental      |    Rare/—    | Effects of 1 specific psi-gamma sleight. SV 1d10 + 2. |
-| Psike-Out            | Biochem |     Any     | 8 hours  |      −10/Mental      |   Maj/R/3    | +10 Psi skill.                                        |
+| Psike-Out                 | Biochem |     Any     | 8 hours  |      −10/Mental      |   Maj/R/3    | +10 Psi skill.                                        |
 
 <!--sort-->
 

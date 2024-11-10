@@ -10,6 +10,8 @@ Positive ego traits have a CP Cost and provide bonuses in certain situations.
 
 ### Positive Ego Traits
 
+<!--sort-->
+
 | Trait                                         | CP Cost | Effect                                                                                                          |     Restricted To |
 | :-------------------------------------------- | :-----: | :-------------------------------------------------------------------------------------------------------------- | ----------------: |
 | [Adversarial Hacker](#adversarial-hacker)     |    2    | Use Insight to flip-flop system defender’s roll.                                                                |                   |
@@ -58,6 +60,8 @@ Positive ego traits have a CP Cost and provide bonuses in certain situations.
 | [Vicious Mind](#vicious-mind)                 |    2    | +1d6 DV/SV with psi attacks.                                                                                    |            Asyncs |
 
 </blockquote>
+
+<!--sort-->
 
 ### Adversarial Hacker
 
@@ -350,9 +354,13 @@ This trait is only available to asyncs. Your mental attacks are incredibly invas
 
 Negative ego traits provide a CP bonus and apply penalties in certain situations.
 
+<!--sort-end-->
+
 <blockquote class="framed-table">
 
 ### Negative Ego Traits
+
+<!--sort-->
 
 | Trait                                                 | CP Bonus | Effect                                                                                                                      |      Restricted To |
 | :---------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------------------- | -----------------: |
@@ -393,6 +401,8 @@ Negative ego traits provide a CP bonus and apply penalties in certain situations
 | [Unusual Aura](#unusual-aura)                         |    4     | Your targets are always aware and your sleights have a visible effect when you trigger an influence effect.                 |             Asyncs |
 
 </blockquote>
+
+<!--sort-->
 
 ### Addictive Personality
 
@@ -641,3 +651,5 @@ You have an unfortunate tendency to screw things up at critical moments. Once pe
 **▲ Ego Trait • CP Bonus: 4**
 
 This trait is only available to asyncs. Your psi-gamma sleights often manifest in an obvious physical way: glowing eyes, a hair-raising static crackling, an eery miasma, or headaches in your targets. This happens any time you acquire an influence effect. Additionally, your targets are always aware that they have been affected by something ([Target Awareness](../../../14/04-using-psi.md#target-awareness), _EP2_) and that you are somehow connected.
+
+<!--sort-end-->

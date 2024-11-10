@@ -426,7 +426,7 @@ Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-
 
 **On Earth, you live a life of precarious but protected stability in a defended enclave.**
 
-Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -691,7 +691,7 @@ Roll 1d100 for Background, d10 for Morph. Thennnn jump to [Step 5: Youth Event](
 
 **You are a cog in the wheels of hypercapitalism, taking whatever gigs you can.**
 
-Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -957,7 +957,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 **You live in the top percent, with abundant wealth and resources.**
 
-Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06–step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1226,7 +1226,7 @@ Roll 1d100 for Background, d10 for Morph. Thenn jump to [Step 5: Youth Event](06
 
 **With nothing to lose, you sell yourself into a work contract to off-world hypercorps.**
 
-Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06–step-5-youth-event.md).
+Roll 1d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-step-5-youth-event.md).
 
 <!--sort-->
 <!--sort-block-->

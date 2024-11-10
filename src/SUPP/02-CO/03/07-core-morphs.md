@@ -2,6 +2,8 @@
 
 <div class=morph-images>
 
+<!--sort-->
+
 ## Overmind
 
 ![Overmind](PNG/overmind.png)
@@ -89,5 +91,7 @@ Wardens are basic core cyberbrain systems, commonly used in smaller habitats and
 | **WARDEN**                                                                                                                                                                                                                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ammonite:** The utility of wardens for maintaining operational security over your base of operations is criminally overlooked. If you’re going to operate out of the same module for more than a week, set up a warden and drop a fork in it. When the opposition comes sniffing around, you’ll thank me. |
+
+<!--sort-end-->
 
 </div>

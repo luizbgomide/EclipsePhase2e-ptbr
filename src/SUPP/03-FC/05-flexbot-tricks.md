@@ -2,6 +2,8 @@
 
 Modular design and shape adjusting ware enable certain reconfiguration “tricks” that are impossible with other morphs.
 
+<!--sort-->
+
 ## Access Cover
 
 <div class="stat-list">
@@ -122,3 +124,5 @@ You sculpt your shape to optimize air (or water) flow around and reduce drag. Th
 With this more extreme form of shielding, you reconfigure so that your protective frame also protects from one specific direction, in addition to your armor. This doubles your entire AV against attacks from that one direction, but leaves you without that armor against attacks from other directions.
 
 </div>
+
+<!--sort-end-->
