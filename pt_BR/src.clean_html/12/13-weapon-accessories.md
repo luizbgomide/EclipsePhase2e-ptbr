@@ -2,6 +2,8 @@
 
 Os seguintes acessórios estão disponíveis para armas.
 
+<!--sort-->
+
 | ACESSÓRIOS DE ARMAS                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                           |
 |:------------------------------------------------------------ |:-------------------------------------:|:----------------------------------------------------------------------------------- |
 | Deslizante de Braço                                          |                 Men/1                 | Saque e ataque com uma única ação complexa.                                         |
@@ -15,6 +17,8 @@ Os seguintes acessórios estão disponíveis para armas.
 | Silenciador/<!-- CLEANED wbr -->Supressor de Ruído |                 Men/1                 | −30 em Percepção para localizar pelo som.                                           |
 | Ligação Inteligente                                          |                 Mod/2                 | Mira assistida, controle aprimorado da arma.                                        |
 | Pente Inteligente                                            |                 Men/1                 | Seleciona a munição de cada tiro, reduza a capacidade de munição em −50%.           |
+
+<!--sort-->
 
 **Deslizante de Braço:** Esse suporte deslizante pode segurar um arma de uma mão sob sua manga, levando a arma para sua mão com um sinal eletrônico ou sequência específica de movimentos do braço. Você pode sacar a arma e atacar com uma única ação complexa.
 
@@ -37,3 +41,6 @@ Os seguintes acessórios estão disponíveis para armas.
 **Ligação Inteligente:** Uma ligação Inteligente está inclusa automaticamente na maioria das armas. Ela conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). As ligações inteligentes também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. As ligações inteligentes também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](09-kinetic-weapons.md#smart-ammo) ou programar [condições de acionamento](10-seeker-weapons-and-grenades.md#trigger-conditions) de buscadores.
 
 **Pente Inteligente:** Um pente inteligente permite que você escolha qual cartucho de munição será disparado a cada tiro. No entanto, esse sistema deixa menos espaço para balas, então reduza a capacidade de munição da arma à metade (arredonde para cima). Pentes inteligentes podem ser combinados com pentes estendidos, nesse caso a capacidade de munição é normal.
+
+<!--sort-end-->
+
