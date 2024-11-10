@@ -63,17 +63,17 @@ Você pode gastar PR para comprar um traço positivo de ego com um Custo de PP e
 
 Note que você não ganha PR de qualquer traço positivo de ego que você perca como consequência de suas ações, nem de traços negativos de ego que você adquire durante o jogo — você está simplesmente preso a nova falha.
 
-### Melhorar Aptidões
-
-Aumente aptidões ao custo de 1&nbsp;PR por ponto de aptidão. Aptidões não podem ser aumentadas acima de 30.
-
-Aumentar o valor de uma aptidão também aumenta o valor de todas as perícias vinculadas por uma quantia equivalente (dobrada no caso de Evasão/Percepção).
-
 ### Melhorar e Aprender Perícias
 
 Para melhorar uma perícia existente ou aprender uma nova, você deve ativamente praticá-la, estudá-la e/ou buscar instrução. Cada PR gasto lhe dá 5 pontos de perícia para alocar. Novas perícias são aumentadas a partir do valor da aptidão vinculada.
 
 Uma vez que você tenha atingido um nível de competência em uma perícia (60+), você atingiu um platô onde a melhora progride mais lentamente, e até a prática e estudos consistentes têm menos resultados. Você não pode gastar mais de 1 ponto de perícia em perícias que estão em 60 ou mais por semana de recesso. Nenhuma perícia pode ser elevada acima de 100 (e mesmo assim, 99 ainda é uma falha crítica).
+
+### Melhorar Aptidões
+
+Aumente aptidões ao custo de 1&nbsp;PR por ponto de aptidão. Aptidões não podem ser aumentadas acima de 30.
+
+Aumentar o valor de uma aptidão também aumenta o valor de todas as perícias vinculadas por uma quantia equivalente (dobrada no caso de Evasão/Percepção).
 
 ### Aumentar Flex
 
