@@ -207,6 +207,7 @@
 <p>When a system is on active alert, all intruders suffer a −10 modifier to Infosec Tests for the duration of the alert.</p>
 <h2 id="passive-countermeasures"><a class="header" href="#passive-countermeasures">Passive Countermeasures</a></h2>
 <p>Passive countermeasures are launched as a precaution whenever there is unusual activity or other signs that there may be an intruder or malware at work. Some of these countermeasures are automatically triggered by the system or firewall whenever a passive or active alert is initiated.</p>
+<!--sort-->
 <h3 id="backup"><a class="header" href="#backup">Backup</a></h3>
 <p><strong>[Automatic]</strong></p>
 <p>Some systems are set to automatically backup all logs and critical data when a passive alert goes off. These backups are often copied to a secure storage in the cloud or to another dedicated system, where they are protected from deletion.</p>
@@ -221,8 +222,10 @@
 <h3 id="reduce-privileges"><a class="header" href="#reduce-privileges">Reduce Privileges</a></h3>
 <p><strong>[Automatic]</strong></p>
 <p>As a protective measure, the system temporarily reduces access privileges available to standard users — and sometimes security accounts as well. This means that legitimate users may be unable to perform certain functions, use some apps/services, or access certain directories without authorization from an admin account.</p>
+<!--sort-end-->
 <h2 id="active-countermeasures"><a class="header" href="#active-countermeasures">Active Countermeasures</a></h2>
 <p>Active countermeasures are initiated when an intruder is fully detected (spotted status). Systems/firewalls can be set to immediately trigger automatic countermeasures; others may be pursued at the defender’s discretion.</p>
+<!--sort-->
 <h3 id="counter-intrusion"><a class="header" href="#counter-intrusion">Counter-intrusion</a></h3>
 <p>Though illegal in some jurisdictions, system defenders may pro-actively protect their wards by counter-attacking the hacker. For this to occur, the intruder must first be <a href="10-tracking.html#mesh-activity-tracking">successfully traced</a> and their mesh ID obtained. Once this occurs, the defender can then launch their own intrusion on the system from which the hacker originates.</p>
 <h3 id="crash-and-lockout"><a class="header" href="#crash-and-lockout">Crash and Lockout</a></h3>
@@ -238,6 +241,7 @@
 <h3 id="trace"><a class="header" href="#trace">Trace</a></h3>
 <p><strong>[Automatic]</strong></p>
 <p>Defenders can initiate a trace on a spotted intruder. Most hackers are careful to use an anonymizing service to mask their mesh ID and location, but this is not always the case. If an intruder is physically located, the standard procedure is to alert habitat security or other local or private police, who will mobilize to apprehend the suspect.</p>
+<!--sort-end-->
 <h2 id="security-audits"><a class="header" href="#security-audits">Security Audits</a></h2>
 <p>Security-conscious systems will undergo an audit on a regular basis or after any detected intrusion, with the intent of patching vulnerabilities that were exploited, eliminating backdoors that were installed, and determining what the intruder did and what they were after. The GM determines when an audit is undertaken. Make an Infosec Test for the system defender, with a timeframe of 24 hours. If successful, any recently exploited vulnerabilities are patched (the hacker loses the +30 bonus to hack again). Superior successes reveal backdoors or supply additional info on what the intruder was up to.</p>
 <blockquote>
