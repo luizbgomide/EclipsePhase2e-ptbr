@@ -24,6 +24,8 @@ Como um invasor, a primeira ação que você pode querer fazer, será a de insta
 
 Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, por exemplo, estar sujeitos a uploads, simulespaços, forques ou psicocirurgias forçados. Egos presos por períodos prolongados podem sofrer estresse de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
 
+<!--sort-->
+
 ### Controlar Ware (Cibercérebro)
 
 Como em [Controlar Ware](13-system-subversion.md#control-ware).
@@ -71,6 +73,8 @@ Como em [Grampear Sentidos](13-system-subversion.md#tap-senses).
 ### Encerrar Fluxo da Pilha Cortical
 
 O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma conexão de sentido único, então a pilha cortical em si não pode ser hackeada, mas a transferência de dados pode ser cortada. Da mesma forma, as atualizações em andamento para os arquivos de backup inativo de um infomorfo podem ser encerradas. Isso pode ser feito durante um período temporário ou pode ser cortado indefinidamente. Um backup restaurado estará faltando as memórias do período em que o fluxo foi encerrado.
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote -->
 
