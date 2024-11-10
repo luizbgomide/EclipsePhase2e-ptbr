@@ -49,6 +49,8 @@ A munição é definida por seus vários tipos (padrão, perfurante, cápsula, e
 
 O modificador do Valor de Dano da munição é adicionado ao VD base da arma.
 
+<!--sort-->
+
 | MUNIÇÕES CINÉTICAS | Modificador do Valor de Dano | Comp/<!-- CLEANED wbr -->PE (por 100) | Notas                             |
 |:------------------ |:----------------------------:|:-----------------------------------------------:|:--------------------------------- |
 | Tirocerto          |              —               |                     Men/R/1                     | Estável                           |
@@ -75,6 +77,8 @@ A munição inteligente de armas de fogo é feita de materiais programáveis. Al
 ### Munições Especializadas de Armas de Fogo
 
 Estas munições só podem ser usadas com armas de fogo, e não com railguns. Elas são adquiridas em lotes de 100 cartuchos e devem ser registradas separadamente.
+
+<!--sort-->
 
 **Tirocerto:** Balas tirocerto mudam de formato durante o voo para se manterem fixas no curso, contrariando os efeitos de vento, arrasto e gravidade sobre a distância. Ataques feitos com Tirocerto ignoram todos os modificadores de alcance.
 
@@ -103,3 +107,6 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 **Aspersora:** Cartuchos aspersores contêm uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos aspersores normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
 
 **Chocante:** Cartuchos chocantes são balas de borracha ou gel que aplicam um choque no alvo com uma carga piezoelétrica.
+
+<!--sort-end-->
+
