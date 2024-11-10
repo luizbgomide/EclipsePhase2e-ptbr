@@ -183,7 +183,7 @@ If these rules at first seem intimidating, keep in mind that the core hacking ru
 - By default, you get in with standard user privileges. Superior successes get you better privileges.
 - Once in, you can take any action that your privileges allow without making a test.
 - If your privileges don’t allow it, make a Hacking Test (Infosec vs. Firewall) to pull it off.
-- Use your imagination! If you want to do something  —  loop sensors, jam weapons, steal files, open a door, crash an opposing AI  —  your GM will tell if you need to make a test.
+- Use your imagination! If you want to do something — loop sensors, jam weapons, steal files, open a door, crash an opposing AI — your GM will tell if you need to make a test.
 - Don’t forget to use Insight pool for extra mesh actions or to modify rolls!
 
 </blockquote>
