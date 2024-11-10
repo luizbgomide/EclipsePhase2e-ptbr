@@ -2,6 +2,8 @@
 
 Algumas armas e equipamentos listam traços específicos que indicam efeitos especiais. Alguns desses causam [condições](21-other-action-factors.md#conditions) específicas no alvo:
 
+<!--sort-->
+
 - **Perfura-Armadura:** Essa arma penetra em armaduras. O ataque inflige −1d10&nbsp;VD, mas a armadura é reduzida à metade. Armas e tipos de munição listados como perfura-armadura já incorporam o modificador de VD. Efeitos perfurantes de armadura adicionais são ignorados.
 - **Cegante:** Alvos devem fazer uma Prova de REF ou ficarem [cegados](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente até que seja reparado ou que passe algum tempo em um tanque de cura. Ware antirreflexo protege contra efeitos cegantes baseados em luz.
 - **Ocultável:** Esse item é facilmente escondido. Você recebe +30 em Testes de Infiltração para esconder esse item em seu corpo (ou em outro lugar).
