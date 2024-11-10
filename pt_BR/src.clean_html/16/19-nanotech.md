@@ -2,6 +2,8 @@
 
 A nanotecnologia está difundida por todo o Sistema Solar, com a exceção da República Joviana e habitats similarmente bioconservadores. Por décadas, a nanofabricação tem sido o principal método de manufatura. Apesar da tecnologia estar avançando, a maioria dos nanobots usados para fabricação/replicação exige ambientes com condições especiais, como dentro de máquinas cornucópia ou tanques de cura, e não podem operar em outros lugares.
 
+<!--sort-->
+
 | EQUIPAMENTOS DE NANOTECNOLOGIA | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                                                                              |
 |:------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ponte de Ego                   |                 Mod/2                 | Upload de/download para cérebros biológicos.                                                                                                                                           |
@@ -11,11 +13,15 @@ A nanotecnologia está difundida por todo o Sistema Solar, com a exceção da Re
 | Nanodetector                   |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60.                                                                            |
 | Spray Reparador                |                 Men/1                 | Cura 1d10 \[6\] de dano por hora por 12 horas para sintemorfos. Uso único.                                                                                                           |
 
+<!--sort-->
+
 **Ponte de Ego:** As pontes de ego são dispositivos usados para fazer upload de ou download para cérebros biológicos ([Backups & Uploads](../15/01-backups-and-uploading.md)). Os sensores cranianos da ponte se desdobram ao redor da sua cabeça quando estão em uso, examinando e escaneando o seu cérebro. Agulhas no apoio de pescoço implantam nanobots que ou medem suas conexões mentais e neurais (upload) ou remapeiam-nas fisicamente (download).
 
 **Spray Curativo:** Esse cartucho muito pequeno contém uma aplicação de uso único de nanobots médicos para cura de biomorfos. Você simplesmente o espirra em um ferimento aberto ou injeta na região danificada. Ele cura 1d10 \[6\] de dano por hora ([Recuperação](../12/17-healing-and-repair.md#recovery)) por 12 horas.
 
 **Tanque de Cura:** Os tanques de cura podem ser os dispositivos médicos mais poderosos em uso geral. Os tanques preservam os biomorfos em um gel de nutrientes repleto de nanobots médicos, enquanto linhas de injeção enchem o corpo de enxames de medicadores. Eles rapidamente avaliam sua saúde, consertam ossos, curam ferimentos, regeneram membros, e executam outros reparos na sua forma biológica ([Cura & Reparo](../12/17-healing-and-repair.md)). Com a exceção de algumas nanopragas excepcionalmente mortais e certos tipos de dano neurológico, um tanque de cura pode curar qualquer doença e sarar qualquer lesão. Contato que você esteja vivo quando for colocado em um tanque de cura, você não só vai sobreviver, mas emergirá sem um arranhão, dado o tempo suficiente. Um tanque de cura pode pegar até mesmo sua cabeça decapitada (contanto que tenha sido estabilizada por medicadores ou primeiros socorros de nanotecnologia) e regenerar um corpo inteiro baseado na genética da sua cabeça.
+
+<!--sort-union-->
 
 Os cuidados médicos não são tudo que um tanque de cura pode fazer — eles também são a forma mais segura de esculpir seu corpo ou instalar vários sistemas de biowares, ciberwares ou nanowares. Nanomáquinas especializadas são utilizadas para criar o ware dentro do seu corpo ou personalizar sua forma. Todo hospital, clínica, banco de corpos, desmanche, e salão de ampliações possuem vários tanques de cura.
 
@@ -24,6 +30,8 @@ Os cuidados médicos não são tudo que um tanque de cura pode fazer — eles ta
 **Nanodetector:** Os nanodetectores são pequenos dispositivos que sugam o ar e microdetritos para poder escanear e detectar nanobots. Dado que os nanobots são tão minúsculos, a densidade de nanobots na região tem um grande impacto em seu sucesso. O nanodetector possui a Perícia Exótica: Detecção de Nanobots 40 para detectar nanobots, +30 se um nanoenxame ou uma colmeia ativos estiverem presentes. Os nanodetectores frequentemente captam nanobots de enxames que não estão mais ativos, mas eles podem avaliar se os bots ainda estão ativos (ou estavam recentemente) e a densidade aproximada (Durabilidade) do enxame na área. Uma vez que um nanobot seja detectado, ele pode ser analisado pelo usuário ou pela IA do nanodetector, usando a perícia Saber: Nanotecnologia 60. Os nanodetectores são frequentemente vestidos e deixados ligados, configurados para alertarem você se um nanoenxame hostil for detectado.
 
 **Spray Reparador:** Similar ao spray curativo, essa aplicação de uso único de nanobots reparadores repara 1d10 \[6\] de dano por hora por 12 horas para sintemorfos, bots e outras carcaças. O spray deve ter acesso ao diagrama da carcaça ou ter uma hora para escanear um projeto similar.
+
+<!--sort-end-->
 
 ## Colmeias
 
