@@ -72,6 +72,8 @@ As regras acima são direcionadas para morfos humanoides, mas há muitos morfos,
 
 Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](25-vehicle-movement.md).
 
+<!--sort-->
+
 ### Barca
 
 **\[Pilotagem: Náutica • Rápido 8/32\]**
@@ -161,3 +163,6 @@ A maioria das carcaças com rodas têm raios inteligentes que permitem que as ro
 **\[Atletismo • Rápido 8/32\]**
 
 Morfos e carcaças alados usam membros que produzem sustentação quando se movem pelo ar (eles não funcionam no vácuo). Sistemas com múltiplas asas controladas independentemente podem flutuar ou se mover rapidamente em qualquer direção. Aviões de asas fixas impulsionados por motores usam Pilotagem: Aérea.
+
+<!--sort-end-->
+
