@@ -16,6 +16,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Agente da Firewall/Criminoso
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                      |
 |:--------------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------------------------------------------- |
 | [Anonimizador](../16/04-services.md#mesh-services)                                |                 Men/1                 | Mascara a sua mesh ID.                                                                         |
@@ -30,6 +32,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 #### \* Alternativa para Sintemorfo
 
+<!--sort-->
+
 | EQUIPAMENTOS                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                       |
 |:---------------------------------------------------- |:-------------------------------------:|:------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões. |
@@ -38,6 +42,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 <!-- CLEANED /blockquote -->
 
 ### Desbravador
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
 |:-------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
@@ -53,6 +59,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 #### \* Alternativa para Sintemorfo
 
+<!--sort-->
+
 | EQUIPAMENTOS                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
 |:---------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões.                                                   |
@@ -62,6 +70,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 <!-- CLEANED /blockquote -->
 
 ### Pacote Opcional: Infomorfo
+
+<!--sort-->
 
 | EQUIPAMENTOS                                           | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:------------------------------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
@@ -74,7 +84,11 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ## Pacotes de Profissão
 
+<!--sort-->
+
 ### Acadêmico
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                                 | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                 |
 |:---------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------------------------- |
@@ -89,6 +103,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Agente Infiltrado
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                             |
 |:--------------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------- |
 | [Manto Camaleão](../16/17-espionage-and-security-tech.md)                         |                 Mod/2                 | Camuflagem, +10 em Infiltração, +30 se estiver parado.                                                |
@@ -102,6 +118,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 #### \* Alternativa para Sintemorfo
 
+<!--sort-->
+
 | EQUIPAMENTOS                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                    |
 |:----------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------------------------- |
 | [Máscara Sintética](../16/09-social-augmentations.md) |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce. |
@@ -109,6 +127,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 <!-- CLEANED /blockquote -->
 
 ### Capanga
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                           |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------- |
@@ -122,6 +142,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Explorador
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:--------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications) |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                               |
@@ -134,6 +156,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Malandro
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                   |
 |:------------------------------------------------------------------------ |:-------------------------------------:|:----------------------------------------------------------------------------------------------------------- |
 | [Audição Aprimorada](../16/06-sensory-augmentations.md)                  |                 Men/1                 | Escuta frequências mais altas e mais baixas. +10 em Percepção baseada em audição.                           |
@@ -145,6 +169,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Firmeza (5 doses)](../16/15-chemicals-drugs-and-toxins.md#social-drugs) |                 Men/1                 | +10 em Provas de SAG/VON vs. Persuasão/Provocação, Comportamento Acentuado: Teimosia (2).                   |
 
 ### Hacker Genético
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------- |
@@ -159,6 +185,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Hacker
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                            | Comp/<!-- CLEANED wbr -->PE | Descrição                                            |
 |:----------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------- |
 | [App de Violação](../16/13-apps-and-alis.md#apps)                       |                Mod/R/2                | Ferramenta e bibliotecas para hackeamento.           |
@@ -169,6 +197,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [App de Rastreamento](../16/13-apps-and-alis.md#apps)                   |                 Mod/2                 | Rastreia conexões.                                   |
 
 ### Investigador
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                                | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                 |
 |:--------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------- |
@@ -184,6 +214,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Médico
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                        |
 |:-------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------- |
 | [Medibot](../16/21-robots.md#medical-bots)                           |                 Mai/3                 | Bot médico.                                                                      |
@@ -193,6 +225,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Escaneador Médico](../16/19-nanotech.md)                            |                 Men/1                 | Analisa saúde, diagnóstico com Medicina 60, detecta nanobots igual nanodetector. |
 
 ### Hacker Mental
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                  |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------- |
@@ -204,6 +238,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [App de Psicocirurgia](../16/13-apps-and-alis.md#apps)                    |                 Mod/2                 | Edita mentes.                                              |
 
 ### Sucateiro
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                   |
 |:------------------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------------- |
@@ -217,6 +253,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 ### Cientista
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:-------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
@@ -227,6 +265,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Recipiente de Espécime](../16/18-mission-gear.md#science-tools)     |                 Men/1                 | Mantém amostras em condições de estase.                                                            |
 
 ### Soldado
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:------------------------------------------------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
@@ -240,6 +280,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 #### \* Alternativa para Sintemorfo
 
+<!--sort-->
+
 | EQUIPAMENTOS                                                      | Comp/<!-- CLEANED wbr -->PE | Descrição                                                       |
 |:----------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
 | [Enxame Reparador](../16/20-nanoswarms-and-microswarms.md#swarms) |                 Mod/2                 | Repara 1d10 de dano por hora ou 1 ferimento por dia por 4 dias. |
@@ -247,6 +289,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 <!-- CLEANED /blockquote -->
 
 ### Técnico
+
+<!--sort-->
 
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                       |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------- |
@@ -257,3 +301,5 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Fabro Médio](../16/19-nanotech.md#nanofabricators)                       |                 Mod/2                 | Fabrica itens pequenos.                                         |
 | [Ferramentas (Kit)](../16/05-common-tech-and-ware.md#everyday-technology) |                 Men/1                 | Portátil, aplicável à perícia específica.                       |
 | [Utiliferramenta](../16/05-common-tech-and-ware.md#everyday-technology)   |                 Men/1                 | Ferramenta de uso geral de materiais inteligentes.              |
+
+<!--sort-end-->
