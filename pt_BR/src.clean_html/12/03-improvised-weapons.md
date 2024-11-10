@@ -2,6 +2,8 @@
 
 Algumas vezes você é pego desprevinido e deve usar o que estiver a mão — ou talvez você só queira parecer maneiro detonando alguém com um pedaço de corrente. A tabela de Armas Improvisadas oferece valores para alguns itens potenciais. Os MJs pode usar isso como guia para lidar com itens não listados. Essas armas são usadas com a perícia Luta, embora o MJ possa determinar que em alguns casos uma Perícia Exótica é necessária.
 
+<!--sort-->
+
 | ARMAS IMPROVISADAS   | Valor de Dano \[Média\] | Complexidade | Notas                |
 |:-------------------- |:-------------------------:|:------------:|:-------------------- |
 | Bola de Baseball     |      1d6 + 1 \[5\]      |     Men      | Ocultável            |
