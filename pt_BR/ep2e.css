@@ -149,8 +149,9 @@ table tr > :last-child {
 
 .line-spread {
   display: flex;
-  justify-content: space-between;
-  margin: 1em 0;
+  /* flex-wrap: wrap; */
+  margin: 16px 0;
+  column-gap: 16px;
 }
 
 .line-spread > :first-child {
@@ -159,6 +160,7 @@ table tr > :last-child {
 
 .line-spread > :last-child {
   text-align: right;
+  margin-left: auto;
 }
 
 .line-spread * {
@@ -199,25 +201,16 @@ h2 {
   margin-bottom: 0;
 }
 
-.multi-column {
-  display: flex;
+.smart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
 }
 
-.multi-column > * {
-  width: 100%;
-}
-
-.multi-column > div:not(:first-child) {
-  margin-left: 16px;
-}
-
-.multi-column > .vcenter {
-  align-self: center;
-}
-
-.multi-column.balanced > * {
-  width: fit-content;
-  flex-grow: 1;
+.smart-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  column-gap: 16px;
 }
 
 /* eclipse phase aptitude superscripts */
