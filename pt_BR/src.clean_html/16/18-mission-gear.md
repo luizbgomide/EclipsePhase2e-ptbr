@@ -127,4 +127,3 @@ A menos que esteja indicado, assuma que os personagens têm modelos mais recente
 **Traje de Vácuo Padrão:** Feito de materiais mais grossos e duráveis, os trajes de vácuo padrões fornecem 48 horas de ar e incorporam um autocozedor capaz de reciclar todos os resíduos e produzir alimentos e água indefinidamente. Cada traje está equipado com um ecto, um amplificador de rádio, visor, e sensores atmosféricos. Esses trajes têm um Valor de Armadura de 8/6 e protegem você de temperaturas entre −175 e 140&nbsp;°C. Eles selam instantaneamente qualquer buraco, a não ser que mais do que 30 pontos de dano tenham sido infligidos de uma vez.
 
 <!--sort-end-->
-
