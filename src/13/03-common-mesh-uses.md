@@ -101,4 +101,3 @@ Only [servers](04-devices-apps-and-links.md#servers) have the bandwidth and proc
 VR is covered in more detail on [Virtual Reality](18-virtual-reality.md).
 
 <!--sort-end-->
-

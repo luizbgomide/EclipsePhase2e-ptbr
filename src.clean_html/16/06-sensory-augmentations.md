@@ -58,4 +58,3 @@ This ware improves your morph’s sensory capabilities.
 **T-Ray Emitter:** Mounted under the skin of the user’s forehead, this implant generates low-powered beams of terahertz radiation (t-rays). Characters with enhanced vision can use reflected t-rays to see effectively see through walls and other materials ([Senses and Sensors](07-senses-and-sensors.md)). This implant allows the user to see using reflected t-rays for 20 meters in a normal atmosphere and for 100 meters in vacuum.
 
 <!--sort-end-->
-

@@ -85,4 +85,3 @@ The tool’s nanobots can also circumvent the security of electronic locks. Make
 **X-Ray Emitter:** This small device emits a focused beam of low-powered x-rays, designed to be used with enhanced vision augmentation, specs, or similar vision enhancers. It allows you to image objects via x-rays and see through walls, into containers, and through objects by measuring backscatter x-ray radiation ([Senses and Sensors](07-senses-and-sensors.md)).
 
 <!--sort-end-->
-

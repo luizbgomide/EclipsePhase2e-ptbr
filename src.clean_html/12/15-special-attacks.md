@@ -126,4 +126,3 @@ You can wield a pistol in each hand for ranged combat, or larger weapons if you 
 You cannot fire multiple weapons against separate targets at once; each attack requires a separate complex action.
 
 <!--sort-end-->
-

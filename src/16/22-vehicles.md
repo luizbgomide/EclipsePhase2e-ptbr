@@ -379,4 +379,3 @@ Spacecraft have few stats in Eclipse Phase, as they are primarily handled as set
 <!--sort-end-->
 
 <!--sort-end-->
-

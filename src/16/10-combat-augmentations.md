@@ -84,4 +84,3 @@ Medichines for synthmorphs and bots consist of nanobots that monitor and repair 
 **Weapon Mount:** The morph is equipped with a hardpoint for carrying a weapon. _Static_ mounts face one direction only, _swiveling_ mounts have a limited 90° field of fire, _articulated_ hardpoints allow the mounted weapon to face all directions. Additionally, any of the mounts can be internally concealed (assuming room within the morph’s frame). Some are designed to stay internal and fire through their concealing layers (leaving a hole), others pop up, like a turret, and can be retracted. Multiple mounts may be installed, but small morphs are limited to 2, medium morphs 4. Neither small nor medium morphs can mount weapons with the Long trait. Cybernetic versions of this mod are static and can only be mounted in cyberlimbs (max 1 per limb).
 
 <!--sort-end-->
-

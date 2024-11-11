@@ -45,4 +45,3 @@ An alien presence lives inside of you. Your instinctual responses are different 
 **Free Sleight (Choose One):** Somatic Control, Eco-Empathy, or Xeno-Empathy
 
 <!--sort-end-->
-

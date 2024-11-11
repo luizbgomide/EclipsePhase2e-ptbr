@@ -36,4 +36,3 @@ Spray weapons blast their ammunition in a widening cone, allowing the firer to s
 **Vortex Ring Gun:** This less-lethal weapon detonates a blank cartridge and accelerates the explosive pressure down a widening barrel so that it develops into a high-speed vortex ring. This spinning, donut-shaped, concussive blast knocks down and stuns close-range targets. Drugs, chemicals, and similar agents can be loaded into the charge as well.
 
 <!--sort-end-->
-

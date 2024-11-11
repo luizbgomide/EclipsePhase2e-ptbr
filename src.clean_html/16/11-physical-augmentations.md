@@ -94,4 +94,3 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 **Wings:** Your morph is equipped with a pair of wings; either additional limbs or restructured arms. For small morphs, this allows gliding and limited flight in Earth-like gravities. Medium-sized morphs can fly in gravity less than 0.15&nbsp;g; in higher gravity they may be used to glide. Large and very large morphs may not use this augmentation. Most wing designs are transgenic and based on bat physiology, so that they may be easily folded when not in use. If combined with the retracting limb ware, these wings may be folded into your arms or back.
 
 <!--sort-end-->
-

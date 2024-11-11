@@ -46,4 +46,3 @@ Armor modifications add extra materials or coatings that either enhance resistan
 **Shock Proof:** Shock proof mods are electronically insulated to discharge and reduce the effect of shock weapons. Apply a +20 modifier to SOM Checks made to resist shock effects.
 
 <!--sort-end-->
-

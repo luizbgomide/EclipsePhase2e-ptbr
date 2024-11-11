@@ -104,4 +104,3 @@ Modern armor materials in Eclipse Phase include spidersilk weaves, crystalline-g
 **Second Skin:** This lightweight bodysuit, woven from spider silks and fullerenes, is typically worn as an underlayer, though some athletes use it as a uniform.
 
 <!--sort-end-->
-

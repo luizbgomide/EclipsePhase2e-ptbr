@@ -25,4 +25,3 @@ A quick primer to common futuristic materials:
 **Transparent Alumina:** This harder-than-steel ceramic, also known as sapphire, is used for scratch-resistant surfacing and transparent armor needs. Zero-g casting techniques enable intriguing transparent construction designs, so long as its poor tensile strength is respected.
 
 <!--sort-end-->
-

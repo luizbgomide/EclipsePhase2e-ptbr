@@ -353,4 +353,3 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 <!-- CLEANED /blockquote -->
 
 <!--sort-end-->
-

@@ -419,4 +419,3 @@ You implant a single post-hypnotic suggestion into the target’s mind which the
 You calm the target, relieving stress and anxiety. The target is relieved of the effects of an [acute stress response](../12/18-mental-health.md#acute-stress-responses) or triggered disorder for WIL ÷ 5 minutes. You may not use this sleight on yourself.
 
 <!--sort-end-->
-

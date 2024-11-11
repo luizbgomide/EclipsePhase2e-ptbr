@@ -46,4 +46,3 @@ Social ware, including cosmetic mods impacts your interactions with others and a
 **Synthetic Mask:** Your shell is equipped with a realistic faux-skin casing and carefully sculpted to pass as a biomorph (perhaps even a particular person). The morph can cry, spit, have sex, and will even bleed if cut. Only a detailed physical examination at −30 or a radar or x-ray scan will detect the synthmorph’s true nature. If disguised as a particular person, apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.
 
 <!--sort-end-->
-

@@ -64,4 +64,3 @@ Biomorphs without [vacuum sealing](../16/11-physical-augmentations.md) can spend
 After one minute in space, you begin to suffer from [asphyxiation](28-environmental-factors.md#asphyxiation). Damage is doubled if you hold air in your lungs or are not curled up in a vacuum-survival position. Additionally, characters trapped in space without adequate thermal protection suffer a −10 modifier to all actions and 2&nbsp;DV per minute.
 
 <!--sort-end-->
-

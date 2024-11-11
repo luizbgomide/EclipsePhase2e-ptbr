@@ -105,4 +105,3 @@ These devices are easily available in almost all habitats.
 **Wireless Energy Transmitter:** When plugged into an energy source, this transmitter will transfer power to devices within 20 meters via near-field resonant inductive coupling. These are common in habitat areas, both public and private.
 
 <!--sort-end-->
-

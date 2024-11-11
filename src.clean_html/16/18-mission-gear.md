@@ -127,4 +127,3 @@ Unless specifically noted, assume characters have newer models that function the
 **Standard Vacsuit:** Made from thicker and more durable materials, standard vacsuits provide 48 hours of air and incorporate an autocook capable of recycling all wastes and producing food and water indefinitely. Each suit is equipped with an ecto, a radio booster, specs, and atmospheric sensors. These suits have an Armor Value of 8/6 and protect you from temperatures from −175 to 140&nbsp;°C. They instantly seal any hole unless more than 30 points of damage are inflicted at once.
 
 <!--sort-end-->
-

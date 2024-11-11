@@ -104,4 +104,3 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 **Taggant:** Taggants grip onto and lodge themselves into everything in their dispersal volume. Each carries a unique identifier, so that if it is found, the tagged person or object can be linked to the point they were tagged. Taggants can be programmed to remain silent, responding to query broadcasts made with the proper crypto codes, or they can be programmed to broadcast their location back to the deployer via the mesh. Some high-security facilities deploy taggants at their egress points when alarms are triggered to mark intruders.
 
 <!--sort-end-->
-

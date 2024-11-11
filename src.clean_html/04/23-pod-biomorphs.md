@@ -154,4 +154,3 @@ Shapers are designed for infiltration and disguise. They lack the seamlines comm
 <!-- CLEANED /blockquote -->
 
 <!--sort-end-->
-

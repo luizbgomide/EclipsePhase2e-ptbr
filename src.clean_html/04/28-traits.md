@@ -764,4 +764,3 @@ This trait is only available to biomorphs. The morph’s immune system is easily
 This trait is only available to biomorphs. This morph suffers from space sickness and does not fare well in zero gravity. Apply a −10 impairment modifier in any microgravity climate. Additionally, the first time you must acclimate or endure excessive movement in microgravity, you must make a SOM Check or spend 1 hour incapacitated by nausea.
 
 <!--sort-end-->
-

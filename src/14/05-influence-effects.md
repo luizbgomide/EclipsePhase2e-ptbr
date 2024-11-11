@@ -140,4 +140,3 @@ In this vein, the influence effects provided for each sub-strain should be consi
 </blockquote>
 
 <!--sort-end-->
-

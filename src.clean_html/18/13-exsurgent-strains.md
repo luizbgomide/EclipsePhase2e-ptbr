@@ -181,4 +181,3 @@ During this period, you acquire the Enhanced Behavior (Nest, Level 3) trait. You
 In this final stage, you emerge as a fully transformed exsurgent NPC.
 
 <!--sort-end-->
-

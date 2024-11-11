@@ -171,4 +171,3 @@ Not to be confused with the genetic disorder, reiterative schizophrenia has simi
 **Effect:** You experience delusions and hallucinations as determined by the GM and are prone to conspiratorial thinking. You suffer a −20 modifier to tests that require coherent communication.
 
 <!--sort-end-->
-

@@ -87,4 +87,3 @@ These services are available on some habitats.
 **Space Travel:** Space transport cost depends on a number of factors like distance, quality of lodgings, and how much cargo you’re bringing with. At the low end, an intra-habitat shuttle trip within the same cluster, or a trip to or from a planetary body’s surface and orbit, is not cheap but affordable. Just about anything else is progressively more costly.
 
 <!--sort-end-->
-

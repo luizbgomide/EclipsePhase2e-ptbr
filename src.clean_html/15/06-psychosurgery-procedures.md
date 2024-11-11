@@ -129,4 +129,3 @@ Skill suppression attempts to identify where skills are stored in the brain and 
 Tasping is the use of deep brain stimulation techniques to tickle the mind’s pleasure centers. Though this procedure is often used for therapeutic purposes for patients suffering from depression or other mental illnesses, the intent with tasping is to overload the subject into a prolonged state of almost unendurable bliss. Such stimulation is highly addictive, however, so if you are exposed to it for repeated or extended periods you will need to make a WIL Check at −30 or pick up the [Addiction trait](../04/28-traits.md#addiction). Some criminal organizations have been known to use tasping addiction and rewards as a means of controlling those under their thrall.
 
 <!--sort-end-->
-

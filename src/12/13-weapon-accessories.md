@@ -43,4 +43,3 @@ The following accessories are available for weapons.
 **Smartlink:** Smartlinks are automatically included in most weapons. It connects the weapon to your mesh inserts, placing a targeting bracket in your field of vision and providing range and targeting information (negating the −10 modifier for not using a smartlink or laser sight). Smartlinks also incorporate a microcamera that allows the user to see what the weapon is pointed at, fire around corners, etc. Smartlinks also allow certain other types of weapon system control, such as changing [smart ammo](09-kinetic-weapons.md#smart-ammo) or programming seeker [trigger conditions](10-seeker-weapons-and-grenades.md#trigger-conditions).
 
 <!--sort-end-->
-
