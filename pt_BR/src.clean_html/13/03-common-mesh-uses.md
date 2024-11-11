@@ -101,4 +101,3 @@ Apenas [servidores](04-devices-apps-and-links.md#servers) tem a largura de banda
 A RV é coberta em mais detalhes em [Realidade Virtual](18-virtual-reality.md).
 
 <!--sort-end-->
-
