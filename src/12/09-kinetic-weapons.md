@@ -51,24 +51,24 @@ The ammunition’s Damage Value modifiers are added to the weapon’s base DV.
 
 <!--sort-->
 
-| KINETIC AMMO   | Damage Value Modifier | Comp/<wbr>GP (per 100) | Notes                       |
-| :------------- | :-------------------: | :--------------------: | :-------------------------- |
-| Accushot       |           —           |        Min/R/1         | Steady                      |
-| Armor-piercing |         −1d10         |        Min/R/1         | Armor-Piercing              |
-| Biter          |         +1d6          |        Mod/R/2         |                             |
-| Bug            |           —           |        Min/R/1         |                             |
-| Capsule        |          ÷2           |         Min/1          |                             |
-| Hollow-point   |         +1d6          |        Min/R/1         | Extra DV only vs. biomorphs |
-| Homing         |           —           |        Mod/R/2         | Indirect fire or +10 to hit |
-| Jammer         |       No damage       |         Min/1          |                             |
-| Plastic        |          ÷2           |         Min/1          | Stun (biomorphs only)       |
-| Proximity      |         +1d6          |        Mod/R/2         | DV 1d10 on miss             |
-| Railgun        |           —           |        Min/R/1         |                             |
-| RAP            |           —           |        Mod/R/2         | Armor-Piercing              |
-| Smart          |        As type        |        Mod/R/2         |                             |
-| Splash         |       No damage       |         Min/1          |                             |
-| Standard       |           —           |        Min/R/1         |                             |
-| Zap            |          ÷2           |         Min/1          | Shock                       |
+| KINETIC AMMO            | Damage Value Modifier | Comp/<wbr>GP (per 100) | Notes                       |
+| :---------------------- | :-------------------: | :--------------------: | :-------------------------- |
+| Accushot                |           —           |        Min/R/1         | Steady                      |
+| Armor-Piercing          |         −1d10         |        Min/R/1         | Armor-Piercing              |
+| Biter                   |         +1d6          |        Mod/R/2         |                             |
+| Bug                     |           —           |        Min/R/1         |                             |
+| Capsule                 |          ÷2           |         Min/1          |                             |
+| Hollow-Point            |         +1d6          |        Min/R/1         | Extra DV only vs. biomorphs |
+| Homing                  |           —           |        Mod/R/2         | Indirect fire or +10 to hit |
+| Jammer                  |       No damage       |         Min/1          |                             |
+| Plastic                 |          ÷2           |         Min/1          | Stun (biomorphs only)       |
+| Proximity               |         +1d6          |        Mod/R/2         | DV 1d10 on miss             |
+| Railgun                 |           —           |        Min/R/1         |                             |
+| Reactive Armor-Piercing |           —           |        Mod/R/2         | Armor-Piercing              |
+| Smart                   |        As type        |        Mod/R/2         |                             |
+| Splash                  |       No damage       |         Min/1          |                             |
+| Standard                |           —           |        Min/R/1         |                             |
+| Zap                     |          ÷2           |         Min/1          | Shock                       |
 
 ### Smart Ammo
 
@@ -109,4 +109,3 @@ This ammunition can only be used with firearms, not railguns. It is acquired in 
 **Zap:** Zap rounds are rubber or gel bullets that shock the target with a piezoelectric charge.
 
 <!--sort-end-->
-
