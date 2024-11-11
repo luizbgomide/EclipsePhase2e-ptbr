@@ -58,4 +58,3 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 **Emissor de Raios T:** Montado sob a pele da testa do usuário, esse implante gera feixes de radiação terahertz (raios T) de baixa potência. Personagens com visão aprimorada podem usar raios T refletidos para efetivamente ver através de paredes e outros materiais ([Sentidos e Sensores](07-senses-and-sensors.md)). Esse implante permite que o usuário veja usando raios T refletidos por 20 metros em uma atmosfera normal e por 100 metros no vácuo.
 
 <!--sort-end-->
-
