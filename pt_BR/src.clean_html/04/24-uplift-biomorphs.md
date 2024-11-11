@@ -152,4 +152,3 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 <!-- CLEANED /blockquote -->
 
 <!--sort-end-->
-
