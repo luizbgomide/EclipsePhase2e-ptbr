@@ -110,6 +110,8 @@ When grappling, both characters are at −30 to oppose any attacks made against 
 
 On each subsequent action turn, a grappling character must spend a complex action to maintain the grapple. As part of that action, they may also choose to do one of the following:
 
+<!--sort-->
+
 - **Choke:** Biomorph victims must make a SOM Check or fall unconscious as their blood or air flow is restricted.
 - **Damage:** The grappled victim suffers unarmed damage, no defense.
 - **Knockdown:** Grappled victims must make a Melee Test or SOM Check at −30 or be knocked prone. They remain grappled and cannot stand up/re-orient until they are released or break free.

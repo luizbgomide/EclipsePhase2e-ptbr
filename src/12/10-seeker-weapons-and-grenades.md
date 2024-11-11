@@ -117,4 +117,3 @@ Modern grenades, seekers, and similar explosives do not necessarily detonate the
 <!--sort-end-->
 
 <!--sort-end-->
-

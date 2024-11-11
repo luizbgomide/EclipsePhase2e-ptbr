@@ -52,4 +52,3 @@ Though laser pulser beams do not appear in the visible spectrum, they may be bli
 When you miss with a beam attack, you can use that missed beam to “home in” on the target. If you make another attack against the same target with your next action, count the missed attack as an aim action (+10 to hit). Since most beam weapons are invisible to standard sight, you must have vision enhancements enabling you to see the beam in atmosphere or be meshed with the weapon’s AR targeting entoptics.
 
 <!--sort-end-->
-
