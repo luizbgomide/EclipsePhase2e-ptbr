@@ -52,4 +52,3 @@ Apesar dos feixes do pulsador laser não aparecerem no espectro visível, eles p
 Quando você erra com um ataque de feixe, você ainda pode usar esse feixe desviado para “localizar” o alvo. Se você fizer outro ataque contra o mesmo alvo na sua próxima ação, conte o ataque falhado como uma ação de pontaria (+10 para acertar). Como a maioria das armas de feixe são invisíveis à visão normal, você deve ter aprimoramentos de visão que permitam que você veja o feixe na atmosfera ou estar em mesh com a RA de mira entóptica da arma.
 
 <!--sort-end-->
-
