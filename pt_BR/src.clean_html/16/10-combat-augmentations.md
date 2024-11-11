@@ -84,4 +84,3 @@ Os medicadores para sintemorfos e bots consistem de nanobots que monitoram e rep
 **Suporte de Arma:** O morfo está equipado com um ponto de fixação para carregar uma arma. Suportes _estáticos_ apontam para apenas uma direção, suportes _giratórios_ têm um campo de fogo limitado de 90°, pontos de fixação _articulados_ permitem que a arma aponte em qualquer direção. Além disso, qualquer um dos suportes pode ser ocultado internamente (supondo que haja espaço na armação do morfo). Alguns são projetados para ficarem internos e atirarem através de camadas de ocultação (deixando um furo), outros saltam para fora, como uma torre de artilharia, e podem ser retraídos. Vários suportes podem ser instalados, mas morfos pequenos estão limitados a 2, e morfos médios a 4. Nem morfos pequenos nem médios podem ter suportes de armas com traço Longa. Versões cibernéticas desse mod são estáticas e só podem ser instaladas em cibermembros (máximo 1 por membro).
 
 <!--sort-end-->
-
