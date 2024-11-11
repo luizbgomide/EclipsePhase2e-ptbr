@@ -52,22 +52,24 @@ Programas (exceto consoles de contas) ainda podem ser atacados depois de serem t
 
 ### Durabilidade na Mesh
 
-| Programa                                                                                      | Limiar de Ferimento | Durabilidade | Grau de Destruição |
-|:--------------------------------------------------------------------------------------------- |:-------------------:|:------------:|:------------------:|
-| Console de Conta                                                                              |          3          |      15      |        N/A         |
-| ILA                                                                                           |          4          |      20      |         40         |
-| App                                                                                           |          2          |      10      |         20         |
-| <!-- CLEANED div class="indent" -->» App de Firewall<!-- CLEANED /div --> |          6          |      30      |         60         |
-| Cibercérebro                                                                                  |          7          |      35      |         70         |
-| Infomorfo                                                                                     |                     |              |                    |
-| <!-- CLEANED div class="indent" -->» Digimorfo<!-- CLEANED /div -->    |          5          |      25      |         50         |
-| <!-- CLEANED div class="indent" -->» Agente<!-- CLEANED /div -->        |          8          |      40      |         80         |
-| <!-- CLEANED div class="indent" -->» Ikon<!-- CLEANED /div -->         |          6          |      30      |         60         |
-| <!-- CLEANED div class="indent" -->» Operador<!-- CLEANED /div -->     |          7          |      35      |         70         |
-| Sistema Operacional                                                                           |                     |              |                    |
-| <!-- CLEANED div class="indent" -->» Cisco<!-- CLEANED /div -->         |          4          |      20      |         40         |
-| <!-- CLEANED div class="indent" -->» Terminal<!-- CLEANED /div -->         |          8          |      40      |         80         |
-| <!-- CLEANED div class="indent" -->» Servidor<!-- CLEANED /div -->       |         12          |      60      |        120         |
+<!--sort-->
+
+| Programa                                             | Limiar de Ferimento | Durabilidade | Grau de Destruição |
+|:---------------------------------------------------- |:-------------------:|:------------:|:------------------:|
+| Console de Conta                                     |          3          |      15      |        N/A         |
+| ILA                                                  |          4          |      20      |         40         |
+| App                                                  |          2          |      10      |         20         |
+| <!--sort-union--><p class="indent">» App de Firewall</p> |          6          |      30      |         60         |
+| Cibercérebro                                         |          7          |      35      |         70         |
+| Infomorfo                                            |                     |              |                    |
+| <!--sort-union--><p class="indent">» Digimorfo</p> |          5          |      25      |         50         |
+| <!--sort-union--><p class="indent">» Agente</p> |          8          |      40      |         80         |
+| <!--sort-union--><p class="indent">» Ikon</p> |          6          |      30      |         60         |
+| <!--sort-union--><p class="indent">» Operador</p> |          7          |      35      |         70         |
+| Sistema Operacional                                  |                     |              |                    |
+| <!--sort-union--><p class="indent">» Cisco</p> |          4          |      20      |         40         |
+| <!--sort-union--><p class="indent">» Terminal</p> |          8          |      40      |         80         |
+| <!--sort-union--><p class="indent">» Servidor</p> |         12          |      60      |        120         |
 
 <!-- CLEANED /blockquote -->
 
