@@ -126,4 +126,3 @@ Você pode empunhar uma pistola em cada mão em combate de distância, ou armas 
 Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque requer uma ação complexa separada.
 
 <!--sort-end-->
-
