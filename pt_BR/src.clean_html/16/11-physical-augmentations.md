@@ -94,4 +94,3 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 **Asas:** Seu morfo está equipado com um par de asas; sejam membros adicionais ou braços reestruturados. Para morfos pequenos, isso permite planar e voo limitado em gravidades semelhantes à Terra. Morfos de tamanho médio podem voar em gravidades menores que 0,15&nbsp;g; em gravidades maiores eles podem planar. Morfos grandes e muito grandes não podem usar essa ampliação. A maioria dos projetos de asas são transgênicos e baseados na fisiologia de morcegos, para que elas possam ser dobradas facilmente quando não são usadas. Se combinadas com ware de membros retráteis, essas asas podem ser dobradas para dentro dos braços ou das costas.
 
 <!--sort-end-->
-
