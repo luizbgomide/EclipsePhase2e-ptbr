@@ -191,6 +191,7 @@ If you’d rather determine your career randomly, roll 1d10:
 |  1–5  | Roll on Group 1 |
 | 6–10  | Roll on Group 2 |
 
+<hr>
 <!--sort-->
 
 |         Roll          | Group 1<!--sort-cells--> | Group 2<!--sort-cells--> |

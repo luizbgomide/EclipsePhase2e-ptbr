@@ -46,7 +46,7 @@ The interests determined here represent hobbies you have delved into over the ye
 
 <!-- CLEANED /blockquote -->
 
-<!-- CLEANED blockquote class="framed-table grid2 no-margin" -->
+<!-- CLEANED blockquote class="framed-table smart-grid no-margin" -->
 
 <!--sort-->
 <!--sort-block-->

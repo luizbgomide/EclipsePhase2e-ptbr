@@ -63,7 +63,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -98,7 +98,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -133,7 +133,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -188,7 +188,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -223,7 +223,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -257,7 +257,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -311,7 +311,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -346,7 +346,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -381,7 +381,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -436,7 +436,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -471,7 +471,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -507,7 +507,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -563,7 +563,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -597,7 +597,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -631,7 +631,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -686,7 +686,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -722,7 +722,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -757,7 +757,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -812,7 +812,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -846,7 +846,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -880,7 +880,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -935,7 +935,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -970,7 +970,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1005,7 +1005,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1060,7 +1060,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1095,7 +1095,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1130,7 +1130,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1185,7 +1185,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1220,7 +1220,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1255,7 +1255,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1311,7 +1311,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1347,7 +1347,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1383,7 +1383,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1438,7 +1438,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1474,7 +1474,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1509,7 +1509,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1567,7 +1567,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1600,7 +1600,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1636,7 +1636,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1691,7 +1691,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 
 <!--sort-->
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1724,7 +1724,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
@@ -1760,7 +1760,7 @@ Roll 1d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interest
 <!-- CLEANED /blockquote -->
 
 <!--sort-block-->
-<!-- CLEANED blockquote class="header-bg multi-column" -->
+<!-- CLEANED blockquote class="header-bg smart-columns" -->
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
