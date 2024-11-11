@@ -28,11 +28,11 @@ function mapLinks(sourceContent, targetContent) {
         sSlugs = sourceLinks.get(file);
         tSlugs = targetLinks.get(file);
         if (tSlugs === undefined) {
-            console.log(`${file}: MISSING SLUGS`);
+            console.log(`? ${file}: Missing slugs`);
             continue;
         }
         if (sSlugs.length !== tSlugs.length) {
-            console.log(`${file}: WRONG SLUG COUNT (${sSlugs.length}<>${tSlugs.length})`);
+            console.log(`! ${file}: Wrong slug count (${sSlugs.length}<>${tSlugs.length})`);
             continue;
         }
         while (tSlugs.length > 0) {
