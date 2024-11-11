@@ -25,4 +25,3 @@ Um resumo rápido sobre materiais futuristas comuns:
 **Alumínio Transparente:** Essa cerâmica mais dura que aço, também conhecida como safira, é usada em superfícies resistentes a riscos e armaduras transparentes. As técnicas de fundição em zero-g permitem a construção de desenhos transparentes intrigantes, contanto que sua baixa resistência a tração seja respeitada.
 
 <!--sort-end-->
-
