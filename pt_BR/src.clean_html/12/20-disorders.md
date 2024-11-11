@@ -171,4 +171,3 @@ Não sendo confundida com o transtorno genético, a esquizofrenia reiterativa te
 **Efeito:** Você sofre delírios e alucinações conforme determinado pelo MJ e está propenso a pensamentos conspiratórios. Você sofre um modificador −20 em testes que exigem comunicação coerente.
 
 <!--sort-end-->
-
