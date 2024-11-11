@@ -26,7 +26,7 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
 | Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Perfura-Armadura/+2d10&nbsp;VD quando serrando        |
-| Faca-Vespa              |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
+| Faca-Ferrão             |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
 
 <!-- CLEANED div class="indent" -->
 
@@ -80,7 +80,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
 
-**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
+**Faca-Ferrão:** As facas-ferrão são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-ferrão também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
 <!--sort-end-->
 
