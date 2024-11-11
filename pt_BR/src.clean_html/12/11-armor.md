@@ -104,4 +104,3 @@ Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de a
 **Segunda Pele:** Esse macacão justo e leve, tecido com seda de aranha e fulerenos, é tipicamente usado como uma primeira camada de vestuário, apesar de alguns atletas o utilizarem como uniforme.
 
 <!--sort-end-->
-
