@@ -36,4 +36,3 @@ Armas de spray dispersam sua munição em um cone alargado, permitindo ao atirad
 **Arma de Anel de Vórtice:** Essa arma menos letal detona um cartucho em branco e acelera a pressão explosiva por um tambor alargado para que ela forme um anel de vórtice de alta velocidade. Essa explosão giratória e concussiva em forma de donut derruba e atordoa alvos próximos. Drogas, químicos e agentes similares podem ser usados na carga também.
 
 <!--sort-end-->
-
