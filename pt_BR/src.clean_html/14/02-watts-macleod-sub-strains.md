@@ -20,9 +20,9 @@ Sua infecção é um monstro sanguinário e voraz, ansiando a liberdade. Você l
 
 **Truque Gratuito (Escolha Um):** Alto Limiar à Dor, Explosão de Adrenalina ou Punhalada Psíquica
 
-## A <!--sort-here-->Assombração
+## A <!--sort-here-->Tormentadora
 
-O pavor primal do terror incompreensível, surgindo nas margens da percepção, é seu companheiro constante. Às vezes é o peso esmagador do vazio sombrio e insensível que torna nossa extinção quase certa, às vezes é uma presença mais palpável e inominável, uma entidade tão além do seu conhecimento que você é insignificante em comparação. Você é perturbado pela inquietude e pelo desconforto, atormentado por pesadelos e uma sensação de que a realidade não faz tanto sentido quanto você gostaria.
+O pavor primal do terror incompreensível, pairando nas margens da percepção, é seu companheiro constante. Às vezes é o peso esmagador do vazio sombrio e insensível que torna nossa extinção quase certa, às vezes é uma presença mais palpável e inominável, uma entidade tão além do seu entendimento que você é insignificante em comparação. Você é perturbado pela inquietude e pelo desconforto, atormentado por pesadelos e uma sensação de que a realidade não faz tanto sentido quanto você gostaria.
 
 **Traço Negativo (Escolha Um):** Vício ou Transtorno Mental (Transtorno de Ansiedade Cósmica ou Paranoia)
 
