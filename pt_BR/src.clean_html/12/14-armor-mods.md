@@ -46,4 +46,3 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 **Antichoques:** Mods antichoques têm isolação eletrônica contra descargas e reduzem o efeito de armas de choque. Aplique um modificador +20 em Provas de SOM para resistir a efeitos de choque.
 
 <!--sort-end-->
-
