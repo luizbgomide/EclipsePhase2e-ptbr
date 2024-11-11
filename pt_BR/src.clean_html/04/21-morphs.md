@@ -52,7 +52,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Ferroso](22-common-biomorphs.md#ruster)                                                                  | Biomorfo   | 3&nbsp;PM  |
 | [Savant](25-synthmorphs.md#savant)                                                                        | Sintemorfo | 4&nbsp;PM  |
 | [Prod de Segurança](23-pod-biomorphs.md#security-pod)                                                     | Prod       | 5&nbsp;PM  |
-| [Ceifeiro](23-pod-biomorphs.md#shaper)                                                                    | Prod       | 5&nbsp;PM  |
+| [Moldável](23-pod-biomorphs.md#shaper)                                                                    | Prod       | 5&nbsp;PM  |
 | [Serpentoide](25-synthmorphs.md#slitheroid)                                                               | Sintemorfo | 5&nbsp;PM  |
 | [Sobressalente](25-synthmorphs.md#spare)                                                                  | Sintemorfo | 0&nbsp;PM  |
 | [Tratado](22-common-biomorphs.md#splicer)                                                                 | Biomorfo   | 1&nbsp;PM  |
