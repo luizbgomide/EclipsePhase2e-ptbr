@@ -105,4 +105,3 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 **Transmissor de Energia Sem Fio:** Quando plugado em uma fonte de energia, esse transmissor transferirá energia para dispositivos a até 20 metros via acoplamento indutivo ressonante de campo próximo. Eles são comuns nas áreas de habitats, públicas e privadas.
 
 <!--sort-end-->
-
