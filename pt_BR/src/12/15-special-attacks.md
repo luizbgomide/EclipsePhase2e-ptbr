@@ -4,6 +4,22 @@ Use as seguintes regras para ataques especiais de luta ou de distância.
 
 <!--sort-->
 
+## Armas de Duas Mãos
+
+Qualquer arma marcada como de duas mãos precisa das duas mãos (ou outros membros preênseis) para ser usada de forma eficaz. Isso se aplica a algumas armas de luta (machados diamantados, lanças, etc.) além de armas de fogo grandes e armas pesadas. Usar uma arma dessas com uma mão implica em um modificador −20. Esse modificador não se aplica a armas montadas.
+
+## Armas Revestidas
+
+Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#métodos-de-aplicação)).
+
+## Ataques às Cegas
+
+Atacar um alvo que você não pode ver é difícil no melhor dos casos e uma questão de sorte nos piores. Se você não pode ver, você pode fazer um Teste de Percepção usando algum outro sentido disponível para detectar seu alvo. Se tiver sucesso, você ataca com um modificador −30. Se seu Teste de Percepção falhar, você ataca com −30 e seu ataque ainda tem 50% de chance de falhar automaticamente.
+
+## Ataques Contra Indefesos
+
+Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destrói. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; esses ataques são feitos normalmente, sem defesa.
+
 ## Ataques de Área de Efeito
 
 Ataques que afetam mais de um alvo ou uma área são classificados como explosão centrada, cone, ou explosão uniforme.
@@ -28,13 +44,13 @@ No espaço não há atmosfera para propagar a onda de choque explosiva; reduza o
 
 Armas como granadas devem ir para algum lugar quando elas erram, e você pode ainda pode pegar seu alvo dentro do raio de explosão. Para determinar onde cai um ataque falhado de área de efeito, role um d10. A direção que a ponta de cima do dado está apontando é a direção de desvio do ataque, considerando você como o alvo para fins de orientação. O resultado da rolagem do dado é a distância onde o ataque cai, em metros. Para cada falha maior, dobre a distância de desvio. Isso determina o epicentro da explosão; resolva o dano contra qualquer um pego dentro de seu raio de efeito da forma normal. Você pode precisar ajustar esse resultado em microgravidade ou outras situações onde as três dimensões importam, ou você pode rolar outro d10 para determinar a orientação no eixo z (sendo 1 “acima” do alvo, e 10 “abaixo”).
 
-## Ataques Contra Indefesos
+## Ataques de Choque
 
-Quando fizer um ataque contra um alvo incapacitado, paralisado, dormindo, inconsciente ou similarmente indefeso fora de combate, faça uma teste de ataque. Se tiver sucesso, você o mata/destrói. Se você falhar, você causa o máximo de VD possível (o que ainda poderia matá-lo). Isso assume que você tem tempo para se posicionar cuidadosamente e preparar um golpe de misericórdia letal. Isso não se aplica a oponentes vulneráveis durante turnos de ação de combate; esses ataques são feitos normalmente, sem defesa.
+Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapacitar fisicamente os alvos. Armas de choque são especialmente eficazes contra biomorfos e outras criaturas biológicas, mesmo com armaduras resistentes. Sintemorfos, bots e veículos são imunes a efeitos de choque.
 
-## Ataques às Cegas
+Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
 
-Atacar um alvo que você não pode ver é difícil no melhor dos casos e uma questão de sorte nos piores. Se você não pode ver, você pode fazer um Teste de Percepção usando algum outro sentido disponível para detectar seu alvo. Se tiver sucesso, você ataca com um modificador −30. Se seu Teste de Percepção falhar, você ataca com −30 e seu ataque ainda tem 50% de chance de falhar automaticamente.
+Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano requer um ataque de luta normal.
 
 ## Ataques Precisos
 
@@ -42,31 +58,27 @@ Atacar um alvo que você não pode ver é difícil no melhor dos casos e uma que
 
 <!--sort-->
 
-### Evitar Armadura
+### Alvo Específico
 
-Ataques precisos podem ser usados para alvejar um buraco ou ponto fraco na armadura do oponente. Se você tiver um sucesso maior, seu acerto vara a armadura do alvo, e a armadura dele é reduzida à metade. O MJ pode determinar que a armadura do oponente não tem um ponto fraco ou área desprotegida, e não permitir esses ataques precisos, ou ele pode exigir um Teste de Percepção ou Aparelhagem: Armamentos para localizar um.
-
-### Desarmar
-
-Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros membros do oponente. A vítima sofre metade do dano do ataque (reduzido pela armadura normalmente) e deve fazer uma Prova de SOM com modificador −30 para continuar segurando a arma. Do contrário, ela é jogada a 1d10 metros de distância. Um sucesso maior adicional pode ser usado para dobra o modificador para −60, causar dano completo, ou ficar com a arma na sua mão em vez de derrubá-la.
+Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#condições), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
 
 ### Derrubar
 
 Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](21-other-action-factors.md#condições) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
 
+### Desarmar
+
+Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros membros do oponente. A vítima sofre metade do dano do ataque (reduzido pela armadura normalmente) e deve fazer uma Prova de SOM com modificador −30 para continuar segurando a arma. Do contrário, ela é jogada a 1d10 metros de distância. Um sucesso maior adicional pode ser usado para dobra o modificador para −60, causar dano completo, ou ficar com a arma na sua mão em vez de derrubá-la.
+
+### Evitar Armadura
+
+Ataques precisos podem ser usados para alvejar um buraco ou ponto fraco na armadura do oponente. Se você tiver um sucesso maior, seu acerto vara a armadura do alvo, e a armadura dele é reduzida à metade. O MJ pode determinar que a armadura do oponente não tem um ponto fraco ou área desprotegida, e não permitir esses ataques precisos, ou ele pode exigir um Teste de Percepção ou Aparelhagem: Armamentos para localizar um.
+
 ### Redirecionar
 
 Um ataque preciso pode ser usado para empurrar seu oponente em uma direção específica. Um oponente redirecionado é puxado, empurrado, desviado ou movido 2 metros na direção de sua escolha. Um oponente que é redirecionado para fora do teto ou de uma câmara de ar, para o trânsito, ou para alguma direção igualmente perigosa pode fazer uma Prova de REF com −30 para se agarrar a tempo, embora ele ainda estará pendurado em um posição precária se tiver sucesso. Um sucesso maior adicional pode dobrar o modificador ou infligir dano de forma normal.
 
-### Alvo Específico
-
-Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#condições), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
-
 <!--sort-end-->
-
-## Armas Revestidas
-
-Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#métodos-de-aplicação)).
 
 ## Demolições
 
@@ -92,18 +104,6 @@ A maioria dos explosivos pode ser desarmada com um teste bem-sucedido de Aparelh
 Um personagem treinado em Aparelhagem: Demolições pode fazer explosivos a partir de matérias-primas. Esses materiais podem ser conseguidos de forma tradicional ou fabricados usando um nanofabricador. Até mesmo nanofabros com configurações restritas podem ser usados, pois explosivos podem ser construídos com todo tipo de químicos e materiais mundanos.
 
 Fazer explosivos é uma ação de tarefa com uma prazo de 1 hora por 1d10&nbsp;VD. Em caso de falha, os recursos são usados mas nenhum explosivo é feito. Com uma falha maior, uma mistura parece ter sucesso, mas é extremamente fraca ou mais potente que o esperado (o que provavelmente for mais problemático). Se uma falha crítica for rolada, o demolidor acidentalmente detona uma explosão.
-
-## Ataques de Choque
-
-Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapacitar fisicamente os alvos. Armas de choque são especialmente eficazes contra biomorfos e outras criaturas biológicas, mesmo com armaduras resistentes. Sintemorfos, bots e veículos são imunes a efeitos de choque.
-
-Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
-
-Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano requer um ataque de luta normal.
-
-## Armas de Duas Mãos
-
-Qualquer arma marcada como de duas mãos precisa das duas mãos (ou outros membros preênseis) para ser usada de forma eficaz. Isso se aplica a algumas armas de luta (machados diamantados, lanças, etc.) além de armas de fogo grandes e armas pesadas. Usar uma arma dessas com uma mão implica em um modificador −20. Esse modificador não se aplica a armas montadas.
 
 ## Empunhando Duas ou Mais Armas
 

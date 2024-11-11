@@ -27,51 +27,51 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 <!--sort-->
 
 - Aceitação
-- Pessoas IGA
-- Contato Alienígena
+- Adrenalina
 - Anarquismo
+- Aperfeiçoamento Pessoal
 - Autonomia
+- Autossuficiencia
 - Bioconservadorismo
+- Carreira Pessoal
+- Código Aberto
+- Contato Alienígena
 - Criar Legado
-- Expressão Criativa
+- Descoberta Científica
 - Descobrir/Esquecer o Passado
+- Direitos de Elevados
 - Educação
-- Fugir
-- Expandir Influência
-- Exploração
-- Fama/Reconhecimento
 - Encontrar um Propósito
 - Encontrar uma Tribo
-- SIA Amigáveis
+- Estabilidade
+- Expandir Influência
+- Exploração
+- Expressão Criativa
+- Fama/Reconhecimento
+- Fazer Arte
+- Filantropia
+- Fugir
 - Hedonismo
 - Imortalidade
 - Independência
+- Liberdade Morfológica
+- Libertação Marciana
 - Liderança
 - Localizar \[Amigo/Item/Amante/Parente\] Perdido
-- Fazer Arte
-- Libertação Marciana
-- Liberdade Morfológica
-- Neurodiversidade
-- Código Aberto
-- Carreira Pessoal
-- Aperfeiçoamento Pessoal
-- Filantropia
+- Maestria em Perícia
 - Mostrar o Erro dos Outros
+- Neurodiversidade
+- Pessoas IGA
 - Reconectar-se com Transumanidade
 - Religião
-- Vingança
-- Descoberta Científica
-- Autossuficiencia
-- Maestria em Perícia
-- Socialismo
-- Estabilidade
-- Sobrevivência
-- Tecnoprogressismo
-- Adrenalina
-- Transparência
-- Direitos de Elevados
-- Soberania Venusiana
 - Riqueza
+- SIA Amigáveis
+- Soberania Venusiana
+- Sobrevivência
+- Socialismo
+- Tecnoprogressismo
+- Transparência
+- Vingança
 
 </div>
 

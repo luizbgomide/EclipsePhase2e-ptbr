@@ -135,31 +135,6 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 
 <!--sort-block-->
 
-### Quicante
-
-Os quicantes são geneticamente adaptados para microgravidade. Suas pernas são mais ágeis e seus pés podem agarrar tão bem quanto suas mãos. Eles podem tolerar as temperaturas frias de túneis de formigueiros e tem uma reserva de oxigênio para o caso de serem expostos ao vácuo. Quicantes são bastante comuns no sistema exterior e em habitats de zero-g.
-
-<blockquote class="indent stat-list">
-
-### Quicante
-
-- **Custo:** 4&nbsp;PM • **Disp:** 60
-
----
-
-- **LF:** 7 • **DUR:** 35 • **GD:** 53
-- **Inspiração** 1, **Manha** 0, **Vigor** 1, **Flex** 2
-
----
-
-- **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
-- **Traços de Morfo:** Flexibilidade (Nível 1)
-
-</blockquote>
-
-<!--sort-block-->
-
 ### Futura
 
 Os morfos futura foram feitos especialmente para a “Geração Perdida” de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
@@ -256,6 +231,31 @@ Olímpicos são melhorias humanas com capacidades atléticas aprimoradas, como r
 
 <!--sort-block-->
 
+### Quicante
+
+Os quicantes são geneticamente adaptados para microgravidade. Suas pernas são mais ágeis e seus pés podem agarrar tão bem quanto suas mãos. Eles podem tolerar as temperaturas frias de túneis de formigueiros e tem uma reserva de oxigênio para o caso de serem expostos ao vácuo. Quicantes são bastante comuns no sistema exterior e em habitats de zero-g.
+
+<blockquote class="indent stat-list">
+
+### Quicante
+
+- **Custo:** 4&nbsp;PM • **Disp:** 60
+
+---
+
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
+- **Inspiração** 1, **Manha** 0, **Vigor** 1, **Flex** 2
+
+---
+
+- **Taxa de Movimento:** Marcha 4/12
+- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
+- **Traços de Morfo:** Flexibilidade (Nível 1)
+
+</blockquote>
+
+<!--sort-block-->
+
 ### Sílfide
 
 Os morfos sílfide são ideais para ícones da mídia, socialites de elite, celebridades XP, modelos e narcisistas. As sequências genéticas das sílfides são arranjadas para uma bela aparência, características etéreas e élficas, e corpos esguios e ágeis. Seu metabolismo também foi sanitizado para eliminar odores corporais desagradáveis e seus feromônios ajustados para ter um apelo universal.
@@ -285,32 +285,6 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 
 <!--sort-block-->
 
-### Fúria
-
-Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para resistência, força, reflexos e capacidade aguentar traumas físicos. As modificações comportamentais para agressividade são compensadas por sequências genéticas de mentalidade de bando e cooperação, e elas tendem a ser biologicamente femininas.
-
-<blockquote class="indent stat-list">
-
-### Fúria
-
-- **Custo:** 6&nbsp;PM • **Disp:** 40
-
----
-
-- **LF:** 10 • **DUR:** 50 • **GD:** 75
-- **Inspiração** 1, **Manha** 1, **Vigor** 4, **Flex** 2
-
----
-
-- **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
-- **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
-- **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuraquim](../16/10-combat-augmentations.md)
-
-</blockquote>
-
-<!--sort-block-->
-
 ### Fantasma
 
 Fantasmas são projetados parcialmente para aplicações de combate, mas seu foco principal é a furtividade e a infiltração. Seu perfil genético incentiva a velocidade, a agilidade e os reflexos, e suas mentes são modificadas para a paciência e a solução de problemas.
@@ -332,6 +306,32 @@ Fantasmas são projetados parcialmente para aplicações de combate, mas seu foc
 - **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
 - **Extras Comuns:** Muitos estão equipados com [pele-flex](../16/09-social-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md)
+
+</blockquote>
+
+<!--sort-block-->
+
+### Fúria
+
+Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para resistência, força, reflexos e capacidade aguentar traumas físicos. As modificações comportamentais para agressividade são compensadas por sequências genéticas de mentalidade de bando e cooperação, e elas tendem a ser biologicamente femininas.
+
+<blockquote class="indent stat-list">
+
+### Fúria
+
+- **Custo:** 6&nbsp;PM • **Disp:** 40
+
+---
+
+- **LF:** 10 • **DUR:** 50 • **GD:** 75
+- **Inspiração** 1, **Manha** 1, **Vigor** 4, **Flex** 2
+
+---
+
+- **Taxa de Movimento:** Marcha 4/20
+- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
+- **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuraquim](../16/10-combat-augmentations.md)
 
 </blockquote>
 

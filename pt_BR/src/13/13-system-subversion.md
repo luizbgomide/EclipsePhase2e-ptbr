@@ -8,13 +8,19 @@ Além de exceder seus privilégios, há algumas técnicas que são explicitament
 
 <!--sort-->
 
-## Quebrar Criptografia
+## Bloquear Sinais
 
-Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](05-authentication-and-encryption.md#quebra-de-código)).
+Você pode transmitir sinais de rádio que interferem deliberadamente com outros sinais de rádio para interromper as comunicações. Você pode escolher bloquear seletivamente um ou mais dispositivos específicos, ou bloquear universalmente todos os sinais de rádio. O bloqueio requer uma ação complexa e um Teste de Interface para ser iniciado. Se bem-sucedido, os dispositivos afetados dentro do alcance têm suas comunicações de rádio interrompidas — eles são cortados da mesh e não podem usar comunicação sem fio até que o bloqueio termine ou eles se movam para fora do alcance. Os dispositivos cabeados não são afetados.
+
+O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](06-mesh-actions.md#ações-de-segurança)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
 
 ## Controlar Ware
 
 Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nodo mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripts) para manipular esse ware no futuro, entre outros usos criativos.
+
+## Debilitar os Sentidos
+
+Se hackear um dispositivo que projete RA, o app de ilusão de RA pode ser usado para distrair e prejudicar o alvo. Por exemplo, nuvens ilusórias escuras podem obscurecer visão, ruídos altos estridentes podem fazer as pessoas se contorcerem, e uma sensação de cócegas persistente pode deixar qualquer um louco. Faça um Teste de Interface; se bem-sucedido o alvo sofre um modificador −10 de debilitação em Percepção e outras ações, com um −10 adicional por sucesso maior. Os modificadores podem ser temporários, uma vez que o alvo pode ajustar seus filtros e/ou desligar sua RA se necessário.
 
 ## Desativar Mecanismos de Segurança
 
@@ -28,17 +34,27 @@ Se hackear um dispositivo de transmissão de RA, você pode bloquear ou editar d
 
 Para atrapalhar [auditorias de segurança](12-countermeasures.md#auditorias-de-segurança), você pode limpar evidências de sua invasão antes de sair de um sistema. Isso envolve apagar dados incriminatórios nos logs de acesso e de segurança e ocultar qualquer evidência de adulteração do sistema. Use uma ação complexa e faça um Teste de Hackeamento. Se bem-sucedido, você elimina detalhes que poderiam ser usados para rastrear você ou revelar o que você fez, incluindo sua mesh ID.
 
-## Forçar Reautenticação
-
-Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a se autenticar novamente para você poder capturar as credenciais de login ([Farejamento](04-devices-apps-and-links.md#farejamento)). Isso requer vencer um Teste de Hackeamento contra o firewall fazendo autenticação.
-
 ## Esconder Arquivo ou Processo
 
 É possível ocultar a presença de um arquivo, elemento de código ou até mesmo um app, script ou outro processo programático ativo. Isso usa uma ação complexa e um Teste de Infoseg; anote o resultado. Qualquer um que tente encontrar esse arquivo ou processo posteriormente deve vencer o seu resultado com um Teste Oposto de Pesquisa com −30.
 
-## Debilitar os Sentidos
+## Farejar Tráfego
 
-Se hackear um dispositivo que projete RA, o app de ilusão de RA pode ser usado para distrair e prejudicar o alvo. Por exemplo, nuvens ilusórias escuras podem obscurecer visão, ruídos altos estridentes podem fazer as pessoas se contorcerem, e uma sensação de cócegas persistente pode deixar qualquer um louco. Faça um Teste de Interface; se bem-sucedido o alvo sofre um modificador −10 de debilitação em Percepção e outras ações, com um −10 adicional por sucesso maior. Os modificadores podem ser temporários, uma vez que o alvo pode ajustar seus filtros e/ou desligar sua RA se necessário.
+Você pode interceptar e monitorar o tráfego sem fio ([Farejamento](04-devices-apps-and-links.md#farejamento)).
+
+## Forçar Reautenticação
+
+Enquanto estiver farejando um alvo, você pode quebrar a conexão e forçá-lo a se autenticar novamente para você poder capturar as credenciais de login ([Farejamento](04-devices-apps-and-links.md#farejamento)). Isso requer vencer um Teste de Hackeamento contra o firewall fazendo autenticação.
+
+## Grampear RA
+
+Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuário como se fosse a sua própria com um Teste de Hackeamento. Você pode até configurar isso para lhe encaminhar automaticamente a mesma experiência de RA se você sair do sistema.
+
+## Grampear Sentidos
+
+Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
+
+Os dados sensoriais também podem ser gravados ou transmitidos como XP.
 
 ## Injetar RA/Ilusão
 
@@ -62,23 +78,17 @@ Para impedir contramedidas, você pode ativar um processo que vai preventivament
 
 As restrições não são onipotentes; os MJs devem usar seu bom senso para definir suas limitações e capacidades.
 
-## Bloquear Sinais
-
-Você pode transmitir sinais de rádio que interferem deliberadamente com outros sinais de rádio para interromper as comunicações. Você pode escolher bloquear seletivamente um ou mais dispositivos específicos, ou bloquear universalmente todos os sinais de rádio. O bloqueio requer uma ação complexa e um Teste de Interface para ser iniciado. Se bem-sucedido, os dispositivos afetados dentro do alcance têm suas comunicações de rádio interrompidas — eles são cortados da mesh e não podem usar comunicação sem fio até que o bloqueio termine ou eles se movam para fora do alcance. Os dispositivos cabeados não são afetados.
-
-O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](06-mesh-actions.md#ações-de-segurança)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
-
-## Repetir Fluxo de Sensor
-
-Um método comum de comprometer os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo requer uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
-
 ## Modificar TacNet
 
 Se hackear um sistema compatível com tacnet, você pode altear, bloquear, ou injetar seus próprios dados de tacnet. Isso poderia ser usado para trocar mapas, bloquear fluxos sensoriais, alterar indicadores de estado de saúde, e assim por diante. Você também pode marcar oponentes como amigos, o que impediria que armas com ligação inteligente sejam usadas contra eles.
 
-## Farejar Tráfego
+## Quebrar Criptografia
 
-Você pode interceptar e monitorar o tráfego sem fio ([Farejamento](04-devices-apps-and-links.md#farejamento)).
+Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](05-authentication-and-encryption.md#quebra-de-código)).
+
+## Repetir Fluxo de Sensor
+
+Um método comum de comprometer os sistemas de vigilância é repetir o fluxo do sensor, de modo que ele exiba repetidamente imagens ou dados insignificantes, permitindo que intrusos físicos passem despercebidos. Para repetir um fluxo, você primeiro deve encontrar e copiar um segmento gravado do fluxo do sensor (possivelmente exigindo um Teste de Pesquisa) ou gastar tempo para gravá-lo. Repetir um fluxo requer uma ação complexa e um Teste de Hackeamento. Fluxos repetidos podem ser configurados para voltarem ao normal após um período de tempo.
 
 ## Suprimir Alarme
 
@@ -91,16 +101,6 @@ Muitas técnicas de hackeamento são imediatas — você desativa uma função, 
 Suprimir um processo requer uma ação complexa a cada turno de ação. Isso vai combater as tentativas automáticas do sistema de reiniciar o processo. Qualquer um que deseje reiniciar o processo deve derrotá-lo com sucesso em um Teste Oposto de Infoseg, embora o processo possa ser encerrado novamente… a menos que o encerramento seja restringido.
 
 Muitos hackers incumbem suas musas com a supressão de processos.
-
-## Grampear RA
-
-Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuário como se fosse a sua própria com um Teste de Hackeamento. Você pode até configurar isso para lhe encaminhar automaticamente a mesma experiência de RA se você sair do sistema.
-
-## Grampear Sentidos
-
-Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
-
-Os dados sensoriais também podem ser gravados ou transmitidos como XP.
 
 <!--sort-end-->
 

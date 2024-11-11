@@ -56,17 +56,6 @@
 
 <!--sort-block-->
 
-<tr><td>Quicante<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
-- **Traços de Morfo:** Flexibilidade (Nível 1)
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Futura<td>4&nbsp;PM<td>25<td>7<td>35<td>53<td>2<td>4<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -107,6 +96,17 @@
 
 <!--sort-block-->
 
+<tr><td>Quicante<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Taxa de Movimento:** Marcha 4/12
+- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
+- **Traços de Morfo:** Flexibilidade (Nível 1)
+
+</div></tr>
+
+<!--sort-block-->
+
 <tr><td>Sílfide<td>4&nbsp;PM<td>60<td>6<td>30<td>45<td>1<td>3<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -121,23 +121,23 @@
 
 <!--sort-block-->
 
-<tr><td>Fúria<td>6&nbsp;PM<td>40<td>10<td>50<td>75<td>1<td>1<td>4<td>2</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
-- **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Fantasma<td>6&nbsp;PM<td>40<td>9<td>45<td>68<td>2<td>1<td>3<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
+
+</div></tr>
+
+<!--sort-block-->
+
+<tr><td>Fúria<td>6&nbsp;PM<td>40<td>10<td>50<td>75<td>1<td>1<td>4<td>2</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Taxa de Movimento:** Marcha 4/20
+- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 
 </div></tr>
 
@@ -205,21 +205,21 @@
 
 <!--sort-block-->
 
-<tr><td>Prod de Segurança<td>5&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Moldável<td>5&nbsp;PM<td>40<td>7<td>35<td>53<td>1<td>2<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
+
+</div></tr>
+
+<!--sort-block-->
+
+<tr><td>Prod de Segurança<td>5&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Taxa de Movimento:** Marcha 4/20
+- **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 </div></tr>
 
@@ -275,18 +275,6 @@
 
 <!--sort-block-->
 
-<tr><td>Neo-Polvo<td>3&nbsp;PM<td>35<td>6<td>30<td>45<td>1<td>1<td>1<td>2</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
-- **Wares:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
-- **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Neo-Orangutango<td>3&nbsp;PM<td>35<td>7<td>35<td>53<td>1<td>1<td>2<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -294,6 +282,18 @@
 - **Wares:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Flexibilidade (Nível 1), Morfologia Exótica (Nível 1)
 - **Notas:** Extensão (+10)
+
+</div></tr>
+
+<!--sort-block-->
+
+<tr><td>Neo-Polvo<td>3&nbsp;PM<td>35<td>6<td>30<td>45<td>1<td>1<td>1<td>2</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
+- **Wares:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
+- **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
+- **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
 
 </div></tr>
 
@@ -398,24 +398,24 @@
 
 <!--sort-block-->
 
-<tr><td>Serpentoide<td>5&nbsp;PM<td>50<td>9<td>45<td>90<td>0<td>1<td>3<td>0</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
-- **Traços de Morfo:** Morfologia Exótica (Nível 2)
-- **Notas:** Armação Média (Armadura 8/6)
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Morfo de Aço<td>5&nbsp;PM<td>50<td>8<td>40<td>80<td>0<td>1<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
+- **Notas:** Armação Média (Armadura 8/6)
+
+</div></tr>
+
+<!--sort-block-->
+
+<tr><td>Serpentoide<td>5&nbsp;PM<td>50<td>9<td>45<td>90<td>0<td>1<td>3<td>0</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
+- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Traços de Morfo:** Morfologia Exótica (Nível 2)
 - **Notas:** Armação Média (Armadura 8/6)
 
 </div></tr>
@@ -474,21 +474,21 @@
 
 <!--sort-block-->
 
-<tr><td>Módulo Ladino<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
-<tr><td colspan="10"><div class="indent">
-
-- **Wares:** Absorção de Radar, Pele Camaleão
-- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
-
-</div></tr>
-
-<!--sort-block-->
-
 <tr><td>Módulo Feiticeiro<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
+
+</div></tr>
+
+<!--sort-block-->
+
+<tr><td>Módulo Ladino<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Wares:** Absorção de Radar, Pele Camaleão
+- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 </div></tr>
 

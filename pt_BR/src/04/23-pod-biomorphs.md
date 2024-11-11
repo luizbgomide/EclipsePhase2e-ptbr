@@ -106,6 +106,30 @@ Os prods de prazer são imitações de humanos para fins de entretenimento ínti
 
 <!--sort-block-->
 
+### Moldável
+
+Os moldáveis são projetados para infiltração e disfarce. Eles não têm as linhas de emendas comuns dos prods e incorporam wares que lhes permitem alterar a aparência. Preferidos por espiões e criminosos, eles são ilegais em muitos habitats.
+
+<blockquote class="indent stat-list">
+
+### Moldável
+
+- **Custo:** 5&nbsp;PM • **Disp:** 40
+
+---
+
+- **LF:** 7 • **DUR:** 35 • **GD:** 53
+- **Inspiração** 1, **Manha** 2, **Vigor** 0, **Flex** 0
+
+---
+
+- **Taxa de Movimento:** Marcha 4/20
+- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
+
+</blockquote>
+
+<!--sort-block-->
+
 ### Prod de Segurança
 
 Os prods de segurança foram originalmente fabricados como soldados operados por IA produzidos em massa para missões de paz conjuntas e funções de segurança ou em fronteiras de enclaves. Muitos foram apropriados pelas TITANs durante a Queda, então eles caíram em desuso muitos anos, mas uma demanda por morfos mercenários baratos reavivou o interesse.
@@ -126,30 +150,6 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Extras Comuns:** Muitos estão equipados com [emissor de raios T](../16/06-sensory-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md). As variantes de fuzileiros espaciais possuem [pés preênseis](../16/11-physical-augmentations.md), [reserva de oxigênio](../16/11-physical-augmentations.md) e [vedação de vácuo](../16/11-physical-augmentations.md).
-
-</blockquote>
-
-<!--sort-block-->
-
-### Moldável
-
-Os moldáveis são projetados para infiltração e disfarce. Eles não têm as linhas de emendas comuns dos prods e incorporam wares que lhes permitem alterar a aparência. Preferidos por espiões e criminosos, eles são ilegais em muitos habitats.
-
-<blockquote class="indent stat-list">
-
-### Moldável
-
-- **Custo:** 5&nbsp;PM • **Disp:** 40
-
----
-
-- **LF:** 7 • **DUR:** 35 • **GD:** 53
-- **Inspiração** 1, **Manha** 2, **Vigor** 0, **Flex** 0
-
----
-
-- **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
 
 </blockquote>
 

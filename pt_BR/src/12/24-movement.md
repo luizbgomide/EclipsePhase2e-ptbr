@@ -74,17 +74,29 @@ Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de
 
 <!--sort-->
 
+### Asas
+
+**\[Atletismo • Rápido 8/32\]**
+
+Morfos e carcaças alados usam membros que produzem sustentação quando se movem pelo ar (eles não funcionam no vácuo). Sistemas com múltiplas asas controladas independentemente podem flutuar ou se mover rapidamente em qualquer direção. Aviões de asas fixas impulsionados por motores usam Pilotagem: Aérea.
+
 ### Barca
 
 **\[Pilotagem: Náutica • Rápido 8/32\]**
 
 Barcas usam velas, hélices, pás, ou sistemas similares para gerar propulsão e se mover por uma superfície líquida.
 
-### Pulo
+### Empuxo Vetorial
 
-**\[Atletismo • Lento 4/12\]**
+**\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Pulo é um uso de duas ou mais pernas para impulsionar o morfo para frente ou para cima, como um sapo ou gafanhoto. Dobre a distância de salto, mas você não recebe nenhum benefício na distância de salto por disparada.
+Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Eles também podem ser direcionados para gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) funcionam no vácuo se forem equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
+
+### Esteira
+
+**\[Pilotagem: Terrestre • Lento 4/12\]**
+
+Carcaças com esteiras usam cintas rolantes inteligentes para avançar por superfícies que atolariam outros veículos terrestres. Elas podem se erguer para superar obstáculos mais altos ou se abaixarem para formar uma ponte através de uma vala ou fenda.
 
 ### Flutuação
 
@@ -98,11 +110,35 @@ Os impulsores de veículos de flutuação empurram ar em alta pressão para repe
 
 Carcaças iônicas usam a magneto-hidrodinâmica para levitar e voar, ionizando o ar ao redor em plasma para criar sustentação e impulso enquanto gira para ter estabilidade. Esse sistema não funciona no vácuo, mas uma versão subaquática sua a mesma mecânica para ter propulsão em ambientes líquidos (use Pilotagem: Náutica).
 
+### Marcha
+
+**\[Atletismo • Médio 4/20\]**
+
+Marcha é o uso de dois ou mais membros para caminhar ou rastejar por um superfície. Muitos utilizam almofadas aderentes ou sistemas magnéticos para grudarem nas superfícies.
+
 ### Microleve
 
 **\[Pilotagem: Aérea • Rápido 8/32\]**
 
 Esta categoria engloba todos os sistemas ultraleves e mais leves que o ar, tais como parapentes, autogiros, balões, aeróstatos e dirigíveis. Embora sejam populares em habitats de baixa gravidade, esses sistemas não funcionam no vácuo.
+
+### Nado
+
+**\[Atletismo • Médio 4/20\]**
+
+Os nadadores usam barbatanas, membros ou jatos d'água para se impulsionarem pela água ou líquidos similares.
+
+### Pulo
+
+**\[Atletismo • Lento 4/12\]**
+
+Pulo é um uso de duas ou mais pernas para impulsionar o morfo para frente ou para cima, como um sapo ou gafanhoto. Dobre a distância de salto, mas você não recebe nenhum benefício na distância de salto por disparada.
+
+### Rodas
+
+**\[Pilotagem: Terrestre • Muito Rápido 8/40\]**
+
+A maioria das carcaças com rodas têm raios inteligentes que permitem que as rodas se adaptem ao formato dos obstáculos e até subam escadas. Algumas carcaças de baixa gravidade utilizam pneus de gás comprimido resistentes a furos e autorreparáveis.
 
 ### Rolagem
 
@@ -127,42 +163,6 @@ Serpentoides e carcaças similares usam ondulação lateral, flexionando seu cor
 **\[Pilotagem: Náutica • Rápido 8/32\]**
 
 Projetado para mobilidade subaquática, carcaças submersas usam hélices ou jatos para se impulsionar pela água.
-
-### Nado
-
-**\[Atletismo • Médio 4/20\]**
-
-Os nadadores usam barbatanas, membros ou jatos d'água para se impulsionarem pela água ou líquidos similares.
-
-### Empuxo Vetorial
-
-**\[Pilotagem: Aérea • Muito Rápido 8/40\]**
-
-Empuxo vetorial tem 3 subtipos. Motores _turbojatos_ (e turbofans) o impulsionam para frente e criam sustentação na atmosfera com um conjunto de asas. Eles também podem ser direcionados para gerar empuxo em diferentes direções para decolagens/pousos verticais e melhor manobrabilidade em zero-g. Turbojatos (mas não turbofans) funcionam no vácuo se forem equipados com um suprimento de ar. _Jatos de Gás_ são usados em microgravidade, ejetando gás em uma direção para impulsioná-lo para direção oposta (use Queda Livre, 4/12 bio ou 8/40 sinte). Da mesma forma, _Foguetes_ ejetam massa de reação aquecida para ter empuxo (use Pilotagem: Espacial, 8/40).
-
-### Esteira
-
-**\[Pilotagem: Terrestre • Lento 4/12\]**
-
-Carcaças com esteiras usam cintas rolantes inteligentes para avançar por superfícies que atolariam outros veículos terrestres. Elas podem se erguer para superar obstáculos mais altos ou se abaixarem para formar uma ponte através de uma vala ou fenda.
-
-### Marcha
-
-**\[Atletismo • Médio 4/20\]**
-
-Marcha é o uso de dois ou mais membros para caminhar ou rastejar por um superfície. Muitos utilizam almofadas aderentes ou sistemas magnéticos para grudarem nas superfícies.
-
-### Rodas
-
-**\[Pilotagem: Terrestre • Muito Rápido 8/40\]**
-
-A maioria das carcaças com rodas têm raios inteligentes que permitem que as rodas se adaptem ao formato dos obstáculos e até subam escadas. Algumas carcaças de baixa gravidade utilizam pneus de gás comprimido resistentes a furos e autorreparáveis.
-
-### Asas
-
-**\[Atletismo • Rápido 8/32\]**
-
-Morfos e carcaças alados usam membros que produzem sustentação quando se movem pelo ar (eles não funcionam no vácuo). Sistemas com múltiplas asas controladas independentemente podem flutuar ou se mover rapidamente em qualquer direção. Aviões de asas fixas impulsionados por motores usam Pilotagem: Aérea.
 
 <!--sort-end-->
 

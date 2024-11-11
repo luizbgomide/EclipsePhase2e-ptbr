@@ -74,14 +74,14 @@ Administradores e usuários com códigos de trapaça têm mais opções. As segu
 
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente. Escrever ou editar uma trapaça pode exigir um Teste de Programação com um prazo definido pelo MJ. Encontrar uma trapaça existente pode exigir um Teste de Pesquisa. Instalar um código de trapaça oculto dos outros administradores requer um Teste de Hackeamento.
 - **Alterar Regras de Domínio:** A maioria dos simulespaços possuem interfaces para você ajustar as configurações do sistema dentro de certos parâmetros; ajustar essas não requer um teste. No entanto, alterar drasticamente o ambiente ou as regras subjacentes de um domínio, vai exigir um Teste de Programação com um prazo definido pelo MJ.
+- **Ativar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou arrendados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.
+- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
+- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
+- **Ativar Privacidade:** Você pode implementar controles de privacidade que impedem que suas comunicações cara a cara com outros usuários sejam espionadas.
 - **Controlar PNJs:** Você pode ditar quais respostas os PNJs darão a determinadas ações ou controlá-los diretamente.
+- **Encerrar Sessão:** Você pode forçar o encerramento da sessão de um usuário, enviando-o de volta para a sala branca.
 - **Espionar:** Você pode vigiar virtualmente outros usuários no simulespaço, não importando a proximidade virtual deles.
 - **Gerar Itens:** Você pode criar itens virtuais independentemente da raridade.
-- **Modificar Simulmorfo:** Você pode modificar os atributos de um simulmorfo dentro de parâmetros especificados. Isso pode variar de dar pontos de vida extras ou habilidades especiais até enfraquecê-lo. Mudanças drásticas podem exigir um Teste de Programação com um prazo definido pelo MJ.
-- **Ativar Privacidade:** Você pode implementar controles de privacidade que impedem que suas comunicações cara a cara com outros usuários sejam espionadas.
 - **Iniciar/Parar Simulespaço:** Você pode iniciar um novo simulespaço ou fechar um existente. Uma vez iniciado, isso demora 1d6 minutos. Fechar um simulespaço particularmente grande com muitos usuários leva tempo, pois os usuários têm a chance de se deslogarem manualmente.
+- **Modificar Simulmorfo:** Você pode modificar os atributos de um simulmorfo dentro de parâmetros especificados. Isso pode variar de dar pontos de vida extras ou habilidades especiais até enfraquecê-lo. Mudanças drásticas podem exigir um Teste de Programação com um prazo definido pelo MJ.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
-- **Encerrar Sessão:** Você pode forçar o encerramento da sessão de um usuário, enviando-o de volta para a sala branca.
-- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
-- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou arrendados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.

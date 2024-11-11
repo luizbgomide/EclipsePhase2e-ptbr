@@ -38,24 +38,24 @@ Alterar o projeto ou função de um objeto segue as mesmas regras básicas de co
 
 | Objeto/<wbr>Estrutura/<wbr>Material | Armadura (E/C) | Grau de Destruição | Limiar de Ferimento |
 |:------------------------------------------------------------------------------------- |:--------------:|:------------------:|:-------------------:|
-| Porta de Câmara de Ar (Padrão, 2 pessoas)                                             |     25/15      |        150         |         15          |
-| <!--sort-union-->Porta de Câmara de Ar (Serviço, 10 pessoas)                |     25/20      |        300         |         30          |
-| Pilha Cortical                                                                        |     20/20      |         40         |                     |
-| Domo, Inflado (Trama de Aranha, 3 × 3&nbsp;m²)                                        |     10/20      |         60         |          6          |
-| <!--sort-union-->Domo, Estrutural (3 × 3&nbsp;m²)                           |     30/40      |        100         |         10          |
-| Porta (Polímero)                                                                      |      4/8       |         60         |          6          |
-| <!--sort-union-->Porta (Espuma Metálica)                                    |     25/20      |        100         |         10          |
-| Painel Eletrônico                                                                     |      6/4       |         80         |          8          |
-| Mobiliário (Polímero)                                                                 |      4/6       |         50         |          5          |
+| Árvore                                                                                |      6/8+      |        80+         |         8+          |
 | Casco, Aeróstato/<wbr>Leve (Espuma Metálica)                 |     70/50+     |        500+        |         50+         |
 | <!--sort-union-->Casco, Padrão (Compostos Avançados)                        |     80/60+     |        750+        |         75+         |
 | <!--sort-union-->Casco, Pesado (Reforçado)                                  |    100/100+    |       1.500+       |        150+         |
-| Árvore                                                                                |      6/8+      |        80+         |         8+          |
+| Domo, Inflado (Trama de Aranha, 3 × 3&nbsp;m²)                                        |     10/20      |         60         |          6          |
+| <!--sort-union-->Domo, Estrutural (3 × 3&nbsp;m²)                           |     30/40      |        100         |         10          |
+| Janela (Aerogel, 1 × 3&nbsp;m²)                                                       |      7/5       |         50         |          5          |
+| <!--sort-union-->Janela (Alumínio Transparente, 1 × 3&nbsp;m²)              |     10/15      |        100         |         10          |
+| Mobiliário (Polímero)                                                                 |      4/6       |         50         |          5          |
+| Painel Eletrônico                                                                     |      6/4       |         80         |          8          |
 | Parede (Aerogel, 3 × 3&nbsp;m²)                                                       |      10/5      |        150         |         15          |
 | <!--sort-union-->Parede (Concreto, 3 × 3&nbsp;m²)                           |      6/10      |        200         |         20          |
 | <!--sort-union-->Parede (Ligas Metálicas, 3 × 3&nbsp;m²)                    |     25/15      |        300         |         30          |
 | <!--sort-union-->Parede, Reforçada (Ligas Metálicas, 3 × 3&nbsp;m²)         |     40/30      |        500         |         50          |
-| Janela (Aerogel, 1 × 3&nbsp;m²)                                                       |      7/5       |         50         |          5          |
-| <!--sort-union-->Janela (Alumínio Transparente, 1 × 3&nbsp;m²)              |     10/15      |        100         |         10          |
+| Pilha Cortical                                                                        |     20/20      |         40         |                     |
+| Porta (Polímero)                                                                      |      4/8       |         60         |          6          |
+| <!--sort-union-->Porta (Espuma Metálica)                                    |     25/20      |        100         |         10          |
+| Porta de Câmara de Ar (Padrão, 2 pessoas)                                             |     25/15      |        150         |         15          |
+| <!--sort-union-->Porta de Câmara de Ar (Serviço, 10 pessoas)                |     25/20      |        300         |         30          |
 
 </blockquote>

@@ -18,9 +18,9 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Barsoomianos:** Você quer ver Marte livre do controle hipercorporativo.
 
-**Eremitas:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
-
 **Criminosos:** Você está associado ao submundo, seja parte de um grande cartel, gangue menor, ou como operador independente.
+
+**Eremitas:** Você pertence a um culto, comuna, ou outro grupo que busca isolamento do resto da transumanidade.
 
 **Extropianos:** Você acredita em livres mercados irrestritos e que assumir riscos proativos com a tecnologia é melhor do que não se arriscar.
 
@@ -32,9 +32,9 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Mercuriais:** Você se opõe à assimilação e à opressão das IGAs e dos elevados, apoiando a autodeterminação para o seu povo.
 
-**Reivindicadores:** Você acredita que a transumanidade deve se focar na reivindicação, terraformação e repovoamento da Terra.
-
 **Ralé:** Você empurra os limites da experimentação, testando completamente o que significa ser transumano.
+
+**Reivindicadores:** Você acredita que a transumanidade deve se focar na reivindicação, terraformação e repovoamento da Terra.
 
 **Socialites:** Você faz parte do glitterati, definindo e definido através da cultura midiática do sistema interior.
 

@@ -101,32 +101,6 @@ Neo-gorilas se beneficiam da cognição aprimorada e da posição ereta como out
 
 <!--sort-block-->
 
-### Neo-Polvo
-
-Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são bastante úteis em ambientes de gravidade zero. Eles conservam oito braços, sua capacidade de camaleão para mudar a cor da pele, sacos de tinta e um bico afiado. Eles também têm um aumento de massa cerebral e longevidade, podem respirar tanto ar quanto água, e não possuem estrutura esquelética o que permite que se espremam através de espaços apertados. Os octomorfos tipicamente rastejam em gravidade zero usando os sugadores de seus braços e expulsando ar para propulsão; em baixa gravidade eles andam em dois de seus braços. Seus olhos foram aprimorados com visão colorida, fornecendo um campo visual de 360 graus, e rotacionados para manter a pupila fendida alinhada para “cima”. Um sistema vocal transgênico permite que eles falem.
-
-<blockquote class="indent stat-list">
-
-### Neo-Polvo
-
-- **Custo:** 3&nbsp;PM • **Disp:** 35
-
----
-
-- **LF:** 6 • **DUR:** 30 • **GD:** 45
-- **Inspiração** 1, **Manha** 1, **Vigor** 1, **Flex** 2
-
----
-
-- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
-- **Wares:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
-- **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
-
-</blockquote>
-
-<!--sort-block-->
-
 ### Neo-Orangutango
 
 Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-hominídeos. Em comparação com os humanos, suas pernas são mais curtas e braços mais longos. Os neo-orangotangos tendem a ser mais solitários do que sociais.
@@ -148,6 +122,32 @@ Os neo-orangotangos têm as mesmas características elevadas de seus primos neo-
 - **Wares:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Flexibilidade (Nível 1), Morfologia Exótica (Nível 1)
 - **Notas:** Extensão (+10)
+
+</blockquote>
+
+<!--sort-block-->
+
+### Neo-Polvo
+
+Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são bastante úteis em ambientes de gravidade zero. Eles conservam oito braços, sua capacidade de camaleão para mudar a cor da pele, sacos de tinta e um bico afiado. Eles também têm um aumento de massa cerebral e longevidade, podem respirar tanto ar quanto água, e não possuem estrutura esquelética o que permite que se espremam através de espaços apertados. Os octomorfos tipicamente rastejam em gravidade zero usando os sugadores de seus braços e expulsando ar para propulsão; em baixa gravidade eles andam em dois de seus braços. Seus olhos foram aprimorados com visão colorida, fornecendo um campo visual de 360 graus, e rotacionados para manter a pupila fendida alinhada para “cima”. Um sistema vocal transgênico permite que eles falem.
+
+<blockquote class="indent stat-list">
+
+### Neo-Polvo
+
+- **Custo:** 3&nbsp;PM • **Disp:** 35
+
+---
+
+- **LF:** 6 • **DUR:** 30 • **GD:** 45
+- **Inspiração** 1, **Manha** 1, **Vigor** 1, **Flex** 2
+
+---
+
+- **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
+- **Wares:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
+- **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
+- **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
 
 </blockquote>
 

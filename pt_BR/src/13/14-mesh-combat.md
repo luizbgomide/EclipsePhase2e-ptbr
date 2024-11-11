@@ -56,11 +56,11 @@ Programas (exceto consoles de contas) ainda podem ser atacados depois de serem t
 
 | Programa                                             | Limiar de Ferimento | Durabilidade | Grau de Destruição |
 |:---------------------------------------------------- |:-------------------:|:------------:|:------------------:|
-| Console de Conta                                     |          3          |      15      |        N/A         |
-| ILA                                                  |          4          |      20      |         40         |
 | App                                                  |          2          |      10      |         20         |
 | <!--sort-union--><p class="indent">» App de Firewall</p> |          6          |      30      |         60         |
 | Cibercérebro                                         |          7          |      35      |         70         |
+| Console de Conta                                     |          3          |      15      |        N/A         |
+| ILA                                                  |          4          |      20      |         40         |
 | Infomorfo                                            |                     |              |                    |
 | <!--sort-union--><p class="indent">» Digimorfo</p> |          5          |      25      |         50         |
 | <!--sort-union--><p class="indent">» Agente</p> |          8          |      40      |         80         |

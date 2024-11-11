@@ -222,32 +222,6 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 
 <!--sort-block-->
 
-### Serpentoide
-
-As carcaças serpentoides tem a forma de um torso humanoide com braços retráteis no topo de uma cobra metálica segmentada de 2 metros. Os serpentoides usam ondulação lateral para se mover, apesar de também poderem se puxar usando os braços, ou se enrolarem, torcerem e rolarem seus corpos como uma bola ou aro.
-
-<blockquote class="indent stat-list">
-
-### Serpentoide
-
-- **Custo:** 5&nbsp;PM • **Disp:** 50
-
----
-
-- **LF:** 9 • **DUR:** 45 • **GD:** 90
-- **Inspiração** 0, **Manha** 1, **Vigor** 3, **Flex** 0
-
----
-
-- **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
-- **Traços de Morfo:** Morfologia Exótica (Nível 2)
-- **Notas:** Armação Média (Armadura 8/6)
-
-</blockquote>
-
-<!--sort-block-->
-
 ### Morfo de Aço
 
 Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes biochauvinistas e tornar os sintemorfos mais atrativos. Enquanto a galateia é otimizada para interações sociais, o morfo de aço fornece capacidades físicas aprimoradas para o trabalho e o lazer.
@@ -268,6 +242,32 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
+- **Notas:** Armação Média (Armadura 8/6)
+
+</blockquote>
+
+<!--sort-block-->
+
+### Serpentoide
+
+As carcaças serpentoides tem a forma de um torso humanoide com braços retráteis no topo de uma cobra metálica segmentada de 2 metros. Os serpentoides usam ondulação lateral para se mover, apesar de também poderem se puxar usando os braços, ou se enrolarem, torcerem e rolarem seus corpos como uma bola ou aro.
+
+<blockquote class="indent stat-list">
+
+### Serpentoide
+
+- **Custo:** 5&nbsp;PM • **Disp:** 50
+
+---
+
+- **LF:** 9 • **DUR:** 45 • **GD:** 90
+- **Inspiração** 0, **Manha** 1, **Vigor** 3, **Flex** 0
+
+---
+
+- **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
+- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Traços de Morfo:** Morfologia Exótica (Nível 2)
 - **Notas:** Armação Média (Armadura 8/6)
 
 </blockquote>
@@ -389,30 +389,6 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 <!--sort-block-->
 
-### Módulo Ladino
-
-Os ladinos são otimizados para furtividade e atividades ocultas.
-
-<blockquote class="indent stat-list">
-
-### Módulo Ladino
-
-- **Custo:** 2&nbsp;PM • **Disp:** 60
-
----
-
-- **LF:** 4 • **DUR:** 20 • **GD:** 40
-- **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
-
----
-
-- **Wares:** Absorção de Radar, Pele Camaleão
-- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
-
-</blockquote>
-
-<!--sort-block-->
-
 ### Módulo Feiticeiro
 
 Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação.
@@ -432,6 +408,30 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 
 - **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
+
+</blockquote>
+
+<!--sort-block-->
+
+### Módulo Ladino
+
+Os ladinos são otimizados para furtividade e atividades ocultas.
+
+<blockquote class="indent stat-list">
+
+### Módulo Ladino
+
+- **Custo:** 2&nbsp;PM • **Disp:** 60
+
+---
+
+- **LF:** 4 • **DUR:** 20 • **GD:** 40
+- **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
+
+---
+
+- **Wares:** Absorção de Radar, Pele Camaleão
+- **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 </blockquote>
 

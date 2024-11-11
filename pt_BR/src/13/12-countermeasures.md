@@ -104,20 +104,6 @@ As contramedidas ativas são iniciadas quando um invasor é totalmente detectado
 
 Apesar de ilegal em algumas jurisdições, os defensores do sistema podem proteger proativamente suas unidades contra-atacando o hacker. Para que isso ocorra, o invasor primeiro deve ser [rastreado com sucesso](10-tracking.md#rastreamento-de-atividades-na-mesh) e sua mesh ID obtida. Quando isso ocorrer, o defensor pode então iniciar sua própria invasão no sistema o qual o hacker se origina.
 
-### Travar e Barrar
-
-O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](06-mesh-actions.md#ações-de-segurança)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
-
-### Reinicializar/Desligar
-
-A opção nuclear para lidar com um intruso é reinicializar ou desligar o sistema. Nesse caso, o sistema fecha todas as conexões com outros sistemas, desloga os usuários, encerra todos os processos e se desliga — expulsando assim o invasor (pelo menos temporariamente). A desvantagem, é claro, é que o sistema deve interromper suas atividades. Por exemplo, desligar seus insertos da mesh significa perder toda a comunicação com os companheiros de equipe, acesso à realidade aumentada e controle sobre dispositivos subordinados/vinculados. O invasor pode tentar acessar o sistema quando ele for reinicializado, mas se ele não tiver credenciais de conta ou uma brecha, ele vai precisar hackear novamente. Os defensores remotos também precisarão fazer uma ação para logar de volta.
-
-Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o processo de desligamento real leva 1d6 turnos de ação (ciscos e terminais) ou 1d6 minutos (servidores). A reinicialização demora uma quantidade de tempo equivalente.
-
-Os usuários logados (incluindo invasores) são avisados quando uma reinicialização ou desligamento foi iniciada. Uma vez iniciado, o processo de desligamento não pode ser interrompido, mas pode ser prolongado por 1d6 turnos de ação com uma ação complexa; isso requer privilégios de segurança/administrador ou um Teste de Infoseg.
-
-**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento “direto” também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
-
 ### Encerrar Conexões
 
 **\[Automática\]**
@@ -129,6 +115,20 @@ Uma alternativa para o desligamento ou reinicialização é simplesmente cortar 
 **\[Automática\]**
 
 Os defensores podem iniciar um rastreamento em um invasor descoberto. A maioria dos hackers tem o cuidado de usar um serviço de anonimização para mascarar sua mesh ID e localização, mas esse nem sempre é o caso. Se um invasor for localizado fisicamente, o procedimento padrão é alertar a segurança do habitat ou outras polícias locais ou privadas, que se mobilizarão para prender o suspeito.
+
+### Reinicializar/Desligar
+
+A opção nuclear para lidar com um intruso é reinicializar ou desligar o sistema. Nesse caso, o sistema fecha todas as conexões com outros sistemas, desloga os usuários, encerra todos os processos e se desliga — expulsando assim o invasor (pelo menos temporariamente). A desvantagem, é claro, é que o sistema deve interromper suas atividades. Por exemplo, desligar seus insertos da mesh significa perder toda a comunicação com os companheiros de equipe, acesso à realidade aumentada e controle sobre dispositivos subordinados/vinculados. O invasor pode tentar acessar o sistema quando ele for reinicializado, mas se ele não tiver credenciais de conta ou uma brecha, ele vai precisar hackear novamente. Os defensores remotos também precisarão fazer uma ação para logar de volta.
+
+Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o processo de desligamento real leva 1d6 turnos de ação (ciscos e terminais) ou 1d6 minutos (servidores). A reinicialização demora uma quantidade de tempo equivalente.
+
+Os usuários logados (incluindo invasores) são avisados quando uma reinicialização ou desligamento foi iniciada. Uma vez iniciado, o processo de desligamento não pode ser interrompido, mas pode ser prolongado por 1d6 turnos de ação com uma ação complexa; isso requer privilégios de segurança/administrador ou um Teste de Infoseg.
+
+**Desligamento Direto:** O processo de desligamento leva tempo para poder avisar usuários, salvar arquivos, encerrar processos corretamente, e evitar problemas no sistema. Um desligamento “direto” também é possível em situações de emergência. Isso requer um Teste de Interface, uma ação complexa, e privilégios de administrador. Se bem-sucedido, o sistema é desligado no fim deste turno de ação. Os desligamentos diretos exigem o dobro do tempo de reinicialização e podem resultar em perdas de dados (a critério do MJ). Você também pode provocar um desligamento direto ao desligar fisicamente, cortar a energia ou destruir o dispositivo.
+
+### Travar e Barrar
+
+O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](06-mesh-actions.md#ações-de-segurança)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
 
 <!--sort-end-->
 

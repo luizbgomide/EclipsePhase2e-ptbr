@@ -8,17 +8,17 @@ Alguns ataques, drogas, e truques psi infligem condições temporárias específ
 
 <!--sort-->
 
+- **Agarrado:** Você está fisicamente preso. Sua Taxa de Movimento é 0 e você não pode fazer ações físicas, exceto por testes opostos de Luta/Prova de SOM para se libertar. Você pode usar Evasão com −30 contra ataques vindos de fora do agarramento. Veja [Agarramentos](02-melee-combat.md#agarramentos).
+- **Atordoado:** Você perdeu completamente o fôlego. Você sofre −30 em todas as ações físicas e −10 em ações mentais.
 - **Cegado:** Você não consegue ver, embora possa perceber através dos seus outros sentidos, assim como por sensores entópticos e em mesh. Você tem 50% de chance de errar seus ataques ([Ataques às Cegas](15-special-attacks.md#ataques-às-cegas)) e sofre −30 em todas as outras ações físicas, incluindo Testes de Evasão. Você deve fazer um Teste de Atletismo, Queda Livre, ou Pilotagem para se mover mais rápido que seu movimento base ou cair prostrado.
 - **Confuso:** Sua cabeça está embaralhada. Você não compreende a comunicação ou o que está acontecendo ao seu redor. A cada turno, você pode fazer uma Prova de COG com −30. Se tiver sucesso, você age normalmente. Se falhar, role um d100: 00–24, não faça nada além balbuciar incoerências; 25–49, aja aleatoriamente como determinado pelo MJ; 50–74, fuja para uma direção aleatória; 75–99, ataque um alvo aleatório próximo (potencialmente até um aliado) com uma arma/item em sua mão. Você se defende com Evasão normalmente.
-- **Tonto:** Você está mentalmente atordoado e desorientado. Você não pode iniciar qualquer ação, mas pode fazer um movimento base e se defender de ataques.
-- **Ensurdecido:** Você não consegue ouvir. Você sofre −3 em Testes de Iniciativa e −30 em Testes de Percepção em geral.
-- **Agarrado:** Você está fisicamente preso. Sua Taxa de Movimento é 0 e você não pode fazer ações físicas, exceto por testes opostos de Luta/Prova de SOM para se libertar. Você pode usar Evasão com −30 contra ataques vindos de fora do agarramento. Veja [Agarramentos](02-melee-combat.md#agarramentos).
-- **Imobilizado:** Você não pode fazer nenhuma ação física, incluindo Testes de Evasão, até se recuperar. Você pode fazer ações mentais e da mesh.
 - **Debilitado:** Suas capacidades estão prejudicadas. Você sofre −10, −20, ou −30 em todas as ações, conforme indicado pela condição (ex.: debilitado (−10)).
+- **Ensurdecido:** Você não consegue ouvir. Você sofre −3 em Testes de Iniciativa e −30 em Testes de Percepção em geral.
+- **Imobilizado:** Você não pode fazer nenhuma ação física, incluindo Testes de Evasão, até se recuperar. Você pode fazer ações mentais e da mesh.
 - **Incapacitado:** Você não pode fazer ações até se recuperar. Isso inclui ações mentais e Testes de Evasão; você não pode se defender contra ataques.
-- **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para esse turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
-- **Atordoado:** Você perdeu completamente o fôlego. Você sofre −30 em todas as ações físicas e −10 em ações mentais.
 - **Inconsciente:** Você perdeu a consciência (ou seu estado mental programático travou) e está indefeso. Você pode ser acordado/reinicializado com a aplicação de um estimulante (apenas biomorfos) ou com uma Prova de INT com −30 se alguém chacoalhar você vigorosamente e seus pontos de dano não excederem a sua Durabilidade.
+- **Prostrado:** Você está derrubado no chão em gravidade ou girando sem controle em microgravidade. Você deve fazer uma ação rápida para se levantar ou reorientar, e sua Taxa de Movimento para esse turno é reduzida à metade. Um oponente em pé ou orientado tem posição vantajosa (+20) contra você em luta. No entanto, com gravidade, qualquer um atirando em você do alcance ou mais longe recebe um modificador −10 adicional.
+- **Tonto:** Você está mentalmente atordoado e desorientado. Você não pode iniciar qualquer ação, mas pode fazer um movimento base e se defender de ataques.
 
 ## Defesa Total
 

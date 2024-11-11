@@ -22,19 +22,15 @@ As descrições completas das perícias estão em [Perícias](18-skills.md).
 
 <!--sort-->
 
+**Aparelhagem (COG, Área):** Construção, reparo, desativação, atualização e hackeamento físico de sistemas tecnológicos.
+
 **Atletismo (SOM):** Atividade física em gravidade com um morfo humanoide, elevado ou biomimético, incluindo escalada, corrida, natação, ginástica, arremessos e voo alado.
+
+**Cinésica (SAG):** Percepção da linguagem corporal, reações, sinais sociais e comunicação não verbal.
 
 **Enganação (SAG):** Mentira, blefe, golpismo, lábia, imitação, atuação e outras tentativas de dissimular ou esconder a verdade com palavras e gestos.
 
-**Perícia Exótica (Área):** Uma categoria genérica para perícias menos comuns, como trato animal, contorcionismo, disfarce, música, prestidigitação ou arremesso de facas.
-
 **Evasão (REF):** A habilidade de sair do caminho do perigo.
-
-**Queda Livre (SOM):** Atividade física em microgravidade.
-
-**Tiro (REF):** Mirar e atirar. Usado para armas de feixe, cinéticas, de buscadores e de spray.
-
-**Aparelhagem (COG, Área):** Construção, reparo, desativação, atualização e hackeamento físico de sistemas tecnológicos.
 
 **Infiltração (REF):** Esgueirar-se, esconder-se e evitar a detecção.
 
@@ -42,17 +38,17 @@ As descrições completas das perícias estão em [Perícias](18-skills.md).
 
 **Interface (COG):** Usar e compreender dispositivos eletrônicos, programas, redes e sistemas de armas.
 
-**Cinésica (SAG):** Percepção da linguagem corporal, reações, sinais sociais e comunicação não verbal.
-
-**Saber (COG/INT, Área):** Saber especializado em uma arte, um hobby, um campo científico ou área profissional.
+**Luta (SOM):** Combate corpo a corpo, seja desarmado ou usando lâminas, bastões ou armas manuais similares.
 
 **Medicina (COG, Área):** Cuidado e diagnóstico da vida biológica, incluindo atendimento de emergência, ciência forense, farmacologia, psicocirurgia e cirurgia.
 
-**Luta (SOM):** Combate corpo a corpo, seja desarmado ou usando lâminas, bastões ou armas manuais similares.
-
 **Percepção (INT):** Consciência e uso dos seus sentidos físicos.
 
+**Perícia Exótica (Área):** Uma categoria genérica para perícias menos comuns, como trato animal, contorcionismo, disfarce, música, prestidigitação ou arremesso de facas.
+
 **Persuasão (SAG):** Negociação, convencimento, etiqueta e manipulação social.
+
+**Pesquisa (INT):** Encontrar e interpretar dados na mesh.
 
 **Pilotagem (REF, Área):** Movimentação em um veículo ou morfo não humanoide ou não biomimético.
 
@@ -62,9 +58,13 @@ As descrições completas das perícias estão em [Perícias](18-skills.md).
 
 **Psi (VON):** Uso de truques assincros.
 
-**Pesquisa (INT):** Encontrar e interpretar dados na mesh.
+**Queda Livre (SOM):** Atividade física em microgravidade.
+
+**Saber (COG/INT, Área):** Saber especializado em uma arte, um hobby, um campo científico ou área profissional.
 
 **Sobrevivência (INT):** Navegação, rastreamento, obtenção de comida e abrigo seguros, e defesa contra ambientes planetários hostis.
+
+**Tiro (REF):** Mirar e atirar. Usado para armas de feixe, cinéticas, de buscadores e de spray.
 
 <!--sort-end-->
 

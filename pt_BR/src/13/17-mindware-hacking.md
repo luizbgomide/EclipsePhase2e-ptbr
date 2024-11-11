@@ -26,6 +26,14 @@ Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, 
 
 <!--sort-->
 
+### Afligir Ego
+
+O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para tipos de ataques que normalmente não são viáveis devido a filtragem rigorosa de conteúdo. Você realiza tais ataques usando [aflitivos](../16/13-apps-and-alis.md#aflitivos) — apps hostis que empregam rotinas danosas de neurorretroalimentação.
+
+### Congelar Morfo (Cibercérebro)
+
+A conexão entre um cibercérebro e o morfo em que reside pode ser temporariamente bloqueada ou permanentemente cortada. Isso geralmente faz com que o morfo congele no lugar (um recurso de segurança para defeitos de cibercérebros), embora possa fazer com que o morfo caia. Em ambos os casos, o morfo está incapacitado. Um ego preso em um morfo incapacitado por períodos prolongados podem sofrer estresse mental de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
+
 ### Controlar Ware (Cibercérebro)
 
 Como em [Controlar Ware](13-system-subversion.md#controlar-ware).
@@ -34,45 +42,37 @@ Como em [Controlar Ware](13-system-subversion.md#controlar-ware).
 
 Você pode copiar o código fonte de um infomorfo residente em um cibercérebro/dispositivo. Isso conta como um arquivo de backup inativo de um ego, embora ela possa ser executado como um infomorfo em um terminal ou servidor. O “forquestro” de infomorfos de sistemas comprometidos por interesses criminosos permanece um problema constante no sistema interior. Alguns infomorfos vem equipados com um [app de travacópia](../16/12-meshware.md); isso aplica um modificador −30 adicional (cumulativo com o modificador −30 de segurança codificada do infomorfo) em tentativas de cópia.
 
-### Excluir Ego
-
-Excluir um ego é o equivalente digital de assassinato — ou, pelo menos, de destruição de propriedade. Isso não tem efeito sobre os arquivos de backup do infomorfo (que devem ser excluídos separadamente) ou a pilha cortical do morfo.
-
-### Congelar Morfo (Cibercérebro)
-
-A conexão entre um cibercérebro e o morfo em que reside pode ser temporariamente bloqueada ou permanentemente cortada. Isso geralmente faz com que o morfo congele no lugar (um recurso de segurança para defeitos de cibercérebros), embora possa fazer com que o morfo caia. Em ambos os casos, o morfo está incapacitado. Um ego preso em um morfo incapacitado por períodos prolongados podem sofrer estresse mental de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
-
-### Hackear Mente do Ego
-
-Você pode hackear a mente do ego interno usando [psicocirurgia](../15/05-psychosurgery.md). Todos os procedimentos de psicocirurgia podem ser feitos, desde interrogatórios até alterações de memórias ou traços de personalidade. Como a psicocirurgia precisa de tempo e programas especializados, isso geralmente está reservado para alvos que estão capturados e presos de alguma forma (forquestrados, presos em uma caixa-forte, fisicamente incapacitados, etc.).
-
-### Modificar Meshware
-
-Qualquer [meshware](../16/12-meshware.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshwares podem ser instalados.
-
-### Modificar Entrada Sensorial (Cibercérebro)
-
-Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro residente. Sentidos bloqueados simplesmente param de funcionar até que sejam reativados. Em vez disso, uma entrada sensorial gravada pode ser inserida no cibercérebro, substituindo um único sentido ou todo o sensório (o mesmo que XP). A não ser que a entrada sensorial tenha sido gravada previamente nesse morfo, essas entradas sensoriais injetadas são facilmente percebidas como artificiais (Teste de Percepção com +30). Também é possível fornecer entradas sensoriais contraditórias para um cibercérebro, provocando uma sinestesia severa com a intenção de distrair ou confundir; aplique um modificador entre −10 e −30 (escolha do hacker). A exposição prolongada a entradas sensoriais hostis deve ser tratada como [psicocirurgia](../15/05-psychosurgery.md) de tortura e pode infligir estresse mental.
-
-### Manipular Fantoche (Cibercérebro)
-
-Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#operação-remota)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
-
-### Afligir Ego
-
-O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para tipos de ataques que normalmente não são viáveis devido a filtragem rigorosa de conteúdo. Você realiza tais ataques usando [aflitivos](../16/13-apps-and-alis.md#aflitivos) — apps hostis que empregam rotinas danosas de neurorretroalimentação.
-
 ### Desligar
 
 Cibercérebros e infomorfos podem ser desativados, assim como outros sistemas ([Reinicializar/Desligar](12-countermeasures.md#reinicializardesligar)) — isso inclui desligamentos diretos. Se um cibercérebro é desligado, seu morfo vai congelar no lugar ou cairá. Morfos desligados não podem ser manipulados como fantoche.
+
+### Encerrar Fluxo da Pilha Cortical
+
+O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma conexão de sentido único, então a pilha cortical em si não pode ser hackeada, mas a transferência de dados pode ser cortada. Da mesma forma, as atualizações em andamento para os arquivos de backup inativo de um infomorfo podem ser encerradas. Isso pode ser feito durante um período temporário ou pode ser cortado indefinidamente. Um backup restaurado estará faltando as memórias do período em que o fluxo foi encerrado.
+
+### Excluir Ego
+
+Excluir um ego é o equivalente digital de assassinato — ou, pelo menos, de destruição de propriedade. Isso não tem efeito sobre os arquivos de backup do infomorfo (que devem ser excluídos separadamente) ou a pilha cortical do morfo.
 
 ### Grampear Sentidos
 
 Como em [Grampear Sentidos](13-system-subversion.md#grampear-sentidos).
 
-### Encerrar Fluxo da Pilha Cortical
+### Hackear Mente do Ego
 
-O cibercérebro alimenta dados de backup para a pilha cortical. Essa é uma conexão de sentido único, então a pilha cortical em si não pode ser hackeada, mas a transferência de dados pode ser cortada. Da mesma forma, as atualizações em andamento para os arquivos de backup inativo de um infomorfo podem ser encerradas. Isso pode ser feito durante um período temporário ou pode ser cortado indefinidamente. Um backup restaurado estará faltando as memórias do período em que o fluxo foi encerrado.
+Você pode hackear a mente do ego interno usando [psicocirurgia](../15/05-psychosurgery.md). Todos os procedimentos de psicocirurgia podem ser feitos, desde interrogatórios até alterações de memórias ou traços de personalidade. Como a psicocirurgia precisa de tempo e programas especializados, isso geralmente está reservado para alvos que estão capturados e presos de alguma forma (forquestrados, presos em uma caixa-forte, fisicamente incapacitados, etc.).
+
+### Manipular Fantoche (Cibercérebro)
+
+Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#operação-remota)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
+
+### Modificar Entrada Sensorial (Cibercérebro)
+
+Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro residente. Sentidos bloqueados simplesmente param de funcionar até que sejam reativados. Em vez disso, uma entrada sensorial gravada pode ser inserida no cibercérebro, substituindo um único sentido ou todo o sensório (o mesmo que XP). A não ser que a entrada sensorial tenha sido gravada previamente nesse morfo, essas entradas sensoriais injetadas são facilmente percebidas como artificiais (Teste de Percepção com +30). Também é possível fornecer entradas sensoriais contraditórias para um cibercérebro, provocando uma sinestesia severa com a intenção de distrair ou confundir; aplique um modificador entre −10 e −30 (escolha do hacker). A exposição prolongada a entradas sensoriais hostis deve ser tratada como [psicocirurgia](../15/05-psychosurgery.md) de tortura e pode infligir estresse mental.
+
+### Modificar Meshware
+
+Qualquer [meshware](../16/12-meshware.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshwares podem ser instalados.
 
 <!--sort-end-->
 

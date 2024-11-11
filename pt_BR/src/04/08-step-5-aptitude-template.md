@@ -8,9 +8,9 @@ Apesar de conceitualmente as perícias serem construídas sobre os valores de ap
 
 <!--sort-->
 
-### Operativo
+### Aventureiro
 
-Você está mais confortável com a fisicalidade do que falar ou pensar.
+Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápido compensam a sua falta de visão.
 
 ### Extrovertido
 
@@ -28,13 +28,13 @@ Você nunca se destacou, mas demonstra uma ampla competência.
 
 Sua mente criativa é boa em descobrir as coisas.
 
+### Operativo
+
+Você está mais confortável com a fisicalidade do que falar ou pensar.
+
 ### Sobrevivente
 
 Você tem a vontade e a energia para se safar em situações difíceis.
-
-### Aventureiro
-
-Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápido compensam a sua falta de visão.
 
 <!--sort-end-->
 
@@ -46,12 +46,12 @@ Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápi
 
 | Modelo       | COG | INT | REF | SAG | SOM | VON |
 |:------------ |:---:|:---:|:---:|:---:|:---:|:---:|
-| Operativo    | 10  | 15  | 20  | 10  | 20  | 15  |
+| Aventureiro  | 20  | 10  | 20  | 15  | 15  | 10  |
 | Extrovertido | 10  | 20  | 15  | 20  | 15  | 10  |
 | Facilitador  | 15  | 15  | 10  | 20  | 10  | 20  |
 | Generalista  | 15  | 15  | 15  | 15  | 15  | 15  |
 | Indagador    | 20  | 20  | 10  | 15  | 10  | 15  |
+| Operativo    | 10  | 15  | 20  | 10  | 20  | 15  |
 | Sobrevivente | 15  | 10  | 15  | 10  | 20  | 20  |
-| Aventureiro  | 20  | 10  | 20  | 15  | 15  | 10  |
 
 </blockquote>

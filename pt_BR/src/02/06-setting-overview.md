@@ -47,17 +47,17 @@ Os transumanos conquistam a segurança dos perigos do espaço com esses tipos co
 <!--sort-->
 
 - **Aeróstatos** flutuam como balões em atmosferas densas; eles são comuns em Vênus e Urano.
-- **Batiscafos** são habitats subaquáticos amarrados à superfície terrestre ou de gelo. Eles são usados em Europa, Ceres e outros mares subterrâneos.
-- **Formigueiros** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
 - **Agrupamentos** são módulos interconectados funcionando em microgravidade.
+- **Batiscafos** são habitats subaquáticos amarrados à superfície terrestre ou de gelo. Eles são usados em Europa, Ceres e outros mares subterrâneos.
 - **Cilindros** são grandes latas ocas com quilômetros de comprimento, com gravidade por rotação e interiores terraformados. Os cilindros Hamilton são parcialmente orgânicos e usam nanotecnologia avançada para se autoconstruir. Os cilindros Reagan são projetos mais velhos e ineficientes usando asteroides ocos na República Joviana.
 - **Domos** são estruturas infláveis temporárias ou pressurizadas permanentes construídas na superfície de um asteroide, lua ou corpo planetário.
-- **Loci Processadores** são apenas servidores protegidos flutuando em órbita, usados por comunidades de infomorfos.
-- **Envoltórios** são habitats agrupados com uma camada externa de proteção ou uma estrutura coberta de aros e raios.
-- **Esferas** são bolhas ocas, geralmente asteroides escavados com interiores terraformados, com baixa gravidade por rotação.
-- **Subsuperficiais** são simplesmente estruturas construídas no subsolo, geralmente em luas ou planetas com pouca atmosfera; o solo acima protege da radiação solar.
-- **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela ralé.
 - **Enlatados** são pequenos módulos apertados, em geral não mais do que um envoltório pressurizado e suporte vital. Eles são baratos e comuns, especialmente entre os eremitas.
+- **Envoltórios** são habitats agrupados com uma camada externa de proteção ou uma estrutura coberta de aros e raios.
+- **Enxames** são flotilhas de espaçonaves nômades, às vezes interligadas ou rebocando habitats. Eles são preferidos pela ralé.
+- **Esferas** são bolhas ocas, geralmente asteroides escavados com interiores terraformados, com baixa gravidade por rotação.
+- **Formigueiros** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
+- **Loci Processadores** são apenas servidores protegidos flutuando em órbita, usados por comunidades de infomorfos.
+- **Subsuperficiais** são simplesmente estruturas construídas no subsolo, geralmente em luas ou planetas com pouca atmosfera; o solo acima protege da radiação solar.
 - **Toroides** tem forma de anel e gravidade por rotação, às vezes com múltiplos toroides rotacionando em direções opostas, às vezes ligados a estruturas de microgravidade.
 
 </blockquote>

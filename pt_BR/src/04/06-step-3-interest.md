@@ -8,19 +8,6 @@ Esse será o seu último pacote de perícias, embora você possa adquirir períc
 
 <!--sort-->
 
-## Tratador de Animais
-
-Você aprendeu a criar, treinar e cuidar de animais, especialmente animais inteligentes, parcialmente elevados.
-
-<!--sort-->
-
-|                                                        |    |
-|:------------------------------------------------------ | --:|
-| Perícia Exótica: Trato Animal                          | 40 |
-| Medicina: Veterinária                                  | 40 |
-| Provocação                                             | 20 |
-| <!--sort-fixed-->Saber: Animais Inteligentes | 40 |
-
 ## Artista/Ícone
 
 Você é um músico, intérprete, celebridade, ou outro tipo de figura criativa ou pública.
@@ -29,8 +16,8 @@ Você é um músico, intérprete, celebridade, ou outro tipo de figura criativa 
 
 |                                                                          |    |
 |:------------------------------------------------------------------------ | --:|
-| Enganação                                                                | 40 |
 | Cinésica                                                                 | 20 |
+| Enganação                                                                | 40 |
 | Provocação                                                               | 40 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Dança, Música, Escultura_</p> | 40 |
 
@@ -69,36 +56,9 @@ Você aprendeu um pouco de defesa pessoal e capacidades ofensivas ao longo da vi
 |                                                          |    |
 |:-------------------------------------------------------- | --:|
 | Evasão                                                   | 20 |
-| Tiro                                                     | 40 |
 | Luta                                                     | 40 |
+| Tiro                                                     | 40 |
 | <!--sort-fixed-->Saber: Operações de Segurança | 40 |
-
-## Perito Forense
-
-Você treinou para analisar as cenas de crime e realizar autópsias.
-
-<!--sort-->
-
-|                                              |    |
-|:-------------------------------------------- | --:|
-| Medicina: Ciência Forense                    | 40 |
-| Percepção                                    | 40 |
-| Pesquisa                                     | 20 |
-| <!--sort-fixed-->Saber: Fisiologia | 40 |
-
-## Faz-Tudo
-
-Você já viu e fez um pouco de tudo.
-
-<!--sort-->
-
-|                                                 |    |
-|:----------------------------------------------- | --:|
-| Tiro                                            | 25 |
-| Infoseg                                         | 25 |
-| Persuasão                                       | 25 |
-| Pesquisa                                        | 25 |
-| <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
 
 ## Encarnador
 
@@ -113,56 +73,44 @@ Você é um operador de drone, com talento para manipular máquinas.
 | Pilotagem: (Escolha Uma)                         | 40 |
 | <!--sort-fixed-->Saber: Modelos de Bot | 40 |
 
-## Socializador
+## Espaçonauta
 
-Você sabe como se envolver e se relacionar com pessoas.
-
-<!--sort-->
-
-|                                                |    |
-|:---------------------------------------------- | --:|
-| Enganação                                      | 30 |
-| Persuasão                                      | 40 |
-| Provocação                                     | 30 |
-| <!--sort-fixed-->Saber: Redes de Rep | 40 |
-
-## Paramédico
-
-Você teve algum treinamento em primeiros socorros.
+Você passou um bom tempo em naves e habitats menores.
 
 <!--sort-->
 
-|                                                          |    |
-|:-------------------------------------------------------- | --:|
-| Evasão                                                   | 20 |
-| Cinésica                                                 | 40 |
-| Medicina: Paramedicina                                   | 40 |
-| <!--sort-fixed-->Saber: Serviços de Emergência | 40 |
+|                                                                          |    |
+|:------------------------------------------------------------------------ | --:|
+| Aparelhagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Eletrônica, Industrial, Robótica_</p>                      | 40 |
+| Interface                                                                | 20 |
+| Queda Livre                                                              | 40 |
+| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Astronomia, Mineração de Gás, Operações de Tripulação de Voo_</p> | 40 |
 
-## Piloto
+## Estudante
 
-Você mesmo prefere dirigir, não importa o quão hábil seja a IA.
-
-<!--sort-->
-
-|                                                                  |    |
-|:---------------------------------------------------------------- | --:|
-| Aparelhagem: (Escolha Uma)                                       | 30 |
-| Pilotagem: (Escolha Uma)                                         | 30 |
-| Pilotagem: (Escolha Uma)                                         | 40 |
-| <!--sort-fixed-->Saber: Operações de Tripulação de Voo | 40 |
-
-## Ladino
-
-Você é tão ardiloso quanto for necessário.
+Você está em processo de aprendizagem.
 
 <!--sort-->
 
 |                                                 |    |
 |:----------------------------------------------- | --:|
-| Enganação                                       | 40 |
-| Evasão                                          | 20 |
-| Infiltração                                     | 40 |
+| Interface                                       | 40 |
+| Pesquisa                                        | 40 |
+| Programação                                     | 20 |
+| <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
+
+## Faz-Tudo
+
+Você já viu e fez um pouco de tudo.
+
+<!--sort-->
+
+|                                                 |    |
+|:----------------------------------------------- | --:|
+| Infoseg                                         | 25 |
+| Persuasão                                       | 25 |
+| Pesquisa                                        | 25 |
+| Tiro                                            | 25 |
 | <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
 
 ## Hedonista
@@ -178,31 +126,57 @@ Você prefere curtir as coisas boas da vida.
 | Pesquisa                                        | 30 |
 | <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
 
-## Espaçonauta
+## Ladino
 
-Você passou um bom tempo em naves e habitats menores.
-
-<!--sort-->
-
-|                                                                          |    |
-|:------------------------------------------------------------------------ | --:|
-| Queda Livre                                                              | 40 |
-| Aparelhagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Eletrônica, Industrial, Robótica_</p>                      | 40 |
-| Interface                                                                | 20 |
-| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Astronomia, Mineração de Gás, Operações de Tripulação de Voo_</p> | 40 |
-
-## Estudante
-
-Você está em processo de aprendizagem.
+Você é tão ardiloso quanto for necessário.
 
 <!--sort-->
 
 |                                                 |    |
 |:----------------------------------------------- | --:|
-| Interface                                       | 40 |
-| Programação                                     | 20 |
-| Pesquisa                                        | 40 |
+| Enganação                                       | 40 |
+| Evasão                                          | 20 |
+| Infiltração                                     | 40 |
 | <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
+
+## Paramédico
+
+Você teve algum treinamento em primeiros socorros.
+
+<!--sort-->
+
+|                                                          |    |
+|:-------------------------------------------------------- | --:|
+| Cinésica                                                 | 40 |
+| Evasão                                                   | 20 |
+| Medicina: Paramedicina                                   | 40 |
+| <!--sort-fixed-->Saber: Serviços de Emergência | 40 |
+
+## Perito Forense
+
+Você treinou para analisar as cenas de crime e realizar autópsias.
+
+<!--sort-->
+
+|                                              |    |
+|:-------------------------------------------- | --:|
+| Medicina: Ciência Forense                    | 40 |
+| Percepção                                    | 40 |
+| Pesquisa                                     | 20 |
+| <!--sort-fixed-->Saber: Fisiologia | 40 |
+
+## Piloto
+
+Você mesmo prefere dirigir, não importa o quão hábil seja a IA.
+
+<!--sort-->
+
+|                                                                  |    |
+|:---------------------------------------------------------------- | --:|
+| Aparelhagem: (Escolha Uma)                                       | 30 |
+| Pilotagem: (Escolha Uma)                                         | 30 |
+| Pilotagem: (Escolha Uma)                                         | 40 |
+| <!--sort-fixed-->Saber: Operações de Tripulação de Voo | 40 |
 
 ## Sobrevivencialista
 
@@ -212,10 +186,36 @@ A Queda reforçou a noção de que você precisa estar preparado.
 
 |                                                 |    |
 |:----------------------------------------------- | --:|
-| Tiro                                            | 40 |
 | Medicina: Paramedicina                          | 30 |
 | Sobrevivência                                   | 30 |
+| Tiro                                            | 40 |
 | <!--sort-fixed-->Saber: (Escolha Uma) | 40 |
+
+## Socializador
+
+Você sabe como se envolver e se relacionar com pessoas.
+
+<!--sort-->
+
+|                                                |    |
+|:---------------------------------------------- | --:|
+| Enganação                                      | 30 |
+| Persuasão                                      | 40 |
+| Provocação                                     | 30 |
+| <!--sort-fixed-->Saber: Redes de Rep | 40 |
+
+## Tratador de Animais
+
+Você aprendeu a criar, treinar e cuidar de animais, especialmente animais inteligentes, parcialmente elevados.
+
+<!--sort-->
+
+|                                                        |    |
+|:------------------------------------------------------ | --:|
+| Medicina: Veterinária                                  | 40 |
+| Perícia Exótica: Trato Animal                          | 40 |
+| Provocação                                             | 20 |
+| <!--sort-fixed-->Saber: Animais Inteligentes | 40 |
 
 <!--sort-end-->
 
@@ -235,14 +235,14 @@ Se você preferir determinar o seu interesse aleatoriamente, role 1d10:
 
 |             Rolagem             | Grupo 1<!--sort-cells--> | Grupo 2<!--sort-cells--> |
 |:-------------------------------:|:----------------------------------:|:----------------------------------:|
-|                1                |        Tratador de Animais         |            Socializador            |
-|                2                |           Artista/Ícone            |             Paramédico             |
-|                3                |              Assincro              |               Piloto               |
-|                4                |             Comandante             |               Ladino               |
-|                5                |             Combatente             |             Hedonista              |
-|                6                |           Perito Forense           |            Espaçonauta             |
-|                7                |              Faz-Tudo              |             Estudante              |
-|                8                |             Encarnador             |         Sobrevivencialista         |
+|                1                |           Artista/Ícone            |             Hedonista              |
+|                2                |              Assincro              |               Ladino               |
+|                3                |             Comandante             |             Paramédico             |
+|                4                |             Combatente             |           Perito Forense           |
+|                5                |             Encarnador             |               Piloto               |
+|                6                |            Espaçonauta             |         Sobrevivencialista         |
+|                7                |             Estudante              |            Socializador            |
+|                8                |              Faz-Tudo              |        Tratador de Animais         |
 | 9–10<!--sort-fixed--> |              Rerrolar              |              Rerrolar              |
 
 </blockquote>

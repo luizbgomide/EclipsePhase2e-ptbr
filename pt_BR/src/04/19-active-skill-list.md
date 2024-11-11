@@ -10,32 +10,48 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 
 | Perícia                                            | Aptidão Vinculada                               | Tipo                  |
 |:-------------------------------------------------- |:----------------------------------------------- |:--------------------- |
-| [Atletismo](#atletismo)                            | Somática                                        | Ativa, Física         |
-| [Enganação](#enganação)                              | Sagacidade                                      | Ativa, Social         |
-| [Perícia Exótica: \[Área\]](#perícia-exótica-área) | —                                               | Ativa, Área           |
-| [Evasão](#evasão)                                    | Reflexos                                        | Ativa, Combate        |
-| [Queda Livre](#queda-livre)                          | Somática                                        | Ativa, Física         |
-| [Tiro](#tiro)                                      | Reflexos                                        | Ativa, Combate        |
 | [Aparelhagem: \[Área\]](#aparelhagem-área)         | Cognição                                        | Ativa, Área, Técnica  |
+| [Atletismo](#atletismo)                            | Somática                                        | Ativa, Física         |
+| [Cinésica](#cinésica)                              | Sagacidade                                      | Ativa, Social         |
+| [Enganação](#enganação)                              | Sagacidade                                      | Ativa, Social         |
+| [Evasão](#evasão)                                    | Reflexos                                        | Ativa, Combate        |
 | [Infiltração](#infiltração)                         | Reflexos                                        | Ativa, Física         |
 | [Infoseg](#infoseg)                                | Cognição                                        | Ativa, Técnica        |
 | [Interface](#interface)                            | Cognição                                        | Ativa, Técnica        |
-| [Cinésica](#cinésica)                              | Sagacidade                                      | Ativa, Social         |
-| [Saber: \[Área\]](20-know-skills.md#saber-área)  | Cognição/<wbr>Intuição | Área, Saber           |
-| [Medicina: \[Área\]](#medicina-área)            | Cognição                                        | Ativa, Área, Técnica  |
 | [Luta](#luta)                                     | Somática                                        | Ativa, Combate        |
+| [Medicina: \[Área\]](#medicina-área)            | Cognição                                        | Ativa, Área, Técnica  |
 | [Percepção](#percepção)                             | Intuição                                        | Ativa, Mental         |
+| [Perícia Exótica: \[Área\]](#perícia-exótica-área) | —                                               | Ativa, Área           |
 | [Persuasão](#persuasão)                             | Sagacidade                                      | Ativa, Social         |
+| [Pesquisa](#pesquisa)                              | Intuição                                        | Ativa, Técnica        |
 | [Pilotagem: \[Área\]](#pilotagem-área)              | Reflexos                                        | Ativa, Área, Veicular |
 | [Programação](#programação)                            | Cognição                                        | Ativa, Técnica        |
 | [Provocação](#provocação)                             | Sagacidade                                      | Ativa, Social         |
 | [Psi](#psi)                                        | Vontade                                         | Ativa, Mental, Psi    |
-| [Pesquisa](#pesquisa)                              | Intuição                                        | Ativa, Técnica        |
+| [Queda Livre](#queda-livre)                          | Somática                                        | Ativa, Física         |
+| [Saber: \[Área\]](20-know-skills.md#saber-área)  | Cognição/<wbr>Intuição | Área, Saber           |
 | [Sobrevivência](#sobrevivência)                         | Intuição                                        | Ativa, Mental         |
+| [Tiro](#tiro)                                      | Reflexos                                        | Ativa, Combate        |
 
 </blockquote>
 
 <!--sort-->
+
+## Aparelhagem: \[Área\]
+
+<div class="stat-list">
+
+- **Tipo:** Ativa, Área, Técnica
+- **Aptidão Vinculada:** Cognição
+
+Aparelhagem lida com o design, construção, reparo e alteração de diferentes tipos de sistemas tecnológicos.
+
+Use Aparelhagem para consertar um sistema de suporte vital, melhorar um robô, hackear uma fechadura eletrônica, ou montar um veículo funcional usando peças sobressalentes. A maioria dos Testes de Aparelhagem são ações de tarefa.
+
+- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutica (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
+- **Especializações:** Conforme apropriado para a área
+
+</div>
 
 ## Atletismo
 
@@ -49,6 +65,23 @@ Atletismo engloba vários tipos de atividades físicas em ambientes com gravidad
 Use Atletismo para escalar uma parede, boiar na água, jogar uma granada, saltar uma fenda, subir numa mesa, dar um salto mortal ou fazer uma manobra com um morfo alado. Algumas ações estão detalhadas em [Movimento](../12/24-movement.md).
 
 - **Especializações:** Acrobacia, Arremesso, Corrida, Escalada, Nado, Parkour, Salto, Voo
+
+</div>
+
+## Cinésica
+
+<div class="stat-list">
+
+- **Tipo:** Ativa, Social
+- **Aptidão Vinculada:** Sagacidade
+
+Cinésica é a arte da empatia e comunicação não verbal.
+
+Use Cinésica para ler o estado emocional de alguém, avaliar suas intenções, detectar mentiras, identificar maneirismos e reações, e usar linguagem corporal para se expressar e transmitir informações. Cinésica é usada para se opor à perícia Enganação.
+
+Apesar de sintemorfos serem projetados para terem expressão, lê-los é mais difícil; aplique um modificador −30. O mesmo modificador se aplica a ILAs que estão operando prods, bots ou sintemorfos. A critério do MJ, modificadores semelhantes podem se aplicar a morfos que não possuem características antropomórficas ou que estão encapados por egos acostumados a fisiologias muito diferentes (como um neo-polvo em um morfo neo-ave).
+
+- **Especializações:** Detectar Mentiras, Expressão, Julgar Intenções
 
 </div>
 
@@ -67,21 +100,6 @@ Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém
 
 </div>
 
-## Perícia Exótica: \[Área\]
-
-<div class="stat-list">
-
-- **Tipo:** Ativa, Área
-
-Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico, e perícias que têm uma aplicação muito restrita, mas requerem educação, treinamento e experiência para serem usadas.
-
-Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
-
-- **Exemplos de Áreas:** Arcos (REF), Arremesso de Facas (REF), Chicotes (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Prestidigitação (REF), Trato Animal (SAG)
-- **Especializações:** Conforme apropriado para a área
-
-</div>
-
 ## Evasão
 
 <div class="stat-list">
@@ -94,52 +112,6 @@ Evasão é a sua capacidade de sair do caminho do perigo, seja ele um atacante o
 Use Evasão para se esquivar de ataques, evitar objetos em queda, atravessar uma multidão, ou desviar de uma colisão. Em combate, Evasão é usada para opor [ataques de luta e de distância](../12/01-resolving-combat.md#passo-2-declarar-a-defesa). Contra tiros, Evasão é reduzida à metade.
 
 - **Especializações:** Defesa Total, Luta, Tiro
-
-</div>
-
-## Queda Livre
-
-<div class="stat-list">
-
-- **Tipo:** Ativa, Física
-- **Aptidão Vinculada:** Somática
-
-Queda Livre é uma perícia complementar de Atletismo para morfos que sejam humanoides, elevados ou que usam movimentos biomiméticos. Use-a para atividades físicas em ambientes de microgravidade ou quando estiver em queda livre.
-
-Use Queda Livre para mover-se por um túnel em microgravidade, impulsionar-se pelo espaço aberto em zero-g, reorientar-se após um giro, manobrar com jatos de um traje de vácuo, usar propulsão quando flutuar no espaço ou pular de paraquedas.
-
-- **Especializações:** Impulso, Paraquedas, Salto, Trajes de Vácuo
-
-</div>
-
-## Tiro
-
-<div class="stat-list">
-
-- **Tipo:** Ativa, Combate
-- **Aptidão Vinculada:** Reflexos
-
-Tiro lida com a manutenção e uso de armas de fogo modernas, lançadores de buscadores, e armas de energia coerente e de projéteis.
-
-Use Tiro para disparar armas de feixe, cinéticas, de buscadores e de spray. Ataques feitos com a perícia Tiro são opostos com Evasão ÷ 2.
-
-- **Especializações:** Armas de Feixe, Armas de Fogo, Armas de Plasma, Armas de Spray, Buscadores, Railguns
-
-</div>
-
-## Aparelhagem: \[Área\]
-
-<div class="stat-list">
-
-- **Tipo:** Ativa, Área, Técnica
-- **Aptidão Vinculada:** Cognição
-
-Aparelhagem lida com o design, construção, reparo e alteração de diferentes tipos de sistemas tecnológicos.
-
-Use Aparelhagem para consertar um sistema de suporte vital, melhorar um robô, hackear uma fechadura eletrônica, ou montar um veículo funcional usando peças sobressalentes. A maioria dos Testes de Aparelhagem são ações de tarefa.
-
-- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutica (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
-- **Especializações:** Conforme apropriado para a área
 
 </div>
 
@@ -188,20 +160,18 @@ Use Interface para manipular eletrônicos, gerenciar programas, adulterar arquiv
 
 </div>
 
-## Cinésica
+## Luta
 
 <div class="stat-list">
 
-- **Tipo:** Ativa, Social
-- **Aptidão Vinculada:** Sagacidade
+- **Tipo:** Ativa, Combate
+- **Aptidão Vinculada:** Somática
 
-Cinésica é a arte da empatia e comunicação não verbal.
+Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Cinésica para ler o estado emocional de alguém, avaliar suas intenções, detectar mentiras, identificar maneirismos e reações, e usar linguagem corporal para se expressar e transmitir informações. Cinésica é usada para se opor à perícia Enganação.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
 
-Apesar de sintemorfos serem projetados para terem expressão, lê-los é mais difícil; aplique um modificador −30. O mesmo modificador se aplica a ILAs que estão operando prods, bots ou sintemorfos. A critério do MJ, modificadores semelhantes podem se aplicar a morfos que não possuem características antropomórficas ou que estão encapados por egos acostumados a fisiologias muito diferentes (como um neo-polvo em um morfo neo-ave).
-
-- **Especializações:** Detectar Mentiras, Expressão, Julgar Intenções
+- **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
 </div>
 
@@ -218,21 +188,6 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 - **Exemplos de Áreas:** Biotecnologia, Ciência Forense, Farmacologia, Paramedicina, Psicocirurgia, Veterinária
 - **Especializações:** Conforme apropriado para a área
-
-</div>
-
-## Luta
-
-<div class="stat-list">
-
-- **Tipo:** Ativa, Combate
-- **Aptidão Vinculada:** Somática
-
-Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
-
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
-
-- **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
 </div>
 
@@ -253,6 +208,21 @@ _Percepção básica_ é uma ação automática, com um modificador de distraç�
 
 </div>
 
+## Perícia Exótica: \[Área\]
+
+<div class="stat-list">
+
+- **Tipo:** Ativa, Área
+
+Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico, e perícias que têm uma aplicação muito restrita, mas requerem educação, treinamento e experiência para serem usadas.
+
+Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
+
+- **Exemplos de Áreas:** Arcos (REF), Arremesso de Facas (REF), Chicotes (REF), Cortador de Plasma (REF), Disfarce (INT), Escapismo (REF), Prestidigitação (REF), Trato Animal (SAG)
+- **Especializações:** Conforme apropriado para a área
+
+</div>
+
 ## Persuasão
 
 <div class="stat-list">
@@ -265,6 +235,21 @@ Persuasão é a habilidade de convencer os outros a fazer o que você quer, atra
 Use Persuasão para conduzir uma barganha, convencer alguém relutante, negociar uma trégua, motivar seus pares a agirem, ou trazer alguém para o seu lado. Persuasão é oposta pela Prova de SAG do oponente.
 
 - **Especializações:** Diplomacia, Negociação, Motivação
+
+</div>
+
+## Pesquisa
+
+<div class="stat-list">
+
+- **Tipo:** Ativa, Técnica
+- **Aptidão Vinculada:** Intuição
+
+Pesquisa é o seu google-fu, sua perícia de encontrar, analisar e entender informações online. Ela inclui saber onde procurar, otimizar suas consultas, separar a ficção da verdade e processar quantidades massivas de dados.
+
+Use Pesquisa para encontrar uma resposta na mesh, rastrear pessoas online, acessar a mesh profunda, buscar em bases de dados, examinar arquivos e minerar despejos de dados.
+
+- **Especializações:** Arquivos Científicos, Arquivos de Notícias, Blogs, Mesh Profunda, Rastreamento, Redes Sociais, Serviços da Nuvem
 
 </div>
 
@@ -331,18 +316,18 @@ Você deve possuir o traço [Psi](28-traits.md#psi) para usar essa perícia.
 
 </div>
 
-## Pesquisa
+## Queda Livre
 
 <div class="stat-list">
 
-- **Tipo:** Ativa, Técnica
-- **Aptidão Vinculada:** Intuição
+- **Tipo:** Ativa, Física
+- **Aptidão Vinculada:** Somática
 
-Pesquisa é o seu google-fu, sua perícia de encontrar, analisar e entender informações online. Ela inclui saber onde procurar, otimizar suas consultas, separar a ficção da verdade e processar quantidades massivas de dados.
+Queda Livre é uma perícia complementar de Atletismo para morfos que sejam humanoides, elevados ou que usam movimentos biomiméticos. Use-a para atividades físicas em ambientes de microgravidade ou quando estiver em queda livre.
 
-Use Pesquisa para encontrar uma resposta na mesh, rastrear pessoas online, acessar a mesh profunda, buscar em bases de dados, examinar arquivos e minerar despejos de dados.
+Use Queda Livre para mover-se por um túnel em microgravidade, impulsionar-se pelo espaço aberto em zero-g, reorientar-se após um giro, manobrar com jatos de um traje de vácuo, usar propulsão quando flutuar no espaço ou pular de paraquedas.
 
-- **Especializações:** Arquivos Científicos, Arquivos de Notícias, Blogs, Mesh Profunda, Rastreamento, Redes Sociais, Serviços da Nuvem
+- **Especializações:** Impulso, Paraquedas, Salto, Trajes de Vácuo
 
 </div>
 
@@ -358,6 +343,21 @@ Sobrevivência engloba as perícias necessárias para sobreviver e mover-se em a
 Use Sobrevivência para navegar, rastrear uma pessoa ou animal na natureza, obter comida e abrigo seguros, e defender-se de perigos ecológicos e ambientais.
 
 - **Especializações:** Caçada, Forrageamento, Navegação, Rastreamento
+
+</div>
+
+## Tiro
+
+<div class="stat-list">
+
+- **Tipo:** Ativa, Combate
+- **Aptidão Vinculada:** Reflexos
+
+Tiro lida com a manutenção e uso de armas de fogo modernas, lançadores de buscadores, e armas de energia coerente e de projéteis.
+
+Use Tiro para disparar armas de feixe, cinéticas, de buscadores e de spray. Ataques feitos com a perícia Tiro são opostos com Evasão ÷ 2.
+
+- **Especializações:** Armas de Feixe, Armas de Fogo, Armas de Plasma, Armas de Spray, Buscadores, Railguns
 
 </div>
 

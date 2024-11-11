@@ -10,28 +10,15 @@ O transumano médio pode segurar a respiração por dois minutos antes de desmai
 
 A asfixia é um processo terrível, que frequentemente leva ao pânico. Os personagens sofrendo asfixia devem fazer uma Prova de VON a cada 30 segundos. Se você falhar, você sofre VD 1d6 e não pode realizar qualquer ação efetiva para se salvar neste turno de ação; você pode fazer uma Prova de VON adicional a cada turno para recuperar o juízo. No entanto, mesmo se tiver sucesso você deve fazer uma Prova de VON para realizar qualquer outra ação não relacionada diretamente com se salvar (atacar alguém segurando você embaixo d'água está isento dessa regra).
 
+## Clima
+
+Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
+
 ## Descompressão
 
 Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](#asfixia).
 
 A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](29-hostile-environments.md#vácuo)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
-
-## Queda
-
-Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de Queda para determinar o resultado. Armadura cinética pode mitigar esse dano com metade do seu valor. O MJ pode reduzir esse dano se alguma coisa ajudar a suavizar a queda (galhos, superfície macia), a seu critério. Dobre as categorias de distância em baixa gravidade; reduza à metade em alta gravidade.
-
-<blockquote class="table">
-
-### Dano de Queda
-
-| Distância Caída  | Valor de Dano |
-|:---------------- |:-------------:|
-| 1–2 metros       |     1d10      |
-| 3–5 metros       |     2d10      |
-| 6–8 metros       |     3d10      |
-| Mais de 8 metros | +1 por metro  |
-
-</blockquote>
 
 ## Fogo
 
@@ -72,9 +59,22 @@ A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas
 
 A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+&nbsp;g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2&nbsp;g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas ([Movimento](24-movement.md)) e até mesmo sintemorfos podem se sentir forçados.
 
-## Clima
+## Queda
 
-Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
+Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de Queda para determinar o resultado. Armadura cinética pode mitigar esse dano com metade do seu valor. O MJ pode reduzir esse dano se alguma coisa ajudar a suavizar a queda (galhos, superfície macia), a seu critério. Dobre as categorias de distância em baixa gravidade; reduza à metade em alta gravidade.
+
+<blockquote class="table">
+
+### Dano de Queda
+
+| Distância Caída  | Valor de Dano |
+|:---------------- |:-------------:|
+| 1–2 metros       |     1d10      |
+| 3–5 metros       |     2d10      |
+| 6–8 metros       |     3d10      |
+| Mais de 8 metros | +1 por metro  |
+
+</blockquote>
 
 <!--sort-end-->
 
