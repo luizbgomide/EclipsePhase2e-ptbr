@@ -418,4 +418,3 @@ Você implanta uma única sugestão pós-hipnótica na mente do alvo, que ele re
 Você acalma o alvo, aliviando o estresse e a ansiedade. O alvo é aliviado dos efeitos de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado por VON ÷ 5 minutos. Você não pode usar esse truque em si mesmo.
 
 <!--sort-end-->
-
