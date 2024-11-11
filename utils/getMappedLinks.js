@@ -3,6 +3,7 @@ const path = require("path");
 const { getValidAnchor } = require("./helpers");
 
 const outputFile = "mapped-links.txt";
+const validLinksFile = "valid-links.txt";
 
 const headerRE = /^(\#+)\s+(.+)$/gm;
 
@@ -43,15 +44,16 @@ function mapLinks(sourceContent, targetContent) {
 
 
 if (process.argv.length !== 4
-    || !fs.statSync(process.argv[2], { throwIfNoEntry: false })?.isFile()
-    || !fs.statSync(process.argv[3], { throwIfNoEntry: false })?.isFile()) {
-    console.log("You must inform a source and target valid-link files.");
+    || !fs.statSync(process.argv[2], { throwIfNoEntry: false })?.isDirectory()
+    || !fs.statSync(process.argv[3], { throwIfNoEntry: false })?.isDirectory()) {
+    console.log("You must inform a source and target directory files.");
     process.exit(1);
 }
-const sourceContent = fs.readFileSync(path.resolve(process.argv[2]), 'utf8');
-const targetContent = fs.readFileSync(path.resolve(process.argv[3]), 'utf8');
+const sourceContent = fs.readFileSync(path.join(process.argv[2], "..", validLinksFile), 'utf8');
+const targetContent = fs.readFileSync(path.join(process.argv[3], "..", validLinksFile), 'utf8');
+const targetFile = path.join(process.argv[3], "..", outputFile);
 const mappedLinks = mapLinks(sourceContent, targetContent);
-fs.writeFileSync(outputFile, mappedLinks.join('\n'));
+fs.writeFileSync(targetFile, mappedLinks.join('\n'));
 
-console.log(`Process complete.\nMapped links written to: "${outputFile}"`);
+console.log(`Process complete.\nMapped links written to: "${targetFile}"`);
 process.exit(0);

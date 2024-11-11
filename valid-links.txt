@@ -1121,9 +1121,9 @@
 12/04-ranged-combat.md#ranged-combat-rules
 12/04-ranged-combat.md#aiming
 12/04-ranged-combat.md#ammunition-and-reloading
-12/04-ranged-combat.md#indirect-fire
 12/04-ranged-combat.md#firing-modes
 12/04-ranged-combat.md#firing-modes-1
+12/04-ranged-combat.md#indirect-fire
 12/04-ranged-combat.md#range
 12/04-ranged-combat.md#suppressive-fire
 12/04-ranged-combat.md#ranged-modifiers
@@ -1154,8 +1154,8 @@
 12/10-seeker-weapons-and-grenades.md#adjusting-blast-radius
 12/10-seeker-weapons-and-grenades.md#jumping-on-grenades
 12/10-seeker-weapons-and-grenades.md#sticky-coating
-12/10-seeker-weapons-and-grenades.md#trigger-conditions
 12/10-seeker-weapons-and-grenades.md#throwing-back-a-grenade
+12/10-seeker-weapons-and-grenades.md#trigger-conditions
 12/11-armor.md
 12/11-armor.md#armor
 12/11-armor.md#energy-vs-kinetic
@@ -1237,8 +1237,8 @@
 12/20-disorders.md#autophagy
 12/20-disorders.md#bipolar-disorder
 12/20-disorders.md#body-dysmorphia
-12/20-disorders.md#cosmic-anxiety-disorder
 12/20-disorders.md#conversion-disorder
+12/20-disorders.md#cosmic-anxiety-disorder
 12/20-disorders.md#depression
 12/20-disorders.md#disassociative-personality-disorder
 12/20-disorders.md#fugue
@@ -1353,8 +1353,8 @@
 12/30-downtime-actions.md#train-and-improve
 12/30-downtime-actions.md#spending-rez-points
 12/30-downtime-actions.md#gain-a-positive-ego-trait
-12/30-downtime-actions.md#improve-aptitudes
 12/30-downtime-actions.md#improve-and-learn-skills
+12/30-downtime-actions.md#improve-aptitudes
 12/30-downtime-actions.md#increase-flex
 12/30-downtime-actions.md#learn-a-language
 12/30-downtime-actions.md#learn-a-new-psi-sleight
@@ -2660,8 +2660,8 @@ SUPP/02-CO/01/10-step-9-career-path.md#step-9-career-path
 SUPP/02-CO/01/10-step-9-career-path.md#random-career-path-d10--d10
 SUPP/02-CO/01/10-step-9-career-path.md#academic-d100
 SUPP/02-CO/01/10-step-9-career-path.md#archivist
-SUPP/02-CO/01/10-step-9-career-path.md#researcher
 SUPP/02-CO/01/10-step-9-career-path.md#professor
+SUPP/02-CO/01/10-step-9-career-path.md#researcher
 SUPP/02-CO/01/10-step-9-career-path.md#covert-operative-d100
 SUPP/02-CO/01/10-step-9-career-path.md#smuggler
 SUPP/02-CO/01/10-step-9-career-path.md#spy

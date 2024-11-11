@@ -1,9 +1,10 @@
 const fs = require("fs");
 const path = require("path");
 
-const validLinksFile = "valid-links.txt";
+const mappedLinksFile = "mapped-links.txt";
 
-const linkRE = /(?!\\)\[.+?\]\((.+?)\)/gm;
+
+const linkRE = /(?!\\)\[[^\]]+?\]\(([^)]+?)\)/gm;
 
 const blockquoteRE = /\<blockquote.*?\<\/blockquote\>/gs;
 
@@ -26,22 +27,22 @@ function processFile(file) {
     const dirname = path.dirname(file);
     contents = fs.readFileSync(path.resolve(file), 'utf8');
     let links = contents.matchAll(linkRE);
-    let processedLinks = [];
     for (const linkMatch of links) {
-        if (processedLinks.includes(linkMatch[1])){
-            continue;
-        }
-        processedLinks.push(linkMatch[1]);
         let [link, slug] = linkMatch[1].split('#');
         slug = slug ? `#${slug}` : "";
+        // this link just targets a file
+        if (slug === "")
+            continue;
         let relativeLink = (link === "")
             ? path.posix.relative(sourceDir, file)
             : path.posix.relative(sourceDir, path.posix.join(dirname, link));
-        if (!validLinks.includes(relativeLink + slug)) {
+        if (!mappedLinks.has(relativeLink + slug)) {
             console.log(`! ${file}: ${linkMatch[0]}`);
         } else {
+            const newSlug = mappedLinks.get(relativeLink + slug);
             const newLink = path.posix.relative(dirname, path.posix.resolve(dirname, link));
-            contents = contents.replace(`(${linkMatch[1]})`, `(${newLink === path.basename(file) ? "" : newLink}${slug})`);
+            // contents = contents.replace(`(${linkMatch[1]})`, `(${link}#${newSlug})`);
+            //console.log([linkMatch[1], `${link}#${newSlug}`]);
         }
     }
     fs.writeFileSync(file, contents);
@@ -53,8 +54,8 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     process.exit(1);
 }
 const sourceDir = path.posix.normalize(process.argv[2]);
-const targetFile = path.join(sourceDir, "..", validLinksFile);
-const validLinks = fs.readFileSync(targetFile, 'utf8').split('\n');
+const sourceFile = path.join(sourceDir, "..", mappedLinksFile);
+const mappedLinks = new Map(fs.readFileSync(sourceFile, 'utf8').split('\n').map(line => line.split('\t')));
 readDirectory(sourceDir);
 console.log(`Process complete.`);
 process.exit(0);

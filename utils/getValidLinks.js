@@ -52,9 +52,10 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     console.log("You must inform a valid source directory.");
     process.exit(1);
 }
-var sourceDir = path.posix.normalize(process.argv[2]);
-let list = readDirectory(sourceDir);
-fs.writeFileSync(outputFile, list);
+const sourceDir = path.posix.normalize(process.argv[2]);
+const targetFile = path.join(sourceDir, "..", outputFile);
+const list = readDirectory(sourceDir);
+fs.writeFileSync(targetFile, list);
 
-console.log(`Process complete.\nValid links written to: "${outputFile}"`);
+console.log(`Process complete.\nValid links written to: "${targetFile}"`);
 process.exit(0);

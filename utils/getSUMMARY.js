@@ -67,8 +67,8 @@ if (process.argv.length != 3 || !fs.statSync(process.argv[2], { throwIfNoEntry: 
     process.exit(1);
 }
 const sourceDir = path.posix.normalize(process.argv[2]);
-let list = "# Summary\n\n" + readDirectory(sourceDir);
-let targetFile = path.join(sourceDir, summaryFile);
+const list = "# Summary\n\n" + readDirectory(sourceDir);
+const targetFile = path.join(sourceDir, summaryFile);
 fs.writeFileSync(targetFile, list);
 
 console.log(`Process complete.\nSummary written to: "${targetFile}"`);
