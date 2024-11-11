@@ -31,26 +31,30 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **_ATRIBUTOS PADRÃO SÃO PARA MICROMÍSSEIS E MINIGRANADAS._**
 
-| TIPO DE BUSCADOR/<!-- CLEANED wbr -->GRANADA                                       | Tipo de Área de Efeito (Raio) |     Valor de Dano \[Média\]      | Armadura Utilizada | Comp/<!-- CLEANED wbr -->PE (por 5) | Notas                       |
-|:-------------------------------------------------------------------------------------------- |:-----------------------------:|:----------------------------------:|:------------------:|:---------------------------------------------:|:--------------------------- |
-| Ofuscante                                                                                    |     Uniforme (50&nbsp;m)      |                 —                  |         —          |                    Mod/R/2                    | Cegante                     |
-| PEM                                                                                          |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |         —          |                    Mai/R/3                    | Desativa rádios             |
-| Gás/Fumaça                                                                                   |     Uniforme (20&nbsp;m)      |                 —                  |         —          |                     Men/1                     |                             |
-| AEPA                                                                                         |               —               |         3d10 + 12 \[29\]         |         C          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
-| Explosão de Plasma                                                                           |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                    Mai/R/3                    | Perfura-Armadura            |
-| Aspersor                                                                                     |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                  Igual Carga                  |                             |
-| Atordoante                                                                                   |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |         C          |                     Mod/2                     | Cegante, Choque, Derrubada  |
-| <!-- CLEANED div class="indent" -->» Sobrecarga<!-- CLEANED /div -->       |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                                               | Cegante, Dor                |
-| Tático Multifuncional (TMF)                                                                  |                               |                                    |                    |                    Mod/R/2                    |                             |
-| <!-- CLEANED div class="indent" -->» Fragmentação<!-- CLEANED /div -->           |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |         C          |                                               | Derrubada (raio 5 metros)   |
-| <!-- CLEANED div class="indent" -->» Alto-Explosivo<!-- CLEANED /div --> |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                                               | Derrubada (raio 10 metros)  |
-| Termobárico                                                                                  |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |         E          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
+<!--sort-->
+
+| TIPO DE BUSCADOR/<!-- CLEANED wbr -->GRANADA | Tipo de Área de Efeito (Raio) |     Valor de Dano \[Média\]      | Armadura Utilizada | Comp/<!-- CLEANED wbr -->PE (por 5) | Notas                       |
+|:------------------------------------------------------ |:-----------------------------:|:----------------------------------:|:------------------:|:---------------------------------------------:|:--------------------------- |
+| Ofuscante                                              |     Uniforme (50&nbsp;m)      |                 —                  |         —          |                    Mod/R/2                    | Cegante                     |
+| PEM                                                    |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |         —          |                    Mai/R/3                    | Desativa rádios             |
+| Gás/Fumaça                                             |     Uniforme (20&nbsp;m)      |                 —                  |         —          |                     Men/1                     |                             |
+| AEPA                                                   |               —               |         3d10 + 12 \[29\]         |         C          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
+| Explosão de Plasma                                     |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                    Mai/R/3                    | Perfura-Armadura            |
+| Aspersor                                               |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                  Igual Carga                  |                             |
+| Atordoante                                             |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |         C          |                     Mod/2                     | Cegante, Choque, Derrubada  |
+| <!--sort-union--><p class="indent">» Sobrecarga</p>   |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                                               | Cegante, Dor                |
+| Tático Multifuncional (TMF)                            |                               |                                    |                    |                    Mod/R/2                    |                             |
+| <!--sort-union--><p class="indent">» Fragmentação</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |         C          |                                               | Derrubada (raio 5 metros)   |
+| <!--sort-union--><p class="indent">» Alto-Explosivo</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                                               | Derrubada (raio 10 metros)  |
+| Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |         E          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
 
 | TAMANHO        | Tipo de Área de Efeito (Raio) | Valor de Dano \[Média\] | Armadura Utilizada | Comp/<!-- CLEANED wbr -->PE | Notas       |
 |:-------------- |:-----------------------------:|:-------------------------:|:------------------:|:-------------------------------------:|:----------- |
 | Granada Padrão |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |    Igual Acima     |                 Por 3                 | Igual Acima |
 | Minimíssil     |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |    Igual Acima     |                 Por 3                 | Igual Acima |
 | Míssil Padrão  |         x2 (Uniforme)         |       x2 (Centrado)       |    Igual Acima     |                 Por 1                 | Igual Acima |
+
+<!--sort-->
 
 **Ofuscante:** Ofuscantes são dispositivos de laser giratórios, projetados para cegar alvos e atrapalhar a vigilância. Qualquer um com linha de visão no raio de efeito (50 metros) que não esteja equipado com mods antirreflexos, deve ter sucesso em uma Prova de REF ou ficar [cegado](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente (até ser reparado/curado). Qualquer câmera visual/infravermelho fica sobrecarregada pela duração do ofuscante. A não ser que tenha uma desativação programada, os ofuscantes continuam cegando por 1 hora ou até que sejam desligados remotamente ou destruídos fisicamente (DUR 10, VA 5/10).
 
@@ -70,9 +74,13 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **Termobárico:** Munições termobáricas liberam uma nuvem de aerossol explosivo sobre uma área e então a detona, literalmente incendiando o ar, gerando uma onde de pressão devastadora e sugando todo o oxigênio da área.
 
+<!--sort-end-->
+
 ## Regras de Buscadores e Granadas
 
 Estas regras se aplicam a granadas, mísseis buscadores e armas similares.
+
+<!--sort-->
 
 ### Ajustando o Raio de Explosão
 
@@ -86,9 +94,15 @@ Você pode se sacrificar pela equipe e se jogar em cima de uma granada para prot
 
 Granadas e alguns buscadores tem um revestimento adesivo especial que adere a quase qualquer superfície quando ativado. Munições aderentes que atinjam seu alvo não tem desvio. Elas podem até serem aderidas a um oponente com um ataque de luta bem-sucedido para serem detonadas mais tarde.
 
+### Arremessando de Volta uma Granada
+
+Você pode pegar uma granada antes que ela detone e arremessá-la de volta ou para uma direção segura. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF com −20 para apanhar a granada rolando pelo chão. Se tiver sucesso, você pode arremessar a granada na direção que escolher com a mesma ação (trate como um ataque de arremesso padrão com −20). No entanto, se você falhar você poderá estar no ponto central quando ela detonar.
+
 ### Condições de Acionamento
 
 Granadas modernas, buscadores e explosivos similares não detonam necessariamente no instante que são arremessados ou atingem o alvo. O usuário pode configurar a opção de acionamento quando lançar a arma e pode alterá-la através de uma ligação sem fio. Ataques perdidos ou ataques que não explodem no trajeto ou quando sofrem impacto estão sujeitos ao [desvio](15-special-attacks.md#scatter).
+
+<!--sort-->
 
 **Explosão Aérea:** Explosão aérea quer dizer que o dispositivo explode no ar assim que ele viaja uma distância programada no lançamento. Resolva esses ataques imediatamente quando são disparados. A critério do MJ, esses ataques ignoram modificadores de cobertura. Observe que munições de explosão aérea são programadas com medidas de segurança que impedem a detonação se elas não viajarem uma distância preventiva mínima do lançador, embora isso possa ser hackeado ou anulado com Aparelhagem: Demolições.
 
@@ -100,6 +114,7 @@ Granadas modernas, buscadores e explosivos similares não detonam necessariament
 
 **Temporizador:** O dispositivo tem um temporizador permitindo que o usuário ajuste exatamente quando ele detona. Isso pode ser desde 1 segundo até dias, meses ou até mesmo anos depois, efetivamente tornando o dispositivo uma bomba, mas aumentando também a probabilidade de ele ser descoberto e neutralizado. Explosivos temporizados detonam no final do turno. O período mínimo para detonação é 1 turno de ação, o que significa que o vai detonar no final do próximo turno.
 
-### Arremessando de Volta uma Granada
+<!--sort-end-->
 
-Você pode pegar uma granada antes que ela detone e arremessá-la de volta ou para uma direção segura. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF com −20 para apanhar a granada rolando pelo chão. Se tiver sucesso, você pode arremessar a granada na direção que escolher com a mesma ação (trate como um ataque de arremesso padrão com −20). No entanto, se você falhar você poderá estar no ponto central quando ela detonar.
+<!--sort-end-->
+
