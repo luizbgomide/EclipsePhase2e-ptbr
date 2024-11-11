@@ -2,6 +2,8 @@
 
 A maioria das ampliações de ware mental aprimoram o cérebro e as funções mentais.
 
+<!--sort-->
+
 | AMPLIAÇÕES MENTAIS          | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                              |
 |:--------------------------- |:------------:|:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------- |
 | Cibercórtex                 |      C       |                 Mod/2                 | Auxílio cerebral para animais inteligentes, +10 em Provas de COG de compreensão, +10 na Perícia Exótica: Trato Animal. |
@@ -12,10 +14,12 @@ A maioria das ampliações de ware mental aprimoram o cérebro e as funções me
 | Módulo Carona Virtual       |      CH      |                 Men/1                 | Carrega um infomorfo.                                                                                                  |
 | Trava Memorial              |     CHM      |                 Men/1                 | Bloqueia retenção/gravação de memória quando ativado.                                                                  |
 | Amplificador Mental         |     HMN      |                 Mai/3                 | Acelera a mente. +2 em Inspiração.                                                                                     |
-| Múltiplas Personalidades    |      BM      |                 Mai/3                 | Cérebro contém vários egos.                                                                                            |
 | Multitarefa                 |     CHM      |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                             |
+| Múltiplas Personalidades    |      BM      |                 Mai/3                 | Cérebro contém vários egos.                                                                                            |
 | Ligação de Backup Remoto    |      CH      |                 Mai/3                 | Longiprojetor quântico para backups remotos a cada 48 horas.                                                           |
 | Carregador Pericial         |     CHM      |                 Mai/3                 | Pode usar 120 pontos de periciapps.                                                                                    |
+
+<!--sort-->
 
 **Cibercórtex:** Projetado para animais inteligentes, esse córtex auxiliar artificial aumenta a capacidade da criatura de aprender, compreender instruções e raciocinar. Ele também sobrepõe alguns comportamentos instintivos que seriam indesejáveis para um animal de trabalho. Aplique um modificador +10 em Testes da Perícia Exótica: Trato Animal feitos contra essa criatura, e aplique um modificador +10 em Provas de COG para compreender comandos.
 
@@ -33,21 +37,27 @@ A maioria das ampliações de ware mental aprimoram o cérebro e as funções me
 
 **Amplificador Mental:** O amplificador mental altera sua arquitetura neural e amplia as funções neuronais. Isso acelera suas faculdades mentais e sua capacidade de receber e processar informações sensoriais. O tempo subjetivamente desacelera para você, permitindo que você perceba coisas que acontecem rápido demais para os outros perceberem, tais como os quadros individuais de um filme analógico antigo ou uma gravação de áudio acelerada. O amplificador mental aumenta sua parada de Inspiração em 2.
 
+**Multitarefa:** Esse módulo cibernético ou programático permite que seu cérebro se concentre em duas coisas ao mesmo tempo — algo que nossas mentes geralmente não podem fazer — sem qualquer confusão por trocas de contexto ou aumento dos erros por desatenção. A multitarefa aumenta sua parada de Inspiração em 1.
+
 **Múltiplas Personalidades:** Seu cérebro foi intencionalmente particionado para acomodar uma personalidade extra. Essa multiplicidade não é vista como um transtorno, mas como uma ferramenta cognitiva para ajudar as pessoas a lidarem com seus ambientes hipercomplexos. Essa personalidade extra pode ser um personagem separado (somente na forma de ego), um PNJ interpretado pelo MJ, ou o download de um forque de outro personagem. Para todos os efeitos, a personalidade extra é tratada como um ego separado (ou seja, ele pode ser backupeado e forqueado separadamente), exceto que ambas as personalidades são backupeadas na mesma pilha cortical, e no download elas devem ser colocadas em morfos separados ou em outro morfo com esse implante.
+
+<!--sort-union-->
 
 Apenas um ego pode estar no controle do morfo por vez. O outro reside em segundo plano, ainda ativo, mas abaixo da superfície. Egos subsumidos ainda podem agir enquanto o outro está dominante, mas só podem fazer ações mentais ou da mesh. Cada ego está totalmente ciente do que o outro está fazendo, pensando, etc. Se por alguma razão a personalidade subsumida quer tomar a frente, mas a outra personalidade não quer deixar o controle, faça um Prova de VON oposta. Cada ego tem sua própria Lucidez, Limiar de Trauma e Grau de Insanidade, e eles registram estresse e trauma separadamente. As paradas do morfo são compartilhadas. Truques psi ou influências sociais/mentais só afetam a personalidade que está à frente.
 
-Você pode pegar essa ampliação mais de uma vez (até um máximo de 3 vezes) para incorporar múltiplos egos na mesma mente.
+<!--sort-union-->
 
-**Multitarefa:** Esse módulo cibernético ou programático permite que seu cérebro se concentre em duas coisas ao mesmo tempo — algo que nossas mentes geralmente não podem fazer — sem qualquer confusão por trocas de contexto ou aumento dos erros por desatenção. A multitarefa aumenta sua parada de Inspiração em 1.
+Você pode pegar essa ampliação mais de uma vez (até um máximo de 3 vezes) para incorporar múltiplos egos na mesma mente.
 
 **Ligação de Backup Remoto:** A pilha cortical do seu morfo está ligada a um [longiprojetor quântico](16-comms-and-mesh-gear.md#quantum-farcasters) implantado que está ligado com um centro de armazenamento de alta segurança. Usando rádio comum e [criptografia](../13/05-authentication-and-encryption.md#encryption) quântica, o longiprojetor faz a transmissão de backups completos do seu ego (tirados da rede de laço neural da pilha cortical) uma vez a cada 48 horas. Essa transferência leva um único turno de ação. A critério do MJ, o intervalo de backup pode ser agendado com mais ou menos frequência, tendo em mente que as transmissões de ego são limitadas por questões de segurança e porque elas consomem muita largura de banda. Egos transmitidos devem estar ao alcance do receptor para serem recebidos; por essa razão, o utilidade do sistema está limitada a habitats ou situações específicas, nas quais você providenciou armazenamento seguro nas redondezas, tais como a bordo de uma espaçonave próxima. Se as transmissões de rádio forem impedidas ou bloqueadas, esse dispositivo não poderá salvar backups remotos.
 
 **Carregador Pericial:** Seu cérebro está conectado a uma rede de neurônios artificiais que podem ser formatados com informações. Isso permite que você faça o download de [periciapps](#skillsofts) em seu cérebro, ganhando o uso dessas perícias programadas até que o periciapp seja excluído ou substituído. Os sistemas de carregadores periciais só conseguem lidar com um total de 120 pontos de perícia de periciapps por vez. Trocar um periciapp é uma ação complexa.
 
+<!--sort-end-->
+
 ## Periciapps
 
-Os periciapps são usados com um implante [carregador pericial]().
+Os periciapps são usados com um implante [carregador pericial](#mental-augmentations).
 
 | PROGRAMA  | Comp/<!-- CLEANED wbr -->PE | Descrição                                      |
 |:--------- |:-------------------------------------:|:---------------------------------------------- |
