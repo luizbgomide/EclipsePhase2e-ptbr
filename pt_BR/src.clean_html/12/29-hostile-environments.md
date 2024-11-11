@@ -64,4 +64,3 @@ Os biomorfos sem [vedação de vácuo](../16/11-physical-augmentations.md) podem
 Após um minuto no espaço, você começa a sofrer [asfixia](28-environmental-factors.md#asphyxiation). Os danos são dobrados se você segurar ar em seus pulmões ou não estiver enrolado em uma posição de sobrevivência no vácuo. Além disso, personagens presos no espaço sem proteção térmica adequada sofrem de um modificador −10 em todas as ações e 2&nbsp;VD por minuto.
 
 <!--sort-end-->
-
