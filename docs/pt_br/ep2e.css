@@ -15,7 +15,7 @@
   text-align: right;
 }
 
-.nowrap {
+.no-wrap {
   white-space: nowrap;
 }
 
@@ -45,7 +45,7 @@ blockquote > :last-child {
 }
 
 /* blockquote table */
-.table > :is(p, h2, h3, h4) {
+.table > :is(p, h2, h3, h4, .heading) {
   text-align: center;
   background: var(--table-header-bg);
   margin-top: 0;
@@ -70,6 +70,10 @@ table {
   width: 100%;
   margin-left: 0;
   margin-right: 0;
+}
+
+table p {
+  line-height: normal !important;
 }
 
 table td,
@@ -143,22 +147,42 @@ table tr > :last-child {
   white-space: nowrap;
 }
 
+.line-spread {
+  display: flex;
+  /* flex-wrap: wrap; */
+  margin: 16px 0;
+  column-gap: 16px;
+}
+
+.line-spread > :first-child {
+  text-align: left;
+}
+
+.line-spread > :last-child {
+  text-align: right;
+  margin-left: auto;
+}
+
+.line-spread * {
+  margin: 0;
+}
+
 /* title formatting */
 h1,
 h2 {
   text-transform: uppercase;
 }
 
-:is(h2, h3, h4) {
+:is(h2, h3, h4, .heading) {
   margin-bottom: 0;
 }
 
-.title-margin > :first-child:is(h2, h3, h4) {
+.title-margin > :first-child:is(h2, h3, h4, .heading) {
   margin-bottom: 16px;
 }
 
-:is(h2, h3, h4) + *,
-:is(h2, h3, h4) + * > :first-child {
+:is(h2, h3, h4, .heading) + *,
+:is(h2, h3, h4, .heading) + * > :first-child {
   margin-top: 0 !important;
 }
 
@@ -177,20 +201,16 @@ h2 {
   margin-bottom: 0;
 }
 
-.multi-column {
-  display: flex;
+.smart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
 }
 
-.multi-column > * {
-  width: 100%;
-}
-
-.multi-column > div:not(:first-child) {
-  margin-left: 16px;
-}
-
-.multi-column > .vcenter {
-  align-self: center;
+.smart-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  column-gap: 16px;
 }
 
 /* eclipse phase aptitude superscripts */
@@ -224,9 +244,28 @@ th:empty {
   padding: 0;
 }
 
+tr:has(hr.table-header) {
+  background: var(--table-header-bg) !important;
+  font-weight: bold;
+}
+
+tr:has(hr.table-split) {
+  background: currentColor !important;
+  font-weight: bold;
+}
+
+hr.table-header,
+hr.table-split {
+  display: none;
+}
+
 .morph-images img {
   float: right;
   max-height: 30rem;
   max-width: 50%;
   margin: 0.5rem;
+}
+
+.large-text {
+  font-size: large;
 }
