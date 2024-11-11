@@ -30,7 +30,7 @@ O atacante usa uma ação complexa para atacar no seu turno na ordem de Iniciati
 
 ## Passo 2: Declarar a Defesa
 
-A defesa é uma ação automática. A menos que esteja [surpreso](21-other-action-factors.md#surprise) ou [incapacitado](21-other-action-factors.md#conditions), o defensor sempre tem a opção de responder.
+A defesa é uma ação automática. A menos que esteja [surpreso](21-other-action-factors.md#surpresa) ou [incapacitado](21-other-action-factors.md#condições), o defensor sempre tem a opção de responder.
 
 **Defesa de Luta:** Contra um ataque de luta, o defensor pode escolher bloquear ou aparar usando sua própria perícia Luta, ou esquivar usando Evasão.
 
@@ -38,7 +38,7 @@ A defesa é uma ação automática. A menos que esteja [surpreso](21-other-actio
 
 **Defesa de Psi:** Truques Psi são resistidos com uma Prova de VON.
 
-**Defesa Total:** Personagens que declararam que estão usando [defesa total](21-other-action-factors.md#full-defense) podem se defender como acima com um modificador +30.
+**Defesa Total:** Personagens que declararam que estão usando [defesa total](21-other-action-factors.md#defesa-total) podem se defender como acima com um modificador +30.
 
 ## Passo 3: Aplicar os Modificadores
 
@@ -52,18 +52,18 @@ Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores
 
 | Situação                                                                             |         Modificadores         |
 |:------------------------------------------------------------------------------------ |:-----------------------------:|
-| Atacante usando [movimento total](24-movement.md#full-move)                          |              −20              |
+| Atacante usando [movimento total](24-movement.md#movimento-total)                          |              −20              |
 | Posição vantajosa                                                                    |              +20              |
 | Ferido/traumatizado                                                                  |   −10 por ferimento/trauma    |
-| [Ataque preciso](15-special-attacks.md#called-shots) (sucesso maior necessário)      |              −10              |
-| Empunhando [arma de duas mãos](15-special-attacks.md#two-handed-weapons) com uma mão |              −20              |
+| [Ataque preciso](15-special-attacks.md#ataques-precisos) (sucesso maior necessário)      |              −10              |
+| Empunhando [arma de duas mãos](15-special-attacks.md#armas-de-duas-mãos) com uma mão |              −20              |
 | Alvo muito pequeno (rato ou inseto)                                                  |              −30              |
 | Alvo pequeno (tamanho de criança)                                                    |              −10              |
 | Alvo grande (tamanho de carro)                                                       |              +10              |
 | Alvo muito grande (tamanho de um celeiro)                                            |              +30              |
 | Visibilidade ruim (menor: clarão, fumaça leve, luz fraca)                            |              −10              |
 | Visibilidade ruim (maior: fumaça pesada, escuro)                                     |              −20              |
-| [Ataque às cegas](15-special-attacks.md#blind-attacks)                               | −30 ou 50% de chance de errar |
+| [Ataque às cegas](15-special-attacks.md#ataques-às-cegas)                               | −30 ou 50% de chance de errar |
 
 </blockquote>
 
@@ -75,7 +75,7 @@ Tanto o atacante quanto o defensor rolam d100 contra os seus números alvo de pe
 
 Se o atacante falhar, o ataque erra completamente. Se o atacante tiver sucesso e o defensor falhar, o ataque acerta.
 
-Se tanto o atacante quanto o defensor tiverem sucesso em seus testes, compare suas rolagens. Se a rolagem do atacante for maior, o ataque acerta apesar de uma defesa confiante; caso contrário, o ataque falha no acerto ([Testes Opostos](../03/02-types-of-tests.md#opposed-tests)). Lembre-se que sucessos críticos superam rolagens mais altas.
+Se tanto o atacante quanto o defensor tiverem sucesso em seus testes, compare suas rolagens. Se a rolagem do atacante for maior, o ataque acerta apesar de uma defesa confiante; caso contrário, o ataque falha no acerto ([Testes Opostos](../03/02-types-of-tests.md#testes-opostos)). Lembre-se que sucessos críticos superam rolagens mais altas.
 
 **Sucesso Maior do Atacante:** Para cada sucesso maior do atacante, aumente o VD infligido em +1d6.
 
@@ -105,7 +105,7 @@ Registre esse total na ficha de personagem. Se o dano acumulado igualar o excede
 
 ## Passo 9: Determinar os Ferimentos
 
-Se o dano infligido, menos a armadura, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](16-physical-health.md#wounds). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
+Se o dano infligido, menos a armadura, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](16-physical-health.md#ferimentos). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
 
 <blockquote>
 
@@ -119,11 +119,11 @@ O ex-humano tem 60 de Evasão, mas contra um ataque de distância isso é reduzi
 
 O MJ rola contra o alvo de 30. Ele consegue um 07, o que seria um sucesso, mas Jinx rolou 69 que é mais alto. Jinx acerta!
 
-A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](04-ranged-combat.md#firing-modes) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
+A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](04-ranged-combat.md#modos-de-disparo) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
 
-O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](16-physical-health.md#wound-effects), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
+O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](16-physical-health.md#efeitos-de-ferimento), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
-Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](02-melee-combat.md#charging), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
+Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](02-melee-combat.md#investidas), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 
 O ex-humano tem Luta 80, −10 pela investida, e mais −10 pelo ferimento, para um número alvo de 60. Ele rola 07. A Jinx tem Evasão 60, mais a MJ dá a ela um bônus de posição vantajosa por voar perto do teto, para o número alvo de 80. Ela rola um 00. Isso é mais baixo do que o resultado do ex-humano, mas é um sucesso crítico, o que supera a rolagem do ex-humano! O MJ diz que Jinx se esquiva de tal forma que o ex-humano se estende demais e perde o controle. Jinx sobreviveu para o próximo turno de ação!
 

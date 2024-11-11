@@ -6,7 +6,7 @@ A luta contínua entre hackers e a segurança eletrônica é melhor descrita com
 
 Em Eclipse Phase, um firewall é um pacote de segurança de rede neural não sapiente que monitora o tráfego da rede e defende contra hackers. Todo sistema tem um app de firewall defendendo-o ativamente. Os firewalls podem iniciar contramedidas automáticas, dependendo da sua programação.
 
-Cada firewall tem uma graduação que mede suas capacidades defensivas. As graduações do firewall são baseadas no tipo de dispositivo, conforme indicado na tabela Graduações do Firewall. Isso é usado para se opor a [Testes de Hackeamento](11-hacking.md#hacking-tests) feitos por hackers. A critério do MJ, alguns firewalls podem ser mais fracos se forem antigos ou desatualizados ou mais fortes se forem de última geração.
+Cada firewall tem uma graduação que mede suas capacidades defensivas. As graduações do firewall são baseadas no tipo de dispositivo, conforme indicado na tabela Graduações do Firewall. Isso é usado para se opor a [Testes de Hackeamento](11-hacking.md#testes-de-hackeamento) feitos por hackers. A critério do MJ, alguns firewalls podem ser mais fracos se forem antigos ou desatualizados ou mais fortes se forem de última geração.
 
 Se o app de firewall em um dispositivo for excluído ou travado, testes para hackear o sistema não sofrem oposição até que o firewall seja restaurado, a menos que um defensor do sistema se envolva em monitoramento ativo.
 
@@ -34,7 +34,7 @@ O firewall é apenas a primeira linha de defesa. Quase todos os sistemas também
 
 Os defensores do sistema têm privilégios de segurança, ou até de administrador. Se um alerta passivo ou ativo for acionado, eles são informados. Os defensores são responsáveis por ativar contramedidas não automáticas.
 
-**Múltiplos Defensores:** Alguns sistemas podem ter mais de um defensor presente. Quando se trata de contramedidas ativas e outras ações, os defensores escolhem trabalhar juntos ou separadamente. Se atuando em conjunto, os outros defensores fornecem um [bônus de trabalho em equipe](../03/01-how-to-play.md#teamwork); somente o defensor principal pode usar paradas. Se atuando individualmente, cada defensor depende de suas próprias Iniciativa, perícias e paradas.
+**Múltiplos Defensores:** Alguns sistemas podem ter mais de um defensor presente. Quando se trata de contramedidas ativas e outras ações, os defensores escolhem trabalhar juntos ou separadamente. Se atuando em conjunto, os outros defensores fornecem um [bônus de trabalho em equipe](../03/01-how-to-play.md#trabalho-em-equipe); somente o defensor principal pode usar paradas. Se atuando individualmente, cada defensor depende de suas próprias Iniciativa, perícias e paradas.
 
 ### Defesa Ativa
 
@@ -46,7 +46,7 @@ Se uma tentativa de hackeamento não for furtiva o suficiente, é provável que 
 
 ### Alerta Passivo
 
-Os alertas passivos são acionados sempre que o firewall ou o defensor têm sucesso em sua rolagem, mas perde o teste oposto contra um [ataque de invasão sutil](11-hacking.md#subtle-intrusion) do hacker. Eles também são disparados quando o hacker se expõe ao rolar uma falha maior em um Teste de Hackeamento dentro do sistema.
+Os alertas passivos são acionados sempre que o firewall ou o defensor têm sucesso em sua rolagem, mas perde o teste oposto contra um [ataque de invasão sutil](11-hacking.md#invasão-sutil) do hacker. Eles também são disparados quando o hacker se expõe ao rolar uma falha maior em um Teste de Hackeamento dentro do sistema.
 
 Alertas passivos ocorrem quando um sistema detecta atividade anômala que pode indicar uma tentativa de hackeamento em progresso. O sistema imediatamente dá um sinal visual ou acústico para os defensores do sistema e, possivelmente, para o proprietário ou os administradores. O sistema pode ser configurado para iniciar automaticamente uma ou mais contramedidas passivas (veja abaixo). Dependendo do sistema, hackers de segurança ou IAs extras podem ser trazidos para ajudar a investigar. Se o invasor não for encontrado novamente ou não for localizado dentro de um período de tempo definido (geralmente cerca de 10 minutos), o alarme é desativado e o evento é logado como uma anomalia.
 
@@ -78,7 +78,7 @@ Em uma tentativa de impedir a extração de dados, o firewall bloqueia temporari
 
 ### Localizar Invasor
 
-O defensor do sistema pode tentar rastrear a origem do alerta passivo e localizar quaisquer intrusos. Veja [Localizando](11-hacking.md#zeroing-in).
+O defensor do sistema pode tentar rastrear a origem do alerta passivo e localizar quaisquer intrusos. Veja [Localizando](11-hacking.md#localizando).
 
 ### Reautenticar
 
@@ -102,11 +102,11 @@ As contramedidas ativas são iniciadas quando um invasor é totalmente detectado
 
 ### Contrainvadir
 
-Apesar de ilegal em algumas jurisdições, os defensores do sistema podem proteger proativamente suas unidades contra-atacando o hacker. Para que isso ocorra, o invasor primeiro deve ser [rastreado com sucesso](10-tracking.md#mesh-activity-tracking) e sua mesh ID obtida. Quando isso ocorrer, o defensor pode então iniciar sua própria invasão no sistema o qual o hacker se origina.
+Apesar de ilegal em algumas jurisdições, os defensores do sistema podem proteger proativamente suas unidades contra-atacando o hacker. Para que isso ocorra, o invasor primeiro deve ser [rastreado com sucesso](10-tracking.md#rastreamento-de-atividades-na-mesh) e sua mesh ID obtida. Quando isso ocorrer, o defensor pode então iniciar sua própria invasão no sistema o qual o hacker se origina.
 
 ### Travar e Barrar
 
-O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](06-mesh-actions.md#security-actions)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
+O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](06-mesh-actions.md#ações-de-segurança)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
 
 ### Reinicializar/Desligar
 

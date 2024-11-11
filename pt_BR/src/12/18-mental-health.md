@@ -6,13 +6,13 @@ Quando o seu corpo é substituível, o dano infligido em sua psique é muitas ve
 
 Pontos de estresse representam fraturas na integridade do seu ego, defeitos no funcionamento coeso da sua mente. Esse dano mental é sentido como choques cerebrais, desorientação, desconexões cognitivas, falhas sinápticas, ou um enfraquecimento das faculdades intelectuais.
 
-Por si só, esses pontos de estresse não prejudicam significativamente o funcionamento do personagem, mas se eles se acumularem, eles podem ter graves repercussões. Além disso, qualque fonte que infligir uma grande quantidade de pontos de estresse de uma vez provavelmente terá um impacto mais grave ([Traumas](#trauma)).
+Por si só, esses pontos de estresse não prejudicam significativamente o funcionamento do personagem, mas se eles se acumularem, eles podem ter graves repercussões. Além disso, qualque fonte que infligir uma grande quantidade de pontos de estresse de uma vez provavelmente terá um impacto mais grave ([Traumas](#traumas)).
 
 Pontos de Estresse podem ser reduzidos com psicocirurgia, descanso de longo prazo, e/ou alcançando objetivos motivacionais.
 
 ### Categorias de Estresse
 
-Há quatro fontes de estresse. Personagens com o [traço Calejamento](../04/28-traits.md#hardening) estão imunes ao estresse de uma ou mais dessas fontes.
+Há quatro fontes de estresse. Personagens com o [traço Calejamento](../04/28-traits.md#calejamento) estão imunes ao estresse de uma ou mais dessas fontes.
 
 - **Alienação** surge da desconexão com si mesmo — acostumar-se a morfos diferentes, memórias perdidas, perda de autocontrole.
 - **Desamparo** é a incapacidade de controlar eventos. Ela inclui o isolamento, a traição, e a incapacidade de salvar seus amigos do perigo.

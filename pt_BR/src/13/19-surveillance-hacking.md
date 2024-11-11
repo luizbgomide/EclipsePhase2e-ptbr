@@ -8,7 +8,7 @@ Embora muitas vezes seja mais sensato agir como se você estivesse sob vigilânc
 
 Encontrar sensores requer um Teste de Percepção. Dado seus tamanhos, de pequenos a minúsculos, aplique um modificador entre −10 e −30, conforme for apropriado. Se procurar em uma área com vários sensores, role uma vez e não aplique modificadores; use sucessos maiores para verificar se você encontra os menores. Nanoenxames não podem ser detectados, exceto com um [nanodetector](../16/19-nanotech.md).
 
-Certos equipamentos e implantes também podem ser usados para detectar sensores, incluindo [ware de sentido elétrico](../16/07-senses-and-sensors.md), [enxame espião](../16/20-nanoswarms-and-microswarms.md#swarms), e [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
+Certos equipamentos e implantes também podem ser usados para detectar sensores, incluindo [ware de sentido elétrico](../16/07-senses-and-sensors.md), [enxame espião](../16/20-nanoswarms-and-microswarms.md#enxames), e [ofuscantes](../12/10-seeker-weapons-and-grenades.md#mísseis-buscadores-e-granadas).
 
 **Sensores Ocultos:** Sensores às vezes são ativamente camuflados. Aplique um modificador −30 em Testes de Percepção para detectá-los.
 
@@ -20,19 +20,19 @@ Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidad
 
 ## Bloqueando Sinais Ativamente
 
-Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](13-system-subversion.md#jam-signals)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via micro-ondas não são afetados (embora ligações via micro-ondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
+Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](13-system-subversion.md#bloquear-sinais)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via micro-ondas não são afetados (embora ligações via micro-ondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
 
-De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) podem ser usados para cegar câmeras temporariamente.
+De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#mísseis-buscadores-e-granadas) podem ser usados para cegar câmeras temporariamente.
 
 ## Hackeando Sensores
 
 O hackeamento seletivo de sensores pode ser bastante útil, principalmente em situações em que a cobertura é mínima. Isso também lhe dá muitas opções: desativar sensores, bloquear a transmissão de dados, apagar gravações, repetir o fluxo ou injetar dados falsos do sensor.
 
-**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os ciscos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](11-hacking.md#consolidated-hacking) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
+**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os ciscos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](11-hacking.md#hackeamento-consolidado) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
 
 ## Devassando Sensores
 
-Devassar é parecido com um bloqueio permanente. A maioria dos sensores são ciscos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) efetivamente destroem a capacidade de comunicação sem fio dos ciscos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
+Devassar é parecido com um bloqueio permanente. A maioria dos sensores são ciscos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#mísseis-buscadores-e-granadas) efetivamente destroem a capacidade de comunicação sem fio dos ciscos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
 
 ## Zonas Mortas
 
@@ -40,7 +40,7 @@ A onipresença de sensores fixos nem sempre é confiável. Há muitos lugares qu
 
 ### Removendo Sensores
 
-Remover fisicamente os sensores de toda uma área leva tempo e esforço. Trate isso como uma ação de tarefa de Percepção com um prazo baseado no tamanho da área. Limpar uma área sem ser notado dobra o prazo e pode exigir um Teste de Infiltração também. Sensores desativados, perdidos e destruídos podem ser percebidos (alertando um bot de manutenção ou verificação de segurança) e substituídos com o tempo. Nanoenxames espiões devem ser removidos com [enxames guardiões](../16/20-nanoswarms-and-microswarms.md#swarms).
+Remover fisicamente os sensores de toda uma área leva tempo e esforço. Trate isso como uma ação de tarefa de Percepção com um prazo baseado no tamanho da área. Limpar uma área sem ser notado dobra o prazo e pode exigir um Teste de Infiltração também. Sensores desativados, perdidos e destruídos podem ser percebidos (alertando um bot de manutenção ou verificação de segurança) e substituídos com o tempo. Nanoenxames espiões devem ser removidos com [enxames guardiões](../16/20-nanoswarms-and-microswarms.md#enxames).
 
 ### Mapeando Rotas
 

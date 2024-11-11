@@ -16,9 +16,9 @@ A quantidade de PM que o MJ fornece também representa os recursos atribuídos �
 
 Há três maneiras de aumentar seu PM:
 
-- **Recursos:** O traço [Recursos](../04/28-traits.md#resources) lhe fornece PM extra igual ao nível do traço, refletindo o seu acesso à riqueza. A critério do MJ, isso pode não se aplicar quando você está egoprojetando para ou reencapando em um habitat autonomista ou locais isolados com estoques limitados de morfos; seu dinheiro não vai ajudar lá.
+- **Recursos:** O traço [Recursos](../04/28-traits.md#recursos) lhe fornece PM extra igual ao nível do traço, refletindo o seu acesso à riqueza. A critério do MJ, isso pode não se aplicar quando você está egoprojetando para ou reencapando em um habitat autonomista ou locais isolados com estoques limitados de morfos; seu dinheiro não vai ajudar lá.
 - **Favores de Rep:** Você pode usar seus nível de rep de uma forma similar que Recursos. Ao gastar um favor Menor (1&nbsp;PM), Moderado (2&nbsp;PM) ou Maior (3&nbsp;PM), você pode aumentar os PM disponíveis para você. Nenhum teste é necessário, mas você deve ter um nível de rep de pelo menos 40 em uma rede aplicável à situação. A @-rep anarquista provavelmente não vai ajudar você em um habitat de hipercorp. A rep usada dessa forma conta nos favores de rep disponíveis para você na sua primeira semana na missão.
-- **Traços Negativos de Morfo:** Por fim, você sempre pode conseguir PM extra comprando [traços negativos de morfo](../04/28-traits.md#negative-traits), até um máximo de 6.
+- **Traços Negativos de Morfo:** Por fim, você sempre pode conseguir PM extra comprando [traços negativos de morfo](../04/28-traits.md#traços-negativos), até um máximo de 6.
 
 ## Gastando Pontos de Morfo
 

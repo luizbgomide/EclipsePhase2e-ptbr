@@ -25,7 +25,7 @@ Uma lista de cenas causadoras de estresse e VDs sugeridos estão listados na tab
 
 | Desamparo                                           |       VE        |
 |:--------------------------------------------------- |:---------------:|
-| [Asfixia](28-environmental-factors.md#asphyxiation) |       1d6       |
+| [Asfixia](28-environmental-factors.md#asfixia) |       1d6       |
 | Estar em chamas                                     |       1d6       |
 | Consciência da morte iminente                       |     1d10/1      |
 | Traição de um amigo confiável                       |       1d6       |
@@ -68,7 +68,7 @@ Uma lista de cenas causadoras de estresse e VDs sugeridos estão listados na tab
 
 Quanto mais exposto a coisas horríveis e aterrorizantes, menos assustadoras elas ficam. Após várias exposições, você fica calejado com essas coisas, capaz de ignorá-las sem mais efeitos.
 
-Sempre que você sofrer um trauma devido a estresse de alienação, desamparo ou violência ([Categorias de Estresse](18-mental-health.md#stress-categories)), anote. Se você sobrevive a uma situação traumática 5 vezes sem adquirir um transtorno, você fica efetivamente imune a esse tipo de estresse no futuro. Você adquiriu o [traço Calejamento](../04/28-traits.md#hardening) para esse tipo de estresse. Você nunca pode ficar calejado com estresse do desconhecido. Você também não pode ficar calejado ao estresse se você tiver um transtorno com gatilho por esse tipo de estresse.
+Sempre que você sofrer um trauma devido a estresse de alienação, desamparo ou violência ([Categorias de Estresse](18-mental-health.md#categorias-de-estresse)), anote. Se você sobrevive a uma situação traumática 5 vezes sem adquirir um transtorno, você fica efetivamente imune a esse tipo de estresse no futuro. Você adquiriu o [traço Calejamento](../04/28-traits.md#calejamento) para esse tipo de estresse. Você nunca pode ficar calejado com estresse do desconhecido. Você também não pode ficar calejado ao estresse se você tiver um transtorno com gatilho por esse tipo de estresse.
 
 A desvantagem do calejamento é que você fica distante e insensível. Para poder se proteger, você corta sua emoções — mas essas emoções são o que torna você transumano. Você ergueu paredes mentais que afetam sua empatia e capacidade de se relacionar com outros. Cada traço Calejamento significa que você sofre −10 em Provas de VON e em Testes de Persuasão.
 
@@ -80,6 +80,6 @@ Amaru é alvo de um cartel rival que quer informações sobre o Nine Lives. Eles
 
 As coisas pioram para Amaru quando os capangas do cartel começam a maltratá-lo para conseguir informações. Depois do MJ verificar que os jogadores concordam em interpretar essa cena ([Temas Transumanos](../17/07-transhuman-themes.md)), Amaru aguenta o tranco e não dá nenhuma informação útil. O MJ determina que isso pede outro Teste de Estresse contra VE 1d6 + 2/metade. Amaru rola 95 contra sua Prova de VON de 45: uma falha. O MJ rola um d6, obtendo um 4, então Amaru recebe 6 de estresse (mesmo que ele tivesse sucesso, ele teria recebido 3 de estresse).
 
-O Limiar de Trauma de Amaru é 6, então ele sofre um trauma pela experiência. Isso aplica um modificador −10 em todos os testes, e ele deve fazer outra Prova de VON contra desorientação ([Efeitos de Trauma](18-mental-health.md#trauma-effects)). Se Amaru sobreviver à experiência sem adquirir um transtorno, ele estará um passo mais perto de estar calejado ao estresse por desamparo.
+O Limiar de Trauma de Amaru é 6, então ele sofre um trauma pela experiência. Isso aplica um modificador −10 em todos os testes, e ele deve fazer outra Prova de VON contra desorientação ([Efeitos de Trauma](18-mental-health.md#efeitos-de-trauma)). Se Amaru sobreviver à experiência sem adquirir um transtorno, ele estará um passo mais perto de estar calejado ao estresse por desamparo.
 
 </blockquote>

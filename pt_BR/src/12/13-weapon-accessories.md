@@ -28,19 +28,19 @@ Os seguintes acessórios estão disponíveis para armas.
 
 **Giro-Suporte:** Esse arnês possui um suporte giro-estabilizado para arma que mantém a arma estável. Negando todos os modificadores de movimento.
 
-**Mira por Imagem:** A mira por imagem é fixada no topo da arma e age como um [visor](../16/05-common-tech-and-ware.md#everyday-technology). Essa mira também podem ser virada como um periscópio, permitindo que você aponte a arma e mire de lado sem sair da cobertura.
+**Mira por Imagem:** A mira por imagem é fixada no topo da arma e age como um [visor](../16/05-common-tech-and-ware.md#tecnologia-cotidiana). Essa mira também podem ser virada como um periscópio, permitindo que você aponte a arma e mire de lado sem sair da cobertura.
 
 **Mira Laser:** Esse laser sob o cano emite um feixe que coloca um ponto vermelho brilhante no alvo para auxiliar na mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). A mira laser também pode ser usada para pintar um alvo para munições inteligente ou buscadores guiados por laser. Lasers infravermelhos e ultravioletas também estão disponíveis, para que o ponto só seja visível para personagens com visão aprimorada.
 
 **Sistema de Segurança:** Esse recurso é automaticamente incluído na maioria das armas. Um sensor biométrico (impressão palmar ou de voz) ou de ego ID está embutido na arma, desativando-a se qualquer pessoa além do usuário autorizado tentar dispará-la.
 
-**Segurança Eletrificada:** Igual ao sistema de segurança, exceto que um usuário não autorizado também sofre um choque elétrico, infligindo VD 1d6 e um [efeito de choque](15-special-attacks.md#shock-attacks).
+**Segurança Eletrificada:** Igual ao sistema de segurança, exceto que um usuário não autorizado também sofre um choque elétrico, infligindo VD 1d6 e um [efeito de choque](15-special-attacks.md#ataques-de-choque).
 
 **Silenciador/Supressor de Ruído:** Esse acessório montado no cano reduz o som do disparo de uma arma de fogo (ele não pode ser usado em railguns). Aplique um modificador −30 em Testes de Percepção baseados em audição para localizar o disparo da arma.
 
 **Pente Inteligente:** Um pente inteligente permite que você escolha qual cartucho de munição será disparado a cada tiro. No entanto, esse sistema deixa menos espaço para balas, então reduza a capacidade de munição da arma à metade (arredonde para cima). Pentes inteligentes podem ser combinados com pentes estendidos, nesse caso a capacidade de munição é normal.
 
-**Ligação Inteligente:** Uma ligação Inteligente está inclusa automaticamente na maioria das armas. Ela conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). As ligações inteligentes também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. As ligações inteligentes também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](09-kinetic-weapons.md#smart-ammo) ou programar [condições de acionamento](10-seeker-weapons-and-grenades.md#trigger-conditions) de buscadores.
+**Ligação Inteligente:** Uma ligação Inteligente está inclusa automaticamente na maioria das armas. Ela conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). As ligações inteligentes também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. As ligações inteligentes também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](09-kinetic-weapons.md#munições-inteligentes) ou programar [condições de acionamento](10-seeker-weapons-and-grenades.md#condições-de-acionamento) de buscadores.
 
 <!--sort-end-->
 

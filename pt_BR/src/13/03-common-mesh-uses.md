@@ -10,7 +10,7 @@ A RA sobrepõe dados e entradas sensoriais da mesh nos seus sentidos físicos. I
 
 A maioria dos habitats e empresas transmitem dados em canais de RA públicos. Diretórios, sinais, mapas, guias de ajuda, informações turísticas, serviços disponíveis e alertas públicos podem ser ligados e vistos facilmente. Corporações e grupos privados também oferecem seus próprios canais de RA para usuários autenticados, variando de transmissões de música e jogos em rede até o submundo da vida noturna e serviços do mercado negro.
 
-A RA também tem suas desvantagens: se você for hackeado, ela pode ser usada contra você ([Editar Fluxo de RA](13-system-subversion.md#edit-ar-feed)). A entrada sensorial de RA também é um vetor potencial para os chamados [hacks mentais basiliscos](../18/10-exsurgent-infection.md#basilisk-hacks).
+A RA também tem suas desvantagens: se você for hackeado, ela pode ser usada contra você ([Editar Fluxo de RA](13-system-subversion.md#editar-fluxo-de-ra)). A entrada sensorial de RA também é um vetor potencial para os chamados [hacks mentais basiliscos](../18/10-exsurgent-infection.md#basilisk-hacks).
 
 ### Névoa de RA e Filtros
 
@@ -32,7 +32,7 @@ A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro imp
 
 ## Comunicações
 
-Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](04-devices-apps-and-links.md#sniffing)).
+Mensagens, chamadas de vídeo (usando avatares), e e-mail permanecem as formas dominantes de comunicação, embora às vezes eles sejam prejudicadas pelo atraso da distância. Para discussões em grandes distâncias ou que exigem a privacidade cara a cara, os forques são utilizados. As comunicações não criptografadas podem ser farejadas por grupos hostis ([Farejamento](04-devices-apps-and-links.md#farejamento)).
 
 Os fóruns online crescem e caem em popularidade, dependendo, em grande parte, de quão bem eles filtram os trolls, spam e bots. Por um lado, os murais privados e salas de RV prosperam de acordo com sua exclusividade e tópicos discutidos, especialmente em círculos de socialites e infomorfos. Por outro, os canais locais públicos de RA tendem a ficar lotados de lixo, mas têm uma grande participação da comunidade, o que os torna bastante úteis, especialmente em habs de eremitas e autonomistas.
 
@@ -64,7 +64,7 @@ Muitos espaços transmitem seus próprios canais de mídia local em RA, para man
 
 ## Escritórios Móveis
 
-Ferramentas de colaboração online, redes remotas e assistentes de ILA significam que o trabalho raramente está atrelado a um local físico — a maioria das pessoas faz seus trabalhos com elas. Para fins de segurança, as [VPNs](02-mesh-topology.md#vpns-virtual-private-networks) são obrigatórias. Implantes de módulo de dados criptografados muitas vezes são obrigatórios para empregados que carregam dados confidenciais da empresa em suas cabeças, possivelmente protegidos por uma IA de segurança corporativa dedicada. Muitas hipercorps retêm privilégios de acesso remoto aos insertos da mesh e implantes dos seus trabalhadores.
+Ferramentas de colaboração online, redes remotas e assistentes de ILA significam que o trabalho raramente está atrelado a um local físico — a maioria das pessoas faz seus trabalhos com elas. Para fins de segurança, as [VPNs](02-mesh-topology.md#vpns-redes-privadas-virtuais) são obrigatórias. Implantes de módulo de dados criptografados muitas vezes são obrigatórios para empregados que carregam dados confidenciais da empresa em suas cabeças, possivelmente protegidos por uma IA de segurança corporativa dedicada. Muitas hipercorps retêm privilégios de acesso remoto aos insertos da mesh e implantes dos seus trabalhadores.
 
 ## Psicocirurgia
 
@@ -92,11 +92,11 @@ Se você for hackeado, suas contas das redes sociais podem estar em risco. Seu p
 
 As tags entópticas são uma forma para as pessoas “marcarem” uma pessoa, lugar ou objeto físico com dados virtuais. Essas e-tags são armazenadas em redes locais ao item marcado e se movem com o item quando ele muda de local. As e-tags são visíveis em RA e podem conter praticamente qualquer tipo de dado, embora anotações curtas e imagens sejam os mais comuns. Frequentemente, as e-tags estão vinculadas a redes sociais específicas, ou círculos dentro dessas redes, para que as pessoas possam deixar observações, avaliações, recordações, mídias e outras coisas similares para amigos e colegas.
 
-Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](05-authentication-and-encryption.md#encryption).
+Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no melhor dos casos, ou pode ser impossível sem ter acesso às redes ou aos dispositivos certos (a critério do MJ). Mesmo quando encontradas, elas podem precisar de [descriptografia](05-authentication-and-encryption.md#criptografia).
 
 ## Realidade Virtual (RV)
 
-Apenas [servidores](04-devices-apps-and-links.md#servers) tem a largura de banda e processamento necessários para executar simulespaços completos de RV, especialmente aqueles com múltiplos usuários. Para maior estabilidade, a maioria dos serviços de RV são oferecidos em locais com redes físicas cabeadas. São fornecidas poltronas fechadas confortáveis para os usuários, pois os seus sentidos físicos são cortados.
+Apenas [servidores](04-devices-apps-and-links.md#servidores) tem a largura de banda e processamento necessários para executar simulespaços completos de RV, especialmente aqueles com múltiplos usuários. Para maior estabilidade, a maioria dos serviços de RV são oferecidos em locais com redes físicas cabeadas. São fornecidas poltronas fechadas confortáveis para os usuários, pois os seus sentidos físicos são cortados.
 
 A RV é coberta em mais detalhes em [Realidade Virtual](18-virtual-reality.md).
 

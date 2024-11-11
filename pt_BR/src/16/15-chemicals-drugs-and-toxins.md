@@ -41,11 +41,11 @@ O método de aplicação determina a rapidez com que a substância é absorvida 
 
 **App:** As substâncias eletrônicas são executadas como outros programas.
 
-**Dérmico (D):** Essa droga/toxina é absorvida através da pele como um gás, líquido, ou sólido (ex.: pasta). Adesivos dérmicos ou armas aspersoras são comumente usadas, carregadas com o químico DMSO, que transfere a droga através da pele. Os adesivos dérmicos podem ser aplicados nos outros em combate de luta com um ataque de toque simples (+20). Armas de luta também podem ser revestidas ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
+**Dérmico (D):** Essa droga/toxina é absorvida através da pele como um gás, líquido, ou sólido (ex.: pasta). Adesivos dérmicos ou armas aspersoras são comumente usadas, carregadas com o químico DMSO, que transfere a droga através da pele. Os adesivos dérmicos podem ser aplicados nos outros em combate de luta com um ataque de toque simples (+20). Armas de luta também podem ser revestidas ([Armas Revestidas](../12/15-special-attacks.md#armas-revestidas)).
 
 **Inalação (Ina):** Isso é um gás que é respirado nos pulmões ou aspirado nasalmente. Usado para inaladores, aerossóis, pós, e granadas/buscadores de gás.
 
-**Injetado (Inj):** Esse líquido é aplicado através de uma injeção intramuscular ou intravenosa. Usado para agulhas e armas de perfurantes ([Armas Revestidas](../12/15-special-attacks.md#coated-weapons)).
+**Injetado (Inj):** Esse líquido é aplicado através de uma injeção intramuscular ou intravenosa. Usado para agulhas e armas de perfurantes ([Armas Revestidas](../12/15-special-attacks.md#armas-revestidas)).
 
 **Oral (O):** Esse é um líquido ou sólido que é absorvido através do estômago ou cavidade oral (comendo ou bebendo). Usado para pílulas e líquidos.
 
@@ -59,7 +59,7 @@ Não há teste de resistência para ignorar os efeitos de uma droga ou toxina, m
 
 ## Vício e Abuso
 
-Se você usar demais uma droga, poderá ficar viciado. As drogas podem ser fisicamente viciantes (afetando o morfo), mentalmente viciantes (afetando o ego), ou ambas. Se o MJ decidir que você está usando demais (como mais de uma vez por dia, ou várias vezes em uma semana), você deve fazer uma Prova de VON modificada pelo Modificador de Vício da droga. Se você falhar, você adquire o [traço negativo Vício (Nível 1)](../04/28-traits.md#addiction). Uma vez viciado, você deve consumir a droga regularmente (de acordo com o nível do traço) ou enfrentar a abstinência (modificador −10 por nível). A critério do MJ, o uso pesado ou prolongado de drogas pode exigir que você faça uma Prova de VON modificada pelo Modificador de Vício para evitar aumentar o nível do seu traço Vício. O abuso de drogas também pode resultar em outros efeitos fisiológicos ou psicológicos.
+Se você usar demais uma droga, poderá ficar viciado. As drogas podem ser fisicamente viciantes (afetando o morfo), mentalmente viciantes (afetando o ego), ou ambas. Se o MJ decidir que você está usando demais (como mais de uma vez por dia, ou várias vezes em uma semana), você deve fazer uma Prova de VON modificada pelo Modificador de Vício da droga. Se você falhar, você adquire o [traço negativo Vício (Nível 1)](../04/28-traits.md#vício). Uma vez viciado, você deve consumir a droga regularmente (de acordo com o nível do traço) ou enfrentar a abstinência (modificador −10 por nível). A critério do MJ, o uso pesado ou prolongado de drogas pode exigir que você faça uma Prova de VON modificada pelo Modificador de Vício para evitar aumentar o nível do seu traço Vício. O abuso de drogas também pode resultar em outros efeitos fisiológicos ou psicológicos.
 
 <!--sort-->
 
@@ -140,7 +140,7 @@ Drogas de combate são uma forma fácil de melhorar suas chances em uma luta.
 
 <!--sort-->
 
-**Agrestia:** Essa droga estimula uma grande explosão de feromônios de agressão. Isso fornece um modificador +20 quando usar Provocação para intimidar ou zombar ([Ataques Sociais](../12/22-social-actions.md#social-attacks)), mas um modificador −20 em todos os outros testes de perícias sociais. Esses modificadores só são eficazes quando lidar com biomorfos da mesma espécie e que podem cheirar você.
+**Agrestia:** Essa droga estimula uma grande explosão de feromônios de agressão. Isso fornece um modificador +20 quando usar Provocação para intimidar ou zombar ([Ataques Sociais](../12/22-social-actions.md#ataques-sociais)), mas um modificador −20 em todos os outros testes de perícias sociais. Esses modificadores só são eficazes quando lidar com biomorfos da mesma espécie e que podem cheirar você.
 
 **Brutchá:** Frequentemente servido como um delicioso chá, essa droga de combate eleva a resistência e tolerância às lesões. Aumente sua Durabilidade em 5, Limiar de Ferimento em 1, e Grau de Destruição em 8 por 3 horas.
 
@@ -199,7 +199,7 @@ Nanodrogas são infestações temporárias de nanobots que aplicam um efeito esp
 
 **Xarope:** Também conhecido como yào ou poções de cura, essa infusão temporária de nanobots médicos estimula a recuperação de lesões para biomorfos. Por 1 dia, você cura 1d10 de dano por hora. Se todo o dano for removido, em vez disso, você cura 1 ferimento. Certas lesões (ossos quebrados, membros decepados) podem exigir outros cuidados médicos.
 
-**Persona:** A persona manipula suas emoções, humores e comportamentos para transformá-lo em uma pessoa diferente. Cada uma é focada em um estado emocional/comportamento diferente. Pela duração, você adquire um [traço Comportamento Acentuado (Nível 2)](../04/28-traits.md#enhanced-behavior). Qualquer um usando Cinésica para identificar você sofre um modificador −10.
+**Persona:** A persona manipula suas emoções, humores e comportamentos para transformá-lo em uma pessoa diferente. Cada uma é focada em um estado emocional/comportamento diferente. Pela duração, você adquire um [traço Comportamento Acentuado (Nível 2)](../04/28-traits.md#comportamento-acentuado). Qualquer um usando Cinésica para identificar você sofre um modificador −10.
 
 **Retcon:** Os nanobots da Retcon apagam memórias construídas recentemente. Suas últimas 48 horas de memórias são excluídas. Às vezes isso é usado ofensivamente, embora não afete XP gravados, backups, ou o que sua musa se lembra. Devido a natureza das memórias biológicas, a retcon é imperfeita; algumas memórias recentes podem ser poupadas, algumas antigas podem ser apagadas (a critério do MJ).
 
@@ -367,7 +367,7 @@ As propriedades tóxicas de substâncias biológicas e químicas podem ser usada
 
 **Temoral:** Essa droga é derivada de feromônios liberados pelo medo e usada para provocar a inquietação e até o terror. Faça uma Prova de VON ou sofra um ataque de pânico, infligindo VE 1d10. Você também sofre um modificador −30 para resistir a intimidação e manipulações emocionais baseadas em medo por 1 hora.
 
-**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, essa toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](#chemicals)) seja aplicado.
+**Nervex:** Derivado de agentes nervosos mortais como ciclosarin, VX, e novichok, essa toxina geneticamente modificada é dispersada como um gás inodoro e incolor que se torna inerte e seguro depois de 10 minutos da dispersão. Ela causa contração involuntária dos músculos, convulsões e morte por falha respiratória. Você sofre um modificador −20 em todas as ações e deve fazer uma Prova de SOM ou ficar incapacitado por convulsões, paralisia, náuseas e vômitos. Depois de 10 minutos, você morre a não ser que um antídoto (como [atropina](#químicos)) seja aplicado.
 
 **Oxitocina-A:** Essa é uma variante geneticamente aprimorada de oxitocina, que induz confiança. Aplique um modificador −30 em Provas de VON e Testes de Cinésica em que confiança for um fator.
 

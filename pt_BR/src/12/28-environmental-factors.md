@@ -12,9 +12,9 @@ A asfixia é um processo terrível, que frequentemente leva ao pânico. Os perso
 
 ## Descompressão
 
-Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](#asphyxiation).
+Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](#asfixia).
 
-A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](29-hostile-environments.md#vacuum)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
+A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](29-hostile-environments.md#vácuo)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
 
 ## Queda
 
@@ -45,7 +45,7 @@ A maioria dos personagens em Eclipse Phase tem experiência considerável manobr
 
 A critério do MJ, os personagens que passaram longos períodos se aclimatados com uma faixa de gravidade podem ter dificuldades em lidar com mudanças de gravidade, pelo menos até eles se aclimatarem; aplique um modificador −10 em perícias físicas e sociais. A penalidade física resulta das dificuldades simples em manobrar. A penalidade social se aplica porque é difícil parecer impressionante, intimidador ou sedutor quando você ainda não descobriu como arrumar suas roupas para que elas não fiquem flutuando na sua cara. Aumente a penalidade para −20 em situações envolvendo combate ou manipulação fina. A aclimatação geralmente leva cerca de 3 dias.
 
-Qualquer biomorfo com [biomods](../16/05-common-tech-and-ware.md#standard-augmentations) está imune aos efeitos nocivos à saúde da exposição de longo prazo à microgravidade.
+Qualquer biomorfo com [biomods](../16/05-common-tech-and-ware.md#ampliações-comuns) está imune aos efeitos nocivos à saúde da exposição de longo prazo à microgravidade.
 
 ### Microgravidade
 
@@ -58,7 +58,7 @@ As coisas se comportam diferentemente em microgravidade:
 - A fumaça não sobe em fluxos. Em vez disso, ela forma um halo quase esférico ao redor da sua fonte.
 - Os líquidos se espalham em nuvens ou gotas se liberados no ar. A tensão superficial pode conter alguns líquidos em grandes bolas flutuantes dependendo de como eles foram dispersos. As bebidas vem em sacos ou garrafas selados. Os alimentos são consumidos de forma que molhos e partes líquidas não escapem. O sangue vai para _toda parte_.
 
-O movimento e as manobras em microgravidade são feitos usando a [perícia Queda Livre](../04/19-active-skill-list.md#free-fall) para a maioria dos morfos; outros podem voar usando Atletismo, Pilotagem: Aérea ou Pilotagem: Espacial, dependendo de como eles se movem. A maioria das atividades cotidianas em queda livre não requer um teste. No entanto, o MJ pode pedir um Teste de Queda Livre para manobras complicadas, voar grandes distâncias, mudanças bruscas de direção ou velocidade, ou quando engajado em combate de luta. Uma rolagem falhada significa que você calculou mal e acabou em uma posição diferente da pretendida. Uma falha maior ou crítica significa que você errou feio, batendo em um parede ou rodopiando pelo espaço.
+O movimento e as manobras em microgravidade são feitos usando a [perícia Queda Livre](../04/19-active-skill-list.md#queda-livre) para a maioria dos morfos; outros podem voar usando Atletismo, Pilotagem: Aérea ou Pilotagem: Espacial, dependendo de como eles se movem. A maioria das atividades cotidianas em queda livre não requer um teste. No entanto, o MJ pode pedir um Teste de Queda Livre para manobras complicadas, voar grandes distâncias, mudanças bruscas de direção ou velocidade, ou quando engajado em combate de luta. Uma rolagem falhada significa que você calculou mal e acabou em uma posição diferente da pretendida. Uma falha maior ou crítica significa que você errou feio, batendo em um parede ou rodopiando pelo espaço.
 
 A maioria dos habitats em microgravidade estão equipados com laços elásticos para se agarrar, bolsos de malha para manter objetos presos, e esteiras rolantes com alças para as mãos em vias de grande movimentação. Sapatos magnéticos ou com velcro são comumente usados para caminhar, em vez de escalar ou voar. No entanto, os ambientes em zero-g são projetados para fazer uso máximo do espaço, aproveitando-se da ausência de tetos e pisos. Como os objetos não tem peso, os personagens podem mover até mesmo objetos enormes com facilidade.
 
@@ -66,7 +66,7 @@ A maioria dos habitats em microgravidade estão equipados com laços elásticos 
 
 ### Baixa Gravidade
 
-A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](04-ranged-combat.md#range)).
+A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](04-ranged-combat.md#alcance)).
 
 ### Alta Gravidade
 

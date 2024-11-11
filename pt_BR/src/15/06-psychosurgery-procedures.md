@@ -16,7 +16,7 @@ As seguintes alterações podem ser realizadas com psicocirurgia. A critério do
 | Mesclagem                     |           1&nbsp;hora            |    Veja o texto     | Recombinar forque com ego alfa.                                                                   |
 | Desbaste Neural               |           1&nbsp;hora            |          —          | Cria forque beta do alfa.                                                                         |
 | Edição de Personalidade       | 1&nbsp;semana por nível de traço |        1d6/1        | Traço de Comportamento Acentuado ou Restrito.                                                     |
-| Psicoterapia                  |           1&nbsp;hora            |          —          | Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care). |
+| Psicoterapia                  |           1&nbsp;hora            |          —          | Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#cuidados-psicocirúrgicos). |
 | Remoção de Infecção           |          1&nbsp;semana           |      1d10/1d6       | Remove infecção exsurgente; oposto pelo Grau de Infecção.                                         |
 | Impressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Imprime uma perícia, degrada −10 por dia.                                                         |
 | Supressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Remove perícia.                                                                                   |
@@ -88,7 +88,7 @@ O processo de mesclagem também integra qualquer estresse, traumas e traços de 
 
 ## Desbaste Neural
 
-O desbaste neural é o processo de criar um [forque beta](04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
+O desbaste neural é o processo de criar um [forque beta](04-forking-and-merging.md#forques-beta) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
 
 - 1 perícia é diminuída em −30.
 - O forque adquire um traço Negativo de ego.
@@ -104,13 +104,13 @@ Você pode usar a edição da personalidade para limitar, bloquear ou excluir um
 
 A edição de personalidade também pode ser aplicada como uma liberação ou reforço. Um profissional médico pode querer melhorar sua empatia, um atleta pode aumentar sua competitividade, ou um executivo de hipercorp pode aumentar seu compromisso com o trabalho acima de tudo.
 
-Se bem-sucedido, o indivíduo adquire o traço [Comportamento Acentuado](../04/28-traits.md#enhanced-behavior) ou [Comportamento Restrito](../04/28-traits.md#restricted-behavior) no nível escolhido. A critério do MJ, em vez disso, esse procedimento pode aplicar outros traços de ego.
+Se bem-sucedido, o indivíduo adquire o traço [Comportamento Acentuado](../04/28-traits.md#comportamento-acentuado) ou [Comportamento Restrito](../04/28-traits.md#comportamento-restrito) no nível escolhido. A critério do MJ, em vez disso, esse procedimento pode aplicar outros traços de ego.
 
 À medida que a psicocirurgia fica mais acessível, a edição de personalidade tornou-se um procedimento eletivo comum. Algumas pessoas ajustam suas emoções e hábitos mensalmente. Por outro lado, autoridades legais usam edição de personalidade em criminosos para reduzir reincidência, e sabe-se que regimes autoritários pacificam elementos rebeldes de suas populações. E, é claro, os hackers mentais experimentais buscam novos estados emocionais, nunca antes sentidos por transumanos.
 
 ## Psicoterapia
 
-A psicocirurgia terapêutica é benéfica para personagens que sofrem de estresse mental, traumas e transtornos. Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#psychosurgery-care).
+A psicocirurgia terapêutica é benéfica para personagens que sofrem de estresse mental, traumas e transtornos. Veja [Cuidados Psicocirúrgicos](../12/19-mental-healing-and-psychosurgery.md#cuidados-psicocirúrgicos).
 
 ## Remoção de Infecção
 
@@ -126,7 +126,7 @@ A supressão de perícia tenta identificar onde as perícias estão armazenadas 
 
 ## Tasp
 
-Tasp é o uso de técnicas de estimulação cerebral profunda para tocar nos centros de prazer da mente. Embora esse procedimento geralmente seja usado para fins terapêuticos em pacientes sofrendo de depressão ou outras enfermidades mentais, a intenção da tasp é sobrecarregar o indivíduo em um estado prolongado de felicidade quase insuportável. No entanto, essa estimulação é altamente viciante. Então se você for exposto por períodos prolongados ou recorrentes, você precisará fazer uma Prova de VON com −30 ou receber o [traço Vício](../04/28-traits.md#addiction). Sabe-se que algumas organizações criminosas usam vício e recompensas em tasp como formas de controlar aqueles em seus domínios.
+Tasp é o uso de técnicas de estimulação cerebral profunda para tocar nos centros de prazer da mente. Embora esse procedimento geralmente seja usado para fins terapêuticos em pacientes sofrendo de depressão ou outras enfermidades mentais, a intenção da tasp é sobrecarregar o indivíduo em um estado prolongado de felicidade quase insuportável. No entanto, essa estimulação é altamente viciante. Então se você for exposto por períodos prolongados ou recorrentes, você precisará fazer uma Prova de VON com −30 ou receber o [traço Vício](../04/28-traits.md#vício). Sabe-se que algumas organizações criminosas usam vício e recompensas em tasp como formas de controlar aqueles em seus domínios.
 
 <!--sort-end-->
 

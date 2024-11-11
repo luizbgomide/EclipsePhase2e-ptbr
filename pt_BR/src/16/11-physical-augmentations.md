@@ -19,8 +19,8 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 | Hibernação              |      B       |                 Men/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
 | Compartimento Oculto    |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
 | Sistema Magnético       |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
-| Sistema de Mobilidade   |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#movement-types) especificado adicional.                                         |
-| Projeto Modular         |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#flexbot-rules). |
+| Sistema de Mobilidade   |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#tipos-de-movimento) especificado adicional.                                         |
+| Projeto Modular         |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#regras-de-flexbots). |
 | Nanotat ID Variável     |      N       |                Mai/R/3                | Troque sua nanotat ID.                                                                                                   |
 | Reserva de Oxigênio     |      C       |                 Men/1                 | Tanque/recirculador de oxigênio com 4 horas de ar.                                                                       |
 | Pés Preênseis           |     BCH      |                 Men/1                 | Pode usar os pés como mãos. −8 no movimento total.                                                                       |
@@ -37,7 +37,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 <!--sort-->
 
-**Regulação Circadiana:** Seu morfo exige apenas 2 horas de sono para manter a saúde e funcionar no ápice da capacidade mental. Você sonha constantemente enquanto dorme, e pode tanto adormecer quanto acordar quase que instantaneamente. Você também pode facilmente mudar para um ciclo de 2 dias, acordado por 44 horas e dormindo 4 horas, sem efeitos negativos. Você precisa de apenas 2 horas para uma recarga longa de suas paradas ([Recarregando Paradas](../03/05-pools.md#recharging-pools)).
+**Regulação Circadiana:** Seu morfo exige apenas 2 horas de sono para manter a saúde e funcionar no ápice da capacidade mental. Você sonha constantemente enquanto dorme, e pode tanto adormecer quanto acordar quase que instantaneamente. Você também pode facilmente mudar para um ciclo de 2 dias, acordado por 44 horas e dormindo 4 horas, sem efeitos negativos. Você precisa de apenas 2 horas para uma recarga longa de suas paradas ([Recarregando Paradas](../03/05-pools.md#recarregando-paradas)).
 
 **Tolerância ao Frio:** A regulação de temperatura e circulação do seu morfo são substancialmente aprimoradas, permitindo que você sobreviva em temperaturas baixas até −80&nbsp;°C sem desconforto ou malefícios. Esse mod é comum em Marte, permitindo que você suporte o clima sem roupas pesadas.
 
@@ -63,9 +63,9 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Sistema Magnético:** Um sistema magnético permite que você se agarre à maioria dos materiais ferrosos. Isso lhe permite ficar pendurado em tetos ou luminárias, andar em microgravidade aderindo às superfícies, e segurar dispositivos sem deixá-los cair ou se afastar. Você recebe +30 em Provas de SOM para manter segurar objetos magneticamente aderidos.
 
-**Sistema de Mobilidade:** O seu morfo é melhorado com um meio adicional de locomoção ([Tipos de Movimento](../12/24-movement.md#movement-types)). Qualquer tipo de movimento que se encaixe no projeto do seu morfo pode ser escolhido, com a aprovação do MJ. Você pode ter vários sistemas (diferentes).
+**Sistema de Mobilidade:** O seu morfo é melhorado com um meio adicional de locomoção ([Tipos de Movimento](../12/24-movement.md#tipos-de-movimento)). Qualquer tipo de movimento que se encaixe no projeto do seu morfo pode ser escolhido, com a aprovação do MJ. Você pode ter vários sistemas (diferentes).
 
-**Projeto Modular:** Essa carcaça é projetada para se encaixar com flexbots e morfos modulares parecidos para criar formas combinadas maiores. Quando unido com outros módulos, o grupo é tratado com uma única unidade/morfo com capacidades compartilhadas ([Regras de Flexbots](../04/25-synthmorphs.md#flexbot-rules)).
+**Projeto Modular:** Essa carcaça é projetada para se encaixar com flexbots e morfos modulares parecidos para criar formas combinadas maiores. Quando unido com outros módulos, o grupo é tratado com uma única unidade/morfo com capacidades compartilhadas ([Regras de Flexbots](../04/25-synthmorphs.md#regras-de-flexbots)).
 
 **Nanotat ID Variável:** Sua nanotat ID pode ser reconfigurada com uma nova ID legítima ou falsa em turno de ação.
 
@@ -87,7 +87,7 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, conseguindo suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0.
 
-**Utilimod:** Esse mod duplica as funções de uma [utiliferramenta](05-common-tech-and-ware.md#everyday-technology). “Braços” de ferramenta retráteis de materiais inteligentes são implantado — geralmente próximo ao punho, mas outros locais são possíveis — que podem mudar de forma para qualquer tipo de ferramenta especializada desejada em 1d6 minutos. Essas ferramentas podem ter inúmeras funções, incluindo a de um [olho de fibra](17-espionage-and-security-tech.md) ou [faca](../12/02-melee-combat.md#melee-weapons) implantada.
+**Utilimod:** Esse mod duplica as funções de uma [utiliferramenta](05-common-tech-and-ware.md#tecnologia-cotidiana). “Braços” de ferramenta retráteis de materiais inteligentes são implantado — geralmente próximo ao punho, mas outros locais são possíveis — que podem mudar de forma para qualquer tipo de ferramenta especializada desejada em 1d6 minutos. Essas ferramentas podem ter inúmeras funções, incluindo a de um [olho de fibra](17-espionage-and-security-tech.md) ou [faca](../12/02-melee-combat.md#armas-de-luta) implantada.
 
 **Vedação de Vácuo:** Seu morfo é modificado para sobreviver aos efeitos do vácuo. Você pode vedar sua boca, nariz e outros orifícios para evitar o congelamento de fluidos corporais por resfriamento evaporativo. Uma membrana especial protege seus olhos, permitindo que você veja no vácuo sem distorções ou danos. Seu sistema também está protegido dos efeitos da doença de descompressão e hipóxia. Você ainda está vulnerável a asfixia, radiação e possivelmente calor (na luz solar) ou perda de calor (na sombra), por isso, esse mod é frequentemente acompanhado de cyberware de reserva de oxigênio, respirócitos e/ou tolerância ao frio.
 

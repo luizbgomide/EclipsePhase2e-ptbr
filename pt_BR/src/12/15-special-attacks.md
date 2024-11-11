@@ -52,7 +52,7 @@ Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros memb
 
 ### Derrubar
 
-Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
+Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um oponente derrubado está [prostrado](21-other-action-factors.md#condições) e deve usar uma ação rápida para se levantar. Um sucesso maior adicional pode ser usado para infligir o dano normalmente.
 
 ### Redirecionar
 
@@ -60,17 +60,17 @@ Um ataque preciso pode ser usado para empurrar seu oponente em uma direção esp
 
 ### Alvo Específico
 
-Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#conditions), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
+Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#condições), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
 
 <!--sort-end-->
 
 ## Armas Revestidas
 
-Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#application-methods)).
+Você pode revestir uma arma de luta com uma droga ou toxina, incluindo aquelas secretadas por wares como glândulas de veneno. Você só pode aplicar uma dose por vez. A próxima vez que você causar dano em um alvo com a arma, ele fica expostos à droga/toxina e a dose é consumida. Com uma falha crítica, você recebe a dose. Apenas drogas/toxinas com vetores dérmicos ou injetáveis podem ser aplicados dessa forma ([Métodos de Aplicação](../16/15-chemicals-drugs-and-toxins.md#métodos-de-aplicação)).
 
 ## Demolições
 
-Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermite](../16/18-mission-gear.md#salvage-tools) ou [granadas](10-seeker-weapons-and-grenades.md).
+Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dispositivos explosivos como [supertermite](../16/18-mission-gear.md#ferramentas-de-recuperação) ou [granadas](10-seeker-weapons-and-grenades.md).
 
 ### Instalando Explosivos
 
@@ -81,7 +81,7 @@ Se você pretende simplesmente criar uma explosão normal, nenhum teste de perí
 - Atingir um ponto fraco estrutural para ter um efeito específico, como destruir os suportes para derrubar a ponte ou arrombar um buraco no casco da nave sem matar todos dentro da sala. O MJ determina o efeito.
 - Tornar o desarmamento do explosivo mais difícil. Qualquer um que tentar desarmar deve vencer você em um Teste Oposto de Aparelhagem: Demolições.
 
-Perícias como Saber: Engenharia podem servir como perícias complementares ao Teste de Aparelhagem: Demolições ([Perícias Complementares](../04/20-know-skills.md#complementary-skills)), a critério do MJ.
+Perícias como Saber: Engenharia podem servir como perícias complementares ao Teste de Aparelhagem: Demolições ([Perícias Complementares](../04/20-know-skills.md#perícias-complementares)), a critério do MJ.
 
 ### Desarmando Explosivos
 
@@ -111,9 +111,9 @@ Você pode empunhar duas armas de uma vez em combate — ou até mais se estiver
 
 ### Armas de Luta Extras
 
-Se atacar múltiplos alvos em luta com a mesma ação complexa, simplesmente faça cada ataque separadamente ([Múltiplos Alvos](02-melee-combat.md#multiple-targets)).
+Se atacar múltiplos alvos em luta com a mesma ação complexa, simplesmente faça cada ataque separadamente ([Múltiplos Alvos](02-melee-combat.md#múltiplos-alvos)).
 
-Trate o uso de duas ou mais armas de luta contra um alvo como um único ataque, em vez de múltiplos. Cada arma adicional aplica +1d6&nbsp;VD ao ataque (até o máximo de +3d6). A penalidade para o [traço negativo Membro Dominante](../04/28-traits.md#dominant-limb) é ignorada nesse caso.
+Trate o uso de duas ou mais armas de luta contra um alvo como um único ataque, em vez de múltiplos. Cada arma adicional aplica +1d6&nbsp;VD ao ataque (até o máximo de +3d6). A penalidade para o [traço negativo Membro Dominante](../04/28-traits.md#membro-dominante) é ignorada nesse caso.
 
 Membros extras (além de 4) contam como armas extras para fins de combate desarmado, mas eles são contados em pares. Um biomorfo com um conjunto extra de braços, por exemplo, causaria VD 2d6 em combate desarmado, em vez do 1d6 padrão. Algumas outras armas (garras, luvas densiplast) também são contadas em pares nesse caso.
 

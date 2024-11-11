@@ -38,7 +38,7 @@ Perícias variam de 0 a 100.
 
 ## Categorias de Perícia
 
-Perícias também são atribuídas a uma série de categorias, conforme listado na [Lista de Perícias](19-active-skill-list.md#skill-list): Combate, Mental, Física, Psi, Social, Técnica e Veicular. Alguns traços, habilidades e modificadores se aplicam apenas a perícias de uma categoria específica.
+Perícias também são atribuídas a uma série de categorias, conforme listado na [Lista de Perícias](19-active-skill-list.md#lista-de-perícias): Combate, Mental, Física, Psi, Social, Técnica e Veicular. Alguns traços, habilidades e modificadores se aplicam apenas a perícias de uma categoria específica.
 
 ## Perícias de Área
 

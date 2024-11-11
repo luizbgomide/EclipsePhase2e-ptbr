@@ -12,7 +12,7 @@ As capacidades assincro só funcionam em um substrato biológico — o que signi
 
 ## Fragmentação Mental
 
-O processo da infecção teve um efeito permanente na mente do seu assincro. Ao ser infectado, você sofreu um colapso mental ou passou por um longo e lento processo de subversão mental. De qualquer forma, você adquiriu um traço negativo de [Vício](../04/28-traits.md#addiction) ou [Transtorno Mental](../04/28-traits.md#mental-disorder) de acordo com a sua [subcepa](02-watts-macleod-sub-strains.md) específica. Esse traço não fornece bônus de PP e é permanente — ele pode não ser eliminado com psicocirurgia ou Pontos de Rez.
+O processo da infecção teve um efeito permanente na mente do seu assincro. Ao ser infectado, você sofreu um colapso mental ou passou por um longo e lento processo de subversão mental. De qualquer forma, você adquiriu um traço negativo de [Vício](../04/28-traits.md#vício) ou [Transtorno Mental](../04/28-traits.md#transtorno-mental) de acordo com a sua [subcepa](02-watts-macleod-sub-strains.md) específica. Esse traço não fornece bônus de PP e é permanente — ele pode não ser eliminado com psicocirurgia ou Pontos de Rez.
 
 ## Truques
 
@@ -24,7 +24,7 @@ Você começa com um truque gratuito, escolhido entre aqueles disponíveis para 
 
 Seu assincro tem um Grau de Infecção que representa a influência do exovírus. Esse grau muda com o tempo, dependendo da frequência com que você usa suas habilidades.
 
-Seu Grau de Infecção base é igual seu nível do traço Psi × 10. Sempre que você usa truques psi-gama ou [força um truque](04-using-psi.md#pushing-sleights), seu Grau de Infecção aumenta ([Modificadores de Infecção](04-using-psi.md#infection-modifiers)). Sempre que você faz uma recarga, ele diminui ([Atenuação da Infecção](04-using-psi.md#easing-the-infection)).
+Seu Grau de Infecção base é igual seu nível do traço Psi × 10. Sempre que você usa truques psi-gama ou [força um truque](04-using-psi.md#forçando-truques), seu Grau de Infecção aumenta ([Modificadores de Infecção](04-using-psi.md#modificadores-de-infecção)). Sempre que você faz uma recarga, ele diminui ([Atenuação da Infecção](04-using-psi.md#atenuação-da-infecção)).
 
 <blockquote>
 

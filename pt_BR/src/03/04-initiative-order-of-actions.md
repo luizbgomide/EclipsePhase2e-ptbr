@@ -22,4 +22,4 @@ Se vários personagens que adiaram escolherem agir ao mesmo tempo, aquele com a 
 
 ## Ações Extras
 
-Você pode gastar [Vigor](05-pools.md#vigor) ou [Inspiração](05-pools.md#insight) para uma ter ação extra física ou mental a cada turno. Essas ações extras, complexas ou rápidas, acontecem no final do turno, depois que todos já agiram. Se vários personagens fizerem ações extras, elas são feitas em ordem de Iniciativa. Não é possível fazer mais que duas ações extras em um único turno de ação.
+Você pode gastar [Vigor](05-pools.md#vigor) ou [Inspiração](05-pools.md#inspiração) para uma ter ação extra física ou mental a cada turno. Essas ações extras, complexas ou rápidas, acontecem no final do turno, depois que todos já agiram. Se vários personagens fizerem ações extras, elas são feitas em ordem de Iniciativa. Não é possível fazer mais que duas ações extras em um único turno de ação.

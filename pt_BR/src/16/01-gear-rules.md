@@ -39,7 +39,7 @@ Assume-se que os equipamentos adquiridos através dos canais normais (Recursos, 
 
 As questões de tamanho, massa e carga são deixadas a cargo do bom senso do MJ. Lembre-se que o nível tecnológico de Eclipse Phase significa que muitos itens são menores e mais leves. Os MJs devem aplicar modificadores −10 a −30 de debilitação e movimento aos personagens que estão sobrecarregados. Lembre-se que personagens em ambientes de baixa ou microgravidade podem carregar e mover cargas maiores, embora o volume e inércia ainda sejam importantes.
 
-Os equipamentos usam o mesmo esquema de tamanho que os morfos ([Tamanhos](../12/21-other-action-factors.md#sizes)); todas as regras e modificadores relevantes são aplicáveis. Algumas outras considerações são indicadas aqui:
+Os equipamentos usam o mesmo esquema de tamanho que os morfos ([Tamanhos](../12/21-other-action-factors.md#tamanhos)); todas as regras e modificadores relevantes são aplicáveis. Algumas outras considerações são indicadas aqui:
 
 - Itens de tamanho nano não podem ser vistos sem um microscópio ou [visão nanoscópica](06-sensory-augmentations.md) e não pode ser manipulados sem [dedos fractais](11-physical-augmentations.md) ou ferramentas similares.
 - Objetos muito pequenos têm o traço Ocultável.
@@ -47,11 +47,11 @@ Os equipamentos usam o mesmo esquema de tamanho que os morfos ([Tamanhos](../12/
 
 ## Ocultando Equipamentos
 
-Para esconder um objeto dos outros, use a perícia Infiltração ou Perícia Exótica: Prestidigitação. Isso é oposto por Percepção. Objetos com o traço Ocultável adicionam um modificador +30. Se o buscador estiver conduzindo uma busca física minuciosa, trate como um ação de tarefa e aplique um modificador se ele [usar mais tempo](../03/03-actions-and-time.md#taking-time).
+Para esconder um objeto dos outros, use a perícia Infiltração ou Perícia Exótica: Prestidigitação. Isso é oposto por Percepção. Objetos com o traço Ocultável adicionam um modificador +30. Se o buscador estiver conduzindo uma busca física minuciosa, trate como um ação de tarefa e aplique um modificador se ele [usar mais tempo](../03/03-actions-and-time.md#aumentando-o-tempo).
 
 ## Equipamentos em Mesh
 
-A maioria das tecnologias estão em mesh sem fio com outros dispositivos ao redor ([A Mesh](../13/00-the-mesh.md)). Elas contém um computador miniaturizado, um transceptor sem fio, e possivelmente ligações laser ou via micro-ondas e/ou vários sensores. Elas podem ser [rastreadas pela mesh](../13/10-tracking.md#tracing-by-mesh-id), e são vulneráveis a hackeamento e tentativas de invasão, embora estejam protegidas por seu [firewall](../13/12-countermeasures.md#firewall) e pela [ILA](../13/07-ais-and-muses.md) do dispositivo. Por privacidade e segurança, a maioria das pessoas subordina seus dispositivos carregados e vestidos que fazem parte da sua rede de área pessoal (PAN) aos seus insertos da mesh ou ecto ([Dispositivos Subordinados](../13/02-mesh-topology.md#puppeted-devices)).
+A maioria das tecnologias estão em mesh sem fio com outros dispositivos ao redor ([A Mesh](../13/00-the-mesh.md)). Elas contém um computador miniaturizado, um transceptor sem fio, e possivelmente ligações laser ou via micro-ondas e/ou vários sensores. Elas podem ser [rastreadas pela mesh](../13/10-tracking.md#rastreando-por-mesh-id), e são vulneráveis a hackeamento e tentativas de invasão, embora estejam protegidas por seu [firewall](../13/12-countermeasures.md#firewall) e pela [ILA](../13/07-ais-and-muses.md) do dispositivo. Por privacidade e segurança, a maioria das pessoas subordina seus dispositivos carregados e vestidos que fazem parte da sua rede de área pessoal (PAN) aos seus insertos da mesh ou ecto ([Dispositivos Subordinados](../13/02-mesh-topology.md#dispositivos-subordinados)).
 
 A tabela Alcances de Rádios e Sensores indica o alcance operacional desses dispositivos.
 
@@ -59,7 +59,7 @@ A tabela Alcances de Rádios e Sensores indica o alcance operacional desses disp
 
 Os dispositivos comuns frequentemente não possuem controles visíveis — assume-se que o operador vai interfacear com o dispositivo usando realidade aumentada. Isso significa que os chamados “zeros”, sem ectos ou insertos da mesh, podem não conseguir interagir com eles ou usá-los. No entanto, é trivial adicionar interfaces de controle holográficas ou operadas por voz à maioria dos projetos, e itens feitos para situações de emergência, combate, sobrevivência ou exploração contarão com controles físicos básicos, por precaução.
 
-Quase todos os dispositivos estão carregados com um conjunto completo de arquivos de ajuda e tutoriais. A maioria também está equipada com [ILAs especializadas](../13/07-ais-and-muses.md#alis) que podem ajudá-lo ou operar o dispositivo por você.
+Quase todos os dispositivos estão carregados com um conjunto completo de arquivos de ajuda e tutoriais. A maioria também está equipada com [ILAs especializadas](../13/07-ais-and-muses.md#ilas) que podem ajudá-lo ou operar o dispositivo por você.
 
 ## Energia
 

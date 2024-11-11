@@ -20,13 +20,13 @@ Um enxame que se divide deve dividir sua DUR/GD entre as unidades menores que ag
 
 ### Movimento
 
-Os enxames se movem em uma velocidade muito lenta, 2/8 para microenxames e 1/4 para nanoenxames. Os cartuchos e colmeias os dispersam com força, como uma nuvem de aerossol, permitindo que eles rapidamente se espalhem. Os ácaros individuais são leves o suficiente para flutuar nas correntes de ar; alguns usam hélices de nanocóptero para se erguerem e impulsionarem. Outros ácaros rastejam ou pulam. Os ácaros devem rastejar no vácuo	(reduza seu movimento à metade) e nadar na água ou outros líquidos (trate como [movimento difícil](../12/24-movement.md#difficult-movement)). Eles são vulneráveis a correntes de ar; ventos/líquidos de alta velocidade podem impedir o movimento ou levar o enxame embora (a critério do MJ).
+Os enxames se movem em uma velocidade muito lenta, 2/8 para microenxames e 1/4 para nanoenxames. Os cartuchos e colmeias os dispersam com força, como uma nuvem de aerossol, permitindo que eles rapidamente se espalhem. Os ácaros individuais são leves o suficiente para flutuar nas correntes de ar; alguns usam hélices de nanocóptero para se erguerem e impulsionarem. Outros ácaros rastejam ou pulam. Os ácaros devem rastejar no vácuo	(reduza seu movimento à metade) e nadar na água ou outros líquidos (trate como [movimento difícil](../12/24-movement.md#movimento-difícil)). Eles são vulneráveis a correntes de ar; ventos/líquidos de alta velocidade podem impedir o movimento ou levar o enxame embora (a critério do MJ).
 
 Enxames dispersos podem ser recolhidos e reutilizados. Coletar todos os ácaros leva cerca de 1 minuto, mais se estiverem muito dispersos.
 
 ### Comandando Enxames
 
-A maioria dos enxames está na mesh, geralmente subordinadas à sua colmeia ou diretamente ao seu liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripting).
+A maioria dos enxames está na mesh, geralmente subordinadas à sua colmeia ou diretamente ao seu liberador. Você pode emitir comandos para o enxame e receber dados dele da mesma maneira que faria com um bot. Os enxames também podem ser programados com antecedência. Instruções complexas podem exigir um Teste de Programação; use as regras para [scripts](../13/06-mesh-actions.md#scripts).
 
 Para evitar que um enxame seja detectado por seus sinais da mesh, você pode instrui-lo para só transmitir mensagens/gravações compactadas em intervalos predefinidos, ou para apenas responder a sinais de autorização específicos.
 
@@ -44,7 +44,7 @@ Ventos acima de 60&nbsp;km/h infligem VD 1d10 por turno ou mais. A exposição p
 
 Em seu volume total, as unidades de enxame são consideradas alvos muito grandes, embora eles possam se comprimir para tamanhos menores. Ataques contra nanoenxames provavelmente sofrem modificadores por ataque às cegas. Enxames são imunes a ferimentos, ataques precisos, agarramentos, derrubadas, e efeitos de choque. Armas de área de efeito, ataques de fogo/plasma, e colisões de veículos infligem metade do dano. PEM e ataques adesivos (congeladores) infligem VD 3d10 aos enxames e um modificador −10 cumulativo em todas as ações até serem reparados. Todos os outros ataques simplesmente infligem 1&nbsp;VD ao enxame.
 
-**Ataques de Enxames:** A maioria dos ácaros não está equipada para combate, mas enxames de microbots, enxamenoides e enxames de insetos/animais podem atacar como uma unidade de enxame. Os ataques de luta e efeitos de enxames têm sucesso automaticamente contra todos os alvos dentro do volume do enxame. Os ataques de enxame penetram dentro e ignoram armadura a não ser que ela seja selada ambientalmente, como armadura de combate, trajes de vácuo ou trajes rígidos. Os ataques de enxame são [cegantes](../12/21-other-action-factors.md#conditions), pois os ácaros cobrem os olhos/sensores, rastejam sob as roupas, invadem orifícios, e atormentam os alvos como um tornado hostil. Os nanoenxames não podem atacar no sentido tradicional, mas enxames como desmanteladores e inoculadores possuem um efeito de ataque automaticamente aplicado aos alvos dentro do volume do enxame. No entanto, o combate tem seu custo sobre os enxames; eles recebem VD 1 por alvo a cada turno de ação.
+**Ataques de Enxames:** A maioria dos ácaros não está equipada para combate, mas enxames de microbots, enxamenoides e enxames de insetos/animais podem atacar como uma unidade de enxame. Os ataques de luta e efeitos de enxames têm sucesso automaticamente contra todos os alvos dentro do volume do enxame. Os ataques de enxame penetram dentro e ignoram armadura a não ser que ela seja selada ambientalmente, como armadura de combate, trajes de vácuo ou trajes rígidos. Os ataques de enxame são [cegantes](../12/21-other-action-factors.md#condições), pois os ácaros cobrem os olhos/sensores, rastejam sob as roupas, invadem orifícios, e atormentam os alvos como um tornado hostil. Os nanoenxames não podem atacar no sentido tradicional, mas enxames como desmanteladores e inoculadores possuem um efeito de ataque automaticamente aplicado aos alvos dentro do volume do enxame. No entanto, o combate tem seu custo sobre os enxames; eles recebem VD 1 por alvo a cada turno de ação.
 
 Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evitar carregar parte do enxame com você.
 
@@ -54,7 +54,7 @@ Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs dev
 
 ### Desgaste
 
-Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](19-nanotech.md#hives) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
+Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](19-nanotech.md#colmeias) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
 
 ## Enxames
 

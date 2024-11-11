@@ -38,7 +38,7 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </div></tr>
 
@@ -238,7 +238,7 @@
 - **Taxa de Movimento:** Asas 8/40, Marcha 2/8
 - **Wares:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </div></tr>
 
@@ -328,7 +328,7 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Wares:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </div></tr>
 
@@ -340,7 +340,7 @@
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Wares:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </div></tr>
 
@@ -354,7 +354,7 @@
 - **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
+- **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#colmeias)
 
 </div></tr>
 

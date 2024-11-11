@@ -2,11 +2,11 @@
 
 Onde as redes sociais se destacam é em seu valor na socialização para favores. Se você precisa obter conselhos de um especialista, encontrar alguém para resolver seus problemas, adquirir uma peça tecnológica no mercado negro, ou encontrar uma solução em conjunto, você pode recorrer aos seus contatos e a comunidade online em geral. Seu nível de rep reflete não só seu capital social, mas sua habilidade de usá-lo e manobrar por essa teia de conexões pessoais a impessoais para encontrar quem e o que você precisa.
 
-Em termos de jogo, você se aproveita das suas conexões e prestígio pessoal sempre que precisa de um favor. Um favor é definido de forma geral como qualquer coisa que você tente obter através dos outros na suas redes sociais, seja isso ajuda, produtos, ou informações. Diferentes tipos de favores são descritos em [Favores](#favors).
+Em termos de jogo, você se aproveita das suas conexões e prestígio pessoal sempre que precisa de um favor. Um favor é definido de forma geral como qualquer coisa que você tente obter através dos outros na suas redes sociais, seja isso ajuda, produtos, ou informações. Diferentes tipos de favores são descritos em [Favores](#favores).
 
 ## Usando Rep
 
-Para tentar conseguir um favor, você escolhe uma rede social e faz um Teste de Rep. Role o nível de Rep da mesma forma que uma perícia. O tipo de favor que você está pedindo pode impactar o teste; aplique os modificadores da tabela Testes de Rep. Da mesma forma, se você estiver tentando manter a discrição e não chamar atenção, outros modificadores são aplicáveis ([Mantendo a Discrição](#keeping-quiet)).
+Para tentar conseguir um favor, você escolhe uma rede social e faz um Teste de Rep. Role o nível de Rep da mesma forma que uma perícia. O tipo de favor que você está pedindo pode impactar o teste; aplique os modificadores da tabela Testes de Rep. Da mesma forma, se você estiver tentando manter a discrição e não chamar atenção, outros modificadores são aplicáveis ([Mantendo a Discrição](#mantendo-a-discrição)).
 
 Os Testes de Rep são ações de tarefa — leva tempo pedir favores ou chegar nas informações. O prazo depende do tipo de favor, como indicado na tabela Testes de Rep. Os MJs podem modificar isso como acharem adequado.
 
@@ -52,7 +52,7 @@ Em termos de jogo, você pode tentar manter a discrição sobre o que está faze
 
 ## Reputação & ID
 
-É importante notar que a reputação está intimamente ligada com a identidade. Se você está disfarçado e usando uma ID falsa, você corre o risco de se entregar se você usar seu nível de Rep normal. Você pode tentar minimizar isso, usando as regras de [Mantendo a Discrição](#keeping-quiet). No entanto, se alguém estiver farejando sua atividade na mesh, você pode ser descoberto.
+É importante notar que a reputação está intimamente ligada com a identidade. Se você está disfarçado e usando uma ID falsa, você corre o risco de se entregar se você usar seu nível de Rep normal. Você pode tentar minimizar isso, usando as regras de [Mantendo a Discrição](#mantendo-a-discrição). No entanto, se alguém estiver farejando sua atividade na mesh, você pode ser descoberto.
 
 As identidades falsas vêm com seus próprios níveis de rep, embora eles sejam mínimos (geralmente 10). Essa rep baixa é geralmente explicada por você ter sido reinstanciado recentemente ou ser novo na facção/rede. Você pode aumentar a rep da sua identidade falsa, que deve ser registrada separadamente. No entanto, isso pode ser considerado um esforço perdido, já que alguns alter egos são supostamente descartáveis.
 
@@ -62,7 +62,7 @@ As identidades falsas vêm com seus próprios níveis de rep, embora eles sejam 
 
 Jogadores criativos podem, sem dúvida, arrumar vários usos para suas redes sociais, mas alguns dos mais comuns estão detalhados aqui.
 
-Embora seja fácil lidar com favores de rep como uma rolagem rápida de dados, os MJs são encorajados a interpretar isso. Apesar das interações em redes sociais serem geralmente online, seja por mensagens, chamadas de vídeo, ou encontros em RV, elas ocasionalmente são resolvidas pessoalmente. O uso regular de uma rede social, especialmente para consultas relacionadas, podem fazer com que você lide com os mesmo PNJs repetidamente, talvez recrutando-o como um [contato](../04/28-traits.md#contact) depois de um tempo.
+Embora seja fácil lidar com favores de rep como uma rolagem rápida de dados, os MJs são encorajados a interpretar isso. Apesar das interações em redes sociais serem geralmente online, seja por mensagens, chamadas de vídeo, ou encontros em RV, elas ocasionalmente são resolvidas pessoalmente. O uso regular de uma rede social, especialmente para consultas relacionadas, podem fazer com que você lide com os mesmo PNJs repetidamente, talvez recrutando-o como um [contato](../04/28-traits.md#contato) depois de um tempo.
 
 ### Adquirir/Repassar Produtos
 
@@ -82,7 +82,7 @@ Quando você não tiver as perícias ou instrução necessárias, ou se você pr
 
 ### Adquirir Informações
 
-Quando você não puder encontrar as informações online, ou você não tiver tempo ou capacidade de procurar, você pode recorrer às pessoas na sua rede social e aproveitar a base de conhecimento acumulado delas. Esse tipo de investigação é especialmente útil para informações mais improváveis de estarem codificadas ou públicas online: fofocas, histórico pessoal de pessoas, dados confidenciais, notícias censuradas, e assim por diante. Você também pode usar esse tipo de favor para descobrir quais favores os outros estão pedindo, embora modificadores possam ser aplicáveis se eles estão cobrindo seus rastros e [mantendo a discrição](#keeping-quiet).
+Quando você não puder encontrar as informações online, ou você não tiver tempo ou capacidade de procurar, você pode recorrer às pessoas na sua rede social e aproveitar a base de conhecimento acumulado delas. Esse tipo de investigação é especialmente útil para informações mais improváveis de estarem codificadas ou públicas online: fofocas, histórico pessoal de pessoas, dados confidenciais, notícias censuradas, e assim por diante. Você também pode usar esse tipo de favor para descobrir quais favores os outros estão pedindo, embora modificadores possam ser aplicáveis se eles estão cobrindo seus rastros e [mantendo a discrição](#mantendo-a-discrição).
 
 ### Exemplos de Informações
 

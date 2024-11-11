@@ -14,7 +14,7 @@ PP podem ser gastos para aumentar graduações de aptidão ao custo de 1&nbsp;PP
 
 Você pode comprar qualquer um dos traços de ego listados em [Traços](28-traits.md). Traços positivos têm um custo de PP. Traços negativos lhe _dão_ um bônus de PP. Não podem ser comprados mais do que 6&nbsp;PP em traços negativos.
 
-Há muitos traços para escolher, por isso, se você não está familiarizado com eles ou não tem tempo de para vê-los, pule isso por enquanto e guarde alguns PP para comprar traços depois. Há listas de traços em [Traços Positivos](28-traits.md#positive-traits) e [Traços Negativos](28-traits.md#negative-traits).
+Há muitos traços para escolher, por isso, se você não está familiarizado com eles ou não tem tempo de para vê-los, pule isso por enquanto e guarde alguns PP para comprar traços depois. Há listas de traços em [Traços Positivos](28-traits.md#traços-positivos) e [Traços Negativos](28-traits.md#traços-negativos).
 
 Se você pegou o antecedente Perdido no Passo 1 ou o interesse Assincro no Passo 3, você _deve_ comprar o traço Psi.
 

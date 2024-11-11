@@ -58,7 +58,7 @@ Os códigos de ID digital são incorporados em backups e infomorfos. Não só is
 
 ### Outras Formas de ID
 
-Dado que os transumanos estão quase sempre em mesh, sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id) serve como um identificador único e já serviu como prova de identidade em casos criminais e legais. As mesh ID pode ser usada para rastrear ou revelar informações sobre você, embora elas também possam ser [mascaradas](../13/05-authentication-and-encryption.md#spoofing).
+Dado que os transumanos estão quase sempre em mesh, sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id) serve como um identificador único e já serviu como prova de identidade em casos criminais e legais. As mesh ID pode ser usada para rastrear ou revelar informações sobre você, embora elas também possam ser [mascaradas](../13/05-authentication-and-encryption.md#mascaramento).
 
 Alguns habitats continuam a depender de tecnologias de ID antigas, como cartões de identificação ou chips embutidos sem fio. Os jovianos, em especial, usam primariamente chips de identificação sem fio, devido a sua oposição ao reencape e nanotecnologia.
 
@@ -68,7 +68,7 @@ Os sentinelas da Firewall e agentes clandestinos frequentemente precisam esconde
 
 ### IDs Falsas
 
-A maneira mais simples de contornar verificações de segurança é estabelecer uma [ID falsa](../16/04-services.md#physical-services). Dado a natureza fragmentada dos registros de identidade e falta de uma autoridade centralizada, isso não é tão difícil. Inúmeros sindicatos de crimes e até mesmo alguns grupos autonomistas mantêm um próspero negócio de fabricação de IDs, muitas vezes com históricos completos e coberturas médicas para implantes que podem ser restritos ou ilegais.
+A maneira mais simples de contornar verificações de segurança é estabelecer uma [ID falsa](../16/04-services.md#serviços-físicos). Dado a natureza fragmentada dos registros de identidade e falta de uma autoridade centralizada, isso não é tão difícil. Inúmeros sindicatos de crimes e até mesmo alguns grupos autonomistas mantêm um próspero negócio de fabricação de IDs, muitas vezes com históricos completos e coberturas médicas para implantes que podem ser restritos ou ilegais.
 
 Essas IDs estão geralmente registradas em habitats que são paraísos criminosos notórios, têm simpatias autonomistas, ou são isolados e remotos. Embora a ID seja realmente verificável e registrada nessas estações, as prováveis origens suspeitas dessas IDs são conhecidas pela maioria das autoridades de sistemas interiores, portanto os personagens podem estar expostos a uma maior fiscalização ou monitoramento. IDs falsas com registro de autoridades mais respeitadas podem ser adquiridas, mas isso geralmente exige mais gastos ou conexões com operações clandestinas de hipercorps.
 

@@ -8,7 +8,7 @@ Em vez expedições detalhadas de compras, Eclipse Phase oferece várias opçõe
 
 ## Missões e Pontos de Equipamento
 
-Pontos de Equipamentos (PE) funcionam de forma similar a [Pontos de Morfo](../15/03-acquiring-morphs.md#determining-morph-points) — o MJ atribui um número de PE para cada personagem em cada missão, que podem ser utilizados para adquirir equipamentos. O valor de PE dos equipamentos é baseado em sua complexidade, como indicado na tabela Valor em Pontos de Equipamento.
+Pontos de Equipamentos (PE) funcionam de forma similar a [Pontos de Morfo](../15/03-acquiring-morphs.md#determinando-pontos-de-morfo) — o MJ atribui um número de PE para cada personagem em cada missão, que podem ser utilizados para adquirir equipamentos. O valor de PE dos equipamentos é baseado em sua complexidade, como indicado na tabela Valor em Pontos de Equipamento.
 
 Os Pontos de Equipamento da missão são uma abstração baseada nos recursos disponíveis para a equipe para essa missão específica. Isso é particularmente relevante em aventuras onde os PJs precisam egoprojetar, e portanto não podem levar seu próprio equipamento. Há vários fatores que o MJ deve considerar aqui. A equipe está dependendo dos próprios recursos, ou eles têm uma organização ou patrono que está bancando a operação? Eles têm tempo para se preparar e reunir o que precisam, ou eles estão operando com prazos urgentes? O tipo de equipamento que eles precisam é abundante e fácil de conseguir onde eles estão indo, ou ele é altamente controlado e restrito?
 
@@ -49,7 +49,7 @@ Há duas formas de aumentar seu PE disponível:
 Nenhuma missão sobrevive o primeiro contato com o inimigo, e nenhum plano de logística pode antecipar tudo. Mais cedo ou mais tarde, seus PJs vão precisar adquirir equipamentos enquanto eles estiverem no meio de uma operação:
 
 - **Usar Rep:** Tenha sucesso em um Teste de Rep e use um favor apropriado. O favor é Menor para itens de complexidade Menor, Moderado para itens Moderados, e Maior para itens Maiores ([Socialização](../15/13-networking.md)).
-- **Usar o Traço Recursos:** Gaste moeda para comprá-lo ([Recursos](../04/28-traits.md#resources)).
+- **Usar o Traço Recursos:** Gaste moeda para comprá-lo ([Recursos](../04/28-traits.md#recursos)).
 - **Use um Nanofabricador:** Faça você mesmo. Isso requer diagramas (ou a perícia Programação para fazer você mesmo) e acesso a um nanofabro funcional ([Nanofabricação](03-nanofabrication.md)).
 
 ### Prazo de Aquisição
@@ -72,7 +72,7 @@ Se o teste (se houver) for bem-sucedido, você adquire/compra/faz o equipamento 
 
 ### Físico vs. Diagrama
 
-Quando usar rep ou Recursos para adquirir equipamentos, você escolhe entre um item físico ou um diagrama de uso único acessado através de uma plataforma de distribuição digital ([Obtendo Diagramas](03-nanofabrication.md#getting-blueprints)). Diagramas de uso único tem um prazo muito mais rápido (1 minuto). Se o MJ permitir, você pode adquirir um diagrama de uso limitado, em vez de uso único. Diagramas de uso múltiplo também estão disponíveis, mas são mais difíceis de conseguir; aumente a complexidade em um grau (ou seja, Menor se torna Moderada). Para simplificar, assume-se que diagramas de uso múltiplo venham com uma cópia física do item.
+Quando usar rep ou Recursos para adquirir equipamentos, você escolhe entre um item físico ou um diagrama de uso único acessado através de uma plataforma de distribuição digital ([Obtendo Diagramas](03-nanofabrication.md#obtendo-diagramas)). Diagramas de uso único tem um prazo muito mais rápido (1 minuto). Se o MJ permitir, você pode adquirir um diagrama de uso limitado, em vez de uso único. Diagramas de uso múltiplo também estão disponíveis, mas são mais difíceis de conseguir; aumente a complexidade em um grau (ou seja, Menor se torna Moderada). Para simplificar, assume-se que diagramas de uso múltiplo venham com uma cópia física do item.
 
 Quando adquirir programas ou outros produtos puramente digitais, o prazo de 1 minuto também se aplica.
 

@@ -18,7 +18,7 @@ Parte do processo de adaptação não é apenas entender como o seu novo morfo f
 
 ### Alienação
 
-Seu senso mental de si mesmo acompanha sua aclimatação fisiológica. Você pode levar algum tempo para se acostumar com o novo rosto no espelho — na verdade, alguns nunca o fazem. Superar esse sentimento de alienação muitas vezes demora mais do que a integração física: uma semana, às vezes várias. Embora isso cause menos complicações diárias, esse sentimento de identidade fragmentada pode ser corrosivo a longo prazo. Algumas pessoas lidam com isso fazendo reencapes frequentes, se aclimatando com um identidade efêmera. No entanto, outros desenvolvem [dismorfia corporal](../12/20-disorders.md#body-dysmorphia), nunca se sentindo confortável em sua própria pele.
+Seu senso mental de si mesmo acompanha sua aclimatação fisiológica. Você pode levar algum tempo para se acostumar com o novo rosto no espelho — na verdade, alguns nunca o fazem. Superar esse sentimento de alienação muitas vezes demora mais do que a integração física: uma semana, às vezes várias. Embora isso cause menos complicações diárias, esse sentimento de identidade fragmentada pode ser corrosivo a longo prazo. Algumas pessoas lidam com isso fazendo reencapes frequentes, se aclimatando com um identidade efêmera. No entanto, outros desenvolvem [dismorfia corporal](../12/20-disorders.md#dismorfia-corporal), nunca se sentindo confortável em sua própria pele.
 
 ### Continuidade
 

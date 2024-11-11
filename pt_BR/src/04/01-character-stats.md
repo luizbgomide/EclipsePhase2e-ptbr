@@ -87,11 +87,11 @@ Vários dos seus atributos são derivados de outros atributos ou aspectos do seu
 - **Limiar de Ferimento (LF):** A quantidade de danos que você pode aguentar antes de receber um ferimento. [Saúde Física](../12/16-physical-health.md).
 - **Durabilidade (DUR):** A saúde do seu personagem, determinada pelo seu morfo. [Saúde Física](../12/16-physical-health.md).
 - **Grau de Destruição (GD):** A quantidade de dano que é preciso para matar você, determinada pelo morfo. [Saúde Física](../12/16-physical-health.md).
-- **Limiar de Trauma (LT):** A quantidade de estresse que você pode aguentar antes de receber um trauma. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
-- **Lucidez (LUC):** A saúde mental do seu personagem, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
-- **Grau de Insanidade (GI):** A quantidade de estresse o deixará insano, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidity-and-stress).
+- **Limiar de Trauma (LT):** A quantidade de estresse que você pode aguentar antes de receber um trauma. [Lucidez e Estresse](../12/18-mental-health.md#lucidez-e-estresse).
+- **Lucidez (LUC):** A saúde mental do seu personagem, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidez-e-estresse).
+- **Grau de Insanidade (GI):** A quantidade de estresse o deixará insano, baseada em Vontade. [Lucidez e Estresse](../12/18-mental-health.md#lucidez-e-estresse).
 - **Paradas:** Suas paradas de Inspiração, Manha, Vigor e Flex, a maioria derivada do seu morfo, com um bônus em Flex do seu ego. [Paradas](../03/05-pools.md).
-- **Grau de Infecção:** Se interpretar um assincro, seu Grau de Infecção indica a força do controle do vírus sobre você. [Grau de Infecção](../14/01-psi-overview.md#infection-rating).
+- **Grau de Infecção:** Se interpretar um assincro, seu Grau de Infecção indica a força do controle do vírus sobre você. [Grau de Infecção](../14/01-psi-overview.md#grau-de-infecção).
 
 <blockquote class="table">
 

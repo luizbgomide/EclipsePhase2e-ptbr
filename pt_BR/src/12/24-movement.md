@@ -52,11 +52,11 @@ Escalar, nadar, rastejar, ou se mover de alguma outra forma que não seja o mét
 
 **\[Tarefa\]**
 
-Alguns movimentos são bem mais desafiadores: escalar uma parede íngreme, esgueirar-se silenciosamente, nadar contra correntezas, atravessar uma viga fina sobre um abismo ou navegar por um labirinto de fios elétricos em microgravidade. Trate qualquer movimento que exija um teste como uma [ação de tarefa](../03/03-actions-and-time.md#task-actions) com um prazo determinado pelo MJ. Como regra geral, o prazo deve ser o dobro ou mais tempo do que demoraria para o personagem cruzar uma distância igual por meios normais.
+Alguns movimentos são bem mais desafiadores: escalar uma parede íngreme, esgueirar-se silenciosamente, nadar contra correntezas, atravessar uma viga fina sobre um abismo ou navegar por um labirinto de fios elétricos em microgravidade. Trate qualquer movimento que exija um teste como uma [ação de tarefa](../03/03-actions-and-time.md#ações-de-tarefa) com um prazo determinado pelo MJ. Como regra geral, o prazo deve ser o dobro ou mais tempo do que demoraria para o personagem cruzar uma distância igual por meios normais.
 
 ### Movimento em Gravidades Diferentes
 
-As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](28-environmental-factors.md#gravity)), as coisas mudam.
+As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](28-environmental-factors.md#gravidade)), as coisas mudam.
 
 Se você está escalando, puxando ou empurrando para se mover em microgravidade, você se move com metade da sua Taxa de Movimento de marcha (ex.: 4/20 se torna 2/10). Você também pode saltar qualquer distância, embora você cruze em uma taxa de movimento igual a ação de movimento de quando você saltou.
 

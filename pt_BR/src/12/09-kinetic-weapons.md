@@ -92,9 +92,9 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
 
-**Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e minibocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](04-ranged-combat.md#indirect-fire), mas sem o modificador para acertar.
+**Guiada:** Essa bala identifica um alvo marcado pela ligação inteligente e usa nanosensores e telemetria de balas anteriores para localizá-lo, corrigindo a trajetória da bala com alterações de superfície e minibocais vetoriais. Aplique um modificador +10 para acertar em ataques após uma ação de pontaria (cumulativo com o modificador de pontaria) ou um ataque anterior contra o mesmo alvo. Balas guiadas também pode ser usadas para [tiro indireto](04-ranged-combat.md#tiro-indireto), mas sem o modificador para acertar.
 
-**Bloqueadora:** Munição bloqueadora gruda no alvo e pulsa sinais de bloqueio eletromagnético, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
+**Bloqueadora:** Munição bloqueadora gruda no alvo e pulsa sinais de bloqueio eletromagnético, bloqueando a comunicação sem fio do alvo com Interface 40 ([Bloquear Sinais](../13/13-system-subversion.md#bloquear-sinais)). Elas são difíceis de remover, exigindo uma ação de tarefa de Aparelhagem: Eletrônica (10 turnos de ação) ou o uso de um nanoenxame reparador, desmantelador ou sabotador.
 
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 

@@ -6,7 +6,7 @@ Há dois tipos de teste em Eclipse Phase: de sucesso e opostos.
 
 Testes de sucesso são o tipo de teste mais comum. Use-os sempre que seu personagem agir sem oposição direta. A maioria dos testes de perícia, testes de rep na rede e verificações de aptidão são tratados como testes de sucesso e requerem uma ação rápida ou complexa para serem feitos.
 
-Os testes de sucesso são descritos em [Fazendo Testes](01-how-to-play.md#making-tests).
+Os testes de sucesso são descritos em [Fazendo Testes](01-how-to-play.md#fazendo-testes).
 
 ### Tentando Novamente
 

@@ -61,7 +61,7 @@ Uma variedade de criaturas transgênicas, hackeadas geneticamente, e neogenétic
 
 **Casaco de Pele:** O chamado “casaco de pele” é um agasalho feito de um organismo primitivo vivo. As peles, pelagens, ou escamas da criatura são reais. O organismo é cultivado a partir de estoques transgênicos e crescidos em moldes no formato de roupas, geralmente com utilidades reais: parcas de urso polar, traje de mergulho de foca, casacos de porco-espinho, etc. Os casacos de peles são modificados com controles sem fio e sistemas táteis, para que possam se mover, arrepiar, massagear ou se espetar quando desejado.
 
-**Enxame Polinizador:** Variações geneticamente modificadas e mescladas de abelhas e vespas polinizam os jardins dos habitats. Eles também produzem mel, caçam outros insetos, aparam folhas e coletam detritos. Embora não sejam agressivos, alguns foram modificados para serem assassinos ou guardiões. Eles seguem as [regras de enxames](20-nanoswarms-and-microswarms.md#swarm-rules).
+**Enxame Polinizador:** Variações geneticamente modificadas e mescladas de abelhas e vespas polinizam os jardins dos habitats. Eles também produzem mel, caçam outros insetos, aparam folhas e coletam detritos. Embora não sejam agressivos, alguns foram modificados para serem assassinos ou guardiões. Eles seguem as [regras de enxames](20-nanoswarms-and-microswarms.md#regras-de-enxames).
 
 **Barata Espacial:** Crescidas até o tamanho de um cachorro pequeno, esses insetos geralmente são bioesculpidos para terem cores e padrões brilhantes. Eles são usados como animais de estimação e úteis para pequenas funções de zeladoria.
 

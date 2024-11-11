@@ -4,7 +4,7 @@ Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com ci
 
 ## Precondições
 
-Para hackear um cibercérebro, você deve ser capaz de acessar o cibercérebro em si. A maioria dos cibercérebros estão ligados aos insertos da mesh e subordinados à PAN do usuário, então eles podem ser acessados sem fios se a PAN for hackeada primeiro. Os cibercérebros também são equipados como soquetes de acesso no exterior do morfo, então, se você tem acesso físico ao morfo, você pode plugar e acessar através de uma conexão cabeada. Se o indivíduo não quiser ou não estiver incapacitado, você deve primeiro [agarrar](../12/02-melee-combat.md#grappling) o alvo com sucesso.
+Para hackear um cibercérebro, você deve ser capaz de acessar o cibercérebro em si. A maioria dos cibercérebros estão ligados aos insertos da mesh e subordinados à PAN do usuário, então eles podem ser acessados sem fios se a PAN for hackeada primeiro. Os cibercérebros também são equipados como soquetes de acesso no exterior do morfo, então, se você tem acesso físico ao morfo, você pode plugar e acessar através de uma conexão cabeada. Se o indivíduo não quiser ou não estiver incapacitado, você deve primeiro [agarrar](../12/02-melee-combat.md#agarramentos) o alvo com sucesso.
 
 Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu dispositivo habitado. Isso pode significar que você precisa primeiro hackear o dispositivo no qual o infomorfo está sendo executado.
 
@@ -28,7 +28,7 @@ Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, 
 
 ### Controlar Ware (Cibercérebro)
 
-Como em [Controlar Ware](13-system-subversion.md#control-ware).
+Como em [Controlar Ware](13-system-subversion.md#controlar-ware).
 
 ### Copiar Ego
 
@@ -56,19 +56,19 @@ Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro r
 
 ### Manipular Fantoche (Cibercérebro)
 
-Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#remote-operations)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
+Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim como um bot ([Operações Remotas](../16/21-robots.md#operação-remota)). Se o ego residente não estiver preso com um app de caixa-forte, ele pode tentar combater as tentativas de manipular o morfo como uma ação automática — você também pode combater as ações tentadas pelo ego. Faça um teste oposto colocando a Prova de VON do ego contra sua perícia Interface. Se o oponente vencer, nenhuma ação é feita. Morfos com cibercérebros presos ainda podem ser manipulados. No entanto, se o cibercérebro estiver desligado, nenhuma manipulação é possível.
 
 ### Afligir Ego
 
-O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para tipos de ataques que normalmente não são viáveis devido a filtragem rigorosa de conteúdo. Você realiza tais ataques usando [aflitivos](../16/13-apps-and-alis.md#scorchers) — apps hostis que empregam rotinas danosas de neurorretroalimentação.
+O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para tipos de ataques que normalmente não são viáveis devido a filtragem rigorosa de conteúdo. Você realiza tais ataques usando [aflitivos](../16/13-apps-and-alis.md#aflitivos) — apps hostis que empregam rotinas danosas de neurorretroalimentação.
 
 ### Desligar
 
-Cibercérebros e infomorfos podem ser desativados, assim como outros sistemas ([Reinicializar/Desligar](12-countermeasures.md#rebootshutdown)) — isso inclui desligamentos diretos. Se um cibercérebro é desligado, seu morfo vai congelar no lugar ou cairá. Morfos desligados não podem ser manipulados como fantoche.
+Cibercérebros e infomorfos podem ser desativados, assim como outros sistemas ([Reinicializar/Desligar](12-countermeasures.md#reinicializardesligar)) — isso inclui desligamentos diretos. Se um cibercérebro é desligado, seu morfo vai congelar no lugar ou cairá. Morfos desligados não podem ser manipulados como fantoche.
 
 ### Grampear Sentidos
 
-Como em [Grampear Sentidos](13-system-subversion.md#tap-senses).
+Como em [Grampear Sentidos](13-system-subversion.md#grampear-sentidos).
 
 ### Encerrar Fluxo da Pilha Cortical
 

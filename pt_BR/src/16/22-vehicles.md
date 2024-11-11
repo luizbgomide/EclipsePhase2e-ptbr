@@ -31,7 +31,7 @@ Alguns aprimoramentos são projetados especificamente para veículos, embora alg
 
 **Suporte Vital:** O veículo possui um compartimento pressurizado aquecido/resfriado com ar capaz de suportar um ou mais biomorfos confortavelmente pelo período indicado. Tais veículos possuem vedações ambientais herméticas, mas geralmente não possuem câmaras de ar completas com duas portas. O período do suporte vital indicado é apropriado para a capacidade de passageiros de tamanho médio do veículo; ajuste conforme o necessário para mais/menos passageiros ou passageiros maiores/menores. A maioria dos sistemas de suporte vital é projetada para durar 48 horas, períodos maiores exigem tanques adicionais.
 
-**Aríete:** Uma pesada placa de metal é fixada na frente, para bater em outros veículos. Aumente o VD infligido no outro veículo por +2d10 ([Colisões](../12/25-vehicle-movement.md#collisions)).
+**Aríete:** Uma pesada placa de metal é fixada na frente, para bater em outros veículos. Aumente o VD infligido no outro veículo por +2d10 ([Colisões](../12/25-vehicle-movement.md#colisões)).
 
 <!--sort-end-->
 

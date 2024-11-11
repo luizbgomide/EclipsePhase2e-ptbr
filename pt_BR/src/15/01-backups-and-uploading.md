@@ -2,7 +2,7 @@
 
 Um backup é um registro completo de um ego transumano — personalidade, memórias, perícias e tudo mais que torna você _você_, além do seu corpo físico. Ele também inclui todas as informações das conexões neuronais do seu cérebro. Isso é necessário para emular seu ego digitalmente ou imprimi-lo no cérebro de um novo morfo.
 
-O uso primário de um backup é não permanecer morto. Seu backup pode ser [reencapado](02-resleeving.md) em um novo morfo ou executado como um [infomorfo](../13/08-infomorphs.md), talvez como um [forque](04-forking-and-merging.md#types-of-forks) do seu eu original. Você também pode egoprojetar-se pelo Sistema Solar como uma alternativa às longas e lentas [viagens espaciais](09-space-travel.md).
+O uso primário de um backup é não permanecer morto. Seu backup pode ser [reencapado](02-resleeving.md) em um novo morfo ou executado como um [infomorfo](../13/08-infomorphs.md), talvez como um [forque](04-forking-and-merging.md#tipos-de-forques) do seu eu original. Você também pode egoprojetar-se pelo Sistema Solar como uma alternativa às longas e lentas [viagens espaciais](09-space-travel.md).
 
 Fora os cientistas excêntricos que mantêm cérebros em tanques, quase todos os backups existem em uma de duas formas: backups de _pilha cortical_ e backups de _upload_. Como os backups são egos transumanos armazenados por completo, o termo _ego_ também é usado para isso. “Backup” implica que o ego será mantido em armazenamento, enquanto “ego” implica que ele será executado como infomorfo, reencapado, egoprojetado ou algo parecido.
 
@@ -80,4 +80,4 @@ Para pessoas com recursos, serviços adicionais podem ser oferecidos, incluindo 
 
 ### Personagens Sem Seguro
 
-Se você tiver o traço [Nenhum Seguro de Backup](../04/28-traits.md#no-backup-insurance), você não tem um plano de contingência em vigor. Você deve tentar morrer em território titaniano ou anarquista, pois eles provavelmente vão trazê-lo de volta. Em espaço de hipercorp, personagens sem seguro podem receber ofertas de um contrato de arrendamento ou ficarem armazenados até que alguém os reivindique. Em outros lugares, a sua pilha pode simplesmente ser destruída ou vendida no mercado negro. Sem um plano, a morte pode ser o fim do seu personagem.
+Se você tiver o traço [Nenhum Seguro de Backup](../04/28-traits.md#nenhum-seguro-de-backup), você não tem um plano de contingência em vigor. Você deve tentar morrer em território titaniano ou anarquista, pois eles provavelmente vão trazê-lo de volta. Em espaço de hipercorp, personagens sem seguro podem receber ofertas de um contrato de arrendamento ou ficarem armazenados até que alguém os reivindique. Em outros lugares, a sua pilha pode simplesmente ser destruída ou vendida no mercado negro. Sem um plano, a morte pode ser o fim do seu personagem.

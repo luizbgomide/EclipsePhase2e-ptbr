@@ -1,6 +1,6 @@
 # Mods de Armaduras
 
-Modificações de armaduras adicionam materiais ou revestimentos extras que melhoram a resistência a certos perigos ou fornecem outros efeitos. As listagens são para revestimentos temporários, que podem ser aplicados a vestuários, armaduras ou até mesmo diretamente na pele ou carcaça do morfo com um aplicador nanobot em spray, eles são facilmente removidos e duram 1 dia. Revestimentos permanentes requerem uma [colmeia especializada](../16/19-nanotech.md#hives). Com a exceção do revestimento camaleão, os mods de armadura são visíveis e facilmente identificados. Apenas um mod pode ser aplicado por vez.
+Modificações de armaduras adicionam materiais ou revestimentos extras que melhoram a resistência a certos perigos ou fornecem outros efeitos. As listagens são para revestimentos temporários, que podem ser aplicados a vestuários, armaduras ou até mesmo diretamente na pele ou carcaça do morfo com um aplicador nanobot em spray, eles são facilmente removidos e duram 1 dia. Revestimentos permanentes requerem uma [colmeia especializada](../16/19-nanotech.md#colmeias). Com a exceção do revestimento camaleão, os mods de armadura são visíveis e facilmente identificados. Apenas um mod pode ser aplicado por vez.
 
 <!--sort-->
 
@@ -35,7 +35,7 @@ Modificações de armaduras adicionam materiais ou revestimentos extras que melh
 
 **Médico/Reparador:** Para biomorfos o revestimento médico interrompe o fluxo de sangue, sela lesões, e trata ferimentos com células-tronco e nanobots médicos. O mod reparador faz o mesmo para sintemorfos, reparando conexões rompidas e reconstruindo a carcaça e mecanismos internos. Ambos anulam os modificadores de 1 ferimento e reparam VD 1d10 por hora.
 
-**Ofensivo:** Quando ativada, essa camada aplica um choque em qualquer pessoa ou coisa que entrar em contato. Trate como um [ataque de choque](15-special-attacks.md#shock-attacks).
+**Ofensivo:** Quando ativada, essa camada aplica um choque em qualquer pessoa ou coisa que entrar em contato. Trate como um [ataque de choque](15-special-attacks.md#ataques-de-choque).
 
 **Reativo:** Essa colônia de nanobots sente ataques iminentes e detona para atrapalhar o ataque. Explosões e fogo totalmente automático são tratados como um único ataque. O revestimento reativo aumenta o Valor de Armadura em +3/+3, mas cada detonação automaticamente inflige 1 ponto de dano ao usuário. A armadura reativa também funciona contra ataques de luta, infligindo VD 1d6 ao atacante com uma microexplosão. Um revestimento reativo funciona apenas contra 5 ataques (uma colmeia especializada repara isso à taxa de 1 uso por hora).
 

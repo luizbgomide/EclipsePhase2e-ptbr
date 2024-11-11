@@ -1,12 +1,12 @@
 # Robôs
 
-Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](#remote-operations). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](05-common-tech-and-ware.md#standard-augmentations).
+Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. Inúmeras variedades existem, desde robôs mascotes até trabalhadores mecânicos e bots de guerra. Se um trabalho pode ser feito de forma mais barata (e talvez mais segura) por um bot, ele geralmente é. Os robôs listados aqui não são comumente usados como carcaças sintéticas por egos transumanos, muitas vezes por razões culturais (encapar um chapeado é ruim o bastante, encapar um bichinho é apenas… estranho), e eles não estão equipados para serem encapados, apesar de poderem ser [operados remotamente](#operação-remota). No entanto, qualquer um destes bots pode ser modificado para ser usado como um morfo sintético, adicionando um [sistema de cibercérebro](05-common-tech-and-ware.md#ampliações-comuns).
 
 A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de “rosto” abstrato para interagir, de modo a não serem “máquinas” demais.
 
 ## Wares Robóticos
 
-Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam [equipawares veiculares](22-vehicles.md#vehicle-hardware).
+Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam [equipawares veiculares](22-vehicles.md#equipawares-veiculares).
 
 | TODOS OS ROBÔS                                                                                                                                        |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,13 +21,13 @@ Você pode controlar um drone em _modo autônomo_ ou diretamente por _encarnaç�
 
 ### Modo Autônomo
 
-As carcaças de bots e veículos estão equipadas com [ILA de Bot/Veículo](13-apps-and-alis.md#alis-and-muses). Em modo autônomo, a IA do drone opera por conta própria, embora ela também siga comandos dados verbalmente ou através de uma ligação de comunicação ou painel de controle entóptico por uma entidade autorizada. Emitir um comando de uma frase é uma ação rápida mental; comandos podem ser emitidos para vários drones de uma só vez. Comandos mais complexos podem demorar mais, ou podem ser preparados com antecedência com um Teste de Programação. Talvez a IA precise passar em uma Prova de COG para entender comandos particularmente confusos ou incompletos.
+As carcaças de bots e veículos estão equipadas com [ILA de Bot/Veículo](13-apps-and-alis.md#ilas-e-musas). Em modo autônomo, a IA do drone opera por conta própria, embora ela também siga comandos dados verbalmente ou através de uma ligação de comunicação ou painel de controle entóptico por uma entidade autorizada. Emitir um comando de uma frase é uma ação rápida mental; comandos podem ser emitidos para vários drones de uma só vez. Comandos mais complexos podem demorar mais, ou podem ser preparados com antecedência com um Teste de Programação. Talvez a IA precise passar em uma Prova de COG para entender comandos particularmente confusos ou incompletos.
 
 Drones autônomos usam sua própria Iniciativa, perícias e paradas.
 
 ### Encarnação
 
-Você encarna um drone imergindo em uma sobreposição de RA do corpo e sensório do drone, incluindo propriocepção — você essencialmente se torna o drone. Engajar ou desengajar do modo encarnação é uma ação rápida. Enquanto imerso, você sofre um modificador −30 em Testes de Percepção e ações físicas envolvendo seu próprio morfo. A encarnação se parece muito com um reencape, e você deve fazer um [Teste de Integração](../15/02-resleeving.md#integration-test) para aclimatar a forma do drone.
+Você encarna um drone imergindo em uma sobreposição de RA do corpo e sensório do drone, incluindo propriocepção — você essencialmente se torna o drone. Engajar ou desengajar do modo encarnação é uma ação rápida. Enquanto imerso, você sofre um modificador −30 em Testes de Percepção e ações físicas envolvendo seu próprio morfo. A encarnação se parece muito com um reencape, e você deve fazer um [Teste de Integração](../15/02-resleeving.md#teste-de-integração) para aclimatar a forma do drone.
 
 Trate a encarnação da mesma forma como se tivesse encapado o drone; use as paradas do drone em vez das do seu morfo. No entanto, como a encarnação é um pouco inferior ao encape real, você sofre um modificador −10 em todas as ações (a não ser que esteja equipado com [acoplagem drone](08-mental-augmentations.md)).
 
@@ -312,7 +312,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Mosquito:** Os mosquitos são pequenos drones de câmera/vigilância com rotores. Muitas pessoas usam mosquitos para lifelogs pessoais, enquanto socialites e a mídia os usam para capturar o glamour e últimas novidades.
 
-**Disco:** Esses drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#ionic). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
+**Disco:** Esses drones em formato de disco são leves e silenciosos. Eles são geralmente lançados como um frisbee, e então ativam a propulsão usando um [motor iônico](../12/24-movement.md#iônico). Os discos são excelentes como vigias e monitores de circuitos de vigilância.
 
 **Pontinho:** Os pontinhos são drones espiões insectoides muito pequenos, aproximadamente do tamanho de uma pequena mosca-das-frutas. Eles voam com asas minúsculas e são excelentes para fins de vigilância ou serem apenas um “pontinho na parede”. Os pontinhos são difíceis de serem notados (modificador −30 em Percepção) e quase impossíveis de distinguir de um inseto real.
 

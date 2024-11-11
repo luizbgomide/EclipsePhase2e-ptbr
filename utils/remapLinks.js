@@ -4,7 +4,7 @@ const path = require("path");
 const mappedLinksFile = "mapped-links.txt";
 
 
-const linkRE = /(?!\\)\[[^\]]+?\]\(([^)]+?)\)/gm;
+const linkRE = /(?!\\)\[(?:\\\]|[^\]])+?\]\((.+?)\)/gm;
 
 const blockquoteRE = /\<blockquote.*?\<\/blockquote\>/gs;
 

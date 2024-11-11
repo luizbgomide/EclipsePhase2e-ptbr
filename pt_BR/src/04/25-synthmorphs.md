@@ -16,7 +16,7 @@ Carcaças não precisam se preocupar com trivialidades como respirar, comer, def
 
 ### Filtro de Dor
 
-Sintemorfos por filtrar os receptores de dor, para eles não serem prejudicados por ferimentos ou dano físico. Isso permite que eles ignorem o modificador −10 de 1 ferimento ([Efeitos de Ferimento](../12/16-physical-health.md#wound-effects)), mas eles sofrem −30 em qualquer Teste de Percepção baseado em tato e não vão nem notar se forem feridos a menos que tenham sucesso em um Teste de Percepção (modificado).
+Sintemorfos por filtrar os receptores de dor, para eles não serem prejudicados por ferimentos ou dano físico. Isso permite que eles ignorem o modificador −10 de 1 ferimento ([Efeitos de Ferimento](../12/16-physical-health.md#efeitos-de-ferimento)), mas eles sofrem −30 em qualquer Teste de Percepção baseado em tato e não vão nem notar se forem feridos a menos que tenham sucesso em um Teste de Percepção (modificado).
 
 ### Imunidade a Choques
 
@@ -82,7 +82,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 - **Taxa de Movimento:** Marcha 4/12
 - **Wares:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </blockquote>
 
@@ -108,7 +108,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Wares:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </blockquote>
 
@@ -118,7 +118,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 
 ### Enxamenoide
 
-Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada “inseto” individual é capaz de rastejar, rolar, pular vários metros, ou movimento aéreo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se “inseto” em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e conseguem interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#swarm-rules).
+Enxamenoides são enxames compostos de centenas de microbots do tamanho de insetos. Cada “inseto” individual é capaz de rastejar, rolar, pular vários metros, ou movimento aéreo com hélices de nanocóptero. O cibercérebro, a pilha cortical e os sistemas de sensores estão distribuídos por todo o enxame. Apesar do enxame poder se “inseto” em várias formas vagas, ele é incapaz de tarefas físicas como agarrar, erguer ou segurar. Os bots individuais estão ligados via rádio e laser, e conseguem interfacear com eletrônicos. Enxamenoides seguem as [regras de enxames](../16/20-nanoswarms-and-microswarms.md#regras-de-enxames).
 
 <blockquote class="indent stat-list">
 
@@ -136,7 +136,7 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 - **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
+- **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#colmeias)
 
 </blockquote>
 
@@ -333,7 +333,7 @@ Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais
 Cada flexbot é considerada uma única entidade para fins de regras, não importa quantos módulos ele tenha. Embora a gama completa de possibilidades de flexbots esteja além do escopo deste livro, aplique as seguintes regras e fique de olho em suplementos antigos e novos de Eclipse Phase:
 
 - Escolha um módulo para conter o ego — esse módulo controla os outros.
-- (Des)conectar um módulo é uma ação complexa e requer um [Teste de Integração](../15/02-resleeving.md#integration-test). Os módulos não conectados fisicamente são tratados como em [operação remota](../16/21-robots.md#remote-operations).
+- (Des)conectar um módulo é uma ação complexa e requer um [Teste de Integração](../15/02-resleeving.md#teste-de-integração). Os módulos não conectados fisicamente são tratados como em [operação remota](../16/21-robots.md#operação-remota).
 - Quando os módulos são combinados, use suas paradas combinadas.
 - Os módulos devem estar todos usando o mesmo sistema de mobilidade ou a Taxa de Movimento é reduzida à metade.
 - Um flexbot com 3–4 módulos é de tamanho médio; 5–9 grande; 10 ou mais muito grande.

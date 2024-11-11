@@ -2,7 +2,7 @@
 
 A maioria das armas de energia coerente são utilizadas para fins menos letais, projetadas para debilitar em vez de matar. Elas são usadas com a perícia Tiro e resistidas por armaduras energéticas.
 
-Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear](../16/05-common-tech-and-ware.md#everyday-technology). A bateria comum alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria comum completamente em 4 horas. Baterias comuns podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
+Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear](../16/05-common-tech-and-ware.md#tecnologia-cotidiana). A bateria comum alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria comum completamente em 4 horas. Baterias comuns podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
 
 <!--sort-->
 
@@ -45,7 +45,7 @@ As seguintes regras se aplicam apenas às armas de feixe.
 
 ### Cegueira Laser
 
-Apesar dos feixes do pulsador laser não aparecerem no espectro visível, eles podem ser cegantes para aqueles com visão aprimorada e podem refletir em superfícies de forma a cegar aqueles com visão normal. Por essa razão, a maioria dos usuários de laser (e seus companheiros) tem o cuidado de equipar [mods antirreflexos](../16/06-sensory-augmentations.md). Esse efeito pode ser ignorado na maioria dos casos, mas os MJs podem permitir que ele seja utilizado em ataques precisos para [cegar](15-special-attacks.md#blind-attacks) ou como resultados de sucessos/falhas maiores. Alvos potencialmente cegados, devem fazer uma Prova de REF. Sucesso significa que eles estão cegados por 3 turnos de ação, falha resulta em cegueira permanente até que seja reparado ou que passe um tempo em um tanque de cura. Personagens cegados ainda podem “ver” através de redes táticas e ligações similares da mesh.
+Apesar dos feixes do pulsador laser não aparecerem no espectro visível, eles podem ser cegantes para aqueles com visão aprimorada e podem refletir em superfícies de forma a cegar aqueles com visão normal. Por essa razão, a maioria dos usuários de laser (e seus companheiros) tem o cuidado de equipar [mods antirreflexos](../16/06-sensory-augmentations.md). Esse efeito pode ser ignorado na maioria dos casos, mas os MJs podem permitir que ele seja utilizado em ataques precisos para [cegar](15-special-attacks.md#ataques-às-cegas) ou como resultados de sucessos/falhas maiores. Alvos potencialmente cegados, devem fazer uma Prova de REF. Sucesso significa que eles estão cegados por 3 turnos de ação, falha resulta em cegueira permanente até que seja reparado ou que passe um tempo em um tanque de cura. Personagens cegados ainda podem “ver” através de redes táticas e ligações similares da mesh.
 
 ### Disparo em Varredura
 

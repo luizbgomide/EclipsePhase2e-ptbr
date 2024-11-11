@@ -28,9 +28,9 @@ Você deve ter linha de visão com o alvo ou estar ciente da presença dele em r
 
 Psi que tenha como alvo outro personagem é tratado como um teste oposto, a perícia Psi do assincro versus a Prova de VON do defensor. A parada de Manha pode ser usada por ambos. Os personagens voluntários podem escolher não resistir, mas eles devem estar cientes do que está acontecendo (o assincro os avisou ou eles já sentiram isso antes). Personagens inconscientes ou dormindo não podem resistir.
 
-**Defesa Total Psi:** Como a [defesa total](../12/21-other-action-factors.md#full-defense) em combate físico, você pode usar uma ação complexa para concentrar suas defesas mentais, ganhando um modificador +30 para resistir a truques até a sua próxima ação.
+**Defesa Total Psi:** Como a [defesa total](../12/21-other-action-factors.md#defesa-total) em combate físico, você pode usar uma ação complexa para concentrar suas defesas mentais, ganhando um modificador +30 para resistir a truques até a sua próxima ação.
 
-**Críticos:** Se o defensor vencer com um sucesso crítico, o assincro está temporariamente “bloqueado” da sua mente e não pode alvejá-lo novamente até que faça uma [ação de recarga](../03/05-pools.md#recharging-pools).
+**Críticos:** Se o defensor vencer com um sucesso crítico, o assincro está temporariamente “bloqueado” da sua mente e não pode alvejá-lo novamente até que faça uma [ação de recarga](../03/05-pools.md#recarregando-paradas).
 
 Se o assincro rolar uma falha crítica, ele sofre 1d6&nbsp;VD, pois o esforço provoca um desgaste físico na forma de dores de cabeça e vasos sanguíneos rompidos.
 
@@ -38,7 +38,7 @@ Se o assincro vencer com um sucesso crítico, dobre a potência do efeito do tru
 
 ## Armadura Mental
 
-Os truques [Armadura Psi](06-psi-sleight-summaries.md#psi-armor) e [Escudo Psi](06-psi-sleight-summaries.md#psi-shield) fornecem uma armadura mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma armadura física, essa armadura mental reduz a quantidade de dano infligida por uma agressão psíquica.
+Os truques [Armadura Psi](06-psi-sleight-summaries.md#armadura-psi) e [Escudo Psi](06-psi-sleight-summaries.md#escudo-psi) fornecem uma armadura mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma armadura física, essa armadura mental reduz a quantidade de dano infligida por uma agressão psíquica.
 
 ## Consciência do Alvo
 
@@ -64,7 +64,7 @@ Sempre que você tira proveito das suas habilidades psíquicas, há um custo a p
 
 Sempre que você usa truques psi-gama, duas coisas acontecem. Primeiro, o seu Grau de Infecção aumenta pelo modificador de Infecção do truque. Isso representa a infecção temporariamente dominando um pouco mais a sua mente. Segundo, o exovírus deve fazer um Teste de Infecção. Sendo o infectado, o jogador assincro rola esse teste.
 
-Assincros que usam apenas truques psi-qui não precisam se preocupar sobre crises de infecção, a não ser que [forcem](#pushing-sleights).
+Assincros que usam apenas truques psi-qui não precisam se preocupar sobre crises de infecção, a não ser que [forcem](#forçando-truques).
 
 ### Teste de Infecção
 
@@ -93,7 +93,7 @@ Os efeitos de influência ocorrem imediatamente quando o truque é ativado.
 
 **Comportamento Acentuado/Restrito:** Por um período temporário de 1d6 minutos, você adquire um traço de Comportamento Acentuado ou Restrito. Esse traço deve impactar diretamente sua interpretação. O nível do traço depende do seu Grau de Infecção atual: abaixo de 33 (Nível 1), 33+ (Nível 2), 66+ (Nível 3).
 
-**Motivação:** Por um período temporário de 1d6 horas, você adquire uma motivação extra que deve ser ativamente interpretada. Essa coceira se esconde em sua mente, implacavelmente forçando-o a agir. Se a motivação for satisfeita, você tem o benefício de curar estresse ([Recuperação Motivacional](../12/19-mental-healing-and-psychosurgery.md#motivational-recovery)). Como qualquer motivação, você não precisa agir sobre ela de imediato. No entanto, se a duração terminar e o MJ considerar que você não satisfez seus termos, você sofre VD 1d6. A critério do MJ, ficar próximo do foco da motivação (se houver) sem agir sobre ele pode exigir uma Prova de VON para se conter e pode infligir um modificador −10 em todos os testes de perícia até que você ceda ou a duração termine.
+**Motivação:** Por um período temporário de 1d6 horas, você adquire uma motivação extra que deve ser ativamente interpretada. Essa coceira se esconde em sua mente, implacavelmente forçando-o a agir. Se a motivação for satisfeita, você tem o benefício de curar estresse ([Recuperação Motivacional](../12/19-mental-healing-and-psychosurgery.md#recuperação-motivacional)). Como qualquer motivação, você não precisa agir sobre ela de imediato. No entanto, se a duração terminar e o MJ considerar que você não satisfez seus termos, você sofre VD 1d6. A critério do MJ, ficar próximo do foco da motivação (se houver) sem agir sobre ele pode exigir uma Prova de VON para se conter e pode infligir um modificador −10 em todos os testes de perícia até que você ceda ou a duração termine.
 
 **Outros Efeitos:** Alguns efeitos de influência (como frenesi e alucinações) são únicos à subcepa e funcionam como indicado.
 
@@ -127,6 +127,6 @@ Você ainda pode forçar truques quando estiver acima de um limiar, mas você n�
 
 ## Atenuação da Infecção
 
-Para cada [ação de recarga](../03/05-pools.md#recharging-pools) que fizer, reduza seu Grau de Infecção em 10. Ele não pode ser diminuído abaixo do seu Grau de Infecção base (Nível do Psi × 10). Para cada recarga longa, retorne sua Infecção para seu grau base.
+Para cada [ação de recarga](../03/05-pools.md#recarregando-paradas) que fizer, reduza seu Grau de Infecção em 10. Ele não pode ser diminuído abaixo do seu Grau de Infecção base (Nível do Psi × 10). Para cada recarga longa, retorne sua Infecção para seu grau base.
 
 Você não pode reduzir seu Grau de Infecção se tiver efeitos de influência ativos — o desejo deve ser saciado primeiro.

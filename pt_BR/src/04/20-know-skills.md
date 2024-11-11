@@ -39,7 +39,7 @@ As áreas das Artes incluem vários modos de expressão artística e avaliação
 
 Use as áreas das Artes para dar vida à sua imaginação, criar uma obra de arte, criticar o estilo ou a performance de um artista, ou avaliar o valor de um projeto artístico.
 
-Observe que as áreas das Artes não devem ser usadas no lugar de perícias Ativas para enganar, influenciar ou convencer os outros. Criar uma ilusão de realidade aumentada realista requer a perícia Programação, incorporar uma mensagem subliminar em uma música ou discurso precisaria da perícia Enganação, fazer um discurso para convencer uma banca ou agitar uma multidão requer Persuasão ou Provocação. No entanto, as áreas das Artes podem ser usadas como [perícias complementares](#complementary-skills) nesses casos.
+Observe que as áreas das Artes não devem ser usadas no lugar de perícias Ativas para enganar, influenciar ou convencer os outros. Criar uma ilusão de realidade aumentada realista requer a perícia Programação, incorporar uma mensagem subliminar em uma música ou discurso precisaria da perícia Enganação, fazer um discurso para convencer uma banca ou agitar uma multidão requer Persuasão ou Provocação. No entanto, as áreas das Artes podem ser usadas como [perícias complementares](#perícias-complementares) nesses casos.
 
 - **Exemplos de Áreas:** Arquitetura, Canto, Crítica, Dança, Desenho, Design de RA, Design de RV, Escultura, Escrita, Música, Oratória, Performance, Pintura, Teatro
 - **Especializações:** Conforme apropriado para a área

@@ -22,7 +22,7 @@ Os neo-aves incluem corvos, gralhas e papagaios-cinzentos elevados a níveis hum
 - **Taxa de Movimento:** Asas 8/40, Marcha 2/8
 - **Wares:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
-- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
 </blockquote>
 

@@ -18,13 +18,13 @@ Role os dados quando os resultados podem influenciar a trama ou ter outras conse
 
 Quando o MJ pede um teste, role dados de porcentagem e compare o resultado com o número alvo. O número alvo é baseado na perícia, prova de aptidão ou nível de rep na rede do personagem. Se o resultado for igual ou menor que o número alvo, o teste tem sucesso. Se o resultado for maior, o teste falha.
 
-Apesar de você precisar rolar igual ou menos que o número alvo, você também precisa rolar o mais alto possível para conseguir um [sucesso maior](#superior-results-3366-rule) ou para derrotar o seu oponente em [testes opostos](02-types-of-tests.md#opposed-tests).
+Apesar de você precisar rolar igual ou menos que o número alvo, você também precisa rolar o mais alto possível para conseguir um [sucesso maior](#resultados-maiores-regra-3366) ou para derrotar o seu oponente em [testes opostos](02-types-of-tests.md#testes-opostos).
 
 ## Quem Rola?
 
 Os jogadores rolam os dados ao fazer testes para seus personagens; os MJs rolam para os PNJs. Às vezes, o MJ faz testes para PJs em segredo, para não alertar os jogadores para algo que os seus personagens não saberiam, como se eles veem ou não uma pista. É recomendável que MJs tenham uma cópia das fichas de personagem dos PJs a mão.
 
-Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentando acalmar uma multidão — como uma única entidade. Nesse caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](#teamwork).
+Trate vários personagens fazendo a mesma atividade — como revistar uma sala em grupo ou alguém tentando acalmar uma multidão — como uma única entidade. Nesse caso, role uma vez para o grupo usando a maior perícia entre eles — ou a menor se o grupo for um impedimento. No entanto, se o resultado pode impactar separadamente vários personagens, faça-os rolar individualmente. Se o grupo de personagens coopera ativamente em um teste, use as [regras de trabalho em equipe](#trabalho-em-equipe).
 
 ## Dificuldade e Modificadores
 
@@ -82,7 +82,7 @@ Você é encorajado a inventar resultados críticos criativos conforme for aprop
 
 ## Recorrendo
 
-Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _recorrer_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptitudes)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
+Se você não tiver a perícia necessária para fazer o teste, você pode recorrer aos talentos inatos do personagem e _recorrer_ à aptidão vinculada ([Aptidões](../04/01-character-stats.md#aptidões)). Por exemplo, se você não tiver a perícia Tiro, você ainda pode atirar usando sua aptidão Reflexos como o número alvo.
 
 Não há nenhum modificador por recorrer em um teste de perícia, mas sucessos críticos são ignorados.
 

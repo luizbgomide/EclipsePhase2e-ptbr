@@ -11,24 +11,24 @@ Ações normalmente disponíveis para todos os usuários.
 - **Acessar Outro Sistema:** Autenticar e logar. Cria um console de conta.
 - **Aplicar Tag:** Marque uma pessoa, lugar ou coisa física com uma e-tag de RA.
 - **Comunicar:** Conversar por e-mail, texto, voz ou vídeo com outros online.
-- **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
-- **Filtrar Névoa de RA:** Remover a “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#ar-mist-and-filters)).
-- **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#mesh-attacks-and-defense)).
+- **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#criptografia)).
+- **Filtrar Névoa de RA:** Remover a “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#névoa-de-ra-e-filtros)).
+- **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#ataque-e-defesa-na-mesh)).
 - **Emitir Comando \[R\]:** Dar um único comando para um dispositivo subordinado, ILA ou bot teleoperado (ou grupo).
 - **Deslogar:** Sair de um sistema.
 - **Modificar Arquivos:** Visualizar, alterar, fazer upload, download e excluir arquivos.
 - **Operar Dispositivo:** Controlar um dispositivo. Pode exigir um teste de perícia.
-- **Programar Script \[T\]:** Compor um lote de instruções ([Scripts](../13/06-mesh-actions.md#scripting)).
-- **Executar Script:** Iniciar um script pré-programado ([Scripts](../13/06-mesh-actions.md#scripting)).
-- **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
+- **Programar Script \[T\]:** Compor um lote de instruções ([Scripts](../13/06-mesh-actions.md#scripts)).
+- **Executar Script:** Iniciar um script pré-programado ([Scripts](../13/06-mesh-actions.md#scripts)).
+- **Escanear Sinais Camuflados:** Encontrar dispositivos sem fio ocultos e seus mesh IDs dentro do alcance ([Sinais Camuflados](../13/04-devices-apps-and-links.md#sinais-camuflados)).
 - **Escanear Sinais Sem Fio \[R\]:** Procurar dispositivos sem fio e seus mesh IDs dentro do alcance.
 - **Pesquisar \[T\]:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
 - **Proteger Programa:** Proteger ativamente um programa em um [combate na mesh](../13/14-mesh-combat.md).
-- **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
+- **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#sinais-camuflados)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu infomorfo para outro sistema.
 - **Encerrar Programa:** Matar o processo de um programa menor.
-- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
-- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
+- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#tematização)).
+- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#modo-privativo))
 - **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Usar Apps:** Usar vários apps. Pode exigir um Teste de Interface.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
@@ -46,14 +46,14 @@ Ações reservadas para contas com privilégios de segurança ou de administrado
 <div class="stat-list">
 
 - **Adquirir Mesh ID:** Adquirir a mesh ID de qualquer um acessando o sistema.
-- **Ativar Contramedidas:** Iniciar contramedidas ativas contra um invasor detectado ([Contramedidas Ativas](../13/12-countermeasures.md#active-countermeasures)).
+- **Ativar Contramedidas:** Iniciar contramedidas ativas contra um invasor detectado ([Contramedidas Ativas](../13/12-countermeasures.md#contramedidas-ativas)).
 - **Atacar:** Tentar travar um console de conta, app, firewall, infomorfo, sistema operacional ou serviço ([Combate na Mesh](../13/14-mesh-combat.md)).
 - **Evitar Bloqueio de Sinal:** Superar um bloqueio de sinal vencendo um Teste Oposto de Interface por 1 turno de ação, +1 por sucesso maior.
-- **Localizar Invasor:** Tentar encontrar um invasor suspeito ([Localizar Invasor](../13/12-countermeasures.md#locate-intruder)).
+- **Localizar Invasor:** Tentar encontrar um invasor suspeito ([Localizar Invasor](../13/12-countermeasures.md#localizar-invasor)).
 - **Barrar:** Bloquear uma mesh ID específica de acessar o sistema.
 - **Monitorar Atividade:** Espiar as atividades de um app ou as ações de outro usuário específico em tempo real.
 - **Escanear Infomorfo:** Analisar um infomorfo com um Teste de Interface bem-sucedido.
-- **Rastrear:** Rastrear um usuário até a sua localização física (ou pelo menos o sistema de onde ele se origina); veja [Rastreamento Físico](../13/10-tracking.md#physical-tracking).
+- **Rastrear:** Rastrear um usuário até a sua localização física (ou pelo menos o sistema de onde ele se origina); veja [Rastreamento Físico](../13/10-tracking.md#rastreamento-físico).
 - **Disparar Alerta:** Colocar o sistema em alerta passivo ou ativo.
 - **Ver Logs:** Acessar os logs do sistema.
 - **Ver Usuários:** Ver quais outros usuários estão acessando atualmente o sistema, quais aplicativos eles estão usando e seus mesh IDs.
@@ -80,13 +80,13 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 
 <div class="stat-list">
 
-- **Quebrar Criptografia \[T\]:** Descriptografar um arquivo criptografado ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
-- **Invasão de Força-Bruta:** Borbardeie seu alvo com uma biblioteca de violações ([Ataque de Força Bruta](../13/11-hacking.md#brute-force-attacks)).
+- **Quebrar Criptografia \[T\]:** Descriptografar um arquivo criptografado ([Quebra de Código](../13/05-authentication-and-encryption.md#quebra-de-código)).
+- **Invasão de Força-Bruta:** Borbardeie seu alvo com uma biblioteca de violações ([Ataque de Força Bruta](../13/11-hacking.md#ataque-de-força-bruta)).
 - **Controlar Ware:** Manipular um ware do alvo.
 - **Desativar Mecanismos de Segurança:** Anular controles de segurança e alarmes.
 - **Editar Fluxo de RA:** Bloquear ou alterar a entrada de RA.
 - **Eliminar Rastros:** Editar logs e remover rastros dos seus hacks.
-- **Forçar Reautenticação:** Quando farejar, interrompa uma ligação para capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+- **Forçar Reautenticação:** Quando farejar, interrompa uma ligação para capturar as credenciais de login ([Farejamento](../13/04-devices-apps-and-links.md#farejamento)).
 - **Esconder Arquivo ou Processo:** Ocultar um arquivo/processo dos outros (oposto com Teste de Pesquisa com −30).
 - **Debilitar os Sentidos:** Distrair com sobrecarga de RA. Teste de Interface, modificador −10.
 - **Injetar RA/Ilusão:** Inserir dados falsos de RA em um fluxo.
@@ -95,8 +95,8 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Bloquear Sinais:** Bloquear frequências sem fio específicas ou todas.
 - **Repetir Fluxo de Sensor:** Substituir um fluxo de sensor ao vivo com gravações repetidas.
 - **Modificar TacNet:** Editar dados da tacnet, marcar inimigos como amigos.
-- **Invasão Sutil \[T\]:** Sonde discretamente um alvo buscando vulnerabilidades ([Invasão Sutil](../13/11-hacking.md#subtle-intrusion)).
-- **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+- **Invasão Sutil \[T\]:** Sonde discretamente um alvo buscando vulnerabilidades ([Invasão Sutil](../13/11-hacking.md#invasão-sutil)).
+- **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#farejamento)).
 - **Suprimir Alarme:** Trocar alerta ativo para passivo, ou desligar um alerta passivo.
 - **Suprimir Processo:** Impedir que um processo específico seja reiniciado.
 - **Grampear RA:** Monitorar os fluxos de RA do alvo.
@@ -116,7 +116,7 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Hackear a Mente:** Praticar psicocirurgia no ego ([Psicocirurgia](../15/05-psychosurgery.md)).
 - **Modificar Meshware (Cibercérebro):** Adicionar, remover ou alterar meshware.
 - **Modificar Entrada Sensorial (Cibercérebro):** Bloquear, editar ou injetar entrada sensorial.
-- **Manipular Fantoche (Cibercérebro):** Operar remotamente o morfo ([Operações Remotas](../16/21-robots.md#remote-operations)).
+- **Manipular Fantoche (Cibercérebro):** Operar remotamente o morfo ([Operações Remotas](../16/21-robots.md#operação-remota)).
 - **Afligir Ego:** Atacar o ego com um app aflitivo.
 - **Desligar:** Desativar a mente.
 - **Grampear Sentidos:** Como acima.

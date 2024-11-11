@@ -3,7 +3,7 @@ const path = require("path");
 
 const validLinksFile = "valid-links.txt";
 
-const linkRE = /(?!\\)\[.+?\]\((.+?)\)/gm;
+const linkRE = /(?!\\)\[(?:\\\]|[^\]])+?\]\((.+?)\)/gm;
 
 const blockquoteRE = /\<blockquote.*?\<\/blockquote\>/gs;
 

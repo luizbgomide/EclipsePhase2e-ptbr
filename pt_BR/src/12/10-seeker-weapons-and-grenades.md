@@ -25,9 +25,9 @@ Armas de buscadores são uma combinação de tecnologias de lança-granadas auto
 
 Buscadores e granadas são dispositivos explosivos multifuncionais e compactos. Buscadores são fabricados nos tamanhos de míssil padrão, minimíssil ou micromíssil e disparados de armas de buscadores usando a perícia Tiro. Granadas são projetadas para serem arremessadas usando a perícia Atletismo ou colocadas como armadilhas usando Aparelhagem: Demolições. Granadas são fabricadas em formato padrão ou como minigranadas.
 
-Minigranadas e micromísseis são a linha padrão para os efeitos listados. Ajuste os efeitos para minimísseis ou granadas/mísseis padrão conforme indicado na tabela. A maioria são [armas de área de efeito](15-special-attacks.md#area-effect-attacks). Cada uma pode ser configurada para diferentes [condições de acionamento](#trigger-conditions) ou ter o [raio de explosão ajustado](#adjusting-blast-radius). Buscadores/granadas que errem ou acertem, mas não são [aderentes](#sticky-coating) e não estão configurados para explosão aérea ou impacto sofrerão [desvio](15-special-attacks.md#scatter). A complexidade listada é para 5 granadas/mísseis.
+Minigranadas e micromísseis são a linha padrão para os efeitos listados. Ajuste os efeitos para minimísseis ou granadas/mísseis padrão conforme indicado na tabela. A maioria são [armas de área de efeito](15-special-attacks.md#ataques-de-área-de-efeito). Cada uma pode ser configurada para diferentes [condições de acionamento](#condições-de-acionamento) ou ter o [raio de explosão ajustado](#ajustando-o-raio-de-explosão). Buscadores/granadas que errem ou acertem, mas não são [aderentes](#camada-aderente) e não estão configurados para explosão aérea ou impacto sofrerão [desvio](15-special-attacks.md#desvio). A complexidade listada é para 5 granadas/mísseis.
 
-Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kinetic-weapons.md#specialty-firearm-ammo).
+Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kinetic-weapons.md#munições-especializadas-de-armas-de-fogo).
 
 **_ATRIBUTOS PADRÃO SÃO PARA MICROMÍSSEIS E MINIGRANADAS._**
 
@@ -56,7 +56,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 <!--sort-->
 
-**Ofuscante:** Ofuscantes são dispositivos de laser giratórios, projetados para cegar alvos e atrapalhar a vigilância. Qualquer um com linha de visão no raio de efeito (50 metros) que não esteja equipado com mods antirreflexos, deve ter sucesso em uma Prova de REF ou ficar [cegado](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente (até ser reparado/curado). Qualquer câmera visual/infravermelho fica sobrecarregada pela duração do ofuscante. A não ser que tenha uma desativação programada, os ofuscantes continuam cegando por 1 hora ou até que sejam desligados remotamente ou destruídos fisicamente (DUR 10, VA 5/10).
+**Ofuscante:** Ofuscantes são dispositivos de laser giratórios, projetados para cegar alvos e atrapalhar a vigilância. Qualquer um com linha de visão no raio de efeito (50 metros) que não esteja equipado com mods antirreflexos, deve ter sucesso em uma Prova de REF ou ficar [cegado](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente (até ser reparado/curado). Qualquer câmera visual/infravermelho fica sobrecarregada pela duração do ofuscante. A não ser que tenha uma desativação programada, os ofuscantes continuam cegando por 1 hora ou até que sejam desligados remotamente ou destruídos fisicamente (DUR 10, VA 5/10).
 
 **PEM:** Munições PEM produzem um forte pulso eletromagnético quando elas são “detonadas”. Como a maioria dos eletrônicos em Eclipse Phase são construídos com tecnologia óptica, e fontes de energia e microcircuitos sensíveis são blindados e protegidos contra surtos, isso não tem muito efeito danoso. No entanto, antenas são vulneráveis, especialmente fios finos como aqueles usados com insertos da mesh, assim como nanobots e microbots. Cada rádio dentro do raio de explosão (50 metros) é desativado até que seja reparado com um Teste de Aparelhagem ou Medicina: Biotecnologia apropriado, ou um nanoenxame reparador. Cada nanoenxame dentro do alcance sofre VD 3d10 e −10 em ações até que sejam reparados.
 
@@ -68,7 +68,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **Aspersor:** Dispositivos aspersores espalham a substância contida (uma droga, químico, nanoenxame, tinta, etc.) por um raio de explosão de 10 metros quando eles detonam. Cada um contém 5 doses de uma toxina/droga (alvos são afetados por 1 dose) ou 1 nanoenxame.
 
-**Atordoante:** Essas versões aprimoradas das granadas de luz e som que liberam uma explosão concussiva e uma nuvem de “bolinhas ardidas” de borracha projetadas para atordoar alvos e derrubá-los. A explosão também libera um clarão cegante e um estampido ensurdecedor. Trate como um [efeito de choque](15-special-attacks.md#shock-attacks). Buscadores/granadas atordoantes também podem ser configurados em “modo sobrecarga”, infligindo um ataque sensorial completo por um minuto. Além do clarão cegante, o dispositivo libera odores nauseantes e frequências infrasônicas que desencadeiam respostas emocionais desagradáveis (ansiedade, inquietação, tristeza extrema, repulsa e medo).
+**Atordoante:** Essas versões aprimoradas das granadas de luz e som que liberam uma explosão concussiva e uma nuvem de “bolinhas ardidas” de borracha projetadas para atordoar alvos e derrubá-los. A explosão também libera um clarão cegante e um estampido ensurdecedor. Trate como um [efeito de choque](15-special-attacks.md#ataques-de-choque). Buscadores/granadas atordoantes também podem ser configurados em “modo sobrecarga”, infligindo um ataque sensorial completo por um minuto. Além do clarão cegante, o dispositivo libera odores nauseantes e frequências infrasônicas que desencadeiam respostas emocionais desagradáveis (ansiedade, inquietação, tristeza extrema, repulsa e medo).
 
 **Tático Multifuncional (TMF):** Dispositivos TMF podem ser configurados para detonar em modo fragmentação ou alto-explosivo. Explosivos de fragmentação liberam uma nuvem de flechettes letais sobre a área de efeito. Buscadores/granadas alto-explosivos criam uma onda destrutiva de choque e calor.
 
@@ -100,7 +100,7 @@ Você pode pegar uma granada antes que ela detone e arremessá-la de volta ou pa
 
 ### Condições de Acionamento
 
-Granadas modernas, buscadores e explosivos similares não detonam necessariamente no instante que são arremessados ou atingem o alvo. O usuário pode configurar a opção de acionamento quando lançar a arma e pode alterá-la através de uma ligação sem fio. Ataques perdidos ou ataques que não explodem no trajeto ou quando sofrem impacto estão sujeitos ao [desvio](15-special-attacks.md#scatter).
+Granadas modernas, buscadores e explosivos similares não detonam necessariamente no instante que são arremessados ou atingem o alvo. O usuário pode configurar a opção de acionamento quando lançar a arma e pode alterá-la através de uma ligação sem fio. Ataques perdidos ou ataques que não explodem no trajeto ou quando sofrem impacto estão sujeitos ao [desvio](15-special-attacks.md#desvio).
 
 <!--sort-->
 

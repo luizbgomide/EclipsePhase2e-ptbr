@@ -12,13 +12,13 @@ Embora sem corpos, os infomorfos podem interagir com o mundo físico através da
 
 Todo infomorfo deve ser executado em um terminal ou servidor específico — seu _dispositivo habitado_. Os privilegiados escolhem sistemas seguros sobre os quais possuem acesso de administrador, mas a maioria simplesmente aluga uma partição privada em um grande servidor. Outros residem nos insertos da mesh ou módulos de carona virtual de amigos, parentes ou “táxis” alugados. Seu dispositivo habitado armazena seus arquivos de estado mental e controla as necessidades de processamento dos seus pacotes de emulação mental. Você pode acessar outros dispositivos através da mesh, mas você reside em seu dispositivo habitado. Os infomorfos agem como seus próprios consoles de conta em seus dispositivos habitados.
 
-A segurança do seu dispositivo habitado é importante. Se ele for desligado, você é desligado junto com ele, reinicializando com o dispositivo mais tarde. Se o dispositivo for destruído, você está morto, embora seus dados possam ser recuperáveis dos componentes resgatados (talvez resultando em um [vapor](../15/04-forking-and-merging.md#types-of-forks)).
+A segurança do seu dispositivo habitado é importante. Se ele for desligado, você é desligado junto com ele, reinicializando com o dispositivo mais tarde. Se o dispositivo for destruído, você está morto, embora seus dados possam ser recuperáveis dos componentes resgatados (talvez resultando em um [vapor](../15/04-forking-and-merging.md#tipos-de-forques)).
 
 Um terminal só podem ser habitado por um infomorfo por vez; servidores podem executar múltiplos infomorfos. A maioria dos ciscos não têm poder de processamento para executar infomorfos.
 
 ### Dispositivos Inadequados
 
-Alguns dispositivos não tem todo poder de processamento necessário para executar um infomorfo. Isso inclui sistemas ultrapassados, dispositivos que sofreram muitos danos, servidores parcialmente funcionais em postos abandonados, sistemas improvisados, e alguns ciscos que tiveram a ILA residente excluída. Os infomorfos ainda podem executar nesses dispositivos, mas sofrem os mesmos modificadores que um [dispositivo sobrecarregado](04-devices-apps-and-links.md#overloaded-devices). Os infomorfos acham a experiência de ser executado em um aparelho inferior extremamente desagradável e frustrante.
+Alguns dispositivos não tem todo poder de processamento necessário para executar um infomorfo. Isso inclui sistemas ultrapassados, dispositivos que sofreram muitos danos, servidores parcialmente funcionais em postos abandonados, sistemas improvisados, e alguns ciscos que tiveram a ILA residente excluída. Os infomorfos ainda podem executar nesses dispositivos, mas sofrem os mesmos modificadores que um [dispositivo sobrecarregado](04-devices-apps-and-links.md#dispositivos-sobrecarregados). Os infomorfos acham a experiência de ser executado em um aparelho inferior extremamente desagradável e frustrante.
 
 ### Infomorfos Distribuídos
 
@@ -26,11 +26,11 @@ Em vez de residir em um único dispositivo habitado, um infomorfo podem se execu
 
 Ser executado como um infomorfo distribuído tem suas vantagens. Tentativas de rastreá-lo via [mesh ID](05-authentication-and-encryption.md#mesh-id) sofrem um modificador −10. Você também adquire um grau de invulnerabilidade em [combate na mesh](14-mesh-combat.md), pois você deve ser travado em todos os dispositivos para ser completamente derrotado. Você deve dividir suas Durabilidade igualmente entre os dispositivos, mas seu Limiar de Ferimento permanece o mesmo. No entanto, sua superfície de ataque também aumenta: você pode ser alvo de hackeamento ou hack cerebral em múltiplos dispositivos. Cada dispositivo em que você está distribuído conta com um dispositivo habitado. Se sua presença em um dispositivo (ou o próprio dispositivo) travar, você sofre um ferimento.
 
-Distribuir-se corretamente leva 1 turno de ação por dispositivo; reintegrar-se em um único dispositivo leva o mesmo tempo. Se você estiver rodando em menos do que 5 ciscos, aplique os modificadores como se estivesse operando em um [dispositivo sobrecarregado](04-devices-apps-and-links.md#overloaded-devices). Se você se estender entre muitos dispositivos (mais do que 10), você recebe um modificador −10 em todas as ações por incremento de 10 dispositivos, pois sua mente distribuída sofre um atraso na comunicação.
+Distribuir-se corretamente leva 1 turno de ação por dispositivo; reintegrar-se em um único dispositivo leva o mesmo tempo. Se você estiver rodando em menos do que 5 ciscos, aplique os modificadores como se estivesse operando em um [dispositivo sobrecarregado](04-devices-apps-and-links.md#dispositivos-sobrecarregados). Se você se estender entre muitos dispositivos (mais do que 10), você recebe um modificador −10 em todas as ações por incremento de 10 dispositivos, pois sua mente distribuída sofre um atraso na comunicação.
 
 ## Velocidades Digitais
 
-Todos os infomorfos têm o [traço Velocidade Digital](../04/28-traits.md#digital-speed), reduzindo o prazo para todas as ações de tarefas baseadas na mesh em 25% (cumulativo com reduções por sucessos maiores).
+Todos os infomorfos têm o [traço Velocidade Digital](../04/28-traits.md#velocidade-digital), reduzindo o prazo para todas as ações de tarefas baseadas na mesh em 25% (cumulativo com reduções por sucessos maiores).
 
 ## Movimentação Entre Dispositivos
 
@@ -44,9 +44,9 @@ Você pode acessar vários dispositivos ao mesmo tempo como outros usuários, ma
 
 ## Cópia
 
-Como um ser digital, você também pode se copiar. Isso leva um turno de ação completo e cria um [forque alfa](../15/04-forking-and-merging.md#alpha-forks). Os infomorfos copiados não perdem a continuidade. Se você for copiado para um tipo diferente de infomorfo, isso conta como [reencape](../15/02-resleeving.md). Sua cópia inclui o seu [código digital](../15/07-identity-systems.md#digital-code) juntamente com um número incremental assinado criptograficamente indicando qual cópia ele é.
+Como um ser digital, você também pode se copiar. Isso leva um turno de ação completo e cria um [forque alfa](../15/04-forking-and-merging.md#forques-alfa). Os infomorfos copiados não perdem a continuidade. Se você for copiado para um tipo diferente de infomorfo, isso conta como [reencape](../15/02-resleeving.md). Sua cópia inclui o seu [código digital](../15/07-identity-systems.md#código-digital) juntamente com um número incremental assinado criptograficamente indicando qual cópia ele é.
 
-Infomorfos adquiridos de estúdios de código comerciais (ou seja, a maioria dos agentes, ikons e operadores) possuem restrições digitais embutidas que impedem que você rode mais de uma cópia desse morfo por vez. Em vez disso, a cópia é instanciada em um digimorfo padrão. Essa restrição de cópia pode ser crackeada da mesma maneira que os diagramas digitais ([Crackeando Diagramas](../16/03-nanofabrication.md#cracking-blueprints)). Casas de código oferecem recompensas por relatos de pessoas usando códigos crackeados de infomorfo.
+Infomorfos adquiridos de estúdios de código comerciais (ou seja, a maioria dos agentes, ikons e operadores) possuem restrições digitais embutidas que impedem que você rode mais de uma cópia desse morfo por vez. Em vez disso, a cópia é instanciada em um digimorfo padrão. Essa restrição de cópia pode ser crackeada da mesma maneira que os diagramas digitais ([Crackeando Diagramas](../16/03-nanofabrication.md#crackeando-diagramas)). Casas de código oferecem recompensas por relatos de pessoas usando códigos crackeados de infomorfo.
 
 Em muitas jurisdições, copiar a si mesmo é mal visto ou explicitamente ilegal. Alguns governos exigem que infomorfos sejam codificados com [meshwares](../16/12-meshware.md) de travacópia e autoapagamento para evitar cópias não autorizadas e excluir o forque quando atingir o limite tempo legalmente exigido.
 
@@ -56,7 +56,7 @@ Você pode se excluir (a menos que você não tenha os privilégios ou esteja pr
 
 ## Evacuação de Cibercérebros
 
-Qualquer ego dentro de um cibercérebro pode se mover ou copiar como um infomorfo para outro dispositivo. Os egos usam [digimorfos](../04/26-infomorphs.md#digimorph) por padrão, a menos que você tenha outro tipo de infomorfo disponível.
+Qualquer ego dentro de um cibercérebro pode se mover ou copiar como um infomorfo para outro dispositivo. Os egos usam [digimorfos](../04/26-infomorphs.md#digimorfo) por padrão, a menos que você tenha outro tipo de infomorfo disponível.
 
 ## Encape de Morfos
 
@@ -74,7 +74,7 @@ Muitos infomorfos têm uma musa, assim como outros personagens. No entanto, por 
 
 Os infomorfos ativos podem ser carregados por PJs com corpos em um [módulo de carona virtual](../16/08-mental-augmentations.md), em insertos da mesh no lugar de uma musa, ou em qualquer terminal ou servidor transportados fisicamente. Isso é útil para PJs infomorfos que desejam ficar com a equipe, ou para qualquer PJ que tenha sido egoprojetado ou morto e ainda não tenha sido reencapado. Isso também é um opção útil para ter forques à disposição.
 
-Os caronas infomorfos podem permanecer ativos até mesmo quando se morfo hospedeiro está dormindo ou incapacitado ([Danos e Caronas Infomorfos](15-hardware-damage.md#damage-and-infomorph-riders)).
+Os caronas infomorfos podem permanecer ativos até mesmo quando se morfo hospedeiro está dormindo ou incapacitado ([Danos e Caronas Infomorfos](15-hardware-damage.md#danos-e-caronas-infomorfos)).
 
 <blockquote>
 

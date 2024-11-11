@@ -98,7 +98,7 @@ Estes modificadores se aplicam a ataques de combate de distância.
 | Defensor Atrás de Cobertura Menor                               |                                               −10                                               |
 | <!--sort-union-->Defensor Atrás de Cobertura Moderada |                                               −20                                               |
 | <!--sort-union-->Defensor Atrás de Cobertura Maior    |                                               −30                                               |
-| Defensor Escondido                                              | −30 e/ou 50% chance de errar<br>([Ataques às Cegas](15-special-attacks.md#blind-attacks)) |
+| Defensor Escondido                                              | −30 e/ou 50% chance de errar<br>([Ataques às Cegas](15-special-attacks.md#ataques-às-cegas)) |
 | Defensor Prostrado e no Alcance (10+&nbsp;m)                    |                                               −10                                               |
 | Modos de Disparo                                                |                                                                                                 |
 | <!--sort-union--><p class="indent">» Tiro Único/Semiautomático</p>            |                                               +0                                                |
