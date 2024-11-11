@@ -110,6 +110,8 @@ Em um agarramento, ambos os personagens têm −30 para se opor a qualquer ataqu
 
 Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer uma ação complexa para manter o agarramento. Como parte dessa ação, ele pode escolher fazer um dos seguintes:
 
+<!--sort-->
+
 - **Estrangulamento:** Vítimas biomorfos devem fazer uma Prova de SOM ou cair inconscientes, pois seu fluxo de sangue ou ar está restringido.
 - **Dano:** A vítima agarrada sofre dano desarmado, sem defesa.
 - **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Prova de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
