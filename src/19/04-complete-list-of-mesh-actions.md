@@ -119,7 +119,7 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 <!--sort-->
 
 - **Trap Ego:** Prohibit the ego/infomorph from moving/evacuating.<!--sort-fixed-->
-- **aControl Ware:** As above.
+- **Control Ware:** As above.
 - **Copy Ego:** Make an alpha fork ([Forking](../15/04-forking-and-merging.md)).
 - **Delete Ego:** Erase the mind.
 - **Freeze Morph (Cyberbrain):** Paralyze the morph.
