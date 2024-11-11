@@ -8,6 +8,8 @@ Transtornos são distúrbios psicológicos duradouros que geralmente exigem sema
 
 **Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
 
+<!--sort-->
+
 ### Transtorno de Comportamento Alienígena
 
 **Gatilhos:** Alienação, exsurgentes, o desconhecido
@@ -64,14 +66,6 @@ Você acredita que você é irrevogavelmente feio ou defeituoso, impedindo-o de 
 
 **Efeito:** −30 em Testes de Estresse de Reencape.
 
-### Transtorno de Ansiedade Cósmica
-
-**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
-
-Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
-
-**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
-
 ### Transtorno de Conversão
 
 **Gatilhos:** Alienação, o desconhecido, violência
@@ -79,6 +73,14 @@ Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias in
 Você sofre uma condição neurológica como cegueira, surdez, incapacidade de falar, perda de equilíbrio, convulsões ou paralisia em situações muito estressantes. Alguns assincros sofrem de uma condição similar, transtorno sensorial alienígena, em que as tentativas de usar órgãos sensoriais alienígenas atrapalham um ou mais dos seus sentidos físicos reais.
 
 **Efeito:** Prova de VON ou sofra uma das condições escolhidas.
+
+### Transtorno de Ansiedade Cósmica
+
+**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
+
+Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
+
+**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
 
 ### Depressão
 
@@ -167,3 +169,6 @@ TEPT resulta de incidentes potencialmente mortais. Você desenvolve um fixação
 Não sendo confundida com o transtorno genético, a esquizofrenia reiterativa tem sintomas semelhantes, mas se desenvolve em egos que passam por reencapes frequentes, possivelmente devido a algum tipo de erro repetitivo no processo de download. Os esquizofrênicos perdem sua capacidade de discernir a realidade da irrealidade. Você sofre com delírios, alucinações (muitas vezes em apoio às ilusões), e discurso fragmentado ou desorganizado. Você percebe o seu comportamento como perfeitamente normal, ao ponto de ficar paranoico de que os outros estão envolvidos em uma grande mentira.
 
 **Efeito:** Você sofre delírios e alucinações conforme determinado pelo MJ e está propenso a pensamentos conspiratórios. Você sofre um modificador −20 em testes que exigem comunicação coerente.
+
+<!--sort-end-->
+

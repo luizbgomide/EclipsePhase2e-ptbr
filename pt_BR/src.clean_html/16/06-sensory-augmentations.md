@@ -2,6 +2,8 @@
 
 Esses wares aprimoram as capacidades sensoriais do seu morfo.
 
+<!--sort-->
+
 | AMPLIAÇÕES SENSORIAIS | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                        |
 |:--------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------ |
 | Visão 360°            |     BCH      |                 Men/1                 | Veja em todas as direções simultaneamente.                                                       |
@@ -20,6 +22,8 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 | Sentido Radiológico   |      CH      |                 Men/1                 | Detecta fontes de radiação.                                                                      |
 | Sonar                 |     BCH      |                 Men/1                 | Sonar, alcance de 20&nbsp;m no ar, 100&nbsp;m na água.                                           |
 | Emissor de Raios T    |      CH      |                 Men/1                 | Use visão aprimorada para ver através de materiais.                                              |
+
+<!--sort-->
 
 **Visão 360°:** Os olhos/sensores visuais do morfo estão situados formando um campo de visão de 360 graus.
 
@@ -52,3 +56,6 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 **Sonar:** Você possui ecolocalização como um morcego ou golfinho. Você reflete pulsos ultrassônicos dos seus arredores e mede os ecos para construir uma imagem do ambiente ([Sentidos e Sensores](07-senses-and-sensors.md)). Essa ampliação funciona tanto no ar quanto na água, com alcance de 20 (ar) ou 100 (água) metros.
 
 **Emissor de Raios T:** Montado sob a pele da testa do usuário, esse implante gera feixes de radiação terahertz (raios T) de baixa potência. Personagens com visão aprimorada podem usar raios T refletidos para efetivamente ver através de paredes e outros materiais ([Sentidos e Sensores](07-senses-and-sensors.md)). Esse implante permite que o usuário veja usando raios T refletidos por 20 metros em uma atmosfera normal e por 100 metros no vácuo.
+
+<!--sort-end-->
+

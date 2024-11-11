@@ -4,6 +4,8 @@ Em uma era de armamentos à distância incapacitantes e letais, alguém equipado
 
 Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e wares de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
 
+<!--sort-->
+
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
 | Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
@@ -36,6 +38,8 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 
 Armamentos implantados podem ser combinados com enguiware para produzir choques elétricos.
 
+<!--sort-->
+
 **Garras:** O morfo possui garras retráteis como as de gato. Essas garras não interferem na destreza manual e são afiadas. Elas são legais na maioria dos habitats e consideradas tanto ferramentas quanto armas. Um conjunto de garras em cada mão conta como uma única arma.
 
 **Enguiware:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (equipaware) permitem que você atordoe com um toque chocante. Enguiwares podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
@@ -44,9 +48,13 @@ Armamentos implantados podem ser combinados com enguiware para produzir choques 
 
 **Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por orifícos ocultos.
 
+<!--sort-end-->
+
 ## Armas de Luta
 
 As armas de luta variam de arcaicas até de alta tecnologia:
+
+<!--sort-->
 
 **Bastão:** Bastões englobam uma grande variedade de objetos contundentes de uma mão, desde cassetetes até porretes e canos.
 
@@ -74,9 +82,13 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
+<!--sort-end-->
+
 ## Regras de Luta
 
 Estas regras se aplicam especificamente em combate próximo.
+
+<!--sort-->
 
 ### Ataques Agressivos
 
@@ -103,6 +115,8 @@ Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer
 - **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Prova de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
 - **Movimento:** O agarrador pode mover-se com o oponente subjugado à metade da sua Taxa de Movimento.
 
+<!--sort-end-->
+
 ## Múltiplos Alvos
 
 Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Esses ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
@@ -121,19 +135,21 @@ Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los,
 
 Estes modificadores se aplicam a ataques de combate próximo.
 
-| Situação                                                                                                |            Modificadores            |
-|:------------------------------------------------------------------------------------------------------- |:-----------------------------------:|
-| Ataque Agressivo                                                                                        | +10 ou +1d10&nbsp;VD, −10 em Evasão |
-| Investida                                                                                               |          −10, +1d6&nbsp;VD          |
-| Arma Extra (Ataque)                                                                                     |            +1d6&nbsp;VD             |
-| Arma Extra (Defesa)                                                                                     |                 +10                 |
-| Agarramento                                                                                             |                                     |
-| <!-- CLEANED div class="indent" -->» Oponente de Tamanho Menor<!-- CLEANED /div --> |      +20 por nível de tamanho       |
-| <!-- CLEANED div class="indent" -->» Oponente de Tamanho Maior<!-- CLEANED /div -->  |      −20 por nível de tamanho       |
-| <!-- CLEANED div class="indent" -->» Vantagem de 2+ Membros<!-- CLEANED /div -->    |                 +20                 |
-| <!-- CLEANED div class="indent" -->» Desvantagem de 2+ Membros<!-- CLEANED /div --> |                 −20                 |
-| Múltiplos Alvos                                                                                         |         −20 por alvo extra          |
-| Extensão                                                                                                |             +10 ou mais             |
-| Toque Simples                                                                                           |            +20, sem dano            |
+<!--sort-->
+
+| Situação                                             |            Modificadores            |
+|:---------------------------------------------------- |:-----------------------------------:|
+| Ataque Agressivo                                     | +10 ou +1d10&nbsp;VD, −10 em Evasão |
+| Investida                                            |          −10, +1d6&nbsp;VD          |
+| Arma Extra (Ataque)                                  |            +1d6&nbsp;VD             |
+| <!--sort-union-->Arma Extra (Defesa)       |                 +10                 |
+| Agarramento                                          |                                     |
+| <!--sort-union--><p class="indent">» Oponente de Tamanho Menor</p> |      +20 por nível de tamanho       |
+| <!--sort-union--><p class="indent">» Oponente de Tamanho Maior</p> |      −20 por nível de tamanho       |
+| <!--sort-union--><p class="indent">» Vantagem de 2+ Membros</p> |                 +20                 |
+| <!--sort-union--><p class="indent">» Desvantagem de 2+ Membros</p> |                 −20                 |
+| Múltiplos Alvos                                      |         −20 por alvo extra          |
+| Extensão                                             |             +10 ou mais             |
+| Toque Simples                                        |            +20, sem dano            |
 
 <!-- CLEANED /blockquote -->

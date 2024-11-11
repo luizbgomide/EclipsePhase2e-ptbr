@@ -2,6 +2,8 @@
 
 Armas de spray dispersam sua munição em um cone alargado, permitindo ao atirador atingir vários alvos de uma vez ([Área de Efeito](15-special-attacks.md#area-effect-attacks)). Elas são disparadas usando a perícia Tiro.
 
+<!--sort-->
+
 | ARMAS DE SPRAY          | Área de Efeito | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Armadura Utilizada | Comp/<!-- CLEANED wbr -->PE | Notas                                   |
 |:----------------------- |:--------------:|:-------------------------:|:----------------:|:-------:|:-------:|:------------------:|:-------------------------------------:|:--------------------------------------- |
 | Zumbidor                |      Cone      |       Igual enxame        |        TU        |    3    |   15    |    Igual enxame    |      Igual colmeia especializada      | Duas Mãos, Longa                        |
@@ -14,6 +16,8 @@ Armas de spray dispersam sua munição em um cone alargado, permitindo ao atirad
 | Arma de Anel de Vórtice |      Cone      |        1d6 \[4\]        |        SA        |   20    |   15    |         E          |                 Men/1                 | Atordoante, Derrubada, Duas Mãos, Longa |
 
 **Munição:** Com a exceção de zumbidores (que usam nanoenxames) e pulverizadores (que usam químicos/drogas, 3 doses por tiro), armas de spray seguem as [regras de munição e recarregamento](04-ranged-combat.md#ammunition-and-reloading).
+
+<!--sort-->
 
 **Zumbidor:** Zumbidores são usados para liberar um tipo específico de nanoenxame, seja sobre um alvo ou uma área. Eles carregam um número limitado de enxames, mas contêm uma [colmeia especializada](../16/19-nanotech.md#hives) que pode construir novos enxames.
 
@@ -30,3 +34,6 @@ Armas de spray dispersam sua munição em um cone alargado, permitindo ao atirad
 **Maçarico:** Esse lança-chamas moderno usa cápsulas de munição condensadas em vez de tanques de combustível, queimando e incendiando os alvos. Um sucesso maior incendeia o alvo; ele continuará a receber VD 2d10 por turno de ação (armadura não se aplica) até ser apagado. Esse fogo químico é bastante difícil de ser apagado, a não ser que fique sem oxigênio.
 
 **Arma de Anel de Vórtice:** Essa arma menos letal detona um cartucho em branco e acelera a pressão explosiva por um tambor alargado para que ela forme um anel de vórtice de alta velocidade. Essa explosão giratória e concussiva em forma de donut derruba e atordoa alvos próximos. Drogas, químicos e agentes similares podem ser usados na carga também.
+
+<!--sort-end-->
+

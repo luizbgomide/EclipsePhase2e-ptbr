@@ -2,6 +2,8 @@
 
 Um resumo rápido sobre materiais futuristas comuns:
 
+<!--sort-->
+
 **Aerogel:** A “fumaça congelada” é feita substituindo o líquido em um gel ou espuma com um gás. O resultado é um sólido semitransparente, leve e de baixa densidade que lembra isopor, ele feito de vários compostos químicos. Ele pode ser usado em janelas e como isolante em habitats, especialmente aeróstatos, e para capturar poeira espacial no casco de espaçonaves. Pode ser combinado com fibras de reforço para fazer cobertores leves e flexíveis.
 
 **Metais Amorfos:** Também chamados de vidro metálico, os metais amorfos são ligas metálicas com uma estrutura atômica desordenada (em vez de cristalina), tornando-os mais duros, menos quebradiços e mais resistentes ao desgaste e corrosão. Eles amolecem e fluem quando são aquecidos, então pode ser usados em moldes por injeção. Eles são usados em armaduras, implantes, armações robóticas e ambientes hostis.
@@ -21,3 +23,6 @@ Um resumo rápido sobre materiais futuristas comuns:
 **Materiais Inteligentes:** Os equipamentos feitos com materiais inteligentes incorporam nanomáquinas que podem alterar a forma, cor e textura do objeto. Por exemplo, vestuário inteligente pode se transformar de vestuário especializado para ambiente frios, adequado para os polos marcianos no inverno, em roupa estilosa da última moda. Da mesma forma, uma ferramenta de material inteligente pode alternar de uma chave de fenda elétrica para um alicate ou um martelo, conforme as nanomáquinas remodelam a ferramenta. A remodelação leva 1d6 minutos.
 
 **Alumínio Transparente:** Essa cerâmica mais dura que aço, também conhecida como safira, é usada em superfícies resistentes a riscos e armaduras transparentes. As técnicas de fundição em zero-g permitem a construção de desenhos transparentes intrigantes, contanto que sua baixa resistência a tração seja respeitada.
+
+<!--sort-end-->
+

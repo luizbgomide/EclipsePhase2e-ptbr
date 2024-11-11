@@ -6,6 +6,8 @@ O recesso normalmente é contado em semanas. A cada semana, escolha uma ação d
 
 **Cura/Reparo:** A recuperação da [saúde mental](19-mental-healing-and-psychosurgery.md) e [física](17-healing-and-repair.md) é uma parte importante do recesso, mas ela não consome todo o seu tempo de folga. Considere que a cura/reparo acontece em conjunto com as seguintes ações de recesso.
 
+<!--sort-->
+
 ## Adquirir/Fazer Coisas
 
 Você pode querer estocar equipamento para a próxima missão, ou simplesmente preparar depósitos de equipamento, bolsas de fuga e provisões de emergência. Se você tem o traço Recursos, use sua cota semanal de Pontos de Equipamento. Se não, você tem 2&nbsp;PE para gastar. Itens Raros e Restritos só estão disponíveis a critério do MJ. Se estabelecer depósitos (“partições temporárias” na Firewall), certifique-se de combinar com seu MJ onde e como eles estão escondidos.
@@ -53,23 +55,25 @@ Conforme você completa aventuras e acumula experiência durante o jogo, você a
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
 ### Ganhar um Traço Positivo de Ego
 
 Você pode gastar PR para comprar um traço positivo de ego com um Custo de PP equivalente. Você também pode melhorar traços existentes para níveis mais altos. O MJ precisa aprovar essa compra. Novos traços só devem ser adquiridos como uma consequência da história e do desenrolar dos eventos no jogo. Por exemplo, um personagem que descobriu um depósito de riquezas podem ser autorizado a comprar o traço Recursos. Note que você deve pagar PR para qualquer traço positivo de ego que você ganhar, querendo ele ou não. Se você não tiver PR disponível, você deve pagar imediatamente com qualquer PR futuro que você ganhar até que a dívida seja paga.
 
 Note que você não ganha PR de qualquer traço positivo de ego que você perca como consequência de suas ações, nem de traços negativos de ego que você adquire durante o jogo — você está simplesmente preso a nova falha.
 
-### Melhorar Aptidões
-
-Aumente aptidões ao custo de 1&nbsp;PR por ponto de aptidão. Aptidões não podem ser aumentadas acima de 30.
-
-Aumentar o valor de uma aptidão também aumenta o valor de todas as perícias vinculadas por uma quantia equivalente (dobrada no caso de Evasão/Percepção).
-
 ### Melhorar e Aprender Perícias
 
 Para melhorar uma perícia existente ou aprender uma nova, você deve ativamente praticá-la, estudá-la e/ou buscar instrução. Cada PR gasto lhe dá 5 pontos de perícia para alocar. Novas perícias são aumentadas a partir do valor da aptidão vinculada.
 
 Uma vez que você tenha atingido um nível de competência em uma perícia (60+), você atingiu um platô onde a melhora progride mais lentamente, e até a prática e estudos consistentes têm menos resultados. Você não pode gastar mais de 1 ponto de perícia em perícias que estão em 60 ou mais por semana de recesso. Nenhuma perícia pode ser elevada acima de 100 (e mesmo assim, 99 ainda é uma falha crítica).
+
+### Melhorar Aptidões
+
+Aumente aptidões ao custo de 1&nbsp;PR por ponto de aptidão. Aptidões não podem ser aumentadas acima de 30.
+
+Aumentar o valor de uma aptidão também aumenta o valor de todas as perícias vinculadas por uma quantia equivalente (dobrada no caso de Evasão/Percepção).
 
 ### Aumentar Flex
 
@@ -90,6 +94,10 @@ Você pode eliminar o prejuízo de traço negativo de ego através do trabalho d
 ### Especializar-se
 
 Você pode se especializar em uma perícia existente, desde que essa perícia tenha pelo menos 30 de graduação. O custo para aprender uma especialização é 1&nbsp;PR. Apenas 1 especialização pode ser comprada por perícia.
+
+<!--sort-end-->
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote -->
 

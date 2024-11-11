@@ -2,6 +2,8 @@
 
 Os transumanos se adaptaram a muitos ambientes, mas há muitos riscos que devem ser considerados.
 
+<!--sort-->
+
 ## Asfixia
 
 O transumano médio pode segurar a respiração por dois minutos antes de desmaiar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Destruição e morra ou consiga respirar de novo. Esse dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.
@@ -73,3 +75,6 @@ A alta gravidade é qualquer coisa significativamente mais forte do que a gravid
 ## Clima
 
 Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
+
+<!--sort-end-->
+

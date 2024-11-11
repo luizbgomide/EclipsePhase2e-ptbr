@@ -6,7 +6,8 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 
 ### Lista de Perícias
 
-<!--order-->
+<!--sort-->
+
 | Perícia                                            | Aptidão Vinculada                               | Tipo                  |
 |:-------------------------------------------------- |:----------------------------------------------- |:--------------------- |
 | [Atletismo](#athletics)                            | Somática                                        | Ativa, Física         |
@@ -34,7 +35,8 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 
 <!-- CLEANED /blockquote -->
 
-<!--order-->
+<!--sort-->
+
 ## Atletismo
 
 <!-- CLEANED div class="stat-list" -->
@@ -228,7 +230,7 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para ser esquivada ou pela perícia Luta do oponente se ele bloquear ou defender.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
 
 - **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
@@ -359,4 +361,4 @@ Use Sobrevivência para navegar, rastrear uma pessoa ou animal na natureza, obte
 
 <!-- CLEANED /div -->
 
-<!--order-end-->
+<!--sort-end-->

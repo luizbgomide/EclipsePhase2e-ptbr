@@ -2,6 +2,8 @@
 
 Usar a mesh é uma coisa cotidiana e intuitiva para a maioria dos transumanos. Esta seção detalha alguns dos usos mais comuns e as considerações sobre segurança ou hackeamento.
 
+<!--sort-->
+
 ## Realidade Aumentada (RA)
 
 A RA sobrepõe dados e entradas sensoriais da mesh nos seus sentidos físicos. Isso permite que você sinta imagens e vídeos, textos, sons, sensações físicas, e até gostos e cheiros no passar do dia. A entrada sensorial de RA é de alta resolução e aparentemente real, mas geralmente ela recebe uma aparência fantasmagórica para não ser confundida com interações do mundo real. Os dados de RA podem ser personalizados, filtrados e organizados como quiser.
@@ -97,3 +99,6 @@ Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no
 Apenas [servidores](04-devices-apps-and-links.md#servers) tem a largura de banda e processamento necessários para executar simulespaços completos de RV, especialmente aqueles com múltiplos usuários. Para maior estabilidade, a maioria dos serviços de RV são oferecidos em locais com redes físicas cabeadas. São fornecidas poltronas fechadas confortáveis para os usuários, pois os seus sentidos físicos são cortados.
 
 A RV é coberta em mais detalhes em [Realidade Virtual](18-virtual-reality.md).
+
+<!--sort-end-->
+

@@ -2,6 +2,8 @@
 
 A tecnologia de armaduras acompanhou o desenvolvimento de armas, fornecendo níveis de proteção sem precedentes.
 
+<!--sort-->
+
 | TIPO DE ARMADURA                                            | Tipo de Ware | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Notas                        |
 |:----------------------------------------------------------- |:------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
 | Vestuário Reforçado                                         |      —       |     +1     |    +3    |                 Men/1                 | Ocultável                    |
@@ -59,6 +61,8 @@ Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará sus
 
 ## Wares de Armadura
 
+<!--sort-->
+
 **Biotrama:** As camadas dérmicas do morfo estão entrelaçadas com fibras de seda de aranha, oferecendo proteção sem alterar a aparência, textura ou sensibilidade da pele.
 
 **Blindagem Dérmica:** O morfo está equipado com uma camada densa de fibras balísticas e placas subdérmicos flexíveis. Isso não reduz a mobilidade, mas deixa a pele mais lisa e menos flexível (exceto nas juntas), e as áreas com placas são visivelmente levantadas. A percepção de tato do morfo sofre um modificador −20.
@@ -71,9 +75,13 @@ Qualquer armadura com um VA de 11 ou mais é óbvia e visível, e levantará sus
 
 **Blindagem de Escamas/Carapaça:** Como a blindagem dérmica, mas combinada com escamas e/ou placas externas quitinosas rígidas, mas flexíveis, baseada nos exoesqueletos artrópodes. Essa armadura é óbvia e a pele tem a aparência de um crocodilo, inseto, pangolim, cobra ou outra criatura couraçada.
 
+<!--sort-end-->
+
 ## Equipamentos de Armadura
 
 Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de aranha, placas cristalinas sintéticas, fulerenos de absorção de choque, revestimentos diamantados, materiais ablativos autorreparáveis, e fluidos resistentes a cisalhamento que endurecem no impacto. Esses materiais protegem contra balas (perfurantes de armadura) e impactos cinéticos, assim como contra armas cortantes e objetos afiados e pontiagudos. Eles também protegem contra o calor explosivo de armas energéticas e choques elétricos. Mesmo essas armaduras protegendo contra balas, as camadas simplesmente pegam a bala e redistribuem sua energia cinética pelo corpo, o que ainda pode resultar em fortes contusões.
+
+<!--sort-->
 
 **Vestuário Reforçado:** Fibras resistentes e fulerenos são entrelaçados com materiais inteligentes normais para fornecer um pouco de proteção. Essas vestimentas são indistinguíveis de vestuários inteligentes normais e são feitas em todos os estilos e modelos.
 
@@ -94,3 +102,6 @@ Os materiais das armaduras modernas em Eclipse Phase incluem tramas de seda de a
 **Escudo Antimotim:** Usado para supressão de tumultos, os escudos antimotim são leves, resistentes e podem ser eletrificados quando necessário (trate como um [ataque de choque em luta](15-special-attacks.md#shock-attacks)).
 
 **Segunda Pele:** Esse macacão justo e leve, tecido com seda de aranha e fulerenos, é tipicamente usado como uma primeira camada de vestuário, apesar de alguns atletas o utilizarem como uniforme.
+
+<!--sort-end-->
+

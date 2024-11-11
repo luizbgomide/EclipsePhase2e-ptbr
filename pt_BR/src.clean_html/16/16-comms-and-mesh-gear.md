@@ -20,15 +20,19 @@ Em um mundo em rede, manter o contato é essencial.
 
 Uma variedade de tecnologias são úteis para manter as linhas de comunicação abertas, mesmo em mundos alienígenas.
 
-| EQUIPAMENTOS DE COMUNICAÇÃO         | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
-|:----------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
-| Sistema de Migalhas                 |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                    |
-| Sinalizador de Emergência           |                 Men/1                 | Poderoso transmissor de rádio, alcance de 50/500&nbsp;km.                               |
-| Ligação Laser/Micro-Ondas (Micro)   |                 Men/1                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 500&nbsp;m.      |
-| Ligação Laser/Micro-Ondas (Pequeno) |                 Mod/2                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 50/500&nbsp;km.  |
-| Gravador de Missão                  |                 Men/1                 | Grava todos os dados da missão.                                                         |
-| Amplificador de Rádio               |                 Men/1                 | Estende alcance de rádio, 25/250&nbsp;km de alcance.                                    |
-| Pacote de Satélites                 |                 Mai/3                 | Coloca satélites em órbita para GPS, imageamento, comunicações, Saber: Meteorologia 60. |
+<!--sort-->
+
+| EQUIPAMENTOS DE COMUNICAÇÃO                                    | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
+|:-------------------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
+| Sistema de Migalhas                                            |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                    |
+| Sinalizador de Emergência                                      |                 Men/1                 | Poderoso transmissor de rádio, alcance de 50/500&nbsp;km.                               |
+| Ligação Laser/Micro-Ondas (Micro)                              |                 Men/1                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 500&nbsp;m.      |
+| <!--sort-union-->Ligação Laser/Micro-Ondas (Pequeno) |                 Mod/2                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 50/500&nbsp;km.  |
+| Gravador de Missão                                             |                 Men/1                 | Grava todos os dados da missão.                                                         |
+| Amplificador de Rádio                                          |                 Men/1                 | Estende alcance de rádio, 25/250&nbsp;km de alcance.                                    |
+| Pacote de Satélites                                            |                 Mai/3                 | Coloca satélites em órbita para GPS, imageamento, comunicações, Saber: Meteorologia 60. |
+
+<!--sort-->
 
 **Sistema de Migalhas:** Esse dispositivo vestível libera ciscos de “micromigalhas” para trás conforme você se move, aproximadamente a cada 25 metros. Esses dispositivos formam mesh uns com os outros e com outros dispositivos, permitindo que você mapeie a sua posição em relação ao rastro de migalhas e criando uma conexão mesh por todo o caminho até a origem do rastro. Isso é útil para rastrear seus deslocamentos, achar seu caminho de volta, e manter-se em mesh com seu acampamento ou nave em habitats abandonados, áreas selvagens e outros lugares onde não há uma mesh local funcional.
 
@@ -41,6 +45,8 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 **Amplificador de Rádio:** Esse dispositivo portátil aumenta o alcance e sensibilidade de rádios de curto alcance, como aqueles de implantes, ectos e microescutas. O amplificador deve estar ao alcance do dispositivo de menor alcance (ou ligado diretamente via cabo de fibra óptica). Ele vai repetir quaisquer transmissões recebidas desse dispositivo, mas com um alcance estendido de 25 quilômetros em áreas urbanas e 250 quilômetros em áreas remotas ([Alcances de Rádios e Sensores](#radio-and-sensor-ranges)). Os amplificadores são comumente usados por personagens viajando para longe de habitats ou outras regiões civilizadas.
 
 **Pacote de Satélites:** Esse míssil hidrogênio metálico de tamanho médio pode ser lançado em qualquer mundo com 2&nbsp;g de gravidade ou menos. Um tubo de lançamento de material inteligente automaticamente estende suportes e aponta para a trajetória adequada. Ele coloca 32 pequenos satélites em órbita, que depois de 1–2 dias estarão em posição para cobrir o planeta com dados de GPS, imagens hiperespectrais de baixa resolução (até 100 metros), e uma rede de comunicação/mesh para qualquer um no planeta com um amplificador de rádio. Os satélites podem mapear o planeta e fornecer dados meteorológicos usando Saber: Meteorologia 60.
+
+<!--sort-end-->
 
 ## Comunicadores de Neutrinos
 

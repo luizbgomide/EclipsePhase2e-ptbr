@@ -2,6 +2,8 @@
 
 Menos orientados ao combate, mas não menos úteis, esses mods corporais aumentam suas capacidades e fornecem novas habilidades. Observe que muitos outros equipamentos podem ser fixados na carcaça de sintemorfo e ligados aos seus sistemas se energia e insertos da mesh (a critério do MJ).
 
+<!--sort-->
+
 | AMPLIAÇÕES FÍSICAS      | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                                |
 |:----------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------ |
 | Regulação Circadiana    |      BM      |                 Mod/2                 | Precisa de apenas 2 horas de sono. Recargas longas demoram 2 horas.                                                      |
@@ -26,12 +28,14 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 | Adaptação de Pressão    |      BH      |                 Men/1                 | Suporta pressões extremas.                                                                                               |
 | Membros Retráteis       |      H       |                 Men/1                 | Membro se retrai, pode segurar 1 item pequeno.                                                                           |
 | Ajuste de Forma         |      H       |                 Mai/3                 | Composição de materiais inteligentes, pode criar 2 itens/wares Men ou 1 Mod, e mais.                                     |
-| Ligação Dérmica         |      HN      |                 Men/1                 | Cria uma ligação de mesh “cabeada” pelo toque.                                                                           |
 | Bolso de Pele           |      B       |                 Men/1                 | Ocultação (+30 em Infiltração) para itens muito pequenos (e alguns pequenos).                                            |
+| Ligação Dérmica         |      HN      |                 Men/1                 | Cria uma ligação de mesh “cabeada” pelo toque.                                                                           |
 | Proteção Termogênica    |      H       |                 Mod/2                 | Suporta temperaturas de até 1.000&nbsp;°C.                                                                               |
 | Utilimod                |      CH      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
 | Vedação de Vácuo        |      B       |                 Men/1                 | Pode sobreviver à exposição ao vácuo.                                                                                    |
 | Asas                    |     BCH      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
+
+<!--sort-->
 
 **Regulação Circadiana:** Seu morfo exige apenas 2 horas de sono para manter a saúde e funcionar no ápice da capacidade mental. Você sonha constantemente enquanto dorme, e pode tanto adormecer quanto acordar quase que instantaneamente. Você também pode facilmente mudar para um ciclo de 2 dias, acordado por 44 horas e dormindo 4 horas, sem efeitos negativos. Você precisa de apenas 2 horas para uma recarga longa de suas paradas ([Recarregando Paradas](../03/05-pools.md#recharging-pools)).
 
@@ -77,9 +81,9 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 **Ajuste de Forma:** Essa carcaça é feita de materiais inteligentes que permitem que ela altere sua forma, altura, largura, circunferência e características externas, enquanto mantém a mesma massa. A habilidade de alterar a forma não é totalmente ilimitada, devido aos componentes internos da carcaça; converse com seu MJ para estabelecer o que é possível. Esse mod é usado primariamente para remodelar o morfo em configurações especiais pré-definidas e adaptadas para tarefas específicas (por exemplo, se alongar para rastejar por um túnel, alargar sua base para ter estabilidade, expandir-se para alcançar e se conectar em vários pontos de acesso simultaneamente, e assim por diante). A mudança de forma permite que você altere sua composição para funcionar como quaisquer 2 itens/wares de complexidade Menor ou 1 item/ware de complexidade Moderada, permitidos pelo MJ (sem precisar de diagramas). Conjuntos extras de membros contam como ware Menor. Formas simples e projetos mecânicos são fáceis de criar, mas eletrônicos avançados, projetos complexos, e componentes especializados estão além do escopo desse mod. A alteração de forma leva no mínimo 1d6 minutos, e pode demorar até 1d6 horas para mudanças substanciais. Esse mod também permite que o morfo altere sua aparência para fins de disfarce; aplique um modificar +30 em Testes de Enganação baseados em disfarces ou de Perícia Exótica: Disfarce.
 
-**Ligação Dérmica:** Os nanobots de ligação dérmica vivem na pele ou carcaça externa do morfo, automaticamente se deslocando e criando uma conexão física com qualquer eletrônico que você toca. Eles também se aproveitam do campo elétrico na pele de um biomorfo para comunicação. Eles permitem que você se comunique e forme mesh com dispositivos equipados com ligação dérmica, dispositivos com portas de acesso externo, dispositivos com eletrônica exposta, ou outros personagens com ligação dérmica, apenas tocando-os. Isso é considerado uma ligação cabeada, e portanto não está sujeito a farejamento ou bloqueio de sinais.
-
 **Bolso de Pele:** Um bolso dentro da sua camada de pele fornece ocultação (+30 em Infiltração) para itens muito pequenos.
+
+**Ligação Dérmica:** Os nanobots de ligação dérmica vivem na pele ou carcaça externa do morfo, automaticamente se deslocando e criando uma conexão física com qualquer eletrônico que você toca. Eles também se aproveitam do campo elétrico na pele de um biomorfo para comunicação. Eles permitem que você se comunique e forme mesh com dispositivos equipados com ligação dérmica, dispositivos com portas de acesso externo, dispositivos com eletrônica exposta, ou outros personagens com ligação dérmica, apenas tocando-os. Isso é considerado uma ligação cabeada, e portanto não está sujeito a farejamento ou bloqueio de sinais.
 
 **Proteção Termogênica:** O sintemorfo pode operar em ambientes de altas temperaturas com dissipadores de calor e sistemas de refrigeração, conseguindo suportar até 1.000&nbsp;°C. Isso também fornece VA +5/0.
 
@@ -88,3 +92,6 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 **Vedação de Vácuo:** Seu morfo é modificado para sobreviver aos efeitos do vácuo. Você pode vedar sua boca, nariz e outros orifícios para evitar o congelamento de fluidos corporais por resfriamento evaporativo. Uma membrana especial protege seus olhos, permitindo que você veja no vácuo sem distorções ou danos. Seu sistema também está protegido dos efeitos da doença de descompressão e hipóxia. Você ainda está vulnerável a asfixia, radiação e possivelmente calor (na luz solar) ou perda de calor (na sombra), por isso, esse mod é frequentemente acompanhado de cyberware de reserva de oxigênio, respirócitos e/ou tolerância ao frio.
 
 **Asas:** Seu morfo está equipado com um par de asas; sejam membros adicionais ou braços reestruturados. Para morfos pequenos, isso permite planar e voo limitado em gravidades semelhantes à Terra. Morfos de tamanho médio podem voar em gravidades menores que 0,15&nbsp;g; em gravidades maiores eles podem planar. Morfos grandes e muito grandes não podem usar essa ampliação. A maioria dos projetos de asas são transgênicos e baseados na fisiologia de morcegos, para que elas possam ser dobradas facilmente quando não são usadas. Se combinadas com ware de membros retráteis, essas asas podem ser dobradas para dentro dos braços ou das costas.
+
+<!--sort-end-->
+

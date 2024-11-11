@@ -20,6 +20,8 @@ Truques psi-qui são habilidades subconscientes passivas e sempre ativas dispon�
 
 Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** Pessoal • **Duração:** Constante • sem Modificador de Infecção.
 
+<!--sort-->
+
 | Truque                                            | Descrição                                                                            |
 |:------------------------------------------------- |:------------------------------------------------------------------------------------ |
 | [Carisma](#charisma)                              | Diminui as inibições, aumenta o charme. +1 na parada de Manha.                       |
@@ -44,6 +46,8 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | [Xenoempatia](#xeno-empathy)                      | Pode usar Prova de SAG para obter compreensão de vida não terrestre.                 |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Carisma
 
@@ -131,6 +135,8 @@ Você tem um melhor controle sobre os seus sinais emotivos, linguagem corporal e
 
 Você tem uma compreensão intuitiva de organismos não humanos e não terrestres (análogos de animais). Você pode fazer uma Prova de SAG para ter noções sobre o nicho ecológico da criatura, as motivações, as necessidades e as prováveis respostas comportamentais (se não for sapiente) ou os estados mentais/emocionais (se for sapiente).
 
+<!--sort-end-->
+
 ## Truques Psi-Gama
 
 Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um biomorfo, mas também a vida animal). Os psi-gama só estão disponíveis para personagens com Nível 2 no traço Psi. Os truques psi-gama devem ser ativados, exigindo uma ação rápida, complexa ou de tarefa e um teste da perícia Psi. Os truques que tenham como alvo outros seres sencientes ou formas de vida são sempre testes opostos, enquanto os outros são tratados como testes de sucesso. Os truques ativos exigem um esforço significativo do assincro e podem provocar crises de infecção do exovírus ([Modificadores de Infecção](04-using-psi.md#infection-modifiers)).
@@ -138,6 +144,8 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 <!-- CLEANED blockquote class="framed-table" -->
 
 ### Truques Psi-Gama
+
+<!--sort-->
 
 | Truque                                         |   Ação   |    Duração     | Mod de infecção | Descrição                                                                                                                                                         |
 |:---------------------------------------------- |:--------:|:--------------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -180,6 +188,8 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Tranquilidade](#tranquility)                  | Complexa |    Minutos     |        4        | Alvo é aliviado de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado. Não pode ser usado em si mesmo. |
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-->
 
 ### Alteração de Efeito
 
@@ -406,3 +416,6 @@ Você implanta uma única sugestão pós-hipnótica na mente do alvo, que ele re
 **Ação:** Complexa • **Duração:** Minutos • **Mod de Infecção:** 4
 
 Você acalma o alvo, aliviando o estresse e a ansiedade. O alvo é aliviado dos efeitos de uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) ou transtorno desencadeado por VON ÷ 5 minutos. Você não pode usar esse truque em si mesmo.
+
+<!--sort-end-->
+

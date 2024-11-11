@@ -60,6 +60,8 @@ Hackear externamente em um servidor executando um simulespaço é igual invadir 
 
 As opções de usuário padrão dentro de um simulespaço se resumem a algumas ações:
 
+<!--sort-->
+
 - **Acessar as Funções do Simulespaço:** Essa ação abrangente engloba tudo que um usuário normal poderia fazer em um simulespaço. Isso inclui coisas como personalizar seu simulmorfo, conversar com outros usuários, editar parâmetros do usuário, iniciar minijogos, trocar itens virtuais, ver perfis de usuário, acessar mapas ou arquivos de fundo, e assim por diante. Alguns recursos podem exigir um Teste de Interface.
 - **Ativar Código de Trapaça:** Se você conhece um código de trapaça, você pode ativá-lo para adquirir o benefício que ele fornece.
 - **Ver Regras de Domínio:** Você pode analisar os parâmetros, regras e controles da simulação. Com um Teste de Interface, isso pode lhe fornecer um entendimento das coisas que você pode fazer que não são totalmente intuitivas ou uma forma de superar um obstáculo, desafio ou quebra-cabeças específico.
@@ -67,6 +69,8 @@ As opções de usuário padrão dentro de um simulespaço se resumem a algumas a
 ## Ações de Administrador/Trapaça
 
 Administradores e usuários com códigos de trapaça têm mais opções. As seguintes representam apenas algumas das potenciais opções — muitas outras podem ser possíveis, dependendo do simulespaço em questão. A maioria dos simulespaços são monitorados para evitar trapaças e abusos, embora os administradores geralmente estão ocupados com a manutenção do simulespaço como um todo, lidando com outros usuários, etc. A critério do MJ, um administrador pode fazer um Teste de Interface (possivelmente com um modificador por distração) para perceber o uso de códigos de trapaça não autorizados.
+
+<!--sort-->
 
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente. Escrever ou editar uma trapaça pode exigir um Teste de Programação com um prazo definido pelo MJ. Encontrar uma trapaça existente pode exigir um Teste de Pesquisa. Instalar um código de trapaça oculto dos outros administradores requer um Teste de Hackeamento.
 - **Alterar Regras de Domínio:** A maioria dos simulespaços possuem interfaces para você ajustar as configurações do sistema dentro de certos parâmetros; ajustar essas não requer um teste. No entanto, alterar drasticamente o ambiente ou as regras subjacentes de um domínio, vai exigir um Teste de Programação com um prazo definido pelo MJ.

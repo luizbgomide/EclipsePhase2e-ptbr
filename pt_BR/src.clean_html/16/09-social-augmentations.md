@@ -2,6 +2,8 @@
 
 Os wares sociais, incluindo mods cosméticos, impactam suas interações com os outros e também incluem modificações cosméticos.
 
+<!--sort-->
+
 | AMPLIAÇÕES SOCIAIS     | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
 |:---------------------- |:------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
 | Escultura Corporal     |     BCH      |                 Men/1                 | Mods corporais personalizados.                                                    |
@@ -16,6 +18,8 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 | Pele-Flex              |      N       |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
 | Cobertura Sintética    |      C       |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
 | Máscara Sintética      |      H       |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
+
+<!--sort-->
 
 **Escultura Corporal:** Personalizar sua aparência é fácil. Orelhas ou dedos alongados, alteração de nariz, adição/remoção de pelos, penas, olhos exóticos, pele de cobra, genitália avantajada, caninos aumentados, bigodes de gato, pedúnculo ocular, pelagem, folhos, escarificação, piercings, corantes de pele e coisas mais estranhas são comuns em muitos habitats. Implantes subdérmicos podem criar calombos, cristas, âncoras de piercings e texturas e alterações similares. Sintemorfos também podem se divertir, com chassis estilizados, cabeças de formatos estranhos, interiores expostos, armações esculpidas, luzes, sistemas de som, e outros mods de acessórios.
 
@@ -40,3 +44,6 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 **Cobertura Sintética:** Uma máscara sintética, mas para cibermembros.
 
 **Máscara Sintética:** Sua carcaça está equipada com um revestimento realístico de pele falsa e foi cuidadosamente esculpida para parecer um biomorfo (talvez até uma pessoa específica). O morfo pode chorar, cuspir, fazer sexo e até sangrar se for cortado. Apenas um exame físico detalhado com −30 ou um escaneamento de radar ou raios X vai detectar a verdadeira natureza do sintemorfo. Se for disfarçado como uma pessoa específica, aplique um modificador +30 em Testes de Enganação baseados em disfarce ou Perícia Exótica: Disfarce.
+
+<!--sort-end-->
+

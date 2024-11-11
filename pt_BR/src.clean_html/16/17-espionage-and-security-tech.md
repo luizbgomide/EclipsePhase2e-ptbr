@@ -2,6 +2,8 @@
 
 Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 
+<!--sort-->
+
 | EQUIPAMENTOS DE ESPIONAGEM             | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                             |
 |:-------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------- |
 | Escaneador de Impressão Cerebral       |                 Men/1                 | Escaneia uma impressão cerebral em 5 minutos.                                                         |
@@ -26,6 +28,8 @@ Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 | Máquina de Ruído Branco                |                 Men/1                 | Encobre as conversas para não serem gravadas.                                                         |
 | Emissor de Raios X                     |                 Men/1                 | Transmite raios X para uso com visão aprimorada.                                                      |
 
+<!--sort-->
+
 **Escaneador de Impressão Cerebral:** Essa touca possui nanoeletrodos que tocam seu couro cabeludo, e então reproduz mídias através de um visor e fones de ouvidos. Leva 5 minutos para escanear sua impressão cerebral, que pode ser autenticada contra uma entrada de uma base de dados.
 
 **Tiras Fritadoras:** Você pode instalar essas tiras reutilizáveis ao redor de batentes e outras passagens de até 2 metros de largura. Elas criam um campo de PEM que inflige VD 3d10 em quaisquer nanoenxames ou microbots (incluindo enxamenoides) que o atravessem ([Fritadores](../18/03-security-systems.md#bug-zappers)). Inclui 20 metros de tiras (o suficiente para 3 portas padrões).
@@ -34,9 +38,15 @@ Essas tecnologias possuem muitas aplicações para agentes da Firewall.
 
 **Ferramenta de Operações de Infiltração (FOI):** Esse dispositivo de mão é o ápice em tecnologia de infiltração. Ele contém micromanipuladores de material inteligente, ferramentas de corte, e um gerador avançado de nanotecnologia capaz de produzir nanobots que podem furar ou cortar praticamente qualquer material e infiltrar os mecanismos internos de fechaduras eletrônicas para desativá-las ou abri-las.
 
+<!--sort-union-->
+
 Cortar uma fechadura/trinco ou furar um buraco de 10 centímetros de diâmetro em uma parede com uma FOI requer (Limiar de Ferimento ÷ 5) turnos de ação. Os nanobots da FOI podem reparar esse dano para que ele não seja visível, a não ser com uma análise cuidadosa e detalhada. Cortar um buraco maior com 1 metro de diâmetro na parede requer (Limiar de Ferimento ÷ 10) minutos e não pode ser reparado.
 
+<!--sort-union-->
+
 Uma FOI pode facilmente abrir qualquer fechadura mecânica antiquada, simplesmente analisando-a e moldando uma chave apropriada, embora isso leve um turno de ação inteiro.
+
+<!--sort-union-->
 
 Os nanobots da ferramenta também pode contornar a segurança de fechaduras eletrônicas. Faça um teste usando Aparelhagem: Eletrônica 60 da FOI. Essa é uma ação de tarefa com um prazo de 4 turnos de ação, seja abrindo ou desativando a fechadura. Com uma falha maior/crítica, um alarme é disparado. Com um sucesso crítico, a abertura não é logada. Se a fechadura eletrônica for protegida por um nanoenxame guardião, a FOI tem 60% de chance de abrir a fechadura antes dos seus nanobots serem desativados.
 
@@ -73,3 +83,6 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 **Máquina de Ruído Branco:** Esse pequeno dispositivo vestível gera sons de encobrimento que protegem uma conversa de ser gravada audivelmente ou escutada por qualquer um que não esteja bem próximo.
 
 **Emissor de Raios X:** Esse pequeno dispositivo emite um feixe focado de raios X de baixa potência projetado para ser usado com a ampliação de visão aprimorada, visores ou aprimoradores de visão similares. Ele permite que você veja objetos através de raios X e veja através de paredes, dentro de recipientes, e através de objetos medindo a retrodifusão da radiação de raios X ([Sentidos e Sensores](07-senses-and-sensors.md)).
+
+<!--sort-end-->
+

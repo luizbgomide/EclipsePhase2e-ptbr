@@ -2,6 +2,8 @@
 
 Use as seguintes regras para ataques especiais de luta ou de distância.
 
+<!--sort-->
+
 ## Ataques de Área de Efeito
 
 Ataques que afetam mais de um alvo ou uma área são classificados como explosão centrada, cone, ou explosão uniforme.
@@ -38,6 +40,8 @@ Atacar um alvo que você não pode ver é difícil no melhor dos casos e uma que
 
 Às vezes não é suficiente acertar o alvo — você precisa atirar em uma janela, derrubar a faca da sua mão, ou acertar aquele furo na armadura. Você pode declarar um ataque preciso antes de iniciar um ataque, escolhendo um dos resultados listados abaixo. Ataques precisos sofrem um modificador −10. Se tiver sucesso com um sucesso maior, os resultados abaixo se aplicam em vez do resultado de sucesso maior. Se você acertar, mas não tiver um sucesso maior, você simplesmente acerta o seu alvo normalmente. Você não pode fazer ataques precisos com ataques de área de efeito.
 
+<!--sort-->
+
 ### Evitar Armadura
 
 Ataques precisos podem ser usados para alvejar um buraco ou ponto fraco na armadura do oponente. Se você tiver um sucesso maior, seu acerto vara a armadura do alvo, e a armadura dele é reduzida à metade. O MJ pode determinar que a armadura do oponente não tem um ponto fraco ou área desprotegida, e não permitir esses ataques precisos, ou ele pode exigir um Teste de Percepção ou Aparelhagem: Armamentos para localizar um.
@@ -57,6 +61,8 @@ Um ataque preciso pode ser usado para empurrar seu oponente em uma direção esp
 ### Alvo Específico
 
 Um ataque preciso pode ser usado para atacar um local específico em seu oponente: desativando uma ferramenta de um bot, acertando alguém nos olhos, ou ferindo sua perna. O MJ determina o resultado. Por exemplo, o oponente pode ficar cegado ou [tonto](21-other-action-factors.md#conditions), ter seu movimento reduzido à metade, ou perder o uso de um componente específico.
+
+<!--sort-end-->
 
 ## Armas Revestidas
 
@@ -118,3 +124,6 @@ Quando se defender contra ataques de luta com múltiplas armas/membros, você re
 Você pode empunhar uma pistola em cada mão em combate de distância, ou armas maiores se você tiver mais membros (por exemplo, um octomorfo com oito membros poderia segurar 4 fuzis de assalto). Essas armas podem ser disparadas todas de uma vez contra o mesmo alvo, usando uma única ação complexa. Trate cada arma como um ataque separado, com um modificador de ataque múltiplo −20 cumulativo para cada ataque depois do primeiro (ex.: nenhum modificador no primeiro ataque, −20 no segundo, −40 no terceiro, etc.).
 
 Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque requer uma ação complexa separada.
+
+<!--sort-end-->
+

@@ -2,9 +2,13 @@
 
 Essas ferramentas são úteis para uma grande variedade de missões.
 
+<!--sort-->
+
 ## Ferramentas de Exploração
 
 Desbravadores e exploradores dependem muito destes itens.
+
+<!--sort-->
 
 | FERRAMENTAS DE EXPLORAÇÃO | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                             |
 |:------------------------- |:-------------------------------------:|:------------------------------------------------------------------------------------- |
@@ -12,28 +16,40 @@ Desbravadores e exploradores dependem muito destes itens.
 | Míssil Mapeador           |                 Mod/2                 | Mapeia o planeta de uma baixa órbita polar em 24–48 horas.                            |
 | Míssil Esquadrinhador     |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60. |
 
+<!--sort-->
+
 **Caixa Azul:** Nomeada pelo tom de cobalto em que elas eram originalmente fabricadas, as caixas azuis são dispositivos de controle de portões de pandora de tamanho pequeno. Elas devem ser fisicamente acopladas ao portão para controlá-lo; isso requer uma ação de tarefa de Aparelhagem: Eletrônica com −10 e um prazo de 1 hora. As caixas azuis possuem mecanismos de autodestruição embutidos, para que você possa destruir o dispositivo no caso dele cair nas mãos de alienígenas.
 
 **Míssil Mapeador:** Esse foguete portátil de tamanho médio estende suportes, faz pontaria e dispara para uma baixa órbita polar em qualquer planeta com gravidade abaixo de 2&nbsp;g. Durante um período de 1–2 dias, ele usa uma variedade de sensores (radar, visual, infravermelho, massa, espectrográfico) para mapear o planeta e transmitir essas informações de volta. Os mapas são de baixa resolução, não mostrando nada com menos de 100 metros de largura, mas identificará grandes massas, cidades, luzes no lado escuro do planeta, condições atmosféricas e dados sobre a rotação e a gravidade do planeta.
 
 **Míssil Esquadrinhador:** Esses mísseis de tamanho pequeno são fáceis de configurar e disparar usando um tubo descartável. Eles mapeiam uma área em um raio de 5 quilômetros do ponto de lançamento, ou até 10 quilômetros em uma direção especificada, em 20 minutos. Carregando sensores visuais, infravermelho, radar e lidar, e voando a uma altitude de 100 metros, eles podem mapear o terreno, localizar estruturas, identificar pontos de interesse e procurar por qualquer coisa que você especificar usando Percepção 60. Eles transmitem seus dados de sensor e telemetria em tempo real.
 
+<!--sort-end-->
+
 ## Ferramentas de Recuperação
 
 Essas tecnologias são frequentemente usadas por desbravadores, sucateiros espaciais e equipes da Firewall durante missões.
+
+<!--sort-->
 
 | FERRAMENTAS DE RECUPERAÇÃO | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                    |
 |:-------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------- |
 | Ferramentas de Desmontagem |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                    |
 | Cargas de Supertermite     |    Mai/R/3<br>(por 5 cargas)    | Explosivo nanometálico. VD 6d10 + 10 \[43\], aplicado/moldado com Aparelhagem: Demolições. |
 
+<!--sort-->
+
 **Ferramentas de Desmontagem:** Essa coleção de ferramentas é útil para operações de recuperação, desmanche de destroços, ou desmontar qualquer coisa, desde uma sala de habitat até um veículo ou sintemorfo. Elas incluem tochas de plasma, cortadores laser, mandíbulas pneumáticas, e ferramentas de materiais inteligentes como chaves de boca e ajustáveis que podem ser adaptadas a uma grande variedade de conexões e encaixes. Juntas, essas ferramentas são de tamanho médio, geralmente carregadas por uma mula-robô.
 
 **Cargas de Supertermite:** Essas cargas de demolição altamente estáveis e poderosas são feitas de uma combinação de nanometais e óxidos de metal. Uma única carga pode ser usada para criar uma explosão infligindo VD 6d10 +10 \[43\] quando instalada com Aparelhagem: Demolições. Uma carga pode ser moldada com um Teste de Aparelhagem: Demolições bem-sucedido, focando a explosão em uma direção de 90° específica (por exemplo, para explodir uma porta). Isso triplica o dano da explosão na direção focada; em todas as outras direções o dano é reduzido para um terço. Múltiplas cargas aplicam um efeito cumulativo.
 
+<!--sort-end-->
+
 ## Ferramentas Científicas
 
 Quando os cientistas vão a campo, isto é o que eles usam.
+
+<!--sort-->
 
 | FERRAMENTAS CIENTÍFICAS | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                               |
 |:----------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------------- |
@@ -42,6 +58,8 @@ Quando os cientistas vão a campo, isto é o que eles usam.
 | Laboratório de Bolso    |                 Mod/2                 | Analisa gases, líquidos, materiais, Saber: Química 60.                                  |
 | SolArchive Portátil     |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
 | Recipiente de Espécime  |                 Men/1                 | Mantém amostras em condições de estase.                                                 |
+
+<!--sort-->
 
 **Interface Adaptativa:** No caso de você precisar interagir com tecnologia antiga — talvez até mesmo uma relíquia alienígena ainda funcional — a interface adaptativa apresenta conectores de material inteligente que podem se conectar em praticamente qualquer dispositivo tecnológico concebível. Ela também está equipada com sensores de nanossonda que podem analisar a estrutura do dispositivo e mapear suas funções internas. A ILA da interface está equipada com as perícias Saber: Ciência da Computação, Saber: Engenharia Elétrica, Saber: Xenodados, e Interface em 60, assim como Infoseg e Programação em 40. Conectar e analisar relíquias é uma ação de tarefa com um prazo de 1 hora, possivelmente mais (a critério do MJ). Essa interface corta conexões com a mesh quando analisa dispositivos desconhecidos, para não espalhar infecções acidentalmente. Ela não compatível com tecnologia biológica ou nanotecnologia mais avançada do que a transumana.
 
@@ -53,9 +71,13 @@ Quando os cientistas vão a campo, isto é o que eles usam.
 
 **Recipiente de Espécime:** Esse recipiente de cápsula é projetado para conter amostras de qualquer tipo (química, biológica, etc.) em quase estase. Ele pode ser programado para reproduzir quaisquer condições que o usuário especificar, desde congelamento criogênico até calor extremo, ou até mesmo vácuo ou alta pressão atmosférica. Os recipientes também são envoltos em um malha de arame supercondutivo que funciona como um gaiola de Faraday e bloqueia sinais da mesh, de rádio e radiações eletromagnéticas similares.
 
+<!--sort-end-->
+
 ## Ferramentas de Sobrevivência
 
 Os seguintes equipamentos são geralmente críticos para a sobrevivência de soldados, espiões, criminosos, desbravadores, equipes de serviços de emergência, e outros que regularmente se aventuram em regiões inseguras ou desconhecidas.
+
+<!--sort-->
 
 | FERRAMENTAS DE SOBREVIVÊNCIA | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                |
 |:---------------------------- |:-------------------------------------:|:------------------------------------------------------------------------ |
@@ -66,6 +88,8 @@ Os seguintes equipamentos são geralmente críticos para a sobrevivência de sol
 | Âncoras Inteligentes         |                 Men/1                 | Arnês fixa cabos para prevenir acidentes.                                |
 | Carretel                     |                 Mod/2                 | Fabro de cabo de fulereno, suporta 5.000&nbsp;kg.                        |
 | Escalador de Carretel        |                 Men/1                 | Lançador e ascensor motorizado, Movimento 12.                            |
+
+<!--sort-->
 
 **Rede de Eletrogravitacional:** Também chamada rede de segurança, esse sistema de emergência usa campos elétricos para conter a gravidade quando cair. Embora o sistema não seja capaz de realmente levitar objetos pesados, ele vai desacelerar a queda o suficiente para que o usuário possa cair com segurança se a força gravitacional não for alta demais (menos de 50 metros em 1&nbsp;g). Reduza a distância de quedas maiores em 50 metros quando calcular o dano. Gerar esses campos elétricos consome muita energia, portanto a rede só é funciona uma vez antes de precisar ser recarregada, o que leva 4 horas.
 
@@ -80,6 +104,8 @@ Os seguintes equipamentos são geralmente críticos para a sobrevivência de sol
 **Carretel:** Os carreteis são rolos de cabos de fulereno fino (0,2 milímetros) mas superforte. Ele pode estender 250 metros de cabo capaz de suportar 5.000 quilos de peso em 1&nbsp;g. O carretel também contém um fabro especializado que fabrica mais cabos e estende-o indefinidamente, em uma taxa de 1 metro por minuto, enquanto receber matérias-primas. O carretel pode cortar os cabos que ele produz com qualquer comprimento. Se fixado no lugar usando as almofadas aderentes embutidas, ele também pode retrair o cabo em uma taxa de 50 metros por turno de ação, ou reabsorver cabos em uma taxa de 5 metros por minuto. Os cabos de carreteis podem ser cortados infligindo 30 pontos de dano.
 
 **Escalador de Carretel:** Esse dispositivo é conectado a um carretel e transforma-o em um dispositivo de escalada altamente eficaz. O escalador de carretel tem duas funções. Primeiro, ele fixa pontas endurecidas no cabo do carretel e dispara-o em alta velocidade, a até 50 metros, com força suficiente para cravar a ponta em quase toda superfície suficientemente durável (se usado como arma, ele inflige VD 2d10). Segundo, o escalador de carretel pode erguer a si mesmo e até 250&nbsp;kg pelo cabo em uma velocidade de 12 metros por turno.
+
+<!--sort-end-->
 
 ## Trajes de Vácuo
 
@@ -99,3 +125,6 @@ A menos que esteja indicado, assuma que os personagens têm modelos mais recente
 **Traje de Vácuo Leve:** Tanto os modelos de traje de vácuo de tecido inteligente quanto os antigos são ideais para ambientes menos severos como Marte, nuvens venusianas, ou exoplanetas com atmosferas moderadas, mas irrespiráveis. Os seus recirculadores fornecem 8 horas de ar. Todos os modelos incluem uma lanterna de cabeça, um ecto, e sensores atmosféricos. Eles protegem você de temperaturas entre −75 e 100&nbsp;°C. Esses trajes de vácuo também fornecem um Valor de Armadura de 5/2 e automaticamente selam vazamentos de forma instantânea, a não ser que mais do que 20 pontos de dano tenham sido infligidos de uma vez.
 
 **Traje de Vácuo Padrão:** Feito de materiais mais grossos e duráveis, os trajes de vácuo padrões fornecem 48 horas de ar e incorporam um autocozedor capaz de reciclar todos os resíduos e produzir alimentos e água indefinidamente. Cada traje está equipado com um ecto, um amplificador de rádio, visor, e sensores atmosféricos. Esses trajes têm um Valor de Armadura de 8/6 e protegem você de temperaturas entre −175 e 140&nbsp;°C. Eles selam instantaneamente qualquer buraco, a não ser que mais do que 30 pontos de dano tenham sido infligidos de uma vez.
+
+<!--sort-end-->
+

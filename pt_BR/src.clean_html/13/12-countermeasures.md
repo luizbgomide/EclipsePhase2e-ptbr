@@ -62,6 +62,8 @@ Quando um sistema está em alerta ativo, todos os invasores sofrem um modificado
 
 As contramedidas passivas são iniciadas como precaução sempre que há atividade incomum ou outros sinais de que pode haver um invasor ou malware envolvido. Algumas dessas contramedidas são automaticamente ativadas pelo sistema ou firewall sempre que um alerta passivo ou ativo for iniciado.
 
+<!--sort-->
+
 ### Backupear
 
 **\[Automática\]**
@@ -90,9 +92,13 @@ Os firewalls dos sistemas podem ser configurados para reautenticar automaticamen
 
 Como medida de proteção, o sistema reduz temporariamente os privilégios de acesso disponíveis para os usuários padrão — e, às vezes, para contas de segurança também. Isso significa que usuários legítimos podem ser incapazes de realizar certas funções, usar alguns apps/serviços ou acessar determinados diretórios sem a autorização de uma conta de administrador.
 
+<!--sort-end-->
+
 ## Contramedidas Ativas
 
 As contramedidas ativas são iniciadas quando um invasor é totalmente detectado (status descoberto). Os sistemas/firewalls podem ser configurados para acionar imediatamente contramedidas automáticas; outras podem ser executadas a critério do defensor.
+
+<!--sort-->
 
 ### Contrainvadir
 
@@ -123,6 +129,8 @@ Uma alternativa para o desligamento ou reinicialização é simplesmente cortar 
 **\[Automática\]**
 
 Os defensores podem iniciar um rastreamento em um invasor descoberto. A maioria dos hackers tem o cuidado de usar um serviço de anonimização para mascarar sua mesh ID e localização, mas esse nem sempre é o caso. Se um invasor for localizado fisicamente, o procedimento padrão é alertar a segurança do habitat ou outras polícias locais ou privadas, que se mobilizarão para prender o suspeito.
+
+<!--sort-end-->
 
 ## Auditorias de Segurança
 

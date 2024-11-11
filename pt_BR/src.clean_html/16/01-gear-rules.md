@@ -71,6 +71,8 @@ Em resumo, a energia raramente deve ser um problema em jogos de Eclipse Phase, a
 
 Ware é uma categoria abrangente para ampliações de diferentes tipos:
 
+<!--sort-->
+
 - **Biowares (B)** incluem modificações genéticas, alterações nanocirúrgicas de tecido, e implantação de órgãos bioprojetados. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Devido à sua natureza orgânica, biowares são difíceis de serem detectados em escaneamento; é necessário testes genéticos ou outras bioamostras. Use Medicina: Biotecnologia para diagnosticar, implantar ou reparar.
 - **Ciberwares (C)** são dispositivos sintéticos implantados em um corpo biológico ou “cultivados” usando nanobots. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Ciberwares são detectáveis com escaneamentos de raios X ou radar. Eles podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia para implantar, Aparelhagem: Eletrônica para reparar o ware em si.
 - **Equipawares (H)** são complementos de carcaças sintéticas. Eles só estão disponíveis para sintemorfos, bots e veículos. Eles podem ser hackeados. Use Aparelhagem: Robótica, ou uma área apropriada para veículos, para instalar, diagnosticar e reparar. Muitos equipamentos que não são wares podem ser montados ou incorporados na armação de uma carcaça como equipawares (a critério do MJ).

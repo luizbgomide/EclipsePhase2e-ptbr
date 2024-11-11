@@ -10,7 +10,8 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 ## Facções
 
-<!--order-->
+<!--sort-->
+
 **Anarquistas:** Você acredita que o poder é corrupto e apoia organizações voluntárias, não hierarquizadas, baseadas na democracia direta.
 
 **Argonautas:** Você busca soluções tecnoprogressivas para as injustiças e desigualdades da transumanidade.
@@ -41,7 +42,7 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 **Venusianos:** Você adere à visão da Constelação Estrela d'Alva para um hipercapitalismo mais socializado e amigável.
 
-<!--order-end-->
+<!--sort-end-->
 
 **Regionais:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
 

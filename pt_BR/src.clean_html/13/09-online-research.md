@@ -46,29 +46,29 @@ Só porque você adquiriu os dados não significa que você os entenda. Você po
 
 ### Pesquisa Online
 
-| Situação                                                                                                                                 | Modificadores |
-|:---------------------------------------------------------------------------------------------------------------------------------------- |:-------------:|
-| Fontes Conflitantes                                                                                                                      |      −10      |
-| Possui Pistas, Rastros ou Detalhes Corroborantes                                                                                         |   +10 a +30   |
-| Disponibilidade                                                                                                                          |               |
-| <!-- CLEANED div class="indent" -->» Informação Difundida<!-- CLEANED /div -->                          |   prazo ÷ 2   |
-| <!-- CLEANED div class="indent" -->» Enterrado em Outros detalhes<!-- CLEANED /div -->                     |   prazo × 2   |
-| <!-- CLEANED div class="indent" -->» Dados Obscuros ou Incomuns<!-- CLEANED /div -->                         |   −10 a −30   |
-| <!-- CLEANED div class="indent" -->» Dados Privados ou Proprietários<!-- CLEANED /div -->                     |  −30 ou N/A   |
-| Análise/Comparação de Conjuntos de Dados                                                                                                 |               |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Pequenos (um estudo/amostra científica)<!-- CLEANED /div --> |   prazo ÷ 2   |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Medianos (vários estudos/amostras)<!-- CLEANED /div -->      |       —       |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Grandes (dezenas de estudos/amostras)<!-- CLEANED /div -->      |   prazo × 4   |
-| <!-- CLEANED div class="indent" -->» Conjuntos de Dados Massivos (centenas de estudos/amostras)<!-- CLEANED /div --> |  prazo × 20   |
-| Escaneamento Biométrico em Tempo Real                                                                                                    |               |
-| <!-- CLEANED div class="indent" -->» Instalação/Habitat Pequeno<!-- CLEANED /div -->                          |       —       |
-| <!-- CLEANED div class="indent" -->» Vizinhança/Habitat Mediano<!-- CLEANED /div -->                     |      −10      |
-| <!-- CLEANED div class="indent" -->» Cidade/Habitat Grande<!-- CLEANED /div -->                              |      −30      |
-| Previsão                                                                                                                                 |               |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Pequenos (1 semana)<!-- CLEANED /div -->                         |      −30      |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Medianos (1 mês)<!-- CLEANED /div -->                       |       —       |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Grandes (1 ano)<!-- CLEANED /div -->                         |      +10      |
-| <!-- CLEANED div class="indent" -->» Conjunto de Dados Massivos (5+ anos)<!-- CLEANED /div -->                     |      +30      |
+| Situação                                         | Modificadores |
+|:------------------------------------------------ |:-------------:|
+| Fontes Conflitantes                              |      −10      |
+| Possui Pistas, Rastros ou Detalhes Corroborantes |   +10 a +30   |
+| Disponibilidade                                  |               |
+| <p class="indent">» Informação Difundida</p>                        |   prazo ÷ 2   |
+| <p class="indent">» Enterrado em Outros detalhes</p>                        |   prazo × 2   |
+| <p class="indent">» Dados Obscuros ou Incomuns</p>                        |   −10 a −30   |
+| <p class="indent">» Dados Privados ou Proprietários</p>                        |  −30 ou N/A   |
+| Análise/Comparação de Conjuntos de Dados         |               |
+| <p class="indent">» Conjunto de Dados Pequenos (um estudo/amostra científica)</p>                        |   prazo ÷ 2   |
+| <p class="indent">» Conjunto de Dados Medianos (vários estudos/amostras)</p>                        |       —       |
+| <p class="indent">» Conjunto de Dados Grandes (dezenas de estudos/amostras)</p>                        |   prazo × 4   |
+| <p class="indent">» Conjuntos de Dados Massivos (centenas de estudos/amostras)</p>                        |  prazo × 20   |
+| Escaneamento Biométrico em Tempo Real            |               |
+| <p class="indent">» Instalação/Habitat Pequeno</p>                        |       —       |
+| <p class="indent">» Vizinhança/Habitat Mediano</p>                        |      −10      |
+| <p class="indent">» Cidade/Habitat Grande</p>                       |      −30      |
+| Previsão                                         |               |
+| <p class="indent">» Conjunto de Dados Pequenos (1 semana)</p>                       |      −30      |
+| <p class="indent">» Conjunto de Dados Medianos (1 mês)</p>                       |       —       |
+| <p class="indent">» Conjunto de Dados Grandes (1 ano)</p>                       |      +10      |
+| <p class="indent">» Conjunto de Dados Massivos (5+ anos)</p>                       |      +30      |
 
 <!-- CLEANED /blockquote -->
 

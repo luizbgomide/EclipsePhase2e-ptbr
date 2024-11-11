@@ -12,6 +12,8 @@ Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros 
 
 Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de segurança ou de administrador.
 
+<!--sort-->
+
 - **Acesso Outro Sistema:** Você pode [autenticar](05-authentication-and-encryption.md#authentication-methods) e acessar uma conta em outro sistema. Isso cria um [console de conta](05-authentication-and-encryption.md#accounts--access-privileges), representando sua presença nesse sistema.
 - **Aplicar Tag:** Você pode marcar uma pessoa, local ou coisa física com uma e-tag visível em RA ([Tags](03-common-mesh-uses.md#tagging)).
 - **Comunicar:** Você pode conversar por e-mail, texto, voz ou vídeo com outros online, contanto que tenha a mesh ID deles.
@@ -43,6 +45,8 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 
 Ações reservadas para contas com privilégios de segurança ou de administrador.
 
+<!--sort-->
+
 - **Adquirir Mesh ID:** Você pode adquirir a mesh ID de qualquer um acessando o sistema.
 - **Ativar Contramedidas:** Você pode iniciar [contramedidas](12-countermeasures.md) ativas contra um invasor, tais como barrá-lo, rastreá-lo ou fazer uma reinicialização.
 - **Atacar:** Você pode tentar travar um programa, incluindo consoles de conta, apps, firewalls, infomorfos, sistemas operacionais e serviços ([Combate na Mesh](14-mesh-combat.md)).
@@ -59,6 +63,8 @@ Ações reservadas para contas com privilégios de segurança ou de administrado
 ## Ações de Administrador
 
 Apenas contas de administrador estão autorizadas a realizar essas ações.
+
+<!--sort-->
 
 - **Desativar Sensores ou Funções de Dispositivo:** Você pode desligar sensores ou outras funções físicas. Isso pode impedir que alguém com acesso físico ao dispositivo o utilize.
 - **Modificar Contas:** Você pode adicionar novas contas e remover antigas. Não é possível remover contas que estão sendo acessadas no momento — o usuário deve deslogar completamente primeiro (ou ter seu console de conta travado em combate na mesh). Todo dispositivo tem uma conta de administrador root que não pode ser removida (sem eliminar o sistema).

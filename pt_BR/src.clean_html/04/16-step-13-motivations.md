@@ -24,7 +24,8 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 
 <!-- CLEANED div class="two-columns-text" -->
 
-<!--order-->
+<!--sort-->
+
 - Aceitação
 - Pessoas IGA
 - Contato Alienígena

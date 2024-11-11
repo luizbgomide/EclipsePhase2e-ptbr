@@ -6,7 +6,8 @@ Apesar de conceitualmente as perícias serem construídas sobre os valores de ap
 
 **Gastando PP:** Pontos de aptidão extra custam 1&nbsp;PP cada. Se você vai aumentar uma aptidão, nós recomendamos fazê-lo agora, antes de você calcular suas perícias no Passo 6.
 
-<!--order-->
+<!--sort-->
+
 ### Operativo
 
 Você está mais confortável com a fisicalidade do que falar ou pensar.
@@ -23,7 +24,7 @@ Você é bom com pessoas, planejamentos e empreendimentos.
 
 Você nunca se destacou, mas demonstra uma ampla competência.
 
-### Inquisidor
+### Indagador
 
 Sua mente criativa é boa em descobrir as coisas.
 
@@ -35,20 +36,21 @@ Você tem a vontade e a energia para se safar em situações difíceis.
 
 Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápido compensam a sua falta de visão.
 
-<!--order-end-->
+<!--sort-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
 ### Modelo de Aptidões
 
-<!--order-->
+<!--sort-->
+
 | Modelo       | COG | INT | REF | SAG | SOM | VON |
 |:------------ |:---:|:---:|:---:|:---:|:---:|:---:|
 | Operativo    | 10  | 15  | 20  | 10  | 20  | 15  |
 | Extrovertido | 10  | 20  | 15  | 20  | 15  | 10  |
 | Facilitador  | 15  | 15  | 10  | 20  | 10  | 20  |
 | Generalista  | 15  | 15  | 15  | 15  | 15  | 15  |
-| Inquisidor   | 20  | 20  | 10  | 15  | 10  | 15  |
+| Indagador    | 20  | 20  | 10  | 15  | 10  | 15  |
 | Sobrevivente | 15  | 10  | 15  | 10  | 20  | 20  |
 | Aventureiro  | 20  | 10  | 20  | 15  | 15  | 10  |
 

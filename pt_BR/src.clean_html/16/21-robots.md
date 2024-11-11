@@ -31,12 +31,19 @@ Você encarna um drone imergindo em uma sobreposição de RA do corpo e sensóri
 
 Trate a encarnação da mesma forma como se tivesse encapado o drone; use as paradas do drone em vez das do seu morfo. No entanto, como a encarnação é um pouco inferior ao encape real, você sofre um modificador −10 em todas as ações (a não ser que esteja equipado com [acoplagem drone](08-mental-augmentations.md)).
 
+<!--sort-->
+
 ## Bots de Combate
 
 Estes bots são úteis para aplicações de segurança, defesa e combate.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS DE COMBATE<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Anjo da Guarda<td>Mod/2<td>0&nbsp;(1)<td>1<td>16/12<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -44,6 +51,9 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 - **Wares:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Parisfera<td>Raro/—<td>3<td>0<td>28/24<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -51,6 +61,9 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 - **Wares:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Sentinela<td>Raro/—<td>1&nbsp;(2)<td>1<td>18/14<td>15<td>75<td>150<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -58,13 +71,21 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 - **Wares:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Drone Escudo<td>Men/1<td>0<td>0<td>+6/+12<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Esteira 4/12
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Anjo da Guarda:** Similares a mosquitos, os anjos da guarda são drones maiores com rotores e usados para fins defensivos. Eles pairam ao redor dos seus encargos, mantendo um olhar atento para protegê-los de ameaças.
 
@@ -74,12 +95,19 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 
 **Drone Escudo:** Esses drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VA +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).
 
+<!--sort-end-->
+
 ## Bots de Exploração
 
 Projetados para desbravamento, esses bots também são úteis em outras funções.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS DE EXPLORAÇÃO<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Exploranauta<td>Mai/3<td>1<td>1<td>12/10<td>7<td>35<td>70<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -87,6 +115,9 @@ Projetados para desbravamento, esses bots também são úteis em outras funçõe
 - **Wares:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Amoebot<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -94,11 +125,18 @@ Projetados para desbravamento, esses bots também são úteis em outras funçõe
 - **Wares:** Ajuste de Forma, Membros Retráteis
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Exploranauta:** Esses bots de tamanho pequeno viajam em esteiras inteligentes ou com jatos de empuxo vetorial. Eles estão repletos de sensores e são usados para desbravamento e operações similares de exploração. Um par de braços manipuladores são usados para recolher amostras.
 
 **Amoebot:** Esses pequenos bots amorfos são macios com um interior de uma matriz líquida de materiais inteligentes e pele extensível. Eles podem esticar membros como tentáculos para andar e manipular, rolar como uma bola, e espremer-se através de espaços estreitos e apertados.
+
+<!--sort-end-->
 
 ## Bots Médicos
 
@@ -106,6 +144,11 @@ Estes bots são verdadeiros salva-vidas.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS MÉDICOS<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Medibot<td>Mai/3<td>1<td>0<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -113,6 +156,9 @@ Estes bots são verdadeiros salva-vidas.
 - **Wares:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Resgatador<td>Mai/3<td>1<td>1<td>12/10<td>12<td>60<td>120<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -120,11 +166,18 @@ Estes bots são verdadeiros salva-vidas.
 - **Wares:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Medibot:** Esses robôs médicos com rodas são projetados para cuidar e transportar pessoas feridas e doentes. Eles carregam um fabro para suprimentos médicos e farmacêuticos, equipamentos médicos diversos, um recipiente seguro para carregar cabeças, e 4–8 braços articulados para conduzir cirurgias remotas. Eles são geralmente carregados com spray curativo e xarope (adquiridos separadamente).
 
 **Resgatador:** Projetado como um carro voador menor com um par de braços manipuladores, esse bot cuida de operações de busca e resgate. Ele rastreia sobreviventes e os resgata de perigos, carregando os feridos para a segurança. Ele pode conter um transumano de tamanho médio.
+
+<!--sort-end-->
 
 ## Bots Pessoais
 
@@ -132,6 +185,11 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS PESSOAIS<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Bichinho<td>Men/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>MP</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -139,6 +197,9 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 - **Wares:** Almofadas Aderentes, Pele Camaleão
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Manipulador<td>Mai/3<td>1<td>0<td>6/4<td>3<td>15<td>30<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -146,12 +207,18 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 - **Wares:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Servente<td>Men/1<td>0<td>0<td>6/4<td>6<td>30<td>60<td>M
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/12
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Aracnomão<td>Men/1<td>0<td>0<td>2/2<td>2<td>10<td>20<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -159,7 +226,12 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 - **Wares:** Almofadas Aderentes, Garras, Sistema Magnético
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Bichinho:** Os bichinhos vêm em uma variedade eclética de formatos, desde esquilos-robôs até insectoides ou criaturas mecânicas bizarras e artísticas. Os bichinhos foram originalmente projetados como mascotes robóticos, mas são bastante usados como um lacaio doméstico de uso geral, como um servente mais adorado. Muitas pessoas carregam o bichinho consigo, soltando-o para cuidar de pequenas tarefas para elas e deixando-o escalar seu corpo para cima e para baixo.
 
@@ -169,12 +241,19 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 
 **Aracnomão:** Esse bot em forma de mão rasteja como uma aranha. Ele funciona como uma mão destacável para um cibermembro, embora às vezes seja utilizado por elevados ou outros morfos que precisam de uma mão padrão para certas tarefas. Suas “pernas” são mais articuladas que dedos humanos e podem girar/curvar em qualquer direção. Apesar de esse bot não ter a alavanca de um braço/corpo completo por trás dele, ele pode estender um suporte de um metro para estabilização e apoio.
 
+<!--sort-end-->
+
 ## Bots de Reconhecimento/Vigilância
 
 Os circuitos fechados de vigilância continuam sendo um dos usos principais dos robôs.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS DE RECONHECIMENTO/<!-- CLEANED wbr -->VIGILÂNCIA<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Aeróstato<td>Mod/2<td>0<td>0<td>6/4<td>4<td>20<td>40<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -182,6 +261,9 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 - **Wares:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Mosquito<td>Men/1<td>0<td>1<td>2/2<td>4<td>20<td>40<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -189,6 +271,9 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 - **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Disco<td>Men/1<td>0<td>0<td>2/2<td>5<td>25<td>50<td>P</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -196,6 +281,9 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 - **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Pontinho<td>Men/1<td>0<td>0<td>2/2<td>1<td>5<td>10<td>MP</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -203,6 +291,9 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 - **Wares:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Zéfiro<td>Mod/2<td>0<td>1<td>6/4<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -210,7 +301,12 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 - **Wares:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Aeróstato:** Aeróstatos são balões, usando gases de flutuação para elevação em atmosferas e manobrando com turbofans. Sua discrição e longevidade os tornam ideais para vigilância, pesquisa ou mineração de gás em alta altitude.
 
@@ -222,12 +318,19 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 
 **Zéfiro:** Os zéfiros são aviões furtivos de tamanho médio mas leves, geralmente lançados através de um arremesso e usados para reconhecimento de longa distância ou ataques de mísseis.
 
+<!--sort-end-->
+
 ## Bots Utilitários
 
 Estes bots ajudam a fazer as coisas.
 
 <table class="centered stat-list tl1">
 <thead><tr><th>ROBÔS UTILITÁRIOS<th>Comp/<!-- CLEANED wbr -->PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Automecânico<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -235,6 +338,9 @@ Estes bots ajudam a fazer as coisas.
 - **Wares:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Barracuda<td>Mod/2<td>1<td>0<td>8/6<td>6<td>30<td>60<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -242,6 +348,9 @@ Estes bots ajudam a fazer as coisas.
 - **Wares:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Anão<td>Mai/3<td>3<td>0<td>18/14<td>30<td>150<td>300<td>G</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -249,6 +358,9 @@ Estes bots ajudam a fazer as coisas.
 - **Wares:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-block-->
+
 <tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
@@ -256,7 +368,12 @@ Estes bots ajudam a fazer as coisas.
 - **Wares:** Autocozedor
 
 <!-- CLEANED /div --></tr>
+
+<!--sort-end-->
+
 </table>
+
+<!--sort-->
 
 **Automecânico:** Os automecânicos são drones de reparo de uso geral, encontrados em praticamente todos os lugares. Cada um é especializado em um tipo específico de trabalho de reparo e está equipado com as ferramentas e perícias de ILA apropriadas, seja para reparo eletrônico, de sistemas de habitats ou de espaçonaves. Os automecânicos padrões são cubos com rodas com 4–8 membros retráteis e articulados, embora eles também sejam equipados com motores de empuxo vetorial para trabalho em zero-g.
 
@@ -265,3 +382,7 @@ Estes bots ajudam a fazer as coisas.
 **Anão:** Esses grandes bots industriais são chamados não só pelo seu uso primário — mineração, escavação, túneis e construção — mas porque as IAs padrões equipadas neles tinham a tendência programada de assobiar felizmente enquanto trabalhavam. Os anões são andadores quadrúpedes, equipados com enormes ferramentas modulares industriais como brocas de perfuração, pás, macacos hidráulicos, britadeiras, braços carregadores, jatos de ácido e assim por diante.
 
 **Mula-Robô:** Esses drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
+
+<!--sort-end-->
+
+<!--sort-end-->

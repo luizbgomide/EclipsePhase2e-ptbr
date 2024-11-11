@@ -2,6 +2,8 @@
 
 As seguintes alterações podem ser realizadas com psicocirurgia. A critério do MJ, outros procedimentos de edição mental podem ser tentados, usando esses como guia.
 
+<!--sort-->
+
 | PROCEDIMENTO DE PSICOCIRURGIA |              Prazo               |         VE          | Efeito                                                                                            |
 |:----------------------------- |:--------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------- |
 | Bloqueio de Consciência       |          1&nbsp;semana           |         1d6         | Não percebe a atividade, o comportamento ou a coisa especificada.                                 |
@@ -19,6 +21,8 @@ As seguintes alterações podem ser realizadas com psicocirurgia. A critério do
 | Impressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Imprime uma perícia, degrada −10 por dia.                                                         |
 | Supressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Remove perícia.                                                                                   |
 | Tasp                          |           1&nbsp;hora+           |          —          | Puro prazer; pode viciar.                                                                         |
+
+<!--sort-->
 
 ## Bloqueio de Consciência
 
@@ -123,3 +127,6 @@ A supressão de perícia tenta identificar onde as perícias estão armazenadas 
 ## Tasp
 
 Tasp é o uso de técnicas de estimulação cerebral profunda para tocar nos centros de prazer da mente. Embora esse procedimento geralmente seja usado para fins terapêuticos em pacientes sofrendo de depressão ou outras enfermidades mentais, a intenção da tasp é sobrecarregar o indivíduo em um estado prolongado de felicidade quase insuportável. No entanto, essa estimulação é altamente viciante. Então se você for exposto por períodos prolongados ou recorrentes, você precisará fazer uma Prova de VON com −30 ou receber o [traço Vício](../04/28-traits.md#addiction). Sabe-se que algumas organizações criminosas usam vício e recompensas em tasp como formas de controlar aqueles em seus domínios.
+
+<!--sort-end-->
+

@@ -50,14 +50,14 @@ O Teste de Estresse de Reencape incorpora todos os aspectos mentalmente desafiad
 
 ### Testes de Reencape
 
-| **Teste de Integração:**                                                             |                                             Prova de SOM |
-|:------------------------------------------------------------------------------------ | --------------------------------------------------------:|
-| <!-- CLEANED div class="indent" -->» Falha:<!-- CLEANED /div --> | −10 em todas as ações por 1 dia, +1 dia por falha maior. |
+| **Teste de Integração:**  |                                             Prova de SOM |
+|:------------------------- | --------------------------------------------------------:|
+| <p class="indent">» Falha:</p> | −10 em todas as ações por 1 dia, +1 dia por falha maior. |
 
-| **Teste de Estresse de Reencape:**                                                                                          | Prova de VON |
-|:--------------------------------------------------------------------------------------------------------------------------- | ------------:|
-| <!-- CLEANED div class="indent" -->» Alienação/perda de continuidade/lapso padrão:<!-- CLEANED /div -->     |       VE 1d6 |
-| <!-- CLEANED div class="indent" -->» Lembrança da morte/lapso extenso (3+ meses):<!-- CLEANED /div --> |    VE 1d10/1 |
+| **Teste de Estresse de Reencape:** | Prova de VON |
+|:---------------------------------- | ------------:|
+| <p class="indent">» Alienação/perda de continuidade/lapso padrão:</p>          |       VE 1d6 |
+| <p class="indent">» Lembrança da morte/lapso extenso (3+ meses):</p>          |    VE 1d10/1 |
 
 <!-- CLEANED /blockquote -->
 

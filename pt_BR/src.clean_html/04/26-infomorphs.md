@@ -46,6 +46,10 @@ Projetado para artistas online, ícones de mídia e socializadores, esse infomor
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Agente
 
 Popular com especialistas em segurança de rede, testadores de invasão e hackers, esse infomorfo é otimizado para funções de infoseg.
@@ -68,6 +72,8 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 
 <!-- CLEANED /blockquote -->
 
+<!--sort-block-->
+
 ### Operador
 
 Este infomorfo é ideal para profissões que envolvem operação remota de drones, sejam frotas de bots de manutenção, drones de vigilância, ou caças e máquinas de combate.
@@ -89,3 +95,6 @@ Este infomorfo é ideal para profissões que envolvem operação remota de drone
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 <!-- CLEANED /blockquote -->
+
+<!--sort-end-->
+

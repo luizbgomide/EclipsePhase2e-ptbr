@@ -60,6 +60,8 @@ Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, a
 
 Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáveis pré-embalados.
 
+<!--sort-->
+
 | ENXAMES               | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                 |
 |:--------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------- |
 | Enxame Faxineiro      |                 Men/1                 | Limpa, eliminando evidências forenses.                                                    |
@@ -74,6 +76,8 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 | Enxame Esquadrinhador |                 Men/1                 | Mapeia área, coleta evidências forenses, Saber: Química 60, Medicina: Ciência Forense 60. |
 | Enxame Espião         |                 Men/1                 | Vigilância, Percepção 60.                                                                 |
 | Enxame Marcador       |                 Men/1                 | Marca tudo em uma área para fins de rastreamento.                                         |
+
+<!--sort-->
 
 **Faxineiro:** Esse nanoenxame limpa, dá brilho, e remove sujeiras e manchas. Você pode liberá-lo para sanitizar uma área, objetos específicos ou pessoas. Algumas instalações usam enxames faxineiros permanentes para manter a área impecável. Os faxineiros são especialmente úteis para descontaminar uma área de toxinas ou químicos perigosos. Agentes infiltrados e criminosos usam faxineiros para eliminar potenciais evidências forenses, tais como sangue, cabelos ou qualquer coisa que possa conter DNA.
 
@@ -98,3 +102,6 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 **Espião:** Também conhecido como “poeira inteligente”, os enxames espiões são nuvens invisíveis de vigilância. Os ácaros espiões são carregados com câmeras (comprimentos de ondas visuais comuns), microfones e sensores químicos. Eles oferecem vigilância generalizada de uma área. Cada enxame tem Percepção 60.
 
 **Marcador:** Os marcadores se agarram e prendem-se em tudo no seu volume de dispersão. Cada um carrega um identificador único, para que se for encontrado, a pessoa ou objeto marcado possa ser vinculado ao ponto em que foi marcado. Os marcadores podem ser programados para ficar em silêncio, respondendo a transmissões de consulta feitas com os códigos criptográficos apropriados, ou eles podem ser programados para transmitir sua localização de volta para o liberador através da mesh. Algumas instalações de alta segurança liberam marcadores em seus pontos de saída quando alarmes são disparados para marcar invasores.
+
+<!--sort-end-->
+

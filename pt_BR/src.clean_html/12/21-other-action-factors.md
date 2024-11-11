@@ -6,6 +6,8 @@ Uma grande variedade de fatores podem impactar uma cena de ação ou combate; al
 
 Alguns ataques, drogas, e truques psi infligem condições temporárias específicas ao alvo:
 
+<!--sort-->
+
 - **Cegado:** Você não consegue ver, embora possa perceber através dos seus outros sentidos, assim como por sensores entópticos e em mesh. Você tem 50% de chance de errar seus ataques ([Ataques às Cegas](15-special-attacks.md#blind-attacks)) e sofre −30 em todas as outras ações físicas, incluindo Testes de Evasão. Você deve fazer um Teste de Atletismo, Queda Livre, ou Pilotagem para se mover mais rápido que seu movimento base ou cair prostrado.
 - **Confuso:** Sua cabeça está embaralhada. Você não compreende a comunicação ou o que está acontecendo ao seu redor. A cada turno, você pode fazer uma Prova de COG com −30. Se tiver sucesso, você age normalmente. Se falhar, role um d100: 00–24, não faça nada além balbuciar incoerências; 25–49, aja aleatoriamente como determinado pelo MJ; 50–74, fuja para uma direção aleatória; 75–99, ataque um alvo aleatório próximo (potencialmente até um aliado) com uma arma/item em sua mão. Você se defende com Evasão normalmente.
 - **Tonto:** Você está mentalmente atordoado e desorientado. Você não pode iniciar qualquer ação, mas pode fazer um movimento base e se defender de ataques.

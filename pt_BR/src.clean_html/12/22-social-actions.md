@@ -30,24 +30,24 @@ Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com qu
 
 ### Modificadores Sociais
 
-| Situação                                                                                          |  Modificador  |
-|:------------------------------------------------------------------------------------------------- |:-------------:|
-| Atitude do PNJ                                                                                    |               |
-| <!-- CLEANED div class="indent" -->» Hostil<!-- CLEANED /div -->           |      −30      |
-| <!-- CLEANED div class="indent" -->» Antagonista<!-- CLEANED /div -->      |      −20      |
-| <!-- CLEANED div class="indent" -->» Desfavorável<!-- CLEANED /div -->        |      −10      |
-| <!-- CLEANED div class="indent" -->» Indiferente<!-- CLEANED /div -->       |      +0       |
-| <!-- CLEANED div class="indent" -->» Amigável<!-- CLEANED /div -->          |      +10      |
-| <!-- CLEANED div class="indent" -->» Cooperativa<!-- CLEANED /div -->       |      +20      |
-| <!-- CLEANED div class="indent" -->» Apoiadora<!-- CLEANED /div -->        |      +30      |
-| Pedido                                                                                            |               |
-| <!-- CLEANED div class="indent" -->» Simples/Curto<!-- CLEANED /div -->      |      +10      |
-| <!-- CLEANED div class="indent" -->» Complexo/Longo<!-- CLEANED /div -->      |      −10      |
-| <!-- CLEANED div class="indent" -->» Benéfico para o PNJ<!-- CLEANED /div --> |      +30      |
-| <!-- CLEANED div class="indent" -->» Perigoso para o PNJ<!-- CLEANED /div -->  |      −30      |
-| Apelo/Oposição à Motivação do PNJ                                                                 | +/−10 a +/−30 |
-| Estigma/Status Social                                                                             | +/−10 a +/−30 |
-| Rep Alta (60+) em Rede Preferida                                                                  |      +10      |
+| Situação                          |  Modificador  |
+|:--------------------------------- |:-------------:|
+| Atitude do PNJ                    |               |
+| <p class="indent">» Hostil</p>         |      −30      |
+| <p class="indent">» Antagonista</p>         |      −20      |
+| <p class="indent">» Desfavorável</p>         |      −10      |
+| <p class="indent">» Indiferente</p>         |      +0       |
+| <p class="indent">» Amigável</p>         |      +10      |
+| <p class="indent">» Cooperativa</p>         |      +20      |
+| <p class="indent">» Apoiadora</p>         |      +30      |
+| Pedido                            |               |
+| <p class="indent">» Simples/Curto</p>         |      +10      |
+| <p class="indent">» Complexo/Longo</p>         |      −10      |
+| <p class="indent">» Benéfico para o PNJ</p>         |      +30      |
+| <p class="indent">» Perigoso para o PNJ</p>        |      −30      |
+| Apelo/Oposição à Motivação do PNJ | +/−10 a +/−30 |
+| Estigma/Status Social             | +/−10 a +/−30 |
+| Rep Alta (60+) em Rede Preferida  |      +10      |
 
 <!-- CLEANED /blockquote -->
 
