@@ -6,7 +6,7 @@ A luta contínua entre hackers e a segurança eletrônica é melhor descrita com
 
 Em Eclipse Phase, um firewall é um pacote de segurança de rede neural não sapiente que monitora o tráfego da rede e defende contra hackers. Todo sistema tem um app de firewall defendendo-o ativamente. Os firewalls podem iniciar contramedidas automáticas, dependendo da sua programação.
 
-Cada firewall tem uma graduação que mede suas capacidades defensivas. As graduações do firewall são baseadas no tipo de dispositivo, conforme indicado na tabela Graduações do Firewall. Isso é usado para se opor a [Testes de Hackeamento](../13/11-hacking.md#hacking-tests) feitos por hackers. A critério do MJ, alguns firewalls podem ser mais fracos se forem antigos ou desatualizados ou mais fortes se forem de última geração.
+Cada firewall tem uma graduação que mede suas capacidades defensivas. As graduações do firewall são baseadas no tipo de dispositivo, conforme indicado na tabela Graduações do Firewall. Isso é usado para se opor a [Testes de Hackeamento](11-hacking.md#hacking-tests) feitos por hackers. A critério do MJ, alguns firewalls podem ser mais fracos se forem antigos ou desatualizados ou mais fortes se forem de última geração.
 
 Se o app de firewall em um dispositivo for excluído ou travado, testes para hackear o sistema não sofrem oposição até que o firewall seja restaurado, a menos que um defensor do sistema se envolva em monitoramento ativo.
 
@@ -26,11 +26,11 @@ Se o app de firewall em um dispositivo for excluído ou travado, testes para hac
 
 Os firewalls constroem um entendimento sobre quais comportamentos são comuns ou incomuns e usam esses algoritmos para identificar potenciais invasores. Por exemplo, um firewall sabe quando um determinado usuário geralmente faz login, de onde, quais os apps ele usa, quais arquivos ele acessa, etc. Se um hacker usar as credenciais deste usuário mas de um lugar diferente, em um horário diferente, e fazendo coisas diferentes, o firewall pode suspeitar que algo está errado e dar uma olhada mais atenta. Até mesmo um hacker habilidoso ainda pode ser identificado por ações anômalas.
 
-Os MJs pode pedir um Teste de Hackeamento sempre que sentirem que um hacker pode ter excedido a atividade normal. Se o firewall vencer, rebaixe o status do hacker em um grau — de oculto para infiltrado (acionando um alerta passivo), ou de infiltrado para descoberto (acionando um alerta ativo). Como alternativa, um hacker que está claramente envolvido em atividades suspeitas em um sistema bastante seguro pode acionar um alerta, não importando o resultado da rolagem. Use esta opção com moderação, e lembre-se que ela se aplica tanto a PJs quanto a PNJs.
+Os MJs pode pedir um Teste de Hackeamento sempre que sentirem que um hacker pode ter excedido a atividade normal. Se o firewall vencer, rebaixe o status do hacker em um grau — de oculto para infiltrado (acionando um alerta passivo), ou de infiltrado para descoberto (acionando um alerta ativo). Como alternativa, um hacker que está claramente envolvido em atividades suspeitas em um sistema bastante seguro pode acionar um alerta, não importando o resultado da rolagem. Use essa opção com moderação, e lembre-se que ela se aplica tanto a PJs quanto a PNJs.
 
 ## Defensor do Sistema
 
-O firewall é apenas a primeira linha de defesa. Quase todos os sistemas também são monitorados por um ente conhecido como _defendor do sistema_. Para a maioria dos dispositivos, este é a ILA residente. Personagens com perícia em Infoseg geralmente protegem suas próprias PANs; os que não têm, dependem de suas musas. Equipes operacionais dedicadas muitas vezes subordinam suas PANs ao hacker do grupo, que pode supervisionar a segurança do grupo todo.
+O firewall é apenas a primeira linha de defesa. Quase todos os sistemas também são monitorados por um ente conhecido como _defendor do sistema_. Para a maioria dos dispositivos, esse ente é a ILA residente. Personagens com perícia em Infoseg geralmente protegem suas próprias PANs; os que não têm, dependem de suas musas. Equipes operacionais dedicadas muitas vezes subordinam suas PANs ao hacker do grupo, que pode supervisionar a segurança do grupo todo.
 
 Os defensores do sistema têm privilégios de segurança, ou até de administrador. Se um alerta passivo ou ativo for acionado, eles são informados. Os defensores são responsáveis por ativar contramedidas não automáticas.
 
@@ -46,7 +46,7 @@ Se uma tentativa de hackeamento não for furtiva o suficiente, é provável que 
 
 ### Alerta Passivo
 
-Os alertas passivos são acionados sempre que o firewall ou o defensor têm sucesso em sua rolagem, mas perde o teste oposto contra um [ataque de invasão sutil](../13/11-hacking.md#subtle-intrusion) do hacker. Eles também são disparados quando o hacker se expõe ao rolar uma falha maior em um Teste de Hackeamento dentro do sistema.
+Os alertas passivos são acionados sempre que o firewall ou o defensor têm sucesso em sua rolagem, mas perde o teste oposto contra um [ataque de invasão sutil](11-hacking.md#subtle-intrusion) do hacker. Eles também são disparados quando o hacker se expõe ao rolar uma falha maior em um Teste de Hackeamento dentro do sistema.
 
 Alertas passivos ocorrem quando um sistema detecta atividade anômala que pode indicar uma tentativa de hackeamento em progresso. O sistema imediatamente dá um sinal visual ou acústico para os defensores do sistema e, possivelmente, para o proprietário ou os administradores. O sistema pode ser configurado para iniciar automaticamente uma ou mais contramedidas passivas (veja abaixo). Dependendo do sistema, hackers de segurança ou IAs extras podem ser trazidos para ajudar a investigar. Se o invasor não for encontrado novamente ou não for localizado dentro de um período de tempo definido (geralmente cerca de 10 minutos), o alarme é desativado e o evento é logado como uma anomalia.
 
@@ -62,6 +62,8 @@ Quando um sistema está em alerta ativo, todos os invasores sofrem um modificado
 
 As contramedidas passivas são iniciadas como precaução sempre que há atividade incomum ou outros sinais de que pode haver um invasor ou malware envolvido. Algumas dessas contramedidas são automaticamente ativadas pelo sistema ou firewall sempre que um alerta passivo ou ativo for iniciado.
 
+<!--sort-->
+
 ### Backupear
 
 **\[Automática\]**
@@ -76,7 +78,7 @@ Em uma tentativa de impedir a extração de dados, o firewall bloqueia temporari
 
 ### Localizar Invasor
 
-O defensor do sistema pode tentar rastrear a origem do alerta passivo e localizar quaisquer intrusos. Veja [Localizando](../13/11-hacking.md#zeroing-in).
+O defensor do sistema pode tentar rastrear a origem do alerta passivo e localizar quaisquer intrusos. Veja [Localizando](11-hacking.md#zeroing-in).
 
 ### Reautenticar
 
@@ -90,17 +92,21 @@ Os firewalls dos sistemas podem ser configurados para reautenticar automaticamen
 
 Como medida de proteção, o sistema reduz temporariamente os privilégios de acesso disponíveis para os usuários padrão — e, às vezes, para contas de segurança também. Isso significa que usuários legítimos podem ser incapazes de realizar certas funções, usar alguns apps/serviços ou acessar determinados diretórios sem a autorização de uma conta de administrador.
 
+<!--sort-end-->
+
 ## Contramedidas Ativas
 
 As contramedidas ativas são iniciadas quando um invasor é totalmente detectado (status descoberto). Os sistemas/firewalls podem ser configurados para acionar imediatamente contramedidas automáticas; outras podem ser executadas a critério do defensor.
 
+<!--sort-->
+
 ### Contrainvadir
 
-Apesar de ilegal em algumas jurisdições, os defensores do sistema podem proteger proativamente suas unidades contra-atacando o hacker. Para que isso ocorra, o invasor primeiro deve ser [rastreado com sucesso](../13/10-tracking.md#mesh-activity-tracking) e sua mesh ID obtida. Quando isso ocorrer, o defensor pode então iniciar sua própria invasão no sistema o qual o hacker se origina.
+Apesar de ilegal em algumas jurisdições, os defensores do sistema podem proteger proativamente suas unidades contra-atacando o hacker. Para que isso ocorra, o invasor primeiro deve ser [rastreado com sucesso](10-tracking.md#mesh-activity-tracking) e sua mesh ID obtida. Quando isso ocorrer, o defensor pode então iniciar sua própria invasão no sistema o qual o hacker se origina.
 
 ### Travar e Barrar
 
-O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](../13/14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](../13/06-mesh-actions.md#security-actions)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
+O defensor pode tentar travar o console de conta de um invasor que foi descoberto ([Combate na Mesh](14-mesh-combat.md)). Se bem-sucedido, a mesh ID do invasor pode ser bloqueada de acessar o sistema novamente ([Barrar](06-mesh-actions.md#security-actions)). As contas hackeadas são colocadas em quarentena ou excluídas, e não podem ser utilizadas novamente até que uma auditoria de segurança aprove e as restabeleça.
 
 ### Reinicializar/Desligar
 
@@ -124,6 +130,8 @@ Uma alternativa para o desligamento ou reinicialização é simplesmente cortar 
 
 Os defensores podem iniciar um rastreamento em um invasor descoberto. A maioria dos hackers tem o cuidado de usar um serviço de anonimização para mascarar sua mesh ID e localização, mas esse nem sempre é o caso. Se um invasor for localizado fisicamente, o procedimento padrão é alertar a segurança do habitat ou outras polícias locais ou privadas, que se mobilizarão para prender o suspeito.
 
+<!--sort-end-->
+
 ## Auditorias de Segurança
 
 Os sistemas preocupados com sua segurança são submetidos a auditorias regularmente, ou após qualquer invasão detectada, com a intenção de corrigir vulnerabilidades que foram violadas, eliminar brechas instaladas, e determinar o que o invasor fez e o que ele queria. O MJ determina quando uma auditoria é realizada. Faça um Teste de Infoseg para o defensor do sistema, com um prazo de 24 horas. Se bem-sucedida, quaisquer vulnerabilidades violadas recentemente são corrigidas (o hacker perde o bônus de +30 para hackear novamente). Os sucessos maiores revelam brechas ou fornecem informações adicionais sobre o que o invasor estava fazendo.
@@ -138,6 +146,6 @@ Cada sistema é único e lida com a segurança de forma diferente. O MJ determin
 
 **Terminais** têm defesas que dependem em grande parte da consciência de segurança de seu proprietário. As musas agem como defensoras do sistema para insertos da mesh e ectos.
 
-**Servidores** usam ILAs de segurança e tratam suas defesas seriamente. As redes corporativas costumam usar redes em camadas ou sistemas desconectados ([Topologia da Mesh](../13/02-mesh-topology.md)) para proteger recursos críticos. Os hackers de segurança podem estar presentes ou à disposição, chegando em 1d6 turnos de ação. Alguns simplesmente querem expulsar invasores. Outros vão rastrear invasores, enviar forças de segurança ou polícia para prender os suspeitos se forem localizados, ou hackeá-los de volta. As auditorias de segurança provavelmente são frequentes.
+**Servidores** usam ILAs de segurança e tratam suas defesas seriamente. As redes corporativas costumam usar redes em camadas ou sistemas desconectados ([Topologia da Mesh](02-mesh-topology.md)) para proteger recursos críticos. Os hackers de segurança podem estar presentes ou à disposição, chegando em 1d6 turnos de ação. Alguns simplesmente querem expulsar invasores. Outros vão rastrear invasores, enviar forças de segurança ou polícia para prender os suspeitos se forem localizados, ou hackeá-los de volta. As auditorias de segurança provavelmente são frequentes.
 
 </blockquote>

@@ -32,7 +32,7 @@ Uma disparada é dar o máximo para se mover o mais longe possível. Ela requer 
 
 **\[Rápida\]**
 
-Você pode saltar uma vez por turno com uma ação rápida enquanto também faz outra ação de movimento. Você pode cruzar 2 metros com salto horizontal parado, e 6 metros com um salto correndo. A altura de salto vertical é 1 metro. Estas distâncias são reduzidas à metade para morfos de tamanho pequeno e aumentadas pela metade para morfos de tamanho grande.
+Você pode saltar uma vez por turno com uma ação rápida enquanto também faz outra ação de movimento. Você pode cruzar 2 metros com salto horizontal parado, e 6 metros com um salto correndo. A altura de salto vertical é 1 metro. Essas distâncias são reduzidas à metade para morfos de tamanho pequeno e aumentadas pela metade para morfos de tamanho grande.
 
 Se usar disparada, você pode fazer uma rolagem de Atletismo, Queda Livre ou Pilotagem (conforme o caso) para cruzar mais distância com seu salto. Se tiver sucesso, você cruza mais um metro (salto correndo), 0,5 metros (salto parado), ou 0,25 metros (salto vertical), mais uma quantidade adicional igual por sucesso maior.
 
@@ -56,7 +56,7 @@ Alguns movimentos são bem mais desafiadores: escalar uma parede íngreme, esgue
 
 ### Movimento em Gravidades Diferentes
 
-As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](../12/28-environmental-factors.md#gravity)), as coisas mudam.
+As Taxas de Movimento listadas assumem a gravidade padrão da Terra (1&nbsp;g). Se você está se movendo em ambientes de baixa gravidade, microgravidade ou alta gravidade ([Gravidade](28-environmental-factors.md#gravity)), as coisas mudam.
 
 Se você está escalando, puxando ou empurrando para se mover em microgravidade, você se move com metade da sua Taxa de Movimento de marcha (ex.: 4/20 se torna 2/10). Você também pode saltar qualquer distância, embora você cruze em uma taxa de movimento igual a ação de movimento de quando você saltou.
 
@@ -70,7 +70,9 @@ Está fora do escopo deste livro avaliar o impacto de diferentes gravidades em t
 
 As regras acima são direcionadas para morfos humanoides, mas há muitos morfos, carcaças e criaturas com formas corporais e/ou sistemas de mobilidade diferentes. Sintemorfos podem adicionar sistemas de mobilidade como [ware](../16/11-physical-augmentations.md). Os tipos de movimento abaixo listam a perícia usada para manobrar e uma Taxa de Movimento padrão, mas o MJ deve ajustar isso levando em conta o tamanho, volume, membros extras, etc.
 
-Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](../12/25-vehicle-movement.md).
+Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](25-vehicle-movement.md).
+
+<!--sort-->
 
 ### Barca
 
@@ -94,7 +96,7 @@ Os impulsores de veículos de flutuação empurram ar em alta pressão para repe
 
 **\[Pilotagem: Aérea • Muito Rápido 8/40\]**
 
-Carcaças iônicas usam a magneto-hidrodinâmica para levitar e voar, ionizando o ar ao redor em plasma para criar sustentação e impulso enquanto gira para ter estabilidade. Este sistema não funciona no vácuo, mas uma versão subaquática sua a mesma mecânica para ter propulsão em ambientes líquidos (use Pilotagem: Náutica).
+Carcaças iônicas usam a magneto-hidrodinâmica para levitar e voar, ionizando o ar ao redor em plasma para criar sustentação e impulso enquanto gira para ter estabilidade. Esse sistema não funciona no vácuo, mas uma versão subaquática sua a mesma mecânica para ter propulsão em ambientes líquidos (use Pilotagem: Náutica).
 
 ### Microleve
 
@@ -161,3 +163,6 @@ A maioria das carcaças com rodas têm raios inteligentes que permitem que as ro
 **\[Atletismo • Rápido 8/32\]**
 
 Morfos e carcaças alados usam membros que produzem sustentação quando se movem pelo ar (eles não funcionam no vácuo). Sistemas com múltiplas asas controladas independentemente podem flutuar ou se mover rapidamente em qualquer direção. Aviões de asas fixas impulsionados por motores usam Pilotagem: Aérea.
+
+<!--sort-end-->
+

@@ -12,9 +12,9 @@ PP podem ser gastos para aumentar graduações de aptidão ao custo de 1&nbsp;PP
 
 **\[Variável\]**
 
-Você pode comprar qualquer um dos traços de ego listados em [Traços](../04/28-traits.md). Traços positivos têm um custo de PP. Traços negativos lhe _dão_ um bônus de PP. Não podem ser comprados mais do que 6&nbsp;PP em traços negativos.
+Você pode comprar qualquer um dos traços de ego listados em [Traços](28-traits.md). Traços positivos têm um custo de PP. Traços negativos lhe _dão_ um bônus de PP. Não podem ser comprados mais do que 6&nbsp;PP em traços negativos.
 
-Há muitos traços para escolher, por isso, se você não está familiarizado com eles ou não tem tempo de para vê-los, pule isso por enquanto e guarde alguns PP para comprar traços depois. Há resumo dos traços em [Traços Positivos](../04/28-traits.md#positive-traits) e [Traços Negativos](../04/28-traits.md#negative-traits).
+Há muitos traços para escolher, por isso, se você não está familiarizado com eles ou não tem tempo de para vê-los, pule isso por enquanto e guarde alguns PP para comprar traços depois. Há listas de traços em [Traços Positivos](28-traits.md#positive-traits) e [Traços Negativos](28-traits.md#negative-traits).
 
 Se você pegou o antecedente Perdido no Passo 1 ou o interesse Assincro no Passo 3, você _deve_ comprar o traço Psi.
 
@@ -54,7 +54,7 @@ Truques Psi custam 1&nbsp;PP por truque. Você só pode comprar truques psi-gama
 
 **\[1&nbsp;PP por especialização\]**
 
-As especializações de perícias custam 1&nbsp;PP. Elas dão um bônus de +10 nessa perícia quando a especialização for aplicável. (Este bônus de especialização não conta para o máximo de 80 em perícias.)
+As especializações de perícias custam 1&nbsp;PP. Elas dão um bônus de +10 nessa perícia quando a especialização for aplicável. (Esse bônus de especialização não conta para o máximo de 80 em perícias.)
 
 <blockquote class="table">
 

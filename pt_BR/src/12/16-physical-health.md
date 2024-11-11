@@ -4,9 +4,9 @@ A galáxia é um lugar perigoso, e quando você enfrenta os riscos, inevitavelme
 
 ## Pontos de Dano
 
-Todo dano físico é medido em pontos de dano. Estes pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provavelmente terá efeitos mais graves ([Ferimentos](../12/16-physical-health.md#wounds)).
+Todo dano físico é medido em pontos de dano. Esses pontos são cumulativos e registrados em sua ficha de personagem. Pontos de dano são caracterizados como fadiga, hematomas, pancadas, torções, pequenos cortes, amassados e afundados, e machucados similares que, embora dolorosos, não prejudicam você significativamente ou ameaçam sua vida ou funcionamento, a não ser que eles se acumulem demais. No entanto, qualquer fonte de dano que cause uma grande quantidade de pontos de dano de uma vez provavelmente terá efeitos mais graves ([Ferimentos](#wounds)).
 
-Pontos de dano são reduzidos com descanso, cuidados médicos, e/ou reparo ([Cura & Reparo](../12/17-healing-and-repair.md)).
+Pontos de dano são reduzidos com descanso, cuidados médicos, e/ou reparo ([Cura & Reparo](17-healing-and-repair.md)).
 
 ### Valor de Dano
 
@@ -16,7 +16,7 @@ Para simplificar, uma quantia estática também está indicado entre parênteses
 
 ## Durabilidade
 
-Sua saúde física é medida pelo atribute Durabilidade do seu morfo. Para biomorfos, isso representa o ponto em que as lesões acumuladas o sobrecarregam e incapacitam. Quando o seu total de pontos de dano igualar ou exceder sua Durabilidade, você imediatamente cai de exaustão e abuso físico. Você ganha a [condição inconsciente](../12/21-other-action-factors.md#conditions) e não pode ser revivido até que seus pontos de dano sejam reduzidos abaixo de sua Durabilidade, seja por cuidados médicos ou cura natural.
+Sua saúde física é medida pelo atribute Durabilidade do seu morfo. Para biomorfos, isso representa o ponto em que as lesões acumuladas o sobrecarregam e incapacitam. Quando o seu total de pontos de dano igualar ou exceder sua Durabilidade, você imediatamente cai de exaustão e abuso físico. Você ganha a [condição inconsciente](21-other-action-factors.md#conditions) e não pode ser revivido até que seus pontos de dano sejam reduzidos abaixo de sua Durabilidade, seja por cuidados médicos ou cura natural.
 
 Para sintemorfos, a Durabilidade representa a integridade estrutural. Você fica desativado fisicamente quando pontos de dano acumulados atingem sua Durabilidade e seu estado mental programático trava.
 
@@ -38,9 +38,9 @@ Cada ferimento aplica um modificador −10 em todos os testes e −1 para Inicia
 
 Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de ferimento. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 ferimentos possa ser negado (−30 para ações e −3 para Iniciativa).
 
-**Derrubada:** Sempre que você receber um ferimento, faça imediatamente uma Prova de SOM. Os modificadores de ferimentos se aplicam. Se você falhar, você [cai prostrado](../12/21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar/reorientar. Carcaças (bots e veículos) se movendo com velocidade devem fazer um Teste de Atletismo ou Pilotagem para evitar bater.
+**Derrubada:** Sempre que você receber um ferimento, faça imediatamente uma Prova de SOM. Os modificadores de ferimentos se aplicam. Se você falhar, você [cai prostrado](21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar/reorientar. Carcaças (bots e veículos) se movendo com velocidade devem fazer um Teste de Atletismo ou Pilotagem para evitar bater.
 
-**Inconsciência:** Se você receber 2 ou mais ferimentos de uma vez (do mesmo ataque), você automaticamente cai prostrado e deve fazer uma Prova de SOM; os modificadores de ferimento se aplicam. Se você falhar, você fica [inconsciente](../12/21-other-action-factors.md#conditions) até que seja acordado ou curado. Sintemorfos e personagens com cibercérebros ficam offline de forma parecida. Carcaças se movendo com velocidade que recebam 2 ou mais ferimentos de uma vez [batem](../12/25-vehicle-movement.md#crashes) automaticamente.
+**Inconsciência:** Se você receber 2 ou mais ferimentos de uma vez (do mesmo ataque), você automaticamente cai prostrado e deve fazer uma Prova de SOM; os modificadores de ferimento se aplicam. Se você falhar, você fica [inconsciente](21-other-action-factors.md#conditions) até que seja acordado ou curado. Sintemorfos e personagens com cibercérebros ficam offline de forma parecida. Carcaças se movendo com velocidade que recebam 2 ou mais ferimentos de uma vez [batem](25-vehicle-movement.md#crashes) automaticamente.
 
 ## Sangramento
 

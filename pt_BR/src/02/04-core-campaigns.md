@@ -4,7 +4,7 @@ Há três histórias ou cenários de campanha comuns para Eclipse Phase: a campa
 
 ## Campanha da Firewall
 
-O foco principal de Eclipse Phase é o bando de agentes clandestinos enfrentando os grandes perigos que ameaçam a transumanidade. Nesta campanha, os personagens trabalham para uma organização secreta multifacções chamada _Firewall_ como agentes ou novos recrutas. A Firewall age para conter e destruir riscos X que ameaçam a existência da transumanidade. Os personagens são recrutados de todas as facções (ou ocasionalmente empregados como mercenários se a ameaça de extinção não for motivação suficiente). Os PJs recebem uma missão de um contato chamado de _procurador_ e são a linha de frente na investigação e eliminação da ameaça. A situação em geral ainda está em desenvolvimento, então as instruções podem não conter detalhes críticos. Os PJs são independentes e operam infiltrados em um habitat estranho ou ambiente hostil, perseguidos pelas autoridades locais. Eles têm a liberdade de agirem como bem entenderem para lidar com a ameaça em questão.
+O foco principal de Eclipse Phase é o bando de agentes clandestinos enfrentando os grandes perigos que ameaçam a transumanidade. Nessa campanha, os personagens trabalham para uma organização secreta multifacções chamada _Firewall_ como agentes ou novos recrutas. A Firewall age para conter e destruir riscos X que ameaçam a existência da transumanidade. Os personagens são recrutados de todas as facções (ou ocasionalmente empregados como mercenários se a ameaça de extinção não for motivação suficiente). Os PJs recebem uma missão de um contato chamado de _procurador_ e são a linha de frente na investigação e eliminação da ameaça. A situação em geral ainda está em desenvolvimento, então as instruções podem não conter detalhes críticos. Os PJs são independentes e operam infiltrados em um habitat estranho ou ambiente hostil, perseguidos pelas autoridades locais. Eles têm a liberdade de agirem como bem entenderem para lidar com a ameaça em questão.
 
 É geralmente esperado que sentinelas se sacrifiquem, seja enfrentando situações impossíveis ou se autodestruindo para evitar a propagação de uma infecção alienígena. Quando as sentinelas falham, o plano B pode ser destruir todo o habitat. A Firewall é extrema em suas ações, mas se a alternativa matará milhões ou bilhões, a destruição de um único habitat é uma perda aceitável.
 
@@ -12,14 +12,14 @@ Todos os personagens prontos e suas equipes são agentes da _Firewall_. No entan
 
 A _Equipe de Operações na Solárea_ inclui Dante, Hex, Qi e Sava. Com as botas sujas de poeira marciana, essa equipe é experiente em ambientes planetários, governos autoritários, hipercorps e destruições ocasionais. No sistema interior, as missões incluem máquinas TITAN abandonadas, maquinações corporativas e intriga política. Os grandes poderes são o Consórcio Planetário, a Constelação Estrela d'Alva reivindicando Vênus, a conservadora Aliança Lunar-Lagrange, as hipercorps, e os oligarcas tecendo suas teias nos bastidores. Os conflitos entre os poderes são comuns. A confiança é difícil de conquistar quando cada organização está repleta de fantoches e mafiosos. Uma mente atenta e uma boa dose de paranoia são cruciais para a permanecer vivo.
 
-Protegendo a grande escuridão está a _Equipe de Operações na Bordárea_ com Chi, Killjoy, Njál e Zahiri. Aqui fora os habitats geralmente são menores e isolados. Desaparecer na multidão pode ser impossível e reforços estão a meses de distância. Os PJs devem conseguir operar em qualquer fronteira selvagem ou estação de pesquisa onde o perigo tenha se instalado. Longe das grandes potências, as regras são mais flexíveis, mas habitantes locais desconfiados são rápidos em jogar estranhos no espaço. Os personagens provavelmente se verão presos numa situação bem mais complexa do estavam esperando, e serão forçados a improvisar para sobreviver. As principais facções incluem os titanianos, jovianos, anarquistas, ultimistas e eremitas. As missões no sistema exterior se concentram em conter infecções, enfrentar pós-humanos monstruosos, investigar experimentos bizarros, e atrasar a guerra com os jovianos.
+Protegendo a grande escuridão está a _Equipe de Operações na Limiárea_ com Chi, Killjoy, Njál e Zahiri. Aqui fora os habitats geralmente são menores e isolados. Desaparecer na multidão pode ser impossível e reforços estão a meses de distância. Os PJs devem conseguir operar em qualquer fronteira selvagem ou estação de pesquisa onde o perigo tenha se instalado. Longe das grandes potências, as regras são mais flexíveis, mas habitantes locais desconfiados são rápidos em jogar estranhos no espaço. Os personagens provavelmente se verão presos numa situação bem mais complexa do estavam esperando, e serão forçados a improvisar para sobreviver. As principais facções incluem os titanianos, jovianos, anarquistas, ultimistas e eremitas. As missões no sistema exterior se concentram em conter infecções, enfrentar pós-humanos monstruosos, investigar experimentos bizarros, e atrasar a guerra com os jovianos.
 
 <blockquote>
 
 ### Firewall: Operações na Solárea
 
 - **Dante** :: Hacker Genético Venusiano
-- **Hex** :: Facilitadora Assincro Lunar
+- **Hex** :: Agenciadora Assincro Lunar
 - **Qi** :: Hack-Ativista Barsoomiano
 - **Sava** :: Freelancer de Operações Especiais
 
@@ -27,7 +27,7 @@ Protegendo a grande escuridão está a _Equipe de Operações na Bordárea_ com 
 
 <blockquote>
 
-### Firewall: Operações na Bordárea
+### Firewall: Operações na Limiárea
 
 - **Chi** :: Hacker Mental & Socializador
 - **Killjoy** :: Quebra-Galho Anarquista
@@ -57,7 +57,7 @@ A equipe de _Operações de Desbravamento_ é Astika, Jinx, Shrike e Whisper. Um
 
 ## Campanha Criminal
 
-Às vezes, a atração da aventura precisa de um pouco de incentivo financeiro. Esta campanha gira em torno de um bando de criminosos, independentes ou associados a um cartel maior, focado na acumulação de créditos e poder. Algumas vezes isso exige discrição, para manter os ativos secretos e a operação protegida. Outras vezes, isso significa tirar um habitat da órbita e vê-lo queimar na queda. A equipe está focada na eficiência em obter lucros.
+Às vezes, a atração da aventura precisa de um pouco de incentivo financeiro. Essa campanha gira em torno de um bando de criminosos, independentes ou associados a um cartel maior, focado na acumulação de créditos e poder. Algumas vezes isso exige discrição, para manter os ativos secretos e a operação protegida. Outras vezes, isso significa tirar um habitat da órbita e vê-lo queimar na queda. A equipe está focada na eficiência em obter lucros.
 
 O cenário criminoso mudou drasticamente desde a Queda. Biohackers controlam genes terminais que forçam pessoas a pagarem taxas de assinatura para evitar a falência dos seus corpos. Forquestradores roubam backups de investidores para extraírem senhas de acesso. Espreitadores das zonas vendem tecnologias de guerra TITAN ou amostras de contágios exsurgentes voláteis por um bom lucro. Tríades competem com o Night Cartel em disputas de território para vender suas novas experiências pré-gravadas radicais. Em muitos lugares, os sindicatos fornecem os únicos serviços sociais disponíveis. As tríades, especificamente, contrabandeiam equipamentos médicos para clínicas clandestinas e fornecem milícias para lutar contra ameaças externas. Os PJs criminosos podem se ver lutando por um governo popular contra a força do Consórcio assim como surrupiando resíduos alienígenas caríssimos de colecionadores ricaços.
 
@@ -67,7 +67,7 @@ Os personagens de _Operações Criminais Guanxi_, uma equipe criada no submundo,
 
 ### Operações Criminais Guanxi
 
-- **Amaru Timoti** :: Facilitador do Nine Lives
+- **Amaru Timoti** :: Agenciador do Nine Lives
 - **Berk** :: Infovida Capanga & Encarnadora de Drone
 - **Elis** :: Técnica da Ralé
 - **Pivo** :: Elevado Sucateiro

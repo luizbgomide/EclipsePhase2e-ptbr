@@ -18,7 +18,9 @@ Sugerimos manter aptidões e perícias em múltiplos de 5 para simplificar, mas 
 
 ## Resumo das Perícias
 
-As descrições completas das perícias estão em [Perícias](../04/18-skills.md).
+As descrições completas das perícias estão em [Perícias](18-skills.md).
+
+<!--sort-->
 
 **Atletismo (SOM):** Atividade física em gravidade com um morfo humanoide, elevado ou biomimético, incluindo escalada, corrida, natação, ginástica, arremessos e voo alado.
 
@@ -63,5 +65,7 @@ As descrições completas das perícias estão em [Perícias](../04/18-skills.md
 **Pesquisa (INT):** Encontrar e interpretar dados na mesh.
 
 **Sobrevivência (INT):** Navegação, rastreamento, obtenção de comida e abrigo seguros, e defesa contra ambientes planetários hostis.
+
+<!--sort-end-->
 
 </blockquote>

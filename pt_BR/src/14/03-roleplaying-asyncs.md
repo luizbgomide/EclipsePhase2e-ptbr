@@ -46,7 +46,7 @@ A porcentagem da população transumana que se acredita ter sido infectada pelo 
 
 **Roteador:** Por que estamos sendo convocados para outro chat? Nós terminamos os resumos das ops na semana passada e nosso próximo registro está agendado para segunda-feira.
 
-**Filtro:** Eu chamei esta sessão especial. Temos um problema com Jun-Seo que exige mais cuidado e discussão. E acho que é hora de revisitarmos nossa política sobre assincros.
+**Filtro:** Eu chamei essa sessão especial. Temos um problema com Jun-Seo que exige mais cuidado e discussão. E acho que é hora de revisitarmos nossa política sobre assincros.
 
 **Corvo:** Ah, não essa merda de novo.
 
@@ -94,7 +94,7 @@ A porcentagem da população transumana que se acredita ter sido infectada pelo 
 
 **Filtro:** Duas. Dúzias. De cibercérebros. Conectados. Em uma outra parte da cidade. Isso é um belo passeio sonambulo.
 
-**Roteador:** Entenda, nós compartilhamos suas preocupações. Isso é obviamente anormal. Estamos trabalhando nisso. Mas é prematuro igualar todos os assincros com agentes exsurgentes adormecidos ou fantoches de mente hackeada. Não temos nenhuma razão para tratar Jun-Seo como um agente inimigo neste momento.
+**Roteador:** Entenda, nós compartilhamos suas preocupações. Isso é obviamente anormal. Estamos trabalhando nisso. Mas é prematuro igualar todos os assincros com agentes exsurgentes adormecidos ou fantoches de mente hackeada. Não temos nenhuma razão para tratar Jun-Seo como um agente inimigo nesse momento.
 
 **Filtro:** Se suspeitarmos que algum membro dessa equipe tenha infecção exsurgente, esse coletivo inteiro estaria gritando para matá-lo queimado. Eu não sei se você ficou mole demais, se está iludido, ou se você também já está comprometido.
 

@@ -4,15 +4,17 @@ Transtornos são distúrbios psicológicos duradouros que geralmente exigem sema
 
 **Ganhando um Transtorno:** Você adquire um transtorno durante a criação de personagem, sendo infectado pelo vírus exsurgente, ou acumulando estresse que iguala ou excede sua Lucidez. Você deve trabalhar com seu MJ para escolher um transtorno apropriado ao seu personagem e às circunstâncias.
 
-**Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](../12/19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](../12/30-downtime-actions.md#lose-a-negative-ego-trait)).
+**Removendo um Transtorno:** Você pode se livrar de um transtorno através de [tratamento](19-mental-healing-and-psychosurgery.md#natural-healing) em jogo ou em recesso, ou comprando-o como um traço negativo ([Perder um Traço Negativo de Ego](30-downtime-actions.md#lose-a-negative-ego-trait)).
 
-**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](../12/18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
+**Desencadeando um Transtorno:** Cada transtorno é desencadeado por certas circunstâncias, conforme determinado pelo seu MJ. Exemplos de gatilhos são dados para cada um deles; transtornos também são desencadeados por [traumas](18-mental-health.md#trauma). Quando uma condição de gatilho ocorre, faça uma Prova de VON; se você falhar, o transtorno é desencadeado. Quando ativado, o transtorno afeta diretamente as suas ações e o que você pode e não pode fazer, de acordo com o distúrbio. O MJ pode direcionar o comportamento do seu personagem ou aplicar modificadores como bem entender. O episódio dura enquanto o seu personagem for afetado pela condição de gatilho. Outros podem avaliar seu estado ou trazê-lo para fora dele com um Teste de Saber: Psicologia ou Medicina: Psicocirurgia bem-sucedido.
+
+<!--sort-->
 
 ### Transtorno de Comportamento Alienígena
 
 **Gatilhos:** Alienação, exsurgentes, o desconhecido
 
-Este transtorno afeta principalmente os assincros. Você sente estranhos desejos de se comportar de forma alienígena ou usar membros fantasmas ou outras partes corporais que não fazem parte da sua forma transumana.
+Esse transtorno afeta principalmente os assincros. Você sente estranhos desejos de se comportar de forma alienígena ou usar membros fantasmas ou outras partes corporais que não fazem parte da sua forma transumana.
 
 **Efeito:** Você deve fazer uma Prova de VON ou ser compelido a manifestar comportamento alienígena. Os exemplos de compulsão listados nas [tabelas de Efeitos de Influência](../14/05-influence-effects.md) fornecem várias possibilidades.
 
@@ -52,7 +54,7 @@ Esse transtorno de ansiedade, caracterizado pelo autocanibalismo dos membros, ge
 
 **Gatilhos:** Desamparo, privação de sono, tristeza, violência
 
-Com a depressão maníaca, seus períodos de depressão são interrompidos por breves (alguns dias, no máximo) períodos de obsessão com bastante energia e um desprezo geral pelas consequências. Os estágios depressivos são semelhantes de todas as formas a [depressão](../12/20-disorders.md#depression). Quando está maníaco, você corre riscos, gasta freneticamente, e se envolve em comportamentos sem prudência ou consideração às consequências a longo prazo.
+Com a depressão maníaca, seus períodos de depressão são interrompidos por breves (alguns dias, no máximo) períodos de obsessão com bastante energia e um desprezo geral pelas consequências. Os estágios depressivos são semelhantes de todas as formas a [depressão](#depression). Quando está maníaco, você corre riscos, gasta freneticamente, e se envolve em comportamentos sem prudência ou consideração às consequências a longo prazo.
 
 **Efeito:** Semelhante à depressão, mas quando maníaco você deve fazer uma Prova de VON para evitar que você realize atividades arriscadas. Você também tentará convencer os outros a seguirem sua ideia.
 
@@ -64,14 +66,6 @@ Você acredita que você é irrevogavelmente feio ou defeituoso, impedindo-o de 
 
 **Efeito:** −30 em Testes de Estresse de Reencape.
 
-### Transtorno de Ansiedade Cósmica
-
-**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
-
-Este transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
-
-**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
-
 ### Transtorno de Conversão
 
 **Gatilhos:** Alienação, o desconhecido, violência
@@ -79,6 +73,14 @@ Este transtorno resulta do encontro com riscos X, alienígenas, e tecnologias in
 Você sofre uma condição neurológica como cegueira, surdez, incapacidade de falar, perda de equilíbrio, convulsões ou paralisia em situações muito estressantes. Alguns assincros sofrem de uma condição similar, transtorno sensorial alienígena, em que as tentativas de usar órgãos sensoriais alienígenas atrapalham um ou mais dos seus sentidos físicos reais.
 
 **Efeito:** Prova de VON ou sofra uma das condições escolhidas.
+
+### Transtorno de Ansiedade Cósmica
+
+**Gatilhos:** O desconhecido, riscos X, tecnologia alienígena/TITAN
+
+Esse transtorno resulta do encontro com riscos X, alienígenas, e tecnologias incompreensivelmente avançadas. Ele funciona bem parecido com ansiedade; você está indefeso perante um universo insensível e perigoso.
+
+**Efeito:** Como a ansiedade, mas quando confrontado com uma ameaça alienígena ou TITAN faça uma Prova de VON, ou fuja, ou entre em pânico.
 
 ### Depressão
 
@@ -108,7 +110,7 @@ Você entra em um estado de fuga em que demonstra pouca atenção para estímulo
 
 **Gatilhos:** Desamparo, foco do impulso, o desconhecido, violência
 
-Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar este comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
+Você deve se envolver em uma atividade específica que domina seus pensamentos: compras compulsivas, agressividade explosiva, cleptomania, vício da mesh, piromania, exibicionismo sexual, etc. Você sente uma ansiedade crescente quando impedido de realizar esse comportamento por um período prolongado (em geral várias vezes por dia indo até semanalmente, dependendo do impulso) e frequentemente fará esse comportamento em momentos inconvenientes ou inapropriados.
 
 **Efeito:** Você deve fazer uma Prova de VON para não fazer a atividade impulsiva. Se impedido de fazer a atividade por muito tempo, você sofre modificadores entre −10 e −30.
 
@@ -167,3 +169,6 @@ TEPT resulta de incidentes potencialmente mortais. Você desenvolve um fixação
 Não sendo confundida com o transtorno genético, a esquizofrenia reiterativa tem sintomas semelhantes, mas se desenvolve em egos que passam por reencapes frequentes, possivelmente devido a algum tipo de erro repetitivo no processo de download. Os esquizofrênicos perdem sua capacidade de discernir a realidade da irrealidade. Você sofre com delírios, alucinações (muitas vezes em apoio às ilusões), e discurso fragmentado ou desorganizado. Você percebe o seu comportamento como perfeitamente normal, ao ponto de ficar paranoico de que os outros estão envolvidos em uma grande mentira.
 
 **Efeito:** Você sofre delírios e alucinações conforme determinado pelo MJ e está propenso a pensamentos conspiratórios. Você sofre um modificador −20 em testes que exigem comunicação coerente.
+
+<!--sort-end-->
+

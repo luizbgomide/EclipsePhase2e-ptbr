@@ -1,6 +1,6 @@
 # Nanofabricação
 
-Se você tiver um nanofabricador e um diagrama ou a perícia Programação, você pode fazer coisas do zero. Há nanofabricadores em vários tamanhos, alguns com funções especializadas ([Nanotecnologia](../16/19-nanotech.md)). As únicas coisas que você precisa além disso são matérias-primas e tempo. Coisas vivas como animais inteligentes e produtos não tangíveis, como apps, não podem ser nanofabricados.
+Se você tiver um nanofabricador e um diagrama ou a perícia Programação, você pode fazer coisas do zero. Há nanofabricadores em vários tamanhos, alguns com funções especializadas ([Nanotecnologia](19-nanotech.md)). As únicas coisas que você precisa além disso são matérias-primas e tempo. Coisas vivas como animais inteligentes e produtos não tangíveis, como apps, não podem ser nanofabricados.
 
 ## Matérias-Primas
 
@@ -24,7 +24,7 @@ Diagramas de uso único são adquiridas com PE, rep, ou traço Recursos, usando 
 
 **Diagramas de Uso Múltiplo:** Um diagrama de uso múltiplo é parecido com comprar uma licença pessoal. Você pode imprimir o item repetidamente e copiar o diagrama, mas ele está vinculada à sua ID. Elas também são adquiridas com PE, rep ou traço Recursos. Para um diagrama de uso múltiplo reutilizável e não apagável aumente a complexidade do item em um grau (Menor torna-se Moderada, Moderada torna-se Maior). Os diagramas de uso múltiplo para itens de complexidade Maior são raras e praticamente indisponíveis.
 
-**Diagramas de Código Aberto:** Em regiões autonomistas e muitas outras áreas, alguns diagramas estão disponíveis gratuitamente em bibliotecas de código aberto. Estes diagramas são reutilizáveis, podem ser copiadas, e não exigem a autenticação da sua ID para ser usada. Um Teste de Pesquisa (usando os Modificadores de Rep da [tabela Testes de Rep](../15/13-networking.md#rep-tests)) ou um favor (@-rep, i-rep, r-rep, x-rep) igual a complexidade do item mais um grau vai lhe fornecer um diagrama de código aberto, até mesmo para coisas como armas e drogas.
+**Diagramas de Código Aberto:** Em regiões autonomistas e muitas outras áreas, alguns diagramas estão disponíveis gratuitamente em bibliotecas de código aberto. Esses diagramas são reutilizáveis, podem ser copiadas, e não exigem a autenticação da sua ID para ser usada. Um Teste de Pesquisa (usando os Modificadores de Rep da [tabela Testes de Rep](../15/13-networking.md#rep-tests)) ou um favor (@-rep, i-rep, r-rep, x-rep) igual a complexidade do item mais um grau vai lhe fornecer um diagrama de código aberto, até mesmo para coisas como armas e drogas.
 
 A desvantagem é que diagramas de código aberto às vezes são menos confiáveis, mais experimentais, ou carregam malwares escondidos. Cada diagrama de código aberto adquirido por Pesquisa (não por rep) tem 20% de chance de não ser confiável: um modificador −10 a −30, erros inesperados, malwares perigosos, etc. Esses diagramas também são ilegais em certos governos do sistema interior (muitas são projetos proprietários crackeados) e podem não funcionar em fabros do sistema interior.
 
@@ -36,7 +36,7 @@ Os diagramas para itens Restritos não podem ser compradas legalmente usando Rec
 
 Se você não tiver um diagrama, você pode criar um. Isso requer dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
 
-Os dois testes juntos constituem uma única ação de tarefa. O prazo é o mesmo da [aquisição de equipamentos](../16/02-acquiring-gear.md), mas em meses em vez de horas (2 meses para Menor, 8 meses para Moderada, 24 meses para Maior). No entanto, a maioria dos programadores usam forques e simulespaços de tempo acelerado para apressar o processo, então uma semana subjetiva de programação pode ser feita em aproximadamente uma hora de tempo real. Apenas resultados maiores do Teste de Programação reduzem o prazo.
+Os dois testes juntos constituem uma única ação de tarefa. O prazo é o mesmo da [aquisição de equipamentos](02-acquiring-gear.md), mas em meses em vez de horas (2 meses para Menor, 8 meses para Moderada, 24 meses para Maior). No entanto, a maioria dos programadores usam forques e simulespaços de tempo acelerado para apressar o processo, então uma semana subjetiva de programação pode ser feita em aproximadamente uma hora de tempo real. Apenas resultados maiores do Teste de Programação reduzem o prazo.
 
 ### Crackeando Diagramas
 

@@ -2,17 +2,19 @@
 
 Os transumanos se adaptaram a muitos ambientes, mas há muitos riscos que devem ser considerados.
 
+<!--sort-->
+
 ## Asfixia
 
-O transumano médio pode segurar a respiração por dois minutos antes de desmaiar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Destruição e morra ou consiga respirar de novo. Este dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.
+O transumano médio pode segurar a respiração por dois minutos antes de desmaiar. Atividades intensas reduzem esse período de tempo (a critério do MJ). Para cada 30 segundos depois do primeiro minuto que seu biomorfo for impedido de respirar, você deve fazer uma Prova de SOM. Aplique um modificador −10 cumulativo a cada vez que você rolar. Se você falhar, você imediatamente cai inconsciente, trate como se tivesse recebido dano temporário igual a sua Durabilidade, e sofra 10 VD temporário por minuto até que você atinja seu Grau de Destruição e morra ou consiga respirar de novo. Esse dano temporário não causa ferimentos. Uma vez revivido, o dano temporário é removido, mas você precisa de 1 minuto de recuperação antes de poder agir.
 
 A asfixia é um processo terrível, que frequentemente leva ao pânico. Os personagens sofrendo asfixia devem fazer uma Prova de VON a cada 30 segundos. Se você falhar, você sofre VD 1d6 e não pode realizar qualquer ação efetiva para se salvar neste turno de ação; você pode fazer uma Prova de VON adicional a cada turno para recuperar o juízo. No entanto, mesmo se tiver sucesso você deve fazer uma Prova de VON para realizar qualquer outra ação não relacionada diretamente com se salvar (atacar alguém segurando você embaixo d'água está isento dessa regra).
 
 ## Descompressão
 
-Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](../12/28-environmental-factors.md#asphyxiation).
+Habitats e naves às vezes perdem pressão de ar devido a danos em seus cascos por combates, explosões, colisões com detritos espaciais ou batidas de micrometeoros. A maioria dos transumanos vai reconhecer os sinais de descompressão rápida; os biomorfos que não conseguirem um suprimento de ar a tempo podem sofrer [asfixia](#asphyxiation).
 
-A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](../12/29-hostile-environments.md#vacuum)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
+A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai de uma vez e vai a zero. Se você está nas proximidades de uma ruptura e não está preso, faça uma Prova de REF para agarrar alguma a tempo de evitar ser jogado no espaço ([Vácuo](29-hostile-environments.md#vacuum)). Se você tiver sucesso, você pode continuar a fazer Provas de SOM a cada turno de ação para se segurar até que a atmosfera se esgote. Você também pode precisar fazer um Teste de Evasão para evitar ser atingido por detritos ou outras pessoas enquanto elas são sugadas para fora (VD 1d10+, dependendo das condições de bagunça no local).
 
 ## Queda
 
@@ -60,16 +62,19 @@ O movimento e as manobras em microgravidade são feitos usando a [perícia Queda
 
 A maioria dos habitats em microgravidade estão equipados com laços elásticos para se agarrar, bolsos de malha para manter objetos presos, e esteiras rolantes com alças para as mãos em vias de grande movimentação. Sapatos magnéticos ou com velcro são comumente usados para caminhar, em vez de escalar ou voar. No entanto, os ambientes em zero-g são projetados para fazer uso máximo do espaço, aproveitando-se da ausência de tetos e pisos. Como os objetos não tem peso, os personagens podem mover até mesmo objetos enormes com facilidade.
 
-**Velocidade de Escape:** Não é difícil atingir velocidade de escape em pequenos asteroides ou corpos semelhantes — algo para se ter em mente quando com objetos arremessados e armas de projéteis. Em alguns casos, os personagens que se movam rápido depois e saltem podem alcançar eles mesmo a velocidade de escape, mas estas situações ficam a cargo do MJ.
+**Velocidade de Escape:** Não é difícil atingir velocidade de escape em pequenos asteroides ou corpos semelhantes — algo para se ter em mente quando com objetos arremessados e armas de projéteis. Em alguns casos, os personagens que se movam rápido depois e saltem podem alcançar eles mesmo a velocidade de escape, mas essas situações ficam a cargo do MJ.
 
 ### Baixa Gravidade
 
-A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](../12/24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](../12/04-ranged-combat.md#range)).
+A baixa gravidade inclui qualquer coisa entre 0,5&nbsp;g e microgravidade. Essas condições são encontradas na Lua, em Marte, em Titã e nas partes rotativas da maioria de espaçonaves e habitats rotacionados. A baixa gravidade não é tão diferente da gravidade padrão, embora você possa saltar duas vezes mais longe ([Movimento](24-movement.md)) e objetos arremessados e projéteis tenham um alcance mais longo ([Alcance](04-ranged-combat.md#range)).
 
 ### Alta Gravidade
 
-A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+&nbsp;g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2&nbsp;g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas ([Movimento](../12/24-movement.md)) e até mesmo sintemorfos podem se sentir forçados.
+A alta gravidade é qualquer coisa significativamente mais forte do que a gravidade padrão da Terra (1,2+&nbsp;g). Em Eclipse Phase, a alta gravidade é geralmente encontrada apenas em exoplanetas. Alta gravidade é difícil para morfos, pois eles carregam mais peso, músculos ficam exaustos de empurrar as coisas, e o coração deve trabalhar mais para bombear sangue. Para cada 0,2&nbsp;g acima de 1 que o seu personagem não está aclimatado, trate como se o personagem estivesse sofrendo os efeitos de 1 ferimento. A critério do MJ, as taxas de movimento podem ser modificadas ([Movimento](24-movement.md)) e até mesmo sintemorfos podem se sentir forçados.
 
 ## Clima
 
 Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
+
+<!--sort-end-->
+

@@ -26,11 +26,11 @@ A República é conhecida como um bastião da religião e bioconservadorismo. El
 
 As luas de Saturno proporcionam a região mais densa e diversa, abrigando várias instalações de pesquisa, colônias independentes e as metrópoles em domos de Titã. Elas são a facção mais bem estabelecida da Aliança Autonomista, com os maiores serviços de inteligência e militares.
 
-Outros habitats por todo o sistema exterior operam como comunas anarquistas, estados corporativos privados, instalações de pesquisas hierárquicas ou estruturas mais inusitadas. As mais conhecidas são os enxames nômades da ralé, circulando pelo sistema para trazer sua arte experimental e mercados negros e vermelhos para todos. Mesmo isolados, a maioria dos habitats participa como membros da Aliança Autonomista para compartilhar informações, colaborar em assuntos de interesse comum, e prestar ajuda e defesa mútuas. Estes habitats desfrutam da sua independência, o que também pode dificultar sua capacidade de cooperação. Como um todo, sua melhor defesa é seu isolamento. No entanto, historicamente, quando surge uma ameaça comum, como o breve conflito em Locus, eles conseguem mobilizar uma defesa com marinhas, mísseis, hackers e conexões com forças rebeldes em meio aos seus inimigos.
+Outros habitats por todo o sistema exterior operam como comunas anarquistas, estados corporativos privados, instalações de pesquisas hierárquicas ou estruturas mais inusitadas. As mais conhecidas são os enxames nômades da ralé, circulando pelo sistema para trazer sua arte experimental e mercados negros e vermelhos para todos. Mesmo isolados, a maioria dos habitats participa como membros da Aliança Autonomista para compartilhar informações, colaborar em assuntos de interesse comum, e prestar ajuda e defesa mútuas. Esses habitats desfrutam da sua independência, o que também pode dificultar sua capacidade de cooperação. Como um todo, sua melhor defesa é seu isolamento. No entanto, historicamente, quando surge uma ameaça comum, como o breve conflito em Locus, eles conseguem mobilizar uma defesa com marinhas, mísseis, hackers e conexões com forças rebeldes em meio aos seus inimigos.
 
 ## A Periferia
 
-A periferia engloba todas a áreas menos viajadas dos Sistema Solar, desde as ocasionais famílias em asteroides e estações isoladas do sistema interior até o Cinturão de Kuiper e as órbitas excêntricas de vários objetos do sistema exterior. Estes são os lares dos eremitas, ultimistas e facções extremas demais até mesmo para a Aliança Autonomista. Aqui tanto as hipercorps quanto os cartéis criminosos desenvolvem projetos secretos. Ex-humanos também espreitam na periferia, extirpando qualquer coisa vista como fraqueza, seja sua própria carne ou sua empatia. Eles caçam nas regiões afastadas, capturando e consumindo qualquer nave transumana tola o bastante para se aproximar.
+A periferia engloba todas a áreas menos viajadas dos Sistema Solar, desde as ocasionais famílias em asteroides e estações isoladas do sistema interior até o Cinturão de Kuiper e as órbitas excêntricas de vários objetos do sistema exterior. Esses são os lares dos eremitas, ultimistas e facções extremas demais até mesmo para a Aliança Autonomista. Aqui tanto as hipercorps quanto os cartéis criminosos desenvolvem projetos secretos. Ex-humanos também espreitam na periferia, extirpando qualquer coisa vista como fraqueza, seja sua própria carne ou sua empatia. Eles caçam nas regiões afastadas, capturando e consumindo qualquer nave transumana tola o bastante para se aproximar.
 
 ## Exoplanetas
 
@@ -44,10 +44,12 @@ Os cinco portões conhecidos dentro do Sistema Solar são disputados e rigidamen
 
 Os transumanos conquistam a segurança dos perigos do espaço com esses tipos comuns de habitats ([Habitats](../07/06-habitats.md)).
 
+<!--sort-->
+
 - **Aeróstatos** flutuam como balões em atmosferas densas; eles são comuns em Vênus e Urano.
 - **Batiscafos** são habitats subaquáticos amarrados à superfície terrestre ou de gelo. Eles são usados em Europa, Ceres e outros mares subterrâneos.
-- **Formigueiro** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
-- **Agrupamento** são módulos interconectados funcionando em microgravidade.
+- **Formigueiros** são redes de túneis escavados em um asteroide ou lua pequena. Eles raramente são rotacionados para ter gravidade simulada.
+- **Agrupamentos** são módulos interconectados funcionando em microgravidade.
 - **Cilindros** são grandes latas ocas com quilômetros de comprimento, com gravidade por rotação e interiores terraformados. Os cilindros Hamilton são parcialmente orgânicos e usam nanotecnologia avançada para se autoconstruir. Os cilindros Reagan são projetos mais velhos e ineficientes usando asteroides ocos na República Joviana.
 - **Domos** são estruturas infláveis temporárias ou pressurizadas permanentes construídas na superfície de um asteroide, lua ou corpo planetário.
 - **Loci Processadores** são apenas servidores protegidos flutuando em órbita, usados por comunidades de infomorfos.

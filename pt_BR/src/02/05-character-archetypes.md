@@ -1,6 +1,6 @@
 # Arquétipos de Personagem
 
-Os personagens são definidos por suas perícias e sua reputação. O grupo como um todo precisa de uma amplo leque de perícias para superar os desafios colocados contra eles. Estes podem incluir coletar recursos, conquistar aliados, pesquisar, infiltrar (ou proteger) sistemas da mesh, reparar ou improvisar uma ferramenta crítica, combater, e aplicar o que aprenderam para chegar a uma solução. As competências que o grupo deve possuir podem ser mais ou menos agrupadas como combate, social, técnico e conhecimento. Estes grupos estabelecem os quatro grandes arquétipos de Eclipse Phase — o combatente, o malandro, o técnico (ou hacker) e o cientista (ou artista). Em grupos menores, os PJs podem querer preencher múltiplos arquétipos enquanto minimizam a sobreposição. Em grupos maiores, os personagens se beneficiam mais da especialização. Os jogadores devem se coordenar para evitar especialidades que se sobreponham demais, mas especialidades diferentes na mesma área podem criar multiplicadores de força.
+Os personagens são definidos por suas perícias e sua reputação. O grupo como um todo precisa de uma amplo leque de perícias para superar os desafios colocados contra eles. Esses podem incluir coletar recursos, conquistar aliados, pesquisar, infiltrar (ou proteger) sistemas da mesh, reparar ou improvisar uma ferramenta crítica, combater, e aplicar o que aprenderam para chegar a uma solução. As competências que o grupo deve possuir podem ser mais ou menos agrupadas como combate, social, técnico e conhecimento. Esses grupos estabelecem os quatro grandes arquétipos de Eclipse Phase — o combatente, o malandro, o técnico (ou hacker) e o cientista (ou artista). Em grupos menores, os PJs podem querer preencher múltiplos arquétipos enquanto minimizam a sobreposição. Em grupos maiores, os personagens se beneficiam mais da especialização. Os jogadores devem se coordenar para evitar especialidades que se sobreponham demais, mas especialidades diferentes na mesma área podem criar multiplicadores de força.
 
 Cada um dos arquétipos abaixo lista pacotes de perícia de [Carreiras](../04/05-step-2-carrer.md) e [Interesses](../04/06-step-3-interest.md) sugeridos para serem escolhidos durante a criação de personagem.
 
@@ -8,7 +8,7 @@ Cada um dos arquétipos abaixo lista pacotes de perícia de [Carreiras](../04/05
 
 Até mesmo o grupo mais astuto eventualmente precisa recorrer à força bruta. A maioria dos personagens deve ter alguma habilidade em combate. Os combatentes são aqueles personagens que se especializam em uma variedade de métodos de combate, para que possam se adaptar a todas as situações. As perícias críticas incluem Tiro, Infiltração, Atletismo e Evasão, e eles devem ter um morfo que aguente o tranco. A perícia Luta também deve ser considerada, mas em um cenário de alta tecnologia com armaduras e bots, ela pode não ser efetiva quanto as outras opções. Para grupos de seis jogadores, é recomendado ter pelo menos dois combatentes. Alguns exemplos de combatentes incluem:
 
-**Mercenários da Direct Action e da Medusan Shield, Eliminadores da Firewall:** Estes personagens utilizam armamento pesado para destruir totalmente o alvo. Eles são os personagens ideal para operações de devastação. O que eles têm em explosivos lhes falta em sutileza e discrição. Os seus morfos de combate e as suas grandes armas atrairão atenção durante as operações.
+**Mercenários da Direct Action e da Medusan Shield, Eliminadores da Firewall:** Esses personagens utilizam armamento pesado para destruir totalmente o alvo. Eles são os personagens ideal para operações de devastação. O que eles têm em explosivos lhes falta em sutileza e discrição. Os seus morfos de combate e as suas grandes armas atrairão atenção durante as operações.
 
 <blockquote class="indent">
 
@@ -16,7 +16,7 @@ Até mesmo o grupo mais astuto eventualmente precisa recorrer à força bruta. A
 
 </blockquote>
 
-**Sobreviventes da Terra e Guerreiros da Liberdade:** Estes personagens aprenderam a sobreviver sob o nariz de um inimigo muito superior. Eles são hábeis com armas leves, pesadas e improvisadas, e trazem consigo uma diversidade de perícias técnicas e de conhecimento para quando a situação apertar.
+**Sobreviventes da Terra e Guerreiros da Liberdade:** Esses personagens aprenderam a sobreviver sob o nariz de um inimigo muito superior. Eles são hábeis com armas leves, pesadas e improvisadas, e trazem consigo uma diversidade de perícias técnicas e de conhecimento para quando a situação apertar.
 
 <blockquote class="indent">
 
@@ -24,7 +24,7 @@ Até mesmo o grupo mais astuto eventualmente precisa recorrer à força bruta. A
 
 </blockquote>
 
-**Caçadores de Ego, Policiais e Milícias:** Este personagem sabe navegar na selva da microgravidade para localizar o seu alvo. Eles têm uma boa ênfase em redes sociais e perícias investigativas. Seu combate costuma ser focado e discreto, mas seu treinamento depende de reforços quando enfrentam um inimigo mais forte. Uma boa adição quando o grupo não está visando um banho de sangue.
+**Caçadores de Ego, Policiais e Milícias:** Esse personagem sabe navegar na selva da microgravidade para localizar o seu alvo. Eles têm uma boa ênfase em redes sociais e perícias investigativas. Seu combate costuma ser focado e discreto, mas seu treinamento depende de reforços quando enfrentam um inimigo mais forte. Uma boa adição quando o grupo não está visando um banho de sangue.
 
 <blockquote class="indent">
 
@@ -60,7 +60,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 </blockquote>
 
-**Negociadores:** Este personagem tem o dom do papo e a rep para usá-lo. Facilitadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
+**Negociadores:** Esse personagem tem o dom do papo e a rep para usá-lo. Agenciadores, leiloeiros e advogados, eles fazem qualquer um ver as coisas do jeito deles. Suas perícias vão além da negociação. Um bom negociador pode convencer oponentes a recuarem ou pedir favores quando as coisas apertam.
 
 <blockquote class="indent">
 
@@ -76,7 +76,7 @@ Todas as portas se abrem para o malandro, que sabe com quem falar e quem suborna
 
 </blockquote>
 
-**Investigadores e Jornalistas:** Com um faro para tirar informações de um alvo, os investigadores têm perícias de percepção, persuasão, pesquisa e uma variedade de áreas técnicas e de conhecimento. Esta mistura é ideal para desvendar qualquer situação que deixe a equipe travada.
+**Investigadores e Jornalistas:** Com um faro para tirar informações de um alvo, os investigadores têm perícias de percepção, persuasão, pesquisa e uma variedade de áreas técnicas e de conhecimento. Essa mistura é ideal para desvendar qualquer situação que deixe a equipe travada.
 
 <blockquote class="indent">
 

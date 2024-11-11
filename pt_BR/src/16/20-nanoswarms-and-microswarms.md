@@ -36,7 +36,7 @@ Os ácaros possuem pequenos sensores que são muito eficazes na identificação 
 
 Os enxames não podem segurar, levantar, carregar ou mover objetos físicos com mais de meio quilo de massa, mesmo em microgravidade. Eles não podem fazer Provas de SOM baseadas em força.
 
-Os enxames são ineficazes na penetração em biomorfos e outras formas biológicas (embora eles possam atacar externamente); este é o reino dos nanowares, nanodrogas, e nanotoxinas.
+Os enxames são ineficazes na penetração em biomorfos e outras formas biológicas (embora eles possam atacar externamente); esse é o reino dos nanowares, nanodrogas, e nanotoxinas.
 
 Ventos acima de 60&nbsp;km/h infligem VD 1d10 por turno ou mais. A exposição prolongada ao calor (mais de 35&nbsp;°C) pode danificar ou incapacitar inteiramente um enxame. Além da mobilidade, os enxames não são afetados pelo vácuo.
 
@@ -54,11 +54,13 @@ Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs dev
 
 ### Desgaste
 
-Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](../16/19-nanotech.md#hives) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
+Os ácaros individuais são muito vulneráveis. Eles falham e são pisoteados, aspirados, presos nas coisas, danificados por eletricidade estática, e destruídos em grandes número. A cada dia durante o qual um enxame esteja liberado, ele recebe VD 5 (VD 10 ou 20 em ambientes desfavoráveis). [Colmeias](19-nanotech.md#hives) reparam esse dano com novos ácaros. Um enxame está desativado/inefetivado quando o dano atinge sua Durabilidade. Isso torna as unidades de enxame sem um colmeia funcionais por cerca de 5 dias de uso.
 
 ## Enxames
 
 Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáveis pré-embalados.
+
+<!--sort-->
 
 | ENXAMES               | Comp/<wbr>PE | Descrição                                                                                 |
 |:--------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------- |
@@ -75,19 +77,21 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 | Enxame Espião         |                 Men/1                 | Vigilância, Percepção 60.                                                                 |
 | Enxame Marcador       |                 Men/1                 | Marca tudo em uma área para fins de rastreamento.                                         |
 
-**Faxineiro:** Este nanoenxame limpa, dá brilho, e remove sujeiras e manchas. Você pode liberá-lo para sanitizar uma área, objetos específicos ou pessoas. Algumas instalações usam enxames faxineiros permanentes para manter a área impecável. Os faxineiros são especialmente úteis para descontaminar uma área de toxinas ou químicos perigosos. Agentes infiltrados e criminosos usam faxineiros para eliminar potenciais evidências forenses, tais como sangue, cabelos ou qualquer coisa que possa conter DNA.
+<!--sort-->
 
-**Desmantelador:** Também conhecido como corrosivos inteligentes, estes nanobots decompõe a matéria. Eles podem ser programados para desfazer materiais específicos enquanto ignoram outros, deixando-os intactos. Eles, às vezes, são usados como armas antimateriais, consumindo sintemorfos, armas, e equipamentos enquanto ignoram biomorfos (ou vice-versa). Ao contato, os desmanteladores infligem VD 1d6 por turno de ação. O dano acumulado conta como um ferimento quando seu Limiar de Ferimento é atingido. A armadura usada (energética e cinética) protege contra esse dano (a não ser que o enxame seja programado para ignorá-la), mas ela também é consumida; reduza o VA pelo dano infligido, dividindo-o entre os tipos de armadura (ou seja, um desmantelador infligindo VD 2 torna um VA 4/2 em 3/1).
+**Faxineiro:** Esse nanoenxame limpa, dá brilho, e remove sujeiras e manchas. Você pode liberá-lo para sanitizar uma área, objetos específicos ou pessoas. Algumas instalações usam enxames faxineiros permanentes para manter a área impecável. Os faxineiros são especialmente úteis para descontaminar uma área de toxinas ou químicos perigosos. Agentes infiltrados e criminosos usam faxineiros para eliminar potenciais evidências forenses, tais como sangue, cabelos ou qualquer coisa que possa conter DNA.
+
+**Desmantelador:** Também conhecido como corrosivos inteligentes, esses nanobots decompõe a matéria. Eles podem ser programados para desfazer materiais específicos enquanto ignoram outros, deixando-os intactos. Eles, às vezes, são usados como armas antimateriais, consumindo sintemorfos, armas, e equipamentos enquanto ignoram biomorfos (ou vice-versa). Ao contato, os desmanteladores infligem VD 1d6 por turno de ação. O dano acumulado conta como um ferimento quando seu Limiar de Ferimento é atingido. A armadura usada (energética e cinética) protege contra esse dano (a não ser que o enxame seja programado para ignorá-la), mas ela também é consumida; reduza o VA pelo dano infligido, dividindo-o entre os tipos de armadura (ou seja, um desmantelador infligindo VD 2 torna um VA 4/2 em 3/1).
 
 **Engenheiro:** Os microenxames engenheiros são usados para fins de construção: erguer paredes, escavar túneis, selar buracos, reforçar fundações, e assim por diante. Embora eles trabalhem mais devagar que robôs, eles são úteis para áreas de difícil acesso, projetos complexos, ou manuseio de materiais difíceis.
 
 **Reparador:** Os reparadores reparam objetos e os restauram para suas especificações originais. Eles devem ser programados com os diagramas de nanofabricação do item ou terem tempo (~ uma hora) para escanear um objeto idêntico; eles não são inteligentes o suficiente para reconhecer e reparar danos sozinhos. Um enxame reparador repara 1d10 \[6\] de dano por hora. Uma vez que todo o dano seja reparado, ele vai restaurar 1 ferimento por dia. Os reparadores também podem limpar e dar brilho em itens, deixando-os intactos como novos. Os enxames reparadores não pode realizar reparos em objetos com mais do que 3 ferimentos, mas eles aplicarão um modificador +30 em Testes de Aparelhagem para repará-lo.
 
-**Jardineiro:** Este microenxame é útil para vários fins agrícolas: matar ervas daninhas, plantar sementes, podar plantas, polinizar, e até colher itens pequenos. Ele também pode ser programado para desfolhar uma área. Os enxames jardineiros são comuns nas estufas de habitats e bacias hidropônicas.
+**Jardineiro:** Esse microenxame é útil para vários fins agrícolas: matar ervas daninhas, plantar sementes, podar plantas, polinizar, e até colher itens pequenos. Ele também pode ser programado para desfolhar uma área. Os enxames jardineiros são comuns nas estufas de habitats e bacias hidropônicas.
 
 **Guardião:** Os guardiões vigiam e atacam outros enxames não autorizados. Esses ácaros neutralizam outros nanobots agarrando-se fisicamente a eles, efetivamente desativando ambos. Essa guerra de desgaste também cobra seu preço no enxame guardião. A cada turno de ação, o enxame guardião e o enxame alvo recebem VD 1d10 \[6\]. Guardiões podem ser programados ou instruídos para liberar ácaros capturados, permitindo que você desative temporariamente um enxame e então libere-o posteriormente.
 
-**Transformador:** Este nanoenxame desmantela outros materiais para poder criar um único objeto específico (assim como um nanofabricador especializado). Os transformadores devem ser capaz de extrair matérias-primas apropriadas (por exemplo, para criar um dispositivo metálico os nanobots devem transformar alguma outra coisa feita de metal), vasculhando de forma específica ou indiscriminada os seus arredores. O tempo de montagem é baseado na complexidade, assim como a nanofabricação comum. O diagrama específico que eles seguem deve ser especificado quando o enxame é adquirido.
+**Transformador:** Esse nanoenxame desmantela outros materiais para poder criar um único objeto específico (assim como um nanofabricador especializado). Os transformadores devem ser capaz de extrair matérias-primas apropriadas (por exemplo, para criar um dispositivo metálico os nanobots devem transformar alguma outra coisa feita de metal), vasculhando de forma específica ou indiscriminada os seus arredores. O tempo de montagem é baseado na complexidade, assim como a nanofabricação comum. O diagrama específico que eles seguem deve ser especificado quando o enxame é adquirido.
 
 **Inoculador:** Os microenxames inoculadores aplicam cargas de drogas/toxinas em alvos biológicos. Eles ou injetam um alvo em modo picada ou liberam em conjunto uma nuvem de aerossol para inalação/contato com a pele. Os enxames inoculadores podem ser programados para procurar pessoas específicas, biomorfos ou animais de um determinado tipo, ou todas as coisas vivas. Um alvo biológico que entra em contato com um enxame inoculador está automaticamente exposto ao efeito da droga ou toxina carregada. Os inoculadores não podem penetrar trajes de vácuo, mas eles podem ficar no exterior tempo suficiente para mirar no ocupante quando ele o remover. Cada enxame carrega o suficiente para afetar 5 alvos.
 
@@ -98,3 +102,6 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 **Espião:** Também conhecido como “poeira inteligente”, os enxames espiões são nuvens invisíveis de vigilância. Os ácaros espiões são carregados com câmeras (comprimentos de ondas visuais comuns), microfones e sensores químicos. Eles oferecem vigilância generalizada de uma área. Cada enxame tem Percepção 60.
 
 **Marcador:** Os marcadores se agarram e prendem-se em tudo no seu volume de dispersão. Cada um carrega um identificador único, para que se for encontrado, a pessoa ou objeto marcado possa ser vinculado ao ponto em que foi marcado. Os marcadores podem ser programados para ficar em silêncio, respondendo a transmissões de consulta feitas com os códigos criptográficos apropriados, ou eles podem ser programados para transmitir sua localização de volta para o liberador através da mesh. Algumas instalações de alta segurança liberam marcadores em seus pontos de saída quando alarmes são disparados para marcar invasores.
+
+<!--sort-end-->
+

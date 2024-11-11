@@ -6,6 +6,8 @@ Os programas não são produtos tangíveis, então eles não podem ser nanofabri
 
 Esses programas podem ser executados em qualquer dispositivo computadorizado.
 
+<!--sort-->
+
 | APPS                  | Comp/<wbr>PE | Descrição                                        |
 |:--------------------- |:-------------------------------------:|:------------------------------------------------ |
 | Ilusão de RA          |                 Mod/2                 | Cria ilusões entópticas realistas.               |
@@ -21,33 +23,39 @@ Esses programas podem ser executados em qualquer dispositivo computadorizado.
 | VPN                   |                 Men/1                 | Cria uma rede privada virtual.                   |
 | XP                    |                Men+/1+                | Clipes de outros sensórios gravados.             |
 
+<!--sort-->
+
 **Ilusão de RA:** Uma biblioteca de mídia e um pacote de edição que você pode usar para criar ilusões entópticas realistas.
 
-**Comparação Biométrica:** Este app pega qualquer padrão biométrico — rosto, postura, morfo, voz, etc. — e executa uma pesquisa por padrões correspondentes ([Rastreando por Biometria](../13/10-tracking.md#tracking-by-biometrics)).
+**Comparação Biométrica:** Esse app pega qualquer padrão biométrico — rosto, postura, morfo, voz, etc. — e executa uma pesquisa por padrões correspondentes ([Rastreando por Biometria](../13/10-tracking.md#tracking-by-biometrics)).
 
-**Criptografia:** Este app gera pares de chaves, criptografa mensagens usando chaves públicas e descriptografa com chaves secretas ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
+**Criptografia:** Esse app gera pares de chaves, criptografa mensagens usando chaves públicas e descriptografa com chaves secretas ([Criptografia](../13/05-authentication-and-encryption.md#encryption)).
 
 **Violação:** Uma biblioteca e ferramenta hacker para se aproveitar de vulnerabilidades conhecidas de programas. Necessário para hackear.
 
-**Firewall:** Este app protege um dispositivo de uma invasão hostil. Todo dispositivo tem um por padrão.
+**Firewall:** Esse app protege um dispositivo de uma invasão hostil. Todo dispositivo tem um por padrão.
 
-**Caixa-Forte:** Este malware aprisiona infomorfos ([Prender Ego](../13/17-mindware-hacking.md#trap-ego)).
+**Caixa-Forte:** Esse malware aprisiona infomorfos ([Prender Ego](../13/17-mindware-hacking.md#trap-ego)).
 
-**Psicocirurgia:** Este app é usado para editar mentes ([Psicocirurgia](../15/05-psychosurgery.md)).
+**Psicocirurgia:** Esse app é usado para editar mentes ([Psicocirurgia](../15/05-psychosurgery.md)).
 
 **Farejamento:** Apps de farejamento coletam todo tráfego passando entre ou através dos sistemas alvos ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
 **Mascaramento:** Use apps de mascaramento para falsificar transmissões e mesh IDs ([Mascaramento](../13/05-authentication-and-encryption.md#spoofing)).
 
-**Rastreamento:** Este app rastreia as conexões das pessoas online até sua origem ([Rastreamento](../13/10-tracking.md)).
+**Rastreamento:** Esse app rastreia as conexões das pessoas online até sua origem ([Rastreamento](../13/10-tracking.md)).
 
-**VPN:** Este app possibilita que você se comunique em uma rede privada virtual ([VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks)). As VPNs fornecem um modificador −30 em ataques de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+**VPN:** Esse app possibilita que você se comunique em uma rede privada virtual ([VPNs](../13/02-mesh-topology.md#vpns-virtual-private-networks)). As VPNs fornecem um modificador −30 em ataques de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
 
 **XP:** Clipes das experiências de outra pessoa. Dependendo do conteúdo, alguns XP (pornô, morte, crime, etc.) são restritos em certas jurisdições. Os clipes de XP são frequentemente modificados para que as faixas emotivas sejam mais intensas, dando mais emoção ao espectador.
+
+<!--sort-end-->
 
 ## ILAs e Musas
 
 Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../13/07-ais-and-muses.md)). Todos os infomorfos de ILA têm Limiar de Ferimento 4, Durabilidade 20 e Grau de Destruição 40 para combate na mesh.
+
+<!--sort-->
 
 | ILAs & MUSAS       | Comp/<wbr>PE | Perícias                                                                                                                                                                                                                                                               |
 |:------------------ |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,21 +66,27 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 | ILA de Segurança   |                 Mod/2                 | Aparelhagem: Eletrônica 30, Infoseg 60, Interface 40, Percepção 30, Pesquisa 20, Programação 30, Saber: Sistemas de Segurança 80, Tiro 30                                                                                                                              |
 | ILA de Sentinela   |                Mai/R/3                | Aparelhagem: \[área apropriada\] 30, Cinésica 40, Evasão 30, Interface 30, Percepção 40, Pilotagem: \[área apropriada\] 40, Provocação 30, Saber: Especificações de \[bot/veículo\] 80, Saber: Operações de Segurança 80, Tiro 60                                |
 
-**ILA de Bot/Veículo:** Estas IAs podem pilotar e controlar o bot/veículo para o qual elas foram projetadas sem assistência transumana.
+<!--sort-->
 
-**ILA de Dispositivo:** Estas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
+**ILA de Bot/Veículo:** Essas IAs podem pilotar e controlar o bot/veículo para o qual elas foram projetadas sem assistência transumana.
+
+**ILA de Dispositivo:** Essas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
 
 **ILA Kaos:** As ILAs Kaos (também chamadas KALI) são usadas por hackers e equipes de operações de infiltração para criar distrações e sabotar sistemas.
 
-**Musa:** Estas são assistentes digitais e companheiros para toda vida.
+**Musa:** Essas são assistentes digitais e companheiros para toda vida.
 
 **ILA de Segurança:** Fornece vigilância para sistemas eletrônicos.
 
 **ILA de Sentinela:** ILAs de combate para segurança física.
 
+<!--sort-end-->
+
 ## Aflitivos
 
 Os aflitivos são apps de neurorretroalimentação danosa usados contra infomorfos e cibercérebros.
+
+<!--sort-->
 
 | AFLITIVOS    | Comp/<wbr>PE | Descrição                                                                                                  |
 |:------------ |:-------------------------------------:|:---------------------------------------------------------------------------------------------------------- |
@@ -81,6 +95,8 @@ Os aflitivos são apps de neurorretroalimentação danosa usados contra infomorf
 | Pesadelo     |                Mod/R/2                | Desencadeia ansiedade/pânico, Prova de VON ou VE 1d6 \[4\] e resposta de estresse agudo por 1d6 minutos. |
 | Espasmo      |                Mod/R/2                | Dor excruciante, Prova de VON ou incapacitado por 1 turno de ação, atordoado por 3 minutos.                |
 
+<!--sort-->
+
 **Pandemônio:** O pandemônio ataca o ego com entradas mentais traumáticas, infligindo estresse mental. As vítimas estão sobrecarregadas com faixas emocionais e sensoriais horríveis, monstruosas e enlouquecedoras. Cada ataque inflige VE 1d10, +1d6 por sucesso maior.
 
 **Cauterização:** Esse app aflitivo devassa o ego com rotinas de neurorretroalimentação destrutivas. Contra um ego em cibercérebro, a cauterização inflige VD 1d10 + 5, +1d6 por sucesso maior, ao morfo alvo (isso é dano físico, e não dano da mesh). Contra um infomorfo, a cauterização inflige VD 3d10 em um ataque da mesh de dano neurológico digitalizado.
@@ -88,6 +104,8 @@ Os aflitivos são apps de neurorretroalimentação danosa usados contra infomorf
 **Pesadelo:** Pesadelos desencadeiam ataques de ansiedade e pânico na vítima, por estimular o circuito neural representando a amígdala e o hipocampo. O ego alvo deve fazer uma Prova de VON. Se tiver sucesso, ele está abalado, sofrendo um modificador −10 em todas as ações até o final do próximo turno de ação. Se falhar, ele sofre VE 1d6 e sofre uma [resposta de estresse agudo](../12/18-mental-health.md#acute-stress-responses) que dura 1d6 minutos, +1 por falha maior.
 
 **Espasmo:** Aflitivos de espasmo incapacitam o ego com dores excruciantes. O alvo afetado deve imediatamente fazer uma Prova de VON. Se falhar, ele cai no chão e está incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que ele fica atordoado por 3 turnos de ação. Devido à natureza da causa, a tolerância à dor de qualquer tipo não tem efeito.
+
+<!--sort-end-->
 
 ## Redes Táticas
 

@@ -14,7 +14,7 @@ Para distâncias acima de um milhão de quilômetros, quase todos usam egoproje�
 
 ## Básico de Viagem Espacial
 
-Espaçonaves usam motores a reação ([Propulsão de Espaçonaves](../15/09-space-travel.md#spacecraft-propulsion)), o que significa que eles queimam combustível (massa de reação) e ejetam os produtos aquecidos em uma direção, o que empurra a espaçonave na direção oposta. A viagem envolve um período de alta aceleração por várias horas no início do voo, na qual a massa de reação é gasta para aumentar a velocidade da nave. A nave então cruza a maior parte do voo nesta velocidade, até se aproximar do destino, quando ela vira e queima massa de reação novamente na direção oposta para diminuir a velocidade.
+Espaçonaves usam motores a reação ([Propulsão de Espaçonaves](#spacecraft-propulsion)), o que significa que eles queimam combustível (massa de reação) e ejetam os produtos aquecidos em uma direção, o que empurra a espaçonave na direção oposta. A viagem envolve um período de alta aceleração por várias horas no início do voo, na qual a massa de reação é gasta para aumentar a velocidade da nave. A nave então cruza a maior parte do voo nesta velocidade, até se aproximar do destino, quando ela vira e queima massa de reação novamente na direção oposta para diminuir a velocidade.
 
 Apesar de algumas naves queimarem aproximadamente metade da sua massa de reação para obterem a melhor velocidade possível, isso não deixa muita margem para manobras adicionais ou emergências. Então, muitas naves queimam apenas uma fração do seu combustível nas acelerações iniciais, para que elas tenham alguma reserva caso precisem. Alguns truques podem ser usados para economizar combustível e aumentar a velocidade, como manobras de estilingue ao redor de poços gravitacionais de grandes planetas ou aerofrenagem na atmosfera superior de um planeta.
 
@@ -26,7 +26,7 @@ O espaço é uma mercadoria valiosa a bordo de uma espaçonave, então os cômod
 
 ## Propulsão de Espaçonaves
 
-**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, estes ainda são os mesmos foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
+**Foguetes de Hidrogênio-Oxigênio (HO):** Otimizados com motores melhorados e materiais mais leves, esses ainda são os mesmos foguetes usados chegar a Lua pela primeira vez. A sua alta taxa de consumo de combustível é equilibrada por uma alta relação empuxo-peso, portanto eles são raros exceto em grupos pobres demais para fabricar hidrogênio metálico.
 
 **Foguete de Hidrogênio Metálico (HM):** Hidrogênio metálico é uma forma sólida mas instável de hidrogênio criada em pressões extremamente altas. Ele pode ser estabilizado em tanques com campos elétricos e magnéticos cuidadosamente controlados. Pequenas quantidades podem ser rápida e explosivamente revertidas em gás hidrogênio convencional, impulsionando o foguete com grande força. Os motores de hidrogênio metálico são necessários para escapar os poços gravitacionais da maioria do planetas, graças a sua alta relação empuxo-peso, então eles são comuns em aterrissadores planetários e veículos de curto alcance.
 

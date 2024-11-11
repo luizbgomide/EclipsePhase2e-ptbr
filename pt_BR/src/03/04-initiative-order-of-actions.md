@@ -2,7 +2,7 @@
 
 O timing em um turno de ação pode ser crítico — ele pode significar a vida ou a morte para um personagem que precisa conseguir cobertura antes do oponente sacar e disparar sua arma. A ordem das ações dos vários personagens dentro de um turno é determinada pela _Iniciativa_.
 
-Seu atributo de Iniciativa é igual a (Intuição + Reflexos) ÷ 5. Este valor pode ser modificado por wares, drogas, psi ou ferimentos.
+Seu atributo de Iniciativa é igual a (Intuição + Reflexos) ÷ 5. Esse valor pode ser modificado por wares, drogas, psi ou ferimentos.
 
 ## Ordem de Iniciativa
 
@@ -10,7 +10,7 @@ No início de uma sequência de ação, todos os personagens rolam a iniciativa.
 
 ## Tomando a Iniciativa
 
-Você pode gastar [Vigor](../03/05-pools.md#vigor) para agir primeiro na ordem de Iniciativa. Você também pode gastar Inspiração para agir primeiro, se você está fazendo apenas ações mentais ou da mesh e nenhum movimento físico. Você volta à sua ordem de rolagem de Iniciativa normal na próxima rodada. Se vários personagens gastam Inspiração ou Vigor, eles agem primeiro na ordem de Iniciativa, seguidos por todos os outros.
+Você pode gastar [Vigor](05-pools.md#vigor) para agir primeiro na ordem de Iniciativa. Você também pode gastar Inspiração para agir primeiro, se você está fazendo apenas ações mentais ou da mesh e nenhum movimento físico. Você volta à sua ordem de rolagem de Iniciativa normal na próxima rodada. Se vários personagens gastam Inspiração ou Vigor, eles agem primeiro na ordem de Iniciativa, seguidos por todos os outros.
 
 ## Adiando Ações
 
@@ -22,4 +22,4 @@ Se vários personagens que adiaram escolherem agir ao mesmo tempo, aquele com a 
 
 ## Ações Extras
 
-Você pode gastar [Vigor](../03/05-pools.md#vigor) ou [Inspiração](../03/05-pools.md#insight) para uma ter ação extra física ou mental a cada turno. Essas ações extras, complexas ou rápidas, acontecem no final do turno, depois que todos já agiram. Se vários personagens fizerem ações extras, elas são feitas em ordem de Iniciativa. Não é possível fazer mais que duas ações extras em um único turno de ação.
+Você pode gastar [Vigor](05-pools.md#vigor) ou [Inspiração](05-pools.md#insight) para uma ter ação extra física ou mental a cada turno. Essas ações extras, complexas ou rápidas, acontecem no final do turno, depois que todos já agiram. Se vários personagens fizerem ações extras, elas são feitas em ordem de Iniciativa. Não é possível fazer mais que duas ações extras em um único turno de ação.

@@ -28,7 +28,7 @@ Intocados são humanos simples não modificados, nascidos com todos os defeitos 
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Extras Comuns:** Muitos têm o traço [Defeito Genético](../04/28-traits.md#genetic-defect)
+- **Extras Comuns:** Muitos têm o traço [Defeito Genético](28-traits.md#genetic-defect)
 
 </blockquote>
 
@@ -54,6 +54,10 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Exalto
 
 Exaltos são os modelos de “humanos aprimorados” comuns e não especializados. Eles são geneticamente melhorados para torná-los mais saudáveis, inteligentes e atraentes (baseado nos padrões de beleza em constante evolução). Um metabolismo modificado os mantêm aptos e atléticos por toda sua expectativa de vida estendida.
@@ -75,6 +79,8 @@ Exaltos são os modelos de “humanos aprimorados” comuns e não especializado
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Neotênico
 
@@ -100,6 +106,8 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 
 </blockquote>
 
+<!--sort-end-->
+
 ### Ferroso
 
 Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marciano não totalmente terraformado, esses morfos transgênicos possuem pele isolada para uma termorregulação mais eficaz e melhorias do sistema respiratório para exigir menos oxigênio e filtrar gás carbônico, entre outras modificações.
@@ -119,9 +127,13 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
-- **Extras Comuns:** Muitos têm o traço de [Obsolescência Programada](../04/28-traits.md#planned-obsolescence)
+- **Extras Comuns:** Muitos têm o traço [Obsolescência Programada](28-traits.md#planned-obsolescence)
 
 </blockquote>
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Quicante
 
@@ -146,6 +158,8 @@ Os quicantes são geneticamente adaptados para microgravidade. Suas pernas são 
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Futura
 
 Os morfos futura foram feitos especialmente para a “Geração Perdida” de crianças de crescimento acelerado. Ajustados para a confiança, a autonomia e a adaptabilidade, os futuras tinham como objetivo ajudar a transumanidade a recuperar o seu lugar. Esses programas se provaram desastrosos e a linha foi descontinuada, mas alguns modelos e vários derivados ainda existem, vistos por alguns com desgosto e por outros como colecionáveis ou exóticos.
@@ -167,6 +181,8 @@ Os morfos futura foram feitos especialmente para a “Geração Perdida” de cr
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Hibernoide
 
@@ -190,6 +206,8 @@ Hibernoides são humanos transgênicos modificados com padrões de sono e proces
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Menton
 
 Mentons são geneticamente modificados para aumentar suas habilidades cognitivas, principalmente a capacidade de aprendizagem, a criatividade, a atenção e a memória. Eles são preferidos por acadêmicos, intelectuais, cientistas e engenheiros.
@@ -211,6 +229,8 @@ Mentons são geneticamente modificados para aumentar suas habilidades cognitivas
 - **Wares:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Olímpico
 
@@ -234,6 +254,8 @@ Olímpicos são melhorias humanas com capacidades atléticas aprimoradas, como r
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Sílfide
 
 Os morfos sílfide são ideais para ícones da mídia, socialites de elite, celebridades XP, modelos e narcisistas. As sequências genéticas das sílfides são arranjadas para uma bela aparência, características etéreas e élficas, e corpos esguios e ágeis. Seu metabolismo também foi sanitizado para eliminar odores corporais desagradáveis e seus feromônios ajustados para ter um apelo universal.
@@ -253,9 +275,15 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
-- **Extras Comuns:** Muitos têm o traço [Aparência Marcante](../04/28-traits.md#striking-looks)
+- **Extras Comuns:** Muitos têm o traço [Aparência Marcante](28-traits.md#striking-looks)
 
 </blockquote>
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Fúria
 
@@ -281,6 +309,8 @@ Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Fantasma
 
 Fantasmas são projetados parcialmente para aplicações de combate, mas seu foco principal é a furtividade e a infiltração. Seu perfil genético incentiva a velocidade, a agilidade e os reflexos, e suas mentes são modificadas para a paciência e a solução de problemas.
@@ -304,6 +334,8 @@ Fantasmas são projetados parcialmente para aplicações de combate, mas seu foc
 - **Extras Comuns:** Muitos estão equipados com [pele-flex](../16/09-social-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Refeito
 

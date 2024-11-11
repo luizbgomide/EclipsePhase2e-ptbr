@@ -26,7 +26,7 @@ Digimorfos são emulações mentais básicas, embora sejam personalizáveis e am
 
 ### Ikon
 
-Projetado para artistas online, ícones de mídia e socializadores, este infomorfo é codificado para aprimorar o carisma e as perícias sociais.
+Projetado para artistas online, ícones de mídia e socializadores, esse infomorfo é codificado para aprimorar o carisma e as perícias sociais.
 
 <blockquote class="indent stat-list">
 
@@ -46,9 +46,13 @@ Projetado para artistas online, ícones de mídia e socializadores, este infomor
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Agente
 
-Popular com especialistas em segurança de rede, testadores de invasão e hackers, este infomorfo é otimizado para funções de infoseg.
+Popular com especialistas em segurança de rede, testadores de invasão e hackers, esse infomorfo é otimizado para funções de infoseg.
 
 <blockquote class="indent stat-list">
 
@@ -67,6 +71,8 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Operador
 
@@ -89,3 +95,6 @@ Este infomorfo é ideal para profissões que envolvem operação remota de drone
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>
+
+<!--sort-end-->
+

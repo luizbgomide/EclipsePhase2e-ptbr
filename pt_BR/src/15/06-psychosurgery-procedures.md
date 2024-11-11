@@ -1,6 +1,8 @@
 # Procedimentos de Psicocirurgia
 
-As seguintes alterações podem ser realizadas com psicocirurgia. A critério do MJ, outros procedimentos de edição mental podem ser tentados, usando estes como guia.
+As seguintes alterações podem ser realizadas com psicocirurgia. A critério do MJ, outros procedimentos de edição mental podem ser tentados, usando esses como guia.
+
+<!--sort-->
 
 | PROCEDIMENTO DE PSICOCIRURGIA |              Prazo               |         VE          | Efeito                                                                                            |
 |:----------------------------- |:--------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------- |
@@ -20,13 +22,15 @@ As seguintes alterações podem ser realizadas com psicocirurgia. A critério do
 | Supressão de Perícia          |       (Perícia ÷ 10) dias        | (Perícia ÷ 10) VE/— | Remove perícia.                                                                                   |
 | Tasp                          |           1&nbsp;hora+           |          —          | Puro prazer; pode viciar.                                                                         |
 
+<!--sort-->
+
 ## Bloqueio de Consciência
 
 Essa técnica é usada para bloquear sua percepção sobre ações, perícias ou memórias específicas, ou até mesmo sobre o ambiente ao seu redor. Isso difere de edição de memória ou supressão de perícia, pois nada é removido da sua mente; você simplesmente está impedido de acessar esse conhecimento. Por exemplo, você pode ser bloqueado de ter ciência da cor vermelha, de lembrar como usar uma arma, ou de automaticamente ignorar qualquer coisa sobre uma hipercorp específica.
 
 Quando usado para bloquear suas próprias ações ou comportamentos, você está completamente alheio à atividade bloqueada — mesmo quando a está fazendo. Se chamarem sua atenção para a ação/comportamento, você é incapaz de reconhecê-la ou falar sobre ela (tentativas de forçar você provocarão um Teste de Estresse de VE 1d6/1).
 
-O bloqueio de consciência às vezes é aplicado como uma segunda camada de proteção para memórias editadas ou perícias suprimidas. Neste caso, não só a memória/perícia foi removida, mas você é incapaz de pensar nessa possibilidade.
+O bloqueio de consciência às vezes é aplicado como uma segunda camada de proteção para memórias editadas ou perícias suprimidas. Nesse caso, não só a memória/perícia foi removida, mas você é incapaz de pensar nessa possibilidade.
 
 Os bloqueios de consciência são excepcionalmente úteis para espionagem e programação de controle mental. Os mensageiros carregando informações secretas em suas mãos podem não ter noção alguma do tesouro de dados em suas mentes, reduzindo a possibilidade de eles serem interceptados ou acidentalmente vazarem o que eles sabem. Espiões podem ser programados com edição de personalidade para exercerem certas atividades, mas serem bloqueados por esse procedimento de terem ciência delas, permitindo assim que eles mintam convincentemente se forem interrogados. A combinação de bloqueio de consciência e edição de personalidade permite a criação de peões involuntários.
 
@@ -56,7 +60,7 @@ O prazo e o VE para o interrogatório psicocirúrgico é variável, dependendo d
 
 Ao monitorar a recordação de memórias (invocadas a força se necessário), psicocirurgiões podem identificar onde memórias estão armazenadas no cérebro e selecioná-las para remoção. No entanto, o armazenamento da memória é complexo e difuso, e frequentemente ligado a outras memórias. É extremamente difícil selecionar uma memória específica para remoção; em vez disso, agrupamentos gerais de memórias devem ser selecionados, como períodos de tempo aproximados ou tópicos. Remover uma memória quase sempre afetará outras (a critério do MJ).
 
-Adicionar ou substituir memórias é uma operação muito mais complicada e requer que tais memórias sejam copiadas de alguém que as vivenciou ou sejam fabricadas com programas de XP. Quando são implantadas com sucesso, memórias falsas podem conflitar com outras memórias (reais) a não ser que estas também sejam apagadas. Personagens que receberam uma memória falsa podem fazer uma Prova de INT para identificar uma memória como fabricada ou incorreta, se eles tiverem uma razão para duvidar dela.
+Adicionar ou substituir memórias é uma operação muito mais complicada e requer que tais memórias sejam copiadas de alguém que as vivenciou ou sejam fabricadas com programas de XP. Quando são implantadas com sucesso, memórias falsas podem conflitar com outras memórias (reais) a não ser que essas também sejam apagadas. Personagens que receberam uma memória falsa podem fazer uma Prova de INT para identificar uma memória como fabricada ou incorreta, se eles tiverem uma razão para duvidar dela.
 
 ## Avaliação Mental
 
@@ -64,7 +68,7 @@ A psicocirurgia pode ser usada para detectar edições prévias na sua mente. Es
 
 ## Mesclagem
 
-Mesclagem é o processo de recombinar um forque com seu ego originário ([Forqueamento](../15/04-forking-and-merging.md)). A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. Um teste bem-sucedido vai reduzir o VE; use os números listados depois da barra na tabela de Mesclagem. Cada sucesso maior reduzirá a quantidade de memórias perdidas em um nível, cada falha maior vai aumentar em um nível. A perda de memória geralmente só afeta as memórias do forque (não do alfa); aplique um modificador em Provas de COG relacionadas à memória (−10 para perda Menor, −20 para Moderada, −30 para Maior).
+Mesclagem é o processo de recombinar um forque com seu ego originário ([Forqueamento](04-forking-and-merging.md)). A mesclagem geralmente resulta em estresse mental e/ou perda de memórias do forque. Um teste bem-sucedido vai reduzir o VE; use os números listados depois da barra na tabela de Mesclagem. Cada sucesso maior reduzirá a quantidade de memórias perdidas em um nível, cada falha maior vai aumentar em um nível. A perda de memória geralmente só afeta as memórias do forque (não do alfa); aplique um modificador em Provas de COG relacionadas à memória (−10 para perda Menor, −20 para Moderada, −30 para Maior).
 
 O processo de mesclagem também integra qualquer estresse, traumas e traços de ego adquiridos pelo forque no ego original.
 
@@ -84,7 +88,7 @@ O processo de mesclagem também integra qualquer estresse, traumas e traços de 
 
 ## Desbaste Neural
 
-O desbaste neural é o processo de criar um [forque beta](../15/04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
+O desbaste neural é o processo de criar um [forque beta](04-forking-and-merging.md#beta-forks) a partir de um forque alfa. Anote quais perícias e memórias você quer diminuir, eliminar ou manter. Se tiver sucesso, o forque é criado como planejado. Se falhar, o forque beta adquire uma das seguintes penalidades, mais uma por falha maior. Algumas dessas penalidades podem ser combinadas em um efeito cumulativo:
 
 - 1 perícia é diminuída em −30.
 - O forque adquire um traço Negativo de ego.
@@ -123,3 +127,6 @@ A supressão de perícia tenta identificar onde as perícias estão armazenadas 
 ## Tasp
 
 Tasp é o uso de técnicas de estimulação cerebral profunda para tocar nos centros de prazer da mente. Embora esse procedimento geralmente seja usado para fins terapêuticos em pacientes sofrendo de depressão ou outras enfermidades mentais, a intenção da tasp é sobrecarregar o indivíduo em um estado prolongado de felicidade quase insuportável. No entanto, essa estimulação é altamente viciante. Então se você for exposto por períodos prolongados ou recorrentes, você precisará fazer uma Prova de VON com −30 ou receber o [traço Vício](../04/28-traits.md#addiction). Sabe-se que algumas organizações criminosas usam vício e recompensas em tasp como formas de controlar aqueles em seus domínios.
+
+<!--sort-end-->
+

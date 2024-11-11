@@ -47,6 +47,10 @@ Bastante utilizados em trabalhos braçais que envolvam a interação com outros 
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Novacancridae
 
 Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-aranha e cultivados para um tamanho maior (humano), os novacancridae são ideais para ambientes de trabalho perigosos, assim como funções de peão de vácuo, policial ou guarda-costas. Eles conseguem escalar, lidam bem com a microgravidade e podem suportar uma ampla gama de pressões atmosféricas (e mudanças súbitas de pressão), desde o vácuo até o mar profundo. Eles são equipados com dez patas de 2 metros, grandes garras, armaduras quitinosa, olhos compostos (com resolução de imagem equivalente à humana), guelras, dedos manipuladores hábeis em seu quinto par de membros, e cordas vocais transgênicas.
@@ -71,6 +75,8 @@ Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-ar
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Prod de Prazer
 
 Os prods de prazer são imitações de humanos para fins de entretenimento íntimo e de hedonismo indulgente. Sua biologia inclui aglomerados nervosos extras em suas zonas erógenas, controle motor fino sobre certos grupos musculares, feromônios aprimorados, metabolismo sanitizado e a capacidade de ronronar. Eles conseguem alternar entre múltiplas configurações sexuais e são frequentemente aprimorados em outras áreas.
@@ -90,9 +96,15 @@ Os prods de prazer são imitações de humanos para fins de entretenimento ínti
 
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
-- **Extras Comuns:** Muitos têm [Aparência Marcante](../04/28-traits.md#striking-looks) ou [Vício](../04/28-traits.md#addiction)
+- **Extras Comuns:** Muitos têm [Aparência Marcante](28-traits.md#striking-looks) ou [Vício](28-traits.md#addiction)
 
 </blockquote>
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Prod de Segurança
 
@@ -117,6 +129,8 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Moldável
 
 Os moldáveis são projetados para infiltração e disfarce. Eles não têm as linhas de emendas comuns dos prods e incorporam wares que lhes permitem alterar a aparência. Preferidos por espiões e criminosos, eles são ilegais em muitos habitats.
@@ -138,3 +152,6 @@ Os moldáveis são projetados para infiltração e disfarce. Eles não têm as l
 - **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
 
 </blockquote>
+
+<!--sort-end-->
+

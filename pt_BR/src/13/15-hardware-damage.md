@@ -2,7 +2,7 @@
 
 Os equipamentos da mesh variam de ciscos baratos e vulneráveis a servidores duráveis e autorreparáveis. Eles são tratados exatamente como outros objetos para fins de combate físico ([Objetos & Estruturas](../12/26-objects-and-structures.md)).
 
-Se um dispositivo estiver danificado fisicamente, há uma chance de 10% de sofrer um [defeito](../13/16-glitches.md). Se o dispositivo sofrer um ferimento, ela automaticamente dá defeito. Além disso, os modificadores de ferimento se aplicam a todos os testes na mesh envolvendo esse dispositivo.
+Se um dispositivo estiver danificado fisicamente, há uma chance de 10% de sofrer um [defeito](16-glitches.md). Se o dispositivo sofrer um ferimento, ela automaticamente dá defeito. Além disso, os modificadores de ferimento se aplicam a todos os testes na mesh envolvendo esse dispositivo.
 
 Ataques de choque vão interromper temporariamente os aparelhos. Nenhuma ação da mesh pode ser feita com ou em um dispositivo chocado por um turno de ação. A critério do MJ, os ataques de choque também podem cortar ligações de comunicação ou infligir danos extras.
 
@@ -12,7 +12,7 @@ Quando danos excede o Grau de Destruição de um dispositivo, ele deixa de funci
 
 ## Danos e Caronas Infomorfos
 
-Para a maioria dos fins de combate físico, o ware incorporado em um morfo é tratado como o personagem, e não como um hardware separado. No entanto, infomorfos que estão usando esses wares como um dispositivo habitado, tal como uma musa em seus insertos da mesh ou um forque em um módulo de carona virtual, requerem consideração especial.
+Para a maioria dos fins de combate físico, os wares incorporados em um morfo são tratados como o próprio personagem, e não como uma aparelhagem separada. No entanto, infomorfos que estão usando esses wares como um dispositivo habitado, tal como uma musa em seus insertos da mesh ou um forque em um módulo de carona virtual, requerem consideração especial.
 
 Os infomorfos não dormem, por isso permanecem ativos mesmo quando o seu morfo carregador está descansando ou hibernando. Da mesma forma, eles ainda podem agir mesmo que o morfo esteja incapacitado ou agarrado. No entanto, os ataques de choque interrompem temporariamente os sistemas implantados, então os caronas infomorfos ficam incapacitados assim como o morfo.
 

@@ -10,9 +10,9 @@ Para as pessoas que não divulgam livremente a sua localização, as seguintes r
 
 ### Rastreando por Mesh ID
 
-Para rastrear a localização física atual ou a última conhecida de um [mesh ID](../13/05-authentication-and-encryption.md#mesh-id) requer um Teste de Pesquisa. Se bem-sucedidos, os resultados são produzidos instantaneamente se o alvo estiver dentro da região da mesh local; alvos mais afastados podem demorar mais, de acordo com o atraso da distância. Os sucessos maiores podem melhorar a localização ou fornecer detalhes adicionais, como dados ao vivo de sensores.
+Para rastrear a localização física atual ou a última conhecida de um [mesh ID](05-authentication-and-encryption.md#mesh-id) requer um Teste de Pesquisa. Se bem-sucedidos, os resultados são produzidos instantaneamente se o alvo estiver dentro da região da mesh local; alvos mais afastados podem demorar mais, de acordo com o atraso da distância. Os sucessos maiores podem melhorar a localização ou fornecer detalhes adicionais, como dados ao vivo de sensores.
 
-Se o alvo estiver no [modo privativo](../13/01-everyware.md#privacy-mode), aplique um modificador −30 a esse teste. Se o alvo estiver disfarçando ativamente sua atividade mascarando mesh IDs ou alternando mesh IDs falsas, esse se torna um teste oposto colocando a Pesquisa contra a perícia Infoseg do alvo, com um prazo de 1 hora. Se o alvo estiver usando um serviço de anonimização, eles só podem ser rastreados até o próprio serviço ([Anonimizador](../16/04-services.md#mesh-services)).
+Se o alvo estiver no [modo privativo](01-everyware.md#privacy-mode), aplique um modificador −30 a esse teste. Se o alvo estiver disfarçando ativamente sua atividade mascarando mesh IDs ou alternando mesh IDs falsas, esse se torna um teste oposto colocando a Pesquisa contra a perícia Infoseg do alvo, com um prazo de 1 hora. Se o alvo estiver usando um serviço de anonimização, eles só podem ser rastreados até o próprio serviço ([Anonimizador](../16/04-services.md#mesh-services)).
 
 ### Rastreando por Biometria
 
@@ -51,15 +51,15 @@ A maioria das hipercorps e governos tem acesso a vastas bases de dados compilada
 
 É complicado, mas não impossível, adquirir uma avaliação bem mais detalhada da atividade da mesh de alguém: interações em redes de rep, serviços utilizados, sites navegados, pessoas contatadas, etc. No mínimo, isso implicaria saber o mesh ID e aplicar um modificador −30 de dados obscuros em seu Teste de Pesquisa, simplesmente porque você dependeria em grande parte de logs de acesso e transações que raramente estão disponíveis ao público. Uma abordagem um pouco melhor é focar em um tipo específico de atividade — por exemplo, o uso de determinados serviços online — e implantar hackeamento criterioso de baixo nível (resumido em um simples Teste de Infoseg com prazo de 1 hora) ou usar favores de rep, subornos ou ameaças para obter a informação de que precisa. O MJ deve julgar a cada caso quando aplicar modificadores.
 
-Rastrear as atividades de alguém em um único sistema é muito mais fácil, exigindo uma [ação de monitorar atividade](../13/06-mesh-actions.md#security-actions).
+Rastrear as atividades de alguém em um único sistema é muito mais fácil, exigindo uma [ação de monitorar atividade](06-mesh-actions.md#security-actions).
 
 ### Monitoramento Ativo
 
-De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isso pode ser feito remotamente e requer apenas mesh ID dela e um app de farejamento ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
+De longe, a melhor abordagem para monitorar a atividade de alguém na mesh, especialmente em tempo real, é analisar ativamente o tráfego de mesh dela. Isso pode ser feito remotamente e requer apenas mesh ID dela e um app de farejamento ([Farejamento](04-devices-apps-and-links.md#sniffing)). Como alternativa, você pode hackear a PAN dela e monitorar o que ela faz a partir daí.
 
 ## Contramedidas de Rastreamento
 
-Dada a prevalência da vigilância e rastreamento na mesh, agentes infiltrados e aqueles preocupados com a sua privacidade têm várias opções além do simples [modo privativo](../13/01-everyware.md#privacy-mode).
+Dada a prevalência da vigilância e rastreamento na mesh, agentes infiltrados e aqueles preocupados com a sua privacidade têm várias opções além do simples [modo privativo](01-everyware.md#privacy-mode).
 
 ### Mesh IDs Descartáveis
 
@@ -77,4 +77,4 @@ Rastrear uma conta anônima é uma impossibilidade prática e algo que apenas um
 
 ### Mascarando Mesh IDs
 
-Alguns hackers preferem mascarar-se como outros usuários, seja como uma distração, uma demonstração, ou para enquadrar outra pessoa. Isso segue o mesmo procedimento de mascarar alguém para autenticação ([Mascaramento](../13/05-authentication-and-encryption.md#spoofing)).
+Alguns hackers preferem mascarar-se como outros usuários, seja como uma distração, uma demonstração, ou para enquadrar outra pessoa. Isso segue o mesmo procedimento de mascarar alguém para autenticação ([Mascaramento](05-authentication-and-encryption.md#spoofing)).

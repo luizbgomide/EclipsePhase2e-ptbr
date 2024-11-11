@@ -32,6 +32,10 @@ Carcaças sintéticas são feitas para durar — um fato refletido em sua maior 
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Chapeado
 
 Os chapeados são carcaças robóticas produzidas em massa, um opção acessível de reencape para os pobres, apesar da notória baixa qualidade. Eles estão disponíveis em muitas variedades para atender ao gosto do cliente. A maioria dos morfos chapeados são antropomórficos, com uma estrutura corporal fina e um pouco mais baixo que a média humana.
@@ -55,6 +59,8 @@ Os chapeados são carcaças robóticas produzidas em massa, um opção acessíve
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Sobressalente
 
@@ -80,6 +86,8 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 
 </blockquote>
 
+<!--sort-end-->
+
 ### Libélula
 
 A libélula é uma carcaça flexível com um metro de comprimento e oito asas, quatro membros manipuladores e uma cauda preênsil. Capazes de voos bem silenciosos na gravidade da Terra, os bots libélulas se saem ainda melhores em microgravidade. Suas asas operam de forma independente e podem girar, permitindo fazer manobras graciosas, pairar e fazer curvas fechadas.
@@ -103,6 +111,10 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 - **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </blockquote>
+
+<!--sort-->
+
+<!--sort-block-->
 
 ### Enxamenoide
 
@@ -128,6 +140,8 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Sinte
 
 Os sintes são ainda mais humanoides que os chapeados e de melhor qualidade. Eles são bastante usados em tarefas de trabalho intensivo em ambientes inadequados para biomorfos, ou para pessoas que precisam de um corpo rápido e barato ou apenas um corpo provisório. A maioria dos designs são antropomórficos, embora várias alternativas existam, incluindo alguns baseados em fisiologia de elevados.
@@ -151,6 +165,8 @@ Os sintes são ainda mais humanoides que os chapeados e de melhor qualidade. Ele
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Savant
 
@@ -176,6 +192,10 @@ Desenvolvidos por eremitas hackers de aparelhagem, os savants possuem aprimorame
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Galateia
 
 Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitação social dos sintemorfos. Galateias parecem caras e sua arquitetura mental é feita para melhorar a personalidade e o charme do usuário. Apenas de muitos ícones da mídia terem abraçado a novidade deste morfo, biochauvinistas ainda o veem como uma monstruosidade.
@@ -199,6 +219,8 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </blockquote>
+
+<!--sort-block-->
 
 ### Serpentoide
 
@@ -224,6 +246,8 @@ As carcaças serpentoides tem a forma de um torso humanoide com braços retráte
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Morfo de Aço
 
 Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes biochauvinistas e tornar os sintemorfos mais atrativos. Enquanto a galateia é otimizada para interações sociais, o morfo de aço fornece capacidades físicas aprimoradas para o trabalho e o lazer.
@@ -247,6 +271,8 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 - **Notas:** Armação Média (Armadura 8/6)
 
 </blockquote>
+
+<!--sort-end-->
 
 ### Aracnoide
 
@@ -306,7 +332,7 @@ Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais
 
 Cada flexbot é considerada uma única entidade para fins de regras, não importa quantos módulos ele tenha. Embora a gama completa de possibilidades de flexbots esteja além do escopo deste livro, aplique as seguintes regras e fique de olho em suplementos antigos e novos de Eclipse Phase:
 
-- Escolha um módulo para conter o ego — este módulo controla os outros.
+- Escolha um módulo para conter o ego — esse módulo controla os outros.
 - (Des)conectar um módulo é uma ação complexa e requer um [Teste de Integração](../15/02-resleeving.md#integration-test). Os módulos não conectados fisicamente são tratados como em [operação remota](../16/21-robots.md#remote-operations).
 - Quando os módulos são combinados, use suas paradas combinadas.
 - Os módulos devem estar todos usando o mesmo sistema de mobilidade ou a Taxa de Movimento é reduzida à metade.
@@ -335,6 +361,10 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 
 </blockquote>
 
+<!--sort-->
+
+<!--sort-block-->
+
 ### Módulo Construtor
 
 Os construtores são módulos de engenharia, especializados em construção e fabricação.
@@ -357,27 +387,7 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 </blockquote>
 
-### Módulo Guerreiro
-
-Estes módulos são feitos para o combate.
-
-<blockquote class="indent stat-list">
-
-### Módulo Guerreiro
-
-- **Custo:** 3&nbsp;PM • **Disp:** 60
-
----
-
-- **LF:** 6 • **DUR:** 30 • **GD:** 60
-- **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
-
----
-
-- **Wares:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, armas de distância
-
-</blockquote>
+<!--sort-block-->
 
 ### Módulo Ladino
 
@@ -401,6 +411,8 @@ Os ladinos são otimizados para furtividade e atividades ocultas.
 
 </blockquote>
 
+<!--sort-block-->
+
 ### Módulo Feiticeiro
 
 Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação.
@@ -420,5 +432,29 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 
 - **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
+
+</blockquote>
+
+<!--sort-end-->
+
+### Módulo Guerreiro
+
+Estes módulos são feitos para o combate.
+
+<blockquote class="indent stat-list">
+
+### Módulo Guerreiro
+
+- **Custo:** 3&nbsp;PM • **Disp:** 60
+
+---
+
+- **LF:** 6 • **DUR:** 30 • **GD:** 60
+- **Inspiração** 0, **Manha** 0, **Vigor** 1, **Flex** 0
+
+---
+
+- **Wares:** Pneumáticos, Suporte de Arma (2)
+- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, armas de distância
 
 </blockquote>

@@ -4,7 +4,7 @@
 
 ## Manipulação Social
 
-Assim como a perícia Provocação pode ser usada para [ataques sociais](../12/22-social-actions.md#social-attacks), as perícias Cinésica, Enganação, Persuasão e Provocação ([Perícias](../04/18-skills.md)) podem ser usadas para vários fins, seja você usando lábia para sair de uma enrascada, extraindo informações de um suspeito, ou determinando se alguém está armando contra você.
+Assim como a perícia Provocação pode ser usada para [ataques sociais](#social-attacks), as perícias Cinésica, Enganação, Persuasão e Provocação ([Perícias](../04/18-skills.md)) podem ser usadas para vários fins, seja você usando lábia para sair de uma enrascada, extraindo informações de um suspeito, ou determinando se alguém está armando contra você.
 
 Quase todas as perícias sociais são tratadas como testes opostos, conforme indicado nas descrições das perícias. Há vários outros fatores que podem fornecer modificadores para esses testes:
 
@@ -30,24 +30,24 @@ Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com qu
 
 ### Modificadores Sociais
 
-| Situação                                                                                          |  Modificador  |
-|:------------------------------------------------------------------------------------------------- |:-------------:|
-| Atitude do PNJ                                                                                    |               |
-| <div class="indent">» Hostil</div>           |      −30      |
-| <div class="indent">» Antagonista</div>      |      −20      |
-| <div class="indent">» Desfavorável</div>        |      −10      |
-| <div class="indent">» Indiferente</div>       |      +0       |
-| <div class="indent">» Amigável</div>          |      +10      |
-| <div class="indent">» Cooperativa</div>       |      +20      |
-| <div class="indent">» Apoiadora</div>        |      +30      |
-| Pedido                                                                                            |               |
-| <div class="indent">» Simples/Curto</div>      |      +10      |
-| <div class="indent">» Complexo/Longo</div>      |      −10      |
-| <div class="indent">» Benéfico para o PNJ</div> |      +30      |
-| <div class="indent">» Perigoso para o PNJ</div>  |      −30      |
-| Apelo/Oposição à Motivação do PNJ                                                                 | +/−10 a +/−30 |
-| Estigma/Status Social                                                                             | +/−10 a +/−30 |
-| Rep Alta (60+) em Rede Preferida                                                                  |      +10      |
+| Situação                          |  Modificador  |
+|:--------------------------------- |:-------------:|
+| Atitude do PNJ                    |               |
+| <p class="indent">» Hostil</p>         |      −30      |
+| <p class="indent">» Antagonista</p>         |      −20      |
+| <p class="indent">» Desfavorável</p>         |      −10      |
+| <p class="indent">» Indiferente</p>         |      +0       |
+| <p class="indent">» Amigável</p>         |      +10      |
+| <p class="indent">» Cooperativa</p>         |      +20      |
+| <p class="indent">» Apoiadora</p>         |      +30      |
+| Pedido                            |               |
+| <p class="indent">» Simples/Curto</p>         |      +10      |
+| <p class="indent">» Complexo/Longo</p>         |      −10      |
+| <p class="indent">» Benéfico para o PNJ</p>         |      +30      |
+| <p class="indent">» Perigoso para o PNJ</p>        |      −30      |
+| Apelo/Oposição à Motivação do PNJ | +/−10 a +/−30 |
+| Estigma/Status Social             | +/−10 a +/−30 |
+| Rep Alta (60+) em Rede Preferida  |      +10      |
 
 </blockquote>
 

@@ -2,7 +2,7 @@
 
 A mesh é tesouro de dados para aqueles habilidosos em explorar seus recantos em filtrar os detritos. Use a perícia Pesquisa quando procurar coisas online. Você pode buscar notícias, trabalhos de pesquisa, fluxos públicos de sensores, atividades em redes sociais, informações pessoais ou corporativas, registros do SolArchive, antecedentes criminais, dados governamentais, relatórios vazados, dispositivos conectados em mesh, e muito, muito mais. Todo tipo de dado digitalizado pode ser pesquisado: textos, imagens, áudios, vídeos, XP, dados brutos, programas, etc. Esses dados são coletados de vários tipos de fontes: arquivos, bases de dados, diretórios, redes sociais, serviços na nuvem, blogs/vlogs, fóruns, salas de chat, e sites comuns da mesh. A pesquisa é conduzida usando vários mecanismos de busca públicos e privados, tanto gerais quanto especializados, assim como índices da dados e IAs de busca.
 
-Você também pode usar Pesquisa quando procurar informações em uma rede ou dispositivo específicos o qual você tem acesso: um cisco sensor, o ecto ou tablet de alguém, um robô ou os insertos da mesh de um oponente ([Procurando em Sistemas Específicos](../13/09-online-research.md#searching-specific-systems)). Da mesma forma, uma vez que todos inevitavelmente usam e interagem com a mesh, a perícia de Pesquisa também é uma forma de identificar, rastrear, e/ou recolher informações sobre pessoas, contanto que elas não ocultem a sua identidade, que trabalhem anonimamente, ou que tenham encoberto sua identidade em um manto de desinformação ([Rastreamento](../13/10-tracking.md)).
+Você também pode usar Pesquisa quando procurar informações em uma rede ou dispositivo específicos o qual você tem acesso: um cisco sensor, o ecto ou tablet de alguém, um robô ou os insertos da mesh de um oponente ([Procurando em Sistemas Específicos](#searching-specific-systems)). Da mesma forma, uma vez que todos inevitavelmente usam e interagem com a mesh, a perícia de Pesquisa também é uma forma de identificar, rastrear, e/ou recolher informações sobre pessoas, contanto que elas não ocultem a sua identidade, que trabalhem anonimamente, ou que tenham encoberto sua identidade em um manto de desinformação ([Rastreamento](10-tracking.md)).
 
 ## Desafios da Pesquisa
 
@@ -32,7 +32,7 @@ A pesquisa online é um elemento crucial na maioria das aventuras de Eclipse Pha
 
 Para buscas que são mais detalhadas, difíceis ou centrais para a trama, faça um Teste de Pesquisa (ou faça sua musa fazer por você). Se você estiver procurando dados relacionados a um determinado assunto ou campo de estudo, você pode usar uma perícia de Saber apropriada como uma [perícia complementar](../04/20-know-skills.md#complementary-skills).
 
-Os Testes de Pesquisa são tratados como ações de tarefas. O prazo sugerido é 1 hora, embora isso deva ser modificado pelo MJ de acordo com a quantidade de dados que você precisa vasculhar para obter o resultado e as necessidades da trama. As pesquisas que exigem que você acesse partes não locais da mesh podem aumentar o prazo devido ao atraso da distância ([Ilhas na Rede](../13/02-mesh-topology.md#islands-in-the-net)). Sucessos maiores fornecem detalhes e nuances de bônus. Um sucesso crítico leva a um entendimento inovador. Uma falha crítica, no entanto, resulta em informações falsas e enganosas.
+Os Testes de Pesquisa são tratados como ações de tarefas. O prazo sugerido é 1 hora, embora isso deva ser modificado pelo MJ de acordo com a quantidade de dados que você precisa vasculhar para obter o resultado e as necessidades da trama. As pesquisas que exigem que você acesse partes não locais da mesh podem aumentar o prazo devido ao atraso da distância ([Ilhas na Rede](02-mesh-topology.md#islands-in-the-net)). Sucessos maiores fornecem detalhes e nuances de bônus. Um sucesso crítico leva a um entendimento inovador. Uma falha crítica, no entanto, resulta em informações falsas e enganosas.
 
 ### Dados Privados e Proprietários
 
@@ -46,29 +46,29 @@ Só porque você adquiriu os dados não significa que você os entenda. Você po
 
 ### Pesquisa Online
 
-| Situação                                                                                                                                 | Modificadores |
-|:---------------------------------------------------------------------------------------------------------------------------------------- |:-------------:|
-| Fontes Conflitantes                                                                                                                      |      −10      |
-| Possui Pistas, Rastros ou Detalhes Corroborantes                                                                                         |   +10 a +30   |
-| Disponibilidade                                                                                                                          |               |
-| <div class="indent">» Informação Difundida</div>                          |   prazo ÷ 2   |
-| <div class="indent">» Enterrado em Outros detalhes</div>                     |   prazo × 2   |
-| <div class="indent">» Dados Obscuros ou Incomuns</div>                         |   −10 a −30   |
-| <div class="indent">» Dados Privados ou Proprietários</div>                     |  −30 ou N/A   |
-| Análise/Comparação de Conjuntos de Dados                                                                                                 |               |
-| <div class="indent">» Conjunto de Dados Pequenos (um estudo/amostra científica)</div> |   prazo ÷ 2   |
-| <div class="indent">» Conjunto de Dados Medianos (vários estudos/amostras)</div>      |       —       |
-| <div class="indent">» Conjunto de Dados Grandes (dezenas de estudos/amostras)</div>      |   prazo × 4   |
-| <div class="indent">» Conjuntos de Dados Massivos (centenas de estudos/amostras)</div> |  prazo × 20   |
-| Escaneamento Biométrico em Tempo Real                                                                                                    |               |
-| <div class="indent">» Instalação/Habitat Pequeno</div>                          |       —       |
-| <div class="indent">» Vizinhança/Habitat Mediano</div>                     |      −10      |
-| <div class="indent">» Cidade/Habitat Grande</div>                              |      −30      |
-| Previsão                                                                                                                                 |               |
-| <div class="indent">» Conjunto de Dados Pequenos (1 semana)</div>                         |      −30      |
-| <div class="indent">» Conjunto de Dados Medianos (1 mês)</div>                       |       —       |
-| <div class="indent">» Conjunto de Dados Grandes (1 ano)</div>                         |      +10      |
-| <div class="indent">» Conjunto de Dados Massivos (5+ anos)</div>                     |      +30      |
+| Situação                                         | Modificadores |
+|:------------------------------------------------ |:-------------:|
+| Fontes Conflitantes                              |      −10      |
+| Possui Pistas, Rastros ou Detalhes Corroborantes |   +10 a +30   |
+| Disponibilidade                                  |               |
+| <p class="indent">» Informação Difundida</p>                        |   prazo ÷ 2   |
+| <p class="indent">» Enterrado em Outros detalhes</p>                        |   prazo × 2   |
+| <p class="indent">» Dados Obscuros ou Incomuns</p>                        |   −10 a −30   |
+| <p class="indent">» Dados Privados ou Proprietários</p>                        |  −30 ou N/A   |
+| Análise/Comparação de Conjuntos de Dados         |               |
+| <p class="indent">» Conjunto de Dados Pequenos (um estudo/amostra científica)</p>                        |   prazo ÷ 2   |
+| <p class="indent">» Conjunto de Dados Medianos (vários estudos/amostras)</p>                        |       —       |
+| <p class="indent">» Conjunto de Dados Grandes (dezenas de estudos/amostras)</p>                        |   prazo × 4   |
+| <p class="indent">» Conjuntos de Dados Massivos (centenas de estudos/amostras)</p>                        |  prazo × 20   |
+| Escaneamento Biométrico em Tempo Real            |               |
+| <p class="indent">» Instalação/Habitat Pequeno</p>                        |       —       |
+| <p class="indent">» Vizinhança/Habitat Mediano</p>                        |      −10      |
+| <p class="indent">» Cidade/Habitat Grande</p>                       |      −30      |
+| Previsão                                         |               |
+| <p class="indent">» Conjunto de Dados Pequenos (1 semana)</p>                       |      −30      |
+| <p class="indent">» Conjunto de Dados Medianos (1 mês)</p>                       |       —       |
+| <p class="indent">» Conjunto de Dados Grandes (1 ano)</p>                       |      +10      |
+| <p class="indent">» Conjunto de Dados Massivos (5+ anos)</p>                       |      +30      |
 
 </blockquote>
 
@@ -78,9 +78,9 @@ Você pode pedir à sua musa para monitorar os fluxos da mesh por notícias ou o
 
 ## Procurando em Sistemas Específicos
 
-Você também pode usar perícia Pesquisa para escanear por palavras-chave específicas, nomes de arquivos, mídias ou outros dados em um sistema. Ao pesquisar em um único dispositivo como um cisco ou terminal, isso usa apenas uma ação complexa. Para dispositivos e redes maiores, esta é uma ação de tarefa com um prazo mais longo; veja a tabela de Prazos de Pesquisa para sugestões.
+Você também pode usar perícia Pesquisa para escanear por palavras-chave específicas, nomes de arquivos, mídias ou outros dados em um sistema. Ao pesquisar em um único dispositivo como um cisco ou terminal, isso usa apenas uma ação complexa. Para dispositivos e redes maiores, essa é uma ação de tarefa com um prazo mais longo; veja a tabela de Prazos de Pesquisa para sugestões.
 
-As regras acima assumem que você está procurando por algo específico. No entanto, às vezes você pode simplesmente estar navegando em um dispositivo capturado do oponente, procurando algo interessante, incriminador ou que se destaque como uma pista. Se você estiver pesquisando em um sistema sem saber exatamente o que está procurando, o processo pode levar significativamente mais tempo. Neste caso, faça um Teste de Pesquisa para cada hora que você pesquisar. O MJ deve aplicar um modificador negativo entre 0 e −30 baseado no tamanho no sistema e na densidade de informações que contém. Se você tiver sucesso, você encontra uma pista ou algum dado intrigante, mais um por sucesso maior.
+As regras acima assumem que você está procurando por algo específico. No entanto, às vezes você pode simplesmente estar navegando em um dispositivo capturado do oponente, procurando algo interessante, incriminador ou que se destaque como uma pista. Se você estiver pesquisando em um sistema sem saber exatamente o que está procurando, o processo pode levar significativamente mais tempo. Nesse caso, faça um Teste de Pesquisa para cada hora que você pesquisar. O MJ deve aplicar um modificador negativo entre 0 e −30 baseado no tamanho no sistema e na densidade de informações que contém. Se você tiver sucesso, você encontra uma pista ou algum dado intrigante, mais um por sucesso maior.
 
 Observe que os arquivos criptografados devem ser descriptografados primeiro antes que eles possam ser pesquisados.
 

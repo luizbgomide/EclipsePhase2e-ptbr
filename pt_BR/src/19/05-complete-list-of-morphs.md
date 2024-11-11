@@ -17,6 +17,11 @@
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Exalto<td>2&nbsp;PM<td>70<td>7<td>35<td>53<td>1<td>1<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -24,6 +29,9 @@
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Neotênico<td>2&nbsp;PM<td>50<td>6<td>30<td>45<td>2<td>1<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -33,6 +41,9 @@
 - **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Ferroso<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -40,6 +51,11 @@
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Quicante<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>1<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -48,6 +64,9 @@
 - **Traços de Morfo:** Flexibilidade (Nível 1)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Futura<td>4&nbsp;PM<td>25<td>7<td>35<td>53<td>2<td>4<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -55,6 +74,9 @@
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Hibernoide<td>4&nbsp;PM<td>70<td>7<td>35<td>53<td>1<td>1<td>0<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -62,6 +84,9 @@
 - **Wares:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Menton<td>4&nbsp;PM<td>60<td>7<td>35<td>53<td>3<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -69,6 +94,9 @@
 - **Wares:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Olímpico<td>4&nbsp;PM<td>60<td>8<td>40<td>60<td>1<td>1<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -76,6 +104,9 @@
 - **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Sílfide<td>4&nbsp;PM<td>60<td>6<td>30<td>45<td>1<td>3<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -83,6 +114,13 @@
 - **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
 
 </div></tr>
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Fúria<td>6&nbsp;PM<td>40<td>10<td>50<td>75<td>1<td>1<td>4<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -91,6 +129,9 @@
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Fantasma<td>6&nbsp;PM<td>40<td>9<td>45<td>68<td>2<td>1<td>3<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -99,6 +140,9 @@
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Refeito<td>7&nbsp;PM<td>30<td>9<td>45<td>68<td>2<td>2<td>2<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -122,6 +166,7 @@
 - **Traços de Morfo:** Obsolescência Programada
 
 </div></tr>
+
 <tr><td>Prod de Trabalho<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -129,6 +174,11 @@
 - **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Novacancridae<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -138,6 +188,9 @@
 - **Notas:** Ataque com Garras (VD 2d10)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Prod de Prazer<td>4&nbsp;PM<td>70<td>6<td>30<td>45<td>0<td>3<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -145,6 +198,13 @@
 - **Wares:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
+
+<!--sort-end-->
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Prod de Segurança<td>5&nbsp;PM<td>60<td>7<td>35<td>53<td>1<td>0<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -152,6 +212,9 @@
 - **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Moldável<td>5&nbsp;PM<td>40<td>7<td>35<td>53<td>1<td>2<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -159,6 +222,9 @@
 - **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
+
+<!--sort-end-->
+
 </table>
 
 ---
@@ -175,6 +241,7 @@
 - **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
 <tr><td>Neo-Bonobo/<wbr>Neo-Chimpanzé<td>1&nbsp;PM<td>50<td>6<td>30<td>45<td>0<td>2<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -183,6 +250,7 @@
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Morfologia Exótica (Nível 1)
 
 </div></tr>
+
 <tr><td>Neo-Neandertal<td>2&nbsp;PM<td>35<td>7<td>35<td>53<td>0<td>1<td>2<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -191,6 +259,11 @@
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1)
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Neo-Gorila<td>3&nbsp;PM<td>40<td>9<td>45<td>68<td>0<td>0<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -199,6 +272,9 @@
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Morfologia Exótica (Nível 1)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Neo-Polvo<td>3&nbsp;PM<td>35<td>6<td>30<td>45<td>1<td>1<td>1<td>2</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -208,6 +284,9 @@
 - **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Neo-Orangutango<td>3&nbsp;PM<td>35<td>7<td>35<td>53<td>1<td>1<td>2<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -218,12 +297,18 @@
 
 </div></tr>
 
+<!--sort-end-->
+
 </table>
 
 ---
 
 <table class="stat-list centered tl1">
 <thead><tr><th>SINTEMORFOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
+
+<!--sort-->
+
+<!--sort-block-->
 
 <tr><td>Chapeado<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
@@ -234,6 +319,9 @@
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Sobressalente<td>0&nbsp;PM<td>80<td>3<td>15<td>30<td>0<td>1<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -243,6 +331,9 @@
 - **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Libélula<td>1&nbsp;PM<td>70<td>5<td>25<td>50<td>1<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -252,6 +343,11 @@
 - **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Enxamenoide<td>3&nbsp;PM<td>60<td>—<td>50<td>100<td>2<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -261,6 +357,9 @@
 - **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Sinte<td>3&nbsp;PM<td>80<td>8<td>40<td>80<td>0<td>0<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -270,6 +369,9 @@
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Savant<td>4&nbsp;PM<td>50<td>7<td>35<td>70<td>3<td>0<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -279,6 +381,11 @@
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </div></tr>
+
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Galateia<td>5&nbsp;PM<td>50<td>8<td>40<td>80<td>1<td>2<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -288,6 +395,9 @@
 - **Notas:** Armação Leve (Armadura 6/4)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Serpentoide<td>5&nbsp;PM<td>50<td>9<td>45<td>90<td>0<td>1<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -297,6 +407,9 @@
 - **Notas:** Armação Média (Armadura 8/6)
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Morfo de Aço<td>5&nbsp;PM<td>50<td>8<td>40<td>80<td>0<td>1<td>3<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -306,6 +419,9 @@
 - **Notas:** Armação Média (Armadura 8/6)
 
 </div></tr>
+
+<!--sort-end-->
+
 <tr><td>Aracnoide<td>6&nbsp;PM<td>40<td>11<td>55<td>110<td>1<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -344,6 +460,10 @@
 <table class="stat-list centered tl1">
 <thead><tr><th>MÓDULOS<th>Custo<th>Disp<th>LF<th>DUR<th>GD<th>Inspiração<th>Manha<th>Vigor<th>Flex</tr></thead>
 
+<!--sort-->
+
+<!--sort-block-->
+
 <tr><td>Módulo Construtor<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -351,13 +471,9 @@
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ferramentas de Desmontagem, Kit de Ferramentas, Utiliferramenta, Visão Aprimorada, Visão Nanoscópica
 
 </div></tr>
-<tr><td>Módulo Guerreiro<td>3&nbsp;PM<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
-<tr><td colspan="10"><div class="indent">
 
-- **Wares:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
+<!--sort-block-->
 
-</div></tr>
 <tr><td>Módulo Ladino<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
@@ -365,11 +481,24 @@
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 </div></tr>
+
+<!--sort-block-->
+
 <tr><td>Módulo Feiticeiro<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
+
+</div></tr>
+
+<!--sort-end-->
+
+<tr><td>Módulo Guerreiro<td>3&nbsp;PM<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
+<tr><td colspan="10"><div class="indent">
+
+- **Wares:** Pneumáticos, Suporte de Arma (2)
+- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
 
 </div></tr>
 </table>

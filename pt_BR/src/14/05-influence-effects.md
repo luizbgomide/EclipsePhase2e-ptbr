@@ -2,7 +2,11 @@
 
 Os efeitos de influência — especialmente os impulsos e compulsões — fornecem personalidade à sua infecção específica. Eles conversam com uma gama de comportamentos que colocam um rosto na entidade que o afeta. Jogadores e MJs são encorajados a usar isso para gerar um tipo de personalidade para a infecção em si. Talvez ela tenda para fisiologias alienígenas, motivações ou maneirismos culturais específicos. Embora o exovírus deva sempre permanecer de certa forma incompreensível, suas manifestações prováveis podem fornecer indicadores das perspectivas e intenções dele, o que você pode utilizar para adicionar peculiaridades às próprias ações do PJ.
 
-Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser considerados personalizáveis. Talvez você imagine um assincro que é tão traumatizado e confuso pela subcepa assombração que um dos seus efeitos de influência é cair num surto de fúria incontrolável, descontando em quem estiver perto, até mesmo aliados e entes queridos. Ou talvez você atribua uma motivação de autointeresse focado à estranha, e então cria um efeito de influência que compele seu assincro a agir de formas completamente egoístas e narcisistas, ignorando os prejuízos aos outros. Talvez sua ideia para a xenomorfa é que ela se origina de uma perspectiva de mente de colmeia, e portanto, o assincro pode não entender o conceito de indivíduo ou atacar comportamentos divergentes dos objetivos vistos como coletivos. Use os efeitos como listados para diretrizes, enquanto também considera opções temporárias como [transtornos](../12/20-disorders.md), [comportamentos acentuados](../04/28-traits.md#enhanced-behavior), [comportamentos restritos](../04/28-traits.md#restricted-behavior), ou até traços negativos como [Dano Neural](../04/28-traits.md#neural-damage).
+Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser considerados personalizáveis. Talvez você imagine um assincro que é tão traumatizado e confuso pela subcepa tormentadora que um dos seus efeitos de influência é cair num surto de fúria incontrolável, descontando em quem estiver perto, até mesmo aliados e entes queridos. Ou talvez você atribua uma motivação de autointeresse focado à estranha, e então cria um efeito de influência que compele seu assincro a agir de formas completamente egoístas e narcisistas, ignorando os prejuízos aos outros. Talvez sua ideia para a xenomorfa é que ela se origina de uma perspectiva de mente de colmeia, e portanto, o assincro pode não entender o conceito de indivíduo ou atacar comportamentos divergentes dos objetivos vistos como coletivos. Use os efeitos como listados para diretrizes, enquanto também considera opções temporárias como [transtornos](../12/20-disorders.md), [comportamentos acentuados](../04/28-traits.md#enhanced-behavior), [comportamentos restritos](../04/28-traits.md#restricted-behavior), ou até traços negativos como [Dano Neural](../04/28-traits.md#neural-damage).
+
+<!--sort-->
+
+<!--sort-block-->
 
 <blockquote class="table">
 
@@ -15,7 +19,7 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 |     3      | **Comportamento Restrito: Relaxamento.** Não há tempo para descansar, você tem coisas demais para fazer!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |     4      | **Motivação: +Acumular.** Você instintiva e secretamente coleciona coisas para finalidades que não estão completamente claras para você. Isso pode variar de componentes eletrônicos até elementos raros e uma variedade de armas — ou pode se aplicar a coisas mais estranhas como pele ou órgãos internos. Você não só acumula esses itens, mas os guarda em depósitos escondidos para protegê-los dos outros.                                                                                                                                                                                                                                                                                       |
 |     5      | **Motivação: +Expor o Funcionamento Interno.** Você fica hiperfocado na pessoa, coisa ou mistério mais interessante nos seus arredores. Isso pode ser um morfo incomum, um dispositivo de alta tecnologia, um quebra-cabeça não resolvido, ou alguma coisa que você nunca experimentou antes. Se nada se destacar, você se concentra na pessoa ou coisa mais próxima que é novidade para você. Você é compelido a aprender tudo sobre o assunto mexendo nele, testando-o, desmontando-o e examinando-o peça por peça.                                                                                                                                                                                  |
-|     6+     | **Motivação: +Criar.** Você é obcecado por uma ideia indescritível para uma nova criação. Isto pode ser uma escultura, um robô, uma forma de vida neogenética, ou algo _bizarro_. A natureza do projeto depende das suas perícias e recursos disponíveis. Ele também pode exigir componentes ou recursos que são incomuns (sangue, ossos) ou difíceis de encontrar (urânio, antimatéria). A ideia em si pode não estar totalmente formada ou definida na sua cabeça — você pode não entendê-la até mesmo depois de terminá-la. Se é improvável que você conclua o projeto antes da compulsão terminar, você tenderá a armazená-lo secretamente e continuar o projeto na próxima vez que for compelido. |
+|     6+     | **Motivação: +Criar.** Você é obcecado por uma ideia indescritível para uma nova criação. Isso pode ser uma escultura, um robô, uma forma de vida neogenética, ou algo _bizarro_. A natureza do projeto depende das suas perícias e recursos disponíveis. Ele também pode exigir componentes ou recursos que são incomuns (sangue, ossos) ou difíceis de encontrar (urânio, antimatéria). A ideia em si pode não estar totalmente formada ou definida na sua cabeça — você pode não entendê-la até mesmo depois de terminá-la. Se é improvável que você conclua o projeto antes da compulsão terminar, você tenderá a armazená-lo secretamente e continuar o projeto na próxima vez que for compelido. |
 
 ---
 
@@ -27,6 +31,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 </div>
 
 </blockquote>
+
+<!--sort-block-->
 
 <blockquote class="table">
 
@@ -53,9 +59,11 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 
 </blockquote>
 
+<!--sort-block-->
+
 <blockquote class="table">
 
-### Subcepa Assombração
+### Subcepa Tormentadora
 
 | Rolagem d6 | Efeito de Influência                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,6 +85,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 </div>
 
 </blockquote>
+
+<!--sort-block-->
 
 <blockquote class="table">
 
@@ -103,6 +113,8 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 
 </blockquote>
 
+<!--sort-block-->
+
 <blockquote class="table">
 
 ### Subcepa Xenomorfa
@@ -126,3 +138,6 @@ Nessa linha, os efeitos de influência fornecidos para cada subcepa devem ser co
 </div>
 
 </blockquote>
+
+<!--sort-end-->
+

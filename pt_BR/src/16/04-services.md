@@ -6,15 +6,19 @@ Crédito e ajuda mútua podem conseguir muitas coisas em Eclipse Phase.
 
 Esses serviços programáticos estão disponíveis como uma assinatura mensal de servidores na nuvem. Todos os apps também estão disponíveis como serviços da mesh.
 
+<!--sort-->
+
 | SERVIÇOS DA MESH             | Comp/<wbr>PE | Descrição                                                                |
 |:---------------------------- |:-------------------------------------:|:------------------------------------------------------------------------ |
 | Anonimizador                 |                 Men/1                 | Mascara sua mesh ID.                                                     |
 | Arquivo                      |                 Men/1                 | +10 em Testes de Pesquisa relacionados a uma perícia de Saber.           |
 | Banco de Registros           |                 Men/1                 | +10 em Testes de Pesquisa.                                               |
 | Fluxo de Sensor Privado      |                 Men/1                 | +10 em Percepção nesta área.                                             |
-| Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |
 | Servidor Privado             |            Men/1 ou Mod/2             | Servidor privado, autoadministrado (Men) ou gerenciado por outros (Mod). |
+| Partição em Servidor Privado |                 Men/1                 | Espaço privado em um servidor na nuvem.                                  |
 | Simulespaço                  |                 Men/1                 | Acesso a um espaço de RV.                                                |
+
+<!--sort-->
 
 **Anonimizador:** Você tem uma conta com um serviço de intermediação anônima que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
@@ -24,15 +28,19 @@ Esses serviços programáticos estão disponíveis como uma assinatura mensal de
 
 **Fluxo de Sensor Privado:** Cada fluxo de sensor privado cobre uma área equivalente a um bairro ou um pequeno habitat. Usá-lo fornece um bônus +10 em Testes de Percepção quando vigiar essa área.
 
-**Partição em Servidor Privado:** Espaço de habitação para um infomorfo em um servidor protegido na nuvem.
-
 **Servidor Privado:** Capaz de executar simulespaços e 50 infomorfos.
 
+**Partição em Servidor Privado:** Espaço de habitação para um infomorfo em um servidor protegido na nuvem.
+
 **Simulespaço:** Você tem acesso a um ambiente de jogo virtual, espaço de reunião privada, serviço de mídia interativa, biblioteca de férias virtuais ou outro ambiente de simulespaço.
+
+<!--sort-end-->
 
 ## Serviços Físicos
 
 Estes serviços estão disponíveis em alguns habitats.
+
+<!--sort-->
 
 | SERVIÇOS FÍSICOS                   | Comp/<wbr>PE | Descrição                                                              |
 |:---------------------------------- |:-------------------------------------:|:---------------------------------------------------------------------- |
@@ -49,6 +57,8 @@ Estes serviços estão disponíveis em alguns habitats.
 | Cláusula de Recuperação            |                 Mai/3                 | Um agente tentará recuperar sua pilha através de meios seguros/legais. |
 | Cláusula de Recuperação (Perigoso) |                Raro/—                 | Uma equipe tentará recuperar sua pilha apesar das ameaças/legalidades. |
 | Viagem Espacial                    |                Mod+/2+                | Transporte em uma nave espacial.                                       |
+
+<!--sort-->
 
 **Aluguel de Bot/Veículo:** Em alguns locais, bots e veículos podem ser alugados de forma semanal, embora você seja responsável por danos/reposições. O MJ determina a disponibilidade.
 
@@ -75,3 +85,6 @@ Estes serviços estão disponíveis em alguns habitats.
 **Cláusula de Recuperação (Perigoso):** Como a cláusula normal, exceto que uma equipe de agentes vai procurar sua pilha mesmo em situações adversas e condições hostis, incluindo infiltrações em zonas de guerra e operações de resgate em exoplanetas desconhecidos. Isso pode incluir roubar a pilha de grupos hostis.
 
 **Viagem Espacial:** O custo do transporte espacial depende de vários fatores, como distância, qualidade de acomodações e a quantidade de carga que você traz. No nível mais baixo, uma viagem de ônibus intra-habitat dentro do mesmo agrupamento, ou uma viagem de ida ou volta da superfície de um corpo planetário para a sua órbita, não é barata mas é acessível. Todo o resto é progressivamente mais caro.
+
+<!--sort-end-->
+

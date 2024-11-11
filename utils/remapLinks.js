@@ -41,7 +41,7 @@ function processFile(file) {
         } else {
             const newSlug = mappedLinks.get(relativeLink + slug);
             const newLink = path.posix.relative(dirname, path.posix.resolve(dirname, link));
-            // contents = contents.replace(`(${linkMatch[1]})`, `(${link}#${newSlug})`);
+            contents = contents.replace(`(${linkMatch[1]})`, `(${link}#${newSlug})`);
             //console.log([linkMatch[1], `${link}#${newSlug}`]);
         }
     }

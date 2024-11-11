@@ -41,7 +41,7 @@ As questões de tamanho, massa e carga são deixadas a cargo do bom senso do MJ.
 
 Os equipamentos usam o mesmo esquema de tamanho que os morfos ([Tamanhos](../12/21-other-action-factors.md#sizes)); todas as regras e modificadores relevantes são aplicáveis. Algumas outras considerações são indicadas aqui:
 
-- Itens de tamanho nano não podem ser vistos sem um microscópio ou [visão nanoscópica](../16/06-sensory-augmentations.md) e não pode ser manipulados sem [dedos fractais](../16/11-physical-augmentations.md) ou ferramentas similares.
+- Itens de tamanho nano não podem ser vistos sem um microscópio ou [visão nanoscópica](06-sensory-augmentations.md) e não pode ser manipulados sem [dedos fractais](11-physical-augmentations.md) ou ferramentas similares.
 - Objetos muito pequenos têm o traço Ocultável.
 - Alguns equipamentos pequenos/médios têm o traço Longa e/ou Duas Mãos.
 
@@ -71,10 +71,12 @@ Em resumo, a energia raramente deve ser um problema em jogos de Eclipse Phase, a
 
 Ware é uma categoria abrangente para ampliações de diferentes tipos:
 
+<!--sort-->
+
 - **Biowares (B)** incluem modificações genéticas, alterações nanocirúrgicas de tecido, e implantação de órgãos bioprojetados. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Devido à sua natureza orgânica, biowares são difíceis de serem detectados em escaneamento; é necessário testes genéticos ou outras bioamostras. Use Medicina: Biotecnologia para diagnosticar, implantar ou reparar.
 - **Ciberwares (C)** são dispositivos sintéticos implantados em um corpo biológico ou “cultivados” usando nanobots. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Ciberwares são detectáveis com escaneamentos de raios X ou radar. Eles podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia para implantar, Aparelhagem: Eletrônica para reparar o ware em si.
 - **Equipawares (H)** são complementos de carcaças sintéticas. Eles só estão disponíveis para sintemorfos, bots e veículos. Eles podem ser hackeados. Use Aparelhagem: Robótica, ou uma área apropriada para veículos, para instalar, diagnosticar e reparar. Muitos equipamentos que não são wares podem ser montados ou incorporados na armação de uma carcaça como equipawares (a critério do MJ).
 - **Meshwares (M)** referem-se a apps complementares que aprimoram infomorfos. Eles também podem ser instalados em cibercérebros. Eles são vulneráveis ao combate na mesh. Use Programação para instalar, diagnosticar ou reparar.
-- **Nanowares (N)** referem-se a sistemas internos de nanobots ativos dentro de um corpo ou carcaça. Os nanowares incluem uma colmeia implantada que mantém e renova os nanobots. Eles estão disponíveis para morfos de todos os tipos. As colmeias de nanowares são detectáveis assim como ciberwares, mas os bots só são detectáveis com nanodetectores ou amostras biológicas detalhadas. Os nanowares podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia ou Hardware: Robótica para implantar/reparar.
+- **Nanowares (N)** referem-se a sistemas internos de nanobots ativos dentro de um corpo ou carcaça. Os nanowares incluem uma colmeia implantada que mantém e renova os nanobots. Eles estão disponíveis para morfos de todos os tipos. As colmeias de nanowares são detectáveis assim como ciberwares, mas os bots só são detectáveis com nanodetectores ou amostras biológicas detalhadas. Os nanowares podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia ou Aparelhagem: Robótica para implantar/reparar.
 
 A menos que seja indicado, cada item de ware só pode ser instalado no mesmo morfo uma vez, não importando se ele está disponível em diferentes formatos.

@@ -16,11 +16,11 @@ Certos equipamentos e implantes também podem ser usados para detectar sensores,
 
 ## Evitando o Reconhecimento
 
-Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidade como as [túnicas](../16/17-espionage-and-security-tech.md) são comuns e fornecem anonimato, embora sua presença ainda possa ser percebida. Os [mantos de invisibilidade](../16/17-espionage-and-security-tech.md) vão esconder você de muitos sensores, mas são mais propensos a levantarem suspeitas. Wares como pele-flex, máscara sintética, mudança sexual, e pele camaleão também podem ajudar a esconder sua identidade ou combater comparações biométricas. Os disfarces à moda antiga também são uma opção; faça uma teste oposto entre Perícia Exótica: Disfarce e Percepção. Algoritmos de comparação de rostos e padrões não funcionam bem contra certos padrões visuais e de maquiagem; aplique −20 em Testes de Percepção quando usar estes padrões.
+Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidade como as [túnicas](../16/17-espionage-and-security-tech.md) são comuns e fornecem anonimato, embora sua presença ainda possa ser percebida. Os [mantos de invisibilidade](../16/17-espionage-and-security-tech.md) vão esconder você de muitos sensores, mas são mais propensos a levantarem suspeitas. Wares como pele-flex, máscara sintética, mudança sexual, e pele camaleão também podem ajudar a esconder sua identidade ou combater comparações biométricas. Os disfarces à moda antiga também são uma opção; faça uma teste oposto entre Perícia Exótica: Disfarce e Percepção. Algoritmos de comparação de rostos e padrões não funcionam bem contra certos padrões visuais e de maquiagem; aplique −20 em Testes de Percepção quando usar esses padrões.
 
 ## Bloqueando Sinais Ativamente
 
-Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](../13/13-system-subversion.md#jam-signals)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via micro-ondas não são afetados (embora ligações via micro-ondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
+Uma opção barulhenta e de curta duração para combater a covigilância é bloquear todas as frequências de rádio ([Bloquear Sinais](13-system-subversion.md#jam-signals)). Isso não impedirá que sensores detectem ou gravem, mas evitará que eles transmitam essas informações pela malha usando rádio sem fio — enquanto durar o bloqueio. Sensores cabeados ou sistemas que usam ligações laser ou via micro-ondas não são afetados (embora ligações via micro-ondas possam ser bloqueadas separadamente). O bloqueio é útil porque você pode fazê-lo em qualquer lugar, mas ele também impacta tudo e todos ao seu redor e provavelmente vai atrair a atenção das forças de segurança.
 
 De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades) podem ser usados para cegar câmeras temporariamente.
 
@@ -28,7 +28,7 @@ De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeke
 
 O hackeamento seletivo de sensores pode ser bastante útil, principalmente em situações em que a cobertura é mínima. Isso também lhe dá muitas opções: desativar sensores, bloquear a transmissão de dados, apagar gravações, repetir o fluxo ou injetar dados falsos do sensor.
 
-**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os ciscos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](../13/11-hacking.md#consolidated-hacking) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
+**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os ciscos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](11-hacking.md#consolidated-hacking) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
 
 ## Devassando Sensores
 

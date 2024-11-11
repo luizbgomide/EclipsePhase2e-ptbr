@@ -4,11 +4,11 @@ No reino digital, tudo tem uma vulnerabilidade. Os programas são o clássico �
 
 Os hackers rotineiramente compartilham, trocam e vendem suas formas de violação online. As melhores delas acabam em bibliotecas de violações pré-empacotadas — ferramentas programáticas que escaneiam um alvo, abertamente ou com sutileza, testam vulnerabilidades e executam ataques automaticamente.
 
-Há muitos métodos que você pode usar para hackear um sistema. O primeiro é contornar a [autenticação](../13/05-authentication-and-encryption.md) de uma conta legítima, mas isso exige conhecimento anterior da conta e requer tempo e esforços especiais. A segunda é [farejar](../13/04-devices-apps-and-links.md#sniffing) o tráfego de um usuário legítimo e remotamente [mascarar comandos](../13/05-authentication-and-encryption.md#spoofing), que podem ser poderosos mas limitados. O método mais comum de hackear é obter acesso direto ao alvo ([Invasão](../13/11-hacking.md#intrusion)) e subvertê-lo por dentro ([Subversão](../13/13-system-subversion.md)).
+Há muitos métodos que você pode usar para hackear um sistema. O primeiro é contornar a [autenticação](05-authentication-and-encryption.md) de uma conta legítima, mas isso exige conhecimento prévio da conta e requer tempo e esforços especiais. A segunda é [farejar](04-devices-apps-and-links.md#sniffing) o tráfego de um usuário legítimo e [mascarar comandos](05-authentication-and-encryption.md#spoofing) remotamente, o que pode ser poderoso mas também limitado. O método mais comum de hackear é obter acesso direto ao alvo ([Invasão](#intrusion)) e subvertê-lo por dentro ([Subversão](13-system-subversion.md)).
 
 ## Testes de Hackeamento
 
-Quase todos os esforços de invasão e subversão dependem de Testes de Hackeamento. Esse teste oposto coloca a perícia Infoseg do hacker contra a [Graduação do Firewall](../13/12-countermeasures.md#firewall-ratings) do alvo — ou a perícia Infoseg do defensor se o sistema é [ativamente defendido](../13/12-countermeasures.md#active-defense). Se o hacker vencer, ele consegue a ação pretendida, caso contrário, sua ação falha.
+Quase todos os esforços de invasão e subversão dependem de Testes de Hackeamento. Esse teste oposto coloca a perícia Infoseg do hacker contra a [Graduação do Firewall](12-countermeasures.md#firewall-ratings) do alvo — ou a perícia Infoseg do defensor se o sistema é [ativamente defendido](12-countermeasures.md#active-defense). Se o hacker vencer, ele consegue a ação pretendida, caso contrário, sua ação falha.
 
 ## Invasão
 
@@ -16,39 +16,39 @@ A arte da invasão envolve penetrar na segurança de um sistema, aproveitando-se
 
 ### Estabelecendo uma Conexão
 
-Para hackear um sistema, é preciso estabelecer uma conexão direta com o alvo. Se você está fazendo uma conexão sem fio direta, o sistema alvo deve ter acesso sem fio e estar do alcance de rádio sem fio, e você deve saber que o alvo está lá ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)). Se o sistema for cabeado, você deve plugar fisicamente usando uma porta de acesso comum (ou ligação dérmica, se o sistema estiver equipado para isso) ou grampear um cabo que transmite o tráfego do sistema (exigindo um Teste de Aparelhagem: Eletrônica e equipamentos apropriados, como um kit de eletrônica). Se você estiver acessando o através da mesh, o sistema deve estar online e você saber a mesh ID ou ter uma forma de encontrá-la através de pesquisa ou rastreamento.
+Para hackear um sistema, é preciso estabelecer uma conexão direta com o alvo. Se você está fazendo uma conexão sem fio direta, o sistema alvo deve ter acesso sem fio e estar do alcance de rádio sem fio, e você deve saber que o alvo está lá ([Sinais Camuflados](04-devices-apps-and-links.md#stealthed-signals)). Se o sistema for cabeado, você deve plugar fisicamente usando uma porta de acesso comum (ou ligação dérmica, se o sistema estiver equipado para isso) ou grampear um cabo que transmite o tráfego do sistema (exigindo um Teste de Aparelhagem: Eletrônica e equipamentos apropriados, como um kit de eletrônica). Se você estiver acessando o através da mesh, o sistema deve estar online e você saber a mesh ID ou ter uma forma de encontrá-la através de pesquisa ou rastreamento.
 
 ### Ataque de Força Bruta
 
 O hackeamento de força bruta é rápido, caótico e barulhento. Você seleciona o alvo, aciona seu app de violação e deixa ele tentar ataques rápidos e metódicos contra as vulnerabilidades mais comuns. As invasões de força bruta requerem apenas uma ação complexa, o que significa que elas podem ser um fator relevante até mesmo em cenas de combate. No entanto, o alvo é quase sempre alertado para a invasão digital.
 
-Para usar força bruta em um alvo, faça um Teste de Hackeamento. O invasor sofre um modificador −30. Se você tiver sucesso, você ganha acesso ao sistema alvo com [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) de nível de usuário e status descoberto ([Status do Invasor](../13/11-hacking.md#intruder-status)), e o sistema entra em alerta ativo ([Alertas de Segurança](../13/12-countermeasures.md#security-alerts)). Cada sucesso maior aumenta seus privilégios em um grau (primeiro para segurança e depois para administrador). Com um sucesso crítico, você obtém [status infiltrado](../13/11-hacking.md#covert), mas um [alerta passivo](../13/12-countermeasures.md#passive-alert) ainda é acionado. Nessa situação, tanto os resultados maiores quanto os críticos têm efeito simultaneamente. Se você perder o teste oposto, você falhar em entrar e o sistema entra em [alerta passivo](../13/12-countermeasures.md#passive-alert).
+Para usar força bruta em um alvo, faça um Teste de Hackeamento. O invasor sofre um modificador −30. Se você tiver sucesso, você ganha acesso ao sistema alvo com [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) de nível de usuário e status descoberto ([Status do Invasor](#intruder-status)), e o sistema entra em alerta ativo ([Alertas de Segurança](12-countermeasures.md#security-alerts)). Cada sucesso maior aumenta seus privilégios em um grau (primeiro para segurança e depois para administrador). Com um sucesso crítico, você obtém [status infiltrado](#covert), mas um [alerta passivo](12-countermeasures.md#passive-alert) ainda é acionado. Nessa situação, tanto os resultados maiores quanto os críticos têm efeito simultaneamente. Se você perder o teste oposto, você falhar em entrar e o sistema entra em [alerta passivo](12-countermeasures.md#passive-alert).
 
 ### Invasão Sutil
 
-O método preferido de dominar um alvo é sondá-lo discretamente e sistematicamente, analisar sua configuração e seus programas, e determinar as vulnerabilidades mais prováveis. A invasão sutil é uma ação de tarefa com um prazo de 1 hora (MJs podem alterar esse prazo para sistemas fortemente protegidos ou desprotegidos). Faça um Teste de Hackeamento. Se você tiver sucesso, você ganha acesso ao sistema alvo com [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) de nível de usuário e status infiltrado ([Status do Invasor](../13/11-hacking.md#intruder-status)). Cada sucesso maior aumenta seus privilégios em um grau (primeiro para segurança e depois para administrador). Com um sucesso crítico, você obtém [status oculto](../13/11-hacking.md#hidden); o defensor continua sem saber da invasão. Resultados maiores e críticos podem ser aplicados.
+O método preferido de dominar um alvo é sondá-lo discretamente e sistematicamente, analisar sua configuração e seus programas, e determinar as vulnerabilidades mais prováveis. A invasão sutil é uma ação de tarefa com um prazo de 1 hora (MJs podem alterar esse prazo para sistemas fortemente protegidos ou desprotegidos). Faça um Teste de Hackeamento. Se você tiver sucesso, você ganha acesso ao sistema alvo com [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) de nível de usuário e status infiltrado ([Status do Invasor](#intruder-status)). Cada sucesso maior aumenta seus privilégios em um grau (primeiro para segurança e depois para administrador). Com um sucesso crítico, você obtém [status oculto](#hidden); o defensor continua sem saber da invasão. Resultados maiores e críticos podem ser aplicados.
 
-Se o firewall tiver sucesso mas perde no teste oposto, um alerta passivo é acionado ([Alertas de Segurança](../13/12-countermeasures.md#security-alerts)). Se o firewall vencer o teste oposto, você falhar em entrar e o sistema entra em [alerta passivo](../13/12-countermeasures.md#passive-alert).
+Se o firewall tiver sucesso mas perde no teste oposto, um alerta passivo é acionado ([Alertas de Segurança](12-countermeasures.md#security-alerts)). Se o firewall vencer o teste oposto, você falhar em entrar e o sistema entra em [alerta passivo](12-countermeasures.md#passive-alert).
 
 ### Hackeamento Conjunto
 
-Você pode cooperar com outros para hackear: uma pessoa assume a liderança, usando sua conexão, enquanto as outras tomam ações para apoiar, fornecendo um [bônus de trabalho em equipe](../03/01-how-to-play.md#teamwork). Somente o hacker principal pode usar paradas, e apenas ele é alvo de [contramedidas](../13/12-countermeasures.md).
+Você pode cooperar com outros para hackear: uma pessoa assume a liderança, usando sua conexão, enquanto as outras tomam ações para apoiar, fornecendo um [bônus de trabalho em equipe](../03/01-how-to-play.md#teamwork). Somente o hacker principal pode usar paradas, e apenas ele é alvo de [contramedidas](12-countermeasures.md).
 
 Como alternativa, vários hackers podem hackear separadamente o mesmo sistema simultaneamente. Embora suas ações sejam tratadas separadamente, se qualquer uma deles acionar um alerta, todos os invasores no sistema serão afetados.
 
 ### Hackeando Novamente
 
-Se você tiver hackeado com sucesso o sistema uma vez, você receberá um bônus +30 em Testes de Hackeamento para invadir novamente o sistema, até que uma [auditoria de segurança](../13/12-countermeasures.md#security-audits) corrija a vulnerabilidade. Você também pode fornecer esse bônus para os outros compartilhando a violação usada.
+Se você tiver hackeado com sucesso o sistema uma vez, você receberá um bônus +30 em Testes de Hackeamento para invadir novamente o sistema, até que uma [auditoria de segurança](12-countermeasures.md#security-audits) corrija a vulnerabilidade. Você também pode fornecer esse bônus para os outros compartilhando a violação usada.
 
 ## Status do Invasor
 
-O status do invasor é uma maneira simples de medir a situação de um hacker enquanto invadem um sistema — ele chamou a atenção das defesas ou ele continua discreto? O status do invasor é determinado pela primeira vez quando você acessa um sistema, embora ele possa mudar de acordo com os eventos. Observe que o status do invasor é uma coisa separada dos [privilégios de acesso](../13/05-authentication-and-encryption.md#accounts--access-privileges) da conta. Este último representa suas permissões e o que você está autorizado a fazer em um sistema. O primeiro indica a consciência do sistema sobre a sua verdadeira natureza como um invasor.
+O status do invasor é uma maneira simples de medir a situação de um hacker enquanto invadem um sistema — ele chamou a atenção das defesas ou ele continua discreto? O status do invasor é determinado pela primeira vez quando você acessa um sistema, embora ele possa mudar de acordo com os eventos. Observe que o status do invasor é uma coisa separada dos [privilégios de acesso](05-authentication-and-encryption.md#accounts--access-privileges) da conta. Esse último representa suas permissões e o que você está autorizado a fazer em um sistema. O primeiro indica a consciência do sistema sobre a sua verdadeira natureza como um invasor.
 
 ### Oculto
 
 Se o seu status está oculto, o sistema não tem noção nenhuma da sua presença e não pode agir contra você. Suas ações não são registradas em logs e outros usuários não podem detectar você. A sua presença pode deixar alguns vestígios, mas eles exigirão uma análise detalhada e algum tempo serem encontrados.
 
-Enquanto oculto, você recebe um modificador +10 em quaisquer esforços para [subverter o sistema](../13/13-system-subversion.md).
+Enquanto estiver oculto, você recebe um modificador +10 em quaisquer esforços para [subverter o sistema](13-system-subversion.md).
 
 ### Infiltrado
 
@@ -56,7 +56,7 @@ Com status infiltrado, sua presença no sistema parece legítima e você não at
 
 ### Descoberto
 
-Se você tiver status descoberto, o sistema está ciente que a sua presença é uma invasão. Estar descoberto aciona automaticamente um [alerta ativo](../13/12-countermeasures.md#active-alert).
+Se você tiver status descoberto, o sistema está ciente que a sua presença é uma invasão. Estar descoberto aciona automaticamente um [alerta ativo](12-countermeasures.md#active-alert).
 
 ## Alterando o Status
 
@@ -70,11 +70,11 @@ Observe que alterar seu status não afeta o estado de alerta do sistema. Se voc�
 
 ### Exposição
 
-Sempre que você usar a pericia Infoseg e se envolver em hacks enquanto estiver em um sistema, você corre o risco de se expor à segurança do sistema. Se você rolar uma falha maior em um Teste de Hackeamento, você aciona um [alerta passivo](../13/12-countermeasures.md#passive-alert). Isso pode instigar o defensor do sistema a dar uma olhada mais atenta.
+Sempre que você usar a pericia Infoseg e se envolver em hacks enquanto estiver em um sistema, você corre o risco de se expor à segurança do sistema. Se você rolar uma falha maior em um Teste de Hackeamento, você aciona um [alerta passivo](12-countermeasures.md#passive-alert). Isso pode instigar o defensor do sistema a dar uma olhada mais atenta.
 
-Se você rolar uma falha crítica em um Teste de Hackeamento, seu status vai automaticamente para descoberto e o sistema entra em [alerta ativo](../13/12-countermeasures.md#active-alert).
+Se você rolar uma falha crítica em um Teste de Hackeamento, seu status vai automaticamente para descoberto e o sistema entra em [alerta ativo](12-countermeasures.md#active-alert).
 
-Se você atacar um alvo em [combate na mesh](../13/14-mesh-combat.md), você também deve fazer um Teste de Hackeamento ou acionar um alerta passivo.
+Se você atacar um alvo em [combate na mesh](14-mesh-combat.md), você também deve fazer um Teste de Hackeamento ou acionar um alerta passivo.
 
 ### Localizando
 

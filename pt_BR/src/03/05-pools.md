@@ -18,7 +18,7 @@ Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha
 - **Depois da Rolagem:** Inverter uma rolagem d100. Por exemplo, 83 torna-se 38.
 - **Depois da Rolagem:** Aumentar um sucesso para um sucesso maior (ou um para dois).
 - **Depois da Rolagem:** Diminuir uma falha crítica para uma falha normal.
-- **Contínuo (Apenas Inspiração/Manha/Vigor):** Receber +5 (1 ponto) ou +10 (2 pontos) em todos os testes de perícias vinculadas a uma aptidão por 24 horas ou até sua próxima [recarga](../03/05-pools.md#recharging-pools).
+- **Contínuo (Apenas Inspiração/Manha/Vigor):** Receber +5 (1 ponto) ou +10 (2 pontos) em todos os testes de perícias vinculadas a uma aptidão por 24 horas ou até sua próxima [recarga](#recharging-pools).
 
 Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste. A parada gasta para um efeito contínuo (o último item da lista acima) é contada como afetando um teste.
 
@@ -36,7 +36,7 @@ Sua parada mental também pode ser usada para um dos seguintes efeitos:
 
 Sua parada social pode ser usada para afetar Testes de Rep e também para um dos seguintes efeitos:
 
-- **Ignorar Trauma:** Ignorar os efeitos de 1 trauma por 24 horas ou até a sua próxima [recarga](../03/05-pools.md#recharging-pools).
+- **Ignorar Trauma:** Ignorar os efeitos de 1 trauma por 24 horas ou até a sua próxima [recarga](#recharging-pools).
 - **Renovar Rep:** Restaurar favores de rep na rede a um custo de 1 ponto para um favor Menor e 2 pontos para um favor Moderado. Favores Maiores não podem ser renovados desta forma.
 - **Adquirir uma Pista:** Ganhar uma dica ou pista coletando informações através de interações sociais, sem precisar fazer um teste.
 - **Controlar Sua Infecção:** Evitar fazer um Teste de Infeção quando usar um truque psi (apenas assincros).
@@ -48,7 +48,7 @@ Sua parada física também pode ser usada para um dos seguintes efeitos:
 
 - **Tomar a Iniciativa:** Agir primeiro em um turno de ação. Se vários personagens escolherem essa opção, eles agem em ordem de Iniciativa antes de todos os outros.
 - **Ação Extra:** Fazer uma ação complexa física extra (ou 2 ações rápidas) em um turno de ação. Essas ações só podem ser feitas depois que todos já agiram. Se vários personagens escolherem essa opção, eles agem em ordem de Iniciativa _depois_ que todos os outros tiveram seus turnos.
-- **Ignorar Ferimento:** Ignorar os efeitos de 1 ferimento por 24 horas ou até a sua próxima [recarga](../03/05-pools.md#recharging-pools).
+- **Ignorar Ferimento:** Ignorar os efeitos de 1 ferimento por 24 horas ou até a sua próxima [recarga](#recharging-pools).
 
 ## Flex
 
@@ -57,7 +57,7 @@ Sua parada curinga também pode ser usada para controle narrativo:
 - **Introduzir PNJ:** Um PNJ novo ou existente entra na cena. A presença dele deve ser plausível. Você pode definir um aspecto deste PNJ: seu morfo, fidelidade faccional, uma perícia de destaque, um traço específico, etc. O MJ determina os outros detalhes.
 - **Introduzir um Item:** Um item previamente despercebido é adicionado à cena. A presença dele deve ser plausível. O item não pode ser ofensivo (nenhuma arma) e deve ser de Complexidade Menor (nem Raro e nem Restrito). Pode ser uma ferramenta útil, um equipamento necessário, ou até mesmo uma pista. O MJ determina sua localização na cena e a natureza de quaisquer pistas.
 - **Definir o Ambiente:** Você pode introduzir um fator ambiental à cena. A presença dele deve ser plausível. Ele deverá fornecer um novo detalhe que não altere drasticamente a cena. Exemplos incluem esconderijos, coberturas, distrações, abrigos ou elementos exploráveis, como uma escada ou janela.
-- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Esta deve ser uma conexão distante/menor em vez de um ligação íntima/séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga mas pequena. Você pode definir os aspectos básicos, mas o MJ determina os detalhes e a atitude do PNJ em relação ao seu personagem.
+- **Definir uma Relação:** Você pode introduzir uma relação nova e plausível entre o seu personagem e um PNJ existente. Essa deve ser uma conexão distante/menor em vez de um ligação íntima/séria. Por exemplo, vocês podem ter um amigo comum, uma história compartilhada, ou rivalidade antiga mas pequena. Você pode definir os aspectos básicos, mas o MJ determina os detalhes e a atitude do PNJ em relação ao seu personagem.
 
 ## Recarregando Paradas
 

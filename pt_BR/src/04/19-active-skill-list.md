@@ -6,32 +6,36 @@ Perícias ativas representam coisas que seu personagem faz. Elas geralmente exig
 
 ### Lista de Perícias
 
-| Perícia                                                                         | Aptidão Vinculada                               | Tipo                  |
-|:------------------------------------------------------------------------------- |:----------------------------------------------- |:--------------------- |
-| [Atletismo](../04/19-active-skill-list.md#athletics)                            | Somática                                        | Ativa, Física         |
-| [Enganação](../04/19-active-skill-list.md#deceive)                              | Sagacidade                                      | Ativa, Social         |
-| [Perícia Exótica: \[Área\]](../04/19-active-skill-list.md#exotic-skill-field) | —                                               | Ativa, Área           |
-| [Evasão](../04/19-active-skill-list.md#fray)                                    | Reflexos                                        | Ativa, Combate        |
-| [Queda Livre](../04/19-active-skill-list.md#free-fall)                          | Somática                                        | Ativa, Física         |
-| [Tiro](../04/19-active-skill-list.md#guns)                                      | Reflexos                                        | Ativa, Combate        |
-| [Aparelhagem: \[Área\]](../04/19-active-skill-list.md#hardware-field)         | Cognição                                        | Ativa, Área, Técnica  |
-| [Infiltração](../04/19-active-skill-list.md#infiltrate)                         | Reflexos                                        | Ativa, Física         |
-| [Infoseg](../04/19-active-skill-list.md#infosec)                                | Cognição                                        | Ativa, Técnica        |
-| [Interface](../04/19-active-skill-list.md#interface)                            | Cognição                                        | Ativa, Técnica        |
-| [Cinésica](../04/19-active-skill-list.md#kinesics)                              | Sagacidade                                      | Ativa, Social         |
-| [Saber: \[Área\]](../04/20-know-skills.md#know-field)                         | Cognição/<wbr>Intuição | Área, Saber           |
-| [Medicina: \[Área\]](../04/19-active-skill-list.md#medicine-field)            | Cognição                                        | Ativa, Área, Técnica  |
-| [Luta](../04/19-active-skill-list.md#melee)                                     | Somática                                        | Ativa, Combate        |
-| [Percepção](../04/19-active-skill-list.md#perceive)                             | Intuição                                        | Ativa, Mental         |
-| [Persuasão](../04/19-active-skill-list.md#persuade)                             | Sagacidade                                      | Ativa, Social         |
-| [Pilotagem: \[Área\]](../04/19-active-skill-list.md#pilot-field)              | Reflexos                                        | Ativa, Área, Veicular |
-| [Programação](../04/19-active-skill-list.md#program)                            | Cognição                                        | Ativa, Técnica        |
-| [Provocação](../04/19-active-skill-list.md#provoke)                             | Sagacidade                                      | Ativa, Social         |
-| [Psi](../04/19-active-skill-list.md#psi)                                        | Vontade                                         | Ativa, Mental, Psi    |
-| [Pesquisa](../04/19-active-skill-list.md#research)                              | Intuição                                        | Ativa, Técnica        |
-| [Sobrevivência](../04/19-active-skill-list.md#survival)                         | Intuição                                        | Ativa, Mental         |
+<!--sort-->
+
+| Perícia                                            | Aptidão Vinculada                               | Tipo                  |
+|:-------------------------------------------------- |:----------------------------------------------- |:--------------------- |
+| [Atletismo](#athletics)                            | Somática                                        | Ativa, Física         |
+| [Enganação](#deceive)                              | Sagacidade                                      | Ativa, Social         |
+| [Perícia Exótica: \[Área\]](#exotic-skill-field) | —                                               | Ativa, Área           |
+| [Evasão](#fray)                                    | Reflexos                                        | Ativa, Combate        |
+| [Queda Livre](#free-fall)                          | Somática                                        | Ativa, Física         |
+| [Tiro](#guns)                                      | Reflexos                                        | Ativa, Combate        |
+| [Aparelhagem: \[Área\]](#hardware-field)         | Cognição                                        | Ativa, Área, Técnica  |
+| [Infiltração](#infiltrate)                         | Reflexos                                        | Ativa, Física         |
+| [Infoseg](#infosec)                                | Cognição                                        | Ativa, Técnica        |
+| [Interface](#interface)                            | Cognição                                        | Ativa, Técnica        |
+| [Cinésica](#kinesics)                              | Sagacidade                                      | Ativa, Social         |
+| [Saber: \[Área\]](20-know-skills.md#know-field)  | Cognição/<wbr>Intuição | Área, Saber           |
+| [Medicina: \[Área\]](#medicine-field)            | Cognição                                        | Ativa, Área, Técnica  |
+| [Luta](#melee)                                     | Somática                                        | Ativa, Combate        |
+| [Percepção](#perceive)                             | Intuição                                        | Ativa, Mental         |
+| [Persuasão](#persuade)                             | Sagacidade                                      | Ativa, Social         |
+| [Pilotagem: \[Área\]](#pilot-field)              | Reflexos                                        | Ativa, Área, Veicular |
+| [Programação](#program)                            | Cognição                                        | Ativa, Técnica        |
+| [Provocação](#provoke)                             | Sagacidade                                      | Ativa, Social         |
+| [Psi](#psi)                                        | Vontade                                         | Ativa, Mental, Psi    |
+| [Pesquisa](#research)                              | Intuição                                        | Ativa, Técnica        |
+| [Sobrevivência](#survival)                         | Intuição                                        | Ativa, Mental         |
 
 </blockquote>
+
+<!--sort-->
 
 ## Atletismo
 
@@ -69,7 +73,7 @@ Use Enganação para atuar, mentir, blefar, confundir, trapacear, imitar alguém
 
 - **Tipo:** Ativa, Área
 
-Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico e perícias que têm um foco muito estreito, mas requerem educação, treinamento e experiência para serem usadas.
+Esta é uma categoria genérica para perícias menos comuns. Isso inclui proficiência com armamento incomum e arcaico, e perícias que têm uma aplicação muito restrita, mas requerem educação, treinamento e experiência para serem usadas.
 
 Use Perícia Exótica se você quer que seu personagem seja talentoso em uma área que não é coberta por nenhuma perícia existente. O MJ determina a aptidão vinculada apropriada.
 
@@ -87,7 +91,7 @@ Use Perícia Exótica se você quer que seu personagem seja talentoso em uma ár
 
 Evasão é a sua capacidade de sair do caminho do perigo, seja ele um atacante ou um objeto em movimento. Você começa com uma Evasão base de REF × 2.
 
-Use Evasão para se esquivar de ataques, evitar objetos em queda, atravessar uma multidão, ou desviar de uma colisão. Em combate, Evasão é usada para se opor a [ataques de luta e de distância](../12/01-resolving-combat.md#step-2-declare-defense). Contra tiros, Evasão é reduzida à metade.
+Use Evasão para se esquivar de ataques, evitar objetos em queda, atravessar uma multidão, ou desviar de uma colisão. Em combate, Evasão é usada para opor [ataques de luta e de distância](../12/01-resolving-combat.md#step-2-declare-defense). Contra tiros, Evasão é reduzida à metade.
 
 - **Especializações:** Defesa Total, Luta, Tiro
 
@@ -226,7 +230,7 @@ Use Medicina: Biotecnologia para modificar morfos ou instalar implantes. Use Med
 
 Luta lida com combate corpo a corpo seja desarmado ou com armas manuais ou implantadas.
 
-Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão se estiver esquivando ou pela perícia Luta do oponente se bloqueando ou aparando.
+Use Luta para socar, chutar, agarrar ou atacar com uma lâmina, bastão ou outra arma. Luta é oposta por Evasão para se esquivar ou pela perícia Luta do oponente se ele bloquear ou defender.
 
 - **Especializações:** Agarramentos, Bastões, Desarmado, Desarmamento, Implantes, Lâminas
 
@@ -321,7 +325,7 @@ Psi é o uso de habilidades psíquicas (truques) para detectar, manipular ou pre
 
 Use Psi para atacar pessoas com [truques psi-gama](../14/06-psi-sleight-summaries.md#psi-gamma-sleights). Psi é resistido com uma Prova de VON.
 
-Você deve possuir o traço [Psi](../04/28-traits.md#psi) para usar essa perícia.
+Você deve possuir o traço [Psi](28-traits.md#psi) para usar essa perícia.
 
 - **Especializações:** Ataque Psi, Controlar, Sentir
 
@@ -356,3 +360,5 @@ Use Sobrevivência para navegar, rastrear uma pessoa ou animal na natureza, obte
 - **Especializações:** Caçada, Forrageamento, Navegação, Rastreamento
 
 </div>
+
+<!--sort-end-->
