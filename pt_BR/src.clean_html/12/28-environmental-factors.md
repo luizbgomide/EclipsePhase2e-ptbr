@@ -77,4 +77,3 @@ A alta gravidade é qualquer coisa significativamente mais forte do que a gravid
 Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
 
 <!--sort-end-->
-
