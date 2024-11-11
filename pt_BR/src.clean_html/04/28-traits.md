@@ -764,4 +764,3 @@ Esse traço só está disponível para biomorfos. O sistema imune do morfo é fa
 Esse traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
 
 <!--sort-end-->
-
