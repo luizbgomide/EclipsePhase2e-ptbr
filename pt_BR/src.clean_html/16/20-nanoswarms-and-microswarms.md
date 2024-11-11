@@ -104,4 +104,3 @@ Os enxames são liberados diretamente de uma colmeia ou de cartuchos programáve
 **Marcador:** Os marcadores se agarram e prendem-se em tudo no seu volume de dispersão. Cada um carrega um identificador único, para que se for encontrado, a pessoa ou objeto marcado possa ser vinculado ao ponto em que foi marcado. Os marcadores podem ser programados para ficar em silêncio, respondendo a transmissões de consulta feitas com os códigos criptográficos apropriados, ou eles podem ser programados para transmitir sua localização de volta para o liberador através da mesh. Algumas instalações de alta segurança liberam marcadores em seus pontos de saída quando alarmes são disparados para marcar invasores.
 
 <!--sort-end-->
-
