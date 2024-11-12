@@ -49,7 +49,7 @@ Quando você é atingido em combate, subtraia seu VB do dano aplicado. Use a gra
 
 ## Camadas de Blindagem
 
-Você pode vestir várias camadas de blindagem, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de blindagem vestida. Se o total de alguma graduação de VB (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VB exceder sua Durabilidade, você está sobrecarregado demais para se mover.
+Você pode vestir várias camadas de blindagens, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de blindagem vestida. Se o total de alguma graduação de VB (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VB exceder sua Durabilidade, você está sobrecarregado demais para se mover.
 
 A blindagem inerente a um sintemorfo ou outra armação de carcaça conta como o primeiro item das camadas. Carcaças não são projetadas para vestir armaduras; qualquer blindagem usada sobre elas deve ser projetada especialmente para se adequar à sua forma (talvez exigindo um Teste de Programação de nanofab ou aumentando a Complexidade em um grau).
 
