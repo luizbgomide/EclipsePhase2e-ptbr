@@ -25,7 +25,7 @@ Armas de spray dispersam sua munição em um cone alargado, permitindo ao atirad
 
 **Fuzil de Plasma:** Essa arma grande e pesada de duas mãos jorra um fluxo de plasma de extrema temperatura no alvo, infligindo queimaduras e danos térmicos graves, provavelmente derretendo ou evaporando completamente o alvo. Os fuzis de plasma são talvez as armas portáteis mais mortais em uso. Um sucesso maior incendeia o alvo; ele continuará a receber VD 2d10 por turno de ação (blindagem não se aplica) até ser apagado. Armas de plasma sofrem de um perigoso superaquecimento no vácuo e precisam de 1 turno de ação completo de resfriamento depois de 2 tiros.
 
-**Pistola de Fragmentos:** Essa arma dispara um jorro de fragmentos diamantoides em alta velocidade a cada tiro. Uma rajada desses microflechettes é muito traumático para a carne, mas sua capacidade antiblindagem é compensada por sua pequena massa. Pistola de fragmentos são ideais em habitats fechados, pois os fragmentos tendem a se quebrar em vez de ricochetear. A munição de fragmentos às vezes é revestida com drogas ou toxinas para uma eficiência extra.
+**Pistola de Fragmentos:** Essa arma dispara um jorro de fragmentos diamantoides em alta velocidade a cada tiro. Uma rajada desses microflechettes é muito traumática para a carne, mas sua capacidade antiblindagem é limitada por sua pequena massa. Pistola de fragmentos são ideais em habitats fechados, pois os fragmentos tendem a se quebrar em vez de ricochetear. A munição de fragmentos às vezes é revestida com drogas ou toxinas para uma eficiência extra.
 
 **Retalhador:** Uma versão pesada da pistola de fragmentos, o retalhador dispara uma nuvem maior de flechettes letais, suficientes para retalhar parte do alvo com uma névoa fina.
 
