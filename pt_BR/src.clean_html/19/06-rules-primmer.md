@@ -212,7 +212,7 @@ Você recupera os pontos que gastou das paradas fazendo uma ação de recarga pa
 - Se o atacante tiver sucesso e rolar mais alto que o defensor, o ataque acerta. Role o dano.
 - Acertos maiores infligem +1d6&nbsp;VD.
 - Acertos críticos dobram o VD.
-- O dano da arma é reduzido pela armadura energética ou cinética do alvo, conforme apropriado.
+- O dano da arma é reduzido pela blindagem energética ou cinética do alvo, conforme apropriado.
 - Se o dano igualar ou exceder o Limiar de Ferimento do alvo, um ferimento é causado. Se o dano igualar ou exceder o Limiar de Ferimento do alvo múltiplas vezes, vários ferimentos são infligidos.
 - Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Destruição, ele está morto/destruído.
 
