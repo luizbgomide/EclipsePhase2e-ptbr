@@ -11,12 +11,12 @@ A maioria dos morfos inclui as seguintes ampliações.
 | AMPLIAÇÕES COMUNS | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                      |
 |:----------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------ |
 | Biomods           |      B       |                 Men/1                 | Ajustes genéticos para saúde, cura acelerada, imunidades e outros.             |
-| Cibercérebro      |      CH      |                 Mai/3                 | Cérebro sintético, executa um estado mental de infomorfo.                      |
-| Insertos da Mesh  |      CH      |                 Men/1                 | Computador cranial, transceptor sem fio, habitação da musa e sensores médicos. |
-| Manípulo Fantoche |      CH      |                 Mod/2                 | Permite que o morfo seja controlado remotamente.                               |
-| Mnemônicos        |     CHM      |                 Men/1                 | Memória aprimorada; +20 em Provas de COG relacionadas à memória.               |
-| Pilha Cortical    |     CHN      |                 Men/1                 | Unidade diamantada de armazenamento de memória para backups de ego.            |
-| Soquete de Acesso |      CH      |                 Men/1                 | Soquetes externos para interface direta com insertos da mesh/cibercérebros.    |
+| Cibercérebro      |      CE      |                 Mai/3                 | Cérebro sintético, executa um estado mental de infomorfo.                      |
+| Insertos da Mesh  |      CE      |                 Men/1                 | Computador cranial, transceptor sem fio, habitação da musa e sensores médicos. |
+| Manípulo Fantoche |      CE      |                 Mod/2                 | Permite que o morfo seja controlado remotamente.                               |
+| Mnemônicos        |     CEM      |                 Men/1                 | Memória aprimorada; +20 em Provas de COG relacionadas à memória.               |
+| Pilha Cortical    |     CEN      |                 Men/1                 | Unidade diamantada de armazenamento de memória para backups de ego.            |
+| Soquete de Acesso |      CE      |                 Men/1                 | Soquetes externos para interface direta com insertos da mesh/cibercérebros.    |
 
 <!--sort-->
 

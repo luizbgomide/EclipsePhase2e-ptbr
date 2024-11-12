@@ -10,11 +10,11 @@ A tecnologia de blindagens acompanhou o desenvolvimento de armas, fornecendo ní
 | Armadura Corporal                                           |      —       |     8      |    14    |                 Mod/2                 |                              |
 | Armadura de Combate                                         |      —       |     12     |    16    |                Mai/R/3                |                              |
 | Biotrama                                                    |      B       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
-| Blindagem de Combate Leve                                   |      H       |    +10     |    +8    |                 Mod/2                 |                              |
-| Blindagem de Combate Pesada                                 |      H       |    +16     |   +14    |                 Mai/3                 |                              |
+| Blindagem de Combate Leve                                   |      E       |    +10     |    +8    |                 Mod/2                 |                              |
+| Blindagem de Combate Pesada                                 |      E       |    +16     |   +14    |                 Mai/3                 |                              |
 | Blindagem de Escamas/<wbr>Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
 | Blindagem Dérmica                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
-| Blindagem Industrial                                        |      H       |     +6     |    +4    |                 Men/1                 |                              |
+| Blindagem Industrial                                        |      E       |     +6     |    +4    |                 Men/1                 |                              |
 | Capacete                                                    |      —       |     +2     |    +2    |                 Men/1                 | VB 4/10 vs. golpes na cabeça |
 | Carregador Atlas                                            |      —       |    +10     |   +12    |                 Raro                  |                              |
 | Casaco Reforçado                                            |      —       |     3      |    6     |                 Men/1                 |                              |

@@ -6,33 +6,33 @@ Menos orientados ao combate, mas não menos úteis, esses mods corporais aumenta
 
 | AMPLIAÇÕES FÍSICAS      | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                                                |
 |:----------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------ |
-| Adaptação de Pressão    |      BH      |                 Men/1                 | Suporta pressões extremas.                                                                                               |
-| Ajuste de Forma         |      H       |                 Mai/3                 | Composição de materiais inteligentes, pode criar 2 itens/wares Men ou 1 Mod, e mais.                                     |
-| Almofadas Aderentes     |     BCH      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
-| Asas                    |     BCH      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
+| Adaptação de Pressão    |      BE      |                 Men/1                 | Suporta pressões extremas.                                                                                               |
+| Ajuste de Forma         |      E       |                 Mai/3                 | Composição de materiais inteligentes, pode criar 2 itens/wares Men ou 1 Mod, e mais.                                     |
+| Almofadas Aderentes     |     BCE      |                 Men/1                 | +30 em Testes de Atletismo para escalada.                                                                                |
+| Asas                    |     BCE      |                 Mod/2                 | Permite o voo se for pequeno ou em baixa gravidade. Taxa de Movimento de Asas 8/32 (médio) ou 8/40 (pequeno).            |
 | Bolso de Pele           |      B       |                 Men/1                 | Ocultação (+30 em Infiltração) para itens muito pequenos (e alguns pequenos).                                            |
-| Cauda Preênsil          |     BCH      |                 Men/1                 | Pode segurar com a cauda. +10 em Atletismo baseado em equilíbrio.                                                        |
+| Cauda Preênsil          |     BCE      |                 Men/1                 | Pode segurar com a cauda. +10 em Atletismo baseado em equilíbrio.                                                        |
 | Cibermembro             |      C       |                 Mod/2                 | Membro substituto. 6/4&nbsp;VB quando alvejado, +5 em Provas de SOM.                                                     |
 | Cibermembro Extra       |      C       |                 Mai/3                 | Membro substituto/extra. Igual cibermembro, +1 na parada de Vigor.                                                       |
-| Compartimento Oculto    |      CH      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
-| Dedos Fractais          |      CH      |                 Men/1                 | +10 em Testes de Aparelhagem envolvendo manipulação ultrafina.                                                           |
+| Compartimento Oculto    |      CE      |                 Men/1                 | Compartimento blindado e oculto. +30 em Infiltração para esconder itens.                                                 |
+| Dedos Fractais          |      CE      |                 Men/1                 | +10 em Testes de Aparelhagem envolvendo manipulação ultrafina.                                                           |
 | Guelras                 |      B       |                 Men/1                 | Respire tanto ar quanto água.                                                                                            |
 | Hibernação              |      B       |                 Men/1                 | Reduz o metabolismo, precisa de apenas 5% quantidade normal de alimento, água e ar.                                      |
-| Ligação Dérmica         |      HN      |                 Men/1                 | Cria uma ligação de mesh “cabeada” pelo toque.                                                                           |
-| Membros Retráteis       |      H       |                 Men/1                 | Membro se retrai, pode segurar 1 item pequeno.                                                                           |
+| Ligação Dérmica         |      EN      |                 Men/1                 | Cria uma ligação de mesh “cabeada” pelo toque.                                                                           |
+| Membros Retráteis       |      E       |                 Men/1                 | Membro se retrai, pode segurar 1 item pequeno.                                                                           |
 | Nanotat ID Variável     |      N       |                Mai/R/3                | Troque sua nanotat ID.                                                                                                   |
-| Pés Preênseis           |     BCH      |                 Men/1                 | Pode usar os pés como mãos. −8 no movimento total.                                                                       |
-| Projeto Modular         |      H       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#regras-de-flexbots). |
-| Proteção Criogênica     |      CH      |                 Mod/2                 | Suporta temperaturas de até −120/−200&nbsp;°C (biomorfos) ou menores (sintemorfos).                                      |
-| Proteção Termogênica    |      H       |                 Mod/2                 | Suporta temperaturas de até 1.000&nbsp;°C.                                                                               |
+| Pés Preênseis           |     BCE      |                 Men/1                 | Pode usar os pés como mãos. −8 no movimento total.                                                                       |
+| Projeto Modular         |      E       |                 Mod/2                 | Encaixa-se com outros módulos para criar formas combinadas. [Regras de Flexbots](../04/25-synthmorphs.md#regras-de-flexbots). |
+| Proteção Criogênica     |      CE      |                 Mod/2                 | Suporta temperaturas de até −120/−200&nbsp;°C (biomorfos) ou menores (sintemorfos).                                      |
+| Proteção Termogênica    |      E       |                 Mod/2                 | Suporta temperaturas de até 1.000&nbsp;°C.                                                                               |
 | Regulação Circadiana    |      BM      |                 Mod/2                 | Precisa de apenas 2 horas de sono. Recargas longas demoram 2 horas.                                                      |
 | Reserva de Oxigênio     |      C       |                 Men/1                 | Tanque/recirculador de oxigênio com 4 horas de ar.                                                                       |
 | Respiração Aprimorada   |      B       |                 Men/1                 | Respire em uma gama mais ampla de atmosferas, segure a respiração por mais tempo.                                        |
-| Sistema de Jatos de Gás |      CH      |                 Mod/2                 | Taxa de Movimento de Empuxo Vetorial (Jatos de Gás) 4/12 (biomorfos) ou 8/40 (sintemorfos).                              |
-| Sistema de Mobilidade   |      H       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#tipos-de-movimento) especificado adicional.                                         |
-| Sistema Magnético       |      CH      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
+| Sistema de Jatos de Gás |      CE      |                 Mod/2                 | Taxa de Movimento de Empuxo Vetorial (Jatos de Gás) 4/12 (biomorfos) ou 8/40 (sintemorfos).                              |
+| Sistema de Mobilidade   |      E       |                 Mod/2                 | [Tipo de movimento](../12/24-movement.md#tipos-de-movimento) especificado adicional.                                         |
+| Sistema Magnético       |      CE      |                 Men/1                 | +30 em Provas de SOM para agarrar-se a materiais e objetos ferrosos.                                                     |
 | Tolerância ao Frio      |      B       |                 Men/1                 | Suporta temperaturas de até −80&nbsp;°C.                                                                                 |
-| Utilimod                |      CH      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
+| Utilimod                |      CE      |                 Mod/2                 | Utiliferramenta implantada.                                                                                              |
 | Vedação de Vácuo        |      B       |                 Men/1                 | Pode sobreviver à exposição ao vácuo.                                                                                    |
 
 <!--sort-->

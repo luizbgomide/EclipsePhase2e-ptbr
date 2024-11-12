@@ -6,18 +6,18 @@ A maioria das ampliações de ware mental aprimoram o cérebro e as funções me
 
 | AMPLIAÇÕES MENTAIS          | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                                              |
 |:--------------------------- |:------------:|:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------- |
-| Acoplagem Drone             |     CHM      |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                                              |
-| Amplificador Mental         |     HMN      |                 Mai/3                 | Acelera a mente. +2 em Inspiração.                                                                                     |
-| Carregador Pericial         |     CHM      |                 Mai/3                 | Pode usar 120 pontos de periciapps.                                                                                    |
+| Acoplagem Drone             |     CEM      |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                                              |
+| Amplificador Mental         |     EMN      |                 Mai/3                 | Acelera a mente. +2 em Inspiração.                                                                                     |
+| Carregador Pericial         |     CEM      |                 Mai/3                 | Pode usar 120 pontos de periciapps.                                                                                    |
 | Cibercórtex                 |      C       |                 Mod/2                 | Auxílio cerebral para animais inteligentes, +10 em Provas de COG de compreensão, +10 na Perícia Exótica: Trato Animal. |
-| Detonador Cortical          |      CH      |                 Men/1                 | Apaga e derrete sua pilha cortical se for morto.                                                                       |
-| Ligação de Backup Remoto    |      CH      |                 Mai/3                 | Longiprojetor quântico para backups remotos a cada 48 horas.                                                           |
-| Longiprojetor de Emergência |      CH      |                Mai/R/3                | Longiprojetor de neutrino para egoprojeção de emergência se for morto/ativado.                                         |
-| Módulo Carona Virtual       |      CH      |                 Men/1                 | Carrega um infomorfo.                                                                                                  |
-| Módulo de Dados             |      CH      |                 Men/1                 | Armazenamento de dados criptografados.                                                                                 |
+| Detonador Cortical          |      CE      |                 Men/1                 | Apaga e derrete sua pilha cortical se for morto.                                                                       |
+| Ligação de Backup Remoto    |      CE      |                 Mai/3                 | Longiprojetor quântico para backups remotos a cada 48 horas.                                                           |
+| Longiprojetor de Emergência |      CE      |                Mai/R/3                | Longiprojetor de neutrino para egoprojeção de emergência se for morto/ativado.                                         |
+| Módulo Carona Virtual       |      CE      |                 Men/1                 | Carrega um infomorfo.                                                                                                  |
+| Módulo de Dados             |      CE      |                 Men/1                 | Armazenamento de dados criptografados.                                                                                 |
 | Múltiplas Personalidades    |      BM      |                 Mai/3                 | Cérebro contém vários egos.                                                                                            |
-| Multitarefa                 |     CHM      |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                             |
-| Trava Memorial              |     CHM      |                 Men/1                 | Bloqueia retenção/gravação de memória quando ativado.                                                                  |
+| Multitarefa                 |     CEM      |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                             |
+| Trava Memorial              |     CEM      |                 Men/1                 | Bloqueia retenção/gravação de memória quando ativado.                                                                  |
 
 <!--sort-->
 

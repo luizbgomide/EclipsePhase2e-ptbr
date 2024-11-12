@@ -9,14 +9,14 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 | Alteração de Odor      |      B       |                 Men/1                 | Excreção de odores projetados.                                                    |
 | Cobertura Sintética    |      C       |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
 | Controle Endócrino     |      BM      |                 Mai/3                 | Controle de hormônios e emoções. + 2 em Manha.                                    |
-| Escultura Corporal     |     BCH      |                 Men/1                 | Mods corporais personalizados.                                                    |
+| Escultura Corporal     |     BCE      |                 Men/1                 | Mods corporais personalizados.                                                    |
 | Feromônios Aprimorados |      B       |                 Mod/2                 | +10 em Persuasão e Provocação com biomorfos da mesma espécie.                     |
-| Máscara Sintética      |      H       |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
+| Máscara Sintética      |      E       |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
 | Metabolismo Limpo      |      B       |                 Men/1                 | Bactérias simbióticas, flora intestinal, e glândulas mantêm você limpo e fresco.  |
 | Mudança Sexual         |      B       |                 Mod/2                 | Alterne entre masculino, feminino, intersexo ou assexuado em 1 semana.            |
 | Nanotats               |      N       |                 Men/1                 | Tatuagens de nanobots controladas pela mesh.                                      |
 | Neuromodulação         |      MN      |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                            |
-| Pele Camaleão          |      BH      |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
+| Pele Camaleão          |      BE      |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
 | Pele-Flex              |      N       |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
 
 <!--sort-->

@@ -6,22 +6,22 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 
 | AMPLIAÇÕES SENSORIAIS | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                        |
 |:--------------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------ |
-| Antirreflexo          |      CH      |                 Men/1                 | Nega modificadores por clarões.                                                                  |
-| Audição Aprimorada    |     BCH      |                 Men/1                 | Escuta frequências mais altas e mais baixas. +10 em Percepção baseada em audição.                |
-| Emissor de Raios T    |      CH      |                 Men/1                 | Use visão aprimorada para ver através de materiais.                                              |
-| Farejador Químico     |      CH      |                 Mod/2                 | Detecta gases, explosivos, armas de fogo, toxinas. Saber: Química 60.                            |
-| Lidar                 |      H       |                 Men/1                 | Use luz de laser refletida para imageamento e julgar distâncias e velocidades.                   |
-| Olfato Aprimorado     |     BCH      |                 Men/1                 | +10 em Percepção baseada em olfato, +10 em Cinésica com biomorfos à queima-roupa.                |
-| Oráculos              |     CHM      |                 Mod/2                 | +10 em Percepção, nega modificadores por distração.                                              |
-| Radar                 |      H       |                 Men/1                 | Detector de movimento, também pode julgar tamanho e composição.                                  |
-| Sentido Direcional    |     BCH      |                 Men/1                 | Sentido inato de direção e distância. +10 em Testes de Sobrevivência baseados em navegação.      |
-| Sentido Elétrico      |      CH      |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                                                       |
-| Sentido Radiológico   |      CH      |                 Men/1                 | Detecta fontes de radiação.                                                                      |
-| Sonar                 |     BCH      |                 Men/1                 | Sonar, alcance de 20&nbsp;m no ar, 100&nbsp;m na água.                                           |
-| Visão 360°            |     BCH      |                 Men/1                 | Veja em todas as direções simultaneamente.                                                       |
-| Visão Aprimorada      |     BCH      |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Percepção baseada em visão. |
-| Visão Nanoscópica     |      H       |                 Mod/2                 | Ver objetos em nanoescala e nanobots.                                                            |
-| Visão Polarizada      |     BCH      |                 Men/1                 | Veja luz polarizada, ignora modificadores de camuflagem.                                         |
+| Antirreflexo          |      CE      |                 Men/1                 | Nega modificadores por clarões.                                                                  |
+| Audição Aprimorada    |     BCE      |                 Men/1                 | Escuta frequências mais altas e mais baixas. +10 em Percepção baseada em audição.                |
+| Emissor de Raios T    |      CE      |                 Men/1                 | Use visão aprimorada para ver através de materiais.                                              |
+| Farejador Químico     |      CE      |                 Mod/2                 | Detecta gases, explosivos, armas de fogo, toxinas. Saber: Química 60.                            |
+| Lidar                 |      E       |                 Men/1                 | Use luz de laser refletida para imageamento e julgar distâncias e velocidades.                   |
+| Olfato Aprimorado     |     BCE      |                 Men/1                 | +10 em Percepção baseada em olfato, +10 em Cinésica com biomorfos à queima-roupa.                |
+| Oráculos              |     CEM      |                 Mod/2                 | +10 em Percepção, nega modificadores por distração.                                              |
+| Radar                 |      E       |                 Men/1                 | Detector de movimento, também pode julgar tamanho e composição.                                  |
+| Sentido Direcional    |     BCE      |                 Men/1                 | Sentido inato de direção e distância. +10 em Testes de Sobrevivência baseados em navegação.      |
+| Sentido Elétrico      |      CE      |                 Men/1                 | Sente campos elétricos dentro de 5&nbsp;m.                                                       |
+| Sentido Radiológico   |      CE      |                 Men/1                 | Detecta fontes de radiação.                                                                      |
+| Sonar                 |     BCE      |                 Men/1                 | Sonar, alcance de 20&nbsp;m no ar, 100&nbsp;m na água.                                           |
+| Visão 360°            |     BCE      |                 Men/1                 | Veja em todas as direções simultaneamente.                                                       |
+| Visão Aprimorada      |     BCE      |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Percepção baseada em visão. |
+| Visão Nanoscópica     |      E       |                 Mod/2                 | Ver objetos em nanoescala e nanobots.                                                            |
+| Visão Polarizada      |     BCE      |                 Men/1                 | Veja luz polarizada, ignora modificadores de camuflagem.                                         |
 
 <!--sort-->
 

@@ -6,29 +6,29 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 | AMPLIAÇÕES DE COMBATE    | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                 |
 |:------------------------ |:------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------- |
-| Absorção de Radar        |      H       |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                  |
-| Ampliação Muscular       |     BCH      |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;\[4\]&nbsp;VD luta, +10 em Provas de SOM. |
-| Amplificador de Reflexos |      CH      |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIC, +10 em Provas de REF.              |
-| Aprimoramento Estrutural |      H       |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                       |
-| Atuadores Inteligentes   |      H       |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                                |
+| Absorção de Radar        |      E       |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                  |
+| Ampliação Muscular       |     BCE      |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;\[4\]&nbsp;VD luta, +10 em Provas de SOM. |
+| Amplificador de Reflexos |      CE      |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIC, +10 em Provas de REF.              |
+| Aprimoramento Estrutural |      E       |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                       |
+| Atuadores Inteligentes   |      E       |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                                |
 | Controle de Estresse     |      BM      |                 Mod/2                 | Gerencia níveis de estresse. +10 em Provas de VON vs. estresse, +1 em Limiar de Trauma.   |
-| Eficiência Energética    |     BHM      |                 Mai/3                 | Uma recarga curta extra por dia.                                                          |
-| Esqueleto Endurecido     |      CH      |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                    |
+| Eficiência Energética    |     BEM      |                 Mai/3                 | Uma recarga curta extra por dia.                                                          |
+| Esqueleto Endurecido     |      CE      |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                    |
 | Filtros de Toxina        |      B       |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.          |
 | Glândulas de Droga       |      B       |            Men/R/1 + Droga            | Produz um tipo de droga.                                                                  |
 | Glândulas de Nanotoxina  |      N       |         Men/R/1 + Nanotoxina          | Colmeia de nanobots, produz um tipo de nanotoxina.                                        |
 | Glândulas de Veneno      |      B       |           Men/R/1 + Toxina            | Produz um tipo de veneno.                                                                 |
 | Imunizantes              |      N       |                 Mod/2                 | Teste de Medicina: Farmacologia 60 para imunidade futura a droga, toxina ou doença.       |
-| Medicadores              |      NH      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.         |
-| Membro Telescópico       |      CH      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
+| Medicadores              |      EN      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.         |
+| Membro Telescópico       |      CE      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
 | Nanobomba                |      N       |           Men/1 + Nanodroga           | Colmeia de nanobots, produz um tipo de nanodroga.                                         |
 | Nanófagos                |      N       |                 Mod/2                 | Prova de SOM nega nanodrogas/toxinas, falha reduz efeito à metade.                        |
-| Neuraquim                |      BH      |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                   |
+| Neuraquim                |      BE      |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                   |
 | Novacardium              |      B       |                 Mod/2                 | Coração e sistema circulatório aprimorados. +1 em Vigor.                                  |
-| Pneumáticos              |      H       |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;\[4\]&nbsp;VD luta.                       |
+| Pneumáticos              |      E       |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;\[4\]&nbsp;VD luta.                       |
 | Regulador de Dor         |      B       |                 Mod/2                 | Ameniza a sensação de dor. Ignore 1 efeito de ferimento.                                  |
 | Respirócitos             |      N       |                 Mod/2                 | Células vermelhas artificiais, fornecem 4 horas de ar, +5 em DUR, +1 em LF, +8 em GD.     |
-| Suporte de Arma          |      CH      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
+| Suporte de Arma          |      CE      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
 | Surto Adrenal            |      B       |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                         |
 
 <!--sort-->

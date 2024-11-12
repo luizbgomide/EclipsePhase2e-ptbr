@@ -14,13 +14,13 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
-| Enguiware               |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
+| Enguiware               |     BCE      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Antiblindagem, Extensão                               |
-| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
-| Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
+| Espeto de Pistão        |      CE      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
+| Esporão                 |      CE      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
 | Faca-Ferrão             |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
-| Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
+| Garras                  |     BCE      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
 | Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Antiblindagem, Frágil                                 |
 | Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Antiblindagem, Duas Mãos, Extensão (+20)              |
 | Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
