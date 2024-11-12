@@ -8,21 +8,21 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 
 | ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
 |:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
-| Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
+| Garras                  |     BCE      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
 | Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
 | Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Antiblindagem, Duas Mãos, Extensão                    |
-| Enguiware               |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
+| Enguiware               |     BCE      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
 | Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Antiblindagem, Extensão                               |
 | Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Antiblindagem, Frágil                                 |
 | Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Antiblindagem, Duas Mãos, Extensão (+20)              |
-| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
+| Espeto de Pistão        |      CE      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
 | Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Choque, Extensão, Toque Simples                       |
 | Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
-| Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
+| Esporão                 |      CE      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
 | Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Antiblindagem/+2d10&nbsp;VD quando serrando           |

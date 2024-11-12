@@ -8,6 +8,8 @@ Ações normalmente disponíveis para todos os usuários.
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Acessar Outro Sistema:** Autenticar e logar. Cria um console de conta.
 - **Aplicar Tag:** Marque uma pessoa, lugar ou coisa física com uma e-tag de RA.
 - **Comunicar:** Conversar por e-mail, texto, voz ou vídeo com outros online.
@@ -45,6 +47,8 @@ Ações reservadas para contas com privilégios de segurança ou de administrado
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Adquirir Mesh ID:** Adquirir a mesh ID de qualquer um acessando o sistema.
 - **Ativar Contramedidas:** Iniciar contramedidas ativas contra um invasor detectado ([Contramedidas Ativas](../13/12-countermeasures.md#active-countermeasures)).
 - **Atacar:** Tentar travar um console de conta, app, firewall, infomorfo, sistema operacional ou serviço ([Combate na Mesh](../13/14-mesh-combat.md)).
@@ -66,6 +70,8 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Desativar Sensores ou Funções de Dispositivo:** Desligar sensores ou outras funções físicas.
 - **Modificar Contas:** Adicionar novas contas e remover antigas.
 - **Modificar Privilégios:** Adicionar ou remover privilégios específicos.
@@ -79,6 +85,8 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detalhada em [Subversão de Sistema](../13/13-system-subversion.md).
 
 <!-- CLEANED div class="stat-list" -->
+
+<!--sort-->
 
 - **Quebrar Criptografia \[T\]:** Descriptografar um arquivo criptografado ([Quebra de Código](../13/05-authentication-and-encryption.md#codebreaking)).
 - **Invasão de Força-Bruta:** Borbardeie seu alvo com uma biblioteca de violações ([Ataque de Força Bruta](../13/11-hacking.md#brute-force-attacks)).
@@ -95,8 +103,8 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Bloquear Sinais:** Bloquear frequências sem fio específicas ou todas.
 - **Repetir Fluxo de Sensor:** Substituir um fluxo de sensor ao vivo com gravações repetidas.
 - **Modificar TacNet:** Editar dados da tacnet, marcar inimigos como amigos.
-- **Invasão Sutil \[T\]:** Sonde discretamente um alvo buscando vulnerabilidades ([Invasão Sutil](../13/11-hacking.md#subtle-intrusion)).
 - **Farejar Tráfego:** Farejar o tráfego entre dispositivos sem fio ([Farejamento](../13/04-devices-apps-and-links.md#sniffing)).
+- **Invasão Sutil \[T\]:** Sonde discretamente um alvo buscando vulnerabilidades ([Invasão Sutil](../13/11-hacking.md#subtle-intrusion)).
 - **Suprimir Alarme:** Trocar alerta ativo para passivo, ou desligar um alerta passivo.
 - **Suprimir Processo:** Impedir que um processo específico seja reiniciado.
 - **Grampear RA:** Monitorar os fluxos de RA do alvo.
@@ -108,7 +116,9 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 
 <!-- CLEANED div class="stat-list" -->
 
-- **Prender Ego:** Proibir o ego/infomorfo de se mover ou sair.
+<!--sort-->
+
+- **Prender Ego:** Proibir o ego/infomorfo de se mover ou sair.<!--sort-fixed-->
 - **Controlar Ware:** Como acima.
 - **Copiar Ego:** Fazer um forque alfa ([Forqueamento](../15/04-forking-and-merging.md)).
 - **Excluir Ego:** Apagar a mente.
@@ -130,6 +140,8 @@ As opções de usuário padrão dentro de um simulespaço se resumem a algumas a
 
 <!-- CLEANED div class="stat-list" -->
 
+<!--sort-->
+
 - **Acessar as Funções do Simulespaço:** Fazer qualquer coisa que um usuário normal possa fazer. Pode exigir um Teste de Interface.
 - **Ativar Código de Trapaça:** Ativar um código de trapaça e adquirir seu benefício.
 - **Ver Regras de Domínio:** Analisar os parâmetros, regras e controles da simulação.
@@ -141,6 +153,8 @@ As opções de usuário padrão dentro de um simulespaço se resumem a algumas a
 Administradores e usuários com códigos de trapaça têm mais opções.
 
 <!-- CLEANED div class="stat-list" -->
+
+<!--sort-->
 
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente.
 - **Alterar Regras de Domínio:** Ajustar as configurações do sistema dentro de certos parâmetros; pode exigir um Teste de Programação.
