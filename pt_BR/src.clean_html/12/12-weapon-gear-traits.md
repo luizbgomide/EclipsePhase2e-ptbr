@@ -4,7 +4,7 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 
 <!--sort-->
 
-- **Antiblindagem:** Essa arma penetra em blindagens. O ataque inflige −1d10&nbsp;VD, mas a armadura é reduzida à metade. Armas e tipos de munição listados como antiblindagem já incorporam o modificador de VD. Efeitos antiblindagem adicionais são ignorados.
+- **Antiblindagem:** Essa arma penetra em blindagens. O ataque inflige −1d10&nbsp;VD, mas a blindagem é reduzida à metade. Armas e tipos de munição listados como antiblindagem já incorporam o modificador de VD. Efeitos antiblindagem adicionais são ignorados.
 - **Cegante:** Alvos devem fazer uma Prova de REF ou ficarem [cegados](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente até que seja reparado ou que passe algum tempo em um tanque de cura. Ware antirreflexo protege contra efeitos cegantes baseados em luz.
 - **Ocultável:** Esse item é facilmente escondido. Você recebe +30 em Testes de Infiltração para esconder esse item em seu corpo (ou em outro lugar).
 - **Capturante:** Alvos atingidos por essa arma devem fazer uma Prova de REF ou ficarem [agarrados](02-melee-combat.md#grappling). Os sucessos maiores do atacante aplicam um −10 cumulativo nessa Prova de REF e nas Provas de SOM para se libertar.
@@ -19,6 +19,6 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 - **Choque:** Essa arma provoca um [efeito de choque](15-special-attacks.md#shock-attacks).
 - **Uso Único:** Esse item só pode ser usado uma vez.
 - **Estável:** Essa arma ignora modificadores de alcance.
-- **Atordoante:** Alvos devem fazer uma Prova de SOM ou ficarem [atordoados](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Aplique a armadura cinética como um modificador positivo. Alvos grandes recebem um modificador +30 alvos pequenos recebem −30. Com uma falha crítica, eles estão incapacitados por 1 turno de ação e atordoados por 1 minuto.
+- **Atordoante:** Alvos devem fazer uma Prova de SOM ou ficarem [atordoados](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Aplique a blindagem cinética como um modificador positivo. Alvos grandes recebem um modificador +30 alvos pequenos recebem −30. Com uma falha crítica, eles estão incapacitados por 1 turno de ação e atordoados por 1 minuto.
 - **Toque Simples:** Esse ataque de luta exige apenas um toque. +20 para acertar, mas nenhum VD é causado ([Ataques de Toque Simples](02-melee-combat.md#touch-only-attacks)).
 - **Duas Mãos:** Essa arma requer duas mãos (ou membros preênseis equivalentes) para ser usada. Aplique um modificador −20 para atacar se for usada com uma mão.
