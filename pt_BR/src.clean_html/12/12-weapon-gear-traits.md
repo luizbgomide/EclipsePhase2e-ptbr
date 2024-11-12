@@ -4,7 +4,7 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 
 <!--sort-->
 
-- **Perfura-Armadura:** Essa arma penetra em armaduras. O ataque inflige −1d10&nbsp;VD, mas a armadura é reduzida à metade. Armas e tipos de munição listados como perfura-armadura já incorporam o modificador de VD. Efeitos perfurantes de armadura adicionais são ignorados.
+- **Antiblindagem:** Essa arma penetra em blindagens. O ataque inflige −1d10&nbsp;VD, mas a armadura é reduzida à metade. Armas e tipos de munição listados como antiblindagem já incorporam o modificador de VD. Efeitos antiblindagem adicionais são ignorados.
 - **Cegante:** Alvos devem fazer uma Prova de REF ou ficarem [cegados](21-other-action-factors.md#conditions) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente até que seja reparado ou que passe algum tempo em um tanque de cura. Ware antirreflexo protege contra efeitos cegantes baseados em luz.
 - **Ocultável:** Esse item é facilmente escondido. Você recebe +30 em Testes de Infiltração para esconder esse item em seu corpo (ou em outro lugar).
 - **Capturante:** Alvos atingidos por essa arma devem fazer uma Prova de REF ou ficarem [agarrados](02-melee-combat.md#grappling). Os sucessos maiores do atacante aplicam um −10 cumulativo nessa Prova de REF e nas Provas de SOM para se libertar.
