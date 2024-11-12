@@ -26,7 +26,7 @@ Mesmo se você estiver inconsciente/desativado, seus insertos da mesh ainda pode
 
 Ferimentos representam lesões graves: cortes profundos e hemorragias, fraturas e rupturas, membros despedaçados, sistemas quebrados, e outros danos sérios que prejudicam sua capacidade de funcionar e podem levar à morte ou debilitações de longo prazo.
 
-Sempre que seu personagem sofrer dano, compare a quantia infligida de uma única fonte (depois de ser reduzida pela armadura) com seu Limiar de Ferimento. O Limiar de Ferimento é igual a Durabilidade do seu morfo ÷ 5. Se o VD modificado igualar o exceder seu Limiar de Ferimento, você sofreu um ferimento. Se o dano infligido for o dobro do seu Limiar de Ferimento, você sofreu 2 ferimentos; se for o triplo, você sofreu 3 ferimentos; e assim por diante.
+Sempre que seu personagem sofrer dano, compare a quantia infligida de uma única fonte (depois de ser reduzida pela blindagem) com seu Limiar de Ferimento. O Limiar de Ferimento é igual a Durabilidade do seu morfo ÷ 5. Se o VD modificado igualar o exceder seu Limiar de Ferimento, você sofreu um ferimento. Se o dano infligido for o dobro do seu Limiar de Ferimento, você sofreu 2 ferimentos; se for o triplo, você sofreu 3 ferimentos; e assim por diante.
 
 Ferimentos são cumulativos e devem ser marcados em sua ficha de personagem.
 
