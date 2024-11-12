@@ -386,7 +386,7 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Transtorno Mental](#mental-disorder)              |    2     | Escolha um [transtorno](../12/20-disorders.md).                                                  |
 | [Transtorno Mórfico](#morphing-disorder)           |  2/4/6   | −10 por nível em Testes de Integração e de Estresse de Reencape.                                 |
 | [Dano Neural](#neural-damage)                      |    2     | Você tem algum tipo de dano neural incurável; veja o texto.                                      |
-| [Nenhum Seguro de Backup](#no-backup-insurance)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
+| [Sem Seguro de Backup](#no-backup-insurance)       |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
 | [Desatenção](#obliviousness)                       |    2     | −10 adicional em Testes de Percepção quando distraído e em Testes de Surpresa.                   |
 | [Estupidez](#obtuseness)                           |  1/2/3   | −5 por nível em Provas de COG.                                                                   |
 | [Baixa Coordenação](#poor-coordination)            |  1/2/3   | −5 por nível em Provas de REF.                                                                   |
@@ -639,7 +639,7 @@ Você sofreu algum tipo de dano neurológico que ainda não pode ser curado. O d
 
 Esse traço pode ser escolhido várias vezes para distúrbios diferentes.
 
-### Nenhum Seguro de Backup
+### Sem Seguro de Backup
 
 **Traço de ▲ Ego • Bônus PP: 2**
 
