@@ -48,7 +48,7 @@ Aplique qualquer modificador situacional, de ferimento/trauma, ou outros necess�
 
 ### Modificadores de Combate
 
-Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataque.
+Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataques.
 
 | Situação                                                                             |         Modificadores         |
 |:------------------------------------------------------------------------------------ |:-----------------------------:|
