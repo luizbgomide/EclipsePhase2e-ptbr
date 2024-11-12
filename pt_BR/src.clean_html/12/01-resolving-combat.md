@@ -95,7 +95,7 @@ Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](
 
 Se o defensor estiver usando armadura, ela vai protegê-lo. Determine qual parte do Valor de Armadura (VA) do defensor é aplicável — armadura energética ou armadura cinética ([Armadura](11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a armadura foi efetiva e o ataque não conseguiu ferir o alvo.
 
-Observe que ataques que perfuram armadura reduzem o VA à metade.
+Observe que ataques perfurantes de armadura reduzem o VA à metade.
 
 ## Passo 8: Aplicar o Dano
 
