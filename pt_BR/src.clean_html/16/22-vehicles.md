@@ -253,7 +253,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 
 <!--sort-->
 
-**Traje de Batalha:** Esse armadura poderosa contém uma carcaça blindada de fulereno com aerogel flexível para isolamento térmico e um exterior com reforço diamantado projetado para resistir até mesmo a potentes armas balísticas e energéticas. Ele aumenta a parada de Vigor em 2, inflige um 1d10 de dano adicional em luta, aumenta a taxa de movimento de Marcha para 8/32, e dobra sua distância de salto.
+**Traje de Batalha:** Essa armadura energizada é composta uma carcaça blindada de fulereno militar com aerogel flexível para isolamento térmico e um exterior com reforço diamantado projetado para resistir até mesmo a potentes armas balísticas e energéticas. Ele aumenta a parada de Vigor em 2, inflige um 1d10 de dano adicional em luta, aumenta a taxa de movimento de Marcha para 8/32, e dobra sua distância de salto.
 
 **Traje Ambiental:** Essas carcaças contêm aumento na proteção radiológica e sistemas de regulação térmica para suportar ambientes extremos, tais como fundo do mar e as superfícies de Mercúrio e Vênus. Eles podem suportar temperaturas de −270 até 1.000&nbsp;°C.
 
