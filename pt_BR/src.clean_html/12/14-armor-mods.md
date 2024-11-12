@@ -1,10 +1,10 @@
-# Mods de Blindagens
+# Mods de Blindagem
 
-Modificações de blindagens adicionam materiais ou revestimentos extras que melhoram a resistência a certos perigos ou fornecem outros efeitos. As listagens são para revestimentos temporários, que podem ser aplicados a vestuários, blindagens ou até mesmo diretamente na pele ou carcaça do morfo com um aplicador nanobot em spray, eles são facilmente removidos e duram 1 dia. Revestimentos permanentes requerem uma [colmeia especializada](../16/19-nanotech.md#hives). Com a exceção do revestimento camaleão, os mods de blindagens são visíveis e facilmente identificados. Apenas um mod pode ser aplicado por vez.
+Modificações de blindagem adicionam materiais ou revestimentos extras que melhoram a resistência a certos perigos ou fornecem outros efeitos. As listagens são para revestimentos temporários, que podem ser aplicados a vestuários, blindagens ou até mesmo diretamente na pele ou carcaça do morfo com um aplicador nanobot em spray, eles são facilmente removidos e duram 1 dia. Revestimentos permanentes requerem uma [colmeia especializada](../16/19-nanotech.md#hives). Com a exceção do revestimento camaleão, os mods de blindagem são visíveis e facilmente identificados. Apenas um mod pode ser aplicado por vez.
 
 <!--sort-->
 
-| MODS DE BLINDAGENS                             | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                              |
+| MODS DE BLINDAGEM                              | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                              |
 |:---------------------------------------------- |:----------:|:--------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------ |
 | Ablativo                                       |     +4     |    +0    |                 Men/1                 | 5 usos. Colmeia restaura 1 uso por hora.                                                               |
 | Camaleão                                       |     +0     |    +0    |                 Men/1                 | +30 em Infiltração quando estiver parado ou se movendo menos que 2&nbsp;m/turno.                       |
