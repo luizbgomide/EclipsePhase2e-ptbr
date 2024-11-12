@@ -22,11 +22,11 @@ A tecnologia de blindagens acompanhou o desenvolvimento de armas, fornecendo ní
 | Traje Ambiental                                             |      —       |     25     |    16    |                 Mai/3                 |                              |
 | Armação de Exoandador                                       |      —       |     +0     |    +2    |                 Mai/3                 |                              |
 | Traje Rígido                                                |      —       |     20     |    18    |                 Raro                  |                              |
-| Blindagem de Combate Pesada                                 |      H       |    +16     |   +14    |                 Mai/3                 |                              |
+| Blindagem de Combate Pesada                                 |      E       |    +16     |   +14    |                 Mai/3                 |                              |
 | Capacete                                                    |      —       |     +2     |    +2    |                 Men/1                 | VB 4/10 vs. golpes na cabeça |
 | Traje de Mergulho Espacial                                  |      —       |     25     |    8     |                 Mai/3                 |                              |
-| Blindagem Industrial                                        |      H       |     +6     |    +4    |                 Men/1                 |                              |
-| Blindagem de Combate Leve                                   |      H       |    +10     |    +8    |                 Mod/2                 |                              |
+| Blindagem Industrial                                        |      E       |     +6     |    +4    |                 Men/1                 |                              |
+| Blindagem de Combate Leve                                   |      E       |    +10     |    +8    |                 Mod/2                 |                              |
 | Escudo Antimotim                                            |      —       |     +3     |    +4    |                 Men/1                 | Choque, Toque Simples        |
 | Blindagem de Escamas/<!-- CLEANED wbr -->Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
 | Segunda Pele                                                |      —       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
