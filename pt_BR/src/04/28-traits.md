@@ -387,9 +387,9 @@ Traços negativos fornecem um bônus de PP ou PM e prejudicam você.
 | [Mácula](#mácula)                              |  1/2/3   | Modificador −10 por nível em interações com uma facção.                                          |
 | [Maus Instintos](#maus-instintos)                  |  1/2/3   | −5 por nível em Provas de INT.                                                                   |
 | [Memórias Editadas](#memórias-editadas)              |    1     | Você perdeu algumas memórias, deliberadamente ou não.                                            |
-| [Nenhum Seguro de Backup](#nenhum-seguro-de-backup)    |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
 | [Paralisia de Combate](#paralisia-de-combate)          |    4     | Prova de VON para agir em cada turno de ação do combate.                                         |
 | [Rep Bloqueada](#rep-bloqueada)                  |   1/4    | Não pode ter nível de rep em uma rede de rep (maior valor para a rede de rep da própria facção). |
+| [Sem Seguro de Backup](#sem-seguro-de-backup)       |    2     | Ao morrer, a reinstanciação e os PM ficam a critério do MJ.                                      |
 | [Sensitividade](#sensitividade)                        |   1/2    | −10 por nível em Provas de INT para resistir a hacks basiliscos.                                 |
 | [Timidez](#timidez)                               |  1/2/3   | −5 por nível em Provas de VON.                                                                   |
 | [Transtorno Mental](#transtorno-mental)              |    2     | Escolha um [transtorno](../12/20-disorders.md).                                                  |
@@ -649,12 +649,6 @@ Este morfo é bastante diferente fisiologicamente (e possivelmente neurologicame
 
 Esse traço só está disponível para biomorfos. Este morfo sofre de enjoo espacial e não se dá bem em gravidade zero. Aplique um modificador de debilitação −10 em qualquer ambiente de microgravidade. Além disso, quando se aclimatar pela primeira vez ou suportar movimentos excessivos em microgravidade, você deve fazer uma Prova de SOM ou passar 1 hora incapacitado com náuseas.
 
-### Nenhum Seguro de Backup
-
-**Traço de ▲ Ego • Bônus PP: 2**
-
-Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem qualquer tipo de seguro de backup ou arranjo similar. Se você morrer, a recuperação da sua pilha e a reinstanciação do seu ego dependem inteiramente das circunstâncias e do MJ. Você pode ser trazido de volta com bem menos PM ou ficar permanentemente morto.
-
 ### Obsolescência Programada
 
 **Traço de ▼ Morfo • Bônus PM: 1**
@@ -686,6 +680,12 @@ Trabalhe com seu MJ para decidir as particularidades das memórias. Os MJs devem
 **Traço de ▼ Morfo • Bônus PM: 1/2**
 
 Seu morfo é vulnerável à infecção exsurgente. Aplique um modificador −10 por nível em Provas de SOM feitas para resistir à infecção de vírus exsurgentes biológicos. Esse traço só está disponível para biomorfos.
+
+### Sem Seguro de Backup
+
+**Traço de ▲ Ego • Bônus PP: 2**
+
+Você é pobre, bioconservador, ou gosta de viver perigosamente. Você não tem qualquer tipo de seguro de backup ou arranjo similar. Se você morrer, a recuperação da sua pilha e a reinstanciação do seu ego dependem inteiramente das circunstâncias e do MJ. Você pode ser trazido de volta com bem menos PM ou ficar permanentemente morto.
 
 ### Sensitividade
 
@@ -764,4 +764,3 @@ Se você fizer upload, forquear ou reencapar, quaisquer vícios mentais permanec
 Os truques psi são bastante eficazes contra sua estrutura cerebral. Aplique um modificador −10 por nível quando resistir a psi. O traço de morfo só pode ser escolhido por morfos com cérebros biológicos.
 
 <!--sort-end-->
-

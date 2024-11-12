@@ -38,7 +38,7 @@ Trate a encarnação da mesma forma como se tivesse encapado o drone; use as par
 Estes bots são úteis para aplicações de segurança, defesa e combate.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS DE COMBATE<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS DE COMBATE<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -89,11 +89,11 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 
 **Anjo da Guarda:** Similares a mosquitos, os anjos da guarda são drones maiores com rotores e usados para fins defensivos. Eles pairam ao redor dos seus encargos, mantendo um olhar atento para protegê-los de ameaças.
 
-**Drone Escudo:** Esses drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VA +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).
+**Drone Escudo:** Esses drones de esteira funcionam essencialmente como grande escudos balísticos e cobertura móvel para equipes de operações especiais. Eles fornecem VB +6/+12 para qualquer um usando-os como cobertura. O bot em si é pouco mais do que uma plataforma (trate como tamanho pequeno se alvejado diretamente).
 
 **Parisfera:** Tendo o nome do herói troiano Páris, que matou Aquiles com uma flecha, essa espaçonave tipo orbe não é muito mais do que uma cápsula de armas construída ao redor de um foguete. Sem ter um piloto, esses drones de combate podem realizar manobras de alto-g.
 
-**Sentinela:** Muitas variedades de bots sentinelas existem, mas modelos comuns manobram usando quatro esteiras inteligentes multidirecionais. Usados em todo Sistema Solar para fins de policiamento e segurança, eles estão repletos de armaduras e armas.
+**Sentinela:** Muitas variedades de bots sentinelas existem, mas modelos comuns manobram usando quatro esteiras inteligentes multidirecionais. Usados em todo Sistema Solar para fins de policiamento e segurança, eles estão repletos de blindagens e armas.
 
 <!--sort-end-->
 
@@ -102,7 +102,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 Projetados para desbravamento, esses bots também são úteis em outras funções.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS DE EXPLORAÇÃO<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS DE EXPLORAÇÃO<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -143,7 +143,7 @@ Projetados para desbravamento, esses bots também são úteis em outras funçõe
 Os circuitos fechados de vigilância continuam sendo um dos usos principais dos robôs.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS DE RECONHECIMENTO/<wbr>VIGILÂNCIA<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS DE RECONHECIMENTO/<wbr>VIGILÂNCIA<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -220,7 +220,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 Estes bots são verdadeiros salva-vidas.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS MÉDICOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS MÉDICOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -261,7 +261,7 @@ Estes bots são verdadeiros salva-vidas.
 Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habitats transumanos.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS PESSOAIS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS PESSOAIS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -325,7 +325,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 Estes bots ajudam a fazer as coisas.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>ROBÔS UTILITÁRIOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
+<thead><tr><th>ROBÔS UTILITÁRIOS<th>Comp/<wbr>PE<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Tam</tr></thead>
 
 <!--sort-->
 

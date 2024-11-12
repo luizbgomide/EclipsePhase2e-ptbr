@@ -48,7 +48,7 @@ Aparelhagem lida com o design, construção, reparo e alteração de diferentes 
 
 Use Aparelhagem para consertar um sistema de suporte vital, melhorar um robô, hackear uma fechadura eletrônica, ou montar um veículo funcional usando peças sobressalentes. A maioria dos Testes de Aparelhagem são ações de tarefa.
 
-- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (armaduras e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutica (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
+- **Exemplos de Áreas:** Aeroespacial (aeronaves e espaçonaves), Armamentos (blindagens e armas), Demolições (explosivos), Eletrônica, Industrial (fábricas, habitats e sistemas de suporte vital), Náutica (embarcações e submarinos), Robótica (bots e sintemorfos), Veículos Terrestres
 - **Especializações:** Conforme apropriado para a área
 
 </div>

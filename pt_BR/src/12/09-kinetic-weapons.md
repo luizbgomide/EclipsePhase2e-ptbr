@@ -1,21 +1,21 @@
 # Armas Cinéticas
 
-Armas cinéticas disparam projéteis sólidos em altas velocidades para causar dano ao alvo. Há duas categorias de disparadores de balas, baseadas no mecanismo de disparo: _armas de fogo_ químicas e _railguns_. A maior penetração e dano das railguns, são compensadas pela necessidade de baterias e opções mais limitadas de munição. A maioria das armas de fogo são equipadas com balas inteligentes programáveis e possuem várias outras opções de munições. Devido a sua letalidade e versatilidade, elas continuam a ser amplamente utilizadas. Tanto armas de fogo quanto railguns funcionam no vácuo. Elas são usadas com a perícia Tiro e resistidas por armaduras cinéticas.
+Armas cinéticas disparam projéteis sólidos em altas velocidades para causar dano ao alvo. Há duas categorias de disparadores de balas, baseadas no mecanismo de disparo: _armas de fogo_ químicas e _railguns_. A maior penetração e dano das railguns, são compensadas pela necessidade de baterias e opções mais limitadas de munição. A maioria das armas de fogo são equipadas com balas inteligentes programáveis e possuem várias outras opções de munições. Devido a sua letalidade e versatilidade, elas continuam a ser amplamente utilizadas. Tanto armas de fogo quanto railguns funcionam no vácuo. Elas são usadas com a perícia Tiro e resistidas por blindagens cinéticas.
 
-| ARMAS CINÉTICAS      | Valor de Dano \[Média\] | Modos de Disparo |    Munição     |    Alcance     | Comp/<wbr>PE | Notas                         |
-|:-------------------- |:-------------------------:|:----------------:|:--------------:|:--------------:|:-------------------------------------:|:----------------------------- |
-| Pistola de Bolso     |    1d10 + 1d6 \[9\]     |      SA/DR       |     9 + 1      |       25       |                Men/R/1                | Ocultável                     |
-| Pistola Média        |       2d10 \[11\]       |     SA/DR/TA     |     15 + 1     |       30       |                Men/R/1                |                               |
-| Pistola Pesada       |     2d10 + 2 \[13\]     |     SA/DR/TA     |     9 + 1      |       35       |                Men/R/1                |                               |
-| Pistola-Metralhadora |    1d10 + 1d6 \[9\]     |     SA/DR/TA     |     30 + 1     |       25       |                Men/R/1                |                               |
-| Submetralhadora      |       2d10 \[11\]       |     SA/DR/TA     |     30 + 1     |       50       |                Mod/R/2                | Duas Mãos                     |
-| Fuzil de Assalto     |     2d10 + 2 \[13\]     |     SA/DR/TA     |     45 + 1     |      100       |                Mod/R/2                | Duas Mãos, Longa              |
-| Fuzil de Batalha     |     2d10 + 4 \[15\]     |     SA/DR/TA     |     30 + 1     |      200       |                Mod/R/2                | Duas Mãos, Longa              |
-| Metralhadora         |     3d10 + 2 \[19\]     |      DR/TA       |     50 + 1     |      500       |                Mai/R/3                | Fixa, Longa                   |
-| Fuzil de Precisão    |    3d10 + 10 \[27\]     |        SA        |     9 + 1      |      500       |                Mai/R/3                | Fixa, Longa                   |
-| Pistola Polygun      |       Igual Pistola       |  Igual Pistola   | Igual Pistola  | Igual Pistola  |                Mod/R/2                | Igual Pistola                 |
-| Fuzil Polygun        |      Igual Fuzil/SM       |  Igual Fuzil/SM  | Igual Fuzil/SM | Igual Fuzil/SM |                Mai/R/3                | Igual Fuzil/SM                |
-| Railguns             |        Igual Acima        |   Igual Acima    |       x2       |      x1,5      |              Igual Acima              | Igual Acima, Perfura-Armadura |
+| ARMAS CINÉTICAS      | Valor de Dano \[Média\] | Modos de Disparo |    Munição     |    Alcance     | Comp/<wbr>PE | Notas                      |
+|:-------------------- |:-------------------------:|:----------------:|:--------------:|:--------------:|:-------------------------------------:|:-------------------------- |
+| Pistola de Bolso     |    1d10 + 1d6 \[9\]     |      SA/DR       |     9 + 1      |       25       |                Men/R/1                | Ocultável                  |
+| Pistola Média        |       2d10 \[11\]       |     SA/DR/TA     |     15 + 1     |       30       |                Men/R/1                |                            |
+| Pistola Pesada       |     2d10 + 2 \[13\]     |     SA/DR/TA     |     9 + 1      |       35       |                Men/R/1                |                            |
+| Pistola-Metralhadora |    1d10 + 1d6 \[9\]     |     SA/DR/TA     |     30 + 1     |       25       |                Men/R/1                |                            |
+| Submetralhadora      |       2d10 \[11\]       |     SA/DR/TA     |     30 + 1     |       50       |                Mod/R/2                | Duas Mãos                  |
+| Fuzil de Assalto     |     2d10 + 2 \[13\]     |     SA/DR/TA     |     45 + 1     |      100       |                Mod/R/2                | Duas Mãos, Longa           |
+| Fuzil de Batalha     |     2d10 + 4 \[15\]     |     SA/DR/TA     |     30 + 1     |      200       |                Mod/R/2                | Duas Mãos, Longa           |
+| Metralhadora         |     3d10 + 2 \[19\]     |      DR/TA       |     50 + 1     |      500       |                Mai/R/3                | Fixa, Longa                |
+| Fuzil de Precisão    |    3d10 + 10 \[27\]     |        SA        |     9 + 1      |      500       |                Mai/R/3                | Fixa, Longa                |
+| Pistola Polygun      |       Igual Pistola       |  Igual Pistola   | Igual Pistola  | Igual Pistola  |                Mod/R/2                | Igual Pistola              |
+| Fuzil Polygun        |      Igual Fuzil/SM       |  Igual Fuzil/SM  | Igual Fuzil/SM | Igual Fuzil/SM |                Mai/R/3                | Igual Fuzil/SM             |
+| Railguns             |        Igual Acima        |   Igual Acima    |       x2       |      x1,5      |              Igual Acima              | Igual Acima, Antiblindagem |
 
 ## Armas de Fogo
 
@@ -45,30 +45,30 @@ As railguns estão disponíveis nos mesmo modelos que as armas de fogo. Elas sã
 
 ## Munições Cinéticas
 
-A munição é definida por seus vários tipos (padrão, perfurante, cápsula, etc.) e pela classe da arma (pistola de bolso, pistola pesada, SM, etc.). Para simplificar, cada arma pode usar munições de outra arma da mesma classe, embora a munição de armas de fogo e de railguns não sejam compatíveis. Por exemplo, todas as SMs railgun podem compartilhar munição. Devido a alta velocidade que as railguns atiram, elas só podem usar munição de railgun; as armas de fogo têm mais opções.
+A munição é definida por seus vários tipos (padrão, antiblindagem, cápsula, etc.) e pela classe da arma (pistola de bolso, pistola pesada, SM, etc.). Para simplificar, cada arma pode usar munições de outra arma da mesma classe, embora a munição de armas de fogo e de railguns não sejam compatíveis. Por exemplo, todas as SMs railgun podem compartilhar munição. Devido a alta velocidade que as railguns atiram, elas só podem usar munição de railgun; as armas de fogo têm mais opções.
 
 O modificador do Valor de Dano da munição é adicionado ao VD base da arma.
 
 <!--sort-->
 
-| MUNIÇÕES CINÉTICAS | Modificador do Valor de Dano | Comp/<wbr>PE (por 100) | Notas                             |
-|:------------------ |:----------------------------:|:-----------------------------------------------:|:--------------------------------- |
-| Aspersora          |           Sem dano           |                      Men/1                      |                                   |
-| Bloqueadora        |           Sem dano           |                      Men/1                      |                                   |
-| Cápsula            |              ÷2              |                      Men/1                      |                                   |
-| Chocante           |              ÷2              |                      Men/1                      | Choque                            |
-| Grampeada          |              —               |                     Men/R/1                     |                                   |
-| Guiada             |              —               |                     Mod/R/2                     | Tiro indireto ou +10 para acertar |
-| Inteligente        |         Igual o tipo         |                     Mod/R/2                     |                                   |
-| Mordente           |             +1d6             |                     Mod/R/2                     |                                   |
-| Padrão             |              —               |                     Men/R/1                     |                                   |
-| PAR                |              —               |                     Mod/R/2                     | Perfura-Armadura                  |
-| Perfura-Armadura   |            −1d10             |                     Men/R/1                     | Perfura-Armadura                  |
-| Plástica           |              ÷2              |                      Men/1                      | Atordoante (apenas biomorfos)     |
-| Ponta Oca          |             +1d6             |                     Men/R/1                     | VD extra apenas vs. biomorfos     |
-| Proximidade        |             +1d6             |                     Mod/R/2                     | VD 1d10 na falha                  |
-| Railgun            |              —               |                     Men/R/1                     |                                   |
-| Tirocerto          |              —               |                     Men/R/1                     | Estável                           |
+| MUNIÇÕES CINÉTICAS    | Modificador do Valor de Dano | Comp/<wbr>PE (por 100) | Notas                             |
+|:--------------------- |:----------------------------:|:-----------------------------------------------:|:--------------------------------- |
+| Antiblindagem         |            −1d10             |                     Men/R/1                     | Antiblindagem                     |
+| Antiblindagem Reativa |              —               |                     Mod/R/2                     | Antiblindagem                     |
+| Aspersora             |           Sem dano           |                      Men/1                      |                                   |
+| Bloqueadora           |           Sem dano           |                      Men/1                      |                                   |
+| Cápsula               |              ÷2              |                      Men/1                      |                                   |
+| Chocante              |              ÷2              |                      Men/1                      | Choque                            |
+| Grampeada             |              —               |                     Men/R/1                     |                                   |
+| Guiada                |              —               |                     Mod/R/2                     | Tiro indireto ou +10 para acertar |
+| Inteligente           |         Igual o tipo         |                     Mod/R/2                     |                                   |
+| Mordente              |             +1d6             |                     Mod/R/2                     |                                   |
+| Padrão                |              —               |                     Men/R/1                     |                                   |
+| Plástica              |              ÷2              |                      Men/1                      | Atordoante (apenas biomorfos)     |
+| Ponta Oca             |             +1d6             |                     Men/R/1                     | VD extra apenas vs. biomorfos     |
+| Proximidade           |             +1d6             |                     Mod/R/2                     | VD 1d10 na falha                  |
+| Railgun               |              —               |                     Men/R/1                     |                                   |
+| Tirocerto             |              —               |                     Men/R/1                     | Estável                           |
 
 ### Munições Inteligentes
 
@@ -79,6 +79,10 @@ A munição inteligente de armas de fogo é feita de materiais programáveis. Al
 Estas munições só podem ser usadas com armas de fogo, e não com railguns. Elas são adquiridas em lotes de 100 cartuchos e devem ser registradas separadamente.
 
 <!--sort-->
+
+**Antiblindagem:** Essa munição de carboneto de tungstênio penetra eficientemente em blindagens.
+
+**Antiblindagem Reativa (ABR):** Esse é um cartucho antiblindagem de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
 
 **Aspersora:** Cartuchos aspersores contêm uma carga (adquirida separadamente) como uma munição cápsula, mas são projetados para estourar no impacto em vez de penetrar, espirrando o seu conteúdo no exterior do alvo. Cartuchos aspersores normalmente são carregados com tinta, nanobots marcadores, corante rastreador ou substâncias similares.
 
@@ -96,10 +100,6 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 
 **Padrão:** Esse projétil básico de metal é projetado para colocar furos em morfos ou outros objetos.
 
-**Perfura-Armadura:** Essa munição de carboneto de tungstênio penetra eficientemente em armaduras.
-
-**Perfura-Armadura Reativa (PAR):** Esse é um cartucho perfurante de armadura de carboneto de tungstênio com um revestimento reativo que superaquece e explode no impacto.
-
 **Plástica:** Munição plástica é projetada para doer sem ferir os alvos, e é bastante usada para fins de controle de multidão.
 
 **Ponta Oca:** Balas ponta oca se deformam, alargam e fragmentam depois de penetrar o alvo, causando mais dano em alvos macios como biomorfos. Elas não causam dano adicional em sintemorfos ou objetos.
@@ -109,4 +109,3 @@ Estas munições só podem ser usadas com armas de fogo, e não com railguns. El
 **Tirocerto:** Balas tirocerto mudam de formato durante o voo para se manterem fixas no curso, contrariando os efeitos de vento, arrasto e gravidade sobre a distância. Ataques feitos com Tirocerto ignoram todos os modificadores de alcance.
 
 <!--sort-end-->
-

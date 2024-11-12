@@ -165,4 +165,3 @@ Serpentoides e carcaças similares usam ondulação lateral, flexionando seu cor
 Projetado para mobilidade subaquática, carcaças submersas usam hélices ou jatos para se impulsionar pela água.
 
 <!--sort-end-->
-

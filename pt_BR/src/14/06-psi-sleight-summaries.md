@@ -25,9 +25,9 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | Truque                                            | Descrição                                                                            |
 |:------------------------------------------------- |:------------------------------------------------------------------------------------ |
 | [Alto Limiar à Dor](#alto-limiar-à-dor)         | Ignorar modificadores de 1 ferimento.                                                |
-| [Armadura Psi](#armadura-psi)                        | Armadura mental igual a VON ÷ 3.                                                     |
 | [Astúcia Social](#astúcia-social)                 | Mais manipulativo. +10 em Testes de Persuasão e Provocação.                          |
 | [Autocontrole](#autocontrole)                     | +10 em Provas de VON.                                                                |
+| [Blindagem Psi](#blindagem-psi)                       | Blindagem mental igual a VON ÷ 3.                                                    |
 | [Cálculo Savant](#cálculo-savant)             | Pode usar Prova de COG para responder questões matemáticas complexas.                |
 | [Carisma](#carisma)                              | Diminui as inibições, aumenta o charme. +1 na parada de Manha.                       |
 | [Centelha Interior](#centelha-interior)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
@@ -53,10 +53,6 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 
 Você pode bloquear, ignorar, ou de outra forma isolar a dor. Ignore os modificadores de um único ferimento (isso é cumulativo com outros efeitos, até um máximo de três efeitos de ferimento).
 
-### Armadura Psi
-
-As defesas da sua mente são consolidadas. Você ganha armadura mental igual a sua VON ÷ 3 contra ataques psi.
-
 ### Astúcia Social
 
 Sua inteligência emocional é afiada e focada, tornando-o mais manipulador e aproveitador de fraquezas. +10 em Testes de Persuasão e Provocação.
@@ -64,6 +60,10 @@ Sua inteligência emocional é afiada e focada, tornando-o mais manipulador e ap
 ### Autocontrole
 
 Sua vontade é resistente e inabalável. +10 em Provas de VON.
+
+### Blindagem Psi
+
+As defesas da sua mente são consolidadas. Você ganha blindagem mental igual a sua VON ÷ 3 contra ataques psi.
 
 ### Cálculo Savant
 
@@ -158,7 +158,7 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Curto-Circuito](#curto-circuito)               | Complexa |  Instantânea   |        6        | Sinapses do alvo falham, ele fica incapacitado por 1 turno de ação e atordoado por 3 minutos.                                                                     |
 | [Déjà-Vu](#déjà-vu)                            | Complexa |    Minutos     |        8        | Alvo é forçado a repetir suas ações dos últimos 15–30 segundos.                                                                                                   |
 | [Dor](#dor)                                   | Complexa |  Instantânea   |        6        | Alvo é infligido com dor (como um agonizador), deve fugir com movimento total em sua próxima ação.                                                                |
-| [Escudo Psi](#escudo-psi)                      | Complexa |   Sustentada   |        4        | Armadura mental aumentada em +1d6 (cumulativo com o truque Armadura Psi).                                                                                         |
+| [Escudo Psi](#escudo-psi)                      | Complexa |   Sustentada   |        4        | Blindagem mental aumentada em +1d6 (cumulativo com o truque Blindagem Psi).                                                                                       |
 | [Estática](#estática)                            | Complexa |   Sustentada   |        4        | −30 em todos os truques dentro do alcance Perto.                                                                                                                  |
 | [Explosão de Adrenalina](#explosão-de-adrenalina) | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Vigor.                                                                                                                                |
 | [Explosão de Clareza](#explosão-de-clareza)       | Complexa |    Minutos     |        6        | Alvo recebe +1 na parada de Inspiração.                                                                                                                           |
@@ -175,8 +175,8 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Memória Nebulosa](#memória-nebulosa)              | Complexa |    Minutos     |        6        | Alvo não retém memórias de longo prazo.                                                                                                                           |
 | [Mente Infecciosa](#mente-infecciosa)           | Complexa |   Sustentada   |        4        | Compartilhe um transtorno desencadeado ou efeito de influência com o alvo.                                                                                        |
 | [Olhar do Basilisco](#olhar-do-basilisco)          |  Tarefa  |   Sustentada   |        6        | Alvo não pode romper contato visual com o assincro, ambos estão imobilizados.                                                                                     |
-| [Pesadelo](#pesadelo)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
-| [Punhalada Psíquica](#punhalada-psíquica)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
+| [Pesadelo](#pesadelo)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela blindagem mental.                                                                                      |
+| [Punhalada Psíquica](#punhalada-psíquica)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela blindagem mental.                                                                                      |
 | [Revigoração](#revigoração)                     | Complexa |  Instantânea   |        4        | Alvo pode usar a sua próxima ação complexa como uma recarga curta.                                                                                                |
 | [Senso de Infecção](#senso-de-infecção)          | Complexa |  Instantânea   |        2        | Detecta a infecção exsurgente em vida biológica.                                                                                                                  |
 | [Sentido de Ego](#sentido-de-ego)                   | Complexa | Turnos de Ação |        2        | Detecta vida biológica; informações extras sobre distância, tamanho, tipo, etc. com sucessos maiores.                                                             |
@@ -249,7 +249,7 @@ Você ativa os agrupamentos e terminações nervosas do alvo, infligindo uma sen
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 2
 
-Você mobiliza as defesas da mente contra ataques psíquicos. Aumente a armadura mental em 1d6, +1d6 por sucesso maior.
+Você mobiliza as defesas da mente contra ataques psíquicos. Aumente a blindagem mental em 1d6, +1d6 por sucesso maior.
 
 ### Estática
 
@@ -355,13 +355,13 @@ Você pode não afetar alvos extras com esse truque, a menos que você tenha mai
 
 **Ação:** Complexa • **Duração:** Instantânea • **Mod de Infecção:** 6
 
-Você bombardeia o alvo com imagens e sensações horríveis, corroendo a estabilidade mental dele. Você inflige 2d10&nbsp;VE ao alvo, +1d6 por sucesso maior. Isso é reduzido pela armadura mental.
+Você bombardeia o alvo com imagens e sensações horríveis, corroendo a estabilidade mental dele. Você inflige 2d10&nbsp;VE ao alvo, +1d6 por sucesso maior. Isso é reduzido pela blindagem mental.
 
 ### Punhalada Psíquica
 
 **Ação:** Complexa • **Duração:** Instantânea • **Mod de Infecção:** 6
 
-Você provoca perigosos impulsos neuroquímicos e bioretroalimentação no cérebro e sistema nervoso do alvo. Você inflige 2d10&nbsp;VD, +1d6 por sucesso maior, reduzido pela armadura mental.
+Você provoca perigosos impulsos neuroquímicos e bioretroalimentação no cérebro e sistema nervoso do alvo. Você inflige 2d10&nbsp;VD, +1d6 por sucesso maior, reduzido pela blindagem mental.
 
 ### Revigoração
 
@@ -418,4 +418,3 @@ A Varredura Profunda é uma versão invasiva do [Vislumbre de Pensamentos](#visl
 Você escaneia os pensamentos superficiais do alvo, obtendo um sentido geral do que está se passando na mente dele. Os sucessos maiores fornecem mais detalhes. Isso não é uma exploração invasiva na mente do alvo por informações específicas como a [Varredura Profunda](#varredura-profunda); em vez disso, você apenas sabe o que o alvo está pensando no momento.
 
 <!--sort-end-->
-

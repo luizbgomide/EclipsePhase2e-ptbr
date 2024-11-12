@@ -4,7 +4,8 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 
 <!--sort-->
 
-- **Atordoante:** Alvos devem fazer uma Prova de SOM ou ficarem [atordoados](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Aplique a armadura cinética como um modificador positivo. Alvos grandes recebem um modificador +30 alvos pequenos recebem −30. Com uma falha crítica, eles estão incapacitados por 1 turno de ação e atordoados por 1 minuto.
+- **Antiblindagem:** Essa arma penetra em blindagens. O ataque inflige −1d10&nbsp;VD, mas a blindagem é reduzida à metade. Armas e tipos de munições listados como antiblindagem já incorporam o modificador de VD. Efeitos antiblindagem adicionais são ignorados.
+- **Atordoante:** Alvos devem fazer uma Prova de SOM ou ficarem [atordoados](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Aplique a blindagem cinética como um modificador positivo. Alvos grandes recebem um modificador +30 alvos pequenos recebem −30. Com uma falha crítica, eles estão incapacitados por 1 turno de ação e atordoados por 1 minuto.
 - **Capturante:** Alvos atingidos por essa arma devem fazer uma Prova de REF ou ficarem [agarrados](02-melee-combat.md#agarramentos). Os sucessos maiores do atacante aplicam um −10 cumulativo nessa Prova de REF e nas Provas de SOM para se libertar.
 - **Cegante:** Alvos devem fazer uma Prova de REF ou ficarem [cegados](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente até que seja reparado ou que passe algum tempo em um tanque de cura. Ware antirreflexo protege contra efeitos cegantes baseados em luz.
 - **Choque:** Essa arma provoca um [efeito de choque](15-special-attacks.md#ataques-de-choque).
@@ -18,7 +19,6 @@ Algumas armas e equipamentos listam traços específicos que indicam efeitos esp
 - **Não Perto:** Essa arma não pode ser disparada em alcance à Queima-Roupa ou Perto. Armas de buscadores tem recursos de segurança incorporados que impedem que eles sejam disparados em alcances que possam ferir o usuário. Anular esses recursos requer um Teste de Aparelhagem ou Infoseg.
 - **Não Queima-Roupa:** Essa arma não pode ser disparada em alcance à Queima-Roupa.
 - **Ocultável:** Esse item é facilmente escondido. Você recebe +30 em Testes de Infiltração para esconder esse item em seu corpo (ou em outro lugar).
-- **Perfura-Armadura:** Essa arma penetra em armaduras. O ataque inflige −1d10&nbsp;VD, mas a armadura é reduzida à metade. Armas e tipos de munição listados como perfura-armadura já incorporam o modificador de VD. Efeitos perfurantes de armadura adicionais são ignorados.
 - **Sem Ligação Inteligente:** Essa arma não está equipada com a assistência de mira por ligação inteligente. −10 em testes de ataque.
 - **Toque Simples:** Esse ataque de luta exige apenas um toque. +20 para acertar, mas nenhum VD é causado ([Ataques de Toque Simples](02-melee-combat.md#ataques-de-toque-simples)).
 - **Uso Único:** Esse item só pode ser usado uma vez.

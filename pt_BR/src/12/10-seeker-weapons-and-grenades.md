@@ -33,30 +33,30 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 <!--sort-->
 
-| TIPO DE BUSCADOR/<wbr>GRANADA | Tipo de Área de Efeito (Raio) |     Valor de Dano \[Média\]      | Armadura Utilizada | Comp/<wbr>PE (por 5) | Notas                       |
-|:------------------------------------------------------ |:-----------------------------:|:----------------------------------:|:------------------:|:---------------------------------------------:|:--------------------------- |
-| AEPA                                                   |               —               |         3d10 + 12 \[29\]         |         C          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
-| Aspersor                                               |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                  Igual Carga                  |                             |
-| Atordoante                                             |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |         C          |                     Mod/2                     | Cegante, Choque, Derrubada  |
-| <!--sort-union--><p class="indent">» Sobrecarga</p>   |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                                               | Cegante, Dor                |
-| Explosão de Plasma                                     |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                    Mai/R/3                    | Perfura-Armadura            |
-| Gás/Fumaça                                             |     Uniforme (20&nbsp;m)      |                 —                  |         —          |                     Men/1                     |                             |
-| Ofuscante                                              |     Uniforme (50&nbsp;m)      |                 —                  |         —          |                    Mod/R/2                    | Cegante                     |
-| PEM                                                    |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |         —          |                    Mai/R/3                    | Desativa rádios             |
-| Tático Multifuncional (TMF)                            |                               |                                    |                    |                    Mod/R/2                    |                             |
-| <!--sort-union--><p class="indent">» Fragmentação</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |         C          |                                               | Derrubada (raio 5 metros)   |
-| <!--sort-union--><p class="indent">» Alto-Explosivo</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                                               | Derrubada (raio 10 metros)  |
-| Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |         E          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
+| TIPO DE BUSCADOR/<wbr>GRANADA | Tipo de Área de Efeito (Raio) |     Valor de Dano \[Média\]      | Blindagem Utilizada | Comp/<wbr>PE (por 5) | Notas                      |
+|:------------------------------------------------------ |:-----------------------------:|:----------------------------------:|:-------------------:|:---------------------------------------------:|:-------------------------- |
+| Antiblindagem de Alto-Explosivo                        |               —               |         3d10 + 12 \[29\]         |          C          |                    Mai/R/3                    | Antiblindagem, Derrubada   |
+| Aspersor                                               |     Uniforme (10&nbsp;m)      |                 —                  |          —          |                  Igual Carga                  |                            |
+| Atordoante                                             |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |          C          |                     Mod/2                     | Cegante, Choque, Derrubada |
+| <!--sort-union--><p class="indent">» Sobrecarga</p>   |     Uniforme (10&nbsp;m)      |                 —                  |          —          |                                               | Cegante, Dor               |
+| Explosão de Plasma                                     |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |          E          |                    Mai/R/3                    | Antiblindagem              |
+| Gás/Fumaça                                             |     Uniforme (20&nbsp;m)      |                 —                  |          —          |                     Men/1                     |                            |
+| Ofuscante                                              |     Uniforme (50&nbsp;m)      |                 —                  |          —          |                    Mod/R/2                    | Cegante                    |
+| PEM                                                    |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |          —          |                    Mai/R/3                    | Desativa rádios            |
+| Tático Multifuncional                                  |                               |                                    |                     |                    Mod/R/2                    |                            |
+| <!--sort-union--><p class="indent">» Fragmentação</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |          C          |                                               | Derrubada (raio 5 metros)  |
+| <!--sort-union--><p class="indent">» Alto-Explosivo</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |          E          |                                               | Derrubada (raio 10 metros) |
+| Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |          E          |                    Mai/R/3                    | Antiblindagem, Derrubada   |
 
-| TAMANHO        | Tipo de Área de Efeito (Raio) | Valor de Dano \[Média\] | Armadura Utilizada | Comp/<wbr>PE | Notas       |
-|:-------------- |:-----------------------------:|:-------------------------:|:------------------:|:-------------------------------------:|:----------- |
-| Granada Padrão |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |    Igual Acima     |                 Por 3                 | Igual Acima |
-| Minimíssil     |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |    Igual Acima     |                 Por 3                 | Igual Acima |
-| Míssil Padrão  |         x2 (Uniforme)         |       x2 (Centrado)       |    Igual Acima     |                 Por 1                 | Igual Acima |
+| TAMANHO        | Tipo de Área de Efeito (Raio) | Valor de Dano \[Média\] | Blindagem Utilizada | Comp/<wbr>PE | Notas       |
+|:-------------- |:-----------------------------:|:-------------------------:|:-------------------:|:-------------------------------------:|:----------- |
+| Granada Padrão |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |     Igual Acima     |                 Por 3                 | Igual Acima |
+| Minimíssil     |         x2 (Uniforme)         | +1d10 \[+5\] (Centrado) |     Igual Acima     |                 Por 3                 | Igual Acima |
+| Míssil Padrão  |         x2 (Uniforme)         |       x2 (Centrado)       |     Igual Acima     |                 Por 1                 | Igual Acima |
 
 <!--sort-->
 
-**Alto-Explosivo Perfurante de Armadura (AEPA)** Um projeto disponível apenas para buscadores (não granadas), as ogivas AEPA usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos AEPA não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
+**Antiblindagem de Alto-Explosivo (ABAE)** Um projeto disponível apenas para buscadores (não granadas), as ogivas ABAE usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos ABAE não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
 
 **Aspersor:** Dispositivos aspersores espalham a substância contida (uma droga, químico, nanoenxame, tinta, etc.) por um raio de explosão de 10 metros quando eles detonam. Cada um contém 5 doses de uma toxina/droga (alvos são afetados por 1 dose) ou 1 nanoenxame.
 
@@ -66,7 +66,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **Gás/Fumaça:** Munições de gás/fumaça lançam rapidamente uma nuvem densa com raio de 10 metros. A fumaça impede a visão (−20) com emissões densas de uma cor escolhida, e é aquecida para ocultar as assinaturas de calor em movimento pela fumaça como uma cobertura. Nuvens de fumaça duram 3 minutos, mas elas podem se mover ou dissipar mais rapidamente dependendo das condições ambientais (vento, chuva, etc.). Munições de gás aplicam uma dose a qualquer um dentro da nuvem, mas elas se dissipam depois de 3 turnos de ação.
 
-**Ofuscante:** Ofuscantes são dispositivos de laser giratórios, projetados para cegar alvos e atrapalhar a vigilância. Qualquer um com linha de visão no raio de efeito (50 metros) que não esteja equipado com mods antirreflexos, deve ter sucesso em uma Prova de REF ou ficar [cegado](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente (até ser reparado/curado). Qualquer câmera visual/infravermelho fica sobrecarregada pela duração do ofuscante. A não ser que tenha uma desativação programada, os ofuscantes continuam cegando por 1 hora ou até que sejam desligados remotamente ou destruídos fisicamente (DUR 10, VA 5/10).
+**Ofuscante:** Ofuscantes são dispositivos de laser giratórios, projetados para cegar alvos e atrapalhar a vigilância. Qualquer um com linha de visão no raio de efeito (50 metros) que não esteja equipado com mods antirreflexos, deve ter sucesso em uma Prova de REF ou ficar [cegado](21-other-action-factors.md#condições) por 1 turno de ação, +1 por falha maior. Uma falha crítica resulta em cegueira permanente (até ser reparado/curado). Qualquer câmera visual/infravermelho fica sobrecarregada pela duração do ofuscante. A não ser que tenha uma desativação programada, os ofuscantes continuam cegando por 1 hora ou até que sejam desligados remotamente ou destruídos fisicamente (DUR 10, VB 5/10).
 
 **PEM:** Munições PEM produzem um forte pulso eletromagnético quando elas são “detonadas”. Como a maioria dos eletrônicos em Eclipse Phase são construídos com tecnologia óptica, e fontes de energia e microcircuitos sensíveis são blindados e protegidos contra surtos, isso não tem muito efeito danoso. No entanto, antenas são vulneráveis, especialmente fios finos como aqueles usados com insertos da mesh, assim como nanobots e microbots. Cada rádio dentro do raio de explosão (50 metros) é desativado até que seja reparado com um Teste de Aparelhagem ou Medicina: Biotecnologia apropriado, ou um nanoenxame reparador. Cada nanoenxame dentro do alcance sofre VD 3d10 e −10 em ações até que sejam reparados.
 
@@ -114,7 +114,6 @@ Granadas modernas, buscadores e explosivos similares não detonam necessariament
 
 ### Saltando em Granadas
 
-Você pode se sacrificar pela equipe e se jogar em cima de uma granada para proteger os outros. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF para cair na granada e cobri-la com seu morfo. Você sofre um VD 1d10 extra quando a granada detona, mas o dano da granada é reduzido por seu Valor de Armadura + 10 quando aplicado aos outros dentro do raio de explosão.
+Você pode se sacrificar pela equipe e se jogar em cima de uma granada para proteger os outros. Você deve estar ao alcance de movimento da localização da granada, fazer uma ação complexa e ter sucesso em uma Prova de REF para cair na granada e cobri-la com seu morfo. Você sofre um VD 1d10 extra quando a granada detona, mas o dano da granada é reduzido por seu Valor de Blindagem + 10 quando aplicado aos outros dentro do raio de explosão.
 
 <!--sort-end-->
-

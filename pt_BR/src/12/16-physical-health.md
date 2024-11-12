@@ -10,7 +10,7 @@ Pontos de dano são reduzidos com descanso, cuidados médicos, e/ou reparo ([Cur
 
 ### Valor de Dano
 
-Armas e outros ataques infligem um número de pontos de dado igual ao seu Valor de Dano (VD). A maioria do VDs são apresentados como uma quantia variável, na forma de uma rolagem de dado; por exemplo: 3d10. Nesse caso, você rola três dados de dez lados e soma os resultados (contando 0 como 10). Às vezes o VD será apresentado como uma rolagem de dados mais um modificador; por exemplo: 2d10 + 5. Nesse caso, você rola dois dados de dez lados e soma os dois, e então adiciona 5 para obter o resultado. Resultados maiores, tipos de munição, modos de disparo e outros fatores podem aumentar o VD dos ataques.
+Armas e outros ataques infligem um número de pontos de dado igual ao seu Valor de Dano (VD). A maioria do VDs são apresentados como uma quantia variável, na forma de uma rolagem de dado; por exemplo: 3d10. Nesse caso, você rola três dados de dez lados e soma os resultados (contando 0 como 10). Às vezes o VD será apresentado como uma rolagem de dados mais um modificador; por exemplo: 2d10 + 5. Nesse caso, você rola dois dados de dez lados e soma os dois, e então adiciona 5 para obter o resultado. Resultados maiores, tipos de munições, modos de disparo e outros fatores podem aumentar o VD dos ataques.
 
 Para simplificar, uma quantia estática também está indicado entre parênteses depois da quantia variável. Se você preferir pular a rolagem de dados, você pode apenas aplicar a quantia estática (geralmente perto da média) em vez disso. Por exemplo, se o dano está anotado como 2d10 + 5 \[16\], você pode simplesmente aplicar 16 pontos de dano em vez de rolar os dados.
 
@@ -26,7 +26,7 @@ Mesmo se você estiver inconsciente/desativado, seus insertos da mesh ainda pode
 
 Ferimentos representam lesões graves: cortes profundos e hemorragias, fraturas e rupturas, membros despedaçados, sistemas quebrados, e outros danos sérios que prejudicam sua capacidade de funcionar e podem levar à morte ou debilitações de longo prazo.
 
-Sempre que seu personagem sofrer dano, compare a quantia infligida de uma única fonte (depois de ser reduzida pela armadura) com seu Limiar de Ferimento. O Limiar de Ferimento é igual a Durabilidade do seu morfo ÷ 5. Se o VD modificado igualar o exceder seu Limiar de Ferimento, você sofreu um ferimento. Se o dano infligido for o dobro do seu Limiar de Ferimento, você sofreu 2 ferimentos; se for o triplo, você sofreu 3 ferimentos; e assim por diante.
+Sempre que seu personagem sofrer dano, compare a quantia infligida de uma única fonte (depois de ser reduzida pela blindagem) com seu Limiar de Ferimento. O Limiar de Ferimento é igual a Durabilidade do seu morfo ÷ 5. Se o VD modificado igualar o exceder seu Limiar de Ferimento, você sofreu um ferimento. Se o dano infligido for o dobro do seu Limiar de Ferimento, você sofreu 2 ferimentos; se for o triplo, você sofreu 3 ferimentos; e assim por diante.
 
 Ferimentos são cumulativos e devem ser marcados em sua ficha de personagem.
 

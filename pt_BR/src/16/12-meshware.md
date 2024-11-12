@@ -9,14 +9,14 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 | Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                           |
 | Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                              |
 | Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo, mas sem parada de Inspiração e com −3 em INIC. |
-| Tolerância a Erros   |                 Mod/2                 | VA 5 vs. ataques da mesh.                                                                          |
+| Tolerância a Erros   |                 Mod/2                 | VB 5 vs. ataques da mesh.                                                                          |
 | Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                  |
 | Travacópia           |                 Men/1                 | Impede cópia/forque, −30 em Infoseg para copiar.                                                   |
 | Véu Digital          |                Men/R/1                | Oculta apps, opõe-se a Interface com Programação 80.                                               |
 
 <!--sort-->
 
-**Autoapagamento:** Esse app vai automaticamente apagar o infomorfo (ou o ego em um cibercérebro) se certas condições pré-programadas	forem atendidas. Isso é útil se você estiver preocupado com hacks cerebrais, forquestro ou ficar preso em uma caixa-forte. Condições comuns de acionamento incluem: hack cerebral detectado, uma frase secreta, psicocirurgia, um período de tempo designado, ou a falha na recepção de uma mensagem periódica. Algumas pessoas usam esse app para impedir que os forques tornem-se errantes; muitos governos exigem legalmente que os forques sejam equipados para se apagarem após um número determinado de horas. O autoapagamento funciona mesmo se o infomorfo não tiver privilégios no sistema.
+**Autoapagamento:** Esse app vai automaticamente apagar o infomorfo (ou o ego em um cibercérebro) se certas condições pré-programadas forem atendidas. Isso é útil se você estiver preocupado com hacks cerebrais, forquestro ou ficar preso em uma caixa-forte. Condições comuns de acionamento incluem: hack cerebral detectado, uma frase secreta, psicocirurgia, um período de tempo designado, ou a falha na recepção de uma mensagem periódica. Algumas pessoas usam esse app para impedir que os forques tornem-se errantes; muitos governos exigem legalmente que os forques sejam equipados para se apagarem após um número determinado de horas. O autoapagamento funciona mesmo se o infomorfo não tiver privilégios no sistema.
 
 **Persistência:** Esse meshware usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
 
@@ -26,7 +26,7 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 
 Você também pode usar esse meshware para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
 
-**Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VA 5 contra ataques na mesh.
+**Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VB 5 contra ataques na mesh.
 
 **Trava-App:** O trava-app dificulta a remoção de um app instalado sem a autenticação adequada (aplique um modificador −30). Isso é útil para infomorfos/cibercérebros que são vítimas de hacks cerebrais e modificados contra sua vontade. Os apps protegidos devem ser designados com antecedência (quando o trava-app for instalado ou reconfigurado).
 

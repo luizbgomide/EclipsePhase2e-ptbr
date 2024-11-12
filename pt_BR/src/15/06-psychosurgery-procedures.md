@@ -129,4 +129,3 @@ A supressão de perícia tenta identificar onde as perícias estão armazenadas 
 Tasp é o uso de técnicas de estimulação cerebral profunda para tocar nos centros de prazer da mente. Embora esse procedimento geralmente seja usado para fins terapêuticos em pacientes sofrendo de depressão ou outras enfermidades mentais, a intenção da tasp é sobrecarregar o indivíduo em um estado prolongado de felicidade quase insuportável. No entanto, essa estimulação é altamente viciante. Então se você for exposto por períodos prolongados ou recorrentes, você precisará fazer uma Prova de VON com −30 ou receber o [traço Vício](../04/28-traits.md#vício). Sabe-se que algumas organizações criminosas usam vício e recompensas em tasp como formas de controlar aqueles em seus domínios.
 
 <!--sort-end-->
-

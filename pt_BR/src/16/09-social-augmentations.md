@@ -46,4 +46,3 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 **Pele-Flex:** Esse implante de disfarce lhe permite reestruturar suas características faciais e musculatura, e alterar o tom de pele e cor do cabelo. Esse processo leva 1d6 minutos. Pele-Flex adiciona +30 em Testes da Perícia Exótica: Disfarce ou de Enganação para se disfarçar ou imitar alguém.
 
 <!--sort-end-->
-

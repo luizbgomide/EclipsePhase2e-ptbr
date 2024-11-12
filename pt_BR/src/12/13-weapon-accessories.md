@@ -43,4 +43,3 @@ Os seguintes acessórios estão disponíveis para armas.
 **Sistema de Segurança:** Esse recurso é automaticamente incluído na maioria das armas. Um sensor biométrico (impressão palmar ou de voz) ou de ego ID está embutido na arma, desativando-a se qualquer pessoa além do usuário autorizado tentar dispará-la.
 
 <!--sort-end-->
-

@@ -87,4 +87,3 @@ Estes serviços estão disponíveis em alguns habitats.
 **Viagem Espacial:** O custo do transporte espacial depende de vários fatores, como distância, qualidade de acomodações e a quantidade de carga que você traz. No nível mais baixo, uma viagem de ônibus intra-habitat dentro do mesmo agrupamento, ou uma viagem de ida ou volta da superfície de um corpo planetário para a sua órbita, não é barata mas é acessível. Todo o resto é progressivamente mais caro.
 
 <!--sort-end-->
-

@@ -1,6 +1,6 @@
 # Armas de Feixe
 
-A maioria das armas de energia coerente são utilizadas para fins menos letais, projetadas para debilitar em vez de matar. Elas são usadas com a perícia Tiro e resistidas por armaduras energéticas.
+A maioria das armas de energia coerente são utilizadas para fins menos letais, projetadas para debilitar em vez de matar. Elas são usadas com a perícia Tiro e resistidas por blindagens energéticas.
 
 Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear](../16/05-common-tech-and-ware.md#tecnologia-cotidiana). A bateria comum alimenta os tiros da arma até se esgotar (conforme o atributo Munição). A bateria nuclear recarregará uma bateria comum completamente em 4 horas. Baterias comuns podem ser trocadas com uma ação complexa de recarregamento. A bateria usada em um tipo de arma de feixe não pode ser usada em outros tipos.
 
@@ -9,7 +9,7 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 | ARMAS DE FEIXE                                         | Tipo de Ware | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<wbr>PE | Notas                                                         |
 |:------------------------------------------------------ |:------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |
 | Agonizador MO (Dor)                                    |      —       |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
-| <!--sort-union-->Agonizador MO (Torradeira)  |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Dor (apenas biomorfos), Perfura-Armadura                      |
+| <!--sort-union-->Agonizador MO (Torradeira)  |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Antiblindagem, Dor (apenas biomorfos)                         |
 | Atordoador                                             |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
 | Lançador de Feixes de Partículas                       |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
 | Laser de Batalha                                       |      —       |     3d10 +4 \[21\]      |     SA/DR/TA     |   50    |   150   |                Mai/R/3                | Fixa, Longa                                                   |
@@ -25,7 +25,7 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 
 <!--sort-->
 
-**Agonizador Micro-Ondas:** Originalmente desenvolvido para o controle de multidão, o agonizador também é útil para repelir animais. O agonizador dispara feixes de onda milimétricas que criam uma sensação de queimação desagradável na pele (mesmo através de armadura). Agonizadores tem dois modos. O primeiro é um modo de negação ativa que causa uma dor ardente extrema em alvos biomorfos, incluindo um [efeito de dor](12-weapon-gear-traits.md) até o final do próximo turno e forçando-os a se afastar do feixe. O segundo modo “torradeira” tem o mesmo efeito que o primeiro, mas ele realmente queima o alvo. Sintemorfos não são afetados pela dor, mas são danificados pela torradeira.
+**Agonizador Micro-Ondas:** Originalmente desenvolvido para o controle de multidão, o agonizador também é útil para repelir animais. O agonizador dispara feixes de onda milimétricas que criam uma sensação de queimação desagradável na pele (mesmo através de blindagem). Agonizadores tem dois modos. O primeiro é um modo de negação ativa que causa uma dor ardente extrema em alvos biomorfos, incluindo um [efeito de dor](12-weapon-gear-traits.md) até o final do próximo turno e forçando-os a se afastar do feixe. O segundo modo “torradeira” tem o mesmo efeito que o primeiro, mas ele realmente queima o alvo. Sintemorfos não são afetados pela dor, mas são danificados pela torradeira.
 
 **Atordoador:** O atordoador é um eletrolaser que cria um canal de plasma eletricamente condutivo para transmitir uma poderosa corrente elétrica, chocando o alvo. Atordoadores não funcionam no vácuo.
 
@@ -52,4 +52,3 @@ Apesar dos feixes do pulsador laser não aparecerem no espectro visível, eles p
 Quando você erra com um ataque de feixe, você ainda pode usar esse feixe desviado para “localizar” o alvo. Se você fizer outro ataque contra o mesmo alvo na sua próxima ação, conte o ataque falhado como uma ação de pontaria (+10 para acertar). Como a maioria das armas de feixe são invisíveis à visão normal, você deve ter aprimoramentos de visão que permitam que você veja o feixe na atmosfera ou estar em mesh com a RA de mira entóptica da arma.
 
 <!--sort-end-->
-

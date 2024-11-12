@@ -1,6 +1,6 @@
 # Ampliações de Combate
 
-As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Ware de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Armaduras](../12/14-armor-mods.md)).
+As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Ware de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Blindagem](../12/14-armor-mods.md)).
 
 <!--sort-->
 
@@ -84,4 +84,3 @@ Os medicadores para sintemorfos e bots consistem de nanobots que monitoram e rep
 **Surto Adrenal:** Esse aprimoramento glandular sobrecarrega sua resposta adrenal às situações que provocam estresse, dor ou emoções fortes (medo, raiva, luxúria, ódio). Quando ativado (mentalmente ou por estresse/emoções), o surto concentrado de norepinefrina acelera a frequência cardíaca, a circulação do sangue, e queima carboidratos. Você recebe +1 em sua parada de Vigor e ignora os modificadores de 1 ferimento. O uso extensivo desse mod sem interrupções pode levar à fadiga adrenal (modificador de debilitação −20 em todas as ações; a critério do MJ).
 
 <!--sort-end-->
-

@@ -105,4 +105,3 @@ Estes dispositivos são facilmente encontrados em quase todos os habitats.
 **Visualizador:** Visualizadores são a versão de longa distância dos visores, parecidos com binóculos avançados. Eles fornecem ampliação de 50x e incorporam um microfone direcional que amplifica o som da direção que você está apontando por um fator de 50. Visualizadores não são úteis a curtas distâncias.
 
 <!--sort-end-->
-

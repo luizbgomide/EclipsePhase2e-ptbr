@@ -171,4 +171,3 @@ Uma personalidade separada e distinta se desenvolve além da sua personalidade o
 **Efeitos:** A outra personalidade deve ser interpretada (talvez pelo MJ ou outro jogador).
 
 <!--sort-end-->
-

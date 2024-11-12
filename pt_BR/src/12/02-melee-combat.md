@@ -15,18 +15,18 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
 | Enguiware               |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
-| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Extensão, Perfura-Armadura                            |
-| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Ocultável, Perfura-Armadura                           |
+| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Antiblindagem, Extensão                               |
+| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
 | Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
-| Faca-Vespa              |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
+| Faca-Ferrão             |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
 | Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
-| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Frágil, Perfura-Armadura                              |
-| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Duas Mãos, Extensão (+20), Perfura-Armadura           |
+| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Antiblindagem, Frágil                                 |
+| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Antiblindagem, Duas Mãos, Extensão (+20)              |
 | Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
-| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Duas Mãos, Extensão, Perfura-Armadura                 |
-| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Perfura-Armadura/+2d10&nbsp;VD quando serrando        |
+| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Antiblindagem, Duas Mãos, Extensão                    |
+| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Antiblindagem/+2d10&nbsp;VD quando serrando           |
 
 <div class="indent">
 
@@ -42,7 +42,7 @@ Armamentos implantados podem ser combinados com enguiware para produzir choques 
 
 **Enguiware:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (equipaware) permitem que você atordoe com um toque chocante. Enguiwares podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
-**Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
+**Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar blindagens modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora blindagem).
 
 **Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por orifícos ocultos.
 
@@ -68,7 +68,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Faca:** Uma ferramenta de corte comum e bastante utilizada.
 
-**Faca-Vespa:** As facas-vespa são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-vespa também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
+**Faca-Ferrão:** As facas-ferrão são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-ferrão também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
 **Garrote de Monofio:** Essa arma de assassinos é feita de um perigoso fio quase monomolecular enrolado em um carretel com duas alças. Uma alça segura o carretel enquanto a outra estende o fio para que ele possa ser enrolado em torno do alvo (geralmente o pescoço ou membros) e corta através dele quando puxado. No entanto, a resistência a tração do monofilamento é baixa; ele se parte com uma falha maior. A arma é usada com a Perícia Exótica: Garrote de Monofio.
 
@@ -80,7 +80,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Machado Diamantado:** Comum em muitos habitats para fins de incêndios e emergências, machados precisam de duas mãos para serem usados. Suas lâminas são revestidas de diamante para uma melhor capacidade de corte.
 
-**Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
+**Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar blindagens quando serrar cuidadosamente alguma coisa.
 
 <!--sort-end-->
 
@@ -102,32 +102,34 @@ Em um agarramento, ambos os personagens têm −30 para se opor a qualquer ataqu
 
 Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer uma ação complexa para manter o agarramento. Como parte dessa ação, ele pode escolher fazer um dos seguintes:
 
-- **Estrangulamento:** Vítimas biomorfos devem fazer uma Prova de SOM ou cair inconscientes, pois seu fluxo de sangue ou ar está restringido.
+<!--sort-->
+
 - **Dano:** A vítima agarrada sofre dano desarmado, sem defesa.
 - **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Prova de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
+- **Estrangulamento:** Vítimas biomorfos devem fazer uma Prova de SOM ou cair inconscientes, pois seu fluxo de sangue ou ar está restringido.
 - **Movimento:** O agarrador pode mover-se com o oponente subjugado à metade da sua Taxa de Movimento.
 
 ### Ataques Agressivos
 
 Ataques agressivos vão com tudo, independentemente das consequências. Você pode escolher +10 para acertar ou +1d10&nbsp;VD quando for agressivo, mas você também sofre −10 em Testes de Evasão até a sua próxima ação.
 
+### Ataques de Toque Simples
+
+Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los, e por isso são mais fáceis. Isso pode ser aplicável quando você está tentando colocar um adesivo dérmico de droga, cutucar com um bastão de atordoamento ou fazer contato pele com pele para usar um truque psi. Em situações assim, aplique um modificador +20 ao seu ataque de luta. Ataques de choque em luta feitos um bônus de toque simples não causam VD. (Se você também quiser infligir VD com o ataque, você deve fazer o ataque sem o modificador +20.)
+
+### Extensão
+
+Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](21-other-action-factors.md#tamanhos)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
+
 ### Investidas
 
 Um personagem que faz um movimento total e ataque de luta no mesmo turno de ação está em _investida_. O atacante recebe um modificador −10 pela investida em vez dos −20 padrão por movimento total e inflige +1d6&nbsp;VD.
 
-<!--sort-end-->
-
-## Múltiplos Alvos
+### Múltiplos Alvos
 
 Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Esses ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
 
-## Extensão
-
-Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](21-other-action-factors.md#tamanhos)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
-
-## Ataques de Toque Simples
-
-Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los, e por isso são mais fáceis. Isso pode ser aplicável quando você está tentando colocar um adesivo dérmico de droga, cutucar com um bastão de atordoamento ou fazer contato pele com pele para usar um truque psi. Em situações assim, aplique um modificador +20 ao seu ataque de luta. Ataques de choque em luta feitos um bônus de toque simples não causam VD. (Se você também quiser infligir VD com o ataque, você deve fazer o ataque sem o modificador +20.)
+<!--sort-end-->
 
 <blockquote class="table">
 

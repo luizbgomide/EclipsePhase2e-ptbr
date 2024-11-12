@@ -18,7 +18,7 @@ O combate é um teste oposto.
 - Se o atacante tiver sucesso e rolar mais alto que o defensor, o ataque acerta. Role o dano.
 - Acertos maiores infligem +1d6&nbsp;VD.
 - Acertos críticos dobram o VD.
-- O dano da arma é reduzido pela armadura energética ou cinética do alvo, conforme apropriado.
+- O dano da arma é reduzido pela blindagem energética ou cinética do alvo, conforme apropriado.
 - Se o dano igualar ou exceder o Limiar de Ferimento do alvo, um ferimento é causado. Se o dano igualar ou exceder o Limiar de Ferimento do alvo múltiplas vezes, vários ferimentos são infligidos.
 - Se o dano total atingir a Durabilidade, o alvo está incapacitado. Se atingir o Grau de Destruição, ele está morto/destruído.
 
@@ -48,7 +48,7 @@ Aplique qualquer modificador situacional, de ferimento/trauma, ou outros necess�
 
 ### Modificadores de Combate
 
-Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataque.
+Vários fatores podem impactar o resultado de um ataque.<br> Estes modificadores se aplicam a todos os tipos de ataques.
 
 | Situação                                                                             |         Modificadores         |
 |:------------------------------------------------------------------------------------ |:-----------------------------:|
@@ -91,21 +91,21 @@ Alguns ataques tem efeitos adicionais, conforme indicado na descrição e nos tr
 
 Alguns ataques causam estresse mental em vez de danos físicos ([Saúde Mental](18-mental-health.md)). Nesse caso, o Valor de Estresse (VE) é tratado da mesma forma que VD.
 
-## Passo 7: Aplicar a Armadura
+## Passo 7: Aplicar a Blindagem
 
-Se o defensor estiver usando armadura, ela vai protegê-lo. Determine qual parte do Valor de Armadura (VA) do defensor é aplicável — armadura energética ou armadura cinética ([Armadura](11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a armadura foi efetiva e o ataque não conseguiu ferir o alvo.
+Se o defensor estiver usando blindagem, ela vai protegê-lo. Determine qual parte do Valor de Blindagem (VB) do defensor é aplicável — blindagem energética ou blindagem cinética ([Blindagem](11-armor.md)). Reduza o total de dano pelo valor apropriado. Se o dano for reduzido para 0 ou menos, a blindagem foi efetiva e o ataque não conseguiu ferir o alvo.
 
-Observe que ataques que perfuram armadura reduzem o VA à metade.
+Observe que ataques antiblindagem reduzem o VB à metade.
 
 ## Passo 8: Aplicar o Dano
 
-O dano infligido que exceder a armadura é aplicado ao defensor.
+O dano infligido que exceder a blindagem é aplicado ao defensor.
 
 Registre esse total na ficha de personagem. Se o dano acumulado igualar o exceder a Durabilidade do defensor, ele está incapacitado e pode morrer ([Saúde Física](16-physical-health.md)). Se ele igualar ou exceder seu Grau de Destruição, ele está morto/destruído.
 
 ## Passo 9: Determinar os Ferimentos
 
-Se o dano infligido, menos a armadura, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](16-physical-health.md#ferimentos). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
+Se o dano infligido, menos a blindagem, de um único ataque igualar ou exceder o Limiar de Ferimento do defensor, ele sofre um ou mais [ferimentos](16-physical-health.md#ferimentos). Um ferimento é causado para cada múltiplo do Limiar de Ferimento que o dano exceder. Por exemplo, contra o Limiar de Ferimento 7, 1 ferimento é causado a cada 7 pontos de dano infligidos de uma só vez (14 de dano causam 2 ferimentos, 21 de dano causam 3 ferimentos, etc.). Ferimentos representam lesões mais graves e aplicam modificadores e outros efeitos no personagem.
 
 <blockquote>
 
@@ -121,7 +121,7 @@ O MJ rola contra o alvo de 30. Ele consegue um 07, o que seria um sucesso, mas J
 
 A pistola média de Jinx inflige VD 2d10. Jinx estava usando [disparo em rajada](04-ranged-combat.md#modos-de-disparo) para ter mais danos (+d10), e seus dois sucessos maiores dão a ela outros 2d6, para um VD total de 3d10 + 2d6. Ela rola 7, 5, 5, 1 e 3 para um dano total de 21.
 
-O ex-humano tem 10 de armadura cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](16-physical-health.md#efeitos-de-ferimento), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
+O ex-humano tem 10 de blindagem cinética, então, apenas 11 desse dano atravessa (21 − 10). Ele tem um Limiar de Ferimento de 8, então isso inflige um ferimento! Olhando na seção sobre [efeitos de ferimento](16-physical-health.md#efeitos-de-ferimento), o MJ vê que o ex-humano deve fazer uma Prova de SOM ou ser derrubado. Ele rola um 09 contra a Prova de SOM de 75, então o ex-humano permanece de pé.
 
 Jinx ainda tem um movimento base, então ela vai ao ar e se move 8 metros para cima. No entanto, elas estão em um túnel, então o ex-humano ainda pode alcançá-la. No ser turno, o MJ declara que ele está fazendo um [ataque de luta com investida](02-melee-combat.md#investidas), pois ele está usando um movimento total para cruzar os 18 metros de distância. Jinx se esquiva com Evasão.
 

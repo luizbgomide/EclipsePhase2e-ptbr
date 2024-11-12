@@ -45,4 +45,3 @@ Uma presença alienígena vive dentro de você. Suas respostas instintivas são 
 **Truque Gratuito (Escolha Um):** Controle Somático, Ecoempatia ou Xenoempatia
 
 <!--sort-end-->
-

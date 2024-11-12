@@ -19,5 +19,5 @@ Algumas vezes você é pego desprevinido e deve usar o que estiver a mão — ou
 | Robô (Muito Pequeno)                          |      1d6 + 1 \[5\]      |              | Ocultável            |
 | Sintemorfo (Pequeno)                          |        1d6 \[4\]        |              |                      |
 | <!--sort-union-->Sintemorfo (Médio) |        2d6 \[7\]        |              | Derrubada, Duas Mãos |
-| Tocha de Plasma                               |     2d10 + 8 \[19\]     |     Men      | Perfura-Armadura     |
+| Tocha de Plasma                               |     2d10 + 8 \[19\]     |     Men      | Antiblindagem        |
 | Utiliferramenta                               |       1d10 \[6\]        |              |                      |

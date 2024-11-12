@@ -449,7 +449,7 @@
 04/28-traits.md#mental-disorder	transtorno-mental
 04/28-traits.md#morphing-disorder	transtorno-mórfico
 04/28-traits.md#neural-damage	dano-neural
-04/28-traits.md#no-backup-insurance	nenhum-seguro-de-backup
+04/28-traits.md#no-backup-insurance	sem-seguro-de-backup
 04/28-traits.md#non-human-biochemistry	bioquímica-não-humana
 04/28-traits.md#obliviousness	desatenção
 04/28-traits.md#obtuseness	estupidez
@@ -515,7 +515,7 @@
 12/01-resolving-combat.md#step-4-make-opposed-test	passo-4-fazer-o-teste-oposto
 12/01-resolving-combat.md#step-5-determine-result	passo-5-determinar-o-resultado
 12/01-resolving-combat.md#step-6-roll-damage	passo-6-rolar-o-dano
-12/01-resolving-combat.md#step-7-apply-armor	passo-7-aplicar-a-armadura
+12/01-resolving-combat.md#step-7-apply-armor	passo-7-aplicar-a-blindagem
 12/01-resolving-combat.md#step-8-apply-damage	passo-8-aplicar-o-dano
 12/01-resolving-combat.md#step-9-determine-wounds	passo-9-determinar-os-ferimentos
 12/02-melee-combat.md#melee-combat	combate-de-luta
@@ -563,16 +563,16 @@
 12/10-seeker-weapons-and-grenades.md#sticky-coating	camada-aderente
 12/10-seeker-weapons-and-grenades.md#throwing-back-a-grenade	arremessando-de-volta-uma-granada
 12/10-seeker-weapons-and-grenades.md#trigger-conditions	condições-de-acionamento
-12/11-armor.md#armor	armaduras
+12/11-armor.md#armor	blindagens
 12/11-armor.md#energy-vs-kinetic	energética-vs-cinética
-12/11-armor.md#armor-value	valor-de-armadura
-12/11-armor.md#layering-armor	armaduras-em-camadas
-12/11-armor.md#armor-visibility	visibilidade-das-armaduras
-12/11-armor.md#armor-ware	wares-de-armadura
-12/11-armor.md#armor-gear	equipamentos-de-armadura
+12/11-armor.md#armor-value	valor-de-blindagem
+12/11-armor.md#layering-armor	camadas-de-blindagem
+12/11-armor.md#armor-visibility	visibilidade-das-blindagens
+12/11-armor.md#armor-ware	wares-de-blindagem
+12/11-armor.md#armor-gear	equipamentos-de-blindagem
 12/12-weapon-gear-traits.md#weapongear-traits	traços-de-armasequipamentos
 12/13-weapon-accessories.md#weapon-accessories	acessórios-de-armas
-12/14-armor-mods.md#armor-mods	mods-de-armaduras
+12/14-armor-mods.md#armor-mods	mods-de-blindagem
 12/15-special-attacks.md#special-attacks	ataques-especiais
 12/15-special-attacks.md#area-effect-attacks	ataques-de-área-de-efeito
 12/15-special-attacks.md#centered-blast	explosão-centrada
@@ -582,7 +582,7 @@
 12/15-special-attacks.md#attacks-against-the-helpless	ataques-contra-indefesos
 12/15-special-attacks.md#blind-attacks	ataques-às-cegas
 12/15-special-attacks.md#called-shots	ataques-precisos
-12/15-special-attacks.md#bypass-armor	evitar-armadura
+12/15-special-attacks.md#bypass-armor	evitar-blindagem
 12/15-special-attacks.md#disarm	desarmar
 12/15-special-attacks.md#knockdown	derrubar
 12/15-special-attacks.md#redirect	redirecionar
@@ -948,7 +948,7 @@
 13/14-mesh-combat.md#local-attacks	ataques-locais
 13/14-mesh-combat.md#remote-attacks	ataques-remotos
 13/14-mesh-combat.md#mesh-attacks-and-defense	ataque-e-defesa-na-mesh
-13/14-mesh-combat.md#mesh-damage-and-armor	dano-e-armadura-na-mesh
+13/14-mesh-combat.md#mesh-damage-and-armor	dano-e-blindagem-na-mesh
 13/14-mesh-combat.md#mesh-wounds	ferimentos-na-mesh
 13/14-mesh-combat.md#mesh-durability	durabilidade-na-mesh
 13/14-mesh-combat.md#mesh-durability-1	durabilidade-na-mesh-1
@@ -1022,7 +1022,7 @@
 14/04-using-psi.md#psi-range	alcance-psi
 14/04-using-psi.md#targeting	alvos
 14/04-using-psi.md#opposed-tests	testes-opostos
-14/04-using-psi.md#mental-armor	armadura-mental
+14/04-using-psi.md#mental-armor	blindagem-mental
 14/04-using-psi.md#target-awareness	consciência-do-alvo
 14/04-using-psi.md#duration	duração
 14/04-using-psi.md#infection-modifiers	modificadores-de-infecção
@@ -1051,7 +1051,7 @@
 14/06-psi-sleight-summaries.md#inner-spark	centelha-interior
 14/06-psi-sleight-summaries.md#pattern-recognition	reconhecimento-de-padrões
 14/06-psi-sleight-summaries.md#predictive-boost	impulso-preditivo
-14/06-psi-sleight-summaries.md#psi-armor	armadura-psi
+14/06-psi-sleight-summaries.md#psi-armor	blindagem-psi
 14/06-psi-sleight-summaries.md#qualia	qualia
 14/06-psi-sleight-summaries.md#savant-calculation	cálculo-savant
 14/06-psi-sleight-summaries.md#scramble	embaralhamento

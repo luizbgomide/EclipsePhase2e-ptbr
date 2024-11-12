@@ -152,4 +152,3 @@ Coloquialmente chamados de “octomorfos”, essas capas de polvos elevados são
 </blockquote>
 
 <!--sort-end-->
-

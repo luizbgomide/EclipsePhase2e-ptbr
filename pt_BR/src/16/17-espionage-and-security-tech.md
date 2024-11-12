@@ -85,4 +85,3 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 **Túnica:** Esse manto de privacidade de tecido inteligente oculta você como uma burca, ele endurece e relaxa aleatoriamente para confundir análise da maneira de andar, e altera aleatoriamente os padrões de calor. Ele emite feromônios, odorantes, e ruído branco, dissuadindo a identificação pelo cheiro e a escuta de conversas. Ela também funciona como uma gaiola de Faraday, bloqueando sinais da mesh e impedindo as transmissões de qualquer rastreador que você esteja carregando. As túnicas são uma forma aceitável de privacidade em alguns habitats, mas consideradas rudes ou ilegais em outros.
 
 <!--sort-end-->
-

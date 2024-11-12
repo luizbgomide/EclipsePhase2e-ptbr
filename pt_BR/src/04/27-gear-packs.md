@@ -23,7 +23,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Anonimizador](../16/04-services.md#serviços-da-mesh)                                |                 Men/1                 | Mascara a sua mesh ID.                                                                         |
 | [App de TacNet](../16/13-apps-and-alis.md#redes-táticas)                      |                 Mod/2                 | Compartilhamento de dados táticos em tempo real.                                               |
 | [App de VPN](../16/13-apps-and-alis.md#apps)                                      |                 Men/1                 | Cria uma rede privada virtual.                                                                 |
-| [Colete de Proteção (Leve)](../12/11-armor.md#equipamentos-de-armadura)\*                     |                 Men/1                 | VA 4/10. Ocultável.                                                                            |
+| [Colete de Proteção (Leve)](../12/11-armor.md#equipamentos-de-blindagem)\*                     |                 Men/1                 | VB 4/10. Ocultável.                                                                            |
 | [Ego ID Falsa](../16/04-services.md#serviços-físicos)                            |                Mai/R/3                | ID e histórico falsificados, com seus próprios níveis de rep.                                  |
 | [Pistola Média (Arma de Fogo)](../12/09-kinetic-weapons.md#armas-de-fogo)              |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                                 |
 | [Vestuário Inteligente](../16/05-common-tech-and-ware.md#tecnologia-cotidiana)\* |                 Men/1                 | Pode alterar as cores, texturas e modelo. +10 em Infiltração, +30 se estiver coberto e parado. |
@@ -37,7 +37,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                         | Comp/<wbr>PE | Descrição                       |
 |:---------------------------------------------------- |:-------------------------------------:|:------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões. |
-| [Blindagem Industrial](../12/11-armor.md#wares-de-armadura) |                 Men/1                 | VA +6/+4.                       |
+| [Blindagem Industrial](../12/11-armor.md#wares-de-blindagem) |                 Men/1                 | VB +6/+4.                       |
 
 </blockquote>
 
@@ -53,7 +53,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Pistola Média (Arma de Fogo)](../12/09-kinetic-weapons.md#armas-de-fogo) |                Men/R/1                | VD 2d10, SA/DR/TA, Munição 15 + 1, Alcance 30.                                          |
 | [SolArchive Portátil](../16/18-mission-gear.md#ferramentas-científicas)        |                 Men/1                 | Permite Testes de Pesquisa relacionados a uma perícia de Saber estando isolado da mesh. |
 | [Spray Curativo](../16/19-nanotech.md)\*                           |                 Men/1                 | Cura 1d10 de dano por hora por 12 horas.                                                |
-| [Traje de Vácuo Padrão](../16/18-mission-gear.md#trajes-de-vácuo)\*       |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VA 8/6.                   |
+| [Traje de Vácuo Padrão](../16/18-mission-gear.md#trajes-de-vácuo)\*       |                 Mai/3                 | Como vestuário inteligente, protege do vácuo, 48 horas de ar, VB 8/6.                   |
 
 <blockquote class="indent">
 
@@ -64,7 +64,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                         | Comp/<wbr>PE | Descrição                                                                         |
 |:---------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões.                                                   |
-| [Blindagem Industrial](../12/11-armor.md#wares-de-armadura) |                 Men/1                 | VA +6/+4.                                                                         |
+| [Blindagem Industrial](../12/11-armor.md#wares-de-blindagem) |                 Men/1                 | VB +6/+4.                                                                         |
 | [Medicadores](../16/10-combat-augmentations.md)      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas. |
 
 </blockquote>
@@ -256,7 +256,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 | EQUIPAMENTOS                                                             | Comp/<wbr>PE | Descrição                                                                                          |
 |:------------------------------------------------------------------------ |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| [Fuzil de Assalto (Railgun)](../12/09-kinetic-weapons.md#railguns)       |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Alcance 150, Perfura-Armadura, Longa, Duas Mãos.            |
+| [Fuzil de Assalto (Railgun)](../12/09-kinetic-weapons.md#railguns)       |                Mod/R/2                | VD 2d10 + 2, SA/DR/TA, Munição 90 + 1, Alcance 150, Antiblindagem, Duas Mãos, Longa.               |
 | [Neuraquim](../16/10-combat-augmentations.md)                            |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                            |
 | [Sorriso (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-de-combate) |                 Men/1                 | Ignore 1 ferimento.                                                                                |
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                    |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
@@ -283,7 +283,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Enxame Guardião](../16/20-nanoswarms-and-microswarms.md#enxames)                      |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 6 por turno.                                            |
 | [Ferramentas de Desmontagem](../16/18-mission-gear.md#ferramentas-de-recuperação)                  |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                                   |
 | [Haxixe Orbital (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-recreativas) |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.                             |
-| [Machado Diamantado](../12/02-melee-combat.md#armas-de-luta)                          |                 Men/1                 | VD 2d10 + 3, Duas Mãos, Extensão, Perfura-Armadura.                                                         |
+| [Machado Diamantado](../12/02-melee-combat.md#armas-de-luta)                          |                 Men/1                 | VD 2d10 + 3, Antiblindagem, Duas Mãos, Extensão.                                                            |
 | [Mula-Robô](../16/21-robots.md#bots-utilitários)                                          |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
 | [Nanodetector](../16/19-nanotech.md)                                                  |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
 | [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações)                 |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                                        |

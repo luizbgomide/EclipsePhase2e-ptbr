@@ -58,4 +58,3 @@ Esses wares aprimoram as capacidades sensoriais do seu morfo.
 **Visão Polarizada:** Você pode ver luz polarizada, o que revela características tais como contraste e padrões. Isso permite que você negue os modificadores de camuflagem (tais como de pele camaleão ou vestuário inteligente).
 
 <!--sort-end-->
-

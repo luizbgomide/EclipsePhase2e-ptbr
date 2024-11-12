@@ -192,7 +192,7 @@
     - [Ataques Locais](14-mesh-combat.md#ataques-locais)
     - [Ataques Remotos](14-mesh-combat.md#ataques-remotos)
   - [Ataque e Defesa na Mesh](14-mesh-combat.md#ataque-e-defesa-na-mesh)
-  - [Dano e Armadura na Mesh](14-mesh-combat.md#dano-e-armadura-na-mesh)
+  - [Dano e Blindagem na Mesh](14-mesh-combat.md#dano-e-blindagem-na-mesh)
   - [Ferimentos na Mesh](14-mesh-combat.md#ferimentos-na-mesh)
   - [Durabilidade na Mesh](14-mesh-combat.md#durabilidade-na-mesh)
   - [Reparo de Dano da Mesh](14-mesh-combat.md#reparo-de-dano-da-mesh)

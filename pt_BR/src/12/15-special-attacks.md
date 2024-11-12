@@ -46,9 +46,9 @@ Armas como granadas devem ir para algum lugar quando elas erram, e você pode ai
 
 ## Ataques de Choque
 
-Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapacitar fisicamente os alvos. Armas de choque são especialmente eficazes contra biomorfos e outras criaturas biológicas, mesmo com armaduras resistentes. Sintemorfos, bots e veículos são imunes a efeitos de choque.
+Ataques de choque usam pulsos elétricos de alta voltagem para atordoar e incapacitar fisicamente os alvos. Armas de choque são especialmente eficazes contra biomorfos e outras criaturas biológicas, mesmo com blindagens resistentes. Sintemorfos, bots e veículos são imunes a efeitos de choque.
 
-Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua armadura energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
+Ao ser atingido por um efeito de choque, faça uma Prova de SOM. Adicione sua blindagem energética como um modificador positivo. Aplique um modificador para diferentes tamanhos: muito pequeno −30, pequeno −10, grande +10, muito grande +30. Uma falha significa que você perde o controle neuromuscular, cai, e fica incapacitado por 1 turno de ação (+2 turnos por falha maior) e atordoado por 3 minutos. Um sucesso significa que você fica atordoado por 3 turnos de ação.
 
 Infligir choque sem causar dano em luta exige apenas um ataque de toque (+20). Infligir choque e dano requer um ataque de luta normal.
 
@@ -68,11 +68,11 @@ Você usar seu ataque preciso para derrubar um oponente em vez de feri-lo. Um op
 
 ### Desarmar
 
-Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros membros do oponente. A vítima sofre metade do dano do ataque (reduzido pela armadura normalmente) e deve fazer uma Prova de SOM com modificador −30 para continuar segurando a arma. Do contrário, ela é jogada a 1d10 metros de distância. Um sucesso maior adicional pode ser usado para dobra o modificador para −60, causar dano completo, ou ficar com a arma na sua mão em vez de derrubá-la.
+Você pode fazer um ataque preciso para tirar uma arma da mão ou de outros membros do oponente. A vítima sofre metade do dano do ataque (reduzido pela blindagem normalmente) e deve fazer uma Prova de SOM com modificador −30 para continuar segurando a arma. Do contrário, ela é jogada a 1d10 metros de distância. Um sucesso maior adicional pode ser usado para dobra o modificador para −60, causar dano completo, ou ficar com a arma na sua mão em vez de derrubá-la.
 
-### Evitar Armadura
+### Evitar Blindagem
 
-Ataques precisos podem ser usados para alvejar um buraco ou ponto fraco na armadura do oponente. Se você tiver um sucesso maior, seu acerto vara a armadura do alvo, e a armadura dele é reduzida à metade. O MJ pode determinar que a armadura do oponente não tem um ponto fraco ou área desprotegida, e não permitir esses ataques precisos, ou ele pode exigir um Teste de Percepção ou Aparelhagem: Armamentos para localizar um.
+Ataques precisos podem ser usados para alvejar um buraco ou ponto fraco na blindagem do oponente. Se você tiver um sucesso maior, seu acerto vara a blindagem do alvo, e a blindagem dele é reduzida à metade. O MJ pode determinar que a blindagem do oponente não tem um ponto fraco ou área desprotegida, e não permitir esses ataques precisos, ou ele pode exigir um Teste de Percepção ou Aparelhagem: Armamentos para localizar um.
 
 ### Redirecionar
 
@@ -88,7 +88,7 @@ Use a perícia Aparelhagem: Demolições para instalar, desarmar ou fabricar dis
 
 Se você pretende simplesmente criar uma explosão normal, nenhum teste de perícia é necessário para colocar um explosivo no lugar e correr. No entanto, você pode usar Testes de Aparelhagem: Demolições quando instalar explosivos para ter um dos seguintes efeitos:
 
-- Aumentar a quantidade de dano infligido contra um objeto/estrutura por +1d6 por sucesso maior. Críticos reduzem a armadura à metade.
+- Aumentar a quantidade de dano infligido contra um objeto/estrutura por +1d6 por sucesso maior. Críticos reduzem a blindagem à metade.
 - Moldar uma explosão de área de efeito centrada para apenas uma direção. Se o ângulo de efeito for 180 graus ou menos; dobre o VD. Se o ângulo de efeito for 90 graus ou menos; triplique o VD.
 - Atingir um ponto fraco estrutural para ter um efeito específico, como destruir os suportes para derrubar a ponte ou arrombar um buraco no casco da nave sem matar todos dentro da sala. O MJ determina o efeito.
 - Tornar o desarmamento do explosivo mais difícil. Qualquer um que tentar desarmar deve vencer você em um Teste Oposto de Aparelhagem: Demolições.
@@ -126,4 +126,3 @@ Você pode empunhar uma pistola em cada mão em combate de distância, ou armas 
 Você não pode disparar várias armas contra alvos separados de uma só vez; cada ataque requer uma ação complexa separada.
 
 <!--sort-end-->
-

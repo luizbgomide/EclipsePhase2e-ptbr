@@ -101,4 +101,3 @@ Encontrar tags escondidos em uma área requer um Teste de Interface com −30 no
 A moeda física é uma coisa do passado. Os governos que ainda usam dinheiro implementam vários tipos de criptomoedas baseadas em blockchain. As transações são eletrônicas, fortemente criptografadas e arquivadas em um registro público. Isso significa que pagamentos e transferências estão vinculados a uma mesh ID e podem ser rastreados, mas muitos usam contas ou intermediações anônimas para esconder seus rastros. As moedas eletrônicas são armazenadas em uma carteira criptografada no seu dispositivo pessoal ou confiadas à segurança de um serviço online.
 
 <!--sort-end-->
-
