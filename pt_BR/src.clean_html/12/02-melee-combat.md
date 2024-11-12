@@ -11,21 +11,21 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Garras                  |     BCH      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
 | Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
 | Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
-| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Duas Mãos, Extensão, Perfura-Armadura                 |
+| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Duas Mãos, Extensão, Antiblindagem                    |
 | Enguiware               |     BCH      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
-| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Extensão, Perfura-Armadura                            |
-| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Frágil, Perfura-Armadura                              |
-| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Duas Mãos, Extensão (+20), Perfura-Armadura           |
-| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Ocultável, Perfura-Armadura                           |
+| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Extensão, Antiblindagem                               |
+| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Frágil, Antiblindagem                                 |
+| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Duas Mãos, Extensão (+20), Antiblindagem              |
+| Espeto de Pistão        |      CH      |     2d10\* \[11\]     |               Men/1\*               | Ocultável, Antiblindagem                              |
 | Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Choque, Extensão, Toque Simples                       |
 | Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
 | Esporão                 |      CH      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
 | Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
 | Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
-| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Perfura-Armadura/+2d10&nbsp;VD quando serrando        |
+| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Antiblindagem/+2d10&nbsp;VD quando serrando           |
 | Faca-Ferrão             |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
 
 <!-- CLEANED div class="indent" -->
@@ -117,19 +117,19 @@ Em um turno de ação subsequente, um personagem que esteja agarrando deve fazer
 - **Derrubada:** A vítima agarrada deve fazer um Teste de Luta ou Prova de SOM com −30 ou cair prostrada. Ela continua agarrada e não pode se levantar/reorientar até que ela seja solta ou se liberte.
 - **Movimento:** O agarrador pode mover-se com o oponente subjugado à metade da sua Taxa de Movimento.
 
-<!--sort-end-->
-
-## Múltiplos Alvos
+### Múltiplos Alvos
 
 Quando fizer um ataque de luta, você pode escolher atacar dois ou mais oponentes com a mesma ação complexa. Cada oponente deve estar a até um metro de outro oponente atacado. Esses ataques devem ser declarados antes dos dados serem rolados para o primeiro ataque. Cada ataque sofre um modificador −20 cumulativo para cada alvo extra. Então se você atacar três personagens com a mesma ação, você recebe −40 em cada ataque. Role cada ataque e dano separadamente.
 
-## Extensão
+### Extensão
 
 Algumas armas estendem o seu alcance, dando a você uma vantagem significativa sobre um oponente na luta. Isso se aplica a qualquer arma com mais de meio metro: machados, bastões, espadas, bastões de choque, etc. Sempre que você tiver vantagem de extensão sobre um oponente, você recebe um modificador +10 para atacar e defender. Alguns membros ou armas muito longas fornecem um bônus +20, conforme indicado. Para cada categoria de tamanho ([Tamanhos](21-other-action-factors.md#sizes)) em que você exceder seu oponente, aplique um modificador de Extensão +10, até o máximo de +30.
 
-## Ataques de Toque Simples
+### Ataques de Toque Simples
 
 Alguns ataques exigem que você simplesmente toque seu alvo, em vez de feri-los, e por isso são mais fáceis. Isso pode ser aplicável quando você está tentando colocar um adesivo dérmico de droga, cutucar com um bastão de atordoamento ou fazer contato pele com pele para usar um truque psi. Em situações assim, aplique um modificador +20 ao seu ataque de luta. Ataques de choque em luta feitos um bônus de toque simples não causam VD. (Se você também quiser infligir VD com o ataque, você deve fazer o ataque sem o modificador +20.)
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
