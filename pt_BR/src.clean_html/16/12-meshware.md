@@ -11,7 +11,7 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 | Travacópia           |                 Men/1                 | Impede cópia/forque, −30 em Infoseg para copiar.                                                   |
 | Véu Digital          |                Men/R/1                | Oculta apps, opõe-se a Interface com Programação 80.                                               |
 | Segurança Aprimorada |                 Mod/2                 | −10 em Infoseg para hackear, −30 em modo defensivo, mas sem parada de Inspiração e com −3 em INIC. |
-| Tolerância a Erros   |                 Mod/2                 | VA 5 vs. ataques da mesh.                                                                          |
+| Tolerância a Erros   |                 Mod/2                 | VB 5 vs. ataques da mesh.                                                                          |
 | Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                              |
 
 <!--sort-->
@@ -30,7 +30,7 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 
 Você também pode usar esse meshware para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
 
-**Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VA 5 contra ataques na mesh.
+**Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VB 5 contra ataques na mesh.
 
 **Persistência:** Esse meshware usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
 
