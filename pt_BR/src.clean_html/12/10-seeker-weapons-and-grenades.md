@@ -38,7 +38,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 | Ofuscante                                              |     Uniforme (50&nbsp;m)      |                 —                  |          —          |                    Mod/R/2                    | Cegante                    |
 | PEM                                                    |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |          —          |                    Mai/R/3                    | Desativa rádios            |
 | Gás/Fumaça                                             |     Uniforme (20&nbsp;m)      |                 —                  |          —          |                     Men/1                     |                            |
-| Antiblindagem de Alto-Explosivo                        |               —               |         3d10 + 12 \[29\]         |          C          |                    Mai/R/3                    | Derrubada, Antiblindagem   |
+| Antiblindagem de Alto-Explosivo                        |               —               |         3d10 + 12 \[29\]         |          C          |                    Mai/R/3                    | Antiblindagem, Derrubada   |
 | Explosão de Plasma                                     |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |          E          |                    Mai/R/3                    | Antiblindagem              |
 | Aspersor                                               |     Uniforme (10&nbsp;m)      |                 —                  |          —          |                  Igual Carga                  |                            |
 | Atordoante                                             |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |          C          |                     Mod/2                     | Cegante, Choque, Derrubada |
@@ -46,7 +46,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 | Tático Multifuncional                                  |                               |                                    |                     |                    Mod/R/2                    |                            |
 | <!--sort-union--><p class="indent">» Fragmentação</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |          C          |                                               | Derrubada (raio 5 metros)  |
 | <!--sort-union--><p class="indent">» Alto-Explosivo</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |          E          |                                               | Derrubada (raio 10 metros) |
-| Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |          E          |                    Mai/R/3                    | Derrubada, Antiblindagem   |
+| Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |          E          |                    Mai/R/3                    | Antiblindagem, Derrubada   |
 
 | TAMANHO        | Tipo de Área de Efeito (Raio) | Valor de Dano \[Média\] | Blindagem Utilizada | Comp/<!-- CLEANED wbr -->PE | Notas       |
 |:-------------- |:-----------------------------:|:-------------------------:|:-------------------:|:-------------------------------------:|:----------- |
