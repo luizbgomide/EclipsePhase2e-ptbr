@@ -79,7 +79,7 @@ Qualquer blindagem com um VB de 11 ou mais é óbvia e visível, e levantará su
 
 ## Equipamentos de Blindagem
 
-Os materiais das blindagens modernas em Eclipse Phase incluem tramas de seda de aranha, placas cristalinas sintéticas, fulerenos de absorção de choque, revestimentos diamantados, materiais ablativos autorreparáveis, e fluidos resistentes a cisalhamento que endurecem no impacto. Esses materiais protegem contra balas (antiblindagem) e impactos cinéticos, assim como contra armas cortantes e objetos afiados e pontiagudos. Eles também protegem contra o calor explosivo de armas energéticas e choques elétricos. Mesmo com as blindagens protegendo contra balas, as camadas simplesmente pegam a bala e redistribuem sua energia cinética pelo corpo, o que ainda pode resultar em fortes contusões.
+Os materiais das blindagens modernas em Eclipse Phase incluem tramas de seda de aranha, placas cristalinas sintéticas, fulerenos de absorção de choque, revestimentos diamantados, materiais ablativos autorreparáveis, e fluidos resistentes a cisalhamento que endurecem no impacto. Esses materiais protegem contra balas (antiblindagem) e impactos cinéticos, assim como contra armas cortantes e objetos afiados e pontiagudos. Eles também protegem contra o calor explosivo de armas energéticas e choques elétricos. Mesmo com as blindagens protegendo contra balas, as camadas simplesmente bloqueiam a bala e redistribuem sua energia cinética pelo corpo, o que ainda pode resultar em fortes contusões.
 
 <!--sort-->
 
@@ -97,7 +97,7 @@ Os materiais das blindagens modernas em Eclipse Phase incluem tramas de seda de 
 
 **Traje de Segurança:** Projetado para segurança em locais de trabalho industrial e proteção em colisões acidentais em zero-g, os trajes de segurança também são usados por entusiastas esportivos e exploradores. O macacão básico oferece uma proteção confortável, mas em circunstâncias mais perigosas ele pode ser ativo com um sinal eletrônico, para que os polímeros elásticos endureçam e formem uma proteção rígida contra impactos nas áreas vitais.
 
-**Capacete:** Capacetes existem em vários estilos abertos e fechados, todos protegendo a cabeça. Se forem alvo de um ataque preciso, os capacetes têm VB 4/10. Capacetes já estão inclusos em blindagens corporais e de combate, e todos os trajes (use o VB total dessas blindagens contra golpes na cabeça).
+**Capacete:** Capacetes existem em vários estilos abertos e fechados, todos protegendo a cabeça. Se forem alvo de um ataque preciso, os capacetes têm VB 4/10. Capacetes já estão inclusos em armaduras corporais e de combate, e todos os trajes (use o VB total dessas armaduras contra golpes na cabeça).
 
 **Escudo Antimotim:** Usado para supressão de tumultos, os escudos antimotim são leves, resistentes e podem ser eletrificados quando necessário (trate como um [ataque de choque em luta](15-special-attacks.md#shock-attacks)).
 
