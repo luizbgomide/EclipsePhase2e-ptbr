@@ -10,7 +10,7 @@ Um resumo rápido sobre materiais futuristas comuns:
 
 **Seda de Aranha Artificial:** Criada por bactérias bioprojetadas, essas fibras tem resistência a tração e capacidade de extensão fantásticas. Elas são usadas em vestuários reforçados, bandagens, bens biodegradáveis, e outros tramas resistentes ao desgaste.
 
-**Diamante:** Leve e superforte, o diamante artificial tem um ponto de fusão extremamente alto e condutividade térmica quase perfeita. Isso o torna a substância ideal para endurecer superfícies revestidas (armadura) e criar maquinários diamantados super-resistentes. Ele também é usado em óptica e como supercondutor em eletrônica.
+**Diamante:** Leve e superforte, o diamante artificial tem um ponto de fusão extremamente alto e condutividade térmica quase perfeita. Isso o torna a substância ideal para endurecer superfícies revestidas (blindagem) e criar maquinários diamantados super-resistentes. Ele também é usado em óptica e como supercondutor em eletrônica.
 
 **Fulerenos:** Os fulerenos são estruturas moleculares de carbono (tubos, esferas e outras formatos) que são extremamente fortes (bem mais fortes do que aço com mesmo peso), resistentes ao calor, e isolante ou supercondutor. Eles são usados em blindagens, eletrônicos, sistemas de sensores, sistemas médicos, e nos cabos de elevadores espaciais.
 
