@@ -6,7 +6,7 @@ Usar um truque para fazer um efeito nem sempre precisa de um teste. A descriçã
 
 Os truques psi-qui afetam apenas o assincro. Os truques psi-gama podem ser usados em si mesmo ou em outras vidas biológicas a curta distância. Embora não haja modificador para usar um truque de distância em você mesmo, usar truques de distância nos outros impõe um modificador de acordo com a distância.
 
-**Toque:** O alcance toque lhe dá um modificador +20 em seu Teste de Psi (mas não em truques usados em você mesmo). Você deve ter contato físico com o alvo (roupa, armadura, trajes de vácuo, etc. não impedem). Se o alvo evitar ser tocado, isso requer um ataque de luta bem-sucedido com uma ação rápida, aplicando o modificador +20 de toque simples. Esse ataque não causa dano, mas o alvo pode tentar Evasão para evitá-lo. Se você não conseguir tocar, você ainda pode usar o truque em alcance de queima-roupa.
+**Toque:** O alcance toque lhe dá um modificador +20 em seu Teste de Psi (mas não em truques usados em você mesmo). Você deve ter contato físico com o alvo (roupa, blindagem, trajes de vácuo, etc. não impedem). Se o alvo evitar ser tocado, isso requer um ataque de luta bem-sucedido com uma ação rápida, aplicando o modificador +20 de toque simples. Esse ataque não causa dano, mas o alvo pode tentar Evasão para evitá-lo. Se você não conseguir tocar, você ainda pode usar o truque em alcance de queima-roupa.
 
 **Queima-Roupa:** +10 no Teste de Psi (mas não em truques usados em você mesmo). Você deve estar a até 2 metros do alvo ou menos.
 
@@ -18,7 +18,7 @@ Os truques psi-qui afetam apenas o assincro. Os truques psi-gama podem ser usado
 
 Você não ter como alvo: sintemorfos, bots e veículos, com truques psi, pois eles não possuem sistemas biológicos. Prods e biomorfos com cibercérebros são menos suscetíveis; assincros sofrem um modificador −30 contra eles. Repare que infomorfos nunca podem ser alvo de truques psi, pois o psi não é eficaz dentro da mesh ou de simulespaços.
 
-Você deve ter linha de visão com o alvo ou estar ciente da presença dele em relação a você (por exemplo, usando o truque sentido de ego ou visualizando-o através de uma tacnet). Paredes com um total de Armadura/GD combinado de 100 ou mais bloquearão truques psi. Os modificadores de combate de distância para cobertura e alvos escondidos se aplicam aos Testes de Psi.
+Você deve ter linha de visão com o alvo ou estar ciente da presença dele em relação a você (por exemplo, usando o truque sentido de ego ou visualizando-o através de uma tacnet). Paredes com um total de Blindagem/GD combinado de 100 ou mais bloquearão truques psi. Os modificadores de combate de distância para cobertura e alvos escondidos se aplicam aos Testes de Psi.
 
 **Animais e Formas de Vida Menos Complexas:** Psi funciona contra qualquer criatura viva com um cérebro e/ou sistema nervoso. Contra animais parcialmente sapientes e parcialmente elevados, ele sofre um modificador −20. Contra animais não sapientes, sofre um modificador −30. Ele não tem efeito sobre ou contra formas de vida menos complexas como plantas, algas, bactérias, etc.
 
@@ -36,9 +36,9 @@ Se o assincro rolar uma falha crítica, ele sofre 1d6&nbsp;VD, pois o esforço p
 
 Se o assincro vencer com um sucesso crítico, dobre a potência do efeito do truque. No caso de ataques psi, o VD é dobrado.
 
-## Armadura Mental
+## Blindagem Mental
 
-Os truques [Armadura Psi](06-psi-sleight-summaries.md#psi-armor) e [Escudo Psi](06-psi-sleight-summaries.md#psi-shield) fornecem uma armadura mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma armadura física, essa armadura mental reduz a quantidade de dano infligida por uma agressão psíquica.
+Os truques [Blindagem Psi](06-psi-sleight-summaries.md#psi-armor) e [Escudo Psi](06-psi-sleight-summaries.md#psi-shield) fornecem uma blindagem mental, uma forma de calejamento neural contra ataques baseados em psi. Como uma blindagem física, essa blindagem mental reduz a quantidade de dano infligida por uma agressão psíquica.
 
 ## Consciência do Alvo
 
@@ -106,7 +106,7 @@ Escolha um dos seguintes efeitos para seu truque forçado:
 - **Alcance Aumentado:** Alcance dobrado; Queima-roupa se estende até 4 metros, Perto se estende até 20 metros. Esse efeito é cumulativo com o aumento de alcance contra outros assincros (Queima-roupa torna-se 6, Perto 30).
 - **Efeito Aumentado:** Quaisquer modificadores fornecidos pelo truque são dobrados. Por exemplo, +10 torna-se +20, +1 na parada torna-se +2; e assim por diante.
 - **Poder Aumentado:** O truque é resistido por Prova de VON ÷ 2.
-- **Penetração Aumentada:** A armadura do Escudo Psi é reduzida à metade.
+- **Penetração Aumentada:** A blindagem do Escudo Psi é reduzida à metade.
 - **Duração Aumentada:** Dobra a Duração do truque (apenas truques temporários).
 - **Alvo Extra:** Você pode afetar um alvo extra com o truque, com a mesma ação, contanto que cada um deles possa ser alvejado de acordo com as regras acima. Você rola apenas uma vez, com cada um dos personagens defensores fazendo testes opostos contra essa rolagem.
 
