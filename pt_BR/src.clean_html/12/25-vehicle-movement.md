@@ -16,11 +16,11 @@ Nem toda rolagem falhada de Atletismo ou Pilotagem deve resultar em uma batida. 
 
 ### Colisões
 
-Uma batida pode resultar em dano à carcaça (e seus ocupantes). Da mesma forma, se uma carcaça bate ou intencionalmente atropela uma pessoa ou objeto, alguém provavelmente vai se machucar. A tabela de Colisões indica o VD infligido. Se a carcaça atingir alguma coisa igualmente densa e dura, ambas sofrem dano. Se a carcaça atingir algo macio e flexível, como um biomorfo, a carcaça sofre apenas metade do dano. A armadura cinética protege contra dano de batida.
+Uma batida pode resultar em dano à carcaça (e seus ocupantes). Da mesma forma, se uma carcaça bate ou intencionalmente atropela uma pessoa ou objeto, alguém provavelmente vai se machucar. A tabela de Colisões indica o VD infligido. Se a carcaça atingir alguma coisa igualmente densa e dura, ambas sofrem dano. Se a carcaça atingir algo macio e flexível, como um biomorfo, a carcaça sofre apenas metade do dano. A blindagem cinética protege contra dano de batida.
 
 Se duas carcaças em movimento colidem de frente, calcule o dano das duas e inflija nas duas. Se duas carcaças se movendo na mesma direção colidem, considere apenas a diferença em velocidade.
 
-Passageiros em uma carcaça também podem sofre dano por colisões se não estiverem utilizando cintos de segurança apropriados. Eles sofrem metade do VD aplicado a sua carcaça (menos sua própria armadura cinética).
+Passageiros em uma carcaça também podem sofre dano por colisões se não estiverem utilizando cintos de segurança apropriados. Eles sofrem metade do VD aplicado a sua carcaça (menos sua própria blindagem cinética).
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -37,4 +37,4 @@ Passageiros em uma carcaça também podem sofre dano por colisões se não estiv
 
 ## Atacando Passageiros
 
-Você pode atacar passageiros dentro de uma carcaça separadamente do próprio veículo. Se mirar através de uma janela não blindada ou espaço aberto, o ataque não causa dano à carcaça (a não ser que uma arma de área de efeito seja usada), mas o passageiro pode se beneficiar da cobertura (−10 a −30). Se mirar através da carcaça, aplique os modificadores de cobertura, o passageiro adiciona a armadura da carcaça a sua própria e a carcaça sofre metade do dano (a não ser que o ataque seja de área de efeito).
+Você pode atacar passageiros dentro de uma carcaça separadamente do próprio veículo. Se mirar através de uma janela não blindada ou espaço aberto, o ataque não causa dano à carcaça (a não ser que uma arma de área de efeito seja usada), mas o passageiro pode se beneficiar da cobertura (−10 a −30). Se mirar através da carcaça, aplique os modificadores de cobertura, o passageiro adiciona a blindagem da carcaça a sua própria e a carcaça sofre metade do dano (a não ser que o ataque seja de área de efeito).
