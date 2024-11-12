@@ -125,7 +125,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Biomods, Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Wares:** Biomods, Biotrama (+2/+3), Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 
 <!-- CLEANED /div --></tr>
@@ -209,7 +209,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 
@@ -316,7 +316,7 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Falhas Inerentes, Morfologia Exótica (Nível 1)
-- **Notas:** Armação Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Blindagem 6/4)
 
 <!-- CLEANED /div --></tr>
 
@@ -328,7 +328,7 @@
 - **Taxa de Movimento:** Marcha 4/12
 - **Wares:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 
@@ -340,7 +340,7 @@
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
 - **Wares:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
+- **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
 <!-- CLEANED /div --></tr>
 
@@ -354,7 +354,7 @@
 - **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Ataque de Enxame (VD 1d6, ignora armadura, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
+- **Notas:** Ataque de Enxame (VD 1d6, ignora blindagem, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
 
 <!-- CLEANED /div --></tr>
 
@@ -366,7 +366,7 @@
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Armação Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Blindagem 6/4)
 
 <!-- CLEANED /div --></tr>
 
@@ -378,7 +378,7 @@
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Armação Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Blindagem 6/4)
 
 <!-- CLEANED /div --></tr>
 
@@ -392,7 +392,7 @@
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Armação Leve (Armadura 6/4)
+- **Notas:** Armação Leve (Blindagem 6/4)
 
 <!-- CLEANED /div --></tr>
 
@@ -404,7 +404,7 @@
 - **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
 - **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 2)
-- **Notas:** Armação Média (Armadura 8/6)
+- **Notas:** Armação Média (Blindagem 8/6)
 
 <!-- CLEANED /div --></tr>
 
@@ -416,7 +416,7 @@
 - **Taxa de Movimento:** Marcha 4/20
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
-- **Notas:** Armação Média (Armadura 8/6)
+- **Notas:** Armação Média (Blindagem 8/6)
 
 <!-- CLEANED /div --></tr>
 
@@ -428,7 +428,7 @@
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
 - **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Média (Armadura 8/6)
+- **Notas:** Armação Média (Blindagem 8/6)
 
 <!-- CLEANED /div --></tr>
 <tr><td>Ceifeiro<td>12&nbsp;PM<td>10<td>12<td>60<td>120<td>1<td>0<td>6<td>1</tr>
@@ -437,7 +437,7 @@
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
 - **Wares:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Pesada (Armadura 12/10)
+- **Notas:** Armação Pesada (Blindagem 12/10)
 
 <!-- CLEANED /div --></tr>
 </table>
@@ -452,7 +452,7 @@
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/12
 - **Wares:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
-- **Notas:** Armação Leve (Armadura 6/4), Tamanho Pequeno
+- **Notas:** Armação Leve (Blindagem 6/4), Tamanho Pequeno
 
 <!-- CLEANED /div --></tr>
 </table>
@@ -498,7 +498,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Wares:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
+- **Ajustes de Forma Comuns:** Armadura de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
 
 <!-- CLEANED /div --></tr>
 </table>
