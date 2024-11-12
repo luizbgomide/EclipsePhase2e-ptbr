@@ -53,7 +53,7 @@ Bastante utilizados em trabalhos braçais que envolvam a interação com outros 
 
 ### Novacancridae
 
-Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-aranha e cultivados para um tamanho maior (humano), os novacancridae são ideais para ambientes de trabalho perigosos, assim como funções de peão de vácuo, policial ou guarda-costas. Eles conseguem escalar, lidam bem com a microgravidade e podem suportar uma ampla gama de pressões atmosféricas (e mudanças súbitas de pressão), desde o vácuo até o mar profundo. Eles são equipados com dez patas de 2 metros, grandes garras, armaduras quitinosa, olhos compostos (com resolução de imagem equivalente à humana), guelras, dedos manipuladores hábeis em seu quinto par de membros, e cordas vocais transgênicas.
+Bioprojetados a partir de linhagens de caranguejo-dos-coqueiros e caranguejos-aranha e cultivados para um tamanho maior (humano), os novacancridae são ideais para ambientes de trabalho perigosos, assim como funções de peão de vácuo, policial ou guarda-costas. Eles conseguem escalar, lidam bem com a microgravidade e podem suportar uma ampla gama de pressões atmosféricas (e mudanças súbitas de pressão), desde o vácuo até o mar profundo. Eles são equipados com dez patas de 2 metros, grandes garras, armadura quitinosa, olhos compostos (com resolução de imagem equivalente à humana), guelras, dedos manipuladores hábeis em seu quinto par de membros, e cordas vocais transgênicas.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
@@ -124,7 +124,7 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Armadura de Biotrama (+2/+3), Audição Aprimorada, Biomods, Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Wares:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Extras Comuns:** Muitos estão equipados com [emissor de raios T](../16/06-sensory-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md). As variantes de fuzileiros espaciais possuem [pés preênseis](../16/11-physical-augmentations.md), [reserva de oxigênio](../16/11-physical-augmentations.md) e [vedação de vácuo](../16/11-physical-augmentations.md).
 
 <!-- CLEANED /blockquote -->
