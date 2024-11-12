@@ -47,7 +47,7 @@ _Blindagem cinética_ protege contra a transferência danosa de energia quando u
 
 Quando você é atingido em combate, subtraia seu VB do dano aplicado. Use a graduação de VB apropriada ao tipo de ataque. Ataques antiblindagem reduzem seu VB à metade.
 
-## Camadas de Blindagem
+## Camadas de Blindagens
 
 Você pode vestir várias camadas de blindagens, somando as graduações, mas isso é incômodo. Aplique um modificador −20 em todas as ações físicas para cada camada adicional de blindagem vestida. Se o total de alguma graduação de VB (quando usar camadas) exceder sua SOM, aplique um modificador −20 adicional e reduza sua Taxa de Movimento à metade, pois você está sobrecarregado. Se o VB exceder sua Durabilidade, você está sobrecarregado demais para se mover.
 
