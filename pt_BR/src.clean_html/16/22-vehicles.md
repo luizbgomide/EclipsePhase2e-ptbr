@@ -42,7 +42,7 @@ Alguns aprimoramentos são projetados especificamente para veículos, embora alg
 Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilíndricos de espaço aberto, aeronaves de vários tipos são usadas regularmente. Isso inclui versões modernas de asas rotativas (helicópteros, autogiros, rotores inclináveis), aviões de asas fixas, dirigíveis e outras aeronaves mais leves que o ar. Esses geralmente são impulsionados por turbofans ou motores a jato, rotores ou empuxo vetorial. Aeronaves são pilotadas com Pilotagem: Aérea e reparadas com Aparelhagem: Aeroespacial.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>AERONAVES<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>AERONAVES<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -94,7 +94,7 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhoram suas capacidades físicas. As juntas servo-hidráulicas do exoesqueleto imitam seus movimentos, como uma extensão do seu próprio corpo. Eles também podem ser operados remotamente. Os exoesqueletos listados aqui são estruturas abertas, o que significa que você está exposto; os trajes rígidos são fechados. A maioria dos exoesqueletos são projetados para personagens de tamanho médio, mas alguns projetos alternativos existem. Use suas perícias físicas normais quando vestir ou operar remotamente um exoesqueleto, e Aparelhagem: Veículos Terrestres para reparar.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>EXOESQUELETOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>EXOESQUELETOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -103,7 +103,7 @@ Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhor
 <tr><td>Carregador Atlas<td>Raro/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>Marcha 4/20<td>MG</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
-- **Notas:** +2 em Vigor, +2d10 em luta, perfura-armadura
+- **Notas:** +2 em Vigor, +2d10 em luta, antiblindagem
 
 <!-- CLEANED /div --></tr>
 
@@ -130,7 +130,7 @@ Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhor
 
 <!--sort-->
 
-**Carregador Atlas:** Esse exemplar comum de exoesqueleto industrial de uso pesado é grande (pouco mais de 3 metros de altura) e projetado para manusear objetos pesados/grandes. Apesar da armação aberta, o usuário está parcialmente protegido por uma gaiola de malha. O Atlas fornece um bônus +2 na parada de Vigor e aumenta o dano em luta em +2d10. O dano em luta também se torna perfura-armadura.
+**Carregador Atlas:** Esse exemplar comum de exoesqueleto industrial de uso pesado é grande (pouco mais de 3 metros de altura) e projetado para manusear objetos pesados/grandes. Apesar da armação aberta, o usuário está parcialmente protegido por uma gaiola de malha. O Atlas fornece um bônus +2 na parada de Vigor e aumenta o dano em luta em +2d10. O dano em luta também se torna antiblindagem.
 
 **Exoandador:** Os exoandadores são exoesqueletos de estrutura mínima, projetados principalmente para aumentar a força e movimento do usuário. Eles fornecem um bônus +1 na parada de Vigor, aumentam o dano em luta em +1d6, aumentam sua velocidade de marcha par 8/32 (rápido) e dobram sua distância de salto.
 
@@ -145,7 +145,7 @@ Os exoesqueletos são estruturas mecatrônicas motorizadas vestíveis que melhor
 Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transporte terrestre na maioria dos habitats, os carros e os ciclos são comuns em habitats maiores, luas e planetas. Conduza-os com Pilotagem: Terrestre e repare-os com Aparelhagem: Veículos Terrestres.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>VEÍCULOS TERRESTRES<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>VEÍCULOS TERRESTRES<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -200,10 +200,10 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 
 ## Trajes Rígidos
 
-Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada. Como trajes de vácuo padrões, eles possuem vedação ambiental, protegendo-o do vácuo, radiação e temperaturas de −175 até 140&nbsp;°C. Eles também selam automaticamente furos que inflijam menos de 30 pontos de dano. Os trajes rígidos são usados em ambientes extremos e condições perigosas, deste a atmosfera superior de um gigante gasoso até a superfície infernal repleta de ácido de Vênus. Os trajes rígidos são equipados para serem vestidos por dias, se necessário. Os ocupantes só podem vestir armadura com um Valor de Armadura (energética ou cinética) de 4 ou menos dentro do traje rígido; essa armadura vestida é cumulativa sem penalidades de camadas.
+Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada. Como trajes de vácuo padrões, eles possuem vedação ambiental, protegendo-o do vácuo, radiação e temperaturas de −175 até 140&nbsp;°C. Eles também selam automaticamente furos que inflijam menos de 30 pontos de dano. Os trajes rígidos são usados em ambientes extremos e condições perigosas, deste a atmosfera superior de um gigante gasoso até a superfície infernal repleta de ácido de Vênus. Os trajes rígidos são equipados para serem vestidos por dias, se necessário. Os ocupantes só podem vestir armadura com um Valor de Blindagem (energética ou cinética) de 4 ou menos dentro do traje rígido; essa armadura vestida é cumulativa sem penalidades de camadas.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>TRAJES RÍGIDOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>TRAJES RÍGIDOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -268,7 +268,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 Esses veículos desafiam as classificações, pois são projetados para lidar com vários ambientes. Use com Pilotagem: Terrestre, Pilotagem: Náutica, ou Pilotagem: Espacial como for apropriado ao ambiente, e repare com Aparelhagem: Veículos Terrestres, Aparelhagem: Náutica, ou Aparelhagem: Aeroespacial.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>VEÍCULOS HÍBRIDOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>VEÍCULOS HÍBRIDOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 
 <!--sort-->
 
@@ -302,7 +302,7 @@ Esses veículos desafiam as classificações, pois são projetados para lidar co
 Dentro do Sistema Solar, as embarcações náuticas são usadas para os mares metano de Titã e os oceanos subcrustais de Ceres e Europa. Eles são conduzidos com Pilotagem: Náutica e reparados com Aparelhagem: Náutica.
 
 <table class="centered stat-list tl1">
-<thead><tr><th>VEÍCULOS NÁUTICOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Armadura<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
+<thead><tr><th>VEÍCULOS NÁUTICOS<th>Comp/<!-- CLEANED wbr -->PE<th>Pass<th>Vigor<th>Flex<th>Blindagem<th>LF<th>DUR<th>GD<th>Movimento<th>Tam</tr></thead>
 <tr><td>Mini-Sub<td>Raro/—<td>4<td>1<td>0<td>12/10<td>50<td>250<td>500<td>8/32 Submerso<td>MG</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
@@ -319,11 +319,11 @@ Estes auxiliares de locomoção para uma pessoa são usados primariamente no esp
 
 <!--sort-->
 
-| TRANSPORTE PESSOAL | Comp/<!-- CLEANED wbr -->PE | Pass | Vigor | Flex | Armadura | LF | DUR | GD |           Movimento            | Tam |
-|:------------------ |:-------------------------------------:|:----:|:-----:|:----:|:--------:|:--:|:---:|:--:|:------------------------------:|:---:|
-| Mochila Foguete    |                 Mod/2                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
-| Trenó              |                 Men/1                 |  2   |   0   |  0   |   6/4    | 8  | 40  | 80 | Empuxo Vetorial (Foguete) 8/40 |  P  |
-| Mochila Propulsora |                 Men/1                 |  1   |   0   |  0   |   6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
+| TRANSPORTE PESSOAL | Comp/<!-- CLEANED wbr -->PE | Pass | Vigor | Flex | Blindagem | LF | DUR | GD |           Movimento            | Tam |
+|:------------------ |:-------------------------------------:|:----:|:-----:|:----:|:---------:|:--:|:---:|:--:|:------------------------------:|:---:|
+| Mochila Foguete    |                 Mod/2                 |  1   |   0   |  0   |    6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
+| Trenó              |                 Men/1                 |  2   |   0   |  0   |    6/4    | 8  | 40  | 80 | Empuxo Vetorial (Foguete) 8/40 |  P  |
+| Mochila Propulsora |                 Men/1                 |  1   |   0   |  0   |    6/4    | 6  | 30  | 60 | Empuxo Vetorial (Foguete) 8/40 |  P  |
 
 <!--sort-->
 
@@ -345,17 +345,17 @@ As espaçonaves têm poucos atributos em Eclipse Phase, pois elas são usadas pr
 
 <!--sort-->
 
-| ESPAÇONAVES      | Comp/<!-- CLEANED wbr -->PE |   Pass   | Vigor | Flex | Armadura | LF  |  DUR  |  GD   |                    Movimento                    |
-|:---------------- |:-------------------------------------:|:--------:|:-----:|:----:|:--------:|:---:|:-----:|:-----:|:-----------------------------------------------:|
-| Graneleiro       |                Raro/—                 |    5+    |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
-| Corveta          |                Raro/—                 |  20–30   |   0   |  0   |  50/40   | 150 |  750  | 1.500 | Fusão/<!-- CLEANED wbr -->Antimatéria |
-| Expresso         |                Raro/—                 |    13    |   0   |  0   |  30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
-| Destróier        |                Raro/—                 |    90    |   0   |  0   |  50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
-| Caça             |                Raro/—                 |   0/1    |   3   |  2   |  30/20   | 50  |  250  |  500  |                      Fusão                      |
-| Barcaça da Ralé  |                Raro/—                 | 5–25 mil |   0   |  0   |  40/30   | 300 | 1.500 | 3.000 |   Plasma/<!-- CLEANED wbr -->Fusão    |
-| Ônibus (Grande)  |                Raro/—                 |  20–300  |   0   |  0   |  20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
-| Ônibus (Pequeno) |                Raro/—                 |   5–20   |   0   |  0   |  20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
-| Transporte       |                Raro/—                 |   100+   |   0   |  0   |  40/30   | 150 |  750  | 1.500 |                      Fusão                      |
+| ESPAÇONAVES      | Comp/<!-- CLEANED wbr -->PE |   Pass   | Vigor | Flex | Blindagem | LF  |  DUR  |  GD   |                    Movimento                    |
+|:---------------- |:-------------------------------------:|:--------:|:-----:|:----:|:---------:|:---:|:-----:|:-----:|:-----------------------------------------------:|
+| Graneleiro       |                Raro/—                 |    5+    |   0   |  0   |   40/30   | 150 |  750  | 1.500 |                      Fusão                      |
+| Corveta          |                Raro/—                 |  20–30   |   0   |  0   |   50/40   | 150 |  750  | 1.500 | Fusão/<!-- CLEANED wbr -->Antimatéria |
+| Expresso         |                Raro/—                 |    13    |   0   |  0   |   30/20   | 100 |  500  | 1.000 |                   Antimatéria                   |
+| Destróier        |                Raro/—                 |    90    |   0   |  0   |   50/40   | 400 | 2.000 | 4.000 | Fusão/<!-- CLEANED wbr -->Antimatéria |
+| Caça             |                Raro/—                 |   0/1    |   3   |  2   |   30/20   | 50  |  250  |  500  |                      Fusão                      |
+| Barcaça da Ralé  |                Raro/—                 | 5–25 mil |   0   |  0   |   40/30   | 300 | 1.500 | 3.000 |   Plasma/<!-- CLEANED wbr -->Fusão    |
+| Ônibus (Grande)  |                Raro/—                 |  20–300  |   0   |  0   |   20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
+| Ônibus (Pequeno) |                Raro/—                 |   5–20   |   0   |  0   |   20/15   | 80  |  400  |  800  |               Hidrogênio Metálico               |
+| Transporte       |                Raro/—                 |   100+   |   0   |  0   |   40/30   | 150 |  750  | 1.500 |                      Fusão                      |
 
 <!--sort-->
 
