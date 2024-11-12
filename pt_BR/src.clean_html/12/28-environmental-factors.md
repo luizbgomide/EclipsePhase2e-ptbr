@@ -18,7 +18,7 @@ A descompressão explosiva ocorre quando o pressão do ar subitamente se esvai d
 
 ## Queda
 
-Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de Queda para determinar o resultado. Armadura cinética pode mitigar esse dano com metade do seu valor. O MJ pode reduzir esse dano se alguma coisa ajudar a suavizar a queda (galhos, superfície macia), a seu critério. Dobre as categorias de distância em baixa gravidade; reduza à metade em alta gravidade.
+Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de Queda para determinar o resultado. Blindagem cinética pode mitigar esse dano com metade do seu valor. O MJ pode reduzir esse dano se alguma coisa ajudar a suavizar a queda (galhos, superfície macia), a seu critério. Dobre as categorias de distância em baixa gravidade; reduza à metade em alta gravidade.
 
 <!-- CLEANED blockquote class="table" -->
 
@@ -35,7 +35,7 @@ Se a gravidade puxar você para uma colisão indesejada, use a tabela de Dano de
 
 ## Fogo
 
-Objetos que entrarem em contato com calor extremo ou chamas podem pegar fogo, a critério do MJ. Tenha em mente a inflamabilidade do material e a intensidade do calor/chamas. Itens ou personagens queimando sofrem VD 1d6 a cada turno de ação. Armadura energética os protege contra esse dano, embora ela também possa pegar fogo, reduzindo seu valor pelo dano infligido. Dependendo das condições ambientais, incêndios provavelmente vão crescer se não forem controlados. A cada 5 turnos de ação, aumente o VD infligido (primeiro para 1d10, depois 2d10, depois 3d10 e então em incrementos de +5). Condições adversas (como chuva) ou os esforços para apagar o incêndio vão reduzir o VD em conformidade.
+Objetos que entrarem em contato com calor extremo ou chamas podem pegar fogo, a critério do MJ. Tenha em mente a inflamabilidade do material e a intensidade do calor/chamas. Itens ou personagens queimando sofrem VD 1d6 a cada turno de ação. Blindagem energética os protege contra esse dano, embora ela também possa pegar fogo, reduzindo seu valor pelo dano infligido. Dependendo das condições ambientais, incêndios provavelmente vão crescer se não forem controlados. A cada 5 turnos de ação, aumente o VD infligido (primeiro para 1d10, depois 2d10, depois 3d10 e então em incrementos de +5). Condições adversas (como chuva) ou os esforços para apagar o incêndio vão reduzir o VD em conformidade.
 
 Observe que o fogo não queima no vácuo. Em microgravidade, o fogo queima em uma esfera e cresce mais lentamente, pois os gases em expansão afastam o oxigênio (aumente o VD a cada 10 turnos de ação). Não houver circulação de ar, alguns incêndios em microgravidade podem se extinguir sozinhos.
 
@@ -77,4 +77,3 @@ A alta gravidade é qualquer coisa significativamente mais forte do que a gravid
 Os fenômenos meteorológicos são um perigo recorrente em vários exoplanetas, dependendo das condições atmosféricas locais. Furacões, tornados, inundações, nevascas, tempestades de gelo, chuva ácida, e condições similares podem surgir rapidamente, danificar os equipamentos, e atrapalhar a mobilidade, os sensores e a comunicação. Marte ainda sofre com tempestades de poeira cegantes e sufocantes, espalhando partículas de poeira que entram em tudo e emperram as coisas. Vênus e os gigantes gasosos exibem vendavais e ciclones gigantescos que são devastadores para aeronaves e aeróstatos.
 
 <!--sort-end-->
-

@@ -13,7 +13,7 @@ Algumas vezes você é pego desprevinido e deve usar o que estiver a mão — ou
 | Corrente                                      |       1d10 \[6\]        |     Men      | Extensão             |
 | Cadeira                                       |     1d10 + 2 \[8\]      |     Men      | Duas Mãos            |
 | Capacete                                      |      1d6 + 2 \[6\]      |     Men      |                      |
-| Tocha de Plasma                               |     2d10 + 8 \[19\]     |     Men      | Perfura-Armadura     |
+| Tocha de Plasma                               |     2d10 + 8 \[19\]     |     Men      | Antiblindagem        |
 | Robô (Muito Pequeno)                          |      1d6 + 1 \[5\]      |              | Ocultável            |
 | Pedra                                         |      1d6 + 2 \[6\]      |     Men      | Ocultável            |
 | Navalha                                       |     1d10 − 1 \[5\]      |     Men      | Ocultável            |

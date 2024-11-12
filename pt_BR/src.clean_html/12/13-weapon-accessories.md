@@ -43,4 +43,3 @@ Os seguintes acessórios estão disponíveis para armas.
 **Ligação Inteligente:** Uma ligação Inteligente está inclusa automaticamente na maioria das armas. Ela conecta a arma aos seus insertos da mesh, colocando uma faixa de mira em seu campo de visão, e fornecendo informações de alcance e mira (negando o modificador −10 por não usar ligação inteligente ou mira laser). As ligações inteligentes também incorporam uma microcâmera que permite ao usuário ver o que a arma está apontado, disparar de trás de cobertura, etc. As ligações inteligentes também permitem outros tipos de controle de sistemas de armas, como alterar a [munição inteligente](09-kinetic-weapons.md#smart-ammo) ou programar [condições de acionamento](10-seeker-weapons-and-grenades.md#trigger-conditions) de buscadores.
 
 <!--sort-end-->
-

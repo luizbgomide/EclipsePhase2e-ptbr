@@ -14,7 +14,7 @@ A maioria das câmaras de ar são de um dos três tamanhos:
 
 As portas de câmaras de ar levam um turno de ação para abrir e fechar e 3 turnos de ação ou mais para preencherem ou evacuarem o ar.
 
-A Armadura e o GD de câmaras de ar podem ser encontrados em [Materiais Futuros](../12/27-future-materials.md).
+A Blindagem e o GD de câmaras de ar podem ser encontrados em [Materiais Futuros](../12/27-future-materials.md).
 
 ### Recursos de Segurança de Câmaras de Ar
 
@@ -56,7 +56,7 @@ Uma porta de passagem é simplesmente metade de uma câmara de ar. As passagens 
 
 Os cascos variam em composição e propriedades, desde cascos de ligas compostas dos cilindros até as espessas paredes de rochas silicatadas dos formigueiros. As superestruturas também variam; cilindros, esferas e toroides possuem treliças metálicas resistentes nas fundações e sustentando o material do casco, embora projetos antigos também tenham enormes vigamentos transversais ao longo do eixo interior. Formigueiros e bolhas de asteroide, por outro lado, dependem inteiramente em suas grossas paredes de rocha como superestrutura. Os habs enlatados são geralmente pequenos o bastante para o casco ser autoportante, exigindo pouco ou nenhum suporte interno, embora eles possam ser reforçados com isolamento ou blindagem de radiação.
 
-Armadura e GD para cascos estão detalhados em [Objetos & Estruturas](../12/26-objects-and-structures.md). Muitos cascos são “autorreparáveis”, o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e “cascos burros” devem ser reparados com chapas de metal e soldagem.
+Blindagem e GD para cascos estão detalhados em [Objetos & Estruturas](../12/26-objects-and-structures.md). Muitos cascos são “autorreparáveis”, o que significa que eles são equipados com bolsas de selante líquido que automaticamente preenche e endurecem perfurações, ou com enxames reparadores para reparar danos ao longo do tempo. Rompimentos graves e “cascos burros” devem ser reparados com chapas de metal e soldagem.
 
 Rompimentos no cascos em ambientes de baixa pressão têm o mesmo efeito que estourar uma câmara de ar.
 
@@ -88,6 +88,6 @@ Devido à ameaça representada por um colapso, os sistemas de reatores são semp
 
 Iniciar um desligamento de emergência seguro de um reator usa um Teste de Interface e uma ação complexa. O processo de desligamento real leva 2 turnos de ação. Um desligamento seguro mais gradual (para manutenções e similares) leva 6–12 horas.
 
-Danificar as paredes de um reator é perigoso. Se uma arma disparar próximo de um reator e falhar com uma falha maior, o ataque atingiu e provavelmente danificou a parede do reator. A contenção do reator possui Armadura 50/50, GD 200 e um Limiar de Ferimento de 20, e são [autorreparáveis](#hulls-and-superstructure). Se a parede receber dano suficiente para exceder seu GD ou sofrer um ferimento, um jato superaquecido de plasma escapa da contenção magnética e queima todos em até 10 metros que falhem em um Teste de Evasão (VD 6d10 + 10 \[43\], perfura-armadura, resistido com armadura energética). Toda a área também é inundada com intensa radiação, o que geralmente é letal para biomorfos.
+Danificar as paredes de um reator é perigoso. Se uma arma disparar próximo de um reator e falhar com uma falha maior, o ataque atingiu e provavelmente danificou a parede do reator. A contenção do reator possui Blindagem 50/50, GD 200 e um Limiar de Ferimento de 20, e são [autorreparáveis](#hulls-and-superstructure). Se a parede receber dano suficiente para exceder seu GD ou sofrer um ferimento, um jato superaquecido de plasma escapa da contenção magnética e queima todos em até 10 metros que falhem em um Teste de Evasão (VD 6d10 + 10 \[43\], antiblindagem, resistido com blindagem energética). Toda a área também é inundada com intensa radiação, o que geralmente é letal para biomorfos.
 
 Os rompimentos de plasma são catastroficamente ruins. Como os reatores usam fusão controlada, eles nunca vão explodir como uma arma nuclear, mas o plasma superaquecido vai derreter quase tudo ao seu redor. Os reatores de habitat geralmente incorporam sistemas de vapor pressurizados e turbinas; danos a esses sistemas, por um rompimento de plasma ou outro método, podem criar uma explosão devastadora.

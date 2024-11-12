@@ -128,7 +128,7 @@ Seu personagem tem nível de reputação em diferentes redes sociais. Essa rep v
 
 ## Equipamentos
 
-Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, armaduras, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
+Seu personagem terá acesso a diferentes tipos de equipamentos úteis: armas, blindagens, robôs, drogas, animais inteligentes, ferramentas e muito mais. Para simplificar as coisas, seu equipamento inicial é agrupado em pacotes de equipamentos baseados na sua carreira inicial. [Pacotes de Equipamentos](27-gear-packs.md). Você terá várias opções para adquirir equipamentos durante o jogo. [Aquisição de Equipamentos](../16/02-acquiring-gear.md).
 
 ## Motivações
 

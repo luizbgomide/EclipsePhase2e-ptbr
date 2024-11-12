@@ -165,4 +165,3 @@ A maioria das carcaças com rodas têm raios inteligentes que permitem que as ro
 Morfos e carcaças alados usam membros que produzem sustentação quando se movem pelo ar (eles não funcionam no vácuo). Sistemas com múltiplas asas controladas independentemente podem flutuar ou se mover rapidamente em qualquer direção. Aviões de asas fixas impulsionados por motores usam Pilotagem: Aérea.
 
 <!--sort-end-->
-

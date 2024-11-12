@@ -46,4 +46,3 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 **Máscara Sintética:** Sua carcaça está equipada com um revestimento realístico de pele falsa e foi cuidadosamente esculpida para parecer um biomorfo (talvez até uma pessoa específica). O morfo pode chorar, cuspir, fazer sexo e até sangrar se for cortado. Apenas um exame físico detalhado com −30 ou um escaneamento de radar ou raios X vai detectar a verdadeira natureza do sintemorfo. Se for disfarçado como uma pessoa específica, aplique um modificador +30 em Testes de Enganação baseados em disfarce ou Perícia Exótica: Disfarce.
 
 <!--sort-end-->
-

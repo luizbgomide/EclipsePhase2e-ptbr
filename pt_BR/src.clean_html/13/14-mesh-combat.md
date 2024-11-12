@@ -24,11 +24,11 @@ Se o defensor do sistema estiver ativamente protegendo o alvo ([Proteger Program
 
 Os firewalls são treinados para detectar ataques na mesh. Sempre que um invasor fizer um ataque na mesh, ele também deve fazer um Teste de Hackeamento. Se ele perder, um alerta passivo é acionado.
 
-## Dano e Armadura na Mesh
+## Dano e Blindagem na Mesh
 
 Se o seu ataque vencer, você inflige dano. Um ataque na mesh padrão inflige VD 2d10. Alguns apps ou circunstâncias especiais podem modificar esse dano. Cada sucesso maior inflige um dano de 1d6 extra. Os sucessos críticos significam que o dano é duplicado.
 
-Alguns apps, infomorfos e sistemas resistentes possuem redundâncias incorporadas para protegê-los de ataques na mesh. Isso conta como “armadura” e é subtraído da rolagem de dano.
+Alguns apps, infomorfos e sistemas resistentes possuem redundâncias incorporadas para protegê-los de ataques na mesh. Isso conta como “blindagem” e é subtraído da rolagem de dano.
 
 ## Ferimentos na Mesh
 

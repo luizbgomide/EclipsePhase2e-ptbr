@@ -85,4 +85,3 @@ Os nanobots da ferramenta também pode contornar a segurança de fechaduras elet
 **Emissor de Raios X:** Esse pequeno dispositivo emite um feixe focado de raios X de baixa potência projetado para ser usado com a ampliação de visão aprimorada, visores ou aprimoradores de visão similares. Ele permite que você veja objetos através de raios X e veja através de paredes, dentro de recipientes, e através de objetos medindo a retrodifusão da radiação de raios X ([Sentidos e Sensores](07-senses-and-sensors.md)).
 
 <!--sort-end-->
-

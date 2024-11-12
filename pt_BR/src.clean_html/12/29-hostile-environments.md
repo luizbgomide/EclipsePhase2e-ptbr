@@ -18,7 +18,7 @@ Observe que muitos gases atmosféricos não causam problemas à respiração —
 
 **Atmosfera Tóxica:** Netuno, Titã, Urano e Vênus todos possuem atmosferas tóxicas. Atmosferas semelhantes podem ser encontradas em alguns exoplanetas, ou podem ser intencionalmente criadas como uma medida de segurança dentro de um habitat ou estrutura. Um personagem que não conheça a toxicidade atmosférica e não prenda a respiração imediatamente (Prova de REF) sofre VD 2d10 por turno de ação.
 
-**Atmosfera Corrosiva:** Como em alguns exoplanetas, a atmosfera de Vênus também é corrosiva. Tais atmosferas são imediatamente perigosas: VD 1d10 por turno de ação, independentemente de você prender a respiração ou não. Aumente o VD para atmosferas com concentrações mais altas. A armadura só se aplica se estiver selada ambientalmente (e até que seja consumida). As atmosferas corrosivas danificarão veículos e equipamentos não equipados com blindagem anticorrosiva, infligindo 1 a 5&nbsp;VD por minuto, dependendo da concentração.
+**Atmosfera Corrosiva:** Como em alguns exoplanetas, a atmosfera de Vênus também é corrosiva. Tais atmosferas são imediatamente perigosas: VD 1d10 por turno de ação, independentemente de você prender a respiração ou não. Aumente o VD para atmosferas com concentrações mais altas. A blindagem só se aplica se estiver selada ambientalmente (e até que seja consumida). As atmosferas corrosivas danificarão veículos e equipamentos não equipados com blindagem anticorrosiva, infligindo 1 a 5&nbsp;VD por minuto, dependendo da concentração.
 
 ## Calor e Frio Extremos
 
@@ -64,4 +64,3 @@ Os biomorfos sem [vedação de vácuo](../16/11-physical-augmentations.md) podem
 Após um minuto no espaço, você começa a sofrer [asfixia](28-environmental-factors.md#asphyxiation). Os danos são dobrados se você segurar ar em seus pulmões ou não estiver enrolado em uma posição de sobrevivência no vácuo. Além disso, personagens presos no espaço sem proteção térmica adequada sofrem de um modificador −10 em todas as ações e 2&nbsp;VD por minuto.
 
 <!--sort-end-->
-
