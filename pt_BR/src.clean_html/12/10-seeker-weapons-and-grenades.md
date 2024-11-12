@@ -38,12 +38,12 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 | Ofuscante                                              |     Uniforme (50&nbsp;m)      |                 —                  |         —          |                    Mod/R/2                    | Cegante                     |
 | PEM                                                    |     Uniforme (50&nbsp;m)      | 3d10 \[17\] (apenas nanoenxames) |         —          |                    Mai/R/3                    | Desativa rádios             |
 | Gás/Fumaça                                             |     Uniforme (20&nbsp;m)      |                 —                  |         —          |                     Men/1                     |                             |
-| AEPA                                                   |               —               |         3d10 + 12 \[29\]         |         C          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
+| Perfurante de Armadura com Alto-Explosivo              |               —               |         3d10 + 12 \[29\]         |         C          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
 | Explosão de Plasma                                     |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                    Mai/R/3                    | Perfura-Armadura            |
 | Aspersor                                               |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                  Igual Carga                  |                             |
 | Atordoante                                             |     Uniforme (10&nbsp;m)      |          1d6 + 2 \[5\]           |         C          |                     Mod/2                     | Cegante, Choque, Derrubada  |
 | <!--sort-union--><p class="indent">» Sobrecarga</p>   |     Uniforme (10&nbsp;m)      |                 —                  |         —          |                                               | Cegante, Dor                |
-| Tático Multifuncional (TMF)                            |                               |                                    |                    |                    Mod/R/2                    |                             |
+| Tático Multifuncional                                  |                               |                                    |                    |                    Mod/R/2                    |                             |
 | <!--sort-union--><p class="indent">» Fragmentação</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 6 \[23\]          |         C          |                                               | Derrubada (raio 5 metros)   |
 | <!--sort-union--><p class="indent">» Alto-Explosivo</p>   |    Centrado (−2&nbsp;VD/m)    |         3d10 + 10 \[27\]         |         E          |                                               | Derrubada (raio 10 metros)  |
 | Termobárico                                            |     Uniforme (10&nbsp;m)      |         2d10 + 6 \[17\]          |         E          |                    Mai/R/3                    | Derrubada, Perfura-Armadura |
@@ -62,7 +62,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **Gás/Fumaça:** Munições de gás/fumaça lançam rapidamente uma nuvem densa com raio de 10 metros. A fumaça impede a visão (−20) com emissões densas de uma cor escolhida, e é aquecida para ocultar as assinaturas de calor em movimento pela fumaça como uma cobertura. Nuvens de fumaça duram 3 minutos, mas elas podem se mover ou dissipar mais rapidamente dependendo das condições ambientais (vento, chuva, etc.). Munições de gás aplicam uma dose a qualquer um dentro da nuvem, mas elas se dissipam depois de 3 turnos de ação.
 
-**Alto-Explosivo Perfurante de Armadura (AEPA)** Um projeto disponível apenas para buscadores (não granadas), as ogivas AEPA usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos AEPA não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
+**Perfurante de Armadura com Alto-Explosivo (PAAE)** Um projeto disponível apenas para buscadores (não granadas), as ogivas PAAE usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos PAAE não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
 
 **Explosão de Plasma:** Essas munições liberam uma explosão de plasma na detonação que produz um calor ardente e danos de fogo por toda a área de efeito sem as ondas de choque devastadoras de explosões normais, que poderiam repercutir em um ambiente confinado e/ou arrebentar a infraestrutura de um habitat.
 
@@ -117,4 +117,3 @@ Granadas modernas, buscadores e explosivos similares não detonam necessariament
 <!--sort-end-->
 
 <!--sort-end-->
-
