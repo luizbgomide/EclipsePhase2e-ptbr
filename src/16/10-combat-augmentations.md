@@ -11,7 +11,7 @@ The following augmentations have specific applications for combat and dangerous 
 | Energy Efficiency      |    BHM    |        Maj/3        | One extra short recharge per day.                                                    |
 | Hardened Skeleton      |    CH     |        Maj/3        | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.             |
 | Immunizers             |     N     |        Mod/2        | Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.       |
-| Medichines             |    NH     |        Maj/3        | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                      |
+| Medichines             |    HN     |        Maj/3        | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                      |
 | Muscle Augmentation    |    BCH    |        Maj/3        | Muscles enhanced with myofibers. +1d6&nbsp;\[4\]&nbsp;DV melee, +10&nbsp;SOM Checks. |
 | Nanophages             |     N     |        Mod/2        | SOM Check negates nanodrugs/toxins, failure halves effects.                          |
 | Nanopump               |     N     |  Min/1 + Nanodrug   | Nanobot hive, produces one type of nanodrug.                                         |
