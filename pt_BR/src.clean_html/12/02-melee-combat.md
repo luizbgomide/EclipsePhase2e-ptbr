@@ -44,7 +44,7 @@ Armamentos implantados podem ser combinados com enguiware para produzir choques 
 
 **Enguiware:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (equipaware) permitem que você atordoe com um toque chocante. Enguiwares podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
-**Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar armaduras modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora armadura).
+**Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar blindagens modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora blindagem).
 
 **Esporão:** Uma lâmina de material inteligente está ligada aos ossos atrás da mão, pés, ou outro lugar estratégico do morfo. Essa lâmina se estende até 15 centímetros por orifícos ocultos.
 
@@ -78,7 +78,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Luva de Choque:** Quando ativada, essa luva provoca um choque incapacitante junto com cada soco, agarramento ou toque.
 
-**Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar armaduras quando serrar cuidadosamente alguma coisa.
+**Vibrolâmina:** Essas lâminas eletrônicas vibram em alta frequência para uma maior capacidade de corte. Isso tem pouco efeito apunhalando ou cortando, mas podem perfurar blindagens quando serrar cuidadosamente alguma coisa.
 
 **Faca-Ferrão:** As facas-ferrão são equipadas com um cartucho de ar comprimido de uso único em seu punho. Quando apunhalar um alvo no vácuo ou em um ambiente pressurizado (como embaixo d'água), você pode acionar a liberação do gás para estourar na cavidade corporal da vítima, infligindo +2d10&nbsp;VD. Facas-ferrão também podem ser carregadas com químicos, drogas ou nanobots. O alvo deve sofrer dano para que o conteúdo do cartucho o afete.
 
