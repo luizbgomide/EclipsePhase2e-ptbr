@@ -18,7 +18,7 @@ Observe que muitos gases atmosféricos não causam problemas à respiração —
 
 **Atmosfera Tóxica:** Netuno, Titã, Urano e Vênus todos possuem atmosferas tóxicas. Atmosferas semelhantes podem ser encontradas em alguns exoplanetas, ou podem ser intencionalmente criadas como uma medida de segurança dentro de um habitat ou estrutura. Um personagem que não conheça a toxicidade atmosférica e não prenda a respiração imediatamente (Prova de REF) sofre VD 2d10 por turno de ação.
 
-**Atmosfera Corrosiva:** Como em alguns exoplanetas, a atmosfera de Vênus também é corrosiva. Tais atmosferas são imediatamente perigosas: VD 1d10 por turno de ação, independentemente de você prender a respiração ou não. Aumente o VD para atmosferas com concentrações mais altas. A armadura só se aplica se estiver selada ambientalmente (e até que seja consumida). As atmosferas corrosivas danificarão veículos e equipamentos não equipados com blindagem anticorrosiva, infligindo 1 a 5&nbsp;VD por minuto, dependendo da concentração.
+**Atmosfera Corrosiva:** Como em alguns exoplanetas, a atmosfera de Vênus também é corrosiva. Tais atmosferas são imediatamente perigosas: VD 1d10 por turno de ação, independentemente de você prender a respiração ou não. Aumente o VD para atmosferas com concentrações mais altas. A blindagem só se aplica se estiver selada ambientalmente (e até que seja consumida). As atmosferas corrosivas danificarão veículos e equipamentos não equipados com blindagem anticorrosiva, infligindo 1 a 5&nbsp;VD por minuto, dependendo da concentração.
 
 ## Calor e Frio Extremos
 
