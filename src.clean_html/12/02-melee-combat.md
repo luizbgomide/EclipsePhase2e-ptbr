@@ -117,19 +117,19 @@ On each subsequent action turn, a grappling character must spend a complex actio
 - **Knockdown:** Grappled victims must make a Melee Test or SOM Check at −30 or be knocked prone. They remain grappled and cannot stand up/re-orient until they are released or break free.
 - **Move:** The grappler can move themselves and the subdued opponent at half their Movement Rate.
 
-<!--sort-end-->
-
-## Multiple Targets
+### Multiple Targets
 
 When engaging in a melee attack, you may choose to attack two or more opponents with the same complex action. Each opponent must be within one meter of another attacked opponent. These attacks must be declared before the dice are rolled for the first attack. Each attack suffers a cumulative −20 modifier for each extra target. So if you attack three characters with the same action, you take −40 on each attack. Roll each attack and damage separately.
 
-## Reach
+### Reach
 
 Some weapons extend your reach, giving you a significant advantage over an opponent in melee. This applies to any weapon over half a meter long: axes, clubs, swords, shock batons, etc. Whenever you have a reach advantage over an opponent, you receive a +10 modifier for both attacking and defending. Some extra-long limbs or weapons provide a +20 bonus, as noted. For each size category ([Sizes](21-other-action-factors.md#sizes)) by which you exceed your opponent, apply a +10 Reach modifier, up to a maximum +30.
 
-## Touch-only Attacks
+### Touch-only Attacks
 
 Some attacks simply require you to touch your target, rather than injure them, and are correspondingly easier. This might apply when trying to slap them with a dermal drug patch, poking them with a stun baton, or making skin-to-skin contact for the use of a psi sleight. In situations like this, apply a +20 modifier to your melee attack. Melee shock attacks made with a touch-only bonus inflict no DV. (If you want to also inflict DV with the attack, you must attack without the +20 modifier.)
+
+<!--sort-end-->
 
 <!-- CLEANED blockquote class="table" -->
 
