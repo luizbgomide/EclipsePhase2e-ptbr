@@ -20,7 +20,7 @@ Um enxame que se divide deve dividir sua DUR/GD entre as unidades menores que ag
 
 ### Movimento
 
-Os enxames se movem em uma velocidade muito lenta, 2/8 para microenxames e 1/4 para nanoenxames. Os cartuchos e colmeias os dispersam com força, como uma nuvem de aerossol, permitindo que eles rapidamente se espalhem. Os ácaros individuais são leves o suficiente para flutuar nas correntes de ar; alguns usam hélices de nanocóptero para se erguerem e impulsionarem. Outros ácaros rastejam ou pulam. Os ácaros devem rastejar no vácuo	(reduza seu movimento à metade) e nadar na água ou outros líquidos (trate como [movimento difícil](../12/24-movement.md#difficult-movement)). Eles são vulneráveis a correntes de ar; ventos/líquidos de alta velocidade podem impedir o movimento ou levar o enxame embora (a critério do MJ).
+Os enxames se movem em uma velocidade muito lenta, 2/8 para microenxames e 1/4 para nanoenxames. Os cartuchos e colmeias os dispersam com força, como uma nuvem de aerossol, permitindo que eles rapidamente se espalhem. Os ácaros individuais são leves o suficiente para flutuar nas correntes de ar; alguns usam hélices de nanocóptero para se erguerem e impulsionarem. Outros ácaros rastejam ou pulam. Os ácaros devem rastejar no vácuo (reduza seu movimento à metade) e nadar na água ou outros líquidos (trate como [movimento difícil](../12/24-movement.md#difficult-movement)). Eles são vulneráveis a correntes de ar; ventos/líquidos de alta velocidade podem impedir o movimento ou levar o enxame embora (a critério do MJ).
 
 Enxames dispersos podem ser recolhidos e reutilizados. Coletar todos os ácaros leva cerca de 1 minuto, mais se estiverem muito dispersos.
 
