@@ -498,7 +498,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Wares:** Pneumáticos, Suporte de Arma (2)
-- **Ajustes de Forma Comuns:** Armadura de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
+- **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
 
 <!-- CLEANED /div --></tr>
 </table>
