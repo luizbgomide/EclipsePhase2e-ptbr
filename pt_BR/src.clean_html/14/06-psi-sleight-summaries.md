@@ -35,7 +35,7 @@ Todos os truques psi-qui são ações automáticas e possuem:<br> **Alcance:** P
 | [Centelha Interior](#inner-spark)                 | Recupera +1 ponto de parada durante recargas curtas.                                 |
 | [Reconhecimento de Padrões](#pattern-recognition) | Detectar padrões. +10 em Testes de Infoseg, Percepção ou Pesquisa apropriados.       |
 | [Impulso Preditivo](#predictive-boost)            | +2 em Iniciativa.                                                                    |
-| [Armadura Psi](#psi-armor)                        | Armadura mental igual a VON ÷ 3.                                                     |
+| [Blindagem Psi](#psi-armor)                       | Blindagem mental igual a VON ÷ 3.                                                    |
 | [Qualia](#qualia)                                 | Discernimento aumentado. +1 na parada de Inspiração.                                 |
 | [Cálculo Savant](#savant-calculation)             | Pode usar Prova de COG para responder questões matemáticas complexas.                |
 | [Embaralhamento](#scramble)                       | Esconder-se do truque sentido de ego; modificador −30.                               |
@@ -97,9 +97,9 @@ Você também aprende novos idiomas facilmente; reduza o prazo para semanas em v
 
 As funções de probabilidade bayesiana do seu cérebro são aceleradas, melhorando sua capacidade de estimar e prever os resultados dos eventos à medida que eles acontecem em tempo real ao seu redor. Com isso, você tem um senso intuitivo para os resultados mais prováveis. +2 em Iniciativa.
 
-### Armadura Psi
+### Blindagem Psi
 
-As defesas da sua mente são consolidadas. Você ganha armadura mental igual a sua VON ÷ 3 contra ataques psi.
+As defesas da sua mente são consolidadas. Você ganha blindagem mental igual a sua VON ÷ 3 contra ataques psi.
 
 ### Qualia
 
@@ -176,10 +176,10 @@ Truques psi-gama influenciam o funcionamento de mentes biológicas (egos em um b
 | [Imitação](#mimic)                             |  Rápida  |  Instantânea   |        4        | Registra os maneirismos dos alvo; +10 na perícia Enganação se passar pelo alvo, +10 por sucesso maior.                                                            |
 | [Ligação Mental](#mindlink)                    |  Rápida  |   Sustentada   |        2        | Telepatia.                                                                                                                                                        |
 | [Fortalecimento Neural](#neural-hardening)     | Complexa |    Minutos     |        4        | Alvo recebe um modificador +10 para resistir a hacks basiliscos.                                                                                                  |
-| [Pesadelo](#nightmare)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
+| [Pesadelo](#nightmare)                         | Complexa |  Instantânea   |        6        | Alvo recebe VE 2d10, +1d6 por sucesso maior, reduzido pela blindagem mental.                                                                                      |
 | [Dor](#pain)                                   | Complexa |  Instantânea   |        6        | Alvo é infligido com dor (como um agonizador), deve fugir com movimento total em sua próxima ação.                                                                |
-| [Escudo Psi](#psi-shield)                      | Complexa |   Sustentada   |        4        | Armadura mental aumentada em +1d6 (cumulativo com o truque Armadura Psi).                                                                                         |
-| [Punhalada Psíquica](#psychic-stab)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela armadura mental.                                                                                       |
+| [Escudo Psi](#psi-shield)                      | Complexa |   Sustentada   |        4        | Blindagem mental aumentada em +1d6 (cumulativo com o truque Blindagem Psi).                                                                                       |
+| [Punhalada Psíquica](#psychic-stab)            | Complexa |  Instantânea   |        6        | Alvo recebe VD 2d10, +1d6 por sucesso maior, reduzido pela blindagem mental.                                                                                      |
 | [Senso de Infecção](#sense-infection)          | Complexa |  Instantânea   |        2        | Detecta a infecção exsurgente em vida biológica.                                                                                                                  |
 | [Curto-Circuito](#short-circuit)               | Complexa |  Instantânea   |        6        | Sinapses do alvo falham, ele fica incapacitado por 1 turno de ação e atordoado por 3 minutos.                                                                     |
 | [Spam](#spam)                                  | Complexa | Turnos de Ação |        6        | Alvo é sobrecarregado pela entrada sensorial, −10 em todas as ações, com −10 adicional por sucesso maior.                                                         |
@@ -361,7 +361,7 @@ Você fortalece as vias e os mecanismos de entradas sensoriais do alvo. Por VON 
 
 **Ação:** Complexa • **Duração:** Instantânea • **Mod de Infecção:** 6
 
-Você bombardeia o alvo com imagens e sensações horríveis, corroendo a estabilidade mental dele. Você inflige 2d10&nbsp;VE ao alvo, +1d6 por sucesso maior. Isso é reduzido pela armadura mental.
+Você bombardeia o alvo com imagens e sensações horríveis, corroendo a estabilidade mental dele. Você inflige 2d10&nbsp;VE ao alvo, +1d6 por sucesso maior. Isso é reduzido pela blindagem mental.
 
 ### Dor
 
@@ -373,13 +373,13 @@ Você ativa os agrupamentos e terminações nervosas do alvo, infligindo uma sen
 
 **Ação:** Complexa • **Duração:** Sustentada • **Mod de Infecção:** 2
 
-Você mobiliza as defesas da mente contra ataques psíquicos. Aumente a armadura mental em 1d6, +1d6 por sucesso maior.
+Você mobiliza as defesas da mente contra ataques psíquicos. Aumente a blindagem mental em 1d6, +1d6 por sucesso maior.
 
 ### Punhalada Psíquica
 
 **Ação:** Complexa • **Duração:** Instantânea • **Mod de Infecção:** 6
 
-Você provoca perigosos impulsos neuroquímicos e bioretroalimentação no cérebro e sistema nervoso do alvo. Você inflige 2d10&nbsp;VD, +1d6 por sucesso maior, reduzido pela armadura mental.
+Você provoca perigosos impulsos neuroquímicos e bioretroalimentação no cérebro e sistema nervoso do alvo. Você inflige 2d10&nbsp;VD, +1d6 por sucesso maior, reduzido pela blindagem mental.
 
 ### Senso de Infecção
 
