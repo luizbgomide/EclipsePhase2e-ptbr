@@ -62,7 +62,7 @@ Cada míssil buscador pode funcionar como [munição tirocerto ou guiada](09-kin
 
 **Gás/Fumaça:** Munições de gás/fumaça lançam rapidamente uma nuvem densa com raio de 10 metros. A fumaça impede a visão (−20) com emissões densas de uma cor escolhida, e é aquecida para ocultar as assinaturas de calor em movimento pela fumaça como uma cobertura. Nuvens de fumaça duram 3 minutos, mas elas podem se mover ou dissipar mais rapidamente dependendo das condições ambientais (vento, chuva, etc.). Munições de gás aplicam uma dose a qualquer um dentro da nuvem, mas elas se dissipam depois de 3 turnos de ação.
 
-**Antiblindagem de Alto-Explosivo (ABAE)** Um projeto disponível apenas para buscadores (não granadas), as ogivas ABAE usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos PAAE não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
+**Antiblindagem de Alto-Explosivo (ABAE)** Um projeto disponível apenas para buscadores (não granadas), as ogivas ABAE usam alto-explosivos para explodir uma entrada para um cartucho penetrante de liga de tungstênio. Cartuchos ABAE não tem raio de explosão, mas são muito eficazes em penetrar blindagens.
 
 **Explosão de Plasma:** Essas munições liberam uma explosão de plasma na detonação que produz um calor ardente e danos de fogo por toda a área de efeito sem as ondas de choque devastadoras de explosões normais, que poderiam repercutir em um ambiente confinado e/ou arrebentar a infraestrutura de um habitat.
 
