@@ -14,7 +14,7 @@ Você pode querer estocar equipamento para a próxima missão, ou simplesmente p
 
 Enquanto estar preparado é um coisa inteligente, os MJs devem conter os jogadores que tentam acumular tudo o que puderem adquirir. Tal comportamento não é realista e certamente levaria o personagem a se afastar de seus amigos ou queimar rep ou Recursos.
 
-## Mudar sua Motivação
+## Mudar Sua Motivação
 
 À medida que você atinge os seus objetivos, tem novas experiências, e desenvolvas novas agendas, suas motivações podem mudar. Concluir as coisas e redirecionar seu foco permite que você mude uma das suas motivações.
 
