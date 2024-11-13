@@ -16,7 +16,7 @@ Se o alvo estiver no [modo privativo](01-everyware.md#modo-privativo), aplique u
 
 ### Rastreando por Biometria
 
-A prevalência de ciscos sensores, fluxos de XP e apps de reconhecimento biométrico possibilitam rastrear as pessoas por seu rosto, morfo, modo de andar, voz, roupas, equipamentos, assinaturas térmicas, cheiro e outras características físicas. No entanto, a enorme quantidade de sensores e pessoas pode tornar isso desafiador e disparar tanto falsos-positivos como falsos-negativos. O sucesso de buscas desse tipo é deixado ao gosto do MJ, mas um Teste de Percepção (se estiver observando) ou Pesquisa (se usar um app de comparação biométrico) também pode ser exigido, modificado apropriadamente pelo tamanho da área vigiada, como indicado na tabela de Pesquisas Biométricas.
+A prevalência de nódulos sensores, fluxos de XP e apps de reconhecimento biométrico possibilitam rastrear as pessoas por seu rosto, morfo, modo de andar, voz, roupas, equipamentos, assinaturas térmicas, cheiro e outras características físicas. No entanto, a enorme quantidade de sensores e pessoas pode tornar isso desafiador e disparar tanto falsos-positivos como falsos-negativos. O sucesso de buscas desse tipo é deixado ao gosto do MJ, mas um Teste de Percepção (se estiver observando) ou Pesquisa (se usar um app de comparação biométrico) também pode ser exigido, modificado apropriadamente pelo tamanho da área vigiada, como indicado na tabela de Pesquisas Biométricas.
 
 Se o alvo estiver ativamente evitando a detecção de sensores, esse Teste de Pesquisa é oposto pela perícia Infiltração do alvo (ou Perícia Exótica: Disfarce).
 
@@ -71,7 +71,7 @@ As IDs descartáveis são ideais pois elas só são usadas por curtos períodos.
 
 ### Serviços de Intermediação Anônima
 
-Muitas pessoas têm interesse em manter os seus assuntos anônimos. Para atender a essa demanda, os fornecedores de serviços online oferecem contas de intermediação anônima. Basta primeiro logar em sua conta anônima e rotear todo o seu tráfego através do nodo de saída. Toda a atividade da mesh conduzida pela intermediação anônima vai usar o mesh ID da intermediação. As tentativas de rastrear esse mesh ID terminarão no serviço de anonimização. Suas interações com o serviço de anonimização não são logadas, então mesmo se os servidores do fornecedor forem hackeados, um invasor não encontrará nenhuma pista. Enquanto algumas contas anônimas são estabelecidas para uso regular, os verdadeiramente paranóicos usam contas descartáveis para ter máxima segurança.
+Muitas pessoas têm interesse em manter os seus assuntos anônimos. Para atender a essa demanda, os fornecedores de serviços online oferecem contas de intermediação anônima. Basta primeiro logar em sua conta anônima e rotear todo o seu tráfego através do nó de saída. Toda a atividade da mesh conduzida pela intermediação anônima vai usar o mesh ID da intermediação. As tentativas de rastrear esse mesh ID terminarão no serviço de anonimização. Suas interações com o serviço de anonimização não são logadas, então mesmo se os servidores do fornecedor forem hackeados, um invasor não encontrará nenhuma pista. Enquanto algumas contas anônimas são estabelecidas para uso regular, os verdadeiramente paranóicos usam contas descartáveis para ter máxima segurança.
 
 Rastrear uma conta anônima é uma impossibilidade prática e algo que apenas uma organização extremamente engenhosa empregando um esforço caro e sistemático poderia tentar.
 

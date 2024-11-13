@@ -85,7 +85,7 @@
   - [Ambientes Hostis](12/29-hostile-environments.md)
   - [Ações de Recesso](12/30-downtime-actions.md)
 - [A Mesh](13/00-the-mesh.md)
-  - [Ubíquo-ware](13/01-everyware.md)
+  - [Computação Ubíqua](13/01-everyware.md)
   - [Topologia da Mesh](13/02-mesh-topology.md)
   - [Usos Comuns da Mesh](13/03-common-mesh-uses.md)
   - [Dispositivos, Apps, & Ligações](13/04-devices-apps-and-links.md)

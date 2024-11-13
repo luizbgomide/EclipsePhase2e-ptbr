@@ -16,7 +16,7 @@ Se o app de firewall em um dispositivo for excluído ou travado, testes para hac
 
 | Dispositivo | Graduação do Firewall |
 |:-----------:|:---------------------:|
-|    Cisco    |          30           |
+|   Nódulo    |          30           |
 |  Terminal   |          50           |
 |  Servidor   |          70           |
 
@@ -120,7 +120,7 @@ Os defensores podem iniciar um rastreamento em um invasor descoberto. A maioria 
 
 A opção nuclear para lidar com um intruso é reinicializar ou desligar o sistema. Nesse caso, o sistema fecha todas as conexões com outros sistemas, desloga os usuários, encerra todos os processos e se desliga — expulsando assim o invasor (pelo menos temporariamente). A desvantagem, é claro, é que o sistema deve interromper suas atividades. Por exemplo, desligar seus insertos da mesh significa perder toda a comunicação com os companheiros de equipe, acesso à realidade aumentada e controle sobre dispositivos subordinados/vinculados. O invasor pode tentar acessar o sistema quando ele for reinicializado, mas se ele não tiver credenciais de conta ou uma brecha, ele vai precisar hackear novamente. Os defensores remotos também precisarão fazer uma ação para logar de volta.
 
-Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o processo de desligamento real leva 1d6 turnos de ação (ciscos e terminais) ou 1d6 minutos (servidores). A reinicialização demora uma quantidade de tempo equivalente.
+Iniciar uma reinicialização/desligamento usa apenas uma ação complexa, mas o processo de desligamento real leva 1d6 turnos de ação (nódulos e terminais) ou 1d6 minutos (servidores). A reinicialização demora uma quantidade de tempo equivalente.
 
 Os usuários logados (incluindo invasores) são avisados quando uma reinicialização ou desligamento foi iniciada. Uma vez iniciado, o processo de desligamento não pode ser interrompido, mas pode ser prolongado por 1d6 turnos de ação com uma ação complexa; isso requer privilégios de segurança/administrador ou um Teste de Infoseg.
 
@@ -142,7 +142,7 @@ Os sistemas preocupados com sua segurança são submetidos a auditorias regularm
 
 Cada sistema é único e lida com a segurança de forma diferente. O MJ determina as configurações de cada sistema.
 
-**Ciscos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são subordinados de um nodo controlador de "gargalo" com melhor segurança (esse é o caso na maioria das PANs).
+**Nódulos** são notórios pode ter mínima segurança e defesas desatualizadas. Às vezes, porém, eles são subordinados de um nó controlador de "gargalo" com melhor segurança (esse é o caso na maioria das PANs).
 
 **Terminais** têm defesas que dependem em grande parte da consciência de segurança de seu proprietário. As musas agem como defensoras do sistema para insertos da mesh e ectos.
 

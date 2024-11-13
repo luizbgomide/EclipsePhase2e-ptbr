@@ -30,7 +30,7 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 | <!--sort-union-->Ligação Laser/Micro-Ondas (Pequeno) |                 Mod/2                 | Ligação de comunicação de feixe estreito, alcance de linha de visão de 50/500&nbsp;km.  |
 | Pacote de Satélites                                            |                 Mai/3                 | Coloca satélites em órbita para GPS, imageamento, comunicações, Saber: Meteorologia 60. |
 | Sinalizador de Emergência                                      |                 Men/1                 | Poderoso transmissor de rádio, alcance de 50/500&nbsp;km.                               |
-| Sistema de Migalhas                                            |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                    |
+| Sistema de Migalhas                                            |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                   |
 
 <!--sort-->
 
@@ -44,7 +44,7 @@ Uma variedade de tecnologias são úteis para manter as linhas de comunicação 
 
 **Sinalizador de Emergência:** Esse poderoso transmissor de rádio vai transmitir qualquer sinal de emergência programado e dados de posicionamento por anos. Embora pequeno e portátil, esse sinalizador tem um alcance de 500&nbsp;km em áreas urbanas e 5.000&nbsp;km em outros lugares. Ele transmite especificamente em frequências monitoradas por satélites (se houver) e espaçonaves. O sinalizador só transmite, ele não recebe mensagens. Sinalizadores possuem tanto sensores de impacto quanto sensores ambientais, e podem ser configurados para ativarem automaticamente por forças G, vácuo ou outras condições específicas.
 
-**Sistema de Migalhas:** Esse dispositivo vestível libera ciscos de “micromigalhas” para trás conforme você se move, aproximadamente a cada 25 metros. Esses dispositivos formam mesh uns com os outros e com outros dispositivos, permitindo que você mapeie a sua posição em relação ao rastro de migalhas e criando uma conexão mesh por todo o caminho até a origem do rastro. Isso é útil para rastrear seus deslocamentos, achar seu caminho de volta, e manter-se em mesh com seu acampamento ou nave em habitats abandonados, áreas selvagens e outros lugares onde não há uma mesh local funcional.
+**Sistema de Migalhas:** Esse dispositivo vestível libera nódulos de “micromigalhas” para trás conforme você se move, aproximadamente a cada 25 metros. Esses dispositivos formam mesh uns com os outros e com outros dispositivos, permitindo que você mapeie a sua posição em relação ao rastro de migalhas e criando uma conexão mesh por todo o caminho até a origem do rastro. Isso é útil para rastrear seus deslocamentos, achar seu caminho de volta, e manter-se em mesh com seu acampamento ou nave em habitats abandonados, áreas selvagens e outros lugares onde não há uma mesh local funcional.
 
 <!--sort-end-->
 
@@ -98,7 +98,7 @@ Estes equipamentos formam os componentes fundamentais da mesh ([Dispositivos, Ap
 | APARELHOS DA MESH      | Comp/<wbr>PE | Descrição                                                                  |
 |:---------------------- |:-------------------------------------:|:-------------------------------------------------------------------------- |
 | Cabo de Fibra Óptica   |                 Men/1                 | Conexão cabeada para dispositivos.                                         |
-| Ciscos                 |                 Men/1                 | Cria mesh sem fio e redes de vigilância sobre uma área.                    |
+| Nódulos                |                 Men/1                 | Cria mesh sem fio e redes de vigilância sobre uma área.                    |
 | Terminal               |                 Men/1                 | Tablets, estações de trabalho e terminais similares. Executa 1 infomorfo.  |
 | Servidor               |                 Mod/2                 | Computador maior. Executa RV e múltiplos infomorfos.                       |
 | Servidor Aprimorado    |                 Mai/3                 | Servidor mais rápido e seguro. −10 em Infoseg para hackear.                |
@@ -110,7 +110,7 @@ Estes equipamentos formam os componentes fundamentais da mesh ([Dispositivos, Ap
 
 **Terminal:** Terminais incluem tablets, estações de trabalho e terminais similares. Eles conseguem executar um único infomorfo.
 
-**Ciscos:** Esses computadores de tamanho micro vêm em pacotes de 500 e são projetados para serem espalhados sobre uma área ampla (manualmente, por drone, ou outros meios criativos) para criar uma rede mesh sem fio. Os ciscos individuais usam almofadas aderentes para aderir às superfícies. Eles também estão equipados com câmeras (espectro visual apenas) e microfones.
+**Nódulos:** Esses computadores de tamanho micro vêm em pacotes de 500 e são projetados para serem espalhados sobre uma área ampla (manualmente, por drone, ou outros meios criativos) para criar uma rede mesh sem fio. Os nódulos individuais usam almofadas aderentes para aderir às superfícies. Eles também estão equipados com câmeras (espectro visual apenas) e microfones.
 
 **Servidor:** Um servidor é um computador de grande porte, não portátil, capaz de executar simulespaços de RV e múltiplos infomorfos.
 

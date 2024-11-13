@@ -748,7 +748,7 @@
 12/30-downtime-actions.md#lose-a-negative-ego-trait	perder-um-traço-negativo-de-ego
 12/30-downtime-actions.md#specialize	especializar-se
 13/00-the-mesh.md#the-mesh	a-mesh
-13/01-everyware.md#everyware	ubíquo-ware
+13/01-everyware.md#everyware	computação-ubíqua
 13/01-everyware.md#getting-online	ficando-online
 13/01-everyware.md#your-online-presence	sua-presença-online
 13/01-everyware.md#privacy-mode	modo-privativo
@@ -779,7 +779,7 @@
 13/03-common-mesh-uses.md#virtual-reality-vr	realidade-virtual-rv
 13/04-devices-apps-and-links.md#devices-apps--links	dispositivos-apps--ligações
 13/04-devices-apps-and-links.md#hardware	aparelhos
-13/04-devices-apps-and-links.md#motes	ciscos
+13/04-devices-apps-and-links.md#motes	nódulos
 13/04-devices-apps-and-links.md#hosts	terminais
 13/04-devices-apps-and-links.md#servers	servidores
 13/04-devices-apps-and-links.md#overloaded-devices	dispositivos-sobrecarregados

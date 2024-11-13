@@ -67,7 +67,7 @@ Programas (exceto consoles de contas) ainda podem ser atacados depois de serem t
 | <!--sort-union--><p class="indent">» Ikon</p> |          6          |      30      |         60         |
 | <!--sort-union--><p class="indent">» Operador</p> |          7          |      35      |         70         |
 | Sistema Operacional                                  |                     |              |                    |
-| <!--sort-union--><p class="indent">» Cisco</p> |          4          |      20      |         40         |
+| <!--sort-union--><p class="indent">» Nódulo</p> |          4          |      20      |         40         |
 | <!--sort-union--><p class="indent">» Terminal</p> |          8          |      40      |         80         |
 | <!--sort-union--><p class="indent">» Servidor</p> |         12          |      60      |        120         |
 

@@ -163,7 +163,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Gravador de Missão](../16/16-comms-and-mesh-gear.md#comunicações)  |                 Men/1                 | Grava todos os dados da missão.                                                                    |
 | [Míssil Esquadrinhador](../16/18-mission-gear.md#ferramentas-de-exploração)   |                 Mod/2                 | Mapeia um raio de 5&nbsp;km ou 10&nbsp;km em uma direção em 20 minutos, Percepção 60.              |
 | [Sentido Direcional](../16/06-sensory-augmentations.md)               |                 Men/1                 | Sentido inato de direção e distância.                                                              |
-| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações) |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                               |
+| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações) |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                              |
 | [Tenda Pressurizada](../16/18-mission-gear.md#ferramentas-de-sobrevivência)         |                 Mod/2                 | Abrigo automontante para 4, respirador embutido.                                                   |
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                 |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 
@@ -286,7 +286,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Machado Diamantado](../12/02-melee-combat.md#armas-de-luta)                          |                 Men/1                 | VD 2d10 + 3, Antiblindagem, Duas Mãos, Extensão.                                                            |
 | [Mula-Robô](../16/21-robots.md#bots-utilitários)                                          |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
 | [Nanodetector](../16/19-nanotech.md)                                                  |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
-| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações)                 |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                                        |
+| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações)                 |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                                       |
 
 ### Técnico
 

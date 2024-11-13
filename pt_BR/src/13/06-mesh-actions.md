@@ -8,17 +8,14 @@ A menos que indicado de outra forma, essas ações usam uma ação complexa, mas
 
 ## Ações Universais
 
-Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros eletrônicos.
+Essas ações se aplicam a nódulos, terminais, servidores e a maioria dos outros eletrônicos.
 
 Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de segurança ou de administrador.
 
 <!--sort-->
 
 - **Acesso Outro Sistema:** Você pode [autenticar](05-authentication-and-encryption.md#métodos-de-autenticação) e acessar uma conta em outro sistema. Isso cria um [console de conta](05-authentication-and-encryption.md#contas--privilégios-de-acesso), representando sua presença nesse sistema.
-- **Alternar Tema de RA:** Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor ([Tematização](03-common-mesh-uses.md#tematização)).
 - **Aplicar Tag:** Você pode marcar uma pessoa, local ou coisa física com uma e-tag visível em RA ([Tags](03-common-mesh-uses.md#tags)).
-- **Ativar Modo Privativo:** Você pode definir o seu perfil público como privado ou público ([Modo Privativo](01-everyware.md#modo-privativo)) com uma ação rápida. Você também pode ativar a opção de permitir que a polícia/segurança anule suas configurações de privacidade.
-- **Ativar Simulespaço:** Você pode entrar ou sair de um ambiente de simulespaço ([Realidade Virtual](18-virtual-reality.md)).
 - **Camuflar Sinais Sem Fio:** Você pode tentar esconder sua atividade sem fio ([Sinais Camuflados](04-devices-apps-and-links.md#sinais-camuflados)).
 - **Comunicar:** Você pode conversar por e-mail, texto, voz ou vídeo com outros online, contanto que tenha a mesh ID deles.
 - **Criptografar/Descriptografar:** Você pode proteger um arquivo contra bisbilhoteiros ou acessá-lo com a autorização adequada ([Criptografia](05-authentication-and-encryption.md#criptografia)).
@@ -29,6 +26,9 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 - **Executar Script:** Iniciar um script pré-programado ([Scripts](#scripts)).
 - **Filtrar Névoa de RA:** Você pode tentar remover o spam e outros da “névoa” importuna de RA ([Névoa de RA e Filtros](03-common-mesh-uses.md#névoa-de-ra-e-filtros)).
 - **Identificar Atacante:** Você pode tentar identificar alguém tentando travar você em combate na mesh ([Consciência de Ataques](14-mesh-combat.md#ataque-e-defesa-na-mesh)).
+- **Ligar/Desligar Modo Privativo:** Você pode definir o seu perfil público como privado ou público ([Modo Privativo](01-everyware.md#modo-privativo)) com uma ação rápida. Você também pode ativar a opção de permitir que a polícia/segurança anule suas configurações de privacidade.
+- **Ligar/Desligar Simulespaço:** Você pode entrar ou sair de um ambiente de simulespaço ([Realidade Virtual](18-virtual-reality.md)).
+- **Ligar/Desligar Tema de RA:** Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor ([Tematização](03-common-mesh-uses.md#tematização)).
 - **Modificar Arquivos:** Você pode visualizar, alterar, fazer upload, download e excluir os arquivos que você tem privilégio de acesso. Os arquivos excluídos ainda podem ser recuperados com um Teste de Interface por 1 semana, embora você também possa optar por eliminar (excluir permanentemente) um arquivo para que nenhuma recuperação seja possível; no entanto, backups arquivados também podem existir.
 - **Operar Dispositivo:** A maioria dos dispositivos possui aparelhos embutidos e funções eletrônicas que você pode controlar diretamente. Ligar o seu veículo, carregar um diagrama de autocozedor, aumentar o aquecimento, desligar os sprinklers, abrir a porta, definir um temporizador, disparar um sistema de armas, ajustar configurações, etc. Ao critério do MJ, algumas funções pode exigir testes de perícia.
 - **Pesquisar:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](09-online-research.md)).
@@ -67,7 +67,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 <!--sort-->
 
 - **Desativar Sensores ou Funções de Dispositivo:** Você pode desligar sensores ou outras funções físicas. Isso pode impedir que alguém com acesso físico ao dispositivo o utilize.
-- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
+- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
 - **Modificar Contas:** Você pode adicionar novas contas e remover antigas. Não é possível remover contas que estão sendo acessadas no momento — o usuário deve deslogar completamente primeiro (ou ter seu console de conta travado em combate na mesh). Todo dispositivo tem uma conta de administrador root que não pode ser removida (sem eliminar o sistema).
 - **Modificar Privilégios:** Você pode adicionar ou remover privilégios específicos, como permitir o acesso a determinados diretórios, arquivos, sensores ou apps. Você também pode rebaixar contas de segurança para privilégios de usuários ou elevar contas de usuário para contas de segurança e contas de segurança para contas de administrador. Você pode remover ou rebaixar privilégios de administrador de outras contas, entretanto todo dispositivo tem uma conta de administrador root que não pode ser modificada (em ware, isso geralmente significa a pessoa em que eles estão instalados).
 - **Modificar Programa:** Você pode instalar, remover e atualizar apps.

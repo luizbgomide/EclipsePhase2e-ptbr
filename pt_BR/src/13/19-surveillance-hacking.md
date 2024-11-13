@@ -28,11 +28,11 @@ De forma parecida, os [ofuscantes](../12/10-seeker-weapons-and-grenades.md#míss
 
 O hackeamento seletivo de sensores pode ser bastante útil, principalmente em situações em que a cobertura é mínima. Isso também lhe dá muitas opções: desativar sensores, bloquear a transmissão de dados, apagar gravações, repetir o fluxo ou injetar dados falsos do sensor.
 
-**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os ciscos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](11-hacking.md#hackeamento-consolidado) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
+**Hackeamento em Massa:** Em áreas com grande cobertura de sensores, hackear todos os sensores é mais desafiador. Felizmente, os nódulos tendem a ser menos seguros. Trate isso como uma única ação de tarefa de [hackeamento consolidado](11-hacking.md#hackeamento-consolidado) contra todos os sensores em uma área como um grupo. O MJ pode aplicar modificadores adicionais para o número de sensores (−10 para cada grupo de 5).
 
 ## Devassando Sensores
 
-Devassar é parecido com um bloqueio permanente. A maioria dos sensores são ciscos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#mísseis-buscadores-e-granadas) efetivamente destroem a capacidade de comunicação sem fio dos ciscos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
+Devassar é parecido com um bloqueio permanente. A maioria dos sensores são nódulos, e embora seus componentes eletrônicos ópticos os protejam de pulsos eletromagnéticos, suas antenas são vulneráveis. Surtos EM usando um [devassador](../16/17-espionage-and-security-tech.md) ou [granada de PEM](../12/10-seeker-weapons-and-grenades.md#mísseis-buscadores-e-granadas) efetivamente destroem a capacidade de comunicação sem fio dos nódulos na área. Os pulso EM também são bastante eficazes contra nanoenxames. A devassa é uma técnica preferida por grupos criminosos, por causa do seu efeito mais longo, já que os sensores na área devem ser fisicamente substituídos/reparados.
 
 ## Zonas Mortas
 
@@ -76,7 +76,7 @@ As ILAs que monitoram os sensores públicos de segurança de um habitat geralmen
 
 **Log 2506DQ09:1200:** Análise genética confirma que o cadáver é um modelo olímpico com modificações adicionais. Fabricante identificado em código genético como PlayMates Limited, uma hipercorp agora extinta. Toxicologia negativa. No entanto, bioescaneadores encontraram alguns traços virais incomuns que ainda estão sendo analisados.
 
-**Log 2506DQ09:1600:** Revisão de 28 locais indica que corpo provavelmente não foi desovado em nenhum deles. A análise de sensores nos outros 3 locais indica 1 falha de local devido à manutenção inadequada nas últimas semanas. Sensores nos outros 2 locais falharam a menos de uma hora um do outro, dentro de 24 horas do descarte do corpo. Os ciscos provavelmente foram devassados por grupos hostis.
+**Log 2506DQ09:1600:** Revisão de 28 locais indica que corpo provavelmente não foi desovado em nenhum deles. A análise de sensores nos outros 3 locais indica 1 falha de local devido à manutenção inadequada nas últimas semanas. Sensores nos outros 2 locais falharam a menos de uma hora um do outro, dentro de 24 horas do descarte do corpo. Os nódulos provavelmente foram devassados por grupos hostis.
 
 **Log 2506DQ09:2300:** Uma análise de todo habitat por falhas na rede de sensores públicos indica uma área combinada que teve um porção substancial da cobertura de sensores devassada no mesmo período de 2 horas. Isso provavelmente foi feito para abrir caminho para o transporte não detectado do corpo para o ponto de coleta de reciclagem. É uma área grande o bastante para que o análise de tráfego a longo prazo do seu perímetro seria demorada e dispendiosa. Dada baixa classificação de prioridade, análise não aprovada.
 

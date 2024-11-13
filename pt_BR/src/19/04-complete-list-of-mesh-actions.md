@@ -11,10 +11,7 @@ Ações normalmente disponíveis para todos os usuários.
 <!--sort-->
 
 - **Acessar Outro Sistema:** Autenticar e logar. Cria um console de conta.
-- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#tematização)).
 - **Aplicar Tag:** Marque uma pessoa, lugar ou coisa física com uma e-tag de RA.
-- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#modo-privativo))
-- **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#sinais-camuflados)).
 - **Comunicar:** Conversar por e-mail, texto, voz ou vídeo com outros online.
 - **Criptografar/Descriptografar:** Criptografar ou descriptografar arquivos ([Criptografia](../13/05-authentication-and-encryption.md#criptografia)).
@@ -26,6 +23,9 @@ Ações normalmente disponíveis para todos os usuários.
 - **Executar Script:** Iniciar um script pré-programado ([Scripts](../13/06-mesh-actions.md#scripts)).
 - **Filtrar Névoa de RA:** Remover a “névoa” importuna de RA ([Névoa de RA e Filtros](../13/03-common-mesh-uses.md#névoa-de-ra-e-filtros)).
 - **Identificar Atacante:** Você pode tentar identificar alguém atacando você em combate na mesh ([Consciência de Ataques](../13/14-mesh-combat.md#ataque-e-defesa-na-mesh)).
+- **Ligar/Desligar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#modo-privativo))
+- **Ligar/Desligar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
+- **Ligar/Desligar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#tematização)).
 - **Modificar Arquivos:** Visualizar, alterar, fazer upload, download e excluir arquivos.
 - **Operar Dispositivo:** Controlar um dispositivo. Pode exigir um teste de perícia.
 - **Pesquisar \[T\]:** Você pode pesquisar em um sistema que está acessando ou em toda a mesh ([Pesquisa Online](../13/09-online-research.md)).
@@ -73,7 +73,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 <!--sort-->
 
 - **Desativar Sensores ou Funções de Dispositivo:** Desligar sensores ou outras funções físicas.
-- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores.
+- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores.
 - **Modificar Contas:** Adicionar novas contas e remover antigas.
 - **Modificar Privilégios:** Adicionar ou remover privilégios específicos.
 - **Modificar Programa:** Instalar, remover e atualizar apps no sistema.
@@ -158,15 +158,15 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 
 - **Adicionar/Remover Códigos de Trapaça:** Instalar um novo código de trapaça ou editar/remover um existente.
 - **Alterar Regras de Domínio:** Ajustar as configurações do sistema dentro de certos parâmetros; pode exigir um Teste de Programação.
-- **Ativar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
-- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
 - **Ativar Privacidade:** Impedir que suas comunicações cara a cara sejam espionadas.
 - **Controlar PNJs:** Ditar quais respostas os PNJs darão a determinadas ações ou controlá-los diretamente.
 - **Encerrar Sessão:** Encerrar forçadamente uma sessão de usuário.
 - **Espionar:** Vigiar virtualmente outros usuários.
 - **Gerar Itens:** Criar itens virtuais independentemente da raridade.
 - **Iniciar/Parar Simulespaço:** Iniciar um novo simulespaço ou fechar um existente.
+- **Ligar/Desligar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
+- **Ligar/Desligar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
+- **Ligar/Desligar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
 - **Modificar Simulmorfo:** Modificar os atributos de um simulmorfo dentro de parâmetros especificados; pode exigir um Teste de Programação.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 
@@ -192,7 +192,7 @@ Se essas regras à primeira vista parecem intimidantes, tenha em mente que as re
 
 ## Hackeamento Consolidado
 
-Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
+Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um nódulo, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
 
 | Resultado do Teste de Infoseg | Resultado do Hackeamento                                                |
 |:----------------------------- |:----------------------------------------------------------------------- |

@@ -850,7 +850,7 @@
 13/00-the-mesh.md
 13/00-the-mesh.md#a-mesh
 13/01-everyware.md
-13/01-everyware.md#ubíquo-ware
+13/01-everyware.md#computação-ubíqua
 13/01-everyware.md#ficando-online
 13/01-everyware.md#sua-presença-online
 13/01-everyware.md#modo-privativo
@@ -884,7 +884,7 @@
 13/04-devices-apps-and-links.md
 13/04-devices-apps-and-links.md#dispositivos-apps--ligações
 13/04-devices-apps-and-links.md#aparelhos
-13/04-devices-apps-and-links.md#ciscos
+13/04-devices-apps-and-links.md#nódulos
 13/04-devices-apps-and-links.md#terminais
 13/04-devices-apps-and-links.md#servidores
 13/04-devices-apps-and-links.md#dispositivos-sobrecarregados

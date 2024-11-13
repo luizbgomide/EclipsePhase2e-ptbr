@@ -2,7 +2,7 @@
 
 <!-- TOC PLACEHOLDER -->
 
-- [Ubíquo-ware](01-everyware.md)
+- [Computação Ubíqua](01-everyware.md)
   - [Ficando Online](01-everyware.md#ficando-online)
   - [Sua Presença Online](01-everyware.md#sua-presença-online)
     - [Modo Privativo](01-everyware.md#modo-privativo)
@@ -33,7 +33,7 @@
   - [Transações Bancárias](03-common-mesh-uses.md#transações-bancárias)
 - [Dispositivos, Apps, & Ligações](04-devices-apps-and-links.md)
   - [Aparelhos](04-devices-apps-and-links.md#aparelhos)
-    - [Ciscos](04-devices-apps-and-links.md#ciscos)
+    - [Nódulos](04-devices-apps-and-links.md#nódulos)
     - [Terminais](04-devices-apps-and-links.md#terminais)
     - [Servidores](04-devices-apps-and-links.md#servidores)
     - [Dispositivos Sobrecarregados](04-devices-apps-and-links.md#dispositivos-sobrecarregados)

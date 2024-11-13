@@ -66,7 +66,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Circunjoviano:** Orbitando Júpiter.
 - **Circunlunar:** Orbitando a Lua.
 - **Circunsolar:** Orbitando o Sol.
-- **Cisco:** Pequenos dispositivos, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
 - **Cislunar:** Entre a Terra e a Lua.
 - **Clado:** Uma espécie ou grupo de organismos com características comuns. Usado para se referir a grupos culturais e subespécies transumanos.
 - **Colmeia:** Um nanofabro especializado que mantém um nanoenxame.
@@ -228,6 +227,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Névoa:** Dados e anúncios importunos de RA que entopem sua entóptica.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
+- **Nódulo:** Pequenos dispositivos, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
 - **Novacancridae:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **A <!--sort-here-->Nuvem:** Outros dispositivos na mesh que oferecem serviços de programas.
 - **Nuvem de Oort:** Uma área a cerca de um ano-luz do sol, povoada predominantemente por cometas.

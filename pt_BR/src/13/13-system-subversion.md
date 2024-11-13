@@ -16,7 +16,7 @@ O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](06-mesh-a
 
 ## Controlar Ware
 
-Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nodo mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripts) para manipular esse ware no futuro, entre outros usos criativos.
+Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nó mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripts) para manipular esse ware no futuro, entre outros usos criativos.
 
 ## Debilitar os Sentidos
 

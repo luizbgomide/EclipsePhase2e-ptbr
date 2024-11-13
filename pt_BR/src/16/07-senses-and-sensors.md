@@ -34,7 +34,7 @@ A tecnologia lidar utiliza lasers, refletindo ativamente a luz do espectro infra
 
 ### Tomografia da Mesh
 
-Os sinais sem fio da mesh emitidos pelos ciscos e outros dispositivos ubíquos, cobrem a maioria das áreas dos habitats, penetrando paredes e estruturas. Ao medir a transmissão e recepção de sinais de rádio em múltiplos dispositivos ao redor de uma área, é possível mapear a área e detectar movimentos dentro dela, com uma resolução parecida com o radar. Isso requer a coordenação de vários dispositivos no perímetro, sejam aliados ou dispositivos acessados remotamente, e um Teste de Interface bem-sucedido.
+Os sinais sem fio da mesh emitidos pelos nódulos e outros dispositivos ubíquos, cobrem a maioria das áreas dos habitats, penetrando paredes e estruturas. Ao medir a transmissão e recepção de sinais de rádio em múltiplos dispositivos ao redor de uma área, é possível mapear a área e detectar movimentos dentro dela, com uma resolução parecida com o radar. Isso requer a coordenação de vários dispositivos no perímetro, sejam aliados ou dispositivos acessados remotamente, e um Teste de Interface bem-sucedido.
 
 ## Ondas Sonoras
 

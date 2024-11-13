@@ -4,7 +4,7 @@ Apesar da mesh com um todo consistir em inúmeros dispositivos, todos conectados
 
 ## Dispositivos Subordinados
 
-Alguns dispositivos são subordinados a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, componentes individuais de um sistema de segurança (portas, sensores, etc.) são geralmente subordinados de um nodo de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos subordinados é roteado através do mestre. Isso permite que um dispositivo subordinado dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo subordinado é redirecionado para o mestre, para autenticação e verificação de segurança.
+Alguns dispositivos são subordinados a outros, de modo que todo tráfego e tentativas de acesso passam por um único ponto de ligação bem protegido. Por exemplo, os componentes individuais de um sistema de segurança (portas, sensores, etc.) estão geralmente subordinados a um nó de segurança central que serve como um gargalo contra qualquer um tentando hackear o sistema. Todo tráfego entrando e saindo dos dispositivos subordinados é roteado através do mestre. Isso permite que um dispositivo subordinado dependa dos recursos de segurança e monitoramento ativo do mestre. Qualquer um que tentar conectar com ou hackear um dispositivo subordinado é redirecionado para o mestre, para autenticação e verificação de segurança.
 
 Dispositivos subordinados automaticamente aceitam comandos do seu dispositivo mestre. Isso significa que um hacker que invada o sistema mestre pode acessar e emitir comandos legitimamente para um dispositivo subordinado, assumindo que seus [privilégios de acesso](05-authentication-and-encryption.md#contas--privilégios-de-acesso) permitam.
 
@@ -14,13 +14,13 @@ Como muitas das coisas que você veste, usa, ou implantou estão em mesh, faz se
 
 ## VPNs: Redes Privadas Virtuais
 
-As VPNs ligam nodos através de “túneis” criptografados ponto a ponto através da mesh pública. Essa conexão segura permite aos usuários conectados a comunicação e compartilhamento remoto de serviços e recursos de forma privada. As VPNs permitem que escritórios móveis, redes sociais, tacnets e outras redes privadas existam e funcionem dentro da vasta mesh.
+As VPNs ligam nós através de “túneis” criptografados ponto a ponto através da mesh pública. Essa conexão segura permite aos usuários conectados a comunicação e compartilhamento remoto de serviços e recursos de forma privada. As VPNs permitem que escritórios móveis, redes sociais, tacnets e outras redes privadas existam e funcionem dentro da vasta mesh.
 
-Em termos práticos, as VPNs oferecem uma criptografia melhor do que o tráfego comum da mesh, dificultando o [farejamento](04-devices-apps-and-links.md#farejamento) de suas conexões, embora você ainda possa ser [rastreado](10-tracking.md). No entanto, se um dos nodos dentro da VPN for hackeado, esse tráfego se torna vulnerável.
+Em termos práticos, as VPNs oferecem uma criptografia melhor do que o tráfego comum da mesh, dificultando o [farejamento](04-devices-apps-and-links.md#farejamento) de suas conexões, embora você ainda possa ser [rastreado](10-tracking.md). No entanto, se um dos nós dentro da VPN for hackeado, esse tráfego se torna vulnerável.
 
 ## Sistemas em Camadas
 
-As redes de hipercorps, habitats, e grandes sistemas semelhantes operam em um modelo de camadas. Para poder acessar um dispositivo ou rede específica, você primeiro precisa acessar os nodos ou redes das camadas acima. Nodos em uma camada inferior só se comunicarão com dispositivos reconhecidos na camada acima deles. Geralmente quando mais fundo você vai, mais forte fica a segurança. Os sistemas em camadas às vezes podem ser derrotados por [ataques de mascaramento](05-authentication-and-encryption.md#mascaramento), falsificando sinais de um nodo da camada superior.
+As redes de hipercorps, habitats, e grandes sistemas semelhantes operam em um modelo de camadas. Para poder acessar um dispositivo ou rede específica, você primeiro precisa acessar os nós ou redes das camadas acima. Nós em uma camada inferior só se comunicarão com dispositivos reconhecidos na camada acima deles. Geralmente quando mais fundo você vai, mais forte fica a segurança. Os sistemas em camadas às vezes podem ser derrotados por [ataques de mascaramento](05-authentication-and-encryption.md#mascaramento), falsificando sinais de um nó da camada superior.
 
 ## Sistemas Desconectados
 
