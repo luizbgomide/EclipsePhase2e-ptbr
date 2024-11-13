@@ -150,7 +150,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Hiperelite:** Os ricos e abastados.
 - **Anão Gelado:** Um tipo de planeta anão distante composto de gelo.
 - **Gigante Gelado:** Um planeta composto de elementos mais pesados que hidrogênio/hélio, geralmente na parte exterior de um sistema estelar.
-- **Asteroide Gelado:** Um asteroide feito de gelo em vez de rocha ou metais.
+- **Asterogelo:** Um asteroide feito de gelo em vez de rocha ou metais.
 - **ID Crew:** _Intelligent Design Crew_, um cartel especializado em crimes eletrônicos.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
