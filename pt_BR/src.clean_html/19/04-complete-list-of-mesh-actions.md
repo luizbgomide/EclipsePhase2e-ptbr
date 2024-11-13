@@ -76,7 +76,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 - **Modificar Contas:** Adicionar novas contas e remover antigas.
 - **Modificar Privilégios:** Adicionar ou remover privilégios específicos.
 - **Modificar Programa:** Instalar, remover e atualizar apps no sistema.
-- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores.
+- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores.
 
 <!-- CLEANED /div -->
 
@@ -192,7 +192,7 @@ Se essas regras à primeira vista parecem intimidantes, tenha em mente que as re
 
 ## Hackeamento Consolidado
 
-Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
+Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um nódulo, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
 
 | Resultado do Teste de Infoseg | Resultado do Hackeamento                                                |
 |:----------------------------- |:----------------------------------------------------------------------- |
