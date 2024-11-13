@@ -8,7 +8,7 @@ A menos que indicado de outra forma, essas ações usam uma ação complexa, mas
 
 ## Ações Universais
 
-Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros eletrônicos.
+Essas ações se aplicam a nódulos, terminais, servidores e a maioria dos outros eletrônicos.
 
 Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de segurança ou de administrador.
 
@@ -70,7 +70,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 - **Modificar Contas:** Você pode adicionar novas contas e remover antigas. Não é possível remover contas que estão sendo acessadas no momento — o usuário deve deslogar completamente primeiro (ou ter seu console de conta travado em combate na mesh). Todo dispositivo tem uma conta de administrador root que não pode ser removida (sem eliminar o sistema).
 - **Modificar Privilégios:** Você pode adicionar ou remover privilégios específicos, como permitir o acesso a determinados diretórios, arquivos, sensores ou apps. Você também pode rebaixar contas de segurança para privilégios de usuários ou elevar contas de usuário para contas de segurança e contas de segurança para contas de administrador. Você pode remover ou rebaixar privilégios de administrador de outras contas, entretanto todo dispositivo tem uma conta de administrador root que não pode ser modificada (em ware, isso geralmente significa a pessoa em que eles estão instalados).
 - **Modificar Programa:** Você pode instalar, remover e atualizar apps.
-- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
+- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
 
 ## Scripts
 
