@@ -168,10 +168,7 @@ You should never have more than 3 motivations; if you want to add a new one, you
 
 ## A Word On Safety
 
-The event table entries detail things that happen in your character’s life — both good and bad — and either provide a positive or negative outcome. Some events deal with sensitive circumstances, such as death, violence, coercion, and other sucktastic things. These shouldn’t be read as saying these events are the _only_ way you get those results, nor that such events _always_ have the same outcome. They simply offer a possible explanation for how your particular character turned out. If you don’t like the explanation provided in an entry, invent a
-
-different one. It’s your character, you control the story. If you are sensitive to certain topics, ask the GM or another player to read the entries you roll first, and re-roll any that cross into topics you want
-to avoid.
+The event table entries detail things that happen in your character’s life — both good and bad — and either provide a positive or negative outcome. Some events deal with sensitive circumstances, such as death, violence, coercion, and other sucktastic things. These shouldn’t be read as saying these events are the _only_ way you get those results, nor that such events _always_ have the same outcome. They simply offer a possible explanation for how your particular character turned out. If you don’t like the explanation provided in an entry, invent a different one. It’s your character, you control the story. If you are sensitive to certain topics, ask the GM or another player to read the entries you roll first, and re-roll any that cross into topics you want to avoid.
 
 <!-- CLEANED blockquote -->
 
