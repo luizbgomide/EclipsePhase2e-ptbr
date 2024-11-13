@@ -12,7 +12,7 @@ Os MJs podem ajustar esse valor para definir o nível de dificuldade da missão.
 
 A quantidade de PM que o MJ fornece também representa os recursos atribuídos à missão. A logística da Firewall não vai muito bem? Diminua a quantidade. Os jogadores estão trabalhando em nome de um oligarca com uma conta sem limite de gastos? Aumente alguns pontos.
 
-## Aumentando Seu PM
+## Aumentando seu PM
 
 Há três maneiras de aumentar seu PM:
 
