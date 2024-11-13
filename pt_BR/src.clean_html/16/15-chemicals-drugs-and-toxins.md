@@ -193,7 +193,7 @@ Nanodrogas são infestações temporárias de nanobots que aplicam um efeito esp
 
 <!--sort-->
 
-**Onda:** Originalmente chamada frequência, essa droga foi projetada como uma ferramenta para a visualização científica. Ela libera nanobots na corrente sanguínea que se instalam na epiderme, onde elas podem agir como sensores de radiação eletromagnética. Essa entrada sensorial é então injetada em seus sensórios visuais e táteis como uma sequência de novos estímulos, tipicamente um show de luzes ou sensações táteis esquisitas. Além de seus usos recreativos, a onda é boa para captar campos de radiação localizados, permitindo que você encontre ciscos, sensores e eletrônicos ocultos com um Teste de Percepção, dependendo do alcance e força do sinal deles (a critério do MJ).
+**Onda:** Originalmente chamada frequência, essa droga foi projetada como uma ferramenta para a visualização científica. Ela libera nanobots na corrente sanguínea que se instalam na epiderme, onde elas podem agir como sensores de radiação eletromagnética. Essa entrada sensorial é então injetada em seus sensórios visuais e táteis como uma sequência de novos estímulos, tipicamente um show de luzes ou sensações táteis esquisitas. Além de seus usos recreativos, a onda é boa para captar campos de radiação localizados, permitindo que você encontre nódulos, sensores e eletrônicos ocultos com um Teste de Percepção, dependendo do alcance e força do sinal deles (a critério do MJ).
 
 **Caldo:** O caldo ajuda na aclimatação em ambientes de alta gravidade. Ele é frequentemente adicionado à comida e existe em uma variedade de sabores. Para que o caldo seja 100% eficaz, você deve começar a usá-lo com pelo menos 8 horas de antecedência. Reduz em 20 as penalidades de aclimatação em alta gravidade.
 
