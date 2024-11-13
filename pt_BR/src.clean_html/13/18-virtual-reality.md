@@ -82,6 +82,6 @@ Administradores e usuários com códigos de trapaça têm mais opções. As segu
 - **Iniciar/Parar Simulespaço:** Você pode iniciar um novo simulespaço ou fechar um existente. Uma vez iniciado, isso demora 1d6 minutos. Fechar um simulespaço particularmente grande com muitos usuários leva tempo, pois os usuários têm a chance de se deslogarem manualmente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 - **Encerrar Sessão:** Você pode forçar o encerramento da sessão de um usuário, enviando-o de volta para a sala branca.
-- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
-- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou arrendados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.
+- **Ligar/Desligar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
+- **Ligar/Desligar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
+- **Ligar/Desligar Controle de Caixa-Forte:** Os simulespaços de caixa-forte impedem usuários especificados de entrar ou sair do simulespaço. Isso é comum com RV usada para tortura, para prender egos forquestrados ou arrendados, ou em certas instâncias de psicocirurgia envolvendo pacientes voláteis.

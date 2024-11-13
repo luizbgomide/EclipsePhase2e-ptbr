@@ -52,9 +52,9 @@ Os JRAMs funcionam como VPNs. Assim como as redes sociais, eles tratam seus clie
 
 ## Serviços de Localização/Mapeamento
 
-Você pode quase sempre determinar sua localização em um mundo habitado ou em um habitat, medindo os sinais de satélites GPS em órbita ou nodos próximos da mesh. Encontrar seu caminho é fácil com dicas de RA como trilhas ou setas visuais ou orientações por áudio. Os serviços de localização podem informar onde encontrar o autocozedor local mais próximo, dar as avaliações de cafeterias próximas, e dizer quem na área combina com seu perfil de encontros, interesses pessoais, ou está procurando um partida de jogo.
+Você pode quase sempre determinar sua localização em um mundo habitado ou em um habitat, medindo os sinais de satélites GPS em órbita ou nós próximos da mesh. Encontrar seu caminho é fácil com dicas de RA como trilhas ou setas visuais ou orientações por áudio. Os serviços de localização podem informar onde encontrar o autocozedor local mais próximo, dar as avaliações de cafeterias próximas, e dizer quem na área combina com seu perfil de encontros, interesses pessoais, ou está procurando um partida de jogo.
 
-Um efeito colateral dos serviços de localização é que seus movimentos são logados por cada nodo próximo da mesh devido às conexões automáticas e sua atividade física pode ser correlacionada com sua atividade online e mesh ID ([Rastreamento](10-tracking.md)). Esse recurso é considerado é uma vantagem para pais cuidando de seus filhos, empresas monitorando seus empregados, e amigos procurando outros amigos, mas pode ser um problema para aqueles querendo discrição.
+Um efeito colateral dos serviços de localização é que seus movimentos são logados por cada nó próximo da mesh devido às conexões automáticas e sua atividade física pode ser correlacionada com sua atividade online e mesh ID ([Rastreamento](10-tracking.md)). Esse recurso é considerado é uma vantagem para pais cuidando de seus filhos, empresas monitorando seus empregados, e amigos procurando outros amigos, mas pode ser um problema para aqueles querendo discrição.
 
 ## Mídia e Notícias
 

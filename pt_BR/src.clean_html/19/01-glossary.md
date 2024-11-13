@@ -194,7 +194,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Necrotério:** Um banco de corpos do mercado negro.
 - **Morfo:** Um corpo físico. Também chamado de capa, carcaça, traje, jaqueta, forma.
 - **Liberdade Morfológica:** A autonomia para modificar e aprimorar o seu próprio corpo.
-- **Cisco:** Pequenos dispositivos, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
+- **Nódulo:** Pequenos dispositivos, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
 - **O <!--sort-here-->Movimento:** O movimento barsoomiano para libertar Marte.
 - **Musa:** Uma ILA como assistente pessoal.
 - **Mutualista:** Uma subfacção extropiana que apoia cooperativas.

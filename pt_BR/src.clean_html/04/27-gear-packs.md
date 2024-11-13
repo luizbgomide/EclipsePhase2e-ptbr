@@ -146,7 +146,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 | EQUIPAMENTOS                                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:--------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
-| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications) |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                               |
+| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications) |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                              |
 | [Sentido Direcional](../16/06-sensory-augmentations.md)               |                 Men/1                 | Sentido inato de direção e distância.                                                              |
 | [Visão Aprimorada](../16/06-sensory-augmentations.md)                 |                 Mod/2                 | Visão tetracromática, maior gama de frequências, melhor foco. +10 em Testes de Percepção de visão. |
 | [Gravador de Missão](../16/16-comms-and-mesh-gear.md#communications)  |                 Men/1                 | Grava todos os dados da missão.                                                                    |
@@ -243,7 +243,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 | EQUIPAMENTOS                                                                          | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                   |
 |:------------------------------------------------------------------------------------- |:-------------------------------------:|:----------------------------------------------------------------------------------------------------------- |
-| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications)                 |                 Men/1                 | Deixa um rastro de ciscos para ter mesh/localização.                                                        |
+| [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#communications)                 |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                                       |
 | [Machado Diamantado](../12/02-melee-combat.md#melee-weapons)                          |                 Men/1                 | VD 2d10 + 3, Antiblindagem, Duas Mãos, Extensão.                                                            |
 | [Ferramentas de Desmontagem](../16/18-mission-gear.md#salvage-tools)                  |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                                   |
 | [Enxame Guardião](../16/20-nanoswarms-and-microswarms.md#swarms)                      |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 6 por turno.                                            |

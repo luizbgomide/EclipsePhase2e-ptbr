@@ -4,13 +4,13 @@ Por trás da realidade aumentada, são aparelhos e programas que fazem a mesh fu
 
 ## Aparelhos
 
-Quando está online, você estará acessando e interagindo com vários dispositivos. Esses aparelhos caem em três categorias: ciscos, terminais e servidores.
+Quando está online, você estará acessando e interagindo com vários dispositivos. Esses aparelhos caem em três categorias: nódulos, terminais e servidores.
 
-### Ciscos
+### Nódulos
 
-A grande maioria dos dispositivos em mesh são ciscos: os transceptores, microcomputadores e sensores sem fio, incorporados em quase tudo. Isso inclui utensílios, ferramentas, implantes, sensores, vestíveis, periféricos, e outros aparelhos especializados similares. Os ciscos possuem capacidades de processamento, armazenamento e rede suficientes para fazer suas funções especializadas, formar mesh com dispositivos próximos e executar alguns apps.
+A grande maioria dos dispositivos em mesh são nódulos: os transceptores, microcomputadores e sensores sem fio, incorporados em quase tudo. Isso inclui utensílios, ferramentas, implantes, sensores, vestíveis, periféricos, e outros aparelhos especializados similares. Os nódulos possuem capacidades de processamento, armazenamento e rede suficientes para fazer suas funções especializadas, formar mesh com dispositivos próximos e executar alguns apps.
 
-Os ciscos possuem apenas [contas](05-authentication-and-encryption.md#accounts--access-privileges) públicas e de administrador. Eles são capazes apenas de executar ILAs; alguns ciscos (decisão do MJ) podem executar infomorfos se a ILA for excluída, mas eles ficam sobrecarregados.
+Os nódulos possuem apenas [contas](05-authentication-and-encryption.md#accounts--access-privileges) públicas e de administrador. Eles são capazes apenas de executar ILAs; alguns nódulos (decisão do MJ) podem executar infomorfos se a ILA for excluída, mas eles ficam sobrecarregados.
 
 ### Terminais
 
@@ -68,7 +68,7 @@ Para dispositivos ocultos que estão transmitindo apenas em pequenos pulsos, a d
 
 O tráfego de rádio sem fio é transmitido pelo ar (ou espaço), o que significa que ele pode ser interceptado por outros dispositivos sem fio. Como todo o tráfego da mesh é retransmitido por vários dispositivos, cada conexão é criptografada para ter privacidade. “Farejamento” envolve burlar a descriptografia para poder capturar e analisar o tráfego real de dados.
 
-Para interceptar as comunicações sem fio, você precisa de um app de farejamento e deve estar dentro do alcance de rádio do alvo (alternativamente, você pode acessar um dispositivo que esteja dentro do alcance de rádio do alvo e farejar dessa localização). O app de farejamento automaticamente convence o alvo a retransmitir seu tráfego da mesh por você (assim como qualquer outro nodo da mesh). Isso fornece uma lista de mesh IDs para os sistemas que o alvo está ativamente conectado ([Mesh ID](05-authentication-and-encryption.md#mesh-id)). Isso também identificará quaisquer conexões que sejam protegidas por uma VPN ou criptografia quântica.
+Para interceptar as comunicações sem fio, você precisa de um app de farejamento e deve estar dentro do alcance de rádio do alvo (alternativamente, você pode acessar um dispositivo que esteja dentro do alcance de rádio do alvo e farejar dessa localização). O app de farejamento automaticamente convence o alvo a retransmitir seu tráfego da mesh por você (assim como qualquer outro nó da mesh). Isso fornece uma lista de mesh IDs para os sistemas que o alvo está ativamente conectado ([Mesh ID](05-authentication-and-encryption.md#mesh-id)). Isso também identificará quaisquer conexões que sejam protegidas por uma VPN ou criptografia quântica.
 
 Você pode visar qualquer uma dessas conexões para espionar ativamente com uma ação complexa e um [Teste de Hackeamento](11-hacking.md#hacking-tests). Se tiver sucesso, você capturará o tráfego de dados entre o dispositivo alvo e o sistema conectado, contanto que você permaneça ao alcance. Cada conexão requer um teste separado, embora os MJs possam permitir um teste único para todas as conexões de PNJs menos importantes.
 

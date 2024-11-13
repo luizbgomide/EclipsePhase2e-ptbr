@@ -29,9 +29,9 @@ Ações normalmente disponíveis para todos os usuários.
 - **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu infomorfo para outro sistema.
 - **Encerrar Programa:** Matar o processo de um programa menor.
-- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
-- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
-- **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
+- **Ligar/Desligar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
+- **Ligar/Desligar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
+- **Ligar/Desligar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Usar Apps:** Usar vários apps. Pode exigir um Teste de Interface.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
 - **Ver Apps \[R\]:** Ver quais apps estão disponíveis e/ou sendo executados.
@@ -76,7 +76,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 - **Modificar Contas:** Adicionar novas contas e remover antigas.
 - **Modificar Privilégios:** Adicionar ou remover privilégios específicos.
 - **Modificar Programa:** Instalar, remover e atualizar apps no sistema.
-- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores.
+- **Eliminar Sistema \[T\]:** Apagar todos os dados do sistema, leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores.
 
 <!-- CLEANED /div -->
 
@@ -166,9 +166,9 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Iniciar/Parar Simulespaço:** Iniciar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 - **Encerrar Sessão:** Encerrar forçadamente uma sessão de usuário.
-- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
-- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
+- **Ligar/Desligar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
+- **Ligar/Desligar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
+- **Ligar/Desligar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
 
 <!-- CLEANED /div -->
 
@@ -192,7 +192,7 @@ Se essas regras à primeira vista parecem intimidantes, tenha em mente que as re
 
 ## Hackeamento Consolidado
 
-Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um cisco, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
+Às vezes, um PJ pode querer hackear um sistema que é de menor importância para a história. Em vez de fazer cada hack passo a passo, o MJ pode consolidar esse hack em um único Teste de Infoseg de ação de tarefa. Primeiro, o hacker deve compilar uma lista curta de objetivos após hackear o sistema (ex.: localizar um arquivo, destravar uma porta, repetir um fluxo de sensor, eliminar rastros). Defina um prazo de 1 hora mais 10 minutos por objetivo. Se usar força bruta, o prazo será 2 turnos de ação por objetivo. Aplique os seguintes modificadores: −30 se usar força bruta, +10 se hackear um nódulo, −10 se hackear um servidor e −10 se hackear múltiplos sistemas.
 
 | Resultado do Teste de Infoseg | Resultado do Hackeamento                                                |
 |:----------------------------- |:----------------------------------------------------------------------- |

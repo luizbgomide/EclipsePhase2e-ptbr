@@ -1,6 +1,6 @@
 # Dano em Aparelhos
 
-Os equipamentos da mesh variam de ciscos baratos e vulneráveis a servidores duráveis e autorreparáveis. Eles são tratados exatamente como outros objetos para fins de combate físico ([Objetos & Estruturas](../12/26-objects-and-structures.md)).
+Os equipamentos da mesh variam de nódulos baratos e vulneráveis a servidores duráveis e autorreparáveis. Eles são tratados exatamente como outros objetos para fins de combate físico ([Objetos & Estruturas](../12/26-objects-and-structures.md)).
 
 Se um dispositivo estiver danificado fisicamente, há uma chance de 10% de sofrer um [defeito](16-glitches.md). Se o dispositivo sofrer um ferimento, ela automaticamente dá defeito. Além disso, os modificadores de ferimento se aplicam a todos os testes na mesh envolvendo esse dispositivo.
 

@@ -8,7 +8,7 @@ A menos que indicado de outra forma, essas ações usam uma ação complexa, mas
 
 ## Ações Universais
 
-Essas ações se aplicam a ciscos, terminais, servidores e a maioria dos outros eletrônicos.
+Essas ações se aplicam a nódulos, terminais, servidores e a maioria dos outros eletrônicos.
 
 Qualquer usuário pode fazer essas ações, embora os sistemas de alta segurança possam restringir algumas delas para os usuários com privilégios de segurança ou de administrador.
 
@@ -31,9 +31,9 @@ Qualquer usuário pode fazer essas ações, embora os sistemas de alta seguranç
 - **Camuflar Sinais Sem Fio:** Você pode tentar esconder sua atividade sem fio ([Sinais Camuflados](04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Se você for um infomorfo, você pode transferir seu estado mental virtual para outro sistema ([Infomorfos](08-infomorphs.md)) ou distribui-lo entre vários sistemas ([Infomorfos Distribuídos](08-infomorphs.md#distributed-infomorphs)).
 - **Encerrar Programa:** Você pode matar o processo de um programa menor que você tenha privilégio e interrompê-lo. Se o programa pertence a outro usuário ou tem importância para história, trate isso como um ataque em [combate na mesh](14-mesh-combat.md).
-- **Alternar Tema de RA:** Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor ([Tematização](03-common-mesh-uses.md#skinning)).
-- **Ativar Modo Privativo:** Você pode definir o seu perfil público como privado ou público ([Modo Privativo](01-everyware.md#privacy-mode)) com uma ação rápida. Você também pode ativar a opção de permitir que a polícia/segurança anule suas configurações de privacidade.
-- **Ativar Simulespaço:** Você pode entrar ou sair de um ambiente de simulespaço ([Realidade Virtual](18-virtual-reality.md)).
+- **Ligar/Desligar Tema de RA:** Você pode mudar a realidade aumentada que tematiza o mundo ao seu redor ([Tematização](03-common-mesh-uses.md#skinning)).
+- **Ligar/Desligar Modo Privativo:** Você pode definir o seu perfil público como privado ou público ([Modo Privativo](01-everyware.md#privacy-mode)) com uma ação rápida. Você também pode ativar a opção de permitir que a polícia/segurança anule suas configurações de privacidade.
+- **Ligar/Desligar Simulespaço:** Você pode entrar ou sair de um ambiente de simulespaço ([Realidade Virtual](18-virtual-reality.md)).
 - **Usar Apps:** A maioria dos dispositivos possui apps apropriados para sua finalidade. Geralmente estão incluídos processadores de texto, estúdios de design gráfico, estações de trabalho de áudio e vídeo, e jogos. Os sistemas dedicados podem ter apps para controles do sistema de habitat e estações de armas. O uso desses apps pode exigir um Teste de Interface ou de outra perícia.
 - **Usar Serviço:** Você pode usar programas disponíveis como serviços na nuvem. Isso geralmente requer ter uma assinatura do serviço, embora alguns sejam gratuitos.
 - **Ver Apps:** Você pode ver quais apps estão disponíveis no dispositivo e quais estão sendo executados com apenas uma ação rápida. Alguns apps podem só estar disponíveis para contas específicas, de acordo com os privilégios desse sistema.
@@ -70,7 +70,7 @@ Apenas contas de administrador estão autorizadas a realizar essas ações.
 - **Modificar Contas:** Você pode adicionar novas contas e remover antigas. Não é possível remover contas que estão sendo acessadas no momento — o usuário deve deslogar completamente primeiro (ou ter seu console de conta travado em combate na mesh). Todo dispositivo tem uma conta de administrador root que não pode ser removida (sem eliminar o sistema).
 - **Modificar Privilégios:** Você pode adicionar ou remover privilégios específicos, como permitir o acesso a determinados diretórios, arquivos, sensores ou apps. Você também pode rebaixar contas de segurança para privilégios de usuários ou elevar contas de usuário para contas de segurança e contas de segurança para contas de administrador. Você pode remover ou rebaixar privilégios de administrador de outras contas, entretanto todo dispositivo tem uma conta de administrador root que não pode ser modificada (em ware, isso geralmente significa a pessoa em que eles estão instalados).
 - **Modificar Programa:** Você pode instalar, remover e atualizar apps.
-- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para ciscos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
+- **Eliminar Sistema:** Você pode apagar completamente todos os dados do sistema: todos os arquivos, apps, contas, infomorfos e o próprio sistema operacional. Esse é um processo longo, que leva 1 minuto para nódulos, 3 minutos para terminais e 10 para servidores. Os infomorfos são imediatamente avisados, para que tenham tempo para se copiarem ou mudarem para um novo dispositivo habitado. Os métodos forenses (um Teste de Interface) podem ser usados para recuperar os dados eliminados, pelo menos até que o sistema seja reinstalado, a menos que você opte por eliminar de forma segura o sistema (dobre o tempo).
 
 ## Scripts
 
