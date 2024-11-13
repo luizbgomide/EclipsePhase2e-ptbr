@@ -29,9 +29,9 @@ Ações normalmente disponíveis para todos os usuários.
 - **Camuflar Sinais Sem Fio:** Esconder sua atividade sem fio ([Sinais Camuflados](../13/04-devices-apps-and-links.md#stealthed-signals)).
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu infomorfo para outro sistema.
 - **Encerrar Programa:** Matar o processo de um programa menor.
-- **Alternar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
-- **Ativar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
-- **Ativar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
+- **Ligar/Desligar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
+- **Ligar/Desligar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
+- **Ligar/Desligar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Usar Apps:** Usar vários apps. Pode exigir um Teste de Interface.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
 - **Ver Apps \[R\]:** Ver quais apps estão disponíveis e/ou sendo executados.
@@ -166,9 +166,9 @@ Administradores e usuários com códigos de trapaça têm mais opções.
 - **Iniciar/Parar Simulespaço:** Iniciar um novo simulespaço ou fechar um existente.
 - **Teleportar:** Viajar instantaneamente para qualquer lugar dentro do simulespaço.
 - **Encerrar Sessão:** Encerrar forçadamente uma sessão de usuário.
-- **Ativar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
-- **Ativar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
-- **Ativar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
+- **Ligar/Desligar Modo Deus:** Tornar seu simulmorfo invulnerável a danos.
+- **Ligar/Desligar Invisibilidade:** Tornar-se imperceptível aos usuários padrão.
+- **Ligar/Desligar Controle de Caixa-Forte:** Impedir usuários especificados de entrar ou sair do simulespaço.
 
 <!-- CLEANED /div -->
 
