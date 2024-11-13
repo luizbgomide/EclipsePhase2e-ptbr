@@ -16,7 +16,7 @@ For the rest of the steps, you roll on an _event table_ that details something t
 
 **❮d100❯ chevrons indicate rolls to make.**
 
-**❯ 1 ❮ inverted chevrons die roll results.**
+**❯ 1 ❮ inverted chevrons indicate die roll results.**
 
 </blockquote>
 
