@@ -56,7 +56,7 @@ As áreas de Interesses incluem conhecimento especializado em qualquer tópico q
 
 Use áreas de Interesses sempre que precisar se lembrar ou usar conhecimento relacionado a esse assunto específico.
 
-- **Exemplos de Áreas:** Blogs de Reivindicadores, Celebridades, Cervejas Marcianas, Colônias em Exoplanetas, Conspirações, Economia das Tríades, Ex-Humanos, Facções Transumanas, Factores, Habitats Lunares, Jogatina, Jogos de Estratégia, Jogos RV, Modelos de Espaçonaves, Morfos, Políticas de Hipercorp, Submundo de XP, Tecnologia TITAN, Traficantes da Ralé
+- **Exemplos de Áreas:** Blogs de Reivindicadores, Celebridades, Cervejas Marcianas, Colônias em Exoplanetas, Conspirações, Economia das Tríades, Ex-Humanos, Facções Transumanas, Factores, Habitats Lunares, Jogatina, Jogos de Estratégia, Jogos RV, Modelos de Espaçonaves, Morfos, Políticas de Hipercorp, Submundo de XP, Tecnologia TITAN, Traficantes de Drogas da Ralé
 - **Especializações:** Conforme apropriado para a área
 
 <!-- CLEANED /div -->
