@@ -68,7 +68,7 @@ Traços com níveis também são cumulativos. Se você conseguir recursos (Níve
 
 ## Trocando Morfos
 
-No Passo 4, adquire seu morfo inicial. Nos vários estágios posteriores, você pode egoprojetar, reencapar ou morrer. Algumas entradas atribuem um novo morfo específico, mas a maioria orienta a rolar nas [tabelas de Morfos Aleatórios](20-morph-tables.md) para determinar sua nova capa. Esse novo morfo substitui o seu existente. O morfo que você tem no final da trajetória de vida ([Passo 15](16-step-15-final-stats-and-details.md)) é aquele com o qual você começa o jogo.
+No Passo 4, adquire seu morfo inicial. Nos vários estágios posteriores, você pode egoprojetar, reencapar ou morrer. Algumas entradas atribuem um novo morfo específico, mas a maioria orienta a rolar nas [tabelas de Morfo Aleatório](20-morph-tables.md) para determinar sua nova capa. Esse novo morfo substitui o seu existente. O morfo que você tem no final da trajetória de vida ([Passo 15](16-step-15-final-stats-and-details.md)) é aquele com o qual você começa o jogo.
 
 ## Esta é a sua Vida
 
@@ -78,7 +78,7 @@ O principal valor deste sistema de trajetória de vida é que ele conta a histó
 
 Todo novo personagem começa com 3 [motivações](../../../04/16-step-13-motivations.md) (_EP2_) que são atribuídas junto com o seu antecedente no Passo 4, refletindo as ambições juvenis do seu personagem. Em cada passo adicional do processo, você deve considerar se deve modificar ou substituir alguma dessas motivações com base nas experiências do seu personagem até agora. Algumas entradas podem sugerir novas motivações específicas a serem adotadas.
 
-Todas as sugestões de motivação são opcionais. Se preferir continuar com o que você tem ou tem uma ideia que se enquadra melhor no conceito do seu personagem, então siga esse caminho. Se você não gosta de uma sugestão, mas não sabe com que substituí-la, role na tabela de Motivações Aleatórias. Lembre-se de que as motivações são apontadas como + (apoio) ou − (oposição); para a maioria dos resultados aleatórios você pode assumir um +, mas você também pode determinar aleatoriamente se você quiser.
+Todas as sugestões de motivação são opcionais. Se preferir continuar com o que você tem ou tem uma ideia que se enquadra melhor no conceito do seu personagem, então siga esse caminho. Se você não gosta de uma sugestão, mas não sabe com que substituí-la, role na tabela de Motivação Aleatória. Lembre-se de que as motivações são apontadas como + (apoio) ou − (oposição); para a maioria dos resultados aleatórios você pode assumir um +, mas você também pode determinar aleatoriamente se você quiser.
 
 Esse sistema reflete a mudança de prioridades do seu personagem ao longo do tempo, assumindo novos ideais e objetivos à medida que ele ganha experiência. Você pode até acabar no final com motivações que são opostas àquelas com as quais começou. Tais mudanças exigem explicações: por que seu personagem evoluiu e quais eventos importantes moldaram sua visão de mundo e direcionaram seu olhar para novas direções?
 
@@ -86,7 +86,7 @@ Você nunca deve ter mais de 3 motivações; se você quiser adicionar uma nova,
 
 <!-- CLEANED blockquote class="table" -->
 
-### Motivações Aleatórias ❮d100❯
+### Motivação Aleatória ❮d100❯
 
 <!-- CLEANED div class="tnw1" -->
 
@@ -111,7 +111,7 @@ Você nunca deve ter mais de 3 motivações; se você quiser adicionar uma nova,
 |                21                |             Colonização Exoplanetária             |
 |              22–23               |                Expandir Influência                |
 |              24–25               |                    Exploração                     |
-|              26–27               |            Interesses de \[Facção\]             |
+|              26–27               |            Interesses da \[Facção\]             |
 |              28–29               |                Fama/Reconhecimento                |
 |                30                |                      Família                      |
 |              31–32               |  Encontrar um \[Lar/Propósito/Tribo/Parceiro\]  |
