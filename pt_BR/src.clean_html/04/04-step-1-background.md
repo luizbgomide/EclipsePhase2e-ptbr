@@ -73,7 +73,7 @@ Você vivia no um por cento do topo, com abundância de riqueza e recursos.
 
 ## Arrendado
 
-Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hipercorps fora da Terra.
+Com nada a perder, você se vendeu para um contrato de trabalho com as hipercorps fora da Terra.
 
 <!--sort-->
 
@@ -104,7 +104,7 @@ Você é uma IGA, uma consciência digital nascida de códigos programados.
 
 ## Isolado
 
-Você criou uma existência autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.
+Você sobreviveu de forma autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.
 
 <!--sort-->
 
