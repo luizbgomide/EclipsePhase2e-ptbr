@@ -3,7 +3,7 @@
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->
 
-**Determine as [aptidões](../../../04/01-character-stats.md#aptitudes) (_EP2_) iniciais do seu personagem na tabela Modelos Aleatórios de Aptidões.**
+**Determine as [aptidões](../../../04/01-character-stats.md#aptitudes) (_EP2_) iniciais do seu personagem na tabela Modelo de Aptidões Aleatório.**
 
 <!-- CLEANED /blockquote -->
 
@@ -20,7 +20,7 @@ Você era do tipo durão e briguento desde que nasceu? Você sempre teve esse br
 
 <!-- CLEANED blockquote class=table -->
 
-## Modelos Aleatórios de Aptidões ❮d10❯
+## Modelo de Aptidões Aleatório ❮d10❯
 
 <!-- CLEANED div class="tnw1 tnw2" -->
 
