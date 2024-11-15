@@ -24,7 +24,7 @@ Embora as ideias culturais progressistas continuem ganhando terreno, a transuman
 
 ### Usando Motivações
 
-Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com quem você está lidando. Com uma longa conversa em um Teste de Persuasão bem-sucedido (oposto por Prova de SAG), você pode ser capaz de determinar uma das motivações do PNJ (a critério do MJ). Se você puder usar esse conhecimento como arma contra o PNJ, seja com um apelo ou insulto aos interesses dele, o MJ pode aplicar um modificador aos seu teste de perícia social. Da mesma forma, você pode sem saber tocar nas motivações de um PNJ quando lidar com ele, adquirindo assim um modificador dependendo se você apoia/incentiva ou se opõe aos interesses dele.
+Seja negociando ou arrumando brigas, é útil saber o que motiva a pessoa com quem você está lidando. Com uma longa conversa em um Teste de Persuasão bem-sucedido (oposto por Prova de SAG), você pode ser capaz de determinar uma das motivações do PNJ (a critério do MJ). Se você puder usar esse conhecimento como arma contra o PNJ, seja com um apelo ou insulto aos interesses dele, o MJ pode aplicar um modificador aos seus teste de perícia social. Da mesma forma, você pode sem saber tocar nas motivações de um PNJ quando lidar com ele, adquirindo assim um modificador dependendo se você apoia/incentiva ou se opõe aos interesses dele.
 
 <!-- CLEANED blockquote class="table" -->
 
