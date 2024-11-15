@@ -85,7 +85,7 @@ Com nada a perder, você se vendeu para um contrato de trabalho com as hipercorp
 | Interface                                                                 | 40 |
 | Percepção                                                                 | 20 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Mineração de Asteroides, Operações de Habitat, Terraformação_</p> | 60 |
-| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Jogatina, Mercados Negros, Vendedores de XP_</p> | 30 |
+| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Jogatina, Mercados Negros, Traficantes de XP_</p> | 30 |
 
 ## Infovida
 
