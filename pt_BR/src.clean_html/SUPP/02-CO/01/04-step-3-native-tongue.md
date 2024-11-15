@@ -3,7 +3,7 @@
 <!-- CLEANED div class="no-margin" -->
 <!-- CLEANED blockquote class="header-bg" -->
 
-**O próximo passo é determinar a língua nativa do seu personagem na Tabela de Idiomas Aleatórios.**
+**O próximo passo é determinar a língua nativa do seu personagem na tabela de Idioma Aleatório.**
 
 <!-- CLEANED /blockquote -->
 
@@ -18,7 +18,7 @@ Sua língua nativa é uma indicação da origem étnica e herança cultural do s
 
 <!-- CLEANED blockquote class="table" -->
 
-## Idiomas Aleatórios ❮d100❯
+## Idioma Aleatório ❮d100❯
 
 <!-- CLEANED div class="tnw1" -->
 
