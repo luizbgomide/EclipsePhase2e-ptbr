@@ -844,7 +844,7 @@ The nomad biomorph is optimized for operating in desert environments. They incor
 
 - **Movement Rate:** Walker 4/20
 - **Ware:** Biomods, Cold Tolerance, Cortical Stack, Direction Sense, Efficient Metabolism, Heat Tolerance, Mesh Inserts
-- **Notes:** Bodysculpting (Hooves), Respirocytes, Toxin Filters. Many have the Unattractiveness trait.
+- **Common Extras:** Bodysculpting (Hooves), Respirocytes, Toxin Filters. Many have the Unattractiveness trait.
 
 <!-- CLEANED /blockquote -->
 
