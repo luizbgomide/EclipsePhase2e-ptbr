@@ -259,7 +259,7 @@ This massive anthropomorphic mech is used for construction work, moving giant ob
 
 ### Combat Mech Variant
 
-This massive anthropomorphic mech is used for construction work, moving giant objects, and similar heavy industrial projects. It stands just under three meters and weighs almost one ton in Earth gravity.
+This modified version of the daitya is deployed for combat purposes.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
