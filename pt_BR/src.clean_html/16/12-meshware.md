@@ -1,10 +1,10 @@
-# Meshwares
+# Meshimplantes
 
-Meshwares referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como biowares e equipawares para morfos físicos. Um meshware exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshware permanece com o infomorfo quando ele é movido ou copiado. Os meshwares também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshwares, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshwares não podem ser usados por não infomorfos ou usuários sem cibercérebros.
+Meshimplantes referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioimplantes e equimplantes para morfos físicos. Um meshimplante exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshimplante permanece com o infomorfo quando ele é movido ou copiado. Os meshimplantes também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshimplantes, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshimplantes não podem ser usados por não infomorfos ou usuários sem cibercérebros.
 
 <!--sort-->
 
-| MESHWARES            | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
+| MESHIMPLANTES        | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                          |
 |:-------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | Trava-App            |                 Men/1                 | −30 em Infoseg para remover apps sem autorização.                                                  |
 | Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                           |
@@ -24,14 +24,14 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 
 **Véu Digital:** O véu digital oculta a presença de apps designados dentro do código do infomorfo. Qualquer tentativa de escanear o morfo usando Interface é oposta com uma perícia Programação de 80. Os apps ocultos devem ser designados quando o véu digital for ativado.
 
-**Segurança Aprimorada:** Esse meshware instala camadas adicionais de firewall e segurança, tornando o infomorfo/cibercérebro mais difícil de hackear. Aplique um modificador −10 em tentativas de hack cerebral da sua mente digital.
+**Segurança Aprimorada:** Esse meshimplante instala camadas adicionais de firewall e segurança, tornando o infomorfo/cibercérebro mais difícil de hackear. Aplique um modificador −10 em tentativas de hack cerebral da sua mente digital.
 
 <!--sort-union-->
 
-Você também pode usar esse meshware para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
+Você também pode usar esse meshimplante para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
 
 **Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VB 5 contra ataques na mesh.
 
-**Persistência:** Esse meshware usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
+**Persistência:** Esse meshimplante usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
 
 <!--sort-end-->
