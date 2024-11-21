@@ -215,7 +215,7 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 | Infiltrate                            |   50 |
 | Infosec                               |   30 |
 | Perceive                              |   20 |
-| Pilot: Spacecraft                     |   30 |
+| Pilot: Space                          |   30 |
 | <!--sort-restart-->Know: Security Ops |   30 |
 | Know: Smuggling                       |   60 |
 
@@ -954,17 +954,17 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 <div>
 <!--sort-->
 
-|                                        |      |
-| :------------------------------------- | ---: |
-| c-rep                                  |   20 |
-| <!--sort-restart-->Guns                |   20 |
-| Infosec                                |   20 |
-| Kinesics                               |   30 |
-| Medicine: Forensics                    |   20 |
-| Perceive                               |   40 |
-| Research                               |   50 |
-| <!--sort-restart-->Know: Cartels       |   30 |
-| Know: Investigation                    |   60 |
+|                                  |      |
+| :------------------------------- | ---: |
+| c-rep                            |   20 |
+| <!--sort-restart-->Guns          |   20 |
+| Infosec                          |   20 |
+| Kinesics                         |   30 |
+| Medicine: Forensics              |   20 |
+| Perceive                         |   40 |
+| Research                         |   50 |
+| <!--sort-restart-->Know: Cartels |   30 |
+| Know: Investigation              |   60 |
 
 </div>
 </blockquote>
@@ -1024,17 +1024,17 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 <div>
 <!--sort-->
 
-|                                     |      |
-| :---------------------------------- | ---: |
-| f-rep                               |   20 |
-| <!--sort-restart-->Infosec          |   20 |
-| Kinesics                            |   40 |
-| Perceive                            |   20 |
-| Persuade                            |   20 |
-| Provoke                             |   20 |
-| Research                            |   60 |
+|                                         |      |
+| :-------------------------------------- | ---: |
+| f-rep                                   |   20 |
+| <!--sort-restart-->Infosec              |   20 |
+| Kinesics                                |   40 |
+| Perceive                                |   20 |
+| Persuade                                |   20 |
+| Provoke                                 |   20 |
+| Research                                |   60 |
 | <!--sort-restart-->Know: Current Events |   30 |
-| Know: Journalism                    |   60 |
+| Know: Journalism                        |   60 |
 
 </div>
 </blockquote>
@@ -1079,17 +1079,17 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 <div>
 <!--sort-->
 
-|                                      |      |
-| :----------------------------------- | ---: |
-| c-rep                                |   10 |
-| f-rep                                |   10 |
-| <!--sort-restart-->Medicine: Biotech |   60 |
-| Medicine: Pharmacology               |   50 |
-| Medicine: Psychosurgery              |   40 |
-| Research                             |   30 |
+|                                            |      |
+| :----------------------------------------- | ---: |
+| c-rep                                      |   10 |
+| f-rep                                      |   10 |
+| <!--sort-restart-->Medicine: Biotech       |   60 |
+| Medicine: Pharmacology                     |   50 |
+| Medicine: Psychosurgery                    |   40 |
+| Research                                   |   30 |
 | <!--sort-restart-->Know: Cognitive Science |   20 |
-| Know: Genetics                       |   30 |
-| Know: Morphs                         |   40 |
+| Know: Genetics                             |   30 |
+| Know: Morphs                               |   40 |
 
 </div>
 </blockquote>
@@ -1149,17 +1149,17 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 <div>
 <!--sort-->
 
-|                                      |      |
-| :----------------------------------- | ---: |
-| c-rep                                |   10 |
-| r-rep                                |   10 |
-| <!--sort-restart-->Medicine: Biotech |   60 |
-| Medicine: Pharmacology               |   50 |
-| Medicine: Psychosurgery              |   40 |
-| Research                             |   30 |
+|                                            |      |
+| :----------------------------------------- | ---: |
+| c-rep                                      |   10 |
+| r-rep                                      |   10 |
+| <!--sort-restart-->Medicine: Biotech       |   60 |
+| Medicine: Pharmacology                     |   50 |
+| Medicine: Psychosurgery                    |   40 |
+| Research                                   |   30 |
 | <!--sort-restart-->Know: Cognitive Science |   30 |
-| Know: Genetics                       |   20 |
-| Know: Infectious Diseases            |   40 |
+| Know: Genetics                             |   20 |
+| Know: Infectious Diseases                  |   40 |
 
 </div>
 </blockquote>
