@@ -59,7 +59,7 @@ The career decided here is either the one you practiced most notably during your
 
 **You devote your efforts to the pursuit of knowledge.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -184,7 +184,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You are skilled at accessing places you don’t belong.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -307,7 +307,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You’re a thug, whether for hire or for a dedicated cause.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -432,7 +432,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You walk on alien worlds and see things others wouldn’t believe.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -559,7 +559,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You excel at convincing others, even when it is not in their best interests.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -682,7 +682,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **DNA is your artistic medium.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -808,7 +808,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **Software heeds your beck and call.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -931,7 +931,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **Few details escape your scrutiny.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1056,7 +1056,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You have a background in medicine.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1181,7 +1181,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You meld minds and memories.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1307,7 +1307,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You scrounge through wrecks and ruins, seeking value in destruction.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1434,7 +1434,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You excel at convincing others, even when it is not in their best interests.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1563,7 +1563,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You deploy violence — or the threat of it.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
@@ -1687,7 +1687,7 @@ Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests
 
 **You make and fix things.**
 
-Roll d100 (re-roll 00) or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
+Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
 <!--sort-->
 <!--sort-block-->
