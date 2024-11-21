@@ -138,7 +138,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
 - **Téc-Hab:** Um técnico de habitat.
-- **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
+- **Cilindro Hamilton:** Um hab cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Equipoimplantes:** Aprimoramentos para sintemorfos.
 - **Caça-Cabeças:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
