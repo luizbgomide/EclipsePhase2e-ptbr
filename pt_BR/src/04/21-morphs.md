@@ -5,7 +5,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 <div class="stat-list">
 
 - **Taxa de Movimento:** O sistema de mobilidade usado e a distância coberta ([Movimento](../12/24-movement.md)).
-- **Implantes:** Bioimplantes, ciberimplantes, equimplantes, meshimplantes e/ou nanoimplantes que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
+- **Implantes:** Bioimplantes, ciberimplantes, equipoimplantes, meshimplantes e/ou nanoimplantes que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
 - **Traços de Morfo:** Traços que cada morfo deste tipo possui ([Traços](28-traits.md)).
 - **Extras Comuns:** Traços ou implantes comuns, mas que não são o padrão para esse tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
 

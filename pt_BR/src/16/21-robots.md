@@ -6,12 +6,12 @@ A maioria dos robôs são construídos intencionalmente em formas não humanoide
 
 ## Implantes Robóticos
 
-Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com implantes padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de implantes, como indicado em suas descrições. Você também pode modificar bots com implantes adicionais, exatamente como um sintemorfo. Alguns também usam [equimplantes veiculares](22-vehicles.md#equimplantes-veiculares).
+Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com implantes padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de implantes, como indicado em suas descrições. Você também pode modificar bots com implantes adicionais, exatamente como um sintemorfo. Alguns também usam [equipoimplantes veiculares](22-vehicles.md#equipoimplantes-veiculares).
 
-| TODOS OS ROBÔS                                                                                                                                         |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes equimplantes, além daqueles listados em suas descrições específicas: |
-| <ul class="stat-list indent"><li>**Implantes:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                              |
+| TODOS OS ROBÔS                                                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes equipoimplantes, além daqueles listados em suas descrições específicas: |
+| <ul class="stat-list indent"><li>**Implantes:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                                 |
 
 ## Operação Remota
 

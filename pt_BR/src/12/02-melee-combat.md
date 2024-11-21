@@ -40,7 +40,7 @@ Armamentos implantados podem ser combinados com enguiônico para produzir choque
 
 <!--sort-->
 
-**Enguiônico:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioimplante) ou a colocação de painéis eletrificados (equimplante) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
+**Enguiônico:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioimplante) ou a colocação de painéis eletrificados (equipoimplante) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
 **Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar blindagens modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora blindagem).
 

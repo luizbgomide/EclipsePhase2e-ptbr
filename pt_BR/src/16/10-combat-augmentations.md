@@ -45,7 +45,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 **Controle de Estresse:** O sistema endócrino do seu morfo (ou sua simulação programática) foi modificado para lhe dar maior controle sobre o cortisol e hormônios semelhantes. Isso lhe permite gerenciar seus níveis de estresse e respostas. Aplique um modificador +10 Provas de VON contra estresse ou transtornos desencadeados, e aumente seu Limiar de Trauma em 1. Isso não impacta sua Lucidez ou Grau de Insanidade.
 
-**Eficiência Energética:** A versão em bioimplante deste implante acelera o seu metabolismo. A versão em equimplante otimiza o uso de energia da sua carcaça. A versão em meshimplante otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
+**Eficiência Energética:** A versão em bioimplante deste implante acelera o seu metabolismo. A versão em equipoimplante otimiza o uso de energia da sua carcaça. A versão em meshimplante otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
 
 **Esqueleto Endurecido:** O esqueleto do morfo é enriquecido com metais amorfos e fulerenos para fortalecimento. Aumente seu Limiar de Ferimento em 1, Durabilidade em 5, Grau de Destruição em 8 (biomorfos) ou 10 (sintemorfos), e sua Prova de SOM em 10.
 

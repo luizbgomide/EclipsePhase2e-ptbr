@@ -104,7 +104,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Enxame:** Uma flotilha de naves, às vezes com habs interligados ou rebocados.
 - **Enxame:** Uma massa de nano- ou microbots agindo em conjunto.
 - **Enxamenoide:** Um sintemorfo composto de um enxame de microbots.
-- **Equimplantes:** Aprimoramentos para sintemorfos.
+- **Equipoimplantes:** Aprimoramentos para sintemorfos.
 - **Eremitas:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Escaneador:** Um procurador que coleta e analisa dados para sinais de riscos X.
 - **Escanear:** Localizar e identificar dispositivos sem fio.
@@ -168,7 +168,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
-- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equimplantes, meshimplantes e nanoimplantes.
+- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equipoimplantes, meshimplantes e nanoimplantes.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.

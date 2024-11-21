@@ -50,7 +50,7 @@ Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evi
 
 ### Implantes
 
-Enxamenoides e enxames podem ser equipados com implantes, como os robôs. Os MJs devem usar o bom senso quando decidir quais implantes são permitidos; a maioria dos meshimplantes e nanoimplantes são aceitáveis, mas equimplantes como pneumáticos não são.
+Enxamenoides e enxames podem ser equipados com implantes, como os robôs. Os MJs devem usar o bom senso quando decidir quais implantes são permitidos; a maioria dos meshimplantes e nanoimplantes são aceitáveis, mas equipoimplantes como pneumáticos não são.
 
 ### Desgaste
 

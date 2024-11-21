@@ -1,6 +1,6 @@
 # Meshimplantes
 
-Meshimplantes referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioimplantes e equimplantes para morfos físicos. Um meshimplante exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshimplante permanece com o infomorfo quando ele é movido ou copiado. Os meshimplantes também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshimplantes, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshimplantes não podem ser usados por não infomorfos ou usuários sem cibercérebros.
+Meshimplantes referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioimplantes e equipoimplantes para morfos físicos. Um meshimplante exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshimplante permanece com o infomorfo quando ele é movido ou copiado. Os meshimplantes também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshimplantes, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshimplantes não podem ser usados por não infomorfos ou usuários sem cibercérebros.
 
 <!--sort-->
 

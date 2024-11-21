@@ -124,7 +124,7 @@
   - [Bots Utilitários](21-robots.md#bots-utilitários)
 - [Veículos](22-vehicles.md)
   - [Implantes Veiculares](22-vehicles.md#implantes-veiculares)
-    - [Equimplantes Veiculares](22-vehicles.md#equimplantes-veiculares)
+    - [Equipoimplantes Veiculares](22-vehicles.md#equipoimplantes-veiculares)
   - [Aeronaves](22-vehicles.md#aeronaves)
   - [Dispositivos de Transporte Pessoal](22-vehicles.md#dispositivos-de-transporte-pessoal)
   - [Espaçonaves](22-vehicles.md#espaçonaves)

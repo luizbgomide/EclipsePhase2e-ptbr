@@ -19,7 +19,7 @@
   - [Resumo da Criação de Personagem](04/02-character-creation-overview.md)
   - [Conselhos para Criação de Personagem](04/03-character-creation-advice.md)
   - [Passo 1: Antecedente](04/04-step-1-background.md)
-  - [Passo 2: Carreira](04/05-step-2-carrer.md)
+  - [Passo 2: Carreira](04/05-step-2-career.md)
   - [Passo 3: Interesse](04/06-step-3-interest.md)
   - [Passo 4: Facção](04/07-step-4-faction.md)
   - [Passo 5: Modelo de Aptidões](04/08-step-5-aptitude-template.md)

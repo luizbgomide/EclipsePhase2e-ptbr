@@ -8,22 +8,22 @@ Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots
 
 | TODOS OS VEÍCULOS                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes equimplante, além daqueles listados em suas descrições específicas:                                             |
+| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes equipoimplante, além daqueles listados em suas descrições específicas:                                          |
 | <ul class="stat-list indent"><li>**Implantes:** Insertos da Mesh, Manípulo Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
 | Além disso, veículos com compartimentos fechados são selados/pressionados e possuem um Respirador (submerso ou atmosfera com dióxido de carbono) ou Suporte Vital (48 horas).                        |
 | Os veículos projetados para Mercúrio possuem Proteção Termogênica, os veículos venusianos possuem Adaptação de Pressão e Proteção Termogênica, e os veículos titanianos possuem Proteção Criogênica. |
 
-### Equimplantes Veiculares
+### Equipoimplantes Veiculares
 
 Alguns aprimoramentos são projetados especificamente para veículos, embora alguns robôs também os utilizem:
 
 <!--sort-->
 
-| EQUIMPLANTES VEICULARES | Comp/<wbr>PE |
-|:----------------------- |:-------------------------------------:|
-| Aríete                  |                Mod/R/2                |
-| Manobra Aprimorada      |                 Mod/2                 |
-| Suporte Vital           |                Men+/1+                |
+| EQUIPOIMPLANTES VEICULARES | Comp/<wbr>PE |
+|:-------------------------- |:-------------------------------------:|
+| Aríete                     |                Mod/R/2                |
+| Manobra Aprimorada         |                 Mod/2                 |
+| Suporte Vital              |                Men+/1+                |
 
 <!--sort-->
 

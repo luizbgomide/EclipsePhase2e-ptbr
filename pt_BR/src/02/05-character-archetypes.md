@@ -2,7 +2,7 @@
 
 Os personagens são definidos por suas perícias e sua reputação. O grupo como um todo precisa de uma amplo leque de perícias para superar os desafios colocados contra eles. Esses podem incluir coletar recursos, conquistar aliados, pesquisar, infiltrar (ou proteger) sistemas da mesh, reparar ou improvisar uma ferramenta crítica, combater, e aplicar o que aprenderam para chegar a uma solução. As competências que o grupo deve possuir podem ser mais ou menos agrupadas como combate, social, técnico e conhecimento. Esses grupos estabelecem os quatro grandes arquétipos de Eclipse Phase — o combatente, o malandro, o técnico (ou hacker) e o cientista (ou artista). Em grupos menores, os PJs podem querer preencher múltiplos arquétipos enquanto minimizam a sobreposição. Em grupos maiores, os personagens se beneficiam mais da especialização. Os jogadores devem se coordenar para evitar especialidades que se sobreponham demais, mas especialidades diferentes na mesma área podem criar multiplicadores de força.
 
-Cada um dos arquétipos abaixo lista pacotes de perícia de [Carreiras](../04/05-step-2-carrer.md) e [Interesses](../04/06-step-3-interest.md) sugeridos para serem escolhidos durante a criação de personagem.
+Cada um dos arquétipos abaixo lista pacotes de perícia de [Carreiras](../04/05-step-2-career.md) e [Interesses](../04/06-step-3-interest.md) sugeridos para serem escolhidos durante a criação de personagem.
 
 ## Combate
 
