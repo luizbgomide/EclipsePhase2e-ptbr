@@ -8,7 +8,7 @@ Embora muitas vezes seja mais sensato agir como se você estivesse sob vigilânc
 
 Encontrar sensores requer um Teste de Percepção. Dado seus tamanhos, de pequenos a minúsculos, aplique um modificador entre −10 e −30, conforme for apropriado. Se procurar em uma área com vários sensores, role uma vez e não aplique modificadores; use sucessos maiores para verificar se você encontra os menores. Nanoenxames não podem ser detectados, exceto com um [nanodetector](../16/19-nanotech.md).
 
-Certos equipamentos e implantes também podem ser usados para detectar sensores, incluindo [ware de sentido elétrico](../16/07-senses-and-sensors.md), [enxame espião](../16/20-nanoswarms-and-microswarms.md#swarms), e [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
+Certos equipamentos e implantes também podem ser usados para detectar sensores, incluindo [implante de sentido elétrico](../16/07-senses-and-sensors.md), [enxame espião](../16/20-nanoswarms-and-microswarms.md#swarms), e [ofuscantes](../12/10-seeker-weapons-and-grenades.md#seeker-missiles-and-grenades).
 
 **Sensores Ocultos:** Sensores às vezes são ativamente camuflados. Aplique um modificador −30 em Testes de Percepção para detectá-los.
 
@@ -16,7 +16,7 @@ Certos equipamentos e implantes também podem ser usados para detectar sensores,
 
 ## Evitando o Reconhecimento
 
-Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidade como as [túnicas](../16/17-espionage-and-security-tech.md) são comuns e fornecem anonimato, embora sua presença ainda possa ser percebida. Os [mantos de invisibilidade](../16/17-espionage-and-security-tech.md) vão esconder você de muitos sensores, mas são mais propensos a levantarem suspeitas. Wares como pele-flex, máscara sintética, mudança sexual, e pele camaleão também podem ajudar a esconder sua identidade ou combater comparações biométricas. Os disfarces à moda antiga também são uma opção; faça uma teste oposto entre Perícia Exótica: Disfarce e Percepção. Algoritmos de comparação de rostos e padrões não funcionam bem contra certos padrões visuais e de maquiagem; aplique −20 em Testes de Percepção quando usar esses padrões.
+Se você não puder evitar os sensores, engane-os. Os dispositivos de privacidade como as [túnicas](../16/17-espionage-and-security-tech.md) são comuns e fornecem anonimato, embora sua presença ainda possa ser percebida. Os [mantos de invisibilidade](../16/17-espionage-and-security-tech.md) vão esconder você de muitos sensores, mas são mais propensos a levantarem suspeitas. Implantes como pele-flex, máscara sintética, mudança sexual, e pele camaleão também podem ajudar a esconder sua identidade ou combater comparações biométricas. Os disfarces à moda antiga também são uma opção; faça uma teste oposto entre Perícia Exótica: Disfarce e Percepção. Algoritmos de comparação de rostos e padrões não funcionam bem contra certos padrões visuais e de maquiagem; aplique −20 em Testes de Percepção quando usar esses padrões.
 
 ## Bloqueando Sinais Ativamente
 
