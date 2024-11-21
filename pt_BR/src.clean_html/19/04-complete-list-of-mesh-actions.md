@@ -30,7 +30,7 @@ Ações normalmente disponíveis para todos os usuários.
 - **Trocar Dispositivo Habitado:** Mover o estado mental virtual do seu infomorfo para outro sistema.
 - **Encerrar Programa:** Matar o processo de um programa menor.
 - **Ligar/Desligar Tema de RA \[R\]:** Alterar o tema do ambiente RA ([Tematização](../13/03-common-mesh-uses.md#skinning)).
-- **Ligar/Desligar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyimplante.md#privacy-mode))
+- **Ligar/Desligar Modo Privativo \[R\]:** Definir o perfil público como privado ou público ([Modo Privativo](../13/01-everyware.md#privacy-mode))
 - **Ligar/Desligar Simulespaço:** Entrar/sair do simulespaço ([Realidade Virtual](../13/18-virtual-reality.md)).
 - **Usar Apps:** Usar vários apps. Pode exigir um Teste de Interface.
 - **Usar Serviço:** Usar apps da nuvem. Pode exigir uma assinatura.
