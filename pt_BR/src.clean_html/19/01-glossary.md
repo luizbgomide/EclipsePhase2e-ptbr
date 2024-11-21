@@ -139,7 +139,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Guanxi:** A rede social de criminosos.
 - **Téc-Hab:** Um técnico de habitat.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
-- **Equimplantes:** Aprimoramentos para sintemorfos.
+- **Equipoimplantes:** Aprimoramentos para sintemorfos.
 - **Caça-Cabeças:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
@@ -321,7 +321,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.
-- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equimplantes, meshimplantes e nanoimplantes.
+- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equipoimplantes, meshimplantes e nanoimplantes.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
 - **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
 - **Flageladores:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
