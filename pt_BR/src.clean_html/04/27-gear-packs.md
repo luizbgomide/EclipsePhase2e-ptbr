@@ -231,7 +231,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                  |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------- |
 | [Confurte (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
-| [Enguimplante](../12/02-melee-combat.md#melee-ware)                       |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
+| [Enguiônico](../12/02-melee-combat.md#melee-ware)                         |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
 | [Ponte de Ego](../16/19-nanotech.md)                                      |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | [Multitarefa](../16/08-mental-augmentations.md)                           |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | [Servidor Privado](../16/04-services.md#mesh-services)                    |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
