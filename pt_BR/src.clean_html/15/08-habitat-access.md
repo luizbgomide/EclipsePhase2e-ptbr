@@ -42,7 +42,7 @@ Chegar ou entrar em um habitat sem autorização não é fácil, mas há opçõe
 
 ### Redes Clandestinas
 
-Vários serviços de furtiprojeção mantidos por sindicatos do crime oferecem um método alternativo de egoprojeção. No entanto, os serviços de furtiprojeção são bastante custosos e você está à mercê dos operadores. Eles tem suas próprias reputações a zelar, mas se um grupo tiver o monopólio de furtiprojeção em um habitat, problemas podem surgir. Esses provedores geralmente também oferecem serviços de reencape no mercado negro, incluindo morfos e ware restritos, assim como [IDs falsas](../16/04-services.md#physical-services). Em casos raros, facções políticas (geralmente células autonomistas) ou até mesmo hipercorps podem operar seus próprios sistemas de furtiprojeção; acessar esses serviços exige conhecer as pessoas certas, tem uma boa rep e/ou molhar as mãos certas.
+Vários serviços de furtiprojeção mantidos por sindicatos do crime oferecem um método alternativo de egoprojeção. No entanto, os serviços de furtiprojeção são bastante custosos e você está à mercê dos operadores. Eles tem suas próprias reputações a zelar, mas se um grupo tiver o monopólio de furtiprojeção em um habitat, problemas podem surgir. Esses provedores geralmente também oferecem serviços de reencape no mercado negro, incluindo morfos e implantes restritos, assim como [IDs falsas](../16/04-services.md#physical-services). Em casos raros, facções políticas (geralmente células autonomistas) ou até mesmo hipercorps podem operar seus próprios sistemas de furtiprojeção; acessar esses serviços exige conhecer as pessoas certas, tem uma boa rep e/ou molhar as mãos certas.
 
 ### Entrando Escondido
 
