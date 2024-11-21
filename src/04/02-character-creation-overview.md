@@ -5,7 +5,7 @@ There are 13 steps to making a character. The first three steps involve choosing
 <div class="stat-list">
 
 - **Step 1: [Background](04-step-1-background.md):** Your origin and accompanying skills.
-- **Step 2: [Career](05-step-2-carrer.md):** Your profession and relevant skills.
+- **Step 2: [Career](05-step-2-career.md):** Your profession and relevant skills.
 - **Step 3: [Interest](06-step-3-interest.md):** Your secondary focus and related skills.
 - **Step 4: [Faction](07-step-4-faction.md):** Pick your alliance.
 - **Step 5: [Aptitude Template](08-step-5-aptitude-template.md):** Assign your inherent ego stats.

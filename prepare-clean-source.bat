@@ -1,4 +1,9 @@
 echo off
+echo Getting Summary and TOCs...
+node .\utils\getSUMMARY.js .\src
+node .\utils\getTOC.js .\src
+
+
 echo Getting valid links...
 node .\utils\getValidLinks.js .\src
 
