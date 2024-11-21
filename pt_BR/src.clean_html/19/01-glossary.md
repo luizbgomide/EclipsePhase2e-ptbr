@@ -114,7 +114,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** A conspiração secreta interfaccional que trabalha para proteger a transumanidade dos riscos X.
 - **Firewall:** O programa que defende um sistema de invasões.
 - **Hab Fisher:** Uma variante de hab cilíndrico que usa módulos independentes.
-- **Agenciador:** Alguém que negocia tratos para adquirir bens ou informações.
+- **Intermediário:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Intocado:** Um humano comum, sem genecorreções ou modificações.
 - **Planetista:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
