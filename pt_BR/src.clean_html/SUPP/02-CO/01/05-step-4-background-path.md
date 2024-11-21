@@ -36,7 +36,7 @@ Geralmente, seu morfo inicial indica aquele com o qual você nasceu. Personagens
 |               4                | [Hiperelite](#hyperelite-d100)      | Você vive no um por cento do topo, com abundância de riqueza e recursos.                                     |
 |               5                | [Arrendado](#indenture-d100)        | Com nada a perder, você se vende para um contrato de trabalho com as hipercorps fora da Terra.               |
 |               6                | [Infovida](#infolife-d100)          | Você é uma IGA, uma consciência digital nascida de códigos programados.                                      |
-|               7                | [Isolado](#isolate-d100)            | Você sobrevive de forma autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.        |
+|               7                | [Isolado](#isolate-d100)            | Você sobrevive de forma autoexilada em um hab ou uma nave remotos na periferia do espaço ocupado.            |
 |               8                | [Perdido](#lost-d100)               | Você vive uma infância de crescimento acelerado que torna a maioria dos seus colegas em monstros sociopatas. |
 |               9                | [Miserável](#underclass-d100)       | Você é um veterano dos cortiços, favelas, guetos e cidades inundadas da Terra.                               |
 |               10               | [Elevado](#uplift-d100)             | Você é um animal elevado que atingiu níveis humanos de inteligência.                                         |
@@ -1903,7 +1903,7 @@ Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o [Passo 5:
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-**Você sobrevive de forma autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.**
+**Você sobrevive de forma autoexilada em um hab ou uma nave remotos na periferia do espaço ocupado.**
 
 Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o [Passo 5: Evento da Juventude](06-step-5-youth-event.md).
 
