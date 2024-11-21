@@ -48,7 +48,7 @@ Sua demonstração do sistema foi excelente, e agora seu grupo mal pode esperar 
 
 ### Onde é sua Base de Operações?
 
-A variedade de locais em Eclipse Phase pode ser demais para digerir. Em vez de fazer os jogadores aprenderem sobre a vida na superfície marciana, em um aeróstato venusiano e em um habitat de agrupamento no sistema exterior tudo de uma vez, é melhor ancorar a campanha em uma base de operações. Quão menos seu grupo estiver imerso em ficção científica hard, mais você preferirá ficar em ambientes planetários como Marte ou Vênus. Nos locais mais parecidos com a Terra, os jogadores não são sobrecarregados com detalhes como se preocupar com microgravidade, visualizar como os habitats espaciais se parecem, ou descobrir como se movimentar.
+A variedade de locais em Eclipse Phase pode ser demais para digerir. Em vez de fazer os jogadores aprenderem sobre a vida na superfície marciana, em um aeróstato venusiano e em um hab de agrupamento no sistema exterior tudo de uma vez, é melhor ancorar a campanha em uma base de operações. Quão menos seu grupo estiver imerso em ficção científica hard, mais você preferirá ficar em ambientes planetários como Marte ou Vênus. Nos locais mais parecidos com a Terra, os jogadores não são sobrecarregados com detalhes como se preocupar com microgravidade, visualizar como os habitats espaciais se parecem, ou descobrir como se movimentar.
 
 ### Qual é o seu Tema?
 
