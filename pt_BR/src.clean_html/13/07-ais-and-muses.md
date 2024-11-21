@@ -77,7 +77,7 @@ Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 - Colocar você em modo privativo e proativamente camuflar seu sinal sem fio.
 - Rastrear pessoas por você.
 - Antecipar suas necessidades e realizar seus pedidos.
-- Monitorar sua saúde (via medicadores) e o status de wares/equipamentos.
+- Monitorar sua saúde (via medicadores) e o status de implantes/equipamentos.
 - Chamar ajudar se algo acontecer com você.
 
 ### Online, Mesmo Quando Você Não Estiver
