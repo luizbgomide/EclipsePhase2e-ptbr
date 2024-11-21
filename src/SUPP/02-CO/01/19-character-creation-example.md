@@ -22,7 +22,7 @@ His first d100 roll on **Random Background Path** is 1 for **Colonist**, and so 
 
 So far we know that this character is Korean and was a spacer before the Fall. Let’s fill in some more of those background details with **Youth Event** table where a d100 roll of 45 says that this character “grew up in a melting-pot, polyglot culture” and gives them the **Hyper Linguistics (Level 0) trait**. It makes sense that some spacer crews would be multicultural, so this is a good fit.
 
-With that jotted down, Adam determines the character’s starting age on the **Age table**: in their 40s, on a roll of 56 Another d10 roll of 4 makes them 44. Since the game takes place 10 years after the Fall, and the Fall itself was a 2-year process, they were roughly 32–34 when the Fall occurred.
+With that jotted down, Adam determines the character’s starting age on the **Age table**: in their 40s, on a roll of 56. Another d10 roll of 4 makes them 44. Since the game takes place 10 years after the Fall, and the Fall itself was a 2-year process, they were roughly 32–34 when the Fall occurred.
 
 Moving on to the **Pre-Fall Life Event** table, Adam rolls d100 and gains a **free specialization** for training hard. He’ll figure this out later after all of the character’s skills are sorted. He’s beginning to think this character might be a bit of a goody two-shoes, which is a step down from being a goody eight-suckers.
 

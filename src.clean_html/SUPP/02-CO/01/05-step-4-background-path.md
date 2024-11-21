@@ -74,7 +74,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You remember the Moon before it was crowded.
+- **Bio:** You remember the Moon before it was crowded.
 
 ---
 
@@ -125,7 +125,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You help establish the red planet’s colony cities.
+- **Bio:** You help establish the red planet’s colony cities.
 
 ---
 
@@ -175,7 +175,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You overlook the Earth.
+- **Bio:** You overlook the Earth.
 
 ---
 
@@ -225,7 +225,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You settle Titan, the Main Belt, or an outer-system moon.
+- **Bio:** You settle Titan, the Main Belt, or an outer-system moon.
 
 ---
 
@@ -274,7 +274,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You homestead the Martian outback.
+- **Bio:** You homestead the Martian outback.
 
 ---
 
@@ -323,7 +323,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You grow up on or work the ships that bring life to the colonies.
+- **Bio:** You grow up on or work the ships that bring life to the colonies.
 
 ---
 
@@ -373,7 +373,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You settle on Venus, Mercury, or a smaller inner-system hab.
+- **Bio:** You settle on Venus, Mercury, or a smaller inner-system hab.
 
 ---
 
@@ -442,7 +442,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Against the odds, you work your way up from the poverty of the underclasses.
+- **Bio:** Against the odds, you work your way up from the poverty of the underclasses.
 
 ---
 
@@ -491,7 +491,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You bounce between hypercorp positions.
+- **Bio:** You bounce between hypercorp positions.
 
 ---
 
@@ -539,7 +539,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You enjoy a steady corporate gig.
+- **Bio:** You enjoy a steady corporate gig.
 
 ---
 
@@ -587,7 +587,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You benefit from generational wealth.
+- **Bio:** You benefit from generational wealth.
 
 ---
 
@@ -636,7 +636,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You claw your way into the enclaves via criminal endeavors.
+- **Bio:** You claw your way into the enclaves via criminal endeavors.
 
 ---
 
@@ -707,7 +707,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You move a lot, chasing work and avoiding climate problems and unrest.
+- **Bio:** You move a lot, chasing work and avoiding climate problems and unrest.
 
 ---
 
@@ -756,7 +756,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You get by, but work and simple existence are tenuous.
+- **Bio:** You get by, but work and simple existence are tenuous.
 
 ---
 
@@ -806,7 +806,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You survive by DIY means.
+- **Bio:** You survive by DIY means.
 
 ---
 
@@ -854,7 +854,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You live in relative stability.
+- **Bio:** You live in relative stability.
 
 ---
 
@@ -903,7 +903,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You live and work in an area rife with corruption and lawlessness.
+- **Bio:** You live and work in an area rife with corruption and lawlessness.
 
 ---
 
@@ -973,7 +973,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You have the right idea at the right time.
+- **Bio:** You have the right idea at the right time.
 
 ---
 
@@ -1022,7 +1022,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your family is among the business elites.
+- **Bio:** Your family is among the business elites.
 
 ---
 
@@ -1072,7 +1072,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your family is often in the spotlight.
+- **Bio:** Your family is often in the spotlight.
 
 ---
 
@@ -1121,7 +1121,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your family is rich, well-connected, and private.
+- **Bio:** Your family is rich, well-connected, and private.
 
 ---
 
@@ -1171,7 +1171,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your family makes its fortunes off-worlds.
+- **Bio:** Your family makes its fortunes off-worlds.
 
 ---
 
@@ -1242,7 +1242,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You manipulate machines from afar.
+- **Bio:** You manipulate machines from afar.
 
 ---
 
@@ -1291,7 +1291,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You teach or train others.
+- **Bio:** You teach or train others.
 
 ---
 
@@ -1340,7 +1340,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You work your way to freedom off-world.
+- **Bio:** You work your way to freedom off-world.
 
 ---
 
@@ -1389,7 +1389,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You toil off-world.
+- **Bio:** You toil off-world.
 
 ---
 
@@ -1441,7 +1441,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You serve the hyperelites or corporate leadership.
+- **Bio:** You serve the hyperelites or corporate leadership.
 
 ---
 
@@ -1490,7 +1490,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You build habitats or ships.
+- **Bio:** You build habitats or ships.
 
 ---
 
@@ -1541,7 +1541,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You wrangle data in corporate systems.
+- **Bio:** You wrangle data in corporate systems.
 
 ---
 
@@ -1609,7 +1609,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your codebase is not based on standard human mind patterns.
+- **Bio:** Your codebase is not based on standard human mind patterns.
 
 ---
 
@@ -1658,7 +1658,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are a smart machine that was on the cusp of achieving intelligence when the programmers reshaped you.
+- **Bio:** You are a smart machine that was on the cusp of achieving intelligence when the programmers reshaped you.
 
 ---
 
@@ -1707,7 +1707,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are designed to understand and interact with humans.
+- **Bio:** You are designed to understand and interact with humans.
 
 ---
 
@@ -1757,7 +1757,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your mind is optimized for controlling apps and hardware.
+- **Bio:** Your mind is optimized for controlling apps and hardware.
 
 ---
 
@@ -1805,7 +1805,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your codeline is merged with the neural patterns of a human fork.
+- **Bio:** Your codeline is merged with the neural patterns of a human fork.
 
 ---
 
@@ -1854,7 +1854,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are optimized for investigation, data analysis, and scientific endeavors.
+- **Bio:** You are optimized for investigation, data analysis, and scientific endeavors.
 
 ---
 
@@ -1921,7 +1921,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You wander the outskirts of transhuman space.
+- **Bio:** You wander the outskirts of transhuman space.
 
 ---
 
@@ -1972,7 +1972,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your cult or religious group establishes an off-world haven.
+- **Bio:** Your cult or religious group establishes an off-world haven.
 
 ---
 
@@ -2021,7 +2021,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your people are dissidents, persecuted minorities, refugees, or others who seek safety on the fringes.
+- **Bio:** Your people are dissidents, persecuted minorities, refugees, or others who seek safety on the fringes.
 
 ---
 
@@ -2072,7 +2072,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your family fears trouble on Earth and bunkers down off-world.
+- **Bio:** Your family fears trouble on Earth and bunkers down off-world.
 
 ---
 
@@ -2140,7 +2140,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your mind is nothing like those around you.
+- **Bio:** Your mind is nothing like those around you.
 
 ---
 
@@ -2188,7 +2188,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You bear permanent mental scars that are often apparent to others.
+- **Bio:** You bear permanent mental scars that are often apparent to others.
 
 ---
 
@@ -2238,7 +2238,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You pass yourself as normal, but there are deep cracks in your foundation.
+- **Bio:** You pass yourself as normal, but there are deep cracks in your foundation.
 
 ---
 
@@ -2285,7 +2285,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are a sociopath, but you hide it well.
+- **Bio:** You are a sociopath, but you hide it well.
 
 ---
 
@@ -2336,7 +2336,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: Your oddness is palpable.
+- **Bio:** Your oddness is palpable.
 
 ---
 
@@ -2406,7 +2406,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You make a living by the only means available to you.
+- **Bio:** You make a living by the only means available to you.
 
 ---
 
@@ -2457,7 +2457,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You fight against oppressive systems.
+- **Bio:** You fight against oppressive systems.
 
 ---
 
@@ -2506,7 +2506,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are forced to flee war or climate catastrophe.
+- **Bio:** You are forced to flee war or climate catastrophe.
 
 ---
 
@@ -2554,7 +2554,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You navigate the challenges of your class with deftness.
+- **Bio:** You navigate the challenges of your class with deftness.
 
 ---
 
@@ -2606,7 +2606,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You do what it takes to get by.
+- **Bio:** You do what it takes to get by.
 
 ---
 
@@ -2676,7 +2676,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You escape or are liberated from your patron hypercorp.
+- **Bio:** You escape or are liberated from your patron hypercorp.
 
 ---
 
@@ -2724,7 +2724,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are not as humanized as other uplifts.
+- **Bio:** You are not as humanized as other uplifts.
 
 ---
 
@@ -2774,7 +2774,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are a test subject or corporate slave.
+- **Bio:** You are a test subject or corporate slave.
 
 ---
 
@@ -2824,7 +2824,7 @@ Roll d100 for Background, d10 for Morph. Then jump to [Step 5: Youth Event](06-s
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- **Bio**: You are proof of the success of transhumanity’s uplift project.
+- **Bio:** You are proof of the success of transhumanity’s uplift project.
 
 ---
 

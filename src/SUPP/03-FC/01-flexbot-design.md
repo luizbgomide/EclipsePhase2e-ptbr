@@ -32,7 +32,7 @@ The control module that holds the operator’s ego is the starting basis for eac
 
 The control module that holds the operator’s ego is the core of each flexbot. Other modules are added to this core or to other modules already melded with it. Connecting or disconnecting a module takes a complex action. Adding or separating a module affects the aggregate flexbot’s pools, DUR, and AV statistics ([Flexbot Characteristics](#flexbot-characteristics)) and may change its size and movement rate.
 
-**Damaged Modules**: If a module is excessively damaged, removing it can be a challenge. Disconnecting a module that has accumulated damage exceeding its Durability requires a Hardware: Robotics (5 minutes) Test.
+**Damaged Modules:** If a module is excessively damaged, removing it can be a challenge. Disconnecting a module that has accumulated damage exceeding its Durability requires a Hardware: Robotics (5 minutes) Test.
 
 ### Integration
 
@@ -84,7 +84,7 @@ A flexbot composed of a fighter (DUR 30), rogue (DUR 20), and wizard (DUR 20) ha
 
 </blockquote>
 
-**Optional Durability Rule**: In some games, flexbots with a high number of modules may get out of hand with their high DUR scores. To balance this out, only apply half of each module’s DUR score after the first core module. In the example above, the fighter-rogue-wizard flexbot would have a DUR of 50 (30 + 10 + 10). Note that this can lead to some complications when assigning damage taken to individual modules, since the flexbot’s DUR is lower than the total of its individual modules. Treat each module as having a reduced DUR until it separates; once removed, its DUR resets to normal but the damage it received also doubles.
+**Optional Durability Rule:** In some games, flexbots with a high number of modules may get out of hand with their high DUR scores. To balance this out, only apply half of each module’s DUR score after the first core module. In the example above, the fighter-rogue-wizard flexbot would have a DUR of 50 (30 + 10 + 10). Note that this can lead to some complications when assigning damage taken to individual modules, since the flexbot’s DUR is lower than the total of its individual modules. Treat each module as having a reduced DUR until it separates; once removed, its DUR resets to normal but the damage it received also doubles.
 
 ### Traits and Ware Bonuses
 
