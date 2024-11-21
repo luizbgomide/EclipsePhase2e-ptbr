@@ -54,7 +54,7 @@ Os chapeados são carcaças robóticas produzidas em massa, um opção acessíve
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Falhas Inerentes, Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -80,7 +80,7 @@ Sobressalentes são pequenas carcaças portáteis projetadas como um capa tempor
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
+- **Implantes:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
@@ -106,7 +106,7 @@ A libélula é uma carcaça flexível com um metro de comprimento e oito asas, q
 ---
 
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
-- **Wares:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
+- **Implantes:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
@@ -134,7 +134,7 @@ Enxamenoides são enxames compostos de centenas de microbots do tamanho de inset
 ---
 
 - **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Ataque de Enxame (VD 1d6, ignora blindagem, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#hives)
 
@@ -160,7 +160,7 @@ Os sintes são ainda mais humanoides que os chapeados e de melhor qualidade. Ele
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -186,7 +186,7 @@ Desenvolvidos por eremitas hackers de aparelhagem, os savants possuem aprimorame
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -214,7 +214,7 @@ Esta carcaça de alto padrão foi projetada para aumentar o apelo e a aceitaçã
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -240,7 +240,7 @@ As carcaças serpentoides tem a forma de um torso humanoide com braços retráte
 ---
 
 - **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Implantes:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 2)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -266,7 +266,7 @@ Como a galateia, essa carcaça luxuosa foi projetada para contrariar as atitudes
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -292,7 +292,7 @@ As carcaças aracnoides imitam as formas de aranhas, cupins, formigas, besouros 
 ---
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -316,7 +316,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 ---
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
-- **Wares:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
+- **Implantes:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Pesada (Blindagem 12/10)
 
@@ -324,7 +324,7 @@ O ceifeiro é um morfo de combate na forma de um disco blindado, o que permite q
 
 ## Flexbot
 
-Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais módulos que se interconectam em várias formas e configurações. Os módulos individuais são especializados para funções específicas e também conseguem se transformar em uma variedade de formas e mecanismos. Eles têm 4 membros em suas configurações padrão. Os módulos independentes são apenas do tamanho de um cão grande, mas múltiplos flexbots podem se unir para grandes operações em massa, até mesmo assumindo tarefas pesadas como demolição, escavação, fabricação, construção ou montagem de robótica. Flexbots também podem incorporar qualquer robô que tenha o ware Projeto Modular como módulo.
+Os flexbots são modulares e personalizáveis, cada um é composto de um ou mais módulos que se interconectam em várias formas e configurações. Os módulos individuais são especializados para funções específicas e também conseguem se transformar em uma variedade de formas e mecanismos. Eles têm 4 membros em suas configurações padrão. Os módulos independentes são apenas do tamanho de um cão grande, mas múltiplos flexbots podem se unir para grandes operações em massa, até mesmo assumindo tarefas pesadas como demolição, escavação, fabricação, construção ou montagem de robótica. Flexbots também podem incorporar qualquer robô que tenha o implante Projeto Modular como módulo.
 
 <!-- CLEANED blockquote -->
 
@@ -342,7 +342,7 @@ Cada flexbot é considerada uma única entidade para fins de regras, não import
 - O Limiar de Ferimento é igual a DUR ÷ 5 e o Grau de Destruição igual a DUR × 2.
 - Os danos são aplicados uniformemente entre os módulos. Se um módulo desconectado tiver dano superior ao seu Limiar de Ferimento, um ferimento pode ser atribuído a ele. Módulos distintos podem ser mirados com ataques precisos.
 - Os robôs de tamanhos variados podem ser integrados como módulos. Bots pequenos contam como módulos completos. Trate 5 bots muito pequenos como 1 módulo; apenas aplique um bônus de parada (igual a parada de um bot) se houver pelo menos cinco do mesmo tipo. Um bot médio conta como 3 módulos, um bot grande como 5 módulos, e um bot muito grande como 10 módulos. Use a média de seus VBs (levando em conta as contagens de bots como múltiplos módulos) e combine a DUR como descrito acima.
-- Bônus de alguns outros traços e wares só se aplicam se cada módulo no flexbot os tiver (ex.: pele camaleão); use o bom senso.
+- Bônus de alguns outros traços e implantes só se aplicam se cada módulo no flexbot os tiver (ex.: pele camaleão); use o bom senso.
 
 <!-- CLEANED /blockquote -->
 
@@ -355,7 +355,7 @@ Todos os flexbots têm os seguintes atributos, mais os atributos do seu tipo de 
 ### Todos os Flexbots
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/12
-- **Wares:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
+- **Implantes:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), Tamanho Pequeno
 
@@ -382,7 +382,7 @@ Os construtores são módulos de engenharia, especializados em construção e fa
 
 ---
 
-- **Wares:** Colmeia de Enxame Engenheiro, Colmeia de Enxame Reparador
+- **Implantes:** Colmeia de Enxame Engenheiro, Colmeia de Enxame Reparador
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ferramentas de Desmontagem, Kit de Ferramentas, Utiliferramenta, Visão Aprimorada, Visão Nanoscópica
 
 <!-- CLEANED /blockquote -->
@@ -406,7 +406,7 @@ Os ladinos são otimizados para furtividade e atividades ocultas.
 
 ---
 
-- **Wares:** Absorção de Radar, Pele Camaleão
+- **Implantes:** Absorção de Radar, Pele Camaleão
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 <!-- CLEANED /blockquote -->
@@ -430,7 +430,7 @@ Os módulos feiticeiros se especializam em tarefas de infoseg e de comunicação
 
 ---
 
-- **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
+- **Implantes:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 <!-- CLEANED /blockquote -->
@@ -454,7 +454,7 @@ Estes módulos são feitos para o combate.
 
 ---
 
-- **Wares:** Pneumáticos, Suporte de Arma (2)
+- **Implantes:** Pneumáticos, Suporte de Arma (2)
 - **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, armas de distância
 
 <!-- CLEANED /blockquote -->
