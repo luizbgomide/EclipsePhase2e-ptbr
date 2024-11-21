@@ -48,7 +48,7 @@ Você é um valentão, que usa sua força para uma hipercorp, cartel, supervisã
 | Tiro                                                                     | 20 |
 | Luta                                                                     | 50 |
 | Provocação                                                               | 30 |
-| <!--sort-fixed-->Saber: (Escolha Uma) <p class="indent">_Áreas Comuns: Crime Organizado, Guarda-Costas, Operações de Segurança_</p> | 60 |
+| <!--sort-fixed-->Saber: (Escolha Uma) <p class="indent">_Áreas Comuns: Crime Organizado, Escolta Pessoal, Operações de Segurança_</p> | 60 |
 | <!--sort-fixed-->Saber: (Escolha Uma) <p class="indent">_Áreas Comuns: Clubes Noturnos, Jogatina, Política de Cartéis_</p> | 30 |
 
 ## Explorador
@@ -189,7 +189,7 @@ Você serve um governo de habitat, uma hipercorp ou um grupo mercenário.
 | Evasão                                                                    | 40 |
 | Tiro                                                                      | 60 |
 | Luta                                                                      | 30 |
-| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Guarda-Costas, Operações Militares, Operações de Segurança_</p> | 60 |
+| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Escolta Pessoal, Operações Militares, Operações de Segurança_</p> | 60 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Jogatina, Grupos Mercenários, Zonas de Conflito_</p> | 30 |
 
 ## Técnico
