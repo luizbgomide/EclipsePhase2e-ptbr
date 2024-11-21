@@ -48,7 +48,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Rotor 8/32
-- **Implantes:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguimplante, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
+- **Implantes:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônico, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 
@@ -68,7 +68,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Esteira 4/12
-- **Implantes:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguimplante, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
+- **Implantes:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônico, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 
