@@ -10,7 +10,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#muses) de graça.
 
-**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Nesse caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshwares, apps, serviços, bots, etc. de valor de PE equivalente.
+**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Nesse caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshimplantes, apps, serviços, bots, etc. de valor de PE equivalente.
 
 ## Pacotes de Campanha
 
@@ -231,7 +231,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                                              | Comp/<!-- CLEANED wbr -->PE | Descrição                                                  |
 |:------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------- |
 | [Confurte (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
-| [Enguiware](../12/02-melee-combat.md#melee-ware)                          |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
+| [Enguimplante](../12/02-melee-combat.md#melee-ware)                       |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
 | [Ponte de Ego](../16/19-nanotech.md)                                      |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | [Multitarefa](../16/08-mental-augmentations.md)                           |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | [Servidor Privado](../16/04-services.md#mesh-services)                    |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
@@ -249,7 +249,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Enxame Guardião](../16/20-nanoswarms-and-microswarms.md#swarms)                      |                 Mod/2                 | Desativa outros enxames; os dois enxames recebem VD 6 por turno.                                            |
 | [Nanodetector](../16/19-nanotech.md)                                                  |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
 | [Haxixe Orbital (5 doses)](../16/15-chemicals-drugs-and-toxins.md#recreational-drugs) |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.                             |
-| [Mula-Robô](../16/21-robots.md#utility-bots)                                          |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
+| [Robomula](../16/21-robots.md#utility-bots)                                           |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
 
 ### Cientista
 
