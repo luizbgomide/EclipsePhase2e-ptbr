@@ -114,7 +114,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Firewall:** A conspiração secreta interfaccional que trabalha para proteger a transumanidade dos riscos X.
 - **Firewall:** O programa que defende um sistema de invasões.
 - **Hab Fisher:** Uma variante de hab cilíndrico que usa módulos independentes.
-- **Agenciador:** Alguém que negocia tratos para adquirir bens ou informações.
+- **Intermediário:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Intocado:** Um humano comum, sem genecorreções ou modificações.
 - **Planetista:** Alguém que nasceu ou vive em um planeta/lua com gravidade.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
@@ -138,7 +138,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
 - **Téc-Hab:** Um técnico de habitat.
-- **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
+- **Cilindro Hamilton:** Um hab cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Equipoimplantes:** Aprimoramentos para sintemorfos.
 - **Caça-Cabeças:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.

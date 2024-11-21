@@ -69,9 +69,9 @@ As IDs descartáveis são ideais pois elas só são usadas por curtos períodos.
 
 **Ectos Descartáveis:** Uma versão tecnologicamente mais simples desse truque é simplesmente usar ectos descartáveis. Use uma vez, ou até chamar atenção, e então descarte. A vantagem é que os ectos podem ser fisicamente deixados para trás ou plantados em outros, ambos úteis para criar distrações.
 
-### Serviços de Intermediação Anônima
+### Serviços de Proxy Anônimo
 
-Muitas pessoas têm interesse em manter os seus assuntos anônimos. Para atender a essa demanda, os fornecedores de serviços online oferecem contas de intermediação anônima. Basta primeiro logar em sua conta anônima e rotear todo o seu tráfego através do nó de saída. Toda a atividade da mesh conduzida pela intermediação anônima vai usar o mesh ID da intermediação. As tentativas de rastrear esse mesh ID terminarão no serviço de anonimização. Suas interações com o serviço de anonimização não são logadas, então mesmo se os servidores do fornecedor forem hackeados, um invasor não encontrará nenhuma pista. Enquanto algumas contas anônimas são estabelecidas para uso regular, os verdadeiramente paranóicos usam contas descartáveis para ter máxima segurança.
+Muitas pessoas têm interesse em manter os seus assuntos anônimos. Para atender a essa demanda, os fornecedores de serviços online oferecem contas de proxy anônimo. Basta primeiro logar em sua conta anônima e rotear todo o seu tráfego através do nó de saída. Toda a atividade da mesh conduzida pelo proxy anônimo vai usar o mesh ID do proxy. As tentativas de rastrear esse mesh ID terminarão no serviço de anonimização. Suas interações com o serviço de anonimização não são logadas, então mesmo se os servidores do fornecedor forem hackeados, um invasor não encontrará nenhuma pista. Enquanto algumas contas anônimas são estabelecidas para uso regular, os verdadeiramente paranóicos usam contas descartáveis para ter máxima segurança.
 
 Rastrear uma conta anônima é uma impossibilidade prática e algo que apenas uma organização extremamente engenhosa empregando um esforço caro e sistemático poderia tentar.
 
