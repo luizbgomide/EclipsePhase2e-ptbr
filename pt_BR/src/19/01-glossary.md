@@ -9,7 +9,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **ADM:** Arma de Destruição em Massa.
 - **Aeróstato:** Um habitat projetado para flutuar como um balão em um planeta com uma atmosfera densa.
 - **Aflitivo:** Um app ofensivo que ataca infomorfos/cibercérebros.
-- **Agenciador:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Agente:** Um infomorfo otimizado para funções de infoseg.
 - **Aglomerado:** Um habitat de microgravidade feito de módulos interligados.
 - **ALL:** A Aliança Lunar-Lagrange, o governo conservador dos habitats na Lua e na órbita da Terra.
@@ -55,7 +54,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental programático. Usado em sintemorfos, prods e alguns biomorfos.
 - **Ciberimplantes:** Ampliações artificiais para biomorfos.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
-- **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
+- **Cilindro Hamilton:** Um hab cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Cilindro O'Neill:** Um habitat em forma de lata com gravidade por rotação.
 - **Cilindro Reagan:** Habs cilíndricos rústicos feitos de asteroides escavados na República Joviana. Também chamado de hab sarcófago.
 - **Cinturão de Kuiper:** Uma região que se estende da órbita de Netuno até cerca de 55&nbsp;UA, levemente povoada com asteroides, cometas e planetas anões.
@@ -175,6 +174,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Infovida:** Egos programados, tais como as inteligências gerais artificiais.
 - **Infugiado:** Um refugiado que sobreviveu à Queda como um infomorfo sem corpo.
 - **Insumo:** A matéria-prima usada para nanofabricação.
+- **Intermediário:** Alguém que negocia tratos para adquirir bens ou informações.
 - **Intocado:** Um humano comum, sem genecorreções ou modificações.
 - **Isolados:** Os exilados nas periferias do sistema. Também chamado de eremitas.
 - **ITA:** A Iniciativa de Terraformação Aérea para Vênus.

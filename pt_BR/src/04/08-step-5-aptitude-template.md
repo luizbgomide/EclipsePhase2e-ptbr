@@ -28,7 +28,7 @@ Você nunca se destacou, mas demonstra uma ampla competência.
 
 Sua mente criativa é boa em descobrir as coisas.
 
-### Operativo
+### Praticista
 
 Você está mais confortável com a fisicalidade do que falar ou pensar.
 
@@ -51,7 +51,7 @@ Você tem a vontade e a energia para se safar em situações difíceis.
 | Facilitador  | 15  | 15  | 10  | 20  | 10  | 20  |
 | Generalista  | 15  | 15  | 15  | 15  | 15  | 15  |
 | Indagador    | 20  | 20  | 10  | 15  | 10  | 15  |
-| Operativo    | 10  | 15  | 20  | 10  | 20  | 15  |
+| Praticista   | 10  | 15  | 20  | 10  | 20  | 15  |
 | Sobrevivente | 15  | 10  | 15  | 10  | 20  | 20  |
 
 </blockquote>

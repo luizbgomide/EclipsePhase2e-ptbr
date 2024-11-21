@@ -14,4 +14,6 @@
 - [Passo 1: Flex](02-step-1-flex.md)
 - [Passo 2: Modelo de Aptidões](03-step-2-aptitude-template.md)
 - [Passo 3: Língua Nativa](04-step-3-native-tongue.md)
+- [Passo 4: Trajetória Antecedente](05-step-4-background-path.md)
+- [Passo 9: Trajetória da Carreira](10-step-9-career-path.md)
 - [Tabelas de Morfos](20-morph-tables.md)

@@ -20,7 +20,7 @@ Esses serviços programáticos estão disponíveis como uma assinatura mensal de
 
 <!--sort-->
 
-**Anonimizador:** Você tem uma conta com um serviço de intermediação anônima que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
+**Anonimizador:** Você tem uma conta com um serviço de proxy anônimo que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
 **Arquivo:** Cada arquivo tem um foco diferente (como áreas de perícia de Saber). Usar um arquivo relevante fornece um modificador +10 em Testes de Pesquisa envolvendo esse assunto.
 
@@ -80,7 +80,7 @@ Estes serviços estão disponíveis em alguns habitats.
 
 **Serviço de Cura:** Um dia em um tanque de cura pode ser usado para recuperação de ferimentos ou cirurgia eletiva ([Cura & Reparo](../12/17-healing-and-repair.md)).
 
-**Serviço Profissional:** Você pode precisar buscar os serviços de um profissional qualificado. Isso pode incluir qualquer coisa, desde reparos de armas, guarda-costas ou análise científica até devassar uma zona morta de vigilância ou hackear uma base de dados.
+**Serviço Profissional:** Você pode precisar buscar os serviços de um profissional qualificado. Isso pode incluir qualquer coisa, desde reparos de armas, escolta pessoal ou análise científica, até devassar uma zona morta de vigilância ou hackear uma base de dados.
 
 **Suíte Privativa:** Serviços de suíte privativa por hora são oferecidos em muitos restaurantes, clubes noturnos, hotéis e estabelecimentos similares, que frequentemente têm clientes que desejam um espaço privado para reuniões ou outras funções.
 

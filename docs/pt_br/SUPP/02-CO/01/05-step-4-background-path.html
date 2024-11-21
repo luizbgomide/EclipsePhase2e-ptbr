@@ -1,0 +1,2902 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Passo 4: Trajetória Antecedente - Eclipse Phase 2e</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../../favicon.svg">
+        <link rel="shortcut icon" href="../../../favicon.png">
+        <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../../ep2e.css">
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../../../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../../../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../../../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../../../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../../../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../../../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../../../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../../../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../../../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações & Tempo</a></li><li class="chapter-item "><a href="../../../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa & Ordem das Ações</a></li><li class="chapter-item "><a href="../../../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../../../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../../../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../../../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../../../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../../../04/05-step-2-career.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../../../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../../../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../../../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../../../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../../../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../../../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../../../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../../../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../../../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../../../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo & Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../../../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../../../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../../../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../../../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../../../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../../../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../../../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../../../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../../../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../../../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../../../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../../../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../../../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../../../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../../../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../../../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../../../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../../../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../../../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../../../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../../../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../../../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../../../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação & Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../../../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../../../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../../../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../../../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../../../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../../../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../../../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../../../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../../../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores & Granadas</a></li><li class="chapter-item "><a href="../../../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Blindagens</a></li><li class="chapter-item "><a href="../../../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../../../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../../../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Blindagem</a></li><li class="chapter-item "><a href="../../../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../../../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../../../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura & Reparo</a></li><li class="chapter-item "><a href="../../../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../../../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental & Psicocirurgia</a></li><li class="chapter-item "><a href="../../../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../../../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../../../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../../../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../../../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../../../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../../../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos & Estruturas</a></li><li class="chapter-item "><a href="../../../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../../../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../../../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../../../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../../../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Computação Ubíqua</a></li><li class="chapter-item "><a href="../../../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Topologia da Mesh</a></li><li class="chapter-item "><a href="../../../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Usos Comuns da Mesh</a></li><li class="chapter-item "><a href="../../../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Dispositivos, Apps, & Ligações</a></li><li class="chapter-item "><a href="../../../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Autenticação & Criptografia</a></li><li class="chapter-item "><a href="../../../13/06-mesh-actions.html"><strong aria-hidden="true">13.6.</strong> Ações da Mesh</a></li><li class="chapter-item "><a href="../../../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> IAs & Musas</a></li><li class="chapter-item "><a href="../../../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../../../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Pesquisa Online</a></li><li class="chapter-item "><a href="../../../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Rastreamento</a></li><li class="chapter-item "><a href="../../../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hackeamento</a></li><li class="chapter-item "><a href="../../../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Contramedidas</a></li><li class="chapter-item "><a href="../../../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> Subversão de Sistema</a></li><li class="chapter-item "><a href="../../../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Combate na Mesh</a></li><li class="chapter-item "><a href="../../../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Dano em Aparelhos</a></li><li class="chapter-item "><a href="../../../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Defeitos</a></li><li class="chapter-item "><a href="../../../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Hackeamento de Implante Mental</a></li><li class="chapter-item "><a href="../../../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Realidade Virtual</a></li><li class="chapter-item "><a href="../../../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Hackeamento de Vigilância</a></li></ol></li><li class="chapter-item "><a href="../../../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../14/01-psi-overview.html"><strong aria-hidden="true">14.1.</strong> Resumo do Psi</a></li><li class="chapter-item "><a href="../../../14/02-watts-macleod-sub-strains.html"><strong aria-hidden="true">14.2.</strong> Subcepas Watts-MacLeod</a></li><li class="chapter-item "><a href="../../../14/03-roleplaying-asyncs.html"><strong aria-hidden="true">14.3.</strong> Interpretando Assincros</a></li><li class="chapter-item "><a href="../../../14/04-using-psi.html"><strong aria-hidden="true">14.4.</strong> Usando Psi</a></li><li class="chapter-item "><a href="../../../14/05-influence-effects.html"><strong aria-hidden="true">14.5.</strong> Efeitos de Influência</a></li><li class="chapter-item "><a href="../../../14/06-psi-sleight-summaries.html"><strong aria-hidden="true">14.6.</strong> Sumários de Truques Psi</a></li></ol></li><li class="chapter-item "><a href="../../../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../15/01-backups-and-uploading.html"><strong aria-hidden="true">15.1.</strong> Backups & Uploads</a></li><li class="chapter-item "><a href="../../../15/02-resleeving.html"><strong aria-hidden="true">15.2.</strong> Reencape</a></li><li class="chapter-item "><a href="../../../15/03-acquiring-morphs.html"><strong aria-hidden="true">15.3.</strong> Aquisição de Morfos</a></li><li class="chapter-item "><a href="../../../15/04-forking-and-merging.html"><strong aria-hidden="true">15.4.</strong> Forqueamento & Mesclagem</a></li><li class="chapter-item "><a href="../../../15/05-psychosurgery.html"><strong aria-hidden="true">15.5.</strong> Psicocirurgia</a></li><li class="chapter-item "><a href="../../../15/06-psychosurgery-procedures.html"><strong aria-hidden="true">15.6.</strong> Procedimentos de Psicocirurgia</a></li><li class="chapter-item "><a href="../../../15/07-identity-systems.html"><strong aria-hidden="true">15.7.</strong> Sistemas de Identificação</a></li><li class="chapter-item "><a href="../../../15/08-habitat-access.html"><strong aria-hidden="true">15.8.</strong> Acesso a Habitats</a></li><li class="chapter-item "><a href="../../../15/09-space-travel.html"><strong aria-hidden="true">15.9.</strong> Viagem Espacial</a></li><li class="chapter-item "><a href="../../../15/10-space-combat.html"><strong aria-hidden="true">15.10.</strong> Combate Espacial</a></li><li class="chapter-item "><a href="../../../15/11-ship-and-habitat-hacking.html"><strong aria-hidden="true">15.11.</strong> Hackeamento de Naves & Habitats</a></li><li class="chapter-item "><a href="../../../15/12-reputation.html"><strong aria-hidden="true">15.12.</strong> Reputação</a></li><li class="chapter-item "><a href="../../../15/13-networking.html"><strong aria-hidden="true">15.13.</strong> Socialização</a></li></ol></li><li class="chapter-item "><a href="../../../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../16/01-gear-rules.html"><strong aria-hidden="true">16.1.</strong> Regras de Equipamentos</a></li><li class="chapter-item "><a href="../../../16/02-acquiring-gear.html"><strong aria-hidden="true">16.2.</strong> Aquisição de Equipamentos</a></li><li class="chapter-item "><a href="../../../16/03-nanofabrication.html"><strong aria-hidden="true">16.3.</strong> Nanofabricação</a></li><li class="chapter-item "><a href="../../../16/04-services.html"><strong aria-hidden="true">16.4.</strong> Serviços</a></li><li class="chapter-item "><a href="../../../16/05-common-tech-and-ware.html"><strong aria-hidden="true">16.5.</strong> Tecnologias & Implantes Comuns</a></li><li class="chapter-item "><a href="../../../16/06-sensory-augmentations.html"><strong aria-hidden="true">16.6.</strong> Ampliações Sensoriais</a></li><li class="chapter-item "><a href="../../../16/07-senses-and-sensors.html"><strong aria-hidden="true">16.7.</strong> Sentidos e Sensores</a></li><li class="chapter-item "><a href="../../../16/08-mental-augmentations.html"><strong aria-hidden="true">16.8.</strong> Ampliações Mentais</a></li><li class="chapter-item "><a href="../../../16/09-social-augmentations.html"><strong aria-hidden="true">16.9.</strong> Ampliações Sociais</a></li><li class="chapter-item "><a href="../../../16/10-combat-augmentations.html"><strong aria-hidden="true">16.10.</strong> Ampliações de Combate</a></li><li class="chapter-item "><a href="../../../16/11-physical-augmentations.html"><strong aria-hidden="true">16.11.</strong> Ampliações Físicas</a></li><li class="chapter-item "><a href="../../../16/12-meshware.html"><strong aria-hidden="true">16.12.</strong> Meshimplantes</a></li><li class="chapter-item "><a href="../../../16/13-apps-and-alis.html"><strong aria-hidden="true">16.13.</strong> Apps & ILAs</a></li><li class="chapter-item "><a href="../../../16/14-creatures.html"><strong aria-hidden="true">16.14.</strong> Criaturas</a></li><li class="chapter-item "><a href="../../../16/15-chemicals-drugs-and-toxins.html"><strong aria-hidden="true">16.15.</strong> Químicos, Drogas & Toxinas</a></li><li class="chapter-item "><a href="../../../16/16-comms-and-mesh-gear.html"><strong aria-hidden="true">16.16.</strong> Equipamentos de Comunicação & Mesh</a></li><li class="chapter-item "><a href="../../../16/17-espionage-and-security-tech.html"><strong aria-hidden="true">16.17.</strong> Tecnologias de Espionagem & Segurança</a></li><li class="chapter-item "><a href="../../../16/18-mission-gear.html"><strong aria-hidden="true">16.18.</strong> Equipamentos de Missão</a></li><li class="chapter-item "><a href="../../../16/19-nanotech.html"><strong aria-hidden="true">16.19.</strong> Nanotecnologia</a></li><li class="chapter-item "><a href="../../../16/20-nanoswarms-and-microswarms.html"><strong aria-hidden="true">16.20.</strong> Nanoenxames & Microenxames</a></li><li class="chapter-item "><a href="../../../16/21-robots.html"><strong aria-hidden="true">16.21.</strong> Robôs</a></li><li class="chapter-item "><a href="../../../16/22-vehicles.html"><strong aria-hidden="true">16.22.</strong> Veículos</a></li></ol></li><li class="chapter-item "><a href="../../../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../17/01-ad-astra.html"><strong aria-hidden="true">17.1.</strong> Ad Astra</a></li></ol></li><li class="chapter-item "><a href="../../../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças & Riscos X</a></li><li class="chapter-item "><a href="../../../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../../../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../../../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../../../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../../../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../../../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="chapter-item "><a href="../../../19/07-character-sheet.html"><strong aria-hidden="true">19.7.</strong> Ficha de Personagem</a></li></ol></li><li class="chapter-item "><a href="../../../buy-the-book.html"><strong aria-hidden="true">20.</strong> Compre o livro!</a></li><li class="chapter-item "><a href="../../../license.html"><strong aria-hidden="true">21.</strong> Licença & Créditos</a></li><li class="chapter-item affix "><li class="part-title">Suplementos</li><li class="chapter-item "><a href="../../../SUPP/01-MS/00-multiplicy-and-synthesis.html"><strong aria-hidden="true">22.</strong> Multiplicidade & Síntese</a></li><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/00-character-options.html"><strong aria-hidden="true">23.</strong> Opções para Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/01/00-life-path-character.html"><strong aria-hidden="true">23.1.</strong> Trajetória de Vida</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../SUPP/02-CO/01/01-life-path-character-creation.html"><strong aria-hidden="true">23.1.1.</strong> Criação de Personagem por Trajetória de Vida</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/02-step-1-flex.html"><strong aria-hidden="true">23.1.2.</strong> Passo 1: Flex</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/03-step-2-aptitude-template.html"><strong aria-hidden="true">23.1.3.</strong> Passo 2: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/04-step-3-native-tongue.html"><strong aria-hidden="true">23.1.4.</strong> Passo 3: Língua Nativa</a></li><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/01/05-step-4-background-path.html" class="active"><strong aria-hidden="true">23.1.5.</strong> Passo 4: Trajetória Antecedente</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/10-step-9-career-path.html"><strong aria-hidden="true">23.1.6.</strong> Passo 9: Trajetória da Carreira</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/20-morph-tables.html"><strong aria-hidden="true">23.1.7.</strong> Tabelas de Morfos</a></li></ol></li><li class="chapter-item "><a href="../../../SUPP/02-CO/03/00-morph-recognition-guide.html"><strong aria-hidden="true">23.2.</strong> Guia de Reconhecimento de Morfos</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="passo-4-trajetória-antecedente"><a class="header" href="#passo-4-trajetória-antecedente">Passo 4: Trajetória Antecedente</a></h1>
+<div class="no-margin">
+<blockquote class="header-bg">
+<p><strong>Este estágio identifica a juventude, antecedente e vida inicial do personagem.</strong></p>
+<p><strong>Escolha um antecedente ou role na tabela de Trajetória Antecedente Aleatória. Em seguida, vá na sub-tabela apropriada e escolha um resultado ou role novamente. Isso vai determinar: seu primeiro pacote de pontos de perícia, motivação e morfo iniciais (você pode precisar rolar um d10 adicional).</strong></p>
+<p><strong>Depois de acabar de escolher/rolar, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>A HISTÓRIA:</strong></p>
+<p>Esse passo reflete as origens do seu personagem — onde você nasceu e como você passou seus anos de formação, da infância até o início da vida adulta. Essa etapa inclui família e escola, bem como treinamento vocacional inicial, estudos acadêmicos e lições de vida nos primeiros anos.</p>
+<p>Geralmente, seu morfo inicial indica aquele com o qual você nasceu. Personagens com morfos mais avançados foram projetados geneticamente, modificados quando eram embriões ou passaram por terapia genética na infância para incorporar traços comuns aos modelos de morfos atuais.</p>
+</blockquote>
+</div>
+<blockquote class="table">
+<h2 id="trajetória-antecedente-aleatória-d10"><a class="header" href="#trajetória-antecedente-aleatória-d10">Trajetória Antecedente Aleatória ❮d10❯</a></h2>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">d10<!--sort-fixed--></th><th style="text-align: left">Antecedente<!--sort-by--></th><th style="text-align: left">Descrição</th></tr></thead><tbody>
+<tr><td style="text-align: center">1</td><td style="text-align: left"><a href="#arrendado-d100">Arrendado</a></td><td style="text-align: left">Com nada a perder, você se vende para um contrato de trabalho com as hipercorps fora da Terra.</td></tr>
+<tr><td style="text-align: center">2</td><td style="text-align: left"><a href="#colono-d100">Colono</a></td><td style="text-align: left">Você é um colono original da órbita da Terra, Lua, Marte ou um posto avançado menor.</td></tr>
+<tr><td style="text-align: center">3</td><td style="text-align: left"><a href="#elevado-d100">Elevado</a></td><td style="text-align: left">Você é um animal elevado que atingiu níveis humanos de inteligência.</td></tr>
+<tr><td style="text-align: center">4</td><td style="text-align: left"><a href="#enclavado-d100">Enclavado</a></td><td style="text-align: left">Na Terra, você vive uma vida de estabilidade precária, mas protegida, em um enclave defendido.</td></tr>
+<tr><td style="text-align: center">5</td><td style="text-align: left"><a href="#freelancer-d100">Freelancer</a></td><td style="text-align: left">Você é uma das engrenagens do hipercapitalismo, pegando qualquer trampo que surgir.</td></tr>
+<tr><td style="text-align: center">6</td><td style="text-align: left"><a href="#hiperelite-d100">Hiperelite</a></td><td style="text-align: left">Você vive no um por cento do topo, com abundância de riqueza e recursos.</td></tr>
+<tr><td style="text-align: center">7</td><td style="text-align: left"><a href="#infovida-d100">Infovida</a></td><td style="text-align: left">Você é uma IGA, uma consciência digital nascida de códigos programados.</td></tr>
+<tr><td style="text-align: center">8</td><td style="text-align: left"><a href="#isolado-d100">Isolado</a></td><td style="text-align: left">Você sobrevive de forma autoexilada em um hab ou uma nave remotos na periferia do espaço ocupado.</td></tr>
+<tr><td style="text-align: center">9</td><td style="text-align: left"><a href="#miser%C3%A1vel-d100">Miserável</a></td><td style="text-align: left">Você é um veterano dos cortiços, favelas, guetos e cidades inundadas da Terra.</td></tr>
+<tr><td style="text-align: center">10</td><td style="text-align: left"><a href="#perdido-d100">Perdido</a></td><td style="text-align: left">Você vive uma infância de crescimento acelerado que torna a maioria dos seus colegas em monstros sociopatas.</td></tr>
+</tbody></table>
+</div></blockquote>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="arrendado-d100"><a class="header" href="#arrendado-d100">Arrendado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Com nada a perder, você se vende para um contrato de trabalho com as hipercorps fora da Terra.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="campos-de-trabalho"><a class="header" href="#campos-de-trabalho">Campos de Trabalho</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->00–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você labuta fora da Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Esquecer o Passado</li>
+<li>+Hedonismo</li>
+<li>−Hipercorps</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Chapeado</li>
+<li>8 Sinte</li>
+<li>9 Prod de Trabalho</li>
+<li>10 Prod de Vácuo</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Hipercorps</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Terraformação</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Traficantes de XP</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="educador"><a class="header" href="#educador">Educador</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->20–29 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você ensina ou treina os outros.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Educação</li>
+<li>+Ajudar os Outros</li>
+<li>+Maestria em Perícia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–10 Digimorfo</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Instrução</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Jogos de RA</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Serviços Sociais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="emancipado"><a class="header" href="#emancipado">Emancipado</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->30–44 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você trilha seu caminho para a liberdade fora da Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Arrendados</li>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Chapeado</li>
+<li>7–10 Sílfide</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Processamento de Dados</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="equipe-particular"><a class="header" href="#equipe-particular">Equipe Particular</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->45–54 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você serve as hiperelites ou lideranças corporativas.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Servir os Outros</li>
+<li>+Maestria em Perícia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–8 Tratado</li>
+<li>9–10 Prod de Trabalho</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Etiqueta</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Fofofas das Hiperelites</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="operador-de-drone"><a class="header" href="#operador-de-drone">Operador de Drone</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->55–69 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você manipula máquinas a distância.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Fugir</li>
+<li>+Encontrar um Propósito</li>
+<li>+Hedonismo</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Digimorfo</li>
+<li>8–10 Operador</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Jogatina</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Mineração de Asteroides</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Modelos de Bot</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="peão-de-vácuo"><a class="header" href="#peão-de-vácuo">Peão de Vácuo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->70–84 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você constrói habitats ou naves.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Trabalho Duro</li>
+<li>+Colonização Espacial</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Chapeado</li>
+<li>6 Sinte</li>
+<li>7 Prod de Trabalho</li>
+<li>8–10 Prod de Vácuo</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Eletrônica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Espaçonaves</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="trabalhador-virtual"><a class="header" href="#trabalhador-virtual">Trabalhador Virtual</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 indenture-->85–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você lida com dados de sistemas corporativos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Encontrar um Propósito</li>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Servir os Outros</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Neo</li>
+<li>8–10 Sábio</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Engenharia Social</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Jogos de RV</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Processamento de Dados</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="colono-d100"><a class="header" href="#colono-d100">Colono ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 2 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é um colono original da órbita da Terra, Lua, Marte ou um posto avançado menor.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="colono-da-limiárea"><a class="header" href="#colono-da-limiárea">Colono da Limiárea</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->00–09 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se estabelece em Titã, no Cinturão Principal, ou uma lua do sistema exterior.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses Autonomistas</li>
+<li>+Exploração</li>
+<li>+Ciência!</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Tratado</li>
+<li>6–9 Quicante</li>
+<li>10 Brumeiro</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Autonomistas</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Química</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="colono-da-solárea"><a class="header" href="#colono-da-solárea">Colono da Solárea</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->10–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se estabelece em Vênus, Mercúrio ou um hab menor do sistema interior.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Pesquisa</li>
+<li>+Sobrevivência</li>
+<li>+Soberania Venusiana</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–3 Intocado</li>
+<li>4–9 Tratado</li>
+<li>10 Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Aérea</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Mineração de Asteroides</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Terraformação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Venusianos</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="espaçonauta"><a class="header" href="#espaçonauta">Espaçonauta</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->20–29 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você cresce ou trabalha nas naves que trazem vida para as colônias.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Autossuficiencia</li>
+<li>+Sobrevivência</li>
+<li>+Adrenalina</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Tratado</li>
+<li>6–9 Hibernoide</li>
+<li>10 Quicante</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->1 idioma de sua escolha</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência (Navegação)</td><td style="text-align: right">30 (40)</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Espaçonautas</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Espaçonaves</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Tripulação de Voo</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="lunar"><a class="header" href="#lunar">Lunar</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->30–44 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se lembra da Lua antes de ela estar lotada.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Família</li>
+<li>+Trabalho Duro</li>
+<li>
+<ul>
+<li>Interesses Lunares</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–9 Tratado</li>
+<li>10 Sinte</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Idioma Indiano</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Física</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Lunares</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="marciano"><a class="header" href="#marciano">Marciano</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->45–69 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você ajuda a estabelecer as cidades colônias do planeta vermelho.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Carreira Pessoal</li>
+<li>+Prosperidade</li>
+<li>+Terraformação de Marte</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Ferrugeiro</li>
+<li>6–9 Tratado</li>
+<li>10 Alpineiro</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Idioma Mandarim</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Botânica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="marciano-rural"><a class="header" href="#marciano-rural">Marciano Rural</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->70–84 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se assenta nos ermos marcianos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Libertação Marciana</li>
+<li>+Autossuficiencia</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–6 Ferrugeiro</li>
+<li>7–9 Tratado</li>
+<li>10 Alpineiro</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Idioma Mandarim</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">55</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Aérea</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Barsoomianos</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Terraformação</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="orbital"><a class="header" href="#orbital">Orbital</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 colonist-->85–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você contempla a Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Biochauvinismo</li>
+<li>+Imortalidade</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–9 Tratado</li>
+<li>10 Quicante</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Idioma Inglês</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Orbitais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="elevado-d100"><a class="header" href="#elevado-d100">Elevado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 3 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é um animal elevado que atingiu níveis humanos de inteligência.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="espécime-modelo"><a class="header" href="#espécime-modelo">Espécime Modelo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 uplift-->00–29 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é prova do sucesso do projeto de elevados da transumanidade.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Aceitação</li>
+<li>+Interesses Sapientes</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Role na <a href="20-morph-tables.html#biomorfos-elevados-d100">tabela de Biomorfos Elevados</a></li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Cultura de Elevados</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Direitos de Elevados</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Sociologia</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="fugitivo"><a class="header" href="#fugitivo">Fugitivo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 uplift-->30–54 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você foge ou é libertado de sua hipercorp patronal.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Hipercorps</li>
+<li>+Interesses Mercuriais</li>
+<li>+Direitos de Elevados</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Role na <a href="20-morph-tables.html#biomorfos-elevados-d100">tabela de Biomorfos Elevados</a></li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Direitos de Elevados</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="rato-de-laboratório"><a class="header" href="#rato-de-laboratório">Rato de Laboratório</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 uplift-->55–79 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é uma cobaia ou escravo corporativo.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Hipercorps</li>
+<li>+Interesses Mercuriais</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Role na <a href="20-morph-tables.html#biomorfos-elevados-d100">tabela de Biomorfos Elevados</a></li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Submissão (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Direitos de Elevados</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Genética</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Serviço de Atendimento</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="selvagem"><a class="header" href="#selvagem">Selvagem</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 uplift-->80–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você não é tão humanizado quanto outros elevados.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Assimilação</li>
+<li>+Interesses Mercuriais</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Role na <a href="20-morph-tables.html#biomorfos-elevados-d100">tabela de Biomorfos Elevados</a></li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Cegueira Emocional</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Impulsos de Dominância</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Instinto de Perigo</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">35</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Animais Inteligentes</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Cultura de Elevados</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="enclavado-d100"><a class="header" href="#enclavado-d100">Enclavado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 4 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Na Terra, você vive uma vida de estabilidade precária, mas protegida, em um enclave defendido.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="ascendente"><a class="header" href="#ascendente">Ascendente</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 enclaver-->00–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Contra as probabilidades, você trilha o seu caminho para além da pobreza dos miseráveis.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Trabalho Duro</li>
+<li>+Interesses das Hipercorps</li>
+<li>+Lei e Ordem</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–8 Tratado</li>
+<li>9–10 Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Esportes</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Processamento de Dados</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="favorito-corporativo"><a class="header" href="#favorito-corporativo">Favorito Corporativo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 enclaver-->20–39 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você desfruta de um trabalho corporativo estável.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses das Hipercorps</li>
+<li>+Carreira Pessoal</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Ciência de Dados</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="herdeiro"><a class="header" href="#herdeiro">Herdeiro</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 enclaver-->40–59 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se beneficia da riqueza geracional.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Fama/Reconhecimento</li>
+<li>+Fazer Arte</li>
+<li>+Carreira Pessoal</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Cultura Pop</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Escultura Procedural</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: História</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="itinerante-corporativo"><a class="header" href="#itinerante-corporativo">Itinerante Corporativo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 enclaver-->60–79 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você pula de posição em posição nas hipercorps.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração de Sistemas</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Jogos de RV</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="oportunista"><a class="header" href="#oportunista">Oportunista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 enclaver-->80–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você abre seu caminho nos enclaves através de empreitadas criminais.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Expandir Influência</li>
+<li>+Autossuficiencia</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–10 Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Drogas</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Submundo de XP</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="freelancer-d100"><a class="header" href="#freelancer-d100">Freelancer ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 5 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é uma das engrenagens do hipercapitalismo, pegando qualquer trampo que surgir.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="autossuficiente"><a class="header" href="#autossuficiente">Autossuficiente</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 freelancer-->00–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você sobrevive através do faça-você-mesmo.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Educação</li>
+<li>−Hipercorps</li>
+<li>+Autossuficiencia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Intocado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Jogos de Estratégia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Vasculhamento</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="cercado-por-lobos"><a class="header" href="#cercado-por-lobos">Cercado por Lobos</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 freelancer-->20–39 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você vive e trabalha em uma área repleta de corrupção e ilegalidades.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Estabilidade</li>
+<li>+Sobrevivência</li>
+<li>+Vício</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Criminosos</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Serviço de Atendimento</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Submundo de XP</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="estável"><a class="header" href="#estável">Estável</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 freelancer-->40–59 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você vive em relativa estabilidade.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Expressão Criativa</li>
+<li>+Educação</li>
+<li>+Carreira Pessoal</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Cervejas Artesanais</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Trampos Freelancer</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="nômade"><a class="header" href="#nômade">Nômade</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 freelancer-->60–79 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você muda bastante em busca de trabalho e evitando problemas climático e distúrbios.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Aceitação</li>
+<li>+Autossuficiencia</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">15</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->1 idioma de sua escolha</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Hipercorps</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Trampos Freelancer</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="precário"><a class="header" href="#precário">Precário</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 freelancer-->80–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se vira, mas o trabalho e a simples existência são tensos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Encontrar um Propósito</li>
+<li>+Autossuficiencia</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Processamento de Dados</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Serviços Sociais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="hiperelite-d100"><a class="header" href="#hiperelite-d100">Hiperelite ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você vive no um por cento do topo, com abundância de riqueza e recursos.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="dinastia-oligarca"><a class="header" href="#dinastia-oligarca">Dinastia Oligarca</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 hyperelite-->00–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua família é rica, bem relacionada e reservada.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Criar Legado</li>
+<li>+Expandir Influência</li>
+<li>+Privacidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–2 Exalto</li>
+<li>3–5 Menton</li>
+<li>6–7 Olímpico</li>
+<li>8–10 Sílfide</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 4)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Belas Artes</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Direito</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Oligarcas</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="empreendedor-espacial"><a class="header" href="#empreendedor-espacial">Empreendedor Espacial</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 hyperelite-->20–39 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua família constrói sua fortuna fora da Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses das Hipercorps</li>
+<li>+Colonização Espacial</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–2 Exalto</li>
+<li>3–6 Menton</li>
+<li>7–8 Neotênico</li>
+<li>9–10 Quicante</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 3)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Economia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Saber: Mineração de Asteroides</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="famoso-da-mídia"><a class="header" href="#famoso-da-mídia">Famoso da Mídia</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 hyperelite-->40–59 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua família costuma estar no centro das atenções.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Fama/Reconhecimento</li>
+<li>+Carreira Pessoal</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–2 Exalto</li>
+<li>3–6 Olímpico</li>
+<li>7–10 Sílfide</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 3)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Celebridades</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Saber: Mídia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Performance</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="inovação"><a class="header" href="#inovação">Inovação</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 hyperelite-->60–79 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você tem a ideia certa na hora certa.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Expandir Influência</li>
+<li>+Carreira Pessoal</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–2 Exalto</li>
+<li>3–7 Menton</li>
+<li>8–10 Olímpico</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 3)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Engenharia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercado Financeiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Nanofabricação</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="realeza-hipercorp"><a class="header" href="#realeza-hipercorp">Realeza Hipercorp</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 hyperelite-->80–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua família está entre as elites dos negócios.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses das Hipercorps</li>
+<li>+Filantropia</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–2 Tratado</li>
+<li>3–6 Exalto</li>
+<li>7–8 Menton</li>
+<li>9–10 Sílfide</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 3)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Belas Artes</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Políticas de Hipercorp</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="infovida-d100"><a class="header" href="#infovida-d100">Infovida ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 7 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é uma IGA, uma consciência digital nascida de códigos programados.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="anomalia"><a class="header" href="#anomalia">Anomalia</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->00–09 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Seu código não é baseado em padrões de mentes humanas comuns.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Encontrar um Propósito</li>
+<li>+Independência</li>
+<li>+Neurodiversidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Digimorfo</li>
+<li>6–10 Neo</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">Flex do Ego</td><td style="text-align: right">1</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Mente Anômala</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência de Dados</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Sistemas Financeiros</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="elevação-emergente"><a class="header" href="#elevação-emergente">Elevação Emergente</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->10–24 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é uma máquina inteligente que estava prestes a alcançar inteligência quando os programadores o remodelaram.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Maestria em Perícia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Digimorfo</li>
+<li>6–10 Operador</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Cegueira Emocional</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Facilidade com Números (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Inexperiência no Mundo Real</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infoseg</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Apps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Astrofísica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Processamento de Dados</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="iga-humanista"><a class="header" href="#iga-humanista">IGA Humanista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->25–49 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é projetado para entender e interagir com humanos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Aceitação</li>
+<li>
+<ul>
+<li>Direitos da AGI</li>
+</ul>
+</li>
+<li>+Servir os Outros</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Intocado</li>
+<li>6–9 Tratado</li>
+<li>10 Sinte</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->2 idiomas de sua escolha</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: História</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Psicologia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Sociologia</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="iga-maquinista"><a class="header" href="#iga-maquinista">IGA Maquinista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->50–74 ❮</strong></p>
+</div></div>
+<ul>
+<li>**Bio: ** Sua mente é otimizada para controlar apps e aparelhos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Aperfeiçoamento Pessoal</li>
+<li>+Maestria em Perícia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Digimorfo</li>
+<li>6–10 Operador</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Cegueira Emocional</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Compostura</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">70</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência da Computação</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Modelos de Bot</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="iga-pesquisadora"><a class="header" href="#iga-pesquisadora">IGA Pesquisadora</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->75–89 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é otimizada para investigação, análise de dados e empreendimentos científicos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Educação</li>
+<li>+Exploração</li>
+<li>+Descoberta Científica</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Digimorfo</li>
+<li>6–10 Sábio</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infoseg</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência de Dados</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Matemática</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Química</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="parte-humano"><a class="header" href="#parte-humano">Parte Humano</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 infolife-->90–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua linhagem de código é mesclada com os padrões neurais de um forque humano.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>
+<ul>
+<li>Direitos da AGI</li>
+</ul>
+</li>
+<li>+Encontrar um Propósito</li>
+<li>+Independência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–5 Digimorfo</li>
+<li>6–8 Neo</li>
+<li>9–10 Sábio</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Ativismo Mercurial</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Psicometria</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="isolado-d100"><a class="header" href="#isolado-d100">Isolado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 8 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você sobrevive de forma autoexilada em um hab ou uma nave remotos na periferia do espaço ocupado.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="errante"><a class="header" href="#errante">Errante</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 isolate-->00–24 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você vagueia pela periferia do espaço transumano.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Autossuficiencia</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–9 Tratado</li>
+<li>10 Quicante</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Habitats Eremitas</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Tripulação de Voo</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Política do Sistema Exterior</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="seita-religiosa"><a class="header" href="#seita-religiosa">Seita Religiosa</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 isolate-->25–49 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Seu culto ou grupo religioso constrói um refúgio fora da Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Expandir Influência</li>
+<li>+Liberdade Religiosa</li>
+<li>+Espiritualidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Intocado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Recursos (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Bioconservadorismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Mineração de Gás</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Religião</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="separatista"><a class="header" href="#separatista">Separatista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 isolate-->50–74 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Seu povo é composto de dissidentes, minorias perseguidas, refugiados ou outros que buscam segurança nas periferias.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Religião</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–9 Tratado</li>
+<li>10 Quicante</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Habitats Eremitas</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Política</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="sobrevivencialista"><a class="header" href="#sobrevivencialista">Sobrevivencialista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 isolate-->75–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua família teme problemas na Terra e se abriga fora da Terra.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Socialismo</li>
+<li>+Sobrevivência</li>
+<li>−Riscos X</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–8 Intocado</li>
+<li>9–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Queda Livre</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Bioconservadorismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Conspirações</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="miserável-d100"><a class="header" href="#miserável-d100">Miserável ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 9 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é um veterano dos cortiços, favelas, guetos e cidades inundadas da Terra.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="criminoso"><a class="header" href="#criminoso">Criminoso</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 underclass-->00–19 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você ganha a vida pelos únicos meios disponíveis a você.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses Criminosos</li>
+<li>+Hedonismo</li>
+<li>+Riqueza</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–9 Tratado</li>
+<li>10 Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Drogas</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="radical"><a class="header" href="#radical">Radical</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 underclass-->20–39 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você luta contra sistemas opressivos.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Interesses Autonomistas</li>
+<li>+Revolução</li>
+<li>+[Causa Específica]</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–7 Intocado</li>
+<li>8–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Anarquismo</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações Policiais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="rato-de-rua"><a class="header" href="#rato-de-rua">Rato de Rua</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 underclass-->40–59 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você navega pelos desafios da sua classe com agilidade.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Autossuficiencia</li>
+<li>+Maestria em Perícia</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–8 Intocado</li>
+<li>9 Tratado</li>
+<li>10 Exalto</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Consciência Situacional</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->1 idioma de sua escolha</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Criminosos</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Golpismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="refugiado"><a class="header" href="#refugiado">Refugiado</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 underclass-->60–79 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é forçado a fugir da guerra ou da catástrofe climática.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Aceitação</li>
+<li>+Estabilidade</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–9 Intocado</li>
+<li>10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Vasculhamento</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="sobrevivente"><a class="header" href="#sobrevivente">Sobrevivente</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 underclass-->80–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você faz o que for preciso para se virar.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Autossuficiencia</li>
+<li>+Estabilidade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo ❮d10❯:</strong>
+<ul>
+<li>1–8 Intocado</li>
+<li>9–10 Tratado</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Criminosos</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Segurança</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="perdido-d100"><a class="header" href="#perdido-d100">Perdido ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 10 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você vive uma infância de crescimento acelerado que torna a maioria dos seus colegas em monstros sociopatas.</strong></p>
+<p>Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o <a href="06-step-5-youth-event.html">Passo 5: Evento da Juventude</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="criança-perturbada"><a class="header" href="#criança-perturbada">Criança Perturbada</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 lost-->00–24 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você carrega cicatrizes mentais permanentes que frequentemente são aparentes para os outros.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Hedonismo</li>
+<li>+Sobrevivência</li>
+<li>+Adrenalina</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Futura</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">INT</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Camuflagem Psi (Nível 1)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Comportamento Acentuado (Impulsividade, Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Psi (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Transtorno Mental [Escolha Um]</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->4 truques psi (aleatórios ou escolhidos)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Psi</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Submundo de XP</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Traficantes de Drogas</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="experimento-perverso"><a class="header" href="#experimento-perverso">Experimento Perverso</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 lost-->25–44 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua estranheza é palpável.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Encontrar um Propósito</li>
+<li>+Neurodiversidade</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Futura</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">Traço Calejamento (Alienação, o Desconhecido)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Inexperiência no Mundo Real</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Psi (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Zoosemiótica</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->4 truques psi (aleatórios ou escolhidos)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Psi</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Astrobiologia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Xenogenética</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="mente-alienígena"><a class="header" href="#mente-alienígena">Mente Alienígena</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 lost-->45–54 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Sua mente não se parece com aquelas à sua volta.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>−Assincros</li>
+<li>+Exploração</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Futura</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">Traço Calejamento (o Desconhecido)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Cepa Dominante</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Psi (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->5 truques psi (aleatórios ou escolhidos)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Psi</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Psicologia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Xenolinguística</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="monstro-mascarado"><a class="header" href="#monstro-mascarado">Monstro Mascarado</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 lost-->55–74 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você é um sociopata, mas esconde bem isso.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Hedonismo</li>
+<li>+Caçada</li>
+<li>+Temeridade</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Futura</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SAG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Calejamento (Violência)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Comportamento Acentuado (Impulsividade, Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Comportamento Restrito (Empatia, Nível 3)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left">Traço Psi (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->4 truques psi (aleatórios ou escolhidos)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Psi</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Assassinos Seriais</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Biologia</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="muito-além-do-normal"><a class="header" href="#muito-além-do-normal">Muito Além do Normal</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ <!--sort-n00 lost-->75–99 ❮</strong></p>
+</div></div>
+<ul>
+<li><strong>Bio:</strong> Você se faz passar por normal, mas há rachaduras profundas em sua base.</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Motivação:</strong>
+<ul>
+<li>+Independência</li>
+<li>+Estabilidade</li>
+<li>+Sobrevivência</li>
+</ul>
+</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Morfo:</strong>
+<ul>
+<li>Futura</li>
+</ul>
+</li>
+</ul>
+</div><div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">VON</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Traço Psi (Nível 2)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->3 truques psi (aleatórios ou escolhidos)</td><td style="text-align: right"></td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Psi</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Privacidade</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Sociologia</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-end-->
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../../SUPP/02-CO/01/04-step-3-native-tongue.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../../SUPP/02-CO/01/10-step-9-career-path.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../../SUPP/02-CO/01/04-step-3-native-tongue.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../../SUPP/02-CO/01/10-step-9-career-path.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../../elasticlunr.min.js"></script>
+        <script src="../../../mark.min.js"></script>
+        <script src="../../../searcher.js"></script>
+
+        <script src="../../../clipboard.min.js"></script>
+        <script src="../../../highlight.js"></script>
+        <script src="../../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

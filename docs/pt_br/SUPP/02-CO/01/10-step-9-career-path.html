@@ -1,0 +1,1608 @@
+<!DOCTYPE HTML>
+<html lang="pt_BR" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Passo 9: Trajetória da Carreira - Eclipse Phase 2e</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="O jogo de interpretação de sobrevivência transumana">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../../favicon.svg">
+        <link rel="shortcut icon" href="../../../favicon.png">
+        <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../../ep2e.css">
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../../01/00-infamy.html"><strong aria-hidden="true">1.</strong> Infâmia</a></li><li class="chapter-item "><a href="../../../02/00-starting-out.html"><strong aria-hidden="true">2.</strong> Começando</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../02/01-what-is-ep.html"><strong aria-hidden="true">2.1.</strong> O que é Eclipse Phase?</a></li><li class="chapter-item "><a href="../../../02/02-core-concepts.html"><strong aria-hidden="true">2.2.</strong> Conceitos Principais</a></li><li class="chapter-item "><a href="../../../02/03-themes.html"><strong aria-hidden="true">2.3.</strong> Temas</a></li><li class="chapter-item "><a href="../../../02/04-core-campaigns.html"><strong aria-hidden="true">2.4.</strong> Campanhas Principais</a></li><li class="chapter-item "><a href="../../../02/05-character-archetypes.html"><strong aria-hidden="true">2.5.</strong> Arquétipos de Personagem</a></li><li class="chapter-item "><a href="../../../02/06-setting-overview.html"><strong aria-hidden="true">2.6.</strong> Panorama do Cenário</a></li></ol></li><li class="chapter-item "><a href="../../../03/00-game-mechanics.html"><strong aria-hidden="true">3.</strong> Mecânicas do Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../03/01-how-to-play.html"><strong aria-hidden="true">3.1.</strong> Como Jogar</a></li><li class="chapter-item "><a href="../../../03/02-types-of-tests.html"><strong aria-hidden="true">3.2.</strong> Tipos de Teste</a></li><li class="chapter-item "><a href="../../../03/03-actions-and-time.html"><strong aria-hidden="true">3.3.</strong> Ações & Tempo</a></li><li class="chapter-item "><a href="../../../03/04-initiative-order-of-actions.html"><strong aria-hidden="true">3.4.</strong> Iniciativa & Ordem das Ações</a></li><li class="chapter-item "><a href="../../../03/05-pools.html"><strong aria-hidden="true">3.5.</strong> Paradas</a></li></ol></li><li class="chapter-item "><a href="../../../04/00-making-characters.html"><strong aria-hidden="true">4.</strong> Criando Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../04/01-character-stats.html"><strong aria-hidden="true">4.1.</strong> Atributos do Personagem</a></li><li class="chapter-item "><a href="../../../04/02-character-creation-overview.html"><strong aria-hidden="true">4.2.</strong> Resumo da Criação de Personagem</a></li><li class="chapter-item "><a href="../../../04/03-character-creation-advice.html"><strong aria-hidden="true">4.3.</strong> Conselhos para Criação de Personagem</a></li><li class="chapter-item "><a href="../../../04/04-step-1-background.html"><strong aria-hidden="true">4.4.</strong> Passo 1: Antecedente</a></li><li class="chapter-item "><a href="../../../04/05-step-2-career.html"><strong aria-hidden="true">4.5.</strong> Passo 2: Carreira</a></li><li class="chapter-item "><a href="../../../04/06-step-3-interest.html"><strong aria-hidden="true">4.6.</strong> Passo 3: Interesse</a></li><li class="chapter-item "><a href="../../../04/07-step-4-faction.html"><strong aria-hidden="true">4.7.</strong> Passo 4: Facção</a></li><li class="chapter-item "><a href="../../../04/08-step-5-aptitude-template.html"><strong aria-hidden="true">4.8.</strong> Passo 5: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../../../04/09-step-6-total-skills.html"><strong aria-hidden="true">4.9.</strong> Passo 6: Totalização de Perícias</a></li><li class="chapter-item "><a href="../../../04/10-step-7-languages.html"><strong aria-hidden="true">4.10.</strong> Passo 7: Idiomas</a></li><li class="chapter-item "><a href="../../../04/11-step-8-flex.html"><strong aria-hidden="true">4.11.</strong> Passo 8: Flex</a></li><li class="chapter-item "><a href="../../../04/12-step-9-reputation.html"><strong aria-hidden="true">4.12.</strong> Passo 9: Reputação</a></li><li class="chapter-item "><a href="../../../04/13-step-10-customization.html"><strong aria-hidden="true">4.13.</strong> Passo 10: Personalização</a></li><li class="chapter-item "><a href="../../../04/14-step-11-derived-stats.html"><strong aria-hidden="true">4.14.</strong> Passo 11: Atributos Derivados</a></li><li class="chapter-item "><a href="../../../04/15-step-12-starting-morph-gear.html"><strong aria-hidden="true">4.15.</strong> Passo 12: Morfo & Equipamentos Iniciais</a></li><li class="chapter-item "><a href="../../../04/16-step-13-motivations.html"><strong aria-hidden="true">4.16.</strong> Passo 13: Motivações</a></li><li class="chapter-item "><a href="../../../04/17-final-touches.html"><strong aria-hidden="true">4.17.</strong> Toques Finais</a></li><li class="chapter-item "><a href="../../../04/18-skills.html"><strong aria-hidden="true">4.18.</strong> Perícias</a></li><li class="chapter-item "><a href="../../../04/19-active-skill-list.html"><strong aria-hidden="true">4.19.</strong> Lista de Perícias Ativas</a></li><li class="chapter-item "><a href="../../../04/20-know-skills.html"><strong aria-hidden="true">4.20.</strong> Perícias de Saber</a></li><li class="chapter-item "><a href="../../../04/21-morphs.html"><strong aria-hidden="true">4.21.</strong> Morfos</a></li><li class="chapter-item "><a href="../../../04/22-common-biomorphs.html"><strong aria-hidden="true">4.22.</strong> Biomorfos Comuns</a></li><li class="chapter-item "><a href="../../../04/23-pod-biomorphs.html"><strong aria-hidden="true">4.23.</strong> Biomorfos Prods</a></li><li class="chapter-item "><a href="../../../04/24-uplift-biomorphs.html"><strong aria-hidden="true">4.24.</strong> Biomorfos Elevados</a></li><li class="chapter-item "><a href="../../../04/25-synthmorphs.html"><strong aria-hidden="true">4.25.</strong> Sintemorfos</a></li><li class="chapter-item "><a href="../../../04/26-infomorphs.html"><strong aria-hidden="true">4.26.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../../../04/27-gear-packs.html"><strong aria-hidden="true">4.27.</strong> Pacotes de Equipamentos</a></li><li class="chapter-item "><a href="../../../04/28-traits.html"><strong aria-hidden="true">4.28.</strong> Traços</a></li><li class="chapter-item "><a href="../../../04/29-character-creation-example.html"><strong aria-hidden="true">4.29.</strong> Exemplo de Criação de Personagem</a></li></ol></li><li class="chapter-item "><a href="../../../05/00-sample-characters.html"><strong aria-hidden="true">5.</strong> Personagem Prontos</a></li><li class="chapter-item "><a href="../../../06/00-how-it-came-to-be.html"><strong aria-hidden="true">6.</strong> Como Aconteceu</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../06/01-slouching-towards-singularity.html"><strong aria-hidden="true">6.1.</strong> Vagueando Rumo a Singularidade</a></li><li class="chapter-item "><a href="../../../06/02-timeline.html"><strong aria-hidden="true">6.2.</strong> Cronologia</a></li></ol></li><li class="chapter-item "><a href="../../../07/00-accelerated-future.html"><strong aria-hidden="true">7.</strong> Futuro Acelerado</a></li><li class="chapter-item "><a href="../../../08/00-transhuman-culture.html"><strong aria-hidden="true">8.</strong> Cultura Transumana</a></li><li class="chapter-item "><a href="../../../09/00-the-new-political-economy.html"><strong aria-hidden="true">9.</strong> A Nova Economia Política</a></li><li class="chapter-item "><a href="../../../10/00-factions.html"><strong aria-hidden="true">10.</strong> Facções</a></li><li class="chapter-item "><a href="../../../11/00-system-gazetteer.html"><strong aria-hidden="true">11.</strong> Catálogo do Sistema</a></li><li class="chapter-item "><a href="../../../12/00-action-and-combat.html"><strong aria-hidden="true">12.</strong> Ação & Combate</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../12/01-resolving-combat.html"><strong aria-hidden="true">12.1.</strong> Resolução de Combate</a></li><li class="chapter-item "><a href="../../../12/02-melee-combat.html"><strong aria-hidden="true">12.2.</strong> Combate de Luta</a></li><li class="chapter-item "><a href="../../../12/03-improvised-weapons.html"><strong aria-hidden="true">12.3.</strong> Armas Improvisadas</a></li><li class="chapter-item "><a href="../../../12/04-ranged-combat.html"><strong aria-hidden="true">12.4.</strong> Combate de Distância</a></li><li class="chapter-item "><a href="../../../12/05-beam-weapons.html"><strong aria-hidden="true">12.5.</strong> Armas de Feixe</a></li><li class="chapter-item "><a href="../../../12/06-spray-weapons.html"><strong aria-hidden="true">12.6.</strong> Armas de Spray</a></li><li class="chapter-item "><a href="../../../12/07-thrown-weapons.html"><strong aria-hidden="true">12.7.</strong> Armas de Arremesso</a></li><li class="chapter-item "><a href="../../../12/08-weapon-systems.html"><strong aria-hidden="true">12.8.</strong> Sistemas de Armas</a></li><li class="chapter-item "><a href="../../../12/09-kinetic-weapons.html"><strong aria-hidden="true">12.9.</strong> Armas Cinéticas</a></li><li class="chapter-item "><a href="../../../12/10-seeker-weapons-and-grenades.html"><strong aria-hidden="true">12.10.</strong> Armas de Buscadores & Granadas</a></li><li class="chapter-item "><a href="../../../12/11-armor.html"><strong aria-hidden="true">12.11.</strong> Blindagens</a></li><li class="chapter-item "><a href="../../../12/12-weapon-gear-traits.html"><strong aria-hidden="true">12.12.</strong> Traços de Armas/Equipamentos</a></li><li class="chapter-item "><a href="../../../12/13-weapon-accessories.html"><strong aria-hidden="true">12.13.</strong> Acessórios de Armas</a></li><li class="chapter-item "><a href="../../../12/14-armor-mods.html"><strong aria-hidden="true">12.14.</strong> Mods de Blindagem</a></li><li class="chapter-item "><a href="../../../12/15-special-attacks.html"><strong aria-hidden="true">12.15.</strong> Ataques Especiais</a></li><li class="chapter-item "><a href="../../../12/16-physical-health.html"><strong aria-hidden="true">12.16.</strong> Saúde Física</a></li><li class="chapter-item "><a href="../../../12/17-healing-and-repair.html"><strong aria-hidden="true">12.17.</strong> Cura & Reparo</a></li><li class="chapter-item "><a href="../../../12/18-mental-health.html"><strong aria-hidden="true">12.18.</strong> Saúde Mental</a></li><li class="chapter-item "><a href="../../../12/19-mental-healing-and-psychosurgery.html"><strong aria-hidden="true">12.19.</strong> Cura Mental & Psicocirurgia</a></li><li class="chapter-item "><a href="../../../12/20-disorders.html"><strong aria-hidden="true">12.20.</strong> Transtornos</a></li><li class="chapter-item "><a href="../../../12/21-other-action-factors.html"><strong aria-hidden="true">12.21.</strong> Outros Fatores da Ação</a></li><li class="chapter-item "><a href="../../../12/22-social-actions.html"><strong aria-hidden="true">12.22.</strong> Ações Sociais</a></li><li class="chapter-item "><a href="../../../12/23-stressful-situations.html"><strong aria-hidden="true">12.23.</strong> Situações Estressantes</a></li><li class="chapter-item "><a href="../../../12/24-movement.html"><strong aria-hidden="true">12.24.</strong> Movimento</a></li><li class="chapter-item "><a href="../../../12/25-vehicle-movement.html"><strong aria-hidden="true">12.25.</strong> Movimento de Veículos</a></li><li class="chapter-item "><a href="../../../12/26-objects-and-structures.html"><strong aria-hidden="true">12.26.</strong> Objetos & Estruturas</a></li><li class="chapter-item "><a href="../../../12/27-future-materials.html"><strong aria-hidden="true">12.27.</strong> Materiais Futuros</a></li><li class="chapter-item "><a href="../../../12/28-environmental-factors.html"><strong aria-hidden="true">12.28.</strong> Fatores Ambientais</a></li><li class="chapter-item "><a href="../../../12/29-hostile-environments.html"><strong aria-hidden="true">12.29.</strong> Ambientes Hostis</a></li><li class="chapter-item "><a href="../../../12/30-downtime-actions.html"><strong aria-hidden="true">12.30.</strong> Ações de Recesso</a></li></ol></li><li class="chapter-item "><a href="../../../13/00-the-mesh.html"><strong aria-hidden="true">13.</strong> A Mesh</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../13/01-everyware.html"><strong aria-hidden="true">13.1.</strong> Computação Ubíqua</a></li><li class="chapter-item "><a href="../../../13/02-mesh-topology.html"><strong aria-hidden="true">13.2.</strong> Topologia da Mesh</a></li><li class="chapter-item "><a href="../../../13/03-common-mesh-uses.html"><strong aria-hidden="true">13.3.</strong> Usos Comuns da Mesh</a></li><li class="chapter-item "><a href="../../../13/04-devices-apps-and-links.html"><strong aria-hidden="true">13.4.</strong> Dispositivos, Apps, & Ligações</a></li><li class="chapter-item "><a href="../../../13/05-authentication-and-encryption.html"><strong aria-hidden="true">13.5.</strong> Autenticação & Criptografia</a></li><li class="chapter-item "><a href="../../../13/06-mesh-actions.html"><strong aria-hidden="true">13.6.</strong> Ações da Mesh</a></li><li class="chapter-item "><a href="../../../13/07-ais-and-muses.html"><strong aria-hidden="true">13.7.</strong> IAs & Musas</a></li><li class="chapter-item "><a href="../../../13/08-infomorphs.html"><strong aria-hidden="true">13.8.</strong> Infomorfos</a></li><li class="chapter-item "><a href="../../../13/09-online-research.html"><strong aria-hidden="true">13.9.</strong> Pesquisa Online</a></li><li class="chapter-item "><a href="../../../13/10-tracking.html"><strong aria-hidden="true">13.10.</strong> Rastreamento</a></li><li class="chapter-item "><a href="../../../13/11-hacking.html"><strong aria-hidden="true">13.11.</strong> Hackeamento</a></li><li class="chapter-item "><a href="../../../13/12-countermeasures.html"><strong aria-hidden="true">13.12.</strong> Contramedidas</a></li><li class="chapter-item "><a href="../../../13/13-system-subversion.html"><strong aria-hidden="true">13.13.</strong> Subversão de Sistema</a></li><li class="chapter-item "><a href="../../../13/14-mesh-combat.html"><strong aria-hidden="true">13.14.</strong> Combate na Mesh</a></li><li class="chapter-item "><a href="../../../13/15-hardware-damage.html"><strong aria-hidden="true">13.15.</strong> Dano em Aparelhos</a></li><li class="chapter-item "><a href="../../../13/16-glitches.html"><strong aria-hidden="true">13.16.</strong> Defeitos</a></li><li class="chapter-item "><a href="../../../13/17-mindware-hacking.html"><strong aria-hidden="true">13.17.</strong> Hackeamento de Implante Mental</a></li><li class="chapter-item "><a href="../../../13/18-virtual-reality.html"><strong aria-hidden="true">13.18.</strong> Realidade Virtual</a></li><li class="chapter-item "><a href="../../../13/19-surveillance-hacking.html"><strong aria-hidden="true">13.19.</strong> Hackeamento de Vigilância</a></li></ol></li><li class="chapter-item "><a href="../../../14/00-psi.html"><strong aria-hidden="true">14.</strong> Psi</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../14/01-psi-overview.html"><strong aria-hidden="true">14.1.</strong> Resumo do Psi</a></li><li class="chapter-item "><a href="../../../14/02-watts-macleod-sub-strains.html"><strong aria-hidden="true">14.2.</strong> Subcepas Watts-MacLeod</a></li><li class="chapter-item "><a href="../../../14/03-roleplaying-asyncs.html"><strong aria-hidden="true">14.3.</strong> Interpretando Assincros</a></li><li class="chapter-item "><a href="../../../14/04-using-psi.html"><strong aria-hidden="true">14.4.</strong> Usando Psi</a></li><li class="chapter-item "><a href="../../../14/05-influence-effects.html"><strong aria-hidden="true">14.5.</strong> Efeitos de Influência</a></li><li class="chapter-item "><a href="../../../14/06-psi-sleight-summaries.html"><strong aria-hidden="true">14.6.</strong> Sumários de Truques Psi</a></li></ol></li><li class="chapter-item "><a href="../../../15/00-transhuman-tech.html"><strong aria-hidden="true">15.</strong> Tecnologia Transumana</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../15/01-backups-and-uploading.html"><strong aria-hidden="true">15.1.</strong> Backups & Uploads</a></li><li class="chapter-item "><a href="../../../15/02-resleeving.html"><strong aria-hidden="true">15.2.</strong> Reencape</a></li><li class="chapter-item "><a href="../../../15/03-acquiring-morphs.html"><strong aria-hidden="true">15.3.</strong> Aquisição de Morfos</a></li><li class="chapter-item "><a href="../../../15/04-forking-and-merging.html"><strong aria-hidden="true">15.4.</strong> Forqueamento & Mesclagem</a></li><li class="chapter-item "><a href="../../../15/05-psychosurgery.html"><strong aria-hidden="true">15.5.</strong> Psicocirurgia</a></li><li class="chapter-item "><a href="../../../15/06-psychosurgery-procedures.html"><strong aria-hidden="true">15.6.</strong> Procedimentos de Psicocirurgia</a></li><li class="chapter-item "><a href="../../../15/07-identity-systems.html"><strong aria-hidden="true">15.7.</strong> Sistemas de Identificação</a></li><li class="chapter-item "><a href="../../../15/08-habitat-access.html"><strong aria-hidden="true">15.8.</strong> Acesso a Habitats</a></li><li class="chapter-item "><a href="../../../15/09-space-travel.html"><strong aria-hidden="true">15.9.</strong> Viagem Espacial</a></li><li class="chapter-item "><a href="../../../15/10-space-combat.html"><strong aria-hidden="true">15.10.</strong> Combate Espacial</a></li><li class="chapter-item "><a href="../../../15/11-ship-and-habitat-hacking.html"><strong aria-hidden="true">15.11.</strong> Hackeamento de Naves & Habitats</a></li><li class="chapter-item "><a href="../../../15/12-reputation.html"><strong aria-hidden="true">15.12.</strong> Reputação</a></li><li class="chapter-item "><a href="../../../15/13-networking.html"><strong aria-hidden="true">15.13.</strong> Socialização</a></li></ol></li><li class="chapter-item "><a href="../../../16/00-gear.html"><strong aria-hidden="true">16.</strong> Equipamentos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../16/01-gear-rules.html"><strong aria-hidden="true">16.1.</strong> Regras de Equipamentos</a></li><li class="chapter-item "><a href="../../../16/02-acquiring-gear.html"><strong aria-hidden="true">16.2.</strong> Aquisição de Equipamentos</a></li><li class="chapter-item "><a href="../../../16/03-nanofabrication.html"><strong aria-hidden="true">16.3.</strong> Nanofabricação</a></li><li class="chapter-item "><a href="../../../16/04-services.html"><strong aria-hidden="true">16.4.</strong> Serviços</a></li><li class="chapter-item "><a href="../../../16/05-common-tech-and-ware.html"><strong aria-hidden="true">16.5.</strong> Tecnologias & Implantes Comuns</a></li><li class="chapter-item "><a href="../../../16/06-sensory-augmentations.html"><strong aria-hidden="true">16.6.</strong> Ampliações Sensoriais</a></li><li class="chapter-item "><a href="../../../16/07-senses-and-sensors.html"><strong aria-hidden="true">16.7.</strong> Sentidos e Sensores</a></li><li class="chapter-item "><a href="../../../16/08-mental-augmentations.html"><strong aria-hidden="true">16.8.</strong> Ampliações Mentais</a></li><li class="chapter-item "><a href="../../../16/09-social-augmentations.html"><strong aria-hidden="true">16.9.</strong> Ampliações Sociais</a></li><li class="chapter-item "><a href="../../../16/10-combat-augmentations.html"><strong aria-hidden="true">16.10.</strong> Ampliações de Combate</a></li><li class="chapter-item "><a href="../../../16/11-physical-augmentations.html"><strong aria-hidden="true">16.11.</strong> Ampliações Físicas</a></li><li class="chapter-item "><a href="../../../16/12-meshware.html"><strong aria-hidden="true">16.12.</strong> Meshimplantes</a></li><li class="chapter-item "><a href="../../../16/13-apps-and-alis.html"><strong aria-hidden="true">16.13.</strong> Apps & ILAs</a></li><li class="chapter-item "><a href="../../../16/14-creatures.html"><strong aria-hidden="true">16.14.</strong> Criaturas</a></li><li class="chapter-item "><a href="../../../16/15-chemicals-drugs-and-toxins.html"><strong aria-hidden="true">16.15.</strong> Químicos, Drogas & Toxinas</a></li><li class="chapter-item "><a href="../../../16/16-comms-and-mesh-gear.html"><strong aria-hidden="true">16.16.</strong> Equipamentos de Comunicação & Mesh</a></li><li class="chapter-item "><a href="../../../16/17-espionage-and-security-tech.html"><strong aria-hidden="true">16.17.</strong> Tecnologias de Espionagem & Segurança</a></li><li class="chapter-item "><a href="../../../16/18-mission-gear.html"><strong aria-hidden="true">16.18.</strong> Equipamentos de Missão</a></li><li class="chapter-item "><a href="../../../16/19-nanotech.html"><strong aria-hidden="true">16.19.</strong> Nanotecnologia</a></li><li class="chapter-item "><a href="../../../16/20-nanoswarms-and-microswarms.html"><strong aria-hidden="true">16.20.</strong> Nanoenxames & Microenxames</a></li><li class="chapter-item "><a href="../../../16/21-robots.html"><strong aria-hidden="true">16.21.</strong> Robôs</a></li><li class="chapter-item "><a href="../../../16/22-vehicles.html"><strong aria-hidden="true">16.22.</strong> Veículos</a></li></ol></li><li class="chapter-item "><a href="../../../17/00-running-the-game.html"><strong aria-hidden="true">17.</strong> Conduzindo o Jogo</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../17/01-ad-astra.html"><strong aria-hidden="true">17.1.</strong> Ad Astra</a></li></ol></li><li class="chapter-item "><a href="../../../18/00-threats-and-x-risks.html"><strong aria-hidden="true">18.</strong> Ameaças & Riscos X</a></li><li class="chapter-item "><a href="../../../19/00-appendices.html"><strong aria-hidden="true">19.</strong> Apêndices</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../19/01-glossary.html"><strong aria-hidden="true">19.1.</strong> Glossário</a></li><li class="chapter-item "><a href="../../../19/02-references.html"><strong aria-hidden="true">19.2.</strong> Referências</a></li><li class="chapter-item "><a href="../../../19/03-index.html"><strong aria-hidden="true">19.3.</strong> Índice</a></li><li class="chapter-item "><a href="../../../19/04-complete-list-of-mesh-actions.html"><strong aria-hidden="true">19.4.</strong> Lista Completa de Ações da Mesh</a></li><li class="chapter-item "><a href="../../../19/05-complete-list-of-morphs.html"><strong aria-hidden="true">19.5.</strong> Lista Completa de Morfos</a></li><li class="chapter-item "><a href="../../../19/06-rules-primmer.html"><strong aria-hidden="true">19.6.</strong> Regras Básicas</a></li><li class="chapter-item "><a href="../../../19/07-character-sheet.html"><strong aria-hidden="true">19.7.</strong> Ficha de Personagem</a></li></ol></li><li class="chapter-item "><a href="../../../buy-the-book.html"><strong aria-hidden="true">20.</strong> Compre o livro!</a></li><li class="chapter-item "><a href="../../../license.html"><strong aria-hidden="true">21.</strong> Licença & Créditos</a></li><li class="chapter-item affix "><li class="part-title">Suplementos</li><li class="chapter-item "><a href="../../../SUPP/01-MS/00-multiplicy-and-synthesis.html"><strong aria-hidden="true">22.</strong> Multiplicidade & Síntese</a></li><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/00-character-options.html"><strong aria-hidden="true">23.</strong> Opções para Personagens</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/01/00-life-path-character.html"><strong aria-hidden="true">23.1.</strong> Trajetória de Vida</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../SUPP/02-CO/01/01-life-path-character-creation.html"><strong aria-hidden="true">23.1.1.</strong> Criação de Personagem por Trajetória de Vida</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/02-step-1-flex.html"><strong aria-hidden="true">23.1.2.</strong> Passo 1: Flex</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/03-step-2-aptitude-template.html"><strong aria-hidden="true">23.1.3.</strong> Passo 2: Modelo de Aptidões</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/04-step-3-native-tongue.html"><strong aria-hidden="true">23.1.4.</strong> Passo 3: Língua Nativa</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/05-step-4-background-path.html"><strong aria-hidden="true">23.1.5.</strong> Passo 4: Trajetória Antecedente</a></li><li class="chapter-item expanded "><a href="../../../SUPP/02-CO/01/10-step-9-career-path.html" class="active"><strong aria-hidden="true">23.1.6.</strong> Passo 9: Trajetória da Carreira</a></li><li class="chapter-item "><a href="../../../SUPP/02-CO/01/20-morph-tables.html"><strong aria-hidden="true">23.1.7.</strong> Tabelas de Morfos</a></li></ol></li><li class="chapter-item "><a href="../../../SUPP/02-CO/03/00-morph-recognition-guide.html"><strong aria-hidden="true">23.2.</strong> Guia de Reconhecimento de Morfos</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Eclipse Phase 2e</h1>
+
+                    <div class="right-buttons">
+                        <a href="https://github.com/luizbgomide/EclipsePhase2e-ptbr/tree/main/pt_BR/src" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="passo-9-trajetória-da-carreira"><a class="header" href="#passo-9-trajetória-da-carreira">Passo 9: Trajetória da Carreira</a></h1>
+<div class="no-margin">
+<blockquote class="header-bg">
+<p><strong>O passo 9 é onde seu personagem realmente começa a tomar forma. Nesse passo, você determina a profissão primária do seu personagem. Escolha ou role na tabela Trajetória da Carreira Aleatória para definir essa trajetória da carreira, role na sub-tabela apropriada, e então vá para o Passo 10.</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>A HISTÓRIA:</strong></p>
+<p>A carreira decidida aqui é ou aquela que você exerceu mais destacadamente durante a sua vida até agora (talvez seja uma de um punhado de carreiras ao longo dos anos) ou a que você mais recentemente buscou no início do jogo. Na maioria dos casos, essa carreira será a que você exerceu após a Queda, enquanto navegava por uma vida no Sistema Solar drasticamente alterado e abalado. Seja qual for o caso, é o que mais o define em termos de perícias.</p>
+</blockquote>
+</div>
+<blockquote class="table">
+<h2 id="trajetória-da-carreira-aleatória-d10--d10"><a class="header" href="#trajetória-da-carreira-aleatória-d10--d10">Trajetória da Carreira Aleatória ❮d10 &amp; d10❯</a></h2>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: center">d10 #1<!--sort-fixed--></th><th style="text-align: center">d10 #2<!--sort-fixed--></th><th style="text-align: left">Carreira<!--sort-by--></th><th style="text-align: left">Descrição</th></tr></thead><tbody>
+<tr><td style="text-align: center">1–5</td><td style="text-align: center">1</td><td style="text-align: left"><a href="#acad%C3%AAmico-d100">Acadêmico</a></td><td style="text-align: left">Você dedica seus esforços na busca do conhecimento.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">2</td><td style="text-align: left"><a href="#agente-infiltrado-d100">Agente Infiltrado</a></td><td style="text-align: left">Você é hábil em acessar lugares onde não deveria estar.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">3</td><td style="text-align: left"><a href="#capanga-d100">Capanga</a></td><td style="text-align: left">Você é um valentão, por encomenda ou por uma causa pessoal.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">4</td><td style="text-align: left"><a href="#cientista-d100">Cientista</a></td><td style="text-align: left">Você busca entender como funciona o universo — ou pelo menos certos elementos dele.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">5</td><td style="text-align: left"><a href="#explorador-d100">Explorador</a></td><td style="text-align: left">Você anda em mundos alienígenas e vê coisas que os outros não acreditariam.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">6</td><td style="text-align: left"><a href="#hacker-d100">Hacker</a></td><td style="text-align: left">Os programas se dobram à sua vontade.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">7</td><td style="text-align: left"><a href="#hacker-gen%C3%A9tico-d100">Hacker Genético</a></td><td style="text-align: left">O DNA é o seu meio artístico.</td></tr>
+<tr><td style="text-align: center"><!--sort-fixed--></td><td style="text-align: center">8–10</td><td style="text-align: left"><strong>RERROLE #2</strong></td><td style="text-align: left"></td></tr>
+<tr><td style="text-align: center"><hr class="table-split" /><!--sort-fixed--></td><td style="text-align: center"></td><td style="text-align: left"></td><td style="text-align: left"></td></tr>
+<tr><td style="text-align: center">6–10</td><td style="text-align: center">1</td><td style="text-align: left"><a href="#hacker-mental-d100">Hacker Mental</a></td><td style="text-align: left">Você funde mentes e memórias.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">2</td><td style="text-align: left"><a href="#investigador-d100">Investigador</a></td><td style="text-align: left">Poucos detalhes escapam à sua vista.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">3</td><td style="text-align: left"><a href="#malandro-d100">Malandro</a></td><td style="text-align: left">Você se sobressai em convencer os outros, mesmo quando não é do interesse deles.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">4</td><td style="text-align: left"><a href="#m%C3%A9dico-d100">Médico</a></td><td style="text-align: left">Você tem formação em medicina.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">5</td><td style="text-align: left"><a href="#soldado-d100">Soldado</a></td><td style="text-align: left">Você utiliza a violência — ou a ameaça dela.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">6</td><td style="text-align: left"><a href="#sucateiro-d100">Sucateiro</a></td><td style="text-align: left">Você revira os destroços e as ruínas, procurando valor na destruição.</td></tr>
+<tr><td style="text-align: center"></td><td style="text-align: center">7</td><td style="text-align: left"><a href="#t%C3%A9cnico-d100">Técnico</a></td><td style="text-align: left">Você cria e conserta as coisas.</td></tr>
+<tr><td style="text-align: center"><!--sort-fixed--></td><td style="text-align: center">8–10</td><td style="text-align: left"><strong>RERROLE #2</strong></td><td style="text-align: left"></td></tr>
+</tbody></table>
+</div></blockquote>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="acadêmico-d100"><a class="header" href="#acadêmico-d100">Acadêmico ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 1 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você dedica seus esforços na busca do conhecimento.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="arquivista"><a class="header" href="#arquivista">Arquivista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você armazena e mantém o conhecimento coletivo da transumanidade.</li>
+<li><strong>Motivação:</strong> +Proteger o Conhecimento</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Arqueologia Computacional</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Ciência de Dados</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="pesquisador"><a class="header" href="#pesquisador">Pesquisador</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você encontra segredos escondidos em meio aos dados.</li>
+<li><strong>Motivação:</strong> +Pesquisa</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência de Dados</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Matemática</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Operações Laboratoriais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="professor"><a class="header" href="#professor">Professor</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você educa a próxima geração de transumanos.</li>
+<li><strong>Motivação:</strong> +Educação</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">INT</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Antropologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: História</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Instrução</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="agente-infiltrado-d100"><a class="header" href="#agente-infiltrado-d100">Agente Infiltrado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 2 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é hábil em acessar lugares onde não deveria estar.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="contrabandista"><a class="header" href="#contrabandista">Contrabandista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você passa despercebido pelas restrições de segurança dos habitats.</li>
+<li><strong>Motivação:</strong> +Riqueza</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Segurança</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="espião"><a class="header" href="#espião">Espião</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você se infiltra nas organizações para obter segredos ou destruí-las por dentro.</li>
+<li><strong>Motivação:</strong> +Revelar Segredos</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SAG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Enganação</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Espionagem</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="ladrão"><a class="header" href="#ladrão">Ladrão</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você domina os sistemas de segurança em prol da redistribuição de riqueza.</li>
+<li><strong>Motivação:</strong> +Não Ser Pego</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">REF</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">35</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Mercados Negros</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Segurança</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="capanga-d100"><a class="header" href="#capanga-d100">Capanga ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 3 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você é um valentão, por encomenda ou por uma causa pessoal.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="jagunço-do-cartel"><a class="header" href="#jagunço-do-cartel">Jagunço do Cartel</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você serve os caprichos criminais dos líderes de seu sindicato.</li>
+<li><strong>Motivação:</strong> +Riqueza</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SOM</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Crime Organizado</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Política de Cartéis</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="membro-de-gangue"><a class="header" href="#membro-de-gangue">Membro de Gangue</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você e sua gangue se unem por segurança e pela força dos números.</li>
+<li><strong>Motivação:</strong> +Adrenalina</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Gangues</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Operações Policiais</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="milícia-autonomista"><a class="header" href="#milícia-autonomista">Milícia Autonomista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você faz parte de um grupo voluntário que defende seu hab e lida com resolução de conflitos.</li>
+<li><strong>Motivação:</strong> +Proteger a Comunidade</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Operações de Segurança</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Resolução de Conflitos</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="cientista-d100"><a class="header" href="#cientista-d100">Cientista ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 4 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você busca entender como funciona o universo — ou pelo menos certos elementos dele.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="cientista-de-campo"><a class="header" href="#cientista-de-campo">Cientista de Campo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você usa o seu treinamento nas ciências da vida para estudar exoplanetas.</li>
+<li><strong>Motivação:</strong> +Descoberta</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Ciência Forense</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Botânica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Ecologia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Geologia</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="físico"><a class="header" href="#físico">Físico</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você se sobressai nas ciências duras.</li>
+<li><strong>Motivação:</strong> +Ciência!</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Astronomia</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Saber: Física</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Química</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="xenoarqueólogo"><a class="header" href="#xenoarqueólogo">Xenoarqueólogo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você investiga os restos mortais de civilizações alienígenas extintas.</li>
+<li><strong>Motivação:</strong> +Revelar Segredos</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">x-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Demolições</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Astrobiologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mapeamento</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Xenoarqueologia</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="explorador-d100"><a class="header" href="#explorador-d100">Explorador ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 5 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você anda em mundos alienígenas e vê coisas que os outros não acreditariam.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="batedor"><a class="header" href="#batedor">Batedor</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você se especializa em mapeamento e reconhecimento.</li>
+<li><strong>Motivação:</strong> + Exploração</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">INT</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->x-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Robótica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Aérea</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Geologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mapeamento</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="busca-e-resgate"><a class="header" href="#busca-e-resgate">Busca e Resgate</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você procura por desbravadores perdidos ou em apuros.</li>
+<li><strong>Motivação:</strong> +Ajudar os Outros</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">x-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Atletismo</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Desbravamento</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Serviços de Emergência</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="tripulação"><a class="header" href="#tripulação">Tripulação</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você cuida do trabalho pesado da exploração: acampamentos de base, testes de campo e apoio.</li>
+<li><strong>Motivação:</strong> +Aventura</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">x-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Industrial</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Veículos Terrestres</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Atletismo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Ciência Forense</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Sobrevivência</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Astrobiologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Desbravamento</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="hacker-d100"><a class="header" href="#hacker-d100">Hacker ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 6 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Os programas se dobram à sua vontade.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="equipe-azul"><a class="header" href="#equipe-azul">Equipe Azul</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você se especializa em defender sistemas de invasores.</li>
+<li><strong>Motivação:</strong> +Proteger os Sistemas</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Administração de Sistemas</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Ciência da Computação</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="hacktivista"><a class="header" href="#hacktivista">Hacktivista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você hackeia sites de hipercorps/governos e faz engenharia reversa em tecnologias para apoiar causas sociais.</li>
+<li><strong>Motivação:</strong> +Solidariedade</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Política</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Segurança da Mesh</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="invasor-digital"><a class="header" href="#invasor-digital">Invasor Digital</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você penetra em sistemas para libertar seus segredos.</li>
+<li><strong>Motivação:</strong> +Adrenalina</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infoseg</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Info-Negociantes</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Segurança da Mesh</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="hacker-genético-d100"><a class="header" href="#hacker-genético-d100">Hacker Genético ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 1–5 &amp; 7 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>O DNA é o seu meio artístico.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="astrobiologista"><a class="header" href="#astrobiologista">Astrobiologista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é fascinado pela vida alienígena e pelo que faz ela funcionar.</li>
+<li><strong>Motivação:</strong> +Pesquisa</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">x-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Medicina: Biotecnologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Ciência Forense</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Medicina: Veterinária</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Astrobiologia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Biologia Computacional</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Zoologia</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="bioinventor"><a class="header" href="#bioinventor">Bioinventor</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você faz experiências com: mods corporais, neogenética, terapias genéticas, drogas inteligentes e muito mais.</li>
+<li><strong>Motivação:</strong> +Ciência!</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Medicina: Biotecnologia</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Drogas Inteligentes</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Neogenética</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Operações Laboratoriais</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="especialista-em-elevados"><a class="header" href="#especialista-em-elevados">Especialista em Elevados</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Sua formação em ciência veterinária se estende a animais inteligentes e elevados.</li>
+<li><strong>Motivação:</strong> +Elevação</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Medicina: Biotecnologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Veterinária</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Perícia Exótica: Trato Animal</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Animais Inteligentes</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Genética</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Zoologia</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="hacker-mental-d100"><a class="header" href="#hacker-mental-d100">Hacker Mental ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 1 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você funde mentes e memórias.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="memeticista"><a class="header" href="#memeticista">Memeticista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Seja um marqueteiro viral ou hacker cultural, você se especializa em ideias contagiosas.</li>
+<li><strong>Motivação:</strong> +Viralizar</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infosec</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Medicina: Psicocirurgia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Influenciadores</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Memética</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Psicologia</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="psicocirugião"><a class="header" href="#psicocirugião">Psicocirugião</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é um moldador de mentes, ajudando as pessoas a esculpirem seus palácios mentais.</li>
+<li><strong>Motivação:</strong> +Maestria em Perícia</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">COG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Infosec</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Psicocirurgia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência Cognitiva</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Psicologia</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Saber: Psiquiatria</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="psicoterapeuta"><a class="header" href="#psicoterapeuta">Psicoterapeuta</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você ajuda as pessoas a lidar com trauma mental e a melhorar suas habilidades cognitivas.</li>
+<li><strong>Motivação:</strong> +Ajudar os Outros</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SAG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Medicina: Psicocirurgia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">15</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Psicologia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Psiquiatria</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Serviços Sociais</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="investigador-d100"><a class="header" href="#investigador-d100">Investigador ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 2 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Poucos detalhes escapam à sua vista.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="caçador-de-ego"><a class="header" href="#caçador-de-ego">Caçador de Ego</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você rastreia egos fugitivos e procurados.</li>
+<li><strong>Motivação:</strong> +Localize Fugitivos</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Caçada de Ego</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Contrabando</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="detetive"><a class="header" href="#detetive">Detetive</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você tenta resolver crimes.</li>
+<li><strong>Motivação:</strong> +Solucionar Mistérios</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Medicina: Ciência Forense</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Cartéis</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Investigação</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="jornalista"><a class="header" href="#jornalista">Jornalista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você traz assuntos importantes para a atenção do público.</li>
+<li><strong>Motivação:</strong> +Revelar Segredos</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Atualidades</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Jornalismo</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="malandro-d100"><a class="header" href="#malandro-d100">Malandro ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 3 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você se sobressai em convencer os outros, mesmo quando não é do interesse deles.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="golpista"><a class="header" href="#golpista">Golpista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você engana os outros por diversão e lucro. Ou você trabalha com publicidade/marketing. Mesma coisa.</li>
+<li><strong>Motivação:</strong> +Riqueza</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SAG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Golpismo</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Tecnofurtividade</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="intermediário"><a class="header" href="#intermediário">Intermediário</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você usa suas conexões para garantir que todos consigam o que está buscando.</li>
+<li><strong>Motivação:</strong> +Riqueza</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SAG</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Mercados Negros</td><td style="text-align: right">60</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="negociador"><a class="header" href="#negociador">Negociador</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você negocia acordos e usa alavancagem para conseguir o que quer.</li>
+<li><strong>Motivação:</strong> +Maestria em Perícia</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">VON</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Enganação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Persuasão</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Provocação</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Hipercorps</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Política</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Psicologia</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="médico-d100"><a class="header" href="#médico-d100">Médico ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 4 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você tem formação em medicina.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="clínico"><a class="header" href="#clínico">Clínico</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é um médico de clínica geral com algumas especializações incomuns.</li>
+<li><strong>Motivação:</strong> +Solucionar Problemas</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">r-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Medicina: Biotecnologia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Medicina: Psicocirurgia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência Cognitiva</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Doenças Infecciosas</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Genética</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="paramédico"><a class="header" href="#paramédico">Paramédico</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você presta serviços médicos de emergência.</li>
+<li><strong>Motivação:</strong> +Ajudar os Outros</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Biotecnologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Medicina: Paramedicina</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Drogas</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Serviços de Emergência</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="técnico-de-morfos"><a class="header" href="#técnico-de-morfos">Técnico de Morfos</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você ajusta e modifica biomorfos, e auxilia no reencape.</li>
+<li><strong>Motivação:</strong> +Expressão Criativa</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">f-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Medicina: Biotecnologia</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Medicina: Farmacologia</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Medicina: Psicocirurgia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Pesquisa</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Ciência Cognitiva</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Genética</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Morfos</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="soldado-d100"><a class="header" href="#soldado-d100">Soldado ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 5 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você utiliza a violência — ou a ameaça dela.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="guarda-costas"><a class="header" href="#guarda-costas">Guarda-Costas</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você se coloca entre seu cliente e o perigo potencial.</li>
+<li><strong>Motivação:</strong> +Proteger o Cliente</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Cinésica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Escolta Pessoal</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Segurança</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="mercenário"><a class="header" href="#mercenário">Mercenário</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é uma arma de aluguel.</li>
+<li><strong>Motivação:</strong> +Sobrevivência</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">SOM</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Evasão</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Percepção</td><td style="text-align: right">25</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Grupos Mercenários</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Operações Militares</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Zonas de Conflito</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="operativo"><a class="header" href="#operativo">Operativo</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é um assassino, ronin urbano, soldado de elite ou um cara durão.</li>
+<li><strong>Motivação:</strong> +Objetivo Atual</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">REF</td><td style="text-align: right">5</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Demolições</td><td style="text-align: right">15</td></tr>
+<tr><td style="text-align: left">Evasão</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Infiltração</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Luta</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Tiro</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Mercados Negros</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Segurança</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="sucateiro-d100"><a class="header" href="#sucateiro-d100">Sucateiro ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 6 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você revira os destroços e as ruínas, procurando valor na destruição.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="comerciante-de-sucata"><a class="header" href="#comerciante-de-sucata">Comerciante de Sucata</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você ganha a vida ressuscitando tecnologia abandonada.</li>
+<li><strong>Motivação:</strong> +Prosperidade</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Armamentos</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Eletrônica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Aérea</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Mercados Negros</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Modelos de Bot</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Tecnologia Proprietária</td><td style="text-align: right">20</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="equipe-de-recuperação"><a class="header" href="#equipe-de-recuperação">Equipe de Recuperação</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você desmonta naves e habitats abandonados em busca de qualquer coisa de valor.</li>
+<li><strong>Motivação:</strong> +Riqueza</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Demolições</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Industrial</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Espacial</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Espaçonaves</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Tripulação de Voo</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Saber: Vasculhamento</td><td style="text-align: right">40</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="espreitador-das-zonas"><a class="header" href="#espreitador-das-zonas">Espreitador das Zonas</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você invade zonas de quarentena em busca de artefatos.</li>
+<li><strong>Motivação:</strong> +Adrenalina</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">g-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Demolições</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Eletrônica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Infoseg</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Contrabando</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Tecnologia TITAN</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Saber: Zonas de Quarentena</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-block-->
+<blockquote class="framed-table">
+<div class="line-spread heading">
+<h2 id="técnico-d100"><a class="header" href="#técnico-d100">Técnico ❮d100❯</a></h2>
+<div class="no-wrap large-text">
+<p><strong>❯ 6–10 &amp; 7 ❮</strong><!--sort-static--></p>
+</div></div>
+<p><strong>Você cria e conserta as coisas.</strong></p>
+<p>Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o <a href="11-step-10-interests.html">Passo 10: Interesses</a>.</p>
+<!--sort-->
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="artifex"><a class="header" href="#artifex">Artifex</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 00–32 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você é nanoengenheiro.</li>
+<li><strong>Motivação:</strong> +Expressão Criativa</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Infosec</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Nanofabricação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Nanotecnologia</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="roboticista"><a class="header" href="#roboticista">Roboticista</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 33–66 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você opera drones e conserta sintes.</li>
+<li><strong>Motivação:</strong> +Maestria em Perícia</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Aeroespacial</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Eletrônica</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Robótica</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Pilotagem: Aérea</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Modelos de Bot</td><td style="text-align: right">60</td></tr>
+<tr><td style="text-align: left">Saber: Sintemorfos</td><td style="text-align: right">30</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-block-->
+<blockquote class="header-bg smart-columns">
+<div class="stat-list title-margin">
+<div class="line-spread heading">
+<h3 id="téc-hab"><a class="header" href="#téc-hab">Téc-Hab</a></h3>
+<div class="no-wrap large-text">
+<p><strong>❯ 67–99 ❮</strong><!--sort-static--></p>
+</div></div>
+<ul>
+<li>Você mantém o suporte vital funcionando.</li>
+<li><strong>Motivação:</strong> +Solucionar Problemas</li>
+</ul>
+</div>
+<div>
+<!--sort-->
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left"></th><th style="text-align: right"></th></tr></thead><tbody>
+<tr><td style="text-align: left">@-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left">c-rep</td><td style="text-align: right">10</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Aparelhagem: Eletrônica</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Industrial</td><td style="text-align: right">50</td></tr>
+<tr><td style="text-align: left">Aparelhagem: Veículos Terrestres</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Interface</td><td style="text-align: right">30</td></tr>
+<tr><td style="text-align: left">Pilotagem: Terrestre</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left">Programação</td><td style="text-align: right">20</td></tr>
+<tr><td style="text-align: left"><!--sort-restart-->Saber: Engenharia</td><td style="text-align: right">40</td></tr>
+<tr><td style="text-align: left">Saber: Operações de Habitat</td><td style="text-align: right">50</td></tr>
+</tbody></table>
+</div></div>
+</blockquote>
+<!--sort-end-->
+</blockquote>
+<!--sort-end-->
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../../SUPP/02-CO/01/05-step-4-background-path.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../../SUPP/02-CO/01/20-morph-tables.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../../SUPP/02-CO/01/05-step-4-background-path.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../../SUPP/02-CO/01/20-morph-tables.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../../elasticlunr.min.js"></script>
+        <script src="../../../mark.min.js"></script>
+        <script src="../../../searcher.js"></script>
+
+        <script src="../../../clipboard.min.js"></script>
+        <script src="../../../highlight.js"></script>
+        <script src="../../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

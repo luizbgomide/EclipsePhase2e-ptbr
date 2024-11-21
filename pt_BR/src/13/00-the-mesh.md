@@ -127,7 +127,7 @@
     - [Monitoramento Ativo](10-tracking.md#monitoramento-ativo)
   - [Contramedidas de Rastreamento](10-tracking.md#contramedidas-de-rastreamento)
     - [Mesh IDs Descartáveis](10-tracking.md#mesh-ids-descartáveis)
-    - [Serviços de Intermediação Anônima](10-tracking.md#serviços-de-intermediação-anônima)
+    - [Serviços de Proxy Anônimo](10-tracking.md#serviços-de-proxy-anônimo)
     - [Mascarando Mesh IDs](10-tracking.md#mascarando-mesh-ids)
 - [Hackeamento](11-hacking.md)
   - [Testes de Hackeamento](11-hacking.md#testes-de-hackeamento)

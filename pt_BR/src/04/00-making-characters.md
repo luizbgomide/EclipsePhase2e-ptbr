@@ -68,7 +68,7 @@
     - [Facilitador](08-step-5-aptitude-template.md#facilitador)
     - [Generalista](08-step-5-aptitude-template.md#generalista)
     - [Indagador](08-step-5-aptitude-template.md#indagador)
-    - [Operativo](08-step-5-aptitude-template.md#operativo)
+    - [Praticista](08-step-5-aptitude-template.md#praticista)
     - [Sobrevivente](08-step-5-aptitude-template.md#sobrevivente)
 - [Passo 6: Totalização de Perícias](09-step-6-total-skills.md)
 - [Passo 7: Idiomas](10-step-7-languages.md)

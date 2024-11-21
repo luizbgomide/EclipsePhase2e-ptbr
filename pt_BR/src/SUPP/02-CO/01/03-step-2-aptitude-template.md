@@ -33,7 +33,7 @@ Você era do tipo durão e briguento desde que nasceu? Você sempre teve esse br
 |               3                |                                                      |                **Facilitador** | Você é bom com pessoas, planejamentos e empreendimentos.                 | 15  | 15  | 10  | 20  | 10  | 20  |
 |               4                |                                                      |                **Generalista** | Você nunca se destacou, mas demonstra uma ampla competência.             | 15  | 15  | 15  | 15  | 15  | 15  |
 |               5                |                                                      |                  **Indagador** | Sua mente criativa é boa em descobrir as coisas.                         | 20  | 20  | 10  | 15  | 10  | 15  |
-|               6                |                                                      |                  **Operativo** | Você está mais confortável com a fisicalidade do que falar ou pensar.    | 10  | 15  | 20  | 10  | 20  | 15  |
+|               6                |                                                      |                 **Praticista** | Você está mais confortável com a fisicalidade do que falar ou pensar.    | 10  | 15  | 20  | 10  | 20  | 15  |
 |               7                |                                                      |               **Sobrevivente** | Você tem a vontade e a energia para se safar em situações difíceis.      | 15  | 10  | 15  | 10  | 20  | 20  |
 |               8                | <!--sort-fixed-->**ROLE DE<br>NOVO** |                                | <!--sort-restart-->                                                          |     |     |     |     |     |     |
 |                                |                         1–5                          |                **Aventureiro** | Seu tempo de reação rápido e pensamento ágil compensam a falta de visão. | 20  | 10  | 20  | 15  | 15  | 10  |
@@ -42,7 +42,7 @@ Você era do tipo durão e briguento desde que nasceu? Você sempre teve esse br
 |                                |                         1–5                          |                **Facilitador** | Você é bom com pessoas, planejamentos e empreendimentos.                 | 15  | 15  | 10  | 20  | 10  | 20  |
 |                                |                         6–10                         |                  **Indagador** | Sua mente criativa é boa em descobrir as coisas.                         | 20  | 20  | 10  | 15  | 10  | 15  |
 |               10               | <!--sort-fixed-->**ROLE DE<br>NOVO** |                                |                                                                          |     |     |     |     |     |     |
-|                                |                         1–5                          |                  **Operativo** | Você está mais confortável com a fisicalidade do que falar ou pensar.    | 10  | 15  | 20  | 10  | 20  | 15  |
+|                                |                         1–5                          |                 **Praticista** | Você está mais confortável com a fisicalidade do que falar ou pensar.    | 10  | 15  | 20  | 10  | 20  | 15  |
 |                                |                         6–10                         |               **Sobrevivente** | Você tem a vontade e a energia para se safar em situações difíceis.      | 15  | 10  | 15  | 10  | 20  | 20  |
 
 </div>

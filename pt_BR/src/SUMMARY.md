@@ -171,5 +171,7 @@
     - [Passo 1: Flex](SUPP/02-CO/01/02-step-1-flex.md)
     - [Passo 2: Modelo de Aptidões](SUPP/02-CO/01/03-step-2-aptitude-template.md)
     - [Passo 3: Língua Nativa](SUPP/02-CO/01/04-step-3-native-tongue.md)
+    - [Passo 4: Trajetória Antecedente](SUPP/02-CO/01/05-step-4-background-path.md)
+    - [Passo 9: Trajetória da Carreira](SUPP/02-CO/01/10-step-9-career-path.md)
     - [Tabelas de Morfos](SUPP/02-CO/01/20-morph-tables.md)
   - [Guia de Reconhecimento de Morfos](SUPP/02-CO/03/00-morph-recognition-guide.md)
