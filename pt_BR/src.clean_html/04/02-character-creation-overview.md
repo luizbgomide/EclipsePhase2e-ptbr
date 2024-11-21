@@ -5,7 +5,7 @@ Há 13 passos para fazer um personagem. Os três primeiros passos envolvem a esc
 <!-- CLEANED div class="stat-list" -->
 
 - **Passo 1: [Antecedente](04-step-1-background.md):** Sua origem e perícias vindas dela.
-- **Passo 2: [Carreira](05-step-2-carrer.md):** Sua profissão e perícias relevantes.
+- **Passo 2: [Carreira](05-step-2-career.md):** Sua profissão e perícias relevantes.
 - **Passo 3: [Interesse](06-step-3-interest.md):** Seu foco secundário e perícias relacionadas.
 - **Passo 4: [Facção](07-step-4-faction.md):** Escolha sua aliança.
 - **Passo 5: [Modelo de Aptidões](08-step-5-aptitude-template.md):** Determine seus atributos inerentes do ego.
