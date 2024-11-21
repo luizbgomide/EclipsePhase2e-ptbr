@@ -323,7 +323,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 
 <!-- CLEANED /div --><!-- CLEANED /div -->
 
-- Você faz parte de um grupo voluntário que defende seu habitat e lida com resolução de conflitos.
+- Você faz parte de um grupo voluntário que defende seu hab e lida com resolução de conflitos.
 - **Motivação:** +Proteger a Comunidade
 
 <!-- CLEANED /div -->
@@ -1728,7 +1728,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-### Técnico de Habitat
+### Téc-Hab
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
