@@ -34,7 +34,7 @@ Os diagramas para itens Restritos não podem ser compradas legalmente usando Rec
 
 ### Projetando Diagramas
 
-Se você não tiver um diagrama, você pode criar um. Isso requer dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para biowares, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
+Se você não tiver um diagrama, você pode criar um. Isso requer dois testes de perícia. O primeiro é um teste da perícia apropriada ao tipo de item: Aparelhagem: Eletrônica para eletrônicos pessoais, Medicina: Farmacologia para drogas, Medicina: Biotecnologia para bioimplantes, etc. Se bem-sucedido, isso fornece o conhecimento necessário para o projeto. Note que programadores podem colaborar com outros que tenham as perícias necessárias, incluindo sua musa ou uma ILA. Em seguida, você precisa de um Teste de Programação para efetivamente codificá-la.
 
 Os dois testes juntos constituem uma única ação de tarefa. O prazo é o mesmo da [aquisição de equipamentos](02-acquiring-gear.md), mas em meses em vez de horas (2 meses para Menor, 8 meses para Moderada, 24 meses para Maior). No entanto, a maioria dos programadores usam forques e simulespaços de tempo acelerado para apressar o processo, então uma semana subjetiva de programação pode ser feita em aproximadamente uma hora de tempo real. Apenas resultados maiores do Teste de Programação reduzem o prazo.
 
