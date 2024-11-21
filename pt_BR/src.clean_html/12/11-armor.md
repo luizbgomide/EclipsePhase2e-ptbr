@@ -4,36 +4,36 @@ A tecnologia de blindagens acompanhou o desenvolvimento de armas, fornecendo ní
 
 <!--sort-->
 
-| TIPO DE BLINDAGEM                                           | Tipo de Ware | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Notas                        |
-|:----------------------------------------------------------- |:------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
-| Vestuário Reforçado                                         |      —       |     +1     |    +3    |                 Men/1                 | Ocultável                    |
-| Casaco Reforçado                                            |      —       |     3      |    6     |                 Men/1                 |                              |
-| Colete de Proteção (Pesado)                                 |      —       |     6      |    12    |                 Mod/2                 |                              |
-| Colete de Proteção (Leve)                                   |      —       |     4      |    10    |                 Men/1                 | Ocultável                    |
-| Carregador Atlas                                            |      —       |    +10     |   +12    |                 Raro                  |                              |
-| Escudo Balístico                                            |      —       |     +6     |   +12    |                 Mod/2                 | Duas Mãos                    |
-| Traje de Batalha                                            |      —       |     25     |    25    |                Raro/R                 |                              |
-| Biotrama                                                    |      B       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
-| Armadura Corporal                                           |      —       |     8      |    14    |                 Mod/2                 |                              |
-| Armadura de Combate                                         |      —       |     12     |    16    |                Mai/R/3                |                              |
-| Traje de Segurança (Ativo)                                  |      —       |     3      |    8     |                 Men/1                 |                              |
-| Traje de Segurança (Inativo)                                |      —       |     3      |    2     |                                       | Ocultável                    |
-| Blindagem Dérmica                                           |      B       |     +4     |    +5    |                 Men/1                 |                              |
-| Traje Ambiental                                             |      —       |     25     |    16    |                 Mai/3                 |                              |
-| Armação de Exoandador                                       |      —       |     +0     |    +2    |                 Mai/3                 |                              |
-| Traje Rígido                                                |      —       |     20     |    18    |                 Raro                  |                              |
-| Blindagem de Combate Pesada                                 |      E       |    +16     |   +14    |                 Mai/3                 |                              |
-| Capacete                                                    |      —       |     +2     |    +2    |                 Men/1                 | VB 4/10 vs. golpes na cabeça |
-| Traje de Mergulho Espacial                                  |      —       |     25     |    8     |                 Mai/3                 |                              |
-| Blindagem Industrial                                        |      E       |     +6     |    +4    |                 Men/1                 |                              |
-| Blindagem de Combate Leve                                   |      E       |    +10     |    +8    |                 Mod/2                 |                              |
-| Escudo Antimotim                                            |      —       |     +3     |    +4    |                 Men/1                 | Choque, Toque Simples        |
-| Blindagem de Escamas/<!-- CLEANED wbr -->Carapaça |      B       |     +6     |    +7    |                 Mod/2                 |                              |
-| Segunda Pele                                                |      —       |     +2     |    +3    |                 Men/1                 | Ocultável                    |
-| Exoesqueleto Transportador                                  |      —       |     +0     |    +4    |                 Mod/2                 |                              |
-| Exoesqueleto Triciclo                                       |      —       |     +0     |    +4    |                 Mod/2                 |                              |
-| Traje de Vácuo (Leve)                                       |      —       |     5      |    2     |                 Mod/2                 |                              |
-| Traje de Vácuo (Padrão)                                     |      —       |     8      |    6     |                 Mai/3                 |                              |
+| TIPO DE BLINDAGEM                                           | Tipo de Implante | Energética | Cinética | Comp/<!-- CLEANED wbr -->PE | Notas                        |
+|:----------------------------------------------------------- |:----------------:|:----------:|:--------:|:-------------------------------------:|:---------------------------- |
+| Vestuário Reforçado                                         |        —         |     +1     |    +3    |                 Men/1                 | Ocultável                    |
+| Casaco Reforçado                                            |        —         |     3      |    6     |                 Men/1                 |                              |
+| Colete de Proteção (Pesado)                                 |        —         |     6      |    12    |                 Mod/2                 |                              |
+| Colete de Proteção (Leve)                                   |        —         |     4      |    10    |                 Men/1                 | Ocultável                    |
+| Carregador Atlas                                            |        —         |    +10     |   +12    |                 Raro                  |                              |
+| Escudo Balístico                                            |        —         |     +6     |   +12    |                 Mod/2                 | Duas Mãos                    |
+| Traje de Batalha                                            |        —         |     25     |    25    |                Raro/R                 |                              |
+| Biotrama                                                    |        B         |     +2     |    +3    |                 Men/1                 | Ocultável                    |
+| Armadura Corporal                                           |        —         |     8      |    14    |                 Mod/2                 |                              |
+| Armadura de Combate                                         |        —         |     12     |    16    |                Mai/R/3                |                              |
+| Traje de Segurança (Ativo)                                  |        —         |     3      |    8     |                 Men/1                 |                              |
+| Traje de Segurança (Inativo)                                |        —         |     3      |    2     |                                       | Ocultável                    |
+| Blindagem Dérmica                                           |        B         |     +4     |    +5    |                 Men/1                 |                              |
+| Traje Ambiental                                             |        —         |     25     |    16    |                 Mai/3                 |                              |
+| Armação de Exoandador                                       |        —         |     +0     |    +2    |                 Mai/3                 |                              |
+| Traje Rígido                                                |        —         |     20     |    18    |                 Raro                  |                              |
+| Blindagem de Combate Pesada                                 |        E         |    +16     |   +14    |                 Mai/3                 |                              |
+| Capacete                                                    |        —         |     +2     |    +2    |                 Men/1                 | VB 4/10 vs. golpes na cabeça |
+| Traje de Mergulho Espacial                                  |        —         |     25     |    8     |                 Mai/3                 |                              |
+| Blindagem Industrial                                        |        E         |     +6     |    +4    |                 Men/1                 |                              |
+| Blindagem de Combate Leve                                   |        E         |    +10     |    +8    |                 Mod/2                 |                              |
+| Escudo Antimotim                                            |        —         |     +3     |    +4    |                 Men/1                 | Choque, Toque Simples        |
+| Blindagem de Escamas/<!-- CLEANED wbr -->Carapaça |        B         |     +6     |    +7    |                 Mod/2                 |                              |
+| Segunda Pele                                                |        —         |     +2     |    +3    |                 Men/1                 | Ocultável                    |
+| Exoesqueleto Transportador                                  |        —         |     +0     |    +4    |                 Mod/2                 |                              |
+| Exoesqueleto Triciclo                                       |        —         |     +0     |    +4    |                 Mod/2                 |                              |
+| Traje de Vácuo (Leve)                                       |        —         |     5      |    2     |                 Mod/2                 |                              |
+| Traje de Vácuo (Padrão)                                     |        —         |     8      |    6     |                 Mai/3                 |                              |
 
 ## Energética vs. Cinética
 
@@ -59,7 +59,7 @@ Itens listados com um + antes do VB são acessórios ou leves o bastante para n�
 
 Qualquer blindagem com um VB de 11 ou mais é óbvia e visível, e levantará suspeitas ou atrairá a atenção da polícia na maioria dos habitats. Os VBs menores são considerados ocultáveis, recebendo um bônus +30 na perícia Infiltração para escondê-los da percepção visual, com exceção de alguns itens volumosos e óbvios, como trajes de vácuo, blindagens dérmicas, blindagens de escamas e macacões de segurança ativados.
 
-## Wares de Blindagem
+## Implantes de Blindagem
 
 <!--sort-->
 
