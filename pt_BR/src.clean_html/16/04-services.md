@@ -76,7 +76,7 @@ Estes serviços estão disponíveis em alguns habitats.
 
 **Suíte Privativa:** Serviços de suíte privativa por hora são oferecidos em muitos restaurantes, clubes noturnos, hotéis e estabelecimentos similares, que frequentemente têm clientes que desejam um espaço privado para reuniões ou outras funções.
 
-**Serviço Profissional:** Você pode precisar buscar os serviços de um profissional qualificado. Isso pode incluir qualquer coisa, desde reparos de armas, guarda-costas ou análise científica até devassar uma zona morta de vigilância ou hackear uma base de dados.
+**Serviço Profissional:** Você pode precisar buscar os serviços de um profissional qualificado. Isso pode incluir qualquer coisa, desde reparos de armas, escolta pessoal ou análise científica, até devassar uma zona morta de vigilância ou hackear uma base de dados.
 
 **Psicocirurgia:** Uma sessão de psicocirurgia de uma hora (subjetivamente mais longa com aceleração de tempo) em um simulespaço imersivo de alta fidelidade pode lhe ajudar a recuperar-se de estresse mental e trauma ([Cura Mental & Psicocirurgia](../12/19-mental-healing-and-psychosurgery.md)).
 
