@@ -50,7 +50,7 @@ O Passo 12 é divertido: escolher um morfo. O MJ nos dá os 6&nbsp;PM padrão pa
 
 Nossos pacotes de equipamento são baseados no tipo de campanha (Firewall) e na profissão(Malandro). Depois de conferi-los nós decidimos que eles estão ok.
 
-O morfo futura nos dá paradas de Inspiração 2, Manha 4 e Vigor 1. Nós temos Flex 1 do ego. O ware de neuromodulação do pacote de equipamentos de malandro fornece +1 em Manha, aumentando Manha para 5.
+O morfo futura nos dá paradas de Inspiração 2, Manha 4 e Vigor 1. Nós temos Flex 1 do ego. O implante de neuromodulação do pacote de equipamentos de malandro fornece +1 em Manha, aumentando Manha para 5.
 
 Passo 13 é escolher as motivações. Nós decidimos que a personagem provavelmente não é tão dedicada a sua facção, então nós nos livramos de +Interesses Lunares do Passo 4. Nós escolhemos três novas baseadas no histórico e objetivos da personagem: +Expandir Influência, +Independência e +Adrenalina.
 
