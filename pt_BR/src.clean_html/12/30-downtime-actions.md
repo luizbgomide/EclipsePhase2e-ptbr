@@ -30,7 +30,7 @@ Alternativamente, você pode evitar esse teste e apenas gastar Pontos de Rez. Ca
 
 ## Modificar-se
 
-Você tem a opção de aprimorar um morfo existente com wares. Você pode usar wares adquiridos previamente e não instalados, ou escolher novos wares (1 de complexidade Moderada ou 2 de complexidade Menor). A modificação inclui o tempo necessário em um tanque de cura com profissionais médicos supervisionando ou com o nanofabro e os técnicos de uma oficina de mods.
+Você tem a opção de aprimorar um morfo existente com implantes. Você pode usar implantes adquiridos previamente e não instalados, ou escolher novos implantes (1 de complexidade Moderada ou 2 de complexidade Menor). A modificação inclui o tempo necessário em um tanque de cura com profissionais médicos supervisionando ou com o nanofabro e os técnicos de uma oficina de mods.
 
 Tenha em mente que uma de suas próximas aventuras pode exigir um reencape — verifique com seu MJ antes de escolher essa opção.
 
@@ -109,7 +109,7 @@ Na primeira semana, Pivo lembra que deixou um PNJ, um colega sucateiro, abandona
 
 Pivo tem mais 4 Pontos de Rez para gastar, então ele decide gastar a segunda semana aumentando sua perícia de Tiro. 1&nbsp;PR permite que ele a aumente de 55 para 60. Se ele quisesse aumentar sua Aparelhagem: Aeroespacial, ele só poderia aumentá-la de 65 para 66 nessa semana, já que ele está acima do limite de 60 (ele teria que gastar 4 semanas adicionais de recesso para usar os outros 4 pontos de perícia e levar a perícia a 70). Então Pivo passa algum tempo praticando no estande e dessa vez acerta na mosca mais algumas vezes.
 
-Para a terceira semana, Pivo quer aumentar sua parada de Vigor. Ele decide modificar esse morfo, o que lhe permite escolher 2 ware de complexidade Menor ou 1 de Moderada. Ele escolhe o bioware novacardium, o que aumenta sua parada de Vigor de 1 para 2. Então Pivo gasta mais um tempo em um tanque de cura, jogando mais alguns jogos em RV, e um dos seus corações é melhorado (o que bombeia sangue pelo corpo, já que polvos tem três corações). Quando ele sai do tanque, ele se sente revigorado e pronto para a ação.
+Para a terceira semana, Pivo quer aumentar sua parada de Vigor. Ele decide modificar esse morfo, o que lhe permite escolher 2 implantes de complexidade Menor ou 1 de Moderada. Ele escolhe o bioimplante novacardium, o que aumenta sua parada de Vigor de 1 para 2. Então Pivo gasta mais um tempo em um tanque de cura, jogando mais alguns jogos em RV, e um dos seus corações é melhorado (o que bombeia sangue pelo corpo, já que polvos tem três corações). Quando ele sai do tanque, ele se sente revigorado e pronto para a ação.
 
 Na quarta semana, Pivo bate um papo com seus amigos e contatos para fortalecer sua rep. Ele quer guardar seus Pontos de Rez, então ele opta por fazer um teste de perícia. Ele decide usar suas perícias técnicas, e faz alguns favores para amigos sucateiros que precisam de reparos em suas naves. Ele faz um Teste de Aparelhagem: Aeroespacial com sua perícia de 65, e rola um 38. Isso é um sucesso maior, então ele tira 2 pontos de rep disso. Ele aumenta sua c-rep de 25 para 27. Então depois de uma semana remendando cascos e ajustando motores de fusão, Pivo ganhas uns toques e sua rep é impulsionada.
 
