@@ -36,7 +36,7 @@ Observe que essas regras lidam com dano e ferimentos de forma abstrata. Para ter
 
 Cada ferimento aplica um modificador −10 em todos os testes e −1 para Iniciativa cumulativos. Por exemplo, um personagem com 3 ferimentos sofre −30 em todas as ações e −3 na Iniciativa.
 
-Alguns traços, wares, drogas, truques psi e paradas permitem que você ignore modificadores de ferimento. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 ferimentos possa ser negado (−30 para ações e −3 para Iniciativa).
+Alguns traços, implantes, drogas, truques psi e paradas permitem que você ignore modificadores de ferimento. Esses efeitos são cumulativos, embora um máximo de modificadores de 3 ferimentos possa ser negado (−30 para ações e −3 para Iniciativa).
 
 **Derrubada:** Sempre que você receber um ferimento, faça imediatamente uma Prova de SOM. Os modificadores de ferimentos se aplicam. Se você falhar, você [cai prostrado](21-other-action-factors.md#conditions) e deve usar uma ação rápida para se levantar/reorientar. Carcaças (bots e veículos) se movendo com velocidade devem fazer um Teste de Atletismo ou Pilotagem para evitar bater.
 
