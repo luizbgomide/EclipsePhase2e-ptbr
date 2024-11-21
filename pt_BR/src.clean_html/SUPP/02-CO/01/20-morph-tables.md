@@ -120,7 +120,7 @@
 |             35–37             | [Hipergibão](../03/03-pod-biomorphs.md#hypergibbon)                                      |    2     |
 |             38–41             | [Novacarangu](../03/03-pod-biomorphs.md#novacrab)                                        |    4     |
 |             42–53             | [Prod de Prazer](../03/03-pod-biomorphs.md#pleasure-pod)                                 |    4     |
-|              54               | [Rasgasa](../03/03-pod-biomorphs.md#ripwing)                                             |    4     |
+|              54               | [Rasga-Asa](../03/03-pod-biomorphs.md#ripwing)                                           |    4     |
 |             55–56             | [Samsa](../03/03-pod-biomorphs.md#samsa)                                                 |    5     |
 |              57               | [Serelepe](../03/04-exomorph-biomorphs.md#scurrier)                                      |    2     |
 |              58               | [Serelepe (Quadrúpede)](../03/04-exomorph-biomorphs.md#quadruped-variant)                |    2     |
