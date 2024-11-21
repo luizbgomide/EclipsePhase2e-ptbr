@@ -1432,7 +1432,7 @@ Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-
 
 </div></div>
 
-**You excel at convincing others, even when it is not in their best interests.**
+**You seek to understand how the universe works — or at least certain elements of it.**
 
 Roll d100 or choose a career path. Then jump to [Step 10: Interests](11-step-10-interests.md).
 
