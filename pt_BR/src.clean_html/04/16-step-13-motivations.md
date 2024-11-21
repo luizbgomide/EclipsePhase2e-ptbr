@@ -27,7 +27,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 <!--sort-->
 
 - Aceitação
-- Pessoas IGA
+- Pessoalidade de IGA
 - Contato Alienígena
 - Anarquismo
 - Autonomia

@@ -1,6 +1,6 @@
 # Psicocirurgia
 
-A psicocirurgia é a alteração cirúrgica e seletiva da mente transumana. É uma campo separado da modificação genética neural (que altera o código genético), implantação de ware neural (adicionar insertos cibernéticos ou biotecnológicos no cérebro ou sistema nervoso), ou hack cerebral (ataques de programas em cérebros computacionais, insertos neurais e infomorfos), embora às vezes eles sejam combinados.
+A psicocirurgia é a alteração cirúrgica e seletiva da mente transumana. É uma campo separado da modificação genética neural (que altera o código genético), implantação de implantes neurais (adicionar insertos cibernéticos ou biotecnológicos no cérebro ou sistema nervoso), ou hack cerebral (ataques de programas em cérebros computacionais, insertos neurais e infomorfos), embora às vezes eles sejam combinados.
 
 Psicocirurgia é realizada em uma estado mental digital. É feito upload de uma emulação em tempo real, backup ou forque do indivíduo e executado em um simulespaço. O indivíduo não precisa ser voluntário, e nesses casos, suas permissões de RV são restritas. Vários ambientes de simulespaço para psicocirurgia estão disponíveis, cada um personalizado para objetivos psicocirúrgicos específicos e programados com uma seleção minuciosa de opções de tratamento psicoterápico.
 

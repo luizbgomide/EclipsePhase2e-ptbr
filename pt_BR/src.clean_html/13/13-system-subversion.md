@@ -12,9 +12,9 @@ Além de exceder seus privilégios, há algumas técnicas que são explicitament
 
 Você pode tentar descriptografar um arquivo criptografado sem ter autorização adequada ([Quebra de Código](05-authentication-and-encryption.md#codebreaking)).
 
-## Controlar Ware
+## Controlar Implante
 
-Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nó mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripting) para manipular esse ware no futuro, entre outros usos criativos.
+Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Implante Mental](17-mindware-hacking.md)), ou o nó mestre de uma PAN, você pode ter acesso privilegiado aos implantes do morfo — além de poder hackear o implante diretamente. Um hacker pode usar isso para (des)ativar o implante, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripting) para manipular esse implante no futuro, entre outros usos criativos.
 
 ## Desativar Mecanismos de Segurança
 
@@ -98,7 +98,7 @@ Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuár
 
 ## Grampear Sentidos
 
-Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
+Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Implante Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
 
 Os dados sensoriais também podem ser gravados ou transmitidos como XP.
 

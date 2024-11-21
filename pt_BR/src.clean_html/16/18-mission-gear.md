@@ -39,7 +39,7 @@ Essas tecnologias são frequentemente usadas por desbravadores, sucateiros espac
 
 <!--sort-->
 
-**Ferramentas de Desmontagem:** Essa coleção de ferramentas é útil para operações de recuperação, desmanche de destroços, ou desmontar qualquer coisa, desde uma sala de habitat até um veículo ou sintemorfo. Elas incluem tochas de plasma, cortadores laser, mandíbulas pneumáticas, e ferramentas de materiais inteligentes como chaves de boca e ajustáveis que podem ser adaptadas a uma grande variedade de conexões e encaixes. Juntas, essas ferramentas são de tamanho médio, geralmente carregadas por uma mula-robô.
+**Ferramentas de Desmontagem:** Essa coleção de ferramentas é útil para operações de recuperação, desmanche de destroços, ou desmontar qualquer coisa, desde uma sala de habitat até um veículo ou sintemorfo. Elas incluem tochas de plasma, cortadores laser, mandíbulas pneumáticas, e ferramentas de materiais inteligentes como chaves de boca e ajustáveis que podem ser adaptadas a uma grande variedade de conexões e encaixes. Juntas, essas ferramentas são de tamanho médio, geralmente carregadas por uma robomula.
 
 **Cargas de Supertermite:** Essas cargas de demolição altamente estáveis e poderosas são feitas de uma combinação de nanometais e óxidos de metal. Uma única carga pode ser usada para criar uma explosão infligindo VD 6d10 +10 \[43\] quando instalada com Aparelhagem: Demolições. Uma carga pode ser moldada com um Teste de Aparelhagem: Demolições bem-sucedido, focando a explosão em uma direção de 90° específica (por exemplo, para explodir uma porta). Isso triplica o dano da explosão na direção focada; em todas as outras direções o dano é reduzido para um terço. Múltiplas cargas aplicam um efeito cumulativo.
 

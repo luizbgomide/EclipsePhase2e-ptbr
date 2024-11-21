@@ -12,7 +12,7 @@ Os MJs podem ajustar esse valor para definir o nível de dificuldade da missão.
 
 A quantidade de PM que o MJ fornece também representa os recursos atribuídos à missão. A logística da Firewall não vai muito bem? Diminua a quantidade. Os jogadores estão trabalhando em nome de um oligarca com uma conta sem limite de gastos? Aumente alguns pontos.
 
-## Aumentando Seu PM
+## Aumentando seu PM
 
 Há três maneiras de aumentar seu PM:
 
@@ -22,7 +22,7 @@ Há três maneiras de aumentar seu PM:
 
 ## Gastando Pontos de Morfo
 
-Os Pontos de Morfo são gastos como descrito no [Passo 12 de Criando Personagens](../04/15-step-12-starting-morph-gear.md). Você pode gastar seu PM no morfo (ou morfos) em si, em traços positivos de morfo, wares, ou Flex. Assim como na criação de personagem, você é encorajado a escolher morfos que se encaixem na visão do personagem e nos parâmetros da missão.
+Os Pontos de Morfo são gastos como descrito no [Passo 12 de Criando Personagens](../04/15-step-12-starting-morph-gear.md). Você pode gastar seu PM no morfo (ou morfos) em si, em traços positivos de morfo, implantes, ou Flex. Assim como na criação de personagem, você é encorajado a escolher morfos que se encaixem na visão do personagem e nos parâmetros da missão.
 
 ### Disponibilidade de Morfos
 
@@ -32,9 +32,9 @@ As condições locais podem afetar esse Teste de Disponibilidade. Um banco de co
 
 Você pode gastar favores de rep para aumentar a Disponibilidade de um morfo. Um favor menor aplica um modificador +10, um moderado +20 e um maior +30. O nível de rep em questão deve ser aplicável à situação, e você deve ter sucesso em um Teste de Rep.
 
-O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat eremita na borda do Sistema Solar pode ter apenas chapeados e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrosos. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
+O MJ tem a última palavra sobre quais morfos estão disponíveis. Um habitat eremita na borda do Sistema Solar pode ter apenas chapeados e sintes disponíveis. Um habitat bioconservador pode não ter nenhum sintemorfo ou morfo elevado em estoque. As clínicas marcianas podem ter pouca coisa além de ferrugeiros. Uma operação guanxi de furtiprojeção pode conseguir qualquer biomorfo que desejar, mas todos eles vem com um traço Vício, doidos pela substância que essa operação está vendendo. E é provável que poucos habitats tenham ceifeiros disponíveis — ou até que os permitam mesmo que tenham.
 
-Se você adquirir ware com Pontos de Morfo ou Pontos de Equipamento ao mesmo tempo que adquire um morfo, o ware já vem instalado no morfo.
+Se você adquirir implante com Pontos de Morfo ou Pontos de Equipamento ao mesmo tempo que adquire um morfo, o implante já vem instalado no morfo.
 
 ## Reencape e Pontos de Morfo
 
@@ -46,7 +46,7 @@ Recursos, favores de rep, e traços negativos podem ser usados para aumentar os 
 
 ## Modificando Morfos
 
-Você pode personalizar um morfo que você já adquiriu. Isso requer as perícias, ferramentas e tempo apropriados. Biomorfos devem ser modificados em uma clínica (oficina de Medicina: Biotecnologia) ou tanque de cura; sintemorfos exigem uma oficina de Aparelhagem: Robótica. Se você não possuir as perícias e equipamentos, você deve adquirir serviço profissional (que inclui os equipamentos) usando rep ou o traço Recursos. O ware em si deve ser adquirido separadamente, pelas regras normais de aquisição de equipamentos. Se o ware for restrito, você vai precisar de serviços do mercado negro, o que pode exigir mais custo ou esforço para encontrar. Essa é uma boa oportunidade para interpretar redes de rep e contatos. Oficinas ilegais dependem da sua reputação tanto quanto serviços legítimos, mas também há uma chance maior de elas não serem confiáveis ou de você entrar em uma enrascada. Por outro lado, elas também podem conseguir encontrar aprimoramentos de ponta ou experimentais — embora eles possam não funcionar exatamente como anunciado.
+Você pode personalizar um morfo que você já adquiriu. Isso requer as perícias, ferramentas e tempo apropriados. Biomorfos devem ser modificados em uma clínica (oficina de Medicina: Biotecnologia) ou tanque de cura; sintemorfos exigem uma oficina de Aparelhagem: Robótica. Se você não possuir as perícias e equipamentos, você deve adquirir serviço profissional (que inclui os equipamentos) usando rep ou o traço Recursos. O implante em si deve ser adquirido separadamente, pelas regras normais de aquisição de equipamentos. Se o implante for restrito, você vai precisar de serviços do mercado negro, o que pode exigir mais custo ou esforço para encontrar. Essa é uma boa oportunidade para interpretar redes de rep e contatos. Oficinas ilegais dependem da sua reputação tanto quanto serviços legítimos, mas também há uma chance maior de elas não serem confiáveis ou de você entrar em uma enrascada. Por outro lado, elas também podem conseguir encontrar aprimoramentos de ponta ou experimentais — embora eles possam não funcionar exatamente como anunciado.
 
 O prazo para modificar um morfo é o mesmo para aquisição de equipamentos: 2 horas para itens de complexidade Menor, 8 horas para Moderada, e 24 para Maior.
 
@@ -85,7 +85,7 @@ Sava prefere morfos tipo fúria, então ela tenta um desses primeiro. A Disponib
 
 Sava tenta de novo por um morfo tipo fantasma: mesma Disponibilidade, mesmo bônus do MJ. Ela consegue um 17 dessa vez: o morfo está no estoque.
 
-Sava quer neuraquim com esse morfo, que é um ware de complexidade Maior — um custo extra de 3&nbsp;PM. Sava tem apenas 2&nbsp;PM sobrando (os 8&nbsp;PM originais menos o custo do morfo de 6&nbsp;PM), então ela opta por pegar um traço Negativo com um Bônus de PM de 1. O MJ tem uma ideia para isso, e dá ao morfo fantasma o traço Resíduo Memorial.
+Sava quer neuraquim com esse morfo, que é um implante de complexidade Maior — um custo extra de 3&nbsp;PM. Sava tem apenas 2&nbsp;PM sobrando (os 8&nbsp;PM originais menos o custo do morfo de 6&nbsp;PM), então ela opta por pegar um traço Negativo com um Bônus de PM de 1. O MJ tem uma ideia para isso, e dá ao morfo fantasma o traço Resíduo Memorial.
 
 Uma semana depois, Sava é morta em uma armadilha. A equipe de segurança da hipercorp recupera a pilha cortical e a reencapa, mas desta vez o MJ dá a Sava apenas 7&nbsp;PM para usar. Sava quer muito o neuraquim de novo, então ela está preparada para gastar um favor de rep para aumentar seu PM. No entanto, primeiro Sava rola para ver se um morfo fúria está disponível desta vez. O número alvo é o mesmo (60) e ela rola um 29! Parece que a hipercorp viu o pedido anterior de Sava e conseguiu um morfo fúria para a estação antecipando a necessidade. Sava precisa de 9&nbsp;PM no total, então ela usa os 7&nbsp;PM que tem e gasta um favor Moderado da i-rep para conseguir mais 2. Sava diz à Firewall que ela acredita que há exsurgentes na estação, e o grupo mexe uns pauzinhos para conseguir o que ela precisa.
 

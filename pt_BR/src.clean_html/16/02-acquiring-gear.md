@@ -22,7 +22,7 @@ Com a aprovação do MJ, os PJs podem juntar seus PE e compartilhar uns com os o
 
 Os PE só podem ser gastos na fase de preparação inicial de cada missão. O PE não gasto é perdido; ele não pode ser guardado. Se você precisar adquirir equipamentos durante uma operação, use as regras para aquisição de equipamentos durante missões.
 
-**Wares:** Observe que ciberwares, biowares, nanowares, etc., pode ser comprado com Pontos de Morfo ou Pontos de Equipamento.
+**Implantes:** Observe que ciberimplantes, bioimplantes, nanoimplantes, etc., pode ser comprado com Pontos de Morfo ou Pontos de Equipamento.
 
 <!-- CLEANED blockquote class="table" -->
 

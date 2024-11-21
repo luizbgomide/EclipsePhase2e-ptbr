@@ -222,7 +222,7 @@ O morfo é bastante flexível e ágil, capaz de contorções graciosas e posiç�
 
 **Traço de ▲ Ego • Custo PP: 1**
 
-Você está acostumado a um tipo específico de morfo (ex.: quicantes, ferrosos, agentes ou flexbots) e não precisa fazer Testes de Integração quando o encapa. Você pode escolher esse traço mais de uma vez para morfos diferentes.
+Você está acostumado a um tipo específico de morfo (ex.: quicantes, ferrugeiros, agentes ou flexbots) e não precisa fazer Testes de Integração quando o encapa. Você pode escolher esse traço mais de uma vez para morfos diferentes.
 
 ### Imunidade Natural
 
@@ -553,7 +553,7 @@ Esse traço só está disponível para intocados. O morfo não foi genecorrigido
 
 **Traço de ▼ Morfo • Bônus PM: 3**
 
-Esse traço só está disponível para biomorfos. Este morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser melhorado com nenhum bioware, cyberware, ou nanoware adicional.
+Esse traço só está disponível para biomorfos. Este morfo rejeita implantes que já não fazem parte do seu design. Ele não pode ser atualizado com nenhum bioimplante, ciberimplante, ou nanoimplante adicional.
 
 ### Crise de Identidade
 

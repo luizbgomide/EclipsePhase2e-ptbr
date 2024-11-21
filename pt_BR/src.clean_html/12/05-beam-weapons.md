@@ -6,18 +6,18 @@ Todas as armas de feixe são equipadas uma bateria comum e uma [bateria nuclear]
 
 <!--sort-->
 
-| ARMAS DE FEIXE                                         | Tipo de Ware | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<!-- CLEANED wbr -->PE | Notas                                                         |
-|:------------------------------------------------------ |:------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |
-| Laser de Batalha                                       |      —       |     3d10 +4 \[21\]      |     SA/DR/TA     |   50    |   150   |                Mai/R/3                | Fixa, Longa                                                   |
-| Laser de Mão                                           |      CE      |    1d10 + 1d6 \[9\]     |        SA        |   10    |   75    |                Mod/R/2                | Ocultável                                                     |
-| Pulsador Laser (Letal)                                 |      —       |     2d10 + 2 \[13\]     |     SA/DR/TA     |   30    |   100   |                Mod/R/2                | Derrubada, Duas Mãos, Longa                                   |
-| <!--sort-union-->Pulsador Laser (Atordoante) |      —       |        1d6 \[4\]        |        TU        |         |         |                                       | Área de Efeito (uniforme, 1&nbsp;m), Choque, Duas Mãos, Longa |
-| Agonizador MO (Dor)                                    |      —       |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
-| <!--sort-union-->Agonizador MO (Torradeira)  |      —       |       2d10 \[11\]       |        TU        |         |         |                                       | Antiblindagem, Dor (apenas biomorfos)                         |
-| Lançador de Feixes de Partículas                       |      —       |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
-| Atordoador                                             |      —       |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
+| ARMAS DE FEIXE                                         | Tipo de Implante | Valor de Dano \[Média\] | Modos de Disparo | Munição | Alcance | Comp/<!-- CLEANED wbr -->PE | Notas                                                         |
+|:------------------------------------------------------ |:----------------:|:-------------------------:|:----------------:|:-------:|:-------:|:-------------------------------------:|:------------------------------------------------------------- |
+| Laser de Batalha                                       |        —         |     3d10 +4 \[21\]      |     SA/DR/TA     |   50    |   150   |                Mai/R/3                | Fixa, Longa                                                   |
+| Laser de Mão                                           |        CE        |    1d10 + 1d6 \[9\]     |        SA        |   10    |   75    |                Mod/R/2                | Ocultável                                                     |
+| Pulsador Laser (Letal)                                 |        —         |     2d10 + 2 \[13\]     |     SA/DR/TA     |   30    |   100   |                Mod/R/2                | Derrubada, Duas Mãos, Longa                                   |
+| <!--sort-union-->Pulsador Laser (Atordoante) |        —         |        1d6 \[4\]        |        TU        |         |         |                                       | Área de Efeito (uniforme, 1&nbsp;m), Choque, Duas Mãos, Longa |
+| Agonizador MO (Dor)                                    |        —         |             —             |        SA        |   20    |   15    |                 Mod/2                 | Dor (apenas biomorfos)                                        |
+| <!--sort-union-->Agonizador MO (Torradeira)  |        —         |       2d10 \[11\]       |        TU        |         |         |                                       | Antiblindagem, Dor (apenas biomorfos)                         |
+| Lançador de Feixes de Partículas                       |        —         |     2d10 + 6 \[17\]     |      SA/DR       |   25    |   50    |                Mai/R/3                | Derrubada, Duas Mãos, Longa                                   |
+| Atordoador                                             |        —         |        1d6 \[4\]        |        SA        |   12    |   50    |                 Mod/2                 | Choque                                                        |
 
-## Wares de Armas de Feixe
+## Implantes de Armas de Feixe
 
 **Laser de Mão:** O morfo tem uma arma laser implantada em seu antebraço, com um guia de onda flexível chegando até uma lente localizada entre os dois primeiros nós da mão dominante do morfo. As baterias do laser são implantadas e não são trocadas facilmente em biomorfos.
 

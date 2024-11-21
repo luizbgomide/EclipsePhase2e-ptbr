@@ -1,23 +1,23 @@
 # Ampliações Mentais
 
-A maioria das ampliações de ware mental aprimoram o cérebro e as funções mentais.
+A maioria das ampliações de implantes cefálicos aprimoram o cérebro e as funções mentais.
 
 <!--sort-->
 
-| AMPLIAÇÕES MENTAIS          | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                              |
-|:--------------------------- |:------------:|:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------- |
-| Cibercórtex                 |      C       |                 Mod/2                 | Auxílio cerebral para animais inteligentes, +10 em Provas de COG de compreensão, +10 na Perícia Exótica: Trato Animal. |
-| Módulo de Dados             |      CE      |                 Men/1                 | Armazenamento de dados criptografados.                                                                                 |
-| Detonador Cortical          |      CE      |                 Men/1                 | Apaga e derrete sua pilha cortical se for morto.                                                                       |
-| Acoplagem Drone             |     CEM      |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                                              |
-| Longiprojetor de Emergência |      CE      |                Mai/R/3                | Longiprojetor de neutrino para egoprojeção de emergência se for morto/ativado.                                         |
-| Módulo Carona Virtual       |      CE      |                 Men/1                 | Carrega um infomorfo.                                                                                                  |
-| Trava Memorial              |     CEM      |                 Men/1                 | Bloqueia retenção/gravação de memória quando ativado.                                                                  |
-| Amplificador Mental         |     EMN      |                 Mai/3                 | Acelera a mente. +2 em Inspiração.                                                                                     |
-| Multitarefa                 |     CEM      |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                             |
-| Múltiplas Personalidades    |      BM      |                 Mai/3                 | Cérebro contém vários egos.                                                                                            |
-| Ligação de Backup Remoto    |      CE      |                 Mai/3                 | Longiprojetor quântico para backups remotos a cada 48 horas.                                                           |
-| Carregador Pericial         |     CEM      |                 Mai/3                 | Pode usar 120 pontos de periciapps.                                                                                    |
+| AMPLIAÇÕES MENTAIS          | Tipo de Implante | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                                                              |
+|:--------------------------- |:----------------:|:-------------------------------------:|:---------------------------------------------------------------------------------------------------------------------- |
+| Cibercórtex                 |        C         |                 Mod/2                 | Auxílio cerebral para animais inteligentes, +10 em Provas de COG de compreensão, +10 na Perícia Exótica: Trato Animal. |
+| Módulo de Dados             |        CE        |                 Men/1                 | Armazenamento de dados criptografados.                                                                                 |
+| Detonador Cortical          |        CE        |                 Men/1                 | Apaga e derrete sua pilha cortical se for morto.                                                                       |
+| Acoplagem Drone             |       CEM        |                 Mod/2                 | Ignore o modificador −10 quando encarnar.                                                                              |
+| Longiprojetor de Emergência |        CE        |                Mai/R/3                | Longiprojetor de neutrino para egoprojeção de emergência se for morto/ativado.                                         |
+| Módulo Carona Virtual       |        CE        |                 Men/1                 | Carrega um infomorfo.                                                                                                  |
+| Trava Memorial              |       CEM        |                 Men/1                 | Bloqueia retenção/gravação de memória quando ativado.                                                                  |
+| Amplificador Mental         |       EMN        |                 Mai/3                 | Acelera a mente. +2 em Inspiração.                                                                                     |
+| Multitarefa                 |       CEM        |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração.                                                             |
+| Múltiplas Personalidades    |        BM        |                 Mai/3                 | Cérebro contém vários egos.                                                                                            |
+| Ligação de Backup Remoto    |        CE        |                 Mai/3                 | Longiprojetor quântico para backups remotos a cada 48 horas.                                                           |
+| Carregador Pericial         |       CEM        |                 Mai/3                 | Pode usar 120 pontos de periciapps.                                                                                    |
 
 <!--sort-->
 

@@ -73,7 +73,7 @@ Você vivia no um por cento do topo, com abundância de riqueza e recursos.
 
 ## Arrendado
 
-Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hipercorps fora da Terra.
+Com nada a perder, você se vendeu para um contrato de trabalho com as hipercorps fora da Terra.
 
 <!--sort-->
 
@@ -85,7 +85,7 @@ Com nada a perder, você vendeu a si mesmo em um contrato de trabalho para as hi
 | Interface                                                                 | 40 |
 | Percepção                                                                 | 20 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Mineração de Asteroides, Operações de Habitat, Terraformação_</p> | 60 |
-| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Jogatina, Mercados Negros, Vendedores de XP_</p> | 30 |
+| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Jogatina, Mercados Negros, Traficantes de XP_</p> | 30 |
 
 ## Infovida
 
@@ -104,7 +104,7 @@ Você é uma IGA, uma consciência digital nascida de códigos programados.
 
 ## Isolado
 
-Você criou uma existência autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.
+Você sobreviveu de forma autoexilada em um habitat ou uma nave remotos na periferia do espaço ocupado.
 
 <!--sort-->
 

@@ -2,31 +2,31 @@
 
 Em uma era de armamentos à distância incapacitantes e letais, alguém equipado para combate próximo geralmente está em desvantagem. Ainda assim, até mesmo combatentes experientes receiam ficar ao alcance de certos sintemorfos ou biomorfos bastante ampliados.
 
-Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e wares de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
+Exceto quando informado, todos os implementos de luta são usados com a perícia Luta. Armas e implantes de luta podem ser revestidos com drogas ou toxinas ([Armas Revestidas](15-special-attacks.md#coated-weapons)), tais como venenos ou nanotoxinas secretados de uma [glândula de veneno](../16/10-combat-augmentations.md) ou de [nanotoxinas](../16/15-chemicals-drugs-and-toxins.md#nanotoxins) implantadas.
 
 <!--sort-->
 
-| ATAQUES DE LUTA         | Tipo de Ware | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
-|:----------------------- |:------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
-| Garras                  |     BCE      |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
-| Bastão                  |      —       |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
-| Luvas Densiplast        |      —       |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
-| Machado Diamantado      |      —       |     2d10 + 3 \[14\]     |                 Men/1                 | Antiblindagem, Duas Mãos, Extensão                    |
-| Enguiware               |     BCE      |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
-| Bastão Extensível       |      —       |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
-| Cortador Flex           |      —       |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
-| Faca                    |      —       |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
-| Espada de Monofilamento |      —       |     2d10 + 2 \[13\]     |                Men/R/1                | Antiblindagem, Extensão                               |
-| Garrote de Monofio      |      —       |       3d10 \[17\]       |                Mod/R/2                | Antiblindagem, Frágil                                 |
-| Lança de Pistão         |      —       |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Antiblindagem, Duas Mãos, Extensão (+20)              |
-| Espeto de Pistão        |      CE      |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
-| Bastão de Choque        |      —       |       1d10 \[6\]        |                 Men/1                 | Choque, Extensão, Toque Simples                       |
-| Luva de Choque          |      —       |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
-| Esporão                 |      CE      |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
-| Desarmado (Biomorfo)    |      —       |        1d6 \[4\]        |                                       |                                                       |
-| Desarmado (Carcaça)     |      —       |        2d6 \[7\]        |                                       |                                                       |
-| Vibrolâmina             |      —       |    1d10 + 1d6 \[9\]     |                 Men/1                 | Antiblindagem/+2d10&nbsp;VD quando serrando           |
-| Faca-Ferrão             |      —       |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
+| ATAQUES DE LUTA         | Tipo de Implante | Valor de Dano \[Média\] | Comp/<!-- CLEANED wbr -->PE | Notas                                                 |
+|:----------------------- |:----------------:|:-------------------------:|:-------------------------------------:|:----------------------------------------------------- |
+| Garras                  |       BCE        |        2d6 \[7\]        |                 Men/1                 | Ocultável                                             |
+| Bastão                  |        —         |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
+| Luvas Densiplast        |        —         |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
+| Machado Diamantado      |        —         |     2d10 + 3 \[14\]     |                 Men/1                 | Antiblindagem, Duas Mãos, Extensão                    |
+| Enguiônico              |       BCE        |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
+| Bastão Extensível       |        —         |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
+| Cortador Flex           |        —         |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
+| Faca                    |        —         |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
+| Espada de Monofilamento |        —         |     2d10 + 2 \[13\]     |                Men/R/1                | Antiblindagem, Extensão                               |
+| Garrote de Monofio      |        —         |       3d10 \[17\]       |                Mod/R/2                | Antiblindagem, Frágil                                 |
+| Lança de Pistão         |        —         |   2d10 + 2\* \[13\]   |              Men/R/1\*              | Antiblindagem, Duas Mãos, Extensão (+20)              |
+| Espeto de Pistão        |        CE        |     2d10\* \[11\]     |               Men/1\*               | Antiblindagem, Ocultável                              |
+| Bastão de Choque        |        —         |       1d10 \[6\]        |                 Men/1                 | Choque, Extensão, Toque Simples                       |
+| Luva de Choque          |        —         |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Toque Simples                                 |
+| Esporão                 |        CE        |     2d6 + 3 \[10\]      |                Men/R/1                | Ocultável                                             |
+| Desarmado (Biomorfo)    |        —         |        1d6 \[4\]        |                                       |                                                       |
+| Desarmado (Carcaça)     |        —         |        2d6 \[7\]        |                                       |                                                       |
+| Vibrolâmina             |        —         |    1d10 + 1d6 \[9\]     |                 Men/1                 | Antiblindagem/+2d10&nbsp;VD quando serrando           |
+| Faca-Ferrão             |        —         |     1d10 + 2 \[8\]      |                Men/R/1                | +2d10&nbsp;VD no vácuo/mar profundo com sucesso maior |
 
 <!-- CLEANED div class="indent" -->
 
@@ -34,15 +34,15 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 
 <!-- CLEANED /div -->
 
-## Wares de Luta
+## Implantes de Luta
 
-Armamentos implantados podem ser combinados com enguiware para produzir choques elétricos.
+Armamentos implantados podem ser combinados com enguiônico para produzir choques elétricos.
 
 <!--sort-->
 
 **Garras:** O morfo possui garras retráteis como as de gato. Essas garras não interferem na destreza manual e são afiadas. Elas são legais na maioria dos habitats e consideradas tanto ferramentas quanto armas. Um conjunto de garras em cada mão conta como uma única arma.
 
-**Enguiware:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioware) ou a colocação de painéis eletrificados (equipaware) permitem que você atordoe com um toque chocante. Enguiwares podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
+**Enguiônico:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioimplante) ou a colocação de painéis eletrificados (equimplante) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
 **Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar blindagens modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora blindagem).
 
@@ -72,7 +72,7 @@ As armas de luta variam de arcaicas até de alta tecnologia:
 
 **Garrote de Monofio:** Essa arma de assassinos é feita de um perigoso fio quase monomolecular enrolado em um carretel com duas alças. Uma alça segura o carretel enquanto a outra estende o fio para que ele possa ser enrolado em torno do alvo (geralmente o pescoço ou membros) e corta através dele quando puxado. No entanto, a resistência a tração do monofilamento é baixa; ele se parte com uma falha maior. A arma é usada com a Perícia Exótica: Garrote de Monofio.
 
-**Lança de Pistão:** Uma versão em lança do ware espeto de pistão.
+**Lança de Pistão:** Uma versão em lança do implante espeto de pistão.
 
 **Bastão de Choque:** Usado pela polícia, esses bastões provocam um choque elétrico quando ativados.
 

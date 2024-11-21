@@ -1,23 +1,23 @@
 # Ampliações Sociais
 
-Os wares sociais, incluindo mods cosméticos, impactam suas interações com os outros e também incluem modificações cosméticos.
+Os implantes sociais, incluindo mods cosméticos, impactam suas interações com os outros e também incluem modificações cosméticos.
 
 <!--sort-->
 
-| AMPLIAÇÕES SOCIAIS     | Tipo de Ware | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
-|:---------------------- |:------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
-| Escultura Corporal     |     BCE      |                 Men/1                 | Mods corporais personalizados.                                                    |
-| Pele Camaleão          |      BE      |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
-| Metabolismo Limpo      |      B       |                 Men/1                 | Bactérias simbióticas, flora intestinal, e glândulas mantêm você limpo e fresco.  |
-| Controle Endócrino     |      BM      |                 Mai/3                 | Controle de hormônios e emoções. + 2 em Manha.                                    |
-| Feromônios Aprimorados |      B       |                 Mod/2                 | +10 em Persuasão e Provocação com biomorfos da mesma espécie.                     |
-| Nanotats               |      N       |                 Men/1                 | Tatuagens de nanobots controladas pela mesh.                                      |
-| Neuromodulação         |      MN      |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                            |
-| Alteração de Odor      |      B       |                 Men/1                 | Excreção de odores projetados.                                                    |
-| Mudança Sexual         |      B       |                 Mod/2                 | Alterne entre masculino, feminino, intersexo ou assexuado em 1 semana.            |
-| Pele-Flex              |      N       |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
-| Cobertura Sintética    |      C       |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
-| Máscara Sintética      |      E       |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
+| AMPLIAÇÕES SOCIAIS     | Tipo de Implante | Comp/<!-- CLEANED wbr -->PE | Descrição                                                                         |
+|:---------------------- |:----------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
+| Escultura Corporal     |       BCE        |                 Men/1                 | Mods corporais personalizados.                                                    |
+| Pele Camaleão          |        BE        |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
+| Metabolismo Limpo      |        B         |                 Men/1                 | Bactérias simbióticas, flora intestinal, e glândulas mantêm você limpo e fresco.  |
+| Controle Endócrino     |        BM        |                 Mai/3                 | Controle de hormônios e emoções. + 2 em Manha.                                    |
+| Feromônios Aprimorados |        B         |                 Mod/2                 | +10 em Persuasão e Provocação com biomorfos da mesma espécie.                     |
+| Nanotats               |        N         |                 Men/1                 | Tatuagens de nanobots controladas pela mesh.                                      |
+| Neuromodulação         |        MN        |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                            |
+| Alteração de Odor      |        B         |                 Men/1                 | Excreção de odores projetados.                                                    |
+| Mudança Sexual         |        B         |                 Mod/2                 | Alterne entre masculino, feminino, intersexo ou assexuado em 1 semana.            |
+| Pele-Flex              |        N         |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
+| Cobertura Sintética    |        C         |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
+| Máscara Sintética      |        E         |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
 
 <!--sort-->
 
@@ -33,7 +33,7 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 
 **Nanotats:** Sua pele/carcaça é uma tela artística. Tatuagens criadas com nanobots podem se mover pelo seu corpo, mudar de forma, cor, brilho, textura, trocar textos e imagens, e/ou até mesmo criar efeitos holográficos pequenos na superfície da pele, tudo controlável pelos seus insertos da mesh.
 
-**Neuromodulação:** Esse sistema de nanoware possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
+**Neuromodulação:** Esse sistema de nanoimplante possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
 
 **Alteração de Odor:** Mudanças pequenas na bioquímica de um corpo podem alterar seu cheiro natural. Você pode suar baunilha, ter gosto de laranja, ou deixar um rastro de sândalo por onde passa. Ou você seguir a linha da ralé, e secretar o sabor ferroso de sangue, o aroma metálico de ferrugem, ou o odor almiscarado de uma xenocriatura específica.
 
