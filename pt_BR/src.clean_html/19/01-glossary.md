@@ -39,7 +39,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **AQ:** Antes da Queda (usado para datação referencial).
 - **Bioconservadores:** Um movimento antitecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
-- **Biowares:** Aprimoramentos biológicos para biomorfos.
+- **Bioimplantes:** Aprimoramentos biológicos para biomorfos.
 - **Diagrama:** O arquivo do projeto digital usado para nanofabricação.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
 - **Bot:** Robô. Uma carcaça sintética pilotada por ILA.
@@ -70,7 +70,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Cripta:** Um depósito digital escondido dentro da mesh.
 - **Planeta Ctoniano:** Um Júpiter/Netuno quente cuja atmosfera foi removida, deixando um núcleo terrestre.
 - **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental programático. Usado em sintemorfos, prods e alguns biomorfos.
-- **Ciberware:** Ampliações artificiais para biomorfos.
+- **Ciberimplantes:** Ampliações artificiais para biomorfos.
 - **Circulante:** Uma nave que viaja entre habitats usando a RTI.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
 - **Furtiprojeção:** Um serviço de longiprojeção e egoprojeção do mercado negro.
@@ -133,13 +133,13 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **GEO:** órbita geossíncrona, 35.786&nbsp;km de altitude acima do equador.
 - **Fantasma:** Um biomorfo de combate transumano otimizado para furtividade.
 - **Carona Virtual:** Um infomorfo carregado em um implante especial.
-- **Glandulizar:** Usar ware para modificar o seu estado emocional.
+- **Glandulizar:** Usar implantes para modificar o seu estado emocional.
 - **Glitterati:** Socialites, hiperelites e ícones da mídia.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
 - **Téc-Hab:** Um técnico de habitat.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
-- **Equipaware:** Aprimoramentos para sintemorfos.
+- **Equimplantes:** Aprimoramentos para sintemorfos.
 - **Caça-Cabeças:** Uma máquina TITAN que coleta cabeças para fazer upload.
 - **Hibernoide:** Um biomorfo modificado para hibernação e com período de vigília estendido.
 - **Hidden Concern:** Um cartel do crime de neo-polvos localizado em Ceres.
@@ -185,7 +185,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
 - **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (formar mesh) ou adjetivo (em mesh ou sem mesh).
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
-- **Meshwares:** Apps para cibercérebros e infomorfos.
+- **Meshimplantes:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
 - **Microgravidade:** Zero-g ou ambientes quase sem peso.
 - **Hacker Mental:** Um psicocirugião.
@@ -203,7 +203,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com um diagrama apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
-- **Nanowares:** Nanossistemas implantados dentro de um morfo.
+- **Nanoimplantes:** Nanossistemas implantados dentro de um morfo.
 - **Narcoalgoritmo:** Um app que imita os efeitos de uma droga para um infomorfo ou cérebro cibernético.
 - **Neo-Aves:** Corvos, gralhas e papagaios-cinzentos elevados.
 - **Neo-Hominídeos:** Bonobos, chimpanzés, gorilas e orangotangos elevados.
@@ -213,7 +213,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Neurodiversidade:** A aceitação de neurologias atípicas.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
-- **Novacancridae:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacarangu:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **Envoltório Nuestro:** Um hab de envoltório que utiliza raios e aros simétricos para ter estabilidade.
 - **Cilindro O'Neill:** Um habitat em forma de lata com gravidade por rotação.
 - **Oligarcas:** Os poderosos ricos imortais.
@@ -254,7 +254,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Devassamento:** Destruir sistemas de vigilância para criar zonas mortas.
 - **Conta Root:** A única conta em um sistema que pode não ter seus privilégios de administrador revogados.
 - **Roteador:** Um procurador que coordena as operações de um servidor.
-- **Ferroso:** Um biomorfo otimizado para a vida em Marte.
+- **Ferrugeiro:** Um biomorfo otimizado para a vida em Marte.
 - **Sapientes:** Elevados e infovidas que buscam direitos iguais e assimilação na sociedade transumana.
 - **Savant:** Um sintemorfo otimizado para inteligência.
 - **Escanear:** Localizar e identificar dispositivos sem fio.
@@ -277,7 +277,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Simulespaço:** Ambientes de realidade virtual com imersão completa.
 - **Singularidade:** Um ponto de progresso tecnológico rápido, exponencial e recursivo, além do qual o futuro é impossível de prever.
 - **Buscadores da Singularidade:** Uma pessoa obcecada com SIAs como as TITANs ou em se tornar pós-humano.
-- **Escumadores:** Habitantes dos gigantes gelados.
+- **Escumeiros:** Habitantes dos gigantes gelados.
 - **Pele:** Um morfo físico biológico. Também chamado de biomorfo, carne, corpo.
 - **Tematização:** Alterar o seu ambiente percebido via RA.
 - **Tecnofurtividade:** A arte de se mover invisível aos sistemas de vigilância.
@@ -321,10 +321,10 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
 - **RV:** Realidade Virtual. Imposição de uma realidade hiper-realista construída artificialmente sobre os sentidos físicos de alguém.
-- **Wares:** Implantes e aprimoramentos, incluindo biowares, ciberwares, equipawares, meshwares e nanowares.
+- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equimplantes, meshimplantes e nanoimplantes.
 - **Devasteiros:** Soldados ciborgues mutantes exsurgentes.
 - **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
-- **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
+- **Flageladores:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **ADM:** Arma de Destruição em Massa.
 - **Verme:** Um assincro exsurgente.
