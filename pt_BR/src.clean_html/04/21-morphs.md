@@ -5,9 +5,9 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 <!-- CLEANED div class="stat-list" -->
 
 - **Taxa de Movimento:** O sistema de mobilidade usado e a distância coberta ([Movimento](../12/24-movement.md)).
-- **Wares:** Biowares, ciberwares, equipawares, meshwares e/ou nanowares que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
+- **Implantes:** Bioimplantes, ciberimplantes, equimplantes, meshimplantes e/ou nanoimplantes que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
 - **Traços de Morfo:** Traços que cada morfo deste tipo possui ([Traços](28-traits.md)).
-- **Extras Comuns:** Traços ou wares comuns, mas que não são o padrão para esse tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
+- **Extras Comuns:** Traços ou implantes comuns, mas que não são o padrão para esse tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
 
 <!-- CLEANED /div -->
 
@@ -43,13 +43,13 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Neo-Polvo](24-uplift-biomorphs.md#neo-octopus)                                                           | Elevado    | 3&nbsp;PM  |
 | [Neo-Orangutango](24-uplift-biomorphs.md#neo-orangutan)                                                   | Elevado    | 3&nbsp;PM  |
 | [Neotênico](22-common-biomorphs.md#neotenic)                                                              | Biomorfo   | 2&nbsp;PM  |
-| [Novacancridae](23-pod-biomorphs.md#novacrab)                                                             | Prod       | 4&nbsp;PM  |
+| [Novacarangu](23-pod-biomorphs.md#novacrab)                                                               | Prod       | 4&nbsp;PM  |
 | [Olímpico](22-common-biomorphs.md#olympian)                                                               | Biomorfo   | 4&nbsp;PM  |
 | [Operador](26-infomorphs.md#operator)                                                                     | Infomorfo  | 2&nbsp;PM  |
 | [Prod de Prazer](23-pod-biomorphs.md#pleasure-pod)                                                        | Prod       | 4&nbsp;PM  |
 | [Ceifeiro](25-synthmorphs.md#reaper)                                                                      | Sintemorfo | 12&nbsp;PM |
 | [Refeito](22-common-biomorphs.md#remade)                                                                  | Biomorfo   | 7&nbsp;PM  |
-| [Ferroso](22-common-biomorphs.md#ruster)                                                                  | Biomorfo   | 3&nbsp;PM  |
+| [Ferrugeiro](22-common-biomorphs.md#ruster)                                                               | Biomorfo   | 3&nbsp;PM  |
 | [Savant](25-synthmorphs.md#savant)                                                                        | Sintemorfo | 4&nbsp;PM  |
 | [Prod de Segurança](23-pod-biomorphs.md#security-pod)                                                     | Prod       | 5&nbsp;PM  |
 | [Moldável](23-pod-biomorphs.md#shaper)                                                                    | Prod       | 5&nbsp;PM  |
