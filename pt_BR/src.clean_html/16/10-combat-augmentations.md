@@ -37,7 +37,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 **Glândulas de Droga:** O morfo tem glândulas personalizadas, projetadas para produzir hormônios ou químicos específicos e liberá-los no corpo. Você pode ativar mentalmente essas glândulas para liberar os químicos como uma ação rápida. Essas glândulas podem produzir qualquer substância listada com um tipo biológico ou químico ([Químicos, Drogas & Toxinas](15-chemicals-drugs-and-toxins.md)). Cada tipo de glândula de droga é considerada um aprimoramento separado. As glândulas de droga só contém 1 dose por vez, mas podem produzir uma nova dose a cada 4 horas.
 
-**Eficiência Energética:** A versão em bioimplante deste implante acelera o seu metabolismo. A versão em equimplante otimiza o uso de energia da sua carcaça. A versão em meshimplante otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
+**Eficiência Energética:** A versão em bioimplante deste implante acelera o seu metabolismo. A versão em equipoimplante otimiza o uso de energia da sua carcaça. A versão em meshimplante otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
 
 **Esqueleto Endurecido:** O esqueleto do morfo é enriquecido com metais amorfos e fulerenos para fortalecimento. Aumente seu Limiar de Ferimento em 1, Durabilidade em 5, Grau de Destruição em 8 (biomorfos) ou 10 (sintemorfos), e sua Prova de SOM em 10.
 

@@ -44,7 +44,7 @@ Esse sistema autentica a [ego ID](../15/07-identity-systems.md#ego-id) do usuár
 
 ### Interface Neural Direta
 
-Se você tem implantes ou equimplantes embutidos, eles são inseridos diretamente no seu sistema nervoso, com as próprias ligações físicas fornecendo a autenticação.
+Se você tem implantes ou equipoimplantes embutidos, eles são inseridos diretamente no seu sistema nervoso, com as próprias ligações físicas fornecendo a autenticação.
 
 ### Mesh ID
 
