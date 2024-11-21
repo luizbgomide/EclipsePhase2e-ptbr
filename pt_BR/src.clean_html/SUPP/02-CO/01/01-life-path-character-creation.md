@@ -26,7 +26,7 @@ Para o restante dos passos, você rola em uma _tabela de eventos_ que detalha al
 
 <!-- CLEANED div class="two-columns-text" -->
 
-- **[Passo 1](02-step-1-flex.md):** Começe com 1 Flex do Ego
+- **[Passo 1](02-step-1-flex.md):** Começe com 1 de Flex do Ego
 - **[Passo 2](03-step-2-aptitude-template.md):** Determine o Modelo de Aptidões
 - **[Passo 3](04-step-3-native-tongue.md):** Determine a Língua Nativa
 - **[Passo 4](05-step-4-background-path.md):** Trajetória Antecedente
