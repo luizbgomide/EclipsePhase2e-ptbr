@@ -55,7 +55,7 @@ Se você for exposto a uma droga ou toxina através do seu método de aplicaçã
 
 Não há teste de resistência para ignorar os efeitos de uma droga ou toxina, mas alguns podem pedir uma prova de aptidão para determinar a gravidade do efeito.
 
-**Ware Defensivo:** [Filtros de toxina](10-combat-augmentations.md) permitem uma Prova de SOM para ignorar completamente os efeitos de uma droga ou toxina bioquímica (eles não têm efeito em nanodrogas ou nanotoxinas). Se um efeito pedir uma prova de aptidão, os filtros de toxina aplicam um modificador +30. Os filtros de toxina ou medicadores reduzirão os efeitos de uma droga ou toxina bioquímica (dano, modificadores, etc.) e sua duração à metade; juntos eles anulam completamente os efeitos. Nanófagos reduzem os efeitos/duração de nanodrogas e nanotoxinas à metade.
+**Implante Defensivo:** [Filtros de toxina](10-combat-augmentations.md) permitem uma Prova de SOM para ignorar completamente os efeitos de uma droga ou toxina bioquímica (eles não têm efeito em nanodrogas ou nanotoxinas). Se um efeito pedir uma prova de aptidão, os filtros de toxina aplicam um modificador +30. Os filtros de toxina ou medicadores reduzirão os efeitos de uma droga ou toxina bioquímica (dano, modificadores, etc.) e sua duração à metade; juntos eles anulam completamente os efeitos. Nanófagos reduzem os efeitos/duração de nanodrogas e nanotoxinas à metade.
 
 ## Vício e Abuso
 
@@ -211,7 +211,7 @@ Nanodrogas são infestações temporárias de nanobots que aplicam um efeito esp
 
 ## Narcoalgoritmos
 
-Conhecidos coloquialmente como dopeware, narcos e zapps, os narcoalgoritmos são programas que simulam os efeitos das drogas para infomorfos e egos em cibercérebros. Quase todas as drogas bioquímicas e nano podem ser replicadas como narcoalgoritmos, com efeito correspondente (a critério do MJ). O vício em narcoalgoritmos é considerado mental, não importando a droga simulada. Um lado positivo dos narcoalgoritmos é que o efeito pode ser imediatamente interrompido pausando o app.
+Conhecidos coloquialmente como tecnodrogas, narcos e zapps, os narcoalgoritmos são programas que simulam os efeitos das drogas para infomorfos e egos em cibercérebros. Quase todas as drogas bioquímicas e nano podem ser replicadas como narcoalgoritmos, com efeito correspondente (a critério do MJ). O vício em narcoalgoritmos é considerado mental, não importando a droga simulada. Um lado positivo dos narcoalgoritmos é que o efeito pode ser imediatamente interrompido pausando o app.
 
 <!--sort-->
 
