@@ -50,7 +50,7 @@ Tratados são humanos genecorrigidos. O seu genoma foi limpo de doenças heredit
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 <!-- CLEANED /blockquote -->
 
@@ -76,7 +76,7 @@ Exaltos são os modelos de “humanos aprimorados” comuns e não especializado
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 <!-- CLEANED /blockquote -->
 
@@ -100,7 +100,7 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#small-size)
 
@@ -108,13 +108,13 @@ Os neotênicos são transumanos modificados para manter uma forma infantil. São
 
 <!--sort-end-->
 
-### Ferroso
+### Ferrugeiro
 
 Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marciano não totalmente terraformado, esses morfos transgênicos possuem pele isolada para uma termorregulação mais eficaz e melhorias do sistema respiratório para exigir menos oxigênio e filtrar gás carbônico, entre outras modificações.
 
 <!-- CLEANED blockquote class="indent stat-list" -->
 
-### Ferroso
+### Ferrugeiro
 
 - **Custo:** 3&nbsp;PM • **Disp:** 70
 
@@ -126,7 +126,7 @@ Adaptados para a sobrevivência com o mínima de equipamentos no ambiente marcia
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 - **Extras Comuns:** Muitos têm o traço [Obsolescência Programada](28-traits.md#planned-obsolescence)
 
 <!-- CLEANED /blockquote -->
@@ -153,7 +153,7 @@ Os quicantes são geneticamente adaptados para microgravidade. Suas pernas são 
 ---
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
+- **Implantes:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
 - **Traços de Morfo:** Flexibilidade (Nível 1)
 
 <!-- CLEANED /blockquote -->
@@ -178,7 +178,7 @@ Os morfos futura foram feitos especialmente para a “Geração Perdida” de cr
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 <!-- CLEANED /blockquote -->
 
@@ -202,7 +202,7 @@ Hibernoides são humanos transgênicos modificados com padrões de sono e proces
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
+- **Implantes:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
 
 <!-- CLEANED /blockquote -->
 
@@ -226,7 +226,7 @@ Mentons são geneticamente modificados para aumentar suas habilidades cognitivas
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
 
 <!-- CLEANED /blockquote -->
 
@@ -250,7 +250,7 @@ Olímpicos são melhorias humanas com capacidades atléticas aprimoradas, como r
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 <!-- CLEANED /blockquote -->
 
@@ -274,7 +274,7 @@ Os morfos sílfide são ideais para ícones da mídia, socialites de elite, cele
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
+- **Implantes:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
 - **Extras Comuns:** Muitos têm o traço [Aparência Marcante](28-traits.md#striking-looks)
 
 <!-- CLEANED /blockquote -->
@@ -303,7 +303,7 @@ Fúrias são morfos de combate. Esses humanos transgênicos são melhorados para
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Biotrama (+2/+3), Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Implantes:** Biomods, Biotrama (+2/+3), Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 - **Extras Comuns:** Muitas estão equipadas com [esqueleto endurecido](../16/10-combat-augmentations.md), [filtros de toxina](../16/10-combat-augmentations.md), [neuraquim](../16/10-combat-augmentations.md)
 
@@ -329,7 +329,7 @@ Fantasmas são projetados parcialmente para aplicações de combate, mas seu foc
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
+- **Implantes:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
 - **Extras Comuns:** Muitos estão equipados com [pele-flex](../16/09-social-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md)
 
@@ -357,7 +357,7 @@ Eles se parecem com humanos, mas são diferentes de formas muito perceptíveis e
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
+- **Implantes:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 
 <!-- CLEANED /blockquote -->
