@@ -1,4 +1,4 @@
-# Hackeamento de Ware Mental
+# Hackeamento de Implante Mental
 
 Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Essa tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são aparelhos especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
 
@@ -12,9 +12,9 @@ Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu d
 
 Como eles executam um ego, cibercérebros e infomorfos possuem medidas de segurança embutidas; aplique um modificador −30 em todas as tentativas de hackeamento.
 
-## Subversão de Ware Mental
+## Subversão de Implante Mental
 
-Quando um cibercérebro ou dispositivo executando um infomorfo for infiltrado, ele pode ser subvertido assim como outros sistemas. No entanto, como esse ware mental contém um ego, um invasor tem várias opções exclusivas.
+Quando um cibercérebro ou dispositivo executando um infomorfo for infiltrado, ele pode ser subvertido assim como outros sistemas. No entanto, como esse implante mental contém um ego, um invasor tem várias opções exclusivas.
 
 Todas as ações abaixo requerem vencer um Teste de Hackeamento.
 
@@ -26,13 +26,13 @@ Egos presos dentro de uma caixa-forte estão bastante vulneráveis. Eles podem, 
 
 <!--sort-->
 
-### Controlar Ware (Cibercérebro)
+### Controlar Implante (Cibercérebro)
 
-Como em [Controlar Ware](13-system-subversion.md#control-ware).
+Como em [Controlar Implante](13-system-subversion.md#control-ware).
 
 ### Copiar Ego
 
-Você pode copiar o código fonte de um infomorfo residente em um cibercérebro/dispositivo. Isso conta como um arquivo de backup inativo de um ego, embora ela possa ser executado como um infomorfo em um terminal ou servidor. O “forquestro” de infomorfos de sistemas comprometidos por interesses criminosos permanece um problema constante no sistema interior. Alguns infomorfos vem equipados com um [app de travacópia](../16/12-meshware.md); isso aplica um modificador −30 adicional (cumulativo com o modificador −30 de segurança codificada do infomorfo) em tentativas de cópia.
+Você pode copiar o código fonte de um infomorfo residente em um cibercérebro/dispositivo. Isso conta como um arquivo de backup inativo de um ego, embora ela possa ser executado como um infomorfo em um terminal ou servidor. O “forquestro” de infomorfos de sistemas comprometidos por interesses criminosos permanece um problema constante no sistema interior. Alguns infomorfos vem equipados com um [app de travacópia](../16/12-meshimplante.md); isso aplica um modificador −30 adicional (cumulativo com o modificador −30 de segurança codificada do infomorfo) em tentativas de cópia.
 
 ### Excluir Ego
 
@@ -46,9 +46,9 @@ A conexão entre um cibercérebro e o morfo em que reside pode ser temporariamen
 
 Você pode hackear a mente do ego interno usando [psicocirurgia](../15/05-psychosurgery.md). Todos os procedimentos de psicocirurgia podem ser feitos, desde interrogatórios até alterações de memórias ou traços de personalidade. Como a psicocirurgia precisa de tempo e programas especializados, isso geralmente está reservado para alvos que estão capturados e presos de alguma forma (forquestrados, presos em uma caixa-forte, fisicamente incapacitados, etc.).
 
-### Modificar Meshware
+### Modificar Meshimplante
 
-Qualquer [meshware](../16/12-meshware.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshwares podem ser instalados.
+Qualquer [meshimplante](../16/12-meshimplante.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshimplantes podem ser instalados.
 
 ### Modificar Entrada Sensorial (Cibercérebro)
 
