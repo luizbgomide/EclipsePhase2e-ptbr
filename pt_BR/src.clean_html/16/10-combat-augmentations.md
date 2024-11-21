@@ -1,6 +1,6 @@
 # Ampliações de Combate
 
-As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Implante de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Blindagem](../12/14-armor-mods.md)).
+As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Implantes de arma/blindagem estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Blindagem](../12/14-armor-mods.md)).
 
 <!--sort-->
 
