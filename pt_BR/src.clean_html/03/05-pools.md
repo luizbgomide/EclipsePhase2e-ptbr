@@ -74,7 +74,7 @@ Alguns efeitos, como drogas e truques psi, fornecem bônus temporários em parad
 
 <!-- CLEANED blockquote -->
 
-Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem implante de neuraquim, graças ao seu pacote de equipamentos de soldado, que lhe dá +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem Flex 1 do ego.
+Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem implante de neuraquim, graças ao seu pacote de equipamentos de soldado, que lhe dá +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem 1 de Flex do ego.
 
 Enquanto se aproxima de um ninho de ex-humanos em um asteroide remoto, Zahiri gasta 1 de Inspiração para obter +20 de bônus na rolagem de Percepção. Infelizmente ele falha em dois Testes de Queda Livre enquanto atravessa várias fendas no asteroide, obtendo um 71 e um 85 contra sua Queda Livre 60. Em ambos os casos, ele gastou um ponto de Vigor para inverter a rolagem, obtendo um 17 e um 58 respectivamente, tendo sucesso em seus testes. Uma vez lá dentro, ele faz uma recarga curta, rola 1d6 e obtêm um 6, recuperando todos os 3 pontos que gastou.
 
