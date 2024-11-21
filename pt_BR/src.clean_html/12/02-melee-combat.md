@@ -12,7 +12,7 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 | Bastão                  |        —         |       1d10 \[6\]        |                 Men/1                 | Extensão                                              |
 | Luvas Densiplast        |        —         |  Desarmado + 2 \[6/9\]  |                 Men/1                 | Ocultável                                             |
 | Machado Diamantado      |        —         |     2d10 + 3 \[14\]     |                 Men/1                 | Antiblindagem, Duas Mãos, Extensão                    |
-| Enguimplante            |       BCE        |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
+| Enguiônico              |       BCE        |    Desarmado \[4/7\]    |                 Men/1                 | Choque, Ocultável, Toque Simples                      |
 | Bastão Extensível       |        —         |       1d10 \[6\]        |                 Men/1                 | Ocultável                                             |
 | Cortador Flex           |        —         |     1d10 + 3 \[9\]      |                 Men/1                 | Ocultável                                             |
 | Faca                    |        —         |     1d10 + 2 \[8\]      |                 Men/1                 | Ocultável                                             |
@@ -36,13 +36,13 @@ Exceto quando informado, todos os implementos de luta são usados com a perícia
 
 ## Implantes de Luta
 
-Armamentos implantados podem ser combinados com enguimplante para produzir choques elétricos.
+Armamentos implantados podem ser combinados com enguiônico para produzir choques elétricos.
 
 <!--sort-->
 
 **Garras:** O morfo possui garras retráteis como as de gato. Essas garras não interferem na destreza manual e são afiadas. Elas são legais na maioria dos habitats e consideradas tanto ferramentas quanto armas. Um conjunto de garras em cada mão conta como uma única arma.
 
-**Enguimplante:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioimplante) ou a colocação de painéis eletrificados (equimplante) permitem que você atordoe com um toque chocante. Enguimplantes podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
+**Enguiônico:** Uma combinação de genética de enguia elétrica e biocondutores nas mãos/pés/membros (bioimplante) ou a colocação de painéis eletrificados (equimplante) permitem que você atordoe com um toque chocante. Enguiônicos podem ser usados para recarregar baterias comuns ou alimentar dispositivos especificamente modificados usando o toque (trate como uma bateria comum).
 
 **Espeto de Pistão:** Esse espeto de acionamento pneumático é acionado com um impacto (geralmente um soco) e projetado para perfurar blindagens modernas e armações sintéticas. A maioria é projetada para uso repetido, no entanto, modelos alternativos de uso único aplicam uma minigranada (esse ataque de granada ignora blindagem).
 
