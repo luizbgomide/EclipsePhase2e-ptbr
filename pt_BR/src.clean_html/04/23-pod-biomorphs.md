@@ -124,7 +124,7 @@ Os prods de segurança foram originalmente fabricados como soldados operados por
 ---
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Implantes:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguimplante, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiônico, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Extras Comuns:** Muitos estão equipados com [emissor de raios T](../16/06-sensory-augmentations.md), [surto adrenal](../16/10-combat-augmentations.md). As variantes de fuzileiros espaciais possuem [pés preênseis](../16/11-physical-augmentations.md), [reserva de oxigênio](../16/11-physical-augmentations.md) e [vedação de vácuo](../16/11-physical-augmentations.md).
 
 <!-- CLEANED /blockquote -->
