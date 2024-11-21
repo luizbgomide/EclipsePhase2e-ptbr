@@ -36,7 +36,7 @@ Os ácaros possuem pequenos sensores que são muito eficazes na identificação 
 
 Os enxames não podem segurar, levantar, carregar ou mover objetos físicos com mais de meio quilo de massa, mesmo em microgravidade. Eles não podem fazer Provas de SOM baseadas em força.
 
-Os enxames são ineficazes na penetração em biomorfos e outras formas biológicas (embora eles possam atacar externamente); esse é o reino dos nanowares, nanodrogas, e nanotoxinas.
+Os enxames são ineficazes na penetração em biomorfos e outras formas biológicas (embora eles possam atacar externamente); esse é o reino dos nanoimplantes, nanodrogas, e nanotoxinas.
 
 Ventos acima de 60&nbsp;km/h infligem VD 1d10 por turno ou mais. A exposição prolongada ao calor (mais de 35&nbsp;°C) pode danificar ou incapacitar inteiramente um enxame. Além da mobilidade, os enxames não são afetados pelo vácuo.
 
@@ -48,9 +48,9 @@ Em seu volume total, as unidades de enxame são consideradas alvos muito grandes
 
 Você pode correr de um enxame, mas os MJs podem pedir uma Prova de REF para evitar carregar parte do enxame com você.
 
-### Wares
+### Implantes
 
-Enxamenoides e enxames podem ser equipados com wares, como os robôs. Os MJs devem usar o bom senso quando decidir quais wares são permitidos; a maioria dos meshwares e nanowares são aceitáveis, mas equipawares como pneumáticos não são.
+Enxamenoides e enxames podem ser equipados com implantes, como os robôs. Os MJs devem usar o bom senso quando decidir quais implantes são permitidos; a maioria dos meshimplantes e nanoimplantes são aceitáveis, mas equimplantes como pneumáticos não são.
 
 ### Desgaste
 
