@@ -20,7 +20,7 @@ Esses serviços programáticos estão disponíveis como uma assinatura mensal de
 
 <!--sort-->
 
-**Anonimizador:** Você tem uma conta com um serviço de intermediação anônima que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
+**Anonimizador:** Você tem uma conta com um serviço de proxy anônimo que mascara a sua [Mesh ID](../13/05-authentication-and-encryption.md#mesh-id).
 
 **Arquivo:** Cada arquivo tem um foco diferente (como áreas de perícia de Saber). Usar um arquivo relevante fornece um modificador +10 em Testes de Pesquisa envolvendo esse assunto.
 
