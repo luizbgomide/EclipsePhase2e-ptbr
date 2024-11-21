@@ -209,7 +209,7 @@
 <tr><td colspan="10"><!-- CLEANED div class="indent" -->
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Implantes:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguimplante, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiônico, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 <!-- CLEANED /div --></tr>
 
