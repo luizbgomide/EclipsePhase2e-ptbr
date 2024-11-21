@@ -89,7 +89,7 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 <!--sort-->
 
 - **Bloquear Sinais:** Bloquear frequências sem fio específicas ou todas.
-- **Controlar Ware:** Manipular um ware do alvo.
+- **Controlar Implante:** Manipular um implante do alvo.
 - **Debilitar os Sentidos:** Distrair com sobrecarga de RA. Teste de Interface, modificador −10.
 - **Desativar Mecanismos de Segurança:** Anular controles de segurança e alarmes.
 - **Editar Fluxo de RA:** Bloquear ou alterar a entrada de RA.
@@ -112,7 +112,7 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 
 </div>
 
-## Hackeamento de Ware Mental
+## Hackeamento de Implante Mental
 
 <div class="stat-list">
 
@@ -121,7 +121,7 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Prender Ego:** Proibir o ego/infomorfo de se mover ou sair.<!--sort-fixed-->
 - **Afligir Ego:** Atacar o ego com um app aflitivo.
 - **Congelar Morfo (Cibercérebro):** Paralisar o morfo.
-- **Controlar Ware:** Como acima.
+- **Controlar Implante:** Como acima.
 - **Copiar Ego:** Fazer um forque alfa ([Forqueamento](../15/04-forking-and-merging.md)).
 - **Desligar:** Desativar a mente.
 - **Encerrar Fluxo da Pilha Cortical:** Cortar o backup em andamento.
@@ -130,7 +130,7 @@ Essas ações geralmente requerem um Teste de Hackeamento. A maioria está detal
 - **Hackear a Mente:** Praticar psicocirurgia no ego ([Psicocirurgia](../15/05-psychosurgery.md)).
 - **Manipular Fantoche (Cibercérebro):** Operar remotamente o morfo ([Operações Remotas](../16/21-robots.md#operação-remota)).
 - **Modificar Entrada Sensorial (Cibercérebro):** Bloquear, editar ou injetar entrada sensorial.
-- **Modificar Meshware (Cibercérebro):** Adicionar, remover ou alterar meshware.
+- **Modificar Meshimplante (Cibercérebro):** Adicionar, remover ou alterar meshimplante.
 
 </div>
 

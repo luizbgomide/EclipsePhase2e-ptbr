@@ -44,6 +44,6 @@ A aliança a uma facção não significa necessariamente que você é um crente 
 
 <!--sort-end-->
 
-**Regionais:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumador investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
+**Regionais:** Você é um Solariano, Garimpeiro, Cintureiro, Europano, Aneleiro ou Escumeiro investido na cultura, na prosperidade e na segurança da sua área do Sistema Solar.
 
 </blockquote>

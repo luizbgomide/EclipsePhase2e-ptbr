@@ -1,23 +1,23 @@
 # Ampliações Sociais
 
-Os wares sociais, incluindo mods cosméticos, impactam suas interações com os outros e também incluem modificações cosméticos.
+Os implantes sociais, incluindo mods cosméticos, impactam suas interações com os outros e também incluem modificações cosméticos.
 
 <!--sort-->
 
-| AMPLIAÇÕES SOCIAIS     | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                         |
-|:---------------------- |:------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
-| Alteração de Odor      |      B       |                 Men/1                 | Excreção de odores projetados.                                                    |
-| Cobertura Sintética    |      C       |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
-| Controle Endócrino     |      BM      |                 Mai/3                 | Controle de hormônios e emoções. + 2 em Manha.                                    |
-| Escultura Corporal     |     BCE      |                 Men/1                 | Mods corporais personalizados.                                                    |
-| Feromônios Aprimorados |      B       |                 Mod/2                 | +10 em Persuasão e Provocação com biomorfos da mesma espécie.                     |
-| Máscara Sintética      |      E       |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
-| Metabolismo Limpo      |      B       |                 Men/1                 | Bactérias simbióticas, flora intestinal, e glândulas mantêm você limpo e fresco.  |
-| Mudança Sexual         |      B       |                 Mod/2                 | Alterne entre masculino, feminino, intersexo ou assexuado em 1 semana.            |
-| Nanotats               |      N       |                 Men/1                 | Tatuagens de nanobots controladas pela mesh.                                      |
-| Neuromodulação         |      MN      |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                            |
-| Pele Camaleão          |      BE      |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
-| Pele-Flex              |      N       |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
+| AMPLIAÇÕES SOCIAIS     | Tipo de Implante | Comp/<wbr>PE | Descrição                                                                         |
+|:---------------------- |:----------------:|:-------------------------------------:|:--------------------------------------------------------------------------------- |
+| Alteração de Odor      |        B         |                 Men/1                 | Excreção de odores projetados.                                                    |
+| Cobertura Sintética    |        C         |                 Men/1                 | Cobertura de pele falsa para cibermembro.                                         |
+| Controle Endócrino     |        BM        |                 Mai/3                 | Controle de hormônios e emoções. + 2 em Manha.                                    |
+| Escultura Corporal     |       BCE        |                 Men/1                 | Mods corporais personalizados.                                                    |
+| Feromônios Aprimorados |        B         |                 Mod/2                 | +10 em Persuasão e Provocação com biomorfos da mesma espécie.                     |
+| Máscara Sintética      |        E         |                 Mod/2                 | Pele falsa para sintemorfo. +30 em Testes de Enganação baseados em disfarce.      |
+| Metabolismo Limpo      |        B         |                 Men/1                 | Bactérias simbióticas, flora intestinal, e glândulas mantêm você limpo e fresco.  |
+| Mudança Sexual         |        B         |                 Mod/2                 | Alterne entre masculino, feminino, intersexo ou assexuado em 1 semana.            |
+| Nanotats               |        N         |                 Men/1                 | Tatuagens de nanobots controladas pela mesh.                                      |
+| Neuromodulação         |        MN        |                 Mod/2                 | Controle de neurotransmissores e emoções. +1 em Manha.                            |
+| Pele Camaleão          |        BE        |                 Mod/2                 | Altera cor da pele. +10 em Infiltração, +30 se estiver coberto e parado.          |
+| Pele-Flex              |        N         |                 Mod/2                 | Disfarça rosto, pele, cabelos. +30 em Testes de Enganação para imitação/disfarce. |
 
 <!--sort-->
 
@@ -39,7 +39,7 @@ Os wares sociais, incluindo mods cosméticos, impactam suas interações com os 
 
 **Nanotats:** Sua pele/carcaça é uma tela artística. Tatuagens criadas com nanobots podem se mover pelo seu corpo, mudar de forma, cor, brilho, textura, trocar textos e imagens, e/ou até mesmo criar efeitos holográficos pequenos na superfície da pele, tudo controlável pelos seus insertos da mesh.
 
-**Neuromodulação:** Esse sistema de nanoware possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
+**Neuromodulação:** Esse sistema de nanoimplante possibilita que você influencie os neurotransmissores do seu cérebro. Isso lhe dá um controle básico dos seus estados emocionais (como o controle endócrino), embora em menor grau. Aumente sua parada de Manha em 1.
 
 **Pele Camaleão:** A pele do morfo é ampliada com complexos cromatóforos para ela mudar de cor como um camaleão ou polvo. Seu morfo pode reproduzir a aparência de praticamente qualquer cor e da maioria dos padrões. Aplique um modificador +10 em Testes de Infiltração, +30 se estiver parado e nu ou usando vestuário inteligente com a mesma cor/padrão. Essa camuflagem não se aplica contra radar, raios X, raios gama ou sensores de calor infravermelhos (incluindo visão aprimorada). Como alternativa, você pode intencionalmente se destacar (+10 a +30 em Testes de Percepção para ser notado) ou simplesmente exibir seu estilo.
 

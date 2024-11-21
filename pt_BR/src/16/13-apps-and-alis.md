@@ -70,7 +70,7 @@ Todos têm uma musa, e cada dispositivo tem uma ILA embutida ([IAs & Musas](../1
 
 **ILA de Bot/Veículo:** Essas IAs podem pilotar e controlar o bot/veículo para o qual elas foram projetadas sem assistência transumana.
 
-**ILA de Dispositivo:** Essas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não ware.
+**ILA de Dispositivo:** Essas ILAs residentes ajudam transumanos a operar um dispositivo específico, ou fazem isso para eles. Elas estão inclusas na maioria dos equipamentos não implante.
 
 **ILA de Segurança:** Fornece vigilância para sistemas eletrônicos.
 

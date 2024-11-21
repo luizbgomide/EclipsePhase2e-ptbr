@@ -58,7 +58,7 @@ A personalidade da musa é personalizável. Elas possuem uma assinatura para uma
 
 Os transumanos desenvolvem fortes laços com suas musas devido à sua onipresença e devoção. O seu relacionamento específico pode variar, dependendo da sua própria personalidade, história e opiniões sobre programas sencientes. Alguns transumanos tratam suas musas como brinquedos inteligentes, servos ou animais de estimação. Outros são mais próximos, vendo-as como confidentes, mentores, camaradas e até mesmo amantes. No entanto, alguns tem relações controversas ou até mesmo hostis, especialmente se a musa assumiu um papel de guardiã indesejada.
 
-### O Que Sua Musa Pode Fazer por Você
+### O que sua Musa Pode Fazer por Você
 
 O uso primário para musas é lidar com tarefas online triviais, liberando você para as coisas mais importantes. Isso pode ser bastante prático no momentos corridos ou situações caóticas — do contrário seria bastante inconveniente quando você precisar googlar alguma coisa no meio de um tiroteio. Se você não tiver perícia em Infoseg e não tiver, ou não confiar, um hacker na equipe, sua musa pode agir como [defensor do sistema](12-countermeasures.md#defensor-do-sistema) da sua PAN. É importante lembrar que as musas também podem ajudá-lo em certas tarefas, proporcionando um [bônus de trabalho em equipe.](../03/01-how-to-play.md#trabalho-em-equipe).
 
@@ -77,7 +77,7 @@ Aqui estão alguns exemplos específicos de tarefas que sua musa pode fazer:
 - Colocar você em modo privativo e proativamente camuflar seu sinal sem fio.
 - Rastrear pessoas por você.
 - Antecipar suas necessidades e realizar seus pedidos.
-- Monitorar sua saúde (via medicadores) e o status de wares/equipamentos.
+- Monitorar sua saúde (via medicadores) e o status de implantes/equipamentos.
 - Chamar ajudar se algo acontecer com você.
 
 ### Online, Mesmo Quando Você Não Estiver

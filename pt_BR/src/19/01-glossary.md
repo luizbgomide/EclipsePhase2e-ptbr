@@ -28,18 +28,17 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Artificial:** Gíria marciana para uma vida artificial incorporada.
 - **Artificial Selvagem:** Um robô autônomo descontrolado.
 - **Assincro:** Uma pessoa com habilidades psi resultantes da cepa Watts-MacLeod do vírus exsurgente.
-- **Asteroide Gelado:** Um asteroide feito de gelo em vez de rocha ou metais.
+- **Asterogelo:** Um asteroide feito de gelo em vez de rocha ou metais.
 - **Autocozedor:** Um fabro especializado para fazer comidas e bebidas.
 - **Autonomistas:** A aliança do sistema exterior entre anarquistas, extropianos, ralé e titanianos.
-- **Azorragues:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Backup:** Uma cópia armazenada de um ego, uma mente digitalizada inativa.
 - **BaNCA:** O Balcão de Negócios de Contratos de Arrendamentos onde se negociam contratos de arrendados.
 - **Banco do Corpos:** Um serviço para salvamentos, reencape, e aquisição ou armazenagem de morfos. Também chamado de casa de bonecas, necrotério.
 - **Barsoomianos:** Um movimento que apoia a independência marciana do controle hipercorporativo, aliado aos autonomistas.
 - **Batiscafo:** Um habitat subaquático.
 - **Bioconservadores:** Um movimento antitecnologia que defende uma regulação rigorosa da nanofabricação, IA, uploads, forqueamento, aprimoramentos cognitivos e outras tecnologias disruptivas.
+- **Bioimplantes:** Aprimoramentos biológicos para biomorfos.
 - **Biomorfo:** Um corpo biológico, incluindo humanos modificados e não modificados, elevados e prods. Também chamado de pele.
-- **Biowares:** Aprimoramentos biológicos para biomorfos.
 - **Bolha:** Um habitat feito de um asteroide ou lua escavado com gravidade por rotação. Também chamado de esfera.
 - **Bot:** Robô. Uma carcaça sintética pilotada por ILA.
 - **Buscadores da Singularidade:** Uma pessoa obcecada com SIAs como as TITANs ou em se tornar pós-humano.
@@ -54,7 +53,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **A <!--sort-here-->Cerca:** O cordão de isolamento de satélites assassinos ao redor da Terra.
 - **Chapeado:** Um sintemorfo, barato e comum produzido em massa.
 - **Cibercérebro:** Um cérebro artificial, alojando um ego executado em um estado mental programático. Usado em sintemorfos, prods e alguns biomorfos.
-- **Ciberware:** Ampliações artificiais para biomorfos.
+- **Ciberimplantes:** Ampliações artificiais para biomorfos.
 - **Cilindro:** Um habitat oco em forma de lata com gravidade por rotação.
 - **Cilindro Hamilton:** Um habitat cilíndrico vivo e crescente com componentes biológicos construído por nanoenxames.
 - **Cilindro O'Neill:** Um habitat em forma de lata com gravidade por rotação.
@@ -105,11 +104,11 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Enxame:** Uma flotilha de naves, às vezes com habs interligados ou rebocados.
 - **Enxame:** Uma massa de nano- ou microbots agindo em conjunto.
 - **Enxamenoide:** Um sintemorfo composto de um enxame de microbots.
-- **Equipaware:** Aprimoramentos para sintemorfos.
+- **Equimplantes:** Aprimoramentos para sintemorfos.
 - **Eremitas:** Exilados que vivem na periferia do sistema. Também chamados de isolados.
 - **Escaneador:** Um procurador que coleta e analisa dados para sinais de riscos X.
 - **Escanear:** Localizar e identificar dispositivos sem fio.
-- **Escumadores:** Habitantes dos gigantes gelados.
+- **Escumeiros:** Habitantes dos gigantes gelados.
 - **Esfera/Esferoide:** Um habitat em forma de bolha com gravidade por rotação, feito geralmente a partir de asteroides escavados. Também chamado de bolha.
 - **Espreitador das Zonas:** Um coletor de artefatos de zonas de quarentena.
 - **Estruturalistas:** A facção da Firewall que busca uma organização mais formal e ir a público.
@@ -126,10 +125,11 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Farejar:** Interceptar o tráfego sem fio da mesh.
 - **Feitores:** Uma facção de nômades anarquistas barsoomianos ligada em tecnologia.
 - **O <!--sort-here-->Ferro-Velho:** A camada de sucata e detritos na órbita baixa da Terra.
-- **Ferroso:** Um biomorfo otimizado para a vida em Marte.
+- **Ferrugeiro:** Um biomorfo otimizado para a vida em Marte.
 - **Filtro:** Um procurador que lida com engenharia social, manipulação de mídia e encobrimentos.
 - **Firewall:** A conspiração secreta interfaccional que trabalha para proteger a transumanidade dos riscos X.
 - **Firewall:** O programa que defende um sistema de invasões.
+- **Flageladores:** Exsurgentes de forma cilíndrica com uma massa de tentáculos.
 - **Flexbot:** Um sintemorfo que muda de forma capaz de se unir com outros flexbots de forma modular para criar formas maiores.
 - **Formigueiro:** Um habitat de microgravidade feito a partir de um asteroide ou lua escavado em túneis.
 - **Forque:** Uma cópia de um ego.
@@ -147,7 +147,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **GEO:** órbita geossíncrona, 35.786&nbsp;km de altitude acima do equador.
 - **Geração Perdida:** Um grupo de crianças criadas utilizando morfos de crescimento forçado e RV de tempo contraído. Os resultados foram desastrosos: muitos morreram ou ficaram loucos, e os demais foram estigmatizados.
 - **Gigante Gelado:** Um planeta composto de elementos mais pesados que hidrogênio/hélio, geralmente na parte exterior de um sistema estelar.
-- **Glandulizar:** Usar ware para modificar o seu estado emocional.
+- **Glandulizar:** Usar implantes para modificar o seu estado emocional.
 - **Glitterati:** Socialites, hiperelites e ícones da mídia.
 - **Gregos:** Asteroides troianos no ponto L4. Veja também _Troianos_.
 - **Guanxi:** A rede social de criminosos.
@@ -168,6 +168,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Ikon:** Um infomorfo otimizado para mídias e socialites.
 - **Iktomi:** Uma espécie alienígena extinta de artrópodes cujas relíquias foram encontradas além dos portões de pandora.
 - **ILA:** Inteligência Limitada Artificial. IAs que não possuem toda a gama de habilidades cognitivas humanas. As ILAs têm um foco especializado e são incapazes de aprender fora desse foco.
+- **Implantes:** Implantes e aprimoramentos, incluindo bioimplantes, ciberimplantes, equimplantes, meshimplantes e nanoimplantes.
 - **Impressão Cerebral:** A identificação baseada nos seus padrões de ondas cerebrais.
 - **Infomorfo:** Um ego digitalizado executado em um estado mental virtual.
 - **Infoseg:** Segurança da informação; hackeamento e defesa contra ele.
@@ -200,7 +201,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Mercuriais:** Os elementos sapientes não humanos da transumanidade, incluindo IGAs e elevados. Também se refere a um movimento que demanda autodeterminação para IGAs/elevados.
 - **Mesh:** A rede de dados sem fio descentralizada e omnipresente. Também usado como verbo (formar mesh) ou adjetivo (em mesh ou sem mesh).
 - **Mesh ID:** A assinatura única anexada às atividades de alguém na mesh.
-- **Meshwares:** Apps para cibercérebros e infomorfos.
+- **Meshimplantes:** Apps para cibercérebros e infomorfos.
 - **Metacelebridade:** Uma identidade de celebridade compartilhada por múltiplos atores.
 - **Microgravidade:** Zero-g ou ambientes quase sem peso.
 - **Minifat:** Um nanofabro em escala industrial.
@@ -214,8 +215,8 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Nanoecologia:** Um movimento ecológico pró-tecnologia.
 - **Nanoenxame:** Uma massa de nanobots que age em conjunto.
 - **Nanofabro:** Um dispositivo que fabrica itens a partir do nível molecular com um diagrama apropriado. Também chamado de compilador, máquina cornucópia, fabro, forja, fazedor, impressora, replicador.
+- **Nanoimplantes:** Nanossistemas implantados dentro de um morfo.
 - **Nanotat ID:** A identificação nanocodificada no dedo indicador do seu morfo.
-- **Nanowares:** Nanossistemas implantados dentro de um morfo.
 - **Narcoalgoritmo:** Um app que imita os efeitos de uma droga para um infomorfo ou cérebro cibernético.
 - **Necrotério:** Um banco de corpos do mercado negro.
 - **Neo-Aves:** Corvos, gralhas e papagaios-cinzentos elevados.
@@ -228,7 +229,7 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Night Cartel:** Um cartel criminoso progressista que surgiu de várias máfias étnicas da antiga Terra.
 - **Nine Lives:** Um cartel de forquestradores e mercadores de almas.
 - **Nódulo:** Pequenos dispositivos, periféricos e sensores. Pode executar apenas uma única ILA dedicada.
-- **Novacancridae:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
+- **Novacarangu:** Um prod feito a partir de caranguejos-aranhas geneticamente modificados.
 - **A <!--sort-here-->Nuvem:** Outros dispositivos na mesh que oferecem serviços de programas.
 - **Nuvem de Oort:** Uma área a cerca de um ano-luz do sol, povoada predominantemente por cometas.
 - **OCK:** Objeto do Cinturão de Kuiper.
@@ -327,7 +328,6 @@ Esta é uma lista termos utilizados em Eclipse Phase.
 - **Vetor:** Um procurador que lida com hackeamentos, comunicações e segurança online.
 - **Vírus Exsurgente:** Um vírus multivetor espalhado durante a Queda que transforma as vítimas e subverte suas mentes.
 - **VPNs:** Redes privadas virtuais (_Virtual Private Networks_). Redes que operam dentro da mesh, geralmente criptografadas por privacidade/segurança.
-- **Wares:** Implantes e aprimoramentos, incluindo biowares, ciberwares, equipawares, meshwares e nanowares.
 - **Watts-MacLeod:** Uma cepa de vírus exsurgente que não transforma/subverte a vítima, mas dá a ela perícias psi de assincros.
 - **X-pador:** Alguém que transmite/vende XP ao vivo e gravações das suas experiências.
 - **X-zeiro:** Um “usuário de X” — alguém viciado ou obcecado com XP. Ocasionalmente usado para se referir a pessoas que fazem XP.

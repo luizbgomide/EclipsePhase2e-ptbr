@@ -1,4 +1,4 @@
-# Hackeamento de Ware Mental
+# Hackeamento de Implante Mental
 
 Prods, sintemorfos, e alguns bots, veículos e biomorfos estão equipados com cibercérebros. Essa tecnologia permite que egos transumanos encapem e controlem essas formas. Internamente, cibercérebros são aparelhos especializados (terminais) para executar o estado mental digital de um infomorfo. A desvantagem de cibercérebros e infomorfos é que eles podem ser hackeados, assim como qualquer outro dispositivo eletrônico.
 
@@ -12,9 +12,9 @@ Para hackear um infomorfo, você deve conhecer sua mesh ID e ter acesso ao seu d
 
 Como eles executam um ego, cibercérebros e infomorfos possuem medidas de segurança embutidas; aplique um modificador −30 em todas as tentativas de hackeamento.
 
-## Subversão de Ware Mental
+## Subversão de Implante Mental
 
-Quando um cibercérebro ou dispositivo executando um infomorfo for infiltrado, ele pode ser subvertido assim como outros sistemas. No entanto, como esse ware mental contém um ego, um invasor tem várias opções exclusivas.
+Quando um cibercérebro ou dispositivo executando um infomorfo for infiltrado, ele pode ser subvertido assim como outros sistemas. No entanto, como esse implante mental contém um ego, um invasor tem várias opções exclusivas.
 
 Todas as ações abaixo requerem vencer um Teste de Hackeamento.
 
@@ -34,9 +34,9 @@ O acesso direto ao ego de um infomorfo/cibercérebro abre a possibilidade para t
 
 A conexão entre um cibercérebro e o morfo em que reside pode ser temporariamente bloqueada ou permanentemente cortada. Isso geralmente faz com que o morfo congele no lugar (um recurso de segurança para defeitos de cibercérebros), embora possa fazer com que o morfo caia. Em ambos os casos, o morfo está incapacitado. Um ego preso em um morfo incapacitado por períodos prolongados podem sofrer estresse mental de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)).
 
-### Controlar Ware (Cibercérebro)
+### Controlar Implante (Cibercérebro)
 
-Como em [Controlar Ware](13-system-subversion.md#controlar-ware).
+Como em [Controlar Implante](13-system-subversion.md#controlar-implante).
 
 ### Copiar Ego
 
@@ -70,9 +70,9 @@ Morfos com implantes de manípulo fantoche podem ser operados remotamente, assim
 
 Você pode modificar as entradas sensoriais de um morfo para seu cibercérebro residente. Sentidos bloqueados simplesmente param de funcionar até que sejam reativados. Em vez disso, uma entrada sensorial gravada pode ser inserida no cibercérebro, substituindo um único sentido ou todo o sensório (o mesmo que XP). A não ser que a entrada sensorial tenha sido gravada previamente nesse morfo, essas entradas sensoriais injetadas são facilmente percebidas como artificiais (Teste de Percepção com +30). Também é possível fornecer entradas sensoriais contraditórias para um cibercérebro, provocando uma sinestesia severa com a intenção de distrair ou confundir; aplique um modificador entre −10 e −30 (escolha do hacker). A exposição prolongada a entradas sensoriais hostis deve ser tratada como [psicocirurgia](../15/05-psychosurgery.md) de tortura e pode infligir estresse mental.
 
-### Modificar Meshware
+### Modificar Meshimplante
 
-Qualquer [meshware](../16/12-meshware.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshwares podem ser instalados.
+Qualquer [meshimplante](../16/12-meshware.md) conhecido instalado em um infomorfo ou cibercérebro pode ser removido ou desativado. Da mesma forma, novos meshimplantes podem ser instalados.
 
 <!--sort-end-->
 

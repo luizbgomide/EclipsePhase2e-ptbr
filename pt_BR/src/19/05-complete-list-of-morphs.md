@@ -14,7 +14,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
 
@@ -26,7 +26,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
 
@@ -36,7 +36,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical, Regulação Circadiana
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
@@ -44,11 +44,11 @@
 
 <!--sort-end-->
 
-<tr><td>Ferroso<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>1<td>1<td>1</tr>
+<tr><td>Ferrugeiro<td>3&nbsp;PM<td>70<td>7<td>35<td>53<td>0<td>1<td>1<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical, Respiração Aprimorada, Sentido Radiológico, Tolerância ao Frio
 
 </div></tr>
 
@@ -60,7 +60,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
 
@@ -70,7 +70,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
+- **Implantes:** Biomods, Hibernação, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Tolerância ao Frio
 
 </div></tr>
 
@@ -80,7 +80,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Mnemônicos, Pilha Cortical
 
 </div></tr>
 
@@ -90,7 +90,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 
 </div></tr>
 
@@ -100,7 +100,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
+- **Implantes:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Reserva de Oxigênio, Tolerância ao Frio
 - **Traços de Morfo:** Flexibilidade (Nível 1)
 
 </div></tr>
@@ -111,7 +111,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
+- **Implantes:** Biomods, Feromônios Aprimorados, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical
 
 </div></tr>
 
@@ -125,7 +125,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
+- **Implantes:** Almofadas Aderentes, Biomods, Insertos da Mesh, Pele Camaleão, Pilha Cortical
 - **Traços de Morfo:** Comportamento Acentuado (Paciência, Nível 2)
 
 </div></tr>
@@ -136,7 +136,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Biotrama (+2/+3), Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
+- **Implantes:** Biomods, Biotrama (+2/+3), Garras, Insertos da Mesh, Pilha Cortical, Visão Aprimorada
 - **Traços de Morfo:** Comportamento Acentuado (Agressividade, Nível 2; Cooperação, Nível 2)
 
 </div></tr>
@@ -147,7 +147,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
+- **Implantes:** Biomods, Insertos da Mesh, Metabolismo Limpo, Pilha Cortical, Regulação Circadiana, Respiração Aprimorada, Tolerância ao Frio, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 
 </div></tr>
@@ -162,7 +162,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Obsolescência Programada
 
 </div></tr>
@@ -171,7 +171,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
 
@@ -179,11 +179,11 @@
 
 <!--sort-block-->
 
-<tr><td>Novacancridae<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
+<tr><td>Novacarangu<td>4&nbsp;PM<td>50<td>9<td>45<td>68<td>0<td>0<td>3<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Blindagem de Carapaça (+6/+7), Cibercérebro, Guelras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
+- **Implantes:** Biomods, Blindagem de Carapaça (+6/+7), Cibercérebro, Guelras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Reserva de Oxigênio, Respiração Aprimorada, Soquete de Acesso, Tolerância ao Frio, Vedação de Vácuo
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** Ataque com Garras (VD 2d10)
 
@@ -195,7 +195,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Alteração de Odor, Biomods, Cibercérebro, Feromônios Aprimorados, Insertos da Mesh, Manípulo Fantoche, Metabolismo Limpo, Mnemônicos, Mudança Sexual, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
 
@@ -209,7 +209,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Biomods, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Mudança Sexual, Nanotat ID Variável, Pele Camaleão, Pele-Flex, Pilha Cortical, Soquete de Acesso
 
 </div></tr>
 
@@ -219,7 +219,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiware, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Biomods, Biotrama (+2/+3), Cibercérebro, Enguiônico, Garras, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 
 </div></tr>
 
@@ -236,7 +236,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/40, Marcha 2/8
-- **Wares:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
+- **Implantes:** Asas, Biomods, Garras, Insertos da Mesh, Pilha Cortical, Pés Preênseis, Sentido Direcional, Visão Aprimorada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** Ataque com Bico/Garras (VD 2d6), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
@@ -246,7 +246,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
+- **Implantes:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Morfologia Exótica (Nível 1)
 
 </div></tr>
@@ -255,7 +255,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Biomods, Insertos da Mesh, Pilha Cortical
+- **Implantes:** Biomods, Insertos da Mesh, Pilha Cortical
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1)
 
 </div></tr>
@@ -268,7 +268,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
+- **Implantes:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Morfologia Exótica (Nível 1)
 
 </div></tr>
@@ -279,7 +279,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
+- **Implantes:** Biomods, Insertos da Mesh, Olfato Aprimorado, Pilha Cortical, Pés Preênseis
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 1), Flexibilidade (Nível 1), Morfologia Exótica (Nível 1)
 - **Notas:** Extensão (+10)
 
@@ -291,7 +291,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 4/12, Marcha 2/8, Nado 4/20
-- **Wares:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
+- **Implantes:** Biomods, Guelras, Insertos da Mesh, Pele Camaleão, Pilha Cortical, Visão 360-Graus, Visão Polarizada
 - **Traços de Morfo:** Bioquímica Não Humana (Nível 2), Flexibilidade (Nível 2), Morfologia Exótica (Nível 3)
 - **Notas:** 8 braços preênseis, Ataque com Bico (VD 1d10), Ataque com Tinta (usar Atletismo, cegante, área de efeito uniforme de 5 metros em água e microgravidade)
 
@@ -314,7 +314,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Falhas Inerentes, Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -326,7 +326,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
+- **Implantes:** Almofadas Aderentes, Cibercérebro, Controle de Estresse, Insertos da Mesh, Lidar, Ligação Dérmica, Manípulo Fantoche, Mnemônicos, Pilha Cortical (opcional), Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
@@ -338,7 +338,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32, Marcha 2/8
-- **Wares:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
+- **Implantes:** Asas, Cauda Preênsil, Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Radar, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), [Tamanho Pequeno](../12/21-other-action-factors.md#tamanho-pequeno)
 
@@ -352,7 +352,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 2/8, Pulo 4/12, Rotor 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão 360-Graus
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Ataque de Enxame (VD 1d6, ignora blindagem, cegante), vem com [colmeia especializada de enxamenoide](../16/19-nanotech.md#colmeias)
 
@@ -364,7 +364,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -376,7 +376,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -390,7 +390,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Audição Aprimorada, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pele Camaleão, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Leve (Blindagem 6/4)
 
@@ -402,7 +402,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 1)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -414,7 +414,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Rolagem 8/32, Serpente 4/12
-- **Wares:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
+- **Implantes:** Cibercérebro, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Soquete de Acesso, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 2)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -426,7 +426,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20, Pulo 4/12, Rodas 8/40
-- **Wares:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
+- **Implantes:** Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Sistema Magnético, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Média (Blindagem 8/6)
 
@@ -435,7 +435,7 @@
 <tr><td colspan="10"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Iônico 8/40, Marcha 4/20, Pulo 4/20
-- **Wares:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
+- **Implantes:** Antirreflexo, Cibercérebro, Emissor de Raios T, Insertos da Mesh, Manípulo Fantoche, Membros Retráteis, Mnemônicos, Pilha Cortical, Pneumáticos, Radar, Sistema Magnético, Soquete de Acesso, Suporte de Arma (Articulado, 4), Visão 360-Graus, Visão Aprimorada
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Pesada (Blindagem 12/10)
 
@@ -450,7 +450,7 @@
 <tr><td><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/12
-- **Wares:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
+- **Implantes:** Ajuste de Forma, Cibercérebro, Insertos da Mesh, Lidar, Manípulo Fantoche, Mnemônicos, Pilha Cortical, Projeto Modular, Soquete de Acesso
 - **Traços de Morfo:** Morfologia Exótica (Nível 3)
 - **Notas:** Armação Leve (Blindagem 6/4), Tamanho Pequeno
 
@@ -467,7 +467,7 @@
 <tr><td>Módulo Construtor<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Colmeia de Enxame Engenheiro, Colmeia de Enxame Reparador
+- **Implantes:** Colmeia de Enxame Engenheiro, Colmeia de Enxame Reparador
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ferramentas de Desmontagem, Kit de Ferramentas, Utiliferramenta, Visão Aprimorada, Visão Nanoscópica
 
 </div></tr>
@@ -477,7 +477,7 @@
 <tr><td>Módulo Feiticeiro<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>1<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
+- **Implantes:** Amplificador de Rádio, App de Farejamento, App de Rastreamento
 - **Ajustes de Forma Comuns:** Ligação Dérmica, Ligação Laser, Nanodetector, Sentido Elétrico, Utiliferramenta, Visão Aprimorada
 
 </div></tr>
@@ -487,7 +487,7 @@
 <tr><td>Módulo Ladino<td>2&nbsp;PM<td>60<td>4<td>20<td>40<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Absorção de Radar, Pele Camaleão
+- **Implantes:** Absorção de Radar, Pele Camaleão
 - **Ajustes de Forma Comuns:** Dedos Fractais, Emissor de Raios T, Ofuscante, Olho de Fibra, Sistema Magnético, Suporte de Arma, Visão Aprimorada, Visão Nanoscópica
 
 </div></tr>
@@ -497,7 +497,7 @@
 <tr><td>Módulo Guerreiro<td>3&nbsp;PM<td>60<td>6<td>30<td>60<td>0<td>0<td>1<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Pneumáticos, Suporte de Arma (2)
+- **Implantes:** Pneumáticos, Suporte de Arma (2)
 - **Ajustes de Forma Comuns:** Blindagem de Combate Leve, Emissor de Raios T, Radar, Visão Aprimorada, e armas à distância
 
 </div></tr>
@@ -511,28 +511,28 @@
 <tr><td>Digimorfo<td>0&nbsp;PM<td>100<td>5<td>25<td>50<td>0<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Mnemônicos
+- **Implantes:** Mnemônicos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </div></tr>
 <tr><td>Ikon<td>1&nbsp;PM<td>100<td>6<td>30<td>60<td>1<td>3<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Mnemônicos, Trava Memorial, Travacópia
+- **Implantes:** Mnemônicos, Trava Memorial, Travacópia
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </div></tr>
 <tr><td>Agente<td>2&nbsp;PM<td>100<td>8<td>40<td>80<td>4<td>0<td>0<td>0</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Mnemônicos, Segurança Aprimorada, Véu Digital
+- **Implantes:** Mnemônicos, Segurança Aprimorada, Véu Digital
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </div></tr>
 <tr><td>Operador<td>2&nbsp;PM<td>100<td>7<td>35<td>70<td>3<td>0<td>0<td>1</tr>
 <tr><td colspan="10"><div class="indent">
 
-- **Wares:** Acoplagem Drone, Mnemônicos, Oráculos
+- **Implantes:** Acoplagem Drone, Mnemônicos, Oráculos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </div></tr>

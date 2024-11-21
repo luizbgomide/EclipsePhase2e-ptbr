@@ -19,7 +19,7 @@ Digimorfos são emulações mentais básicas, embora sejam personalizáveis e am
 
 ---
 
-- **Wares:** Mnemônicos
+- **Implantes:** Mnemônicos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>
@@ -41,7 +41,7 @@ Projetado para artistas online, ícones de mídia e socializadores, esse infomor
 
 ---
 
-- **Wares:** Mnemônicos, Trava Memorial, Travacópia
+- **Implantes:** Mnemônicos, Trava Memorial, Travacópia
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>
@@ -67,7 +67,7 @@ Popular com especialistas em segurança de rede, testadores de invasão e hacker
 
 ---
 
-- **Wares:** Mnemônicos, Segurança Aprimorada, Véu Digital
+- **Implantes:** Mnemônicos, Segurança Aprimorada, Véu Digital
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>
@@ -91,7 +91,7 @@ Este infomorfo é ideal para profissões que envolvem operação remota de drone
 
 ---
 
-- **Wares:** Acoplagem Drone, Mnemônicos, Oráculos
+- **Implantes:** Acoplagem Drone, Mnemônicos, Oráculos
 - **Traços de Morfo:** Morfologia Exótica (Nível 3), Velocidade Digital
 
 </blockquote>

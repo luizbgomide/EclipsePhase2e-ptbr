@@ -1,10 +1,10 @@
-# Meshwares
+# Meshimplantes
 
-Meshwares referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como biowares e equipawares para morfos físicos. Um meshware exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshware permanece com o infomorfo quando ele é movido ou copiado. Os meshwares também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshwares, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshwares não podem ser usados por não infomorfos ou usuários sem cibercérebros.
+Meshimplantes referem-se a apps complementares que aprimoram as capacidades de um infomorfo, assim como bioimplantes e equimplantes para morfos físicos. Um meshimplante exige apenas uma ação complexa para ser instalado ou desinstalado. Uma vez instalado, o meshimplante permanece com o infomorfo quando ele é movido ou copiado. Os meshimplantes também podem ser instalado em cibercérebros. Outros apps também podem ser instalados como meshimplantes, para que eles sejam incorporados ao infomorfo. Ao contrário de outros apps, os meshimplantes não podem ser usados por não infomorfos ou usuários sem cibercérebros.
 
 <!--sort-->
 
-| MESHWARES            | Comp/<wbr>PE | Descrição                                                                                          |
+| MESHIMPLANTES        | Comp/<wbr>PE | Descrição                                                                                          |
 |:-------------------- |:-------------------------------------:|:-------------------------------------------------------------------------------------------------- |
 | Autoapagamento       |                 Men/1                 | Autoapaga o infomorfo quando as condições são atendidas.                                           |
 | Persistência         |                 Mod/2                 | Mantém o infomorfo em execução, +10 em DUR, +2 em LF.                                              |
@@ -18,13 +18,13 @@ Meshwares referem-se a apps complementares que aprimoram as capacidades de um in
 
 **Autoapagamento:** Esse app vai automaticamente apagar o infomorfo (ou o ego em um cibercérebro) se certas condições pré-programadas forem atendidas. Isso é útil se você estiver preocupado com hacks cerebrais, forquestro ou ficar preso em uma caixa-forte. Condições comuns de acionamento incluem: hack cerebral detectado, uma frase secreta, psicocirurgia, um período de tempo designado, ou a falha na recepção de uma mensagem periódica. Algumas pessoas usam esse app para impedir que os forques tornem-se errantes; muitos governos exigem legalmente que os forques sejam equipados para se apagarem após um número determinado de horas. O autoapagamento funciona mesmo se o infomorfo não tiver privilégios no sistema.
 
-**Persistência:** Esse meshware usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
+**Persistência:** Esse meshimplante usa técnicas de rootkit para manter a mente digital ativa apesar das tentativas de travá-la. Aumente a Durabilidade do infomorfo em 10 e o Limiar de Ferimento em 2.
 
-**Segurança Aprimorada:** Esse meshware instala camadas adicionais de firewall e segurança, tornando o infomorfo/cibercérebro mais difícil de hackear. Aplique um modificador −10 em tentativas de hack cerebral da sua mente digital.
+**Segurança Aprimorada:** Esse meshimplante instala camadas adicionais de firewall e segurança, tornando o infomorfo/cibercérebro mais difícil de hackear. Aplique um modificador −10 em tentativas de hack cerebral da sua mente digital.
 
 <!--sort-union-->
 
-Você também pode usar esse meshware para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
+Você também pode usar esse meshimplante para entrar em um estado elevado de segurança — Modo Defensivo. Quando ativado com uma ação rápida, o modificador para hacks cerebrais contra você aumenta para −30. No entanto, esse estado de confinamento debilita suas funções; você não pode usar a parada de Inspiração enquanto isso estiver ativo e sofre um modificador −3 em Iniciativa.
 
 **Tolerância a Erros:** Esse módulo fornece funções de redundância e compartilhamento de carga. Você recebe VB 5 contra ataques na mesh.
 

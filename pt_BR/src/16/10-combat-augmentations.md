@@ -1,35 +1,35 @@
 # Ampliações de Combate
 
-As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Ware de arma/armadura estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Blindagem](../12/14-armor-mods.md)).
+As seguintes ampliações possuem aplicações específicas para combate e circunstâncias perigosas, além dos usos fora de combate. Implantes de arma/blindagem estão listados com as regras de combate (de [Combate de Luta](../12/02-melee-combat.md) até [Mods de Blindagem](../12/14-armor-mods.md)).
 
 <!--sort-->
 
-| AMPLIAÇÕES DE COMBATE    | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                                 |
-|:------------------------ |:------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------- |
-| Absorção de Radar        |      E       |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                  |
-| Ampliação Muscular       |     BCE      |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;\[4\]&nbsp;VD luta, +10 em Provas de SOM. |
-| Amplificador de Reflexos |      CE      |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIC, +10 em Provas de REF.              |
-| Aprimoramento Estrutural |      E       |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                       |
-| Atuadores Inteligentes   |      E       |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                                |
-| Controle de Estresse     |      BM      |                 Mod/2                 | Gerencia níveis de estresse. +10 em Provas de VON vs. estresse, +1 em Limiar de Trauma.   |
-| Eficiência Energética    |     BEM      |                 Mai/3                 | Uma recarga curta extra por dia.                                                          |
-| Esqueleto Endurecido     |      CE      |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                    |
-| Filtros de Toxina        |      B       |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.          |
-| Glândulas de Droga       |      B       |            Men/R/1 + Droga            | Produz um tipo de droga.                                                                  |
-| Glândulas de Nanotoxina  |      N       |         Men/R/1 + Nanotoxina          | Colmeia de nanobots, produz um tipo de nanotoxina.                                        |
-| Glândulas de Veneno      |      B       |           Men/R/1 + Toxina            | Produz um tipo de veneno.                                                                 |
-| Imunizantes              |      N       |                 Mod/2                 | Teste de Medicina: Farmacologia 60 para imunidade futura a droga, toxina ou doença.       |
-| Medicadores              |      EN      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.         |
-| Membro Telescópico       |      CE      |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
-| Nanobomba                |      N       |           Men/1 + Nanodroga           | Colmeia de nanobots, produz um tipo de nanodroga.                                         |
-| Nanófagos                |      N       |                 Mod/2                 | Prova de SOM nega nanodrogas/toxinas, falha reduz efeito à metade.                        |
-| Neuraquim                |      BE      |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                   |
-| Novacardium              |      B       |                 Mod/2                 | Coração e sistema circulatório aprimorados. +1 em Vigor.                                  |
-| Pneumáticos              |      E       |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;\[4\]&nbsp;VD luta.                       |
-| Regulador de Dor         |      B       |                 Mod/2                 | Ameniza a sensação de dor. Ignore 1 efeito de ferimento.                                  |
-| Respirócitos             |      N       |                 Mod/2                 | Células vermelhas artificiais, fornecem 4 horas de ar, +5 em DUR, +1 em LF, +8 em GD.     |
-| Suporte de Arma          |      CE      |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
-| Surto Adrenal            |      B       |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                         |
+| AMPLIAÇÕES DE COMBATE    | Tipo de Implante | Comp/<wbr>PE | Descrição                                                                                 |
+|:------------------------ |:----------------:|:-------------------------------------:|:----------------------------------------------------------------------------------------- |
+| Absorção de Radar        |        E         |                 Mod/2                 | −30 em Percepção usando radar/terahertz.                                                  |
+| Ampliação Muscular       |       BCE        |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;\[4\]&nbsp;VD luta, +10 em Provas de SOM. |
+| Amplificador de Reflexos |        CE        |                 Mai/3                 | Religação da espinha e do sistema nervoso. +3 em INIC, +10 em Provas de REF.              |
+| Aprimoramento Estrutural |        E         |                 Mai/3                 | Armação reforçada. +2 em LF, +10 em DUR, +20 em GD.                                       |
+| Atuadores Inteligentes   |        E         |                 Mod/2                 | Robótica mais rápida e forte. +1 em Vigor.                                                |
+| Controle de Estresse     |        BM        |                 Mod/2                 | Gerencia níveis de estresse. +10 em Provas de VON vs. estresse, +1 em Limiar de Trauma.   |
+| Eficiência Energética    |       BEM        |                 Mai/3                 | Uma recarga curta extra por dia.                                                          |
+| Esqueleto Endurecido     |        CE        |                 Mai/3                 | Reforço ósseo. +1 em LF, +5 em DUR, +8/10 em GD, +10 em Provas de SOM.                    |
+| Filtros de Toxina        |        B         |                 Mai/3                 | +30 em provas de aptidão para resistir drogas/toxinas, metade do efeito/duração.          |
+| Glândulas de Droga       |        B         |            Men/R/1 + Droga            | Produz um tipo de droga.                                                                  |
+| Glândulas de Nanotoxina  |        N         |         Men/R/1 + Nanotoxina          | Colmeia de nanobots, produz um tipo de nanotoxina.                                        |
+| Glândulas de Veneno      |        B         |           Men/R/1 + Toxina            | Produz um tipo de veneno.                                                                 |
+| Imunizantes              |        N         |                 Mod/2                 | Teste de Medicina: Farmacologia 60 para imunidade futura a droga, toxina ou doença.       |
+| Medicadores              |        EN        |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas.         |
+| Membro Telescópico       |        CE        |                 Mod/2                 | Membro extensível. +1 em Extensão.                                                        |
+| Nanobomba                |        N         |           Men/1 + Nanodroga           | Colmeia de nanobots, produz um tipo de nanodroga.                                         |
+| Nanófagos                |        N         |                 Mod/2                 | Prova de SOM nega nanodrogas/toxinas, falha reduz efeito à metade.                        |
+| Neuraquim                |        BE        |                 Mai/3                 | Sinapses e neurotransmissores aprimorados. +2 em Vigor.                                   |
+| Novacardium              |        B         |                 Mod/2                 | Coração e sistema circulatório aprimorados. +1 em Vigor.                                  |
+| Pneumáticos              |        E         |                 Mai/3                 | Atuadores macios. +10 em Atletismo, +1d6&nbsp;\[4\]&nbsp;VD luta.                       |
+| Regulador de Dor         |        B         |                 Mod/2                 | Ameniza a sensação de dor. Ignore 1 efeito de ferimento.                                  |
+| Respirócitos             |        N         |                 Mod/2                 | Células vermelhas artificiais, fornecem 4 horas de ar, +5 em DUR, +1 em LF, +8 em GD.     |
+| Suporte de Arma          |        CE        |                Men/R/1                | Ponto de fixação para um arma estática/giratória/articulada. Ocultável.                   |
+| Surto Adrenal            |        B         |                 Mai/3                 | Resposta adrenal sobrecarregada. +1 em Vigor, ignore 1 ferimento.                         |
 
 <!--sort-->
 
@@ -45,7 +45,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 **Controle de Estresse:** O sistema endócrino do seu morfo (ou sua simulação programática) foi modificado para lhe dar maior controle sobre o cortisol e hormônios semelhantes. Isso lhe permite gerenciar seus níveis de estresse e respostas. Aplique um modificador +10 Provas de VON contra estresse ou transtornos desencadeados, e aumente seu Limiar de Trauma em 1. Isso não impacta sua Lucidez ou Grau de Insanidade.
 
-**Eficiência Energética:** A versão em bioware deste ware acelera o seu metabolismo. A versão em equipaware otimiza o uso de energia da sua carcaça. A versão em meshware otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
+**Eficiência Energética:** A versão em bioimplante deste implante acelera o seu metabolismo. A versão em equimplante otimiza o uso de energia da sua carcaça. A versão em meshimplante otimiza o código. Isso lhe dá 1 recarga curta extra por dia.
 
 **Esqueleto Endurecido:** O esqueleto do morfo é enriquecido com metais amorfos e fulerenos para fortalecimento. Aumente seu Limiar de Ferimento em 1, Durabilidade em 5, Grau de Destruição em 8 (biomorfos) ou 10 (sintemorfos), e sua Prova de SOM em 10.
 
@@ -57,7 +57,7 @@ As seguintes ampliações possuem aplicações específicas para combate e circu
 
 **Glândulas de Veneno:** Semelhantes às glândulas de droga, seu morfo tem órgãos adaptados que produzem veneno, como as glândulas de peçonha de uma cobra. Seu morfo tem glândulas de veneno em seus dedos/mãos e/ou boca (e possivelmente outros lugares), então você pode aplicar a toxina com uma ação rápida arranhando alguém com uma unha, mordendo o suficiente para tirar sangue, compartilhando uma bebida ou apertando a mão. Você também pode revestir uma arma de luta, para que ela aplique a toxina na próxima vez que infligir um ferimento (apenas uma vez, até ser revestida de novo). As glândulas de veneno só contém 1 dose por vez, mas podem produzir uma nova dose a cada 4 horas. Seu morfo é imune ao veneno que ele produz. Essas glândulas podem produzir qualquer toxina com um tipo biológico ou químico, mas não as nanotoxinas. Cada conjunto de glândulas é uma ampliação separada.
 
-**Imunizantes:** Esse sistema de nanoware monitora a sua saúde por sinais de danos ou efeitos deletérios infligidos por drogas ou toxinas do tipo biológico ou químico, assim como por novas doenças. Sempre que você for afetado, os nanobots fazem um Teste de Medicina: Farmacologia 60. Se bem-sucedido, eles elaboram defesas que fornecem imunidade total contra aquela droga, toxina ou doença no futuro. Algumas pessoas com essa ampliação aprendem a desfrutar do sabor de várias toxinas químicas, como cianeto ou arsênico.
+**Imunizantes:** Esse sistema de nanoimplante monitora a sua saúde por sinais de danos ou efeitos deletérios infligidos por drogas ou toxinas do tipo biológico ou químico, assim como por novas doenças. Sempre que você for afetado, os nanobots fazem um Teste de Medicina: Farmacologia 60. Se bem-sucedido, eles elaboram defesas que fornecem imunidade total contra aquela droga, toxina ou doença no futuro. Algumas pessoas com essa ampliação aprendem a desfrutar do sabor de várias toxinas químicas, como cianeto ou arsênico.
 
 **Medicadores:** Uma colmeia implantada circula nanobots por todo seu sistema, monitorando a sua saúde em nível celular e corrigindo quaisquer problemas. Os medicadores permitem que você ignore o efeito de 1 ferimento (cumulativo com outros mods, até o máximo de 3 ferimentos ignorados). Eles também aceleram a sua cura natural ([Cura de Biomorfos](../12/17-healing-and-repair.md#cura-de-biomorfos)). Se o dano recebido exceder a sua Durabilidade, ou você receber 5 ou mais ferimentos em uma hora, os medicadores automaticamente o estabilizam, evitam sangramentos, colocam você em estase médica (durante o qual você está inconsciente e incapaz de agir), e avisam os serviços de emergência através dos seus insertos da mesh. Os medicadores também reduzem a duração dos efeitos de drogas, toxinas e patógenos à metade (cumulativo com filtros de toxina). Você pode anular essa proteção para permitir a intoxicação ou outros efeitos, mas a não ser que você ative uma segunda anulação, os medicadores impedem que as toxinas atinjam níveis letais ou permanentemente nocivos. Os medicadores fornecem relatórios do estado de saúde para os seus insertos da mesh e a sua musa.
 

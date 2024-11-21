@@ -46,7 +46,7 @@ Se você está prostrado, você pode se levantar com uma ação rápida e fazer 
 
 **\[Complexa\]**
 
-Escalar, nadar, rastejar, ou se mover de alguma outra forma que não seja o método típico de movimentação do seu morfo, usa uma ação complexa e se move por uma distância igual ao seu movimento base. Alguns wares, como almofadas aderentes quando escalar, podem aumentar isso para o seu movimento completo. Repare que alguns tipos de movimento são simplesmente impossíveis para certos morfos, dependendo do seu design; por exemplo, a maioria dos morfos humanos voam tão bem quanto tijolos.
+Escalar, nadar, rastejar, ou se mover de alguma outra forma que não seja o método típico de movimentação do seu morfo, usa uma ação complexa e se move por uma distância igual ao seu movimento base. Alguns implantes, como almofadas aderentes quando escalar, podem aumentar isso para o seu movimento completo. Repare que alguns tipos de movimento são simplesmente impossíveis para certos morfos, dependendo do seu design; por exemplo, a maioria dos morfos humanos voam tão bem quanto tijolos.
 
 ### Movimento Difícil
 
@@ -68,7 +68,7 @@ Está fora do escopo deste livro avaliar o impacto de diferentes gravidades em t
 
 ## Tipos de Movimento
 
-As regras acima são direcionadas para morfos humanoides, mas há muitos morfos, carcaças e criaturas com formas corporais e/ou sistemas de mobilidade diferentes. Sintemorfos podem adicionar sistemas de mobilidade como [ware](../16/11-physical-augmentations.md). Os tipos de movimento abaixo listam a perícia usada para manobrar e uma Taxa de Movimento padrão, mas o MJ deve ajustar isso levando em conta o tamanho, volume, membros extras, etc.
+As regras acima são direcionadas para morfos humanoides, mas há muitos morfos, carcaças e criaturas com formas corporais e/ou sistemas de mobilidade diferentes. Sintemorfos podem adicionar sistemas de mobilidade como [implante](../16/11-physical-augmentations.md). Os tipos de movimento abaixo listam a perícia usada para manobrar e uma Taxa de Movimento padrão, mas o MJ deve ajustar isso levando em conta o tamanho, volume, membros extras, etc.
 
 Para simplificar as taxas de movimento para os MJs conduzindo cenas de ação de forma abstrata, nós mapeamos cada tipo de movimento com uma faixa de velocidade: muito lento (2/8), lento (4/12), médio (4/20), rápido (8/32) e muito rápido (8/40). Muitas carcaças conseguem movimentos ainda mais rápidos; isso é discutido em [Movimento de Veículos](25-vehicle-movement.md).
 

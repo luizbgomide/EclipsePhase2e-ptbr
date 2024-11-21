@@ -4,14 +4,14 @@ Os robôs são uma visão comum e um fato da vida cotidiana em Eclipse Phase. In
 
 A maioria dos robôs são construídos intencionalmente em formas não humanoides para não confundi-los com sintemorfos comuns, e para aliviar a culpa subconsciente que os transumanos podem ter por dar ordens às entidades antropomórficas ao seu redor. No entanto, todos eles têm alguma forma de “rosto” abstrato para interagir, de modo a não serem “máquinas” demais.
 
-## Wares Robóticos
+## Implantes Robóticos
 
-Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com wares padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de ware, como indicado em suas descrições. Você também pode modificar bots com ware adicional, exatamente como um sintemorfo. Alguns também usam [equipawares veiculares](22-vehicles.md#equipawares-veiculares).
+Todos os robôs são equipados com os mesmos sistemas sensoriais que você tem com cada morfo: visão padrão, audição, tato, propriocepção, equilíbrio, e assim por diante — às vezes até olfato. Eles também estão todos equipados com implantes padrões que facilitam seu uso, como indicado abaixo. Os bots individuais possuem suas próprias cargas de implantes, como indicado em suas descrições. Você também pode modificar bots com implantes adicionais, exatamente como um sintemorfo. Alguns também usam [equimplantes veiculares](22-vehicles.md#equimplantes-veiculares).
 
-| TODOS OS ROBÔS                                                                                                                                        |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes equipawares, além daqueles listados em suas descrições específicas: |
-| <ul class="stat-list indent"><li>**Wares:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                             |
+| TODOS OS ROBÔS                                                                                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A menos que indicado o contrário, todos os robôs estão equipados com os seguintes equimplantes, além daqueles listados em suas descrições específicas: |
+| <ul class="stat-list indent"><li>**Implantes:** ILA de Bot, Insertos da Mesh, Lidar, Manípulo Fantoche, Soquete de Acesso, Visão 360-Graus</ul>                                                                                                                              |
 
 ## Operação Remota
 
@@ -48,7 +48,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rotor 8/32
-- **Wares:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
+- **Implantes:** Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônico, Olfato Aprimorado, Pele Camaleão, Radar, Suporte de Arma (Articulado), Visão Aprimorada
 
 </div></tr>
 
@@ -67,7 +67,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Foguete) 8/40
-- **Wares:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
+- **Implantes:** Absorção de Radar, Aprimoramento Estrutural, Blindagem de Combate Pesada, Suportes de Arma (2 Estáticos, 2 Articulados/Ocultos), Visão Aprimorada
 
 </div></tr>
 
@@ -77,7 +77,7 @@ Estes bots são úteis para aplicações de segurança, defesa e combate.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Esteira 4/12
-- **Wares:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiware, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
+- **Implantes:** Antirreflexo, Atuadores Inteligentes, Audição Aprimorada, Blindagem de Combate Leve, Emissor de Raios T, Enguiônico, Suportes de Arma (2 Articulados/Ocultos), Visão Aprimorada
 
 </div></tr>
 
@@ -112,7 +112,7 @@ Projetados para desbravamento, esses bots também são úteis em outras funçõe
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12, Rolagem 8/40
-- **Wares:** Ajuste de Forma, Membros Retráteis
+- **Implantes:** Ajuste de Forma, Membros Retráteis
 
 </div></tr>
 
@@ -122,7 +122,7 @@ Projetados para desbravamento, esses bots também são úteis em outras funçõe
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Esteira 4/12, Empuxo Vetorial (Jatos de Gás) 8/40
-- **Wares:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Emissor de Raios T, Farejador Químico, Laboratório de Bolso, Radar, Recipiente de Espécime, Sentido Elétrico, Sonar, Utilimod, Visão Aprimorada
 
 </div></tr>
 
@@ -153,7 +153,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Microleve 8/32
-- **Wares:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
+- **Implantes:** Emissor de Raios T, Farejador Químico, Ligação Laser, Radar, Visão Aprimorada
 
 </div></tr>
 
@@ -163,7 +163,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Iônico 8/40
-- **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 </div></tr>
 
@@ -173,7 +173,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rotor 8/32
-- **Wares:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Pele Camaleão, Radar, Visão Aprimorada
 
 </div></tr>
 
@@ -183,7 +183,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32, Pulo 4/12
-- **Wares:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
+- **Implantes:** Almofadas Aderentes, Audição Aprimorada, Máscara Sintética, Visão Aprimorada
 
 </div></tr>
 
@@ -193,7 +193,7 @@ Os circuitos fechados de vigilância continuam sendo um dos usos principais dos 
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Asas 8/32
-- **Wares:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
+- **Implantes:** Absorção de Radar, Emissor de Raios T, Ligação Laser, Pele Camaleão, Radar, Suporte de Arma (2 Estáticos), Visão Aprimorada
 
 </div></tr>
 
@@ -230,7 +230,7 @@ Estes bots são verdadeiros salva-vidas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
-- **Wares:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
+- **Implantes:** Colmeia Guardião, Dedos Fractais, Fabro Médio, Kit de Ferramentas (Medicina: Biotecnologia ou Paramedicina), Olfato Aprimorado, Recipiente de Espécime, Visão Nanoscópica
 
 </div></tr>
 
@@ -240,7 +240,7 @@ Estes bots são verdadeiros salva-vidas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Rodas 8/40, Rotor 8/32
-- **Wares:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
+- **Implantes:** Audição Aprimorada, Ferramentas de Desmontagem, Kit de Ferramentas (Medicina: Paramedicina), Machado Diamantado, Olfato Aprimorado, Spray Curativo (2), Spray Reparador (2), Suporte de Arma (Articulado/Oculto, Pulverizador com Água-Nada), Visão Aprimorada
 
 </div></tr>
 
@@ -271,7 +271,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Garras, Sistema Magnético
+- **Implantes:** Almofadas Aderentes, Garras, Sistema Magnético
 
 </div></tr>
 
@@ -281,7 +281,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha/Pulo 4/12
-- **Wares:** Almofadas Aderentes, Pele Camaleão
+- **Implantes:** Almofadas Aderentes, Pele Camaleão
 
 </div></tr>
 
@@ -291,7 +291,7 @@ Os bots pessoais carregados junto ao corpo ou encontrados por toda parte em habi
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/12
-- **Wares:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
+- **Implantes:** Almofadas Aderentes, Membro Telescópico, Sistema Magnético, Utilimod
 
 </div></tr>
 
@@ -335,7 +335,7 @@ Estes bots ajudam a fazer as coisas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Marcha 4/20
-- **Wares:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
+- **Implantes:** Ferramentas de Desmontagem, Kit de Ferramentas, Radar, Sentido Elétrico, Sonar
 
 </div></tr>
 
@@ -345,7 +345,7 @@ Estes bots ajudam a fazer as coisas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás)/Rodas 8/40
-- **Wares:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
+- **Implantes:** Kit de Ferramentas, Membros Retráteis, Sentido Elétrico, Sentido Radiológico, Sistema Magnético, Utilimod
 
 </div></tr>
 
@@ -355,17 +355,17 @@ Estes bots ajudam a fazer as coisas.
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Submerso 8/32
-- **Wares:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
+- **Implantes:** Adaptação de Pressão, Audição Aprimorada, Membros Retráteis, Proteção Criogênica, Sonar, Utilimod
 
 </div></tr>
 
 <!--sort-block-->
 
-<tr><td>Mula-Robô<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
+<tr><td>Robomula<td>Mod/2<td>0<td>1<td>8/6<td>8<td>40<td>80<td>M</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Taxa de Movimento:** Empuxo Vetorial (Jatos de Gás) 8/40, Marcha 4/20
-- **Wares:** Autocozedor
+- **Implantes:** Autocozedor
 
 </div></tr>
 
@@ -381,7 +381,7 @@ Estes bots ajudam a fazer as coisas.
 
 **Barracuda:** Esse drone utilitário submarino é usado para funções de exploração, serviço e reparo. Ele tem o formato de um submarino em miniatura com um par de braços retráteis.
 
-**Mula-Robô:** Esses drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
+**Robomula:** Esses drones de carga de seis patas são projetados para carregar grandes equipamentos não portáteis, tais como servidores, tanques de cura, oficinas de ferramentas, etc. Eles também funcionam como drones de suprimento de uso geral, com amarras e redes de material inteligente para segurar itens e uma cápsula com vedação ambiental para proteger sua carga do ambiente.
 
 <!--sort-end-->
 

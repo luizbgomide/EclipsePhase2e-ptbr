@@ -22,7 +22,7 @@ Você pode gastar pontos das suas paradas para afetar os testes que faz; escolha
 
 Salvo indicação em contrário, apenas 1 ponto de parada pode ser gasto por teste. A parada gasta para um efeito contínuo (o último item da lista acima) é contada como afetando um teste.
 
-Vários aprimoramentos (wares, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos por qualquer parada individual.
+Vários aprimoramentos (implantes, drogas, truques, etc.) fornecem bônus às suas paradas. Eles são cumulativos, até um bônus máximo de +5 pontos por qualquer parada individual.
 
 ## Inspiração
 
@@ -74,7 +74,7 @@ Alguns efeitos, como drogas e truques psi, fornecem bônus temporários em parad
 
 <blockquote>
 
-Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem ware de neuraquim, graças ao seu pacote de equipamentos de soldado, que lhe dá +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem Flex 1 do ego.
+Zahiri tem um morfo aracnoide com Inspiração 1 e Vigor 3. Ele também tem implante de neuraquim, graças ao seu pacote de equipamentos de soldado, que lhe dá +2 em Vigor, totalizando uma parada de Vigor 5. Ele também tem Flex 1 do ego.
 
 Enquanto se aproxima de um ninho de ex-humanos em um asteroide remoto, Zahiri gasta 1 de Inspiração para obter +20 de bônus na rolagem de Percepção. Infelizmente ele falha em dois Testes de Queda Livre enquanto atravessa várias fendas no asteroide, obtendo um 71 e um 85 contra sua Queda Livre 60. Em ambos os casos, ele gastou um ponto de Vigor para inverter a rolagem, obtendo um 17 e um 58 respectivamente, tendo sucesso em seus testes. Uma vez lá dentro, ele faz uma recarga curta, rola 1d6 e obtêm um 6, recuperando todos os 3 pontos que gastou.
 

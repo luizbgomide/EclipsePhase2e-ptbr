@@ -5,7 +5,7 @@
 - Uma seleção completa de morfos — o equipamento mais essencial do seu personagem
 - Um sistema de criação de personagens por trajetória de vida
 - Regras para criação de novos morfos
-- Novos traços e wares
+- Novos traços e implantes
 
 ## Licença & Créditos
 

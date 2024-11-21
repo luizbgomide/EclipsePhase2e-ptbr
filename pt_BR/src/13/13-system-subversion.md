@@ -14,9 +14,9 @@ Você pode transmitir sinais de rádio que interferem deliberadamente com outros
 
 O bloqueio é bastante difícil de superar ([Evitar Bloqueio de Sinal](06-mesh-actions.md#ações-de-segurança)). O bloqueio também pode ser usado para bloquear sinais de radar e sensores.
 
-## Controlar Ware
+## Controlar Implante
 
-Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), ou o nó mestre de uma PAN, você pode ter acesso privilegiado aos wares do morfo — além de poder hackear o ware diretamente. Um hacker pode usar isso para (des)ativar o ware, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripts) para manipular esse ware no futuro, entre outros usos criativos.
+Se hackear insertos da mesh, um cibercérebro ([Hackeamento de Implante Mental](17-mindware-hacking.md)), ou o nó mestre de uma PAN, você pode ter acesso privilegiado aos implantes do morfo — além de poder hackear o implante diretamente. Um hacker pode usar isso para (des)ativar o implante, modificar seus parâmetros de funcionamento, acessar diagnósticos e logs de uso ou instalar [scripts](06-mesh-actions.md#scripts) para manipular esse implante no futuro, entre outros usos criativos.
 
 ## Debilitar os Sentidos
 
@@ -52,7 +52,7 @@ Você pode acessar e monitorar qualquer realidade aumentada vivida por um usuár
 
 ## Grampear Sentidos
 
-Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Ware Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
+Se hackear insertos da mesh ou um cibercérebro ([Hackeamento de Implante Mental](17-mindware-hacking.md)), você pode grampear o sensório do alvo para fins de vigilância.
 
 Os dados sensoriais também podem ser gravados ou transmitidos como XP.
 

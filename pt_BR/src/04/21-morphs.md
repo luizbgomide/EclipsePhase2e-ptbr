@@ -5,9 +5,9 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 <div class="stat-list">
 
 - **Taxa de Movimento:** O sistema de mobilidade usado e a distância coberta ([Movimento](../12/24-movement.md)).
-- **Wares:** Biowares, ciberwares, equipawares, meshwares e/ou nanowares que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
+- **Implantes:** Bioimplantes, ciberimplantes, equimplantes, meshimplantes e/ou nanoimplantes que o morfo está equipado ([começando em Equipamentos](../16/05-common-tech-and-ware.md)).
 - **Traços de Morfo:** Traços que cada morfo deste tipo possui ([Traços](28-traits.md)).
-- **Extras Comuns:** Traços ou wares comuns, mas que não são o padrão para esse tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
+- **Extras Comuns:** Traços ou implantes comuns, mas que não são o padrão para esse tipo morfo. Esses não estão incluídos no custo de PM e devem ser adquiridos separadamente.
 
 </div>
 
@@ -27,7 +27,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Enxamenoide](25-synthmorphs.md#enxamenoide)                                                               | Sintemorfo | 3&nbsp;PM  |
 | [Exalto](22-common-biomorphs.md#exalto)                                                                    | Biomorfo   | 2&nbsp;PM  |
 | [Fantasma](22-common-biomorphs.md#fantasma)                                                                  | Biomorfo   | 6&nbsp;PM  |
-| [Ferroso](22-common-biomorphs.md#ferroso)                                                                  | Biomorfo   | 3&nbsp;PM  |
+| [Ferrugeiro](22-common-biomorphs.md#ferrugeiro)                                                               | Biomorfo   | 3&nbsp;PM  |
 | [Flexbot](25-synthmorphs.md#flexbot)                                                                      | Sintemorfo |  Variável  |
 | [Fúria](22-common-biomorphs.md#fúria)                                                                      | Biomorfo   | 6&nbsp;PM  |
 | [Futura](22-common-biomorphs.md#futura)                                                                   | Biomorfo   | 4&nbsp;PM  |
@@ -46,7 +46,7 @@ Os morfos listados aqui representam uma fração das capas e carcaças disponív
 | [Neo-Orangutango](24-uplift-biomorphs.md#neo-orangutango)                                                   | Elevado    | 3&nbsp;PM  |
 | [Neo-Polvo](24-uplift-biomorphs.md#neo-polvo)                                                           | Elevado    | 3&nbsp;PM  |
 | [Neotênico](22-common-biomorphs.md#neotênico)                                                              | Biomorfo   | 2&nbsp;PM  |
-| [Novacancridae](23-pod-biomorphs.md#novacancridae)                                                             | Prod       | 4&nbsp;PM  |
+| [Novacarangu](23-pod-biomorphs.md#novacarangu)                                                               | Prod       | 4&nbsp;PM  |
 | [Olímpico](22-common-biomorphs.md#olímpico)                                                               | Biomorfo   | 4&nbsp;PM  |
 | [Operador](26-infomorphs.md#operador)                                                                     | Infomorfo  | 2&nbsp;PM  |
 | [Prod Básico](23-pod-biomorphs.md#prod-básico)                                                              | Prod       | 1&nbsp;PM  |

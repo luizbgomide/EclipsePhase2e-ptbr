@@ -15,7 +15,7 @@
   - [Ações de Segurança](04-complete-list-of-mesh-actions.md#ações-de-segurança)
   - [Ações de Administrador](04-complete-list-of-mesh-actions.md#ações-de-administrador)
   - [Ações de Hackeamento](04-complete-list-of-mesh-actions.md#ações-de-hackeamento)
-  - [Hackeamento de Ware Mental](04-complete-list-of-mesh-actions.md#hackeamento-de-ware-mental)
+  - [Hackeamento de Implante Mental](04-complete-list-of-mesh-actions.md#hackeamento-de-implante-mental)
   - [Ações de Usuário de Simulespaço](04-complete-list-of-mesh-actions.md#ações-de-usuário-de-simulespaço)
   - [Ações de Administrador/Trapaça de Simulespaço](04-complete-list-of-mesh-actions.md#ações-de-administradortrapaça-de-simulespaço)
 - [Lista Completa de Morfos](05-complete-list-of-morphs.md)

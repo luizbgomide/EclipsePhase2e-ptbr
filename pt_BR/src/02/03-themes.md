@@ -40,7 +40,7 @@ A ciência sempre tem um custo, seja o risco de ser mal utilizada ou a perda do 
 
 Eclipse Phase explora um universo como ele poderia ser: transumanos através da galáxia, com diferentes origens e desafios. O resultado é uma gama de sistemas políticos, desde democracias representativas até bandos de cultistas, desde regimes totalitários até colônias de versões forqueadas e mescladas de uma única personalidade original. Muitos são familiares, outros fantásticos, alguns obscenos. Os personagens devem aprender os costumes locais, mas também podem fazer uma pausa para apreciar a diversidade da experiência transumana.
 
-A tecnologia disponível em Eclipse Phase tem impacto direto na política. A imensa idade e a riqueza dos oligarcas possibilita que eles influenciem a vida de milhões. A nanofabricação acessível prejudica o capitalismo da escassez. Os elevados e IGAs demandam um status de igualdade pessoal. O forqueamento desafia a legitimidade do voto em democracias. A capacidade de hackear mentes e vigiar tudo abre o caminho para o totalitarismo.
+A tecnologia disponível em Eclipse Phase tem impacto direto na política. A imensa idade e a riqueza dos oligarcas possibilita que eles influenciem a vida de milhões. A nanofabricação acessível prejudica o capitalismo da escassez. Os elevados e IGAs exigem um status de pessoalidade equânime. O forqueamento desafia a legitimidade do voto em democracias. A capacidade de hackear mentes e vigiar tudo abre o caminho para o totalitarismo.
 
 ## Mudança
 

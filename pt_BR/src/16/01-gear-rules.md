@@ -67,16 +67,16 @@ Os dispositivos energizados em Eclipse Phase precisam de eletricidade para funci
 
 Em resumo, a energia raramente deve ser um problema em jogos de Eclipse Phase, a não ser que isso se encaixe na trama. Uma falha de energia é um opção para rolagens de falha crítica.
 
-## Wares
+## Implantes
 
-Ware é uma categoria abrangente para ampliações de diferentes tipos:
+Implante é uma categoria abrangente para ampliações de diferentes tipos:
 
 <!--sort-->
 
-- **Biowares (B)** incluem modificações genéticas, alterações nanocirúrgicas de tecido, e implantação de órgãos bioprojetados. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Devido à sua natureza orgânica, biowares são difíceis de serem detectados em escaneamento; é necessário testes genéticos ou outras bioamostras. Use Medicina: Biotecnologia para diagnosticar, implantar ou reparar.
-- **Ciberwares (C)** são dispositivos sintéticos implantados em um corpo biológico ou “cultivados” usando nanobots. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Ciberwares são detectáveis com escaneamentos de raios X ou radar. Eles podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia para implantar, Aparelhagem: Eletrônica para reparar o ware em si.
-- **Equipawares (H)** são complementos de carcaças sintéticas. Eles só estão disponíveis para sintemorfos, bots e veículos. Eles podem ser hackeados. Use Aparelhagem: Robótica, ou uma área apropriada para veículos, para instalar, diagnosticar e reparar. Muitos equipamentos que não são wares podem ser montados ou incorporados na armação de uma carcaça como equipawares (a critério do MJ).
-- **Meshwares (M)** referem-se a apps complementares que aprimoram infomorfos. Eles também podem ser instalados em cibercérebros. Eles são vulneráveis ao combate na mesh. Use Programação para instalar, diagnosticar ou reparar.
-- **Nanowares (N)** referem-se a sistemas internos de nanobots ativos dentro de um corpo ou carcaça. Os nanowares incluem uma colmeia implantada que mantém e renova os nanobots. Eles estão disponíveis para morfos de todos os tipos. As colmeias de nanowares são detectáveis assim como ciberwares, mas os bots só são detectáveis com nanodetectores ou amostras biológicas detalhadas. Os nanowares podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia ou Aparelhagem: Robótica para implantar/reparar.
+- **Bioimplantes (B)** incluem modificações genéticas, alterações nanocirúrgicas de tecido, e implantação de órgãos bioprojetados. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Devido à sua natureza orgânica, bioimplantes são difíceis de serem detectados em escaneamento; é necessário testes genéticos ou outras bioamostras. Use Medicina: Biotecnologia para diagnosticar, implantar ou reparar.
+- **Ciberimplantes (C)** são dispositivos sintéticos implantados em um corpo biológico ou “cultivados” usando nanobots. Eles só estão disponíveis para biomorfos (incluindo prods e elevados). Ciberimplantes são detectáveis com escaneamentos de raios X ou radar. Eles podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia para implantar, Aparelhagem: Eletrônica para reparar o implante em si.
+- **Equimplantes (E)** são complementos de carcaças sintéticas. Eles só estão disponíveis para sintemorfos, bots e veículos. Eles podem ser hackeados. Use Aparelhagem: Robótica, ou uma área apropriada para veículos, para instalar, diagnosticar e reparar. Muitos equipamentos que não são implantes podem ser montados ou incorporados na armação de uma carcaça como equimplantes (a critério do MJ).
+- **Meshimplantes (M)** referem-se a apps complementares que aprimoram infomorfos. Eles também podem ser instalados em cibercérebros. Eles são vulneráveis ao combate na mesh. Use Programação para instalar, diagnosticar ou reparar.
+- **Nanoimplantes (N)** referem-se a sistemas internos de nanobots ativos dentro de um corpo ou carcaça. Os nanoimplantes incluem uma colmeia implantada que mantém e renova os nanobots. Eles estão disponíveis para morfos de todos os tipos. As colmeias de nanoimplantes são detectáveis assim como ciberimplantes, mas os bots só são detectáveis com nanodetectores ou amostras biológicas detalhadas. Os nanoimplantes podem ser hackeados assim como outros eletrônicos. Use Medicina: Biotecnologia ou Aparelhagem: Robótica para implantar/reparar.
 
-A menos que seja indicado, cada item de ware só pode ser instalado no mesmo morfo uma vez, não importando se ele está disponível em diferentes formatos.
+A menos que seja indicado, cada implante só pode ser instalado no mesmo morfo uma vez, não importando se ele está disponível em diferentes formatos.

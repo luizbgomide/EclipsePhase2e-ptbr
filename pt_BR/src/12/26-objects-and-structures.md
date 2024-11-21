@@ -14,7 +14,7 @@ Da mesma forma, armas de feixe e energia causam dano completo contra objetos e e
 
 ## Atirando Através de um Objeto
 
-Ataques feitos através de um item ou estrutura em um alvo do outro lado sofrem modificadores de cobertura, ataque às cegas ou tiro indireto, dependendo se você pode ver parte do alvo, não pode ver nada, ou está usando um observador. Além disso, o alvo recebe um bônus de blindagem igual ao Valor de Blindagem do objeto/estrutura. O objeto/estrutura também é danificado pelo ataque, como indicado acima. Observe que agonizadores e atordoadores não penetram o suficiente para atirar através de objetos.
+Ataques feitos através de um item ou estrutura em um alvo do outro lado, sofrem modificadores por cobertura, ataque às cegas ou tiro indireto, dependendo se você pode ver parte do alvo, não pode ver nada, ou está usando um olheiro. Além disso, o alvo recebe um bônus de blindagem igual ao Valor de Blindagem do objeto/estrutura. O objeto/estrutura também é danificado pelo ataque, como indicado acima. Observe que agonizadores e atordoadores não penetram o suficiente para atirar através de objetos.
 
 ## Fazendo Objetos
 

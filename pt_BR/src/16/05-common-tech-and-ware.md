@@ -1,4 +1,4 @@
-# Tecnologias & Wares Comuns
+# Tecnologias & Implantes Comuns
 
 Os seguintes equipamentos são ubíquos em todo o Sistema Solar.
 
@@ -8,34 +8,34 @@ A maioria dos morfos inclui as seguintes ampliações.
 
 <!--sort-->
 
-| AMPLIAÇÕES COMUNS | Tipo de Ware | Comp/<wbr>PE | Descrição                                                                      |
-|:----------------- |:------------:|:-------------------------------------:|:------------------------------------------------------------------------------ |
-| Biomods           |      B       |                 Men/1                 | Ajustes genéticos para saúde, cura acelerada, imunidades e outros.             |
-| Cibercérebro      |      CE      |                 Mai/3                 | Cérebro sintético, executa um estado mental de infomorfo.                      |
-| Insertos da Mesh  |      CE      |                 Men/1                 | Computador cranial, transceptor sem fio, habitação da musa e sensores médicos. |
-| Manípulo Fantoche |      CE      |                 Mod/2                 | Permite que o morfo seja controlado remotamente.                               |
-| Mnemônicos        |     CEM      |                 Men/1                 | Memória aprimorada; +20 em Provas de COG relacionadas à memória.               |
-| Pilha Cortical    |     CEN      |                 Men/1                 | Unidade diamantada de armazenamento de memória para backups de ego.            |
-| Soquete de Acesso |      CE      |                 Men/1                 | Soquetes externos para interface direta com insertos da mesh/cibercérebros.    |
+| AMPLIAÇÕES COMUNS | Tipo de Implante | Comp/<wbr>PE | Descrição                                                                      |
+|:----------------- |:----------------:|:-------------------------------------:|:------------------------------------------------------------------------------ |
+| Biomods           |        B         |                 Men/1                 | Ajustes genéticos para saúde, cura acelerada, imunidades e outros.             |
+| Cibercérebro      |        CE        |                 Mai/3                 | Cérebro sintético, executa um estado mental de infomorfo.                      |
+| Insertos da Mesh  |        CE        |                 Men/1                 | Computador cranial, transceptor sem fio, habitação da musa e sensores médicos. |
+| Manípulo Fantoche |        CE        |                 Mod/2                 | Permite que o morfo seja controlado remotamente.                               |
+| Mnemônicos        |       CEM        |                 Men/1                 | Memória aprimorada; +20 em Provas de COG relacionadas à memória.               |
+| Pilha Cortical    |       CEN        |                 Men/1                 | Unidade diamantada de armazenamento de memória para backups de ego.            |
+| Soquete de Acesso |        CE        |                 Men/1                 | Soquetes externos para interface direta com insertos da mesh/cibercérebros.    |
 
 <!--sort-->
 
 **Biomods:** Esses ajustes genéticos, e vírus e bactérias adaptados fornecem muitos dos benefícios para a saúde de ser um transumano. Com eles, você se cura mais rápido e regenera partes perdidas do corpo com o tempo. Você está imune ao envelhecimento e a maioria das doenças, do câncer à gripe. Você precisa de apenas 4 horas de sono por noite. Você pode ativar contracepção com a vontade. Você também não sofre reações de choque depois de ser ferido ou os efeitos negativos de exposição a longo prazo à gravidade baixa ou zero. Você também é ambidestro e pode usar os membros direitos e esquerdos igualmente bem. Esses mods são universais para a maioria dos biomorfos; alguns habitats não permitem biomorfos sem eles, considerando-os uma ameaça à saúde pública.
 
-**Cibercérebro:** Os cibercérebros são aparelhos especializados para executar estados mentais virtuais, permitindo que um ego ou ILA controle um prod ou sintemorfo. Inspirados em cérebros biológicos, os cibercérebros possuem uma arquitetura holística, e servem como nodo de comando e ponto de processamento central para as entradas sensoriais e a tomada de decisão. Assim como terminais, apenas um infomorfo pode habitar um cibercérebro por vez. Qualquer ego dentro de um cibercérebro pode se mover ou copiar como um infomorfo para outro dispositivo. Por padrão, os egos se manifestarão como [digimorfos](../04/26-infomorphs.md#digimorfo), a menos que você tenha outro tipo de infomorfo disponível. Os cibercérebros estão vulneráveis ao hackeamento ([Hackeamento de Ware Mental](../13/17-mindware-hacking.md)). Todos os cibercérebros estão equipados com soquete de acesso, mnemônicos, e um manípulo fantoche para controle remoto, sem custo adicional.
+**Cibercérebro:** Os cibercérebros são aparelhos especializados para executar estados mentais virtuais, permitindo que um ego ou ILA controle um prod ou sintemorfo. Inspirados em cérebros biológicos, os cibercérebros possuem uma arquitetura holística, e servem como nodo de comando e ponto de processamento central para as entradas sensoriais e a tomada de decisão. Assim como terminais, apenas um infomorfo pode habitar um cibercérebro por vez. Qualquer ego dentro de um cibercérebro pode se mover ou copiar como um infomorfo para outro dispositivo. Por padrão, os egos se manifestarão como [digimorfos](../04/26-infomorphs.md#digimorfo), a menos que você tenha outro tipo de infomorfo disponível. Os cibercérebros estão vulneráveis ao hackeamento ([Hackeamento de Implante Mental](../13/17-mindware-hacking.md)). Todos os cibercérebros estão equipados com soquete de acesso, mnemônicos, e um manípulo fantoche para controle remoto, sem custo adicional.
 
 **Insertos da Mesh:** Essa rede de implantes é obrigatória para as pessoas que queiram usar realidade aumentada e ligar-se sem fio com a mesh. Os vários componentes incluem:
 
 <!--sort-union-->
 
 - **Computador Cranial:** Esse terminal serve como central para a sua rede de área pessoal e é a habitação da sua musa. Ele gerencia sua entrada de realidade aumentada e processa dados de XP, permitindo que você compartilhe seu sensório com os outros em tempo real. Ele está carregado com apps básicos e fornece todas as funções que você esperaria de um dispositivo móvel: armazenamento de arquivos, sistema de busca, tocador de mídia, navegador da mesh, livro de endereços, e-mail, mensagens, e assim por diante.
-- **Sensores Médicos/Diagnósticos:** Esse conjunto monitora a sua saúde, incluindo frequência cardíaca, respiração, pressão arterial, temperatura, atividade neural, status dos wares e muito mais. Em sintemorfos, esse sistema monitora relatórios do sistema e logs de erros, aquecimento, falhas por desgaste, e status semelhantes de aparelhagem.
-- **Transceptor de Rádio:** Isso conecta seu ware mental com outros dispositivos da mesh dentro do alcance (5&nbsp;km em áreas urbanas/50&nbsp;km em áreas abertas).
+- **Sensores Médicos/Diagnósticos:** Esse conjunto monitora a sua saúde, incluindo frequência cardíaca, respiração, pressão arterial, temperatura, atividade neural, status dos implantes e muito mais. Em sintemorfos, esse sistema monitora relatórios do sistema e logs de erros, aquecimento, falhas por desgaste, e status semelhantes de aparelhagem.
+- **Transceptor de Rádio:** Isso conecta seu implante cefálico com outros dispositivos da mesh dentro do alcance (5&nbsp;km em áreas urbanas/50&nbsp;km em áreas abertas).
 - Você pode acessar qualquer dessas funções simplesmente pensando.
 
 **Manípulo Fantoche:** O manípulo fantoche permitem que um morfo seja remotamente controlado, assim com um drone ([Operações Remotas](21-robots.md#operação-remota)). Enquanto ativo, o fantoche não tem controle sobre seu corpo e simplesmente vai como carona. Ficar muito tempo nessa situação pode levar ao estresse de desamparo ([Situações Estressantes](../12/23-stressful-situations.md)). Morfos com danos que atinjam/excedam sua Durabilidade não podem ser manipulados como fantoches.
 
-**Mnemônicos:** As mentes eletrônicas dos cibercérebros e dos infomorfos imitam os cérebros biológicos em como eles armazenam memórias — como grupos de neurônios conectados, mas dispersos. Apesar de serem computorizados, sua capacidade de recordação de memórias não é mais eficiente do que a de biocérebros. No entanto, os sistemas mnemônicos permitem que memórias sejam marcadas e indexadas de forma aproximada. Isso melhora a recordação de memórias, embora ela ainda esteja longe da perfeição. Os mnemônicos aplicam um modificador +20 em Provas de COG para recordar memórias. Os dados mnemônicos podem ser transferidos com um ego quando ele reencapa, mas o modificador aplica-se apenas para as memórias que foram gravadas quando o ware de mnemônicos estava presente. Os sistemas mnemônicos estão incluídos em todos os cibercérebros.
+**Mnemônicos:** As mentes eletrônicas dos cibercérebros e dos infomorfos imitam os cérebros biológicos em como eles armazenam memórias — como grupos de neurônios conectados, mas dispersos. Apesar de serem computorizados, sua capacidade de recordação de memórias não é mais eficiente do que a de biocérebros. No entanto, os sistemas mnemônicos permitem que memórias sejam marcadas e indexadas de forma aproximada. Isso melhora a recordação de memórias, embora ela ainda esteja longe da perfeição. Os mnemônicos aplicam um modificador +20 em Provas de COG para recordar memórias. Os dados mnemônicos podem ser transferidos com um ego quando ele reencapa, mas o modificador aplica-se apenas para as memórias que foram gravadas quando o implante de mnemônicos estava presente. Os sistemas mnemônicos estão incluídos em todos os cibercérebros.
 
 **Pilha Cortical:** Esse módulo de memória de diamante é implantado na base do crânio, onde o tronco cerebral e a medula espinhal se conectam (ou em locais similares nos sintemorfos). Ela está ligada a uma rede de laço neural de nanobots que saturam o cérebro monitorando as conexões sinápticas, arquitetura cerebral e níveis químicos. Ela efetivamente faz um registro do seu cérebro a cada segundo, fazendo um backup digital do seu ego, até o momento em que você morre. Ela também faz backup da sua musa. Se você for morto, essa pilha pode ser usada para recuperar um [backup do seu ego](../15/01-backups-and-uploading.md#morte-e-seguro-de-backup) para você poder ser reinstanciado. As pilhas corticais não possuem acesso externo ou sem fio (para fins de segurança), elas devem ser cirurgicamente removidas.
 

@@ -24,7 +24,7 @@
   - [Reencape e Paradas](02-resleeving.md#reencape-e-paradas)
 - [Aquisição de Morfos](03-acquiring-morphs.md)
   - [Determinando Pontos de Morfo](03-acquiring-morphs.md#determinando-pontos-de-morfo)
-  - [Aumentando Seu PM](03-acquiring-morphs.md#aumentando-seu-pm)
+  - [Aumentando seu PM](03-acquiring-morphs.md#aumentando-seu-pm)
   - [Gastando Pontos de Morfo](03-acquiring-morphs.md#gastando-pontos-de-morfo)
     - [Disponibilidade de Morfos](03-acquiring-morphs.md#disponibilidade-de-morfos)
   - [Reencape e Pontos de Morfo](03-acquiring-morphs.md#reencape-e-pontos-de-morfo)

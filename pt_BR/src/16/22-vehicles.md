@@ -2,28 +2,28 @@
 
 Em Eclipse Phase, a maioria dos veículos é pilotada por ILA. Você simplesmente entra em um veículo e diz para onde quer ir. A pilotagem manual é para emergências, malucos por controle, e pessoas que não gostam de máquinas. Como robôs, os veículos podem ser operados remotamente. No entanto, eles não estão equipados para serem encapados, a não ser que você adicione um sistema de cibercérebro.
 
-## Wares Veiculares
+## Implantes Veiculares
 
-Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots: visão padrão, audição, tato, propriocepção, equilíbrio, etc. Eles também são equipados com um conjunto padrão de wares necessários, listados abaixo, além daqueles listados com suas descrições específicas. Você também pode modificar um veículo com ware adicional, assim como um sintemorfo.
+Todos os veículos incluem os mesmos sistemas sensoriais usados em morfos e bots: visão padrão, audição, tato, propriocepção, equilíbrio, etc. Eles também são equipados com um conjunto padrão de implantes necessários, listados abaixo, além daqueles listados com suas descrições específicas. Você também pode modificar um veículo com implantes adicionais, assim como um sintemorfo.
 
 | TODOS OS VEÍCULOS                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes equipaware, além daqueles listados em suas descrições específicas:                                              |
-| <ul class="stat-list indent"><li>**Wares:** Insertos da Mesh, Manípulo Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
+| A menos que indicado o contrário, todos os veículos estão equipados com os seguintes equimplante, além daqueles listados em suas descrições específicas:                                             |
+| <ul class="stat-list indent"><li>**Implantes:** Insertos da Mesh, Manípulo Fantoche, Radar, Soquete de Acesso</ul>                                                                                                                                                                            |
 | Além disso, veículos com compartimentos fechados são selados/pressionados e possuem um Respirador (submerso ou atmosfera com dióxido de carbono) ou Suporte Vital (48 horas).                        |
 | Os veículos projetados para Mercúrio possuem Proteção Termogênica, os veículos venusianos possuem Adaptação de Pressão e Proteção Termogênica, e os veículos titanianos possuem Proteção Criogênica. |
 
-### Equipawares Veiculares
+### Equimplantes Veiculares
 
 Alguns aprimoramentos são projetados especificamente para veículos, embora alguns robôs também os utilizem:
 
 <!--sort-->
 
-| EQUIPAWARES VEICULARES | Comp/<wbr>PE |
-|:---------------------- |:-------------------------------------:|
-| Aríete                 |                Mod/R/2                |
-| Manobra Aprimorada     |                 Mod/2                 |
-| Suporte Vital          |                Men+/1+                |
+| EQUIMPLANTES VEICULARES | Comp/<wbr>PE |
+|:----------------------- |:-------------------------------------:|
+| Aríete                  |                Mod/R/2                |
+| Manobra Aprimorada      |                 Mod/2                 |
+| Suporte Vital           |                Men+/1+                |
 
 <!--sort-->
 
@@ -63,7 +63,7 @@ Em Marte, Vênus, Titã, muitos exoplanetas, e dentro de grandes habitats cilín
 <tr><td>Jato Pequeno<td>Raro/—<td>6<td>2<td>0<td>12/10<td>40<td>200<td>400<td>—<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Wares:** Autocozedor, Sinalizador de Emergência
+- **Implantes:** Autocozedor, Sinalizador de Emergência
 
 </div></tr>
 
@@ -219,7 +219,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
-- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Proteção Criogênica, Proteção Termogênica, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod, Visor
+- **Implantes:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Proteção Criogênica, Proteção Termogênica, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
 
@@ -229,7 +229,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta, dobra distância de salto
-- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Suporte de Arma (2 Articulados/Ocultos, 2 Estáticos/Ocultos), Suporte Vital (1 semana), Utilimod, Visor
+- **Implantes:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Suporte de Arma (2 Articulados/Ocultos, 2 Estáticos/Ocultos), Suporte Vital (1 semana), Utilimod, Visor
 
 </div></tr>
 
@@ -239,7 +239,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d6 dano em luta
-- **Wares:** Absorção de Radar, Amplificador de Rádio, Proteção Termogênica, Suporte Vital (1 semana), Visor
+- **Implantes:** Absorção de Radar, Amplificador de Rádio, Proteção Termogênica, Suporte Vital (1 semana), Visor
 
 </div></tr>
 
@@ -249,7 +249,7 @@ Os trajes rígidos são exoesqueletos motorizados de carcaça sólida e fechada.
 <tr><td colspan="11"><div class="indent">
 
 - **Notas:** +1d10 dano em luta
-- **Wares:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod
+- **Implantes:** Adaptação de Pressão, Amplificador de Rádio, Autocozedor, Colmeia de Reparador, Respirador, Sinalizador de Emergência, Suporte Vital (1 semana), Utilimod
 
 </div></tr>
 
@@ -287,7 +287,7 @@ Esses veículos desafiam as classificações, pois são projetados para lidar co
 <tr><td>VEG<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Empuxo Vetorial (Foguete) 8/40, Marcha 4/20, Rodas 8/40, Submerso 8/32<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Wares:** Autocozedor, Farejador Químico, Audição Aprimorada, Visão Aprimorada, Fabro Grande, Suporte Vital (1 mês), Tanque de Cura, Adaptação de Pressão, Sensor Portátil (Telescópio)
+- **Implantes:** Autocozedor, Farejador Químico, Audição Aprimorada, Visão Aprimorada, Fabro Grande, Suporte Vital (1 mês), Tanque de Cura, Adaptação de Pressão, Sensor Portátil (Telescópio)
 
 </div></tr>
 
@@ -312,7 +312,7 @@ Dentro do Sistema Solar, as embarcações náuticas são usadas para os mares me
 <tr><td>Mini-Sub<td>Raro/—<td>4<td>1<td>0<td>12/10<td>50<td>250<td>500<td>8/32 Submerso<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Wares:** Adaptação de Pressão, Autocozedor, Proteção Criogênica, Respirador, Sonar
+- **Implantes:** Adaptação de Pressão, Autocozedor, Proteção Criogênica, Respirador, Sonar
 
 </div></tr>
 </table>
@@ -349,7 +349,7 @@ Enquanto os trens e as bicicletas continuam sendo a forma mais comum de transpor
 <tr><td>Rover<td>Raro/—<td>6<td>2<td>2<td>12/10<td>50<td>250<td>500<td>Rodas 8/40<td>MG</tr>
 <tr><td colspan="11"><div class="indent">
 
-- **Wares:** Autocozedor, Fabro Grande, Laboratório de Bolso
+- **Implantes:** Autocozedor, Fabro Grande, Laboratório de Bolso
 
 </div></tr>
 

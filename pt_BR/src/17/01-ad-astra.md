@@ -42,7 +42,7 @@ A mesma orientação se aplica ao cenário. Você pode ter um conhecimento encic
 
 A melhor forma dos jogadores ficarem confortáveis com a tecnologia em Eclipse Phase é usando-a. Nas primeiras sessões, mostre aos jogadores quando eles podem usar alguma tecnologia para avançar no jogo. Isso vai gradualmente familiarizar os jogadores com as maneiras pelas quais as ferramentas como insertos da mesh, realidade aumentada, sentidos aprimorados, musas, e outros podem ser usados. Seja paciente e não penalize jogadores por não saber como tudo na sua ficha funciona. Tornar-se fluente em tudo que um personagem de Eclipse Phase pode fazer geralmente pode levar várias sessões.
 
-## Preparando Sua Campanha
+## Preparando sua Campanha
 
 Sua demonstração do sistema foi excelente, e agora seu grupo mal pode esperar pelo próximo jogo. Isso aí, parça. Você provavelmente tem uma ideia de que tipo de campanha você quer conduzir, mas vai ser melhor se você tiver uma conversa com seus jogadores sobre o que mais eles querem ver. A campanha pode crescer a partir da aventura inicial que você jogou ou pode ser uma nova história. Se terminar cedo a sua primeira sessão, discuta a próxima com seus jogadores imediatamente. Como alternativa, faça uma sessão de criação de campanha em que você detalha essas questões e cria os personagens.
 

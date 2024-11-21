@@ -61,7 +61,7 @@ Para motivações mais interativas, faça cada jogador escolher um dos objetivos
 - Maestria em Perícia
 - Mostrar o Erro dos Outros
 - Neurodiversidade
-- Pessoas IGA
+- Pessoalidade de IGA
 - Reconectar-se com Transumanidade
 - Religião
 - Riqueza

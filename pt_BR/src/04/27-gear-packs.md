@@ -10,7 +10,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 
 **Muse Grátis:** Todo personagem começa com uma [musa de ILA](../13/07-ais-and-muses.md#musas) de graça.
 
-**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Nesse caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshwares, apps, serviços, bots, etc. de valor de PE equivalente.
+**Infomorfos:** Os pacotes de equipamentos são montados pensando em personagens com corpos. Se você escolheu um infomorfo, alguns deles podem não funcionar com o seu conceito. Nesse caso, você pode ou adotar o pacote de equipamentos opcional para infomorfos ou trocar os equipamentos que você não pode usar por meshimplantes, apps, serviços, bots, etc. de valor de PE equivalente.
 
 ## Pacotes de Campanha
 
@@ -37,7 +37,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                         | Comp/<wbr>PE | Descrição                       |
 |:---------------------------------------------------- |:-------------------------------------:|:------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões. |
-| [Blindagem Industrial](../12/11-armor.md#wares-de-blindagem) |                 Men/1                 | VB +6/+4.                       |
+| [Blindagem Industrial](../12/11-armor.md#implantes-de-blindagem) |                 Men/1                 | VB +6/+4.                       |
 
 </blockquote>
 
@@ -64,7 +64,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | EQUIPAMENTOS                                         | Comp/<wbr>PE | Descrição                                                                         |
 |:---------------------------------------------------- |:-------------------------------------:|:--------------------------------------------------------------------------------- |
 | [Antirreflexo](../16/06-sensory-augmentations.md)    |                 Men/1                 | Nega modificadores por clarões.                                                   |
-| [Blindagem Industrial](../12/11-armor.md#wares-de-blindagem) |                 Men/1                 | VB +6/+4.                                                                         |
+| [Blindagem Industrial](../12/11-armor.md#implantes-de-blindagem) |                 Men/1                 | VB +6/+4.                                                                         |
 | [Medicadores](../16/10-combat-augmentations.md)      |                 Mai/3                 | Ignore 1 ferimento, cura mais rápida, metade do efeito/duração de drogas/toxinas. |
 
 </blockquote>
@@ -135,7 +135,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Agrestia (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-de-combate) |                 Men/1                 | +20 em Provocação para intimidar/zombar, −20 em outros testes sociais.              |
 | [Ampliação Muscular](../16/10-combat-augmentations.md)                    |                 Mai/3                 | Músculos aprimorados com miofibras. +1d6&nbsp;VD luta, +10 em Provas de SOM.        |
 | [Cortador Flex](../12/02-melee-combat.md#armas-de-luta)                   |                 Men/1                 | Lâmina flexível, VD 1d10 + 3, ocultável.                                            |
-| [Garras](../12/02-melee-combat.md#wares-de-luta)                             |                 Men/1                 | VD 2d6, ocultável.                                                                  |
+| [Garras](../12/02-melee-combat.md#implantes-de-luta)                             |                 Men/1                 | VD 2d6, ocultável.                                                                  |
 | [Luva de Choque](../12/02-melee-combat.md#armas-de-luta)                  |                 Men/1                 | VD 1d6, Choque, Toque Simples.                                                      |
 | [Retalhador](../12/06-spray-weapons.md)                                   |                Mod/R/2                | Disparador de flechettes, VD 2d10 + 6 SA/DR/TA, Munição 100, Alcance 25, Duas Mãos. |
 | [Sorriso (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-de-combate)  |                 Men/1                 | Ignore 1 ferimento.                                                                 |
@@ -203,7 +203,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 |:------------------------------------------------------------------------- |:-------------------------------------:|:---------------------------------------------------------- |
 | [App de Psicocirurgia](../16/13-apps-and-alis.md#apps)                    |                 Mod/2                 | Edita mentes.                                              |
 | [Confurte (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-de-saúde) |                 Men/1                 | +5 em LUC, +1 em LT, +5 em GI.                             |
-| [Enguiware](../12/02-melee-combat.md#wares-de-luta)                          |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
+| [Enguiônico](../12/02-melee-combat.md#implantes-de-luta)                         |                 Men/1                 | VD 1d6, Choque, Toque Simples.                             |
 | [Multitarefa](../16/08-mental-augmentations.md)                           |                 Mod/2                 | Concentre-se em 2 coisas ao mesmo tempo. +1 em Inspiração. |
 | [Ponte de Ego](../16/19-nanotech.md)                                      |                 Mod/2                 | Upload de/download para cérebros biológicos.               |
 | [Servidor Privado](../16/04-services.md#serviços-da-mesh)                    |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
@@ -284,8 +284,8 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Ferramentas de Desmontagem](../16/18-mission-gear.md#ferramentas-de-recuperação)                  |                 Mod/2                 | Ferramentas pesadas e inteligentes para desmontar coisas.                                                   |
 | [Haxixe Orbital (5 doses)](../16/15-chemicals-drugs-and-toxins.md#drogas-recreativas) |                 Men/1                 | Ignora 1 trauma, –10 em Testes de Saber/Provas de COG relacionados com memória.                             |
 | [Machado Diamantado](../12/02-melee-combat.md#armas-de-luta)                          |                 Men/1                 | VD 2d10 + 3, Antiblindagem, Duas Mãos, Extensão.                                                            |
-| [Mula-Robô](../16/21-robots.md#bots-utilitários)                                          |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
 | [Nanodetector](../16/19-nanotech.md)                                                  |                 Men/1                 | Detecta nanobots, Perícia Exótica: Detecção de Nanobots 40 (70 com enxame ativo), Saber: Nanotecnologia 60. |
+| [Robomula](../16/21-robots.md#bots-utilitários)                                           |                 Mod/2                 | Bot para carga de equipamento.                                                                              |
 | [Sistema de Migalhas](../16/16-comms-and-mesh-gear.md#comunicações)                 |                 Men/1                 | Deixa um rastro de nódulos para ter mesh/localização.                                                       |
 
 ### Técnico
