@@ -19,7 +19,7 @@
   - [Character Creation Overview](04/02-character-creation-overview.md)
   - [Character Creation Advice](04/03-character-creation-advice.md)
   - [Step 1: Background](04/04-step-1-background.md)
-  - [Step 2: Carrer](04/05-step-2-carrer.md)
+  - [Step 2: Career](04/05-step-2-career.md)
   - [Step 3: Interest](04/06-step-3-interest.md)
   - [Step 4: Faction](04/07-step-4-faction.md)
   - [Step 5: Aptitude Template](04/08-step-5-aptitude-template.md)

@@ -2,7 +2,7 @@
 
 Characters are defined by their skills and reputation. The combined party needs a broad range of skills to overcome the challenges arrayed against them. These might include gathering resources, winning allies, researching, infiltrating (or defending) mesh systems, repairing or improvising a critical tool, combat, and finally applying what they have learned to a resolution. The skills the party must bring to the table can be roughly grouped as combat, social, technical, and knowledge. These establish the four broad archetypes in Eclipse Phase — the fighter, the face, the techie (or hacker), and the scientist (or artist). In smaller groups, PCs may want to fill multiple archetypes, while minimizing overlap. In larger groups, characters benefit more from specialization. Players should coordinate to avoid specialties that overlap too closely, but different specialties in the same field can create force multipliers.
 
-Each of the archetypes below lists suggested [Career](../04/05-step-2-carrer.md) and [Interest](../04/06-step-3-interest.md) skill packages to take during character creation in brackets after the entry.
+Each of the archetypes below lists suggested [Career](../04/05-step-2-career.md) and [Interest](../04/06-step-3-interest.md) skill packages to take during character creation in brackets after the entry.
 
 ## Combat
 
