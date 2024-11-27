@@ -8,7 +8,7 @@ Apesar de conceitualmente as perícias serem construídas sobre os valores de ap
 
 <!--sort-->
 
-### Praticista
+### Prático
 
 Você está mais confortável com a fisicalidade do que falar ou pensar.
 
@@ -46,7 +46,7 @@ Você nunca diz não a um desafio, mas suas reações ágeis e raciocínio rápi
 
 | Modelo       | COG | INT | REF | SAG | SOM | VON |
 |:------------ |:---:|:---:|:---:|:---:|:---:|:---:|
-| Praticista   | 10  | 15  | 20  | 10  | 20  | 15  |
+| Prático      | 10  | 15  | 20  | 10  | 20  | 15  |
 | Extrovertido | 10  | 20  | 15  | 20  | 15  | 10  |
 | Facilitador  | 15  | 15  | 10  | 20  | 10  | 20  |
 | Generalista  | 15  | 15  | 15  | 15  | 15  | 15  |
