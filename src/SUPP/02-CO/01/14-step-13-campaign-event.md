@@ -3,7 +3,7 @@
 <div class="no-margin">
 <blockquote class="header-bg">
 
-**The next step is to roll on an event table appropriate to the type of campaign you are playing. Three event tables are provided: [Firewall](#firewall-event-d100), [Gatecrashing](#gatecrashing-event-d100), and [Gaunxi/Criminal](#crime-event-d100). Roll on the appropriate table, apply the results, and move on to Step 14.**
+**The next step is to roll on an event table appropriate to the type of campaign you are playing. Three event tables are provided: [Firewall](#firewall-event-d100), [Gatecrashing](#gatecrashing-event-d100), and [Guanxi/Criminal](#crime-event-d100). Roll on the appropriate table, apply the results, and move on to Step 14.**
 
 **If the type of campaign you are playing is undecided or does not fit into any of those categories, either skip this step or work with your GM to decide which event table is most appropriate.**
 
