@@ -1,4 +1,4 @@
-# Sumários de Truques Psi
+# Listas de Truques Psi
 
 Os truques psi-qui estão disponíveis para qualquer um com o traço Psi. Os truques psi-gama só estão disponíveis para personagens com o traço Psi no Nível 2. Salvo indicação, os truques só podem ser adquiridos uma vez.
 
