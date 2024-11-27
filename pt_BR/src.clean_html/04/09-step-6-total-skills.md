@@ -16,7 +16,7 @@ Sugerimos manter aptidões e perícias em múltiplos de 5 para simplificar, mas 
 
 <!-- CLEANED blockquote -->
 
-## Resumo das Perícias
+## Lista de Perícias
 
 As descrições completas das perícias estão em [Perícias](18-skills.md).
 
