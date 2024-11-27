@@ -110,7 +110,7 @@
   - [Interpretando Assincros](14/03-roleplaying-asyncs.md)
   - [Usando Psi](14/04-using-psi.md)
   - [Efeitos de Influência](14/05-influence-effects.md)
-  - [Sumários de Truques Psi](14/06-psi-sleight-summaries.md)
+  - [Listas de Truques Psi](14/06-psi-sleight-summaries.md)
 - [Tecnologia Transumana](15/00-transhuman-tech.md)
   - [Backups & Uploads](15/01-backups-and-uploading.md)
   - [Reencape](15/02-resleeving.md)

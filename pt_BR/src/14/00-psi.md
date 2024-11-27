@@ -29,7 +29,7 @@
   - [Limiares dos Graus de Infecção](04-using-psi.md#limiares-dos-graus-de-infecção)
   - [Atenuação da Infecção](04-using-psi.md#atenuação-da-infecção)
 - [Efeitos de Influência](05-influence-effects.md)
-- [Sumários de Truques Psi](06-psi-sleight-summaries.md)
+- [Listas de Truques Psi](06-psi-sleight-summaries.md)
   - [Truques Psi-Qui](06-psi-sleight-summaries.md#truques-psi-qui)
     - [Alto Limiar à Dor](06-psi-sleight-summaries.md#alto-limiar-à-dor)
     - [Astúcia Social](06-psi-sleight-summaries.md#astúcia-social)

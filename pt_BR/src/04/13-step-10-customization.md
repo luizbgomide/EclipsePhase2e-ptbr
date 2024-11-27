@@ -60,11 +60,25 @@ As especializações de perícias custam 1&nbsp;PP. Elas dão um bônus de +10 n
 
 ### Custos de Personalização
 
-|                     |           |  |                    |           |
-|:------------------- |:---------:|::|:------------------ |:---------:|
-| 5 pontos de Rep     | 1&nbsp;PP |  | 1 Idioma           | 1&nbsp;PP |
-| 5 pontos da Perícia | 1&nbsp;PP |  | 1 ponto de Aptidão | 1&nbsp;PP |
-| 1 Especialização    | 1&nbsp;PP |  | 1 ponto de Flex    | 2&nbsp;PP |
-| 1 truque Psi        | 1&nbsp;PP |  | Traços de Ego      | Variável  |
+<div class="smart-columns">
+<div>
+
+|                     |           |
+|:------------------- |:---------:|
+| 5 pontos de Rep     | 1&nbsp;PP |
+| 5 pontos da Perícia | 1&nbsp;PP |
+| 1 Especialização    | 1&nbsp;PP |
+| 1 truque Psi        | 1&nbsp;PP |
+
+<div></div>
+
+|                    |           |
+|:------------------ |:---------:|
+| 1 Idioma           | 1&nbsp;PP |
+| 1 ponto de Aptidão | 1&nbsp;PP |
+| 1 ponto de Flex    | 2&nbsp;PP |
+| Traços de Ego      | Variável  |
+
+</div></div>
 
 </blockquote>

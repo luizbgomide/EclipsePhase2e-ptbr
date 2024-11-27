@@ -170,7 +170,7 @@
 04/07-step-4-faction.md#step-4-faction	passo-4-facção
 04/07-step-4-faction.md#factions	facções
 04/08-step-5-aptitude-template.md#step-5-aptitude-template	passo-5-modelo-de-aptidões
-04/08-step-5-aptitude-template.md#actioneer	praticista
+04/08-step-5-aptitude-template.md#actioneer	prático
 04/08-step-5-aptitude-template.md#extrovert	extrovertido
 04/08-step-5-aptitude-template.md#facilitator	facilitador
 04/08-step-5-aptitude-template.md#factotum	generalista
@@ -179,7 +179,7 @@
 04/08-step-5-aptitude-template.md#thrill-seeker	aventureiro
 04/08-step-5-aptitude-template.md#aptitude-template	modelo-de-aptidões
 04/09-step-6-total-skills.md#step-6-total-skills	passo-6-totalização-de-perícias
-04/09-step-6-total-skills.md#skill-summaries	resumo-das-perícias
+04/09-step-6-total-skills.md#skill-summaries	lista-de-perícias
 04/10-step-7-languages.md#step-7-languages	passo-7-idiomas
 04/11-step-8-flex.md#step-8-flex	passo-8-flex
 04/12-step-9-reputation.md#step-9-reputation	passo-9-reputação
@@ -1037,7 +1037,7 @@
 14/05-influence-effects.md#haunter-sub-strain	subcepa-tormentadora
 14/05-influence-effects.md#stranger-sub-strain	subcepa-estranha
 14/05-influence-effects.md#xenomorph-sub-strain	subcepa-xenomorfa
-14/06-psi-sleight-summaries.md#psi-sleight-summaries	sumários-de-truques-psi
+14/06-psi-sleight-summaries.md#psi-sleight-summaries	listas-de-truques-psi
 14/06-psi-sleight-summaries.md#psi-chi-sleights	truques-psi-qui
 14/06-psi-sleight-summaries.md#psi-chi-sleights-1	truques-psi-qui-1
 14/06-psi-sleight-summaries.md#charisma	carisma

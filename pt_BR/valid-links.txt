@@ -193,7 +193,7 @@
 04/07-step-4-faction.md#facções
 04/08-step-5-aptitude-template.md
 04/08-step-5-aptitude-template.md#passo-5-modelo-de-aptidões
-04/08-step-5-aptitude-template.md#praticista
+04/08-step-5-aptitude-template.md#prático
 04/08-step-5-aptitude-template.md#extrovertido
 04/08-step-5-aptitude-template.md#facilitador
 04/08-step-5-aptitude-template.md#generalista
@@ -203,7 +203,7 @@
 04/08-step-5-aptitude-template.md#modelo-de-aptidões
 04/09-step-6-total-skills.md
 04/09-step-6-total-skills.md#passo-6-totalização-de-perícias
-04/09-step-6-total-skills.md#resumo-das-perícias
+04/09-step-6-total-skills.md#lista-de-perícias
 04/10-step-7-languages.md
 04/10-step-7-languages.md#passo-7-idiomas
 04/11-step-8-flex.md
@@ -1164,7 +1164,7 @@
 14/05-influence-effects.md#subcepa-estranha
 14/05-influence-effects.md#subcepa-xenomorfa
 14/06-psi-sleight-summaries.md
-14/06-psi-sleight-summaries.md#sumários-de-truques-psi
+14/06-psi-sleight-summaries.md#listas-de-truques-psi
 14/06-psi-sleight-summaries.md#truques-psi-qui
 14/06-psi-sleight-summaries.md#truques-psi-qui-1
 14/06-psi-sleight-summaries.md#carisma
