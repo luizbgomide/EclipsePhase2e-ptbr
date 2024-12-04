@@ -150,7 +150,7 @@ Você funde e molda mentes e memórias. Você pode ser um terapeuta, memeticista
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Ciência Cognitiva, Memética, Psicologia_</p> | 60 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Operações de Bancos de Corpos, Serviços Médicos, Serviços Sociais_</p> | 30 |
 
-## Sucateiro
+## Catador
 
 Você revira os destroços e as ruínas da Queda, procurando valor na destruição.
 
@@ -161,7 +161,7 @@ Você revira os destroços e as ruínas da Queda, procurando valor na destruiç�
 | Aparelhagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Eletrônica, Industrial, Robótica_</p>                      | 60 |
 | Aparelhagem: Demolições                                                   | 40 |
 | Pilotagem: (Escolha Uma)<p class="indent">_Áreas Comuns: Aérea, Espacial, Náutica, Terreste_</p>                        | 30 |
-| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Contrabando, Operações de Tripulação de Voo, Vasculhamento_</p> | 60 |
+| <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Catação, Contrabando, Operações de Tripulação de Voo_</p> | 60 |
 | <!--sort-fixed-->Saber: (Escolha Uma)<p class="indent">_Áreas Comuns: Espaçonaves, Máquinas TITAN, Mercados Negros_</p> | 30 |
 
 ## Cientista
@@ -227,7 +227,7 @@ Se você preferir determinar a sua carreira aleatoriamente, role 1d10:
 |                1                |             Acadêmico              |            Investigador            |
 |                2                |         Agente Infiltrado          |               Médico               |
 |                3                |              Capanga               |           Hacker Mental            |
-|                4                |             Explorador             |             Sucateiro              |
+|                4                |             Explorador             |              Catador               |
 |                5                |              Malandro              |             Cientista              |
 |                6                |          Hacker Genético           |              Soldado               |
 |                7                |               Hacker               |              Técnico               |
