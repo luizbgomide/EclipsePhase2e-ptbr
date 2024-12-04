@@ -36,7 +36,7 @@ A carreira decidida aqui é ou aquela que você exerceu mais destacadamente dura
  |                                   6–10                                   |                   1                    | [Investigador](#investigator-d100)          | Poucos detalhes escapam à sua vista.                                                |
  |                                                                          |                   2                    | [Médico](#medic-d100)                       | Você tem formação em medicina.                                                      |
  |                                                                          |                   3                    | [Hacker Mental](#mindhacker-d100)           | Você funde mentes e memórias.                                                       |
- |                                                                          |                   4                    | [Sucateiro](#scavenger-d100)                | Você revira os destroços e as ruínas, procurando valor na destruição.               |
+ |                                                                          |                   4                    | [Catador](#scavenger-d100)                  | Você revira os destroços e as ruínas, procurando valor na destruição.               |
  |                                                                          |                   5                    | [Cientista](#scientist-d100)                | Você busca entender como funciona o universo — ou pelo menos certos elementos dele. |
  |                                                                          |                   6                    | [Soldado](#soldier-d100)                    | Você utiliza a violência — ou a ameaça dela.                                        |
  |                                                                          |                   7                    | [Técnico](#techie-d100)                     | Você cria e conserta as coisas.                                                     |
@@ -1297,7 +1297,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 <!-- CLEANED blockquote class="framed-table" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-## Sucateiro ❮d100❯
+## Catador ❮d100❯
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
@@ -1315,7 +1315,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-### Comerciante de Sucata
+### Sucateiro
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
@@ -1376,7 +1376,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 | Interface                                                          | 20 |
 | Pilotagem: Espacial                                                | 30 |
 | <!--sort-restart-->Saber: Operações de Tripulação de Voo | 30 |
-| Saber: Vasculhamento                                               | 40 |
+| Saber: Catação                                                     | 40 |
 | Saber: Espaçonaves                                                 | 20 |
 
 <!-- CLEANED /div -->
