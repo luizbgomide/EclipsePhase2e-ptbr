@@ -28,7 +28,7 @@ Desbravadores e exploradores dependem muito destes itens.
 
 ## Ferramentas de Recuperação
 
-Essas tecnologias são frequentemente usadas por desbravadores, sucateiros espaciais e equipes da Firewall durante missões.
+Essas tecnologias são frequentemente usadas por desbravadores, catadores espaciais e equipes da Firewall durante missões.
 
 <!--sort-->
 
