@@ -2815,6 +2815,8 @@ SUPP/02-CO/01/21-sleight-tables.md#psi-chi-sleights-d100
 SUPP/02-CO/01/21-sleight-tables.md#psi-gamma-sleights-d100
 SUPP/02-CO/01/21-sleight-tables.md#watts-macleod-sub-strains-d100
 SUPP/02-CO/01/21-sleight-tables.md#disorders-d100
+SUPP/02-CO/01/22-trait-tables.md
+SUPP/02-CO/01/22-trait-tables.md#trait-tables
 SUPP/02-CO/01/22-trait-tables.md#traits-d10
 SUPP/02-CO/01/22-trait-tables.md#positive-morph-traits-d100
 SUPP/02-CO/01/22-trait-tables.md#negative-morph-traits-d100

@@ -262,6 +262,7 @@
     - [Character Creation Example](SUPP/02-CO/01/19-character-creation-example.md)
     - [Morph Tables](SUPP/02-CO/01/20-morph-tables.md)
     - [Sleight Tables](SUPP/02-CO/01/21-sleight-tables.md)
+    - [Trait Tables](SUPP/02-CO/01/22-trait-tables.md)
     - [Faction/Rep Tables](SUPP/02-CO/01/23-faction-rep-tables.md)
     - [Skill Tables](SUPP/02-CO/01/24-skill-tables.md)
   - [Morph Overview](SUPP/02-CO/02/00-morph-overview.md)

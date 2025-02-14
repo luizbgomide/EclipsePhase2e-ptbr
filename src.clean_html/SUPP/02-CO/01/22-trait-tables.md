@@ -1,3 +1,5 @@
+# Trait Tables
+
 <!-- CLEANED blockquote class="table" -->
 
 ## Traits ❮d10❯

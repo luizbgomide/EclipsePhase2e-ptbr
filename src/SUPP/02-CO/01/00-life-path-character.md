@@ -56,6 +56,7 @@
 - [Character Creation Example](19-character-creation-example.md)
 - [Morph Tables](20-morph-tables.md)
 - [Sleight Tables](21-sleight-tables.md)
+- [Trait Tables](22-trait-tables.md)
 - [Faction/Rep Tables](23-faction-rep-tables.md)
 - [Skill Tables](24-skill-tables.md)
   - [Random Skills ❮d100❯](24-skill-tables.md#random-skills-d100)
