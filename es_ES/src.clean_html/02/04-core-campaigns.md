@@ -68,7 +68,7 @@ Los personajes de _Operaciones Criminales Guanxi_, un equipo formado en el submu
 ### Operaciones criminales Guanxi
 
 - **Amaru Timoti** :: Fixer de Nueve Vidas
-- **Berk** :: Sicario Infovida y hacker de bots
+- **Berk** :: Sicario Infovida y controlador de bots
 - **Elis** :: Técnico escoria
 - **Pivo** :: Carroñero evolucionado
 
