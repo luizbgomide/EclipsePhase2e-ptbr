@@ -36,7 +36,7 @@ A carreira decidida aqui é ou aquela que você exerceu mais destacadamente dura
  |                                   6–10                                   |                   1                    | [Investigador](#investigator-d100)          | Poucos detalhes escapam à sua vista.                                                |
  |                                                                          |                   2                    | [Médico](#medic-d100)                       | Você tem formação em medicina.                                                      |
  |                                                                          |                   3                    | [Hacker Mental](#mindhacker-d100)           | Você funde mentes e memórias.                                                       |
- |                                                                          |                   4                    | [Sucateiro](#scavenger-d100)                | Você revira os destroços e as ruínas, procurando valor na destruição.               |
+ |                                                                          |                   4                    | [Catador](#scavenger-d100)                  | Você revira os destroços e as ruínas, procurando valor na destruição.               |
  |                                                                          |                   5                    | [Cientista](#scientist-d100)                | Você busca entender como funciona o universo — ou pelo menos certos elementos dele. |
  |                                                                          |                   6                    | [Soldado](#soldier-d100)                    | Você utiliza a violência — ou a ameaça dela.                                        |
  |                                                                          |                   7                    | [Técnico](#techie-d100)                     | Você cria e conserta as coisas.                                                     |
@@ -903,7 +903,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |:---------------------------------------------------- | --:|
 | @-rep                                                | 20 |
 | <!--sort-restart-->Aparelhagem: Eletrônica | 30 |
-| Infosec                                              | 50 |
+| Infoseg                                              | 50 |
 | Interface                                            | 40 |
 | Programação                                          | 40 |
 | Pesquisa                                             | 20 |
@@ -993,7 +993,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |:------------------------------------------------- | --:|
 | c-rep                                             | 20 |
 | <!--sort-restart-->Tiro                 | 20 |
-| Infosec                                           | 20 |
+| Infoseg                                           | 20 |
 | Cinésica                                          | 60 |
 | Luta                                              | 30 |
 | Percepção                                         | 20 |
@@ -1027,7 +1027,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |                                                 |    |
 |:----------------------------------------------- | --:|
 | f-rep                                           | 20 |
-| <!--sort-restart-->Infosec            | 20 |
+| <!--sort-restart-->Infoseg            | 20 |
 | Cinésica                                        | 40 |
 | Percepção                                       | 20 |
 | Persuasão                                       | 20 |
@@ -1207,7 +1207,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |                                                     |    |
 |:--------------------------------------------------- | --:|
 | f-rep                                               | 20 |
-| <!--sort-restart-->Infosec                | 20 |
+| <!--sort-restart-->Infoseg                | 20 |
 | Medicina: Psicocirurgia                             | 40 |
 | Persuasão                                           | 60 |
 | Programação                                         | 20 |
@@ -1243,7 +1243,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |:----------------------------------------------------- | --:|
 | COG                                                   |  5 |
 | <!--sort-restart-->c-rep                    | 20 |
-| <!--sort-restart-->Infosec                  | 20 |
+| <!--sort-restart-->Infoseg                  | 20 |
 | Medicina: Farmacologia                                | 30 |
 | Medicina: Psicocirurgia                               | 60 |
 | Programação                                           | 20 |
@@ -1297,7 +1297,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 <!-- CLEANED blockquote class="framed-table" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-## Sucateiro ❮d100❯
+## Catador ❮d100❯
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
@@ -1315,7 +1315,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-### Comerciante de Sucata
+### Sucateiro
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
@@ -1337,7 +1337,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 | <!--sort-restart-->Aparelhagem: Armamentos | 40 |
 | Aparelhagem: Eletrônica                              | 40 |
 | Aparelhagem: Robótica                                | 50 |
-| Infosec                                              | 30 |
+| Infoseg                                              | 30 |
 | Pilotagem: Aérea                                     | 20 |
 | <!--sort-restart-->Saber: Mercados Negros  | 30 |
 | Saber: Modelos de Bot                                | 40 |
@@ -1376,7 +1376,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 | Interface                                                          | 20 |
 | Pilotagem: Espacial                                                | 30 |
 | <!--sort-restart-->Saber: Operações de Tripulação de Voo | 30 |
-| Saber: Vasculhamento                                               | 40 |
+| Saber: Catação                                                     | 40 |
 | Saber: Espaçonaves                                                 | 20 |
 
 <!-- CLEANED /div -->
@@ -1534,7 +1534,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 | x-rep                                                | 10 |
 | <!--sort-restart-->Aparelhagem: Demolições | 30 |
 | Aparelhagem: Eletrônica                              | 30 |
-| Infosec                                              | 20 |
+| Infoseg                                              | 20 |
 | Percepção                                            | 30 |
 | Programação                                          | 30 |
 | Pesquisa                                             | 30 |
@@ -1714,7 +1714,7 @@ Role d100 ou escolha uma trajetória da carreira. Em seguida, vá para o [Passo 
 |:---------------------------------------------------- | --:|
 | c-rep                                                | 20 |
 | <!--sort-restart-->Aparelhagem: Eletrônica | 60 |
-| Infosec                                              | 30 |
+| Infoseg                                              | 30 |
 | Interface                                            | 30 |
 | Programação                                          | 60 |
 | <!--sort-restart-->Saber: Nanofabricação   | 40 |

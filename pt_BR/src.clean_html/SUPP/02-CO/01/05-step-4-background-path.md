@@ -434,7 +434,7 @@ Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o [Passo 5:
 <!-- CLEANED div class="stat-list title-margin" -->
 <!-- CLEANED div class="line-spread heading" -->
 
-### Ascendente
+### Emergente
 
 <!-- CLEANED div class="no-wrap large-text" -->
 
@@ -835,7 +835,7 @@ Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o [Passo 5:
 | Pilotagem: Terrestre                                 | 20 |
 | Programação                                          | 30 |
 | Pesquisa                                             | 40 |
-| <!--sort-restart-->Saber: Vasculhamento    | 60 |
+| <!--sort-restart-->Saber: Catação          | 60 |
 | Saber: Jogos de Estratégia                           | 30 |
 
 <!-- CLEANED /div -->
@@ -2535,7 +2535,7 @@ Role d100 para o Antecedente, e d10 para Morfo. Em seguida, vá para o [Passo 5:
 | Percepção                                           | 30 |
 | Persuasão                                           | 30 |
 | <!--sort-restart-->Saber: Mercados Negros | 30 |
-| Saber: Vasculhamento                                | 40 |
+| Saber: Catação                                      | 40 |
 | Saber: Contrabando                                  | 40 |
 
 <!-- CLEANED /div -->

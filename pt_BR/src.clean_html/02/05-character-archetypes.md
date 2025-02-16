@@ -20,7 +20,7 @@ Até mesmo o grupo mais astuto eventualmente precisa recorrer à força bruta. A
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Agente Infiltrado ou Sucateiro, **Interesse:** Combatente ou Sobrevivencialista
+**Carreira:** Agente Infiltrado ou Catador, **Interesse:** Combatente ou Sobrevivencialista
 
 <!-- CLEANED /blockquote -->
 
@@ -112,11 +112,11 @@ O técnico se especializa em utilizar, reparar e abusar da tecnologia, tanto apa
 
 <!-- CLEANED /blockquote -->
 
-**Sucateiros:** A equipe tem alguns minutos antes que as pessoas morram. Sem energia ou peças, o engenheiro joga a toalha. É aqui que o sucateiro se destaca. O sucateiro revira os ossos do habitat para fazer uma coisa nova. Ele pode improvisar um removedor de CO<sub>2</sub> usando baterias velhas e material de cozinha. Ele pode reaproveitar a nave destruída para reconstruir o sintemorfo. Quando a equipe chega em um lugar, o sucateiro sabe como encontrar cada pedacinho de tecnologia valiosa enterrada nos detritos, e quando eles voltam pra casa, o sucateiro sabe onde vender esse lixo para conseguir tirar um bom lucro.
+**Catadores:** A equipe tem alguns minutos antes que as pessoas morram. Sem energia ou peças, o engenheiro joga a toalha. É aqui que o catador se destaca. O catador revira os restos do habitat para criar uma coisa nova. Ele pode improvisar um removedor de CO<sub>2</sub> usando baterias velhas e material de cozinha. Ele pode reaproveitar a nave destruída para reconstruir o sintemorfo. Quando a equipe chega em um lugar, o catador sabe como encontrar cada pedacinho de tecnologia valiosa enterrada nos detritos, e quando eles voltam para casa, o catador sabe onde vender esse lixo para conseguir tirar um bom lucro.
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Sucateiro, **Interesse:** Artista/Ícone ou Socializador
+**Carreira:** Catador, **Interesse:** Artista/Ícone ou Socializador
 
 <!-- CLEANED /blockquote -->
 
@@ -144,6 +144,6 @@ As perícias de Saber são as mais específicas em uma missão. Desbravadores pr
 
 <!-- CLEANED blockquote class="indent" -->
 
-**Carreira:** Sucateiro ou Cientista ou Técnico, **Interesse:** Sobrevivencialista
+**Carreira:** Catador ou Cientista ou Técnico, **Interesse:** Sobrevivencialista
 
 <!-- CLEANED /blockquote -->
