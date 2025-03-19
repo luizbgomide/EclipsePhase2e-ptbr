@@ -16,6 +16,8 @@ function readDirectory(root, depth = -1) {
         result += processFile(path.posix.join(root, titleFile.name), depth);
     }
 
+    let prefixResult = "";
+
     let extraResult = "";
 
     dirList.forEach((dir) => {
@@ -28,10 +30,14 @@ function readDirectory(root, depth = -1) {
     });
 
     fileList.forEach((file) => {
-        result += processFile(path.posix.join(root, file.name), depth + 1);
+        if (root == sourceDir && /^_/.test(file.name)) {
+            prefixResult += processFile(path.posix.join(root, file.name), undefined);
+        } else {
+            result += processFile(path.posix.join(root, file.name), depth + 1);
+        }
     });
 
-    return result + extraResult;
+    return prefixResult + result + extraResult;
 }
 
 function getMDTitle(file) {
@@ -40,17 +46,20 @@ function getMDTitle(file) {
     }
     let contents = fs.readFileSync(path.resolve(file), 'utf8');
     let title = contents.match(/^\# (.+)$/m);
-    if (title && title.length > 0) { 
+    if (title && title.length > 0) {
         return title[1] ?? "";
     }
     return "";
 }
 
 function processFile(file, depth) {
-    let filename = path.basename(file);
     let relative_path = path.posix.relative(sourceDir, file);
     let title = getMDTitle(file);
     if (title == "") return "";
+
+    if (depth === undefined) {
+        return `[${title}](${relative_path})\n\n`;
+    }
 
     if (depth < 0) {
         return `\n# ${title}\n\n`
