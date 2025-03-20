@@ -5,42 +5,49 @@ const { getValidAnchor } = require("./helpers");
 const tocMarker = "<!-- TOC PLACEHOLDER -->";
 const headerRE = /^(\#+)\s+(.+)$/gm;
 const blockquoteRE = /\<blockquote.*?\<\/blockquote\>/gs;
+const summaryFile = "SUMMARY.md";
 
 function readDirectory(dir) {
 
     let dirList = fs.readdirSync(dir, { withFileTypes: true }).sort();
-    dirList.filter((file) => file.isDirectory()).forEach((file) => {
-        readDirectory(path.posix.join(dir, file.name));
+
+    let tocFile = dirList.find((file) => file.isFile() && file.name.startsWith("00-") && path.extname(file.name) === ".md");
+    let tocFileHeaders = "";
+    let result = "";
+    dirList.forEach((item) => {
+        let itemName = item.name;
+        if (item.isDirectory()) {
+            result += readDirectory(path.posix.join(dir, itemName));;
+        }
+        if (tocFile && item.isFile() && path.extname(itemName) === ".md" && itemName !== summaryFile) {
+            if (item === tocFile) {
+                tocFileHeaders = processFile(path.posix.join(dir, itemName));
+            } else {
+                result += processFile(path.posix.join(dir, itemName));
+            }
+        }
     });
-    if (dir != sourceDir) {
-        let tocFile = dirList.find((file) => file.isFile() && file.name.startsWith("00-"));
-        if (tocFile) {
-            tocFile = path.resolve(path.posix.join(dir, tocFile.name));
-            let contents = fs.readFileSync(tocFile, 'utf8');
-            let index = contents.indexOf(tocMarker);
-            if (index == -1) return;
+
+    if (tocFile) {
+        tocFile = path.resolve(path.posix.join(dir, tocFile.name));
+        let contents = fs.readFileSync(tocFile, 'utf8');
+        let index = contents.indexOf(tocMarker);
+        if (index >= 0) {
             contents = contents.substring(0, index + tocMarker.length) + '\n\n';
-            let result = "";
-            process.stdout.write("Creating TOC for: " + tocFile + '\n');
-            dirList.filter((file) => file.isFile() && !file.name.startsWith("00-")).forEach((file) => {
-                result += processFile(path.posix.join(dir, file.name));
-            });
+            process.stdout.write("Writing TOC for: " + tocFile + '\n');
             fs.writeFileSync(tocFile, contents + result);
         }
-
     }
+    return tocFileHeaders + result.split("\n").map(line => line.length > 0 ? "  " + line : "").join("\n");
 }
 
 function processFile(file) {
     let result = '';
     // just process files start with ##-
-    let filename = path.basename(file);
-    if (!/^\d\d\-/.test(filename)) {
-        return "";
-    }
-    if (path.extname(file) != ".md") {
-        return "";
-    }
+    // let filename = path.basename(file);
+    // if (!/^\d\d\-/.test(filename)) {
+    //     return "";
+    // }
     contents = fs.readFileSync(path.resolve(file), 'utf8');
     // remove blockquote headers
     contents = contents.replace(blockquoteRE, '');

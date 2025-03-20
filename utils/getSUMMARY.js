@@ -7,12 +7,10 @@ function readDirectory(root, depth = -1) {
     let result = "";
 
     let dirContents = fs.readdirSync(root, { withFileTypes: true }).sort();
-    let dirList = dirContents.filter((file) => file.isDirectory());
-    let fileList = dirContents.filter((file) => file.isFile() && path.extname(file.name) == ".md" && file.name != summaryFile);
-    let titleFile = fileList.find((file) => file.name.startsWith("00-"));
+    let titleFile = dirContents.find((file) => file.name.startsWith("00-") && file.isFile() && path.extname(file.name) === ".md");
 
     if (titleFile) {
-        fileList = fileList.filter((file) => file != titleFile);
+        dirContents = dirContents.filter((file) => file != titleFile);
         result += processFile(path.posix.join(root, titleFile.name), depth);
     }
 
@@ -20,20 +18,21 @@ function readDirectory(root, depth = -1) {
 
     let extraResult = "";
 
-    dirList.forEach((dir) => {
-        let dirName = dir.name;
-        if (root == sourceDir && !/^\d+/.test(dirName)) {
-            extraResult += readDirectory(path.posix.join(root, dirName), -1);
-        } else {
-            result += readDirectory(path.posix.join(root, dirName), depth + 1);
-        };
-    });
-
-    fileList.forEach((file) => {
-        if (root == sourceDir && /^_/.test(file.name)) {
-            prefixResult += processFile(path.posix.join(root, file.name), undefined);
-        } else {
-            result += processFile(path.posix.join(root, file.name), depth + 1);
+    dirContents.forEach((item) => {
+        let itemName = item.name;
+        if (item.isDirectory()) {
+            if (root === sourceDir && !/^\d\d/.test(itemName)) {
+                extraResult += readDirectory(path.posix.join(root, itemName), -1);
+            } else {
+                result += readDirectory(path.posix.join(root, itemName), depth + 1);
+            }
+        }
+        if (item.isFile() && path.extname(itemName) === ".md" && itemName != summaryFile) {
+            if (root === sourceDir && /^-/.test(itemName)) {
+                prefixResult += processFile(path.posix.join(root, itemName), undefined);
+            } else {
+                result += processFile(path.posix.join(root, itemName), depth + 1);
+            }
         }
     });
 
