@@ -2,41 +2,45 @@ const fs = require("fs");
 const path = require("path");
 
 const summaryFile = "SUMMARY.md";
+const sortByTitleFile = ".sortByTitle"
 
 function readDirectory(root, depth = -1) {
-    let result = "";
+    let result = [];
 
     let dirContents = fs.readdirSync(root, { withFileTypes: true }).sort();
-    let titleFile = dirContents.find((file) => file.name.startsWith("00-") && file.isFile() && path.extname(file.name) === ".md");
 
+    let titleFile = dirContents.find((file) => file.name.startsWith("00-") && file.isFile() && path.extname(file.name) === ".md");
     if (titleFile) {
         dirContents = dirContents.filter((file) => file != titleFile);
-        result += processFile(path.posix.join(root, titleFile.name), depth);
+        result.push(processFile(path.posix.join(root, titleFile.name), depth));
     }
 
-    let prefixResult = "";
+    let sortByTitle = dirContents.find((file) => file.isFile() && file.name === sortByTitleFile);
+    let sortedResult = [];
 
-    let extraResult = "";
+    let prefixResult = [];
+    let extraResult = [];
 
     dirContents.forEach((item) => {
         let itemName = item.name;
+        let target = (sortByTitle && !/^\d\d-/.test(itemName)) ? sortedResult : result;
         if (item.isDirectory()) {
             if (root === sourceDir && !/^\d\d/.test(itemName)) {
-                extraResult += readDirectory(path.posix.join(root, itemName), -1);
+                extraResult.push(readDirectory(path.posix.join(root, itemName), -1));
             } else {
-                result += readDirectory(path.posix.join(root, itemName), depth + 1);
+                target.push(readDirectory(path.posix.join(root, itemName), depth + 1));
             }
         }
         if (item.isFile() && path.extname(itemName) === ".md" && itemName != summaryFile) {
             if (root === sourceDir && /^-/.test(itemName)) {
-                prefixResult += processFile(path.posix.join(root, itemName), undefined);
+                prefixResult.push(processFile(path.posix.join(root, itemName), undefined));
             } else {
-                result += processFile(path.posix.join(root, itemName), depth + 1);
+                target.push(processFile(path.posix.join(root, itemName), depth + 1));
             }
         }
     });
-
-    return prefixResult + result + extraResult;
+    sortedResult.sort();
+    return prefixResult.concat(result, sortedResult, extraResult).join("");
 }
 
 function getMDTitle(file) {
