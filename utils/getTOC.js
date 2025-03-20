@@ -20,7 +20,8 @@ function readDirectory(dir) {
         let itemName = item.name;
         let target = (sortByTitle && !/^\d\d-/.test(itemName)) ? sortedResult : result;
         if (item.isDirectory()) {
-            target.push(readDirectory(path.posix.join(dir, itemName)));
+            let relativePathDirs = readDirectory(path.posix.join(dir, itemName)).replaceAll("](",`](${itemName}/`);
+            target.push(relativePathDirs);
         }
         if (tocFile && item.isFile() && path.extname(itemName) === ".md" && itemName !== summaryFile) {
             if (item === tocFile) {
