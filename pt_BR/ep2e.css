@@ -50,7 +50,7 @@ blockquote > :last-child {
   background: var(--table-header-bg);
   margin-top: 0;
   margin-bottom: 0;
-  padding: 3px;
+  padding: 3px 15px;
 }
 
 /* blockquote framed-table */
@@ -192,12 +192,12 @@ h2 {
 }
 
 .two-columns-text > :first-child,
-.multi-column > div > :first-child {
+.smart-columns > div > :first-child {
   margin-top: 0;
 }
 
 .two-columns-text > :last-child,
-.multi-column > div > :last-child {
+.smart-columns > div > :last-child {
   margin-bottom: 0;
 }
 
