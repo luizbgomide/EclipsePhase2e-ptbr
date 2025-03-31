@@ -237,7 +237,7 @@ Todos equipamentos iniciais incluem o item físico do equipamento e o diagrama d
 | [Servidor Privado](../16/04-services.md#mesh-services)                    |                 Mod/2                 | Servidor privado, gerenciado por outros.                   |
 | [App de Psicocirurgia](../16/13-apps-and-alis.md#apps)                    |                 Mod/2                 | Edita mentes.                                              |
 
-### Sucateiro
+### Catador
 
 <!--sort-->
 

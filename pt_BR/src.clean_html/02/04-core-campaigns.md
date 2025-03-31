@@ -68,9 +68,9 @@ Os personagens de _Operações Criminais Guanxi_, uma equipe criada no submundo,
 ### Operações Criminais Guanxi
 
 - **Amaru Timoti** :: Intermediário do Nine Lives
-- **Berk** :: Infovida Capanga & Encarnadora de Drone
+- **Berk** :: Capanga & Encarnadora de Drone Infovida
 - **Elis** :: Técnica da Ralé
-- **Pivo** :: Elevado Sucateiro
+- **Pivo** :: Catador Elevado
 
 <!-- CLEANED /blockquote -->
 
