@@ -190,7 +190,7 @@ Personal bots are worn or found throughout transhuman habitats.
 
 <!--sort-block-->
 
-<tr><td>Creepy<td>Min/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>VS</tr>
+<tr><td>Creepy<td>Min/1<td>0<td>0<td>2/2<td>3<td>15<td>30<td>S or VS</tr>
 <tr><td colspan="9"><div class="indent">
 
 - **Movement Rate:** Hopper/Walker 4/12

@@ -69,7 +69,7 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 | Engineer Swarm     |        Min/1         | Constructs/shapes environment.                                                     |
 | Fixer Swarm        |        Mod/2         | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                             |
 | Gardener Swarm     |        Min/1         | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
-| Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 6 per turn.                             |
+| Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 1d10 \[6\] per turn.                             |
 | Protean Swarm      |      As Object       | Nanofabricates a specific, pre-programmed item.                                    |
 | Pusher Swarm       | Min/R/1 + drug/toxin | Exposes biomorphs to drug/toxin.                                                   |
 | Saboteur Swarm     |       Mod/R/2        | Sabotages electronics/machinery; 50% chance of wound every WT turns.               |
@@ -89,7 +89,7 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 
 **Gardener:** This microswarm is useful for a number of agricultural purposes: killing weeds, planting seeds, trimming plants, pollinating, and even harvesting small items. It can also be programmed to defoliate an area. Gardener swarms are common in habitat greenhouses and hydroponics bays.
 
-**Guardian:** Guardians watch for and attack other unauthorized swarms. These mites neutralize other nanobots by physically latching on to them, effectively disabling both. This war of attrition takes its toll on the guardian swarm as well. Every action turn, both the guardian and targeted swarm take DV 1d10 \[6\]. Guardians can be programmed or instructed to release captured mites, allowing you to temporarily disable a swarm and then release it afterwards.
+**Guardian:** Guardians watch for and attack other unauthorized swarms. These mites neutralize other nanobots and microbots by physically latching on to them, effectively disabling both. This war of attrition takes its toll on the guardian swarm as well. Every action turn, both the guardian and targeted swarm take DV 1d10 \[6\]. Guardians can be programmed or instructed to release captured mites, allowing you to temporarily disable a swarm and then release it afterwards.
 
 **Protean:** This nanoswarm disassembles other materials in order to create a single, specific object (much like a specialized nanofabricator). The proteans must be able to scavenge appropriate raw materials (for example, to create a metallic device the nanobots must transform something else made of metal), whether by specific or indiscriminate targeting of their surroundings. Assembly time is based upon complexity, just like regular nanofabrication. The specific blueprint they follow must be specified when the swarm is acquired.
 

@@ -4,36 +4,36 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 <!--sort-->
 
-| PHYSICAL AUGMENTATIONS | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                                              |
-| :--------------------- | :-------: | :----------: | :------------------------------------------------------------------------------------------------------- |
-| Circadian Regulation   |    BM     |    Mod/2     | Need only 2 hours of sleep. Long recharges take 2 hours.                                                 |
-| Cold Tolerance         |     B     |    Min/1     | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                         |
-| Cryogenic Protection   |    CH     |    Mod/2     | Handle temps as low as −120/−200&nbsp;°C (biomorphs) or lower (synthmorphs).                             |
-| Cyberlimb              |     C     |    Mod/2     | Replacement limb. 6/4&nbsp;AV when targeted, +5&nbsp;SOM Check.                                          |
-| Cyberlimb Plus         |     C     |    Maj/3     | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                     |
-| Enhanced Respiration   |     B     |    Min/1     | Breathe wider range of atmospheres, hold breath longer.                                                  |
-| Fractal Digits         |    CH     |    Min/1     | +10 Hardware Tests involving ultra-fine manipulation.                                                    |
-| Gas-Jet System         |    CH     |    Mod/2     | Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).                         |
-| Gills                  |     B     |    Min/1     | Breathe both air and water.                                                                              |
-| Grip Pads              |    BCH    |    Min/1     | +30 climbing Athletics Tests.                                                                            |
-| Hibernation            |     B     |    Min/1     | Reduce metabolism, need only 5% normal amount of food, water, and air.                                   |
-| Hidden Compartment     |    CH     |    Min/1     | Concealed, shielded compartment. +30 Infiltrate to hide items.                                           |
-| Magnetic System        |    CH     |    Min/1     | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                           |
-| Mobility System        |     H     |    Mod/2     | Additional specified [movement type](../12/24-movement.md#movement-types).                               |
-| Modular Design         |     H     |    Mod/2     | Lock with other modules to create gestalt forms. [Flexbot Rules](../04/25-synthmorphs.md#flexbot-rules). |
-| Nanotat ID Flux        |     N     |   Maj/R/3    | Switch out your nanotat ID.                                                                              |
-| Oxygen Reserve         |     C     |    Min/1     | Oxygen tank/rebreather with 4 hours of air.                                                              |
-| Prehensile Feet        |    BCH    |    Min/1     | Can use feet as hands. −8 full move.                                                                     |
-| Prehensile Tail        |    BCH    |    Min/1     | Can grip with tail. +10 balanced-based Athletics.                                                        |
-| Pressure Adaptation    |    BH     |    Min/1     | Handle extreme pressure.                                                                                 |
-| Retracting Limbs       |     H     |    Min/1     | Limb retracts, can hold 1 small item.                                                                    |
-| Shape Adjusting        |     H     |    Maj/3     | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                   |
-| Skin Pocket            |     B     |    Min/1     | Concealment for very small (and some small) items (+30 Infiltrate).                                      |
-| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                 |
-| Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C.                                                                   |
-| Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                     |
-| Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |
-| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).          |
+| PHYSICAL AUGMENTATIONS | Ware Type | Comp/<!-- CLEANED wbr -->GP | Description                                                                                                       |
+| :--------------------- | :-------: | :----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Circadian Regulation   |    BM     |    Mod/2     | Need only 2 hours of sleep. Long recharges take 2 hours.                                                          |
+| Cold Tolerance         |     B     |    Min/1     | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                                  |
+| Cryogenic Protection   |    CH     |    Mod/2     | Handle temps as low as −120&nbsp;°C/−184&nbsp;°F or −200&nbsp;°C/−328&nbsp;°F (biomorphs) or lower (synthmorphs). |
+| Cyberlimb              |     C     |    Mod/2     | Replacement limb. 6/4&nbsp;AV when targeted, +5&nbsp;SOM Check.                                                   |
+| Cyberlimb Plus         |     C     |    Maj/3     | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                              |
+| Enhanced Respiration   |     B     |    Min/1     | Breathe wider range of atmospheres, hold breath longer.                                                           |
+| Fractal Digits         |    CH     |    Min/1     | +10 Hardware Tests involving ultra-fine manipulation.                                                             |
+| Gas-Jet System         |    CH     |    Mod/2     | Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).                                  |
+| Gills                  |     B     |    Min/1     | Breathe both air and water.                                                                                       |
+| Grip Pads              |    BCH    |    Min/1     | +30 climbing Athletics Tests.                                                                                     |
+| Hibernation            |     B     |    Min/1     | Reduce metabolism, need only 5% normal amount of food, water, and air.                                            |
+| Hidden Compartment     |    CH     |    Min/1     | Concealed, shielded compartment. +30 Infiltrate to hide items.                                                    |
+| Magnetic System        |    CH     |    Min/1     | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                                    |
+| Mobility System        |     H     |    Mod/2     | Additional specified [movement type](../12/24-movement.md#movement-types).                                        |
+| Modular Design         |     H     |    Mod/2     | Lock with other modules to create gestalt forms. [Flexbot Rules](../04/25-synthmorphs.md#flexbot-rules).          |
+| Nanotat ID Flux        |     N     |   Maj/R/3    | Switch out your nanotat ID.                                                                                       |
+| Oxygen Reserve         |     C     |    Min/1     | Oxygen tank/rebreather with 4 hours of air.                                                                       |
+| Prehensile Feet        |    BCH    |    Min/1     | Can use feet as hands. −8 full move.                                                                              |
+| Prehensile Tail        |    BCH    |    Min/1     | Can grip with tail. +10 balanced-based Athletics.                                                                 |
+| Pressure Adaptation    |    BH     |    Min/1     | Handle extreme pressure.                                                                                          |
+| Retracting Limbs       |     H     |    Min/1     | Limb retracts, can hold 1 small item.                                                                             |
+| Shape Adjusting        |     H     |    Maj/3     | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                            |
+| Skin Pocket            |     B     |    Min/1     | Concealment for very small (and some small) items (+30 Infiltrate).                                               |
+| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                          |
+| Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C/1,832&nbsp;°F.                                                              |
+| Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                              |
+| Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                                   |
+| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).                   |
 
 <!--sort-->
 
@@ -41,7 +41,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Cold Tolerance:** Your morph’s temperature regulation and circulation are substantially enhanced, allowing you to survive in temperatures as low as −80&nbsp;°C/−112&nbsp;°F without discomfort or ill effects. This mod is common on Mars, allowing you to handle the weather without heavy clothing.
 
-**Cryogenic Protection:** The morph features special insulation and heating. Biomorphs can withstand −120&nbsp;°C temps, or down to −200&nbsp;°C in environments with 0.1 atmospheres or less. Synthmorphs can handle the coldest temperatures in the Solar System.
+**Cryogenic Protection:** The morph features special insulation and heating. Biomorphs can withstand −120&nbsp;°C/−184&nbsp;°F temps, or down to −200&nbsp;°C/−328&nbsp;°F in environments with 0.1 atmospheres or less. Synthmorphs can handle the coldest temperatures in the Solar System.
 
 **Cyberlimb:** Standard replacement cyberlimbs function the same as their biological equivalents, though they are made of sturdier materials. Apply a +5 bonus to SOM Checks. They have a 6/4&nbsp;AV when targeted specifically. Since limbs can easily be regrown, some people consider cybernetic prostheses to be vulgar and distasteful; others treat them as iconic symbols of self-expression. They can be equipped with hidden compartments, lights, speakers, holographic projectors, [weapon mounts](10-combat-augmentations.md), and other add-ons. They may also be disguised to appear real with a [synthetic mask](09-social-augmentations.md). You may have multiple cyberlimbs.
 
@@ -77,7 +77,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Pressure Adaptation:** Your morph can handle extreme hydrostatic pressure conditions, up to 500 (biomorphs) or 2,500 (synthmorphs) atmospheres. It also acclimates to pressure changes quickly and is immune to oxygen toxicity, nitrogen narcosis, and the bends.
 
-**Retracting Limbs:** Some or all of your limbs can retract completely inside your shell’s frame. A limb can hold one very small item while retracted (small morphs can hold micro items, large morphs small items). Retracted limbs and the items they hold can not be targeted in combat. Retracted items are concealed (+30 Infiltrate). This mod cannot be combined with hidden compartment or telescoping limb.
+**Retracting Limbs:** Some or all of your limbs can retract completely inside your shell’s frame. A limb can hold one very small item while retracted (small morphs can hold micro items, large morphs small items). Retracted limbs and the items they hold can not be targeted in combat. Retracted items are concealed (+30 Infiltrate). This mod cannot be combined with hidden compartment.
 
 **Shape Adjusting:** This shell is made from smart materials that allow it to alter its shape, height, width, circumference, and external features, while retaining the same mass. The ability to change shape is not completely unlimited, due to the shell’s internal components; work with the GM to establish what is possible. This mod is primarily used to reshape the morph into special pre-set configurations adapted to specific tasks (for example, lengthening to crawl through a tunnel, widening its base for stability, expanding to reach out and attach to multiple access points simultaneously, and so on). Shapechanging allows you to change your composition to function as any 2 Minor complexity items/ware or 1 Moderate complexity item/ware allowed by the GM (no blueprint needed). Extra sets of limbs count as Minor ware. Simple shapes and mechanical designs are easy to create, but advanced electronics, complex designs, and specialized components are beyond the scope of this mod. Altering shape takes at minimum 1d6 minutes, and can take as long as 1d6 hours for substantial changes. This mod also allows the morph to change its features for disguise purposes; apply a +30 modifier to disguise-based Deceive or Exotic Skill: Disguise Tests.
 
@@ -85,7 +85,7 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 **Skinlink:** Skinlink nanobots live on the morph’s external skin or shell, automatically swarming over and creating a physical connection with any electronics you touch. They also take advantage of the electrical field in a biomorph’s skin for communication. They allow you to communicate and mesh with skinlink-equipped devices, devices with external access ports, devices with exposed electronics, or other skinlinked characters merely by touching them. This is considered a wired link, and so is not subject to sniffing or jamming.
 
-**Thermogenic Protection:** The synthmorph can operate in high-temperature environments with heat sinks and coolant systems, able to withstand up to 1,000&nbsp;°C. This also provides AV +5/0.
+**Thermogenic Protection:** The synthmorph can operate in high-temperature environments with heat sinks and coolant systems, able to withstand up to 1,000&nbsp;°C/1,832&nbsp;°F. This also provides AV +5/0.
 
 **Utilimod:** This mod duplicates the functions of a [utilitool](05-common-tech-and-ware.md#everyday-technology). Retractable smart material tool “arms” are implanted — usually spaced around the wrist, but other locations are possible — that can change shape into almost any type of specialized tool desired in 1d6 minutes. These tools can take on numerous functions, including that of a [fiber eye](17-espionage-and-security-tech.md) or an implanted [knife](../12/02-melee-combat.md#melee-weapons).
 

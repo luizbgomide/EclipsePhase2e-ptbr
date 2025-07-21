@@ -22,7 +22,7 @@ Some circumstances call for critical care: surgery, limb regeneration, or even t
 
 **Regeneration:** Transhumans with biomods will regrow severed parts over time. An ear or finger will take a week, an arm or leg a full month. Healing vats greatly accelerate this process to somewhere between 4 hours (ear/finger) and 2 days (full limb), and can even restore a full body from just a head (1 month).
 
-**Revivification:** Recently deceased biomorphs can be placed in medical stasis with a medical kit and a Medicine: Paramedic (10 minutes) task action. An equipped medical specialist can revive the person as long as they are treated within 24 hours of death or being removed from stasis. This requires a medical kit and a Medicine: Paramedic task action with a timeframe of 1 hour, +1 per wound. Revived characters are healed to 1 point below their Death Rating. A healing vat will also do the job, with a timeframe of 1 day.
+**Revivification:** Recently deceased biomorphs can be placed in medical stasis with a medical kit and a Medicine: Paramedic (10 minutes) task action. A medical specialist can revive a person if they are treated within 2 hours of death or removal from stasis (24 hours if the intent is to only save the morph, not the ego). Quadruple this period for bodies kept in extreme cold or vacuum. Revivification requires a medical kit and a Medicine: Paramedic task action with a timeframe of 1 hour, +1 per wound. Revived characters are healed to 1 point below their Death Rating. A healing vat will also do the job, with a timeframe of 1 day.
 
 ## Synthmorph/Object Repair
 

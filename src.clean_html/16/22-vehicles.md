@@ -320,11 +320,11 @@ These one-person movement aids are primarily used in space or undersea. Use with
 
 <!--sort-->
 
-| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |          Movement           | Size  |
-| :------------- | :----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :-------------------------: | :---: |
-| Rocket Pack    |    Mod/2     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40 |   S   |
-| Sled           |    Min/1     |   2   |   0   |   0   |  6/4  |   8   |  40   |  80   | Thrust Vector (Rocket) 8/40 |   S   |
-| Thruster Pack  |    Min/1     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40 |   S   |
+| PERS TRANSPORT | Comp/<!-- CLEANED wbr -->GP | Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |           Movement           | Size  |
+| :------------- | :----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--------------------------: | :---: |
+| Rocket Pack    |    Mod/2     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40  |   S   |
+| Sled           |    Min/1     |   2   |   0   |   0   |  6/4  |   8   |  40   |  80   | Thrust Vector (Gas Jet) 8/40 |   S   |
+| Thruster Pack  |    Min/1     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Gas Jet) 8/40 |   S   |
 
 <!--sort-->
 

@@ -26,7 +26,7 @@ In space, there is no atmosphere to propagate an explosive shockwave; reduce the
 
 ### Scatter
 
-Weapons such as grenades must go somewhere when they miss, and you might still catch your target in the blast radius. To determine where a missed area-effect attack falls, roll a d10. The direction the top pointed part of the die is pointing is the direction the attack scatters, treating yourself as the target for orientation purposes. The result of the die roll is how far away the attack lands, in meters. For each superior failure, double the scatter distance. This determines the epicenter of the blast; resolve the damage against anyone caught within its radius of effect as normal. You may need to fudge this result for microgravity or other situations where three-dimensionality matters, or you can roll another d10 to judge orientation on the z-axis (1 being “above” the target, 10 being “below”).
+Weapons such as grenades must go somewhere when they miss, and you might still catch your target in the blast radius. To determine where a missed blast area-effect attack falls, roll a d10. The direction the top pointed part of the die is pointing is the direction the attack scatters, treating yourself as the target for orientation purposes. The result of the die roll is how far away the attack lands, in meters. For each superior failure, double the scatter distance. This determines the epicenter of the blast; resolve the damage against anyone caught within its radius of effect as normal. You may need to fudge this result for microgravity or other situations where three-dimensionality matters, or you can roll another d10 to judge orientation on the z-axis (1 being “above” the target, 10 being “below”).
 
 ## Attacks Against the Helpless
 
@@ -38,7 +38,7 @@ Attacking a target that you cannot see is difficult at best and a matter of luck
 
 ## Called Shots
 
-Sometimes it’s not enough to just hit your target — you need to shoot out a window, knock the knife out of their hand, or hit that hole in their armor. You can declare a called shot before you initiate an attack, choosing one of the outcomes noted below. Called shots suffer a −10 modifier. If you succeed with a superior success, the results below apply instead of the superior success result. If you hit but do not score a superior success, you simply strike your target as normal. You cannot make called shots with area-effect attacks.
+Sometimes it’s not enough to just hit your target — you need to shoot out a window, knock the knife out of their hand, or hit that hole in their armor. You can declare a called shot before you initiate an attack, choosing one of the outcomes noted below. Called shots suffer a −10 modifier. If you succeed with a superior success, the results below apply instead of the superior success result. If you hit but do not score a superior success, you simply strike your target as normal. You cannot make called shots with area-effect attacks (except for cone area-effect attacks at point-blank range).
 
 <!--sort-->
 
@@ -48,7 +48,7 @@ Called shots can be used to target a hole or weak point in your opponent’s arm
 
 ### Disarm
 
-You can take a called shot to knock a weapon out of an opponent’s hand(s) or other appendages. The victim suffers half damage from the attack (reduced by armor as normal) and must make a SOM Check at −30 modifier to retain hold of the weapon. Otherwise it scatters 1d10 meters away. An additional superior success may be used to double the modifier to −60, inflict full damage, or to keep the weapon in your grip instead of knocking it away.
+You can take a called shot to knock a weapon out of an opponent’s hand(s) or other appendages. The victim suffers half damage from the attack (reduced by armor as normal) and must make a SOM Check at −30 modifier to retain hold of the weapon. Otherwise it scatters 1d10 meters away. An additional superior success may be used to double the modifier to −60, inflict full damage, or to snatch the weapon and retain it in your own grip instead of knocking it away (melee only).
 
 ### Knockdown
 

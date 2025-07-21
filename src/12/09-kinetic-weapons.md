@@ -1,6 +1,6 @@
 # Kinetic Weapons
 
-Kinetic weapons fire hard-impact projectiles at high velocities to damage the target. There are two categories of slug-throwers, based on their firing mechanisms: chemical _firearms_ and _railguns_. Railguns have higher penetration and inflict more damage, offset by battery needs and more limited ammunition choices. Most firearms are equipped with programmable smart bullets by default and have a range of other ammunition choices. Due to their lethality and versatility, they remain in widespread use. Both firearms and railguns work in vacuum. They are wielded with Guns skill and resisted with kinetic armor.
+Kinetic weapons fire hard-impact projectiles at high velocities to damage the target. There are two categories of slug-throwers, based on their firing mechanisms: chemical _firearms_ and _railguns_. Railguns have higher penetration and inflict more damage, offset by battery needs and more limited ammunition choices. Firearms are equipped with standard ammunition by default but have a range of ammunition choices including programmable smart bullets. Due to their lethality and versatility, they remain in widespread use. Both firearms and railguns work in vacuum. They are wielded with Guns skill and resisted with kinetic armor.
 
 | KINETIC WEAPONS | Damage Value \[Average\] |    Modes     |     Ammo     |    Range     | Comp/<wbr>GP | Notes                    |
 | :-------------- | :----------------------: | :----------: | :----------: | :----------: | :----------: | :----------------------- |

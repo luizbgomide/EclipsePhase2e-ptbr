@@ -4,9 +4,7 @@ AIs are self-aware software. Like other code, they must be run on a computerized
 
 ## ALIs
 
-Artificial limited intelligences are designed as “custodian helpers” for specific devices or tasks. They are based upon machine-learning neural nets that draw upon vast data sets concerning the device/operations, meaning that they are well-versed in the best methods and likely outcomes. They are programmed with the core skills they need for their tasks and equipped with a personality expressly geared towards customer service, obedience, and satisfaction.
-
-Most ALIs are run on bots, vehicles, and other devices to assist transhumans or operate the machine themselves. Sample ALIs are listed on [ALIs and Muses](../16/13-apps-and-alis.md#alis-and-muses).
+Artificial limited intelligences are designed as “custodian helpers” for specific devices or tasks. They are based upon machine-learning neural nets that draw upon vast data sets concerning the device/operations, meaning that they are well-versed in the best methods and likely outcomes. They are programmed with the core skills they need for their tasks and equipped with a personality expressly geared towards customer service, obedience, and satisfaction. Most ALIs are run on bots, vehicles, and other devices to assist transhumans or operate the machine themselves.
 
 In most societies, ALIs are considered things or property rather than people and accorded no special rights. They may also be banned from certain roles or activities. A few polities treat them as persons with limited or full civil rights and protections.
 
@@ -28,6 +26,8 @@ Lacking generalized intelligence, ALIs are inept and clueless when it comes to s
 
 ALIs usually have aptitudes of 10, with a maximum of 15. Most have 5–7 active skills, with a maximum of 10. Their skills cannot exceed 40 (including aptitudes), with the exception of one active skill appropriate to the ALI’s specialty, which can be 60. Most have 3–5 Know skills, with a maximum of 10. Their Know skills cannot exceed 80.
 
+Sample ALIs with skills are listed on [ALIs and Muses](../16/13-apps-and-alis.md#alis-and-muses). These listings may not fit all uses; GMs should adjust/swap skills as appropriate to fit their device/purpose (for example, the ALI for a bot equipped with eelware may come with Melee 30).
+
 ALIs cannot default; if they don’t possess a skill, they can’t use it. They can use specializations (which can exceed their maximums).
 
 ALIs do not get pools, unless a morph, bot, vehicle, or other device they are operating provides them.
@@ -46,7 +46,7 @@ ALIs are capable of suffering mental stress and trauma, and so have Lucidity, Tr
 
 ### Sleeving
 
-ALIs use their own individual infomorphs. ALIs may be sleeved into any morph with a cyberbrain. They cannot be downloaded into biomorphs with biological brains.
+Most bot/vehicle/device ALIs are hard-coded in as firmware (effectively “sleeving” it) and cannot move to other devices. Other ALIs have their own infomorphs (equivalent to a digimorph with DUR 40) but may resleeve into other infomorphs or any morph with a cyberbrain. They cannot sleeve biomorphs with biological brains.
 
 ## Muses
 

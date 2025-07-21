@@ -117,6 +117,8 @@ Older vacsuit models lack the smart fabrics and are made of stiffer and bulkier 
 
 Unless specifically noted, assume characters have newer models that function the same as [Smart Clothing](05-common-tech-and-ware.md#everyday-technology); older dumb-fabric designs are typically kept around as backups in older habitats and ships.
 
+Some vacsuits intended for micrograv come equipped with gas-jet systems; treat as a [thruster pack](../16/22-vehicles.md#personal-transport-devices).
+
 | VACSUITS         | Comp/<!-- CLEANED wbr -->GP | Description                                                                                                      |
 | :--------------- | :----------: | :--------------------------------------------------------------------------------------------------------------- |
 | Light Vacsuit    |    Mod/2     | As [Smart Clothing](05-common-tech-and-ware.md#everyday-technology), protects from vacuum, 8 hours air, AV 5/2.  |

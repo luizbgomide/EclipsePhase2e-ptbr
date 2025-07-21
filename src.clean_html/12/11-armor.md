@@ -61,6 +61,8 @@ Any armor with an AV of 11 or more is obvious and visible and will raise questio
 
 ## Armor Ware
 
+These armor types are implanted [ware](../16/01-gear-rules.md#ware).
+
 <!--sort-->
 
 **Bioweave:** The morph’s dermal layers are laced with spidersilk fibers, providing protection without changing the appearance, texture, or sensitivity of the skin.

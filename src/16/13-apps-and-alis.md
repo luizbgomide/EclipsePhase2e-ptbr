@@ -31,7 +31,7 @@ This software can be run on any computerized device.
 
 **Crypto:** This app generates key pairs, encrypts messages using public keys, and decrypts with secret keys ([Encryption](../13/05-authentication-and-encryption.md#encryption)).
 
-**Exploit:** A hacker library/tool for taking advantage of known software vulnerabilities. Required for hacking.
+**Exploit:** A hacker library/tool for taking advantage of known software vulnerabilities. Essential for hacking.
 
 **Firewall:** This app protects a device from hostile intrusion. Every device comes with one by default.
 
@@ -88,12 +88,12 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 
 <!--sort-->
 
-| SCORCHERS  | Comp/<wbr>GP | Description                                                                                 |
-| :--------- | :----------: | :------------------------------------------------------------------------------------------ |
-| Bedlam     |   Mod/R/2    | Horrifying inputs, SV 1d10 \[6\], +1d6 per superior success.                                |
-| Cauterizer |   Mod/R/2    | Destructive neurofeedback, DV 1d10 + 5 \[11\], +1d6 per superior success.                   |
-| Nightmare  |   Mod/R/2    | Trigger anxiety/panic, WIL Check or SV 1d6 \[4\] and acute stress response for 1d6 minutes. |
-| Spasm      |   Mod/R/2    | Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.         |
+| SCORCHERS  | Comp/<wbr>GP | Description                                                                                                |
+| :--------- | :----------: | :--------------------------------------------------------------------------------------------------------- |
+| Bedlam     |   Mod/R/2    | Horrifying inputs, SV 1d10 \[6\], +1d6 per superior success.                                               |
+| Cauterizer |   Mod/R/2    | Destructive neurofeedback, DV 1d10 + 5 \[11\] or DV 3d10 \[17\] vs. infomorphs, +1d6 per superior success. |
+| Nightmare  |   Mod/R/2    | Trigger anxiety/panic, WIL Check or SV 1d6 \[4\] and acute stress response for 1d6 minutes.                |
+| Spasm      |   Mod/R/2    | Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.                        |
 
 <!--sort-->
 

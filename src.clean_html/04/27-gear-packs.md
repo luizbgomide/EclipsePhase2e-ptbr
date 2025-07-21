@@ -231,7 +231,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | GEAR                                                                     | Comp/<!-- CLEANED wbr -->GP | Description                                |
 | :----------------------------------------------------------------------- | :----------: | :----------------------------------------- |
 | [Comfurt (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.       |
-| [Eelware](../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 1d6, shock effect, touch-only.          |
+| [Eelware](../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 1d6, Shock, Touch-Only.          |
 | [Ego Bridge](../16/19-nanotech.md)                                       |    Mod/2     | Upload from/download to biological brains. |
 | [Multi-Tasking](../16/08-mental-augmentations.md)                        |    Mod/2     | Focus on 2 things at once. +1 Insight.     |
 | [Private Server](../16/04-services.md#mesh-services)                     |    Mod/2     | Private server, managed by others.         |

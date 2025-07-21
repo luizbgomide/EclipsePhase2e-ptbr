@@ -54,7 +54,7 @@ Psychosurgical interrogation uses lie detection and brain scanning techniques in
 
 The dividing line with interrogation lies with the use of pain and other mental manipulation torture techniques. Physical torture is widely regarded as being ineffective, due to the likelihood that victims will lie, admit guilt when innocent, or generally say whatever they need to say to stop being tortured. When combined with the technologically enhanced interrogation techniques described above, however, it can be extremely effective.
 
-The timeframe and SV for psychosurgical interrogation is variable, depending on the situation and the questioning. The GM should decide on these as appropriate. One subjective week should be the baseline, with modifiers provided for additional weeks. SV may range from nothing with basic interrogation to 1d6 +2/half for moderate torture and 1d10 + 2 for severe torture, possibly more. Keep in mind that torture is extremely unpleasant and may inflict stress on the practitioner and witnesses as well. Such scenes may also not be appropriate to your gaming group, so be aware of your players’ comfort levels.
+The timeframe and SV for psychosurgical interrogation is variable, depending on the situation and the questioning. The GM should decide on these as appropriate. One subjective week should be the baseline, with modifiers provided for additional weeks. SV may range from nothing with basic interrogation to 1d6 +2/half for moderate torture and 1d10 + 2/half for severe torture, possibly more. Keep in mind that torture is extremely unpleasant and may inflict stress on the practitioner and witnesses as well. Such scenes may also not be appropriate to your gaming group, so be aware of your players’ comfort levels.
 
 ## Memory Editing
 

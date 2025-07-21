@@ -56,7 +56,7 @@ Melee weapons range from the archaic to high tech:
 
 <!--sort-->
 
-**Club:** Clubs encompasses a wide range of one-handed blunt objects, from saps to sticks to pipes.
+**Club:** A wide range of one-handed blunt objects, from saps to sticks to pipes.
 
 **Densiplast Gloves:** These gloves extra-harden when activated, for extra punch. A set of gloves on each hand counts as a single weapon.
 
@@ -125,7 +125,7 @@ When engaging in a melee attack, you may choose to attack two or more opponents 
 
 Some weapons extend your reach, giving you a significant advantage over an opponent in melee. This applies to any weapon over half a meter long: axes, clubs, swords, shock batons, etc. Whenever you have a reach advantage over an opponent, you receive a +10 modifier for both attacking and defending. Some extra-long limbs or weapons provide a +20 bonus, as noted. For each size category ([Sizes](21-other-action-factors.md#sizes)) by which you exceed your opponent, apply a +10 Reach modifier, up to a maximum +30.
 
-### Touch-only Attacks
+### Touch-Only Attacks
 
 Some attacks simply require you to touch your target, rather than injure them, and are correspondingly easier. This might apply when trying to slap them with a dermal drug patch, poking them with a stun baton, or making skin-to-skin contact for the use of a psi sleight. In situations like this, apply a +20 modifier to your melee attack. Melee shock attacks made with a touch-only bonus inflict no DV. (If you want to also inflict DV with the attack, you must attack without the +20 modifier.)
 

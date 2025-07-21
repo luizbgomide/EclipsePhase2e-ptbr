@@ -526,7 +526,7 @@ Named for their habit of worming their way into people’s minds, worms retain t
 
 ---
 
-- **Eelware:** 65, DV 1d6, shock effect, touch-only
+- **Eelware:** 65, DV 1d6, Shock, Touch-only
 - **Psychic Stab:** 70, DV 2d10 ([Psychic Stab](../14/06-psi-sleight-summaries.md#psychic-stab))
 
 ---

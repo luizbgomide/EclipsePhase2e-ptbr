@@ -9,7 +9,7 @@ Eclipse Phase took inspiration from many sources that deserve recognition and cr
 - Neal Asher
   - _Gridlinked_
   - _Skinner_
-- Ian Banks
+- Iain Banks
   - _Consider Phlebas_
   - _Excession_
   - _The Hydrogen Sonata_
@@ -19,7 +19,7 @@ Eclipse Phase took inspiration from many sources that deserve recognition and cr
   - _The Player of Games_
   - _The State of the Art_
   - _Surface Detail_
-  - _The Use of Weapons_
+  - _Use of Weapons_
 - Greg Bear
   - _Moving Mars_
   - _Queen of Angels_

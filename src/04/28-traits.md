@@ -186,7 +186,7 @@ Your gut feelings are on target. You get +5 per level to INT Checks.
 
 **▲ Ego Trait • CP Cost: 1**
 
-You are accustomed to trauma, but it has scarred you. You are immune to stress from either alienation, helplessness, or violence (choose one). However, your WIL Check is reduced by 10 and you suffer a −10 modifier on Persuade Tests. This trait may be taken multiple times for different types of stress; modifiers are cumulative.
+You are accustomed to trauma, but it has scarred you. You are immune to stress from either alienation, helplessness, the unknown, or violence (choose one p. 229). You may only choose the unknown if you also have the Psi trait. Your WIL Check is reduced by 10 and you suffer a −10 modifier on Persuade Tests. This trait may be taken multiple times for different types of stress; modifiers are cumulative.
 
 ### Hyper Linguistics
 
@@ -274,7 +274,7 @@ Either your morph is dexterous or you take full advantage of its nimbleness. App
 
 **▼ Morph Trait • MP Cost: 1**
 
-This trait is only available to biomorphs. The morph recovers from damage more quickly. Reduce the timeframes for [healing](../12/17-healing-and-repair.md) by half.
+This trait is only available to biomorphs. The morph recovers from damage more quickly. Reduce the timeframes for natural morph [healing](../12/17-healing-and-repair.md) by half (the healing rates of aids such as medichines, meds, etc, are unaffected).
 
 ### Resolve
 

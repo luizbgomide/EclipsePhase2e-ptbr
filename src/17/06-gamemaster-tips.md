@@ -42,7 +42,7 @@ Other ALIs have more obscure stress points. How do you traumatize a security ALI
 
 Erratic behavior from ALIs can be used as both a foreshadowing tool for the GM and a clue for players. Since it’s common practice to simply overwrite ALIs with a backup if they begin acting strangely, encountering an eccentric ALI signals that something weird is going on. Psychosurgeons or characters with appropriate Know skills should be able to speculate about what’s off with an erratic ALI if they spend sufficient time interacting with it.
 
-Like AGIs, healthy ALIs have mnemonics ware, but a corrupted or failing ALI might develop memory faults, compromising their otherwise perfect recall. Attacking monitor ALIs to tamper with their memories is an effective but difficult-to-pull off intrusion tactic.
+Like other infomorphs, healthy ALIs have mnemonics ware, but a corrupted or failing ALI might develop memory faults, compromising their otherwise perfect recall. Attacking monitor ALIs to tamper with their memories is an effective but difficult-to-pull off intrusion tactic.
 
 ## Skill Use
 
