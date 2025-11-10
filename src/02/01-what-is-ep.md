@@ -32,7 +32,7 @@ If you’re new to the game and eager to start playing, we recommend choosing on
 
 If you prefer to jump right into making your own characters, proceed to [Making Characters](../04/00-making-characters.md).
 
-If you’d prefer to get a grasp on the rules first, start with [Game Mechanics](../03/00-game-mechanics.md). For more detail, move on to [Actions & Combat](../12/00-action-and-combat.md) and [Transhuman Tech](../15/00-transhuman-tech.md). If you plan to play a hacker, check out [the mesh](../13/00-the-mesh.md). If you have a psychic async in mind, take a look at [Psi](../14/00-psi.md).
+If you’d prefer to get a grasp on the rules first, start with [Game Mechanics](../03/00-game-mechanics.md). For more detail, move on to [Action & Combat](../12/00-action-and-combat.md) and [Transhuman Tech](../15/00-transhuman-tech.md). If you plan to play a hacker, check out [The Mesh](../13/00-the-mesh.md). If you have a psychic async in mind, take a look at [Psi](../14/00-psi.md).
 
 If you’re more interested in the setting, there’s plenty to read, starting with the history, [How it Came to Be](../06/00-how-it-came-to-be.md).
 

@@ -570,7 +570,7 @@ Loud gurgling sources suddenly interrupted the tension. Elis traced the noises t
 
 “I gotta hand it to you, sis!” Taernen shouted, glee evident in his hoarse voice. “I knew you’d come through! You brought these Firewall fucks right to me. Gobble ‘em up, ToXXot!”
 
-From beneath a shimmer of pixels, Bixby appeared just above Elis, his camouflage dropped. “The pods!” he shouted. “He’s activating the pods!”
+From beneath a shimmer of pixels, Bixbee appeared just above Elis, his camouflage dropped. “The pods!” he shouted. “He’s activating the pods!”
 
 Elis, Berk, and Pivo swiveled their aim, but too late. A dozen pod morphs erupted naked from their suspension vats, feral fiends ravenous for flesh and bone. A swarm of chaos overtook the cargo hold. Weapon fire sprayed in every direction. Bodies tumbled in free fall amidst globules of blood and nutrient gel. Shouts competed with growls and howls. Taernen gloated and laughed, his trap successfully sprung.
 
