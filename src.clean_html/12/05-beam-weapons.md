@@ -8,7 +8,7 @@ All beam weapons are equipped with both a standard and [nuclear battery](../16/0
 
 | BEAM WEAPONS                         | Ware Type | Damage Value \[Average\] | Firing Modes | Ammo  | Range | Comp/<!-- CLEANED wbr -->GP | Notes                                                    |
 | :----------------------------------- | :-------: | :----------------------: | :----------: | :---: | :---: | :----------: | :------------------------------------------------------- |
-| Battle Laser                         |     —     |      3d10 +4 \[21\]      |   SA/BF/FA   |  50   |  150  |   Maj/R/3    | Knockdown                                                |
+| Battle Laser                         |     —     |      3d10 +4 \[21\]      |   SA/BF/FA   |  50   |  150  |   Maj/R/3    | Fixed, Knockdown, Long                                   |
 | Hand Laser                           |    CH     |     1d10 + 1d6 \[9\]     |      SA      |  10   |  75   |   Mod/R/2    | Concealable                                              |
 | Laser Pulser (Lethal)                |     —     |     2d10 + 2 \[13\]      |   SA/BF/FA   |  30   |  100  |   Mod/R/2    | Knockdown, Long, Two-Handed                              |
 | <!--sort-union-->Laser Pulser (Stun) |     —     |        1d6 \[4\]         |      SS      |       |       |              | Area Effect (uniform, 1&nbsp;m), Long, Shock, Two-Handed |
