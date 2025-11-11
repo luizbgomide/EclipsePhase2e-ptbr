@@ -101,7 +101,7 @@ When hit with a shock effect, make a SOM Check. Add your energy armor as a posit
 
 To inflict shock without doing damage in melee simply requires a touch attack (+20). To inflict shock plus damage requires a regular melee attack.
 
-## Two-handed Weapons
+## Two-Handed Weapons
 
 Any weapon noted as two-handed requires two hands (or other prehensile limbs) to wield effectively. This applies to some melee weapons (diamond axes, spears, etc.) in addition to larger firearms and heavy weapons. Using such a weapon single-handed incurs a −20 modifier. This modifier does not apply to mounted weapons.
 

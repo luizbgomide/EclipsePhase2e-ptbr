@@ -207,7 +207,7 @@ Puppets are transhumans whose minds were subverted by the TITANs. They are disti
 
 - **Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, on next action puppet can use its action to maintain the grapple to also either plug in a [disabler](../16/17-espionage-and-security-tech.md) or a direct fiberoptic link to initiate a mindware hack
 - **Mindware Hack:** 60 ([Mindware Hacking](../13/17-mindware-hacking.md))
-- **Shock Baton:** 40, DV 1d10, reach, shock
+- **Shock Baton:** 40, DV 1d10, Reach, Shock
 
 ---
 
@@ -321,14 +321,14 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 
 ---
 
-- **Claws:** 50, DV 3d10 + 6, reach (+10)
-- **Laser Pulser Cannon:** 60, DV 4d10 + 4, SA/BF, Range 300, Ammo 200, fixed
-- **Railgun Machine Gun:** 60, DV 3d10 + 2, BF/FA, Ammo 500, Armor-Piercing, fixed
-- **Seeker Launcher:** 60, DV 6d10 + 24, SS, Ammo 20, Range 300, Armor-Piercing, fixed, homing (+10 aimed/previous targets), knockdown, no close
-- **Stomp:** 50, DV 5d10, reach (+20)
-- **Tentacles:** 50, DV 3d10, reach (+20)
-- **Tentacle Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), reach (+20), requires superior success, grappled victims get no defense to subsequent attacks
-- **Torch:** 60, DV 4d10, SS, Range 25, Ammo 100, cone area effect, fixed
+- **Claws:** 50, DV 3d10 + 6, Reach (+10)
+- **Laser Pulser Cannon:** 60, DV 4d10 + 4, SA/BF, Range 300, Ammo 200, Fixed
+- **Railgun Machine Gun:** 60, DV 3d10 + 2, BF/FA, Ammo 500, Armor-Piercing, Fixed
+- **Seeker Launcher:** 60, DV 6d10 + 24, SS, Ammo 20, Range 300, Armor-Piercing, Fixed, homing (+10 aimed/previous targets), knockdown, no close
+- **Stomp:** 50, DV 5d10, Reach (+20)
+- **Tentacles:** 50, DV 3d10, Reach (+20)
+- **Tentacle Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), Reach (+20), requires superior success, grappled victims get no defense to subsequent attacks
+- **Torch:** 60, DV 4d10, SS, Range 25, Ammo 100, cone area effect, Fixed
 
 ---
 

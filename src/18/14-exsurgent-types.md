@@ -95,7 +95,7 @@ Deployed by the TITANS as drones and servants, these malformed, albino humanoids
 
 ---
 
-- **Claws:** 70, DV 3d10, reach
+- **Claws:** 70, DV 3d10, Reach
 - **Grapple:** 70 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, grappled targets get no defense against subsequent attacks
 - **Fractal Gouge:** 70, DV 1d10 + 6, armor protects but AV is reduced, damaged targets exposed to xenomorph nanoplague
 
@@ -471,7 +471,7 @@ These creatures have barrel-shaped torsos. From the bottom, they skitter around 
 
 ---
 
-- **Tentacle Grapple:** 55 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, reach
+- **Tentacle Grapple:** 55 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, Reach
 - **Tentacle Whip:** 55, DV 2d10 + 2, Armor-Piercing, Reach
 
 ---
