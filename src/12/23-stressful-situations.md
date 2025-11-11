@@ -60,7 +60,7 @@ A list of stress-inducing scenarios and suggested SVs are listed on the _Stressf
 | Killing an innocent                            | 1d10 + 2/half |
 | Experiencing death via XP                      |     1d10      |
 | Popping a cortical stack                       |      1d6      |
-| Remember your death                            |    1d10/1     |
+| Remembering your death                         |    1d10/1     |
 
 </blockquote>
 

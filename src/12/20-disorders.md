@@ -2,7 +2,7 @@
 
 Disorders are long-lasting psychological afflictions that typically require weeks or even months of psychotherapy and/or psychosurgery to remedy. They represent the best attempts of a damaged psyche to adapt to and deal with mental and emotional distress. Disorders are not always “active” — they remain dormant until triggered by certain conditions. While it is certainly possible to function “normally” with a disorder, it represents a severe impairment to a person’s ability to maintain healthy relationships and succeed in their work/pursuits.
 
-**Gaining a Disorder:** You acquire a disorder during character creation, by infection with the exsurgent virus, or by accumulating stress equal to or exceeding your Lucidity. You should work with the GM to choose a disorder appropriate to your character and circumstances.
+**Gaining a Disorder:** You acquire a disorder during character creation, by infection with the exsurgent virus, or by accumulating stress equal to or exceeding your Lucidity. You should work with the gamemaster to choose a disorder appropriate to your character and circumstances.
 
 **Removing a Disorder:** You can get rid of a disorder through in-game or [down-time treatment](19-mental-healing-and-psychosurgery.md#natural-healing) or by buying it off as a negative trait ([Lose a Negative Ego Trait](30-downtime-actions.md#lose-a-negative-ego-trait)).
 

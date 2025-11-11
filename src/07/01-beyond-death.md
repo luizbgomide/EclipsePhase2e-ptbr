@@ -1,15 +1,5 @@
 # Beyond Death
 
-<blockquote>
-
-## Welcome Back!
-
-Welcome to your new life. I’m here to help.
-
-You have just been restored from a digital backup that is approximately a decade old. You probably have many, many questions right now, and we’ll do our best to answer them. You’re likely feeling some disorientation; your memories will return quickly as your mind adjusts to its new housing. Given the length of your rest, we’ve prepared the following compilation of articles from various sources to (re)familiarize you with several important topics and hopefully address your most immediate concerns.
-
-</blockquote>
-
 Thanks to breakthroughs in medicine, nanotechnology, and cognitive science, transhumanity has overcome the failure of biological bodies. Death is only a temporary setback, rather than an unavoidable fate. The critical achievement that made this possible was the development of the _cortical stack_: an implant connected to your central nervous system that maintains a record of your personality and experiences. Nanobots constantly monitor your brain and neural activity for changes, updating this ego map in real time. If your body dies, your _ego_ can be recovered and re-instanced in a virtual environment or another body. The cortical stack allows you to persist beyond the cessation of your biological functions, affording effective immortality.
 
 Although cortical stacks are hardy and recoverable even if your body suffers massive trauma, they are not indestructible. They are sometimes lost or irretrievable. Therefore, most people routinely save a backup of their ego map once a month or before they undertake physical space travel or dangerous work. That way, if something happens unexpectedly and your cortical stack is not recovered, you can still be restored from a recent copy of your ego.

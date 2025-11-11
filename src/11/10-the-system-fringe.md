@@ -28,11 +28,11 @@ Impian (“Dream” in Malay) was once 1086 Ganymed, the largest of the Amor ast
 <div class="stat-list">
 
 - **Habitat Type:** Beehive/Cluster
-- **Allegiance:** Zrbny Limited
+- **Allegiance:** Zbrny Limited
 
 </div>
 
-1866 Sisyphus is a binary asteroid orbiting between 0.9 and 2&nbsp;AU. It’s the home of the largest Zrbny Limited waystation in the inner system. It was built entirely by automated manufacturing robots after the corporation mysteriously went into lockdown and terminated all personnel. Zrbny’s own paper trail runs out quickly. With no signs of transhuman involvement, it’s not clear who’s pulling the strings on Sisyphus and why.
+1866 Sisyphus is a binary asteroid orbiting between 0.9 and 2&nbsp;AU. It’s the home of the largest Zbrny Limited waystation in the inner system. It was built entirely by automated manufacturing robots after the corporation mysteriously went into lockdown and terminated all personnel. Zbrny’s own paper trail runs out quickly. With no signs of transhuman involvement, it’s not clear who’s pulling the strings on Sisyphus and why.
 
 ### PEX
 
@@ -88,7 +88,7 @@ Saturn lacks Trojan asteroids due to the influence of Jupiter, which disrupts th
 
 </div>
 
-This 65-kilometer centaur asteroid was home to a pre-Fall mining operation. When the company' leadership was destroyed during the Fall, the Algerian workers launched a strike against local management that turned into a full revolt. For years the habitat ran along anarchist lines under the name Sanctuary. Just a few months ago, however, a Consortium-backed coup seized control. Autonomists are divided on how to respond, as the coup seems to have strong local support, though some residents claim there was a Consortium conspiracy to slowly seed the colony with supporters over a course of years.
+This 65-kilometer centaur asteroid was home to a pre-Fall mining operation. When the company's leadership was destroyed during the Fall, the Algerian workers launched a strike against local management that turned into a full revolt. For years the habitat ran along anarchist lines under the name Sanctuary. Just a few months ago, however, a Consortium-backed coup seized control. Autonomists are divided on how to respond, as the coup seems to have strong local support, though some residents claim there was a Consortium conspiracy to slowly seed the colony with supporters over a course of years.
 
 ## ITN Cyclers
 
@@ -108,11 +108,11 @@ Then things got strange. The hyperelite Lhagva family purchased the ship, replac
 
 The brothers quickly insinuated themselves among the various social groups and started treating the Conch like their own private social experiment. Those who refuse to conform or fall out of the brothers’ favor find themselves shoved out the nearest airlock.
 
-## The Kuiper Belt & Oort Cloud
+## The Kuiper Belt and Oort Cloud
 
 The K-Belt and Oort Cloud are leftovers from the formation of the Solar System: pieces of debris that never bumbled together to form a proper planet. Out here all you’ll find are iceteroids that haven't been convinced to become comets yet and the occasional frozen dwarf planet. Life this far out is either a brinker’s paradise or a punishment posting.
 
-The Kuiper Belt extends from 30 to 55&nbsp;AU. There are a few scattered settlements in the K-Belt; it’s a combination of Old West homesteading and living like some filthy medieval hermit. The even less-dense Oort Cloud starts around 2,000&nbsp;AU and extends to interstellar space. No one really lives there. The furthest we've gotten a probe so far is around 30,000&nbsp;AU.
+The Kuiper Belt extends from 30–55&nbsp;AU. There are a few scattered settlements in the K-Belt; it’s a combination of Old West homesteading and living like some filthy medieval hermit. The even less-dense Oort Cloud starts around 2,000&nbsp;AU and extends to interstellar space. No one really lives there. The furthest we've gotten a probe so far is around 30,000&nbsp;AU.
 
 ### Eris
 
@@ -123,7 +123,7 @@ The Kuiper Belt extends from 30 to 55&nbsp;AU. There are a few scattered settlem
 
 </div>
 
-Eris lies 55&nbsp;AU beyond the sun, and this speck has seen a disproportionate amount of action for a body barely able to maintain hydrostatic equilibrium. It’s made of rock, water, and methane ice. its tiny moon, Dysnomia, is an unremarkable captured chunk of rock. What Eris does have is the Discord Gate, and the battles for control of the gate have turned the surface of this tiny shithole into a war-scarred wasteland.
+Eris lies 55&nbsp;AU beyond the sun, and this speck has seen a disproportionate amount of action for a body barely able to maintain hydrostatic equilibrium. It’s made of rock, water, and methane ice. Its tiny moon, Dysnomia, is an unremarkable captured chunk of rock. What Eris does have is the Discord Gate, and the battles for control of the gate have turned the surface of this tiny shithole into a war-scarred wasteland.
 
 The Go-nin Group controls Eris and its only settlement, Torii, home to approximately 20,000 transhumans. Torii is a beehive carved deep into Eris, in part because the gate location physically sunk when Go-nin somehow destroyed it, before later rebuilding itself. Torii is Eris’s only spaceport; unauthorized ships coming within 500&nbsp;km are terminated.
 

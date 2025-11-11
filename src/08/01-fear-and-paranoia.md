@@ -2,16 +2,6 @@
 
 > **Posted by:** Michael Moraine, Firewall Sentinel
 
-<blockquote>
-
-## Catching Up
-
-You've been doing a great job in re-acclimating yourself to the state of things. I know it’s hard, a lot of time has passed since the backup you are re-instantiated from was made.
-
-Here’s the next series of updates.
-
-</blockquote>
-
 The most defining aspect of transhumanity is how much it has changed in the past few years. From the trauma of near extinction to the future shock of rapid technological change, the speed of upheaval is making a strong impact on our culture and society.
 
 ## Life After the Fall

@@ -106,7 +106,7 @@ Keep track of this total on the character sheet. If the accumulated damage equal
 
 ## Step 9: Determine Wounds
 
-If the inflicted damage, less armor, from a single attack equals or exceeds the defender’s Wound Threshold, they suffer one or more [wounds](16-physical-health.md#wounds). A wound is scored for each multiple of the Wound Threshold that the damage exceeds. For example, against Wound Threshold 7, 1 wound is inflicted for every 7 points of damage inflicted at once (14 damage inflicts 2 wounds, 21 damage inflicts 3 wounds, etc.) Wounds represent more serious injuries and apply modifiers and other effects to the character.
+If the inflicted damage, less armor, from a single attack equals or exceeds the defender’s Wound Threshold, they suffer one or more [wounds](16-physical-health.md#wounds). A wound is scored for each multiple of the Wound Threshold that the damage exceeds. For example, against Wound Threshold 7, 1 wound is inflicted for every 7 points of damage inflicted at once (14 damage inflicts 2 wounds, 21 damage inflicts 3 wounds, etc.). Wounds represent more serious injuries and apply modifiers and other effects to the character.
 
 <blockquote>
 

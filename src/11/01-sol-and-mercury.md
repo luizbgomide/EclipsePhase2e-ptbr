@@ -2,14 +2,6 @@
 
 > **Source:** _The Well of the Ocean Is Water Aflame_
 
-<blockquote>
-
-## Our Transhuman Space
-
-Now that you've caught up on the rest, here’s the last info dump: an overview of transhuman holdings, region by region.
-
-</blockquote>
-
 The center of our system is the source of our life — yet also treacherous and deadly to the unprepared.
 
 ## Sol

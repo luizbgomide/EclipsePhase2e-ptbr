@@ -2,14 +2,6 @@
 
 > **Posted by:** Francis Wu, Firewall Filter
 
-<blockquote>
-
-## Inner vs. Outer
-
-Here’s your next batch of reading to catch up on your lack: collected reports on the polities and economic systems of the new transhumanity. Accounts are selected for their utility in introducing new agents to the modern political world. Authors’ biases are their own.
-
-</blockquote>
-
 It’s a big galaxy out there, sentinels, and you may be tasked to visit any corner of it. Before dispatch, you will be briefed on your local situation as it’s known. It falls on you to understand where that falls in the big picture. For those of you not already versed in the ‘verse, consider this your crash course.
 
 Prior to the Fall, most of the brave explorers who cut ties with gravity did not wander far from home. Almost everyone lived in Earth orbit or on Luna, with major colonies on Mars. There were a few notable locations further out — military facilities around Jupiter, brave Scandinavians staking a claim on Titan, a few ambitious hypercorp suits floating in Venus’s clouds, anarchists and Argonauts on various asteroids and moons. But aside from mining colonies and research stations, there wasn’t much draw in wandering far afield. When the Fall came, the majority of refugees found themselves on Mars and Luna, caught up in the power structures (or their remnants) that were already established there, with the rest diffusing throughout the solar system.

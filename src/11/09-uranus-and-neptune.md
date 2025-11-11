@@ -37,7 +37,7 @@ Skimmers like their privacy, but if you let them engage you in conversation, you
 
 Varuna is Uranus’s only large aerostat. It’s run by an elected council and acts as a hub for skimmers. A few hypercorps maintain small offices here, trading for volatiles. Visitors find Varuna either provincial or charming.
 
-Several independent and hypercorp-controlled science labs have set up shop on Varuna, One major research project is an attempt to adapt pre-Fall Earth life to create oxygen-free biomes on gas giants. Success would open the colonizable area in the Solar System by several magnitudes.
+Several independent and hypercorp-controlled science labs have set up shop on Varuna. One major research project is an attempt to adapt pre-Fall Earth life to create oxygen-free biomes on gas giants. Success would open the colonizable area in the Solar System by several magnitudes.
 
 ## Uranian Moons
 
@@ -80,7 +80,7 @@ The settlement Crossing is the de-facto Xtreme sports headquarters because it ho
 
 </div>
 
-At a length of 5.5 kilometers and diameter of 1 kilometer, Xiphos is one of the largest and best-apportioned habitats outside of the Main Belt. It began its life as an O’Neill cylinder before Manu Bhattacharya invested to upgrade it and tow it from Saturn to the Uranian rings. It’s now a research and manufacturing facility where ultimate scientists develop advanced weaponized morphs and technologies. Any attempt to reach Xiphos by unauthorized approach is met with extreme and deadly resistance.
+At a length of 5.5 kilometers and diameter of 1 kilometer, Xiphos is one of the largest and best-apportioned habitats outside of the Main Belt. It began its life as an O’Neill cylinder before Manu Bhattacharya invested to upgrade it and tow it from Saturn to the Uranian rings. It’s now a research and manufacturing facility where Ultimate scientists develop advanced weaponized morphs and technologies. Any attempt to reach Xiphos by unauthorized approach is met with extreme and deadly resistance.
 
 What most outsiders know of Xiphos comes from their annual, three-day Olympics events. Held in the Greek tradition, these games are broadcast across the mesh, but entrance is limited only to Ultimates who can afford the high-end morphs they’re showing off.
 

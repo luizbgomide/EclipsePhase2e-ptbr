@@ -34,7 +34,7 @@ When making an attack against an incapacitated, paralyzed, sleeping, unconscious
 
 ## Blind Attacks
 
-Attacking a target that you cannot see is difficult at best and a matter of luck at worst. If you cannot see, you may make a Perceive Test using some other available sense to detect your target. If this succeeds, you attack with a −30 modifier. If your Perceive Test fails, you attack at −30 and your attack has a straight 50% chance of automatically missing.
+Attacking a target that you cannot see is difficult at best and a matter of luck at worst. If you cannot see, you may make a Perceive Test using some other available sense to detect your target. If this succeeds, you attack with a −30 modifier. If it fails, you attack at −30 and your attack has a straight 50% chance of automatically missing.
 
 ## Called Shots
 

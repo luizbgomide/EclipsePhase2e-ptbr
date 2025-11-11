@@ -109,7 +109,7 @@ The Trojan (and Greek) asteroids chug happily along at the Sol-Jupiter L4 and L5
 
 ### Pirates
 
-Their Trojans an excellent base from which to launch pirate raids. Several of the most notorious pirates to plague the system, like Margarita Shun and Reboot_Ex, keep hideouts here. They prey on loosely-guarded Republic shipping or automated hypercorp freighters returning sunward. Carbon reaver gangs prefer to hit isolated mining ouposts, grabbing the goods before they're shipped out. Pirates use sophisticated hit-and-fade tactics to cover their tracks. Some deploy top-of-the-line synthmorphs and ship weaponry, but most are more devious than well armed.
+The Trojans an excellent base from which to launch pirate raids. Several of the most notorious pirates to plague the system, like Margarita Shun and Reboot_Ex, keep hideouts here. They prey on loosely-guarded Republic shipping or automated hypercorp freighters returning sunward. Carbon reaver gangs prefer to hit isolated mining ouposts, grabbing the goods before they're shipped out. Pirates use sophisticated hit-and-fade tactics to cover their tracks. Some deploy top-of-the-line synthmorphs and ship weaponry, but most are more devious than well armed.
 
 ### Locus
 

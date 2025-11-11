@@ -1,5 +1,13 @@
 # The New Political Economy
 
+<blockquote>
+
+## Inner vs. Outer
+
+Here’s your next batch of reading to catch up on your lack: collected reports on the polities and economic systems of the new transhumanity. Accounts are selected for their utility in introducing new agents to the modern political world. Authors’ biases are their own.
+
+</blockquote>
+
 <!-- TOC PLACEHOLDER -->
 
 - [The System Split](01-the-system-split.md)

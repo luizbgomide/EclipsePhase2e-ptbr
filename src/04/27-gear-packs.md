@@ -204,7 +204,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | :----------------------------------------------------------------------- | :----------: | :--------------------------------------------------------------------------------- |
 | [Biometric Matcher App](../16/13-apps-and-alis.md#apps)                  |    Min/1     | Match biometric patterns.                                                          |
 | [Brainprint Scanner](../16/17-espionage-and-security-tech.md)            |    Min/1     | Scans brainprint in 5 minutes.                                                     |
-| [Cuffband](../16/17-espionage-and-security-tech.md)                      |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6.                       |
+| [Cuffband](../16/17-espionage-and-security-tech.md)                      |    Min/1     | Electronic handcuffs, remote operation, Shock DV 1d6.                              |
 | [Klar (5 doses)](../16/15-chemicals-drugs-and-toxins.md#cognitive-drugs) |    Min/1     | +10 Perceive, no distraction modifiers.                                            |
 | [Microbug](../16/17-espionage-and-security-tech.md)                      |    Min/1     | Micro-sized camera/audio recorder.                                                 |
 | [Oracles](../16/06-sensory-augmentations.md)                             |    Mod/2     | Negate distraction modifiers.                                                      |
@@ -231,7 +231,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | GEAR                                                                     | Comp/<wbr>GP | Description                                |
 | :----------------------------------------------------------------------- | :----------: | :----------------------------------------- |
 | [Comfurt (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.       |
-| [Eelware](../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 1d6, Shock, Touch-Only.          |
+| [Eelware](../12/02-melee-combat.md#melee-ware)                           |    Min/1     | DV 1d6, Shock, Touch-Only.                 |
 | [Ego Bridge](../16/19-nanotech.md)                                       |    Mod/2     | Upload from/download to biological brains. |
 | [Multi-Tasking](../16/08-mental-augmentations.md)                        |    Mod/2     | Focus on 2 things at once. +1 Insight.     |
 | [Private Server](../16/04-services.md#mesh-services)                     |    Mod/2     | Private server, managed by others.         |
@@ -244,7 +244,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | GEAR                                                                                | Comp/<wbr>GP | Description                                                                                     |
 | :---------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
 | [Breadcrumb System](../16/16-comms-and-mesh-gear.md#communications)                 |    Min/1     | Leaves mote trail for meshing/positioning.                                                      |
-| [Diamond Axe](../12/02-melee-combat.md#melee-weapons)                               |    Min/1     | DV 2d10 + 3, armor-piercing, reach, two-handed.                                                 |
+| [Diamond Axe](../12/02-melee-combat.md#melee-weapons)                               |    Min/1     | DV 2d10 + 3, Armor-Piercing, Reach, Two-Handed.                                                 |
 | [Disassembly Tools](../16/18-mission-gear.md#salvage-tools)                         |    Mod/2     | Heavy and smart tools for taking things apart.                                                  |
 | [Guardian Swarm](../16/20-nanoswarms-and-microswarms.md#swarms)                     |    Mod/2     | Disables other swarms; both swarms take DV 6 per turn.                                          |
 | [Nanodetector](../16/19-nanotech.md)                                                |    Min/1     | Detects nanobots, Exotic Skill: Nanobot Detection 40 (70 with active swarm), Know: Nanotech 60. |

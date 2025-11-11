@@ -1,5 +1,13 @@
 # System Gazetteer
 
+<blockquote>
+
+## Our Transhuman Space
+
+Now that you've caught up on the rest, here’s the last info dump: an overview of transhuman holdings, region by region.
+
+</blockquote>
+
 <!-- TOC PLACEHOLDER -->
 
 - [Sol and Mercury](01-sol-and-mercury.md)

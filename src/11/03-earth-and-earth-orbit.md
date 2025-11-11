@@ -77,7 +77,7 @@ The largest station near Earth, Remembrance is capital to the LunarLagrange Alli
 
 </div>
 
-Led by Tate Markess, the Executive Director of the Earth Reclamation Project and spokesperson for the reclaimer movement, Vo Nguyen is a reclaimer stronghold and launching point for reclaimer activism and missions to Earth. Disagreements over mission approaches pit tech-savvy reclaimers against neo-primitivist. The station is secured against outside threats behind a cloud of space debris and killsats, but internal conflicts may get them all killed anyway if violence escalates.
+Led by Tate Markess, the Executive Director of the Earth Reclamation Project and spokesperson for the reclaimer movement, Vo Nguyen is a reclaimer stronghold and launching point for reclaimer activism and missions to Earth. Disagreements over mission approaches pit tech-savvy reclaimers against neo-primitivists. The station is secured against outside threats behind a cloud of space debris and killsats, but internal conflicts may get them all killed anyway if violence escalates.
 
 ## Earth
 

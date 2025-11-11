@@ -28,9 +28,7 @@ Wounds represent grievous injuries: bad cuts and hemorrhaging, fractures and bre
 
 Any time your character sustains damage, compare the amount inflicted from a single source (after it has been reduced by armor) to your Wound Threshold. Wound Threshold equals your morph’s Durability ÷ 5. If the modified DV equals or exceeds your Wound Threshold, you have suffered a wound. If the inflicted damage is double your Wound Threshold, you suffer 2 wounds; if triple your Wound Threshold, you suffer 3 wounds; and so on.
 
-Wounds are cumulative and must be marked on your character sheet.
-
-Note that these rules handle damage and wounds as an abstract concept. For drama and realism, GMs may wish to describe wounds in more detailed and grisly terms: a broken ankle, a smashed servo, internal bleeding, a lost ear, and so on. The nature of such descriptive injuries can help the GM assign other effects. For example, a crushed hand may mean you can’t pick up a gun, excessive blood loss may leave a trail for your enemies to follow, or a cut eye might inflict an additional visual perception modifier. Likewise, such details may impact how you heal or are treated.
+Wounds are cumulative and must be marked on your character sheet. These rules handle damage and wounds as an abstract concept. For drama and realism, GMs may wish to describe wounds in more detailed and grisly terms: a broken ankle, a smashed servo, internal bleeding, a lost ear, and so on. The nature of such descriptive injuries can help the GM assign other effects. For example, a crushed hand may mean you can’t pick up a gun, excessive blood loss may leave a trail for your enemies to follow, or a cut eye might inflict an additional visual perception modifier. Likewise, such details may impact how you heal or are treated.
 
 ## Wound Effects
 

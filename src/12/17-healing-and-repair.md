@@ -1,6 +1,6 @@
 # Healing & Repair
 
-Use the follow rules for healing and repairing characters.
+Use the following rules for healing and repairing characters.
 
 ## Biomorph Healing
 

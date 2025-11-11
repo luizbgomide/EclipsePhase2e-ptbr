@@ -217,6 +217,6 @@ In turn, the Commonwealth reinvests its social and economic capital in projects 
 
 ### Titanian Life
 
-The Commonwealth prides itself on its permissible social policies. Uplifts and AGIs have full rights within the Commonwealth, forking is permitted, and drugs are widely available. There is no indentures, and scientific research doesn’t face the Republic’s hurdles or the Consortium’s profit-seeking diversions.
+The Commonwealth prides itself on its permissible social policies. Uplifts and AGIs have full rights within the Commonwealth, forking is permitted, and drugs are widely available. There are no indentures, and scientific research doesn’t face the Republic’s hurdles or the Consortium’s profit-seeking diversions.
 
 The Titanian Commonwealth maintains a powerful military force, cementing our position as a major political power in the outer system. Like it or not, they’re the only element that has staved off attacks by the Republic and the Consortium. Everyone in the Commonwealth and the Alliance owes their safety to the brave people who protect our hard-won freedoms.

@@ -18,7 +18,7 @@ Attacks made through an item or structure at a target on the other side suffer c
 
 ## Making Objects
 
-Creating an item from scratch is handled as a task action with a timeframe determined by the GM. The timeframe should be set according to the complexity of the object and could range from an hour (constructing a set of shelves) to days (assembling a robot from spare parts) or even months (building a house). Numerous factors may apply modifiers to the test, such as the use of entoptic blueprints/help manuals (+10) or poor working conditions (−10 to −30). Tools are also a factor, perhaps making the job easier (superior tools +10 to +30), more difficult (poor or inadequate tools, −10 to −30), or even impossible (lack of required tools).
+Creating an item from scratch is handled as a task action with a timeframe determined by the GM. The timeframe should be set according to the complexity of the object and could range from an hour (constructing a set of shelves) to days (assembling a robot from spare parts) or even months (building a house). Numerous factors may apply modifiers to the test, such as the use of entoptic blueprints/help manuals (+10) or poor working conditions (−10 to −30). Tools are also a factor, perhaps making the job easier (superior tools, +10 to +30), more difficult (poor or inadequate tools, −10 to −30), or even impossible (lack of required tools).
 
 For rules on nanofabricating objects, see [Acquiring Gear](../16/02-acquiring-gear.md).
 

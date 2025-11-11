@@ -64,7 +64,7 @@ Your wild-card pool may also be used for narrative control:
 You recover the points you have spent from pools by taking a recharge action to rest and recalibrate. You can’t increase a pool above its original rating; unspent points are lost. There are two types of recharge actions: _short recharges_ and _long recharges_.
 
 - **Short Recharge (2/day):** Short recharges are a task action with a timeframe of 10 minutes. You may take two short recharges per 24-hour period. Each short recharge restores 1d6 pool points; you decide where to allocate them. Some gear or psi sleights may provide bonus recharged points.
-- **Long Recharge (1/day):** A long recharge is a task action with a timeframe of 4 hours (8 for flats and other biomorphs without biomods). You may only benefit from one long recharge per 24-hour period. A long recharge completely recharged your pools to their full value.
+- **Long Recharge (1/day):** A long recharge is a task action with a timeframe of 4 hours (8 for flats and other biomorphs without biomods). You may only benefit from one long recharge per 24-hour period. A long recharge completely restores your pools to their full value.
 
 While recharging, you may only engage in light, non-strenuous activity: eating, browsing the mesh, talking, reloading, taking watch, etc. Recharge timeframes cannot be shortened or interrupted; if they are, the time invested is lost.
 
