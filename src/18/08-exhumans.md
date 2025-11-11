@@ -39,7 +39,7 @@ In their mad-science search for the perfect life form/ultimate killing machine, 
 
 ---
 
-- **Needles:** 40, DV 1d10, injects necrosis (DV 2d6 per turn for 1minute)
+- **Needles:** 40, DV 1d10, injects necrosis (DV 2d6 per turn for 1 minute)
 
 ---
 
@@ -141,10 +141,10 @@ Predators aim to become the ultimate warriors, to reach the apex of the hunter-p
 ---
 
 - **Assault Rifle Railgun:** 60, DV 2d10 + 2, SA/BF/FA, Ammo 90 +1, Range 150, Armor-Piercing, Long, Two-Handed
-- **Diamond-Tooth Bite:** 80, DV 2d6, armor-piercing
+- **Diamond-Tooth Bite:** 80, DV 2d6, Armor-Piercing
 - **Grappling:** 80 ([Grappling](../12/02-melee-combat.md#grappling))
-- **Spurs:** 80, DV 3d6 + 3, armor-piercing
-- **Tail Sting:** 90, DV 2d10 + 1d6, armor-piercing, reach, twitch (−20 actions, SOM Check vs. incapacitation)
+- **Spurs:** 80, DV 3d6 + 3, Armor-Piercing
+- **Tail Sting:** 90, DV 2d10 + 1d6, Armor-Piercing, Reach, Twitch (−20 actions, SOM Check vs. incapacitation)
 
 ---
 

@@ -37,11 +37,11 @@ Creepers are autonomous femtobot swarms; a level of technology far beyond transh
 
 - **Convert Matter:** 70 (touch), DV 1d10 per action turn, damage added to creeper’s DUR/DR
 - **Grapple:** 60 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, victims are converted on next action, grappled targets get no defense
-- **Repulsion Wave:** No defense, 30 meter radius effect, kinetic armor applies, strange matter mass pushes all physical things back 1d10 meters, SOM Check or knockdown; repulsion effect may be maintained for 1d6 action turns, applying −60 to all attacks and halving damage, but there is a 10% chance each turn the strange matter begins converting normal matter around it, creating a DV 10d10 blast area effect
+- **Repulsion Wave:** No defense, 30 meter radius effect, kinetic armor applies, strange matter mass pushes all physical things back 1d10 meters, SOM Check or Knockdown; repulsion effect may be maintained for 1d6 action turns, applying −60 to all attacks and halving damage, but there is a 10% chance each turn the strange matter begins converting normal matter around it, creating a DV 10d10 Blast area effect
 
 ---
 
-- **Perceive:** 50, 60 hearing/vision
+- **Perceive:** 50, 60 Hearing/Vision
 - **Move:** Walker/Microlight (Slow 4/12)
 
 ---
@@ -55,12 +55,12 @@ Creepers are autonomous femtobot swarms; a level of technology far beyond transh
 
 ---
 
-- **Femtoswarm:** Functions like a [nanoswarm](../16/20-nanoswarms-and-microswarms.md), except immune to guardian nanoswarms, nanophages, adhesives, corrosives, chemicals, vacuum, and armor mods; they are self-sustaining and do not require a nanohive
-- **Invisibility:** Can be invisible like a nanoswarm or can materialize forms with refractive metamaterials, like an [invisibility cloaks](../16/17-espionage-and-security-tech.md)
-- **Nanofabrication:** Can nanofabricate items at 10 times the speed of transhuman nanofabricators; can replicate effects of any nanoswarm at will
-- **Penetration:** Can penetrate inside/through objects at the rate of 50&nbsp;AV/DUR per action turn, much like water seeps through fabric; may penetrate inside most morphs in one action
-- **Self-Repair:** Automatically repair 1d10 damage per hour
-- **Take Form:** Can cohere/dissipate simple physical/mechanical forms (arms, mobility systems, tentacles, cages, traps, etc) with a complex action; these may take physical actions such as Fray or Melee Tests
+- **Femtoswarm:** Functions like a [nanoswarm](../16/20-nanoswarms-and-microswarms.md), except immune to guardian nanoswarms, nanophages, adhesives, corrosives, chemicals, vacuum, and armor mods; they are self-sustaining and do not require a nanohive.
+- **Invisibility:** Can be invisible like a nanoswarm or can materialize forms with refractive metamaterials, like an [invisibility cloaks](../16/17-espionage-and-security-tech.md).
+- **Nanofabrication:** Can nanofabricate items at 10 times the speed of transhuman nanofabricators; can replicate effects of any nanoswarm at will.
+- **Penetration:** Can penetrate inside/through objects at the rate of 50&nbsp;AV/DUR per action turn, much like water seeps through fabric; may penetrate inside most morphs in one action.
+- **Self-Repair:** Automatically repair 1d10 damage per hour.
+- **Take Form:** Can cohere/dissipate simple physical/mechanical forms (arms, mobility systems, tentacles, cages, traps, etc) with a complex action; these may take physical actions such as Fray or Melee Tests.
 
 </blockquote>
 
@@ -153,7 +153,7 @@ Jellies take the form of massive, slimy, mucus-filled bubbles. Their soft, amorp
 
 ---
 
-- **Perceive:** 60, 70 smell
+- **Perceive:** 60, 70 Smell
 - **Move:** Ooze (Slow 4/12)
 
 ---
@@ -167,12 +167,12 @@ Jellies take the form of massive, slimy, mucus-filled bubbles. Their soft, amorp
 
 ---
 
-- **Concentrated Spit:** Jellies may spend a point of Threat Pool to make a ball of spit more concentrated; increase the DV per turn to 2d6
+- **Concentrated Spit:** Jellies may spend a point of Threat Pool to make a ball of spit more concentrated; increase the DV per turn to 2d6.
 - **Corrosive Coating/Spit:** Application D, O; Onset Time: 1 action turn, Duration: 5 action turns, Effect: DV 1d6 per action turn, armor protects but AV is reduced by DV. Biomorphs must make a SOM Check or be impaired (−10) by pain. This coating also provides immunity to nanoswarms, corrosives, and dermal-vector drugs and chemicals. Liquid-based attacks against the jelly suffer a −30 modifier.
-- **Invulnerability:** Jellies take the minimum DV from kinetic weapons and blades
-- **Lubrication:** Jellies are immune to grappling attacks
-- **Propagation:** When a jelly has consumed 100&nbsp;DUR of victims, it splits into two jellies
-- **Vacuum Expansion:** Jellies expand to [Large size](../12/21-other-action-factors.md#large-size) in vacuum
+- **Invulnerability:** Jellies take the minimum DV from kinetic weapons and blades.
+- **Lubrication:** Jellies are immune to grappling attacks.
+- **Propagation:** When a jelly has consumed 100&nbsp;DUR of victims, it splits into two jellies.
+- **Vacuum Expansion:** Jellies expand to [Large size](../12/21-other-action-factors.md#large-size) in vacuum.
 
 </blockquote>
 
@@ -199,7 +199,7 @@ Certain jellies have the ability to ingest a biological creature and mimic all a
 
 ---
 
-- **Perceive:** 60, 70 smell/vision
+- **Perceive:** 60, 70 Smell/Vision
 
 ---
 
@@ -212,7 +212,7 @@ Certain jellies have the ability to ingest a biological creature and mimic all a
 ---
 
 - **Electronic Jamming:** Mimic jellies can spend a threat pool to generate a bioelectric field and jam all wireless radio signals in a 30-meter radius for 1 minute ([Jam Signals](../13/13-system-subversion.md#jam-signals)). Treat this as an Interface of 50 for attempts to [bypass](../13/06-mesh-actions.md#security-actions).
-- **Mimicry:** Mimic jellies take the form of their pre-exsurgent self or victims they engulf. The initial process of absorbing and copying a victim takes half an hour. Afterwards, changing shape from victim to jelly (or something in between) takes only one action turn. The jelly takes on the victim’s memories, skills, ego traits, and voice. Their gelatinous nature is immediately noticeable with t-rays or physical contact, or with an enhanced vision/radar Perceive Test at −30. Characters familiar with the victim may notice oddities with a Kinesics Test, opposed by the jelly’s Deceive (Impersonation) skill. Mimic jellies may only impersonate one biomorph at a time. To reset, another transhuman must be consumed.
+- **Mimicry:** Mimic jellies take the form of their pre-exsurgent self or victims they engulf. The initial process of absorbing and copying a victim takes half an hour. Afterwards, changing shape from victim to jelly (or something in between) takes only one action turn. The jelly takes on the victim’s memories, skills, ego traits, and voice. Their gelatinous nature is immediately noticeable with t-rays or physical contact, or with an enhanced Vision/Radar Perceive Test at −30. Characters familiar with the victim may notice oddities with a Kinesics Test, opposed by the jelly’s Deceive (Impersonation) skill. Mimic jellies may only impersonate one biomorph at a time. To reset, another transhuman must be consumed.
 
 </blockquote>
 
@@ -247,12 +247,12 @@ The shifter xenomorph nanoplague converts synthmorph and robot frames into a liq
 
 ---
 
-- **Blade:** 65, DV 2d10 +1d6 (+1d6 each if wielding more than one), armorpiercing, possible Reach +10
-- **Shredder:** 55, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, cone area effect
+- **Blade:** 65, DV 2d10 +1d6 (+1d6 each if wielding more than one), Armor-Piercing, possible Reach +10
+- **Shredder:** 55, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, Cone area effect
 
 ---
 
-- **Perceive:** 50, 60 hearing/vision
+- **Perceive:** 50, 60 Hearing/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---
@@ -324,7 +324,7 @@ Skriks are tiny creatures coughed up by biomorphs infected with the skrik strain
 
 - **Exsurgent Carriers:** Most skriks carry the exsurgent virus, exposing it to others if they are eaten or exchange bodily fluids (bio pathogen) or releasing it when they die (nanoplague)
 - **Scale Assault:** Against larger targets, skriks can take a complex action and make an Athletics Test, opposed by the target’s Fray. If successful, the skrik has scurried onto the opponent’s back, undercarriage, or other difficult-toreach spot. The victim suffers a −30 modifier to attack the skrik. Skriks use this position of advantage to make called shots to [bypass armor](../12/15-special-attacks.md#bypass-armor).
-- **Swarm Tactics:** A large number of skriks (20+) will attack as a swarm. Treat as a single [Large size](../12/21-other-action-factors.md#large-size) entity, DV 3d10 (no defense, armor-piercing), DUR 80+, ignore wounds, immune to called shots, grappling, knockdown, psi sleights, shock, and unconsciousness. Victims within the swarm suffer an impairment (−30) modifier from being harried.
+- **Swarm Tactics:** A large number of skriks (20+) will attack as a swarm. Treat as a single [Large size](../12/21-other-action-factors.md#large-size) entity, DV 3d10 (no defense, armor-piercing), DUR 80+, ignore wounds, immune to called shots, grappling, knockdown, psi sleights, Shock, and unconsciousness. Victims within the swarm suffer an impairment (−30) modifier from being harried.
 
 </blockquote>
 
@@ -359,12 +359,12 @@ One version of the xenomorph nanoplague targets synthmorphs, bots, and vehicles,
 
 ---
 
-- **Pincers:** 65, DV 2d10 + 1d6, armor-piercing, reach, each module may make a separate attack
-- **Crushing Slam:** 65, DV 4d10 • SOM Check or knockdown, reach, requires 2+ modules, only effective against medium and smaller targets
+- **Pincers:** 65, DV 2d10 + 1d6, Armor-Piercing, Reach, each module may make a separate attack
+- **Crushing Slam:** 65, DV 4d10 • SOM Check or Knockdown, Reach (+10 or more), requires 2+ modules, only effective against medium and smaller targets
 
 ---
 
-- **Perceive:** 40, 50 vision
+- **Perceive:** 40, 50 Vision
 - **Move:** Roller (Very Fast, 8/40), Walker (Medium 4/20)
 
 ---
@@ -416,12 +416,12 @@ These exsurgent cyborgs served the TITANs as elite infantry during the Fall. Was
 ---
 
 - **Claws:** 40, DV 1d10 + 2
-- **Railgun SMG:** 80, DV 2d10, SA/BF/FA, Ammo 60 + 1, Range 75, armor-piercing, two-handed
-- **TMP Grenades:** 60, Frag: DV 3d10 + 6, HE: DV 3d10 + 10, centered blast, knockdown
+- **Railgun SMG:** 80, DV 2d10, SA/BF/FA, Ammo 60 + 1, Range 75, Armor-Piercing, Two-Handed
+- **TMP Grenades:** 60, Frag: DV 3d10 + 6, HE: DV 3d10 + 10, Centered Blast, Knockdown
 
 ---
 
-- **Perceive:** 50, 60 hearing/vision
+- **Perceive:** 50, 60 Hearing/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---
@@ -472,7 +472,7 @@ These creatures have barrel-shaped torsos. From the bottom, they skitter around 
 ---
 
 - **Tentacle Grapple:** 55 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, reach
-- **Tentacle Whip:** 55, DV 2d10 + 2, armor-piercing, reach
+- **Tentacle Whip:** 55, DV 2d10 + 2, Armor-Piercing, Reach
 
 ---
 
@@ -520,13 +520,13 @@ Named for their habit of worming their way into people’s minds, worms retain t
 
 ---
 
-- **Initiative:** 7 • **Fray:** 50 • **AV:** 4/10 Light Armor Vest
+- **Initiative:** 7 • **Fray:** 50 • **AV:** 4/10 Armor Vest (Light)
 - **WT:** 7 • **DUR:** 35 • **DR:** 53 (or as morph)
 - **Threat Pool:** 3
 
 ---
 
-- **Eelware:** 65, DV 1d6, Shock, Touch-only
+- **Eelware:** 65, DV 1d6, Shock, Touch-Only
 - **Psychic Stab:** 70, DV 2d10 ([Psychic Stab](../14/06-psi-sleight-summaries.md#psychic-stab))
 
 ---

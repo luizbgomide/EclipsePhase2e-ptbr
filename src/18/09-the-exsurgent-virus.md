@@ -108,7 +108,7 @@ In AF 10, every major habitat screens newcomers for signs of digital, biological
 
 The primary thing GMs should keep in mind when portraying the exsurgent virus is that it is adaptive and intelligent. It was written by a near-omnipotent ETI with the intent of corrupting any ASIs and civilizations it encountered, and it is _very_ good at it. It has the capability to analyze, understand, and mimic almost any alien digital protocols and communication methods it comes into contact with, no matter how diverse the alien mindset that constructed it. It then has a cunning ability to circumvent any safeguards and infect such systems. From there, it rapidly assimilates any data it can about the target species/civilization and does its best to mutate into other forms that can attack this target from other vectors.
 
-What this means: the exovirus is always be changing and unpredictable. The strains mutate and evolve into different forms. Some of these may be effective, some not — but over time, it will learn. The virus itself can be considered an undefeatable boss-level threat.
+What this means: the exovirus is always changing and unpredictable. The strains mutate and evolve into different forms. Some of these may be effective, some not — but over time, it will learn. The virus itself can be considered an undefeatable boss-level threat.
 
 <blockquote>
 

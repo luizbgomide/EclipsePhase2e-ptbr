@@ -389,7 +389,7 @@ These temporary nanobot infestations damage or impair.
 | :--------- | :---: | :---------: | :------: | :----------: | :------------------------------------------------- |
 | Disruptor  | Nano  |   Inj, O    | 8 hours  |   Maj/R/3    | Cumulative −5 to actions per hour; incapacitation. |
 | Necrosis   | Nano  |   Inj, O    | 1 minute |   Mod/R/2    | DV 1d6 \[4\] per turn.                             |
-| Neuropath  | Nano  |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs incapacitation.   |
+| Neuropath  | Nano  |  D, Inj, O  | 8 hours  |   Mod/R/2    | Agony, −30 actions, WIL Check vs. incapacitation.  |
 | Nutcracker | Nano  |   Inj, O    | 6 hours  |   Maj/R/3    | Destroys cortical stack.                           |
 
 <!--sort-->

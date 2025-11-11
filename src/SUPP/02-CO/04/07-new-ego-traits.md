@@ -47,7 +47,7 @@ Positive ego traits have a CP Cost and provide bonuses in certain situations.
 | [Networking Talent](#networking-talent)       |    2    | Once per session, spend 1 Moxie to use Deceive, Persuade, or Provoke instead of rep score on Rep Test.          |                   |
 | [Online Obsession](#online-obsession)         |    2    | Gain 1 ego Flex for online information/interactions only.                                                       |                   |
 | [Pack Security](#pack-security)               |    1    | +10 Stress Tests and INT Checks to heal stress when with close family/friends.                                  |                   |
-| [Predatory Instinct](#predatory-instinct)     |    2    | +10 Infiltrate when stalking, +10 first attack vs surprised target.                                             |                   |
+| [Predatory Instinct](#predatory-instinct)     |    2    | +10 Infiltrate when stalking, +10 first attack vs. surprised target.                                            |                   |
 | [Resilient Mind](#resilient-mind)             |    4    | Reduce healing time for stress/traumas/disorders by half. Regain 2d6 stress achieving motivational goal.        |                   |
 | [Scrounging Talent](#scrounging-talent)       |    2    | +1 GP or MP at start of missions. +10 all morph Availability.                                                   |                   |
 | [Sharpshooter](#sharpshooter)                 |    1    | Ignore −10 called shot modifier. Indirect fire modifier only −10.                                               |    Guns skill 60+ |

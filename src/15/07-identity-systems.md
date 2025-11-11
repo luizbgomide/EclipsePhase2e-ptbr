@@ -68,7 +68,7 @@ Firewall sentinels and clandestine agents often have a need to hide or alter the
 
 ### Fake IDs
 
-The easiest way to bypass security checks is to establish a [fake ID](../16/04-services.md#physical-services). Given the patchwork nature of identity records and the lack of any centralized authority, this is not very difficult. Numerous crime syndicates and even some autonomist groups maintain a thriving ID fabrication business, often with complete histories and medical covers for implants that might be restricted or illegal.
+The easiest way to bypass security checks is to establish a [Fake ID](../16/04-services.md#physical-services). Given the patchwork nature of identity records and the lack of any centralized authority, this is not very difficult. Numerous crime syndicates and even some autonomist groups maintain a thriving ID fabrication business, often with complete histories and medical covers for implants that might be restricted or illegal.
 
 These IDs are usually registered with habitats that are either known criminal havens, have autonomist sympathies, or are isolated and remote. Though the ID is actually verifiable and registered with these stations, the potential shady origins of such IDs is known to most inner system authorities and so the character may be exposed to extra scrutiny or monitoring. Fake IDs can be acquired that are registered with more respected authorities, but this often requires a much higher expense or connections to hypercorp clandestine operations.
 

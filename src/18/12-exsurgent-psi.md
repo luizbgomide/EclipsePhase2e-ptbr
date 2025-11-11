@@ -35,7 +35,7 @@ Observing psi-epsilon sleights may trigger a [Stress Test](../12/23-stressful-si
 | Kinetic Friction        | Complex | Sustained | Increases friction within Close range, halve kinetic DV.         |
 | Negative Refraction     | Complex | Sustained | Invisibility.                                                    |
 | Puppeteer               | Complex | Sustained | Control target like jammed drone.                                |
-| Pyrokinesis             | Complex | Sustained | Raises heat around target; DV 1d10 per action turn, pain.        |
+| Pyrokinesis             | Complex | Sustained | Raises heat around target; DV 1d10 per action turn, Pain.        |
 | Strip Memory            | Complex |   Days    | Removes target memories.                                         |
 
 <!--sort-->

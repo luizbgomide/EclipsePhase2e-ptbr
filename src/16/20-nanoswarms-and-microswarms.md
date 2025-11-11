@@ -62,20 +62,20 @@ Swarms are released directly from a hive or from pre-packaged programmable canis
 
 <!--sort-->
 
-| SWARMS             |     Comp/<wbr>GP     | Description                                                                        |
-| :----------------- | :------------------: | :--------------------------------------------------------------------------------- |
-| Cleaner Swarm      |        Min/1         | Cleans, eliminates forensic evidence.                                              |
-| Disassembler Swarm |       Mod/R/2        | Deconstructs, DV 1d6 \[4\] per turn, eats armor.                                   |
-| Engineer Swarm     |        Min/1         | Constructs/shapes environment.                                                     |
-| Fixer Swarm        |        Mod/2         | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                             |
-| Gardener Swarm     |        Min/1         | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
-| Guardian Swarm     |        Mod/2         | Disables other swarms; both swarms take DV 1d10 \[6\] per turn.                             |
-| Protean Swarm      |      As Object       | Nanofabricates a specific, pre-programmed item.                                    |
-| Pusher Swarm       | Min/R/1 + drug/toxin | Exposes biomorphs to drug/toxin.                                                   |
-| Saboteur Swarm     |       Mod/R/2        | Sabotages electronics/machinery; 50% chance of wound every WT turns.               |
-| Scout Swarm        |        Min/1         | Maps area, collects forensic evidence, Know: Chemistry 60, Medicine: Forensics 60. |
-| Spy Swarm          |        Min/1         | Surveillance, Perceive 60.                                                         |
-| Taggant Swarm      |        Min/1         | Tag everything in area for tracking purposes.                                      |
+| SWARMS             |     Comp/<wbr>GP     | Swarm Type (Movement) | Description                                                                        |
+| :----------------- | :------------------: | :-------------------: | :--------------------------------------------------------------------------------- |
+| Cleaner Swarm      |        Min/1         |      Nano (1/4)       | Cleans, eliminates forensic evidence.                                              |
+| Disassembler Swarm |       Mod/R/2        |      Nano (1/4)       | Deconstructs, DV 1d6 \[4\] per turn, eats armor.                                   |
+| Engineer Swarm     |        Min/1         |      Micro (2/8)      | Constructs/shapes environment.                                                     |
+| Fixer Swarm        |        Mod/2         |      Nano (1/4)       | Repairs 1d10 \[6\] damage per hour or 1 wound per day.                             |
+| Gardener Swarm     |        Min/1         |      Micro (2/8)      | Maintains flora, defoliates, kills weeds, pollinates, etc.                         |
+| Guardian Swarm     |        Mod/2         |      Nano (1/4)       | Disables other swarms; both swarms take DV 1d10 \[6\] per turn.                    |
+| Protean Swarm      |      As Object       |      Nano (1/4)       | Nanofabricates a specific, pre-programmed item.                                    |
+| Pusher Swarm       | Min/R/1 + drug/toxin |      Micro (2/8)      | Exposes biomorphs to drug/toxin.                                                   |
+| Saboteur Swarm     |       Mod/R/2        |      Nano (1/4)       | Sabotages electronics/machinery; 50% chance of wound every WT turns.               |
+| Scout Swarm        |        Min/1         |      Nano (1/4)       | Maps area, collects forensic evidence, Know: Chemistry 60, Medicine: Forensics 60. |
+| Spy Swarm          |        Min/1         |      Nano (1/4)       | Surveillance, Perceive 60.                                                         |
+| Taggant Swarm      |        Min/1         |      Nano (1/4)       | Tag everything in area for tracking purposes.                                      |
 
 <!--sort-->
 

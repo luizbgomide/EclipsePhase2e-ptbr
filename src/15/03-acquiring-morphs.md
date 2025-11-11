@@ -63,30 +63,32 @@ The timeframe for morph modding is the same for acquiring gear: 2 hours for Mino
 
 ## Making Morphs
 
-Morphs can be made, but this requires one or more task action skill tests each with a significantly long timeframe, as well as access to the morph’s blueprints/genetics, a proper nanofabricator and/or exowomb, and a medical facility. This timeframe cannot be reduced with time-accelerated VR. Since much of this process is automated fabrication/growth, only about 25% of the timeframe requires your complete attention (GM discretion). If you do not have blueprints/genetics, or you wish to design one from scratch, the timeframes will be considerably longer, with at least 50% of this timeframe requiring full attention (GM determination, but easily 5–10 times longer).
+Morphs can be made, but this requires one or more task action skill tests each with a significantly long timeframe, as well as access to the morph’s blueprints/genetics, a proper nanofabricator and/or exowomb, and a medical facility. This timeframe cannot be reduced with time-accelerated VR. Since much of this process is automated fabrication/growth, only about 25% of the timeframe requires your complete attention (GM discretion). If you do not have blueprints/genetics, or you wish to design one from scratch, the timeframes will be considerably longer, with at least 50% of this timeframe requiring full attention (GM determination, but easily 5–10 times longer, with at least 50% of this timeframe requiring full attention).
 
 <blockquote class="table">
 
 ### Making a Morph
 
-| Morph Type | Skills and Timeframes                                                  | Gear Needed                                   |
-| :--------- | :--------------------------------------------------------------------- | :-------------------------------------------- |
-| Biomorph   | Medicine: Biotech (\[MP + 6\] months)                                  | Exowomb                                       |
-| Pod        | Medicine: Biotech (\[MP + 1\] months), <wbr>Program (\[MP + 1\] weeks) | Specialized Fabber, Tools Shop or Healing Vat |
-| Synthmorph | Hardware: Robotics (\[MP + 1\] weeks), <wbr>Program (\[MP + 1\] weeks) | Medium Fabber                                 |
+| Morph Type | Skills and Timeframes                                                  | Gear Needed                                    |
+| :--------- | :--------------------------------------------------------------------- | :--------------------------------------------- |
+| Biomorph   | Medicine: Biotech (\[MP + 6\] months)                                  | Exowomb                                        |
+| Pod        | Medicine: Biotech (\[MP + 1\] months) and Program (\[MP + 1\] weeks)\* | Specialized Fabber, Tools Shop, or Healing Vat |
+| Synthmorph | Hardware: Robotics (\[MP + 1\] weeks) and Program (\[MP + 1\] weeks)\* | Medium Fabber                                  |
+
+\* These task action tests can be done concurrently, and do not need to be made by the same character.
 
 </blockquote>
 
 <blockquote>
 
-Sava has been hired to investigate a string of disappearances at a hypercorp’s private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and opts to save their rep favors for now.
+Sava, played by Davidson, has been hired to investigate a string of disappearances at a hypercorp’s private habitat. The hypercorp has credits to throw at the problem, so the GM assigns Sava 8 Morph Points to spend. Sava doesn't have the Resources trait to increase that amount and Davidson opts to save their rep favors for now.
 
-Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Sava a +20 bonus. Rolling against a target number of 60, Sava gets an 83: no luck. The corp didn't need combat models on the station.
+Sava favors fury morphs, so they try for that one first. The Availability is 40. Since the hypercorp owns the habitat and all of the morphs there, the GM gives Davidson a +20 bonus. Rolling against a target number of 60, he gets an 83: no luck. The corp didn't need combat models on the station.
 
-Sava tries again for a ghost morph: same Availability, same bonus from the GM. They get a 17 this time: the morph is in stock.
+Davidson tries again for a ghost morph: same Availability, same bonus from the GM. They get a 17 this time: the morph is in stock.
 
-Sava wants neurachem with this morph, which is Major complexity ware — an extra cost of 3&nbsp;MP. Sava only has 2&nbsp;MP to spare (the original 8&nbsp;MP minus the morph’s cost of 6&nbsp;MP), so they opt to take a Negative trait with an MP Bonus of 1. The GM has an idea for this, and gives the ghost morph the Memory Artifact trait.
+Davidson wants neurachem with this morph, which is Major complexity ware — an extra cost of 3&nbsp;MP. Sava only has 2&nbsp;MP to spare (the original 8&nbsp;MP minus the morph’s cost of 6&nbsp;MP), so they opt to take a Negative trait with an MP Bonus of 1. The GM has an idea for this, and gives the ghost morph the Memory Artifact trait.
 
-A week later, Sava is killed in a trap. The hypercorp’s security team recovers their stack and resleeves them, but this time the GM only gives Sava 7&nbsp;MP to work with. Sava really wants that neurachem again, so they are prepared to spend a rep favor this time to boost their MP. First, however, Sava rolls again to see if a fury morph is available this time. The target number is the same (60), and they roll a 29! It looks like the hypercorp noted Sava’s earlier request and got a fury morph to the station in anticipation of this need. Sava needs 9&nbsp;MP total, so they take the 7&nbsp;MP they have and spend a Moderate i-rep favor to get 2 more. Sava tells Firewall they believe there are exsurgents on the station, and the group pulls some strings to get them what they need.
+A week later, Sava is killed in a trap. The hypercorp’s security team recovers their stack and resleeves them, but this time the GM only gives Sava 7&nbsp;MP to work with. Sava really wants that neurachem again, so they are prepared to spend a rep favor this time to boost their MP. First, however, Davidson rolls again to see if a fury morph is available this time. The target number is the same (60), and they roll a 29! It looks like the hypercorp noted Sava’s earlier request and got a fury morph to the station in anticipation of this need. Sava needs 9&nbsp;MP total, so they take the 7&nbsp;MP they have and spend a Moderate i-rep favor to get 2 more. Sava tells Firewall they believe there are exsurgents on the station, and the group pulls some strings to get them what they need.
 
 </blockquote>

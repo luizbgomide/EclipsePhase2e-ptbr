@@ -63,8 +63,8 @@ Ozma itself is a rumor. Many strange stories persist:
 
 ---
 
-- **Microwave Agonizer:** 70, SA, Ammo 20, Range 15, pain;
-- **Roast Mode:** DV 2d10, SS, armor-piercing, pain
+- **Microwave Agonizer:** 70, SA, Ammo 20, Range 15, Pain;
+- **Roast Mode:** DV 2d10, SS, Armor-Piercing, Pain
 - **Wasp Knife:** 50, DV 1d10 + 2, neuropath: causes agony, −30 to actions, WIL Check or incapacitated
 
 ---

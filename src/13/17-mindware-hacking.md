@@ -18,12 +18,6 @@ Once a cyberbrain or device running an infomorph has been infiltrated, it may be
 
 All of the actions below require winning a Hacking Test.
 
-### Trap Ego
-
-As an intruder, the first action you may wish to take will be to install a lockbox app. This malware traps the ego/infomorph within the cyberbrain/device, preventing it from transferring to a new system. Lockbox malware also locks the ego/infomorph out of its root admin controls, effectively cutting it off from countermeasures or other defensive actions. The only mesh actions a lockboxed mind may take depend entirely on what permissions, if any, you give it.
-
-Egos trapped within a lockbox are quite vulnerable. They could, for example, be subject to enforced uploading, simulspaces, forking, or psychosurgery. Egos trapped for extended periods may suffer stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)).
-
 <!--sort-->
 
 ### Control Ware (Cyberbrain)
@@ -68,11 +62,19 @@ Cyberbrains and infomorphs may be deactivated, just like other systems ([Reboot/
 
 ### Tap Senses
 
-As [Tap Senses](13-system-subversion.md#tap-senses).
+If hacking mesh inserts or a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), you can tap into the target’s sensorium for surveillance purposes.
+
+Sensory data may also be recorded or broadcast as XP.
 
 ### Terminate Cortical Stack Feed
 
-The cyberbrain feeds backup data to the cortical stack. This is a one-way connection, so the cortical stack itself may not be hacked, but the transfer of data may be cut off. Likewise, an infomorph’s ongoing updates to its inactive backup files may be terminated. This can be done for a temporary period or it can be indefinitely severed. A restored backup will be missing memories from the period when the feed was terminated.
+The cyberbrain feeds backup data to the cortical stack. This is a one-way connection, so the cortical stack itself may not be hacked, but the transfer of data may be cut. Likewise, an infomorph’s ongoing updates to its inactive backup files may be terminated. This can be a temporary or indefinite sever. A restored backup will be missing memories from the period when the feed was terminated.
+
+### Trap Ego
+
+As an intruder, the first action you may wish to take will be to install a lockbox app. This malware traps the ego/infomorph within the cyberbrain/device, preventing it from transferring to a new system. Lockbox malware also locks the ego/infomorph out of its root admin controls, effectively cutting it off from countermeasures or other defensive actions. The only mesh actions a lockboxed mind may take depend entirely on what permissions, if any, you give it.
+
+Egos trapped within a lockbox are quite vulnerable. They could, for example, be subject to enforced uploading, simulspaces, forking, or psychosurgery. Egos trapped for extended periods may suffer stress from helplessness ([Stressful Situations](../12/23-stressful-situations.md)).
 
 <!--sort-end-->
 

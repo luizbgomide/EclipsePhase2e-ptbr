@@ -11,7 +11,7 @@ Meshware refers to plug-in apps that enhance an infomorph’s capabilities, much
 | Copylock          |    Min/1     | Prevents copying/forking, −30 Infosec to copy.                                   |
 | E-Veil            |   Min/R/1    | Obfuscates apps, opposes Interface with Program 80.                              |
 | Enhanced Security |    Mod/2     | −10 Infosec to hack, −30 in defensive mode but no Insight pool and −3&nbsp;INIT. |
-| Fault Tolerance   |    Mod/2     | AV 5 vs. mesh attacks                                                            |
+| Fault Tolerance   |    Mod/2     | AV 5 vs. mesh attacks.                                                           |
 | Persistence       |    Mod/2     | Keeps infomorph running, +10&nbsp;DUR, +2&nbsp;WT.                               |
 
 <!--sort-->

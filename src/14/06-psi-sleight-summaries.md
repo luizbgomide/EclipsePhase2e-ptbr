@@ -130,7 +130,7 @@ You have excellent physiological control. +1 Vigor Pool.
 
 ### Superior Kinesics
 
-You haver finer control over your emotive signals, body language, and micro-expressions and are more capable at interpreting the same in others. +10 to Deceive and Kinesics Tests.
+You have finer control over your emotive signals, body language, and micro-expressions and are more capable at interpreting the same in others. +10 to Deceive and Kinesics Tests.
 
 ### Xeno-Empathy
 

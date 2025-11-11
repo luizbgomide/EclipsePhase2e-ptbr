@@ -57,14 +57,14 @@ Everyone has a muse, and every device has a built-in ALI ([AIs & Muses](../13/07
 
 <!--sort-->
 
-| ALIs & MUSES    | Comp/<wbr>GP | Skills                                                                                                                                                                                                                                               |
-| :-------------- | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bot/Vehicle ALI |    Mod/2     | Fray 30, Guns 30, Hardware: \[appropriate field\] 20 (specific bot/vehicle 30), Infosec 20, Interface 30, Know: \[bot/vehicle\] Specs 80, Perceive 40, Pilot: \[appropriate field\] 60 (specific bot/vehicle 70), Research 20                        |
-| Device ALI      |    Mod/2     | Hardware: Electronics 20 (specific device 30), Infosec 20, Interface 30 (specific device 40), Know: \[device\] Specs 80, Know: \[device\] Usage 80, Perceive 20, Program 30 (specific device 40), Research 20                                        |
-| Kaos ALI        |   Maj/R/3    | Guns 40, Hardware: Electronics 40, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 40, Research 30                                                                                                                         |
-| Muse            |    Mod/2     | Hardware: Electronics 30, Infosec 30, Interface 60, Know: Accounting 60, Know: Psychology 60, Medicine: Psychosurgery 30, Perceive 30, Program 30, Research 30, plus one other Know skills at 40. Note: Muses have INT 15 and 10 in other aptitudes. |
-| Security ALI    |    Mod/2     | Guns 30, Hardware: Electronics 30, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 30, Research 20                                                                                                                         |
-| Sentry ALI      |   Maj/R/3    | Fray 30, Guns 60, Hardware: \[appropriate field\] 30, Interface 30, Kinesics 40, Know: \[bot/vehicle\] Specs 80, Know: Security Ops 80, Perceive 40, Pilot: \[appropriate field\] 40, Provoke 30                                                     |
+| ALIs & MUSES    | Comp/<wbr>GP | Skills                                                                                                                                                                                                                                              |
+| :-------------- | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bot/Vehicle ALI |    Mod/2     | Fray 30, Guns 30, Hardware: \[appropriate field\] 20 (specific bot/vehicle 30), Infosec 20, Interface 30, Know: \[bot/vehicle\] Specs 80, Perceive 40, Pilot: \[appropriate field\] 60 (specific bot/vehicle 70), Research 20                       |
+| Device ALI      |    Mod/2     | Hardware: Electronics 20 (specific device 30), Infosec 20, Interface 30 (specific device 40), Know: \[device\] Specs 80, Know: \[device\] Usage 80, Perceive 20, Program 30 (specific device 40), Research 20                                       |
+| Kaos ALI        |   Maj/R/3    | Guns 40, Hardware: Electronics 40, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 40, Research 30                                                                                                                        |
+| Muse            |    Mod/2     | Hardware: Electronics 30, Infosec 30, Interface 60, Know: Accounting 60, Know: Psychology 60, Medicine: Psychosurgery 30, Perceive 30, Program 30, Research 30, plus one other Know skill at 40. Note: Muses have INT 15 and 10 in other aptitudes. |
+| Security ALI    |    Mod/2     | Guns 30, Hardware: Electronics 30, Infosec 60, Interface 40, Know: Security Systems 80, Perceive 30, Program 30, Research 20                                                                                                                        |
+| Sentry ALI      |   Maj/R/3    | Fray 30, Guns 60, Hardware: \[appropriate field\] 30, Interface 30, Kinesics 40, Know: \[bot/vehicle\] Specs 80, Know: Security Ops 80, Perceive 40, Pilot: \[appropriate field\] 40, Provoke 30                                                    |
 
 <!--sort-->
 
@@ -88,12 +88,12 @@ Scorchers are damaging neurofeedback apps used against infomorphs and cyberbrain
 
 <!--sort-->
 
-| SCORCHERS  | Comp/<wbr>GP | Description                                                                                                |
-| :--------- | :----------: | :--------------------------------------------------------------------------------------------------------- |
-| Bedlam     |   Mod/R/2    | Horrifying inputs, SV 1d10 \[6\], +1d6 per superior success.                                               |
-| Cauterizer |   Mod/R/2    | Destructive neurofeedback, DV 1d10 + 5 \[11\] or DV 3d10 \[17\] vs. infomorphs, +1d6 per superior success. |
-| Nightmare  |   Mod/R/2    | Trigger anxiety/panic, WIL Check or SV 1d6 \[4\] and acute stress response for 1d6 minutes.                |
-| Spasm      |   Mod/R/2    | Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.                        |
+| SCORCHERS  | Comp/<wbr>GP | Description                                                                                              |
+| :--------- | :----------: | :------------------------------------------------------------------------------------------------------- |
+| Bedlam     |   Mod/R/2    | Horrifying inputs, SV 1d10 \[6\], +1d6 per superior success.                                             |
+| Cauterizer |   Mod/R/2    | Destructive neurofeedback, DV 1d10 + 5 \[11\], +1d6 per superior success. DV 3d10 \[17\] vs. infomorphs. |
+| Nightmare  |   Mod/R/2    | Trigger anxiety/panic, WIL Check or SV 1d6 \[4\] and acute stress response for 1d6 minutes.              |
+| Spasm      |   Mod/R/2    | Excruciating pain, WIL Check or incapacitated for 1 action turn, stunned 3 minutes.                      |
 
 <!--sort-->
 
