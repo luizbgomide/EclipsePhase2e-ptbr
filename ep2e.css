@@ -221,7 +221,8 @@ h2 {
 
 /* stat-list */
 .stat-list ul,
-ul.stat-list {
+ul.stat-list,
+.stat-item {
   margin-top: 8px;
   margin-bottom: 8px;
   padding-left: 0;
