@@ -62,7 +62,7 @@ Cyberbrains and infomorphs may be deactivated, just like other systems ([Reboot/
 
 ### Tap Senses
 
-If hacking mesh inserts or a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), you can tap into the target’s sensorium for surveillance purposes.
+If hacking mesh inserts or a cyberbrain, you can tap into the target’s sensorium for surveillance purposes.
 
 Sensory data may also be recorded or broadcast as XP.
 
