@@ -5,6 +5,8 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 The work is derivative of **Eclipse Phase** with attribution to **Posthuman Studios**.
 
+Errata Version 1.4.
+
 Markdown formatting and adaptation done by Luiz Borges Gomide.
 
 ## Full List of Credits
