@@ -4,13 +4,13 @@ Though the mesh as a whole consists of innumerable devices all connected to the 
 
 ## Puppeted Devices
 
-Some devices are puppeted to others, so that any traffic and access attempts go through a single well-protected gateway node. For example, individual components of a security system (doors, sensors, etc.) are usually puppeted to a central security node that serves as a chokepoint against anyone hoping to hack the system. All traffic to and from puppeted devices is routed through the master. This allows a puppeted device to rely on the master’s security features and active monitoring. Anyone that wants to connect to or hack into a puppeted device is rerouted to the master for authentication and security scrutiny.
+Some devices are puppeted to others, so that any traffic and access attempts go through a single well-protected gateway node. For example, individual components of a security system (doors, sensors, etc.) are usually puppeted to a central security node that serves as a chokepoint against anyone hoping to hack the system. All traffic to and from puppeted devices is routed through the controller. This allows a puppeted device to rely on the controller’s security features and active monitoring. Anyone that wants to connect to or hack into a puppeted device is rerouted to the controller for authentication and security scrutiny.
 
-Puppeted devices automatically accept commands from their master device. This means that a hacker who penetrates a master system can legitimately access and issue commands to a puppeted device, assuming their [access privileges](05-authentication-and-encryption.md#accounts--access-privileges) allow for it.
+Puppeted devices automatically accept commands from their controller device. This means that a hacker who penetrates a controller system can legitimately access and issue commands to a puppeted device, assuming their [access privileges](05-authentication-and-encryption.md#accounts--access-privileges) allow for it.
 
 ## PANs: Personal Area Networks
 
-Since many of the things you wear, carry, use, or have implanted are meshed, it makes sense to network them together — this is your PAN. Your mesh inserts (or ecto) act as the master hub of your network; your other devices are puppeted. This means that anyone that wishes to access these devices must go through you (or your muse) first. You can interface with your PAN devices via AR and freely share data between them. You can share access to these devices with others on a temporary or permanent basis. On the flipside, anyone that hacks you will have access to your puppeted devices.
+Since many of the things you wear, carry, use, or have implanted are meshed, it makes sense to network them together — this is your PAN. Your mesh inserts (or ecto) act as the controller hub of your network; your other devices are puppeted. This means that anyone that wishes to access these devices must go through you (or your muse) first. You can interface with your PAN devices via AR and freely share data between them. You can share access to these devices with others on a temporary or permanent basis. On the flipside, anyone that hacks you will have access to your puppeted devices.
 
 ## VPNs: Virtual Private Networks
 

@@ -47,7 +47,7 @@ Gear uses the same sizing as morphs ([Sizes](../12/21-other-action-factors.md#si
 
 ## Concealing Gear
 
-To hide an object from others, use Infiltrate or Exotic Skill: Sleight of Hand skill. This is opposed by Perceive. Objects with the Concealable trait add a +30 modifier. If the searcher is conducting a thorough physical search, treat as a task action and apply a modifier if they [take extra time](../03/03-actions-and-time.md#taking-time).
+To hide an object from others, use Infiltrate or Exotic Skill: Sleight of Hand skill. This is opposed by Perceive. Objects with the Concealable trait add a +30 modifier. If the searcher is conducting a thorough physical search, treat it as a task action and apply a modifier if they [take extra time](../03/03-actions-and-time.md#taking-time).
 
 ## Meshed Gear
 

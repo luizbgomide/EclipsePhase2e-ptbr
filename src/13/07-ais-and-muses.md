@@ -50,7 +50,7 @@ Most bot/vehicle/device ALIs are hard-coded in as firmware (effectively “sleev
 
 ## Muses
 
-Muses are a personal aid and companion subtype of ALI. Most transhumans grew up with a muse at their virtual side. Muses have more personality and psychological programming than standard ALIs and over time they build up an extensive database of their user’s preferences quirks to more effectively be of service and anticipate needs. Most muses reside in their owner’s mesh inserts or ecto, where they can manage their owner’s PAN, communications, online searches, rep interactions, and other mesh activity.
+Muses are a personal aid and companion subtype of ALI. Most transhumans grew up with a muse at their virtual side. Muses have more personality and psychological programming than standard ALIs and over time they build up an extensive database of their user’s preferences and quirks to more effectively be of service and anticipate needs. Most muses reside in their owner’s mesh inserts or ecto, where they can manage their owner’s PAN, communications, online searches, rep interactions, and other mesh activity.
 
 ### Personality and Relationships
 
