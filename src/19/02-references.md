@@ -1,6 +1,6 @@
 # References
 
-Eclipse Phase took inspiration from many sources that deserve recognition and credit. Gamemasters may find these useful for ideas for adventures and campaigns.
+Eclipse Phase took inspiration from many sources that deserve recognition and credit. Some of the creators, however, have politics and ideological stances that do not align with ours. We include them because gamemasters may still find them useful for ideas for adventures and campaigns.
 
 ## Fiction
 

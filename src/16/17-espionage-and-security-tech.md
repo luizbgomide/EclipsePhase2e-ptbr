@@ -22,7 +22,7 @@ This technology has many applications for Firewall agents.
 | Privacy Pod            |    Maj/3     | Blocks sound/mesh signals, includes bug zapper, guardian swarm, life support (24 hours).     |
 | Psi Jammer             |    Mod/2     | Jams brainwave frequencies within 20&nbsp;m, −30 Psi Tests.                                  |
 | Quantum Computer       |    Maj/3     | Used for [codebreaking](../13/05-authentication-and-encryption.md#codebreaking).             |
-| Ripper                 |   Mod/R/2    | EMP pulse every 5 turns, DV 3d10 to nanoswarms/microswarms.                                  |
+| Ripper                 |   Mod/R/2    | EMP pulse every 5 turns, DV 3d10 \[17\] to nanoswarms/microswarms.                                  |
 | Shroud                 |   Mod/R/2    | Blocks ID methods, mesh signals.                                                             |
 | Traction Pads          |    Mod/2     | +30 climbing Athletic Tests.                                                                 |
 | White Noise Machine    |    Min/1     | Masks conversations from being recorded.                                                     |

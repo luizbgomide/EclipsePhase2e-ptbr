@@ -43,7 +43,7 @@ In their mad-science search for the perfect life form/ultimate killing machine, 
 
 ---
 
-- **Perceive:** 20, sonar only
+- **Perceive:** 20, Sonar only
 - **Move:** Walker (Slow, 4/12)
 
 ---
@@ -88,7 +88,7 @@ Neurodes take excessive measures to amplify their intelligence, adopting the phy
 
 ---
 
-- **Seeker Rifle:** 60 (DV 3d10 + 12 (HEAP), SA, Ammo 12, Range 75, ArmorPiercing, Knockdown, No Close, Two-Handed)
+- **Seeker Rifle:** 60 (DV 3d10 + 12 (HEAP), SA, Ammo 12, Range 75, Armor-Piercing, Knockdown, No Close, Two-Handed)
 
 ---
 
@@ -148,7 +148,7 @@ Predators aim to become the ultimate warriors, to reach the apex of the hunter-p
 
 ---
 
-- **Perceive:** 60, 70 hearing/smell/vision
+- **Perceive:** 60, 70 Hearing/Smell/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---

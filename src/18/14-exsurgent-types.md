@@ -101,7 +101,7 @@ Deployed by the TITANS as drones and servants, these malformed, albino humanoids
 
 ---
 
-- **Perceive:** 60, 70 smell/vision
+- **Perceive:** 60, 70 Smell/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---
@@ -324,7 +324,7 @@ Skriks are tiny creatures coughed up by biomorphs infected with the skrik strain
 
 - **Exsurgent Carriers:** Most skriks carry the exsurgent virus, exposing it to others if they are eaten or exchange bodily fluids (bio pathogen) or releasing it when they die (nanoplague)
 - **Scale Assault:** Against larger targets, skriks can take a complex action and make an Athletics Test, opposed by the target’s Fray. If successful, the skrik has scurried onto the opponent’s back, undercarriage, or other difficult-toreach spot. The victim suffers a −30 modifier to attack the skrik. Skriks use this position of advantage to make called shots to [bypass armor](../12/15-special-attacks.md#bypass-armor).
-- **Swarm Tactics:** A large number of skriks (20+) will attack as a swarm. Treat as a single [Large size](../12/21-other-action-factors.md#large-size) entity, DV 3d10 (no defense, armor-piercing), DUR 80+, ignore wounds, immune to called shots, grappling, knockdown, psi sleights, Shock, and unconsciousness. Victims within the swarm suffer an impairment (−30) modifier from being harried.
+- **Swarm Tactics:** A large number of skriks (20+) will attack as a swarm. Treat as a single [Large size](../12/21-other-action-factors.md#large-size) entity, DV 3d10 (no defense, Armor-Piercing), DUR 80+, ignore wounds, immune to called shots, grappling, Knockdown, psi sleights, Shock, and unconsciousness. Victims within the swarm suffer an impairment (−30) modifier from being harried.
 
 </blockquote>
 
@@ -380,7 +380,7 @@ One version of the xenomorph nanoplague targets synthmorphs, bots, and vehicles,
 ---
 
 - **Modular Design:** Similar to flexbots, snappers deploy a modular design. For each additional module, combine WT/DUR/DR. 1 module is Medium size, 2–4 modules make a Large size, 5+ make a Very Large size.
-- **Stretch Slam:** Snappers may spend a Threat Pool point to whip out and crushing slam two targets in different directions at once; roll attacks separately
+- **Stretch Slam:** Snappers may spend a Threat Pool point to whip out and crushing slam two targets in different directions at once; roll attacks separately.
 
 </blockquote>
 
@@ -436,7 +436,7 @@ These exsurgent cyborgs served the TITANs as elite infantry during the Fall. Was
 
 ---
 
-- **Mask:** Touching or wearing a wastewalker mask exposes you to the wastewalker xenomorph nanoplague
+- **Mask:** Touching or wearing a wastewalker mask exposes you to the wastewalker xenomorph nanoplague.
 
 </blockquote>
 
@@ -476,7 +476,7 @@ These creatures have barrel-shaped torsos. From the bottom, they skitter around 
 
 ---
 
-- **Perceive:** 50, 60 vision
+- **Perceive:** 50, 60 Vision
 - **Move:** Walker (Fast 8/32)
 
 ---

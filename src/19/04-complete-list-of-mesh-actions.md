@@ -101,7 +101,7 @@ These actions usually require a Hacking Test. Most are detailed under [System Su
 - **Install Backdoor:** Create a secret way back in to the system.
 - **Install Blocker:** Pre-emptively block other users from specified actions.
 - **Jam Signals:** Jam specific or all wireless frequencies.
-- **Loop Sensor Feed:** Replace a live sensor feed with looped recordings.
+- **Loop Sensor Feed:** Replace a live feed with looped recordings.
 - **Modify TacNet:** Edit tacnet data, mark foes as friends.
 - **Sniff Traffic:** Sniff traffic between wireless devices ([Sniffing](../13/04-devices-apps-and-links.md#sniffing)).
 - **Subtle Intrusion \[T\]:** Quietly probe a target for vulnerabilities ([Subtle Intrusion](../13/11-hacking.md#subtle-intrusion)).

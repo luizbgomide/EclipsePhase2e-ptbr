@@ -14,7 +14,7 @@ It may also be helpful to pick an ally and enemy for the server. Do they work cl
 
 ## Joining Firewall
 
-How you introduce the PCs to Firewall will have a profound effect on your campaign. If your players are fresh to Eclipse Phase, it may be best to start them as civilians who run afoul of something strange and get recruited by Firewall in the aftermath. This allows you to slowly introduce the conspiracy and wha they face over time.
+How you introduce the PCs to Firewall will have a profound effect on your campaign. If your players are fresh to Eclipse Phase, it may be best to start them as civilians who run afoul of something strange and get recruited by Firewall in the aftermath. This allows you to slowly introduce the conspiracy and what they face over time.
 
 Experienced players may prefer to jump in as fresh recruits or established sentinels, allowing you to jump deeper into the conspiracy. Consider running brief one-on-one scenes with each of them to detail their recruitment. Were they approached after they dealt with an unexpected threat? Did Firewall rescue them? Perhaps Firewall had them under long-term surveillance to determine their suitability because they possess a skill set of use to the network.
 

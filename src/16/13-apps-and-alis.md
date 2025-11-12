@@ -21,7 +21,7 @@ This software can be run on any computerized device.
 | Spoofer           |   Mod/R/2    | Fake transmissions and mesh IDs.          |
 | Tracker           |    Mod/2     | Trace connections.                        |
 | VPN               |    Min/1     | Creates virtual private network.          |
-| XP                |   Min+/1+    | Clips of others’ recorded sensorium       |
+| XP                |   Min+/1+    | Clips of others’ recorded sensorium.      |
 
 <!--sort-->
 

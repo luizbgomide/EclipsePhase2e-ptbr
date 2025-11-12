@@ -57,7 +57,7 @@ Ozma itself is a rumor. Many strange stories persist:
 
 ---
 
-- **Initiative:** 5 • **Fray:** 50 • **AV:** 8/15 heavy armor vest + second skin, shock proof
+- **Initiative:** 5 • **Fray:** 50 • **AV:** 8/15 Armor Vest (Heavy) + Second Skin, Shock Proof
 - **WT:** 7 • **DUR:** 35 • **DR:** 53, ignore 1 wound effect
 - **Threat Pool:** 5
 
@@ -65,11 +65,11 @@ Ozma itself is a rumor. Many strange stories persist:
 
 - **Microwave Agonizer:** 70, SA, Ammo 20, Range 15, Pain;
 - **Roast Mode:** DV 2d10, SS, Armor-Piercing, Pain
-- **Wasp Knife:** 50, DV 1d10 + 2, neuropath: causes agony, −30 to actions, WIL Check or incapacitated
+- **Wasp Knife:** 50, DV 1d10 + 2, injects neuropath: causes agony, −30 to actions, WIL Check or incapacitated
 
 ---
 
-- **Perceive:** 65, 75 hearing/vision
+- **Perceive:** 65, 75 Hearing/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---

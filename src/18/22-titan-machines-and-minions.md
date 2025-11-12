@@ -92,11 +92,11 @@ Fractals are “bush robots:” conglomerations of jointed, metallic, fractal br
 
 - **Bush Blades:** 60, DV 2d10 + 5, Armor-Piercing
 - **Disassembly:** 80, DV 1d10, touch attack, armor protects but AV is reduced
-- **Shredder:** 50, DV 2d10 + 6, SA/BF/FA, Ammo unlimited, Range 25, cone area effect
+- **Shredder:** 50, DV 2d10 + 6, SA/BF/FA, Ammo unlimited, Range 25, Cone area effect
 
 ---
 
-- **Perceive:** 60, 70 vision
+- **Perceive:** 60, 70 Vision
 - **Move:** Roller (Fast 8/32), Thrust Vector (Gas Jet, Slow 4/12), may create others
 
 ---
@@ -110,11 +110,11 @@ Fractals are “bush robots:” conglomerations of jointed, metallic, fractal br
 
 ---
 
-- **Exsurgent Infection:** Fractals are often infected with the exsurgent virus and carry or nanofabricate nanoplagues
-- **Feign Destruction:** Fractals are programmed to “Fall apart” when accumulated damage nears their Death Rating, dissolving into numerous nanoswarms that rebuild the fractal
-- **Invulnerability:** Area-effect weapons do half-damage to fractals; all others do minimum damage
+- **Exsurgent Infection:** Fractals are often infected with the exsurgent virus and carry or nanofabricate nanoplagues.
+- **Feign Destruction:** Fractals are programmed to “Fall apart” when accumulated damage nears their Death Rating, dissolving into numerous nanoswarms that rebuild the fractal.
+- **Invulnerability:** Area-effect weapons do half-damage to fractals; all others do minimum damage.
 - **Nanofabrication:** Fractals may be equipped with or fabricate any enhancements, gear, armor, or weapons the GM desires to present an appropriate threat to the PCs. Reduce all [nanofabrication](../16/03-nanofabrication.md) times by half. They may also mimic the effects of any existing [nanoswarm](../16/20-nanoswarms-and-microswarms.md) or [TITAN Nanoviruses](21-the-titans-legacy.md#titan-nanoviruses).
-- **Regeneration:** Fractals repair 1d10 damage per half hour; after all damage is fixed, they repair 1 wound per hour
+- **Regeneration:** Fractals repair 1d10 damage per half hour; after all damage is fixed, they repair 1 wound per hour.
 
 </blockquote>
 
@@ -149,13 +149,13 @@ These insectoid machines are designed to grasp onto a victim’s skull, saw thro
 
 ---
 
-- **Behead:** 65, DV 1d10 + 6, grappled targets only (no defense), armorpiercing; called shot, on superior success and wound scored, target is decapitated and immediately killed
+- **Behead:** 65, DV 1d10 + 6, Armor-Piercing. This is a called shot (-10 already included) made only against grappled targets (no defense). On a superior success, if a wound is inflicted, target is decapitated and immediately killed.
 - **Buzzsaw:** 75, DV 1d10 + 6, Armor-Piercing
 - **Grappling:** 65 ([Grappling](../12/02-melee-combat.md#grappling)), requires superior success, grappled targets may not oppose buzzsaw/behead attacks on subsequent turns
 
 ---
 
-- **Perceive:** 50, 60 vision
+- **Perceive:** 50, 60 Vision
 - **Move:** Rotor/Winged (Fast 8/32)
 
 ---
@@ -170,7 +170,7 @@ These insectoid machines are designed to grasp onto a victim’s skull, saw thro
 ---
 
 - **Note:** Many variants of headhunters exist, GMs should adjust weaponry and stats as they see fit
-- **Seeker Variant:** Carries a single-use HEAP seeker minimissile; 65, DV 4d10 + 12, Range 150, Armor-Piercing, knockdown, no close; may fabricate a new missile in 30 minutes
+- **Seeker Variant:** Carries a single-use HEAP seeker minimissile; 65, DV 4d10 + 12, Range 150, Armor-Piercing, Knockdown, No Close; may fabricate a new missile in 30 minutes
 
 </blockquote>
 
@@ -211,7 +211,7 @@ Puppets are transhumans whose minds were subverted by the TITANs. They are disti
 
 ---
 
-- **Perceive:** 40, 50 hearing/vision
+- **Perceive:** 40, 50 Hearing/Vision
 - **Move:** Walker (Medium 4/20)
 
 ---
@@ -269,7 +269,7 @@ TITAN nanoswarms are generations ahead of transhuman nanotechnology. They are au
 
 ---
 
-- **Perceive:** 50, 60 hearing/vision
+- **Perceive:** 50, 60 Hearing/Vision
 - **Move:** Walker/Microlight (Slow 4/12), may construct others
 
 ---
@@ -283,10 +283,10 @@ TITAN nanoswarms are generations ahead of transhuman nanotechnology. They are au
 
 ---
 
-- **Nanoswarm:** Functions like a [nanoswarm](../16/20-nanoswarms-and-microswarms.md), except can move normally in vacuum and does not require a nanohive
-- **Nanofabrication:** Can nanofabricate items in half the time as transhuman nanofabricators; can replicate effects of any nanoswarm at will
-- **Self-Repair:** Automatically repair 1d10 damage per hour
-- **Take Form:** Can cohere/dissipate simple physical/mechanical forms (arms, mobility systems, tentacles, cages, traps, etc) with a complex action; these may take physical actions such as Fray or Melee Tests
+- **Nanoswarm:** Functions like a [nanoswarm](../16/20-nanoswarms-and-microswarms.md), except can move normally in vacuum and does not require a nanohive.
+- **Nanofabrication:** Can nanofabricate items in half the time as transhuman nanofabricators; can replicate effects of any nanoswarm at will.
+- **Self-Repair:** Automatically repair 1d10 damage per hour.
+- **Take Form:** Can cohere/dissipate simple physical/mechanical forms (arms, mobility systems, tentacles, cages, traps, etc) with a complex action; these may take physical actions such as Fray or Melee Tests.
 
 </blockquote>
 
@@ -324,15 +324,15 @@ These massive, armored tanks are a TITAN advancement on transhuman mecha designs
 - **Claws:** 50, DV 3d10 + 6, Reach (+10)
 - **Laser Pulser Cannon:** 60, DV 4d10 + 4, SA/BF, Range 300, Ammo 200, Fixed
 - **Railgun Machine Gun:** 60, DV 3d10 + 2, BF/FA, Ammo 500, Armor-Piercing, Fixed
-- **Seeker Launcher:** 60, DV 6d10 + 24, SS, Ammo 20, Range 300, Armor-Piercing, Fixed, homing (+10 aimed/previous targets), knockdown, no close
+- **Seeker Launcher:** 60, DV 6d10 + 24, SS, Ammo 20, Range 300, Armor-Piercing, Fixed, homing (+10 aimed/previous targets), Knockdown, No Close
 - **Stomp:** 50, DV 5d10, Reach (+20)
 - **Tentacles:** 50, DV 3d10, Reach (+20)
 - **Tentacle Grapple:** 50 ([Grappling](../12/02-melee-combat.md#grappling)), Reach (+20), requires superior success, grappled victims get no defense to subsequent attacks
-- **Torch:** 60, DV 4d10, SS, Range 25, Ammo 100, cone area effect, Fixed
+- **Torch:** 60, DV 4d10, SS, Range 25, Ammo 100, Cone area effect, Fixed
 
 ---
 
-- **Perceive:** 50, 60 vision
+- **Perceive:** 50, 60 Vision
 - **Move:** Walker (Medium 4/20)
 
 ---

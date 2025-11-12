@@ -30,7 +30,7 @@ A variety of technologies are useful for keeping communication lines open, even 
 | <!--sort-union-->Laser/Microwave Link (Small) |    Mod/2     | Tight-beam communication links, line-of-sight 50/500&nbsp;km range.               |
 | Mission Recorder                              |    Min/1     | Backs up all mission data.                                                        |
 | Radio Booster                                 |    Min/1     | Extends radio ranges, 25/250km range.                                             |
-| Satnet-in-a-Can                               |    Maj/3     | Deploys satellites into orbit for GPS, imaging, comms relay, Know: Metereology 60 |
+| Satnet-in-a-Can                               |    Maj/3     | Deploys satellites into orbit for GPS, imaging, comms relay, Know: Meteorology 60 |
 
 <!--sort-->
 
