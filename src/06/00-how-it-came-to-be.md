@@ -30,4 +30,4 @@
   - [BF 20–0](02-timeline.md#bf-200)
   - [The Fall (2 Years)](02-timeline.md#the-fall-2-years)
   - [AF 0–10](02-timeline.md#af-010)
-  - [10 AF](02-timeline.md#10-af)
+  - [AF 10](02-timeline.md#af-10)

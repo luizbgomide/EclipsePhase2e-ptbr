@@ -140,7 +140,7 @@ Now that you've caught up on the rest, here’s the last info dump: an overview 
     - [New Sarpalius](10-the-system-fringe.md#new-sarpalius)
   - [ITN Cyclers](10-the-system-fringe.md#itn-cyclers)
     - [Conch](10-the-system-fringe.md#conch)
-  - [The Kuiper Belt & Oort Cloud](10-the-system-fringe.md#the-kuiper-belt--oort-cloud)
+  - [The Kuiper Belt and Oort Cloud](10-the-system-fringe.md#the-kuiper-belt-and-oort-cloud)
     - [Eris](10-the-system-fringe.md#eris)
     - [Markov](10-the-system-fringe.md#markov)
     - [Pluto and Charon](10-the-system-fringe.md#pluto-and-charon)

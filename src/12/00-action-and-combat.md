@@ -84,7 +84,7 @@
     - [Disarming Explosives](15-special-attacks.md#disarming-explosives)
     - [Making Explosives](15-special-attacks.md#making-explosives)
   - [Shock Attacks](15-special-attacks.md#shock-attacks)
-  - [Two-handed Weapons](15-special-attacks.md#two-handed-weapons)
+  - [Two-Handed Weapons](15-special-attacks.md#two-handed-weapons)
   - [Wielding Two or More Weapons](15-special-attacks.md#wielding-two-or-more-weapons)
     - [Extra Melee Weapons](15-special-attacks.md#extra-melee-weapons)
     - [Extra Ranged Weapons](15-special-attacks.md#extra-ranged-weapons)
