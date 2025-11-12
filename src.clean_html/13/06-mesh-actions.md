@@ -25,7 +25,7 @@ Any user can take these actions, though high-security systems may restrict some 
 - **Modify Files:** You can view, change, upload, download, and delete any files you have access privileges for. Deleted files can still be recovered with an Interface Test for 1 week, though you can also choose to wipe (permanently delete) a file so that no recovery is possible; however, archived backups may also exist.
 - **Operate Device:** Most devices have built-in hardware and electronic functions that you can directly control. Turn on your vehicle, load an autocook blueprint, turn up the heat, turn off the sprinklers, open the door, set a timer, fire a weapon system, adjust settings, etc. At the GM’s discretion, some functions may require skill tests.
 - **Run Script:** Launch a pre-programmed script ([Scripting](#scripting)).
-- **Scan Wireless Signals:** It is a quick action to look up wireless devices within range and their mesh IDs. It takes a complex action to locate a [stealthed devices](04-devices-apps-and-links.md#stealthed-signals).
+- **Scan Wireless Signals:** It is a quick action to look up wireless devices within range and their mesh IDs. It takes a complex action to locate a [stealthed device](04-devices-apps-and-links.md#stealthed-signals).
 - **Search:** You may search a system you are accessing or the mesh at large ([Online Research](09-online-research.md)).
 - **Shield Software:** You may actively protect software that is targeted in [mesh combat](14-mesh-combat.md).
 - **Stealth Wireless Signals:** You can attempt to hide your wireless activity ([Stealthed Signals](04-devices-apps-and-links.md#stealthed-signals)).

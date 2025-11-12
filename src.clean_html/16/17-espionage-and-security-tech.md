@@ -10,7 +10,7 @@ This technology has many applications for Firewall agents.
 | Bugzapper Strips       |    Mod/2     | Portal EMP field, DV 3d10 \[17\] to nanoswarms/microswarms.                                  |
 | Chameleon Cloak        |    Mod/2     | Camouflage, +10 Infiltrate, +30 stationary.                                                  |
 | Covert Operations Tool |   Maj/R/3    | Bypasses locks, cuts/repairs holes, Hardware: Electronics 60 vs. electronic locks, more.     |
-| Cuffband               |    Min/1     | Electronic handcuffs, remote operation, shock attack DV 1d6 \[4\].                           |
+| Cuffband               |    Min/1     | Electronic handcuffs, remote operation, Shock DV 1d6 \[4\].                                  |
 | Dazzler                |    Mod/2     | Blinds cameras within 200&nbsp;m, REF Check or −30 Perceive for synthmorphs, bots, vehicles. |
 | Disabler               |   Mod/R/2    | Disables morphs with cyberbrain when plugged into access jacks.                              |
 | Fiber Eye              |    Min/1     | Flexible fiberoptic with camera and viewer.                                                  |
@@ -22,7 +22,7 @@ This technology has many applications for Firewall agents.
 | Privacy Pod            |    Maj/3     | Blocks sound/mesh signals, includes bug zapper, guardian swarm, life support (24 hours).     |
 | Psi Jammer             |    Mod/2     | Jams brainwave frequencies within 20&nbsp;m, −30 Psi Tests.                                  |
 | Quantum Computer       |    Maj/3     | Used for [codebreaking](../13/05-authentication-and-encryption.md#codebreaking).             |
-| Ripper                 |   Mod/R/2    | EMP pulse every 5 turns, DV 3d10 to nanoswarms/microswarms.                                  |
+| Ripper                 |   Mod/R/2    | EMP pulse every 5 turns, DV 3d10 \[17\] to nanoswarms/microswarms.                                  |
 | Shroud                 |   Mod/R/2    | Blocks ID methods, mesh signals.                                                             |
 | Traction Pads          |    Mod/2     | +30 climbing Athletic Tests.                                                                 |
 | White Noise Machine    |    Min/1     | Masks conversations from being recorded.                                                     |
@@ -64,7 +64,6 @@ The tool’s nanobots can also circumvent the security of electronic locks. Make
 
 **Invisibility Cloak:** This cloak is made of metamaterials with a negative refractive index. Electromagnetic and acoustic waves bend around it, making you invisible to such sensors (including sight and sonar). Apply −60 to Perceive Tests to detect you; attacks against you are [blind](../12/15-special-attacks.md#blind-attacks). Cloaking can be made one-way; you can transmit out on stealthed frequencies, but this can be used to detect you. You also still generate sounds. The cloak is tunable; you can pass specific frequency ranges (i.e., you can be stealthed to infrared but not radar). While stealthed, you are blind/deaf to the selected frequencies (and not meshed if you bypass radio). You can create a small window to see/transmit through, but this can be spotted with the right sensors and a Perceive Test at −30. If you do not pass thermal radiation (making you visible in infrared), prolonged stealthing (over an hour) can lead to overheating and penalties (GM discretion).
 
-
 **Microbug:** This micro-sized camera and microphone package is only 1 millimeter across. It records audio and visual from one section of the electromagnetic spectrum ([Senses and Sensors](07-senses-and-sensors.md)) — usually the visual spectrum. It is meshed and can be remote controlled, but can also be instructed to broadcast only at specific intervals or when it has received a special code. It can record 100 hours of surveillance. It can also be set to only record when movement or audio is detected. Microbugs have adhesive backs and can stick to almost any surface. Microbugs can also establish their location via mesh positioning or GPS, and so double as tracking devices. Microbugs are sometimes attached to [quantum farcasters](16-comms-and-mesh-gear.md#quantum-farcasters) to avoid their signals being detected or jammed.
 
 **Prisoner Mask:** This hood tightens around the head of a prisoner and blocks visual frequencies, so that even a prisoner with enhanced vision is blinded. The hood is also a faraday cage and engages in low-level jamming, cutting the prisoner off from the mesh. Masks are also equipped with headphones that when activated will block enhanced hearing.
@@ -73,7 +72,7 @@ The tool’s nanobots can also circumvent the security of electronic locks. Make
 
 **Psi Jammer:** This device jams frequencies used by brainwaves within a 20-meter radius. This has no effect on brain functions, but it does inflict a −30 modifier to any ranged use of psi sleights within this area of effect.
 
-**Quantum Computer:** These advanced desktop devices make use of quantum computation, allowing them to handle extremely large numbers with ease. This makes them especially useful for [codebreaking](../13/05-authentication-and-encryption.md#codebreaking).
+**Quantum Computer:** These advanced desktop devices make use of quantum computation, allowing them to handle extremely large numbers with ease. This makes them especially useful for [Codebreaking](../13/05-authentication-and-encryption.md#codebreaking).
 
 **Ripper:** When activated, this portable countersurveillance device generates an electromagnetic pulse every 5 action turns designed to damage the antennas of motes and nanoswarms. It is used to “rip” the sensors in an area, destroying their ability to wirelessly communicate and creating [dead zones](../13/19-surveillance-hacking.md#dead-zones). Rippers affect all motes/swarms within 20 meters. Motes must be repaired/replaced; nanoswarms and microswarms (including swarmanoids) suffer DV 3d10 per pulse.
 

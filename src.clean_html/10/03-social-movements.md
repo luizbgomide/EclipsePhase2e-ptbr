@@ -139,7 +139,7 @@ The goals of individual exhumans and groups differ, but they are known to someti
 - **The Sublime** seek to amplify their intelligence to god-like levels. Some are wary of machine intelligence, however, and the vulnerability to hacking. They’ve developed both morphs with massively augmented brains and minds built on networked and boosted cyberbrains. Some pursue xenobiology research, believing they’ve reached the functional limit of what a transhuman brain can achieve.
 - **Adaptives** develop morphs that can handle the most extreme of environments — surviving whatever the universe can throw their way. Most favor machines.
 - **Parasites** adapt themselves to survive hidden among transhumanity, preparing for the TITANs' return, when they hope to adapt to the TITANs as their new host.
-- **Soul Eaters** pursue apotheosis by cutting out the useful elements of other minds and merging it into their own.
+- **Soul Eaters** pursue apotheosis by cutting out the useful elements of other minds and merging them into their own.
 
 _Singularity seekers_ who pursue and study the TITANs and their technology are often associated with exhumans. They view the TITANs as gods that can be captured, studied, and emulated. However, most seekers do not enhance themselves or buy into exhuman dominance beliefs, so as a rule exhumans will mock, exclude, and/or take advantage of them.
 

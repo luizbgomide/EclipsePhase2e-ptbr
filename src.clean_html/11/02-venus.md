@@ -22,7 +22,7 @@ Below 7&nbsp;km altitude, any permanent structures on Venus are crewed by synthm
 
 Equipment goes into the lowlands, but mostly doesn’t come out, unless it’s returning with cargo. Mining and industrial sites on Venus are surrounded by eerie boneyards — morphs, bots, and machinery that broke down and weren’t worth retrieving.
 
-Though the surface has been mapped with radar, the clouds block monitoring from orbital and high-altitude cameras. Large swathes of the surface remain unvisited and unexplored. This makes it a useful, if inhospitable locale to avoid pying eyes. It also leads to rumors of hidden dangers, from exsurgents and TITANs to secret Factor operations.
+Though the surface has been mapped with radar, the clouds block monitoring from orbital and high-altitude cameras. Large swathes of the surface remain unvisited and unexplored. This makes it a useful, if inhospitable, locale to avoid pying eyes. It also leads to rumors of hidden dangers, from exsurgents and TITANs to secret Factor operations.
 
 ## Life in the Clouds
 

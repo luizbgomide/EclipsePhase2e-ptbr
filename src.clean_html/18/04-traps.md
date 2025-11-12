@@ -82,7 +82,7 @@ This simple trap is deployed on the surface of asteroids, small moons, or habita
 
 <!-- CLEANED /div -->
 
-These traps are placed on the hull of a habitat or ship that is pressurized against vacuum on the other side. A small explosive charge is triggered (or an airlock is blown), creating an explosive decompression effect through the hole. Characters in the immediate vicinity must make a REF Check to grab onto a fixed object or they are sucked out into space, where they will float away, spinning and suffering the effects of [vacuum](../12/29-hostile-environments.md#vacuum). Characters take a small amount of damage from the sudden decompression and the storm of debris sucked past them. GMs should increase the difficulty of this test and the DV depending on the size of the hole ([Blowing an Airlock](../15/11-ship-and-habitat-hacking.md#blowing-an-airlock)) and the nearby clutter. The explosion creating the hole may also inflict damage like a grenade, depending on whether it is shaped or not.
+These traps are placed on the hull of a habitat or ship that is pressurized against vacuum on the other side. A small explosive charge is triggered (or an airlock is blown), creating an explosive decompression effect through the hole. Characters in the immediate vicinity must make a REF Check to grab onto a fixed object or they are sucked out into space, where they will float away, spinning and suffering the effects of [Vacuum](../12/29-hostile-environments.md#vacuum). Characters take a small amount of damage from the sudden decompression and the storm of debris sucked past them. GMs should increase the difficulty of this test and the DV depending on the size of the hole ([Blowing an Airlock](../15/11-ship-and-habitat-hacking.md#blowing-an-airlock)) and the nearby clutter. The explosion creating the hole may also inflict damage like a grenade, depending on whether it is shaped or not.
 
 ### Freezer
 
@@ -126,7 +126,7 @@ Mines are effectively grenades placed with a trigger/sensor mechanism. Thermobar
 
 - **Concealment:** −30
 - **Disarm:** REF Check
-- **Effect:** DV 1d10 (walking)/3d10 (running), armor-piercing
+- **Effect:** DV 1d10 (walking)/3d10 (running), Armor-Piercing
 
 <!-- CLEANED /div -->
 

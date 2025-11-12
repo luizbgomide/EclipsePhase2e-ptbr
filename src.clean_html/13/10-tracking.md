@@ -10,7 +10,7 @@ For people who do not freely disclose their location, the following rules apply.
 
 ### Tracing by Mesh ID
 
-To track the current or last known physical location of a [mesh ID](05-authentication-and-encryption.md#mesh-id) requires a Research Test. If successful, the results are returned instantly if the target is within the local mesh region; targets further away may take longer, as dictated by distance lag. Superior successes may fine-tune the location or provide supplementary details such as live sensor footage.
+To track the current or last known physical location of a [Mesh ID](05-authentication-and-encryption.md#mesh-id) requires a Research Test. If successful, the results are returned instantly if the target is within the local mesh region; targets further away may take longer, as dictated by distance lag. Superior successes may fine-tune the location or provide supplementary details such as live sensor footage.
 
 If the target is in [privacy mode](01-everyware.md#privacy-mode), apply a −30 modifier to this test. If the target is actively disguising their activity by spoofing mesh IDs or cycling through false mesh IDs, this becomes an opposed test pitting Research against the target’s Infosec skill, with a timeframe of 1 hour. If the target is using an anonymizing service, they can only be tracked back to the service itself ([Anonymizer](../16/04-services.md#mesh-services)).
 

@@ -35,13 +35,13 @@ This ware improves your morph’s sensory capabilities.
 
 **Electrical Sense:** You can sense electric fields. Within 5 meters, you can tell if a device is on or off and can detect the precise location of electrical wiring and power supplies behind a wall or inside a device.
 
-**Enhanced Hearing:** The morph’s ears can hear both higher and lower frequency sounds — the range of sounds they can hear is twice that of normal human ears ([Senses and Sensors](07-senses-and-sensors.md)). Your hearing is also more sensitive, allowing you to hear sounds as if you are 5 times closer. Apply a +10 to hearing-based Perceive Tests.
+**Enhanced Hearing:** The morph’s ears can hear both higher and lower frequency sounds — the range of sounds they can hear is twice that of normal human ears. Your hearing is also more sensitive, allowing you to hear sounds as if you are 5 times closer. Apply a +10 to hearing-based Perceive Tests.
 
 **Enhanced Smell:** The morph’s sense of smell is equal to that of a bloodhound. You can identify both chemicals and individuals by smell and can track people and chemically reactive objects by odor as long as the trail was made within the last several hours and has not been obscured. Apply a +10 to smell-based Perceive Tests. You can also gain a general sense of the emotions and health of biological characters within point-blank range (+10 to Kinesics Tests).
 
-**Enhanced Vision:** The morph’s eyes have tetrachromatic vision capable of exceptional color differentiation. These eyes can also see the electromagnetic spectrum from terahertz wave frequencies to gamma rays, enabling them to see a total of several dozen colors, instead of the seven ordinary human eyes can perceive ([Senses and Sensors](07-senses-and-sensors.md)). In addition, these eyes have a variable focus equivalent to 5 power magnifiers or binoculars. You can also selectively filter what frequencies you perceive to avoid minor distractions on those wavelengths. This augmentation provides a +10 modifier to all Perceive Tests involving vision.
+**Enhanced Vision:** The morph’s eyes have tetrachromatic vision capable of exceptional color differentiation. These eyes can also see the electromagnetic spectrum from terahertz wave frequencies to gamma rays, enabling them to see a total of several dozen colors, instead of the seven ordinary human eyes can perceive. In addition, these eyes have a variable focus equivalent to 5 power magnifiers or binoculars. You can also selectively filter what frequencies you perceive to avoid minor distractions on those wavelengths. This augmentation provides a +10 modifier to all Perceive Tests involving vision.
 
-**Lidar:** This sensor scans the area with laser light and measures the reflections to judge range, speed, and image the target ([Senses and Sensors](07-senses-and-sensors.md)). Lidar lasers are visible to enhanced vision, and are considered rude to continually emit in certain company.
+**Lidar:** This sensor scans the area with laser light and measures the reflections to judge range, speed, and image the target. Lidar lasers are visible to enhanced vision, and are considered rude to continually emit in certain company.
 
 **Nanoscopic Vision:** The shell’s visual sensors can focus like a microscope, using advanced superlens techniques to beat the optical diffraction limit and image objects as small as a nanometer. This allows the character to view and analyze objects as small as blood cells and even individual nanobots. The synthmorph must stay steady to view objects at this scale, and the range is quite limited (less than a meter).
 
@@ -49,12 +49,12 @@ This ware improves your morph’s sensory capabilities.
 
 **Polarization Vision:** You can perceive polarized light, which reveals characteristics such as contrast and patterns. This allows you to negate modifiers for camouflage (such as from chameleon skin or smart clothes).
 
-**Radar:** This sensor system bounces radio or microwaves off targets and measures the reflected waves to judge size, composition, and motion ([Senses and Sensors](07-senses-and-sensors.md)).
+**Radar:** This sensor system bounces radio or microwaves off targets and measures the reflected waves to judge size, composition, and motion.
 
 **Radiation Sense:** You can sense the presence and approximate source of all forms of dangerous radiation, including neutrons, charged particles, and cosmic rays.
 
-**Sonar:** You possess echolocation like a bat or dolphin. You bounce ultrasonic pulses off your surroundings and measure the echoes to build an image of the environment ([Senses and Sensors](07-senses-and-sensors.md)). This augmentation works in both air and water, out to a range of 20 (air) or 100 (water) meters.
+**Sonar:** You possess echolocation like a bat or dolphin. You bounce ultrasonic pulses off your surroundings and measure the echoes to build an image of the environment. This augmentation works in both air and water, out to a range of 20 (air) or 100 (water) meters.
 
-**T-Ray Emitter:** Mounted under the skin of the user’s forehead, this implant generates low-powered beams of terahertz radiation (t-rays). Characters with enhanced vision can use reflected t-rays to see effectively see through walls and other materials ([Senses and Sensors](07-senses-and-sensors.md)). This implant allows the user to see using reflected t-rays for 20 meters in a normal atmosphere and for 100 meters in vacuum.
+**T-Ray Emitter:** Mounted under the skin of the user’s forehead, this implant generates low-powered beams of terahertz radiation (t-rays). Characters with enhanced vision can use reflected t-rays to see effectively see through walls and other materials. This implant allows the user to see using reflected t-rays for 20 meters in a normal atmosphere and for 100 meters in vacuum.
 
 <!--sort-end-->

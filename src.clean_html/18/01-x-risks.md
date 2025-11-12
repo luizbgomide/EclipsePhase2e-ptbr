@@ -1,15 +1,5 @@
 # X-Risks
 
-<!-- CLEANED blockquote -->
-
-## Danger Ahead
-
-This chapter is a toolbox for GMs, providing a roster of dangers, monsters, and machines with which you can challenge your players.
-
-If you’re a player and not a GM, we strongly recommend you skip this chapter — the material here may be more enjoyable to learn about as a character during gameplay. You may decide to read it anyway, but be warned that this makes you a candidate for running the game in the future!
-
-<!-- CLEANED /blockquote -->
-
 Many Eclipse Phase campaigns focus around x-risks: dangers to transhumanity’s very existence. Firewall in particular is concerned with the potential extinction of transhumanity — as well as smaller-scale threats to a planet or habitat’s entire population. Gatecrashers are also prone to stumbling into unexpectedly hostile situations or unleashing monstrous dangers, perhaps driving them to resolve it if not just survive it. Even criminal groups may find themselves dealing with WMDs or incalculably dangerous TITAN relics — not to mention the consequences when things go wrong. Whether the team is struggling to end a threat or make a buck off it, x-risks can define a campaign.
 
 Some of the x-risks that characters are liable to encounter (or cause).

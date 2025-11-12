@@ -56,7 +56,7 @@ Interest fields includes specialized knowledge in any topic that might be consid
 
 Use Interest fields whenever you need to recall or use knowledge related to that particular subject.
 
-- **Sample Fields:** Celebrities, Conspiracies, Factors, Exhumans, Exoplanet Colonies, Gambling, Hypercorp Politics, Lunar Habitats, Martian Beers, Morphs, Reclaimer Blogs, Scum Drug Dealers, Spaceship Models, Strategy Games, TITAN Tech, Triad Economics, Transhuman Factions, Underground XP, VR Games
+- **Sample Fields:** Celebrities, Conspiracies, Factors, Exhumans, Exoplanet Colonies, Gambling, Hypercorp Politics, Lunar Habitats, Martian Beers, Morphs, Reclaimer Blogs, Scum Drug Dealers, Spaceship Models, Strategy Games, TITAN Tech, Transhuman Factions, Triad Economics, Underground XP, VR Games
 - **Specializations:** As appropriate to the field
 
 <!-- CLEANED /div -->

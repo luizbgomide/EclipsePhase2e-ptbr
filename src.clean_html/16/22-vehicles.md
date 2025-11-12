@@ -103,7 +103,7 @@ Exoskeletons are worn powered mechatronic frames that enhance your physical capa
 <tr><td>Atlas Loader<td>Rare/—<td>1<td>+2<td>0<td>+10/+12<td>20<td>100<td>200<td>Walker 4/20<td>VL</tr>
 <tr><td colspan="11"><!-- CLEANED div class="indent" -->
 
-- **Notes:** +2 Vigor, +2d10 melee, armor-piercing
+- **Notes:** +2 Vigor, +2d10 melee, Armor-Piercing
 
 <!-- CLEANED /div --></tr>
 

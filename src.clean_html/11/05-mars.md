@@ -94,4 +94,4 @@ Less dramatic than the other places I’ve mentioned, and often forgotten, are t
 
 <!-- CLEANED /div -->
 
-Qing Long (Azure Dragon) is the largest cylinder in the Solar System, home to 2 million people, and also one of the oldest. Founded as part of the Chinese effort to colonize Mars, Qing Long is now an independent habitat with a transitional economy. In reality, the habitat is a notorious criminal haven with its administration beholden to the triads. Though the14K triad is dominant, other cartels also have a presence, and they cooperate just enough to maintain a thriving grey and black market.
+Qing Long (Azure Dragon) is the largest cylinder in the Solar System, home to 2 million people, and also one of the oldest. Founded as part of the Chinese effort to colonize Mars, Qing Long is now an independent habitat with a transitional economy. In reality, the habitat is a notorious criminal haven with its administration beholden to the triads. Though the 14K triad is dominant, other cartels also have a presence, and they cooperate just enough to maintain a thriving grey and black market.

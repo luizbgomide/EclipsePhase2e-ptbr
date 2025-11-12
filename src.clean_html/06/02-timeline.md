@@ -110,6 +110,6 @@
 - A number of Venusian aerostats and habitats break from the Planetary Consortium over disagreements on terraforming Venus. These separatists form the Morningstar Constellation.
 - An explosion destroys the Discord Gate, but it reforms over several weeks. A group of exhumans briefly takes control of it before Go-nin and Ultimate re-establishes control with the aid of Ultimate mercenaries. Exhuman attacks on and through the gate continue regularly.
 
-## 10 AF
+## AF 10
 
 - Present day.

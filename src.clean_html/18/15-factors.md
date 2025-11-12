@@ -86,12 +86,12 @@ Ambassadors are bio-engineered to interact with transhumanity. They are distingu
 
 ---
 
-- **Factor Dust:** 45, Range 5, cone area effect. Toxin: Inhalation, Onset Time: 1 action turn, Duration: 5 turns/2 hours; victims suffer severe coughing and respiratory distress, DV 1d10 per turn for 5 action turns, SOM Check or impaired (−20) for 2 hours.
-- **Implanted Agonizer:** 40, SA, Range 20, Ammo 15, pain; roast mode: DV 2d10, SS, armor-piercing, pain
+- **Factor Dust:** 45, Range 5, Cone area effect. Toxin: Inhalation, Onset Time: 1 action turn, Duration: 5 turns/2 hours; victims suffer severe coughing and respiratory distress, DV 1d10 per turn for 5 action turns, SOM Check or impaired (−20) for 2 hours.
+- **Implanted Agonizer:** 40, SA, Range 20, Ammo 15, Pain; Roast mode: DV 2d10, SS, Armor-Piercing, Pain
 
 ---
 
-- **Perceive:** 50, 60 infrared
+- **Perceive:** 50, 60 Infrared
 - **Move:** Walker (Slow 4/12)
 
 ---
@@ -106,11 +106,11 @@ Ambassadors are bio-engineered to interact with transhumanity. They are distingu
 
 ---
 
-- **Immunity to Kinetic Damage:** Factors take the minimum DV from blades and kinetic weapons
-- **Immunity to Psi:** Factors are immune to psi sleights
-- **Implanted Plasma Grenade:** DV 3d10 + 10, armor-piercing, centered blast area effect
-- **Melding:** Factors may meld together into larger forms; treat as [modular design](../16/11-physical-augmentations.md)
-- **Regeneration:** Factors regenerate 2 damage per action turn; wounds may not be regenerated
+- **Immunity to Kinetic Damage:** Factors take the minimum DV from blades and kinetic weapons.
+- **Immunity to Psi:** Factors are immune to psi sleights.
+- **Implanted Plasma Grenade:** DV 3d10 + 10, Armor-Piercing, Centered Blast area effect.
+- **Melding:** Factors may meld together into larger forms; treat as [modular design](../16/11-physical-augmentations.md).
+- **Regeneration:** Factors regenerate 2 damage per action turn; wounds may not be regenerated.
 
 <!-- CLEANED /blockquote -->
 
@@ -146,13 +146,13 @@ Guardians serve as bodyguards for ambassador phenotypes outside the ship.
 ---
 
 - **Eelware:** 70, DV 1d6, Shock, Touch-Only
-- **Factor Dust:** 65, Range 5, cone area effect. Toxin: Inhalation, Onset Time: 1 action turn, Duration: 5 turns/2 hours; victims suffer severe coughing and respiratory distress, DV 1d10 per turn for 5 action turns, SOM Check or impaired (−20) for 2 hours.
-- **Laser:** 60, DV 4d10, SA/BF/FA, Ammo 50, Range 120, knockdown, two-handed. These weapons only work for Factors. May be set to self-destruct, inflicting DV 8d10 + 10, armor-piercing, centered blast area effect, knockdown.
+- **Factor Dust:** 65, Range 5, Cone area effect. Toxin: Inhalation, Onset Time: 1 action turn, Duration: 5 turns/2 hours; victims suffer severe coughing and respiratory distress, DV 1d10 per turn for 5 action turns, SOM Check or impaired (−20) for 2 hours.
+- **Laser:** 60, DV 4d10, SA/BF/FA, Ammo 50, Range 120, Knockdown, Two-Handed. These weapons only work for Factors. May be set to self-destruct, inflicting DV 8d10 + 10, Armor-Piercing, Centered Blast area effect, Knockdown.
 - **Tentacle Whip:** 60, DV 2d10 + 2
 
 ---
 
-- **Perceive:** 50, 60 infrared
+- **Perceive:** 50, 60 Infrared
 - **Move:** Walker (Medium 4/20)
 
 ---
@@ -167,7 +167,7 @@ Guardians serve as bodyguards for ambassador phenotypes outside the ship.
 
 ---
 
-- **Immunity to Kinetic Damage:** Factors take the minimum DV from blades and kinetic weapons
-- **Immunity to Psi:** Factors are immune to psi sleights
-- **Melding:** Factors may meld together into larger forms; treat as [modular design](../16/11-physical-augmentations.md)
-- **Regeneration:** Factors regenerate 2 damage per action turn; wounds may not be regenerated
+- **Immunity to Kinetic Damage:** Factors take the minimum DV from blades and kinetic weapons.
+- **Immunity to Psi:** Factors are immune to psi sleights.
+- **Melding:** Factors may meld together into larger forms; treat as [modular design](../16/11-physical-augmentations.md).
+- **Regeneration:** Factors regenerate 2 damage per action turn; wounds may not be regenerated.

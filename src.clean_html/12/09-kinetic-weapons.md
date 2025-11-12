@@ -19,7 +19,7 @@ Kinetic weapons fire hard-impact projectiles at high velocities to damage the ta
 
 ## Firearms
 
-Modern chemical firearms use caseless smart ammunition that is auto-loaded from a magazine. They are effectively recoilless (thanks to rheological smart fluid mechanisms) and electronically fired (an electric charge vaporizes the propellant, using the expanding steam and plasma to eject and accelerate the projectile).
+Modern chemical firearms use caseless ammunition that is auto-loaded from a magazine. They are effectively recoilless (thanks to rheological smart fluid mechanisms) and electronically fired (an electric charge vaporizes the propellant, using the expanding steam and plasma to eject and accelerate the projectile).
 
 **Pistol:** Holdout pistols sacrifice penetrating ability for concealability. Heavy pistols focus on stopping power, with medium pistols occupying a middle ground. Machine pistols use smaller caliber rounds but provide larger magazines for automatic firing.
 
@@ -88,7 +88,7 @@ This ammunition can only be used with firearms, not railguns. It is acquired in 
 
 **Bug:** Bug rounds are equipped with a microbug and medical sensor nanobots. They attempt to gather information on the target’s location (via standard mesh tracking), health (querying the target’s medichines), and surroundings (typically hindered by being inside the target’s body). They will transmit status reports in a pre-programmed manner via the mesh or a pre-chosen frequency band either continuously or in pre-set intervals.
 
-**Capsule:** Capsule ammo carries one dose of a drug, toxin, or nanobot payload (acquired separately) that is released inside the target after the round penetrates. Each dose may distributed among multiple capsule shots (max. 20), but that many shots must strike the target for the dose to take effect.
+**Capsule:** Capsule ammo carries one dose of a drug, toxin, or nanobot payload (acquired separately) that is released inside the target after the round penetrates. Each dose may be distributed among multiple capsule shots (max. 20), but that many shots must strike the target for the dose to take effect.
 
 **Hollow-Point:** Hollow-point bullets deform, widen, and fragment once they penetrate a target, inflicting more damage to soft targets like biomorphs. They do not provide extra damage to synthmorphs or objects.
 

@@ -1,6 +1,6 @@
 # Seeker Weapons & Grenades
 
-Seeker weapons are a combination of automatic grenade launcher, micromissile, coilgun, and smart munitions technology in personal weapon sizes. Seeker rounds are fired at high-velocity via rings of magnetic coils, after which the micromissile or minimissile uses scramjets or solid-fuel rockets to propel itself and maintain high velocities over great distances. Seekers are fired using Guns skill.
+Seeker weapons are a combination of automatic grenade launcher, micromissile, coilgun, and smart munitions technology in personal weapon sizes. Seeker rounds are fired at high velocity via rings of magnetic coils, after which the micromissile or minimissile uses scramjets or solid-fuel rockets to propel itself and maintain high velocities over great distances. Seekers are fired using Guns skill.
 
 | SEEKER WEAPONS      | Firing Modes |    Ammo    | Range | Comp/<!-- CLEANED wbr -->GP | Notes                                  |
 | :------------------ | :----------: | :--------: | :---: | :----------: | :------------------------------------- |

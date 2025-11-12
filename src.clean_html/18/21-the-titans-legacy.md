@@ -34,7 +34,7 @@ In game terms, the TITANs are not given stats. They are as potent as the GM need
 
 ## TITAN Nanoviruses
 
-The TITANs unleashed a number of biowar plagues during the Fall. Similar to the exsurgent virus, these were spread as biological pathogens or nanoplagues. Nanoplagues function as [nanoswarms](../16/20-nanoswarms-and-microswarms.md); anyone exposed is subject to their effects. Biological pathogens function as other pathogens; exposed biomorphs must make a SOM Check or become infected. Due to the advanced nature of TITAN biowar bugs, the SOM Check to resist infection usually suffers a −30 modifier (GM discretion). Medichines and nanophages provide a +10 modifier for the SOM Check when exposed, but toxin filters have no effect.
+The TITANs unleashed a number of biowar plagues during the Fall. Similar to the exsurgent virus, these were spread as biological pathogens or nanoplagues. Nanoplagues function as [nanoswarms](../16/20-nanoswarms-and-microswarms.md); anyone exposed is subject to their effects. Biological pathogens function as other drugs and toxins; exposed biomorphs must make a SOM Check or become infected. Due to the advanced nature of TITAN biowar bugs, the SOM Check to resist infection usually suffers a −30 modifier (GM discretion). Medichines and nanophages provide a +10 modifier for the SOM Check when exposed, but toxin filters have no effect.
 
 ### Melder
 

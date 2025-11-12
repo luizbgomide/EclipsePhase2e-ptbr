@@ -106,7 +106,7 @@ Keep track of this total on the character sheet. If the accumulated damage equal
 
 ## Step 9: Determine Wounds
 
-If the inflicted damage, less armor, from a single attack equals or exceeds the defender’s Wound Threshold, they suffer one or more [wounds](16-physical-health.md#wounds). A wound is scored for each multiple of the Wound Threshold that the damage exceeds. For example, against Wound Threshold 7, 1 wound is inflicted for every 7 points of damage inflicted at once (14 damage inflicts 2 wounds, 21 damage inflicts 3 wounds, etc.) Wounds represent more serious injuries and apply modifiers and other effects to the character.
+If the inflicted damage, less armor, from a single attack equals or exceeds the defender’s Wound Threshold, they suffer one or more [wounds](16-physical-health.md#wounds). A wound is scored for each multiple of the Wound Threshold that the damage exceeds. For example, against Wound Threshold 7, 1 wound is inflicted for every 7 points of damage inflicted at once (14 damage inflicts 2 wounds, 21 damage inflicts 3 wounds, etc.). Wounds represent more serious injuries and apply modifiers and other effects to the character.
 
 <!-- CLEANED blockquote -->
 
@@ -120,7 +120,7 @@ The exhuman has Fray of 60, but against a ranged attack this is halved.
 
 The GM rolls against a target of 30. They get a 07, which would be a success, except that Jinx’s roll of 69 is higher. Jinx hits!
 
-Jinx’s medium pistol inflicts DV 2d10. Jinx was using [burst-fire](04-ranged-combat.md#firing-modes) for extra damage (+d10), and her two superior successes gives her another 2d6, for a total DV of 3d10 + 2d6. She rolls a 7, 5, 5, 1, and 3, for a total damage of 21.
+Jinx’s medium pistol inflicts DV 2d10. Jinx was using [burst fire](04-ranged-combat.md#firing-modes) for extra damage (+d10), and her two superior successes gives her another 2d6, for a total DV of 3d10 + 2d6. She rolls a 7, 5, 5, 1, and 3, for a total damage of 21.
 
 The exhuman has kinetic armor of 10, so only 11 of that damage gets through (21 − 10). They have a Wound Threshold of 8, so that inflicts a wound! Looking at the section on [wound effects](16-physical-health.md#wound-effects), the GM sees that the exhuman must make a SOM Check or get knocked down. They roll a 09 against a SOM check of 75, so the exhuman stays on their feet.
 

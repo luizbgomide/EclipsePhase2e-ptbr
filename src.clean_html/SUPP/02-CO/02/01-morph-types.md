@@ -55,7 +55,7 @@ Each flexbot is considered a single entity for rules purposes, no
 matter how many modules it has. Apply the following rules:
 
 - Choose one module to hold the ego — this one controls the others.
-- (Dis)connecting a module is a complex action and requires an [Integration Test](../../../15/02-resleeving.md#integration-test) (_EP2_). Modules not physically connected are handled as a [remote operation](../../../16/21-robots.md#remote-operations) (_EP2_).
+- (Dis)connecting a module is a complex action and requires an [Integration Test](../../../15/02-resleeving.md#integration-test) (_EP2_). Modules that are not physically connected are handled as a [remote operation](../../../16/21-robots.md#remote-operations) (_EP2_).
 - When modules are combined, use their combined pools.
 - Modules must all be using the same mobility system or Movement Rate is halved.
 - A flexbot with 3–4 modules is medium-sized; 5–9 large; 10 or more very large.

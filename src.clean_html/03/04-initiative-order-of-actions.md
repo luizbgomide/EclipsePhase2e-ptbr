@@ -16,7 +16,7 @@ You may spend [Vigor](05-pools.md#vigor) to go first in Initiative order. You ma
 
 You may choose to delay until later in the Initiative order. You can specify when you want to act (before or after another character, for example), a specific condition that will cause you to act (i.e., if someone attacks you), or simply go on standby. You can interrupt another character acting later in the Initiative order once they have declared their action and go before them. You may interrupt another between their actions or before they take an extra action.
 
-Once you act, your place in the Initiative order in subsequent turns becomes the count on which you took the delayed action. If you delay past the end of the turn and into the next, your Initaitive order will change, but you will only get your delayed action that turn.
+Once you act, your place in the Initiative order in subsequent turns becomes the count on which you took the delayed action. If you delay past the end of the turn and into the next, your Initiative order will change, but you will only get your delayed action that turn.
 
 If multiple characters delay and choose to act at the same time, the one with the lowest Initiative roll must declare their action first, and the higher Initiative character can choose to interrupt or go after.
 

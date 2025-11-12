@@ -32,9 +32,9 @@ ALIs cannot default; if they don’t possess a skill, they can’t use it. They 
 
 ALIs do not get pools, unless a morph, bot, vehicle, or other device they are operating provides them.
 
-By design, ALIs are incapable of self-improvement. To acquire or improve a skill, they must be reprogrammed or use skillware. They do not earn Rez Points.
+By design, ALIs are incapable of self-improvement. To acquire or improve a skill, they must be reprogrammed or equipped skillware. They do not earn Rez Points.
 
-For all other rules, ALIs are treated as [infomorphs](08-infomorphs.md).
+For all other rules, ALIs are treated as [Infomorphs](08-infomorphs.md).
 
 ### Traits
 
@@ -50,7 +50,7 @@ Most bot/vehicle/device ALIs are hard-coded in as firmware (effectively “sleev
 
 ## Muses
 
-Muses are a subtype of ALI designed to be personal aides and companions. Most transhumans grew up with a muse at their virtual side. Muses have more personality and psychological programming than standard ALIs and over time they build up an extensive database of their user’s preferences, likes and dislikes, and personality quirks so that they may more effectively be of service and anticipate needs. Most muses reside within their owner’s mesh inserts or ecto, where they can manage their owner’s PAN, communications, online searches, rep interactions, and other mesh activity.
+Muses are a personal aid and companion subtype of ALI. Most transhumans grew up with a muse at their virtual side. Muses have more personality and psychological programming than standard ALIs and over time they build up an extensive database of their user’s preferences and quirks to more effectively be of service and anticipate needs. Most muses reside in their owner’s mesh inserts or ecto, where they can manage their owner’s PAN, communications, online searches, rep interactions, and other mesh activity.
 
 ### Personality and Relationships
 
@@ -60,7 +60,7 @@ Transhumans develop strong bonds to their muses due to their omnipresence and de
 
 ### What Your Muse Can Do for You
 
-The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things. This can be quite handy during time crunches or chaotic situations — it is otherwise quite inconvenient when you need to google something in the middle of a firefight. If you are not skilled in Infosec and don’t have or trust a team hacker, your muse can also act as your PAN’s [system defender](12-countermeasures.md#system-defender). Its important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../03/01-how-to-play.md#teamwork).
+The primary use for muses is to handle trivial online tasks, thus freeing you up for more important things. This can be quite handy during time crunches or chaotic situations — it is otherwise quite inconvenient when you need to google something in the middle of a firefight. If you are not skilled in Infosec and don’t have or trust a team hacker, your muse can also act as your PAN’s [system defender](12-countermeasures.md#system-defender). It’s important to remember that muses can also assist you in certain tasks, providing a [teamwork bonus](../03/01-how-to-play.md#teamwork).
 
 Here are a few specific examples of tasks your muse can take on:
 
@@ -98,7 +98,7 @@ Some people prefer full-blown intelligences for aid and companionship over a mus
 
 ## Roleplaying Muses
 
-Muses provide boundless roleplaying opportunities. GMs can use them to remind, nag, encourage, or pester PCs — no one is ever really alone. If you find it overwhelming to keep track of the PCs’ muses and their personalities, have the players roleplay each others’ muses. Simply give each player an index card with the muse’s skills and personality notes; hold the card up when roleplaying as the muse. This can also be a useful tool for keeping players involved in a scene when the party splits up and their own PCs are busy elsewhere.
+Muses provide boundless roleplaying opportunities. GMs can use them to remind, nag, encourage, or pester PCs — no one is ever really alone. If you find it overwhelming to keep track of the PCs’ muses and their personalities, have the players roleplay each others’ muses. Give each player an index card with the muse’s skills and personality notes; hold the card up when roleplaying as the muse. This can be a useful tool for keeping players involved in a scene when the party splits up and their own PCs are busy elsewhere.
 
 <!-- CLEANED /blockquote -->
 

@@ -330,10 +330,10 @@ Flexbots are modular and customizable, each composed of one or more modules that
 
 ## Flexbot Rules
 
-Each flexbot is considered a single entity for rules purposes, no matter how many modules it has. Though the full range of flexbot possibilities is beyond the scope of this book, apply the following rules and keep an eye on past and future Eclipse Phase supplements:
+Each flexbot is considered a single entity for rules purposes, no matter how many modules it has. For additional modules and rules on handling flexbots, see our [Character Options](../SUPP/02-CO/00-character-options.md) and [Flexbot Confidential](../SUPP/03-FC/00-flexbot-confidential.md) supplements.
 
 - Choose one module to hold the ego — this module controls the others.
-- (Dis)connecting a module is a complex action and requires an [Integration Test](../15/02-resleeving.md#integration-test). Modules not physically connected are handled as [remote operation](../16/21-robots.md#remote-operations).
+- (Dis)connecting a module is a complex action and requires an [integration test](../15/02-resleeving.md#integration-test). Modules that are not physically connected are handled as [remote operation](../16/21-robots.md#remote-operations).
 - When modules are combined, use their combined pools.
 - Modules must all be using the same mobility system or Movement Rate is halved.
 - A flexbot with 3–4 modules is medium-sized; 5–9 large; 10 or more very large.

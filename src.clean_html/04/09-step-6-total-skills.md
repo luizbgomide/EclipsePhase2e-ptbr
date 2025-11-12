@@ -1,14 +1,8 @@
 # Step 6: Total Skills
 
-Combine all of the skills from Steps 1–4 and write them on your character sheet.
+Combine the skills from Steps 1–4 on your character sheet. If you acquired the same skill more than once, either add those points together or apply the additional points to another skill of your choosing. Also, feel free to switch skills for other skills of the same value. Note that points for Know skills may only be used for other Know skills. Active skill points may be used for either Active or Know skills.
 
-If a character acquired the same skill more than once, those points may be added together or the additional points may be applied to any other skill of the player’s choosing. Note that points for Know skills may only be used for other Know skills; however, points for Active skills may be used for either Active or Know skills.
-
-Next, add the base aptitude values to their linked skills. Note that the skills of Fray and Perceive have base values equal to their aptitude × 2.
-
-No final skill total (including aptitude) may exceed 80. Any points over 80 must be applied to another skill of the player’s choosing. Again, Know skill points may only be used for other Know skills.
-
-Players should feel free to switch their skills for any other skills as long as the number of points remains the same, and as long as Know skill points only go toward other Know skills.
+Next, add the base aptitude values to their linked skills. The skills of Fray and Perceive have base values equal to their aptitude × 2. No final skill total (including aptitude) may exceed 80. Apply points over 80 to another skill. Know skill points must roll over to other Know skills.
 
 We suggest keeping aptitudes and skills in multiples of 5 for simplicity, but this is not a requirement.
 

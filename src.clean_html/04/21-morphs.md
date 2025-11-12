@@ -6,7 +6,7 @@ The morphs here represent a fraction of the sleeves and shells available to char
 
 - **Movement Rate:** The mobility system used and distance covered ([Movement](../12/24-movement.md)).
 - **Ware:** Bioware, cyberware, hardware, meshware, and/or nanoware the morph is equipped with ([starting on Gear](../16/05-common-tech-and-ware.md)).
-- **Morph Traits:** Traits that each morph of this type has ([Traits](28-traits.md)).
+- **Morph Traits:** Each morph of this type has these ([Traits](28-traits.md)).
 - **Common Extras:** Prevalent but not baseline traits or ware for the morph type. These are not included in the MP cost and must be acquired separately.
 
 <!-- CLEANED /div -->

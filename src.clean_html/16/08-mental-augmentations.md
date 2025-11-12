@@ -63,4 +63,4 @@ Skillsofts are used with [skillware implants](#mental-augmentations).
 | :-------- | :----------: | :-------------------------------------- |
 | Skillsoft |    Mod/2     | Active skill at 40 or Know skill at 80. |
 
-**Skillsoft:** These are skills encoded in software form. Used with a skillware system, they provide you with a rating of up to 40 in a single active skill or 80 in a Know skill (your aptitudes do not effect this rating; if you already possess the skill, use the highest value).
+**Skillsoft:** These are skills encoded in software form. Used with a skillware system, they provide you with a rating of up to 40 in a single active skill or 80 in a Know skill (your aptitudes do not affect this rating; if you already possess the skill, use the highest value).

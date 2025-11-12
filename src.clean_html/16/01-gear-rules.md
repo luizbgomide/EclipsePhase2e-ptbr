@@ -47,11 +47,11 @@ Gear uses the same sizing as morphs ([Sizes](../12/21-other-action-factors.md#si
 
 ## Concealing Gear
 
-To hide an object from others, use Infiltrate or Exotic Skill: Sleight of Hand skill. This is opposed by Perceive. Objects with the Concealable trait add a +30 modifier. If the searcher is conducting a thorough physical search, treat as a task action and apply a modifier if they [take extra time](../03/03-actions-and-time.md#taking-time).
+To hide an object from others, use Infiltrate or Exotic Skill: Sleight of Hand skill. This is opposed by Perceive. Objects with the Concealable trait add a +30 modifier. If the searcher is conducting a thorough physical search, treat it as a task action and apply a modifier if they [take extra time](../03/03-actions-and-time.md#taking-time).
 
 ## Meshed Gear
 
-Most technology is wirelessly meshed with other devices around it ([The Mesh](../13/00-the-mesh.md)). They contain a miniaturized computer, a wireless transceiver, and possibly laser or microwave links and/or various sensors. They can be [tracked via the mesh](../13/10-tracking.md#tracing-by-mesh-id), and are vulnerable to hacking and intrusion attempts, though protected by their [firewall](../13/12-countermeasures.md#firewall) and device [ALI](../13/07-ais-and-muses.md). For privacy and security, most people puppet their carried and worn devices that make up their personal area network (PAN) to their mesh inserts or ecto ([Puppeted Devices](../13/02-mesh-topology.md#puppeted-devices)).
+Most technology is wirelessly meshed with other devices around it ([The Mesh](../13/00-the-mesh.md)). They contain a miniaturized computer, a wireless transceiver, and possibly laser or microwave links and/or various sensors. They can be [tracked via the mesh](../13/10-tracking.md#tracing-by-mesh-id), and are vulnerable to hacking and intrusion attempts, though protected by their [Firewall](../13/12-countermeasures.md#firewall) and device [ALI](../13/07-ais-and-muses.md). For privacy and security, most people puppet their carried and worn devices that make up their personal area network (PAN) to their mesh inserts or ecto ([Puppeted Devices](../13/02-mesh-topology.md#puppeted-devices)).
 
 The Radio and Sensor Ranges table notes what range these devices operate at.
 

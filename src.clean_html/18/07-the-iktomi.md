@@ -43,11 +43,11 @@ Despite their advanced age, some Iktomi ruins are guarded by still-functioning g
 
 - **Adjustable Laser Pulser:** 60, DV 2d10 + 2, SA/BF/FA, Range 50, Ammo 30, may increase damage +1d10&nbsp;DV per shot by consuming 1 extra ammo, to a maximum of +5d10&nbsp;DV
 - **Claw:** 60, DV 4d6 + 3
-- **Leg Spike:** 70, DV 3d10 + 4, armor-piercing
+- **Leg Spike:** 70, DV 3d10 + 4, Armor-Piercing
 
 ---
 
-- **Perceive:** 40, 50 hearing/vision
+- **Perceive:** 40, 50 Hearing/Vision
 - **Move:** Roller (Fast 8/32), Walker (Medium 4/20)
 
 ---

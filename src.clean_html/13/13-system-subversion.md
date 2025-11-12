@@ -14,7 +14,7 @@ You can attempt to decrypt an encrypted file without proper authorization ([Code
 
 ## Control Ware
 
-If hacking mesh inserts, a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), or a PAN’s master node, you will have privileged access to a morph’s ware — not to mention hacking the ware directly. A hacker can use this to (de)activate the ware, modify its functioning parameters, access diagnostics and usage logs, or install [scripts](06-mesh-actions.md#scripting) to manipulate this ware in the future, among other creative uses.
+If hacking mesh inserts, a cyberbrain ([Mindware Hacking](17-mindware-hacking.md)), or a PAN’s controller node, you will have privileged access to a morph’s ware — not to mention hacking the ware directly. A hacker can use this to (de)activate the ware, modify its functioning parameters, access diagnostics and usage logs, or install [scripts](06-mesh-actions.md#scripting) to manipulate this ware in the future, among other creative uses.
 
 ## Disable Safety Mechanisms
 
